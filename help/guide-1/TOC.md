@@ -1,10 +1,16 @@
 ---
-user-guide-title: Template title
-breadcrumb-title: Shorter title (if necessary) that appears only in the breadcrumb.
-user-guide-description: This is a description for the user guide that will be displayed on the landing page.
+type: Documentation
+role: User, Admin 
+cloud: Experience Cloud
+solution: Advertising Cloud
+product: advertising cloud
+user-guide-title: Advertising DSP Guide
+user-guide-description: Learn about the major features, tasks, settings, and other resources required to manage, optimize, and report on your display ad strategies using Advertising DSP.
+breadcrumb-title: DSP Guide
+index: yes
 ---
 
-# Placeholder title {#using}
+# Advertising DSP Guide {#dsp}
 
 + [Overview](overview.md)
 
