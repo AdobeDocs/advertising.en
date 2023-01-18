@@ -1,0 +1,29 @@
+---
+title: View Details About a Reusable Audience
+description: Learn how to view the configuration and audience size for a reusable audience.
+feature: DSP Audiences
+exl-id: 54e25dcf-cbad-4be2-8d72-b1bb666b82b2
+---
+# View Details About a Reusable Audience
+
+1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL All audiences]**.
+
+1. Hold the cursor over the audience row and click **[!UICONTROL View Details]**.
+
+1. (Optional) To see the number of active or total audience members by device type, click ![Device breakdown](/help/dsp/assets/device-breakdown.png) next to the **[!UICONTROL Active]** or **[!UICONTROL Total]** audience size.
+
+1. (Optional) To edit the audience settings, click **[!UICONTROL Edit Audience]** and [edit the audience name and configuration](reusable-audience-edit.md).
+
+>[!MORELIKETHIS]
+>
+>* [About Audience Management](audience-about.md)
+>* [Create a Reusable Audience](reusable-audience-create.md)
+>* [Duplicate a Reusable Audience](reusable-audience-duplicate.md)
+>* [Edit a Reusable Audience](reusable-audience-edit.md)
+>* [Share a Reusable Audience](reusable-audience-share.md)
+>* [Export a Reusable Audience](reusable-audience-export.md)
+>* [Copy the Segment Key for a Reusable Audience to the Clipboard](reusable-audience-clipboard.md)
+>* [Delete a Reusable Audience](reusable-audience-delete.md)
+>* [Audience Settings](audience-settings.md)
+>* [Syntax for Audience Segment Logic](audience-segment-logic-syntax.md)
+>* [Available Third-party Data Providers](third-party-data-providers.md)
