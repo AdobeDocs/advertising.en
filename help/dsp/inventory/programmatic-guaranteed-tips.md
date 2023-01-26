@@ -2,7 +2,7 @@
 title: Tips for Negotiating a Programmatic Guaranteed Deal
 description: Learn tips for negotiating a programmatic guaranteed (PG) deal and lists of the buyer and publisher responsibilities.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: b754f993-b52f-4527-a246-bf232038c7cd
+exl-id: 41a2a307-5cb2-4b41-bb3b-edee1e15c5fa
 ---
 # Tips for Negotiating a Programmatic Guaranteed Deal
 

@@ -2,7 +2,7 @@
 title: Share a Reusable Audience
 description: Learn how to share a reusable audience with other advertisers available to your account.
 feature: DSP Audiences
-exl-id: 8a5d432b-42d7-4b3b-845f-32a70dd5d1b7
+exl-id: c0369efe-464d-43d1-9b21-1113a38fc9bb
 ---
 # Share a Reusable Audience
 
@@ -10,11 +10,11 @@ If you're not already sharing an audience with the advertisers available to your
 
 Once you share an audience, you can't stop sharing it.
 
-1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
+1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL All audiences]**.
 
 1. Hold the cursor over the audience row and click **[!UICONTROL Share]**.
 
-1. Select the option to **[!UICONTROL Share with all advertisers in my account]**.
+1. Select the option to **[!UICONTROL Share with all advertisers in my account ]**.
 
 1. Click **[!UICONTROL Save]**.
 

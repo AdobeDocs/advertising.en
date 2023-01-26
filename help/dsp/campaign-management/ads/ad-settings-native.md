@@ -2,7 +2,7 @@
 title: Native Display Ad Settings
 description: See descriptions of the available ad settings for native display ads.
 feature: DSP Ads
-exl-id: 3ae59e63-ae64-41b2-8734-3df2da020c7c
+exl-id: 64ce1946-072d-4ca9-b3a8-348987580403
 ---
 # Native Display Ad Settings
 

@@ -2,7 +2,7 @@
 title: Archive or Unarchive a Package
 description: Learn how to archive or unarchive a package.
 feature: DSP Packages
-exl-id: a8840f9e-e0ee-481d-80c2-66b56fc1882f
+exl-id: 12d1b498-2239-401a-8571-9210956e32b2
 ---
 # Archive or Unarchive a Package
 

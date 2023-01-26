@@ -2,7 +2,7 @@
 title: Overview of [!DNL Analytics for Advertising]
 description: Overview of [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
-exl-id: 31367c8b-3410-4110-9ae6-11defe625355
+exl-id: 94558478-ffa6-4b83-bc79-c7589fe0f14c
 ---
 # Overview of [!DNL Analytics for Advertising]
 
@@ -28,7 +28,7 @@ Primary benefits:
 
 >[!TIP]
 >
-> Watch a [video introduction to [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html?lang=en#analytics).
+> Watch a [video introduction to [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/intro-a4adc.html?lang=en#analytics).
 
 ## Using Analytics for Paid Media Reporting
 
@@ -52,15 +52,15 @@ Adobe Advertising dimensions are appended with the suffix "(AMO ID)" (such as "A
 Without requiring any additional pixels, [!DNL Analytics for Advertising] enables better optimization and easier audience segmentation by sending two main signals to Adobe Advertising:
 
 * Conversion metrics to be used as bid signals:
-  * standard metrics, such as [!UICONTROL Revenue] and [!UICONTROL Cart Views].
-  * site engagement metrics, such as page view and visit metrics.
-  * custom revenue metrics.
-  * reserved revenue metrics.
+    * standard metrics, such as [!UICONTROL Revenue] and [!UICONTROL Cart Views].
+    * site engagement metrics, such as page view and visit metrics.
+    * custom revenue metrics.
+    * reserved revenue metrics.
 * Segments created in [!DNL Analytics] and published to Experience Cloud.
-
-  You can use [!DNL Analytics] segments for first-party site retargeting in [!DNL DSP] and paid search advertisements.
-
-  ([!DNL Search] only) Advertisers with [!DNL Analytics] but not Audience Manager can also create Google website tag-based audiences (remarketing lists) and customer match audiences (customer lists) from [!DNL Analytics] segments that are shared with Experience Cloud.
+     
+     You can use [!DNL Analytics] segments for first-party site retargeting in [!DNL DSP] and paid search advertisements.
+     
+     ([!DNL Search] only) Advertisers with [!DNL Analytics] but not Audience Manager can also create Google website tag-based audiences (remarketing lists) and customer match audiences (customer lists) from [!DNL Analytics] segments that are shared with Experience Cloud.
 
 ### Site Conversion Metrics as Bid Signals
 
@@ -88,19 +88,19 @@ For more information about the Experience Cloud Audiences service, see [Experien
 
 ### Using Adobe Advertising Data in Analysis Workspace
 
- To learn how you can use your Adobe Advertising data to create visual reports in Analysis Workspace, see the video "[Introduction to Workspace and Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html)."
+ To learn how you can use your Adobe Advertising data to create visual reports in Analysis Workspace, see the video "[Introduction to Workspace and Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html)."
 
 ### Creating Adobe Advertising Dashboards
 
-To learn how you can track your Adobe Advertising data against your goals in Analysis Workspace, see the video "[Create Adobe Advertising Dashboards with Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-dashboards-a4adc.html)."
+To learn how you can track your Adobe Advertising data against your goals in Analysis Workspace, see the video "[Create Adobe Advertising Dashboards with Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-dashboards-a4adc.html)."
 
 ### Using the Adobe Advertising ID for Site Entry Analysis
 
-To see how you can create an Adobe Advertising site entry report to monitor day-of-week, time-of-day, browser, and geographical influences, see the video "[Create Adobe Advertising Site Entry Reports](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-site-entry-a4adc.html)."
+To see how you can create an Adobe Advertising site entry report to monitor day-of-week, time-of-day, browser, and geographical influences, see the video "[Create Adobe Advertising Site Entry Reports](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-site-entry-a4adc.html)."
 
 >[!MORELIKETHIS]
 >
->* [Video: Introduction to [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html)
+>* [Video: Introduction to [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/intro-a4adc.html)
 >* [Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising]](prerequisites.md)
 >* [Adobe Advertising IDs Used by Analytics](ids.md)
 >* [JavaScript Code for Analytics for Advertising](/help/integrations/analytics/javascript.md)

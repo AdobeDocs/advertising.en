@@ -2,7 +2,7 @@
 title: About Adobe Advertising DSP
 description: About Adobe Advertising DSP
 feature: DSP Introduction
-exl-id: def006b2-eb51-4942-b277-a2e673bccc7f
+exl-id: 2a5df455-673b-483f-91a6-4fc5678b7f8a
 ---
 # About Adobe Advertising DSP
 
@@ -22,5 +22,5 @@ Adobe Advertising DSP (DSP) elevates advertisers’ media strategies through adv
 
 >[!MORELIKETHIS]
 >
->* [Video: Introduction to Advertising DSP](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html)
->* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
+>* [Video: Introduction to Advertising DSP](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/intro.html)
+>* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)

@@ -2,7 +2,7 @@
 title: Duplicate a Campaign
 description: Learn how to duplicate a campaign.
 feature: DSP Campaigns
-exl-id: 2bb4030d-22b0-4a16-aeed-35f64a19df6a
+exl-id: 4e42bd5b-e8a9-45be-af5c-367c48d0b131
 ---
 # Duplicate a Campaign
 

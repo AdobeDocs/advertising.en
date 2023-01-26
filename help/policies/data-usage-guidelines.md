@@ -2,7 +2,7 @@
 title: Adobe Advertising DSP Data Usage Guidelines
 description: See the guidelines for data usage.
 feature: Policies
-exl-id: 6b646988-4a53-4092-8bc6-bcd350ee4096
+exl-id: b71caa80-d1f6-4f42-90c3-a3e19acb2c6c
 ---
 # Adobe Advertising DSP Data Usage Guidelines
 

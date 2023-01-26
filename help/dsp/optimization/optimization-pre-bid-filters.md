@@ -2,7 +2,7 @@
 title: Placement-level Pre-Bid Filters and How to Use Them
 description: Reference the available placement-level pre-bid filters and see how to use them.
 feature: DSP Optimization
-exl-id: c699e970-84ca-429b-8062-81804e6c9f21
+exl-id: 34a15666-7ca2-416d-9064-8638ca81e5b3
 ---
 # Placement-level Pre-Bid Filters and How to Use Them
 

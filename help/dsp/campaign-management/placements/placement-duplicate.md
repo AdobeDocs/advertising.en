@@ -2,7 +2,7 @@
 title: Duplicate Placements
 description: Learn how to duplicate one or more placements.
 feature: DSP Placements
-exl-id: d22a61a8-4f1b-41ee-b4fb-3124bec81a2f
+exl-id: 41021f5b-13d1-419f-af03-c5507f9fed4d
 ---
 # Duplicate Placements
 
@@ -38,9 +38,9 @@ See "[What's Not Duplicated](#placement-not-duplicated)" for a list of placement
     1. (Single placements) Enter the new placement name.
 
     1. In the **[!UICONTROL Choose Package (Required)]** menu, select either the parent package or **[!UICONTROL No package]*.
-
+    
     1. (Optional) Change the default settings.
-
+    
     The settings apply to all selected placements.
 
     By default, the new placements are for the original ad type, are assigned to the original advertisers and campaigns, have flight schedules that begin on the current day, are paused, and don't include the original ads.
@@ -62,7 +62,7 @@ All settings from the original placements are duplicated except:
     * Event pixels
     * Ads
     * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segments (which override the advertiser-level segments)
-
+    
 >[!MORELIKETHIS]
 >
 >* [About Placement Management](placement-about.md)

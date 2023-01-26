@@ -2,7 +2,7 @@
 title: Re-Request [!DNL On Demand] Premium Inventory Deals
 description: Learn how to re-request [!DNL On Demand] deals that were previously denied.
 feature: DSP On Demand Inventory
-exl-id: db5a5708-16e3-4304-8bd0-f1aa8ecd0e3c
+exl-id: 8b28ca37-5fe8-445e-8210-1b81945bbacc
 ---
 # Re-Request [!DNL On Demand] Premium Inventory Deals
 
@@ -23,7 +23,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
     1. Hold the cursor over the advertiser row and click **[!UICONTROL Edit]**.
 
     1. Check the selected Category.
-
+    
        Advertisers categorized as "[!UICONTROL Other]" aren't eligible for [!UICONTROL On Demand] inventory. If the category is "[!UICONTROL Other]" and it should be something else, select the appropriate category<!-- [category](/help/dsp/admin/advertiser-settings.md) -->.
 
 1. Re-request the inventory:

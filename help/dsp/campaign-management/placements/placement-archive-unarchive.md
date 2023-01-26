@@ -2,7 +2,7 @@
 title: Archive or Unarchive a Placement
 description: Learn how to archive or unarchive a placement.
 feature: DSP Placements
-exl-id: 3d342f83-1bcb-4f80-b31a-2009bcdde565
+exl-id: 4304452d-4573-46b3-892e-299950a75d4f
 ---
 # Archive or Unarchive a Placement
 

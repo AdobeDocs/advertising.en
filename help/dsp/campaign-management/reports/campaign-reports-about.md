@@ -2,7 +2,7 @@
 title: About In-Platform Reports
 description: Learn about the report data included in the campaign management views.
 feature: DSP Campaign Data Views
-exl-id: e9f7dafe-e0db-4fec-bf5b-858cbcfdde45
+exl-id: 7af97704-2053-4862-a851-12db009e6776
 ---
 # About In-Platform Reports
 

@@ -2,7 +2,7 @@
 title: About the [!UICONTROL Deal ID Inbox]
 description: Learn about the [!UICONTROL Deal ID inbox] feature, which allows you to accept private deals you've already negotiated with publishers on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 959ad1d4-4671-4967-9f73-ec5b0464d0cd
+exl-id: a1ba7de0-d6b4-4e22-8615-3e62d2ffdf5c
 ---
 # About the [!UICONTROL Deal ID Inbox]
 
@@ -18,7 +18,7 @@ In the [!UICONTROL Deal ID inbox], you can see the details of the deal as your p
 Accepting a deal automatically pre-populates a new Deal ID record with details from the publisher, and you need to enter only the publisher [always? or just in some cases?], the media type, who can access the deal, and any attribute labels to apply to the deal so it's easy to find. [Are labels a dimension you can report on?]
 
 For each available deal, you can review the deal details sent directly from the publisher. Some deals are grouped as proposals (packages), and you can see the individual deal details by reviewing the deal.
-
+   
 You can accept any available deal or move an incorrect deal to the Ignored Deals tab. You can also un-ignore deals, which moves them back to the New Deals tab so you can potentially accept them.
 
 For each deal, you can select one publisher and one media type (Desktop Video, Mobile Video, Connected TV, Display, or Audio), and you can share the deal with specific advertisers and with all advertisers for a specific account.

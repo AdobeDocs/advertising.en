@@ -2,7 +2,7 @@
 title: Use Cases
 description: Learn about use cases for sharing your Advertising DSP media data with Audience Manager
 feature: Integration with Adobe Audience Manager
-exl-id: 21d80cf6-f817-495a-bae4-fc9e44f1eda4
+exl-id: 1d961799-b8be-499a-8db6-b59762d96bf1
 ---
 # Use Cases for Capturing Media Exposure Data in Adobe Audience Manager
 
@@ -26,25 +26,19 @@ To execute this example in Audience Manager, you would follow these steps:<!-- T
 
 1. Create a trait to capture users who saw the creative.
 
-   For example, to name the trait `Creative Trait 123`, use the following trait rule:
+     For example, to name the trait `Creative Trait 123`, use the following trait rule:
 
-   ```
-   d_creative == 123 AND d_event == imp
-   ```
+     `d_creative == 123 AND d_event == imp`
 
 1. Create a trait to capture users who click or convert.
 
-   For example, to name this trait `Click and Converter`, use the following trait rule:
+     For example, to name this trait `Click and Converter`, use the following trait rule:
 
-   ```
-   d_event == click OR d_event=conv
-   ```
+     `d_event == click OR d_event=conv`
 
 1. Create a segment called `Retarget Users` to populate with users who saw creative `123` but didn’t click or convert. Use the following trait rule:
 
-   ```
-   Creative Trait 123 AND NOT Click and Converter
-   ```
+     `Creative Trait 123 AND NOT Click and Converter`
 
 1. Map the segment `Retarget Users` to a destination, and target users in the destination with creative `456`.
 

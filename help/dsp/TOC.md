@@ -7,6 +7,7 @@ product: advertising cloud
 user-guide-title: Advertising DSP Guide
 user-guide-description: Learn about the major features, tasks, settings, and other resources required to manage, optimize, and report on your display ad strategies using Advertising DSP.
 breadcrumb-title: DSP Guide
+index: yes
 ---
 
 # Advertising DSP Guide {#dsp}
@@ -28,15 +29,8 @@ breadcrumb-title: DSP Guide
     + [Cross-Device Solutions](/help/dsp/introduction/features/cross-device-solutions.md)
   + [Account Funding](/help/dsp/introduction/billing/account-funding.md)
   + [Currencies Supported](/help/dsp/currency.md)
-  + Support for Consumer Privacy {#privacy}
-    + [Support for the General Data Protection Regulation](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/gdpr.html)
-    + Support for CCPA {#ccpa}
-      + [Support for the California Consumer Privacy Act: Consumer Data Access and Delete](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-access-delete.html)
-      + [Support for the California Consumer Privacy Act: Consumer Opt-Out-of-Sale](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa/ccpa-opt-out-of-sale.html)
-  + Policies and Guidelines {#policies}
-    + [Ads Requirements Policy](https://experienceleague.adobe.com/docs/advertising-cloud/policies/ad-requirements-policy.html)
-    + [Acceptable Health Segment Guidelines](https://experienceleague.adobe.com/docs/advertising-cloud/policies/health-segment-guidelines.html)
-    + [[!DNL DSP] Data Usage Guidelines](https://experienceleague.adobe.com/docs/advertising-cloud/policies/data-usage-guidelines.html)
+  + [Support for Consumer Privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+  + [Policies and Guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
   + [Advanced Measurement Solutions](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
   + [Overview of Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -79,7 +73,7 @@ breadcrumb-title: DSP Guide
     + [Create Ads with [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
-    + [Attach an Ad to a Placement](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+    + [Attach an Ad to a Placement](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
     + [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
     + [View a Detailed Report for an Ad](/help/dsp/campaign-management/ads/ad-view-report.md)
     + [Archive or Unarchive an Ad](/help/dsp/campaign-management/ads/ad-archive-unarchive.md)
@@ -224,6 +218,6 @@ breadcrumb-title: DSP Guide
   + Notifications {#notifications}
     + [About Alert Subscriptions](/help/dsp/admin/alerts-about.md)
     + [Manage Alert Subscriptions](/help/dsp/admin/alerts-manage.md)
-+ [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/home.html)<!-- Dupe link to this file, so need to use an absolute link in one of the listings -->
++ [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + [Customer Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 + [Adobe Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

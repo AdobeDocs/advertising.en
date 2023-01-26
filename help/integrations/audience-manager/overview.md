@@ -2,7 +2,7 @@
 title: Adobe Advertising Integrations with Adobe Audience Manager
 description: Learn about the different ways in which Adobe Advertising can exchange data with Adobe Audience Manager.
 feature: Integration with Adobe Audience Manager
-exl-id: 0f88235b-6f9c-4b97-9517-22e8c47e1846
+exl-id: 5b0ecb82-fb5c-48c5-a599-15b548f59461
 ---
 # Adobe Advertising Integrations with Adobe Audience Manager
 

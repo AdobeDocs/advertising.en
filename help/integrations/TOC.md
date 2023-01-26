@@ -2,6 +2,7 @@
 user-guide-title: Integrations with Adobe Experience Cloud
 user-guide-description: Learn about Advertising DSP and Advertising Search integrations with other Adobe Experience Cloud products and services.
 breadcrumb-title: Integrations with Experience Cloud
+index: yes
 ---
 
 # Adobe Advertising Integrations with Adobe Experience Cloud {#integrations}
@@ -18,7 +19,7 @@ breadcrumb-title: Integrations with Experience Cloud
         + [Using the [!DNL Last Event Service] JavaScript Library with Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md)
         + Macros for Ad Tags {#macros}
           + [Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)
-          + [Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)
+          + [Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)          
     + Data Exchanged {#data}
         + [Adobe Advertising Metrics in Analysis Workspace](/help/integrations/analytics/advertising-metrics-in-analytics.md)
         + [[!DNL Analytics] Data in Adobe Advertising](/help/integrations/analytics/analytics-data-in-advertising.md)
@@ -37,4 +38,4 @@ breadcrumb-title: Integrations with Experience Cloud
         + [Use Cases](/help/integrations/audience-manager/media-data-integration/use-cases.md)
     + [Adobe Audience Analytics for Advertising Customers](/help/integrations/audience-manager/audience-analytics.md)
 + [Configure A/B Tests in Adobe Target for DSP Ads](/help/integrations/target/overview-ab-tests.md)
-+ [Videos Tutorials About Adobe Advertising Integrations](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
++ [Videos Tutorials About Adobe Advertising Integrations](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->

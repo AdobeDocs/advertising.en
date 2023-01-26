@@ -2,7 +2,7 @@
 title: Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer Data Access and Delete Support
 description: Learn about the supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields.
 feature: CCPA
-exl-id: 1330da6c-a944-4bb5-8539-488d97f56175
+exl-id: e7808411-7dc3-499c-bda1-1f5882f651b2
 ---
 # Adobe Advertising Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support
 
@@ -20,7 +20,7 @@ As your service provider, Adobe Advertising provides support for your business t
 
 This document describes how [!DNL Advertising Search]; Advertising Creative; Advertising DSP (Demand Side Platform); and [!DNL Advertising DCO] &mdash; as service providers &mdash; support consumers' rights to access and delete personal information using the Adobe [!DNL Experience Platform Privacy Service API] and [!DNL Privacy Service UI].
 
-For information about how Advertising DSP supports the consumer right to opt-out of the sale of personal information, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa-opt-out-of-sale.md).
+For information about how Advertising DSP supports the consumer right to opt-out of the sale of personal information, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 

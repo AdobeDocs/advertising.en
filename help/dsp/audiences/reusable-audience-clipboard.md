@@ -2,7 +2,7 @@
 title: Copy the Segment Key for a Reusable Audience to the Clipboard
 description: Learn how to view the configuration and audience size for a reusable audience.
 feature: DSP Audiences
-exl-id: 039779aa-8fa4-48b4-8fe6-2d5517dd0603
+exl-id: 1e1f45fe-d7f9-4c26-a557-c3d00f74edb8
 ---
 # Copy the Segment Key for a Reusable Audience to the Clipboard
 

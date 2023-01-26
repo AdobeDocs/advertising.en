@@ -2,7 +2,7 @@
 title: Change the Column View
 description: Learn how to change the data view.
 feature: DSP Campaign Data Views
-exl-id: e7a95ed3-82f5-4c5c-937b-3cc48f9a3470
+exl-id: 4fd0c05a-3086-4098-8246-c545f8b4d063
 ---
 # Change the Column View
 

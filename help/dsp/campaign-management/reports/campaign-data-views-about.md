@@ -2,7 +2,7 @@
 title: About the Campaign Data Views
 description: Learn how you can customize the data views for campaigns, packages, placements, and ads.
 feature: DSP Campaign Data Views
-exl-id: acc312b9-2de4-4e2f-9b59-b91f23d82357
+exl-id: 125f8f49-2fa3-4838-82dc-4760d2ea9c7e
 ---
 # About the Campaign Data Views
 
@@ -40,4 +40,4 @@ In all campaign management views ([!UICONTROL Campaigns], [!UICONTROL Packages],
 >* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
 >* [View the Placement Diagnostic Reports](placement-diagnostics.md)
 >* [Export Data from a Campaign Management View](campaign-export-data.md)
->* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
+>* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)

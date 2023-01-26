@@ -2,7 +2,7 @@
 title: Edit a Custom Report
 description: Learn how to edit custom report settings.
 feature: DSP Custom Reports
-exl-id: 7d7fedb2-221a-4862-8bed-86d79428df00
+exl-id: 42208276-d766-41c8-a764-c79a20e302e6
 ---
 # Edit a Custom Report
 

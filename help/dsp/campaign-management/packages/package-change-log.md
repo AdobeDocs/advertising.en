@@ -2,7 +2,7 @@
 title: View a Package Change Log
 description: Learn how to view changes made to the package.
 feature: DSP Packages
-exl-id: 1d611c20-7857-41db-adf4-743dab44341e
+exl-id: dd33519b-19cf-4b6f-b6d2-ec0874e27075
 ---
 # View the Change Log for a Package
 

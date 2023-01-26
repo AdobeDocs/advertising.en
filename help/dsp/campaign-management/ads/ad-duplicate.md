@@ -2,7 +2,7 @@
 title: Duplicate an Ad
 description: Learn how to duplicate an ad.
 feature: DSP Ads
-exl-id: 65c29be7-ca88-4608-bde2-5f1267d095ef
+exl-id: 030ce258-750c-4c5f-ae89-32dfb2864189
 ---
 # Duplicate an Ad
 

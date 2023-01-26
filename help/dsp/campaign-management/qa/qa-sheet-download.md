@@ -2,7 +2,7 @@
 title: Download Placement Settings for a Campaign
 description: Learn how to download the placement settings for a campaign using Excel QA spreadsheets.
 feature: DSP Placements
-exl-id: c3b0cbf2-7095-4608-977a-9a5dd0bbd585
+exl-id: dd65eec8-9616-4eca-b6b9-b904b3e65141
 ---
 # Download Placement Settings for a Campaign
 
@@ -14,9 +14,9 @@ If necessary, you can later edit [select fields](qa-sheet-columns.md) in the dow
 
 1. Do either of the following:
 
-   * Next to the campaign name, click **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
-
-   * Click the campaign name to view the campaign details. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
+   * Next to the campaign name, click **[!UICONTROL ...] > [!UICONTROL Download Excel QA sheet]**.
+   
+   * Click the campaign name to view the campaign details. In the upper right, click **[!UICONTROL ...] > [!UICONTROL Download Excel QA sheet]**.
 
     A notification message indicates when the file is available to download.
 

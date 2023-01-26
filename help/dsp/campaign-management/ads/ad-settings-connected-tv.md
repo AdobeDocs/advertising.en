@@ -2,7 +2,7 @@
 title: Connected TV Ad Settings
 description: See descriptions of the available ad settings for connected TV ads.
 feature: DSP Ads
-exl-id: 4daae9e4-27eb-4496-9186-f33aebd8daae
+exl-id: d8e47f7e-7480-400f-8ffa-ecf41ce2ebfb
 ---
 # Connected TV Ad Settings
 

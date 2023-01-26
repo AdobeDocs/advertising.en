@@ -2,7 +2,7 @@
 title: Syntax for Audience Segment Logic
 description: Reference the syntax you can use to define the logic for audience segments.
 feature: DSP Audiences
-exl-id: 3a51b1b5-1eef-453b-9be5-0694e27491a8
+exl-id: fb73f35f-1f65-463b-b93c-90804a8d19a9
 ---
 # Syntax for Audience Segment Logic
 

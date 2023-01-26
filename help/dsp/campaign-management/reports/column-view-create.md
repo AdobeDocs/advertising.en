@@ -2,7 +2,7 @@
 title: Create a Custom Column View
 description: Learn how to create a custom column view.
 feature: DSP Campaign Data Views
-exl-id: f39e6ce9-aa4e-4049-af16-eddb0ba30087
+exl-id: 1b0f5b15-3cbd-408a-8b06-0b5fefcfa0ca
 ---
 # Create a Custom Column View
 
@@ -19,7 +19,7 @@ exl-id: f39e6ce9-aa4e-4049-af16-eddb0ba30087
 1. Apply or save the settings:
 
     * To apply the settings temporarily without saving them to the view, click **[!UICONTROL Apply].**
-
+    
     * To save the settings to a new, custom column view, click **[!UICONTROL Save As]**. In the [!UICONTROL Save View] window, enter the name of the new view, and then click **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]

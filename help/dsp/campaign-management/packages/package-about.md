@@ -2,7 +2,7 @@
 title: About Package Management in Advertising DSP
 description: Learn about package management.
 feature: DSP Packages
-exl-id: 06d77698-62ae-466b-8cf7-c9148907ba6d
+exl-id: 26985635-c03a-471e-8372-fd33e89a30e9
 ---
 # About Package Management in Advertising DSP
 

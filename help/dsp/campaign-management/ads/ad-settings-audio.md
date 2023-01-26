@@ -2,7 +2,7 @@
 title: Audio Ad Settings
 description: See descriptions of the available ad settings for audio ads.
 feature: DSP Ads
-exl-id: 746b6f40-ff59-4bbe-bfc0-3579d4461e4a
+exl-id: 2fa1143b-6e83-4729-91cd-7a5da357509e
 ---
 # Audio Ad Settings
 

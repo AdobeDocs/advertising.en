@@ -2,7 +2,7 @@
 title: Edit the Ad Schedule for a Placement
 description: Learn how to change the ad schedules for the ads attached to a placement.
 feature: DSP Placements
-exl-id: 880522d3-efcd-4ff9-8cef-bf6be626869c
+exl-id: 4c981d57-032f-4cde-858a-e9ac2bf2e6f2
 ---
 # Edit the Ad Schedule for a Placement
 
@@ -31,7 +31,7 @@ You can change the scheduled flight dates and ad rotation for the ads attached t
             The total weights must equal 100.
 
     1. In the upper right, click **[!UICONTROL Continue]**.
-
+    
     1. Review the flight details, and then click **[!UICONTROL Save & Finish]**.
 
 >[!MORELIKETHIS]

@@ -2,7 +2,7 @@
 title: Create a Package
 description: Learn how to create a package.
 feature: DSP Packages
-exl-id: 009b65b4-0686-46ca-9f47-01ad4c6a4683
+exl-id: 528c57f2-fa83-44d7-9ce4-509ca7565135
 ---
 # Create a Package
 
@@ -25,4 +25,4 @@ Once you create a package, you can assign placements to it.
 >* [Attach a Placement to a Package](package-attach-placement.md)
 >* [View the Change Log for a Package](package-change-log.md)
 >* [Package Settings](package-settings.md)
->* [Video: How to Create a Package](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/package-create.html)
+>* [Video: How to Create a Package](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/package-create.html)

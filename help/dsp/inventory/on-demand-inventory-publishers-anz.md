@@ -1,8 +1,8 @@
 ---
-title: "[!DNL On Demand] Premium Inventory Publishers in Australia and New Zealand"
+title: '[!DNL On Demand] Premium Inventory Publishers in Australia and New Zealand'
 description: See the available [!DNL On Demand] premium inventory publishers in Australia and New Zealand.
 feature: DSP On Demand Inventory
-exl-id: e46ec570-38a7-4ea6-8c4c-d173971c48b7
+exl-id: 9c494ad0-eb35-464e-b154-3f56c02968f1
 ---
 # [!DNL On Demand] Premium Inventory Publishers in Australia and New Zealand{#on-demand-inventory-publishers-anz}
 

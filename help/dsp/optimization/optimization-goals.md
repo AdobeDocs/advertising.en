@@ -2,7 +2,7 @@
 title: Optimization Goals and How to Use Them
 description: Reference the available optimization goals and see when to use them.
 feature: DSP Optimization
-exl-id: 9bca09b5-9aa7-4009-a576-9b30cfddfd55
+exl-id: ad684c99-7ae5-48eb-abfe-d48fd3d34cd0
 ---
 # Optimization Goals and How to Use Them
 

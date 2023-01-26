@@ -2,7 +2,7 @@
 title: Edit a Placement
 description: Learn how to edit a placement.
 feature: DSP Placements
-exl-id: 135adad3-0bc0-4402-ac4a-a4fc71f78edf
+exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
 ---
 # Edit a Placement
 
@@ -49,7 +49,7 @@ Use this option only when you want to apply the same changes to all selected pla
    1. Select the **[!UICONTROL Edit Mode]**.
 
       The options vary by setting but may include:
-
+      
       * **Add** (to attach ads)
 
       * **Append** (to keep the existing values and add new values)
@@ -82,4 +82,4 @@ Use this option only when you want to apply the same changes to all selected pla
 >* [Placement Settings](placement-settings.md)
 >* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [About Correcting Placement Settings for a Campaign Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
->* [Video: How to Edit Placements Using Bulk Edit Tools](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
+>* [Video: How to Edit Placements Using Bulk Edit Tools](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)

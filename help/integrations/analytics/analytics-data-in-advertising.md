@@ -1,8 +1,8 @@
 ---
-title: "[!DNL Analytics] Data in  Adobe Advertising"
-description: "[!DNL Analytics] Data in Adobe Advertising"
+title: '[!DNL Analytics] Data in  Adobe Advertising'
+description: '[!DNL Analytics] Data in Adobe Advertising'
 feature: Integration with Adobe Analytics
-exl-id: 79fbc809-9965-41c1-971f-3652cc78fee3
+exl-id: e11b0617-44e3-4f28-a065-aa9f6cf3eb5d
 ---
 # [!DNL Analytics] Data in Adobe Advertising
 

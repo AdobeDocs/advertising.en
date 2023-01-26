@@ -2,7 +2,7 @@
 title: Quickly Edit Key Placement Settings
 description: Learn how to quickly change key placement settings.
 feature: DSP Placements
-exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9
+exl-id: b5f83573-112a-4fa1-9f7f-f0fea8e3d079
 ---
 # Quickly Edit Key Placement Settings
 
@@ -31,4 +31,4 @@ You can edit the placement name, status, maximum bid, and budget without opening
 >* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
->* [Video: How to Edit Placements Using Bulk Edit Tools](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
+>* [Video: How to Edit Placements Using Bulk Edit Tools](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)

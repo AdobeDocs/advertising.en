@@ -2,7 +2,7 @@
 title: Ad Specifications
 description: Reference general and publisher-specific ad specifications.
 feature: DSP Ads
-exl-id: 905dfd9b-e7a3-4eb6-988f-b49d4b282dd2
+exl-id: 133dfc0d-d839-4e06-a819-21e3e630830c
 ---
 # Specifications for Supported Ad Types
 
@@ -57,7 +57,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 * **HBO Max:** See HBO Max's [ad specifications](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
 * **NBCUniversal:**
-
+ 
   * [Digital Video](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
 
   * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
@@ -151,7 +151,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
   * File type: JPEG, JPG, PNG, GIF, SWF, HTML
   * Maximum file size: 2.2 MB
   * Dimensions: 300x250
-
+  
 * **[!DNL Pandora]:**
   * File type: JPEG, GIF
   * Maximum file size: Size: 100 KB
@@ -171,7 +171,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
   * File type: JPEG, JPG, PNG, GIF, HTML
   * Maximum file size: 2 MB
   * Dimensions: 300x250
-
+ 
 ## Native Display Ads
 
 Each ad can include either a still image or a moving GIF (cinemagraph).

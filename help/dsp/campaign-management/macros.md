@@ -2,7 +2,7 @@
 title: Advertising DSP Macros
 description: Reference the available macros for general tracking and to track clicks on third-party display ads.
 feature: DSP Ads
-exl-id: e31cc2e5-ad1f-4555-a87b-0e4c3731fe5f
+exl-id: 7058c988-c544-4a61-84dd-eec4ce88ceba
 ---
 # Advertising DSP Macros
 

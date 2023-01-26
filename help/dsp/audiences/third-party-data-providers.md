@@ -2,7 +2,7 @@
 title: Available Third-party Data Providers in Advertising DSP
 description: See a list of all available third-party data providers.
 feature: DSP Audiences
-exl-id: f67d81a0-bd31-48d8-9bcf-1888afd43894
+exl-id: 081d1513-b105-4d32-a98c-145c7122cb89
 ---
 <!-- feature: audiences -->
 

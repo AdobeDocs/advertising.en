@@ -2,7 +2,7 @@
 title: Troubleshooting Performance
 description: Reference common performance issues and see how to troubleshoot them.
 feature: DSP Optimization
-exl-id: adb32257-dede-4623-9840-33221c218443
+exl-id: b87f8556-1908-40c1-9f98-fbdc6d9b59b1
 ---
 # Troubleshooting Performance
 

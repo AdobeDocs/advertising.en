@@ -2,7 +2,7 @@
 title: About [!UICONTROL Report Destinations]
 description: Learn about managing delivery locations for your custom reports.
 feature: DSP Custom Reports
-exl-id: 1b0fd016-3198-4d95-ad4e-2cd9832ce934
+exl-id: f1cc7a0d-13cb-4a27-816b-897f373984a6
 ---
 # About [!UICONTROL Report Destinations]
 

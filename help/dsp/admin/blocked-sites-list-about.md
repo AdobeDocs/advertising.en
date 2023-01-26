@@ -1,7 +1,7 @@
 ---
 title: About Account-Level and Advertiser-Level Blocked Sites Lists
 description: Learn more about the blocked sites list for an account or advertiser.
-exl-id: 1216d671-0cce-4401-a71e-948279a03845
+exl-id: e147159b-54f2-492b-8dbc-054b97897fa6
 ---
 # About Account-Level and Advertiser-Level Blocked Sites Lists
 

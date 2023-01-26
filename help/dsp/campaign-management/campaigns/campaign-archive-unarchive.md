@@ -2,7 +2,7 @@
 title: Archive or Unarchive a Campaign
 description: Learn how to archive or unarchive a campaign.
 feature: DSP Campaigns
-exl-id: 9a6822c5-9d93-490a-9a2e-37afb1591028
+exl-id: 3b1fac7b-1c3e-417e-b6f6-142aa48b1135
 ---
 # Archive or Unarchive a Campaign
 

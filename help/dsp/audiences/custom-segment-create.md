@@ -2,7 +2,7 @@
 title: Create and Implement a Custom Segment
 description: Learn how to create and implement a custom segment to track users exposed to ads or users who visit your webpages.
 feature: DSP Segments
-exl-id: 691903e2-773e-4205-837e-822f435f57a7
+exl-id: 3190fd78-18d2-4da3-920b-d4171e693c03
 ---
 # Create and Implement a Custom Segment
 

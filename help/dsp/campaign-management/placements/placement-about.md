@@ -2,7 +2,7 @@
 title: About Placement Management in Advertising DSP
 description: Learn about placement management.
 feature: DSP Placements
-exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
+exl-id: 903ba200-6bb3-4c31-b7a9-03ada3de5451
 ---
 # About Placement Management in Advertising DSP
 
@@ -43,4 +43,4 @@ For each placement, you can open a detailed view ([the [!UICONTROL Inspector]](/
 >* [Create a Placement](placement-create.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
->* [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
+>*[Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)

@@ -2,7 +2,7 @@
 title: Share or Stop Sharing a Segment
 description: Learn how to share or stop sharing a custom or CCPA opt-out of sale segment with other DSP user accounts.
 feature: DSP Segments
-exl-id: 3a284c81-73ee-4efd-9532-5ae00a000dd9
+exl-id: ea5cafb3-58b0-4b05-9b02-c022466d9b8c
 ---
 # Share or Stop Sharing a Segment
 
@@ -17,9 +17,9 @@ You can also stop sharing a segment with other DSP user accounts.
 1. Do either of the following:
 
     * To share the segment:
-
+    
       1. Enter the **[!UICONTROL E-mail Address]** for the DSP user, and then click **[!UICONTROL +]**.
-
+      
       1. (Optional) For each additional user, enter another **[!UICONTROL E-mail Address]** and then click **[!UICONTROL +]**.
 
     * To stop sharing the segment with a user, click **[!UICONTROL Unshare]** next to the email address.

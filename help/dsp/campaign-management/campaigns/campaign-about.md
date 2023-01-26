@@ -2,7 +2,7 @@
 title: About Campaign Management in Advertising DSP
 description: Learn about campaign management.
 feature: DSP Campaigns
-exl-id: f9f3aba2-995c-45df-8e65-52999f9cc539
+exl-id: 8ba1d94d-4cb2-4ed8-a527-b6097ec07380
 ---
 # About Campaign Management in Advertising DSP
 
@@ -29,4 +29,4 @@ To see all of the packages, placements, and ads within a campaign, click the cam
 >
 >* [Create a Campaign](campaign-create.md)
 >* [Campaign Settings](campaign-settings.md)
->* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/ui.html)
+>* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)

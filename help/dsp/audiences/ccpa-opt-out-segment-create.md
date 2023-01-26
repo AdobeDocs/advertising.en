@@ -2,7 +2,7 @@
 title: Create and Implement a CCPA Opt-out-of-Sale Segment
 description: Learn how to create and implement a segment to track users IDs from consumer opt-out-of-sale requests.
 feature: CCPA, DSP Segments
-exl-id: aebe0c5b-382f-4e4a-b145-c32f32d216ca
+exl-id: 0623c52e-02ea-4e06-bc54-8abb7a87765a
 ---
 # Create and Implement a CCPA Opt-out-of-Sale Segment
 
@@ -12,7 +12,7 @@ Once the segment pixel tag is implemented, Adobe Advertising will begin to colle
 
 >[!NOTE]
 >
->* For information about how to communicate CCPA opt-out-of-sale requests to Adobe Advertising using the Adobe Experience Platform Privacy Service API, see [https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html](https://experienceleague.adobe.com/docs/advertising-cloud/privacy/ccpa-opt-out-of-sale.html).
+>* For information about how to communicate CCPA opt-out-of-sale requests to Adobe Advertising using the Adobe Experience Platform Privacy Service API, see [https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html](https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html).
 >* To track users who visit webpages for purposes not related to tracking CCPA opt-out-of-sale events, as well as users exposed to ads from desktop, mobile, and CTV devices, create a [custom segment](/help/dsp/audiences/custom-segment-create.md).
 
 1. Create the segment:
@@ -54,7 +54,7 @@ Once the segment pixel tag is implemented, Adobe Advertising will begin to colle
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa-opt-out-of-sale.md)
+>* [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports](ccpa-opt-out-about.md)
 >* [Retrieve Consumer Opt-Out-of-Sale Reports](ccpa-opt-out-segment-report-retrieve.md)
 >* [Create and Implement a Custom Segment](custom-segment-create.md)

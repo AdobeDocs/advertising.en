@@ -2,7 +2,7 @@
 title: Universal Video Ad Settings
 description: See descriptions of the available ad settings for universal video ads.
 feature: DSP Ads
-exl-id: 0be86b84-78f9-4429-a8b7-8195891875ca
+exl-id: 51b7d632-1e73-4726-980b-07ed50447146
 ---
 # Universal Video Ad Settings
 
@@ -45,7 +45,7 @@ exl-id: 0be86b84-78f9-4429-a8b7-8195891875ca
 **[!UICONTROL Video Format]:** The format of the ad player for potential inventory: *[!UICONTROL VPAID]*, *[!UICONTROL VPAID & VAST]*, or *[!UICONTROL VAST]*. Viewability is always measured for [!UICONTROL VPAID], but [!UICONTROL VPAID & VAST] includes inventory that doesn’t allow viewability measurement. Consider this distinction if viewability metrics are important to your campaign.
 
 Use *[!UICONTROL VAST]*, which doesn't allow viewability measurement, when you target connected TV or inventory that strictly requires VAST format only (usually from supply sources like Google Ad Manager, Appnexus, SpotX, and Freewheel).
-
+  
 **[!UICONTROL Clock Number]**: (Used only in the United Kingdom; available only to users with permission) A unique identifier used to ensure that the right ad is broadcast. If this setting isn't applicable, leave it blank.
 
 ### [!UICONTROL Pixel]

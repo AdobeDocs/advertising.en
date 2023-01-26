@@ -2,7 +2,7 @@
 title: Duplicate a Reusable Audience
 description: Learn how to duplicate a reusable audience.
 feature: DSP Audiences
-exl-id: 6af6e476-4a6a-4e00-bf68-08a63739f5e9
+exl-id: 8ff72e13-d0ae-4f61-904b-5d544878f58b
 ---
 # Duplicate a Reusable Audience
 
