@@ -2,7 +2,7 @@
 title: About Ad Management in Advertising DSP
 description: Learn about ad management.
 feature: DSP Ads
-exl-id: 72c8bbef-d09c-4cf4-994d-99578d043d39
+exl-id: 41dbe28e-a476-4601-a3d8-a9111eae3f6b
 ---
 # About Ad Management in Advertising DSP
 

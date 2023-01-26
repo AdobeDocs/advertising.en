@@ -2,7 +2,7 @@
 title: Adobe Advertising Support for the General Data Protection Regulation
 description: Learn about the supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields
 feature: GDPR
-exl-id: 304d88d0-d63d-4b32-8d4d-c61ba2409adc
+exl-id: abf0dc51-e23b-4c9a-95aa-14e0844939bb
 ---
 # Adobe Advertising Support for the General Data Protection Regulation
 
@@ -70,7 +70,7 @@ All of these steps are necessary for Adobe Advertising. For more information abo
 
 ## Required Field Values in Adobe Advertising JSON Requests
 
-`"company context":`
+``"company context": 
 
 * `"namespace": **imsOrgID**`
 * `"value":` <*your IMS Org ID value*>

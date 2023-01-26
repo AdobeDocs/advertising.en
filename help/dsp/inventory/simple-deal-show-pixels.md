@@ -2,7 +2,6 @@
 title: View Event Pixels for a [!UICONTROL Simple Ad Serving] Deal
 description: Learn how to get a copy of event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal.
 feature: DSP Simple Ad Serving
-exl-id: 88d18ddd-98ba-4e36-890c-d6ddfb7d59e5
 ---
 # View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal
 

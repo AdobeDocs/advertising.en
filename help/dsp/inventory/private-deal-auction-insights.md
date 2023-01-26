@@ -2,7 +2,7 @@
 title: View Auction Insights for a Private Deal
 description: Learn how to use auction insights to analyze the deal composition of private deal.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 9d585bd4-59d5-401a-a68c-6ed656086252
+exl-id: bbb99f6a-0276-4eb8-9607-75500d5634d9
 ---
 # View Auction Insights for a Private Deal
 

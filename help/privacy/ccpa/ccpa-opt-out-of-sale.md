@@ -2,7 +2,7 @@
 title: Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer Opt-Out-of-Sale Support
 description: Learn about support for capturing consumer opt-out-of-sale requests.
 feature: CCPA
-exl-id: 2c0cd4f5-798f-479a-99cd-f555cd676766
+exl-id: df2b8679-8a1c-4cd7-b867-cd2f53c76c8f
 ---
 # Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-Out of Sale Support
 
@@ -20,7 +20,7 @@ As your service provider, Adobe Advertising provides support for your business t
 
 This document describes how Adobe Advertising Demand Side Platform (DSP), as a service provider, supports the consumer right to opt out of the "sale" of "personal information," as each term is defined by the CCPA. It includes information on how to communicate opt-out-of-sale requests to Adobe Advertising and how to retrieve reports of your organization's opt-out-of-sale requests.
 
-For information about how [!DNL Advertising Search]; Advertising Creative; and [!DNL Advertising DCO] support consumers' personal information access and deletion rights, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support](/help/privacy/ccpa-access-delete.md).
+For information about how [!DNL Advertising Search]; Advertising Creative; and [!DNL Advertising DCO] support consumers' personal information access and deletion rights, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support](/help/privacy/ccpa/ccpa-access-delete.md).
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 

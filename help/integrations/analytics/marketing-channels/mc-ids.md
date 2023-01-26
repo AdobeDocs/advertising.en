@@ -2,7 +2,7 @@
 title: Using Adobe Advertising IDs to Create [!DNL Marketing Channels] Rules
 description: Learn how to use Adobe Advertising IDs to create processing rules for [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-exl-id: 4fcdd586-e9c5-4405-a6dc-7799d2bac93e
+exl-id: 525761b4-607f-4b03-9020-8051009a13c6
 ---
 # Using Adobe Advertising IDs to Create [!DNL Marketing Channels] Processing Rules
 
@@ -87,5 +87,5 @@ To create a Display view-through channel, create a rule in which the EF ID ends 
 >* [Fundamentals of [!DNL Analytics Marketing Channels]](mc-overview.md)
 >* [Why Channel Data Can Vary Between Adobe Advertising and [!DNL Marketing Channels]](mc-data-variances.md)
 >* [Using [!DNL Analytics Marketing Channels] with Adobe Advertising Data](mc-ac-data.md)
->* [Video: Using [!DNL Marketing Channels] for Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Video: Using [!DNL Marketing Channels] for Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 >* [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)

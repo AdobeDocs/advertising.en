@@ -1,8 +1,8 @@
 ---
-title: "[!DNL On Demand] Premium Inventory Publishers in North America"
+title: '[!DNL On Demand] Premium Inventory Publishers in North America'
 description: See the available [!DNL On Demand] premium inventory publishers in North America.
 feature: DSP On Demand Inventory
-exl-id: 47136e55-aab9-4112-8317-1aafca0b1c49
+exl-id: f1805fe0-5687-4e32-809f-c584acee3676
 ---
 # [!DNL On Demand] Premium Inventory Publishers in North America
 

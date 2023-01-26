@@ -2,7 +2,7 @@
 title: Duplicate a Package
 description: Learn how to duplicate a package.
 feature: DSP Packages
-exl-id: 4c37883f-5feb-4513-9573-ed4e32606132
+exl-id: 75842776-a024-43c9-aaf8-1126c0b9d717
 ---
 # Duplicate a Package
 
@@ -26,9 +26,9 @@ See "[What's Not Duplicated](#package-not-duplicated)" for a list of placement s
     1. Enter the new package name.
 
     1. (Optional) Change the default settings.
-
+    
          By default:
-
+         
          * The new package is assigned to the original advertiser and campaign.
 
          * The new package becomes active on the current day.<!-- and the flight continues for NN  days. -->

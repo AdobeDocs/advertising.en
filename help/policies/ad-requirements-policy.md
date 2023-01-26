@@ -2,7 +2,7 @@
 title: Adobe Advertising Ad Requirements Policy
 description: See the policy for ad requirements.
 feature: Policies, DSP Ads
-exl-id: 49c990e7-05d7-4fde-a728-d9e8dfb86222
+exl-id: 217cce8e-3bb3-407a-a05e-7fff2978eac8
 ---
 # Adobe Advertising Ad Requirements Policy
 

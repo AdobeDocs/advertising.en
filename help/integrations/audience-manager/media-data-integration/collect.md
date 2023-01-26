@@ -2,7 +2,7 @@
 title: Collect Click and Impression Data from Advertising DSP Campaigns
 description: Learn how to capture cookie-based impression and click events from Advertising DSP ads using Audience Manager pixels
 feature: Integration with Adobe Audience Manager
-exl-id: eb717148-00ab-428a-97b9-e8396a5c47b0
+exl-id: d827fbb8-b61a-4601-a42a-1ea60e4f36b7
 ---
 # Collect Media Exposure Data from Advertising DSP Campaigns
 
@@ -62,7 +62,7 @@ Where:
 **Format:**  `d_parameter=parameter_id`
 
     where:
-
+    
     * the parameter is prefixed by `&`
 
     * `parameter` is replaced by the key-value pair for the new field
@@ -120,7 +120,7 @@ Example trait that populates user-level data for users exposed to a specific cre
 
 1. Identify the event as `d_event = imp`. 
 1. Identify the creative ID within the DSP campaign, and then map it to the trait as `d_creative=[Creative ID]`.
-
+ 
 ![Trait creation screen](/help/dsp/assets/aa-trait.png)
 
 >[!MORELIKETHIS]

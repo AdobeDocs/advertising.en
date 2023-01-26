@@ -2,7 +2,7 @@
 title: Archive or Unarchive an Ad
 description: Learn how to archive or unarchive an ad.
 feature: DSP Ads
-exl-id: f3dfc92c-e99b-4a72-9a91-65ae0d5f2419
+exl-id: 086c120f-df55-43b0-a6fb-51d68d00a29e
 ---
 # Archive or Unarchive an Ad
 

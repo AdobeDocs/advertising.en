@@ -2,7 +2,7 @@
 title: Brand Safety and Media Quality
 description: Learn more about brand safety and media quality features.
 feature: DSP Introduction
-exl-id: df5be5d4-490e-479f-b76d-4fda4acd4201
+exl-id: 8cdfd517-4cdb-4dbc-aae5-a8bda1e4e95e
 ---
 # Brand Safety and Media Quality
 
@@ -49,7 +49,7 @@ Inventory mapping is the detailed review and on-boarding process required for al
    * Brand safety
 
    * Ad type verification
-
+ 
    * Generic content, duplicate domains, and fake ad serving
 
 * **Tiering:** We holistically examine brand presence in the overall ecosystem to classify inventory across different tiers. You can [target your placements](/help/dsp/campaign-management/placements/placement-settings.md) to these tiers for the desired level of reach:

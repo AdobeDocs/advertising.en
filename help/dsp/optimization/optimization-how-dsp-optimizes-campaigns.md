@@ -2,7 +2,7 @@
 title: How DSP Optimizes Your Campaigns
 description: Learn how DSP optimizes the packages in your campaigns.
 feature: DSP Optimization
-exl-id: 054582ef-b677-4725-b25c-b82bf3e5b43e
+exl-id: 92d411cf-4307-4449-97b4-da3817f2a0b4
 ---
 # How Advertising DSP Optimizes Your Campaigns
 

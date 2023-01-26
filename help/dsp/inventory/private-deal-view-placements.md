@@ -2,7 +2,7 @@
 title: List the Placements and Ads for a Private Deal
 description: Learn how to open a list of placements and ads associated with a private deal.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: b7962e2f-933e-4563-b42c-27f5ef3c77e0
+exl-id: 8003c053-eaa1-420d-853f-3c25643f4ef8
 ---
 # List the Placements and Ads for a Private Deal
 
@@ -21,7 +21,7 @@ You can open a list of all placements and ads associated with a private deal. Yo
    * To remove the deal from a placement's inventory targets, hold the cursor over the placement row and click **[!UICONTROL More] > [!UICONTROL Detach Placement]**. In the confirmation message, click **[!UICONTROL Yes]**.
 
      Detaching the placement doesn't delete the placement.
-
+     
    * To edit the settings for an ad, hold the cursor over the ad row and click **[!UICONTROL More] > [!UICONTROL Edit]**. [Edit the ad settings](/help/dsp/campaign-management/ads/ad-edit.md), and then click **[!UICONTROL Save & submit for review]**.
 
 >[!MORELIKETHIS]

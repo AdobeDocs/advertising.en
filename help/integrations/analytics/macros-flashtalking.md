@@ -2,7 +2,7 @@
 title: Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags
 description: Learn why and how to add [!DNL Analytics for Advertising] macros to your [!DNL Flashtalking] ad tags
 feature: Integration with Adobe Analytics
-exl-id: 4b060668-723c-4cd2-b70e-409501ec67de
+exl-id: ce81824c-60bf-487c-8358-d18fcb3cc95f
 ---
 # Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags
 
@@ -46,4 +46,4 @@ Example:  `https://www.adobe.com/products/photoshop?[%EL:param['AdobeAMO']%]&s_k
 >
 >* [Overview of [!DNL Analytics for Advertising]](overview.md)
 >* [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
->* [Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md) 
+>* [Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)

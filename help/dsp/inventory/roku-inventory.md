@@ -1,8 +1,8 @@
 ---
 title: Using [!DNL Roku] Inventory
-description: Learn about DSP's partnership with [!DNL Roku], including inventory options, approved third-party tracking vendors, and best practices for [!DNL Roku]-specific placements. 
+description: Learn about DSP's partnership with [!DNL Roku], including inventory options, approved third-party tracking vendors, and best practices for [!DNL Roku]-specific placements.
 feature: DSP On Demand Inventory, DSP Private Inventory
-exl-id: 0cd42782-f006-4aa8-b879-322f86cfac4b
+exl-id: e7a1aa80-d7f0-4a4e-96b1-6b362a32106e
 ---
 # Using [!DNL Roku] Inventory
 

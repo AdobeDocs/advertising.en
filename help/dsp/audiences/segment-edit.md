@@ -2,7 +2,7 @@
 title: Edit Segment Information
 description: Learn how to edit information about a custom or CCPA opt-out of sale segment.
 feature: DSP Segments
-exl-id: a121264f-7fa6-454e-b66a-f6bc0db98890
+exl-id: 1df6bf2a-4008-46ec-8b4a-e3d0c8322e44
 ---
 # Edit Segment Information
 

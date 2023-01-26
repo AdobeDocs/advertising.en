@@ -2,7 +2,7 @@
 title: Delete a Custom Report
 description: Learn how to delete a custom report.
 feature: DSP Custom Reports
-exl-id: 39418a0e-17d8-4413-9f00-b0f210adb72b
+exl-id: e3cebb69-bab6-4f41-94fd-b4471f9bbdb9
 ---
 # Delete a Custom Report
 

@@ -2,7 +2,7 @@
 title: Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags
 description: Learn why and how to add [!DNL Analytics for Advertising] macros to your [!DNL Google Campaign Manager 360] ad tags
 feature: Integration with Adobe Analytics
-exl-id: 05084a85-5890-4a82-b3eb-4520f44f9d66
+exl-id: 89cd4e1d-277a-4a43-9c38-ae6641302e09
 ---
 # Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags
 

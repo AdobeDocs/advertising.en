@@ -2,7 +2,7 @@
 title: View a Placement Change Log
 description: Learn how to view changes made to the placement.
 feature: DSP Placements
-exl-id: a57056bd-c467-4b81-90b1-528b85787a5e
+exl-id: d9fc6ead-0a0e-415d-8352-284db12dde1b
 ---
 # View the Change Log for a Placement
 

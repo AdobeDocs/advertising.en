@@ -2,7 +2,7 @@
 title: Pause or Activate a Placement
 description: Learn how to pause or activate a placement.
 feature: DSP Placements
-exl-id: 9b7f1a2b-0ced-4e09-870b-172897e49b27
+exl-id: cd58d8f7-8dd0-433b-9272-a4fc1e3e98d9
 ---
 # Pause or Activate a Placement
 

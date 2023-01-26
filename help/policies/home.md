@@ -1,6 +1,7 @@
 ---
 title: Adobe Advertising Policies and Guidelines
 description: Learn about policies and guidelines for Advertising DSP and Advertising Search.
+index: yes
 cloud: Experience Cloud
 product: advertising cloud
 ---

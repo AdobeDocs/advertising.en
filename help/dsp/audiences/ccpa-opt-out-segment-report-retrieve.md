@@ -2,7 +2,7 @@
 title: Retrieve Consumer Opt-Out-of-Sale Reports
 description: Learn how to retrieve reports of IDs submitted for opt-out-of-sale requests.
 feature: CCPA, DSP Segments
-exl-id: 8ada787a-6dcf-455b-88f4-701743e68292
+exl-id: 94133ce3-4e2c-4a24-90c9-61bf10731668
 ---
 # Retrieve Consumer Opt-Out-of-Sale Reports
 
@@ -18,7 +18,7 @@ You can retrieve monthly reports of IDs that customers have submitted for opt-ou
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa-opt-out-of-sale.md)
+>* [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports](ccpa-opt-out-about.md)
 >* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [About Audience Management](audience-about.md)

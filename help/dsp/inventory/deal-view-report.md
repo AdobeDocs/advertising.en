@@ -2,7 +2,7 @@
 title: View a Detailed Report for a private, [!UICONTROL On Demand], or [!UICONTROL Simple Ad Serving] Deal
 description: Learn how to open a deal-level report.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals, DSP On Demand Inventory, DSP Simple Ad Serving
-exl-id: cd39582e-0445-48ca-b2f6-90b410ce4a1c
+exl-id: 8a2e142e-0a05-47c7-9888-935665f06ad3
 ---
 # View a Detailed Report for a Deal
 
@@ -13,7 +13,7 @@ The deal-level report includes the number of auctions, the bid rate, the win rat
 1. In the deal row, click **[!UICONTROL ...] > [!UICONTROL View Report]**.
 
 1. (Optional) Customize the date range for which you want to view the data.
-
+ 
 >[!MORELIKETHIS]
 >
 >* [View Auction Insights for a Private Deal](/help/dsp/inventory/private-deal-auction-insights.md)

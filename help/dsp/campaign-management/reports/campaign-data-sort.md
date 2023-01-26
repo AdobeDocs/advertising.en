@@ -2,7 +2,7 @@
 title: Sort a Data Column
 description: Learn how to sort the data columns in any campaign management view.
 feature: DSP Campaign Data Views
-exl-id: ed27246a-a31e-4ad2-bc30-446478fc58d1
+exl-id: 42b0ac59-b318-48a6-a754-b969fd3f6f0d
 ---
 # Sort a Data Column
 

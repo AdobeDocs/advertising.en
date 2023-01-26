@@ -2,7 +2,7 @@
 title: Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising]
 description: Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
-exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
+exl-id: 7c477900-ebb0-4c0e-811a-ab8bc6069599
 ---
 # Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising]
 
@@ -25,7 +25,7 @@ Review the following information before you integrate Adobe Advertising with Ado
 ## Requirements for Sharing Analytics Segments with Adobe Advertising
 
 * Experience Cloud Identity Service: `visitorAPI.js` version 2.1 or higher
-* Adobe Analytics: `appMeasurement.js` version 1.8 or higher
+* Adobe Analytics: `!DNL appMeasurement.js` version 1.8 or higher
 
 ## Requirements for Reporting [!DNL Analytics] Data in Adobe Advertising
 
@@ -75,7 +75,7 @@ Contact your [!DNL Adobe] account team for the latest supported ad environments 
 
 ## Things to Know Before You Implement
 
-* The Adobe Advertising implementation team will set up the integration.
+*  The Adobe Advertising implementation team will set up the integration.
 
 * No additional costs are billed for this integration, nor do server calls result in additional [!DNL Analytics] or Adobe Advertising fees.
 

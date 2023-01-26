@@ -2,7 +2,7 @@
 title: About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports
 description: Learn about creating segments to track IDs from CCPA opt-out-of-sale requests and how to retrieve reports of the IDs.
 feature: CCPA, DSP Segments
-exl-id: 9256d34e-d0dd-4abf-bc96-2b599caf2a8e
+exl-id: 28b5e00b-a695-46f1-abbf-7bbd78f05411
 ---
 # About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports
 
@@ -20,7 +20,7 @@ You can [retrieve links to the monthly reports](ccpa-opt-out-segment-report-retr
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa-opt-out-of-sale.md)
+>* [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Retrieve Consumer Opt-Out-of-Sale Reports](ccpa-opt-out-segment-report-retrieve.md)
 >* [About Audience Management](audience-about.md)

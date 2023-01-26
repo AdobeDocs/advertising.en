@@ -2,7 +2,7 @@
 title: About Custom Reports
 description: Learn about options for creating custom reports manually or using pre-configured report templates.
 feature: DSP Custom Reports
-exl-id: 59fc1894-1c9d-451d-b644-5640dd311547
+exl-id: 321062f3-754b-4379-9587-003862c4221b
 ---
 # About Custom Reports
 

@@ -2,7 +2,7 @@
 title: About Programmatic Guaranteed Deals
 description: Learn about programmatic guaranteed (PG) deals and which SSPs are certified to provide them.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 8cf85ae3-027d-4d9d-95a0-ac39d651627a
+exl-id: 47c89d8a-f45f-4fcb-84a6-031f7d7f580f
 ---
 # About Programmatic Guaranteed Deals
 

@@ -2,7 +2,7 @@
 title: Export Details About a Reusable Audience
 description: Learn how to view the configuration, audience size, and targeted placements for a reusable audience.
 feature: DSP Audiences
-exl-id: a4c946f1-8968-4e55-9935-76e6376561f1
+exl-id: 6d69706e-4398-41e0-b7a3-04ba72b08bfc
 ---
 # Export Details About a Reusable Audience
 

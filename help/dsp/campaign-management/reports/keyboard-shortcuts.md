@@ -2,7 +2,7 @@
 title: Keyboard Shortcuts
 description: Reference the keyboard shortcuts available within placement settings.
 feature: DSP Placements
-exl-id: bef0406c-9c10-48ec-b069-b887ef8f66ae
+exl-id: d1711166-8f20-4641-a1f5-c865a40ad387
 ---
 # Keyboard Shortcuts
 

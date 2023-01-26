@@ -2,7 +2,7 @@
 title: JavaScript Code for [!DNL Analytics for Advertising]
 description: JavaScript Code for [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
-exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
+exl-id: 18bfb32d-2754-44b2-86c1-d102836cc08c
 ---
 # JavaScript Code for [!DNL Analytics for Advertising]
 
@@ -64,35 +64,35 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
 
 1. Filter the [!UICONTROL Network] tab by `last` and review two rows:
 
-    ![Filtering on last](/help/integrations/assets/a4adc-code-validation-filter-last.png)
+     ![Filtering on last](/help/integrations/assets/a4adc-code-validation-filter-last.png)
 
-    * The first row is the call to the JavaScript library and is titled `last-event-tag-latest.min.js`.
-    * The second row is the call sending the request to Adobe Advertising. It begins as follows: `_les_imsOrgId=[your_imsOrgId_here]&_les_url=[your_encoded_url]`
-
-       If you don't see the call to Adobe Advertising, then it might not be the first page view of your visit. For testing purposes, you can remove the cookie so that the next call will be the first page view for the corresponding visit:
-
-    1. On the Application tab, find the `adcloud` cookie, and verify that the cookie contains `_les_v` (last visit) with a value of `y` and a UTC epoch timestamp that expires in 30 minutes.
-        1. Delete the `ad cloud` cookie and refresh the page.
+     * The first row is the call to the JavaScript library and is titled `last-event-tag-latest.min.js`.
+     * The second row is the call sending the request to Adobe Advertising. It begins as follows: `_les_imsOrgId=[your_imsOrgId_here]&_les_url=[your_encoded_url]`
+     
+         If you don't see the call to Adobe Advertising, then it might not be the first page view of your visit. For testing purposes, you can remove the cookie so that the next call will be the first page view for the corresponding visit:
+         
+          1. On the Application tab, find the `adcloud` cookie, and verify that the cookie contains `_les_v` (last visit) with a value of `y` and a UTC epoch timestamp that expires in 30 minutes.
+          1. Delete the `ad cloud` cookie and refresh the page.
 
 1. (Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code) Filter on `/b/ss` to see the Analytics hit.
 
-    ![Filtering on `/b/ss`](/help/integrations/assets/a4adc-code-validation-filter-bss.png)
+     ![Filtering on `/b/ss`](/help/integrations/assets/a4adc-code-validation-filter-bss.png)
 
 1. (Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code) Filter on `/interact` to verify that the request payload to the Edge Network contains `advertisingStitchID`.
 
-    ![Filtering on `/interact`](/help/integrations/assets/a4adc-code-validation-filter-interact.png)
+     ![Filtering on `/interact`](/help/integrations/assets/a4adc-code-validation-filter-interact.png)
 
 1. Compare the ID values between the two hits. All of the values will be in query string parameters except for the report suite ID in the Analytics hit, which is the URL path immediately after `/b/ss/`.
 
-    | ID | Analytics Parameter | Edge Network | Adobe Advertising Parameter |
-    | --- | --- | --- | --- |
-    | Experience Cloud IMS Org | `mcorgid` |  | `_les_imsOrgid` |
-    | Supplemental Data ID | sdid |  | `_les_sdid` |
-    | Stitch ID | stitchId | `advertisingStitchID` under the `_adcloud` property  |  |
-    | Analytics Report Suite | The value after `/b/ss/` | | `_les_rsid` |
-    | Experience Cloud Visitor ID | mid |  | `_les_mid` |
+     | ID | Analytics Parameter | Edge Network | Adobe Advertising Parameter |
+     | --- | --- | --- | --- |
+     | Experience Cloud IMS Org | `mcorgid` |  | `_les_imsOrgid` |
+     | Supplemental Data ID | sdid |  | `_les_sdid` |
+     | Stitch ID | stitchId | `advertisingStitchID` under the `_adcloud` property  |  |
+     | Analytics Report Suite | The value after `/b/ss/` | | `_les_rsid` |
+     | Experience Cloud Visitor ID | mid |  | `_les_mid` |
 
-    If the ID values match, then the JavaScript implementation is confirmed. Adobe Advertising will send the [!DNL Analytics] server any click-through or view-through tracking details if they exist.
+     If the ID values match, then the JavaScript implementation is confirmed. Adobe Advertising will send the [!DNL Analytics] server any click-through or view-through tracking details if they exist.
 
 #### How to Confirm the Code with [!DNL Adobe Experience Cloud Debugger]
 
@@ -101,11 +101,11 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
 1. In the [!UICONTROL Solutions Filter] toolbar, click [!UICONTROL Adobe Advertising] and [!UICONTROL Analytics].
 1. In the [!UICONTROL Request URL – Hostname] parameter row, locate `lasteventf-tm.everesttech.net`.
 1. In the [!UICONTROL Request – Parameters] row, audit the signals generated, similar to Step 3 in "[How to Confirm the Code with [!DNL Chrome Developer Tools]](#validate-js-chrome)."
-    * (Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code) Make sure the `Sdid` parameter matches the `Supplemental Data ID` in the Adobe Analytics filter.
-    * (Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code) Make sure the value of the `advertisingStitchID` parameter matches the `Sdid` sent to the Experience Platform Edge Network.
-    * If the code isn't generating, then check to make sure the Adobe Advertising cookie has been removed in the [!UICONTROL Application] tab. Once it's removed, refresh the page and repeat the process.
+     * (Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code) Make sure the `Sdid` parameter matches the `Supplemental Data ID` in the Adobe Analytics filter.
+     * (Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code) Make sure the value of the `advertisingStitchID` parameter matches the `Sdid` sent to the Experience Platform Edge Network.
+     * If the code isn't generating, then check to make sure the Adobe Advertising cookie has been removed in the [!UICONTROL Application] tab. Once it's removed, refresh the page and repeat the process.
 
-    ![Auditing [!DNL Analytics for Advertising] JavaScript code in [!DNL Experience Cloud Debugger]](/help/integrations/assets/a4adc-js-audit-debugger.png)
+     ![Auditing [!DNL Analytics for Advertising] JavaScript code in [!DNL Experience Cloud Debugger]](/help/integrations/assets/a4adc-js-audit-debugger.png)
 
 >[!MORELIKETHIS]
 >

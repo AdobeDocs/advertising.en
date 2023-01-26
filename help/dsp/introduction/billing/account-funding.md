@@ -2,7 +2,7 @@
 title: Account Funding
 description: Learn about account funding for DSP.
 feature: DSP Introduction
-exl-id: c90e88a7-78dd-402c-baba-9bac360093a4
+exl-id: 95e1fd75-ed38-41e3-a464-afe5e23c1c22
 ---
 # Advertising DSP Account Funding
 

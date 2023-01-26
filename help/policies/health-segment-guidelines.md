@@ -2,7 +2,7 @@
 title: Adobe Advertising Acceptable Health Segments
 description: See guidelines for acceptable health-related audience segments and tactics to use as alternatives to targeting health-related audience segments.
 feature: Policies
-exl-id: fd4fdf5e-9159-4a89-8447-12051deae61b
+exl-id: 121129e3-3d4b-4478-9cfd-cb16c1eb67de
 ---
 # Adobe Advertising Acceptable Health Segment Guidelines
 

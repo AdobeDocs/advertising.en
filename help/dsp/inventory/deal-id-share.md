@@ -2,7 +2,7 @@
 title: Edit the Accounts with Access to a Private Deal
 description: Learn how to share and stop sharing a private deal with different accounts.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 5ddd406d-1ee5-4d13-8e12-be575cbb7551
+exl-id: fb67ef24-8b7f-4a2f-973b-8102a97f0acb
 ---
 # Edit the Accounts with Access to a Private Deal
 
@@ -22,9 +22,9 @@ You can stop sharing a deal with accounts to remove editing and targeting capabi
 
 1. For each account to share:
 
-   1. Enter the **[!UICONTROL Email Address]** for the account with access to the deal.
-
-   1. Click **[!UICONTROL Share]**.
+  1. Enter the **[!UICONTROL Email Address]** for the account with access to the deal.
+  
+  1. Click **[!UICONTROL Share]**.
 
 ## Stop Sharing a Deal ID with Accounts
 

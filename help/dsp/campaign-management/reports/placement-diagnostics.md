@@ -2,7 +2,7 @@
 title: View the Placement Diagnostic Reports
 description: Learn how to diagnose issues with placement setup and pacing.
 feature: DSP Placements
-exl-id: d64406b6-83b5-4ae7-984c-98610fc1ee40
+exl-id: 95e88c9c-09f2-44f1-9d6c-3fe533963f9a
 ---
 # View the Placement Diagnostic Reports
 

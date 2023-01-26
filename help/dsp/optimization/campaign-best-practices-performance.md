@@ -2,7 +2,7 @@
 title: Best Practices for Setting up Performance Campaigns
 description: Learn best practices for setting up your performance-focused campaigns, which include placements optimized for the lowest CPA or the highest ROAS.
 feature: DSP Optimization, DSP Best Practices
-exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
+exl-id: bc297796-0c89-4d91-87aa-0668462526ae
 ---
 # Best Practices for Setting up Performance Campaigns
 
@@ -68,7 +68,7 @@ Also, use the following settings.
 * **Flight Dates:** (Prospecting packages) When your campaign runs for longer than 25 days, use the [!UICONTROL Activate Custom Flighting] feature. First, set a custom flight for the first 10 days at approximately 75% of the necessary daily budget to reduce spending during the *learning phase*. Then set a second custom flight for the remainder of the budget.
 
   For example, if you have $100,000 to spend in 30 days, then set the budget for Flight 1 (Days 1-10) to $25,000 (75% x $100,000/30 days = $2,500 per day). Use the remaining budget of $75,000 for Flight 2 (Days 11–30).
-
+  
 * **Budget:** DSP will always try to allocate 100% of the package budget evenly between all placements in a package. If a placement has low spend or no spend, we recommend budget capping the placement to allow more of the budget to allocate to placements with scale. Allow 24-48 hours for budget changes to calibrate.
 
 * **Optimization Goals:** Use one of the two performance optimization goals, *[!UICONTROL Highest ROAS]* or *[!UICONTROL Lowest CPA]*, depending on the package goal. These goals auto-optimize the package towards the Highest ROAS or Lowest CPA placements, respectively.
@@ -125,7 +125,7 @@ To maximize scale, use [!UICONTROL Public] (Open Exchange) and [!UICONTROL On De
     * Remove under-performing audiences from existing placements.
     * Move top-performing audiences into a separate placement to better control budgets.
   * For retargeting placements, you should ideally include one audience segment per placement to easily control bids and budget.
-
+  
 >[!NOTE]
 >
 >Your ads will perform best if a user can be reached by only one placement. Significant overlap in users across placements can cause competition, which yields a cycle of continually increasing bids, driving up the cost per user. Therefore, if you include multiple audiences, make sure they don't consist of overlapping users/audience members.

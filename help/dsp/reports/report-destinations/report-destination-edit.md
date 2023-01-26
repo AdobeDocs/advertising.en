@@ -2,7 +2,7 @@
 title: Edit a Report Destination
 description: Learn how to edit a report destination.
 feature: DSP Custom Reports
-exl-id: 013280f1-e591-4fc4-a3bd-22b4b83b19e4
+exl-id: 33c011a5-c207-455d-8112-360098024eaa
 ---
 # Edit a Report Destination
 

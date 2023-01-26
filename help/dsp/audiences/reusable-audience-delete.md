@@ -2,7 +2,7 @@
 title: Delete a Reusable Audience
 description: Learn how to delete a reusable audience.
 feature: DSP Audiences
-exl-id: 037f85b1-8676-4ac7-b1a2-ae7d5550b377
+exl-id: cc9afa22-1b90-4709-b7af-d9c1ee16aa16
 ---
 # Delete a Reusable Audience
 

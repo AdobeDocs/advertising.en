@@ -2,7 +2,7 @@
 title: Adobe Advertising Metrics in Analysis Workspace
 description: Adobe Advertising Metrics in Analysis Workspace
 feature: Integration with Adobe Analytics
-exl-id: d740bd19-c643-4917-9cfd-f9cf0affd07e
+exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
 ---
 # Adobe Advertising Metrics in Analysis Workspace
 
@@ -32,7 +32,7 @@ exl-id: d740bd19-c643-4917-9cfd-f9cf0affd07e
 | [!UICONTROL AMO Views 75% Complete] | The number of views for which at least 75% of an Adobe Advertising video was watched. |
 | [!UICONTROL AMO Views 100% Complete] | The number of views for which 100% of an Adobe Advertising video was watched. |
 | [!UICONTROL AMO Viewable Impressions] | The number of impressions that were measured to be viewable according to the placement configuration. |
-| [!UICONTROL AMO Not Viewable Impressions] | The number of impressions that were determined to be not viewable. This value is calculated as ([!UICONTROL AMO Measurable Impressions] - [!UICONTROL AMO Viewable]). |
+| [!UICONTROL AMO Not Viewable Impressions] | The number of impressions that were determined to be not viewable. This value is calculated as ([!UICONTROL AMO Measurable Impressions] - [!UICONTROL AMO Viewable ]). |
 | [!UICONTROL AMO Measurable Impressions] | The number of impressions that were served for which viewability instrumentation successfully initialized. This value is calculated as (instrumented impressions - the number of unmeasurable impressions). |
 
 ## Useful Custom Calculated Metrics for Adobe Advertising

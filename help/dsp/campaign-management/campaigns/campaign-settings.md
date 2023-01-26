@@ -2,7 +2,7 @@
 title: Campaign Settings
 description: See descriptions of the available campaign settings.
 feature: DSP Campaigns
-exl-id: ff2e22ff-8073-4532-884b-36e0c1f22641
+exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
 ---
 # Campaign Settings
 

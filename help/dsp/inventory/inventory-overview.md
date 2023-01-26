@@ -2,7 +2,7 @@
 title: Overview of Inventory Features in Advertising DSP
 description: Learn about available inventory features.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
-exl-id: b3d0b96e-e638-4bd2-ba14-d348a8fc030b
+exl-id: e55b9276-0d13-436e-9c09-968de963d551
 ---
 # Overview of Inventory Features in Advertising DSP
 

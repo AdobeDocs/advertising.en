@@ -2,7 +2,7 @@
 title: Filter Campaign Data
 description: Learn how to apply filters to narrow the campaign data that's displayed.
 feature: DSP Campaign Data Views
-exl-id: 784f025c-a96b-45bb-8326-e2e5216197e3
+exl-id: b332684d-d6be-4a67-961a-86b9086356b5
 ---
 # Filter Campaign Data
 

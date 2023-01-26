@@ -2,7 +2,7 @@
 title: View Tracking Pixels for a Segment
 description: Learn how to view the tracking pixels for a custom or CCPA opt-out of sale segment.
 feature: DSP Segments
-exl-id: 67c6d0d1-f65b-4d29-88e5-c7d00e44a956
+exl-id: 3b67ab72-d7bb-45a0-b5ba-e4b811b7d2b3
 ---
 # View Tracking Pixels for a Segment
 

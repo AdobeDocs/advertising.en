@@ -2,7 +2,7 @@
 title: Edit an Ad
 description: Learn how to edit an ad.
 feature: DSP Ads
-exl-id: ef140d61-f04e-4c1c-acdd-9985730dfb07
+exl-id: 149eeb61-b4d1-4c88-8dcd-ad11e135a486
 ---
 # Edit an Ad
 

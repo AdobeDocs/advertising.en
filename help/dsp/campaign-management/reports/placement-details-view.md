@@ -2,7 +2,7 @@
 title: View the Sites, Ads, Frequency, and Inventory Details for a Placement
 description: Learn how to view the targeted sites, ads, frequency, and inventory data for a placement.
 feature: DSP Placements
-exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
+exl-id: b58b442c-2fb8-4a78-9be9-d85aa83136e2
 ---
 # View the Sites, Ads, Frequency, and Inventory Details for a Placement
 
@@ -35,7 +35,7 @@ The Placement [!UICONTROL Inspector] lists all targeted sites, ads, and deals in
     * To view all ads in the placement, click **[!UICONTROL Ads]**.
 
     * To view frequency data for the placement, click **[!UICONTROL Frequency]**.
-
+    
     * To view all deals that the placement targets, click **[!UICONTROL Inventory]**.
 
 1. (Optional) [Change the column view](column-view-change.md) as needed to view the required metrics.

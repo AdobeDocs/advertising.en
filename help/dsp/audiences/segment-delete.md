@@ -2,7 +2,7 @@
 title: Delete a Segment
 description: Learn how to delete a custom or CCPA opt-out of sale segment.
 feature: DSP Segments
-exl-id: dd58d4ad-50a7-46d5-b644-77aa481f15ba
+exl-id: 2b5f61b1-b07d-45e1-bf1c-8e7c25ead42b
 ---
 # Delete a Segment
 

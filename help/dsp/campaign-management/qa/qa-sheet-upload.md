@@ -2,7 +2,7 @@
 title: Upload Placement Settings for a Campaign
 description: Learn how to upload changes to key placement settings for a campaign using Excel QA spreadsheets.
 feature: DSP Placements
-exl-id: 0f5fdc7e-3a90-4b4b-a23c-75bed7703100
+exl-id: 2ca7c019-ff5f-410d-b9c7-31ef1509f91e
 ---
 # Upload Placement Settings for a Campaign
 
@@ -25,7 +25,7 @@ To post changes to some types of placement settings for a campaign, you can uplo
     1. Either drag and drop a file into the box, or click inside the box to select a file from your device or network.
 
     1. Click **[!UICONTROL Upload]**.
-
+    
 1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
 
 >[!MORELIKETHIS]

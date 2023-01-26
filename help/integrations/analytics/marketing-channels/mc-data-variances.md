@@ -2,7 +2,7 @@
 title: Why Channel Data Can Vary Between Adobe Advertising and [!DNL Marketing Channels]
 description: Learn why channel data tracked by the AMO ID can vary from channel data tracked by [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-exl-id: 4605dc7d-43d7-414f-a509-6096c6cf5fd2
+exl-id: 72e3aa1e-85ed-485a-b93f-5e67dd0140ce
 ---
 # Why Channel Data Can Vary Between Adobe Advertising and [!DNL Marketing Channels]
 
@@ -28,4 +28,4 @@ For more information about possible data variances between Adobe Advertising-tra
 >* [Fundamentals of [!DNL Analytics Marketing Channels]](mc-overview.md)
 >* [Using Adobe Advertising IDs to Create [!DNL Marketing Channels] Processing Rules](mc-ids.md)
 >* [Using [!DNL Analytics Marketing Channels] with Adobe Advertising Data](mc-ac-data.md)
->* [Video: Using [!DNL Marketing Channels] for Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Video: Using [!DNL Marketing Channels] for Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)

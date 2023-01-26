@@ -2,7 +2,7 @@
 title: Create Multiple Third-Party Ads
 description: Learn how to create multiple third-party ads at one time.
 feature: DSP Ads
-exl-id: 83d35d27-1ab6-4fcf-877f-650a2dc6975a
+exl-id: be7c1cc4-3c17-4e37-aae7-c8601d2222a0
 ---
 # Create Multiple Third-Party Ads
 
@@ -55,7 +55,7 @@ You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or a
       1. Click the ad name.
 
       1. Edit the ad settings.
-
+      
       1. Click **[!UICONTROL Save & submit for review]**.
 
 >[!MORELIKETHIS]
@@ -63,4 +63,4 @@ You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or a
 >* [About Ad Management](ad-about.md)
 >* [Ad Specifications](ad-specs.md)
 >* [Create a Single Ad](ad-create.md)
->* [Video: How to Bulk Upload Third-Party Ad Tags](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
+>* [Video: How to Bulk Upload Third-Party Ad Tags](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
