@@ -62,7 +62,7 @@ Where:
 **Format:**  `d_parameter=parameter_id`
 
     where:
-    
+
     * the parameter is prefixed by `&`
 
     * `parameter` is replaced by the key-value pair for the new field

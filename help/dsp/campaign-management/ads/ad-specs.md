@@ -171,7 +171,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
   * File type: JPEG, JPG, PNG, GIF, HTML
   * Maximum file size: 2 MB
   * Dimensions: 300x250
- 
+
 ## Native Display Ads
 
 Each ad can include either a still image or a moving GIF (cinemagraph).

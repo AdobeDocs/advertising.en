@@ -46,7 +46,7 @@ exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
     
        1. Narrow down the audience. This includes selecting audience segments to target within the placement.
 
-          For [!DNL] Roku placements, you can leverage [DSP’s unique audience matching with [!DNL Roku]](/help/dsp/inventory/roku-inventory.md) by including one or more one audience segments that can be matched against the [!DNL Roku] (opted-in) deterministic dataset.
+          For [!DNL Roku] placements, you can leverage [DSP’s unique audience matching with [!DNL Roku]](/help/dsp/inventory/roku-inventory.md) by including one or more one audience segments that can be matched against the [!DNL Roku] (opted-in) deterministic dataset.
       
       1. (For campaigns with people-level cross-device targeting; optional) When the placement targets one or more specific audiences, enable people-based cross-device targeting for the placement.
       
@@ -66,8 +66,8 @@ exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
 
     1. Click **[!UICONTROL Attach an ad]**.
 
-    1.  Do either of the following:
-    
+    1. Do either of the following:
+
       * To create a new ad:
 
          1. Click **[!UICONTROL Create a New Ad].**
@@ -131,5 +131,5 @@ exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
 >* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->*[Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
+>* [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
 >* [Video: How to Create a Standard Display Placement](https://video.tv.adobe.com/v/340454)

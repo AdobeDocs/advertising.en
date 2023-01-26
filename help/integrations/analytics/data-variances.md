@@ -147,13 +147,17 @@ For your integration, you should validate your click-through data to make sure t
 
 In [!DNL Analytics], one of the easiest ways to validate [!DNL Analytics for Advertising] tracking is to compare clicks to instances using the "Clicks to AMO ID Instances" calculated metric, which is calculated as follows:
 
-```Clicks to AMO ID Instances = (AMO ID Instances / AMO Clicks)```
+```
+Clicks to AMO ID Instances = (AMO ID Instances / AMO Clicks)
+```
 
 [!UICONTROL AMO ID Instances] represents the number of times that AMO IDs (`s_kwcid` parameters) are tracked on the site. Each time an ad is clicked, a `s_kwcid` parameter is added to the landing page URL. The number of [!UICONTROL AMO ID Instances], therefore, is analogous to the number of clicks and can be validated against actual ad clicks. We typically see an 80% match rate for [!DNL Search] and a 30% match rate for [!DNL DSP] traffic (when filtered to include only click-through [!UICONTROL AMO ID Instances]). The difference in expectations between search and display can be explained by the expected traffic behavior. Search captures intent, and, as such, users usually intend to click on the search results from their query. Users who see a display or online video ad, however, are more likely to click the ad unintentionally and then either bounce from the site or abandon the new window that loads before the page activity is tracked.
 
 In Adobe Advertising reports, you can similarly compare clicks to instances using the "[!UICONTROL ef_id_instances]" metric instead of [!UICONTROL AMO ID Instances]:
 
-```Clicks to [!UICONTROL EF ID Instances] = (ef_id_instances / Clicks)```
+```
+Clicks to [EF ID Instances = (ef_id_instances / Clicks)
+```
 
 While you should expect a high match rate between the AMO ID and the EF ID, don't expect 100% parity because AMO ID and EF ID fundamentally track different data, and this difference can lead to slight differences in the total [!UICONTROL AMO ID Instances] and [!UICONTROL EF ID Instances]. If the total [!UICONTROL AMO ID Instances] in [!DNL Analytics] differ from [!UICONTROL EF ID Instances] in Adobe Advertising by more than 1%, however, contact your [!DNL Adobe] account team for assistance.
 
@@ -162,20 +166,24 @@ For more information about the AMO ID and EF ID, see [Adobe Advertising IDs Used
 The following is an example of a workspace to track clicks to instances.
 
 ![Example of a workspace to track clicks to instances](/help/integrations/assets/a4adc-clicks-to-instances-example.png)
- 
+
 ## Comparing Data Sets in [!DNL Analytics for Advertising] Versus in Adobe Advertising
 
 The [AMO ID](ids.md) (s_kwcid query string parameter) is used for reporting in [!DNL Analytics], and the [EF ID](ids.md) is used for reporting in Adobe Advertising. Because they're distinct values, it's possible for one value to be corrupted or not added to the landing page.
 
 For example, suppose we have the following landing page:
 
-`www.adobe.com/?ef_id=test_ef_id&s_kwcid=test_amo_id`
+```
+www.adobe.com/?ef_id=test_ef_id&s_kwcid=test_amo_id
+```
 
 where the EF ID is "`test_ef_id`" and the AMO ID is "`test_amo_id`."
 
 If a site-side redirect occurs, then the URL could end up like this:
 
-`www.adobe.com/?ef_id=test_ef_id&s_kwcid=test_amo_id#redirectAnchorTag`
+```
+www.adobe.com/?ef_id=test_ef_id&s_kwcid=test_amo_id#redirectAnchorTag
+```
 
 where the EF ID is "`test_ef_id`" and the AMO ID is "`test_amo_id#redirectAnchorTag`."
 
@@ -217,7 +225,7 @@ The click data may also be recorded in environments that can't record click-thro
 
 ### Using Adobe Advertising Traffic Metrics for Non-Adobe Advertising Dimensions
 
-Adobe Advertising provides Analytics with [advertising-specific traffic metrics  and the related dimensions from DSP and [!DNL [!DNL Search]]](advertising-metrics-in-analytics.md). The Adobe Advertising-provided metrics are applicable only to the specified Adobe Advertising dimensions, and data isn't available for other dimensions in [!DNL Analytics].
+Adobe Advertising provides Analytics with [advertising-specific traffic metrics  and the related dimensions from [!DNL DSP] and [!DNL Search]](advertising-metrics-in-analytics.md). The Adobe Advertising-provided metrics are applicable only to the specified Adobe Advertising dimensions, and data isn't available for other dimensions in [!DNL Analytics].
 
 For example, if you view the [!UICONTROL AMO Clicks] and [!UICONTROL AMO Cost] metrics by Account, which is an Adobe Advertising dimension, then you'll see the total [!UICONTROL AMO Clicks] and [!UICONTROL AMO Cost] by account.
 

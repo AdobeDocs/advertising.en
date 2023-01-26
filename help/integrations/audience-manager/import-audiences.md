@@ -129,7 +129,7 @@ Segment membership data is sent only after one of the following events occurs:
 ## Where to Find Your Synced Segments
 
 ### In DSP
- 
+
 In DSP, segment names are organized by the Audience Manager taxonomy and available with the corresponding segment membership counts in:
 
 * [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md#audience-targeting): On the [!UICONTROL Adobe Segments] tab of the [!UICONTROL Audience Targeting] section.

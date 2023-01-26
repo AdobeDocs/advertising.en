@@ -119,7 +119,7 @@ exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Billable Net Spend]|The sum of [!UICONTROL Billable Spend (Media)], [!UICONTROL Billable Spend (Data)], and [!UICONTROL Billable Spend (Other)].|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Completion Rate]|The percentage of views that watched the ad in its entirety.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Completions]|The number of views that watched the ad in its entirety.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|100% Viewable Completion (%)]|The percentage of viewable impressions[!UICONTROL  that watched the ad in its entirety.|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Viewable Completion (%)]|The percentage of viewable impressions that watched the ad in its entirety.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 25% Completion Rate]|The percentage of views that watched at least one quartile of the ad.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 25% Completions]|The number of views that watched at least one quartile of the ad.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 50% Completion Rate]|The percentage of views that watched at least two quartiles of the ad.|

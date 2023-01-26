@@ -43,7 +43,7 @@ Main benefits:
 The following are examples of reports that you can create in [!DNL Analysis Workspace].
 
 ![See the impact of upper funnel activity on downstream site activity](/help/integrations/assets/audience-analytics-upper-funnel-exposure.png)
- 
+
 ### Use [!DNL Audience Analytics] Third-Party Segment Data for User Profile Analysis
 
 Use third-party Audience Manager segments for a richer analysis of how users are interacting with your site. You can use the information to determine new third-party audiences for which to activate media, based on how profiles from the third-party segments engage with key performance indicators for the media campaigns' sites.

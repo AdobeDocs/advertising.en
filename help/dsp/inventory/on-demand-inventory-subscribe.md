@@ -30,8 +30,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
     * Deals from **[!UICONTROL TV Broadcasters]**
 
-    * Deals from publishers who accept "tune-in" creatives
-    **[!UICONTROL Tune-In]**)
+    * Deals from publishers who accept "tune-in" creatives (**[!UICONTROL Tune-In]**)
 
     * Deals for which the publisher has applied 21+ targeting and accepts alcohol ads (**[!UICONTROL Legal drinking age]**)
 
@@ -59,8 +58,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
     * Deals from **[!UICONTROL TV Broadcasters]**
 
-    * Deals from publishers who accept "tune-in" creatives
-    **[!UICONTROL Tune-In]**)
+    * Deals from publishers who accept "tune-in" creatives (**[!UICONTROL Tune-In]**)
 
     * Deals for which the publisher has applied 21+ targeting and accepts alcohol ads (**[!UICONTROL Legal drinking age]**)
 

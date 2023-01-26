@@ -38,7 +38,7 @@ To apply one or more filters, do the following:
 
 **[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. All unavailable metrics are disabled. The available data categories include:
 
-* [!UICONTROL  Dimensions]
+* [!UICONTROL Dimensions]
 * [!UICONTROL Metrics]
 * [!UICONTROL Conversion Metrics] (sorted by advertiser)
 * [!UICONTROL Custom Goals] (sorted by advertiser)
@@ -136,4 +136,4 @@ To apply one or more filters, do the following:
 >* [Run a Custom Report](/help/dsp/reports/report-run-now.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 >* [About Report Destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
-* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [Available Report Columns](/help/dsp/reports/report-columns.md)

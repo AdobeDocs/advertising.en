@@ -41,7 +41,7 @@ This use case requires the following products and integrations:
 
 ![Click-through framework](/help/integrations/assets/target-ct-framework.png)
 
-When you add DSP macros to a click-through URL (the URL displayed when a user clicks an ad and reaches the landing page), DSP automatically captures the placement key by including ```${TM_PLACEMENT_ID}``` in the click-through URL. This macro captures the alphanumeric placement key and not the numeric placement ID.
+When you add DSP macros to a click-through URL (the URL displayed when a user clicks an ad and reaches the landing page), DSP automatically captures the placement key by including `${TM_PLACEMENT_ID}` in the click-through URL. This macro captures the alphanumeric placement key and not the numeric placement ID.
 
 ![Click-through URL appended to the landing page URL](/help/integrations/assets/target-ct-url.jpg)
 
@@ -93,7 +93,7 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
 
    1. From the **Data Source** drop-down menu, select **Ad Cloud**.
 
-   1. Within the Expression Builder, add ```d_event``` in the Key field and ```imp``` in the **Value** field, select **Add Rule**, and then save the trait.
+   1. Within the Expression Builder, add `d_event` in the Key field and `imp` in the **Value** field, select **Add Rule**, and then save the trait.
 
    ![Screenshot of a rule-based trait](/help/integrations/assets/target-am-trait.png)
 
@@ -111,7 +111,7 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
 
 <!-- [If separate page, add "Adobe" before first-use of product names.] -->
 
-The following instructions highlight information pertaining to the DSP use case. For full instructions, see "[Create an A/B Test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html."
+The following instructions highlight information pertaining to the DSP use case. For full instructions, see "[Create an A/B Test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html)."
 
 1. [Log into Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
@@ -205,7 +205,7 @@ Within Analysis Workspace, if you notice that activity and experiences data is m
 
 * On the same landing page, verify that a) the Hostname shown in the Adobe Debugger under Solutions> Target matches b) the Tracking Server shown in [!DNL Target] for the activity (under Goals & Settings > Reporting Settings).
 
-  [!DNL Analytics For Target] requires an [!DNL Analytics] tracking server to be sent in calls from [!DNL Target] to the [!DNL Modstats] data collection server for Analytics.<!-- just "to Analytics?">
+  [!DNL Analytics For Target] requires an [!DNL Analytics] tracking server to be sent in calls from [!DNL Target] to the [!DNL Modstats] data collection server for Analytics.<!-- just "to Analytics?"-->
 
   [Hostname value in Adobe Debugger](/help/integrations/assets/target-troubleshooting-hostname.png)
    

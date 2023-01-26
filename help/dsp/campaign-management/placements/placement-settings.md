@@ -169,7 +169,7 @@ To specify locations:
 
     You can search the list by keyword, key, deal ID, or custom tag.
 
-* [!UICONTROL On Demand] | [!UICONTROL Roku On Demand]: All [premium, non-guaranteed [!UICONTROL On Demand] inventory](/help/dsp/inventory/on-demand-inventory-about.md) (or [!UICONTROL On Demand] [!DNL] Roku deals for [!DNL Roku] placements) to which you've subscribed in [!DNL DSP]. You can include and exclude [!UICONTROL On Demand] inventory.
+* [!UICONTROL On Demand] | [!UICONTROL Roku On Demand]: All [premium, non-guaranteed [!UICONTROL On Demand] inventory](/help/dsp/inventory/on-demand-inventory-about.md) (or [!UICONTROL On Demand] [!DNL Roku] deals for [!DNL Roku] placements) to which you've subscribed in [!DNL DSP]. You can include and exclude [!UICONTROL On Demand] inventory.
 
     You can view the list by source or by feed. When you view the list by feed, you can search by feed name, feed key, or a selected publisher region, category tag, or characteristic tag.
 
@@ -180,14 +180,14 @@ To specify inventory targeting:
    1. Select the check box next to the inventory type name.
    1. (Optional) Change the sources to include:
       1. Click ![Edit](/help/dsp/assets/edit.png).
-      1. ([!UICONTROL Public] and [!UICONTROL On Demand] inventory) Click *[!UICONTROL *View by Source]** or **[!UICONTROL View by Feed]** to change how the sources are listed.
+      1. ([!UICONTROL Public] and [!UICONTROL On Demand] inventory) Click **[!UICONTROL View by Source]** or **[!UICONTROL View by Feed]** to change how the sources are listed.
       1. (When applicable) Filter the inventory as needed.
       1. Specify the sources to include and exclude:
          * To include a [!UICONTROL Public] or [!UICONTROL On Demand] source, click **[!UICONTROL Include]** next to the source name.
          * To include [!UICONTROL Private] sources:
             * To include all inventory in a deal, click **[!UICONTROL Include all]** next to the deal name.
             * To include an individual inventory source, expand the deal name, and then click the check box next to the source name.
-         * To exclude a [!UICONTROL Public] or [!UICONTROL On ] source, click **[!UICONTROL Exclude]** next to the source name.
+         * To exclude a [!UICONTROL Public] or [!UICONTROL On source], click **[!UICONTROL Exclude]** next to the source name.
    1. (Optional) To download a CSV file with the targeting information to your browser's Downloads location, click **[!UICONTROL Save & Export]**.
    1. Click **[!UICONTROL Save]**.
 

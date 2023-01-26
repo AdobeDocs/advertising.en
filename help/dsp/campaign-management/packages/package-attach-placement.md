@@ -32,7 +32,7 @@ exl-id: 443aa1a3-c8b9-4949-87be-5a37e67f00a8
 
         1. Click **[!UICONTROL Create New Placement]**.
 
-        1.  Select the ad type for the placement, and then click **[!UICONTROL Build this placement]**.
+        1. Select the ad type for the placement, and then click **[!UICONTROL Build this placement]**.
 
         1. Enter the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), and then click **[!UICONTROL Create Placement]**.
 
