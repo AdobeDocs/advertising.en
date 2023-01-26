@@ -27,8 +27,8 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
       For example, in the following URL, the ad key is `3NtNC5ZbaGZtqbei8jD3`
 
       ```
-	  https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads
-	  ```
+      https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads
+      ```
 
 1. Submit the ad to [!DNL Freewheel]:
 
