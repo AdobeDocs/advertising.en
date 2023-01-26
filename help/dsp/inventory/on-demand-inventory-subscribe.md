@@ -14,7 +14,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
 ## Subscribe to All of a Publisher's Deals
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL On Demand]**.
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL On Demand]**.
 
 1. (Optional) Filter the available deals or publishers by any of the following criteria:
 
@@ -43,7 +43,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
 ## Request Access to Individual Deals
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL On Demand]**.
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL On Demand]**.
 
 1. (Optional) Filter the available deals or publishers by any of the following criteria:
 

@@ -9,7 +9,7 @@ You can get a copy of event-tracking pixels for a [!UICONTROL Simple Ad Serving]
 
 The event pixels include a [!UICONTROL Clickthrough] pixel and an [!UICONTROL Impression] pixel. Video and audio ads also include event pixels by quartile completed (from [!UICONTROL 25% Complete] to [!UICONTROL 100% Complete]).
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals]**.
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 
 1. In the deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL show pixel]**.
 

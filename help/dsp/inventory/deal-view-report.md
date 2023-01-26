@@ -8,9 +8,9 @@ exl-id: 8a2e142e-0a05-47c7-9888-935665f06ad3
 
 The deal-level report includes the number of auctions, the bid rate, the win rate, the number of impressions, the total net spend, the effective CMP (eCPM), and the completion rate. You can view additional performance metrics by advertiser, campaign, placement, ad type, and site.
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals]**.
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 
-1. In the deal row, click **[!UICONTROL ...] > [!UICONTROL View Report]**.
+1. In the deal row, click **[!UICONTROL ...]** > **[!UICONTROL View Report]**.
 
 1. (Optional) Customize the date range for which you want to view the data.
  

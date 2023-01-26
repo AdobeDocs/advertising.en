@@ -13,14 +13,14 @@ Pause a live placement, or activate a paused placement when it's within the conf
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Placements]**.
-1. Next to the placement name, click  **[!UICONTROL ...] > [!UICONTROL Pause]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Pause]**.
 
 ## Activate a Paused Placement
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Placements]**.
-1. Next to the placement name, click  **[!UICONTROL ...] > [!UICONTROL Activate]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Activate]**.
 
 >[!MORELIKETHIS]
 >

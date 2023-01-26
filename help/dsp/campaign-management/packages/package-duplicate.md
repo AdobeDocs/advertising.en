@@ -19,7 +19,7 @@ See "[What's Not Duplicated](#package-not-duplicated)" for a list of placement s
 
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.
 
-1. Next to the package name, click  **[!UICONTROL ...] > [!UICONTROL Duplicate]**.
+1. Next to the package name, click  **[!UICONTROL ...]** > **[!UICONTROL Duplicate]**.
 
 1. Specify the new package settings:
 

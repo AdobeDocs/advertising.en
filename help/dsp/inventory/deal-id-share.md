@@ -16,9 +16,9 @@ You can stop sharing a deal with accounts to remove editing and targeting capabi
 
 ## Share a Deal ID with Accounts
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals]**.
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 
-1. In the deal row, click **[!UICONTROL ...] > [!UICONTROL Share]**.
+1. In the deal row, click **[!UICONTROL ...]** > **[!UICONTROL Share]**.
 
 1. For each account to share:
 
@@ -28,9 +28,9 @@ You can stop sharing a deal with accounts to remove editing and targeting capabi
 
 ## Stop Sharing a Deal ID with Accounts
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals]**.
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 
-1. In the deal row, click **[!UICONTROL ...] > [!UICONTROL Share]**.
+1. In the deal row, click **[!UICONTROL ...]** > **[!UICONTROL Share]**.
 
 1. Next to the [!UICONTROL Account Email] value, click **[!UICONTROL Unshare].**
 

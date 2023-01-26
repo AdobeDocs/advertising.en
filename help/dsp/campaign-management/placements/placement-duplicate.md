@@ -25,7 +25,7 @@ See "[What's Not Duplicated](#placement-not-duplicated)" for a list of placement
 
 1. Do either of the following:
 
-    * To duplicate one placement, click  **[!UICONTROL ...] > [!UICONTROL Duplicate]** next to the package name.
+    * To duplicate one placement, click  **[!UICONTROL ...]** > **[!UICONTROL Duplicate]** next to the package name.
 
     * To duplicate multiple placements:
 

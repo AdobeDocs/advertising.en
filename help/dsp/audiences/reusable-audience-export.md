@@ -8,7 +8,7 @@ exl-id: 6d69706e-4398-41e0-b7a3-04ba72b08bfc
 
 You can download a [!DNL Microsoft Excel] worksheet file with the audience configuration rule, the number of active and total audience members by device type, details about each segment in the audience, and all placements that target the audience.
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL All audiences]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 
 1. Hold the cursor over the audience row and click **[!UICONTROL Export XLS]**.
 

@@ -10,13 +10,13 @@ description: See descriptions of the available advertiser settings.
 
 **[!UICONTROL Advertiser Name]:** The advertiser name.
 
-**[!UICONTROL Category]:** The category in which the advertiser’s business operates. The category is communicated to the publishers when you bid on inventory. Make sure you choose a category that aligns with your ads, or publishers may reject your ads.
+**[!UICONTROL Category]:** The category in which the advertiser's business operates. The category is communicated to the publishers when you bid on inventory. Make sure you choose a category that aligns with your ads, or publishers may reject your ads.
 
 >[!NOTE]
 >
 >If you select *[!UICONTROL Other]*, then the advertiser won't be able to access DSP [!DNL On Demand Inventory].
 
-**[!UICONTROL Advertiser URL]:** The advertiser’s homepage or main website URL (beginning with `http://` or `https://`).
+**[!UICONTROL Advertiser URL]:** The advertiser's homepage or main website URL (beginning with `http://` or `https://`).
 
 **[!UICONTROL Share all private exchange feeds into this advertiser]:** (New advertiser accounts only) Makes all private exchange feeds configured for the organization's DSP account available to the advertiser.
 
@@ -32,9 +32,9 @@ Advertisers with additional Adobe Experience Cloud products can share data acros
 
 (Optional) Additional Experience Cloud products linked to the DSP account. The products must be associated with the same Experience Cloud organization ID provided in the [!UICONTROL Adobe IMS IDs] section.
 
-**[!UICONTROL Attribution services] > [!UICONTROL Adobe Media Optimizer]:** (Advertisers with [!DNL Adobe Advertising Search] or who use Adobe Advertising conversion pixels) A [!DNL Search] account with which DSP will exchange attribution data.
+**[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Advertisers with [!DNL Adobe Advertising Search] or who use Adobe Advertising conversion pixels) A [!DNL Search] account with which DSP will exchange attribution data.
 
-**[!UICONTROL Report suites] > [!UICONTROL Adobe Analytics]:** (Advertisers with Adobe Analytics; optional; applicable only to data collected using Adobe Advertising conversion tracking tags that include an [!DNL EF Redirect] and token only) One or more [!DNL Analytics] report suites to which DSP will send data it collects from publishers and supply-side partners. Analytics will also send the data it collects from the client’s site to DSP.
+**[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Advertisers with Adobe Analytics; optional; applicable only to data collected using Adobe Advertising conversion tracking tags that include an [!DNL EF Redirect] and token only) One or more [!DNL Analytics] report suites to which DSP will send data it collects from publishers and supply-side partners. Analytics will also send the data it collects from the client's site to DSP.
 
 For the data to appear in the report suites, the [!DNL Search] advertiser-level setting to "[!UICONTROL Enable tracking for SAINT feeds]" must be enabled. In addition, the advertiser's [!DNL Analytics] account must be configured to receive data from Adobe Advertising.
 
@@ -44,7 +44,7 @@ For the data to appear in the report suites, the [!DNL Search] advertiser-level 
 
 For more information about the integration with [!DNL Analytics], see "[Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)."
 
-**[!UICONTROL Audiences] > [!UICONTROL Adobe Analytics Cloud]:** (Advertisers with Adobe Audience Manager or Adobe Analytics; optional) An Audience Manager or [!DNL Analytics] account from which DSP will pull in segment metadata, hierarchy data, and unique audience data for all of the advertiser's Adobe audiences. This includes data for:
+**[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Advertisers with Adobe Audience Manager or Adobe Analytics; optional) An Audience Manager or [!DNL Analytics] account from which DSP will pull in segment metadata, hierarchy data, and unique audience data for all of the advertiser's Adobe audiences. This includes data for:
 
 * Audience Manager segments
 * [!DNL Analytics] segments that are published to Adobe Experience Cloud
@@ -65,7 +65,7 @@ You can optionally configure default targets for the advertiser's new placements
 
 ### [!UICONTROL Geo-targeting]
 
-**[!UICONTROL Countries]:** The default country for each placement’s geo-targeting. Users can change the country, and configure more specific geo-targeting, for each placement.
+**[!UICONTROL Countries]:** The default country for each placement's geo-targeting. Users can change the country, and configure more specific geo-targeting, for each placement.
 
 ### [!UICONTROL Audience Targeting]
 

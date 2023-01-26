@@ -8,9 +8,9 @@ exl-id: 48540a6c-54ee-4109-bdd6-293fbee5c3e5
 
 You can edit some settings for a [!UICONTROL Simple Ad Serving] deal that hasn't ended.
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In the deal row, click  **[!UICONTROL ...] > [!UICONTROL Edit]**.
+1. In the deal row, click  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
 
 1. Edit the [deal settings](simple-deal-settings.md).
 

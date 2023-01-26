@@ -8,7 +8,7 @@ exl-id: 8ff72e13-d0ae-4f61-904b-5d544878f58b
 
 You can create an audience by duplicating an existing audience.
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL All audiences]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 
 1. Hold the cursor over the audience row and click **[!UICONTROL Duplicate]**.
 

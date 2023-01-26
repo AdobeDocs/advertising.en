@@ -16,9 +16,9 @@ To post changes to some types of placement settings for a campaign, you can uplo
 
 1. Do either of the following:
 
-   * Next to the campaign name, click **[!UICONTROL ...] > [!UICONTROL Upload Excel QA sheet]**.
+   * Next to the campaign name, click **[!UICONTROL ...]** > **[!UICONTROL Upload Excel QA sheet]**.
 
-   * Click the campaign name to view the campaign details. In the upper right, click **[!UICONTROL ...] > [!UICONTROL Upload Excel QA sheet]**.
+   * Click the campaign name to view the campaign details. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Excel QA sheet]**.
 
 1. In the [!UICONTROL Edit in Excel] dialog:
 

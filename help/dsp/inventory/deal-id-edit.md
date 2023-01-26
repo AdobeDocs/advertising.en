@@ -8,9 +8,9 @@ exl-id: c6ab7d39-5581-423b-90aa-3e142c235072
 
 Changes to an accepted deal aren't synced from the SSP. If you've accepted a deal but the publisher has sent changes, you can edit some elements of the deal settings from [!UICONTROL Inventory] > [!UICONTROL Deals]. You can also rename a deal at any time.
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In the deal row, click  **[!UICONTROL ...] > [!UICONTROL edit]**.
+1. In the deal row, click  **[!UICONTROL ...]** > **[!UICONTROL edit]**.
 
 1. Edit the [deal settings](deal-id-settings.md).
 

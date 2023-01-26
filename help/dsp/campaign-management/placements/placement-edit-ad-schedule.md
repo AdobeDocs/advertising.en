@@ -16,7 +16,7 @@ You can change the scheduled flight dates and ad rotation for the ads attached t
 
 1. In the submenu, click **[!UICONTROL Placements]**.
 
-1. Next to the placement name, click  **[!UICONTROL ...] > [!UICONTROL Ad schedule]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Ad schedule]**.
 
     1. Do any of the following:
 

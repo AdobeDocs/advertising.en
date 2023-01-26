@@ -10,7 +10,7 @@ You can share your custom segments and CCPA opt-out of sale segments with additi
 
 You can also stop sharing a segment with other DSP user accounts.
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL Segments]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
 1. Hold the cursor over the segment row and click **[!UICONTROL Share]**.
 

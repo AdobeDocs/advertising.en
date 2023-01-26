@@ -24,7 +24,7 @@ exl-id: dbee2db6-6cb7-4c56-9c14-816ea071b760
 
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.
 
-1. Next to the package name, click  **[!UICONTROL ...] > [!UICONTROL Attach a Placement].**
+1. Next to the package name, click  **[!UICONTROL ...]** > **[!UICONTROL Attach a Placement].**
 
 1. Do either of the following:
 

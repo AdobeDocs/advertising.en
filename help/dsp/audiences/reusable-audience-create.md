@@ -10,7 +10,7 @@ exl-id: 5f4a0abb-c285-4452-a6c3-a91d5281df9b
 
 You can save and manage reusable audiences, which are groups of audience segments and even other saved audiences, which you can use as targets or exclusions for multiple placements.
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL All Audiences]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**.
 
 1. Above the data table, click **[!UICONTROL Create]**.
 
@@ -58,9 +58,9 @@ You can save and manage reusable audiences, which are groups of audience segment
    
      1. Copy the segment logic from the existing audience in any of the following ways:
      
-        * In the All Audiences view, hold the cursor over the audience row, and then click **[!UICONTROL More] > [!UICONTROL Copy to Clipboard]**.
+        * In the All Audiences view, hold the cursor over the audience row, and then click **[!UICONTROL More]** > **[!UICONTROL Copy to Clipboard]**.
         
-        * In the settings for the existing audience, at the top of the segment logic panel, click **[!UICONTROL More] > [!UICONTROL Copy to Clipboard]**.
+        * In the settings for the existing audience, at the top of the segment logic panel, click **[!UICONTROL More]** > **[!UICONTROL Copy to Clipboard]**.
         
         * In a text editor, manually create the segment logic using alphanumeric segment IDs and [Boolean syntax](audience-segment-logic-syntax.md), and copy it to your clipboard.
 

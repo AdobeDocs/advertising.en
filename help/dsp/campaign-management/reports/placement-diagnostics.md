@@ -18,7 +18,7 @@ The following tools can help you diagnose issues with placement setup and pacing
     1. Open the placement settings:
         1. In the main menu, click **[!UICONTROL Campaigns]**.
         1. Click the name of the campaign, and then click **[!UICONTROL Placements]**.
-        1. Next to the placement name, click  **[!UICONTROL ...] > [!UICONTROL Edit]**.
+        1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
     1. In the upper right, click ![Placement Diagnostics](/help/dsp/assets/placement-diagnostics.png) or **[!UICONTROL Diagnostic]**.
 1. Do any of the following:
     * To view the change log:

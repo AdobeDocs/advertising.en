@@ -13,7 +13,7 @@ You can sort the data by the Type, Modified By, or Date Modified column.
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Placements]**.
-1. Next to the placement name, click  **[!UICONTROL ...] > [!UICONTROL Change logs]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Change logs]**.
 
 >[!MORELIKETHIS]
 >

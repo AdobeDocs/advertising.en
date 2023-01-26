@@ -6,7 +6,7 @@ exl-id: 2a8d6cef-9c33-4483-ac1e-93778a231962
 ---
 # Create a Report Destination
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Report Destinations]**.
+1. In the main menu, click **[!UICONTROL Reports]** > **[!UICONTROL Report Destinations]**.
 
 1. Click **[!UICONTROL Add Destination]**.
 

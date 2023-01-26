@@ -437,7 +437,7 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
          * **[!UICONTROL Notes]:** (Optional) A description or other information about the pixel.
       1. Click **[!UICONTROL Create and attach]**.
       1. Implement the conversion pixel on the relevant webpages:
-         1. In the main menu, go to **[!UICONTROL Resources] > [!UICONTROL Conversion pixels]**.
+         1. In the main menu, go to **[!UICONTROL Resources]** > **[!UICONTROL Conversion pixels]**.
          1. In the pixel row, click **[!UICONTROL edit]**.
          1. Copy the value(s) in the [!UICONTROL HTML Tag] and [!UICONTROL Flash Tag] fields, as needed, to provide to the advertiser or website contact.
 

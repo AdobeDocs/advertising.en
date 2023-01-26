@@ -12,7 +12,7 @@ exl-id: 528c57f2-fa83-44d7-9ce4-509ca7565135
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign in which you want to create the package.
-1. On the Packages tab, click **[!UICONTROL Create] > [!UICONTROL Package]**.
+1. On the Packages tab, click **[!UICONTROL Create]** > **[!UICONTROL Package]**.
 1. Enter the [package settings](package-settings.md).
 1. Click **[!UICONTROL Save and Close]**.
 

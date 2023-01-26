@@ -8,7 +8,7 @@ exl-id: 4de6b9a4-2907-474d-92bf-83686a1f0b31
 
 When you edit an audience that is used in any placements or other reusable audiences, the changes are immediately applied to those placements and audiences.<!-- verify -->
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL All audiences]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 
 1. Hold the cursor over the audience row and click **[!UICONTROL Edit]**.
 
@@ -48,9 +48,9 @@ When you edit an audience that is used in any placements or other reusable audie
    
      1. Copy the segment logic from the existing audience in any of the following ways:
      
-        * In the All Audiences view, hold the cursor over the audience row, and then click **[!UICONTROL More] > [!UICONTROL Copy to Clipboard]**.
+        * In the All Audiences view, hold the cursor over the audience row, and then click **[!UICONTROL More]** > **[!UICONTROL Copy to Clipboard]**.
         
-        * In the settings for the existing audience, at the top of the segment logic panel, click **[!UICONTROL More] > [!UICONTROL Copy to Clipboard]**.
+        * In the settings for the existing audience, at the top of the segment logic panel, click **[!UICONTROL More]** > **[!UICONTROL Copy to Clipboard]**.
         
         * In a text editor, manually create the segment logic using alphanumeric segment IDs and [Boolean syntax](audience-segment-logic-syntax.md), and copy it to your clipboard.
         

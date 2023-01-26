@@ -20,7 +20,7 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
 
    1. In the submenu, click **[!UICONTROL Ads]**.
 
-   1. Click  **[!UICONTROL ...] > [!UICONTROL Edit]** next to the ad name.
+   1. Click  **[!UICONTROL ...]** > **[!UICONTROL Edit]** next to the ad name.
 
    1. Once the ad settings open, copy the alphanumeric ad key in the URL that is displayed in the browser's address bar.
 

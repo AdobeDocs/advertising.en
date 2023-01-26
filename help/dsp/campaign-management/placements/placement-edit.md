@@ -22,7 +22,7 @@ You can edit the settings for a single placement or for multiple placements at o
 
 1. In the submenu, click **[!UICONTROL Placements]**.
 
-1. Next to the placement name, click  **[!UICONTROL ...] > [!UICONTROL Edit]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
 
 1. Edit the [placement settings](placement-settings.md).
 

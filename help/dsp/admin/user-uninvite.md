@@ -11,9 +11,9 @@ You can uninvite a user with a pending invitation. Uninviting a user invalidates
 
 1. Do either of the following:
 
-    * In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Users]**.
+    * In the main menu, click **[!UICONTROL Settings]** > **[!UICONTROL Users]**.
 
-    * In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Account]**, and then click **[!UICONTROL Edit users]**.
+    * In the main menu, click **[!UICONTROL Settings]** > **[!UICONTROL Account]**, and then click **[!UICONTROL Edit users]**.
 
 1. In the **[!UICONTROL Invitations]** section, click **[!UICONTROL X]** next to the invitation.
 
