@@ -15,7 +15,7 @@ exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
 | [!DNL Adform] | X | X | | X | |
 | [!DNL ADITION Technologies] | | X | | | |
 | [!DNL ADman Media] | X | | | | |
-| [!DNL Adobe Advertising Creative] | | | | | |
+| [!DNL Adobe Advertising Creative ] | | | | | |
 | [!DNL ADventori] | | X | | | |
 | [!DNL Artsai] | | X | | X | |
 | [!DNL Atlas] | | | | X | |
