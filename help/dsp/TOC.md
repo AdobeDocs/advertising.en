@@ -2,7 +2,7 @@
 type: Documentation
 role: User, Admin 
 cloud: Experience Cloud
-solution: Advertising Cloud
+solution: Advertising, Advertising Cloud
 product: advertising cloud
 user-guide-title: Advertising DSP Guide
 user-guide-description: Learn about the major features, tasks, settings, and other resources required to manage, optimize, and report on your display ad strategies using Advertising DSP.

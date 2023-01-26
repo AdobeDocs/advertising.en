@@ -2,7 +2,7 @@
 type: Documentation
 role: User, Admin
 cloud: Experience Cloud
-solution: Advertising Cloud
+solution: Advertising, Advertising Cloud
 product: advertising cloud
 user-guide-title: Adobe Advertising Support for Consumer Privacy
 user-guide-description: Learn about the security and privacy controls that Adobe Advertising provides to help advertiser customers comply with consumer privacy laws.
