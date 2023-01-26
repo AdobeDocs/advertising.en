@@ -7,7 +7,7 @@ feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 
 You can create and assign tags to deal IDs to group similar deals together. When you create or edit a placement, you can search available inventory by tag name.
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals]**.
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 
 1. In the deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL edit tags]**.
 

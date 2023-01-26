@@ -12,7 +12,7 @@ You can sort the data by any column except for New Value and Old Value.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
-1. On the **[!UICONTROL Packages]** tab, next to the package name, click  **[!UICONTROL ...] > [!UICONTROL Change logs]**.
+1. On the **[!UICONTROL Packages]** tab, next to the package name, click  **[!UICONTROL ...]** > **[!UICONTROL Change logs]**.
 
 >[!MORELIKETHIS]
 >

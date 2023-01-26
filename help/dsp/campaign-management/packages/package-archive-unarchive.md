@@ -14,7 +14,7 @@ You can unarchive a package to restore its previous status at any time.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.
-1. Next to the package name, click  **[!UICONTROL ...] > [!UICONTROL Archive]**.
+1. Next to the package name, click  **[!UICONTROL ...]** > **[!UICONTROL Archive]**.
 1. In the confirmation message, click **[!UICONTROL Archive]**.
 
 >[!NOTE]
@@ -25,7 +25,7 @@ You can unarchive a package to restore its previous status at any time.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.
-1. Next to the package name, click  **[!UICONTROL ...] > [!UICONTROL Unarchive]**.
+1. Next to the package name, click  **[!UICONTROL ...]** > **[!UICONTROL Unarchive]**.
 1. In the confirmation message, click **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]

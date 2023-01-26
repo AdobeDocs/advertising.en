@@ -10,7 +10,7 @@ You can delete an audience that isn't used in any placements or other reusable a
 
 If an audience is currently used, then you'll have the option to export a [!DNL Microsoft Excel] worksheet showing all placements and audiences that use the audience.
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL All audiences]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 
 1. Hold the cursor over the audience row and click **[!UICONTROL Delete]**.
 

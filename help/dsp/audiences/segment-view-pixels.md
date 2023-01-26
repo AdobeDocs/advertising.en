@@ -6,7 +6,7 @@ exl-id: 3b67ab72-d7bb-45a0-b5ba-e4b811b7d2b3
 ---
 # View Tracking Pixels for a Segment
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL Segments]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
 1. Hold the cursor over the segment row and click **[!UICONTROL Get Pixel]**.
 

@@ -18,7 +18,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
 1. Confirm that the advertiser category for the applicable advertiser account is correct:
 
-    1. In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Advertisers].**
+    1. In the main menu, click **[!UICONTROL Settings]** > **[!UICONTROL Advertisers].**
 
     1. Hold the cursor over the advertiser row and click **[!UICONTROL Edit]**.
 
@@ -28,7 +28,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
 1. Re-request the inventory:
 
-    1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL On Demand]**.
+    1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL On Demand]**.
 
     1. Filter the available deals to include deals that you've requested (**[!UICONTROL Currently subscribed to]**)**.
 

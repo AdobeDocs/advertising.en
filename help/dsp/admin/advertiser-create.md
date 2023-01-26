@@ -8,7 +8,7 @@ description: Learn how to create an advertiser account.
 
 Advertisers are available to all users in the organization account.
 
-1. In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Advertisers]**.
+1. In the main menu, click **[!UICONTROL Settings]** > **[!UICONTROL Advertisers]**.
 
 1. Click **[!UICONTROL Create]**.
 

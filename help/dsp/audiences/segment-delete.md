@@ -8,7 +8,7 @@ exl-id: 2b5f61b1-b07d-45e1-bf1c-8e7c25ead42b
 
 Deleting a custom or CCPA opt-out of sale segment removes it from all placements and saved audiences that include it, and makes it unavailable for future use.
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL Segments]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
 1. Hold the cursor over the segment row and click **[!UICONTROL More]** > **[!UICONTROL Delete]**.
 

@@ -7,7 +7,7 @@ exl-id: 9f47aa2a-54c4-4fdc-b289-6c3586cc18e6
 
 ## Add a Subscription
 
-1. In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Notifications]**.
+1. In the main menu, click **[!UICONTROL Settings]** > **[!UICONTROL Notifications]**.
 
 1. At the top of the Notifications list, click **[!UICONTROL Add Subscription]**.
 

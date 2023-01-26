@@ -9,7 +9,7 @@ exl-id: 42208276-d766-41c8-a764-c79a20e302e6
 1. In the main menu, click **[!UICONTROL Reports]**.
 1. Do either of the following:
    * Click the report name.
-   * In the [!UICONTROL Options] column for the report row, click **[!UICONTROL options] > [!UICONTROL Edit]**.
+   * In the [!UICONTROL Options] column for the report row, click **[!UICONTROL options]** > **[!UICONTROL Edit]**.
 1. Edit the [report settings](/help/dsp/reports/report-settings.md).
 1. Click **[!UICONTROL Edit Custom Report]**.
 

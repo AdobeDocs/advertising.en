@@ -14,7 +14,7 @@ You can collect your own first-party audience data by creating and implementing 
 
 1. Create the segment:
 
-    1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL Segments]**.
+    1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
     1. Above the data table, click **[!UICONTROL Create]**.
 
@@ -30,7 +30,7 @@ You can collect your own first-party audience data by creating and implementing 
 
 1. Copy and implement tags to track the segment, as needed:
 
-    1. Return to **[!UICONTROL Audiences] > [!UICONTROL Segments]**.
+    1. Return to **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
     2. Hold the cursor over the segment row and click **[!UICONTROL Get Pixel]**.
 

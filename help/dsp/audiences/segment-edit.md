@@ -8,7 +8,7 @@ exl-id: 1df6bf2a-4008-46ec-8b4a-e3d0c8322e44
 
 You can edit the name and lookback window for a custom segment, or the name of a CCPA opt-out of sale segment. The segment tags don't change when you edit the settings.
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL Segments]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
 1. Hold the cursor over the segment row and click **[!UICONTROL Edit]**.
 

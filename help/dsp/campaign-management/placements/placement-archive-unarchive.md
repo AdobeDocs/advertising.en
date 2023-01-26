@@ -17,7 +17,7 @@ You can unarchive a placement to restore its previous status at any time.
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Placements]**.
-1. Next to the placement name, click  **[!UICONTROL ...] > [!UICONTROL Archive]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Archive]**.
 1. In the confirmation message, click **[!UICONTROL Archive]**.
 
 >[!NOTE]
@@ -29,7 +29,7 @@ You can unarchive a placement to restore its previous status at any time.
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Placements]**.
-1. Next to the placement name, click  **[!UICONTROL ...] > [!UICONTROL Unarchive]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Unarchive]**.
 1. In the confirmation message, click **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]

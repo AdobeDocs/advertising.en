@@ -10,9 +10,9 @@ exl-id: 51f3fa66-de70-4233-a866-ec48d72e88dc
 >
 >You can also [share and stop sharing a deal ID with all advertisers within specified accounts](deal-id-share.md).
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In the deal row, click  **[!UICONTROL ...] > [!UICONTROL Manage Advertisers]**.
+1. In the deal row, click  **[!UICONTROL ...]** > **[!UICONTROL Manage Advertisers]**.
 
 1. In the deal settings, select the check box next to each advertiser who should have access to the deal, and clear the check box next to each advertiser who shouldn't have access.
 

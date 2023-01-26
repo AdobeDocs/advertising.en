@@ -18,9 +18,9 @@ You can also [attach new ads to existing placements](/help/dsp/campaign-manageme
 
 ## Attach Placements and Ads to a PG Deal
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In the deal row, click  **[!UICONTROL ...] > [!UICONTROL Attach New Placement]**.
+1. In the deal row, click  **[!UICONTROL ...]** > **[!UICONTROL Attach New Placement]**.
 
 1. In the [!UICONTROL Ad & Campaign Selection] settings, select the ads to use for the placement:
 

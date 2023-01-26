@@ -8,7 +8,7 @@ exl-id: 1e1f45fe-d7f9-4c26-a557-c3d00f74edb8
 
 You can copy the alphanumeric segment key (ID) for an audience to the clipboard. You can use segment keys to [manually define segment logic](audience-segment-logic-syntax.md) for other reusable audiences.
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL All audiences]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 
 1. Hold the cursor over the audience row and click **[!UICONTROL More]** > **[!UICONTROL Copy to Clipboard]**.
 

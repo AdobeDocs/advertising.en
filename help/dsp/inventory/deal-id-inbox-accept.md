@@ -14,7 +14,7 @@ Use the [!UICONTROL Deal ID inbox] to quickly accept a private deal you've alrea
 >
 >Setting up programmatic guaranteed deals with publishers on [!DNL FreeWheel] requires extra permissions and steps. See "[Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](freewheel-overview.md)" for more information.
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
 1. Above the list of [!UICONTROL Deals], click the blue bar to open the [!UICONTROL Deal ID inbox].
 

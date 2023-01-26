@@ -12,7 +12,7 @@ exl-id: b256803d-45f9-445f-bf42-22cc7ce76792
 
 1. In the main menu, click **[!UICONTROL Reports]**.
 
-1. In the [!UICONTROL Options] column for the report row, click **[!UICONTROL options] > [!UICONTROL Run Now]**.
+1. In the [!UICONTROL Options] column for the report row, click **[!UICONTROL options]** > **[!UICONTROL Run Now]**.
 
 1. In the confirmation message, click **[!UICONTROL OK]**.
 

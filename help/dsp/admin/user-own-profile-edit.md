@@ -7,7 +7,7 @@ exl-id: 8dc15996-db6e-4c37-a919-d0d49e7b8396
 
 Your account profile includes your login credentials and other information. Some user roles can also view information about your organization's account and invite additional people to create user accounts in the organization account.
 
-1. In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Account].**
+1. In the main menu, click **[!UICONTROL Settings]** > **[!UICONTROL Account].**
 
 1. Edit your profile settings:
 

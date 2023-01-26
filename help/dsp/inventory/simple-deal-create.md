@@ -6,7 +6,7 @@ exl-id: 77d5dabd-1a0d-4dce-8a9a-8d54a637e15d
 ---
 # Create a [!UICONTROL Simple Ad Serving] Deal
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
 1. Above the data table, click **[!UICONTROL Create]**, and then select **[!UICONTROL Simple Ad Serving]**.
 

@@ -8,13 +8,13 @@ exl-id: bbb99f6a-0276-4eb8-9607-75500d5634d9
 
 Auction Insights is a troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for [key auction attributes](#auction-attributes) within a specific time period.
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In the deal row, click  **[!UICONTROL ...] > [!UICONTROL Auction Insights]**.
+1. In the deal row, click  **[!UICONTROL ...]** > **[!UICONTROL Auction Insights]**.
 
 >[!NOTE]
 >
->Auction Insights are also available through the placement [!UICONTROL Inspector] tool. To open them, [open the placement [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) to the [!UICONTROL Inventory tab], and then click **[!UICONTROL ...] > [!UICONTROL Auction Insights]** in the deal row.
+>Auction Insights are also available through the placement [!UICONTROL Inspector] tool. To open them, [open the placement [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) to the [!UICONTROL Inventory tab], and then click **[!UICONTROL ...]** > **[!UICONTROL Auction Insights]** in the deal row.
 
 ## Auction Attributes {#auction-attributes}
 

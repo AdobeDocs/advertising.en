@@ -18,7 +18,7 @@ You can export a snapshot of the current, filtered campaign management view to a
 
 1. In the main menu, click **[!UICONTROL Campaigns]** and open the view you want to export.
 
-1. In the upper right toolbar, click  **[!UICONTROL ...] > [!UICONTROL Export]**.
+1. In the upper right toolbar, click  **[!UICONTROL ...]** > **[!UICONTROL Export]**.
 
      The file is saved to your browser's default Downloads folder.
 

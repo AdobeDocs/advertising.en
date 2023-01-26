@@ -31,7 +31,7 @@ Once the segment pixel tag is implemented, Adobe Advertising will begin to colle
 
 1. Copy and implement a pixel tag to track the segment:
 
-    1. Return to **[!UICONTROL Audiences] > [!UICONTROL Segments]**.
+    1. Return to **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
     1. In the segment row, hold the cursor over the new segment and click **[!UICONTROL Get pixel]**.
 

@@ -6,7 +6,7 @@ exl-id: b7ef5af5-0b82-474b-b769-135f80ba5460
 ---
 # View Details About a Reusable Audience
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL All audiences]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 
 1. Hold the cursor over the audience row and click **[!UICONTROL View Details]**.
 

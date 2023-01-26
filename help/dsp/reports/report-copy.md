@@ -10,7 +10,7 @@ Duplicate a custom report to create a new report with similar settings.
 
 1. In the main menu, click **[!UICONTROL Reports]**.
 
-1. In the Options column for the report row, click **[!UICONTROL options] > [!UICONTROL Copy]**.
+1. In the Options column for the report row, click **[!UICONTROL options]** > **[!UICONTROL Copy]**.
 
 1. (Optional) Edit the [report settings](/help/dsp/reports/report-settings.md) as needed.
 

@@ -6,7 +6,7 @@ exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
 ---
 # Manually Create Deal ID Details
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
 1. Above the data table, click **[!UICONTROL Create]**, and then select **[!UICONTROL Deal ID]**.
 

@@ -18,13 +18,13 @@ For any additional questions or issues with resubmission, contact your [!DNL Ado
 
 1. In the submenu, click **[!UICONTROL Ads]**.
 
-1. Next to the ad name, click  **[!UICONTROL ...] > [!UICONTROL see Freewheel status]**.
+1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL see Freewheel status]**.
 
-1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More] > [!UICONTROL Resubmit]**.
+1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More]** > **[!UICONTROL Resubmit]**.
 
 ## Check the Status from the [!UICONTROL Deals] View
 
-1. In the main menu, click **[!UICONTROL Inventory] > [!UICONTROL Deals].**
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
 1. Do either of the following:
 
@@ -38,7 +38,7 @@ For any additional questions or issues with resubmission, contact your [!DNL Ado
    
    For failed submissions, the [!UICONTROL API] Response column indicates the error. For a full list of error codes for failed submissions, and next steps to correct them, see "[Error Codes for [!DNL FreeWheel] Ad Submissions](freewheel-error-codes.md)."
 
-1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More] > [!UICONTROL Resubmit]**.
+1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More]** > **[!UICONTROL Resubmit]**.
 
 >[!MORELIKETHIS]
 >

@@ -16,11 +16,11 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search] accou
 
 1. Log into [!DNL Adobe Advertising Search] at (U.S. companies) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) or (companies in all other countries) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Make sure the metrics that you want to include in your goal have been tracked, are available in the product, and include a display name:
-    1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Transaction Properties]**.
+    1. In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Admin] > [!UICONTROL Transaction Properties]**.
     1. Locate the metric, and make sure that **[!UICONTROL Show in UI and Reports]** is enabled for the metric.
     1. If the metric doesn't have a value in the **[!UICONTROL Display Name]** column, click in the cell, enter the display name, and then click **[!UICONTROL Apply].**
 1. Create the custom goal as an *objective*:
-    1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Optimization] > [!UICONTROL Objectives]**.
+    1. In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Optimization] > [!UICONTROL Objectives]**.
     1. In the toolbar, click **[!UICONTROL Create objective].**
     1. Enter the objective settings:
         1. In the **[!UICONTROL Change Objective Name]** field, enter the objective name.

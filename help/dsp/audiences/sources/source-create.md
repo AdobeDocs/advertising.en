@@ -16,7 +16,7 @@ Create a source to import audiences to your DSP account or an advertiser account
 >
 >After you create a source for the [!DNL Real-Time CDP], you'll need to activate your [!DNL Real-Time CDP] audiences through the Adobe Advertising DSP destination within [!DNL Real-Time CDP] to begin importing them. See [the steps in the activation workflow](source-about.md#workflow-sources).
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL Sources (BETA)].
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Sources (BETA)].
 
 1. Click [!UICONTROL Add Source].
 
