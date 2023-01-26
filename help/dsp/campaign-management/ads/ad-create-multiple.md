@@ -55,7 +55,7 @@ You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or a
       1. Click the ad name.
 
       1. Edit the ad settings.
-      
+
       1. Click **[!UICONTROL Save & submit for review]**.
 
 >[!MORELIKETHIS]

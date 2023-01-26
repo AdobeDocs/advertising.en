@@ -43,4 +43,4 @@ For each placement, you can open a detailed view ([the [!UICONTROL Inspector]](/
 >* [Create a Placement](placement-create.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
->*[Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
+>* [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)

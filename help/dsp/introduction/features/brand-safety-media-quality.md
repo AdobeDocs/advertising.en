@@ -49,7 +49,7 @@ Inventory mapping is the detailed review and on-boarding process required for al
    * Brand safety
 
    * Ad type verification
- 
+
    * Generic content, duplicate domains, and fake ad serving
 
 * **Tiering:** We holistically examine brand presence in the overall ecosystem to classify inventory across different tiers. You can [target your placements](/help/dsp/campaign-management/placements/placement-settings.md) to these tiers for the desired level of reach:

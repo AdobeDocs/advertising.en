@@ -29,13 +29,13 @@ For any additional questions or issues with resubmission, contact your [!DNL Ado
 1. Do either of the following:
 
    * Under the [!UICONTROL Deal ID inbox], click **[!UICONTROL View Freewheel creative status]**.
-  
+
    * In any deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL see Freewheel status]**.
 
 1. (Optional) Filter the data to help you locate specific deals and ads.
 
    The [!UICONTROL Submission Status] column indicates if the ad was submitted and approved.
-   
+
    For failed submissions, the [!UICONTROL API] Response column indicates the error. For a full list of error codes for failed submissions, and next steps to correct them, see "[Error Codes for [!DNL FreeWheel] Ad Submissions](freewheel-error-codes.md)."
 
 1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More] > [!UICONTROL Resubmit]**.

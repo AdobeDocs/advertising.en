@@ -28,19 +28,19 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search] accou
            The objective name will be shown in the [!UICONTROL Custom Goals] list in the DSP package settings.
 
         1. Associate properties with the objective:
-        
+
            >[!NOTE]
            >
            > All transaction properties tracked for the advertiser are listed by default in the [!UICONTROL Available Properties] list.
 
             * To import a CSV file with properties and their weights, click **[!UICONTROL Import]** and locate the file to import.
-            
+
                The imported properties must already exist for the advertiser; the names aren't case-sensitive.
-               
+
                The imported properties replace any existing properties specified.
-               
+
             * To manually specify the first property with the default weight (1), select from a list of all transaction properties tracked for the advertiser.
-            
+
             * To manually add another property with the default weight (1), click **[!UICONTROL +]** .
 
                >[!TIP]
@@ -53,9 +53,9 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search] accou
                >
                >* To search for a property in the list, enter a string from anywhere within the property name in the input field.
                >* To filter the list to exclude properties that are excluded in reports, select the option **[!UICONTROL Hide properties excluded from reports].**
-               
+
             * (When the objective contains multiple properties) To change the weight of a property relative to the other properties in the objective, enter values in the **[!UICONTROL Weight]** field(s).
-            
+
         1. At the bottom of the settings, click **[!UICONTROL Save]**.
 
 Once you create an objective, you can assign it to a DSP package as a custom goal when the optimization goal is "[!UICONTROL Highest ROAS - Custom Goal]" or "[!UICONTROL Lowest CPA - Custom Goal]."

@@ -22,9 +22,9 @@ You can stop sharing a deal with accounts to remove editing and targeting capabi
 
 1. For each account to share:
 
-  1. Enter the **[!UICONTROL Email Address]** for the account with access to the deal.
-  
-  1. Click **[!UICONTROL Share]**.
+   1. Enter the **[!UICONTROL Email Address]** for the account with access to the deal.
+
+   1. Click **[!UICONTROL Share]**.
 
 ## Stop Sharing a Deal ID with Accounts
 

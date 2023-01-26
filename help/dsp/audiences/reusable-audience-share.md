@@ -10,11 +10,11 @@ If you're not already sharing an audience with the advertisers available to your
 
 Once you share an audience, you can't stop sharing it.
 
-1. In the main menu, click **[!UICONTROL Audiences] > [!UICONTROL All audiences]**.
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 
 1. Hold the cursor over the audience row and click **[!UICONTROL Share]**.
 
-1. Select the option to **[!UICONTROL Share with all advertisers in my account ]**.
+1. Select the option to **[!UICONTROL Share with all advertisers in my account]**.
 
 1. Click **[!UICONTROL Save]**.
 

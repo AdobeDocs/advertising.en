@@ -70,7 +70,7 @@ All of these steps are necessary for Adobe Advertising. For more information abo
 
 ## Required Field Values in Adobe Advertising JSON Requests
 
-``"company context": 
+`"company context":`
 
 * `"namespace": **imsOrgID**`
 * `"value":` <*your IMS Org ID value*>

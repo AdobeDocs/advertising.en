@@ -32,7 +32,7 @@ Create a source to import audiences to your DSP account or an advertiser account
 
 1. Click **[!UICONTROL Save]**.
 
-1.  In Experience Platform, create an Advertising DSP destination connection using the [!UICONTROL Source Key] that was generated in the DSP source settings.
+1. In Experience Platform, create an Advertising DSP destination connection using the [!UICONTROL Source Key] that was generated in the DSP source settings.
 
    For instructions for activating the DSP destination connection, selecting segments, and accessing control permissions, see "[Adobe Advertising Cloud DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)."
 

@@ -62,7 +62,7 @@ Where:
 **Format:**  `d_parameter=parameter_id`
 
     where:
-    
+
     * the parameter is prefixed by `&`
 
     * `parameter` is replaced by the key-value pair for the new field
@@ -120,7 +120,7 @@ Example trait that populates user-level data for users exposed to a specific cre
 
 1. Identify the event as `d_event = imp`. 
 1. Identify the creative ID within the DSP campaign, and then map it to the trait as `d_creative=[Creative ID]`.
- 
+
 ![Trait creation screen](/help/dsp/assets/aa-trait.png)
 
 >[!MORELIKETHIS]

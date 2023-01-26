@@ -13,7 +13,7 @@ In DSP, you can create and manage audience segments and audience sets, which you
    * [Custom segments](/help/dsp/audiences/custom-segment-create.md) to track a) users exposed to ads from desktop, mobile, and CTV devices and b) users who visit specific webpages.
 
    * [CCPA opt-out-of-sale segments](/help/dsp/audiences/ccpa-opt-out-segment-create.md) to track the users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). You can retrieve monthly reports of the user IDs from opt-out-of-sale requests.
-   
+
       For more information about Adobe Advertising support for CCPA opt-out-of-sale requests, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa-opt-out-of-sale.md).
 
 * You can create an audience library of [reusable audiences](/help/dsp/audiences/reusable-audience-create.md). Saved audiences are composed of any of your available audience segments and any of your other saved audiences. Any changes you make to a saved audience are automatically applied to all placements that target or exclude the audience and to all other audiences that include the saved audience.
@@ -41,7 +41,7 @@ You can target your placements to all of the following types of audiences.
 * All user-created audience segments that were created in DSP:
 
    * Custom segments for users who visited specific webpages and users exposed to impressions of specific ads.
-   
+
    * CCPA opt-out-of-sale audience segments for users who submitted opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA).
 
 * All of your imported first-party data segments.
@@ -51,15 +51,15 @@ You can target your placements to all of the following types of audiences.
 * (Placements targeting the U.S. only) [All third-party data segments available to DSP customers from over 30 providers](/help/dsp/audiences/third-party-data-providers.md), including [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast], and many more.
 
    You can target specific segments, which target users based on audience data (for example, users with specific demographics, interests or intents, and/or behavioral profiles). You can browse by data provider and category, search for segments by name or segment ID, or filter the results by data provider, total segment size, web browser count, or devices count.
-   
+
    Third-party segments incur additional fees, which are indicated next to each segment name.
 
 * (Advertisers with Adobe Experience Platform and [!DNL Real-Time CDP], Adobe Audience Manager, or Adobe Analytics who use Adobe Advertising JavaScript conversion tags only) All of your available first-, second-, or third-party audience segments created in [!DNL Real-Time CDP], created in Audience Manager, or published to Adobe Experience Cloud from Audience Manager or [!DNL Analytics].
 
    Pricing for the use of the segments is pre-negotiated and isn't visible in DSP.
-   
+
    Segments from [!DNL Analytics] are available about an hour after you create or publish them as Experience Cloud audiences. Segments coming directly from Audience Manager or [!DNL Real-Time CDP] are available within 24 hours after you share them.
-   
+
    >[!NOTE]
    >
    >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html), and [the [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) for information about setting up and collecting data for segments in those solutions.
@@ -71,7 +71,7 @@ Within saved audience settings and placement settings, you can see detailed audi
 * The total and active deduplicated audience size across all selected segments and saved audiences is displayed, and you can view details by device type (browser, mobile, or connected TV).
 
    ![the combined audience size](/help/dsp/assets/audience-size.png)
-   
+
 * For individual segments and saved audiences, the total audience size and CPM (when applicable) are displayed next to the segment name. You can view more details about the segment, including the size by device type (browser, mobile, or connected TV). For saved audiences, the total size is the deduplicated total.
 
    ![the individual segment size](/help/dsp/assets/audience-size-segment.png)

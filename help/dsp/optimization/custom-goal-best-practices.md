@@ -45,11 +45,11 @@ There are two scenarios in which you would use multiple properties in a custom g
 * The single property in your custom goal isn't achieving the minimum of 10 conversions per day required for optimized performance. This can occur because of minimal daily package spend or a limited number of natural conversions. Adding additional supporting properties to the custom goal can help you achieve the 10-conversions-per-day threshold. Ten supporting events can help a package meet the 10/day threshold, even when each of their weights is below one (1). But you may not need to add that many events.
 
    When you add supporting properties to a custom goal, weight them according to their relative importance to the main success event, and keep in mind the quantity of data points. This allows the Adobe Sensei algorithm to balance multiple properties and optimize toward your goal.
-   
+
    The following example objective includes three properties, each with a different weight: Application Submit = 1, Application Start = 0.1, and Advertiser Landing Page = 0.01. This means that each Application Submit conversion has the same value to your business as an average of 10 Application Start conversions and 100 Advertiser Landing Page conversions.
 
    ![example of a custom goal with multiple properties](/help/dsp/assets/custom-goal-multiple-properties2.png)
-   
+
    If, instead, you weighted Landing Page visits equally to Application Submits, the naturally higher quantity of landing page visits could overwhelm your goal and skew to landing page visits.<!--reword-->
 
 >[!MORELIKETHIS]
