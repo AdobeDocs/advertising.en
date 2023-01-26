@@ -48,7 +48,7 @@ For more information about the integration with [!DNL Analytics], see "[Overview
 
 * Audience Manager segments
 * [!DNL Analytics] segments that are published to Adobe Experience Cloud
-* Segments that are created in Adobe Experience Cloud using the [!DNL People core service]
+* Segments that are created using the Adobe Experience Cloud [!DNL Audience Library]
 * Segments that are created in Adobe Experience Platform and sent to Adobe Advertising via Audience Manager
 
 The initial sync takes about 24 hours. After that, data is synced in real time, with a one- to two- second delay.

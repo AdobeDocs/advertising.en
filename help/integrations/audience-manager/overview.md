@@ -16,7 +16,7 @@ You can integrate Adobe Advertising with Audience Manager in the following ways.
 
 *Opted-in advertisers with [!DNL Advertising Search] only*
 
-Within [!DNL [!DNL Search]], you can create [!DNL Google Ads] Google customer match audiences from user IDs using your existing Audience Manager segments that have [!UICONTROL Adobe Media Optimizer (HTTP)] and [!UICONTROL Adobe Media Optimizer Batch Destination] as destinations. ([!DNL Media Optimizer] is a former name for [!DNL [!DNL Search]].) This includes Adobe Analytics segments that are published to Adobe Experience Cloud and segments that are created in Adobe Experience Cloud using the [!DNL People core service]. For more information, see the in-product help within [!DNL [!DNL Search]].
+Within [!DNL [!DNL Search]], you can create [!DNL Google Ads] Google customer match audiences from user IDs using your existing Audience Manager segments that have [!UICONTROL Adobe Media Optimizer (HTTP)] and [!UICONTROL Adobe Media Optimizer Batch Destination] as destinations. ([!DNL Media Optimizer] is a former name for [!DNL [!DNL Search]].) This includes Adobe Analytics segments that are published to Adobe Experience Cloud and segments that are created using the Adobe Experience Cloud [!DNL Audience Library]. For more information, see the in-product help within [!DNL [!DNL Search]].
 
 [Customer match audiences from user IDs](https://support.google.com/google-ads/answer/9199250) work like website tag-based audiences, but a non-PII ID is assigned to unique audience members for distinct benefits over standard customer match and website tag-based audiences.
 
