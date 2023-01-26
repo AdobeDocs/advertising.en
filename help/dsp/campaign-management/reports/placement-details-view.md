@@ -35,7 +35,7 @@ The Placement [!UICONTROL Inspector] lists all targeted sites, ads, and deals in
     * To view all ads in the placement, click **[!UICONTROL Ads]**.
 
     * To view frequency data for the placement, click **[!UICONTROL Frequency]**.
-    
+
     * To view all deals that the placement targets, click **[!UICONTROL Inventory]**.
 
 1. (Optional) [Change the column view](column-view-change.md) as needed to view the required metrics.

@@ -14,8 +14,9 @@ Your account profile includes your login credentials and other information. Some
    * To edit the email address for the user account:
 
       1. Next to the existing **[!UICONTROL Email address]**, click **[!UICONTROL Edit]**.
-      
+
       1. Enter the new email address and the existing password for the user account.
+
       1. Click **[!UICONTROL Continue]**.
 
    * To edit the password for the user account:
@@ -49,7 +50,7 @@ Your account profile includes your login credentials and other information. Some
       1. Next to the existing **[!UICONTROL Google AdEx ID]**, click **[!UICONTROL Change]**.
 
       1. Enter the new **[!UICONTROL Ad Group ID]**.
-      
+
       1. Click **[!UICONTROL Save]**.
 
 1. Click **[!UICONTROL Save]**.

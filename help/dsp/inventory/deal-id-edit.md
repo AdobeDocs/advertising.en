@@ -15,7 +15,7 @@ Changes to an accepted deal aren't synced from the SSP. If you've accepted a dea
 1. Edit the [deal settings](deal-id-settings.md).
 
     You can edit the [!UICONTROL Deal Name], [!UICONTROL Media Type] (when the deal includes multiple media types), [!UICONTROL CPM] value, [!UICONTROL Account email], [!UICONTROL Advertisers that can access this deal], [!UICONTROL Flight dates], and [!UICONTROL Impressions].
-    
+
     You can't edit the [!UICONTROL Deal ID], [!UICONTROL Publisher], [!UICONTROL SSP], [!UICONTROL Deal Type], or [!UICONTROL Billing Method]. 
 
 1. Click **[!UICONTROL Save]**.

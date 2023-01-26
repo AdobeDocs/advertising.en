@@ -21,23 +21,23 @@ exl-id: cd9763a7-99d4-4881-9df9-b4e24c55be0f
 1. (Guaranteed deals only) Select the ads that to use for the deal and create a default programmatic guaranteed (PG) placement.
 
    Default PG placements ensure that your deal always returns a bid for each bid request. If you don't create a default PG placement, then any placements that target the deal don't place bids unless they're set up correctly. You should always create a default PG placement. In the [!UICONTROL Placements] view, default PG placements have a [!UICONTROL Sub-type] column value of "[!UICONTROL PG Default]."
-   
+
    You can optionally use the deal as an inventory target in additional placements but must set them up correctly to place bids.
 
     1. In the [!UICONTROL Ad & Campaign Selection] settings, select the ads that will be used for the deal:
 
        1. Select the advertiser, campaign, and ad type. Optionally select an ad status by which to filter the ads.
-        
+
        1. From the list of available ads, select the check box next to each ad to use for the deal.
 
        1. Click **[!UICONTROL Apply]**.
 
     1. In the placement settings screen:
-    
+
        1. Enter the placement name.
-        
+
        1. (Optional) Edit the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), including overwriting the default bid, which is automatically populated with the CPM value from the deal; changing the date range; or attaching more ads.
-       
+
          The deal is automatically targeted in the Inventory Targets section. All other targeting options are inapplicable.
 
        1. Click **[!UICONTROL Create placement]**.

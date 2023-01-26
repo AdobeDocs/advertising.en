@@ -58,20 +58,20 @@ The following measurement solution packages are available to validate the succes
   * Experiment Designer (Placebo and A/B Testing)
 
   * People-Based Reach
-  
-      Any organization looking to measure across multiple digital tactics; organizations looking to showcase the value of audio
+
+     Any organization looking to measure across multiple digital tactics; organizations looking to showcase the value of audio
 
   * Household-Based Reach, Frequency, and Conversion Measurement
 
-      Any client looking to understand reach/incremental reach and cost-based efficiencies and/or conversion metrics across multiple digital tactics
+     Any client looking to understand reach/incremental reach and cost-based efficiencies and/or conversion metrics across multiple digital tactics
 
   * Cross-Screen Reach, Frequency, and Conversion Measurement
 
-      Any client looking to understand reach/incremental reach and cost-based efficiencies and/or conversion metrics across multiple digital tactics relative to Linear TV investment
+     Any client looking to understand reach/incremental reach and cost-based efficiencies and/or conversion metrics across multiple digital tactics relative to Linear TV investment
 
   * Dynata Panel-Based Surveys
 
-      Any client looking to measure brand awareness and perception across multiple screens; best suited for niche audiences
+     Any client looking to measure brand awareness and perception across multiple screens; best suited for niche audiences
 
 * **QSR, Retail (Brick and Mortar):**
 
@@ -83,7 +83,7 @@ The following measurement solution packages are available to validate the succes
 
   * Transaction Insights
 
-      Any client looking to reach a particular type of shopper to drive in-store and online sales
+     Any client looking to reach a particular type of shopper to drive in-store and online sales
 
 ## More Information
 

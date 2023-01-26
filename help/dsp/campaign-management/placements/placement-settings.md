@@ -25,7 +25,7 @@ exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
 1. Do either of the following:
 
    * To reuse all target from a template, select the check box next to the template name.
-   
+
    * To reuse individual target types from a template, expand the template name and select the check box next to  the target types you want to reuse.
 
 1. Click **[!UICONTROL Apply]**.
@@ -302,13 +302,14 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 **[!UICONTROL Secondary Cap]:** (Optional; available when you include a numeric [!UICONTROL Placement Cap]) An additional limitation within the bounds of the primary placement cap. Select the number of impressions and the time period (such as 3 per 12 hours).
 
 **[!UICONTROL Day Parting]:** (Optional) Specific days of the week and time of day in which ads may run. To specify dayparting intervals:
+
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Select the applicable time zone.
 1. Specify the intervals:
    * To select a preset interval, click one of the interval buttons. Options include *[!UICONTROL Weekends]**, *[!UICONTROL Weekdays]*, *[!UICONTROL Morning]*, *[!UICONTROL Lunch]*, *[!UICONTROL Dinner]*, or *[!UICONTROL Prime]* (primetime).
    * To manually select an interval, click inside a cell and optionally drag to select the interval.
 1. Click **[!UICONTROL Save]**.
- 
+
 **[!UICONTROL Topic Targeting]:** (Optional; available to advertisers configured with [!DNL Comscore] and [!DNL Grapeshot] segments) Specific segment names or IDs from [!DNL Comscore] and [!DNL Grapeshot] to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your [!DNL Adobe] account team.
 
 To specify topic targeting:
@@ -379,7 +380,7 @@ To specify topic targeting:
 * [!UICONTROL DoubleVerify]:
 
    * **[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** By default, blocks all 100% invalid traffic, including traffic on highjacked devices, for new placements. Additional fees may apply.
-   
+
    * **[!UICONTROL Also block sites with]:** (Optional) An additional level of fraud and invalid traffic that will cause DSP to block ads by default:  *[!UICONTROL None]* (the default, which doesn't block additional traffic), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]*, or *[!UICONTROL >25% Average Fraud/IVT levels]*. Additional fees may apply.
 
 * [!UICONTROL Peer 39]:

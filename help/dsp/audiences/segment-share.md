@@ -17,9 +17,9 @@ You can also stop sharing a segment with other DSP user accounts.
 1. Do either of the following:
 
     * To share the segment:
-    
+
       1. Enter the **[!UICONTROL E-mail Address]** for the DSP user, and then click **[!UICONTROL +]**.
-      
+
       1. (Optional) For each additional user, enter another **[!UICONTROL E-mail Address]** and then click **[!UICONTROL +]**.
 
     * To stop sharing the segment with a user, click **[!UICONTROL Unshare]** next to the email address.

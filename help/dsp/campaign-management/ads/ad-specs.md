@@ -57,7 +57,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 * **HBO Max:** See HBO Max's [ad specifications](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
 * **NBCUniversal:**
- 
+
   * [Digital Video](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
 
   * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
@@ -151,7 +151,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
   * File type: JPEG, JPG, PNG, GIF, SWF, HTML
   * Maximum file size: 2.2 MB
   * Dimensions: 300x250
-  
+
 * **[!DNL Pandora]:**
   * File type: JPEG, GIF
   * Maximum file size: Size: 100 KB

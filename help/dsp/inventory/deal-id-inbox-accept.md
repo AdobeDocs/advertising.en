@@ -37,7 +37,7 @@ Use the [!UICONTROL Deal ID inbox] to quickly accept a private deal you've alrea
     1. (Optional) Specify additional accounts with which to share the deal or attach labels to the deal record.
 
     1. Click **[!UICONTROL Save]**.
-    
+
 1. (Programmatic guaranteed deals only) Follow the prompts to select an ad for the deal and create a programmatic guaranteed default placement that targets the deal.
 
 Once you accept a deal, it's moved from the [!UICONTROL Deal ID inbox] to the [!UICONTROL Inventory] > [!UICONTROL Deals] view, and the deal is available as a private inventory source in each placement's [!UICONTROL Inventory Targeting] section.

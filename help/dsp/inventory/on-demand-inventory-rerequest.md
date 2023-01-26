@@ -23,7 +23,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
     1. Hold the cursor over the advertiser row and click **[!UICONTROL Edit]**.
 
     1. Check the selected Category.
-    
+
        Advertisers categorized as "[!UICONTROL Other]" aren't eligible for [!UICONTROL On Demand] inventory. If the category is "[!UICONTROL Other]" and it should be something else, select the appropriate category<!-- [category](/help/dsp/admin/advertiser-settings.md) -->.
 
 1. Re-request the inventory:

@@ -30,25 +30,25 @@ exl-id: 443aa1a3-c8b9-4949-87be-5a37e67f00a8
 
     * To create a new placement:
 
-        1. Click **[!UICONTROL Create New Placement]**.
+       1. Click **[!UICONTROL Create New Placement]**.
 
-        1. Select the ad type for the placement, and then click **[!UICONTROL Build this placement]**.
+       1. Select the ad type for the placement, and then click **[!UICONTROL Build this placement]**.
 
-        1. Enter the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), and then click **[!UICONTROL Create Placement]**.
+       1. Enter the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), and then click **[!UICONTROL Create Placement]**.
 
     * To attach an existing placement in the campaign:
 
        >[!NOTE]
        >
        >Each placement can be in only one package. Only placements that aren't already in a package are listed.
-    
-         1. Click **[!UICONTROL Select a Placement].**
 
-         1. Next to the placement name, click **[!UICONTROL Select].**
+       1. Click **[!UICONTROL Select a Placement].**
 
-         1. (Optional) For each additional placement you want to attach, click **[!UICONTROL Attach Another Placement]**, and then repeat Steps 1-2.
+       1. Next to the placement name, click **[!UICONTROL Select].**
 
-         1. Click **[!UICONTROL I'm done for now]**.
+       1. (Optional) For each additional placement you want to attach, click **[!UICONTROL Attach Another Placement]**, and then repeat Steps 1-2.
+
+       1. Click **[!UICONTROL I'm done for now]**.
 
 >[!MORELIKETHIS]
 >

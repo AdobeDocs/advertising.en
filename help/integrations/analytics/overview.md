@@ -52,15 +52,15 @@ Adobe Advertising dimensions are appended with the suffix "(AMO ID)" (such as "A
 Without requiring any additional pixels, [!DNL Analytics for Advertising] enables better optimization and easier audience segmentation by sending two main signals to Adobe Advertising:
 
 * Conversion metrics to be used as bid signals:
-    * standard metrics, such as [!UICONTROL Revenue] and [!UICONTROL Cart Views].
-    * site engagement metrics, such as page view and visit metrics.
-    * custom revenue metrics.
-    * reserved revenue metrics.
+  * standard metrics, such as [!UICONTROL Revenue] and [!UICONTROL Cart Views].
+  * site engagement metrics, such as page view and visit metrics.
+  * custom revenue metrics.
+  * reserved revenue metrics.
 * Segments created in [!DNL Analytics] and published to Experience Cloud.
-     
-     You can use [!DNL Analytics] segments for first-party site retargeting in [!DNL DSP] and paid search advertisements.
-     
-     ([!DNL Search] only) Advertisers with [!DNL Analytics] but not Audience Manager can also create Google website tag-based audiences (remarketing lists) and customer match audiences (customer lists) from [!DNL Analytics] segments that are shared with Experience Cloud.
+
+  You can use [!DNL Analytics] segments for first-party site retargeting in [!DNL DSP] and paid search advertisements.
+
+  ([!DNL Search] only) Advertisers with [!DNL Analytics] but not Audience Manager can also create Google website tag-based audiences (remarketing lists) and customer match audiences (customer lists) from [!DNL Analytics] segments that are shared with Experience Cloud.
 
 ### Site Conversion Metrics as Bid Signals
 

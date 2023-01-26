@@ -108,7 +108,7 @@ To apply one or more filters, do the following:
 * To specify an existing destination, select a destination name from the list. You can select multiple destination names separately.
 
 * To create a new destination:
- 
+
   1. Click **Add New Destination**.
 
   1. Enter the [report destination settings](/help/dsp/reports/report-destinations/report-destination-settings.md), and click **Save**.

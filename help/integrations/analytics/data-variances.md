@@ -27,13 +27,13 @@ If a reporting lookback window or attribution model is modified in one product a
 * **Example of discrepancies caused by different lookback windows:**
 
      Suppose Adobe Advertising has a 60-day click lookback window and [!DNL Analytics] has a 30-day lookback window. And suppose that a user comes to the site through an Adobe Advertising-tracked ad, leaves, and then returns on day 45 and converts. Adobe Advertising will attribute the conversion to the initial visit because the conversion occurred within the 60-day lookback window. [!DNL Analytics], however, can't attribute the conversion to the initial visit because the conversion occurred after the 30-day lookback window had expired. In this example, Adobe Advertising would report a higher number of conversions than [!DNL Analytics] would.
-     
+
      ![Example of a conversion attributed in Adobe Advertising but not [!DNL Analytics]](/help/integrations/assets/a4adc-lookback-example.png)
 
 * **Example of discrepancies caused by different attribution models:**
 
      Suppose a user interacts with three different Adobe Advertising ads before converting, with revenue as the conversion type. If an Adobe Advertising report uses an even distribution model for attribution, then it will attribute the revenue evenly across all ads. If [!DNL Analytics] uses the last touch attribution model, however, then it will attribute the revenue to the last ad. In the following example, Adobe Advertising attributes an even 10 USD of the 30 USD of revenue captured to each of the three ads, whereas [!DNL Analytics] attributes all 30 USD of revenue to the last ad seen by the user. When you compare reports from Adobe Advertising and [!DNL Analytics], you can expect to see the impact of the difference in attribution.
-     
+
      ![Different revenue attributed to Adobe Advertising and [!DNL Analytics] based on different attribution models](/help/integrations/assets/a4adc-attribution-example.png)
 
 >[!IMPORTANT]
