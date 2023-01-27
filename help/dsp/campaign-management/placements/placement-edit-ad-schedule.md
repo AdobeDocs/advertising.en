@@ -31,7 +31,7 @@ You can change the scheduled flight dates and ad rotation for the ads attached t
             The total weights must equal 100.
 
     1. In the upper right, click **[!UICONTROL Continue]**.
-    
+
     1. Review the flight details, and then click **[!UICONTROL Save & Finish]**.
 
 >[!MORELIKETHIS]

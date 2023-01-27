@@ -63,7 +63,7 @@ You can include the following metrics in custom reports:
 * **Extended Impressions:** (In the [!UICONTROL Build Your Report] section under [!UICONTROL Metrics] > [!UICONTROL Std. Metrics]) The volume of incremental impressions delivered by leveraging a device graph (and not found within the original audience segments). This metric is also used to calculate applicable fees associated with using a third-party device graph.
 
    To determine the cost of your extended impressions during a time period, run a custom report that includes the [!UICONTROL Extended Impressions] column, and then multiply the total number of extended impressions by $0.00035 ($0.35/1000 impressions).
-   
+
    The aggregated cost is also included in the [!UICONTROL Billable Other Net Spend] column (under [!UICONTROL Metrics] > [!UICONTROL Spend]), although that metric also includes other campaign fees you may have added.
 
 * **Device Graph:** (In the [!UICONTROL Build Your Report] section under [!UICONTROL Dimensions] > [!UICONTROL Campaign]) The selected device graph for a particular campaign, package, or placement.

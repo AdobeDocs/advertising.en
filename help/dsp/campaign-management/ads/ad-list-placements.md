@@ -11,7 +11,7 @@ View a list of placements associated with an ad to see performance data by place
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Ads]**.
-1. Next to the ad name, click  **... > [!UICONTROL See placements]**.
+1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL See placements]**.
 
 >[!MORELIKETHIS]
 >

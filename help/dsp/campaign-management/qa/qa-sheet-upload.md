@@ -25,7 +25,7 @@ To post changes to some types of placement settings for a campaign, you can uplo
     1. Either drag and drop a file into the box, or click inside the box to select a file from your device or network.
 
     1. Click **[!UICONTROL Upload]**.
-    
+
 1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
 
 >[!MORELIKETHIS]

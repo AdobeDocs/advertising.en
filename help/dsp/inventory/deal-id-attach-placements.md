@@ -25,17 +25,17 @@ You can also [attach new ads to existing placements](/help/dsp/campaign-manageme
 1. In the [!UICONTROL Ad & Campaign Selection] settings, select the ads to use for the placement:
 
        1. Select the advertiser, campaign, and ad type. Optionally select an ad status by which to filter the ads.
-        
+
        1. From the list of available ads, select the check box next to each ad that will be used for the deal.
 
        1. Click **[!UICONTROL Apply]**.
 
     1. In the placement settings screen:
-    
+
        1. Enter the placement name.
-        
+
        1. (Optional) Edit the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), including overwriting the default bid, which is automatically populated with the CPM value from the deal; changing the date range; or attaching more ads.
-       
+
          The deal is automatically targeted in the Inventory Targets section. All other targeting options are inapplicable.
 
        1. Click **[!UICONTROL Create placement]**.

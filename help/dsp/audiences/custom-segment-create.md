@@ -32,7 +32,7 @@ You can collect your own first-party audience data by creating and implementing 
 
     1. Return to **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
-    2. Hold the cursor over the segment row and click **[!UICONTROL Get Pixel]**.
+    1. Hold the cursor over the segment row and click **[!UICONTROL Get Pixel]**.
 
         * To track desktop and mobile visitors to a webpage:
 
