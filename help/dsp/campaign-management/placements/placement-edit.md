@@ -49,7 +49,7 @@ Use this option only when you want to apply the same changes to all selected pla
    1. Select the **[!UICONTROL Edit Mode]**.
 
       The options vary by setting but may include:
-      
+
       * **Add** (to attach ads)
 
       * **Append** (to keep the existing values and add new values)

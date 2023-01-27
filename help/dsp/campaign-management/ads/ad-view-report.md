@@ -11,7 +11,7 @@ The <!--legacy --> ad-level report includes [!UICONTROL Overview], [!UICONTROL G
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Ads]**.
-1. Next to the ad name, click  **... > [!UICONTROL View report]**.
+1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL View report]**.
 
 >[!MORELIKETHIS]
 >

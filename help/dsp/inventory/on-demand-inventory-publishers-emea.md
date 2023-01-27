@@ -183,7 +183,7 @@ exl-id: a7669db9-5967-420c-970f-ff87e8f3556a
 | [!DNL Future]                  | UK          |
 | [!DNL Gameloft]                | UK          |
 | [!DNL Gentside]                | UK          |
-| [!DNL GiveMeSport ]            | UK          |
+| [!DNL GiveMeSport]             | UK          |
 | [!DNL Hearst]                  | UK          |
 | [!DNL King]                    | UK          |
 | [!DNL Ladbible]                | UK          |

@@ -41,7 +41,7 @@ This use case requires the following products and integrations:
 
 ![Click-through framework](/help/integrations/assets/target-ct-framework.png)
 
-When you add DSP macros to a click-through URL (the URL displayed when a user clicks an ad and reaches the landing page), DSP automatically captures the placement key by including ```${TM_PLACEMENT_ID}``` in the click-through URL. This macro captures the alphanumeric placement key and not the numeric placement ID.
+When you add DSP macros to a click-through URL (the URL displayed when a user clicks an ad and reaches the landing page), DSP automatically captures the placement key by including `${TM_PLACEMENT_ID}` in the click-through URL. This macro captures the alphanumeric placement key and not the numeric placement ID.
 
 ![Click-through URL appended to the landing page URL](/help/integrations/assets/target-ct-url.jpg)
 
@@ -70,7 +70,7 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
    For instructions, see "[Collect Media Exposure Data from Advertising DSP Campaigns](/help/integrations/audience-manager/media-data-integration/collect.md)."
 
    Make sure you add [DSP macros](/help/dsp/campaign-management/macros.md) to capture all data you want the impression event pixel to pass back, including `${TM_PLACEMENT_ID_NUM}` for the numeric placement ID.
-   
+
    >[!NOTE]
    >
    >Click-tracking URLs include the `${TM_PLACEMENT_ID}` macro for the alphanumeric placement key, instead of `${TM_PLACEMENT_ID_NUM}` for the numeric placement ID.
@@ -80,27 +80,27 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
    1. Go to **Audience Manager** > **Audience Data** > **Signals**, and then select the **Search** tab in the top left.
 
    1. Enter the **Key** and **Value** for the signal that determines at what level the segment users are grouped. Use a [supported key](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html?lang=en) with a value that corresponds to a macro that you added to the Audience Manager impression event pixel. 
-   
+
       For example, to group users for a particular placement, use the `d_placement` key. For the value, use an actual numeric placement ID (such as 2501853 in the screen shot above) that's captured by the DSP macro `${TM_PLACEMENT_ID_NUM}`. <!-- Explain where to find the placement ID, other than in a custom report. -->
-      
+
       If the Total Count field shows user counts for the key-value pair, which indicates that the pixel was placed correctly and data is flowing, then you can continue to the next step.
 
    ![Search signals](/help/integrations/assets/target-am-signals.png)
 
 1. [Create a rule-based trait](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) for segment creation in Audience Manager.
-   
+
    1. Name the trait so that it’s easily identifiable within test activities. Store the trait in whichever folder that you prefer.
 
    1. From the **Data Source** drop-down menu, select **Ad Cloud**.
 
-   1. Within the Expression Builder, add ```d_event``` in the Key field and ```imp``` in the **Value** field, select **Add Rule**, and then save the trait.
+   1. Within the Expression Builder, add `d_event` in the Key field and `imp` in the **Value** field, select **Add Rule**, and then save the trait.
 
    ![Screenshot of a rule-based trait](/help/integrations/assets/target-am-trait.png)
 
 1. Set up a test segment in Audience Manager:
 
    1. At the top of the page, go to **Audience Data** > **Traits** and search for the full trait name. Select the check box next to the trait name, and then click **Create Segment**.
-  
+
    1. Name the segment, select `Ad Cloud` as the **Data Source**, and then save the segment.
 
       Audience Manager automatically splits the segment into a control group that receives the standard landing page experience and a test group that received a personalized onsite experience.
@@ -111,7 +111,7 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
 
 <!-- [If separate page, add "Adobe" before first-use of product names.] -->
 
-The following instructions highlight information pertaining to the DSP use case. For full instructions, see "[Create an A/B Test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html."
+The following instructions highlight information pertaining to the DSP use case. For full instructions, see "[Create an A/B Test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html)".
 
 1. [Log into Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
@@ -205,10 +205,10 @@ Within Analysis Workspace, if you notice that activity and experiences data is m
 
 * On the same landing page, verify that a) the Hostname shown in the Adobe Debugger under Solutions> Target matches b) the Tracking Server shown in [!DNL Target] for the activity (under Goals & Settings > Reporting Settings).
 
-  [!DNL Analytics For Target] requires an [!DNL Analytics] tracking server to be sent in calls from [!DNL Target] to the [!DNL Modstats] data collection server for Analytics.<!-- just "to Analytics?">
+  [!DNL Analytics For Target] requires an [!DNL Analytics] tracking server to be sent in calls from [!DNL Target] to the [!DNL Modstats] data collection server for Analytics.<!-- just "to Analytics?"-->
 
   [Hostname value in Adobe Debugger](/help/integrations/assets/target-troubleshooting-hostname.png)
-   
+
   [Tracking Server value in Target](/help/integrations/assets/target-troubleshooting-tracking-server.png)
 
 ## Further Reading

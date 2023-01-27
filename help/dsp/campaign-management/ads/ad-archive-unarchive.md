@@ -15,7 +15,7 @@ You can unarchive an ad to restore its previous status at any time.
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Ads]**.
-1. Next to the ad name, click  **... > [!UICONTROL Archive]**.
+1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Archive]**.
 1. In the confirmation message, click **[!UICONTROL Archive]**.
 
 >[!NOTE]
@@ -27,7 +27,7 @@ You can unarchive an ad to restore its previous status at any time.
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Ads]**.
-1. Next to the ad name, click  **... > [!UICONTROL Unarchive]**.
+1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Unarchive]**.
 1. In the confirmation message, click **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]

@@ -26,19 +26,25 @@ To execute this example in Audience Manager, you would follow these steps:<!-- T
 
 1. Create a trait to capture users who saw the creative.
 
-     For example, to name the trait `Creative Trait 123`, use the following trait rule:
+   For example, to name the trait `Creative Trait 123`, use the following trait rule:
 
-     `d_creative == 123 AND d_event == imp`
+   ```
+   d_creative == 123 AND d_event == imp
+   ```
 
 1. Create a trait to capture users who click or convert.
 
-     For example, to name this trait `Click and Converter`, use the following trait rule:
+   For example, to name this trait `Click and Converter`, use the following trait rule:
 
-     `d_event == click OR d_event=conv`
+   ```
+   d_event == click OR d_event=conv
+   ```
 
 1. Create a segment called `Retarget Users` to populate with users who saw creative `123` but didn’t click or convert. Use the following trait rule:
 
-     `Creative Trait 123 AND NOT Click and Converter`
+   ```
+   Creative Trait 123 AND NOT Click and Converter
+   ```
 
 1. Map the segment `Retarget Users` to a destination, and target users in the destination with creative `456`.
 
@@ -46,7 +52,7 @@ To execute this example in Audience Manager, you would follow these steps:<!-- T
 
 Once campaign impression and click data is available within Audience Manager, you can create traits and segments of users who were exposed to, or interacted with, a particular campaign or tactic. With an [[!DNL Audience Analytics] integration](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html), your Audience Manager segments can be synced with [!DNL Analytics] for further analysis. Potential use cases include the following:
 
-* **Interaction analysis between DSP and [!DNL Adobe Advertising Search] ads:** The standard [[!DNL Analytics for Advertising] integration](/help/integrations/analytics/overview.md) doesn't provide insights into the interaction between DSP and [!DNL [!DNL Search]] because both channels use AMO IDs that follow AMO ID attribution rules, for which a search click overrides a display view-through. By creating a DSP exposure segment in Audience Manager, you can use [!DNL Audience Analytics] to analyze the interaction between DSP and [!DNL [!DNL Search]] ads in [!DNL Analytics].
+* **Interaction analysis between DSP and [!DNL Adobe Advertising Search] ads:** The standard [[!DNL Analytics for Advertising] integration](/help/integrations/analytics/overview.md) doesn't provide insights into the interaction between DSP and [!DNL Search] because both channels use AMO IDs that follow AMO ID attribution rules, for which a search click overrides a display view-through. By creating a DSP exposure segment in Audience Manager, you can use [!DNL Audience Analytics] to analyze the interaction between DSP and [!DNL Search] ads in [!DNL Analytics].
 
 * **Frequency analysis:** You can create segments in Audience Manager based on how many times a user was exposed to a particular ad or campaign. You can then analyze the different exposure segments in Analytics to see how user behavior changes depending on the number of DSP exposures.
 

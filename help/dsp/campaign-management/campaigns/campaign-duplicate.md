@@ -18,7 +18,7 @@ See "[What's Not Duplicated](#campaign-not-duplicated)" for a list of placement 
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. Next to the campaign name, click **... > [!UICONTROL Duplicate]**.
+1. Next to the campaign name, click **[!UICONTROL ...]** > **[!UICONTROL Duplicate]**.
 
 1. Specify the new campaign settings:
 
@@ -39,10 +39,10 @@ All settings from the original placements are duplicated except:
 * (If you don't attach ads) Custom ad weighting and scheduling
 * Default placements for programmatic guaranteed (PG) deals and placements for [!UICONTROL Simple Ad Serving] deals
 * (If you copy placements to a different campaign):
-    * Geo targets
-    * Event pixels
-    * Ads
-    * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segments (which override the advertiser-level segments)
+   * Geo targets
+   * Event pixels
+   * Ads
+   * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segments (which override the advertiser-level segments)
 
 >[!MORELIKETHIS]
 >

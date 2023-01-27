@@ -30,15 +30,14 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
     * Deals from **[!UICONTROL TV Broadcasters]**
 
-    * Deals from publishers who accept "tune-in" creatives
-    **[!UICONTROL Tune-In]**)
+    * Deals from publishers who accept "tune-in" creatives (**[!UICONTROL Tune-In]**)
 
     * Deals for which the publisher has applied 21+ targeting and accepts alcohol ads (**[!UICONTROL Legal drinking age]**)
 
 1. Do either or the following:
 
     * (To subscribe to recently-added publishers) In the top carousel of publishers, hold the cursor over the publisher logo, and then click **[!UICONTROL Subscribe]**.
-    
+
     * (To subscribe to any publisher) Click **[!UICONTROL Subscription view]**, hold the cursor over the publisher logo, and then click **[!UICONTROL Subscribe]**.
 
 ## Request Access to Individual Deals
@@ -59,15 +58,14 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
     * Deals from **[!UICONTROL TV Broadcasters]**
 
-    * Deals from publishers who accept "tune-in" creatives
-    **[!UICONTROL Tune-In]**)
+    * Deals from publishers who accept "tune-in" creatives (**[!UICONTROL Tune-In]**)
 
     * Deals for which the publisher has applied 21+ targeting and accepts alcohol ads (**[!UICONTROL Legal drinking age]**)
 
 1. Do either or the following:
 
     * To request recently-added deals:
-    
+
       1. In the top carousel of publishers, hold the cursor over the publisher logo, and then click **[!UICONTROL See Deals]**.
 
       1. To subscribe to an individual deal, click **[!UICONTROL Request]** in the [!UICONTROL Action] column for the relevant row.
@@ -75,7 +73,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
     * To request deals from the [!UICONTROL Deal] view:
 
       1. Click **[!UICONTROL Deal view]**.
-  
+
       1. Click **[!UICONTROL Request]** in the [!UICONTROL Action] column for the relevant row.
 
 >[!MORELIKETHIS]

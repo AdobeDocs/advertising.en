@@ -43,7 +43,9 @@ The EF ID is a unique token that Adobe Advertising uses to associate activity wi
 
 #### [!DNL Google Ads] search ads
 
-```{gclid}:G:s```
+```
+{gclid}:G:s
+```
 
 where:
 
@@ -52,7 +54,9 @@ where:
 
 #### Microsoft Advertising search ads
 
-```{msclkid}:G:s```
+```
+{msclkid}:G:s
+```
 
 where:
 
@@ -61,7 +65,9 @@ where:
 
 #### Display ads and search ads on other search engines 
 
-```<Adobe Advertising visitor ID>:<timestamp>:<channel type>```
+```
+<Adobe Advertising visitor ID>:<timestamp>:<channel type>
+```
 
 where:
 
@@ -75,7 +81,7 @@ where:
     * `i` for an impression of a DSP display ad (display view-through)
     * `s` for a click on a Search ad (search click-through).
 
-Example `EF `ID: WcmibgAAAHJK1RyY:1551968087687:d
+Example `EF ID: WcmibgAAAHJK1RyY:1551968087687:d`
 
 ### The EF ID Dimension in [!DNL Analytics]
 
@@ -91,7 +97,9 @@ The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL
 
 ### AMO ID Format for [!DNL DSP]
 
-```<Channel ID>!<Ad ID>!<Placement ID>```
+```
+<Channel ID>!<Ad ID>!<Placement ID>
+```
 
 where:
 
@@ -110,7 +118,9 @@ Example AMO ID: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
 AMO IDs for [!DNL Search] follow a distinct format for each search engine. The format for all search engines begins with the following:
 
-```AL!{userid}!{sid}```
+```
+AL!{userid}!{sid}
+```
 
 where:
 
@@ -122,7 +132,9 @@ The following are the full AMO ID formats for a couple of ad networks. For AMO I
 
 AMO ID Format for [!DNL Google Ads]:
 
-```AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
+```
+AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}
+```
 
 where:
 
@@ -134,7 +146,9 @@ where:
 
 AMO ID Format for [!DNL Microsoft Advertising]:
 
-```AL!{userid}!{sid}!{AdId}!{OrderItemId}```
+```
+AL!{userid}!{sid}!{AdId}!{OrderItemId}
+```
 
 where:
 

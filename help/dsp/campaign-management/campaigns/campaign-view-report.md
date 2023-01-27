@@ -10,8 +10,8 @@ The <!--legacy --> campaign-level report includes an overview and sections on [!
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Do either of the following:
-    * Click **... > [!UICONTROL View report]** in the upper right toolbar.
-    * Next to the campaign name, click  **... > [!UICONTROL View report]**.
+    * Click **[!UICONTROL ...]** > **[!UICONTROL View report]** in the upper right toolbar.
+    * Next to the campaign name, click  **[!UICONTROL ...]** > **[!UICONTROL View report]**.
 
 >[!MORELIKETHIS]
 >

@@ -19,17 +19,17 @@ To activate authenticated audiences through a durable ID solution within Adverti
 1. For either option, contact `adcloud-support@adobe.com` to enable the following settings in DSP, which will allow you to target authenticated segments in DSP campaigns once [all steps in the activation workflow are completed](source-about.md#workflow-sources):
 
     1. [!DNL LiveRamp] [!DNL RampID] campaign configuration prior to segment sharing from [!DNL Real-Time CDP].
-    
+
     1. The account-level “[!UICONTROL LiveRamp segments]” option.
 
 1. (Users manually sharing authenticated segments from [!DNL LiveRamp]) Complete the following steps in the [!DNL LiveRamp] [!DNL Connect] dashboard:
 
     1. Activate the destination tile **[!DNL AAC API 1P Onboarding]**.
-    
+
     1. Set [!DNL Identifier Settings] to **[!DNL Ramp ID]** only.
 
        ![Identifier settings](/help/dsp/assets/liveramp-tile-settings.png)
-    
+
     1. (Optional) If you want to still receive cookie-based identifiers, create a second [!DNL AAC API 1P Onboarding] destination tile with “[!DNL Cookies],” "[!DNL IDFA],” and “[!DNL AAID]” selected.
 
 ## Best Practices for Testing and Data Validation
@@ -37,13 +37,13 @@ To activate authenticated audiences through a durable ID solution within Adverti
 * **Target [!DNL RampID]-based segments and cookie-based segments in separate campaigns.**
 
   * Campaign settings allow for only one identifier to be prioritized.
-  
+
   * Currently, [!DNL RampIDs] aren't retrievable during on-site events. This means that certain custom goals, such as Lowest CPA and ROAS, aren't available with the use of authenticated segments. Use cookie-based segments only if you have a restrictive performance KPI.
 
 * **Create one placement in both the [!DNL RampID] and cookie-based campaigns.**
 
   * Target the segments that are shared from [!DNL LiveRamp] using the standard segment activation process.
-  
+
   * Work with your Adobe Advertising support team to validate proper data distribution.
 
 To learn more about the DSP integration with [!DNL LiveRamp], contact `adcloud-support@adobe.com`.
