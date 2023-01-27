@@ -14,7 +14,7 @@ You can duplicate an ad within the same campaign.
 
 1. In the submenu, click **[!UICONTROL Ads]**.
 
-1. Next to the ad name, click  **... > [!UICONTROL Duplicate]**.
+1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Duplicate]**.
 
 1. Specify the new ad settings:
 

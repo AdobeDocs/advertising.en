@@ -16,7 +16,7 @@ exl-id: 9f47aa2a-54c4-4fdc-b289-6c3586cc18e6
 1. In the **[!UICONTROL Add Alerts]** section:
 
     1. Select the first alert type.
-    
+
     1. Enter the alert parameters.
 
        The settings vary by alert type.
@@ -34,9 +34,9 @@ exl-id: 9f47aa2a-54c4-4fdc-b289-6c3586cc18e6
 * To add an alert to a subscription:
 
    1. To the right of the subscription name, click **[!UICONTROL + Add Alert]**.
-   
+
    1. Select the alert type.
-    
+
    1. Enter the alert parameters.
 
        The settings vary by alert type.

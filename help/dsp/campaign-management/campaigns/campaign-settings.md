@@ -27,9 +27,9 @@ exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
 When you choose *[!UICONTROL Yes],* specify the margin type and amount:
 
 * **[!UICONTROL Margin Type]:** The type of margin. You can't change the margin type once you enable margin management and save the campaign.
-   
+
    * *[!UICONTROL Fixed]:* (the default) Allows DSP to auto-calculate and cap spend based on a fixed margin percentage of the [!UICONTROL Gross Budget].
-   
+
    * *[!UICONTROL Dynamic]:* Allows you to manage margins down to the placement level by specifying a separate [!UICONTROL Budget Reserve %] and [!UICONTROL Gross Budget] for each package and placement in the campaign. DSP optimizes based on the financial efficiency of each placement, without guaranteeing a specific margin. Use this for insertion orders that consist of multiple line items for which you've agreed to deliver a fixed amount of units or unit types at a fixed rate.
 
 * **[!UICONTROL Fixed Margin %]:** (Campaigns with fixed margins only) The default markup for each insertion order <!-- impression? -->, as a percentage. This amount is deducted from the [!UICONTROL Gross Budget] to define the net campaign budget.
@@ -59,9 +59,9 @@ To estimate taxes to withhold:
 1. Select the check box next to each fee type for which to withhold taxes. The fee types include:
 
    * *[!UICONTROL Include estimated tax - ads fee]:* Applies to all Advertising DSP media spend, including taxes on campaign management fees.
-   
+
    * *[!UICONTROL Include estimated tax - ad serving fee]:* Applies to all spend on Advertising DSP except for media and data. It excludes taxes for campaign management fees
-   
+
    * *[!UICONTROL Include estimated tax - data fee]:* Applies to all data spend on Advertising DSP.
 
 1. Click **[!UICONTROL Submit]**.

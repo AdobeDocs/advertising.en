@@ -26,9 +26,9 @@ See "[What's Not Duplicated](#package-not-duplicated)" for a list of placement s
     1. Enter the new package name.
 
     1. (Optional) Change the default settings.
-    
+
          By default:
-         
+
          * The new package is assigned to the original advertiser and campaign.
 
          * The new package becomes active on the current day.<!-- and the flight continues for NN  days. -->

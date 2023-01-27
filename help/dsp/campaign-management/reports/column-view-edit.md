@@ -25,7 +25,7 @@ exl-id: 8ff6f09a-e04f-44a1-8a25-03afb28e0dbd
 1. Apply or save the settings:
 
     * To apply the settings temporarily without saving them to the view, click **[!UICONTROL Apply].**
-    
+
     * To save the settings to a new, custom column view, click **[!UICONTROL Save As]**. In the [!UICONTROL Save View] window, enter the name of the new view, and then click **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]

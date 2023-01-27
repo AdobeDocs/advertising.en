@@ -15,7 +15,7 @@ If necessary, you can later edit [select fields](qa-sheet-columns.md) in the dow
 1. Do either of the following:
 
    * Next to the campaign name, click **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
-   
+
    * Click the campaign name to view the campaign details. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
 
     A notification message indicates when the file is available to download.

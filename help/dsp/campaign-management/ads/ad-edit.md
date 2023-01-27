@@ -12,7 +12,7 @@ exl-id: 149eeb61-b4d1-4c88-8dcd-ad11e135a486
 
 1. In the submenu, click **[!UICONTROL Ads]**.
 
-1. Next to the ad name, click  **... > [!UICONTROL Edit]**.
+1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
 
 1. Edit the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md), [mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), [pre-roll ads](ad-settings-pre-roll.md), or [universal video ads](ad-settings-universal-video.md).
 
