@@ -43,3 +43,4 @@ Adobe Advertising supports the following currencies.
 ## [!DNL Adobe Advertising Search]
 
 All currencies supported by supported search engines. This is the same as [those supported by [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).
+ 
