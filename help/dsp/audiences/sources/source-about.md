@@ -27,7 +27,7 @@ For more information about destinations, see the Experience Platform [Destinatio
 
 1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account.
 
-1. [Configure a [!DNL Real-Time CDP] destination connection in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-connection.html).
+1. [Configure a [!DNL Real-Time CDP] destination connection in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).
 
 For additional support, contact your [!DNL Adobe] account team or `adcloud-support@adobe.com`.
 
@@ -36,6 +36,6 @@ For additional support, contact your [!DNL Adobe] account team or `adcloud-suppo
 >* [Activate Authenticated Segments from Durable ID Partners](source-durable-id.md)
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
->* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-connection.html)
+>* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Destinations catalog overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
