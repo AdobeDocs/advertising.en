@@ -20,4 +20,5 @@ exl-id: 8e401c15-018d-439b-922e-2e456eabfea4
 >* [About Campaign Management](campaign-about.md)
 >* [Duplicate a Campaign](campaign-duplicate.md)
 >* [Edit a Campaign](campaign-edit.md)
+>* [View the Change Log for a Campaign](campaign-change-log.md)
 >* [Campaign Settings](campaign-settings.md)

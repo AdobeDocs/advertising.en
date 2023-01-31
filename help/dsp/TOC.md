@@ -41,6 +41,7 @@ index: yes
     + [Duplicate a Campaign](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
     + [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
     + [Archive or Unarchive a Campaign](/help/dsp/campaign-management/campaigns/campaign-archive-unarchive.md)
+    + [View the Change Log for a Campaign](/help/dsp/campaign-management/campaigns/campaign-change-log.md)
     + [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
     + [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
   + Packages {#packages}

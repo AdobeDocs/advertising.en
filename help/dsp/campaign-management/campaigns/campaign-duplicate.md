@@ -49,4 +49,5 @@ All settings from the original placements are duplicated except:
 >* [About Campaign Management](campaign-about.md)
 >* [Create a Campaign](campaign-create.md)
 >* [Edit a Campaign](campaign-edit.md)
+>* [View the Change Log for a Campaign](campaign-change-log.md)
 >* [Campaign Settings](campaign-settings.md)
