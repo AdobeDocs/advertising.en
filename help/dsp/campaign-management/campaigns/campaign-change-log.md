@@ -2,6 +2,7 @@
 title: View a Campaign Change Log
 description: Learn how to view changes made to the campaign.
 feature: DSP Campaigns
+exl-id: ba96a277-937a-4475-bab6-6e0a4f5ced13
 ---
 # View the Change Log for a Campaign
 
