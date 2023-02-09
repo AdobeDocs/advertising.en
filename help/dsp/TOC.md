@@ -100,8 +100,8 @@ index: yes
       + [Filter Campaign Data](/help/dsp/campaign-management/reports/campaign-data-filter.md)
       + [Sort a Column](/help/dsp/campaign-management/reports/campaign-data-sort.md)
     + [Manage Data Visualizations](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
-  + Correct Placement Settings for a Campaign Using Spreadsheets {#qa-spreadsheet}
-      + [About Correcting Placement Settings for a Campaign Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
+  + Correct Placement Settings Using Spreadsheets {#qa-spreadsheet}
+      + [About Correcting Placement Settings Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
       + [Download Placement Settings for a Campaign](/help/dsp/campaign-management/qa/qa-sheet-download.md)
       + [Upload Placement Settings for a Campaign](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
       + [Columns in Downloaded/Uploaded Spreadsheets](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
@@ -120,7 +120,7 @@ index: yes
   + [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
 + Audiences {#audiences}
   + [About Audience Management](/help/dsp/audiences/audience-about.md)
-  + Manage Segments {#segments}
+  + Segments {#segments}
     + [Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)
     + [!UICONTROL CCPA Opt-out-of-Sale] Segments {#ccpa-opt-out-of-sale-segments}
       + [About [!UICONTROL CCPA Opt-out-of-Sale] Segments](/help/dsp/audiences/ccpa-opt-out-about.md)
@@ -130,7 +130,7 @@ index: yes
     + [Share or Stop Sharing a Segment](/help/dsp/audiences/segment-share.md)
     + [View Tracking Pixels for a Segment](/help/dsp/audiences/segment-view-pixels.md)
     + [Delete a Segment](/help/dsp/audiences/segment-delete.md)
-  + Manage Audiences {#reusable-audiences}
+  + Audiences {#reusable-audiences}
     + [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md)
     + [Duplicate a Reusable Audience](/help/dsp/audiences/reusable-audience-duplicate.md)
     + [Edit a Reusable Audience](/help/dsp/audiences/reusable-audience-edit.md)
@@ -141,7 +141,7 @@ index: yes
     + [Delete a Reusable Audience](/help/dsp/audiences/reusable-audience-delete.md)
     + [Audience Settings](/help/dsp/audiences/audience-settings.md)
     + [Syntax for Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
-  + Manage Sources {#sources}
+  + Sources {#sources}
     + [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
     + [Activate Authenticated Segments from Durable ID partners](/help/dsp/audiences/sources/source-durable-id.md)
     + [Create an Audience Source to Activate First-Party Audiences](/help/dsp/audiences/sources/source-create.md)
