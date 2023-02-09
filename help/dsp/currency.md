@@ -8,9 +8,10 @@ exl-id: 97d49cce-4438-40c4-94a4-e5d90ebaf651
 
 Adobe Advertising supports the following currencies.
 
+
 >[!NOTE]
 >
->Adobe Analytics supports [a larger set of currencies](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/currency.html).
+>Adobe Analytics supports [a larger set of currencies](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/currencycode.html).
 
 ## DSP and Creative
 
