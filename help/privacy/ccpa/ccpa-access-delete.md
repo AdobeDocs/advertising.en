@@ -42,7 +42,7 @@ To make requests to access and delete consumer personal information from Adobe A
    >
    >Requests to some Experience Cloud solutions don't require the JavaScript library, but requests to Adobe Advertising require it.
 
-   You should deploy the library on the web page from which your customers can submit access and delete requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: `gsurferID`) so that you can submit these identities as part of access and delete requests via the [!DNL Adobe Experience Platform Privacy Service API].
+   You should deploy the library on the webpage from which your customers can submit access and delete requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: `gsurferID`) so that you can submit these identities as part of access and delete requests via the [!DNL Adobe Experience Platform Privacy Service API].
 
    When the customer asks to delete personal data, the library also deletes the customer's cookie from the customer's browser.
 
