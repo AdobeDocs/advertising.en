@@ -50,7 +50,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
    >
    >Requests to some Adobe Experience Cloud solutions don't require the JavaScript library, but requests to Adobe Advertising require it.
 
-   You should deploy the library on the web page from which your customers can submit opt-out-of-sale requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: `gsurferID`) so that you can submit these identities as part of opt-out-of-sale requests via the Adobe Experience Platform Privacy Service API.
+   You should deploy the library on the webpage from which your customers can submit opt-out-of-sale requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: `gsurferID`) so that you can submit these identities as part of opt-out-of-sale requests via the Adobe Experience Platform Privacy Service API.
 
 1. Identify your Experience Cloud organization ID and make sure it is linked to your Adobe Advertising accounts.
 
