@@ -24,7 +24,7 @@ For more information about what GDPR means for your business, see [GDPR and Your
 
 Adobe Experience Platform provides the ability for businesses to complete the following tasks:
 
-* Access a data subject's cookie-level data or device ID-level data (for ads in mobile apps) within {{search-product-name}}, [!DNL Creative], [!DNL DSP], or [!DNL DCO].
+* Access a data subject's cookie-level data or device ID-level data (for ads in mobile apps) within [!DNL Search], [!DNL Creative], [!DNL DSP], or [!DNL DCO].
 * Delete cookie-level data stored within [!DNL Search], [!DNL Creative], [!DNL DSP], or [!DNL DCO] for data subjects using a browser; or delete ID-level data stored within [!DNL DSP] for data subjects using apps on mobile devices.
 * Check the status of one or all existing requests.
 
