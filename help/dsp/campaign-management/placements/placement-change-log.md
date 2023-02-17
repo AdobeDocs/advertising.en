@@ -11,12 +11,21 @@ Change logs show changes made to the placement during the selected date range, i
 You can sort the data by the Type, Modified By, or Date Modified column.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
+
 1. Click the name of the campaign.
+
 1. In the submenu, click **[!UICONTROL Placements]**.
+
 1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Change logs]**.
-1. (Beta feature; optional) To switch between viewing the data in table form only and in both table and chart forms, click ![Table and chart view](/help/dsp/assets/table-plus-chart-view.png "Table and chart view") or ![Table view](/help/dsp/assets/table-view.png "Table view") in the upper right toolbar.
-1. (Beta feature; optional) To add a note to an entry, hold the cursor over the [!UICONTROL Notes] column for the row, and then click **[!UICONTROL Add Notes]**. Enter text in the input fields, and then click **[!UICONTROL Save]**.
-1. (Beta feature; optional) To view the details for an entry in a popup window, hold the cursor over the [!UICONTROL Notes] column for the row, and then click **[!UICONTROL More]> [!UICONTROL View Details]**. 
+
+1. (Optional) Do any of the following:
+
+   * To switch between viewing the data in table form only and in both table and chart forms, click ![Table and chart view](/help/dsp/assets/table-plus-chart-view.png "Table and chart view") or ![Table view](/help/dsp/assets/table-view.png "Table view") in the upper right toolbar.
+
+   * To add a note to an entry, hold the cursor over the [!UICONTROL Notes] column for the row, and then click **[!UICONTROL Add Notes]**. Enter text in the input fields, and then click **[!UICONTROL Save]**.
+
+   * To view the details for an entry in a popup window, hold the cursor over the [!UICONTROL Notes] column for the row, and then click **[!UICONTROL More]> [!UICONTROL View Details]**.
+
 
 >[!MORELIKETHIS]
 >
