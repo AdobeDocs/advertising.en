@@ -20,7 +20,7 @@ Within [!DNL Search], you can create [!DNL Google Ads] Google customer match aud
 
 [Customer match audiences from user IDs](https://support.google.com/google-ads/answer/9199250) work like website tag-based audiences, but a non-PII ID is assigned to unique audience members for distinct benefits over standard customer match and website tag-based audiences.
 
-To create the necessary user IDs, you must use an Adobe Advertising JavaScript tag <!-- with a user ID parameter -->on your websites. Contact your [!DNL Search] account team for more information. 
+To create the necessary user IDs, you must use an Adobe Advertising JavaScript tag <!-- with a user ID parameter -->on your websites. Contact your Adobe Account Team for more information. 
 
 ![segment creation process](/help/integrations/assets/ad_search_user_id_pic.png)
 

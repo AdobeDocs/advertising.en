@@ -55,7 +55,7 @@ Within Flash talking or Google Campaign Manager 360, manually update the click-t
 
 * [Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)
 
-Contact your DSP account team and the Advertising Solutions Group (aac-advertising-solutions-group@adobe.com) to retrieve the required placement key and finalize the setup, and to make sure that each click-through URL is populated with the placement key.
+Contact your Adobe Account Team and the Advertising Solutions Group (aac-advertising-solutions-group@adobe.com) to retrieve the required placement key and finalize the setup, and to make sure that each click-through URL is populated with the placement key.
 
 ## Step 2: Set up the View-through Framework Using Audience Manager {#view-through-framework}
 
@@ -163,7 +163,7 @@ The following instructions highlight information pertaining to the DSP use case.
 
    >[!NOTE]
    >
-   >For example creative test use cases for creative tests, contact your account team.
+   >For example creative test use cases, contact your Adobe Account Team.
 
 ## Step 4: Set up Your [!DNL Analytics for Target] Analysis Workspace in [!DNL Analytics]
 

@@ -23,7 +23,7 @@ For more information about destinations, see the Experience Platform [Destinatio
 
 <!-- Make sure that titles make the distinctions clear -- everything can't be "Activate XXX." -->
 
-1. [Allow DSP to translate customer data segments into [!DNL LiveRamp RampIDs]](source-durable-id.md) that are recognizable in a biddable environment.<!-- I don't think I need this here: This requires DSP account-level and campaign-level settings to enable segment sharing with [!DNL LiveRamp], which will translate customer data to [!DNL RampIDs] to create targetable segments. Your DSP account team will perform this configuration. -->
+1. [Allow DSP to translate customer data segments into [!DNL LiveRamp RampIDs]](source-durable-id.md) that are recognizable in a biddable environment.<!-- I don't think I need this here: This requires DSP account-level and campaign-level settings to enable segment sharing with [!DNL LiveRamp], which will translate customer data to [!DNL RampIDs] to create targetable segments. Your Adobe Account Team will perform this configuration. -->
 
 1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account.
 
