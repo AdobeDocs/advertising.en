@@ -28,7 +28,7 @@ The DSP premium marketplace allows you to:
 
 * Track performance with consolidated reporting
 
-Once a deal is approved, it's available as a target for existing placements and automatically included as a target for new placements that target all [!DNL On Demand] inventory. If a deal request is denied, you can work with your [!DNL Adobe] account team to resolve the issue and then re-request the deal.
+Once a deal is approved, it's available as a target for existing placements and automatically included as a target for new placements that target all [!DNL On Demand] inventory. If a deal request is denied, you can work with your Adobe Account Team to resolve the issue and then re-request the deal.
 
 ## The On Demand Views
 

@@ -76,7 +76,7 @@ With people-based attribution, you can attribute conversions that took place on 
 
 ### Enable People-Based Attribution Measurement
 
-If you would like to activate cross-device attribution measurement, contact your [!DNL Adobe] account team.
+If you would like to activate cross-device attribution measurement, contact your Adobe Account Team.
 
 ### Set Up Conversion Reports for Cross-Device Conversion Attribution
 

@@ -12,7 +12,7 @@ Advertisers looking beyond RTB can use private inventory to facilitate exclusive
 
 ## Deal IDs
 
-If you have direct relationships with publishers, you can streamline your media buying process and workflow by using your own private deals, with their negotiated inventory and pricing, in your Advertising DSP placements. DSP integrates with all of your publishers when you set up an account. If you want access to additional publishers later, contact your [!DNL Adobe] account team to set up access. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+If you have direct relationships with publishers, you can streamline your media buying process and workflow by using your own private deals, with their negotiated inventory and pricing, in your Advertising DSP placements. DSP integrates with all of your publishers when you set up an account. If you want access to additional publishers later, contact your Adobe Account Team to set up access. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 All of your private deals with a deal ID are financed and invoiced by [!DNL Adobe].
 

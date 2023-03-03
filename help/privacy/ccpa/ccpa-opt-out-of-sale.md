@@ -85,7 +85,7 @@ You can retrieve links to the monthly reports that were created in the previous 
 
 This feature is available to organizations that use the [!DNL Trafficking API]. See the documentation for the [!DNL Trafficking API] for more information.
 
-If your organization doesn't use the [!DNL Trafficking API] but is interested in more information, contact your [!DNL Adobe] account team.
+If your organization doesn't use the [!DNL Trafficking API] but is interested in more information, contact your Adobe Account Team.
 
 ## Appendix: Example [!UICONTROL CCPA Opt-Out-of-Sale] Request for Privacy Service API Users
 

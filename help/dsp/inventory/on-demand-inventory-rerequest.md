@@ -10,11 +10,11 @@ exl-id: 8b28ca37-5fe8-445e-8210-1b81945bbacc
 
 You can re-request [!DNL On Demand] inventory deals for which you were denied, including deals from a publisher to which you're subscribed. Follow these steps to make sure that all applicable account settings are correct before you submit a new request.
 
-If a deal isn't approved after you re-request it, contact your [!DNL Adobe] account team to see if the publisher has additional restrictions that prohibit your account from accessing the deal.
+If a deal isn't approved after you re-request it, contact your Adobe Account Team to see if the publisher has additional restrictions that prohibit your account from accessing the deal.
 
 Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md), it's included by default as a target for new placements that target all [!DNL On Demand] inventory. The new deal is also available as a target for existing placements, but you must manually edit the placement settings to add the deal as a target.
 
-1. Confirm with your [!DNL Adobe] account team that the [!UICONTROL Account Type] for your organization's DSP account is correct.
+1. Confirm with your Adobe Account Team that the [!UICONTROL Account Type] for your organization's DSP account is correct.
 
 1. Confirm that the advertiser category for the applicable advertiser account is correct:
 

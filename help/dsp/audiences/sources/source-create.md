@@ -8,7 +8,7 @@ exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
 
 *Beta feature*
 
-<!-- Will this remain for admin users/Adobe account teams only? -->
+<!-- Will this remain for admin users/Adobe Account Team users only? -->
 
 Create a source to import audiences to your DSP account or an advertiser account. Currently, you can import audiences from [the [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html).
 

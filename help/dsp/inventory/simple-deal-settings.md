@@ -13,7 +13,7 @@ exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
 | Parameter | Description |
 |-----------|-------------|
 | **[!UICONTROL Serving Type]** | The media type for this deal: *[!UICONTROL Video],* *[!UICONTROL Display],* or *[!UICONTROL Audio].* |
-|**[!UICONTROL Publisher Site Served On]** | The name of the publisher that is selling this inventory. Search for a publisher by entering at least the first two characters in the name. To add a publisher that isn't listed, contact your [!DNL Adobe] account team.|
+|**[!UICONTROL Publisher Site Served On]** | The name of the publisher that is selling this inventory. Search for a publisher by entering at least the first two characters in the name. To add a publisher that isn't listed, contact your Adobe Account Team.|
 |**[!UICONTROL Advertiser]** | A single advertiser in the account who can access this deal. Also select the campaign and (optionally) the package in which the deal is available. |
 | **[!UICONTROL Media Quality Assessment?]** | (Some users) Enables the ad to run on another DSP for third-party verification. <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
 | **[!UICONTROL Ad Source]** | The only option is *[!UICONTROL Site Serve (Event Pixels)]*. |
@@ -34,7 +34,7 @@ exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
 
 | Parameter | Description |
 |-----------|-------------|
-| **[!UICONTROL Media CPM]** | The cost per 1000 impressions (CPM), as reflected in the rate card for your contract. Contact your [!DNL Adobe] account team for this value. <br><br>Specify also the currency for the deal. All users can select USD, or, if the SSP supports additional currencies, the currency for the DSP account. |
+| **[!UICONTROL Media CPM]** | The cost per 1000 impressions (CPM), as reflected in the rate card for your contract. Contact your Adobe Account Team for this value. <br><br>Specify also the currency for the deal. All users can select USD, or, if the SSP supports additional currencies, the currency for the DSP account. |
 | **[!UICONTROL Third Party Billed Fees]** | (Optional) A static third-party fee to be tracked as a non-billable cost,  and the currency for the deal.<br><br>All users can select USD, or, if the SSP supports additional currencies, the currency for the DSP account. **NOTE:** Billable fees are reflected in the [!UICONTROL Net CPM] metric.|
 | **[!UICONTROL Third Party Fee Description]** | (Optional) A description of the third-party fees. |
 | **[!UICONTROL Flight Dates]** | The start and end dates for traffic using this deal. The flight dates must be included within the campaign flight dates. The ad tags return a response only during the specified flight.<br><br> The best practice to create a separate simple ad serving campaign with a year-long duration and to build tracking pixels within it. |

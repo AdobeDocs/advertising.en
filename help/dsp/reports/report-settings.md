@@ -26,7 +26,7 @@ exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
 
 **[!UICONTROL Add Filters]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report: *[!UICONTROL Account]*,\* *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Placement]*, *[!UICONTROL Ad]*, *[!UICONTROL Ad Type]*, *[!UICONTROL Video]*, *[!UICONTROL Video Duration]*, *[!UICONTROL Country]*, and *[!UICONTROL Package]*.
 
-\* *[!UICONTROL Account]* is available for the following report types only when your organization is configured for [cross-account reporting](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], and [!UICONTROL Conversion]. Contact your [!DNL Adobe] account team for more information about cross-account reporting.
+\* *[!UICONTROL Account]* is available for the following report types only when your organization is configured for [cross-account reporting](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], and [!UICONTROL Conversion]. Contact your Adobe Account Team for more information about cross-account reporting.
 
 To apply one or more filters, do the following:
 

@@ -38,7 +38,7 @@ If a reporting lookback window or attribution model is modified in one product a
 
 >[!IMPORTANT]
 >
->The best practice is to use the same lookback windows and attribution model in both Adobe Advertising and [!DNL Analytics]. Work with your [!DNL Adobe] account team as necessary to identify the current settings and to keep the configurations in sync.
+>The best practice is to use the same lookback windows and attribution model in both Adobe Advertising and [!DNL Analytics]. Work with your Adobe Account Team as necessary to identify the current settings and to keep the configurations in sync.
 
 These same concepts apply to any other like channels that use different lookback windows or attribution models.
 
@@ -162,7 +162,7 @@ In Adobe Advertising reports, you can similarly compare clicks to instances usin
 Clicks to [EF ID Instances = (ef_id_instances / Clicks)
 ```
 
-While you should expect a high match rate between the AMO ID and the EF ID, don't expect 100% parity because AMO ID and EF ID fundamentally track different data, and this difference can lead to slight differences in the total [!UICONTROL AMO ID Instances] and [!UICONTROL EF ID Instances]. If the total [!UICONTROL AMO ID Instances] in [!DNL Analytics] differ from [!UICONTROL EF ID Instances] in Adobe Advertising by more than 1%, however, contact your [!DNL Adobe] account team for assistance.
+While you should expect a high match rate between the AMO ID and the EF ID, don't expect 100% parity because AMO ID and EF ID fundamentally track different data, and this difference can lead to slight differences in the total [!UICONTROL AMO ID Instances] and [!UICONTROL EF ID Instances]. If the total [!UICONTROL AMO ID Instances] in [!DNL Analytics] differ from [!UICONTROL EF ID Instances] in Adobe Advertising by more than 1%, however, contact your Adobe Account Team for assistance.
 
 For more information about the AMO ID and EF ID, see [Adobe Advertising IDs Used by Analytics](ids.md).
 
@@ -192,7 +192,7 @@ where the EF ID is "`test_ef_id`" and the AMO ID is "`test_amo_id#redirectAnchor
 
 In this example, the addition of the anchor tag adds unexpected characters to the AMO ID, resulting in a value that Analytics doesn't recognize. This AMO ID wouldn't be classified, and conversions associated with it would fall under "[!UICONTROL unspecified]" or "[!UICONTROL none]" in [!DNL Analytics] reports.
 
-Fortunately, while issues like this are common, they typically don't result in a high percentage of discrepancy. However, if you notice a large discrepancy between AMO IDs in [!DNL Analytics] and EF IDs in Adobe Advertising, contact your [!DNL Adobe] account team for assistance.
+Fortunately, while issues like this are common, they typically don't result in a high percentage of discrepancy. However, if you notice a large discrepancy between AMO IDs in [!DNL Analytics] and EF IDs in Adobe Advertising, contact your Adobe Account Team for assistance.
 
 ## Other Metric Considerations
 

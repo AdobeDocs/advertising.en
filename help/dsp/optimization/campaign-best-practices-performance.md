@@ -138,7 +138,7 @@ To maximize scale, use [!UICONTROL Public] (Open Exchange) and [!UICONTROL On De
 
 * **[!UICONTROL Device Targeting]**:
   * Include [!UICONTROL Computer], [!UICONTROL Mobile], and [!UICONTROL Tablet].
-  * Don't target [!UICONTROL Firefox] and [!UICONTROL Safari] because of targeting and measurement limitations. Contact your [!DNL Adobe] account team for more details about [!DNL Adobe] support for [!DNL Safari ITP].
+  * Don't target [!UICONTROL Firefox] and [!UICONTROL Safari] because of targeting and measurement limitations. Contact your Adobe Account Team for more details about [!DNL Adobe] support for [!DNL Safari ITP].
   * If you target mobile web traffic, then disable all mobile browsers except [!UICONTROL Chrome] and [!UICONTROL Edge].
 
 ### Brand Safety and Media Quality

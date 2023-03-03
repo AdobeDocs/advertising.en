@@ -128,7 +128,7 @@ where:
 * `{userid}` is the unique numeric user ID that Adobe Advertising assigns to the advertiser.
 * `{sid}` is the numeric ID that Adobe Advertising uses for the specified ad network, such as `3` for [!DNL Google Ads] or `10` for [!DNL Microsoft Advertising].
 
-The following are the full AMO ID formats for a couple of ad networks. For AMO ID formats for other ad networks, contact your [!DNL Adobe] account team.
+The following are the full AMO ID formats for a couple of ad networks. For AMO ID formats for other ad networks, contact your Adobe Account Team.
 
 AMO ID Format for [!DNL Google Ads]:
 

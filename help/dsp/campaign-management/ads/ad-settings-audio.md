@@ -38,7 +38,7 @@ This field may or may not be displayed, depending on the account permissions.
 
 **[!UICONTROL Final VAST Tag]:** (Ads using VAST tags only) The URL for the third-party ad source with the necessary [Advertising DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
-**[!UICONTROL Select Rate]:** (Users with permission only) A pre-negotiated rate billed through Adobe, or one of the rates that you've negotiated and will be billed for through the vendor. To add a rate, contact your [!DNL Adobe] account team.
+**[!UICONTROL Select Rate]:** (Users with permission only) A pre-negotiated rate billed through Adobe, or one of the rates that you've negotiated and will be billed for through the vendor. To add a rate, contact your Adobe Account Team.
 
 ### Pixel
 

@@ -27,13 +27,13 @@ The error messages for failed ad submissions can come from either Advertising DS
 
 |Code|Meaning|Description|Next Steps|
 |--- |--- |--- |--- |
-|401|Unauthorized|Incorrect, missing, or invalid access credentials.|Contact your [!DNL Adobe] account team.|
-|403|Forbidden|The server understood the request but refuses to authorize it.|Contact your [!DNL Adobe] account team.|
-|404|Not Found|The resource you requested is not available. If the Creative ID is not found in the PUT operation, a 404 is returned.|Contact your [!DNL Adobe] account team.|
-|405|Method Not Allowed|A request was made of a resource using a request method not supported by that resource (for example, using GET on a method that requires data to be sent by POST, or using PUT on a read-only resource).|Contact your [!DNL Adobe] account team.|
-|408|Request Timeout|A timeout occurred while this request was processing. Timeouts usually are caused by concurrent requests of exclusive access to certain resources.|Resubmit the request when you receive this status. If the issue persists, contact your [!DNL Adobe] account team.|
-|422|Unprocessable Entity|Invalid resource. This error happens when the request body is invalid or the created/updated resource is invalid (for example, if the Deal ID was not found). See [FreeWheel API 422 Errors](#freewheel-422-errors) for more information.|Contact your [!DNL Adobe] account team.|
-|500|Internal Server Error|API system error.|Contact your [!DNL Adobe] account team.|
+|401|Unauthorized|Incorrect, missing, or invalid access credentials.|Contact your Adobe Account Team.|
+|403|Forbidden|The server understood the request but refuses to authorize it.|Contact your Adobe Account Team.|
+|404|Not Found|The resource you requested is not available. If the Creative ID is not found in the PUT operation, a 404 is returned.|Contact your Adobe Account Team.|
+|405|Method Not Allowed|A request was made of a resource using a request method not supported by that resource (for example, using GET on a method that requires data to be sent by POST, or using PUT on a read-only resource).|Contact your Adobe Account Team.|
+|408|Request Timeout|A timeout occurred while this request was processing. Timeouts usually are caused by concurrent requests of exclusive access to certain resources.|Resubmit the request when you receive this status. If the issue persists, contact your Adobe Account Team.|
+|422|Unprocessable Entity|Invalid resource. This error happens when the request body is invalid or the created/updated resource is invalid (for example, if the Deal ID was not found). See [FreeWheel API 422 Errors](#freewheel-422-errors) for more information.|Contact your Adobe Account Team.|
+|500|Internal Server Error|API system error.|Contact your Adobe Account Team.|
 
 {style="table-layout:auto"}
 

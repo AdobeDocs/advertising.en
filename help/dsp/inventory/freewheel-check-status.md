@@ -8,7 +8,7 @@ exl-id: f5f33e96-68a8-48bd-8c30-72be9315c5ac
 
 See if your ad submissions to [!DNL Freewheel] were successful. You can resubmit any ad as needed.
 
-For any additional questions or issues with resubmission, contact your [!DNL Adobe] account team.
+For any additional questions or issues with resubmission, contact your Adobe Account Team.
 
 ## Check the Status from the [!UICONTROL Ads] View
 

@@ -8,7 +8,7 @@ exl-id: 9a8c2b3e-233e-4401-8311-daffde6cda68
 
 ## Account Funding
 
-Make sure your account has enough credit to run the entire campaign. You can check and refill account funds in [!UICONTROL Settings] > [!UICONTROL Account] or by contacting your [!DNL Adobe] account team.
+Make sure your account has enough credit to run the entire campaign. You can check and refill account funds in [!UICONTROL Settings] > [!UICONTROL Account] or by contacting your Adobe Account Team.
 
 ## Campaign Status
 

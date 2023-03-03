@@ -310,7 +310,7 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
    * To manually select an interval, click inside a cell and optionally drag to select the interval.
 1. Click **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Optional; available to advertisers configured with [!DNL Comscore] and [!DNL Grapeshot] segments) Specific segment names or IDs from [!DNL Comscore] and [!DNL Grapeshot] to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your [!DNL Adobe] account team.
+**[!UICONTROL Topic Targeting]:** (Optional; available to advertisers configured with [!DNL Comscore] and [!DNL Grapeshot] segments) Specific segment names or IDs from [!DNL Comscore] and [!DNL Grapeshot] to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your Adobe Account Team.
 
 To specify topic targeting:
 

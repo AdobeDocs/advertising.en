@@ -42,9 +42,9 @@ To access [!DNL Adobe] audiences in DSP or [!DNL Creative], you must import the 
 
 The [!DNL Adobe] account and data operations teams will perform the following steps.
 
-1. The [!DNL Adobe] account team should configure the advertiser-level setting "[!UICONTROL Adobe Analytics Cloud]."
+1. The Adobe Account Team should configure the advertiser-level setting "[!UICONTROL Adobe Analytics Cloud]."
 
-1. The [!DNL Adobe] account team should submit a request<!-- Submit a request as a JIRA task? --> to the data operations team<!-- implementation team? --> to import the organization's Audience Manager segments using the Advertising DSP native API integration.
+1. The Adobe Account Team should submit a request<!-- Submit a request as a JIRA task? --> to the data operations team<!-- implementation team? --> to import the organization's Audience Manager segments using the Advertising DSP native API integration.
 
 ### What Changes Result in Audience Manager?
 
@@ -70,7 +70,7 @@ The API automatically:
 
 [!DNL Adobe] personnel will perform most or all of the following steps.
 
-1. The [!DNL Adobe] account team should submit a request to the data operations team to set up an integration between [!DNL Search] and Audience Manager. Include the names of the Audience Manager segments that you want to export to [!DNL Search]. 
+1. The Adobe Account Team should submit a request to the data operations team to set up an integration between [!DNL Search] and Audience Manager. Include the names of the Audience Manager segments that you want to export to [!DNL Search]. 
 
 1. Within Audience Manager, configure destinations for [!DNL Search]:
 

@@ -33,7 +33,7 @@ DSP automatically refreshes all deal details daily at 4:30 a.m. EST. It also ref
 
 ## Implementing the [!UICONTROL Deal ID Inbox]
 
-To receive your deals in the [!UICONTROL Deal ID inbox], your SSP accounts must map your organization's DSP account to your SSP account. DSP will share the organization's account names with the relevant SSPs. Contact your [!DNL Adobe] account team for instructions.
+To receive your deals in the [!UICONTROL Deal ID inbox], your SSP accounts must map your organization's DSP account to your SSP account. DSP will share the organization's account names with the relevant SSPs. Contact your Adobe Account Team for instructions.
 
 During deal negotiations, tell the publisher to send the deal to your buyer instead of to the parent DSP account. The deal identifier may be a name or an ID, depending on the SSP.
 

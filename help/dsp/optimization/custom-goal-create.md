@@ -8,7 +8,7 @@ exl-id: 81b0acfa-085d-495b-9516-576b952b1307
 
  You can create custom goals as *objectives* within [!DNL Adobe Advertising Search].
 
-To create a custom goal, the DSP account must be linked to a [!DNL Search] account with the same Adobe Experience Cloud organization ID, from within the [!DNL Search] client settings. If your DSP account isn't linked to a [!DNL Search] account, contact your [!DNL Adobe] account team.
+To create a custom goal, the DSP account must be linked to a [!DNL Search] account with the same Adobe Experience Cloud organization ID, from within the [!DNL Search] client settings. If your DSP account isn't linked to a [!DNL Search] account, contact your Adobe Account Team.
 
 >[!TIP]
 >

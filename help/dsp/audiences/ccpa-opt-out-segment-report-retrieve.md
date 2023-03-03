@@ -10,7 +10,7 @@ You can retrieve monthly reports of IDs that customers have submitted for opt-ou
 
 >[!NOTE]
 >
->You can optionally retrieve consumer opt-out-of-sale reports using the DSP [!DNL Trafficking API]. For instructions, see the documentation for the [!DNL Trafficking API]. If your organization doesn't use the [!DNL Trafficking API] but is interested in more information, contact your [!DNL Adobe] account team.
+>You can optionally retrieve consumer opt-out-of-sale reports using the DSP [!DNL Trafficking API]. For instructions, see the documentation for the [!DNL Trafficking API]. If your organization doesn't use the [!DNL Trafficking API] but is interested in more information, contact your Adobe Account Team.
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 1. Above the segment list, click **[!UICONTROL Access CCPA Reports]**.

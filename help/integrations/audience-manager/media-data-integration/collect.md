@@ -23,7 +23,7 @@ In Audience Manager, create a [data source](https://experienceleague.adobe.com/d
 
 ## Step 2: Implement Impression and Click Event Pixels on Webpages {#implement-dsp-pixels}
 
-Advertisers can create and implement event tags for their own brands. If necessary, contact your Adobe Audience Manager consultant or your [!DNL Adobe] account manager for support.
+Advertisers can create and implement event tags for their own brands. If necessary, contact your Adobe Audience Manager consultant or your Adobe Account Team for support.
 
 >[!NOTE]
 >

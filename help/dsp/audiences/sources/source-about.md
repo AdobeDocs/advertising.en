@@ -29,7 +29,7 @@ For more information about destinations, see the Experience Platform [Destinatio
 
 1. [Configure a [!DNL Real-Time CDP] destination connection in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).
 
-For additional support, contact your [!DNL Adobe] account team or `adcloud-support@adobe.com`.
+For additional support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]
 >

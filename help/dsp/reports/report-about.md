@@ -68,7 +68,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
 ## Cross-Account Reporting {#cross-account-reporting}
 
-Any organization with multiple DSP accounts can optionally enable cross-account data in custom reports, according to the organization's needs. For example, you can give Account A access to Account B's data, and give Account B access to Account C's (but not Account A's) data. To enable and configure this feature, contact your [!DNL Adobe] account team.
+Any organization with multiple DSP accounts can optionally enable cross-account data in custom reports, according to the organization's needs. For example, you can give Account A access to Account B's data, and give Account B access to Account C's (but not Account A's) data. To enable and configure this feature, contact your Adobe Account Team.
 
 Once the feature is enabled for your organization, you can [filter](report-settings.md) any of the following report types by account:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], and [!UICONTROL Conversion].
 

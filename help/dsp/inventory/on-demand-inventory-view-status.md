@@ -31,7 +31,7 @@ Publisher approval or denial can be based on the account type and campaign categ
 
    To see why a request was denied for each advertiser, click ![denied](/help/dsp/assets/denied.png). If the reason for the denial is something that can be resolved, then you can [re-request the deal](/help/dsp/inventory/on-demand-inventory-rerequest.md).
 
-If you have any questions about the approval process, contact your [!DNL Adobe] account team.
+If you have any questions about the approval process, contact your Adobe Account Team.
 
 >[!MORELIKETHIS]
 >
