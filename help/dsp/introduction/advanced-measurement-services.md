@@ -87,4 +87,4 @@ The following measurement solution packages are available to validate the succes
 
 ## More Information
 
-For information about all advanced measurement solutions, outlining pricing information as well as available formats and regions for each solution, contact your [!DNL Adobe] customer success manager. Solution-specific case studies are also available upon request.
+For information about all advanced measurement solutions, outlining pricing information as well as available formats and regions for each solution, contact your Adobe account team. Solution-specific case studies are also available upon request.
