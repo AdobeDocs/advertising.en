@@ -19,9 +19,9 @@ Create them similarly to how you create other types of placements and videos:
 
    If you create multiple ads, make sure to specify "[!UICONTROL Universal Video]" as the [!UICONTROL Ad Type]:
    
-   * For [!DNL Google] or [!DNL Flashtalking] ads: In the "[!UICONTROL Review ad types]" step after you upload the file, click the [!UICONTROL Ad Type' field and select **[!UICONTROL Universal Video]**.
+   * For [!DNL Google] or [!DNL Flashtalking] ads: In the "[!UICONTROL Review ad types]" step after you upload the file, click the **[!UICONTROL Ad Type]** field and select **[!UICONTROL Universal Video]**.
    
-   * For other types of ad tags: Within the spreadsheet file you upload, specify the Ad Type for each ad as **[!UICONTROL Universal Video]**.
+   * For other types of ad tags: Within the spreadsheet file you upload, specify the Ad Type field for each ad as **[!UICONTROL Universal Video]**.
 
 1. [Open the ad settings](/help/dsp/campaign-management/ads/ad-edit.md) for each new ad and select the applicable video format:
 
