@@ -3,7 +3,7 @@ title: FAQs About Universal Video
 description: Learn more about universal video ads.
 feature: DSP Placements, DSP Ads
 ---
-# # FAQs About Universal Video
+# FAQs about Universal Video
 
 ## How do you create universal video placements and ads?
 
