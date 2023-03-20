@@ -70,6 +70,7 @@ The following settings apply to each pixel that you create or edit.
 
 >[!MORELIKETHIS]
 >
+>* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
 >* [About Ad Management](ad-about.md)
 >* [Create a Single Ad](ad-create.md)
 >* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
