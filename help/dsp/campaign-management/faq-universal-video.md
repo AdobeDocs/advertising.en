@@ -9,13 +9,13 @@ feature: DSP Placements, DSP Ads
 
 Universal video placements can contain only universal video ads, and universal video ads can be attached only to universal video placements.
 
-Create them the same way you create other types of placements and videos:
+Create them similarly to how you create other types of placements and videos:
 
 1. Within the desired campaign, [create a universal video placement](/help/dsp/campaign-management/placements/placement-create.md), selecting the [!UICONTROL Placement Type] **[!UICONTROL Universal Video]**.
 
    You'll need to specify at least one environment (Desktop, Mobile, Connected TV) to target.
 
-1. In the same campaign as the universal video placement, [create a single universal video ad](/help/dsp/campaign-management/ads/ad-create.md) or [create multiple universal video ads ads](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+1. In the same campaign as the universal video placement, [create a single universal video ad](/help/dsp/campaign-management/ads/ad-create.md) or [create multiple universal video ads](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
    If you create multiple ads, make sure to specify "[!UICONTROL Universal Video]" as the [!UICONTROL Ad Type]. For [!DNL Google] or [!DNL Flashtalking] ads, select the ad type in the "[!UICONTROL Review ad types]" step after you upload the file. For other types of ad tags, specify the ad type within the spreadsheet file you upload.
 
