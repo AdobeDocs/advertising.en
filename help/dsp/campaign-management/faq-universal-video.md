@@ -13,7 +13,7 @@ Create them similarly to how you create other types of placements and videos:
 
 1. Within the desired campaign, [create a universal video placement](/help/dsp/campaign-management/placements/placement-create.md), selecting the [!UICONTROL Placement Type] **[!UICONTROL Universal Video]**.
 
-   You'll need to specify at least one environment (Desktop, Mobile, Connected TV) to target.
+   You must specify at least one environment (Desktop, Mobile, Connected TV) to target.
 
 1. In the same campaign as the universal video placement, [create a single universal video ad](/help/dsp/campaign-management/ads/ad-create.md) or [create multiple universal video ads](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
@@ -41,8 +41,8 @@ Goals that are incompatible with standard connected TV placements, such as Lowes
 
 Use **[!UICONTROL VAST]** in either of the following scenarios:
 
-* The placement will target connected TV inventory.
-* The placement will target video inventory from Google Ad Manager, Appnexus, SpotX, or Freewheel. These SSPs don't support the VPAID & VAST video format.
+* The placement targets connected TV inventory.
+* The placement targets video inventory from Google Ad Manager, Appnexus, SpotX, or Freewheel. These SSPs don't support the VPAID & VAST video format.
 
 ## Is it possible to attach multiple universal video ads to the same universal video placement?
 
