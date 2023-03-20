@@ -68,3 +68,4 @@ You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or a
 >* [Ad Specifications](ad-specs.md)
 >* [Create a Single Ad](ad-create.md)
 >* [Video: How to Bulk Upload Third-Party Ad Tags](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
+>* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
