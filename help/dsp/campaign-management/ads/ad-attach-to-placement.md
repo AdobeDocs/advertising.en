@@ -6,6 +6,10 @@ exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 ---
 # Attach an Ad to a Placement
 
+>[!NOTE]
+>
+>Universal video ads can be attached only to universal video placements.
+
 ## Attach a New Ad from the [!UICONTROL Ads] View
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
@@ -126,3 +130,4 @@ exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 >* [Edit an Ad](ad-edit.md)
 >* [List the Placements Associated with an Ad](ad-list-placements.md)
 >* [Edit the Ad Schedule for a Placement](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
+>* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
