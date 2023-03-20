@@ -48,3 +48,4 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 >* [Create Multiple Third-party Ads](ad-create-multiple.md)
 >* [Edit an Ad](ad-edit.md)
 >* [Ad Specifications](ad-specs.md)
+>* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
