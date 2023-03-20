@@ -58,9 +58,14 @@ You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or a
 
       1. Click **[!UICONTROL Save & submit for review]**.
 
+>[!NOTE]
+>
+>Universal video ads can be attached only to universal video placements.
+
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
 >* [Ad Specifications](ad-specs.md)
 >* [Create a Single Ad](ad-create.md)
 >* [Video: How to Bulk Upload Third-Party Ad Tags](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
+>* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)

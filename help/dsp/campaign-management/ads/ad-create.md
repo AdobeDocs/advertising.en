@@ -22,13 +22,17 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 
 1. Specify the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md), [mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), [pre-roll ads](ad-settings-pre-roll.md), or [universal video ads](ad-settings-universal-video.md):
 
-    1. On the [!UICONTROL Insert Ad Tag] screen, enter information about the ad from a certified third-party ad serving partner, and then click **[!UICONTROL Go]**.
+   >[!NOTE]
+   >
+   >Universal video ads can be attached only to universal video placements.
 
-    1. On the [!UICONTROL Options] screen:
+   1. On the [!UICONTROL Insert Ad Tag] screen, enter information about the ad from a certified third-party ad serving partner, and then click **[!UICONTROL Go]**.
 
-        1. On the [!UICONTROL Basics] tab, specify the ad details.
+   1. On the [!UICONTROL Options] screen:
 
-        1. (Optional) On the [!UICONTROL Pixel] tab, specify any third-party tracking pixels you want to attach to the ad.
+       1. On the [!UICONTROL Basics] tab, specify the ad details.
+
+       1. (Optional) On the [!UICONTROL Pixel] tab, specify any third-party tracking pixels you want to attach to the ad.
 
 1. When the ad is complete, click **[!UICONTROL Save & Submit for Review]**.
 
@@ -36,7 +40,7 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 
    >[!NOTE]
    >
-   >Your ad will only be served if both DSP and the SSP have approved the creative. Each SSP has its own approval requirements and process.
+   >Your ad will only be served if both DSP and the SSP have approved the creative. Each SSP has its own approval requirements and process. 
 
 >[!MORELIKETHIS]
 >
@@ -44,3 +48,4 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 >* [Create Multiple Third-party Ads](ad-create-multiple.md)
 >* [Edit an Ad](ad-edit.md)
 >* [Ad Specifications](ad-specs.md)
+>* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)

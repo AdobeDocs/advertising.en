@@ -107,7 +107,8 @@ index: yes
       + [Columns in Downloaded/Uploaded Spreadsheets](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
   + [DSP Macros](/help/dsp/campaign-management/macros.md)
   + [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-  + [FAQs About Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
+  + [FAQs About Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
+  + [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
 + Optimization {#optimization}
   + [How [!DNL DSP] Optimizes Your Campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md)

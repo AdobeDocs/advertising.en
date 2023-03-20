@@ -4,7 +4,7 @@ description: See descriptions of the available placement settings.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
 ---
-# Placement Settings
+# Placement Settings 
 
 ## [!UICONTROL Basics]
 
@@ -32,7 +32,7 @@ exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
 
 **[!UICONTROL Ad specs for forecast]:** (Video ad formats only) The ad duration and/or ad specifications, which are used to calculate the Forecast projection on the right. The fields vary by ad type.
 
-**[!UICONTROL Environment]:** (Universal Video ad format only) The device environments (Desktop, Mobile, Connected TV) to include as targets in the placement.
+**[!UICONTROL Environment]:** (Universal Video ad format only) The device environments (Desktop, Mobile, Connected TV) to include as targets in the placement. Specify at least one.
 
 **[!UICONTROL Placement tags]:** (Optional) Keywords or nicknames to help you locate this placement.
 
@@ -458,4 +458,4 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
 >* [Edit a Placement](placement-edit.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [FAQs About Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [FAQs About Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
