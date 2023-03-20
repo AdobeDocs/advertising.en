@@ -58,6 +58,10 @@ You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or a
 
       1. Click **[!UICONTROL Save & submit for review]**.
 
+>[!NOTE]
+>
+>Universal video ads can be attached only to universal video placements.
+
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
