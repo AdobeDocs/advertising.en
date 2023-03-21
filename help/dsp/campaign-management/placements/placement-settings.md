@@ -34,6 +34,8 @@ exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
 
 **[!UICONTROL Environment]:** (Universal Video ad format only) The device environments (Desktop, Mobile, Connected TV) to include as targets in the placement. Specify at least one.
 
+In custom reports, the placement-level dimension “Device Environment” indicates the targeted environment.
+
 **[!UICONTROL Placement tags]:** (Optional) Keywords or nicknames to help you locate this placement.
 
 ## Goals
