@@ -12,6 +12,7 @@ The following features are new or recently changed.
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
+| 20 March 2023 | [!UICONTROL Campaigns] | Read more about universal video placements and ads, which are an open beta feature. | See "[FAQs about Universal Video](/help/dsp/campaign-management/faq-universal-video.md)." |
 | 15 February 2023 | [!UICONTROL Campaigns] | Options to view change logs in chart form and add notes to any entry are out of beta. | See "[View the Change Log for a Campaign](/help/dsp/campaign-management/campaigns/campaign-change-log.md)," See "[View the Change Log for a Package](/help/dsp/campaign-management/packages/package-change-log.md)," and See "[View the Change Log for a Placement](/help/dsp/campaign-management/placements/placement-change-log.md)." |
 | 3 February 2023 | [!UICONTROL Campaigns] | (Beta features) You can now view change logs in chart form, and you can add notes to any entry. | See "[View the Change Log for a Campaign](/help/dsp/campaign-management/campaigns/campaign-change-log.md)," See "[View the Change Log for a Package](/help/dsp/campaign-management/packages/package-change-log.md)," and See "[View the Change Log for a Placement](/help/dsp/campaign-management/placements/placement-change-log.md)." |
 | 25 January 2023 | [!UICONTROL Deals] | A new "PG Impression Pacing" spend column in the Inventory > Deals view reports pacing for guaranteed deals. | See "[Edit a Custom Column View](/help/dsp/campaign-management/reports/column-view-edit.md)." |
