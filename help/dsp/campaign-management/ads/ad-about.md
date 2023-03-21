@@ -35,6 +35,8 @@ All of the following ad types are available in DSP. For full specifications for 
 
   Universal video ads can be attached only to universal video placements.
 
+  See "[FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)" for more information about universal video ads.
+
 ## DSP Ad Approvals
 
 When you create an ad, DSP reviews it for sensitive categories, click URL functionality, and preview rendering.
