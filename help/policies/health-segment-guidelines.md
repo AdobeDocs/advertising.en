@@ -6,7 +6,7 @@ exl-id: 121129e3-3d4b-4478-9cfd-cb16c1eb67de
 ---
 # Adobe Advertising Acceptable Health Segment Guidelines
 
-*For Adobe Advertising DSP and [!DNL Adobe Advertising Search]*
+*For Adobe Advertising DSP and [!DNL Adobe Advertising Search, Social, & Commerce]*
 
 The following guidelines outline unacceptable and acceptable health-related audience segments. They also recommend tactics to use as alternatives to targeting health-related audience segments.
 

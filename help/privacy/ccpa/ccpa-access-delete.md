@@ -6,7 +6,7 @@ exl-id: e7808411-7dc3-499c-bda1-1f5882f651b2
 ---
 # Adobe Advertising Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support
 
-*For [!DNL Adobe Advertising Search]; Adobe Advertising DSP; Adobe Advertising Creative; and Adobe Advertising DCO*
+*For [!DNL Adobe Advertising Search, Social, & Commerce]; Adobe Advertising DSP; Adobe Advertising Creative; and Adobe Advertising DCO*
 
 >[!IMPORTANT]
 >
@@ -18,7 +18,7 @@ As a business, you will determine the personal data that Adobe Experience Cloud 
 
 As your service provider, Adobe Advertising provides support for your business to fulfill its obligations under CCPA that are applicable to the use of Adobe Advertising products and services, including managing requests to access and delete personal information and managing requests to opt out of the sale of personal information.
 
-This document describes how [!DNL Advertising Search]; Advertising Creative; Advertising DSP (Demand Side Platform); and [!DNL Advertising DCO] &mdash; as service providers &mdash; support consumers' rights to access and delete personal information using the Adobe [!DNL Experience Platform Privacy Service API] and [!DNL Privacy Service UI].
+This document describes how [!DNL Advertising Search, Social, & Commerce]; Advertising Creative; Advertising DSP (Demand Side Platform); and [!DNL Advertising DCO] &mdash; as service providers &mdash; support consumers' rights to access and delete personal information using the Adobe [!DNL Experience Platform Privacy Service API] and [!DNL Privacy Service UI].
 
 For information about how Advertising DSP supports the consumer right to opt-out of the sale of personal information, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
@@ -28,8 +28,8 @@ For more information about the Adobe Privacy services for CCPA, see the [Adobe P
 
 Adobe Experience Platform provides the ability for businesses to complete the following tasks:
 
-* Access a consumer's cookie-level data or device ID-level data (for ads in mobile apps) within [!DNL Search], [!DNL Creative], [!DNL DSP], or [!DNL DCO].
-* Delete cookie-level data stored within [!DNL Search], [!DNL Creative], [!DNL DSP], or [!DNL DCO] for consumers using a browser; or delete ID-level data stored within [!DNL DSP] for consumers using apps on mobile devices.
+* Access a consumer's cookie-level data or device ID-level data (for ads in mobile apps) within [!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], or [!DNL DCO].
+* Delete cookie-level data stored within [!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], or [!DNL DCO] for consumers using a browser; or delete ID-level data stored within [!DNL DSP] for consumers using apps on mobile devices.
 * Check the status of one or all existing requests.
 
 ## Required Setup to Send Requests for Adobe Advertising
@@ -48,7 +48,7 @@ To make requests to access and delete consumer personal information from Adobe A
 
    >[!NOTE]
    >
-   >Deleting personal data is different than opting out, which stops the targeting of an end user with audience segments. However, when a consumer asks to delete personal data from [!DNL Creative], [!DNL DSP], or [!DNL DCO], the library also sends a request to Adobe Advertising to opt out the customer from segment targeting. For advertisers with [!DNL Search], we recommend that you provide your customers a link to [https://www.adobe.com/privacy/opt-out.html#customeruse](https://www.adobe.com/privacy/opt-out.html#customeruse), which explains how to opt out of audience segment targeting. 
+   >Deleting personal data is different than opting out, which stops the targeting of an end user with audience segments. However, when a consumer asks to delete personal data from [!DNL Creative], [!DNL DSP], or [!DNL DCO], the library also sends a request to Adobe Advertising to opt out the customer from segment targeting. For advertisers with [!DNL Search, Social, & Commerce], we recommend that you provide your customers a link to [https://www.adobe.com/privacy/opt-out.html#customeruse](https://www.adobe.com/privacy/opt-out.html#customeruse), which explains how to opt out of audience segment targeting. 
 
 1. Identify your Experience Cloud organization ID and make sure it is linked to your Adobe Advertising accounts.
 
@@ -56,7 +56,7 @@ To make requests to access and delete consumer personal information from Adobe A
 
    >[!IMPORTANT]
    >
-   >Contact your company’s Adobe Advertising representative to confirm that all of your organization's Adobe Advertising accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your Experience Cloud organization ID.
+   >Contact your company’s Adobe Advertising representative to confirm that all of your organization's Adobe Advertising accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search, Social, & Commerce] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your Experience Cloud organization ID.
 
 1. Use either the [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (for automated requests) or the [Privacy Service UI](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (for ad-hoc requests) to submit requests to access and delete personal information to Adobe Advertising on behalf of consumers, and to check the status of existing requests.
 
@@ -68,7 +68,7 @@ To make requests to access and delete consumer personal information from Adobe A
 
    >[!NOTE]
    >
-   >If your business has multiple Experience Cloud organization IDs, then you must send separate API requests for each. You can, however make one API request to multiple Adobe Advertising sub-solutions ([!DNL Search], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
+   >If your business has multiple Experience Cloud organization IDs, then you must send separate API requests for each. You can, however make one API request to multiple Adobe Advertising sub-solutions ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
 
 All of these steps are necessary to receive support from Adobe Advertising. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 

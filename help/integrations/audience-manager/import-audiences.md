@@ -6,7 +6,7 @@ exl-id: 6ff80699-9554-4b39-a019-d8055d68c174
 ---
 # Import Adobe Audience Manager Segments for Ad Targeting
 
-Advertising DSP and [!DNL Advertising Search] can each pull in metadata, hierarchy data, and unique audience data for all of an advertiser's or agency's [!DNL Adobe] audiences<!-- segments or audiences? Standardize terms per AAM's docs -->. This includes data for:
+Advertising DSP and [!DNL Advertising Search, Social, & Commerce] can each pull in metadata, hierarchy data, and unique audience data for all of an advertiser's or agency's [!DNL Adobe] audiences<!-- segments or audiences? Standardize terms per AAM's docs -->. This includes data for:
 
 * Adobe Audience Manager segments
 
@@ -16,7 +16,7 @@ Advertising DSP and [!DNL Advertising Search] can each pull in metadata, hierarc
 
 * Segments that are created in Adobe Experience Platform and sent to Adobe Advertising via Audience Manager
 
-To access [!DNL Adobe] audiences in DSP or [!DNL Creative], you must import the audiences into DSP. To access [!DNL Adobe] audiences in [!DNL Search], you must import the audiences into [!DNL Search].
+To access [!DNL Adobe] audiences in DSP or [!DNL Creative], you must import the audiences into DSP. To access [!DNL Adobe] audiences in [!DNL Search, Social, & Commerce], you must import the audiences into [!DNL Search, Social, & Commerce].
 
 ## Prerequisites
 
@@ -64,19 +64,19 @@ The API automatically:
 
   * Adobe AdCloud: 411 (This comes standard and automatically as part of [!DNL Identity Service] version 2.0. Organizations with [!DNL Identity Service] versions below 2.0 should add this pixel to their Audience Manager container.
 
-## Import Audience Manager Audiences to [!DNL Search]
+## Import Audience Manager Audiences to [!DNL Search, Social, & Commerce]
 
-### Steps to Import Audiences to [!DNL Search]
+### Steps to Import Audiences to [!DNL Search, Social, & Commerce]
 
 [!DNL Adobe] personnel will perform most or all of the following steps.
 
-1. The Adobe Account Team should submit a request to the data operations team to set up an integration between [!DNL Search] and Audience Manager. Include the names of the Audience Manager segments that you want to export to [!DNL Search]. 
+1. The Adobe Account Team should submit a request to the data operations team to set up an integration between [!DNL Search, Social, & Commerce] and Audience Manager. Include the names of the Audience Manager segments that you want to export to [!DNL Search, Social, & Commerce]. 
 
-1. Within Audience Manager, configure destinations for [!DNL Search]:
+1. Within Audience Manager, configure destinations for [!DNL Search, Social, & Commerce]:
 
    1. Create two new destinations: `[!UICONTROL Adobe Media Optimizer (HTTP)]` and `[!UICONTROL Adobe Media Optimizer Batch Destination]`.
 
-       [!DNL Media Optimizer] is a former name for [!DNL Search].
+       [!DNL Media Optimizer] is a former name for [!DNL Search, Social, & Commerce].
 
    1. Specify the segments for each of the destinations.
 
@@ -84,13 +84,13 @@ The API automatically:
 
        The [!UICONTROL Manually map segments] option allows you to manually map the segments to sync with the batch destination (`[!UICONTROL Adobe Media Optimizer Batch Destination]`). No segments need to be manually mapped to the HTTP destination.
 
-1. Within [!DNL Search], either the [!DNL Search] implementation team or a user with the direct access client manager role should initiate the import from [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Audience Manager Setup].
+1. Within [!DNL Search, Social, & Commerce], either the [!DNL Search, Social, & Commerce] implementation team or a user with the direct access client manager role should initiate the import from [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Audience Manager Setup].
 
     You'll need to enter the organization's Experience Cloud [!DNL Organization ID] ([!DNL IMS org ID]). The ID must be the same as the one used for the organization's Audience Manager account.
 
 ### What Changes Result in Audience Manager?
 
-The organization will see two [!DNL Search] destinations in Audience Manager:
+The organization will see two [!DNL Search, Social, & Commerce] destinations in Audience Manager:
 
 * **[!UICONTROL Adobe Media Optimizer (HTTP)]**
 * **[!UICONTROL Adobe Media Optimizer Batch Destination])**
@@ -118,7 +118,7 @@ Segment membership data is sent only after one of the following events occurs:
 
   * The segment is added to the [!DNL Adobe AdCloud Cross-Channel] batch and real-time destinations within the Audience Manager user interface.
 
-* (Advertisers with [!DNL Search]):
+* (Advertisers with [!DNL Search, Social, & Commerce]):
 
   * The segment is targeted in an Adobe Advertising search ad.
 
@@ -140,9 +140,9 @@ In DSP, segment names are organized by the Audience Manager taxonomy and availab
 
 In [!DNL Creative], the segments are available in the experience settings for target nodes.
 
-### In [!DNL Advertising Search]
+### In [!DNL Advertising Search, Social, & Commerce]
 
-In [!DNL Search], the segments are available when you create a [!DNL Google] audience using the [!UICONTROL Data Source] "[!UICONTROL Adobe Audience]" from [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
+In [!DNL Search, Social, & Commerce], the segments are available when you create a [!DNL Google] audience using the [!UICONTROL Data Source] "[!UICONTROL Adobe Audience]" from [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
 
 For each [!DNL Google] audience that you create, [!DNL Google] supplies the audience size.
 

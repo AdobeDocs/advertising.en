@@ -32,11 +32,11 @@ Advertisers with additional Adobe Experience Cloud products can share data acros
 
 (Optional) Additional Experience Cloud products linked to the DSP account. The products must be associated with the same Experience Cloud organization ID provided in the [!UICONTROL Adobe IMS IDs] section.
 
-**[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Advertisers with [!DNL Adobe Advertising Search] or who use Adobe Advertising conversion pixels) A [!DNL Search] account with which DSP will exchange attribution data.
+**[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Advertisers with [!DNL Advertising Search, Social, & Commerce] or who use Adobe Advertising conversion pixels) A [!DNL Search, Social, & Commerce] account with which DSP will exchange attribution data.
 
 **[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Advertisers with Adobe Analytics; optional; applicable only to data collected using Adobe Advertising conversion tracking tags that include an [!DNL EF Redirect] and token only) One or more [!DNL Analytics] report suites to which DSP will send data it collects from publishers and supply-side partners. Analytics will also send the data it collects from the client's site to DSP.
 
-For the data to appear in the report suites, the [!DNL Search] advertiser-level setting to "[!UICONTROL Enable tracking for SAINT feeds]" must be enabled. In addition, the advertiser's [!DNL Analytics] account must be configured to receive data from Adobe Advertising.
+For the data to appear in the report suites, the [!DNL Search, Social, & Commerce] advertiser-level setting to "[!UICONTROL Enable tracking for SAINT feeds]" must be enabled. In addition, the advertiser's [!DNL Analytics] account must be configured to receive data from Adobe Advertising.
 
 >[!WARNING]
 >

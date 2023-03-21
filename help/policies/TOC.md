@@ -5,7 +5,7 @@ cloud: Experience Cloud
 solution: Advertising
 product: advertising cloud
 user-guide-title: Adobe Advertising Policies and Guidelines
-user-guide-description: Learn about the policies and guidelines for Advertising DSP and [!DNL Advertising Search].
+user-guide-description: Learn about the policies and guidelines for Advertising DSP and [!DNL Advertising Search, Social, & Commerce].
 breadcrumb-title: Policies and Guidelines
 index: yes
 ---

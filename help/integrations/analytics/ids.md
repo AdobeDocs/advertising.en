@@ -8,7 +8,7 @@ exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
-*Applicable to Advertising DSP and [!DNL Advertising Search]*
+*Applicable to Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
 
 Adobe Advertising uses two IDs for on-site performance tracking:  the *EF ID* and the *AMO ID*.
 
@@ -17,7 +17,7 @@ When an ad impression occurs, Adobe Advertising creates the AMO ID and EF ID val
 Adobe Advertising distinguishes between a click-through or view-through entry to the website using the following criteria:
 
 * A view-through entry is captured when a user visits the site after viewing an ad but not clicking it. [!DNL Analytics] records a view-through if two conditions are met:
-    * The visitor has no click-throughs for a [!DNL DSP] or [!DNL Search] ad during the [click lookback window](#lookback-a4adc).
+    * The visitor has no click-throughs for a [!DNL DSP] or [!DNL Search, Social, & Commerce] ad during the [click lookback window](#lookback-a4adc).
     * The visitor has seen at least one [!DNL DSP] ad during the [impression lookback window](#lookback-a4adc). The last impression is passed as the view-through.
 * A click-through entry is captured when a site visitor clicks an ad before entering the site. [!DNL Analytics] captures a click-through when either of the following conditions occurs:
     * The URL includes an EF ID and AMO ID as added to the landing page URL by Adobe Advertising.
@@ -106,7 +106,7 @@ where:
 * <*Channel ID*> may be:
 
     * `AC` = Advertising DSP
-    * `AL` for [!DNL Advertising Search]
+    * `AL` for [!DNL Advertising Search, Social, & Commerce]
 
 * <*Ad ID*> is used an Adobe Advertising-generated unique identifier for an ad. It serves as a key for translating Adobe Advertising entity metadata into readable [!DNL Analytics] dimensions.
 
@@ -114,9 +114,9 @@ where:
 
 Example AMO ID: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
-### AMO ID Format for [!DNL Search]
+### AMO ID Format for [!DNL Search, Social, & Commerce]
 
-AMO IDs for [!DNL Search] follow a distinct format for each search engine. The format for all search engines begins with the following:
+AMO IDs for [!DNL Search, Social, & Commerce] follow a distinct format for each search engine. The format for all search engines begins with the following:
 
 ```
 AL!{userid}!{sid}

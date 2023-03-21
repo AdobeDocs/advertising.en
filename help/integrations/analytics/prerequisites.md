@@ -6,7 +6,7 @@ exl-id: 7c477900-ebb0-4c0e-811a-ab8bc6069599
 ---
 # Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising]
 
-*Advertisers with Advertising DSP and [!DNL Advertising Search]*
+*Advertisers with Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
 
 Review the following information before you integrate Adobe Advertising with Adobe Analytics.
 

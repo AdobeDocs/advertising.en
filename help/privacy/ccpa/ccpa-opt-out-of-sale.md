@@ -20,7 +20,7 @@ As your service provider, Adobe Advertising provides support for your business t
 
 This document describes how Adobe Advertising Demand Side Platform (DSP), as a service provider, supports the consumer right to opt out of the "sale" of "personal information," as each term is defined by the CCPA. It includes information on how to communicate opt-out-of-sale requests to Adobe Advertising and how to retrieve reports of your organization's opt-out-of-sale requests.
 
-For information about how [!DNL Advertising Search]; Advertising Creative; and [!DNL Advertising DCO] support consumers' personal information access and deletion rights, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support](/help/privacy/ccpa/ccpa-access-delete.md).
+For information about how [!DNL Advertising Search, Social, & Commerce]; Advertising Creative; and [!DNL Advertising DCO] support consumers' personal information access and deletion rights, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support](/help/privacy/ccpa/ccpa-access-delete.md).
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
@@ -58,7 +58,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
    >[!IMPORTANT]
    >
-   >Contact your company’s Adobe Advertising representative to confirm that all of your organization's Adobe Advertising accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your Experience Cloud organization ID.
+   >Contact your company’s Adobe Advertising representative to confirm that all of your organization's Adobe Advertising accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search, Social, & Commerce] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your Experience Cloud organization ID.
 
 1. Use the Adobe Experience Platform Privacy Service API to [submit opt-out-of-sale requests](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) to Adobe Advertising on behalf of consumers, and to check the status of existing requests.
 
@@ -66,7 +66,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
    >[!NOTE]
    >
-   >If your business has multiple Experience Cloud organization IDs, then you must send separate API requests for each. You can, however make one API request to multiple Adobe Advertising sub-solutions ([!DNL Search], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
+   >If your business has multiple Experience Cloud organization IDs, then you must send separate API requests for each. You can, however make one API request to multiple Adobe Advertising sub-solutions ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
 
 All of these steps are necessary to receive support from Adobe Advertising. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 

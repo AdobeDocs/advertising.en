@@ -55,7 +55,7 @@ To apply one or more filters, do the following:
 
 >[!NOTE]
 >
->Conversion paths include any impressions and clicks within the advertiser's impression or click lookback windows, which are configured in [!DNL Adobe Advertising Search]. Clicks are given preference to impressions during conversion attribution. Any clicks in a conversion path receive full credit based on the attribution rule. Impressions receive credit only when no clicks are tracked in the conversion path.
+>Conversion paths include any impressions and clicks within the advertiser's impression or click lookback windows, which are configured in [!DNL Advertising Search, Social, & Commerce]. Clicks are given preference to impressions during conversion attribution. Any clicks in a conversion path receive full credit based on the attribution rule. Impressions receive credit only when no clicks are tracked in the conversion path.
 
 * *[!UICONTROL Last Event]:* Attributes conversions to the last click or impression in the conversion path.  
 
@@ -69,7 +69,7 @@ To apply one or more filters, do the following:
 
 * *[!UICONTROL U-shaped]:* Attributes the conversion to all events in the conversion path but gives the most weight to the first and last events, with successively less weight to the events in the middle of the conversion path.
 
-* *[!UICONTROL Display Only]:*  Attributes conversions to the last DSP click or impression in the conversion path. This includes video and connected TV ads and excludes clicks on [!DNL Adobe Advertising Search] ads.
+* *[!UICONTROL Display Only]:*  Attributes conversions to the last DSP click or impression in the conversion path. This includes video and connected TV ads and excludes clicks on [!DNL Advertising Search, Social, & Commerce] ads.
 
 * *[!UICONTROL Social Only]:* Obsolete
 

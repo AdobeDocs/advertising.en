@@ -6,15 +6,15 @@ exl-id: 81b0acfa-085d-495b-9516-576b952b1307
 ---
 # Create a Custom Goal
 
- You can create custom goals as *objectives* within [!DNL Adobe Advertising Search].
+ You can create custom goals as *objectives* within [!DNL Advertising Search, Social, & Commerce].
 
-To create a custom goal, the DSP account must be linked to a [!DNL Search] account with the same Adobe Experience Cloud organization ID, from within the [!DNL Search] client settings. If your DSP account isn't linked to a [!DNL Search] account, contact your Adobe Account Team.
+To create a custom goal, the DSP account must be linked to a [!DNL Search, Social, & Commerce] account with the same Adobe Experience Cloud organization ID, from within the [!DNL Search, Social, & Commerce] client settings. If your DSP account isn't linked to a [!DNL Search, Social, & Commerce] account, contact your Adobe Account Team.
 
 >[!TIP]
 >
 >See the [best practices for creating custom goals](custom-goal-best-practices.md) for tips on how to configure your custom goals.
 
-1. Log into [!DNL Adobe Advertising Search] at (users in North America) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) or (all other users) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
+1. Log into [!DNL Advertising Search, Social, & Commerce] at (users in North America) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) or (all other users) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Make sure the metrics that you want to include in your goal have been tracked, are available in the product, and include a display name:
     1. In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Admin] > [!UICONTROL Transaction Properties]**.
     1. Locate the metric, and make sure that **[!UICONTROL Show in UI and Reports]** is enabled for the metric.

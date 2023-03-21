@@ -72,7 +72,7 @@ You can include the following metrics in custom reports:
 
 *Advertisers with Adobe Advertising Conversion Tracking Only*
 
-With people-based attribution, you can attribute conversions that took place on a different device than the device on which the media exposure occurred. People-based attribution measurement is available across DSP, [!DNL Adobe Advertising Creative], and [!DNL Adobe Advertising Search] for advertisers who have implemented Adobe Advertising conversion pixels on their sites.
+With people-based attribution, you can attribute conversions that took place on a different device than the device on which the media exposure occurred. People-based attribution measurement is available across DSP, [!DNL Adobe Advertising Creative], and [!DNL Adobe Advertising Search, Social, & Commerce] for advertisers who have implemented Adobe Advertising conversion pixels on their sites.
 
 ### Enable People-Based Attribution Measurement
 

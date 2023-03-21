@@ -6,7 +6,7 @@ exl-id: 94558478-ffa6-4b83-bc79-c7589fe0f14c
 ---
 # Overview of [!DNL Analytics for Advertising]
 
-*Advertisers with Advertising DSP and [!DNL Advertising Search]*
+*Advertisers with Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
 
 [!DNL Analytics for Advertising] integrates Adobe Analytics and Adobe Advertising to extend and enhance the capabilities of each product.
 
@@ -60,7 +60,7 @@ Without requiring any additional pixels, [!DNL Analytics for Advertising] enable
 
   You can use [!DNL Analytics] segments for first-party site retargeting in [!DNL DSP] and paid search advertisements.
 
-  ([!DNL Search] only) Advertisers with [!DNL Analytics] but not Audience Manager can also create Google website tag-based audiences (remarketing lists) and customer match audiences (customer lists) from [!DNL Analytics] segments that are shared with Experience Cloud.
+  ([!DNL Search, Social, & Commerce] only) Advertisers with [!DNL Analytics] but not Audience Manager can also create Google website tag-based audiences (remarketing lists) and customer match audiences (customer lists) from [!DNL Analytics] segments that are shared with Experience Cloud.
 
 ### Site Conversion Metrics as Bid Signals
 
@@ -76,7 +76,7 @@ See "[Analytics Metrics in Adobe Advertising](analytics-data-in-advertising.md)"
 
 ### Analytics Segments for Site Retargeting
 
-Adobe Advertising can ingest [!DNL Analytics] segments for remarketing purposes for Advertising DSP and [!DNL Search] ads using the native Experience Cloud Audiences integration between [!DNL Analytics] and Experience Cloud.
+Adobe Advertising can ingest [!DNL Analytics] segments for remarketing purposes for Advertising DSP and [!DNL Search, Social, & Commerce] ads using the native Experience Cloud Audiences integration between [!DNL Analytics] and Experience Cloud.
 
 To access the [!DNL Analytics] segments, an advertiser account needs to have the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) enabled. When the ID Service is enabled, all Experience Cloud segments (including segments created in [!DNL Analytics] and published to Experience Cloud, segments created in Adobe Audience Manager, segments created in Experience Cloud using the [!DNL People core service], and segments created in Adobe Experience Platform and sent to Adobe Advertising via Audience Manager) become available within Adobe Advertising as soon as they are processed.
 
