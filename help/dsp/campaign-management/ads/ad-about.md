@@ -13,7 +13,7 @@ DSP supports ad delivery via third-party ad serving tags (such as Google, Flasht
 <!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
 <!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
 
-Once your ads are set up, you'll need to attach each ad to a placement, which includes the targeting parameters (such as geo, audience, device, and inventory targeting) that will control how your campaign will deliver. You can attach a single ad to one or multiple placements.
+Once your ads are set up, attach each ad to a placement, which includes the targeting parameters (such as geo, audience, device, and inventory targeting) that control how your campaign delivers. You can attach a single ad to one or multiple placements.
 
 ## Available Ad Types {#ad-types}
 
@@ -21,7 +21,7 @@ All of the following ad types are available in DSP. For full specifications for 
 
 * **Audio Ads (third-party only)**: Audio ads play between content on digital publisher sites and can be run standalone as audio files or along with companion banners. Audio is best used to drive brand awareness and engage with on-the-go audiences. Key performance indicators for audio include [!UICONTROL Completion Rate] and [!UICONTROL Cost per Completion].
 
-* **Display Ads (third-party only)**: Display ads are animated or static images displayed in web browsers or in apps. Clicking on the ad unit takes the user to a branded site or microsite. Display is best used to drive efficient CPMs, increase message association, add additional brand or product touchpoints, and drive users down the purchase funnel. Key performance indicators for display include [!UICONTROL Clicks], [!UICONTROL Cost per Click], [!UICONTROL Conversions], and [!UICONTROL Cost per Conversion]. DSP supports a wide variety of display banner ad sizes.
+* **Display Ads (third-party only)**: Display ads are animated or static images displayed in web browsers or in apps. Clicking the ad unit takes the user to a branded site or microsite. Display is best used to drive efficient CPMs, increase message association, add additional brand or product touchpoints, and drive users down the purchase funnel. Key performance indicators for display include [!UICONTROL Clicks], [!UICONTROL Cost per Click], [!UICONTROL Conversions], and [!UICONTROL Cost per Conversion]. DSP supports a wide variety of display banner ad sizes.
 
 * **Mobile Ads (third-party only)**: Mobile ads can be in pre-roll video (VAST, MRAID) or standard display format. Mobile pre-roll video can be auto-play or click-to-play and is best used for reaching viewers across screens. Mobile standard display is a static image displayed on mobile web browsers or in apps and is best used to complement digital video buys, drive message association, and add additional branding or product touchpoints. Mobile ads can also function as full-screen takeovers or as mobile interstitials, which are full-screen, high-impact mobile ads that are best used to develop brand awareness for mobile audiences and drive conversions.
 
@@ -31,7 +31,9 @@ All of the following ad types are available in DSP. For full specifications for 
 
 * **Connected TV Ads (third-party only)**: Connected TV ads are shown before and during premium TV video content. All connected TV inventory runs on TV devices, meaning that video plays automatically in a lean-back, full-screen environment that viewers can't skip. Connected TV is the closest digital video format to TV commercials. Key performance indicators for Connected TV include [!UICONTROL Completion Rate].
 
-* **Universal Video Ads (third-party only)**: Universal Video ads combine all the capabilities of Connected TV, Pre-roll and Mobile Pre-roll Ads (VAST and VPAID) into one and are shown before and during video content. Universal Video ad can be used when targeting video inventory from Desktop, Mobile and Connected TV environments and thus avoids the need to create multiple video ads. Key performance indicators for Universal Video include [!UICONTROL Completion Rate] and [!UICONTROL Viewability Rate].
+* **Universal Video Ads (third-party only)**: Universal video ads allow you to target video inventory from desktop, mobile, and connected TV environments for VPAID and VAST inventory using a single video placement. They combine all of the capabilities of connected TV, pre-roll, and mobile pre-roll ads and are shown before and during video content. Key performance indicators for universal video include [!UICONTROL Completion Rate] and [!UICONTROL Viewability Rate].
+
+  Universal video ads can be attached only to universal video placements.
 
 ## DSP Ad Approvals
 
