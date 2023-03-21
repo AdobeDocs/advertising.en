@@ -34,6 +34,10 @@ You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or a
 
 1. Review the details and status of each ad:
 
+   1. (Universal video ads using [!DNL Google] or [!DNL Flashtalking] tags) Click the **[!UICONTROL Ad Type]** field and select **[!UICONTROL Universal Video]**.
+
+   1. (Universal video ads) For each new ad, click ![edit](/help/dsp/assets/edit.png), select the [applicable video format](/help/dsp/campaign-management/ads/ad-settings-universal-video.md), and then click **Save**.
+
    1. Review the status of each ad, which is based on validation checks on the uploaded tag.
 
    1. (Optional) Do any of the following for each ad:
