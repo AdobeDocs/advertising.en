@@ -7,9 +7,11 @@ feature: DSP Placements, DSP Ads
 
 ## How do you create universal video placements and ads?
 
+[Universal video ads](/help/dsp/campaign-management/ads/ad-about.md) allow you to target video inventory from desktop, mobile, and connected TV environments for VPAID and VAST inventory using a single video placement.
+
 Universal video placements can contain only universal video ads, and universal video ads can be attached only to universal video placements.
 
-Create them similarly to how you create other types of placements and videos:
+Create universal video placements and ads similarly to how you create other types of placements and videos:
 
 1. Within the desired campaign, [create a universal video placement](/help/dsp/campaign-management/placements/placement-create.md), selecting the [!UICONTROL Placement Type] **[!UICONTROL Universal Video]**.
 
