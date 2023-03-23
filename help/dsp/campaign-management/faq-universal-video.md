@@ -5,7 +5,7 @@ feature: DSP Placements, DSP Ads
 ---
 # FAQs About Universal Video
 
-[Universal video ads](/help/dsp/campaign-management/ads/ad-about.md) allow you to target video inventory from desktop, mobile, and connected TV environments for VPAID and VAST inventory using a single video placement.
+[Universal video ads](/help/dsp/campaign-management/ads/ad-about.md#ad-types) allow you to target video inventory from desktop, mobile, and connected TV environments for VPAID and VAST inventory using a single video placement.
 
 ## How do you create universal video placements and ads?
 
