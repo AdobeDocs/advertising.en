@@ -1,3 +1,3 @@
 # Snippets
 
-##[!DNL Search, Social, & Commerce]{#search-product-name}
+## [!DNL Search, Social, & Commerce]{#search-product-name}
