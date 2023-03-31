@@ -10,6 +10,10 @@ exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
 
 The following features are new or recently changed.
 
+<!--
+|  | Reports | A new Household report shows impressions, reach, and frequency across various dimensions at a household level based on IP address, rather than at a device/cookie level. The report includes nine dimensions: Campaign, Package, Placement, Site/Apps, Media Type, Device, Audience, Creative Length, and user-created Tags. | See "[About Reports](/help/dsp/reports/report-about.md)" and "[Report Settings](/help/dsp/reports/report-settings.md)." |
+-->
+
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
 | 20 March 2023 | [!UICONTROL Campaigns] | Read more about universal video placements and ads, which are an open beta feature. | See "[FAQs about Universal Video](/help/dsp/campaign-management/faq-universal-video.md)." |
