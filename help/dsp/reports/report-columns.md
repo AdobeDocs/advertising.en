@@ -94,7 +94,6 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Uniques (Device/Browser)]|(Included in the [!UICONTROL Frequency (by Impression)] report) The number of unique browsers or devices recorded for a given frequency. DSP estimates are based on a sample of impressions. For some inventory, don't pass along a device identifier, and those impressions aren't included in this value. There is a similar metric in the [!UICONTROL Frequency (by App/Site)] report, but that metric isn't estimated.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Universe]|The sum of unique households that DSP (auctions) has seen within the date range.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Extended Impressions]|The total number of impressions served as a result of using a device graph for people-based, cross-device targeting.|
-
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Frequency] | The frequency of impressions. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Frequency Overlap] | The frequency of reaching households by the reported dimension or combination of dimensions. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Incremental Household Reached] | The households that were reached by only the reported dimension. |
@@ -104,7 +103,7 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Measurable Impressions (Overlap)] | The total number of impressions served only by the reported dimension or combination of dimensions. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Total Media Spend] | The total spend. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Unique Household Reached] | The total unique households (distinct IP addresses) reached. |
-|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Unique Household (Overlap))] | The total unique households (distinct IP addresses) reached only by the reported dimension or combination of dimensions. |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Unique Household (Overlap)] | The total unique households (distinct IP addresses) reached only by the reported dimension or combination of dimensions. |
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPA]|The average gross cost per acquisition, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Custom Goal].|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPC]|The average gross cost per ad click, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks].|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPCV]|The average cost per completed video view, calculated by [!UICONTROL Gross Spend] / [!UICONTROL 100% Completions].|
