@@ -36,11 +36,22 @@ To apply one or more filters, do the following:
 
 ## [!UICONTROL Build Your Report] Section
 
-**[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. All unavailable metrics are disabled. The available data categories include:
+**[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. The available columns vary by report, and all unavailable metrics are disabled. The available data categories include:
 
 * [!UICONTROL Dimensions]
+
+  >[!NOTE]
+  >
+  > The [!UICONTROL Household] report can include only one dimension.
+
 * [!UICONTROL Metrics]
+
+  >[!NOTE]
+  >
+  >The [!UICONTROL Household] report can include either overlap metrics or non-overlap metrics, but not both.
+
 * [!UICONTROL Conversion Metrics] (sorted by advertiser)
+
 * [!UICONTROL Custom Goals] (sorted by advertiser)
 
 See "[Available Report Columns](report-columns.md)" for descriptions of all options.
