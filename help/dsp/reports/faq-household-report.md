@@ -10,8 +10,7 @@ The [!UICONTROL Household] report measures reach, impression, and frequency acro
 
 For example, if one impression is served to three devices in the household, then the [!UICONTROL Household] report shows three impressions and a frequency of three, but the Unique Household Reached metric is one.
 
-The [!UICONTROL Household] report supports the following dimensions: 
-[!UICONTROL Campaign]<!-- name? -->,[!UICONTROL Package]<!-- name? There's another dimension called Package Name -->, [!UICONTROL Placement]<!-- name? There's another dimension called Placement Name -->, [!UICONTROL Site/Apps], [!UICONTROL Media Type], [!UICONTROL Feed Type], [!UICONTROL Device], [!UICONTROL Publisher], [!UICONTROL Audience], [!UICONTROL Creative Length], and user-created [!UICONTROL Placement Tags].|
+The [!UICONTROL Household] report supports the following dimensions: [!UICONTROL Campaign]<!-- name? -->,[!UICONTROL Package]<!-- name? There's another dimension called Package Name -->, [!UICONTROL Placement]<!-- name? There's another dimension called Placement Name -->, [!UICONTROL Site/Apps], [!UICONTROL Media Type], [!UICONTROL Feed Type], [!UICONTROL Device], [!UICONTROL Publisher], [!UICONTROL Audience], [!UICONTROL Creative Length], and user-created [!UICONTROL Placement Tags].|
 
 The available metrics include:
 
