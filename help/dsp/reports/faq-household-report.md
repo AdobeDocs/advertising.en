@@ -1,6 +1,6 @@
 ---
 title: FAQs About the [!UICONTROL Household] Report
-description: Learn more about the [!UICONTROL Household] report, including XXXXXXXXXX.
+description: Learn more about the [!UICONTROL Household] report, including how it's different from other reports and troubleshooting.
 ---
 # FAQs About the [!UICONTROL Household] Report
 
@@ -10,7 +10,7 @@ The [!UICONTROL Household] report measures reach, impression, and frequency acro
 
 For example, if one impression is served to three devices in the household, then the [!UICONTROL Household] report shows three impressions and a frequency of three, but the Unique Household Reached metric is one.
 
-The [!UICONTROL Household] report supports the following dimensions: [!UICONTROL Campaign]<!-- name? -->,[!UICONTROL Package]<!-- name? There's another dimension called Package Name -->, [!UICONTROL Placement]<!-- name? There's another dimension called Placement Name -->, [!UICONTROL Site/Apps], [!UICONTROL Media Type], [!UICONTROL Feed Type], [!UICONTROL Device], [!UICONTROL Publisher], [!UICONTROL Audience], [!UICONTROL Creative Length], and user-created [!UICONTROL Placement Tags].|
+The [!UICONTROL Household] report supports the following dimensions: [!UICONTROL Campaign] **[is this Campaign Name, like other reports?]**<!-- name? -->,[!UICONTROL Package] **[is this Package Name, like other reports?]**<!-- name? There's another dimension called Package Name -->, [!UICONTROL Placement] **[is this Placement Name, like other reports?]**<!-- name? There's another dimension called Placement Name -->, [!UICONTROL Site/Apps], [!UICONTROL Media Type], [!UICONTROL Feed Type], [!UICONTROL Device], [!UICONTROL Publisher], [!UICONTROL Audience], [!UICONTROL Creative Length], and user-created [!UICONTROL Tags] **[is this Placement Tags, like other reports?]**.|
 
 The available metrics include:
 
@@ -20,6 +20,7 @@ The available metrics include:
 
 ## What's the difference between the overlap and non-overlap metrics?
 
+ **[I need to clean up this and add the image]**
 <!-- finish this, including image -->
 
 Consider three metrics: Unique Household, Incremental Household, and Incremental Household (Overlap). 
@@ -41,15 +42,15 @@ The [!UICONTROL Household] report can include only one dimension. It also can in
 
 ## What are some limitations of the [!UICONTROL Household] report? 
 
-Reports with overlap metrics can include combinations of up to three values<!-- not sure what this means. Can't you include only one dimension? So what does "combination" mean? -->, with a maximum of ten total values, per dimension. For example, if you use the Placement Name dimension, the overlap report can be generated for up to ten placements. If your dimension includes more than ten values, a blank report is generated. 
+Reports with overlap metrics can include combinations of up to three values **[Can't you include only one dimension? What are you combining here?]**<!-- not sure what this means. Can't you include only one dimension? So what does "combination" mean? -->, with a maximum of ten total values, per dimension. For example, if you use the Placement Name dimension, the overlap report can be generated for up to ten placements. If your dimension includes more than ten values, a blank report is generated. 
 
 This restriction will be removed in a future release.
 
 In the meantime, create a separate report for each unique dimension or for overlap reports. 
 
-## Why am I receiving a blank report? 
+## Why is my report blank? 
 
-Reports with overlap metrics may be blank when the dimension has more than ten distinct values. For example, if you use the [!UICONTROL Placement Name] dimension, and more than ten placements are selected for the report, then the report isn't populated. 
+Reports with overlap metrics may be blank when the dimension has more than ten distinct values. For example, if you use the [!UICONTROL Placement Name] dimension, and more than ten placements are selected for the report, then the report isn't populated. **[OR are the metric values not populated?]**[<!-- or are the metric values not populated? -->
 
 ## Why are the frequency and unique reach values different between my [!UICONTROL Custom] reports and the [!UICONTROL Household] report?
 
