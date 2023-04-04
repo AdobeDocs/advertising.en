@@ -8,9 +8,13 @@ description: Learn more about the [!UICONTROL Household] report, including how i
 
 The [!UICONTROL Household] report measures reach, impression, and frequency across various dimensions at a household level based on IP address. The other custom reports are generated at the device or cookie level.
 
-For example, if one impression is served to three devices within one household, then the [!UICONTROL Household] report shows three impressions and a frequency of three, but the Unique Household Reached metric is one.
+For example, even if one impression is served to three devices within one household, the Unique Household Reached metric is one.
+
+### Supported Dimensions
 
 The [!UICONTROL Household] report supports the following dimensions: [!UICONTROL Campaign] **[is this Campaign Name, like other reports?]**<!-- name? -->,[!UICONTROL Package] **[is this Package Name, like other reports?]**<!-- name? There's another dimension called Package Name -->, [!UICONTROL Placement] **[is this Placement Name, like other reports?]**<!-- name? There's another dimension called Placement Name -->, [!UICONTROL Site/Apps] (which doesn't provide access to overlap metrics), [!UICONTROL Media Type], [!UICONTROL Feed Type], [!UICONTROL Device], [!UICONTROL Publisher], [!UICONTROL Audience], [!UICONTROL Creative Length], and user-created [!UICONTROL Tags] **[is this Placement Tags, like other reports?]**.|
+
+### Supported Metrics
 
 The available metrics include:
 
@@ -19,6 +23,8 @@ The available metrics include:
   Overlap metrics are the values that occur only for the reported dimension or combination of dimensions, and not for other dimensions. For example, it might show the
 
 * Non-overlap metrics: [!UICONTROL Frequency], [!UICONTROL Incremental Household Reached], [!UICONTROL % Incremental Household Reached], [!UICONTROL Impressions], [!UICONTROL Measurable Impressions], and [!UICONTROL Unique Household Reached]
+
+Conversion metrics and custom goals aren't supported.
 
 ## What's the difference between the overlap and non-overlap metrics?
 
