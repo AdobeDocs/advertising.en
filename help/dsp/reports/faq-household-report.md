@@ -12,11 +12,11 @@ For example, even if one impression is served to three devices within one househ
 
 ### Supported Dimensions
 
-The [!UICONTROL Household] report supports the following dimensions: [!UICONTROL Campaign] **[is this Campaign Name, like other reports?]**<!-- name? -->,[!UICONTROL Package] **[is this Package Name, like other reports?]**<!-- name? There's another dimension called Package Name -->, [!UICONTROL Placement] **[is this Placement Name, like other reports?]**<!-- name? There's another dimension called Placement Name -->, [!UICONTROL Site/Apps] (which doesn't provide access to overlap metrics), [!UICONTROL Media Type], [!UICONTROL Feed Type], [!UICONTROL Device], [!UICONTROL Publisher], [!UICONTROL Audience], [!UICONTROL Creative Length], and user-created [!UICONTROL Tags] **[is this Placement Tags, like other reports?]**.|
+The [!UICONTROL Household] report supports the [following dimensions](/help/dsp/reports/report-columns.md): [!UICONTROL Campaign] **[is this Campaign Name, like other reports?]**<!-- name? -->,[!UICONTROL Package] **[is this Package Name, like other reports?]**<!-- name? There's another dimension called Package Name -->, [!UICONTROL Placement] **[is this Placement Name, like other reports?]**<!-- name? There's another dimension called Placement Name -->, [!UICONTROL Site/Apps] (which doesn't provide access to overlap metrics), [!UICONTROL Media Type], [!UICONTROL Feed Type], [!UICONTROL Device], [!UICONTROL Publisher], [!UICONTROL Audience], [!UICONTROL Creative Length], and user-created [!UICONTROL Tags] **[is this Placement Tags, like other reports?]**.|
 
 ### Supported Metrics
 
-The available metrics include:
+The [available metrics](/help/dsp/reports/report-columns.md) include:
 
 * Overlap metrics: [!UICONTROL Frequency Overlap], [!UICONTROL Measurable Impressions (Overlap)], and [!UICONTROL Unique Household (Overlap)].
 
@@ -50,7 +50,7 @@ The [!UICONTROL Household] report can include only one dimension. It also can in
 
 ## What are some limitations of the [!UICONTROL Household] report? 
 
-Reports with overlap metrics can include combinations of up to three values **[Can't you include only one dimension? What are you combining here?]**<!-- not sure what this means. Can't you include only one dimension? So what does "combination" mean? -->, with a maximum of ten total values, per dimension. For example, if you use the Placement Name dimension, the overlap report can be generated for up to ten placements. If your dimension includes more than ten values, a blank report is generated. 
+Reports with overlap metrics can include combinations of up to three values **[What are you combining here? And why "up to three" but "maximum of ten?"]**<!-- not sure what this means. Can't you include only one dimension? So what does "combination" mean? -->, with a maximum of ten total values, per dimension. For example, if you use the Placement Name dimension, then the overlap report can be generated for up to ten placements. If your dimension includes more than ten values, then a blank report is generated. 
 
 This restriction will be removed in a future release.
 
@@ -62,7 +62,7 @@ Reports with overlap metrics may be blank when the dimension has more than ten d
 
 ## Why are the frequency and unique reach values different between my [!UICONTROL Custom] reports and the [!UICONTROL Household] report?
 
-These metrics in [!UICONTROL Household] reports are calculated using the actual count of IP addresses, whereas the metrics in the [!UICONTROL Custom] report use estimated numbers calculated using models. However, the discrepancy should be less than 10%. 
+These metrics in [!UICONTROL Household] reports are calculated using the actual count of IP addresses, whereas the metrics in the [!UICONTROL Custom] report use estimated numbers calculated using models. However, the discrepancy should be less than 10%.
 
 ## How do I configure the report for the [!UICONTROL Placement Tags] dimension?
 
