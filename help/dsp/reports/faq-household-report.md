@@ -20,7 +20,7 @@ The [available metrics](/help/dsp/reports/report-columns.md) include:
 
 * Overlap metrics: [!UICONTROL Frequency Overlap], [!UICONTROL Measurable Impressions (Overlap)], and [!UICONTROL Unique Household (Overlap)].
 
-  Overlap metrics are the values that occur only for the reported dimension or combination of dimensions, and not for other dimensions. For example, it might show the
+  Overlap metrics are the values that occur only for the reported dimension or combination of dimensions, and not for other dimensions. <!-- For example, it might show the ?? -->
 
 * Non-overlap metrics: [!UICONTROL Frequency], [!UICONTROL Incremental Household Reached], [!UICONTROL % Incremental Household Reached], [!UICONTROL Impressions], [!UICONTROL Measurable Impressions], and [!UICONTROL Unique Household Reached]
 
@@ -38,7 +38,7 @@ Let us consider three campaigns -- A, B, C.
 Unique Household Reached (Total) provides the Unique Household reached by each of the campaigns or the total area of each of the circles. 
 For example: Unique Household Reached by A = Incremental Household Reached by A + (A+C) + (A+B) +(A+B+C)
 
-Incremental Household Reached is the Unique Household that 's been reached only by a campaign. Eg: Incremental Household Reached by A, B, C are the Incremental Household reached by A, B, C respectively. 
+Incremental Household Reached is the Unique Household that's been reached only by a campaign. Eg: Incremental Household Reached by A, B, C are the Incremental Household reached by A, B, C respectively. 
 
 Incremental Household (Overlap) is the Unique Household reached by the campaign or combination of campaigns. Eg: Incremental Household reached by A, C is A+C. 
 
