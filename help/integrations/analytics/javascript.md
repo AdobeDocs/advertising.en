@@ -48,7 +48,7 @@ The JavaScript library consists of two lines that allow [!DNL Analytics] and Ado
 
 ### Where to Place the Code
 
-The [!DNL Analytics for Advertising] JavaScript function must come after the Experience Cloud ID Service but before your Analytics App Measurement code so that the supplemental ID (`SDID`) or `[!DNL StitchID]` can be included in your Analytics call.
+The [!DNL Analytics for Advertising] JavaScript function must come after the Experience Cloud ID Service but before your Analytics App Measurement code. This ensures that the supplemental ID (`SDID`) or `[!DNL StitchID]` is included in your Analytics call.
 
 ![Code placement](/help/integrations/assets/a4adc-code-placement.png)
 
