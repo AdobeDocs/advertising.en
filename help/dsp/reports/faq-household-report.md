@@ -50,15 +50,9 @@ The [!UICONTROL Household] report can include only one dimension. It also can in
 
 ## What are some limitations of the [!UICONTROL Household] report? 
 
-Reports with overlap metrics can include combinations of up to three values **[What are you combining here? And why "up to three" but "maximum of ten?"]**<!-- not sure what this means. Can't you include only one dimension? So what does "combination" mean? -->, with a maximum of ten total values, per dimension. For example, if you use the Placement Name dimension, then the overlap report can be generated for up to ten placements. If your dimension includes more than ten values, then a blank report is generated. 
+Reports with overlap metrics output intersections of up to three values. For example, if you use the metric [!UICONTROL Unique Household (Overlap)] for 10 placements, then you can see the unique households reached by individual placements, common households reached by a combination of any two placements, and common households reached by combinations of any three placements. You won't be able to see common households reached by four or more placements.
 
-This restriction will be removed in a future release.
-
-In the meantime, create a separate report for each unique dimension or for overlap reports. 
-
-## Why is my report blank? 
-
-Reports with overlap metrics may be blank when the dimension has more than ten distinct values. For example, if you use the [!UICONTROL Placement Name] dimension, and more than ten placements are selected for the report, then the report isn't populated. **[OR are the metric values not populated?]**<!-- or are the metric values not populated? -->
+For dimensions other than campaign, package, or placement, the report supports up to 10 values in each dimension. For example, if you want to generate a [!UICONTROL Unique Household Reached] report for the [!UICONTROL Audience] dimension, then the number of unique audiences should be less than or equal to 10. If more then 10 unique audiences are included, then a blank report is generated. 
 
 ## Why are the frequency and unique reach values different between my [!UICONTROL Custom] reports and the [!UICONTROL Household] report?
 
@@ -77,10 +71,6 @@ For advanced reporting on household-based reach and frequency, the [[!DNL Strate
 ### If I'm already using [!DNL Advanced Measurement Services], why should I use the [!UICONTROL Household] report?
 
 The [!UICONTROL Household] report empowers clients to pull household-level reach and frequency metrics autonomously in real time.
-
-### Does the [!UICONTROL Household] report replace [!DNL Advanced Measurement Services]?
-
-No, [!DNL Advanced Measurement Services] reports and consulting services continue to be essential for brands seeking more expansive, customizable reporting as well as strategic insights and recommendations.
 
 ### Can I use both the [!UICONTROL Household] report and [!DNL Advanced Measurement Services]? 
 
