@@ -7,7 +7,6 @@ exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 # About Activating Authenticated Segments from Audience Sources
 
 <!-- Doesn't specifically explain what you can do in our UI -->
-*Beta feature*
 
 DSP can ingest first-party segments comprised of authenticated signals built within a customer data platform (CDP). You can use the ingested segments as targets for your placements.
 
@@ -20,8 +19,6 @@ In [!DNL Real-time CDP], *destinations* are connections to external data platfor
 For more information about destinations, see the Experience Platform [Destinations Guide](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), including an overview of the product, instructions for [creating destination workspaces](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) and [creating destination connections](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), and [activating data to destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html). 
 
 ### Workflow for Using the DSP Integration with [!DNL Real-time CDP] {#workflow-sources}
-
-<!-- Make sure that titles make the distinctions clear -- everything can't be "Activate XXX." -->
 
 1. [Allow DSP to translate customer data segments into [!DNL LiveRamp RampIDs]](source-durable-id.md) that are recognizable in a biddable environment.<!-- I don't think I need this here: This requires DSP account-level and campaign-level settings to enable segment sharing with [!DNL LiveRamp], which will translate customer data to [!DNL RampIDs] to create targetable segments. Your Adobe Account Team will perform this configuration. -->
 
