@@ -6,8 +6,6 @@ exl-id: 274ea502-ad15-4d3d-922a-17caddb87f69
 ---
 # Audience Source Settings
 
-*Beta feature*
-
 **[!UICONTROL Data Visibility Level]:** Whether the segments are available to a single advertiser with access to the account (*[!UICONTROL Advertiser]*) or to all advertisers with access to the account *[!UICONTROL Account]*.
 
 **[!UICONTROL Advertiser]:** (Advertiser-level visibility only) The advertiser for whom the segments are available. Select one from the list of advertisers with access to the account.
