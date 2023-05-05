@@ -6,8 +6,6 @@ exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
 ---
 # Create an Audience Source to Activate First-Party Audiences
 
-*Beta feature*
-
 <!-- Will this remain for admin users/Adobe Account Team users only? -->
 
 Create a source to import audiences to your DSP account or an advertiser account. Currently, you can import audiences from [the [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html).
@@ -16,7 +14,7 @@ Create a source to import audiences to your DSP account or an advertiser account
 >
 >After you create a source for the [!DNL Real-Time CDP], you'll need to activate your [!DNL Real-Time CDP] audiences through the Adobe Advertising DSP destination within [!DNL Real-Time CDP] to begin importing them. See [the steps in the activation workflow](source-about.md#workflow-sources).
 
-1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Sources (BETA)].
+1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Sources]**.
 
 1. Click [!UICONTROL Add Source].
 
