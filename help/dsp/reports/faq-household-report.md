@@ -28,7 +28,7 @@ Conversion metrics and custom goals aren't supported.
 
 ## What's the difference between the overlap and non-overlap metrics?
 
-The following figure shows the overlap for three metrics (Unique Household, Incremental Household, and Incremental Household (Overlap)) for three campaigns (A, B, and C).
+The following figure shows three metrics (Unique Household, Incremental Household, and Incremental Household (Overlap)) for three campaigns (A, B, and C).
 
 ![Illustration of household overlap metrics](/help/dsp/assets/household-overlap-metrics-illustration.png "Illustration of household overlap metrics")
 
