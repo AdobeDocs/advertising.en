@@ -12,7 +12,7 @@ For example, even if one impression is served to three devices within one househ
 
 ### Supported Dimensions
 
-The [!UICONTROL Household] report supports the [following dimensions](/help/dsp/reports/report-columns.md): [!UICONTROL Campaign] **[is this Campaign Name, like other reports?]**<!-- name? -->,[!UICONTROL Package] **[is this Package Name, like other reports?]**<!-- name? There's another dimension called Package Name -->, [!UICONTROL Placement] **[is this Placement Name, like other reports?]**<!-- name? There's another dimension called Placement Name -->, [!UICONTROL Site/Apps] (which doesn't provide access to overlap metrics), [!UICONTROL Media Type], [!UICONTROL Feed Type], [!UICONTROL Device], [!UICONTROL Publisher], [!UICONTROL Audience], [!UICONTROL Creative Length], and user-created [!UICONTROL Tags] **[is this Placement Tags, like other reports?]**.|
+The [!UICONTROL Household] report supports the [following dimensions](/help/dsp/reports/report-columns.md): "[!UICONTROL Campaign]," "[!UICONTROL Package]," "[!UICONTROL Placement]," "[!UICONTROL Site/Apps]" (which doesn't provide access to overlap metrics), "[!UICONTROL Media Type]," "[!UICONTROL Feed Type]," "[!UICONTROL Device]," "[!UICONTROL Publisher]," "[!UICONTROL Audience]," "[!UICONTROL Creative Length]," and user-created placement "[!UICONTROL Tags]." |
 
 ### Supported Metrics
 
@@ -40,7 +40,9 @@ For example: Unique Household Reached by A = Incremental Household Reached by A 
 
 Incremental Household Reached is the Unique Household that's been reached only by a campaign. Eg: Incremental Household Reached by A, B, C are the Incremental Household reached by A, B, C respectively. 
 
-Incremental Household (Overlap) is the Unique Household reached by the campaign or combination of campaigns. Eg: Incremental Household reached by A, C is A+C. 
+Incremental Household (Overlap) is the Unique Household reached by the campaign or combination of campaigns. Eg: Incremental Household reached by A, C is A+C.
+
+![Illustration of household overlap metrics](/help/dsp/assets/household-overlap-metrics-illustration.png "Illustration of household overlap metrics")
 
 ## Workflow
 
@@ -50,9 +52,9 @@ The [!UICONTROL Household] report can include only one dimension. It also can in
 
 ## What are some limitations of the [!UICONTROL Household] report? 
 
-Reports with overlap metrics output intersections of up to three values. For example, if you use the metric [!UICONTROL Unique Household (Overlap)] for 10 placements, then you can see the unique households reached by individual placements, common households reached by a combination of any two placements, and common households reached by combinations of any three placements. You won't be able to see common households reached by four or more placements.
+Reports with overlap metrics output intersections of up to three values. For example, if you use the metric [!UICONTROL Unique Household (Overlap)] for 10 placements, then you can see the unique households reached by individual placements, common households reached by a combination of any two placements, and common households reached by combinations of any three placements. You can't see common households reached by four or more placements.
 
-For dimensions other than campaign, package, or placement, the report supports up to 10 values in each dimension. For example, if you want to generate a [!UICONTROL Unique Household Reached] report for the [!UICONTROL Audience] dimension, then the number of unique audiences should be less than or equal to 10. If more then 10 unique audiences are included, then a blank report is generated. 
+For dimensions other than campaign, package, or placement, the report supports up to 10 values in each dimension. For example, to generate a [!UICONTROL Unique Household Reached] report for the [!UICONTROL Audience] dimension, the number of unique audiences should be less than or equal to 10. If you include more then 10 unique audiences, then a blank report is generated. 
 
 ## Why are the frequency and unique reach values different between my [!UICONTROL Custom] reports and the [!UICONTROL Household] report?
 
