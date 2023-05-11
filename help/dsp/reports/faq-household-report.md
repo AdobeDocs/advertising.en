@@ -31,18 +31,15 @@ Conversion metrics and custom goals aren't supported.
  **[I need to clean up this and add the image]**
 <!-- finish this, including image -->
 
-Consider three metrics: Unique Household, Incremental Household, and Incremental Household (Overlap). 
-
-Let us consider three campaigns -- A, B, C. 
-
-Unique Household Reached (Total) provides the Unique Household reached by each of the campaigns or the total area of each of the circles. 
-For example: Unique Household Reached by A = Incremental Household Reached by A + (A+C) + (A+B) +(A+B+C)
-
-Incremental Household Reached is the Unique Household that's been reached only by a campaign. Eg: Incremental Household Reached by A, B, C are the Incremental Household reached by A, B, C respectively. 
-
-Incremental Household (Overlap) is the Unique Household reached by the campaign or combination of campaigns. Eg: Incremental Household reached by A, C is A+C.
+The following figure shows the overlap for three metrics (Unique Household, Incremental Household, and Incremental Household (Overlap)) for three campaigns (A, B, and C).
 
 ![Illustration of household overlap metrics](/help/dsp/assets/household-overlap-metrics-illustration.png "Illustration of household overlap metrics")
+
+* Unique Household Reached (Total) provides the Unique Household reached by each of the campaigns or the total area of each of the circles. In the figure, Unique Household Reached by A = Incremental Household Reached by A + (A+C) + (A+B) +(A+B+C)
+
+* Incremental Household Reached is the Unique Household that's been reached only by a campaign. In the figure, Incremental Household Reached by A, B, C are the Incremental Household reached by A, B, C respectively.
+
+* Incremental Household (Overlap) is the Unique Household reached by the campaign or combination of campaigns. In the figure, the Incremental Household reached by A, C is A+C.
 
 ## Workflow
 
