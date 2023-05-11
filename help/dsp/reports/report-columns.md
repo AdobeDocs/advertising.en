@@ -45,17 +45,17 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL Country]|The country to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL DMA]|The Designated Market Area (DMA) to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL State]|The state to which the reported data is attributed.|
-|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Audience]| The audience.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Audience]| The audience. The report supports up to 10 unique audiences.|
 |[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Campaign]| The campaign.|
-|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Creative Length]| The length of the creative.|
-|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Device]| The device.|
-|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Feed Type]| The type of feed.|
-|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Media Type]| The media type.|
-|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Publisher]| The publisher.|
-|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Package]| The package **NAME? Is this the same as the existing dimension called "Package Name," or is it different?** <!-- name? There's another dimension called Package Name -->.|
-|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Placement]| The placement **NAME? Is this the same as the existing dimension called "Placement Name," or is it different?**<!-- name? There's another dimension called Placement Name -->.|
-|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Site/Apps]| The site or app on which the ad impression was served.|
-|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Tags]| The placement tag used as a custom identifier for the placement. **Is this the same as the existing dimension called "Placement Tag," or is it different?**<!-- called Placement Tag in the placement dimensions --> |
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Creative Length]| The length of the creative. The report supports up to 10 unique creative lengths.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Device]| The device. The report supports up to 10 unique devices.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Feed Type]| The type of feed. The report supports up to 10 unique feed types.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Media Type]| The media type. The report supports up to 10 unique media types.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Publisher]| The publisher. The report supports up to 10 unique publishers.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Package]| The package. <!-- Note: The Package dimensions include another dimension called Package Name. -->|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Placement]| The placement.<!-- Note: The Placement dimensions include another dimension called Placement Name -->|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Site/Apps]| The site or app on which the ad impression was served. The report supports up to 10 unique sites or apps.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Tags]| The placement tag used as a custom identifier for the placement. The report supports up to 10 unique placement tags. <!-- Note: The Placement dimensions include another dimension called Placement Tags. --> |
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package End Date]|The end date for the package.|
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package Goal Type]|The pacing goal amount for the package. This amount is in either spend or impressions.|
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package ID]|The unique identifier for the package in DSP.|
@@ -95,15 +95,15 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Universe]|The sum of unique households that DSP (auctions) has seen within the date range.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Extended Impressions]|The total number of impressions served as a result of using a device graph for people-based, cross-device targeting.|
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Frequency] | The frequency of impressions per household. |
-|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Frequency Overlap] | The frequency of reaching households by only the reported dimension or combination of dimensions. **By "combination of dimensions," do you mean this:  For example, if the report includes data for eight campaigns, then this metric shows the frequency for ads that were served by more than one campaign????**.  |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Frequency Overlap] | The frequency of reaching households by only the reported dimension, including intersections of up to three values for the dimension. For example, if you use the [!UICONTROL Placement] dimension, then you can see the frequency reached by individual placements, frequencies reached by a combination of any two placements, and frequencies reached by combinations of any three placements. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Incremental Household Reached] | The number of households that were reached by only the reported dimension, calculated as <code>[IP addresses that were reached by only the reported dimension] - [IP addresses that were reached by any other dimension]</code>. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL % Incremental Household Reached] | The percentage of households that were reached by only the reported dimension, calculated as <code>[the percentage of IP addresses that were reached by the dimension] - [the percentage IP addresses that were reached by any other dimension]</code>. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Impressions] | The total number of ad impressions served. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Measurable Impressions] | The total number of impressions served that were able to be measured for viewability. |
-|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Measurable Impressions (Overlap)] | The total number of measureable impressions served only by the reported dimension or combination of dimensions. **By "combination of dimensions," do you mean this:  For example, if the report includes data for eight campaigns, then this metric shows the number measurable impressions *what?????* ***. |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Measurable Impressions (Overlap)] | The total number of measureable impressions served only by the reported dimension, including intersections of up to three values for the dimension. For example, if you use the [!UICONTROL Placement] dimension, then you can see the measureable impressions reached by individual placements, measureable impressions reached by a combination of any two placements, and measureable impressions reached by combinations of any three placements. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Total Media Spend] | The total spend. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Unique Household Reached] | The total unique households (distinct IP addresses) reached. |
-|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Unique Household (Overlap)] | The total unique households (distinct IP addresses) reached only by the reported dimension or combination of dimensions. **By "combination of dimensions," do you mean this:  For example, if the report includes data for eight campaigns, then this metric shows the total unique IPs addresses reached for  *what?????* ***  |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Unique Household (Overlap)] | The total unique households (distinct IP addresses) reached only by the reported dimension, including intersections of up to three values for the dimension. For example, if you use the [!UICONTROL Placement] dimension, then you can see the unique households reached by individual placements, common households reached by a combination of any two placements, and common households reached by combinations of any three placements.  |
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPA]|The average gross cost per acquisition, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Custom Goal]</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPC]|The average gross cost per ad click, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks]</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPCV]|The average cost per completed video view, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL 100% Completions]</code>.|
