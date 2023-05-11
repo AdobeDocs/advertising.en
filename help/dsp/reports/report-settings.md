@@ -8,7 +8,7 @@ exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
 
 **[!UICONTROL Name]** The report name. The maximum length is 180 characters.
 
-**[!UICONTROL Report Type]** The type of report: *[!UICONTROL Custom]* (which includes most available options), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, or *[!UICONTROL Site]*.
+**[!UICONTROL Report Type]** The type of report: *[!UICONTROL Custom]* (which includes most available options), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, or *[!UICONTROL Household]*.
 
 ## [!UICONTROL Apply Filters] Section
 
@@ -24,7 +24,7 @@ exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
 
 * **[!UICONTROL Last Calendar Month]:** Includes data for the previous calendar month.
 
-**[!UICONTROL Add Filters]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report: *[!UICONTROL Account]*,\* *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Placement]*, *[!UICONTROL Ad]*, *[!UICONTROL Ad Type]*, *[!UICONTROL Video]*, *[!UICONTROL Video Duration]*, *[!UICONTROL Country]*, and *[!UICONTROL Package]*.
+**[!UICONTROL Add Filters]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report. The  available filters vary by report type and may include: *[!UICONTROL Account]*\*, *[!UICONTROL Ad Type]*, *[!UICONTROL Ads]*, *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Country]*, * *[!UICONTROL Package]*, *[!UICONTROL Placement]*, *[!UICONTROL Video]*, and *[!UICONTROL Video Duration]*.
 
 \* *[!UICONTROL Account]* is available for the following report types only when your organization is configured for [cross-account reporting](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], and [!UICONTROL Conversion]. Contact your Adobe Account Team for more information about cross-account reporting.
 
@@ -36,12 +36,25 @@ To apply one or more filters, do the following:
 
 ## [!UICONTROL Build Your Report] Section
 
-**[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. All unavailable metrics are disabled. The available data categories include:
+**[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. The available columns vary by report, and all unavailable metrics are disabled. The available data categories include:
 
 * [!UICONTROL Dimensions]
+
+  >[!NOTE]
+  >
+  > The [!UICONTROL Household] report can include only one dimension.
+
 * [!UICONTROL Metrics]
+
+  >[!NOTE]
+  >
+  >The [!UICONTROL Household] report can include either overlap metrics or non-overlap metrics, but not both.
+
 * [!UICONTROL Conversion Metrics] (sorted by advertiser)
+
 * [!UICONTROL Custom Goals] (sorted by advertiser)
+
+See "[Available Report Columns](report-columns.md)" for descriptions of all options.
 
 **[!UICONTROL Drag to Re-Order Report Headers Below]:** The order of the column headers. You can drag and drop any column to customize the order.
 

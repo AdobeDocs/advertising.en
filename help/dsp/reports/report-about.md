@@ -66,6 +66,8 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
     * **[!UICONTROL Site]:** By default, includes standard metrics, total media net spend, and total billable net spend by site.
 
+    * **[!UICONTROL Household]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)" for more information.
+
 ## Cross-Account Reporting {#cross-account-reporting}
 
 Any organization with multiple DSP accounts can optionally enable cross-account data in custom reports, according to the organization's needs. For example, you can give Account A access to Account B's data, and give Account B access to Account C's (but not Account A's) data. To enable and configure this feature, contact your Adobe Account Team.
@@ -78,6 +80,7 @@ Your account settings at [!UICONTROL Settings] > [!UICONTROL Account] indicate a
 >
 >* [Create a Custom Report](/help/dsp/reports/report-create.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
+>* [FAQs About the [!UICONTROL Household] Report](/help/dsp/reports/faq-household-report.md)
 >* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Available Report Columns](/help/dsp/reports/report-columns.md)
 >* [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)

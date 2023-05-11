@@ -45,6 +45,17 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL Country]|The country to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL DMA]|The Designated Market Area (DMA) to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL State]|The state to which the reported data is attributed.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Audience]| The audience. The report supports up to 10 unique audiences.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Campaign]| The campaign.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Creative Length]| The length of the creative. The report supports up to 10 unique creative lengths.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Device]| The device. The report supports up to 10 unique devices.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Feed Type]| The type of feed. The report supports up to 10 unique feed types.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Media Type]| The media type. The report supports up to 10 unique media types.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Publisher]| The publisher. The report supports up to 10 unique publishers.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Package]| The package. <!-- Note: The Package dimensions include another dimension called Package Name. -->|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Placement]| The placement.<!-- Note: The Placement dimensions include another dimension called Placement Name -->|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Site/Apps]| The site or app on which the ad impression was served. The report supports up to 10 unique sites or apps.|
+|[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Tags]| The placement tag used as a custom identifier for the placement. The report supports up to 10 unique placement tags. <!-- Note: The Placement dimensions include another dimension called Placement Tags. --> |
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package End Date]|The end date for the package.|
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package Goal Type]|The pacing goal amount for the package. This amount is in either spend or impressions.|
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package ID]|The unique identifier for the package in DSP.|
@@ -83,19 +94,29 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Uniques (Device/Browser)]|(Included in the [!UICONTROL Frequency (by Impression)] report) The number of unique browsers or devices recorded for a given frequency. DSP estimates are based on a sample of impressions. For some inventory, don't pass along a device identifier, and those impressions aren't included in this value. There is a similar metric in the [!UICONTROL Frequency (by App/Site)] report, but that metric isn't estimated.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Universe]|The sum of unique households that DSP (auctions) has seen within the date range.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Extended Impressions]|The total number of impressions served as a result of using a device graph for people-based, cross-device targeting.|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPA]|The average gross cost per acquisition, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Custom Goal].|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPC]|The average gross cost per ad click, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks].|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPCV]|The average cost per completed video view, calculated by [!UICONTROL Gross Spend] / [!UICONTROL 100% Completions].|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPM]|The average cost per 1000 impressions, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Impressions] x 1000.|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPV]|The average cost per video view, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Views].|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross vCPM]|The average cost per 1000 viewable impressions, calculated by [!UICONTROL Gross Spend] / [!UICONTROL Viewable Impressions] x 1000.|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPC]|The average net cost per ad click, calculated by [!UICONTROL Net Spend] / [!UICONTROL Total Ad Clicks].|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPCV]|The average net cost per completed video view, calculated by [!UICONTROL Net Spend] / [!UICONTROL 100% Completions]|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPM]|The average net cost per 1000 impressions, calculated by [!UICONTROL Net Spend] / [!UICONTROL Impressions] x 1000.|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPV]|The average net cost per video view, calculated by [!UICONTROL Net Spend] / [!UICONTROL Views].|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Data eCPM]|The average net data cost per 1000 impressions, calculated by [!UICONTROL Net Spend (Data)] / [!UICONTROL Impressions] x 1000.|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Media CPM]|The average net media cost per 1000 impressions, calculated by [!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000.|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Other eCPM]|The average net cost per 1000 impressions for other fees, calculated by [!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000.|
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Frequency] | The frequency of impressions per household. |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Frequency Overlap] | The frequency of reaching households by only the reported dimension, including intersections of up to three values for the dimension. For example, if you use the [!UICONTROL Placement] dimension, then you can see the frequency reached by individual placements, frequencies reached by a combination of any two placements, and frequencies reached by combinations of any three placements. |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Incremental Household Reached] | The number of households that were reached by only the reported dimension, calculated as <code>[IP addresses that were reached by only the reported dimension] - [IP addresses that were reached by any other dimension]</code>. |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL % Incremental Household Reached] | The percentage of households that were reached by only the reported dimension, calculated as <code>[the percentage of IP addresses that were reached by the dimension] - [the percentage IP addresses that were reached by any other dimension]</code>. |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Impressions] | The total number of ad impressions served. |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Measurable Impressions] | The total number of impressions served that were able to be measured for viewability. |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Measurable Impressions (Overlap)] | The total number of measureable impressions served only by the reported dimension, including intersections of up to three values for the dimension. For example, if you use the [!UICONTROL Placement] dimension, then you can see the measureable impressions reached by individual placements, measureable impressions reached by a combination of any two placements, and measureable impressions reached by combinations of any three placements. |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Total Media Spend] | The total spend. |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Unique Household Reached] | The total unique households (distinct IP addresses) reached. |
+|[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Unique Household (Overlap)] | The total unique households (distinct IP addresses) reached only by the reported dimension, including intersections of up to three values for the dimension. For example, if you use the [!UICONTROL Placement] dimension, then you can see the unique households reached by individual placements, common households reached by a combination of any two placements, and common households reached by combinations of any three placements.  |
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPA]|The average gross cost per acquisition, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Custom Goal]</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPC]|The average gross cost per ad click, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks]</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPCV]|The average cost per completed video view, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL 100% Completions]</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPM]|The average cost per 1000 impressions, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Impressions] x 1000</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPV]|The average cost per video view, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Views]</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross vCPM]|The average cost per 1000 viewable impressions, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Viewable Impressions] x 1000</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPC]|The average net cost per ad click, calculated by <code>[!UICONTROL Net Spend] / [!UICONTROL Total Ad Clicks]</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPCV]|The average net cost per completed video view, calculated by <code>[!UICONTROL Net Spend] / [!UICONTROL 100% Completions]</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPM]|The average net cost per 1000 impressions, calculated by <code>[!UICONTROL Net Spend] / [!UICONTROL Impressions] x 1000</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPV]|The average net cost per video view, calculated by <code>[!UICONTROL Net Spend] / [!UICONTROL Views]</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Data eCPM]|The average net data cost per 1000 impressions, calculated by <code>[!UICONTROL Net Spend (Data)] / [!UICONTROL Impressions] x 1000</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Media CPM]|The average net media cost per 1000 impressions, calculated by <code>[!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000</code>.|
+|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Other eCPM]|The average net cost per 1000 impressions for other fees, calculated by <code>[!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL % bid at Max CPM]|The percentage of total bids that were bid at the Max CPM. |
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Unique Users Bid On]| The number of distinct users for which DSP bid for the placement. |
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Billable Data Net Spend]|The total net cost of audience segment data fees billed through DSP.|
@@ -104,9 +125,9 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Estimated Tax on Data]|The estimated tax on third-party audience segments and data services.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Estimated Tax on Media]|The estimated tax on media inclusive of tax applied to media cost rebilling and tech fee services in DSP.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Estimated Tax on Other]|The estimated tax on other service fees (inclusive of third-party verification partners, topic targeting, and so on) billed through DSP.|
-|[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Margin %]|(When margin management is activated) The margin percentage, which is calculated by ([!UICONTROL Gross Spend] - [!UICONTROL Net Spend]) / [!UICONTROL Gross Spend].|
+|[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Margin %]|(When margin management is activated) The margin percentage, which is calculated by <code>([!UICONTROL Gross Spend] - [!UICONTROL Net Spend]) / [!UICONTROL Gross Spend]</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Media Cost]|The sum of non-billable and billable media cost without any tech fees.|
-|[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Net vCPM]|The average net cost per 1000 viewable impressions, calculated by [!UICONTROL Net Spend] / [!UICONTROL Viewable Impressions] x 1000.|
+|[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Net vCPM]|The average net cost per 1000 viewable impressions, calculated by <code>[!UICONTROL Net Spend] / [!UICONTROL Viewable Impressions] x 1000</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Non-Billable Data Net Spend]|The total net cost of audience segment data fees not billed through DSP.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Non-Billable Media Fees]|The total net cost of non-billable media, including the tech fee, not billed through DSP. |
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Non-Billable Other Net Spend]|The total cost of other service fees (third-party verification partners, ad serving, and so on) not billed through DSP.|
@@ -144,22 +165,22 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Views]|The total number of video ad views.|
 |[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Avg. Player Width x Height]|The average player width and height.|
 |[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Measurable Impressions]|The total number of impressions served that were able to be measured for viewability.|
-|[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Measurable Rate (%)]|The percentage of impressions served that were able to be measured for viewability, calculated as [!UICONTROL Measurable Impressions] x 1000 / [!UICONTROL Impressions].|
+|[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Measurable Rate (%)]|The percentage of impressions served that were able to be measured for viewability, calculated as <code>[!UICONTROL Measurable Impressions] x 1000 / [!UICONTROL Impressions]</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Unmeasurable - iFrame (%)]|The percentage of impressions not measurable for viewability due to incompatible iFrames.|
 |[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Unmeasurable - Not Supported (%)]|The number of impressions not measurable for viewability due to unsupported viewability tracking on the ad unit.|
 |[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Unmeasurable - Other (%)]|The percentage of impressions not measurable for viewability due to other reasons.|
 |[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Unmeasurable Impressions]|The number of ad impressions not measurable for viewability.|
 |[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Unmeasurable Rate (%)]|The percentage of ad impressions not measurable for viewability.|
 |[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Unmeasurable rate (Not supported)]|The percentage of impressions not measurable for viewability due to unsupported viewability tracking on this ad unit.|
-|[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Viewability Rate (%)]|The percentage of viewable impressions out of all measurable impressions, calculated as [!UICONTROL Viewable Impressions] / [!UICONTROL Measurable Impressions].|
+|[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Viewability Rate (%)]|The percentage of viewable impressions out of all measurable impressions, calculated as <code>[!UICONTROL Viewable Impressions] / [!UICONTROL Measurable Impressions]</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Viewability]|[!UICONTROL Viewable Impressions]|The number of ad impressions considered viewable.|
 |[!UICONTROL Conversion Metrics]|[Grouped by advertiser in report settings]|[Advertiser-specific conversion]| The total for a specified advertiser-specific conversion metric or Adobe Analytics event.|
 |[!UICONTROL Custom Goals]|[Grouped by advertiser in report settings]|[Advertiser-specific custom goal]|The weighted sum of all conversions that are included in the specified [custom goal](/help/dsp/optimization/custom-goal-about.md).|
 
 {style="table-layout:auto"}
 
-<!-- |Omitted|[!UICONTROL Performance]|Custom Goal CPA|The average cost per acquisition, calculated by Gross Spend / Custom Goal| -->
-<!-- |Omitted|[!UICONTROL Performance]|Custom Goal ROAS|The average return on ad spend, calculated by Custom goal / Gross spend|-->
+<!-- |Omitted|[!UICONTROL Performance]|Custom Goal CPA|The average cost per acquisition, calculated by <code>Gross Spend / Custom Goal</code> | -->
+<!-- |Omitted|[!UICONTROL Performance]|Custom Goal ROAS|The average return on ad spend, calculated by <code>Custom goal / Gross spend</code> |-->
 
 >[!MORELIKETHIS]
 >
