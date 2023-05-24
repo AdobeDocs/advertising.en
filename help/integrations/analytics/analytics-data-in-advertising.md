@@ -20,7 +20,7 @@ New segments take 24-48 hours to appear in Adobe Advertising. Updates to existin
 
 >[!NOTE]
 >
->* [!DNL Analytics] passes events for the EF ID eVar into Adobe Advertising.  The default integration doesn't support sending calculated metrics or other dimensions (eVars) into Adobe Advertising. If the calculated metric can be wholly captured in a custom event, however,then Adobe Advertising can ingest the custom event.
+>* [!DNL Analytics] passes events for the EF ID eVar into Adobe Advertising.  The default integration doesn't support sending calculated metrics or other dimensions (eVars) into Adobe Advertising. If the calculated metric can be wholly captured in a custom event, however, then Adobe Advertising can ingest the custom event.
 >* [!DNL Analytics] passes data to Adobe Advertising hourly.
 
 * [!UICONTROL Timespent_secs_1stvisit]: The number of seconds spent on the site during the visitor's first visit.
