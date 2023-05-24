@@ -6,8 +6,6 @@ exl-id: 51b7d632-1e73-4726-980b-07ed50447146
 ---
 # Universal Video Ad Settings
 
-*Open beta feature*
-
 >[!NOTE]
 >
 >Universal video ads can be attached only to universal video placements. 
