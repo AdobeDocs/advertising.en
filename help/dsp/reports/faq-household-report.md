@@ -1,6 +1,7 @@
 ---
 title: FAQs About the [!UICONTROL Household] Report
 description: Learn more about the [!UICONTROL Household] report, including how it's different from other reports and troubleshooting.
+exl-id: aaaf6f6d-b133-4cda-8fc6-bd686b3b1ebb
 ---
 # FAQs About the [!UICONTROL Household] Report
 
