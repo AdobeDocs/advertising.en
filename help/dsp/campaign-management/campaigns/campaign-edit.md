@@ -16,4 +16,5 @@ exl-id: d0cbcd11-138a-41be-a027-e5e49e24afa2
 >* [About Campaign Management](campaign-about.md)
 >* [Create a Campaign](campaign-create.md)
 >* [View the Change Log for a Campaign](campaign-change-log.md)
+>* [Pause or Activate a Campaign](campaign-pause-activate.md)
 >* [Campaign Settings](campaign-settings.md)

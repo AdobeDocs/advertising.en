@@ -30,3 +30,4 @@ You can unarchive a campaign to restore its previous status at any time.
 >
 >* [Edit a Campaign](campaign-edit.md)
 >* [View the Change Log for a Campaign](campaign-change-log.md)
+>* [Pause or Activate a Campaign](campaign-pause-activate.md)

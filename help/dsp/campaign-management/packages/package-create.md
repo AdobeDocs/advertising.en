@@ -24,5 +24,6 @@ Once you create a package, you can assign placements to it.
 >* [Edit a Package](package-edit.md)
 >* [Attach a Placement to a Package](package-attach-placement.md)
 >* [View the Change Log for a Package](package-change-log.md)
+>* [Pause or Activate a Package](package-pause-activate.md)
 >* [Package Settings](package-settings.md)
 >* [Video: How to Create a Package](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/package-create.html)

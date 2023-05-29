@@ -2,7 +2,6 @@
 title: Pause or Activate a Campaign
 description: Learn how to pause or activate a live campaign.
 feature: DSP Campaigns
-exl-id: 
 ---
 # Pause or Activate a Campaign
 
@@ -17,7 +16,7 @@ All placements paused prior to pausing a campaign will remain paused upon campai
 
 >[!NOTE]
 >
->Pausing a campaign will pause all placements including PG placements. Be sure to reach out to affected publishers if incoming auctions need to be paused.
+>Pausing a campaign pauses all placements, including programmatic guaranteed (PG placements). Contact affected publishers if incoming auctions need to be paused.
 
 ## Activate a Campaign
 

@@ -2,13 +2,12 @@
 title: Pause or Activate a Package
 description: Learn how to pause or activate a package.
 feature: DSP Packages
-exl-id:
 ---
 # Pause or Activate a Package
 
 Pause a live package or activate a paused package when it’s within the configured flight schedule. 
 
-All placements paused within a package prior to pausing the package itself will remain paused when the package is activated. 
+All placements paused within a package prior to pausing the package itself remain paused when the package is activated. 
 
 ## Pause a Package
 
@@ -18,7 +17,7 @@ All placements paused within a package prior to pausing the package itself will 
 
 >[!NOTE]
 >
->Pausing a package will pause all placements including PG placements within the package. Be sure to reach out to affected publishers if incoming auctions need to be paused.
+>Pausing a package pauses all placements, including programmatic guaranteed (PG placements) within the package. Contact affected publishers if incoming auctions need to be paused.
 
 ## Activate a Package
 
