@@ -28,3 +28,4 @@ You can sort the data by any column except for New Value and Old Value.
 >* [Create a Campaign](campaign-create.md)
 >* [Edit a Campaign](campaign-edit.md)
 >* [Campaign Settings](campaign-settings.md)
+>* [Pause or Activate a Campaign](campaign-pause-activate.md)

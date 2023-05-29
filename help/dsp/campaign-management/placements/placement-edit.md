@@ -40,7 +40,7 @@ Use this option only when you want to apply the same changes to all selected pla
 
 1. Select the check box next to each placement that you want to edit.
 
-1. In the menu bar, click **[!UICONTROL Edit]**.
+1. In the bulk operations menu bar, click **[!UICONTROL Edit]**.
 
 1. For each setting you want to change:
 

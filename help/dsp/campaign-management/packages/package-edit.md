@@ -18,4 +18,5 @@ exl-id: 88fbbb46-0150-4ff7-838f-ea00aead529e
 >* [Create a Package](package-create.md)
 >* [Duplicate a Package](package-duplicate.md)
 >* [View the Change Log for a Package](package-change-log.md)
+>* [Pause or Activate a Package](package-pause-activate.md)
 >* [Package Settings](package-settings.md)

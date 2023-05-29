@@ -40,6 +40,7 @@ index: yes
     + [Edit a Campaign](/help/dsp/campaign-management/campaigns/campaign-edit.md)
     + [Duplicate a Campaign](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
     + [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+    + [Pause or Activate a Campaign](/help/dsp/campaign-management/campaigns/campaign-pause-activate.md)
     + [Archive or Unarchive a Campaign](/help/dsp/campaign-management/campaigns/campaign-archive-unarchive.md)
     + [View the Change Log for a Campaign](/help/dsp/campaign-management/campaigns/campaign-change-log.md)
     + [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
@@ -50,6 +51,7 @@ index: yes
     + [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md)
     + [Duplicate a Package](/help/dsp/campaign-management/packages/package-duplicate.md)
     + [Attach a Placement to a Package](/help/dsp/campaign-management/packages/package-attach-placement.md)
+    + [Pause or Activate a Package](/help/dsp/campaign-management/packages/package-pause-activate.md)
     + [Archive or Unarchive a Package](/help/dsp/campaign-management/packages/package-archive-unarchive.md)
     + [View the Change Log for a Package](/help/dsp/campaign-management/packages/package-change-log.md)
     + [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
@@ -77,6 +79,7 @@ index: yes
     + [Attach an Ad to a Placement](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
     + [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
     + [View a Detailed Report for an Ad](/help/dsp/campaign-management/ads/ad-view-report.md)
+    + [Pause or Activate an Ad](/help/dsp/campaign-management/ads/ad-pause-activate.md)
     + [Archive or Unarchive an Ad](/help/dsp/campaign-management/ads/ad-archive-unarchive.md)
     + Ad Settings {#ad-settings}
       + [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)

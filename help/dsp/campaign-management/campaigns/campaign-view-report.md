@@ -20,3 +20,4 @@ The <!--legacy --> campaign-level report includes an overview and sections on [!
 >* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [About Custom Reports](/help/dsp/reports/report-about.md)
 >* [View the Change Log for a Campaign](campaign-change-log.md)
+>* [Pause or Activate a Campaign](campaign-pause-activate.md)
