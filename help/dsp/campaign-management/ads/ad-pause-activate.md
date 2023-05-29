@@ -2,7 +2,6 @@
 title: Pause or Activate an Ad
 description: Learn how to pause or activate an ad.
 feature: DSP Ads
-exl-id: 
 ---
 # Pause or Activate an Ad
 
