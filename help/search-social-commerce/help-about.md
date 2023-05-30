@@ -25,4 +25,4 @@ accounts.
 
 >[!NOTE]
 >
->Help on optimization, including using portfolios for bidding, is available from the Help menu (![Help menu](/help/search-social-commerce/assets/help.png "Help menu")) in the upper right of any page within Search, Social, & Commerce.
+>Help on optimization, including using portfolios for bidding, is available from the [!UICONTROL Help] menu (![Help menu](/help/search-social-commerce/assets/help-main-menu.png "Help menu")) in the upper right of any page within Search, Social, & Commerce.
