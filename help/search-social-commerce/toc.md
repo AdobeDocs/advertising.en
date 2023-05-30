@@ -17,5 +17,5 @@ hide: yes
 
 + [What's new](home.md)
 + [About this guide](help-about.md)
-  + [Get help](get-help.md)
-  + [Glossary](glossary.md)
++ [Get help](get-help.md)
++ [Glossary](glossary.md)
