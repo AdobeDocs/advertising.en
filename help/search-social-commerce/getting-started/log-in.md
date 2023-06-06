@@ -10,9 +10,9 @@ You can log in to Search, Social, & Commerce directly or from within Adobe Exper
 
 * Log in to one of the following URLs:
 
-  * Users in North America: [https://enterprise-na.efrontier.com/](https://enterprise-na.efrontier.com
+  * Users in North America: [https://enterprise-na.efrontier.com](https://enterprise-na.efrontier.com)
   
-  * Users in all other areas: [https://enterprise-intl.efrontier.com/](https://enterprise-intl.efrontier.com/)
+  * Users in all other areas: [https://enterprise-intl.efrontier.com](https://enterprise-intl.efrontier.com)
 
 ## Log in from Adobe Experience Cloud
 

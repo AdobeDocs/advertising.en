@@ -12,7 +12,7 @@ The top of each page includes the main menu and other task- and information-base
 
 The top-level, main menu options are based on the available advertising channels. You'll see only the advertising channels that apply to you:
 
-* **[!UICONTROL DSP]** &mdash; (When you have access to Adobe Advertising DSP (Demand Side Platform)) To manage your display and connected TV advertising. Separate help is available at https://experienceleague.adobe.com/docs/advertising/dsp/home.html.
+* **[!UICONTROL DSP]** &mdash; (When you have access to Adobe Advertising DSP (Demand Side Platform)) To manage your display and connected TV advertising. A separate [DSP Guide](https://experienceleague.adobe.com/docs/advertising/dsp/home.html) is available.
 
 * **[!UICONTROL Creative]** &mdash; (When you have access to Adobe Advertising Creative) To automate real-time, personalized ad experiences and optimize your ads at the creative element level. Separate help is available from within Creative.
 
@@ -53,4 +53,4 @@ Under the [!UICONTROL Search] option, you'll see the following submenus. The ava
 >[!MORELIKETHIS]
 >
 >* [Log in](log-in.md)
->* 
+>* [Log out](log-out.md)
