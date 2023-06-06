@@ -21,10 +21,10 @@ hide: yes
   + [Supported inventory](/help/search-social-commerce/introduction/supported-inventory.md)
   + Integration with Adobe Experience Cloud {#integrations}
     + [Integration with Adobe Experience Cloud solutions and services](/help/search-social-commerce/introduction/integrations.md)
-    + [Adobe [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html)
-    + [Integration with Adobe Audience Manager](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html)
-  + [Support for consumer privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
-  + [Policies and guidelines](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html)
+    + [Adobe [!DNL Analytics for Advertising] (link)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html)
+    + [Integration with Adobe Audience Manager (link)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html)
+  + [Support for consumer privacy (link)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
+  + [Policies and guidelines (link)](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html)
 + Getting started {#getting-started}
   + [Implementation overview](/help/search-social-commerce/getting-started/implemention-overview.md)
   + [System requirements](/help/search-social-commerce/getting-started/system-requirements.md)
