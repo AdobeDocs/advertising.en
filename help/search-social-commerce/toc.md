@@ -28,7 +28,6 @@ hide: yes
 + Getting started {#getting-started}
   + [Implementation overview](/help/search-social-commerce/getting-started/implemention-overview.md)
   + [System requirements](/help/search-social-commerce/getting-started/system-requirements.md)
-  + [Setting up conversion tracking for your webpages](/help/search-social-commerce/getting-started/conversion-tracking-setup.md)
   + [Log in](/help/search-social-commerce/getting-started/log-in.md)
   + [How the user interface is organized](/help/search-social-commerce/getting-started/user-interface.md)
   + [Log out](/help/search-social-commerce/getting-started/log-out.md)
