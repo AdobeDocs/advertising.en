@@ -42,8 +42,7 @@ For more information about integrations with these and other Adobe products, see
 
 Adobe Advertising optionally provides a proprietary, pixel-based conversion tracking service to track online conversions for ads that link to your websites. When you use the pixel tracking service, Adobe Advertising tracks the clicks on your ads and the resulting transactions/conversions on your websites, precisely mapping each sequence of clicks and impressions to conversions. You can use the tracked conversions for bid and budget optimization.
 
-The service allows you to optimize to different data attribution rules for the events that lead to a conversion (such as attributing conversions to the last related event or weighting the last event more). It also provides access to advanced reports that can be used to improve conversion rates, visibility into click assists, and analysis
-of day-of-the-week and intraday trends.
+The service allows you to optimize to different data attribution rules for the events that lead to a conversion (such as attributing conversions to the last related event or weighting the last event more). It also provides access to advanced reports that can be used to improve conversion rates, visibility into click assists, and analysis of day-of-the-week and intraday trends.
 
 For more information about tracking, see the chapter on "Tracking."
 

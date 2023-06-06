@@ -4,6 +4,8 @@ description: Learn how to enable Adobe Advertising to track conversions resultin
 ---
 # Setting up conversion tracking for your webpages
 
+<!-- I don't think this is necessary here -- we already have a bullet point in the implementation overview -- so removing from TOC. -->
+
 Before you can generate reports on conversion data, Adobe Advertising needs impression, click, cost, and conversion (transaction) data for each of your keywords and ads. Adobe Advertising also uses this data to build the data forecasting models it needs to optimize campaign budgets and the bids on your keywords and ads.
 
 To enable Adobe Advertising to track conversions resulting from ad impressions and clicks, you need to do the following:
