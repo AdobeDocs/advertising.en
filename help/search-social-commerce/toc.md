@@ -398,5 +398,5 @@ hide: yes
     + [View the transaction properties tracked for an advertiser](/help/search-social-commerce/admin/transaction-properties/transaction-property-view-tracked.md)
     + [Change the transaction properties available in management views and reports](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md)
     + [Change the display name for a transaction property](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-display-name.md)
-  + [Get help](get-help.md)
-  + [Glossary](glossary.md)
++ [Get help](get-help.md)
++ [Glossary](glossary.md)
