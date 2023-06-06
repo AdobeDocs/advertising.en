@@ -10,13 +10,13 @@ You need the following software and account information.
 
 * Any of the following browsers:
 
+  * [!DNL Apple Safari] (including [!DNL Safari] for [!DNL iOS]) 10 or above
+
+  * [!DNL Google Chrome] 103 or above
+
   * [!DNL Microsoft Edge] 104 and above
   
   * [!DNL Mozilla Firefox] 102 or above; [!DNL Mozilla Firefox Extended Support Release] 91.11 and above
-  
-  * [!DNL Google Chrome] 103 or above
-  
-  * [!DNL Apple Safari] (including [!DNL Safari] for [!DNL iOS]) 10 or above
 
 * (To view exported files in XLS format) [!DNL Microsoft Excel] recommended
 
@@ -25,15 +25,6 @@ You need the following software and account information.
 ## User name and password
 
 To log in, you need a user name and password. Your Adobe Account Team sets up your user account and creates your user name and password.
-
-## Supported language sets
-
-* Chinese (PRC)
-* English (United Australia)
-* English (United Kingdom)
-* English (United States)
-* Japanese
-* Western European
 
 ## Computer and browser language settings
 
