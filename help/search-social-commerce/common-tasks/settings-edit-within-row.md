@@ -20,4 +20,4 @@ description: Learn how edit data in management views within the row.
 
    >[!MORELIKETHIS]
    >
-   >*[Create and edit campaign data in bulk using Copy and Paste](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md)
+   >* [Create and edit campaign data in bulk using Copy and Paste](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md)
