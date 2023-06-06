@@ -35,28 +35,28 @@ hide: yes
 + Common tasks {#common-tasks}
   + [View data for another advertiser](/help/search-social-commerce/common-tasks/change-advertiser.md)
   + [Edit settings directly within a row](/help/search-social-commerce/common-tasks/settings-edit-within-row.md)
-  + [Customize data views] {#data-views}
+  + Customize data views {#data-views}
     + [About customizing data in campaign management views](/help/search-social-commerce/common-tasks/data-views/data-views-about.md)
     + [Manage default and custom views](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md)
-    + [Ad hoc view settings] {#ad-hoc-settings}
+    + Ad hoc view settings {#ad-hoc-settings}
       + [Edit the column set from the column heading menu](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-column-heading.md)
       + [Edit and sort the column set from the [!UICONTROL Custom Columns] icon](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md)
       + [Lock and unlock a column configuration in campaign views](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-lock-unlock.md)
       + [Re-sort a column](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-sort.md)
       + [Filter data by date range](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/date-filter.md)
       + [Filter data using the left navigation panel](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/filter-using-left-panel.md)
-      + [Filter data by column values] {#filter-column-values}
+      + Filter data by column values {#filter-column-values}
         + [Apply a data filter from a column heading menu](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
         + [Apply data filters from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md)
         + [Edit column filters](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md)
         + [Remove a column filter](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-remove.md)
-  + [Managing custom metrics] {#custom-metrics}
+  + Managing custom metrics {#custom-metrics}
     + [About custom metrics](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-about.md)
     + [Create a custom metric](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-create.md)
     + [Edit a custom metric](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-edit.md)
     + [Delete a custom metric](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-delete.md)
     + [Custom metric settings](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-settings.md)
-  + [Common navigation, editing, and selection Tasks] {#navigation-editing-selection}
+  + Common navigation, editing, and selection tasks {#navigation-editing-selection}
     + [Select multiple rows](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md)
     + [Specify a date using the calendar](/help/search-social-commerce/common-tasks/navigation-editing-selection/calendar.md)
     + [Show and hide a trend chart](/help/search-social-commerce/common-tasks/navigation-editing-selection/trend-chard-show-hide.md)
@@ -101,7 +101,7 @@ hide: yes
         + [Data requirements for data feeds using a transaction ID](/help/search-social-commerce/tracking/feed-transaction-id-data-requirements.md)
       + [File requirements for conversion feed files](/help/search-social-commerce/tracking/feed-file-requirements.md)
   + [FAQs about tracking](/help/search-social-commerce/tracking/faqs-tracking.md)
-+ Campaign Management {#campaign-management}
++ Campaign management {#campaign-management}
   + Introduction {#campaign-management-intro}
     + [About campaign management in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/campaign-management-about.md)
     + [Overview of implementing ad network accounts and campaigns](/help/search-social-commerce/campaign-management/introduction/campaign-implemention-overview.md)
@@ -228,13 +228,13 @@ hide: yes
         + [[!DNL Google Ads] shopping ad template settings](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md)
         + [[!DNL Microsoft Advertising] shopping ad template settings](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md)
       + [Propagate feed data through templates](/help/search-social-commerce/campaign-management/inventory-feeds/feed-data-propagate.md)
-      + [Working with campaign data created from feeds] {#propagated-data}
+      + Working with campaign data created from feeds {#propagated-data}
         + [View data generated from feeds](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-view.md)
         + [Edit data generated from feeds](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-edit.md)
         + [Post campaign data generated from feeds to ad networks](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-post.md)
         + [Stop a posting job for inventory feed data](/help/search-social-commerce/campaign-management/inventory-feeds/stop-job.md)
         + [Statuses of data generated from feeds](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-status.md)
-    + [Implementing campaigns and ads with unique workflows]{#special-campaign-types}
+    + Implementing campaigns and ads with unique workflows{#special-campaign-types}
       + [Implement [!DNL Google Ads] dynamic search ads](/help/search-social-commerce/campaign-management/special-campaign-types/google-dynamic-search-ads.md)
       + [Implement [!DNL Google Ads] performance max campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/google-performance-max-campaigns.md)
       + [Implement [!DNL Google Ads] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md)
@@ -250,24 +250,24 @@ hide: yes
     + [Remove label classification values from account components](/help/search-social-commerce/campaign-management/label-classifications/classification-values-remove.md)
     + [Delete label classification values](/help/search-social-commerce/campaign-management/label-classifications/classification-values-delete.md)
     + [Delete label classifications](/help/search-social-commerce/campaign-management/label-classifications/classification-delete.md)
-  + Best practices for search campaigns{#best-practices-search}
+  + Best practices for search campaigns {#best-practices-search}
     + [Analyze reports to refine your keywords and campaign settings](/help/search-social-commerce/campaign-management/best-practices/best-practices-analyze.md)
     + [Write effective text ad copy](/help/search-social-commerce/campaign-management/best-practices/best-practices-write.md)
     + [Optimize the website landing pages](/help/search-social-commerce/campaign-management/best-practices/best-practices-optimize.md)
   + [Maximum number of objects per ad network account](/help/search-social-commerce/campaign-management/max-objects-per-ad-network.md)
   + [FAQs about campaign management](/help/search-social-commerce/campaign-management/faqs-campaigns.md)
-+ [Insights and reports] {#insights-reports}
-  + [Advertising Insights] {#insights}
++ Insights and reports {#insights-reports}
+  + Advertising Insights {#insights}
     + [About [!UICONTROL Advertising Insights]](/help/search-social-commerce/advertising-insights/insight-about.md)
     + [Generate an [!DNL Advertising Insight]](/help/search-social-commerce/advertising-insights/insight-generate.md)
     + [View or save an [!DNL Advertising Insight]](/help/search-social-commerce/advertising-insights/insight-view-save.md)
     + [Delete an [!DNL Advertising Insight]](/help/search-social-commerce/advertising-insights/insight-delete.md)
-  + [Reports] {#reports}
+  + Reports {#reports}
     + [About reports](/help/search-social-commerce/reports/report-about.md)
     + [The initial setup tasks for reports](/help/search-social-commerce/reports/initial-setup.md)
     + [The data used for reports](/help/search-social-commerce/reports/data-used-for-reports.md)
-    + [Managing reports] {#report-management}
-      + [Basic and advanced reports] {#basic-advanced-reports}
+    + Managing reports {#report-management}
+      + Basic and advanced reports {#basic-advanced-reports}
         + [About basic and advanced reports](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md)
         + [Basic report formats] {#basic-report-formats}
           + [The [!UICONTROL Ad Group Report]](/help/search-social-commerce/reports/management/basic-advanced/ad-group-report.md)
@@ -290,17 +290,17 @@ hide: yes
         + [Generate a basic or advanced report](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md)
         + [Basic and advanced report settings](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
         + [Report columns for basic and advanced reports](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-columns.md)
-      + [Assist reports] {#assist-reports}
+      + Assist reports {#assist-reports}
         + [About assist reports](/help/search-social-commerce/reports/management/assist/assist-report-about.md)
-        + [Assist report formats] {#assist-report-formats}
+        + Assist report formats {#assist-report-formats}
           + [The [!UICONTROL Channel Assist Report]](/help/search-social-commerce/reports/management/assist/channel-assist-report.md)
           + [The [!UICONTROL Campaign Assist Report]](/help/search-social-commerce/reports/management/assist/campaign-assist-report.md)
           + [The [!UICONTROL Keyword Assist Report]](/help/search-social-commerce/reports/management/assist/keyword-assist-report.md)
         + [Generate an assist report](/help/search-social-commerce/reports/management/assist/assist-report-generate.md)
         + [Assist report settings](/help/search-social-commerce/reports/management/assist/assist-report-settings.md)
-      + [Specialty reports] {#specialty-reports}
+      + Specialty reports {#specialty-reports}
         + [About specialty reports](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md)
-        + [Specialty report formats] {#specialty-report-formats}
+        + Specialty report formats {#specialty-report-formats}
           + [The [!UICONTROL AdWords and Bing Audience Target Report]](/help/search-social-commerce/reports/management/specialty/adwords-bing-audience-target-report.md)
           + [The [!UICONTROL AdWords Conversion Report]](/help/search-social-commerce/reports/management/specialty/adwords-conversion-report.md)
           + [The [!UICONTROL AdWords Geo Report]](/help/search-social-commerce/reports/management/specialty/adwords-geo-report.md)
@@ -314,9 +314,9 @@ hide: yes
         + [Generate a specialty report](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
         + [Specialty report settings](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
         + [Report columns for specialty reports](/help/search-social-commerce/reports/management/specialty/specialty-report-columns.md)
-      + [Model accuracy reports] {#model-accuracy-reports}
+      + Model accuracy reports {#model-accuracy-reports}
         + [About model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md)
-        + [Model accuracy report formats] {#assist-report-formats}
+        + Model accuracy report formats {#assist-report-formats}
           + [The [!UICONTROL Forecast Accuracy Report]](/help/search-social-commerce/reports/management/model-accuracy/forecast-accuracy-report.md)
           + [The [!UICONTROL Forecast Accuracy (Actuals) Report]](/help/search-social-commerce/reports/management/model-accuracy/forecast-accuracy-actuals-report.md)
         + [Generate a model accuracy report](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-generate.md)
@@ -325,14 +325,14 @@ hide: yes
       + [Generate a report from a template](/help/search-social-commerce/reports/management/report-generate-from-template.md)
       + [Delete reports](/help/search-social-commerce/reports/management/report-delete.md)
       + [View or save a report](/help/search-social-commerce/reports/management/report-view-save.md)
-    + [Automating reports] {#report-automation}
-      + [Report templates] {#report-templates}
+    + Automating reports {#report-automation}
+      + Report templates {#report-templates}
         + [About report templates](/help/search-social-commerce/reports/automation/templates/template-about.md)
         + [View a report template](/help/search-social-commerce/reports/automation/templates/template-view.md)
         + [Create a report template](/help/search-social-commerce/reports/automation/templates/template-create.md)
         + [Edit a report template](/help/search-social-commerce/reports/automation/templates/template-edit.md)
         + [Delete a report template](/help/search-social-commerce/reports/automation/templates/template-delete.md)
-      + [Spreadsheet feeds] {#spreadsheet-feeds}
+      + Spreadsheet feeds {#spreadsheet-feeds}
         + [About spreadsheet report feeds](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-about.md)
         + [Create an [!DNL Excel] template for a spreadsheet report feed](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-create-excel-template.md)
         + [Create a spreadsheet report feed](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-create.md)
@@ -344,7 +344,7 @@ hide: yes
       + [FTP access to reports](/help/search-social-commerce/reports/automation/ftp-reports.md)
     + [How attribution rules are calculated](/help/search-social-commerce/reports/attribution-rules.md)
     + [FAQs about reports](/help/search-social-commerce/reports/faqs-report.md)
-  + [Notifications] {#notifications}
+  + Notifications {#notifications}
     + [About notifications](/help/search-social-commerce/notifications/notification-about.md)
     + [View your notifications](/help/search-social-commerce/notifications/notification-view.md)
     + [Mark a notification as read or unread](/help/search-social-commerce/notifications/notification-mark-read-unread.md)
@@ -352,9 +352,9 @@ hide: yes
     + [Edit your notification settings](/help/search-social-commerce/notifications/notification-edit.md)
     + [Enable and disable push notifications from [!UICONTROL Notification Center]](/help/search-social-commerce/notifications/notifications-push-enable-disable.md)
     + [Install and uninstall the [!UICONTROL Notification Center] web application](/help/search-social-commerce/notifications/notification-app-install-uninstall.md)
-  + [Custom alerts] {#alerts}
+  + Custom alerts {#alerts}
     + [About custom alerts](/help/search-social-commerce/alerts/alert-about.md)
-    + [Alert templates] {#alert-templates}
+    + Alert templates {#alert-templates}
       + [Create a custom alert template](/help/search-social-commerce/alerts/alert-template-create.md)
       + [Edit a custom alert template](/help/search-social-commerce/alerts/alert-template-edit.md)
       + [Pause a custom alert template](/help/search-social-commerce/alerts/alert-template-pause.md)
@@ -364,16 +364,16 @@ hide: yes
     + [View custom alerts](/help/search-social-commerce/alerts/alert-view.md)
     + [Export data for custom alerts](/help/search-social-commerce/alerts/alert-export-data.md)
   + [View the Change History Report](/help/search-social-commerce/reports/change-history-view.md)
-  + [Recommendations] {#recommendations}
-+ [Tools]{#tools}
+  + Recommendations {#recommendations}
++ Tools {#tools}
   + [Change your password](/help/search-social-commerce/tools/password-change.md)
-  + [Tools for tracking tags] {#tracking}
+  + Tools for tracking tags {#tracking}
     + [Tools to create and decode pixel-based tracking]{#pixel}
       + [About the tools to create and decode tracking tags](/help/search-social-commerce/tools/tracking-tools-about.md)
       + [Generate a click-tracking URL](/help/search-social-commerce/tools/click-tracking-url-generate.md)
       + [Decode a click-tracking URL](/help/search-social-commerce/tools/click-tracking-url-decode.md)
       + [Generate an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
-  + [Uploading conversion data to ad networks] {#upload-ad-networks}
+  + Uploading conversion data to ad networks {#upload-ad-networks}
     + [Upload conversion metrics to [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
     + [Enable uploading of objectives to ad networks](/help/search-social-commerce/tools/objective-upload-to-networks.md)
   + Uploading metrics for [!DNL Naver] tracking-only accounts {#generic-tracking}
@@ -381,11 +381,11 @@ hide: yes
     + [Metric data requirements for [!DNL Naver] tracking-only accounts](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-data-requirements.md)
   + [Enable additional inventory synchronization](/help/search-social-commerce/tools/sync-inventory.md)
   + [Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft Advertising]](/help/search-social-commerce/tools/google-campaign-replication-in-microsoft.md)
-+ [Administration] {#admin}
++ Administration {#admin}
   + [About roles](/help/search-social-commerce/admin/role-about.md)
   + [Manage credentials for ad network manager accounts](/help/search-social-commerce/admin/manager-accounts.md)
   + [Sync [!DNL Adobe] audiences](/help/search-social-commerce/admin/sync-adobe-audiences.md)
-  + [Configuring data sources] {#data-sources}
+  + Configuring data sources {#data-sources}
     + [About syncing [!DNL Google Analytics] conversion metrics](/help/search-social-commerce/admin/data-sources/data-source-about.md)
     + [Prerequisites for configuring a [!DNL Google Analytics] data source](/help/search-social-commerce/admin/data-sources/data-source-prerequisites.md)
     + [Configure a [!DNL Google Analytics] view as a data source](/help/search-social-commerce/admin/data-sources/data-source-configure.md)
@@ -394,7 +394,7 @@ hide: yes
     + [Reauthenticate a [!DNL Google Analytics] data source](/help/search-social-commerce/admin/data-sources/data-source-reauthenticate.md)
     + [[!DNL Google Analytics] data source settings](/help/search-social-commerce/admin/data-sources/data-source-settings.md)
     + [Appendix - Available [!DNL Google Analytics] metrics](/help/search-social-commerce/admin/data-sources/data-source-ga-metrics.md)
-  + [Managing an advertiser's transaction properties]{#transaction-properties}
+  + Managing an advertiser's transaction properties{#transaction-properties}
     + [About managing an advertiser's transaction properties](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md)
     + [View the transaction properties tracked for an advertiser](/help/search-social-commerce/admin/transaction-properties/transaction-property-view-tracked.md)
     + [Change the transaction properties available in management views and reports](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md)
