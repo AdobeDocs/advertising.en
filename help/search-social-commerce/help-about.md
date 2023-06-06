@@ -6,7 +6,7 @@ description: Learn what is covered in each chapter of this guide.
 
 Information about specific groups of tasks and other information are available in the following help chapters:
 
-* "Introduction" introduces basic concepts and features of advertising management and optimization. 
+* "Introduction" introduces the main features of Advertising Search, Social, & Commerce.
 
 * "Getting Started" explains the major tasks involved in an advertiser implementation, from setting up for the initial launch to performing ongoing management tasks; and how the user interface is organized.
 
@@ -18,8 +18,7 @@ Information about specific groups of tasks and other information are available i
 
 * "Insights & Reports" explains how to generate advertising insights, generate detailed reports and automate report production, create and monitor alerts, view a log of changes made to the advertiser account, and view and apply [!DNL Google Ads]-generated recommendations for your accounts.
 
-* "Tools" explains how to change your password, use tools to generate click tracking and conversion tracking tags, upload your conversion metrics to [!DNL Google Ads] and your portfolio objectives to the ad networks for hybrid optimization, upload metrics for tracking campaigns, and replicate your [!DNL Google Ads] campaigns in your [!DNL Microsoft Advertising]
-accounts.
+* "Tools" explains how to change your password, use tools to generate click tracking and conversion tracking tags, upload your conversion metrics to [!DNL Google Ads] and your portfolio objectives to the ad networks for hybrid optimization, upload metrics for tracking campaigns, and replicate your [!DNL Google Ads] campaigns in your [!DNL Microsoft Advertising] accounts.
 
 * "Admin" explains how to manage advertiser data, including the transaction properties that are collected and any dates to exclude from portfolio forecasts; sync your conversion metrics from a [!DNL Google Analytics] account; configure various advertiser-level settings; and (some roles) administer user, agency, and advertiser accounts.
 
