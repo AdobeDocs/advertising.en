@@ -88,7 +88,7 @@ description: See definitions of key terms.
 
 **keyword constraint:** See "constraint."
 
-**label classification:** A way to group your account components into meaningful sets. A label classification can contain multiple label values, which denote attributes. For example, a “Geo” label classification could include values for different geographical regions. 
+**label classification:** A way to group your account components into meaningful sets. A label classification can contain multiple label values, which denote attributes. For example, a "Geo" label classification could include values for different geographical regions. 
 
 **label value:** An element of a label classification. It can be assigned as a tag to ad campaigns and campaign entities so you can filter performance data and reports by label or configure optional constraints on bid units associated with the label.
 
