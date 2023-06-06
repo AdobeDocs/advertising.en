@@ -268,7 +268,7 @@ hide: yes
     + Managing reports {#report-management}
       + Basic and advanced reports {#basic-advanced-reports}
         + [About basic and advanced reports](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md)
-        + [Basic report formats] {#basic-report-formats}
+        + Basic report formats {#basic-report-formats}
           + [The [!UICONTROL Ad Group Report]](/help/search-social-commerce/reports/management/basic-advanced/ad-group-report.md)
           + [The [!UICONTROL Ad Variation Report]](/help/search-social-commerce/reports/management/basic-advanced/ad-variation-report.md)
           + [The [!UICONTROL Campaign Report]](/help/search-social-commerce/reports/management/basic-advanced/campaign-report.md)
@@ -282,7 +282,7 @@ hide: yes
           + [The [!UICONTROL Product Group Report]](/help/search-social-commerce/reports/management/basic-advanced/product-group-report.md)
           + [The [!UICONTROL Search Engine Account Report]](/help/search-social-commerce/reports/management/basic-advanced/search-engine-account-report.md)
           + [The [!UICONTROL Search Engine Report]](/help/search-social-commerce/reports/management/basic-advanced/search-engine-report.md)
-        + [Advanced report formats] {#advanced-report-formats}
+        + Advanced report formats {#advanced-report-formats}
           +  [The [!UICONTROL Domain Referral Report]](/help/search-social-commerce/reports/management/basic-advanced/domain-referral-report.md)
           + [The [!UICONTROL Geo Distribution Report]](/help/search-social-commerce/reports/management/basic-advanced/geo-distribution-report.md)
           + [The [!UICONTROL Transaction Report]](/help/search-social-commerce/reports/management/basic-advanced/transaction-report.md)
