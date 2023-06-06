@@ -10,7 +10,7 @@ You can create tracking campaigns for your [!DNL Naver] accounts so that you can
 
 Tracking campaigns replicate your existing campaigns, ad groups, and keywords. Once you've created the account structure in Search, Social, & Commerce and added tracking to the original campaigns within the ad network, you can upload daily network traffic metrics for your keywords or ads. Search, Social, & Commerce can then attribute your conversions to your ads and keywords.
 
-You can track performance metrics across all of your campaigns and for any individual campaign, ad group, or keyword/ad. You also can include information about them in most basic, advanced, and assist reports, along with data for your other ad networks. Support for exporting the metrics to Adobe Analytics isn't available, but Search, Social, & Commerce can sync [metrics you're tracking in [!DNL Analytics]](/help/integrations/integrations/analytics/data/analytics-data-in-advertising.md) into Search, Social, & Commerce.
+You can track performance metrics across all of your campaigns and for any individual campaign, ad group, or keyword/ad. You also can include information about them in most basic, advanced, and assist reports, along with data for your other ad networks. Support for exporting the metrics to Adobe Analytics isn't available, but Search, Social, & Commerce can sync [metrics you're tracking in [!DNL Analytics]](/help/integrations/analytics/data/analytics-data-in-advertising.md) into Search, Social, & Commerce.
 
 >[!NOTE]
 >
