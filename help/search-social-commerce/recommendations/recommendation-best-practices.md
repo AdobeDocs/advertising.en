@@ -1,8 +1,10 @@
 ---
-title: Best practices for using [!DNL Google Ads] recommendations with portfolios
+title: Best practices for using publisher recommendations and insights with portfolios
 description: Learn the best practices for using [!DNL Google Ads] recommendations with your Search, Social, & Commerce portfolios. 
 ---
-# Best practices for using [!DNL Google Ads] recommendations with Search, Social, & Commerce portfolios
+# Best practices for using publisher recommendations and insights with portfolios
+
+# [!DNL Google Ads] recommendations
 
 | Recommendation Type | Description | Auto-Apply Recommendations with Search, Social, & Commerce Portfolios? | Comments |
 |--- |--- |--- |--- |
@@ -16,6 +18,6 @@ description: Learn the best practices for using [!DNL Google Ads] recommendation
 
 >[!MORELIKETHIS]
 >
->* [Apply or dismiss a [!DNL Google Ads] recommendation](google-recommendation-apply-dismiss.md)
->* [About [!DNL Google Ads] recommendations support](google-recommendation-support.md)
+>* [About publisher recommendations and insights support](recommendation-support.md)
 >* [View the recommendations log for a [!DNL Google Ads] account](google-recommendation-view-log.md)
+>* [Apply or dismiss a [!DNL Google Ads] recommendation](google-recommendation-apply-dismiss.md)
