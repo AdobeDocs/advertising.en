@@ -109,8 +109,6 @@ To create and update [!DNL Google Ads] campaign data in bulk, you can use Search
 
 <table style="table-layout:auto">
 
-<!-- 
-
 ## Fields required to create, edit, or delete each account component
 
 ### Campaign fields
@@ -159,6 +157,8 @@ To create and update [!DNL Google Ads] campaign data in bulk, you can use Search
 | Constraints | Optional |
 | Ad Group ID | Required only when you change the campaign name, unless the row includes an &quot;AMO ID&quot; for the ad group. |
 | AMO ID | The AMO ID is required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
+
+<!-- 
 
 ### Keyword fields
 
