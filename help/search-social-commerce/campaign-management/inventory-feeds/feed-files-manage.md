@@ -88,7 +88,7 @@ You can open or download any feed file that was uploaded manually or using FTP.
 
   For more information, see your browser’s online help.
 
-## Manually upload a feed file [#feed-file-upload]
+## Manually upload a feed file {#feed-file-upload}
 
 >[!NOTE]
 > If you associate a template with a manually uploaded file, but then you upload via FTP another file with the same name, file extension, and grammatical case, then the FTP file is used when you propagate the data through the template. For example, myfile.csv replaces myfile.csv, but Myfile.CSV doesn't.

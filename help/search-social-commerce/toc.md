@@ -366,8 +366,7 @@ hide: yes
   + Recommendations {#recommendations}
 + Tools {#tools}
   + [Change your password](/help/search-social-commerce/tools/password-change.md)
-  + Tools for tracking tags {#tracking}
-    + [Tools to create and decode pixel-based tracking]{#pixel}
+  + Tools to create and decode tracking tags{#pixel}
       + [About the tools to create and decode tracking tags](/help/search-social-commerce/tools/tracking-tools-about.md)
       + [Generate a click-tracking URL](/help/search-social-commerce/tools/click-tracking-url-generate.md)
       + [Decode a click-tracking URL](/help/search-social-commerce/tools/click-tracking-url-decode.md)
