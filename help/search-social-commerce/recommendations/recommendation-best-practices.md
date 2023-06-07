@@ -4,7 +4,7 @@ description: Learn the best practices for using [!DNL Google Ads] recommendation
 ---
 # Best practices for using publisher recommendations and insights with portfolios
 
-# [!DNL Google Ads] recommendations
+## [!DNL Google Ads] recommendations
 
 | Recommendation Type | Description | Auto-Apply Recommendations with Search, Social, & Commerce Portfolios? | Comments |
 |--- |--- |--- |--- |
