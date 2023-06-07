@@ -363,7 +363,11 @@ hide: yes
     + [View custom alerts](/help/search-social-commerce/alerts/alert-view.md)
     + [Export data for custom alerts](/help/search-social-commerce/alerts/alert-export-data.md)
   + [View the Change History Report](/help/search-social-commerce/reports/change-history-view.md)
-  + Recommendations {#recommendations}
+  + Recommendations and publisher insights {#recommendations}
+    + [About publisher recommendations and insights support](/help/search-social-commerce/recommendations/recommendation-support.md)
+    + [View the recommendations log for a [!DNL Google Ads] account](/help/search-social-commerce/recommendations/google-recommendation-view-log.md)
+    + [Apply or dismiss a [!DNL Google Ads] recommendation](/help/search-social-commerce/recommendations/google-recommendation-apply-dismiss.md)
+    + [Best practices for using publisher recommendations and insights with portfolios](/help/search-social-commerce/recommendations/recommendation-best-practices.md)
 + Tools {#tools}
   + [Change your password](/help/search-social-commerce/tools/password-change.md)
   + Tools to create and decode tracking tags{#tracking}

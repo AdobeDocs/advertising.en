@@ -10,9 +10,9 @@ View the recommended actions, and an explanation of why the actions would be ben
 >
 >While recommendations help you improve campaign performance, some may not align with your broader goals. As a result, it's best to consult with your Adobe Account Team before implementing any recommendation.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations]**.
+1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
-1. In the upper right, select the account.
+1. In the upper right, select the ad network and the account.
 
 1. (Optional) Filter the recommendations by category and type.
 
@@ -30,6 +30,6 @@ View the recommended actions, and an explanation of why the actions would be ben
  
 >[!MORELIKETHIS]
 >
->* [Best practices for using [!DNL Google Ads] recommendations with Search, Social, & Commerce portfolios](google-recommendation-best-practices.md)
->* [About [!DNL Google Ads] recommendations support](google-recommendation-support.md)
+>* [About publisher recommendations and insights support](recommendation-support.md)
 >* [View the recommendations log for a [!DNL Google Ads] account](google-recommendation-view-log.md)
+>* [Best practices for using publisher recommendations and insights with portfolios](recommendation-best-practices.md)
