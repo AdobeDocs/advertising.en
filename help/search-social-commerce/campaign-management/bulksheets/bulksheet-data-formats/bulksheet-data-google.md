@@ -112,6 +112,8 @@ To create and update [!DNL Google Ads] campaign data in bulk, you can use Search
 
 ### Campaign fields
 
+| Field | Required? |
+| ---- | ---- |
 | Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
 | Campaign Name | Required | The unique name that identifies a campaign for an account. |
 | Campaign Budget | Required: Create<br><br>>Optional: Edit or delete | A daily spending limit for the campaign, with or without monetary symbols and punctuation. This value overrides but can't exceed the account budget. |
@@ -161,10 +163,10 @@ To create and update [!DNL Google Ads] campaign data in bulk, you can use Search
 
 ### Keyword fields
 
-Campaign Name
-Ad Group Name
-Keyword Status
-Max CPC
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required  |
+| Max CPC | Optional |
 Tracking Template
 URLs (Base URL/Final URL, Destination URL)
 Exemption Request (Google Adwords)
@@ -176,6 +178,7 @@ Param2
 Quality Score
 Custom URL Param
 Label Classification
+Keyword Status
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
