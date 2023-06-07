@@ -13,7 +13,7 @@ To create and update [!DNL Google Ads] campaign data in bulk, you can use Search
 {{$include /help/_includes/bulksheet-appendices-intro-required-data.md}}
 
 | Field | Description |
-| ---- | ---- | ---- |
+| ---- | ---- |
 | Platform | (Included in generated bulksheets for information purposes) The ad platform. Required unless each row includes an &quot;AMO ID&quot; for the entity.|
 | Acct Name | The unique name that identifies an ad network account. Required unless each row includes an &quot;AMO ID&quot; for the entity. |
 | Campaign Name | The unique name that identifies a campaign for an account. |
