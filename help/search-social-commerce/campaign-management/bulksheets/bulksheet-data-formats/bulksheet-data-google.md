@@ -260,8 +260,7 @@ For this ad type, use the "[!UICONTROL Responsive Search Ad]" row in the [!UICON
 | Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
 | Campaign Name | Required |
 | Ad Group Name | Required  | |
-| Ad Title, Ad Title 2-15 | For responsive search ads, Ad Title, Ad Title 2, and Ad Title 3 are required, and all other ad title fields are optional. To delete the existing value for a non-required
-field, use the value `[delete]` (including the brackets). |
+| Ad Title, Ad Title 2-15 | For responsive search ads, Ad Title, Ad Title 2, and Ad Title 3 are required, and all other ad title fields are optional. To delete the existing value for a non-required field, use the value `[delete]` (including the brackets). |
 | Ad Title 1-15 Position | Optional |
 | Description Line 1-4 | For responsive search ads, Description Line 1 and Description Line 2 are required, and Description Line 3 and Description Line 4 are optional. To delete the existing value, use the value `[delete]` (including the brackets). |
 | Description Line 1-4 Position | Optional |
