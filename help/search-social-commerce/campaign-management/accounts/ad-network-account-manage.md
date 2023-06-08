@@ -26,7 +26,7 @@ To enable syncing or tracking of an account, you must create a corresponding acc
 
    1. In the **[!UICONTROL Account Details]** section, enter the account details.
 
-      For ad networks that use the login authorization type "[!UICONTROL oAuth]," allow Search, Social, & Commerce to access the account using the [OAuth authorization protocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22):
+      For ad networks that use the login authorization type "[!UICONTROL oAuth]," allow Search, Social, & Commerce to access the account using the [OAuth authorization protocol](https://oauth.net/2/):
 
       1. Enter the **[!UICONTROL Login]** value for the account, optionally enter the password, and then click **[!UICONTROL Authenticate]**.
 
@@ -76,7 +76,7 @@ If account credentials change, you want to change the default tracking parameter
 
 *Agency account manager, Adobe account manager, and administrator user roles only*
 
-If Search, Social, & Commerce accesses the account using the [OAuth authorization protocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22) and the account credentials change, or if additional access is required to support new features in Search, Social, & Commerce, then you must get a new access token for the account.
+If Search, Social, & Commerce accesses the account using the [OAuth authorization protocol](https://oauth.net/2/) and the account credentials change, or if additional access is required to support new features in Search, Social, & Commerce, then you must get a new access token for the account.
 
 Your Adobe Account Team will inform you if new features require a new token.
 
@@ -140,7 +140,7 @@ When you enable an ad network account, Search, Social, & Commerce synchronizes c
 
 **[!UICONTROL Login Details]: \[Login Type\]** - ([!DNL Microsoft Advertising]/[!DNL Microsoft Merchant Center] only) Whether to authorize logins to the account using:
 
-* *[!UICONTROL oAuth]* (the default): To use the [[!DNL OAuth] authorization protocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22).
+* *[!UICONTROL oAuth]* (the default): To use the [[!DNL OAuth] authorization protocol](https://oauth.net/2/).
 
 * *[!UICONTROL Password]:* To use the client's password.
 
@@ -148,7 +148,7 @@ For [!DNL Microsoft Advertising] accounts, only [!DNL oAuth]-authorized logins c
 
 **[!UICONTROL Login Details]: [!UICONTROL Login]:** (All ad networks except [!DNL Naver]) The login name or ID to enable API access to the account.
 
-**[!UICONTROL Login Details]: [!UICONTROL OAuth Token]:** ([!DNL Microsoft Advertising] [!DNL oAuth]-enabled and all other networks except for [!DNL Baidu], [!DNL Meta], and [!DNL Yandex]) The account's token to authorize logins using the [[!DNL OAuth] authorization protocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22).
+**[!UICONTROL Login Details]: [!UICONTROL OAuth Token]:** ([!DNL Microsoft Advertising] [!DNL oAuth]-enabled and all other networks except for [!DNL Baidu], [!DNL Meta], and [!DNL Yandex]) The account's token to authorize logins using the [[!DNL OAuth] authorization protocol](https://oauth.net/2/).
 
 **[!UICONTROL Login Details]: [!UICONTROL Password]:** (All ad networks except [!DNL Naver]) The password for the account. For password-enabled accounts on [!DNL Baidu], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], and [!DNL Yandex], this field is required. For [!DNL oAuth]-enabled accounts, this field is optional; use it when you want to encrypt and save the password so that the account manager can refresh tokens as needed.
 

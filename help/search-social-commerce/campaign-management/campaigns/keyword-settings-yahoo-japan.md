@@ -25,9 +25,9 @@ You can enter or paste up to 2000 keywords. Separate multiple keywords with comm
 
 ## Placeholders
 
-**[!UICONTROL Param1]:** The string to use as the substitution value if the base URL or tracking template contains the `{param1}` [custom parameter](https://help.marketing.yahoo.co.jp/en?p=7195#customp).
+**[!UICONTROL Param1]:** The string to use as the substitution value if the base URL or tracking template contains the `{param1}` [custom parameter](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US).
 
-**[!UICONTROL Param2]:** The string to use as the substitution value if the base URL or tracking template contains the `{param2}` [custom parameter](https://help.marketing.yahoo.co.jp/en?p=7195#customp).
+**[!UICONTROL Param2]:** The string to use as the substitution value if the base URL or tracking template contains the `{param2}` [custom parameter](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US).
 
 ## URL Options
 

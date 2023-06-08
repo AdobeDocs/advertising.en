@@ -52,7 +52,7 @@ You can create and edit placements for ad groups in [supported campaign types](/
 
 ### [!UICONTROL Placement Details]
 
-**[!UICONTROL Placements]:** Sites on the content network on which your ad can appear. Enter a valid URL, such as www.example.com, example.com,or www.example.com/shoes/kids. To specify multiple strings, separate them with commas or enter them on separate lines.The URL can't include a question mark (`?`). **Note:** You can [exclude website placements](placement-negative-create.md) from the [!UICONTROL Placements] > [!UICONTROL Negatives] view and in the ad group and campaign settings.
+**[!UICONTROL Placements]:** Sites on the content network on which your ad can appear. Enter a valid URL, such as www.example.com, example.com,or www.example.com/shoes/kids. To specify multiple strings, separate them with commas or enter them on separate lines. The URL can't include a question mark (`?`). **Note:** You can [exclude website placements](placement-negative-create.md) from the [!UICONTROL Placements] > [!UICONTROL Negatives] view and in the ad group and campaign settings.
 
 **[!UICONTROL Status]:** The display status of the placement: *Active* (to enable bidding; the default), *Paused* (to disable bidding), or *Deleted* (to delete the placement; existing placements only).
 

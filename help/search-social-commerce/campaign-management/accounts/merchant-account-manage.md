@@ -30,7 +30,7 @@ To view product data and generate tracking templates for a merchant account, and
 
    1. In the [!UICONTROL Product Source] menu, select the merchant center.
 
-   1. (Required for [!DNL Google Ads] accounts; optional for [!DNL Microsoft Advertising] accounts) Allow Search, Social, & Commerce to access the account using the [[!DNL OAuth] authorization protocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22):
+   1. (Required for [!DNL Google Ads] accounts; optional for [!DNL Microsoft Advertising] accounts) Allow Search, Social, & Commerce to access the account using the [[!DNL OAuth] authorization protocol](https://oauth.net/2/):
 
       1. ([!DNL Microsoft Advertising] accounts only) Select **[!UICONTROL oAuth]**.
 
@@ -92,13 +92,13 @@ When you disable a merchant account, Search, Social, & Commerce doesn't log in t
 
 **[!UICONTROL Product Source]:** The merchant network. You can't change the value for an existing account. 
 
-**[!UICONTROL OAuth Token]:** ([!DNL Google Merchant Center] accounts only) The account's token to authorize logins using the [[!DNL OAuth] authorization protocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22). 
+**[!UICONTROL OAuth Token]:** ([!DNL Google Merchant Center] accounts only) The account's token to authorize logins using the [[!DNL OAuth] authorization protocol](https://oauth.net/2/). 
 
 **[!UICONTROL Auth Type]:** ([!DNL Microsoft Advertising]/[!DNL Microsoft Merchant Center] only) Whether to authorize logins to the account using:
 
 * *[!UICONTROL Client login]:* To use the client's login.
 
-* *[!UICONTROL oAuth]* (the default): To use the [[!DNL OAuth] authorization protocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22).
+* *[!UICONTROL oAuth]* (the default): To use the [[!DNL OAuth] authorization protocol](https://oauth.net/2/).
 
 **[!UICONTROL Access Key]:** ([!DNL Microsoft Merchant Center] only) The access key for the developer account to use.
 

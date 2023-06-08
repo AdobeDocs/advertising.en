@@ -64,7 +64,7 @@ See [https://developer.yahoo.com/nativeandsearch/guide/resources/dynamic-paramet
 
 ## Yahoo! Japan Ads dynamic tracking parameters
 
-See [https://help.marketing.yahoo.co.jp/en/?p=115](https://help.marketing.yahoo.co.jp/en/?p=115).
+See [https://ads-help.yahoo-net.jp/s/article/H000044463?language=en_US](https://ads-help.yahoo-net.jp/s/article/H000044463?language=en_US).
 
 ## Yandex dynamic tracking parameters
 
