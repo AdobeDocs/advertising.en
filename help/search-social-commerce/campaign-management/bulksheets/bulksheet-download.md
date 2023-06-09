@@ -18,7 +18,7 @@ For synced campaigns, you can optionally sync with the ad network before downloa
 
 1. Specify the [bulksheet settings](#bulksheet-download-settings):
 
-1. On the **[!UICONTROL Selections] tab, enter or select information in the fields.
+1. On the **[!UICONTROL Selections]** tab, enter or select information in the fields.
 
 1. (Optional) Click the **[!UICONTROL Rows and Columns]** tab, specify the account components and the component statuses for which to include rows in the bulksheet, and then specify the columns to include for each selected component.
 
@@ -30,7 +30,7 @@ For synced campaigns, you can optionally sync with the ad network before downloa
    
    1. (To apply additional filters) For each additional filter, click **[!UICONTROL +Add Filter]**, select **[!UICONTROL AND]** or **[!UICONTROL OR]**, select an ad element or keyword and an operator, and then enter the applicable value.
 
-1. Click **[!UICONTROL Download].
+1. Click **[!UICONTROL Download]**.
 
 When the task begins, the window displays a notification but remains open so you can continue to create additional bulksheets if you want. Any specified filters and exclusions that are applicable to any new accounts that you select are retained. When the task begins, the file is listed in the Bulksheets view. When the file is created, you receive an email notification with a link to the file; depending on the amount of data being compiled, the notification may take several minutes or more. If the file generation fails, however, then an error file is listed in the Bulksheets view and you receive an email notification with a link to the error file.
 

@@ -31,4 +31,3 @@ When an inventory feed file is propagated through a template, account components
 >[!MORELIKETHIS]
 >
 >* [About automating ad management using inventory feeds](inventory-feeds-about.md)
->* [Workflow for managing campaign data using inventory feeds](inventory-feeds-workflow.md)

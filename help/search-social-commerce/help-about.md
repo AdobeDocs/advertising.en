@@ -16,7 +16,7 @@ Information about specific groups of tasks and other information are available i
 
 * "Campaign management" explains how to set up and manage campaign components for your ad network accounts.
 
-* "Insights and reports" explains how to generate advertising insights, generate detailed reports and automate report production, create and monitor alerts, view a log of changes made to the advertiser account, and view and apply [!DNL Google Ads]-generated recommendations for your accounts.
+* "Insights and reports" explains how to generate advertising insights, generate detailed reports and automate report production, create and monitor alerts, view a log of changes made to the advertiser account, and view and apply ad network-generated recommendations for your accounts.
 
 * "Tools" explains how to change your password, use tools to generate click tracking and conversion tracking tags, upload your conversion metrics to [!DNL Google Ads] and your portfolio objectives to the ad networks for hybrid optimization, upload metrics for tracking campaigns, and replicate your [!DNL Google Ads] campaigns in your [!DNL Microsoft Advertising] accounts.
 

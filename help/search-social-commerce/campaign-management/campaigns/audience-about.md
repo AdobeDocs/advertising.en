@@ -36,7 +36,6 @@ You can also create and manage audiences using segments or email lists from your
 
 >[!MORELIKETHIS]
 >
->* [About audiences](audience-about.md)
 >* [Create [!DNL Google Ads] customer match audiences from [!DNL Adobe] audiences](google-audience-from-adobe-audience.md)
 >* [Create a [!DNL Google Ads] customer match audience from an Adobe Campaign email list](google-audience-from-campaign-email-list.md)
 >* [Manage customer match audiences using customer data lists](audience-from-customer-data-list.md)

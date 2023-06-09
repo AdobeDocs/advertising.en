@@ -16,7 +16,7 @@ You can create and edit keywords for search ad groups in [supported campaign typ
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Keywords] > [!UICONTROL Keywords]**.
 
-1. 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
+1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 
 1. Select the ad network, the account, the campaign, and the ad group, and then click **[!UICONTROL Continue]**.
 

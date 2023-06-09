@@ -18,7 +18,7 @@ In this method, Advertising Cloud collects an `ef_id` value each time a user cli
    
    The ef_id is populated and appended to the landing page URL when the end user clicks the ad and is redirected to an Adobe Advertising server. The ef_id is then passed to the advertiser in the destination URL or final URL for the ad or keyword. The following is an example of a destination URL that's passed to the advertiser during the redirect:
    
-   http://pixel.everesttech.net/1180/cq?ev_sid=3&ev_ln={keyword}&ev_crx={creative}&ev_mt={matchtype}&ev_n={network}&ev_ltx=&ev_pl={placement}&url=http%3A//www.example.com&ef_id=D59Nu0u@BD0AAM1q:20110630172936:s
+   `http://pixel.everesttech.net/1180/cq?ev_sid=3&ev_ln={keyword}&ev_crx={creative}&ev_mt={matchtype}&ev_n={network}&ev_ltx=&ev_pl={placement}&url=http%3A//www.example.com&ef_id=D59Nu0u@BD0AAM1q:20110630172936:s`
 
 1. The advertiser extracts the ef_id from the redirect and stores it with the relevant conversion data to include in the feed file. Don't alter the ef_id or change its case.
 

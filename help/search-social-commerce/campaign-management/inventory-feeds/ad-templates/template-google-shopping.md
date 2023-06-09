@@ -155,7 +155,6 @@ For third-party redirects and tracking, enter a value.
 >[!MORELIKETHIS]
 >
 >* [About automating ad management using inventory feeds](../inventory-feeds-about.md)
->* [Workflow for managing campaign data using inventory feeds](../inventory-feeds-workflow.md)
 >* [Managing modifiers](../modifiers-manage.md)
 >* [Managing inventory data feed files](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
 >* [Propagate feed data through templates](../feed-data-propagate.md)
