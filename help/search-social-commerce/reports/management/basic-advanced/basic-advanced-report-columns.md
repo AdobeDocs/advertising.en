@@ -104,7 +104,7 @@ description: Learn about the available data columns for basic and advanced repor
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
 | [!UICONTROL Interaction Rate] | (Video ads) The number of interactions divided by the number of times the ad (video and thumbnail impressions) was shown. |
 | [!UICONTROL Interactions] | (Video ads) The number of times people watched your ad. |
-| [!UICONTROL Is_Click_Objectives] | ([!UICONTROL Portfolio Report]) <!-- ?????? insert definition --> |
+| [!UICONTROL Is_Click_Objectives] | ([!UICONTROL Portfolio Report]) <i>true</i> when the portfolio contains campaigns with the [!UICONTROL Maximize Clicks] bid strategy, and <i>false</i> otherwise. |
 | [!UICONTROL Keyword] | The keyword.<br><br><b>Note:</b> If the report includes data from ad groups in content-enabled search campaigns, then this column includes the applicable ad group names such "(adgroup content) Your Ad Group Name." For a site-targeted placement in a search campaign, this column doesn't have a value. |
 | [!UICONTROL Keyword ID] | The numeric ID that Search, Social, & Commerce assigns to the keyword. |
 | [!UICONTROL Keyword Status] | The status of the keyword to which the search term was matched: <i>[!UICONTROL Active]</i>, <i>[!UICONTROL Paused]</i>, <i>[!UICONTROL Deleted]</i>, or <i>[!UICONTROL Disapproved]</i>. |
