@@ -7,8 +7,7 @@ archetype: end-user
 user-guide-title: Advertising Search, Social, & Commerce Guide
 user-guide-description: This guide explains the major features, tasks, settings, and other resources required to manage, optimize, and report on your search, social, and commerce ad campaigns.
 breadcrumb-title: Advertising Search, Social, & Commerce Guide
-index: no
-hide: yes
+index: yes
 ---
 # Advertising Search, Social, & Commerce Guide {#search-social-commerce}
 
