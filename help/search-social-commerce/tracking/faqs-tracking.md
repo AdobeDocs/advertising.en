@@ -62,7 +62,7 @@ When an Adobe Account Team suspects that orphan transactions are to blame for a 
 
 Orphans occur in the following situations.
 
-## Pixel implementations
+**Pixel implementations**
 
 Orphan transactions almost never occur for pixel implementations. However, pixel orphans have occurred when:
 
@@ -70,7 +70,7 @@ Orphan transactions almost never occur for pixel implementations. However, pixel
 
 * The click logs aren't processed before the conversion logs.
 
-## Feed implementations
+**Feed implementations**
 
 * The tracking ID sent in the feed is from an account that Search, Social, & Commerce doesn’t know about.
 
@@ -82,11 +82,11 @@ Orphan transactions almost never occur for pixel implementations. However, pixel
 
 * In the configuration file, the regular expression that's used to extract the tracking ID from the URLs is incorrect or outdated. Sometimes the advertiser changes the tracking ID in the URL or adopts an entirely new tracking system, which requires the Search, Social, & Commerce implementation team to update the regular expression. In such cases, a major portion of the revenue is orphaned.
 
-## Feed implementations using a transaction ID
+**Feed implementations using a transaction ID**
 
 No online transactions are available before the dates for which data is available in the offline feed.
 
-## Feed implementations using a token (ef_id)
+**Feed implementations using a token (ef_id)**
 
 Search, Social, & Commerce can't find a corresponding click on its server or on the ad network. This may be because the click data isn't available for the conversion's click date or (rarely) because the click logs weren't processed before the conversion logs. When Search, Social, & Commerce receives the click data from the ad network or the click logs are processed, the data is mapped to the conversion.
 +++
