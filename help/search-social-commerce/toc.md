@@ -216,7 +216,6 @@ hide: yes
         + [Required bulksheet data for [!DNL Yandex] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md)
     + Automating campaign data using inventory feeds {#inventory-feeds}
       + [About automating ad management using inventory feeds](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md)
-      + [Workflow for managing campaign data using inventory feeds](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-workflow.md)
       + [When are account components created or deleted by inventory feeds?](/help/search-social-commerce/campaign-management/inventory-feeds/when-are-components-created-deleted.md)
       + [Configure feed data settings](/help/search-social-commerce/campaign-management/inventory-feeds/feed-settings-manage.md)
       + [Manage feed files](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
