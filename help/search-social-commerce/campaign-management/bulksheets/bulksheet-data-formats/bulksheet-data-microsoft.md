@@ -121,10 +121,8 @@ To create and update [!DNL Microsoft Advertising] campaign data in bulk, you can
 | Merchant ID | Required to create a shopping campaign. |
 | Sales Country | Required to create a shopping campaign. |
 | Product Scope Filter | (Shopping campaigns) Optional |
-| DSA Domain Name | Required to create a campaign of type a) "DynamicSearchAds" or b) "Search" when the ExperimentId element
-isn't set) |
-| DSA Domain Language | Required to create a campaign of type a) "DynamicSearchAds" or b) "Search" when the ExperimentId element
-isn't set) |
+| DSA Domain Name | Required to create a campaign of type a) "DynamicSearchAds" or b) "Search" when the ExperimentId element isn't set) |
+| DSA Domain Language | Required to create a campaign of type a) "DynamicSearchAds" or b) "Search" when the ExperimentId element isn't set) |
 | Tracking Template | Optional |
 | Landing Page Suffix | <p>Optional |
 | Budget Type | Required to create a campaign. |
