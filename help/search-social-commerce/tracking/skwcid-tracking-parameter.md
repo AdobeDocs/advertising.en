@@ -104,7 +104,7 @@ where:
 
 >[!MORELIKETHIS]
 >
->* [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
+>* [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md){target="_blank"}
 >* [Manage ad network accounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md)
 >* [Baidu campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md)
 >* [Google Ads campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)

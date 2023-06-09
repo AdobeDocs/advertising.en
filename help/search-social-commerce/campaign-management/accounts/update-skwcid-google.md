@@ -52,4 +52,4 @@ All new [!DNL Google Ads] accounts automatically use the new  s\_kwcid format.
 >
 >* [Manage ad network accounts](ad-network-account-manage.md)
 >* [The s_kwcid tracking parameter](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md)
->* [Overview of [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)
+>* [Overview of [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising/integrations/home.html){target="_blank"}

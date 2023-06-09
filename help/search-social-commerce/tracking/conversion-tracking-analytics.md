@@ -8,7 +8,7 @@ description: Learn about using Adobe Analytics conversion tracking for your camp
 
 For advertisers with an Adobe Advertising-Adobe Analytics integration, Advertising Cloud can connect your ad clicks and impressions with the site engagement and conversion metrics tracked by [!DNL Analytics] when you use a redirect with token (`ef_id` parameter) in your click-tracking URLs for your [bid units](/help/search-social-commerce/glossary.md#a-b). The [!DNL Analytics] data is automatically sent to Advertising Cloud via a daily feed file.
 
-See "[Overview of [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/integrations/analytics/overview.html)" for more information about the integration.
+See "[Overview of [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/integrations/analytics/overview.html){target="_blank"}" for more information about the integration.
 
 >[!PREREQUISITES]
 >
