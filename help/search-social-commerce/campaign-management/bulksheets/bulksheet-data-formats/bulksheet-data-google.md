@@ -108,6 +108,8 @@ To create and update [!DNL Google Ads] campaign data in bulk, you can use Search
 
 <table style="table-layout:auto">
 
+[^1]: [!DNL Excel] converts large numbers to scientific notation (such as 2.12E+09 for 2115585666) when it opens the file. To view digits in the standard notation, select any cell in the column and click inside the formula bar.
+
 ## Fields required to create, edit, or delete each account component
 
 ### Campaign fields
@@ -116,24 +118,24 @@ To create and update [!DNL Google Ads] campaign data in bulk, you can use Search
 | ---- | ---- |
 | Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
 | Campaign Name | Required | The unique name that identifies a campaign for an account. |
-| Campaign Budget | Required: Create<br><br>>Optional: Edit or delete | A daily spending limit for the campaign, with or without monetary symbols and punctuation. This value overrides but can't exceed the account budget. |
-| Delivery Method | Required: Create<br><br>Optional: Edit or delete |
-| Channel Type | Required: Create<br><br>Optional: Edit or delete |
-| Networks | Required: Create<br><br>Optional: Edit or delete |
-| DSA Domain Name | Required: Create<br><br>Optional: Edit or delete |
-| DSA Domain Language | Required: Create<br><br>Optional: Edit or delete |
-| Campaign Priority | Required/Optional: Create<br><br>Optional / n/a: Edit or delete  |
-| Merchant ID | Required/Optional: Create<br><br>Optional / n/a: Edit or delete |
-| Sales Country | Required/Optional: Create<br><br>Optional / n/a: Edit or delete |
-| Product Scope Filter | Optional |
+| Campaign Budget | Required to create a campaign. | A daily spending limit for the campaign, with or without monetary symbols and punctuation. This value overrides but can't exceed the account budget. |
+| Delivery Method | Required to create a campaign. |
+| Channel Type | Required to create a campaign. |
+| Networks | Required to create a campaign. |
+| DSA Domain Name | Required to create a campaign on the search network that will have dynamic search ads. |
+| DSA Domain Language | Required to create a campaign on the search network that will have dynamic search ads. |
+| Campaign Priority | Required to create a shopping campaign. |
+| Merchant ID | Required to create a shopping campaign. |
+| Sales Country | Required to create a shopping campaign. |
+| Product Scope Filter | (Shopping campaigns) Optional |
 | Languages | Optional |
 | Device Targets | Optional |
 | Device OS Targets (Google Adwords) | Optional |
 | Mobile Carriers (Google Adwords) | Optional |
 | Audience Target Method | n/a |
-| Landing Page Suffix | <p>Optional |
+| Landing Page Suffix | Optional |
 | Tracking Template | Optional |
-| Campaign Status | Optional: Create or edit<br><br>Required: Delete |
+| Campaign Status | Required only to delete a campaign. |
 | \[Advertiser-specific Label Classification\] | Optional |
 | Constraints | Optional |
 | Campaign ID | Required only when you change the campaign name, unless the row includes an &quot;AMO ID&quot; for the campaign. |
@@ -148,12 +150,12 @@ To create and update [!DNL Google Ads] campaign data in bulk, you can use Search
 | Networks | n/a |
 | GDN Custom Bid Level | Optional |
 | Ad Group Name | Required  |
-| Ad Group Type | Required |
+| Ad Group Type | Required to create an ad group. |
 | Max CPC | Optional |
 | Max Content CPC | Optional |
 | Audience Target Method | Required |
 | Tracking Template | Optional |
-| Ad Group Status  | Optional: Create or edit<br><br>Required: Delete |
+| Ad Group Status  | Required only to delete an ad group. |
 | \[Advertiser-specific Label Classification\] | Optional |
 | Constraints | Optional |
 | Ad Group ID | Required only when you change the ad group name, unless the row includes an &quot;AMO ID&quot; for the ad group. |
@@ -168,13 +170,13 @@ To create and update [!DNL Google Ads] campaign data in bulk, you can use Search
 | Ad Group Name | Required  |
 | Max CPC | Optional |
 | Keyword | Required |
-| Match Type | Optional: Create<br><br>Required/Optional: Edit or delete |
+| Match Type | A value for either the match type or keyword ID is required to edit or delete a keyword with multiple match types. |
 | Tracking Template | Optional |
 | Base URL/Final URL | Optional |
 | Custom URL Param | Optional |
 | Param1 | Optional |
 | Param2 | Optional |
-| Keyword Status | Optional: Create or edit<br><br>Required: Delete |
+| Keyword Status | Required only to delete a keyword. |
 | \[Advertiser-specific Label Classification\] | Optional |
 | Constraints | Optional |
 | Campaign ID | Optional |
@@ -206,7 +208,7 @@ To create and update [!DNL Google Ads] campaign data in bulk, you can use Search
 
 ### Expanded dynamic search ad
 
-This ad type is now called "dynamic search ad" in [!DNL Google Ads]. For more information about creating dynamic search ads, see "[Implement [!DNL Google Ads] dynamic search ads](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-campaign-types/google-dynamic-search-ads.html?lang=en)."
+This ad type is now called "dynamic search ad" in [!DNL Google Ads]. For more information about creating dynamic search ads, see "[Implement [!DNL Google Ads] dynamic search ads](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-campaign-types/google-dynamic-search-ads.html)."
 
 For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
 
@@ -229,7 +231,7 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 
 ### Product listing/shopping ad fields
 
-For more information about creating shopping ads, see "[Implement Google Ads shopping campaigns](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-campaign-types/google-shopping-campaigns.html?lang=en)."
+For more information about creating shopping ads, see "[Implement Google Ads shopping campaigns](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-campaign-types/google-shopping-campaigns.html)."
 
 For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
 
@@ -260,9 +262,9 @@ For this ad type, use the "[!UICONTROL Responsive Search Ad]" row in the [!UICON
 | Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
 | Campaign Name | Required |
 | Ad Group Name | Required  | |
-| Ad Title, Ad Title 2-15 | For responsive search ads, Ad Title, Ad Title 2, and Ad Title 3 are required, and all other ad title fields are optional. To delete the existing value for a non-required field, use the value `[delete]` (including the brackets). |
+| Ad Title, Ad Title 2-15 | For responsive search ads, Ad Title, Ad Title 2, and Ad Title 3 are required to create an ad, and all other ad title fields are optional. To delete the existing value for a non-required field, use the value `[delete]` (including the brackets). |
 | Ad Title 1-15 Position | Optional |
-| Description Line 1-4 | For responsive search ads, Description Line 1 and Description Line 2 are required, and Description Line 3 and Description Line 4 are optional. To delete the existing value, use the value `[delete]` (including the brackets). |
+| Description Line 1-4 | For responsive search ads, Description Line 1 and Description Line 2 are required to create an ad, and Description Line 3 and Description Line 4 are optional. To delete the existing value, use the value `[delete]` (including the brackets). |
 | Description Line 1-4 Position | Optional |
 | Display Path 1 | Optional |
 | Display Path 2 | Optional |
@@ -318,6 +320,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 | Auto Target Expression | Required when the campaign setting to "Use my website contents to target my ads" isn't enabled; optional otherwise. |
 | Match Type | Optional |
 | Target Status | Required to delete a target |
+| \[Advertiser-specific Label Classification\] | Optional |
+| Constraints | Optional |
 | Campaign ID | Optional |
 | Ad Group ID | Optional |
 | Target ID | Required only when you change or delete the auto target, unless the row includes an "AMO ID" for the target. |
@@ -370,14 +374,14 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 | ---- | ---- | ---- |
 | Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
 | Campaign Name | Required |
-| Location | Required to create or edit a location target. |
+| Location | Required |
 | Location Type | Optional |
 | Bid Adjustment | Optional |
 | Location Status | Required only to delete a location target. |
 | Campaign ID | Optional |
 | AMO ID | Required to edit or delete the data unless you include the campaign ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
-## Campaign-level and ad group-level device target fields
+### Campaign-level and ad group-level device target fields
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -392,7 +396,7 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 | Device Target ID | Required only when you change or delete the target, unless the row includes an "AMO ID" for the target. |
 | AMO ID | Required to edit or delete the data unless you include the Device Target ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
-## Campaign-level and ad group-level RLSA target/exclusion fields
+### Campaign-level and ad group-level RLSA target/exclusion fields
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -407,8 +411,6 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 | Ad Group ID | Optional; applicable only for ad group-level targets and exclusions. |
 | RLSA Target ID | Required only when you change or delete the target, unless the row includes an "AMO ID" for the target. |
 | AMO ID | Required to edit or delete the data unless you include the RLSA Target ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
-
-[^1]: [!DNL Excel] converts large numbers to scientific notation (such as 2.12E+09 for 2115585666) when it opens the file. To view digits in the standard notation, select any cell in the column and click inside the formula bar.
 
 >[!MORELIKETHIS]
 >

@@ -104,96 +104,317 @@ To create and update [!DNL Microsoft Advertising] campaign data in bulk, you can
 
 <table style="table-layout:auto">
 
-<!-- EDIT ALL -- Copied from Google page -->
-
-<!-- 
+[^1]: [!DNL Excel] converts large numbers to scientific notation (such as 2.12E+09 for 2115585666) when it opens the file. To view digits in the standard notation, select any cell in the column and click inside the formula bar.
 
 ## Fields required to create, edit, or delete each account component
 
 ### Campaign fields
 
-Campaign Name
-Campaign Budget
-Campaign Status
-Delivery Method
-Device OS Targets (Google Adwords)
-Device Targets
-Languages
-Mobile Carriers (Google Adwords)
-Networks
-Tracking Template
-Channel Type
-Campaign Priority
-Merchant ID
-Sales Country
-Product Scope Filter
-Audience Target Method
-DSA Domain Name
-DSA Domain Language
-Landing Page Suffix
-Label Classification
+| Field | Required? |
+| ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required | The unique name that identifies a campaign for an account. |
+| Campaign Budget | Required to create a campaign. | A daily spending limit for the campaign, with or without monetary symbols and punctuation. This value overrides but can't exceed the account budget. |
+| Channel Type | Required to create a campaign. |
+| Delivery Method | Optional |
+| Campaign Priority | Required to create a shopping campaign. |
+| Merchant ID | Required to create a shopping campaign. |
+| Sales Country | Required to create a shopping campaign. |
+| Product Scope Filter | (Shopping campaigns) Optional |
+| DSA Domain Name | Required to create a campaign of type a) "DynamicSearchAds" or b) "Search" when the ExperimentId element isn't set) |
+| DSA Domain Language | Required to create a campaign of type a) "DynamicSearchAds" or b) "Search" when the ExperimentId element isn't set) |
+| Tracking Template | Optional |
+| Landing Page Suffix | <p>Optional |
+| Budget Type | Required to create a campaign. |
+| Device | Optional |
+| Bid Adjustment | Optional |
+| Campaign Status | Required only to delete a campaign. |
+| \[Advertiser-specific Label Classification\] | Optional |
+| Constraints | Optional |
+| Campaign ID | Required only when you change the campaign name, unless the row includes an &quot;AMO ID&quot; for the campaign. |
+| AMO ID | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Ad group fields
 
-Campaign Name
-Ad Group Name
-Ad Group Type
-Networks
-Ad Group Status
-Max CPC
-Max Content CPC
-Tracking Template
-Audience Target Method
-Label Classification
+| Field | Required? |
+| ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required  |
+| Ad Group Type | Required to create an ad group. |
+| Audience Target Method | Required only to create audience ad groups. |
+| Ad Group Start Date | Optional |
+| Ad Group End Date | Optional |
+| Tracking Template | Optional |
+| Search Network Status | (Campaigns on the search network only) Optional |
+| Languages | Optional |
+| Device | Optional |
+| Bid Adjustment | Optional |
+| Ad Group Status  | Required only to delete an ad group. |
+| \[Advertiser-specific Label Classification\] | Optional |
+| Constraints | Optional |
+| Ad Group ID | Required only when you change the ad group name, unless the row includes an &quot;AMO ID&quot; for the ad group. |
+| AMO ID | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
+### Keyword fields
 
-## Keyword fields
-
-Campaign Name
-Ad Group Name
-Keyword Status
-Max CPC
-Tracking Template
-URLs (Base URL/Final URL, Destination URL)
-Exemption Request (Google Adwords)
-First Page Bid
-Keyword
-Match Type
-Param1
-Param2
-Quality Score
-Custom URL Param
-Label Classification
-
-
-### Text/Product ad fields
-
-Uses "Creative (except RSA)" row in Download Bulksheet dialog
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required  |
+| Keyword | Required |
+| Match Type | A value for either the match type or keyword ID is required to edit or delete a keyword with multiple match types. |
+| Max CPC | Optional |
+| Base URL/Final URL | Optional |
+| Custom URL Param | Optional |
+| Tracking Template | Optional |
+| Param1 | Optional |
+| Param2 | Optional |
+| Keyword Status | Required only to delete a keyword. |
+| \[Advertiser-specific Label Classification\] | Optional |
+| Constraints | Optional |
+| Campaign ID | Optional |
+| Ad Group ID | Optional |
+| Keyword ID | Required only when you edit or delete the keyword, unless the row includes a) sufficient property columns to identify the keyword or b) an "AMO ID." |
+| AMO ID | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Dynamic search ad fields
 
-Note: Create support not available
+>[!NOTE]
+>
+>Create support isn't available.
 
-### Multimedia/Responsive ad fields
+For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
+
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required  |
+| Description Line 1-2 | Required to edit the description. <b>Note:</b> For this ad type, changing ad copy deletes the existing ad and creates a new one. |
+| Display Path 1 | Required to edit the field. |
+| Display Path 2 | Required to edit the field. |
+| Creative Type | Required to create or edit the status of a product ad. |
+| Creative Preferred Devices | Optional |
+| Ad Status | Required to delete an ad. |
+| \[Advertiser-specific Label Classification\] | Optional |
+| Campaign ID | Optional |
+| Ad Group ID | Optional |
+| Ad ID | Required only when you change the ad status, unless the row includes a) sufficient ad property columns to identify the ad or b) an "AMO ID." However, if you include neither the Ad ID nor AMO ID, and the ad property columns match multiple ads, then the status for only one of the ads changes. |
+| AMO ID | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
+
+### Product (shopping) ad fields
+
+For more information about creating shopping ads, see "[Implement Microsoft Advertising shopping campaigns](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-campaign-types/microsoft-shopping-campaigns.html)."
+
+For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
+
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required  |
+| Promotion Line | Optional |
+| Base URL/Final URL | Optional |
+| Custom URL Param | Optional |
+| Creative Type | Required to create or edit the status of a product ad. |
+| Tracking Template | Optional |
+| Ad Status | Required to delete an ad. |
+| \[Advertiser-specific Label Classification\] | Optional |
+| Constraints | Optional |
+| Campaign ID | Optional |
+| Ad Group ID | Optional |
+| Ad ID | Required only when you change the ad status, unless the row includes a) sufficient ad property columns to identify the ad or b) an "AMO ID." However, if you include neither the Ad ID nor AMO ID, and the ad property columns match multiple ads, then the status for only one of the ads changes. |
+| AMO ID | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
+
+### Responsive (multimedia) ad fields
+
+For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
+
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required  |
+| Ad Title, Ad Title 2-15 | For responsive ads, Ad Title, Ad Title 2, and Ad Title 3 are required to create ads, and all other ad title fields are optional. To delete the existing value for a non-required field, use the value `[delete]` (including the brackets). <b>Note:</b> For this ad type, changing ad copy deletes the existing ad and creates a new one. |
+| Description Line 1-4 | Description Line 1 and Description Line 2 are required to create ads, and Description Line 3 and Description Line 4 are optional. <b>Note:</b> For this ad type, changing ad copy deletes the existing ad and creates a new one. |
+| Business Name | Required to create or delete an ad. |
+| Call To Action | Required to create an ad. |
+| Call To Action Language | Required to create an ad. |
+| Base URL/Final URL | Required to create an ad. |
+| Creative Type | Optional. |
+| Tracking Template | Optional |
+| Ad Status | Required to delete an ad. |
+| \[Advertiser-specific Label Classification\] | Optional |
+| Campaign ID | Optional |
+| Ad Group ID | Optional |
+| Ad ID | Required only when you change the ad status, unless the row includes a) sufficient ad property columns to identify the ad or b) an "AMO ID." However, if you include neither the Ad ID nor AMO ID, and the ad property columns match multiple ads, then the status for only one of the ads changes. |
+| AMO ID | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Responsive search ad fields
 
-Uses "Responsive Search Ad" row in Download Bulksheet dialog
+For this ad type, use the "[!UICONTROL Responsive Search Ad]" row in the [!UICONTROL Download Bulksheet] dialog.
+
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required  | |
+| Ad Title, Ad Title 2-15 | For responsive search ads, Ad Title, Ad Title 2, and Ad Title 3 are required to create an ad, and all other ad title fields are optional. To delete the existing value for a non-required field, use the value `[delete]` (including the brackets). |
+| Ad Title 1-15 Position | Optional |
+| Description Line 1-4 | For responsive search ads, Description Line 1 and Description Line 2 are required to create an ad, and Description Line 3 and Description Line 4 are optional. To delete the existing value, use the value `[delete]` (including the brackets). |
+| Description Line 1-4 Position | Optional |
+| Display Path 1 | Optional |
+| Display Path 2 | Optional |
+| Base URL/Final URL | Required to create an ad. |
+| Custom URL Param | Optional |
+| Creative Type | Optional |
+| Tracking Template | Optional |
+| Ad Status | Required to delete an ad. |
+| \[Advertiser-specific Label Classification\] | Optional |
+| Campaign ID | Optional |
+| Ad Group ID | Optional |
+| Ad ID | Required to edit or delete ads unless the row includes an "AMO ID." |
+| AMO ID | Required to edit or delete ads unless you include the Ad ID. | 
+
+### Text ad fields
+
+For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
+
+>[!NOTE]
+>
+>Expanded text ads were deprecated. You can only delete existing text ads.
+
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required  |
+| Ad Title, Ad Title 2-3 | Read-only |
+| Description Line 1-2 | Read-only |
+| Display URL | Read-only |
+| Display Path 1 | Read-only |
+| Display Path 2 | Read-only |
+| Base URL/Final URL | Read-only |
+| Custom URL Param | Read-only |
+| Creative Type | Optional |
+| Tracking Template | Read-only |
+| Creative Preferred Devices | Read-only |
+| Ad Status | Required |
+| \[Advertiser-specific Label Classification\] | Optional |
+| Campaign ID | Optional |
+| Ad Group ID | Optional |
+| Ad ID | Required only when you change the ad status, unless the row includes an "AMO ID." |
+| AMO ID | Required to edit or delete the data unless you include the Ad ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Dynamic search target (auto target) fields
-Note: Create support not available
+
+>[!NOTE]
+>
+>Create support isn't available.
+
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required  |
+| Auto Target Expression | Required. |
+| Match Type | Optional |
+| Max CPC | Optional |
+| Custom URL Param | Optional |
+| Target Status | Required to delete a target |
+| \[Advertiser-specific Label Classification\] | Optional |
+| Constraints | Optional |
+| Campaign ID | Optional |
+| Ad Group ID | Optional |
+| Target ID | Required only when you change or delete the auto target, unless the row includes an "AMO ID" for the target. |
+| AMO ID | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Shopping product group fields
 
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required  |
+| Match Type | Required to create a product group. |
+| Max CPC | Required to create a product group. |
+| Parent Product Groupings | Required |
+| Product Grouping | Required |
+| Partition Type | Required to create a product group. |
+| Base URL/Final URL | Required |
+| Tracking Template | Optional |
+| Product Group Status | Required only to delete a product group. |
+| \[Advertiser-specific Label Classification\] | Optional |
+| Constraints | Optional |
+| Campaign ID | Optional |
+| Ad Group ID | Optional |
+| Product Group ID | Required only when you change or delete the product group, unless the row includes a) sufficient property columns to identify the product group or b) an "AMO ID." |
+| AMO ID | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
+
 ### Campaign-level sitelink fields
 
-### Location Target fields
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Description Line 1 | Optional |
+| Description Line 2 | Optional |
+| Start Date | Optional |
+| End Date | Optional |
+| Base URL/Final URL | Required |
+| Custom URL Param | Optional |
+| Tracking Template | Optional |
+| Creative Preferred Devices | Optional |
+| Link Name | Required |
+| Sitelink Status | Required only to delete a sitelink. |
+| Campaign ID | Optional |
+| Sitelink ID | Required only when you change or delete the sitelink, unless the row includes a) sufficient property columns to identify the sitelink or b) an "AMO ID." However, if you include neither Sitelink Ad ID nor AMO ID  and the property columns match multiple sitelinks, then the status for only one of the sitelinks will changes.<br><br><b>Note:</b> If you edit sitelink property columns except Status for an existing sitelink, and you don't include either the Sitelink ID nor AMO ID, then a new sitelink is created, and the existing sitelink isn't changed. |
+| AMO ID | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
-### Device Target fields
+### Location target fields
 
-### RLSA Target
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Location | Required |
+| Location Type | Required to create a target |
+| Bid Adjustment | Optional |
+| Location Status | Required only to delete a location target. |
+| Campaign ID | Optional |
+| AMO ID | Required to edit or delete the data unless you include the campaign ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
--->
+### Campaign-level and ad group-level device target fields
+
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Device | Required to delete a device target. |
+| Bid Adjustment | Optional |
+| Ad Group Name | Required for ad group-level device targets. Not applicable for campaign-level device targets. |
+| Device Target Status | Required only to delete a device target. |
+| Campaign ID | Optional |
+| Ad Group ID | Optional; applicable only for ad group-level device targets. |
+| AMO ID | Required to edit or delete the data unless you include the Device Target ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
+
+### Campaign-level and ad group-level RLSA target fields
+
+| Field | Required? | Description |
+| ---- | ---- | ---- |
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required for ad group-level targets. Not applicable for campaign-level targets. |
+| Audience | Required to create a new target. |
+| Target Type | Optional |
+| Bid Adjustment | Optional |
+| RLSA Target Status | Required to delete a target. |
+| Campaign ID | Optional |
+| Ad Group ID | Optional; applicable only for ad group-level targets. |
+| RLSA Target ID | Required only when you change or delete the target, unless the row includes an "AMO ID" for the target. |
+| AMO ID | Required to edit or delete the data unless you include the RLSA Target ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 >[!MORELIKETHIS]
 >
