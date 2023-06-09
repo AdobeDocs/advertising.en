@@ -4,7 +4,7 @@ description: Learn about conversion tracking options for Search, Social, & Comme
 ---
 # Conversion tracking options for Search, Social, & Commerce
 
-Adobe Advertising can use conversion data that's tracked in the following ways:
+Search, Social, & Commerce can use conversion data that's tracked in the following ways:
 
 * **Adobe Advertising-tracked conversions:** The advertiser inserts an Adobe Advertising conversion-tracking tag on each conversion page. The tag sends the conversion data to a tracking server. You can use either the legacy third-party pixel or the newer first-party pixel. See "[Comparison of each conversion tracking method](#conversion-tracking-comparison)."
 
