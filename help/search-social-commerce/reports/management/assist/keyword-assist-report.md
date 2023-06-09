@@ -24,7 +24,7 @@ You can view data for the previous 18 months.
 The following are the columns that are available for each report. The default columns are automatically included by default. You can add the available custom columns from the Columns section of the report settings.
 
 | Column | Default? | Description |
-|----|----|
+| ---- | ---- | ---- |
 | [!UICONTROL 1st Keyword] to [!UICONTROL 5th Keyword] | Default | The five earliest paid search keyword or placement clicks in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j).<br><br><b>Note:</b> If the report includes placements from content-enabled search campaigns (which don't include keywords), then these columns show the applicable ad group names, such "(adgroup content) Your Ad Group Name," instead. |
 | [!UICONTROL Path Size] | Default | The number of keywords and/or placements in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL First Keyword] | Default | The first keyword or placement in the conversion path. |

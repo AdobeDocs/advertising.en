@@ -146,9 +146,9 @@ The report may not include conversion metrics for which conversions occurred.
 
 +++Revenue is missing from reports.
 
-### Advertisers using Adobe Advertising conversion tags
+**Advertisers using Adobe Advertising conversion tags**
   
-#### Possible causes
+*Possible causes:*
   
 * Keywords or ads were added without prefixing the Search, Social, & Commerce click tracking prefix to the tracking templates or destination URLs, or the tracking prefix is incorrect.
 
@@ -158,7 +158,7 @@ The report may not include conversion metrics for which conversions occurred.
 
 * The revenue parser for the client wasn't implemented.
 
-#### Possible solution or work-around
+*Possible solution or work-around:*
 
 1. Verify that the correct columns are included in the reports or data views. If the correct columns aren't available to add, then you or your Adobe Account Team must [make the transaction properties available to reports](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
 
@@ -174,9 +174,9 @@ The report may not include conversion metrics for which conversions occurred.
    
    If the client hasn't been launched or is newly launched, then Customer Care verifies if a revenue parser has been set up. If the parser is set up, then they verify if Search, Social, & Commerce is receiving any pixel conversions and troubleshoot the issue.
 
-### Advertisers sending conversion data feeds
+**Advertisers sending conversion data feeds**
 
-#### Possible causes
+*Possible causes:*
 
 * The feed file wasn't delivered, it wasn't completely parsed, or the feed contained orphan transactions.
 
@@ -186,7 +186,7 @@ The report may not include conversion metrics for which conversions occurred.
 >
 >Data generally doesn't appear in the user interface until 2-4 hours after the feed is received.
 
-#### Possible solution or work-around
+*Possible solution or work-around:*
 
 1. Verify that the correct columns are included in the reports or data views. If the correct columns aren't available to add, then you or your Adobe Account Team must [make the transaction properties available to reports](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
 
@@ -207,9 +207,9 @@ The [!UICONTROL Geo Distribution Report] and [!UICONTROL Domain Referral Report]
   
 +++Revenue data is different from the advertiser's own revenue data.
 
-### Advertisers using Adobe Advertising conversion tags
+**Advertisers using Adobe Advertising conversion tags**
 
-#### Possible causes
+*Possible causes:*
   
 * Search, Social, & Commerce disregards revenue when the cookie is expired or deleted, but the advertiser may consider it valid revenue.
 
@@ -217,7 +217,7 @@ The [!UICONTROL Geo Distribution Report] and [!UICONTROL Domain Referral Report]
 
 * The conversion tracking tag isn't implemented correctly on all applicable webpages or was edited.
 
-#### Possible solution or work-around
+*Possible solution or work-around:*
 
 1. Go to **[!UICONTROL Insights & Reports] > [!UICONTROL Reports]** and generate a [!UICONTROL Transaction Report]. Compare the transactions that Search, Social, & Commerce received with the advertiser’s data.
 
@@ -229,13 +229,13 @@ The [!UICONTROL Geo Distribution Report] and [!UICONTROL Domain Referral Report]
 
    Customer care will try to identify the missing transactions and to then check for orphan transactions and transactions that didn't come from an ad ("uncorrelated conversions").
 
-### Advertisers with conversion data feeds using `ef_id` values
+**Advertisers with conversion data feeds using `ef_id` values**
 
 See the possible causes and solutions for pixel implementations above.
 
-### Advertisers with conversion data feeds using transaction IDs
+**Advertisers with conversion data feeds using transaction IDs**
 
-#### Possible causes
+*Possible causes:*
 
 * Search, Social, & Commerce disregards revenue when the cookie expires or is deleted, but the advertiser may consider it valid revenue.
 
@@ -243,7 +243,7 @@ See the possible causes and solutions for pixel implementations above.
 
 * An offline conversion was reported before an online transaction occurred with the same transaction ID. The online transaction must occur first.
 
-#### Possible solution or work-around
+*Possible solution or work-around:*
 
 1. Go to **[!UICONTROL Insights & Reports] > [!UICONTROL Reports]** and generate a [!UICONTROL Transaction Report]. Compare the transactions that Search, Social, & Commerce received with the advertiser’s feed data.
 
@@ -253,9 +253,9 @@ See the possible causes and solutions for pixel implementations above.
 
    Customer care will check for data parsing errors and [orphan transactions](/help/search-social-commerce/glossary.md#o-p).
 
-### Advertisers with other types of conversion data feeds
+**Advertisers with other types of conversion data feeds**
 
-#### Possible causes
+*Possible causes:*
 
 * Search, Social, & Commerce disregards revenue when the cookie is expired or deleted, but the advertiser may consider it valid revenue.
 
@@ -273,7 +273,7 @@ See the possible causes and solutions for pixel implementations above.
 
 * The advertiser's de-duping logic differs from the Search, Social, & Commerce logic.
 
-#### Possible solution or work-around
+*Possible solution or work-around:*
 
 1. Go to **[!UICONTROL Insights] & [!UICONTROL Reports > Reports]** and generate a [!UICONTROL Transaction Report]. Compare the transactions that Search, Social, & Commerce received with the advertiser’s data.
 

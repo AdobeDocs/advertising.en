@@ -36,7 +36,7 @@ description: Learn about best practices for writing effective ad copy.
 
 * Write powerful headlines to attract potential customers.
 
-* Include keywords in your headline because that's what most people are looking for. [*]
+* Include keywords in your headline because that's what most people are looking for. [1]
 
 * Create ad copy that's designed for the intended audience.
 
@@ -52,7 +52,7 @@ description: Learn about best practices for writing effective ad copy.
 
 * If you are offering a discount, then include the specific amount or percentage of the discount (such as "20% off" or "Save $20 on first purchase).
 
-* If possible, use the keyword both in the headline/title and in both lines of the description/body. [*]
+* If possible, use the keyword both in the headline/title and in both lines of the description/body. [1]
 
 * Always include a call to action in the text, such as "View," "Check out," "Order," or "Sign up," to increase the click-through rate. For image ads, include the call to action on a button linking to your website; for rich media ads, include the call to action in an early frame.
 
@@ -60,7 +60,7 @@ description: Learn about best practices for writing effective ad copy.
 
 * Research what your competitors are doing. Look at the top ads for a space (at sites like www.spyfu.com) and try to understand which ads are working.
 
-[*]: If you use keyword insertion, use the correct capitalization for the insertion code:
+[1]: If you use keyword insertion, use the correct capitalization for the insertion code:
 
 `{keyword:default}` = lawn mowers
 

@@ -20,7 +20,7 @@ You can view data for the previous 18 months.
 The following are the columns that are available for each report. The default columns are automatically included by default. You can add the available custom columns from the Columns section of the report settings.
 
 | Column | Default? | Description |
-|----|----|
+| ---- | ---- | ---- |
 | [!UICONTROL 1st Event] to [!UICONTROL 5th Event] | Default | The five earliest event types in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL Path Size] | Default | The number of event types in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL First Event Type] | Default | The event type of the first (earliest) event in the conversion path. |

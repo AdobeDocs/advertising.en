@@ -25,7 +25,7 @@ You can view data for the previous 18 months.
 The following are the columns that are available for each report. The default columns are automatically included by default. You can add the available custom columns from the Columns section of the report settings.
 
 | Column | Default? | Description |
-|----|----|
+| ---- | ---- | ---- |
 | [!UICONTROL 1st Campaign] to [!UICONTROL 5th Campaign] | Default | The five earliest  campaigns in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j).<br><br>If you included any of the report options to indicate the ad network, account name, or event type after the entity name, then that information is included after the campaign name (such as `"<"campaign name> [Google] [Account1] [impression]`"). |
 | [!UICONTROL Path Size] | Default | The number of campaigns in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL First Campaign] | Default | The first campaign in the conversion path. |
