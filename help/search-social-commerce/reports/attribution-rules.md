@@ -296,7 +296,7 @@ When the conversion path includes both paid clicks and impressions, the impressi
 
 * In DSP, the impressions are ignored, and only clicks are weighted. DSP doesn't take impression override weights into consideration for attribution.
 
-![U-shaped attribution percentages](/help/search-social-commerce/assets/attribution-percent-u-shaped.png "U-shaped event attribution percentages")
+<!-- ![U-shaped attribution percentages](/help/search-social-commerce/assets/attribution-percent-u-shaped.png "U-shaped event attribution percentages") -->
 
 <!-- start examples as collapsible content -->
 
