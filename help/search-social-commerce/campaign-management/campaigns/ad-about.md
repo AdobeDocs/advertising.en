@@ -28,7 +28,7 @@ You can create and manage supported ad types for ad groups within a synchronized
 
    When a user's search term exactly matches a keyword in one of your keyword-based campaigns, an ad from the keyword-based campaign is displayed instead of a dynamic search ad. The ad network shows a dynamic search ad instead of a keyword-targeted ad when the user's search term is a broad match or phrase match to one of your keywords and your dynamic search ad has a higher ad rank.
 
-   For more information about [!DNL Google Ads] dynamic search ads, see https://support.google.com/google-ads/answer/2471185. For more information about [!DNL Microsoft® Advertising] dynamic search ads, see https://help.ads.microsoft.com/#apex/ads/en/60037/0.
+   For more information about dynamic search ads, see the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/2471185) and [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/ads/en/56794).
 
 * **Multimedia ads** for [!DNL Microsoft® Advertising] search campaigns. Multimedia ads are large image ads that are shown in prominent mainline and sidebar positions, and only one multimedia ad is displayed per page. They can include multiple text and image assets, like responsive ads, and the ad network assembles the ads using the most effective combinations of ad elements. Multimedia ads don't replace your text ad placements.
 
