@@ -11,7 +11,7 @@ the campaign may contain:
 
 * *[!UICONTROL Search and Display Network]:* Shows text ads on the search network only.
 
-* *[!UICONTROL Shopping Network]:* Shows product ads &mdashl for your products in your [!DNL Microsoft Merchant Center] product catalog &mdash; on the shopping network
+* *[!UICONTROL Shopping Network]:* Shows product ads &mdash; for your products in your [!DNL Microsoft Merchant Center] product catalog &mdash; on the shopping network
 
 * *[!UICONTROL Audience]:* Shows native/display ads on the [!DNL Microsoft Audience Network]. You can either a) automatically generate feed-based ads by linking the campaign to a merchant center store in the [!UICONTROL Shopping Settings] section or b) create responsive ads with text assets and uploaded images. Both options require you to create ad groups with user targeting.
 
