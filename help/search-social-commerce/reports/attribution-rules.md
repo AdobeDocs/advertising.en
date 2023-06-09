@@ -180,9 +180,6 @@ When the conversion path includes both paid clicks and impressions, the impressi
 
 ![Even attribution percentages](/help/search-social-commerce/assets/attribution-percent-even.png "Even attribution percentages")
 
-<!-- Add in
-Examples of event calculations
-
 <!-- start examples as collapsible content -->
 
 +++Examples of event calculations
