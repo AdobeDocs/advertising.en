@@ -5,7 +5,7 @@ solution: Advertising
 product: advertising cloud
 archetype: end-user
 user-guide-title: Advertising Search, Social, & Commerce Guide
-user-guide-description: This guide explains the major features, tasks, settings, and other resources required to manage, optimize, and report on your search, social, and commerce ad campaigns.
+user-guide-description: Learn about the latest updates and new features in Advertising Search, Social, & Commerce.
 breadcrumb-title: Advertising Search, Social, & Commerce Guide
 index: yes
 ---
