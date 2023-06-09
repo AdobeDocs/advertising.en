@@ -20,7 +20,7 @@ Adobe Advertising shares data about your campaigns with Adobe Analytics using th
 
 To implement the server-side s_kwcid feature, or to determine the best option for your business, talk to your Adobe Account Team.
 
-## `s_kwcid` format for Advertising DSP ads
+## s_kwcid format for Advertising DSP ads
 
 `s_kwcid=AC!${TM_AD_ID}!${TM_PLACEMENT_ID}`
 
@@ -32,7 +32,7 @@ where:
 
 * `{TM_PLACEMENT_ID}` is the alphanumeric placement key.
 
-## `s_kwcid` formats for Search, Social, & Commerce ads
+## s_kwcid formats for Search, Social, & Commerce ads
 
 The parameters vary by ad network, but the following parameters are common to all:
 
@@ -104,7 +104,7 @@ where:
 
 >[!MORELIKETHIS]
 >
->* [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
+>* [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md){target="_blank"}
 >* [Manage ad network accounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md)
 >* [Baidu campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md)
 >* [Google Ads campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
