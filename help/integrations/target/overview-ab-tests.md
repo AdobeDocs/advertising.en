@@ -79,7 +79,7 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
 
    1. Go to **Audience Manager** > **Audience Data** > **Signals**, and then select the **Search** tab in the top left.
 
-   1. Enter the **Key** and **Value** for the signal that determines at what level the segment users are grouped. Use a [supported key](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html?lang=en) with a value that corresponds to a macro that you added to the Audience Manager impression event pixel. 
+   1. Enter the **Key** and **Value** for the signal that determines at what level the segment users are grouped. Use a [supported key](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html) with a value that corresponds to a macro that you added to the Audience Manager impression event pixel. 
 
       For example, to group users for a particular placement, use the `d_placement` key. For the value, use an actual numeric placement ID (such as 2501853 in the screen shot above) that's captured by the DSP macro `${TM_PLACEMENT_ID_NUM}`. <!-- Explain where to find the placement ID, other than in a custom report. -->
 

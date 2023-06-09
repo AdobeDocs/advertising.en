@@ -26,7 +26,7 @@ Each new [!DNL Google] audience has the same name as the original [!DNL Adobe] a
    
    1. (To create user ID remarketing list audiences) An [!DNL Adobe] admin user or account manager must select the advertiser-level setting to enable customer match audiences. The settings differ between advertisers with Audience Manager and advertisers with [!DNL Analytics] only.
 
-   1. Implement the [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en) version 2.0 or higher.
+   1. Implement the [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) version 2.0 or higher.
 
    1. Deploy the following tag as high as possible on the advertiser's webpages from which the audience should be tracked
 

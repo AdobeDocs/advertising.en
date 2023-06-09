@@ -28,7 +28,7 @@ Primary benefits:
 
 >[!TIP]
 >
-> Watch a [video introduction to [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/intro-a4adc.html?lang=en#analytics).
+> Watch a [video introduction to [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/intro-a4adc.html#analytics).
 
 ## Using Analytics for Paid Media Reporting
 
