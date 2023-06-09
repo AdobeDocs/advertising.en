@@ -148,7 +148,6 @@ You can activate any paused data feed template or pause any active data feed tem
 >[!MORELIKETHIS]
 >
 >* [About automating ad management using inventory feeds](../inventory-feeds-about.md)
->* [Workflow for managing campaign data using inventory feeds](../inventory-feeds-workflow.md)
 >* [Text ad and responsive search ad template settings](template-text-rsa.md)
 >* [[!DNL Google Ads] shopping ad template settings](template-google-shopping.md)
 >* [[!DNL Microsoft® Advertising] shopping ad template settings](template-microsoft-shopping.md)
