@@ -5,7 +5,7 @@ feature: DSP Campaigns
 ---
 # Pause or Activate a Campaign
 
-Pause a live campaign or activate a paused campaign when it’s within the configured flight schedule. 
+Pause a live campaign or activate a paused campaign when it's within the configured flight schedule. 
 
 All placements paused prior to pausing a campaign will remain paused upon campaign activation. 
 
