@@ -5,7 +5,7 @@ feature: DSP Packages
 ---
 # Pause or Activate a Package
 
-Pause a live package or activate a paused package when it’s within the configured flight schedule. 
+Pause a live package or activate a paused package when it's within the configured flight schedule. 
 
 All placements paused within a package prior to pausing the package itself remain paused when the package is activated. 
 
