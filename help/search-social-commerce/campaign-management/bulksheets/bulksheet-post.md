@@ -1,6 +1,7 @@
 ---
 title: Post bulksheets or corrected error files
-description: Learn how to post bulksheet files to your ad networks. 
+description: Learn how to post bulksheet files to your ad networks.
+exl-id: 8d530c30-3080-45cd-aead-7583b0824111
 ---
 # Post bulksheets or corrected error files
 

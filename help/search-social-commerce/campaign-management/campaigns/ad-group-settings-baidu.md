@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Baidu] ad group settings"
+title: '[!DNL Baidu] ad group settings'
 description: Reference the settings for [!DNL Baidu] ad groups.
+exl-id: 940c5d62-8646-4686-ad34-1fbabe69e1b3
 ---
 # [!DNL Baidu] ad group settings
 

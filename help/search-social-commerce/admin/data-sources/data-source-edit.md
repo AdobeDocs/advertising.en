@@ -1,6 +1,7 @@
 ---
 title: Edit a [!DNL Google Analytics] data source
-description: Learn how to edit the configuration for a [!DNL Google Analytics] data source. 
+description: Learn how to edit the configuration for a [!DNL Google Analytics] data source.
+exl-id: a23444f7-8f4c-42ba-b5fe-a325fb18136d
 ---
 # Edit a [!DNL Google Analytics] data source
 

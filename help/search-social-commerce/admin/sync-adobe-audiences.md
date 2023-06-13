@@ -1,6 +1,7 @@
 ---
 title: Sync [!DNL Adobe] audiences
-description: Learn how to sync metadata, hierarchy data, and unique audience data for your [!DNL Adobe] audiences. 
+description: Learn how to sync metadata, hierarchy data, and unique audience data for your [!DNL Adobe] audiences.
+exl-id: 7d4a3c66-5013-412f-8937-d64c336751e3
 ---
 # Sync [!DNL Adobe] audiences
 

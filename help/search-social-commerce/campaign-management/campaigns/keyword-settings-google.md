@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Google Ads] keyword settings"
+title: '[!DNL Google Ads] keyword settings'
 description: Reference the settings for [!DNL Google Ads] keywords.
+exl-id: 8834e852-214b-4b2c-9a95-4b1c802e800d
 ---
 # [!DNL Google Ads] keyword settings
 

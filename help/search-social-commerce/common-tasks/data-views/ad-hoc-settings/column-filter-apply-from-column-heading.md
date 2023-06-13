@@ -1,6 +1,7 @@
 ---
 title: Apply data filters from a column heading menu
 description: Learn how to filter the page data from the from a column heading menu.
+exl-id: ad745599-fd98-4f34-b181-085070adb685
 ---
 # Apply a data filter from a column heading menu
 

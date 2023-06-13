@@ -1,6 +1,7 @@
 ---
 title: About model accuracy reports
 description: Learn about reports that indicate the accuracy of the cost and revenue models that are used to optimize bids.
+exl-id: 8aeb2308-8775-4a6d-9d25-ba5378490344
 ---
 # About model accuracy reports
 

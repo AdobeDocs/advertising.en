@@ -1,6 +1,7 @@
 ---
 title: FAQs about reports
 description: Learn answers to common questions about performance reports, including troubleshooting data issues.
+exl-id: 85707666-7c0f-4aa3-8c91-fb73ef6a5061
 ---
 # FAQs about reports
 

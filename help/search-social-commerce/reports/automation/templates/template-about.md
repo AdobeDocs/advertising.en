@@ -1,6 +1,7 @@
 ---
 title: About report templates
 description: Learn about reusable report templates.
+exl-id: 15f05c8c-7dcf-4965-9ded-155d79346634
 ---
 # About report templates
 

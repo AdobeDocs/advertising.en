@@ -1,6 +1,7 @@
 ---
-title: "[!UICONTROL Search Engine Account Report]"
+title: '[!UICONTROL Search Engine Account Report]'
 description: Learn about the [!UICONTROL Search Engine Account Report].
+exl-id: 33866770-4ad4-40fa-9db4-3c686e33b1d4
 ---
 # [!UICONTROL Search Engine Account Report]
 

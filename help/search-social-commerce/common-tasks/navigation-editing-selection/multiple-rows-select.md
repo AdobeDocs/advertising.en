@@ -1,6 +1,7 @@
 ---
 title: Select multiple rows
 description: Learn how to select multiple rows so you can perform the same action on all of them.
+exl-id: 297877bf-2174-4dbf-8b1f-a2a45d7531fd
 ---
 # Select multiple rows
 

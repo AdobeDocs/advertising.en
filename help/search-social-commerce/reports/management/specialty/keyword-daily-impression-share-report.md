@@ -1,6 +1,7 @@
 ---
-title: "[!UICONTROL Keyword Daily Impression Share Report]"
+title: '[!UICONTROL Keyword Daily Impression Share Report]'
 description: Learn about the [!UICONTROL Keyword Daily Impression Share Report].
+exl-id: 177f7c9e-407f-4200-90a6-57b2fd569cf4
 ---
 # [!UICONTROL Keyword Daily Impression Share Report]
 

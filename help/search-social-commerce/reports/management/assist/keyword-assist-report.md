@@ -1,6 +1,7 @@
 ---
-title: "[!UICONTROL Keyword Assist Report]"
+title: '[!UICONTROL Keyword Assist Report]'
 description: Learn about the [!UICONTROL Keyword Assist Report].
+exl-id: 07de2880-111b-498f-9f7f-ec15f89230ae
 ---
 # The [!UICONTROL Keyword Assist Report]
 

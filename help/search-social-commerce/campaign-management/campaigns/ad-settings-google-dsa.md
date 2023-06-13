@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Google Ads] expanded dynamic search ad settings"
+title: '[!DNL Google Ads] expanded dynamic search ad settings'
 description: Reference the settings for [!DNL Google Ads] expanded dynamic search ads.
+exl-id: e7b3a4c2-1cdb-45d7-bf87-ca26947dd1a4
 ---
 # [!DNL Google Ads] expanded dynamic search ad settings
 

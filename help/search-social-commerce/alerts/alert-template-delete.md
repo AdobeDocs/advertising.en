@@ -1,6 +1,7 @@
 ---
 title: Delete a custom alert template
-description: Learn how to delete your alert templates. 
+description: Learn how to delete your alert templates.
+exl-id: 7044ee80-ad90-4fad-8443-300f5ff0cee7
 ---
 # Delete a custom alert template
 

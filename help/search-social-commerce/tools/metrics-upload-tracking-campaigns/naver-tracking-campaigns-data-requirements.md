@@ -1,6 +1,7 @@
 ---
 title: Data requirements for traffic and conversion metrics for [!DNL Naver] tracking-only accounts
 description: Reference the data upload requirements for [!DNL Naver] tracking-only accounts.
+exl-id: 6f79730b-f8d6-4a7f-9d31-f42fe63e6b5d
 ---
 # Metric data requirements for [!DNL Naver] tracking-only accounts
 

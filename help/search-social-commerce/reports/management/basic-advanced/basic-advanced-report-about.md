@@ -1,6 +1,7 @@
 ---
 title: About basic reports and advanced reports
 description: Learn about customizable basic and advanced reports.
+exl-id: 6224ee6d-72db-4524-9660-7fc0d57b5347
 ---
 # About basic reports and advanced reports
 

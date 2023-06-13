@@ -1,6 +1,7 @@
 ---
 title: View data generated from feeds
 description: Learn how to view data generated from inventory data feeds.
+exl-id: 961155ac-a9d3-42e4-904b-b968e9f3383b
 ---
 # View data generated from feeds
 

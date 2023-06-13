@@ -1,6 +1,7 @@
 ---
 title: About spreadsheet report feeds
 description: Learn about using getting daily performance data in a custom-formatted spreadsheet format.
+exl-id: e497e81f-3936-428c-8910-0c4dffddf060
 ---
 # About spreadsheet report feeds
 

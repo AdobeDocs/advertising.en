@@ -1,6 +1,7 @@
 ---
 title: Delete spreadsheet report feeds
 description: Learn how to delete spreadsheet feeds.
+exl-id: fbe8a578-8bcb-4755-96d0-e82aab313e5e
 ---
 # Delete spreadsheet report feeds
 

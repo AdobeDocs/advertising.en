@@ -1,6 +1,7 @@
 ---
 title: Delete an [!DNL Advertising Insight]
-description: Learn how to delete an [!DNL Advertising Insight]. 
+description: Learn how to delete an [!DNL Advertising Insight].
+exl-id: c7c619c0-f6d7-4764-8f08-7d19c5b39772
 ---
 # Delete an [!DNL Advertising Insight]
 

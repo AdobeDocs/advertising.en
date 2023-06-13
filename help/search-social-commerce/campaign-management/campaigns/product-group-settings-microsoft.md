@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Microsoft® Advertising] product group settings"
+title: '[!DNL Microsoft® Advertising] product group settings'
 description: Reference the settings for [!DNL Microsoft® Advertising] shopping product groups.
+exl-id: a34511ef-f5bc-4d93-a56e-90348f670ad6
 ---
 # [!DNL Microsoft® Advertising] product group settings
 

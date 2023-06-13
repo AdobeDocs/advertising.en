@@ -1,6 +1,7 @@
 ---
 title: About audiences
 description: Learn about options to track, create, and manage [!DNL Google Ads] and [!DNL Microsoft® Advertising] audiences.
+exl-id: 34169650-9820-4b7d-9ae6-09ff8a8c6f2e
 ---
 # About managing [!DNL Google Ads] and [!DNL Microsoft® Advertising] audiences in Search, Social, & Commerce
 

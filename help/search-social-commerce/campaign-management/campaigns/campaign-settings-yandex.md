@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Yandex] campaign settings"
+title: '[!DNL Yandex] campaign settings'
 description: Reference the settings for [!DNL Yandex] campaigns.
+exl-id: 33e73b90-7a37-4be7-b96d-02ef8bfdb79e
 ---
 # [!DNL Yandex] campaign settings
 

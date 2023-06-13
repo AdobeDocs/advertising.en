@@ -1,6 +1,7 @@
 ---
 title: Show and hide a trend chart
 description: Learn how to view and hide a trend chart for the data in some campaign management views.
+exl-id: 9360e0c1-a326-4b1f-8c80-a4a5049ff024
 ---
 # Show and hide a trend chart
 
@@ -24,4 +25,4 @@ By default, the chart shows the number of clicks versus cost during the selected
 
 >[!NOTE]
 >
->Your changes aren't saved. You will revert to viewing data for cost versus clicks the next time you open the chart. 
+>Your changes aren't saved. You will revert to viewing data for cost versus clicks the next time you open the chart.

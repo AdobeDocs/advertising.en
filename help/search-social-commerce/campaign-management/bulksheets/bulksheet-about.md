@@ -1,6 +1,7 @@
 ---
 title: About managing campaign data using bulksheets
-description: Learn about bulksheet functionality available by ad network, the bulksheet workflow, and error handling. 
+description: Learn about bulksheet functionality available by ad network, the bulksheet workflow, and error handling.
+exl-id: 207cc08b-8650-4243-b9fd-1c920b81c1f9
 ---
 # About managing campaign data using bulksheets
 

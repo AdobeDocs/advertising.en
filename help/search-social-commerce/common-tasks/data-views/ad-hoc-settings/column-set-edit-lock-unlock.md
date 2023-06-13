@@ -1,6 +1,7 @@
 ---
 title: Lock and unlock a column configuration
 description: Learn how to lock and unlock a column configuration in campaign views.
+exl-id: e2a72a99-8122-451c-8818-30f817696256
 ---
 # Lock and unlock a column configuration in campaign views
 

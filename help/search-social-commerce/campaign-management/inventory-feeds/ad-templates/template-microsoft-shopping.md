@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Microsoft® Ads] shopping ad template settings for inventory feeds"
+title: '[!DNL Microsoft® Ads] shopping ad template settings for inventory feeds'
 description: Reference the settings for [!DNL Microsoft® Ads] shopping ad templates for inventory feeds.
+exl-id: 64d0092a-bd63-48f4-8e15-f5585f7a022a
 ---
 # [!DNL Microsoft® Ads] shopping ad template settings for inventory feeds
 

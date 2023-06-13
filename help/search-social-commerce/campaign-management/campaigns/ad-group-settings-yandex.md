@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Yandex] ad group settings"
+title: '[!DNL Yandex] ad group settings'
 description: Reference the settings for [!DNL Yandex] ad groups.
+exl-id: 8b313502-4101-46a0-a0c9-692eb754cc3d
 ---
 # [!DNL Yandex] ad group settings
 

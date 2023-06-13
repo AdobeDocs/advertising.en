@@ -1,6 +1,7 @@
 ---
 title: Manage merchant accounts
 description: Learn how to set up and manage account details for a merchant center account.
+exl-id: eca58f55-f056-46b3-b192-2849690e8bcc
 ---
 # Manage merchant accounts
 

@@ -1,6 +1,7 @@
 ---
 title: Pause syncing of a data source
-description: Learn how to pause a data source to stop synchronization. 
+description: Learn how to pause a data source to stop synchronization.
+exl-id: 5495ea13-8700-4e8a-9325-062c9ed8f4f4
 ---
 # Pause syncing of a data source
 

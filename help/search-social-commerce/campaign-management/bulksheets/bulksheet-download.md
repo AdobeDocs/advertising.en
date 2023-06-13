@@ -1,6 +1,7 @@
 ---
 title: Download/Create a bulksheet file
 description: Learn how to create bulksheet files by downloading account data for your ad networks.
+exl-id: 42558276-b930-49de-90a0-445433ee66b9
 ---
 # Download/Create a bulksheet file
 

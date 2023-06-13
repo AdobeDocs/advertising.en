@@ -1,6 +1,7 @@
 ---
 title: Remove campaigns from a portfolio
 description: Learn how to remove campaigns from a portfolio.
+exl-id: f86ebc10-650c-42ef-b3df-cd707a863c70
 ---
 # Remove campaigns from a portfolio
 

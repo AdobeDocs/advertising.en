@@ -1,6 +1,7 @@
 ---
 title: Enable additional inventory synchronization
 description: Learn how to synchronize [!DNL YouTube] campaigns and [!DNL Google Ads] and [!DNL Microsoft® Advertising] smart shopping campaigns.
+exl-id: 217c4677-828c-43ee-afeb-e100780c5494
 ---
 # Enable additional inventory synchronization
 

@@ -1,6 +1,7 @@
 ---
 title: How the user interface is organized
 description: Learn where to access different functionality.
+exl-id: a1574502-70a4-4705-8ae6-0de590e1342b
 ---
 # How the user interface is organized
 

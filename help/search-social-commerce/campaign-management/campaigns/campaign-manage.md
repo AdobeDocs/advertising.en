@@ -1,6 +1,7 @@
 ---
 title: Manage campaigns
 description: Learn how to create and manage ad campaigns.
+exl-id: 9406e4bd-d5a2-4744-ab71-fc52428e3af6
 ---
 # Manage campaigns
 

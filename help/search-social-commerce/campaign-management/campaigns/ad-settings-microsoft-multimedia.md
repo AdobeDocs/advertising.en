@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Microsoft® Advertising] multimedia ad settings"
+title: '[!DNL Microsoft® Advertising] multimedia ad settings'
 description: Reference the settings for [!DNL Microsoft® Advertising] multimedia ads.
+exl-id: b7ce413c-ee7a-420a-8791-e2666cc33eba
 ---
 # [!DNL Microsoft® Advertising] multimedia ad settings
 

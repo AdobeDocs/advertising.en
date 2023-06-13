@@ -1,6 +1,7 @@
 ---
 title: Filter data by date range
 description: Learn how to use the global date range filter.
+exl-id: e67e843a-1a73-4ab1-9ef7-c97afeb999f6
 ---
 # Filter data by date range
 

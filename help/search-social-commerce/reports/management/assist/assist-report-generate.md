@@ -1,6 +1,7 @@
 ---
 title: Generate an assist report
 description: Learn how to generate assist reports.
+exl-id: 8f91f837-71a8-451e-8c72-dfd21956a402
 ---
 # Generate an assist report
 

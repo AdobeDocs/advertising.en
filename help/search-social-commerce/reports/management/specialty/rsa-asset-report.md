@@ -1,6 +1,7 @@
 ---
-title: "[!UICONTROL RSA Asset Report]"
+title: '[!UICONTROL RSA Asset Report]'
 description: Learn about the [!UICONTROL RSA Asset Report].
+exl-id: 76a7c698-5d05-4b48-bd50-5d126c0c4386
 ---
 # [!UICONTROL RSA Asset Report]
 

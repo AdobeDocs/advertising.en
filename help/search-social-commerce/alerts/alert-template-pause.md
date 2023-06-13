@@ -1,6 +1,7 @@
 ---
 title: Pause a custom alert template
-description: Learn how to pause an active alert template. 
+description: Learn how to pause an active alert template.
+exl-id: a588ac21-7f77-4254-a773-a6f68c9f1090
 ---
 # Pause a custom alert template
 

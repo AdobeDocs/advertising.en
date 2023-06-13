@@ -1,6 +1,7 @@
 ---
 title: Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft® Advertising]
 description: Learn how to export your synced campaigns in a [!DNL Google Ads] account directly into a synced [!DNL Microsoft® Advertising] account.
+exl-id: 1bb0d915-bf33-4c50-88a5-268d4de5ccff
 ---
 # Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft® Advertising]
 

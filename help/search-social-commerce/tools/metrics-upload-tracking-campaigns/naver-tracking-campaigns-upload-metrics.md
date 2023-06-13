@@ -1,6 +1,7 @@
 ---
 title: Upload traffic and conversion metrics for [!DNL Naver] tracking-only accounts
 description: Learn how to upload traffic and conversion metrics for tracking and reporting only for [!DNL Naver] accounts.
+exl-id: cfc8178c-0be0-445d-a387-abe826e1ca8a
 ---
 # Upload traffic and conversion metrics for [!DNL Naver] tracking-only accounts
 

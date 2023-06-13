@@ -1,6 +1,7 @@
 ---
 title: Change the transaction properties available in management views and reports
 description: Learn how to make transaction properties available in your management views and reports.
+exl-id: a8f3a2d6-4203-42db-96cd-faf02d20d247
 ---
 # Change the transaction properties available in management views and reports
 

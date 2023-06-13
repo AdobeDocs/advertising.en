@@ -1,6 +1,7 @@
 ---
 title: Get help
 description: Learn how to view online help and community resources and how to get technical support.
+exl-id: 956117ea-9e3e-4ee0-b6cf-67ee5f2bc77a
 ---
 # Get help
 

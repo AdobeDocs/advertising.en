@@ -1,6 +1,7 @@
 ---
 title: Edit column filters
 description: Learn how to edit column filters.
+exl-id: 6e42e006-089b-44b9-b9b1-66835b680413
 ---
 # Edit column filters
 

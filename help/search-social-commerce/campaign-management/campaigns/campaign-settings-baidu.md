@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Baidu] campaign settings"
+title: '[!DNL Baidu] campaign settings'
 description: Reference the settings for [!DNL Baidu] campaigns.
+exl-id: 842df637-e7dc-4493-bcdb-a29b478cd350
 ---
 # [!DNL Baidu] campaign settings
 

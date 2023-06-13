@@ -1,6 +1,7 @@
 ---
 title: Export data for custom alerts
-description: Learn how to export data for a triggered alert to a file. 
+description: Learn how to export data for a triggered alert to a file.
+exl-id: c6c3d977-8ee8-4393-a6c7-8f7b9ca5c913
 ---
 # Export data for custom alerts
 

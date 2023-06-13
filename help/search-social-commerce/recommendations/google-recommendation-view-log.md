@@ -1,6 +1,7 @@
 ---
 title: View the recommendations log for a [!DNL Google Ads] account
-description: Learn how to view a log of each recommendation that was applied for a [!DNL Google Ads] account. 
+description: Learn how to view a log of each recommendation that was applied for a [!DNL Google Ads] account.
+exl-id: 97db1e9e-6cd8-406f-8fd5-fbb85315fdf6
 ---
 # View the recommendations log for a [!DNL Google Ads] account
 

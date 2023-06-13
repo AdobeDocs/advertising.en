@@ -1,6 +1,7 @@
 ---
 title: Options for managing ad network campaigns
 description: Learn about the different ways to manage data for your ad network campaigns.
+exl-id: 1e721870-b6ee-4054-ab3b-1b3be778d5b8
 ---
 # Options for managing ad network campaigns
 

@@ -1,6 +1,7 @@
 ---
 title: About [!DNL Google Ads] callout extensions
 description: Learn about [!DNL Google Ads] callout extensions in Search, Social, & Commerce.
+exl-id: 3d0d864b-35ea-48aa-a812-bba96359eb29
 ---
 # About [!DNL Google Ads] callout extensions
 

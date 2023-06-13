@@ -1,6 +1,7 @@
 ---
 title: View or save a spreadsheet report feed file
-description: Learn how to view a spreadsheet feed and save it to a file. 
+description: Learn how to view a spreadsheet feed and save it to a file.
+exl-id: 3f8af6fb-6652-4434-bd88-ef1a0e10efd1
 ---
 # View or save a spreadsheet report feed file
 
@@ -21,4 +22,3 @@ You can view any generated spreadsheet feed or save it to a file. Spreadsheet fe
 >* [Spreadsheet report feed settings](spreadsheet-feed-settings.md)
 >* [Manually refresh spreadsheet report feeds](spreadsheet-feed-refresh.md)
 >* [Delete spreadsheet report feeds](spreadsheet-feed-delete.md)
-

@@ -1,6 +1,7 @@
 ---
 title: Basic and advanced report settings
 description: Learn about the required and optional settings for basic and advanced reports.
+exl-id: 70453b24-f638-45d0-9d1e-e942a78a98d8
 ---
 # Basic and advanced report settings
 

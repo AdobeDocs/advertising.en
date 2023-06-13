@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Microsoft® Advertising] responsive ad settings"
+title: '[!DNL Microsoft® Advertising] responsive ad settings'
 description: Reference the settings for [!DNL Microsoft® Advertising] responsive ads.
+exl-id: bbe06bdb-c765-4d30-a609-03f476c4ee54
 ---
 # [!DNL Microsoft® Advertising] responsive (audience) ad settings
 

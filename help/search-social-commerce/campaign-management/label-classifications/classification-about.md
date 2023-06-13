@@ -1,6 +1,7 @@
 ---
 title: About label classifications
 description: Learn about using label classifications to group your account components.
+exl-id: a4777e7a-50c7-4521-a849-fb4661d94602
 ---
 # About label classifications
 

@@ -1,6 +1,7 @@
 ---
 title: Click-tracking formats for [!DNL Google Ads]
-description: Learn about the click-tracking formats for [!DNL Google Ads] accounts. 
+description: Learn about the click-tracking formats for [!DNL Google Ads] accounts.
+exl-id: 68f6da43-3430-4c0a-9369-937fa52c071a
 ---
 # Click-tracking formats for [!DNL Google Ads]
 

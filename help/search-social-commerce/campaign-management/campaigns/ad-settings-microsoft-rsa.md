@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Microsoft® Advertising] responsive search ad settings"
+title: '[!DNL Microsoft® Advertising] responsive search ad settings'
 description: Reference the settings for [!DNL Microsoft® Advertising] responsive search ads.
+exl-id: 4ee3c81a-38f4-448d-aea5-c062ab0a6f2a
 ---
 # [!DNL Microsoft® Advertising] responsive search ad settings
 

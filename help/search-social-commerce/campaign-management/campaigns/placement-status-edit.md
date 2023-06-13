@@ -1,6 +1,7 @@
 ---
 title: Change the status of placements and negative placements
 description: Learn how to change the status of placements and negative placements for [!DNL Google Ads].
+exl-id: 7f025ba2-e71f-40bf-9057-f7d7abbea5da
 ---
 # Change the status of [!DNL Google Ads] placements and negative placements
 

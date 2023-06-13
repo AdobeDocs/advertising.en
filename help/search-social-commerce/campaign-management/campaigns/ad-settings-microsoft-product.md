@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Microsoft® Advertising] product ad settings"
+title: '[!DNL Microsoft® Advertising] product ad settings'
 description: Reference the settings for [!DNL Microsoft® Advertising] product ads.
+exl-id: 6a2d0549-d8fc-4ec8-bdec-7e49a43aeb7b
 ---
 # [!DNL Microsoft® Advertising] product ad settings
 

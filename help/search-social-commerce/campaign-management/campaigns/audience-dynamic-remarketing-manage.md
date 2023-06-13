@@ -1,6 +1,7 @@
 ---
 title: Manage [!DNL Microsoft Advertising] dynamic remarketing audiences
 description: Learn how to create and manage [!DNL Microsoft Advertising] dynamic remarketing audiences.
+exl-id: 6f0cb6a0-36cc-4a07-82a8-247191b6c4f5
 ---
 # Manage [!DNL Microsoft Advertising] dynamic remarketing audiences
 

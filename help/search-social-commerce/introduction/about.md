@@ -1,6 +1,7 @@
 ---
 title: About Adobe Advertising Search, Social, & Commerce
-description: Learn about Search, Social, & Commerce. 
+description: Learn about Search, Social, & Commerce.
+exl-id: 0cfd82f7-26b6-4e61-b9a5-718f4eda83c1
 ---
 # About Adobe Advertising Search, Social, & Commerce
 

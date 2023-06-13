@@ -1,6 +1,7 @@
 ---
 title: Activate a custom alert template
-description: Learn how to activate a paused alert template. 
+description: Learn how to activate a paused alert template.
+exl-id: 6cf9ef6b-9f71-462c-b81e-a604d33c4fb7
 ---
 # Activate a custom alert template
 

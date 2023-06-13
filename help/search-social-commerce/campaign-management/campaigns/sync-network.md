@@ -1,6 +1,7 @@
 ---
 title: Manually synchronize ad network data
-description: Learn how to manually trigger synchronization of your campaign structure and campaign entities for supported ad networks. 
+description: Learn how to manually trigger synchronization of your campaign structure and campaign entities for supported ad networks.
+exl-id: da437f37-800a-4c56-b5c1-7c985ddd45c8
 ---
 # Manually synchronize ad network data
 

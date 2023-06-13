@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Google Ads] product group settings"
+title: '[!DNL Google Ads] product group settings'
 description: Reference the settings for [!DNL Google Ads] shopping product groups.
+exl-id: 3bf33d78-0ad5-43c7-970a-2f2d2e591802
 ---
 # [!DNL Google Ads] product group settings
 

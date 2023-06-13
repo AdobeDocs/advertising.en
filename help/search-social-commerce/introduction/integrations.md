@@ -1,6 +1,7 @@
 ---
 title: Integration with Adobe Experience Cloud solutions and services
-description: Learn about Search, Social, & Commerce integrations with Adobe Experience Cloud solutions and services. 
+description: Learn about Search, Social, & Commerce integrations with Adobe Experience Cloud solutions and services.
+exl-id: e8b521f5-f426-4c50-9df4-361a047c9ff0
 ---
 # Integration with Adobe Experience Cloud solutions and services
 
@@ -31,4 +32,3 @@ Advertising Search, Social, & Commerce is integrated with the following [!DNL Ad
 * Adobe Campaign &mdash; You can [create and update a [!DNL Google Ads] customer match audience using an email list within [!DNL Campaign]](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-campaign-email-list.md).
 
 * Adobe Experience Cloud Notifications &mdash; (When you're logged in through Adobe Experience Cloud) From the notifications link ([Alert Notifications](/help/search-social-commerce/assets/notifications-panel.png "Alert Notifications")) at the top of each page, you can view all Adobe Experience Cloud system updates, posts, mentions, and assets shared. Contact your Adobe Account Team for information about access to Adobe Experience Cloud.
- 

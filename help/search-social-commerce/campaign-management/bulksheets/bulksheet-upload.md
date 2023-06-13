@@ -1,6 +1,7 @@
 ---
 title: Upload a bulksheet or corrected error file
-description: Learn how to manually upload a bulksheet file or corrected landing page validation error file. 
+description: Learn how to manually upload a bulksheet file or corrected landing page validation error file.
+exl-id: 34843245-6c55-489c-8e04-f8bae4046ae4
 ---
 # Upload a bulksheet or corrected error file
 

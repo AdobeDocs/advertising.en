@@ -1,6 +1,7 @@
 ---
 title: Data requirements for data feeds using a transaction ID
-description: Reference the data requirements for data feeds using a transaction ID. 
+description: Reference the data requirements for data feeds using a transaction ID.
+exl-id: 67e1cadd-b607-465c-9db6-ca76d8ca84c5
 ---
 # Data requirements for data feeds using a transaction ID
 

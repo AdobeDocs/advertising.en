@@ -1,6 +1,7 @@
 ---
 title: Manage ads
 description: Learn how to create and manage ads.
+exl-id: 9108bbfd-61e7-49fa-90ba-4eb276eb0897
 ---
 # Manage ads
 

@@ -1,6 +1,7 @@
 ---
 title: About custom metrics
-description: Learn about custom metrics, which are calculated from standard metrics. 
+description: Learn about custom metrics, which are calculated from standard metrics.
+exl-id: 6a2df48f-4d6b-4afe-88c0-c52a6de53e33
 ---
 # About custom metrics
 

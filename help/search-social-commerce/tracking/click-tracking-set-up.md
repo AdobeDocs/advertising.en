@@ -1,6 +1,7 @@
 ---
 title: Set up cookie-based click tracking
 description: Learn how to set up and validate click-tracking tags.
+exl-id: 340aec08-a1a5-4aa5-b666-9c819c1709d0
 ---
 # Set up cookie-based click tracking
 

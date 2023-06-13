@@ -1,6 +1,7 @@
 ---
 title: Manually refresh spreadsheet report feeds
 description: Learn how to manually refresh the data in spreadsheet feeds.
+exl-id: 2929d6a6-8823-4f2e-94b4-5348d6f7672a
 ---
 # Manually refresh spreadsheet report feeds
 

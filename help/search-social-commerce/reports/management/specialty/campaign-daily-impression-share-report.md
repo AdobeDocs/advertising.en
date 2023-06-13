@@ -1,6 +1,7 @@
 ---
-title: "[!UICONTROL Campaign Daily Impression Share Report]"
+title: '[!UICONTROL Campaign Daily Impression Share Report]'
 description: Learn about the [!UICONTROL Campaign Daily Impression Share Report].
+exl-id: 85243fd0-0c39-4e73-b798-48710f887985
 ---
 # [!UICONTROL Campaign Daily Impression Share Report]
 

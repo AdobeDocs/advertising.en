@@ -1,6 +1,7 @@
 ---
 title: About ad network accounts
 description: Learn about ad network accounts in Search, Social, & Commerce.
+exl-id: fca469f1-502c-415a-897d-03b6e6ba34e8
 ---
 # About ad network accounts
 

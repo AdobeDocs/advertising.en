@@ -1,6 +1,7 @@
 ---
 title: Manage [!DNL Google Ads] dynamic search targets
 description: Learn how to create and manage [!DNL Google Ads] dynamic search targets.
+exl-id: 85b1455a-dda1-4bb9-b4be-d6e0a837fd9d
 ---
 # Manage [!DNL Google Ads] dynamic search targets
 

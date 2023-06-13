@@ -1,6 +1,7 @@
 ---
-title: "[!UICONTROL Transaction Report]"
+title: '[!UICONTROL Transaction Report]'
 description: Learn about the [!UICONTROL Transaction Report].
+exl-id: 879c6dc0-6667-4e63-8403-bc2f2ee5ba3c
 ---
 # [!UICONTROL Transaction Report]
 

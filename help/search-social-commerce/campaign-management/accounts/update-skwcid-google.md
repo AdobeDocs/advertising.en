@@ -1,6 +1,7 @@
 ---
-title: "Update the s\_kwcid tracking code for a [!DNL Google Ads] account"
+title: Update the s kwcid tracking code for a [!DNL Google Ads] account
 description: Learn how to switch to the latest s\_kwcid tracking code for a [!DNL Google Ads] account.
+exl-id: 82168ee6-43bb-4b8d-882d-5254a1abcb09
 ---
 # Update the s\_kwcid tracking code for a [!DNL Google Ads] account
 

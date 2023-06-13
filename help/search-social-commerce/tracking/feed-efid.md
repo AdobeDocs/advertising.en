@@ -1,6 +1,7 @@
 ---
 title: Conversion tracking using an EF ID feed
-description: Learn about using an EF ID feed for conversion tracking data. 
+description: Learn about using an EF ID feed for conversion tracking data.
+exl-id: db722a54-a9bf-4a31-a285-a82e6d79c34a
 ---
 # Conversion tracking using an EF ID feed
 
@@ -34,5 +35,3 @@ In this method, Advertising Cloud collects an `ef_id` value each time a user cli
 >
 >* [File requirements for conversion feed files](feed-file-requirements.md)
 >* [Data requirements for data feeds using EF IDs](/help/search-social-commerce/tracking/feed-ef-id-data-requirements.md)
- 
-

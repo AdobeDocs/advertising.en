@@ -1,6 +1,7 @@
 ---
 title: Best practices for using publisher recommendations and insights with portfolios
-description: Learn the best practices for using [!DNL Google Ads] recommendations with your Search, Social, & Commerce portfolios. 
+description: Learn the best practices for using [!DNL Google Ads] recommendations with your Search, Social, & Commerce portfolios.
+exl-id: 8362a0e1-9a0d-4287-a1dd-b7ec77985744
 ---
 # Best practices for using publisher recommendations and insights with portfolios
 

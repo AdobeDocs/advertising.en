@@ -1,6 +1,7 @@
 ---
-title: "[!UICONTROL Geo Distribution Report]"
+title: '[!UICONTROL Geo Distribution Report]'
 description: Learn about the [!UICONTROL Geo Distribution Report].
+exl-id: 08369dad-c499-4342-a76a-0708167cd704
 ---
 # [!UICONTROL Geo Distribution Report]
 

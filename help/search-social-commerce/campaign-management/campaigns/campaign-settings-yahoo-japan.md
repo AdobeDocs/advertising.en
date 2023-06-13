@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Yahoo! Japan Ads] campaign settings"
+title: '[!DNL Yahoo! Japan Ads] campaign settings'
 description: Reference the settings for [!DNL Yahoo! Japan Ads] campaigns.
+exl-id: f728a880-27d8-478a-8480-a00b0fcab293
 ---
 # [!DNL Yahoo! Japan Ads] campaign settings
 

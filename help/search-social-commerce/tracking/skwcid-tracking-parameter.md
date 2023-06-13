@@ -1,6 +1,7 @@
 ---
 title: The s_kwcid tracking parameter
-description: Learn about the tracking parameter used to share Adobe Advertising data with Adobe Analytics. 
+description: Learn about the tracking parameter used to share Adobe Advertising data with Adobe Analytics.
+exl-id: 3f739f1c-3cb7-40d0-86ab-cf66afe6a06f
 ---
 # The s_kwcid tracking parameter
 

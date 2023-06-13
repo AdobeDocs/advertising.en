@@ -1,6 +1,7 @@
 ---
 title: Bulksheet data for [!DNL Yahoo! Display Network] accounts
-description: Reference the header fields and data fields in downloaded bulksheets for [!DNL Yahoo! Display Network] accounts. 
+description: Reference the header fields and data fields in downloaded bulksheets for [!DNL Yahoo! Display Network] accounts.
+exl-id: 233a7e1f-328b-4ff8-9e38-66c3185414b6
 ---
 # Appendix - Bulksheet data for [!DNL Yahoo! Display Network] accounts
 

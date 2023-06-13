@@ -1,6 +1,7 @@
 ---
 title: Delete ad extension associations with campaigns and ad groups
 description: Learn how to disassociate ad extensions with campaigns and ad groups.
+exl-id: 89aa556b-65fa-43de-989a-f58f0bbcf1f2
 ---
 # Delete ad extension associations with campaigns and ad groups
 

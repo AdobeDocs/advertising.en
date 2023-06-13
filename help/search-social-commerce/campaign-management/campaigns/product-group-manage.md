@@ -1,6 +1,7 @@
 ---
 title: Manage shopping product groups
 description: Learn how to create and manage shopping product groups in shopping campaigns.
+exl-id: 25912abd-1ddb-443f-a16d-7efe57093677
 ---
 # Manage shopping product groups
 

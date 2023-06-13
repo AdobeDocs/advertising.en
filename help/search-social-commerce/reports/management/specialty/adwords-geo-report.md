@@ -1,6 +1,7 @@
 ---
-title: "[!UICONTROL AdWords Geo Report]"
+title: '[!UICONTROL AdWords Geo Report]'
 description: Learn about the [!UICONTROL AdWords Geo Report].
+exl-id: 0597fdff-f256-4ca7-b208-1c28c5631b3a
 ---
 # [!UICONTROL AdWords Geo Report]
 

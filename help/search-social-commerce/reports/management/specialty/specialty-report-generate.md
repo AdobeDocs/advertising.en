@@ -1,6 +1,7 @@
 ---
 title: Generate a specialty report
 description: Learn how to generate a specialty report.
+exl-id: 5edf7b11-37ae-4488-962a-7b4f50e7c569
 ---
 # Generate a specialty report
 

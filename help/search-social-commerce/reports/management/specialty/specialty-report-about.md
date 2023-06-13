@@ -1,6 +1,7 @@
 ---
 title: About specialty reports
 description: Learn about specialty reports.
+exl-id: a5232434-cdb5-451f-aa65-6536c97c4a52
 ---
 # About specialty reports
 
@@ -37,4 +38,3 @@ Most specialty reports consist only of data collected by the ad networks. The [!
 >* [Generate a specialty report](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
 >* [Specialty report settings](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
 >* [Report columns for specialty reports](/help/search-social-commerce/reports/management/specialty/specialty-report-columns.md)
-

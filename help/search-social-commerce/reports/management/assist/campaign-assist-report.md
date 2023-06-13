@@ -1,6 +1,7 @@
 ---
-title: "[!UICONTROL Campaign Assist Report]"
+title: '[!UICONTROL Campaign Assist Report]'
 description: Learn about the [!UICONTROL Campaign Assist Report].
+exl-id: 7fbc9c17-c77d-485b-8d51-5e5a153d7a2b
 ---
 # The [!UICONTROL Campaign Assist Report]
 

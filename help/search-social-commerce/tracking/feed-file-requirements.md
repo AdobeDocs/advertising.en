@@ -1,6 +1,7 @@
 ---
 title: File requirements for conversion feed files
-description: Reference the requirements for conversion feed files. 
+description: Reference the requirements for conversion feed files.
+exl-id: 7d865802-0ab9-4965-9618-6bc0667f4939
 ---
 # File requirements for conversion feed files
 

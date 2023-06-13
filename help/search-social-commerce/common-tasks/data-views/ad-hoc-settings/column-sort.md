@@ -1,6 +1,7 @@
 ---
 title: Re-sort a column
 description: Learn how to re-sort columns.
+exl-id: 14f66a19-232d-4f68-b939-c5c512025ec9
 ---
 # Re-sort a column
 

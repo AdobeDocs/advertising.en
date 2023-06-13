@@ -1,6 +1,7 @@
 ---
 title: Custom alert template settings
-description: Learn about the settings for custom alert templates. 
+description: Learn about the settings for custom alert templates.
+exl-id: 5ba98f48-c396-4b20-91dc-d45164097f9c
 ---
 # Custom alert template settings
 

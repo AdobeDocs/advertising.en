@@ -1,6 +1,7 @@
 ---
 title: Propagate inventory feed data through templates
 description: Learn about propagating data from your inventory feeds through ad templates to manage account structure and deliver dynamic ads.
+exl-id: 40de75e8-8440-48f4-9fa7-1aeb2ae392c5
 ---
 # Propagate inventory feed data through templates
 

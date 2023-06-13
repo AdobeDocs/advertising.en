@@ -2,6 +2,7 @@
 title: Pause or Activate a Campaign
 description: Learn how to pause or activate a live campaign.
 feature: DSP Campaigns
+exl-id: e88e7ea9-a045-4d1b-a745-edfe66a864b0
 ---
 # Pause or Activate a Campaign
 

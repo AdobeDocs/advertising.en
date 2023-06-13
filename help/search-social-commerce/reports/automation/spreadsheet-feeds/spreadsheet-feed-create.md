@@ -1,6 +1,7 @@
 ---
 title: Create a spreadsheet report feed
 description: Learn how to set up spreadsheet feeds.
+exl-id: ed793de5-0df1-4fc3-be59-29adec4959f7
 ---
 # Create a spreadsheet report feed
 

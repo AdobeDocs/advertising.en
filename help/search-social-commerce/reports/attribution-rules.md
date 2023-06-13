@@ -1,6 +1,7 @@
 ---
 title: How attribution rules are calculated
 description: Learn how Adobe Advertising calculates each type of attribution rule.
+exl-id: b61561fa-8c01-4989-9ef7-620d2b4c2c0b
 ---
 # How attribution rules are calculated for Adobe Advertising
 

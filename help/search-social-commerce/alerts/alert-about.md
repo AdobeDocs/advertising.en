@@ -1,6 +1,7 @@
 ---
 title: About custom alerts
-description: Learn about custom alerts, including how to create alert templates and when alerts are triggered. 
+description: Learn about custom alerts, including how to create alert templates and when alerts are triggered.
+exl-id: d5264837-797c-4528-afbb-78e3a95a5b59
 ---
 # About custom alerts
 

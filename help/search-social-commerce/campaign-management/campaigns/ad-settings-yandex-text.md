@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Yandex] text ad settings"
+title: '[!DNL Yandex] text ad settings'
 description: Reference the settings for [!DNL Yandex] text ads.
+exl-id: 762eca31-58f7-4a4e-bf6a-1c2132c6529f
 ---
 # [!DNL Yandex] text ad settings
 

@@ -1,6 +1,7 @@
 ---
 title: Configure feed data settings
 description: Learn how to configure the settings that control how feed data is processed.
+exl-id: fc72d1bc-aac7-4280-80c6-4fc53a96a49f
 ---
 # Configure feed data settings
 

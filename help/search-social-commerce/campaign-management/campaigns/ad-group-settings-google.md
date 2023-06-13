@@ -1,6 +1,7 @@
 ---
-title: "[!DNL Google Ads] ad group settings"
+title: '[!DNL Google Ads] ad group settings'
 description: Reference the settings for [!DNL Google Ads] ad groups.
+exl-id: 00aaa936-796f-4e22-9bee-4bb5121cd887
 ---
 # [!DNL Google Ads] ad group settings
 
