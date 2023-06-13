@@ -8,4 +8,4 @@ To insert an ad customizer, use the following formats, where `Default text` is a
 
 * [!DNL Microsoft Advertising]: `{CUSTOMIZER.Attribute name:Default text}, such as {CUSTOMIZER.Discount:10%}`
 
-For example, if Display Path 1 is "deals" and Display Path 2 is "local," then the display URL would be `<display URL>/deals/local`, such as www.example.com/deals/local.
+For example, if [!UICONTROL Display Path 1] is "deals" and [!UICONTROL Display Path 2] is "local," then the display URL would be `<display URL>/deals/local`, such as www.example.com/deals/local.

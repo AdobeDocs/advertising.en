@@ -27,7 +27,7 @@ The dynamic values within AMO IDs indicate the marketing channel that was tracke
 
 The rest of the AMO ID can be ignored.
 
-| AMO ID | Channel | Rule Logic |
+| [!UICONTROL AMO ID] | Channel | Rule Logic |
 |--------|---------|--------------------|
 | AL! (prefix) | [!UICONTROL Paid Search] | Starts With |
 | AC! (prefix) | [!UICONTROL DSP] | Starts With |

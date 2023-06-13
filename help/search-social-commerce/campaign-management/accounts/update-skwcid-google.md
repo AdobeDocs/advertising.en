@@ -42,8 +42,8 @@ All new [!DNL Google Ads] accounts automatically use the new  s\_kwcid format.
 
 1. After you begin the migration, update the Landing Page Suffix settings (called "final URL suffix" in some ad networks) as necessary:
 
-   * When the "Auto Upload" feature is enabled in the tracking settings, Search, Social, & Commerce automatically updates the tracking code in the Landing Page Suffix for this account and its campaigns. You don't have to do anything.
-   * When the "Auto Upload" feature isn't enabled, and you don't use the server-side s-kwcid, then you must manually update the s\_kwcid parameter in the Landing Page Suffix settings. You can change account- and campaign-level suffixes manually in the account and campaign settings or by uploading changes in a bulksheet. To configure a suffix at the ad group level or lower, use the [!DNL Google Ads] editor.
+   * When the [!UICONTROL Auto Upload]" feature is enabled in the tracking settings, Search, Social, & Commerce automatically updates the tracking code in the Landing Page Suffix for this account and its campaigns. You don't have to do anything.
+   * When the [!UICONTROL Auto Upload]" feature isn't enabled, and you don't use the server-side s-kwcid, then you must manually update the s\_kwcid parameter in the Landing Page Suffix settings. You can change account- and campaign-level suffixes manually in the account and campaign settings or by uploading changes in a bulksheet. To configure a suffix at the ad group level or lower, use the [!DNL Google Ads] editor.
    * If you include the s\_kwcid in the Base URL setting for any campaign component, then move it to the relevant Landing Page Suffix setting.
 
 1. (Recommended) Verify the data for this account in Analytics before you migrate additional accounts.

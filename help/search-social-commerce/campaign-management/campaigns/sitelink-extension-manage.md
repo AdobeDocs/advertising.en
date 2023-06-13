@@ -88,9 +88,9 @@ Once you save the record, the base URL includes any append parameters configured
 
 **[!UICONTROL Tracking Template]:** (Optional) The tracking template or tracking URL, which specifies all off-landing domain redirects and tracking parameters and also embeds the final/landing page URL in a parameter. Example: `{lpurl}?source={network}&id=5` or `http://www.trackingservice.example.com/?url={lpurl}?source={network}&id=5` to include a redirect.
 
-* For Adobe Advertising conversion tracking, which is applied when the campaign settings include "EF Redirect" and "Auto Upload," Search, Social, & Commerce automatically prefixes its own click-tracking code when you save the record.
+* For Adobe Advertising conversion tracking, which is applied when the campaign settings include "[!UICONTROL EF Redirect]" and "Auto Upload," Search, Social, & Commerce automatically prefixes its own click-tracking code when you save the record.
 
-* For supported parameters to embed the final URL, see the ([!DNL Microsoft Advertising] only) [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available ValueTrack Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
+* For supported parameters to embed the final URL, see the ([!DNL Microsoft Advertising] only) [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
    
 * You can optionally include URL parameters and any custom parameters defined for the campaign, separated by ampersands (&), such as `{lpurl}?matchtype={matchtype}&device={device}`.
 

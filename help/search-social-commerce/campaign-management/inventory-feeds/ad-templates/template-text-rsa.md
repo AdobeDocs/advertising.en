@@ -62,7 +62,7 @@ When no match is found, all data for the campaign is ignored. If multiple campai
 
 * To embed the final URL:
 
-  * ([!DNL Google Ads] and [!DNL Microsoft® Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft® Advertising] only) [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799/2) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available ValueTrack Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
+  * ([!DNL Google Ads] and [!DNL Microsoft® Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft® Advertising] only) [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799/2) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
   * ([!DNL Yahoo! Japan Ads] only) Use the parameter `!{unescapedurl}` to indicate the landing page URL.
 
@@ -128,13 +128,13 @@ When no match is found, all data for the campaign is ignored. If multiple campai
 
 **[!UICONTROL Ad Group Tracking Template]:** (Accounts with final/advanced URLs only) The ad group-level tracking template, which specifies all off-landing domain redirects and tracking parameters and embeds the final URL in a parameter.
 
-For Adobe Advertising conversion tracking, which is applied when the campaign settings include &quot;EF Redirect&quot; and &quot;Auto Upload,&quot; Search, Social, & Commerce automatically appends redirect and tracking code when you save the record.
+For Adobe Advertising conversion tracking, which is applied when the campaign settings include "[!UICONTROL EF Redirect]" and "[!UICONTROL Auto Upload]," Search, Social, & Commerce automatically appends redirect and tracking code when you save the record.
 
 For third-party redirects and tracking, enter a value. To indicate the landing page URL:
 
 * For Yahoo! Japan Ads accounts, use the parameter {lpurl}.
 
-* For parameters available for Microsoft® Advertising and Google Ads accounts, see the [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available ValueTrack Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
+* For parameters available for Microsoft® Advertising and Google Ads accounts, see the [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
 This value overrides the account- and campaign-level settings, but tracking templates at more granular levels (with keyword as the most granular) override this value.
 
@@ -192,13 +192,13 @@ If you use a [!DNL Google Merchant Center] feed and include this value in the &q
 
 **[!UICONTROL Keyword Tracking Template]:** (Accounts with final/advanced URLs; optional) The tracking template, which specifies all off-landing domain redirects and tracking parameters and embeds the final URL in a parameter. The tracking template at the most granular level (with keyword as the most granular) override values at all other levels.
 
-* For Adobe Advertising conversion tracking, which is applied when the campaign settings include &quot;EF Redirect&quot; and &quot;Auto Upload,&quot; Search, Social, & Commerce automatically appends redirect and tracking code when you save the record.
+* For Adobe Advertising conversion tracking, which is applied when the campaign settings include "[!UICONTROL EF Redirect]" and "[!UICONTROL Auto Upload]," Search, Social, & Commerce automatically appends redirect and tracking code when you save the record.
 
 * You can optionally enter third-party redirects and tracking.
 
 * To indicate the landing page URL:
 
-  * ([!DNL Google Ads] and [!DNL Microsoft® Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft® Advertising] only) [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available ValueTrack Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
+  * ([!DNL Google Ads] and [!DNL Microsoft® Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft® Advertising] only) [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
   
   * ([!DNL Yahoo! Japan Ads] only) Use the parameter `!{lpurl}` to indicate the landing page URL.
 
@@ -331,7 +331,7 @@ For third-party redirects and tracking, enter a value. To indicate the landing p
 
 * For Yahoo! Japan Ads accounts, use the parameter {lpurl}.
 
-* For parameters available for Microsoft® Advertising and Google Ads accounts, see the [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available ValueTrack Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
+* For parameters available for Microsoft® Advertising and Google Ads accounts, see the [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
 **\[Alternate ad fields below the original ad fields\]:** (Optional) An alternate set of ad copy for an ad, which may be used if any of the lines in the original ad copy exceed the maximum length allowed once any dynamic parameters are filled in with data during propagation.
 

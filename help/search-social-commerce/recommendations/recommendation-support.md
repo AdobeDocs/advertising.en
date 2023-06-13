@@ -37,19 +37,19 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | [!UICONTROL Automated campaigns] | [!UICONTROL Upgrade local campaign to performance max] | Upgrade a legacy local campaign to a performance max campaign |
 | | [!UICONTROL Upgrade smart shopping campaign to performance max] | Upgrade a legacy smart shopping campaign to a performance max campaign |
 | [!UICONTROL Bidding and budget] | [!UICONTROL Campaign budget] | Fix campaigns limited by budget |
-| | [!UICONTROL Enhanced CPC opt in] | Bid with Enhanced CPC |
+| | [!UICONTROL Enhanced CPC opt in] | Bid with [!UICONTROL Enhanced CPC] |
 | | [!UICONTROL Forecasting campaign budget] | Fix campaigns that are expected to become limited by budget in the future |
-| | [!UICONTROL Forecasting set Target ROAS] | Raise the budget before a seasonal event that is forecasted to increase traffic, and change the bidding strategy from Maximize Conversion Value to Target ROAS  |
+| | [!UICONTROL Forecasting set Target ROAS] | Raise the budget before a seasonal event that is forecasted to increase traffic, and change the bidding strategy from [!UICONTROL Maximize Conversion Value] to [!UICONTROL Target ROAS]  |
 | | [!UICONTROL Marginal ROI campaign budget] | Adjust campaign budget to increase ROI |
-| | [!UICONTROL Maximize clicks opt in] | Bid with Maximize Clicks |
-| | [!UICONTROL Maximize conversions opt in] | Bid with Maximize Conversions |
+| | [!UICONTROL Maximize clicks opt in] | Bid with [!UICONTROL Maximize Clicks] |
+| | [!UICONTROL Maximize conversions opt in] | Bid with [!UICONTROL Maximize Conversions] |
 | | [!UICONTROL Move unused budget] | Move unused to constrained budgets |
-| | [!UICONTROL Raise Target CPA bid too low] | Raise the Target CPA by a recommended amount when it's too low and there are few or no conversions |
-| | [!UICONTROL Target CPA opt in] | Bid with Target CPA |
-| | [!UICONTROL Target ROAS opt in] | Bid with Target ROAS |
+| | [!UICONTROL Raise Target CPA bid too low] | Raise the [!UICONTROL Target CPA] by a recommended amount when it's too low and there are few or no conversions |
+| | [!UICONTROL Target CPA opt in] | Bid with [!UICONTROL Target CPA] |
+| | [!UICONTROL Target ROAS opt in] | Bid with [!UICONTROL Target ROAS] |
 | [!UICONTROL Keywords and targeting] | [!UICONTROL Display expansion opt in] | Expand reach by updating a campaign to use display expansion |
 | | [!UICONTROL Keyword] | Add new keywords |
-| | [!UICONTROL Search partners opt in] | Expand reach with Google search partners |
+| | [!UICONTROL Search partners opt in] | Expand reach with [!DNL Google] search partners |
 | | [!UICONTROL Use broad match keyword] | Use broad match for conversion-based campaigns with fully automated conversion-based bidding |
 
 >[!MORELIKETHIS]
