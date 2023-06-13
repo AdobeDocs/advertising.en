@@ -21,7 +21,7 @@ Errors in the [!UICONTROL SE Error] column come directly from the ad network.
 
 ## [!UICONTROL EF Error] messages
 
-The following errors may be included in the [!UICONTROL EF Error] column in EF Errors files.
+The following errors may be included in the [!UICONTROL EF Error] column in [!UICONTROL EF Errors] files.
 
 ### Download/Create errors
 
@@ -71,7 +71,7 @@ The following errors may be included in the [!UICONTROL EF Error] column in EF E
 
 ### Post errors
 
-The following errors occur in EF Errors files only. Most posting errors come from the ad network and are included in an SE Errors file.
+The following errors occur in [!UICONTROL EF Errors] files only. Most posting errors come from the ad network and are included in an SE Errors file.
 
 | Category | Message | Description |
 |----|----|----|

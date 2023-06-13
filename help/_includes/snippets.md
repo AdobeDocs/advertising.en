@@ -8,7 +8,7 @@
 
 For Adobe Advertising conversion tracking, which is applied when the campaign settings include "[!UICONTROL EF Redirect]" and "[!UICONTROL Auto Upload]," Search, Social, & Commerce automatically prefixes its own redirect and tracking code when you save the record.
 
-* For supported parameters to embed the final URL, see the [[!DNL Google Ads] documentation for the supported [!DNL ValueTrack] formats](https://support.google.com/google-ads/answer/6305348). (Go to the "Tracking template only" parameters in the section on "Available ValueTrack Parameters.")
+* For supported parameters to embed the final URL, see the [[!DNL Google Ads] documentation for the supported [!DNL ValueTrack] formats](https://support.google.com/google-ads/answer/6305348). (Go to the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters.")
 
 * You can optionally include URL parameters and any custom parameters defined for the campaign, separated by ampersands (&), such as {lpurl}?matchtype={matchtype}&device={device}.
 

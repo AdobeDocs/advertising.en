@@ -74,7 +74,7 @@ For information about when you must manually generate and implement a click-trac
 
 For accounts with destination URLs, enter the values in the appropriate [!UICONTROL Base URL] fields.
 
-For accounts with final URLs, enter the on-screen value in the appropriate [!UICONTROL Tracking Template] field. You must add a parameter for the final URL after the `&url=` parameter (such as `{lpurl}`). For [!DNL Yahoo! Japan Ads] accounts, use the parameter `{lpurl}`. For a list of [!DNL Google Ads] and [!DNL Microsoft® Advertising] parameters to indicate final URLs in tracking templates, see the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348) (see the "Tracking template only" parameters in the section on "Available ValueTrack Parameters") and the [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799/2).
+For accounts with final URLs, enter the on-screen value in the appropriate [!UICONTROL Tracking Template] field. You must add a parameter for the final URL after the `&url=` parameter (such as `{lpurl}`). For [!DNL Yahoo! Japan Ads] accounts, use the parameter `{lpurl}`. For a list of [!DNL Google Ads] and [!DNL Microsoft® Advertising] parameters to indicate final URLs in tracking templates, see the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348) (see the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters") and the [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799/2).
 
 >[!MORELIKETHIS]
 >

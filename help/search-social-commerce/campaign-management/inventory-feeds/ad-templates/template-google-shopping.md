@@ -132,7 +132,7 @@ For third-party redirects and tracking, enter a value.
 {{$include /help/_includes/inventory-feed-template-row-level-value.md}}
 
 **[!UICONTROL Tracking Template]:** (Units without child product groups; optional) The tracking template for the product
-group, which specifies all off-landing domain redirects and tracking parameters and embeds the final URL in a ValueTrack parameter. This template overrides templates at higher levels.
+group, which specifies all off-landing domain redirects and tracking parameters and embeds the final URL in a [!DNL ValueTrack] parameter. This template overrides templates at higher levels.
 
 For Adobe Advertising conversion tracking, you don't need to enter a value. The campaign-level value is enough.
 
