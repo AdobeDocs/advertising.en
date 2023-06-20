@@ -33,6 +33,12 @@ Most specialty reports consist only of data collected by the ad networks. The [!
 
 * [The [!UICONTROL RSA Asset Report]](/help/search-social-commerce/reports/management/specialty/rsa-asset-report.md)
 
+* [The [!UICONTROL MSA Ad Extension by Ad Report]](msa-ad-extension-detail-report.md)
+
+* [The [!UICONTROL MSA Ad Extension by Keyword Report]](msa-ad-extension-by-keyword-report.md)
+
+* [The [!UICONTROL MSA Ad Extension Detail Report]](msa-ad-extension-by-ad-report.md)
+
 >[!MORELIKETHIS]
 >
 >* [Generate a specialty report](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)

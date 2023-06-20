@@ -46,6 +46,7 @@ Depending on the attribution rule you specify for the report, data for each repo
 | [!UICONTROL Assist Reports] | All | The previous 18 months. |
 | [!UICONTROL Specialty Reports] | [!UICONTROL AdWords Audience Target Report] | The previous year.|
 | | [!UICONTROL RSA Assets Report] | Beginning on 10 August 2022. |
+| | [!UICONTROL MSA Ad Extension by Ad Report], [!UICONTROL MSA Ad Extension by Keyword Report], [!UICONTROL MSA Ad Extension Detail Report] | The last 180 days. |
 | | All other [!UICONTROL Specialty Reports] | The previous two (2) months. |
 | [!UICONTROL Model Accuracy Reports] | [!UICONTROL Forecast Accuracy Report] | The previous 18 months. |
 | [!UICONTROL Change History Report] | &mdash; | The previous 31 days. |
