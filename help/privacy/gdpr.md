@@ -66,7 +66,7 @@ To make requests to access and delete data for Adobe Advertising, you'll need to
    >
    >If your company has multiple Experience Cloud organization IDs, then you must send separate API requests for each. You can, however make one API request to multiple Adobe Advertising sub-solutions ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
 
-All of these steps are necessary for Adobe Advertising. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [www.adobe.io/apis/cloudplatform/gdpr.html](https://www.adobe.io/apis/experienceplatform/gdpr.html).
+All of these steps are necessary for Adobe Advertising. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see [Privacy and GDPR](https://developer.adobe.com/client-sdks/documentation/privacy-and-gdpr/).
 
 ## Required Field Values in Adobe Advertising JSON Requests
 
