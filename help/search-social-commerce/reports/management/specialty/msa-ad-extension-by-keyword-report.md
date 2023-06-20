@@ -6,7 +6,7 @@ description: Learn about the [!UICONTROL MSA Ad Extension by Keyword Report].
 
 *[!DNL Microsoft® Advertising] accounts only*
 
-The [!UICONTROL MSA Ad Extension by Keyword Report] shows the impressions, clicks, spend, and average cost per click of each ad extension and click type by keyword. Use this report to compare the performance of your ad extensions for each keyword.
+This report shows the impressions, clicks, spend, and average cost per click of each ad extension and click type by keyword. Use this report to compare the performance of your ad extensions for each keyword.
 
 When you run a report with only metric columns and no dimensions, then the generated report contains two duplicate rows: one with aggregated data and the other with all metrics.<!-- all metrics? -->
 

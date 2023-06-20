@@ -6,7 +6,7 @@ description: Learn about the [!UICONTROL MSA Ad Extension by Ad Report].
 
 *[!DNL Microsoft® Advertising] accounts only*
 
-The [!UICONTROL MSA Ad Extension by Ad Report] shows the aggregated impressions, clicks, spend, and average cost per click for each ad extension and click type by ad. Use this report to compare the performance of different versions of your ad extensions.
+This report shows the aggregated impressions, clicks, spend, and average cost per click for each ad extension and click type by ad. Use this report to compare the performance of different versions of your ad extensions.
 
 When you run a report with only metric columns and no dimensions, then the generated report contains two duplicate rows: one with aggregated data and the other with all metrics.<!-- all metrics? -->
 

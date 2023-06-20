@@ -166,6 +166,7 @@ exl-id: 20ce9519-4a13-4175-bf7c-26f1dc4c9bd1
 | [!UICONTROL Surfer ID] | ([!UICONTROL Transaction Report]) The ID of the user who completed the transaction. |
 | [!UICONTROL Through Plays] | ([!DNL Meta] ads) The number of views that watched the ad in its entirety. |
 | [!UICONTROL Top of Page CPC] | (Google campaigns only) The cost per click (CPC) for ads that appear at the top of search result pages during the specified date range. |
+
 | [!UICONTROL Tracking URL] | (Search-targeted keywords only) The tracking template or the destination URL embedded with (when applicable) Search, Social, & Commerce tracking code. |
 | [!UICONTROL Transaction Property Name] | ([!UICONTROL Transaction Report]) The advertiser-specific transaction property to which the transaction is credited. |
 | [!UICONTROL Transaction Time] | ([!UICONTROL Transaction Report]) The time at which the specified transaction property was credited. |
