@@ -1,10 +1,10 @@
 ---
 title: View publisher recommendations and performance insights
-description: Learn how to view the [!DNL Google Ads] recommendations and [!DNL Microsoft Advertising] performance insights for your ad network accounts.
+description: Learn how to view the [!DNL Google Ads] recommendations and [!DNL Microsoft® Advertising] performance insights for your ad network accounts.
 ---
 # View your publisher recommendations and performance insights
 
-*[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts*
+*[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts*
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
@@ -12,13 +12,13 @@ description: Learn how to view the [!DNL Google Ads] recommendations and [!DNL M
 
 1. View the recommended actions:
 
-   * ([!DNL Google Ads] accounts) In the [!UICONTROL Actions] column for the recommendation row, click **[!UICONTROL View]**. If the recommendation has sub-recommendations, then click **[!UICONTROL View]** next to the sub-recommendation. 
+   * ([!DNL Google Ads] accounts) In the [!UICONTROL Actions] column for the row, click **[!UICONTROL View]**. If the recommendation has sub-recommendations, then click **[!UICONTROL View]** next to the sub-recommendation. 
 
      You can optionally [apply or dismiss](google-recommendation-apply-dismiss.md) the ad network's recommendations.
 
-   * ([!DNL Microsoft Advertising] accounts) When the [!UICONTROL Actions] column for the recommendation row includes an action, click **[!UICONTROL Click here]** to open the [!DNL Microsoft Advertising] editor, from which you can take action.
+   * ([!DNL Microsoft® Advertising] accounts) When the [!UICONTROL Actions] column for the row includes an action, click **[!UICONTROL Click here]** to open the [!DNL Microsoft® Advertising] editor, from which you can act on the insight.
 
-     If you aren't logged in to the [!DNL Microsoft Advertising] editor, you're first directed to the login screen.
+     If you aren't logged in to the [!DNL Microsoft® Advertising] editor, you're first directed to the login screen.
 
 >[!MORELIKETHIS]
 >
