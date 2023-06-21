@@ -6,6 +6,8 @@ description: Learn how to view the [!DNL Google Ads] recommendations and [!DNL M
 
 *[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts*
 
+*Beta feature for [!DNL Microsoft® Advertising] accounts*
+
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
 1. In the upper right, select the ad network and the account.
