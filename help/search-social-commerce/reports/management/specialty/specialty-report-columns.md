@@ -90,8 +90,8 @@ exl-id: 5cc98781-588b-4bf3-8978-a7966009fa51
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
 | [!UICONTROL Keyword] | The keyword.<br><br><b>Note:</b> If the report includes data from ad groups in content-enabled search campaigns, then this column includes the applicable ad group names such "(adgroup content) Your Ad Group Name." For a site-targeted placement in a search campaign, this column doesn't have a value. |
 | [!UICONTROL Keyword ID] | The numeric ID that Search, Social, & Commerce assigns to the keyword. |
-| [!UICONTROL Keyword Extension ID] | ([!UICONTROL MSA Ad Extension by Keyword Report]) The ad extension ID assigned by the ad network. |
-| [!UICONTROL Keyword Extension Number] | ([!UICONTROL MSA Ad Extension by Keyword Report]) The ad extension ID assigned by the ad network. |
+| [!UICONTROL Keyword Extension ID] | ([!UICONTROL MSA Ad Extension by Keyword Report]) The numeric ID that the ad network assigns to the ad extension. |
+| [!UICONTROL Keyword Extension Number] | ([!UICONTROL MSA Ad Extension by Keyword Report]) The version attribute for the ad extension. |
 | [!UICONTROL Keyword Extension Type] | ([!UICONTROL MSA Ad Extension by Keyword Report]) The ad extension type. |
 | [!UICONTROL Keyword Status] | The status of the keyword to which the search term was matched: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, [!UICONTROL Deleted]*, or [!UICONTROL Disapproved]*. |
 | [!UICONTROL Language] | ([!UICONTROL Campaign Daily Impression Share Report]) The target language. |
