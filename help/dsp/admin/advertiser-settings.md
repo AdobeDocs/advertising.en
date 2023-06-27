@@ -1,6 +1,7 @@
 ---
 title: Advertiser Account Settings
 description: See descriptions of the available advertiser settings.
+role: User, Admin
 ---
 # Advertiser Account Settings
 

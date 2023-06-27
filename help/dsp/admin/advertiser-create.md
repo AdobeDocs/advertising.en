@@ -1,6 +1,7 @@
 ---
 title: Create an Advertiser Account
 description: Learn how to create an advertiser account.
+role: User, Admin
 ---
 # Create an Advertiser Account
 

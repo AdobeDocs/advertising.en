@@ -1,6 +1,7 @@
 ---
 title: About syncing [!DNL Google Analytics] conversion metrics
 description: Learn about syncing [!DNL Google Analytics] conversion metrics for optimization and reporting.
+role: User, Admin
 exl-id: 0c263ced-3774-4d4b-9d61-65289cd74027
 ---
 # About syncing [!DNL Google Analytics] conversion metrics

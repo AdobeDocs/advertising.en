@@ -1,6 +1,7 @@
 ---
 title: Manage Alert Subscriptions
 description: Learn how to manage automatic email alerts.
+role: User, Admin
 exl-id: 9f47aa2a-54c4-4fdc-b289-6c3586cc18e6
 ---
 # Manage Alert Subscriptions
