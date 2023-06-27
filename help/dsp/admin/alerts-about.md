@@ -1,6 +1,7 @@
 ---
 title: About Alert Subscriptions
 description: Learn about automatic email alerts.
+role: User, Admin
 exl-id: f3578f10-4f66-4133-a6e0-1ca8001dd2c9
 ---
 # About Alert Subscriptions
