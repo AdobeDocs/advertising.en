@@ -37,31 +37,50 @@ You can view your notifications, mark notifications as read or unread, and delet
 
 * [!UICONTROL Campaign Management]
 
+  * **[!UICONTROL UI Actions]**: Notifications that your jobs that are performed in the background were completed or failed. The job types include [bulksheet jobs](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md), bulk edit jobs within the data table or using the toolbar, entity assignment jobs, or other actions within the user interface (such as synchronizing with ad networks, pasting rows, or renaming entities). Entity assignments include assigning or unassigning a [label classification value](/help/search-social-commerce/campaign-management/label-classifications/classification-about.md) to any entity, assigning a campaign to a portfolio, and assigning or unassigning a constraint to a portfolio.<!--Link "constraint" to constraint-about.md if that file is ever public -->
+  
   * **[!UICONTROL Bulksheets]**: Notifications that a [bulksheet operation](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) was completed or failed.
 
-  * **[!UICONTROL UI Actions]**: Notifications that your jobs that are performed in the background were completed or failed. The job types include [bulksheet jobs](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md), bulk edit jobs within the data table or using the toolbar, entity assignment jobs, or other actions within the user interface (such as synchronizing with ad networks, pasting rows, or renaming entities). Entity assignments include assigning or unassigning a [label classification value](/help/search-social-commerce/campaign-management/label-classifications/classification-about.md) to any entity, assigning a campaign to a portfolio, and assigning or unassigning a constraint to a portfolio.<!--Link "constraint" to constraint-about.md if that file is ever public -->
+  * **[!UICONTROL Manager Account Missing]**: Notifications that Search, Social, & Commerce is missing the credentials for an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md), which are for the correct setup of critical functions.
 
+<!--
 * [!UICONTROL Setup Errors]
 
-  * **[!UICONTROL Adobe Analytics Tracking Setup Error]**: : Notifications that the [!UICONTROL Landing Page Suffix] value is incorrect, missing, or contains an incorrect SKWCID template; or it's overridden at a lower level by an incorrect value.
+  * **[!UICONTROL Adobe Analytics Tracking Setup Error]**: : Notifications that the [!UICONTROL Landing Page Suffix] value is incorrect, missing, or contains an incorrect s_kwcid template; or it's overridden at a lower level by an incorrect value.
   
   * **[!UICONTROL Manager Account Missing]**: Notifications that Search, Social, & Commerce is missing the credentials for an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md), which are for the correct setup of critical functions.
 
+-->
+
 * [!UICONTROL Network Errors]
+
+  * **[!UICONTROL Manager Account Auth Error]**: Notifications that Search, Social, & Commerce was unable to sync with an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md) because of invalid credentials or an invalid or expired authorization token.
 
   * **[!UICONTROL Account Auth Error]**: Notifications that Search, Social, & Commerce was unable to access an [ad network account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md) because of invalid credentials or an invalid or expired authorization token.
 
-  * **[!UICONTROL Manager Account Auth Error]**: Notifications that Search, Social, & Commerce was unable to sync with an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md) because of invalid credentials or an invalid or expired authorization token.
+* [!UICONTROL Data Upload]
+
+  * **[!UICONTROL Direct File Upload]**: Used for a closed beta
+
+  * **[!UICONTROL File Upload to Cloud Storage]**: Used for a closed beta
+
+<!--
+* [!UICONTROL Optimization]
+-->
 
 * [!UICONTROL Insights & Reports]
 
   * **[!UICONTROL Custom Alerts]**: Notifications that [alert instances](/help/search-social-commerce/alerts/alert-about.md) were triggered for an alert template.
 
-  * **[!UICONTROL Advertising Insights]**: Notifications that [an [!DNL Advertising Insight]](/help/search-social-commerce/advertising-insights/insight-about.md) was completed or failed.
-
+  * **[!UICONTROL Spreadsheet Feeds]**: Notifications that a [spreadsheet feed](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-about.md) was completed or failed.
+  
   * **[!UICONTROL Reports]**: Notifications that a [custom or scheduled report](/help/search-social-commerce/reports/report-about.md) was completed or failed.
 
-  * **[!UICONTROL Spreadsheet Feeds]**: Notifications that a [spreadsheet feed](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-about.md) was completed or failed.
+  * **[!UICONTROL Advertising Insights]**: Notifications that [an [!DNL Advertising Insight]](/help/search-social-commerce/advertising-insights/insight-about.md) was completed or failed.
+
+<!--
+* [!UICONTROL System]
+-->
 
 >[!MORELIKETHIS]
 >
