@@ -5,6 +5,8 @@ exl-id: 8362a0e1-9a0d-4287-a1dd-b7ec77985744
 ---
 # Best practices for using publisher recommendations and insights with portfolios
 
+<!-- If we don't come up with similar ones for MS, then rename this file "... Google Ads ..." -->
+
 ## [!DNL Google Ads] recommendations
 
 | Recommendation Type | Description | Auto-Apply Recommendations with Search, Social, & Commerce Portfolios? | Comments |
@@ -20,5 +22,6 @@ exl-id: 8362a0e1-9a0d-4287-a1dd-b7ec77985744
 >[!MORELIKETHIS]
 >
 >* [About publisher recommendations and insights support](recommendation-support.md)
->* [View the recommendations log for a [!DNL Google Ads] account](google-recommendation-view-log.md)
+>* [View your publisher recommendations and performance insights](recommendation-view.md)
 >* [Apply or dismiss a [!DNL Google Ads] recommendation](google-recommendation-apply-dismiss.md)
+>* [View the recommendations log for a [!DNL Google Ads] account](google-recommendation-view-log.md)

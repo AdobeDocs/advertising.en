@@ -32,5 +32,6 @@ View the recommended actions, and an explanation of why the actions would be ben
 >[!MORELIKETHIS]
 >
 >* [About publisher recommendations and insights support](recommendation-support.md)
+>* [View your publisher recommendations and performance insights](recommendation-view.md)
 >* [View the recommendations log for a [!DNL Google Ads] account](google-recommendation-view-log.md)
 >* [Best practices for using publisher recommendations and insights with portfolios](recommendation-best-practices.md)

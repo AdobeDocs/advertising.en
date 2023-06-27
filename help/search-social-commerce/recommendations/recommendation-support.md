@@ -5,23 +5,37 @@ exl-id: 166c429a-043a-4e74-b1ee-5359cd483de5
 ---
 # About publisher recommendations and insights support
 
-[!DNL Google Ads] recommendations are suggestions from [!DNL Google Ads] to help improve the performance and efficiency of your campaigns. Each recommendation provides customized suggestions about different performance aspects of a campaign &mdash; from adding an asset to increasing the budget &mdash; based on your account's performance history, your campaign settings, and trends across [!DNL Google Ads].
+*[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts*
+
+*Beta feature for [!DNL Microsoft® Advertising] accounts*
+
+[!DNL Google Ads] recommendations and [!DNL Microsoft® Advertising] performance insights are suggestions from the ad network to help improve the performance and efficiency of your campaigns:
+
+* Each [!DNL Google Ads] recommendation provides customized suggestions about different performance aspects of a campaign &mdash; from adding an asset to increasing the budget &mdash; based on your account's performance history, your campaign settings, and trends across [!DNL Google Ads].
+
+* Each [!DNL Microsoft® Advertising] performance insight alerts you to a significant fluctuation in a manager account, advertiser account, or campaign; identifies the possible causes, and suggests actions to optimize performance.
+
+## The [!UICONTROL Recommendations & Publisher Insights] view
 
 Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights], you can:
 
-* See at a glance all supported recommendations that haven't been acted on for a [!DNL Google Ads]<!-- or [Microsoft Advertising]--> account. Information for each recommendation includes the recommendation details, the recommendation type and category, the actual metrics and the metrics that [!DNL Google Ads] predicts if the recommendation is applied, and the entities affected if the recommendation is applied. Predicted increases to metrics are highlighted in green. You can view the recommended actions for any recommendation. You also can optionally filter the list by the recommendation category and type.
+* See at a glance all supported recommendations that haven't been acted on for a [!DNL Google Ads] account or all performance insights generated in the last 30 days for a [Microsoft® Advertising] account. Information for each entry includes the recommendation/insight details and the entities affected. For [!DNL Google Ads] accounts, predicted increases to metrics are highlighted in green.
 
   ![Recommendations UI](/help/search-social-commerce/assets/recommendations-ui.png "Recommendations UI")
 
   The data is available in real time when you open the view. To refresh the data, click ![Refresh](/help/search-social-commerce/assets/refresh.png "Refresh") on the bottom left of the page.
 
-* Apply and dismiss the recommendations for an account.
+* For [!DNL Google Ads] accounts:
 
-* View logs of each recommendation that was applied for an account, including the affected entities, who applied the recommendation, and the time stamp.
+  * View recommendation details, and directly apply or dismiss a recommendation.
+  
+  * View a log of each recommendation that was applied for the account, including the affected entities, who applied the recommendation, and the time stamp.
+
+* For [Microsoft® Advertising] accounts, open the [!DNL Microsoft® Advertising] editor, from which you can act on a specific insight.
 
 >[!NOTE]
 >
->While recommendations help you improve campaign performance, some may not align with your broader goals. As a result, it's best to consult with your Adobe Account Team before implementing any recommendation.
+>While ad network recommendations and performance insights help you improve campaign performance, some may not align with your broader goals. As a result, it's best to consult with your Adobe Account Team before implementing any recommendation or insight.
 
 ## Supported recommendation types for [!DNL Google Ads]
 
@@ -55,6 +69,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 >[!MORELIKETHIS]
 >
->* [View the recommendations log for a [!DNL Google Ads] account](google-recommendation-view-log.md)
+>* [View your publisher recommendations and performance insights](recommendation-view.md)
 >* [Apply or dismiss a [!DNL Google Ads] recommendation](google-recommendation-apply-dismiss.md)
+>* [View the recommendations log for a [!DNL Google Ads] account](google-recommendation-view-log.md)
 >* [Best practices for using publisher recommendations and insights with portfolios](recommendation-best-practices.md)

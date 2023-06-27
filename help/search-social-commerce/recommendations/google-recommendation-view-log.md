@@ -18,5 +18,6 @@ Dismissed recommendations aren't available from the ad network.
 >[!MORELIKETHIS]
 >
 >* [About publisher recommendations and insights support](recommendation-support.md)
+>* [View your publisher recommendations and performance insights](recommendation-view.md)
 >* [Apply or dismiss a [!DNL Google Ads] recommendation](google-recommendation-apply-dismiss.md)
 >* [Best practices for using publisher recommendations and insights with portfolios](recommendation-best-practices.md)
