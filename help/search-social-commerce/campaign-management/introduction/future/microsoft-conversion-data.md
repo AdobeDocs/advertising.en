@@ -42,7 +42,33 @@ Data is available based on the click time and based on the conversion/transactio
 
 ## How to compare conversion data in [!DNL Microsoft Advertising] with data in Search, Social, & Commerce
 
-In Search, Social, & Commerce, use the view or report option to view "[!UICONTROL Conversions Based On]" the "[!UICONTROL Click date]" (not the transaction date).
+Use the following report settings to validate comparable data.
+
+### Report settings to use in [!DNL Microsoft Advertising]
+
+Generate the report for the selected conversion actions by day, and include data for all ad statuses. 
+
+### Report settings to use in Search, Social, & Commerce
+
+In Search, Social, & Commerce, use the view or report option to view conversions based on the click date (not the transaction date).
+
+1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
+
+1. In the toolbar above the data table, click **[!UICONTROL Create Report]**, hold the cursor over **[!UICONTROL Basic Reports]**, and then click **[!UICONTROL Search Engine Account Report]**.
+
+1. In the [!UICONTROL Report Settings] window, specify the following report settings:
+   
+   1. In the **[!UICONTROL Conversions Based]** on section, select **[!UICONTROL Click date]**.
+   
+   1. Specify the same date range that you used for the [!DNL Microsoft Advertising] report.
+   
+   1. In the **[!UICONTROL Search/Content]** section, select **[!UICONTROL Search Only]**.
+   
+   1. In the **[!UICONTROL Search Engine Hierarchy]** section, expand the [!UICONTROL Microsoft Advertising] section and select the account.
+   
+   1. Open the [!UICONTROL Columns] tab, and add the [!DNL Microsoft Advertising] metrics that you want to compare.
+
+1. Click **[!UICONTROL Create]**.
 
 >[!MORELIKETHIS]
 >
