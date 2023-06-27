@@ -33,11 +33,15 @@ Up to three transaction properties for each [[!DNL Google Ads]-tracked conversio
 
 ## How to compare conversion data in [!DNL Google Ads] with data in Search, Social, & Commerce
 
-If you compare data in Search, Social, & Commerce with that in [!DNL Google Ads], use the view or report option to view "[!UICONTROL Conversions Based On]" the "[!UICONTROL Click date]" (not the transaction date).
+If you compare data in Search, Social, & Commerce with that in [!DNL Google Ads], use the view or report option to view conversions based on the click date (not the transaction date).
 
 Use the following report settings to validate comparable data.
 
 ### Report settings to use in [!DNL Google Ads]
+
+Generate the report for the selected conversion actions by day, and include data for all ad statuses. 
+
+<!-- 
 
 1. In the main toolbar, select **[!DNL Reports] > [!DNL Report]**.
 
@@ -55,7 +59,11 @@ Use the following report settings to validate comparable data.
 
 1. In the report settings toolbar, select **[!DNL Download] > [!DNL Excel .csv]**.
 
+-->
+
 ### Report settings to use in Search, Social, & Commerce
+
+In Search, Social, & Commerce, use the view or report option to view conversions based on the click date (not the transaction date).
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
 
