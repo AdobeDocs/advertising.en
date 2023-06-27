@@ -5,9 +5,13 @@ exl-id: a7ee8e72-aa7d-4e90-b765-b7b01308762d
 ---
 # [!DNL Google Ads] conversion data in Search, Social, & Commerce
 
-Search, Social, & Commerce automatically syncs [!DNL Google Ads]-tracked conversion data for all of your campaigns on the [!DNL Google Ads] search and shopping networks into Search, Social, & Commerce for reporting and optimization. Search, Social, & Commerce syncs data for conversions for which the "[!DNL Include in 'Conversions']" option is enabled, pulling the data for the last 35 days and then pulling changes to the data daily by 09:00-10:00 in the advertiser's time zone.
+Search, Social, & Commerce automatically syncs [!DNL Google Ads]-tracked conversion data for all of your campaigns on the [!DNL Google Ads] search and shopping networks into Search, Social, & Commerce for reporting and optimization.
+
+All of the metrics are automatically available in your campaign management views and basic reports, and are also available to use in portfolio objectives for optimization.
 
 ## Available conversion data
+
+Search, Social, & Commerce syncs data for conversions for which the "[!DNL Include in 'Conversions']" option is enabled, pulling the data for the last 35 days and then pulling changes to the data daily by 09:00-10:00 in the advertiser's time zone. Historical data may change from day to day as new conversions are tracked for each click.
 
 Up to three transaction properties for each [[!DNL Google Ads]-tracked conversion](https://support.google.com/google-ads/answer/4677036) (which you set up in [!DNL Google Ads]) are automatically available in Search, Social, & Commerce, using the conversion names configured in [!DNL Google Ads]. The transaction properties for each conversion include:
 
@@ -17,9 +21,7 @@ Up to three transaction properties for each [[!DNL Google Ads]-tracked conversio
 
 * `GGL_XD_CT*` &mdash; (When available for the conversion type, when you track them) The number (count) of cross-device conversions, as measured by Google, beginning with the "GGL_XD_CT_" prefix (such as GGL_XD_CT_Purchase).
 
-[!DNL Google Ads] records each conversion by [bid unit](/help/search-social-commerce/glossary.md#a-b), device, and click date (not conversion date). Attribution is based on the default attribution setting for each metric in [!DNL Google Ads]; Adobe Advertising attribution isn't factored in because click event-level data isn't available. Each day, Search, Social, & Commerce pulls conversion data for the previous 30 days and then calculates any incremental conversions since the previous day, using the click date from [!DNL Google Ads] and designating the prior day as the transaction date. As a result, historical data may change from day to day as new conversions are tracked for each click. If you compare data in Search, Social, & Commerce with that in [!DNL Google Ads], use the view or report option to view "[!UICONTROL Conversions Based On]" the "[!UICONTROL Click date]" (not the transaction date).
-
-All of the metrics are automatically available in your campaign management views and basic reports, and are also available to use in portfolio objectives for optimization.
+[!DNL Google Ads] records each conversion by [bid unit](/help/search-social-commerce/glossary.md#a-b), device, and click date (not conversion date). Attribution is based on the default attribution setting for each metric in [!DNL Google Ads]; Adobe Advertising attribution isn't factored in because click event-level data isn't available.
 
 >[!NOTE]
 >
@@ -30,6 +32,8 @@ All of the metrics are automatically available in your campaign management views
 >* Data for [!DNL Google Ads] conversions isn't available at the audience or geographical location level and therefore isn't used to auto-optimize RLSA and location bid adjustments.
 
 ## How to compare conversion data in [!DNL Google Ads] with data in Search, Social, & Commerce
+
+If you compare data in Search, Social, & Commerce with that in [!DNL Google Ads], use the view or report option to view "[!UICONTROL Conversions Based On]" the "[!UICONTROL Click date]" (not the transaction date).
 
 Use the following report settings to validate comparable data.
 
