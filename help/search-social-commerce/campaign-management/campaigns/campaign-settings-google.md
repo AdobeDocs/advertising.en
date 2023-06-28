@@ -12,7 +12,7 @@ the campaign may contain:
 
 * *[!UICONTROL Search Network Only]:* Shows ads on the search network, which includes [!DNL Google] search results and, optionally, search partner sites. You must specify keywords for each ad group.
 
-* *[!UICONTROL Search with Display Select]:* Shows ads on the search network (which includes [!DNL Google] search results and, optionally, search partner sites) and potentially shows ads on display network sites. On the display network, [!DNL Google Ads] displays your ads selectively using automated bidding, regardless of the campaign's bid strategy. For search ads, you must specify keywords for each ad group; for display ads, you must specify placements and optionally can specify keywords for each ad group.
+* *[!UICONTROL Search with Display Select]:* Shows ads on the search network (which includes [!DNL Google] search results and, optionally, search partner sites) and potentially shows ads on display network sites. On the display network, [!DNL Google Ads] displays your ads selectively using automated bidding, regardless of the campaign's bid strategy. For search ads, specify keywords for each ad group; for display ads, specify placements and optionally specify keywords for each ad group.
 
 * *[!UICONTROL Shopping Network]:* Shows product ads, which [!DNL Google] generates automatically based on your products in [!DNL Google Merchant Center] on [!DNL Google Shopping], the area next to [!DNL Google] search results (separate from text ads), and (optionally) search partner websites. For each ad group in the campaign, you can specify product groups to advertise.
 
@@ -26,7 +26,7 @@ the campaign may contain:
   
   * Links to [!DNL Google Merchant Center] product feeds aren’t supported.
   
-  * Support for listing groups isn't available. To manage and view data for listing groups, log into the [!DNL Google Ads] editor.
+  * Support for listing groups isn't available. To manage and view data for listing groups, log in to the [!DNL Google Ads] editor.
 
   * Hybrid optimization is supported. Bid strategy targets and campaign budgets are set at the campaign level.
 
@@ -73,11 +73,11 @@ When you add a campaign with eCPC to an optimized Search, Social, & Commerce por
 
   * **[!UICONTROL Enable Enhanced CPC]** (disabled by default): This is the same as using the "[!UICONTROL Enhanced CPC]" option.
 
-* *[!UICONTROL Maximize Clicks]:* (Search, display, and shopping campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids in order to maximize clicks. Optionally, enter a **[!UICONTROL Max CPC]** (cost per click) to ensure that the ad network doesn't pay more than a specific amount for each click. **Caution:** When you add a campaign with this strategy to a portfolio, bids are driven by click weight, not by the portfolio objective.
+* *[!UICONTROL Maximize Clicks]:* (Search, display, and shopping campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to maximize clicks. Optionally, enter a **[!UICONTROL Max CPC]** (cost per click) to ensure that the ad network doesn't pay more than a specific amount for each click. **Caution:** When you add a campaign with this strategy to a portfolio, bids are driven by click weight, not by the portfolio objective.
 
-* *[!UICONTROL Maximize Conversion Value]:* (Search, performance max, and smart shopping campaigns) The ad network &mdash; not Search, Social, & Commerce  &mdash;optimizes bids in order to maximize conversion value. Optionally enter a **[!UICONTROL Target Return on Ad Spend]** (ROAS) as a percentage. **Note:** Use this option for campaigns in hybrid portfolios but not standard portfolios.
+* *[!UICONTROL Maximize Conversion Value]:* (Search, performance max, and smart shopping campaigns) The ad network &mdash; not Search, Social, & Commerce  &mdash;optimizes bids to maximize conversion value. Optionally enter a **[!UICONTROL Target Return on Ad Spend]** (ROAS) as a percentage. **Note:** Use this option for campaigns in hybrid portfolios but not standard portfolios.
 
-* *[!UICONTROL Maximize Conversions]:* (Search, display, and performance max campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids in order to maximize conversions. Optionally enter a **[!UICONTROL Target CPA]** (cost per acquisition). **Note:** Use this option for campaigns in hybrid portfolios but not standard portfolios.
+* *[!UICONTROL Maximize Conversions]:* (Search, display, and performance max campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to maximize conversions. Optionally enter a **[!UICONTROL Target CPA]** (cost per acquisition). **Note:** Use this option for campaigns in hybrid portfolios but not standard portfolios.
 
 * *[!UICONTROL Target CPA]:* (Display campaigns; existing search campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on an optional **[!UICONTROL Target CPA]** (cost per acquisition), which is the 30-day average amount you want to pay for an acquisition (conversion). **Note:** Use this option for campaigns in hybrid portfolios (but not standard portfolios) with any spend strategy except [!UICONTROL Weekly] or [!UICONTROL Google Target CPA].
 
@@ -85,7 +85,7 @@ When you add a campaign with eCPC to an optimized Search, Social, & Commerce por
 
   For new search campaigns, [!DNL Google Ads] has replaced this bid strategy with the [!UICONTROL Maximize Conversions] strategy using a [!UICONTROL Target CPA] value. For existing search campaigns with this strategy, you only can edit the target value, and doing so changes the strategy to the [!UICONTROL Maximize Conversions] strategy using the specified [!UICONTROL Target CPA] value.
 
-* *[!UICONTROL Target Impression Share]:* (Search campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids in order to achieve a target impression share and ad position. Optionally, enter a **[!UICONTROL Target Impression Share]** as a percentage, the **[!UICONTROL Target Ad Position]**, and a **[!UICONTROL Max CPC]** (cost per click). **Note:** This option isn't supported in portfolios.
+* *[!UICONTROL Target Impression Share]:* (Search campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to achieve a target impression share and ad position. Optionally, enter a **[!UICONTROL Target Impression Share]** as a percentage, the **[!UICONTROL Target Ad Position]**, and a **[!UICONTROL Max CPC]** (cost per click). **Note:** This option isn't supported in portfolios.
 
 * *[!UICONTROL Target Return on Ad Spend]:*  (Display and shopping campaigns; existing search campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on a specified **[!UICONTROL Target ROAS]** (return on ad spend), specified as a percentage. **Note:** Use this option for campaigns in hybrid portfolios (but not standard portfolios) with any spend strategy except [!UICONTROL Weekly] or [!UICONTROL Google Target ROAS].
 
@@ -253,28 +253,42 @@ by country. If you don't select any, all are targeted.
 
 **[!UICONTROL Images]:** Up to fifteen images for the ad, including the following sizes: 1) at least three square images, 2) at least three landscape images, and 3) at least one portrait image. See the [[!DNL Google Ads] image specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). To upload images:
 
+1. Click **[!UICONTROL +]** and select images from your device or network.
+
 1. For each image:
 
-   1. Click **[!UICONTROL +]** and select an image from your device or network.
-
    1. Select the aspect ratio.
+   
+   1. Drag and position the crop box as necessary to select the viewable part of the image, and resize the viewable part of the image as necessary when possible.
 
-   1. Drag and position the crop box as needed to select the viewable part of the image, and then click **[!UICONTROL Proceed]**.
+   1. (Optional) Select additional aspect ratios, and optionally reposition and resize the image as necessary for each selected aspect ratio.
+   
+      One asset is created for each selected aspect ratio.
+
+   1. Click **[!UICONTROL Proceed]**.
 
 1. When you're finished specifying images, click **[!UICONTROL Upload]**.
 
 **[!UICONTROL Logos]:** At least one square (1:1) logo and one landscape (4:1) logo. You can include up to five of each size. See the [[!DNL Google Ads] logo specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). To upload images:
 
+1. Click **[!UICONTROL +]** and select images from your device or network.
+
 1. For each image:
 
-   1. Click **[!UICONTROL +]** and select an image from your device or network.
+   1. Select the aspect ratio.
+   
+   1. Drag and position the crop box as necessary to select the viewable part of the image, and resize the viewable part of the image as necessary when possible.
 
-   1. Drag and position the crop box as needed to select the viewable part of the image, and then click **[!UICONTROL Proceed]**.
+   1. (Optional) Select additional aspect ratios, and optionally reposition and resize the image as necessary for each selected aspect ratio.
+   
+      One asset is created for each selected aspect ratio.
+
+   1. Click **[!UICONTROL Proceed]**.
 
 1. When you're finished specifying images, click **[!UICONTROL Upload]**.
 
-**[!UICONTROL Videos]:** (Optional) The URL for at least one, and up to five, [!DNL YouTube] videos longer than 10
-seconds.
+**[!UICONTROL Videos]:** (Optional) The URL for at least one, and up to five, [!DNL YouTube] videos at least 10
+seconds long.
 
 **[!UICONTROL Headlines]:** At least three, and up to five, short headlines with a maximum of 30 characters each. At least one headline must be at least 15 characters or less. If the campaign-level option to enable final URL expansion is set within [!DNL Google Ads], then [!DNL Google Ads] replaces this value with a custom headline based on the landing page content.
 
@@ -286,7 +300,7 @@ seconds.
 
 **[!UICONTROL Business Name]:** The business name, with a maximum of 25 characters.
 
-**[!UICONTROL Add new asset group]:** Allows you to specify an additional asset group.
+**[!UICONTROL Add new asset group]:** Allows you to specify another asset group.
 
 >[!MORELIKETHIS]
 >
