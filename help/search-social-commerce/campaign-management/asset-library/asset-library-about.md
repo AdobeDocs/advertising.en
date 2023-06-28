@@ -10,7 +10,7 @@ description: Learn about the asset library for your ad assets.
 
 *Beta feature*
 
-In [!UICONTROL Campaigns] > [!UICONTROL Asset Library (Beta)], you can create reusable image, video, and text assets for your [!DNL Google Ads] campaigns and upload them to your [!DNL Google Ads] account-level asset library.
+In [!UICONTROL Campaigns] > [!UICONTROL Asset Library (Beta)], you can create reusable image, video, and text assets and upload them to your [!DNL Google Ads] account-level asset library.
 
 You can use your assets for ads when you create or edit campaigns with the [!DNL Google Ads] editor.
 
