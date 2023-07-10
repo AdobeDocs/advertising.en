@@ -16,4 +16,4 @@ You can use your assets for ads when you create or edit campaigns with the [!DNL
 
 >[!MORELIKETHIS]
 >
->*[About the [!UICONTROL Asset Library]](asset-library-about.md)
+>*[Create and upload assets](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)
