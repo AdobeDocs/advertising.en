@@ -24,7 +24,7 @@ description: Learn how to create reusable image, video, and text assets and uplo
       
         1. Click **[!UICONTROL +]** and select images from your device or network.
         
-          Each image can be a maximum of 10 MB. You can upload a maximum of 200 MB of images at a time.
+           Each image can be a maximum of 10 MB. You can upload a maximum of 200 MB of images at a time.
 
         1. For each image:
         
@@ -40,14 +40,14 @@ description: Learn how to create reusable image, video, and text assets and uplo
               
            1. Click **[!UICONTROL Proceed]**.
 
-      *  For video assets, enter the URL for a [!DNL YouTube] video that's at least 10 seconds long. To add another video asset, click **+ Add** and enter another URL.
-
+      * For video assets, enter the URL for a [!DNL YouTube] video that's at least 10 seconds long. To add another video asset, click **+ Add** and enter another URL.
+      
         You can post up to 10 video URLs at a time.
 
-      *  For text assets, enter the text string. To add another text asset, click **+ Add** and enter another text string.
-
+      * For text assets, enter the text string. To add another text asset, click **+ Add** and enter another text string.
+      
         Each text asset can have a maximum of 1000 characters. You can upload a maximum of 10 text assets at a time.
-
+        
         You can later use the text assets for any ad elements of your choice (such as headline or short description), as long as they meet the character limits for that ad element.
 
 1. Click **[!UICONTROL Post]**.
