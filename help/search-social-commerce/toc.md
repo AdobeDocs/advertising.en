@@ -244,13 +244,13 @@ index: yes
     + [Remove label classification values from account components](/help/search-social-commerce/campaign-management/label-classifications/classification-values-remove.md)
     + [Delete label classification values](/help/search-social-commerce/campaign-management/label-classifications/classification-values-delete.md)
     + [Delete label classifications](/help/search-social-commerce/campaign-management/label-classifications/classification-delete.md)
+  + Managing ad assets {#assets}
+    + [About the [!UICONTROL Asset Library]](/help/search-social-commerce/campaign-management/asset-library/asset-library-about.md)
+    + [Create and upload assets](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)
   + Best practices for search campaigns {#best-practices-search}
     + [Analyze reports to refine your keywords and campaign settings](/help/search-social-commerce/campaign-management/best-practices/best-practices-analyze.md)
     + [Write effective text ad copy](/help/search-social-commerce/campaign-management/best-practices/best-practices-write.md)
     + [Optimize the website landing pages](/help/search-social-commerce/campaign-management/best-practices/best-practices-optimize.md)
-  + Managing ad assets {#assets}
-    + [About the [!UICONTROL Asset Library]](/help/search-social-commerce/campaign-management/asset-library/asset-library-about.md)
-    + [Create and upload assets](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)
   + [Maximum number of objects per ad network account](/help/search-social-commerce/campaign-management/max-objects-per-ad-network.md)
   + [FAQs about campaign management](/help/search-social-commerce/campaign-management/faqs-campaigns.md)
 + Insights and reports {#insights-reports}
