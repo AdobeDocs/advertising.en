@@ -247,7 +247,7 @@ index: yes
     + [Analyze reports to refine your keywords and campaign settings](/help/search-social-commerce/campaign-management/best-practices/best-practices-analyze.md)
     + [Write effective text ad copy](/help/search-social-commerce/campaign-management/best-practices/best-practices-write.md)
     + [Optimize the website landing pages](/help/search-social-commerce/campaign-management/best-practices/best-practices-optimize.md)
-  + Managing ad assets
+  + Managing ad assets {#assets}
     + [About the [!UICONTROL Asset Library]](/help/search-social-commerce/campaign-management/asset-library/asset-library-about.md)
     + [Create and upload assets](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)
   + [Maximum number of objects per ad network account](/help/search-social-commerce/campaign-management/max-objects-per-ad-network.md)
