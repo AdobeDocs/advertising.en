@@ -48,6 +48,10 @@ description: Learn how to create reusable image, video, and text assets and uplo
 
         Each text asset can have a maximum of 1000 characters. You can upload a maximum of 10 text assets at a time.
 
-        You can later use the text assets for ad elements (such as headline or short description) of your choice.
+        You can later use the text assets for any ad elements of your choice (such as headline or short description), as long as they meet the character limits for that ad element.
 
 1. Click **[!UICONTROL Post]**.
+
+>[!MORELIKETHIS]
+>
+>*[About the [!UICONTROL Asset Library]](asset-library-about.md)
