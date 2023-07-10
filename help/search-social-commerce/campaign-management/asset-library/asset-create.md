@@ -54,4 +54,4 @@ description: Learn how to create reusable image, video, and text assets and uplo
 
 >[!MORELIKETHIS]
 >
->*[About the [!UICONTROL Asset Library]](asset-library-about.md)
+>* [About the [!UICONTROL Asset Library]](asset-library-about.md)
