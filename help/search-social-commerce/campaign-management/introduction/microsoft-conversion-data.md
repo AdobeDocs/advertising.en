@@ -74,4 +74,4 @@ In Search, Social, & Commerce, use the view or report option to view conversions
 >
 >* [Overview of implementing ad network accounts and campaigns](campaign-implemention-overview.md)
 >* [Monitor and manage the performance of your ad network campaigns](monitor-performance-campaigns.md)
->* [View the transaction properties tracked for an advertiser](/help/search-social-commerce/admin/transaction-properties/transaction-property-view-tracked.html?lang=en)
+>* [View the transaction properties tracked for an advertiser](/help/search-social-commerce/admin/transaction-properties/transaction-property-view-tracked.md)
