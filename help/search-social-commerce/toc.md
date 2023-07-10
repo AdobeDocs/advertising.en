@@ -100,7 +100,8 @@ index: yes
     + [About campaign management in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/campaign-management-about.md)
     + [Overview of implementing ad network accounts and campaigns](/help/search-social-commerce/campaign-management/introduction/campaign-implemention-overview.md)
     + [Monitor and manage the performance of your ad network campaigns](/help/search-social-commerce/campaign-management/introduction/monitor-performance-campaigns.md)
-    + [Google Ads conversion data in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)
+    + [[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)
+    + [[!DNL Microsoft Advertising] conversion data in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/microsoft-conversion-data.md)
   + Setting up accounts {#campaign-management-accounts}
     + Ad network accounts {#ad-network-accounts}
       + [About ad network accounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md)
