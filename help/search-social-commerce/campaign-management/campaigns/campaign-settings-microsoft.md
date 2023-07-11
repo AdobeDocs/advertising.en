@@ -175,6 +175,12 @@ For information about availability, see Microsoft Advertising help to "[Prevent 
 
 {{$include /help/_includes/append-parameters.md}}
 
+## [!UICONTROL Conversion Goals]
+
+**[!UICONTROL Conversion Goal]:** Whether to *[!UICONTROL Use account conversion goals for this campaign]* (the default) or *[!UICONTROL Use campaign specific conversion goals]*. If you choose to specify conversion goals for the campaign, then select the goals from the list of all available goals.
+
+If the campaign is part of a portfolio, then use the same conversion goals as the portfolio's objective. Using different conversion goals may impact portfolio performance.
+
 >[!MORELIKETHIS]
 >
 >* [Manage campaigns](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
