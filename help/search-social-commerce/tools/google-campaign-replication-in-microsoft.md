@@ -53,7 +53,7 @@ See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsof
 
 1. (Optional) Add Search, Social, & Commerce tracking within the [account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [campaign](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad group](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), or [ad](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) settings.
 
-## Edit details for a campaign import job
+## Edit schedule settings for a campaign import job
 
 See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500).
 
@@ -61,15 +61,7 @@ See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsof
 
 1. Select the check box next to the import job, and then click ![Edit](/help/search-social-commerce/assets/edit.png "Edit").
 
-1. Edit the [import settings](#campaign-import-settings).
-
-   1. In the **[!UICONTROL Select accounts]** section, select the source and destination accounts and the credential ID that [!DNL Microsoft® Advertising] requires.
-
-   1. In the **[!UICONTROL Select campaigns & ad groups]** section, specify the campaigns and ad groups to import.
-
-   1. In the **[!UICONTROL Customize your import]** section, specify the item types to import.
-
-   1. In the **[!UICONTROL Set schedule]** section, specify when to run the import job.
+1. In the **[!UICONTROL Set schedule]** section, specify the [schedule settings](#campaign-import-settings).
 
 1. Click **[!UICONTROL Post]**.
 
