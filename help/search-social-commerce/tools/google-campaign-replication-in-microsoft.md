@@ -29,19 +29,19 @@ Not all campaign information is replicated, and you may need to add some informa
 
 See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500).
 
-1. Get an import credential ID from [!DNL Microsoft® Advertising] to represent your [!DNL Google Ads] credentials.
-
-   Auto-generation of [!DNL Microsoft® Advertising] credentials for import is unavailable because of [!DNL Microsoft® Advertising] API limitations. Contact Adobe technical support or your Adobe Account Team, and they'll generate the credentials and give you the ID.
-
-   You must have the ID to configure the import job.
-
 1. In the Search, Social, & Commerce main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]**.
 
 1. Click **[!UICONTROL +Import]**.
 
 1. Specify the [import settings](#campaign-import-settings):
 
-   1. In the **[!UICONTROL Select accounts]** section, select the source and destination accounts and the credential ID that [!DNL Microsoft® Advertising] requires.
+   1. In the **[!UICONTROL Select accounts]** section:
+   
+      1. Select the source and destination accounts.
+      
+      1. Click **[!UICONTROL Get Credential Id from MSA]**.
+      
+      1.  Log in to the destination [!DNL Microsoft Advertising] account, copy the credential ID that's displayed, and paste the value in the **[!UICONTROL Credential ID]** field.
 
    1. In the **[!UICONTROL Select campaigns & ad groups]** section, specify the campaigns and ad groups to import.
 
