@@ -28,10 +28,7 @@ Two transaction properties for each [[!DNL Microsoft Advertising]-tracked conver
 
 Data is available based on the click time and based on the conversion/transaction time from the date at which the feature is enabled for the account.
 
-<!-- verify below/ if equivalent
-
 [!DNL Microsoft Advertising] records each conversion by [bid unit](/help/search-social-commerce/glossary.md#a-b), device, and click date (not conversion date). Attribution is based on the default attribution setting for each metric in [!DNL Microsoft Advertising]; Adobe Advertising attribution isn't factored in because click event-level data isn't available.
--->
 
 >[!NOTE]
 >

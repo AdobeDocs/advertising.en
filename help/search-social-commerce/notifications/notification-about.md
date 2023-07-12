@@ -43,26 +43,25 @@ You can view your notifications, mark notifications as read or unread, and delet
 
   * **[!UICONTROL Manager Account Missing]**: Notifications that Search, Social, & Commerce is missing the credentials for an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md), which are for the correct setup of critical functions.
 
-<!--
-* [!UICONTROL Setup Errors]
-
-  * **[!UICONTROL Adobe Analytics Tracking Setup Error]**: : Notifications that the [!UICONTROL Landing Page Suffix] value is incorrect, missing, or contains an incorrect s_kwcid template; or it's overridden at a lower level by an incorrect value.
+  <!--
+  * [!UICONTROL Setup Errors]
   
-  * **[!UICONTROL Manager Account Missing]**: Notifications that Search, Social, & Commerce is missing the credentials for an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md), which are for the correct setup of critical functions.
+    * **[!UICONTROL Adobe Analytics Tracking Setup Error]**: : Notifications that the [!UICONTROL Landing Page Suffix] value is incorrect, missing, or contains an incorrect s_kwcid template; or it's overridden at a lower level by an incorrect value.
+    
+    * **[!UICONTROL Manager Account Missing]**: Notifications that Search, Social, & Commerce is missing the credentials for an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md), which are for the correct setup of critical functions.
+  -->
 
--->
+  * [!UICONTROL Network Errors]
+  
+    * **[!UICONTROL Manager Account Auth Error]**: Notifications that Search, Social, & Commerce was unable to sync with an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md) because of invalid credentials or an invalid or expired authorization token.
+    
+    * **[!UICONTROL Account Auth Error]**: Notifications that Search, Social, & Commerce was unable to access an [ad network account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md) because of invalid credentials or an invalid or expired authorization token.
 
-* [!UICONTROL Network Errors]
-
-  * **[!UICONTROL Manager Account Auth Error]**: Notifications that Search, Social, & Commerce was unable to sync with an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md) because of invalid credentials or an invalid or expired authorization token.
-
-  * **[!UICONTROL Account Auth Error]**: Notifications that Search, Social, & Commerce was unable to access an [ad network account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md) because of invalid credentials or an invalid or expired authorization token.
-
-* [!UICONTROL Data Upload]
-
-  * **[!UICONTROL Direct File Upload]**: Used for a closed beta
-
-  * **[!UICONTROL File Upload to Cloud Storage]**: Used for a closed beta
+  * [!UICONTROL Data Upload]
+  
+    * **[!UICONTROL Direct File Upload]**: Used for a closed beta
+    
+    * **[!UICONTROL File Upload to Cloud Storage]**: Used for a closed beta
 
 <!--
 * [!UICONTROL Optimization]
