@@ -12,7 +12,6 @@ The following features are new or recently changed.
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
-
 | 30 June 2023 | [!UICONTROL Asset Library] | (Beta feature; [!DNL Google Ads] accounts) In [!UICONTROL Campaigns] > [!UICONTROL Asset Library (Beta)], you can create reusable image, video, and text assets and upload them to your [!DNL Google Ads] account-level asset library. You can use your assets for ads when you create or edit campaigns within the [!DNL Google Ads] editor. | See "[Create and upload assets](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)." |
 | | [!UICONTROL Google Import] | You can now generate your own import credential ID from [!DNL Microsoft® Advertising] when you configure a campaign import job for [!DNL Google Ads]. Previously, Adobe technical support or your Adobe Account Team provided the ID. | See "[Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft® Advertising]](/help/search-social-commerce/tools/google-campaign-replication-in-microsoft.md)." |
 | 27 June 2023 | [!UICONTROL Campaigns] | (Beta feature; [!DNL Microsoft Advertising] accounts) You can now specify campaign-level conversion goals within [!DNL Microsoft Advertising] campaign settings. Previously when you created a campaign in Search, Social, & Commerce, the account-level goals were used. | See "[[!DNL Microsoft Advertising] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)." |
