@@ -116,19 +116,19 @@ index: yes
       + Campaigns {#campaigns}
         + [Manage campaigns](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
         + Campaign settings by ad network {#campaign-settings-by-network}
-          + [Baidu campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md)
-          + [Google Ads campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
-          + [Microsoft Advertising campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)
-          + [Yahoo! Japan Ads campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md)
-          + [Yandex campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md)
+          + [[!DNL Baidu] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md)
+          + [[!DNL Google Ads] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
+          + [[!DNL Microsoft Advertising] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)
+          + [[!DNL Yahoo! Japan Ads] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md)
+          + [[!DNL Yandex] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md)
       + Ad groups {#ad-groups}
         + [Manage ad groups](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
         + Ad group settings by ad network {#ad-group-settings-by-network}
-          + [Baidu ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md)
-          + [Google Ads ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md)
-          + [Microsoft Advertising ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md)
-          + [Yahoo! Japan Ads ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md)
-          + [Yandex ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md)
+          + [[!DNL Baidu] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md)
+          + [[!DNL Google Ads] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md)
+          + [[!DNL Microsoft Advertising] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md)
+          + [[!DNL Yahoo! Japan Ads] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md)
+          + [[!DNL Yandex] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md)
       + Keywords {#keywords}
         + [About keywords](/help/search-social-commerce/campaign-management/campaigns/keyword-about.md)
         + [Manage biddable keywords](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
