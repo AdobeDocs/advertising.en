@@ -84,11 +84,41 @@ To access the [!DNL Analytics] segments, an advertiser account needs to have the
 
 For more information about the Experience Cloud Audiences service, see [Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html).
 
-## Examples of How to Use the Integration
+## Examples of How to Use the Integration {#integration-examples}
 
 ### Using Adobe Advertising Data in Analysis Workspace
 
 To learn how you can use your Adobe Advertising data to create visual reports in Analysis Workspace, see the video "[Introduction to Workspace and Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html)."
+
+#### Using Connected TV View-Through Conversions in Reports
+
+*Advertising DSP users only*
+
+You can measure the full-funnel effectiveness of your connected TV (CTV) campaigns by linking ad exposure on CTV devices to on-site conversions. To view your CTV view-through conversion metrics, use either the Placement view or the Marketing Channel view in Analysis Workspace.
+
+Using the Placement view:
+
+1. Include CTV-spending placements in the reporting view.
+
+1. Include the desired metrics, such as “Impressions”, “Clicks”, and so on.
+
+1. Apply the following filters:
+
+   Ad Platform: `Advertising Cloud DSP`
+   
+   Landing Page: `View-Through (CTV)`
+
+Using the Marketing Channel view:
+
+1. Include the dimension `Marketing Channel`.
+
+1. Include the desired metrics, such as “Impressions”, “Clicks”, and so on.
+
+1. Apply the following filters:
+
+   Ad Platform: `Advertising Cloud DSP`
+   
+   Landing Page: `View-Through (CTV)`
 
 ### Creating Adobe Advertising Dashboards
 
