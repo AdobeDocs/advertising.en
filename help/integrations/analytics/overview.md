@@ -90,19 +90,13 @@ For more information about the Experience Cloud Audiences service, see [Experien
 
 To learn how you can use your Adobe Advertising data to create visual reports in Analysis Workspace, see the video "[Introduction to Workspace and Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html)."
 
-### Creating Adobe Advertising Dashboards
+#### (DSP) Using Connected TV View-Through Conversions in Reports
 
-To learn how you can track your Adobe Advertising data against your goals in Analysis Workspace, see the video "[Create Adobe Advertising Dashboards with Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-dashboards-a4adc.html)."
-
-### Using the Adobe Advertising ID for Site Entry Analysis
-
-To see how you can create an Adobe Advertising site entry report to monitor day-of-week, time-of-day, browser, and geographical influences, see the video "[Create Adobe Advertising Site Entry Reports](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-site-entry-a4adc.html)."
-
-### (DSP) Using Connected TV View-Through Conversion Reporting
+*Advertising DSP users only*
 
 You can measure the full-funnel effectiveness of your connected TV (CTV) campaigns by linking ad exposure on CTV devices to on-site conversions. To view your CTV view-through conversion metrics, use either the Placement view or the Marketing Channel view in Analysis Workspace.
 
-#### Using the Placement View
+##### Using the Placement View
 
 1. Include CTV spending placements in the reporting view.
 
@@ -114,7 +108,7 @@ You can measure the full-funnel effectiveness of your connected TV (CTV) campaig
    
    Landing Page: `View-Through (CTV)`
 
-#### Using the Marketing Channel View
+##### Using the Marketing Channel View
 
 1. Include the dimension `Marketing Channel`.
 
@@ -125,6 +119,14 @@ You can measure the full-funnel effectiveness of your connected TV (CTV) campaig
    Ad Platform: `Advertising Cloud DSP`
    
    Landing Page: `View-Through (CTV)`
+
+### Creating Adobe Advertising Dashboards
+
+To learn how you can track your Adobe Advertising data against your goals in Analysis Workspace, see the video "[Create Adobe Advertising Dashboards with Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-dashboards-a4adc.html)."
+
+### Using the Adobe Advertising ID for Site Entry Analysis
+
+To see how you can create an Adobe Advertising site entry report to monitor day-of-week, time-of-day, browser, and geographical influences, see the video "[Create Adobe Advertising Site Entry Reports](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-site-entry-a4adc.html)."
 
 >[!MORELIKETHIS]
 >
