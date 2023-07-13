@@ -84,7 +84,7 @@ To access the [!DNL Analytics] segments, an advertiser account needs to have the
 
 For more information about the Experience Cloud Audiences service, see [Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html).
 
-## Examples of How to Use the Integration
+## Examples of How to Use the Integration {#integration-examples}
 
 ### Using Adobe Advertising Data in Analysis Workspace
 
