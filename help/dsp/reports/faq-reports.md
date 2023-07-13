@@ -5,18 +5,6 @@ exl-id: aaaf6f6d-b133-4cda-8fc6-bd686b3b1ebb
 ---
 # FAQs About Reports
 
-## Connected TV (CTV) View-Through Data
-
-### How does CTV view-through reporting differ from household conversion reporting?
-
-CTV view-through data is collected using Adobe Analytics tracking, and the Household Report uses data collected using Adobe Advertising conversion tracking.
-
-### Can I view CTV view-through data in both [!DNL Analytics for Advertising] and in custom reports?
-
-Advertisers without [!DNL Analytics for Advertising] can use only the Household Report for household conversion reporting.
-
-If your organization has [!DNL Analytics for Advertising], use both types of reporting together. While CTV view-through reporting is suitable for broad channel analysis, site behavior, and so on, custom reports provide a granular view (with data broken down by media type, publishers, and so on) to indicate the factors driving conversion rates.
-
 ## The [!UICONTROL Household] Report
 
 ### How are [!UICONTROL Household] reach and frequency reports different from other custom reports?
@@ -86,6 +74,18 @@ The [!UICONTROL Household] report empowers clients to pull household-level reach
 #### Can I use both the [!UICONTROL Household] report and [!DNL Advanced Measurement Services]?
 
 The ideal use case is to use both the [!UICONTROL Household] report and the [!DNL Advanced Measurement Services] reporting and consulting services together. Consider the [!UICONTROL Household] report as transactional, meant to inform day-to-day optimizations, and [!DNL Advanced Measurement Services] as more strategic, meant to inform holistic learnings and takeaways tied to overarching business objectives.
+
+## Connected TV (CTV) View-Through Data
+
+### How does CTV view-through reporting differ from household conversion reporting?
+
+CTV view-through data is collected using Adobe Analytics tracking, and the Household Report uses data collected using Adobe Advertising conversion tracking.
+
+### Can I view CTV view-through data in both [!DNL Analytics for Advertising] and in custom reports?
+
+Advertisers without [!DNL Analytics for Advertising] can use only the Household Report for household conversion reporting.
+
+If your organization has [!DNL Analytics for Advertising], use both types of reporting together. While CTV view-through reporting is suitable for broad channel analysis, site behavior, and so on, custom reports provide a granular view (with data broken down by media type, publishers, and so on) to indicate the factors driving conversion rates.
 
 >[!MORELIKETHIS]
 >
