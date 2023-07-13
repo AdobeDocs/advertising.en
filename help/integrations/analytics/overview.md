@@ -98,7 +98,7 @@ You can measure the full-funnel effectiveness of your connected TV (CTV) campaig
 
 Using the Placement view:
 
-1. Include CTV spending placements in the reporting view.
+1. Include CTV-spending placements in the reporting view.
 
 1. Include the desired metrics, such as “Impressions”, “Clicks”, and so on.
 
