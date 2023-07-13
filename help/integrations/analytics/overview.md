@@ -90,7 +90,7 @@ For more information about the Experience Cloud Audiences service, see [Experien
 
 To learn how you can use your Adobe Advertising data to create visual reports in Analysis Workspace, see the video "[Introduction to Workspace and Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html)."
 
-#### (DSP) Using Connected TV View-Through Conversions in Reports
+#### Using Connected TV View-Through Conversions in Reports
 
 *Advertising DSP users only*
 
