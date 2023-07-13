@@ -2,6 +2,7 @@
 title: Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer Data Access and Delete Support
 description: Learn about the supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields.
 feature: CCPA
+role: User, Developer
 exl-id: e7808411-7dc3-499c-bda1-1f5882f651b2
 ---
 # Adobe Advertising Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support

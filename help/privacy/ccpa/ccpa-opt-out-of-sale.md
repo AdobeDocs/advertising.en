@@ -2,6 +2,7 @@
 title: Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer Opt-Out-of-Sale Support
 description: Learn about support for capturing consumer opt-out-of-sale requests.
 feature: CCPA
+role: User, Developer
 exl-id: df2b8679-8a1c-4cd7-b867-cd2f53c76c8f
 ---
 # Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-Out of Sale Support
