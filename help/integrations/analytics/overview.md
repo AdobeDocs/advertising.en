@@ -96,7 +96,7 @@ To learn how you can use your Adobe Advertising data to create visual reports in
 
 You can measure the full-funnel effectiveness of your connected TV (CTV) campaigns by linking ad exposure on CTV devices to on-site conversions. To view your CTV view-through conversion metrics, use either the Placement view or the Marketing Channel view in Analysis Workspace.
 
-##### Using the Placement View
+Using the Placement view:
 
 1. Include CTV spending placements in the reporting view.
 
@@ -108,7 +108,7 @@ You can measure the full-funnel effectiveness of your connected TV (CTV) campaig
    
    Landing Page: `View-Through (CTV)`
 
-##### Using the Marketing Channel View
+Using the Marketing Channel view:
 
 1. Include the dimension `Marketing Channel`.
 
