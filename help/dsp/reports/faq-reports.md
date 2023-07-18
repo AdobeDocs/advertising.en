@@ -1,9 +1,9 @@
 ---
-title: FAQs About Reports
+title: FAQs About Custom Reports
 description: Learn more about report data, including how the [!UICONTROL Household] report is different from other reports and troubleshooting.
 exl-id: aaaf6f6d-b133-4cda-8fc6-bd686b3b1ebb
 ---
-# FAQs About Reports
+# FAQs About Custom Reports
 
 ## The [!UICONTROL Household] Report
 

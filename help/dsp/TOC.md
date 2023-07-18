@@ -201,7 +201,7 @@ index: yes
   + [Run a Custom Report](/help/dsp/reports/report-run-now.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings.md)
   + [Available Report Columns](/help/dsp/reports/report-columns.md)
-  + [FAQs About Reports](/help/dsp/reports/faq-reports.md)
+  + [FAQs About Custom Reports](/help/dsp/reports/faq-reports.md)
   + Report Destinations {#report-destinations}
     + [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
     + [Create a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)
