@@ -5,17 +5,17 @@ exl-id: aaaf6f6d-b133-4cda-8fc6-bd686b3b1ebb
 ---
 # FAQs About Household Reports
 
-## The [!UICONTROL Household] Report
+## The [!UICONTROL Household Reach & Frequency] Report
 
-### How are [!UICONTROL Household] reach and frequency reports different from other custom reports?
+### How are [!UICONTROL Household Reach & Frequency] reports different from other custom reports?
 
-The [!UICONTROL Household] report measures reach, impression, and frequency across various dimensions at a household level based on IP address. The other custom reports are generated at the device or cookie level.
+The [!UICONTROL Household Reach & Frequency] report measures reach, impression, and frequency across various dimensions at a household level based on IP address. The other custom reports are generated at the device or cookie level.
 
 For example, even if one impression is served to three devices within one household, the Unique Household Reached metric is one.
 
 #### Supported Dimensions
 
-The [!UICONTROL Household] report supports the [following dimensions](/help/dsp/reports/report-columns.md): "[!UICONTROL Campaign]," "[!UICONTROL Package]," "[!UICONTROL Placement]," "[!UICONTROL Site/Apps]" (which doesn't provide access to overlap metrics), "[!UICONTROL Media Type]," "[!UICONTROL Feed Type]," "[!UICONTROL Device]," "[!UICONTROL Publisher]," "[!UICONTROL Audience]," "[!UICONTROL Creative Length]," and user-created placement "[!UICONTROL Tags]." |
+The [!UICONTROL Household Reach & Frequency] report supports the [following dimensions](/help/dsp/reports/report-columns.md): "[!UICONTROL Campaign]," "[!UICONTROL Package]," "[!UICONTROL Placement]," "[!UICONTROL Site/Apps]" (which doesn't provide access to overlap metrics), "[!UICONTROL Media Type]," "[!UICONTROL Feed Type]," "[!UICONTROL Device]," "[!UICONTROL Publisher]," "[!UICONTROL Audience]," "[!UICONTROL Creative Length]," and user-created placement "[!UICONTROL Tags]." |
 
 #### Supported Metrics
 
@@ -45,15 +45,15 @@ The following figure shows three metrics (Unique Household Reached, Incremental 
 
 Follow the normal steps to [create a custom report](report-create.md).
 
-The [!UICONTROL Household] report can include only one dimension. It also can include either a) overlap metrics by any dimension except for Site/Apps or b) non-overlap metrics, but not both.
+The [!UICONTROL Household Reach & Frequency] report can include only one dimension. It also can include either a) overlap metrics by any dimension except for Site/Apps or b) non-overlap metrics, but not both.
 
-### What are some limitations of the [!UICONTROL Household] report?
+### What are some limitations of the [!UICONTROL Household Reach & Frequency] report?
 
 Reports with overlap metrics output intersections of up to three values. For example, if you use the metric [!UICONTROL Unique Household (Overlap)] for 10 placements, then you can see the unique households reached by individual placements, common households reached by a combination of any two placements, and common households reached by combinations of any three placements. You can't see common households reached by four or more placements.
 
 For dimensions other than campaign, package, or placement, the report supports up to 10 values in each dimension. For example, to generate a [!UICONTROL Unique Household Reached] report for the [!UICONTROL Audience] dimension, the number of unique audiences should be less than or equal to 10. If you include more then 10 unique audiences, then a blank report is generated. 
 
-### Why are the frequency and unique reach values different between my [!UICONTROL Custom] reports and the [!UICONTROL Household] report?
+### Why are the frequency and unique reach values different between my [!UICONTROL Custom] reports and the [!UICONTROL Household Reach & Frequency] report?
 
 These metrics in [!UICONTROL Household] reports are calculated using the actual count of IP addresses, whereas the metrics in the [!UICONTROL Custom] report use estimated numbers calculated using models. However, the discrepancy should be less than 10%.
 
@@ -63,29 +63,36 @@ To create tags for the placement, [open the placement settings](/help/dsp/campai
 
 When a placement includes multiple tags, the report considers the entire string as one tag. The report includes one row for each unique string.
 
-### [!UICONTROL Household] Report vs. Data from [!DNL Advanced Measurement Services]
+## The [!UICONTROL Household Conversions] Report
 
-For advanced reporting on household-based reach and frequency, the [[!DNL Strategic Advertising Consulting] team](/help/dsp/introduction/advanced-measurement-services.md) can provide highly customizable reports along with holistic strategic recommendations. For more information about [!DNL Advanced Measurement Services], contact your Adobe Account Team.
+### What are the types of attribution methods supported in [!UICONTROL Household Conversions] report?
 
-#### If I'm already using [!DNL Advanced Measurement Services], why should I use the [!UICONTROL Household] report?
+Similar to There are two types of supported attribution methods -
+* Unique: Counts the number of times a dimension value (Device/Placement etc.) was on the path to conversion. 
+* MTA (Multi-Touch Attribution):  Distributes the credit of each conversion based on frequency of occurrence of the dimension value (Device/Placement etc.) on the path to conversion. For example, if there were total of 10 impressions before conversion, 8 being on CTV and 2 being on Mobile , 80% of the credit (0.8) will be given to CTV screen while 0.2 to Mobile.
 
-The [!UICONTROL Household] report empowers clients to pull household-level reach and frequency metrics autonomously in real time.
+### How does household conversion reporting differ from CTV view-through reporting on Adobe Analytics (AA)?
 
-#### Can I use both the [!UICONTROL Household] report and [!DNL Advanced Measurement Services]?
-
-The ideal use case is to use both the [!UICONTROL Household] report and the [!DNL Advanced Measurement Services] reporting and consulting services together. Consider the [!UICONTROL Household] report as transactional, meant to inform day-to-day optimizations, and [!DNL Advanced Measurement Services] as more strategic, meant to inform holistic learnings and takeaways tied to overarching business objectives.
-
-## Connected TV (CTV) View-Through Data
-
-### How does CTV view-through reporting differ from household conversion reporting?
-
-CTV view-through data is collected using Adobe Analytics tracking, and the Household Report uses data collected using Adobe Advertising conversion tracking.
+CTV view-through data on AA is powered Adobe Analytics tracking, and the Household conversion data uses data collected using Adobe Advertising conversion tracking. In addition to that, the DSP attribution logic in AA is strictly last event while Household Conversion reporting suppport two different attribution methods - Unique & MTA   
 
 ### Can I view CTV view-through data in both [!DNL Analytics for Advertising] and in custom reports?
 
 Advertisers without [!DNL Analytics for Advertising] can use only the Household Report for household conversion reporting.
 
 If your organization has [!DNL Analytics for Advertising], use both types of reporting together. While CTV view-through reporting is suitable for broad channel analysis, site behavior, and so on, custom reports provide a granular view (with data broken down by media type, publishers, and so on) to indicate the factors driving conversion rates.
+
+
+## [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] Reports vs. Data from [!DNL Advanced Measurement Services]
+
+For advanced reporting on household-based reach & frequency or conversions, the [[!DNL Strategic Advertising Consulting] team](/help/dsp/introduction/advanced-measurement-services.md) can provide highly customizable reports along with holistic strategic recommendations. For more information about [!DNL Advanced Measurement Services], contact your Adobe Account Team.
+
+### If I'm already using [!DNL Advanced Measurement Services], why should I use the [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] reports?
+
+The [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] reports empowers clients to pull household-level reach, frequency & conversion metrics respectively autonomously in real time.
+
+### Can I use both the [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] reports and [!DNL Advanced Measurement Services]?
+
+The ideal use case is to use both the [!UICONTROL Household] report and the [!DNL Advanced Measurement Services] reporting and consulting services together. Consider the [!UICONTROL Household] report as transactional, meant to inform day-to-day optimizations, and [!DNL Advanced Measurement Services] as more strategic, meant to inform holistic learnings and takeaways tied to overarching business objectives.
 
 >[!MORELIKETHIS]
 >
