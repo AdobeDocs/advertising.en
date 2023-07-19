@@ -122,10 +122,6 @@ Using the Marketing Channel view:
    
    Landing Page: `View-Through (CTV)`
 
->[!NOTE]
->
-> View-through conversions for CTV placements are also available in the [DSP [!UICONTROL Household Conversions Report]](/help/dsp/reports/report-about.md).
-
 ### Creating Adobe Advertising Dashboards
 
 To learn how you can track your Adobe Advertising data against your goals in Analysis Workspace, see the video "[Create Adobe Advertising Dashboards with Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-dashboards-a4adc.html)."
