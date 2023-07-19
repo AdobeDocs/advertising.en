@@ -58,13 +58,22 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 **[!UICONTROL Drag to Re-Order Report Headers Below]:** The order of the column headers. You can drag and drop any column to customize the order.
 
-## [!UICONTROL Multi-Touch Conversion Options] Section
-
 **[!UICONTROL Format]:** Whether to generate a report in *[!UICONTROL CSV]* (comma-separated values) or *[!UICONTROL Tab]* (tab-separated values) format.
 
-**[!UICONTROL Report Headers]:** Whether to *[!UICONTROL Include]* or *[!UICONTROL Do Not Include]* column headers.
+**[!UICONTROL Headers]:** Whether to *[!UICONTROL Include]* or *[!UICONTROL Do Not Include]* column headers.
 
-**[!UICONTROL Attribution Rule Settings]:** (All [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], and [!UICONTROL Site] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns; advertisers with Adobe Advertising conversion tracking only) Within the report, how to attribute conversion data in a series of events that lead to a conversion. You can choose more than one rule if you want to compare differences between the rules.
+## [!UICONTROL Multi-Touch Conversion Options] Section
+
+
+### [!UICONTROL Attribution Rule Settings]
+
+**\[Attribution Type\]:** ([!UICONTROL Household Conversion] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns; advertisers with Adobe Advertising conversion tracking only) Within the report, how to attribute conversion data in a series of events that lead to a conversion:
+
+* [!UICONTROL Unique]: (The default) Counts the number of times a dimension value (such as a device or placement) was on the path to conversion. 
+
+* [!UICONTROL Multi-Touch Attribution (MTA)]:  Distributes the credit of each conversion based on the frequency of occurrence of the dimension value (such as a device or placement) on the path to conversion. For example, if there were total of 10 impressions before conversion, with 8 on CTV and 2 on Mobile, then 80% of the credit (0.8) is given to CTV screens and 0.2 to Mobile.
+
+**\[Rule Type\]:** (All [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], and [!UICONTROL Site] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns; advertisers with Adobe Advertising conversion tracking only) Within the report, how to attribute conversion data in a series of events that lead to a conversion. You can choose more than one rule if you want to compare differences between the rules.
 
 >[!NOTE]
 >
