@@ -1,6 +1,6 @@
 ---
 title: FAQs About Household Reports
-description: Learn more about report data, including how the [!UICONTROL Household] reports are different from other reports and troubleshooting.
+description: Learn more about household reach, frequency, and conversion data, including how the household reports are different from other reports and troubleshooting.
 exl-id: aaaf6f6d-b133-4cda-8fc6-bd686b3b1ebb
 ---
 # FAQs About Household Reports
