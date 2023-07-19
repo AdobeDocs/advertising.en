@@ -85,11 +85,11 @@ If your organization has [!DNL Analytics for Advertising], use both types of rep
 
 ## [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] Reports vs. Data from [!DNL Advanced Measurement Services]
 
-For advanced reporting on household-based reach & frequency or conversions, the [[!DNL Strategic Advertising Consulting] team](/help/dsp/introduction/advanced-measurement-services.md) can provide highly customizable reports along with holistic strategic recommendations. For more information about [!DNL Advanced Measurement Services], contact your Adobe Account Team.
+For advanced reporting on household-based reach and frequency or conversions, the [[!DNL Strategic Advertising Consulting] team](/help/dsp/introduction/advanced-measurement-services.md) can provide highly customizable reports along with holistic strategic recommendations. For more information about [!DNL Advanced Measurement Services], contact your Adobe Account Team.
 
 ### If I'm already using [!DNL Advanced Measurement Services], why should I use the [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] reports?
 
-The [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] reports empowers clients to pull household-level reach, frequency & conversion metrics respectively autonomously in real time.
+The [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] reports empowers clients to pull household-level reach, frequency, and conversion metrics respectively autonomously in real time.
 
 ### Can I use both the [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] reports and [!DNL Advanced Measurement Services]?
 
