@@ -69,9 +69,9 @@ When a placement includes multiple tags, the report considers the entire string 
 
 Two types of attribution methods are supported:
 
-* Unique: Counts the number of times a dimension value (such as a device or placement) was on the path to conversion. 
+* [!UICONTROL Unique]: Counts the number of times a dimension value (such as a device or placement) was on the path to conversion. 
 
-* MTA (Multi-Touch Attribution):  Distributes the credit of each conversion based on the frequency of occurrence of the dimension value (such as a device or placement) on the path to conversion. For example, if there were total of 10 impressions before conversion, with 8 on CTV and 2 on Mobile, then 80% of the credit (0.8) is given to CTV screens and 0.2 to Mobile.
+* [!UICONTROL Multi-Touch Attribution (MTA)]:  Distributes the credit of each conversion based on the frequency of occurrence of the dimension value (such as a device or placement) on the path to conversion. For example, if there were total of 10 impressions before conversion, with 8 on CTV and 2 on Mobile, then 80% of the credit (0.8) is given to CTV screens and 0.2 to Mobile.
 
 ### How does household conversion reporting differ from CTV view-through reporting in Adobe Analytics?
 
