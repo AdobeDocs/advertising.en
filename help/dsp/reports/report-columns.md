@@ -56,6 +56,13 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Placement]| The placement.<!-- Note: The Placement dimensions include another dimension called Placement Name -->|
 |[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Site/Apps]| The site or app on which the ad impression was served. The report supports up to 10 unique sites or apps.|
 |[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Tags]| The placement tag used as a custom identifier for the placement. The report supports up to 10 unique placement tags. <!-- Note: The Placement dimensions include another dimension called Placement Tags. --> |
+|[!UICONTROL Dimension]|[!UICONTROL Household Conversions]|[!UICONTROL Audience]| The audience. |
+|[!UICONTROL Dimension]|[!UICONTROL Household Conversions]|[!UICONTROL Campaign]| The campaign. |
+|[!UICONTROL Dimension]|[!UICONTROL Household Conversions]|[!UICONTROL Creative Length]| The length of the creative. |
+|[!UICONTROL Dimension]|[!UICONTROL Household Conversions]|[!UICONTROL Device]| The device. (such as CTV, Desktop etc.)|
+|[!UICONTROL Dimension]|[!UICONTROL Household Conversions]|[!UICONTROL Media Type]| The media type. (such as Display, Audio etc.) |
+|[!UICONTROL Dimension]|[!UICONTROL Household Conversions]|[!UICONTROL Publisher]| The publisher. |
+|[!UICONTROL Dimension]|[!UICONTROL Household Conversions]|[!UICONTROL Placement]| The placement.|
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package End Date]|The end date for the package.|
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package Goal Type]|The pacing goal amount for the package. This amount is in either spend or impressions.|
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package ID]|The unique identifier for the package in DSP.|
@@ -104,6 +111,15 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Total Media Spend] | The total spend. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Unique Household Reached] | The total unique households (distinct IP addresses) reached. |
 |[!UICONTROL Metric]|[!UICONTROL Household] | [!UICONTROL Unique Household (Overlap)] | The total unique households (distinct IP addresses) reached only by the reported dimension, including intersections of up to three values for the dimension. For example, if you use the [!UICONTROL Placement] dimension, then you can see the unique households reached by individual placements, common households reached by a combination of any two placements, and common households reached by combinations of any three placements.  |
+|[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Cost per Incremental HH ] | The Total Spend divided by Incremental Household Reached. |
+|[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Cost per Unique HH ] | The Total Spend divided by Unique Household Reached. |
+|[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Frequency ] | The frequency of impressions per household. |
+|[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Incremental Household Reached ] | The number of households that were reached by only the reported dimension, calculated as [IP addresses that were reached by only the reported dimension] - [IP addresses that were reached by any other dimension]. |
+|[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL % Incremental Household Reached ] | The percentage of households that were reached by only the reported dimension, calculated as [the percentage of IP addresses that were reached by the dimension] - [the percentage IP addresses that were reached by any other dimension]. |
+|[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Impressions ] | 	The total number of ad impressions served. |
+|[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Measurable Impressions ] | The total number of impressions served that were able to be measured for viewability. |
+|[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Total Media Spend ] | The total spend. |
+|[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Unique Household Reached ] | The total unique households (distinct IP addresses) reached. |
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPA]|The average gross cost per acquisition, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Custom Goal]</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPC]|The average gross cost per ad click, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks]</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPCV]|The average cost per completed video view, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL 100% Completions]</code>.|
