@@ -116,7 +116,7 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Frequency ] | The frequency of impressions per household. |
 |[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Incremental Household Reached ] | The number of households that were reached by only the reported dimension, calculated as [IP addresses that were reached by only the reported dimension] - [IP addresses that were reached by any other dimension]. |
 |[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL % Incremental Household Reached ] | The percentage of households that were reached by only the reported dimension, calculated as [the percentage of IP addresses that were reached by the dimension] - [the percentage IP addresses that were reached by any other dimension]. |
-|[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Impressions ] | 	The total number of ad impressions served. |
+|[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Impressions ] | The total number of ad impressions served. |
 |[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Measurable Impressions ] | The total number of impressions served that were able to be measured for viewability. |
 |[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Total Media Spend ] | The total spend. |
 |[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Unique Household Reached ] | The total unique households (distinct IP addresses) reached. |
