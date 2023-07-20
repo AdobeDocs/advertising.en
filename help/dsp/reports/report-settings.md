@@ -64,7 +64,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 ## [!UICONTROL Multi-Touch Conversion Options] Section
 
-**[!UICONTROL Attribution Rule Settings]** The settings vary by report type:
+**[!UICONTROL Attribution Rule Settings]:** The settings vary by report type:
 
 * **\[Attribution Type\]:** ([!UICONTROL Household Conversion] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns; advertisers with Adobe Advertising conversion tracking only) Within the report, how to attribute conversion data in a series of events that lead to a conversion:
   
