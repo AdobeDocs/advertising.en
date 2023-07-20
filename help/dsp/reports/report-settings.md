@@ -144,7 +144,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 ## [!UICONTROL Save Report] Section
 
-**[!UICONTROL Send & Save]:** When to send the report: *[!UICONTROL On Schedule]* or *[!UICONTROL Run Now]*. Scheduled reports will be delivered by 09:00 in the account's timezone.
+**[!UICONTROL Send & Save]:** When to send the report: *[!UICONTROL On Schedule]* or *[!UICONTROL Run Now]*. Scheduled reports are delivered by 09:00 in the account's timezone.
 
 >[!NOTE]
 >
