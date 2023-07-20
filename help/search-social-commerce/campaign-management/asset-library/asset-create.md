@@ -8,7 +8,7 @@ description: Learn how to create reusable image, video, and text assets and uplo
 
 *Open beta feature*
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Asset Library (Beta)]**.
+1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Asset Library]**.
 
 1. In the upper right, select the ad network and the account.
 
