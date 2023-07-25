@@ -6,7 +6,7 @@ exl-id: b71caa80-d1f6-4f42-90c3-a3e19acb2c6c
 ---
 # Adobe Advertising DSP Data Usage Guidelines
 
-*Last Updated: September 5, 2019*
+*Last Updated: September 5, 2019 (except for updating the URL of this page)*
 
 *For Adobe Advertising DSP*
 
