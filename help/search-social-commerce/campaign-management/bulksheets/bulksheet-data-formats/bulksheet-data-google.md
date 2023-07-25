@@ -73,7 +73,7 @@ For the data fields relevant for account entities, see "[Fields required to crea
 | [!UICONTROL Display Path 2] | A second display path; see the entry for [!UICONTROL Display Path 1].<br><br>Example: If [!UICONTROL Display Path 1] is &quot;deals&quot; and [!UICONTROL Display Path 2] is &quot;local,&quot; then the display URL is &lt;<i>display URL</i>&gt;/deals/local, such as www.example.com/deals/local.</p><p>You can't create or edit, but you can delete, expanded text ads, which [!DNL Google Ads] deprecated in June 2022.</p> |
 | [!UICONTROL Promotion Line] | (Product listing ads only) An optional promotion line to be included with the product listing in search results. The maximum length is 45 characters.</p><p>The promotion line may appear in different locations relative to the ad (such as below the ad) depending on where the ad appears on the page. |
 | [!UICONTROL Link Name] | <p>The sitelink text. It can include up to 25 characters.</p><p>For new sitelinks, you must include the campaign name within the sitelink row. For ad group-level sitelinks, you must also include the ad group name.</p><p><b>Note:</b> Existing text of 35 characters are still displayed in ads on desktops and tablets but not on mobile devices.</p> |
-| [!UICONTROL Mobile App Platform (Google Adwords)] | (Existing app install ads only) The operating system on which the mobile application runs: <i>Android™</i> or <i>ios</i>. |
+| [!UICONTROL Mobile App Platform (Google Adwords)] | (Existing app install ads only) The operating system on which the mobile application runs: <i>Android&trade;</i> or <i>ios</i>. |
 | [!UICONTROL Mobile App ID (Google Adwords)] | (Existing app install ads only) <p>The application ID or package name. |
 | [!UICONTROL Mobile App Name (Google Adwords)] | (Existing app install ads only) The name of the application. |
 | [!UICONTROL Start Date] | <p>(Enhanced sitelinks only) The first date on which bids may be placed for the sitelink, in the advertiser's time zone and in one of the following formats: <span style="font-style: italic;"><i>m/d/yyyy</i></span>, <span style="font-style: italic;"><i>m/d/yy</i></span>, <span style="font-style: italic;"><i>m-d-yyyy</i></span>, or <span style="font-style: italic;"><i>m-d-yy</i></span>. The default for new enhanced sitelinks is the current day.</p><p><b>Note:</b> New enhanced sitelinks can be created only in campaigns with existing enhanced sitelinks or no sitelinks.</p> |
@@ -205,7 +205,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL Constraints] | Optional |
 | [!UICONTROL Campaign ID] | Optional |
 | [!UICONTROL Ad Group ID] | Optional |
-| [!UICONTROL Keyword ID] | Required only when you edit or delete the keyword, unless the row includes a) sufficient property columns to identify the keyword or b) an "[!UICONTROL AMO ID]." |
+| [!UICONTROL Keyword ID] | Required only when you edit or delete the keyword, unless the row includes a&#41; sufficient property columns to identify the keyword or b&#41; an "[!UICONTROL AMO ID]." |
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Placement fields
@@ -229,7 +229,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL Constraints] | Optional |
 | [!UICONTROL Campaign ID] | Optional |
 | [!UICONTROL Ad Group ID] | Optional |
-| [!UICONTROL Placement ID] | Required only when you edit or delete the placement, unless the row includes a) sufficient property columns to identify the placement or b) an "[!UICONTROL AMO ID]." |
+| [!UICONTROL Placement ID] | Required only when you edit or delete the placement, unless the row includes a&#41; sufficient property columns to identify the placement or b&#41; an "[!UICONTROL AMO ID]." |
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Expanded dynamic search ad
