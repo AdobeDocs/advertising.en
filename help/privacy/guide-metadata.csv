@@ -1,0 +1,7 @@
+"filename","title","feature","role"
+"./metadata.md","","",""
+"./help/privacy/TOC.md","","","User, Admin"
+"./help/privacy/home.md","Adobe Advertising Support for Consumer Privacy","",""
+"./help/privacy/gdpr.md","Adobe Advertising Support for the General Data Protection Regulation","GDPR","User, Developer"
+"./help/privacy/ccpa/ccpa-access-delete.md","Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer Data Access and Delete Support","CCPA","User, Developer"
+"./help/privacy/ccpa/ccpa-opt-out-of-sale.md","Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer Opt-Out-of-Sale Support","CCPA","User, Developer"
