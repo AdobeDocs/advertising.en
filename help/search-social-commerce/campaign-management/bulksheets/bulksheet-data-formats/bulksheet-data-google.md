@@ -11,9 +11,9 @@ Each bulksheet must include the header fields and corresponding data fields requ
 
 Following are a table of all available data fields and additional tables indicating which fields are required to add, edit, or delete data for individual entities (such as campaigns and keywords).
 
-## All available data fields
+## All available data fields {#bulksheet-fields-all-google}
 
-The following table shows all available data fields.
+The following table describes all available data fields.
 
 For the data fields relevant for account entities, see "[Fields required to create, edit, or delete each account component](#bulksheet-fields-per-component-google).
 
@@ -123,6 +123,10 @@ For the data fields relevant for account entities, see "[Fields required to crea
 [^1]: [!DNL Excel] converts large numbers to scientific notation (such as 2.12E+09 for 2115585666) when it opens the file. To view digits in the standard notation, select any cell in the column and click inside the formula bar.
 
 ## Fields required to create, edit, or delete each account component {#bulksheet-fields-per-component-google}
+
+The following sections include the fields relevant to specific account entities.
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
 
 >[!NOTE]
 >
