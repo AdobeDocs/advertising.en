@@ -6,9 +6,9 @@ exl-id: 217cce8e-3bb3-407a-a05e-7fff2978eac8
 ---
 # Adobe Advertising Ad Requirements Policy
 
-*Last updated: July 12, 2021*
+*Last updated: July 12, 2021 (except for updated product names and URL of this page)*
 
-*For Adobe Advertising DSP and Adobe Advertising Search*
+*For Adobe Advertising DSP and Adobe Advertising Search, Social, & Commerce*
 
 This Ads Requirements Policy (“Policy”) sets forth the requirements for Ads distributed via Adobe’s On-demand Services for Adobe Advertising (“Services”). This Policy is incorporated by reference into the Agreement between Adobe and the Customer (“you”) using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
 
