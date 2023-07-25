@@ -175,8 +175,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Ad Group Name] | Required  |
@@ -206,8 +206,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Ad Group Name] | Required  |
@@ -231,8 +231,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Ad Group Name] | Required  |
@@ -255,8 +255,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Ad Group Name] | Required  |
@@ -281,8 +281,8 @@ For this ad type, use the "[!UICONTROL Responsive Search Ad]" row in the [!UICON
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Ad Group Name] | Required  | |
@@ -313,8 +313,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Ad Group Name] | Required  |
@@ -343,8 +343,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Ad Group Name] | Required  |
@@ -364,8 +364,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Ad Group Name] | Required  |
@@ -388,8 +388,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | Description Line 1 | Optional |
@@ -410,8 +410,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Location] | Required |
@@ -425,8 +425,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? | 
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Device] | Required to delete a device target. |
@@ -441,8 +441,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | Description |
-| ---- | ---- | ---- |
+| Field | Required? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Ad Group Name] | Required for ad group-level targets. Not applicable for campaign-level targets. |
