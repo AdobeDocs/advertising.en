@@ -15,7 +15,7 @@ Following are a table of all available data fields and additional tables indicat
 
 The following table describes all available data fields.
 
-For the data fields relevant for account entities, see "[Fields required to create, edit, or delete each account component](#bulksheet-fields-per-component-microsoft).
+For the data fields relevant for account entities, see "[Fields required to create, edit, or delete each account component](#bulksheet-fields-per-component-microsoft)."
 
 | Field | Description |
 |----|----|
@@ -115,13 +115,13 @@ For the data fields relevant for account entities, see "[Fields required to crea
 
 The following sections include the fields relevant to specific account entities.
 
-For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
-
 >[!NOTE]
 >
 >When a field isn't applicable to an action, any value entered in the field is ignored.
 
 ### Campaign fields
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
 | Field | Required? |
 | ---- | ---- |
@@ -149,6 +149,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 ### Ad group fields
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
+
 | Field | Required? |
 | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -170,6 +172,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Keyword fields
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -200,6 +204,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
+
 | Field | Required? | Description |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -223,6 +229,8 @@ For more information about creating shopping ads, see "[Implement [!DNL Microsof
 
 For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
+
 | Field | Required? | Description |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -244,6 +252,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 ### Responsive (multimedia) ad fields
 
 For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -268,6 +278,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 ### Responsive search ad fields
 
 For this ad type, use the "[!UICONTROL Responsive Search Ad]" row in the [!UICONTROL Download Bulksheet] dialog.
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -299,6 +311,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 >
 >Expanded text ads were deprecated. You can only delete existing text ads.
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
+
 | Field | Required? | Description |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -327,6 +341,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 >
 >Create support isn't available.
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
+
 | Field | Required? | Description |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -345,6 +361,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Shopping product group fields
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -368,6 +386,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 
 ### Campaign-level sitelink fields
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
+
 | Field | Required? | Description |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -388,6 +408,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 
 ### Location target fields
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
+
 | Field | Required? | Description |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -400,6 +422,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the campaign ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Campaign-level and ad group-level device target fields
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -414,6 +438,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the Device Target ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Campaign-level and ad group-level RLSA target fields
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |

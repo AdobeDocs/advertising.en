@@ -15,7 +15,7 @@ Following are a table of all available data fields and additional tables indicat
 
 The following table describes all available data fields.
 
-For the data fields relevant for account entities, see "[Fields required to create, edit, or delete each account component](#bulksheet-fields-per-component-google).
+For the data fields relevant for account entities, see "[Fields required to create, edit, or delete each account component](#bulksheet-fields-per-component-google)."
 
 >[!NOTE]
 >
@@ -126,13 +126,13 @@ For the data fields relevant for account entities, see "[Fields required to crea
 
 The following sections include the fields relevant to specific account entities.
 
-For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
-
 >[!NOTE]
 >
 >When a field isn't applicable to an action, any value entered in the field is ignored.
 
 ### Campaign fields
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
 
 | Field | Required? |
 | ---- | ---- |
@@ -163,6 +163,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 ### Ad group fields
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
+
 | Field | Required? |
 | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -182,6 +184,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Keyword fields
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -205,6 +209,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Placement fields
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -232,6 +238,8 @@ This ad type is now called "dynamic search ad" in [!DNL Google Ads]. For more in
 
 For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
+
 | Field | Required? | Description |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -255,6 +263,8 @@ For more information about creating shopping ads, see "[Implement [!DNL Google A
 
 For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
+
 | Field | Required? | Description |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -276,6 +286,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 ### Responsive search ad fields 
 
 For this ad type, use the "[!UICONTROL Responsive Search Ad]" row in the [!UICONTROL Download Bulksheet] dialog.
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -302,6 +314,8 @@ For this ad type, use the "[!UICONTROL Responsive Search Ad]" row in the [!UICON
 ### Text ad fields
 
 For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
 
 >[!NOTE]
 >
@@ -331,6 +345,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 
 ### Dynamic search target (auto target) fields
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
+
 | Field | Required? | Description |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -348,6 +364,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Shopping product group fields
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -371,6 +389,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 
 ### Campaign-level and ad group-level sitelink fields
 
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
+
 | Field | Required? | Description |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
@@ -388,7 +408,9 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 | [!UICONTROL Sitelink ID] | Required only when you change or delete the sitelink, unless the row includes a) sufficient property columns to identify the sitelink or b) an "[!UICONTROL AMO ID]." However, if you include neither [!UICONTROL Sitelink ID] nor [!UICONTROL AMO ID]  and the property columns match multiple sitelinks, then the status for only one of the sitelinks will changes.<br><br><b>Note:</b> If you edit sitelink property columns except [!UICONTROL Status] for an existing sitelink, and you don't include either the [!UICONTROL Sitelink ID] nor [!UICONTROL AMO ID], then a new sitelink is created, and the existing sitelink isn't changed. |
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
-### Location target fields
+### Location target 
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -402,6 +424,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the [!UICONTROL Campaign ID].<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Campaign-level and ad group-level device target fields
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
@@ -417,6 +441,8 @@ For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICO
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the Device Target ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Campaign-level and ad group-level RLSA target/exclusion fields
+
+For a description of each data field, see "[All available data fields](#bulksheet-fields-all-google)."
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
