@@ -7,11 +7,22 @@ exl-id: 1e35f503-c2fe-459c-ad13-6b8cf65be67e
 
 To create and update [!DNL Google Ads] campaign data in bulk, you can use Search, Social, & Commerce bulksheet files formatted specifically for [!DNL Google Ads] accounts. You can either a) [generate bulk sheet files for existing accounts](../bulksheet-download.md) in the required file format or b) create them manually (see "[Supported Bulksheet File Formats](bulksheet-file-formats.md)" for general information about the supported file formats).
 
-{{$include /help/_includes/bulksheet-appendices-intro.md}}
+Each bulksheet must include the header fields and corresponding data fields required for the [specific operations you want to perform](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-operations.md) (such as creating an ad). When a field isn't required, you can omit it from the header and data rows. All custom columns are deleted when you upload the bulk sheet file.
+
+Following are a table of all available data fields and additional tables indicating which fields are required to add, edit, or delete data for individual entities (such as campaigns and keywords).
 
 ## All available data fields
 
-{{$include /help/_includes/bulksheet-appendices-intro-required-data.md}}
+The following table shows all available data fields.
+
+For the data fields relevant for account entities, see "[Fields required to create, edit, or delete each account component](#bulksheet-fields-per-component-google).
+
+>[!NOTE]
+>
+>* The values in all text columns are case-sensitive.
+>* When you create a new record and don't include values for all required data fields, then some of those fields are assigned the specified default values.
+>* For fields that aren't specified below, the default value for the ad network is used.
+>* For a list of available bulksheet rows in the [!UICONTROL Download Bulksheet] dialog, see "[Bulksheet rows by ad network](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md#bulksheet-rows-by-ad-network)."
 
 | Field | Description |
 | ---- | ---- |
@@ -111,7 +122,11 @@ To create and update [!DNL Google Ads] campaign data in bulk, you can use Search
 
 [^1]: [!DNL Excel] converts large numbers to scientific notation (such as 2.12E+09 for 2115585666) when it opens the file. To view digits in the standard notation, select any cell in the column and click inside the formula bar.
 
-## Fields required to create, edit, or delete each account component
+## Fields required to create, edit, or delete each account component {#bulksheet-fields-per-component-google}
+
+>[!NOTE]
+>
+>When a field isn't applicable to an action, any value entered in the field is ignored.
 
 ### Campaign fields
 
