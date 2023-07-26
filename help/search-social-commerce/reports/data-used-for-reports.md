@@ -7,7 +7,7 @@ exl-id: 3e1f2967-5034-46bc-8473-63cffeeeecba
 
 Search, Social, & Commerce includes a comprehensive set of performance reports based on click and conversion data. You can view basic performance data for the various components of a portfolio or ad account from the [!UICONTROL Portfolios] and [!UICONTROL Campaigns] views as well as by generating various basic and advanced reports.
 
-Advertisers who use the Adobe Advertising conversion tracking service also can identify the number of clicks for a geographical location or domain name of a referring website, how ads in each channel and the various events leading to a conversion contribute to the overall conversion rate, and the distribution of conversions for a single [transaction property](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md) by marketing channel. The reports available vary by user account type. The Adobe Account Team has access to all reports.
+Advertisers who use the Adobe Advertising conversion tracking service also can identify the number of clicks for a geographical location or domain name of a referring website, how ads in each channel and the various events leading to a conversion contribute to the overall conversion rate, and the distribution of conversions for a single [conversion metric](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) by marketing channel. The reports available vary by user account type. The Adobe Account Team has access to all reports.
 
 Most reports can be customized to display only the information you want to see. The following standard metrics are available in most reports and are calculated at the ad level:
 
@@ -25,7 +25,7 @@ Most reports can be customized to display only the information you want to see. 
    
    * **[!UICONTROL Estimated Clicks]:** (Included in advanced reports for advertisers with the Adobe Advertising conversion tracking service only) The total number of estimated clicks for a city or domain name of a referring website. This may include data for ad networks for which an advertiser doesn't have an advertising account.
 
-* **Conversion metrics:** The total number of conversions for each of the advertiser's [transaction properties](/help/search-social-commerce/glossary.md#s-t), or transaction data tracked toward a conversion type. This can include conversion and site engagement metrics, but not calculated metrics and advanced calculated metrics, that are synced from Adobe Analytics.
+* **Conversion metrics:** The total number of conversions for each of the advertiser's conversion metrics, or transaction data tracked toward a conversion metric. This can include conversion and site engagement metrics, but not calculated metrics and advanced calculated metrics, that are synced from Adobe Analytics.
 
   This also may include [[!DNL Google Ads]-tracked conversions](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md) and [[!DNL Google Analytics]-tracked conversions](/help/search-social-commerce/admin/data-sources/data-source-about.md) that are synced for the advertiser account.
 

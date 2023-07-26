@@ -27,11 +27,11 @@ The following are the columns that are available for each report. The default co
 | [!UICONTROL First Event Type] | Default | The event type of the first (earliest) event in the conversion path. |
 | [!UICONTROL Last Event Type] | Default | The event type of the last event that resulted in conversions (even if the last event is outside the specified path size). |
 | \[Advertiser-specific custom (derived) metrics\] | Custom | The value for a custom metric you've created that’s calculated from existing metrics. |
-| \[Advertiser-specific transaction properties\] | Custom | The number of conversions for a specified transaction property or site engagement metric. |
-| [!UICONTROL % of Total] \[transaction property\] | Automatic | (Not available in report settings but automatically included in report output for each transaction property included) The percentage of your overall conversions across portfolios that were attributed to the event pattern. |
+| \[Advertiser-specific conversion metrics\] | Custom | The number of conversions for a specified conversion metric or site engagement metric. |
+| [!UICONTROL % of Total] \[conversion metric\] | Automatic | (Not available in report settings but automatically included in report output for each conversion metric included) The percentage of your overall conversions across portfolios that were attributed to the event pattern. |
 | [!UICONTROL 6th Event] to [!UICONTROL 30th Event] | Custom | The sixth through 30th event types in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j). |
-| [!UICONTROL Avg. Conv. Latency (First Channel To Conversion)] \[transaction property\] | Automatic | (Not available in report settings but automatically included in report output for each transaction property included) The average latency in days from the first event to a conversion. |
-| [!UICONTROL Avg. Conv. Latency (Last Channel To Conversion)] \[transaction property\] | Automatic | (Not available in report settings but automatically included in report output) The average latency in days from the last event to a conversion. |
+| [!UICONTROL Avg. Conv. Latency (First Channel To Conversion)] \[conversion metric\] | Automatic | (Not available in report settings but automatically included in report output for each conversion metric included) The average latency in days from the first event to a conversion. |
+| [!UICONTROL Avg. Conv. Latency (Last Channel To Conversion)] \[conversion metric\] | Automatic | (Not available in report settings but automatically included in report output) The average latency in days from the last event to a conversion. |
 | [!UICONTROL Path Frequency] | Custom | The number of times that the path for this row occurred before conversion. |
 
 <table style="table-layout:auto">

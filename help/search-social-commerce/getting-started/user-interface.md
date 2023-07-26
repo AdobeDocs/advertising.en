@@ -33,7 +33,7 @@ Under the [!UICONTROL Search] option, you'll see the following submenus. The ava
 
 * **[!UICONTROL Tools]** &mdash; This menu includes options to change your account password, generate tags to track conversions from website pages, generate and decode click-tracking URLs, and upload metrics for search tracking campaigns.
 
-* **[!UICONTROL Admin]** &mdash; The [!UICONTROL Admin] menu includes options to change the display names of an advertiser's transaction properties in data tables and reports, configure settings to sync with an Adobe Audience Manager account, and sync conversion metrics for a specific [!DNL Google Analytics] account, property, and view combination. Depending on your role, it may allow you to manage advertiser accounts, agency accounts, user roles, and user accounts.
+* **[!UICONTROL Admin]** &mdash; The [!UICONTROL Admin] menu includes options to change the display names of an advertiser's conversion metrics in data tables and reports, configure settings to sync with an Adobe Audience Manager account, and sync conversion metrics for a specific [!DNL Google Analytics] account, property, and view combination. Depending on your role, it may allow you to manage advertiser accounts, agency accounts, user roles, and user accounts.
 
 ## Other task- and information-based menus on the right
 

@@ -7,11 +7,11 @@ exl-id: 0f55aae9-6898-4967-a377-190a13dff6fd
 
 New users should perform the following initial setup tasks:
 
-* Make the transaction properties that Adobe Advertising is tracking for an advertiser [available for reports and other views](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md), and optionally [rename any of the property names](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-display-name.md) that are displayed in column headings for readability.
+* Make the conversion metrics that Adobe Advertising is tracking for an advertiser [available for reports and other views](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md), and optionally [rename any of the conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md) that are displayed in column headings for readability.
   
   Transactions properties aren't available for reports unless you specifically make them available.
   
-  If you later begin to track a new transaction property, then you'll need to repeat this task.
+  If you later begin to track a new conversion metric, then you'll need to repeat this task.
 
 * (Optional) Automate report generation:
    

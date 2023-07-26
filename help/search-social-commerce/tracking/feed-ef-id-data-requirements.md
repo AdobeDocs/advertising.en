@@ -20,7 +20,7 @@ Following are the header fields and corresponding data fields required for each 
 
 ## Example
 
-The following example file includes data for two transaction properties (Product and Revenue).
+The following example file includes data for two conversion metrics (Product and Revenue).
 
 ```
 EF ID,Client Transaction ID, Transaction Date,Product,Revenue

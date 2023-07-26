@@ -52,7 +52,7 @@ The optimization capability builds its revenue models for each bid unit daily to
 If you don't want the data for the period to affect future bids at all, then you can choose to exclude those dates from the model. Contact your Adobe Account Team to exclude the dates.
 +++
 
-+++Can I create a report on a specific property metric, such as [!UICONTROL Device] or [!UICONTROL Objective Name]?
++++Can I create a report on a specific account property metric, such as [!UICONTROL Device] or [!UICONTROL Objective Name]?
 For campaign entity reports ([!UICONTROL Campaign Report], [!UICONTROL Ad Group Report], [!UICONTROL Ad Variation Report], [!UICONTROL Keyword Report], and [!UICONTROL Product Group Report]), metrics data is dynamically aggregated by the property columns you include in the report. You can optionally remove the key column for the report and include only the property columns for which you want to aggregate data.
 
 For example, if you generate a [!UICONTROL Keyword Report] that includes the [!UICONTROL Ad Group] and [!UICONTROL] Device columns, then, by default, the report aggregates metrics for each keyword by ad group and device type. However, if you remove the [!UICONTROL Keyword] column before you generate the report, then the report dynamically generates metrics for the specified ad groups by device type.
@@ -100,7 +100,7 @@ Revenue data issues can occur because of a tracking or feed file issue. Contact 
 By default, all monetary data in reports is shown in the format for US dollars (such as 1,000.00). To display the value in the correct currency format (but without any currency symbols in CSV and TSV formats), add the "[!UICONTROL Currency]" column to the report. If the report includes data for accounts with different currencies, then any "[!UICONTROL Total]" monetary values are simply the sum of all numbers in the column, regardless of currency.
 +++
   
-+++Why do I see decimal values for a transaction property that should be a natural number (1, 2, and so on)?
++++Why do I see decimal values for a conversion metric that should be a natural number (1, 2, and so on)?
 You may see decimal values in the following cases:
 
 * If you ran the report using any conversion attribution rule parameter other than [!UICONTROL Last Event] or [!UICONTROL First Event], then the revenue may be split between multiple events in the conversion path.
@@ -155,13 +155,13 @@ The report may not include conversion metrics for which conversions occurred.
 
 * The conversion tracking tag isn't implemented correctly on all applicable webpages or was edited.
 
-* The transaction properties that Search, Social, & Commerce is tracking are excluded from reports and therefore not visible.
+* The conversion metrics that Search, Social, & Commerce is tracking are excluded from reports and therefore not visible.
 
 * The revenue parser for the client wasn't implemented.
 
 *Possible solution or work-around:*
 
-1. Verify that the correct columns are included in the reports or data views. If the correct columns aren't available to add, then you or your Adobe Account Team must [make the transaction properties available to reports](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
+1. Verify that the correct columns are included in the reports or data views. If the correct columns aren't available to add, then you or your Adobe Account Team must [make the conversion metrics available to reports](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
 1. Verify that the correct conversion tracking tags are implemented on all applicable webpages. If necessary, ask your Adobe Account Team to create a test transaction for each applicable conversion tracking tag and to capture the details of the transaction, such as the `transactionid` and details from the cookie (such as the `trackingid`, `clickid`, and so on).
 
@@ -181,7 +181,7 @@ The report may not include conversion metrics for which conversions occurred.
 
 * The feed file wasn't delivered, it wasn't completely parsed, or the feed contained orphan transactions.
 
-* The relevant transaction properties are excluded from reports and therefore not visible.
+* The relevant conversion metrics are excluded from reports and therefore not visible.
 
 >[!NOTE]
 >
@@ -189,7 +189,7 @@ The report may not include conversion metrics for which conversions occurred.
 
 *Possible solution or work-around:*
 
-1. Verify that the correct columns are included in the reports or data views. If the correct columns aren't available to add, then you or your Adobe Account Team must [make the transaction properties available to reports](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
+1. Verify that the correct columns are included in the reports or data views. If the correct columns aren't available to add, then you or your Adobe Account Team must [make the conversion metrics available to reports](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
 1. Run the [!UICONTROL Portfolio Report]. If it's empty, then run the [!UICONTROL Campaign Report] and [!UICONTROL Search Engine Report] to see if the revenue appears in those reports. If it does, then the campaigns may not be assigned to the appropriate portfolio.
 
@@ -307,8 +307,8 @@ The [!UICONTROL Portfolio Report] shows data for only the campaigns assigned to 
 The ad networks don't provide the identifier necessary to attribute revenue to an individual ad for those campaigns. Consequently, ad-level performance data isn’t available for those campaign types in the [!UICONTROL Ads] view or in the [!UICONTROL Ad Variation Report]. Expect discrepancies between the total ad-level data for a campaign and the total data for the campaign.
 +++
   
-+++In the [!UICONTROL Transaction Report], how do I know which transaction property is from a data feed or is tracked by the Adobe Advertising tracking pixel?
-In a transaction report, you can tell if an included transaction property was tracked by the Adobe Advertising tracking pixel if you include the custom column "[!UICONTROL Tracking URL]." Tracking URLs with the Adobe Advertising tracking pixel begin with "`http://pixel.everesttech.net`."
++++In the [!UICONTROL Transaction Report], how do I know which conversion metric is from a data feed or is tracked by the Adobe Advertising tracking pixel?
+In a transaction report, you can tell if an included conversion metric was tracked by the Adobe Advertising tracking pixel if you include the custom column "[!UICONTROL Tracking URL]." Tracking URLs with the Adobe Advertising tracking pixel begin with "`http://pixel.everesttech.net`."
 +++
   
 +++The data in my [!UICONTROL Transaction Report] doesn't match the data in my [!UICONTROL Keyword Report].

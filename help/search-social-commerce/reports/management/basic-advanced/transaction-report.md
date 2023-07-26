@@ -8,7 +8,7 @@ exl-id: 879c6dc0-6667-4e63-8403-bc2f2ee5ba3c
 The [!UICONTROL Transaction Report] provides transaction-level details for current keywords in ad groups in search and
 display campaigns &mdash; and for ad sets in social campaigns &mdash; within specified portfolios (when applicable) or ad accounts. You optionally can include conversion metrics. You can compare the results from this report against the advertiser's transaction data to verify that Search, Social, & Commerce is reporting all of the advertiser's transactions.
 
-By default, the report includes data for transactions that occurred within the specified date range. The data for each transaction includes the transaction ID, the transaction and click/impression times, the conversion type, the transaction property, and the revenue data for the transaction property (such as 1 for one registration or 12 for a $12 order) for each keyword or ad/ad group/campaign/portfolio combination. By default, the rows are in ascending order first by transaction time and then by click time.
+By default, the report includes data for transactions that occurred within the specified date range. The data for each transaction includes the transaction ID, the transaction and click/impression times, the conversion type, the conversion metric, and the revenue data for the conversion metric (such as 1 for one registration or 12 for a $12 order) for each keyword or ad/ad group/campaign/portfolio combination. By default, the rows are in ascending order first by transaction time and then by click time.
 
 You can view data for the previous 45 days.
 

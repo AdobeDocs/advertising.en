@@ -69,7 +69,7 @@ This page includes information about all account types, including how to set up 
 
    For more information about portfolios, see the Optimization Guide, which is available from within Search, Social, & Commerce.<!-- verify convention for referencing Optimization Guide here -->
 
-1. (If any new conversions will be tracked for the advertiser) [Make the conversions available](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md) for reports, campaign management views, and portfolio objectives.
+1. (If any new conversions will be tracked for the advertiser) [Make the conversions available](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) for reports, campaign management views, and portfolio objectives.
 
 1. For each campaign, verify that Search, Social, & Commerce is receiving click and cost data from the ad network, and validate the revenue data shown in Search, Social, & Commerce with the advertiser's own revenue data.
 

@@ -8,7 +8,7 @@ exl-id: 5cc98781-588b-4bf3-8978-a7966009fa51
 | Column | Description |
 |----|----|
 | \[Advertiser-specific custom (derived) metrics\] | The value for a custom metric you've created that’s calculated from existing metrics. |
-| \[Advertiser-specific transaction properties\] | The number of conversions for a specified transaction property or site engagement metric. |
+| \[Advertiser-specific conversion metrics\] | The number of conversions for a specified conversion metric or site engagement metric. |
 | [!UICONTROL Account Name] | The account name. |
 | [!UICONTROL Account Number] | ([!UICONTROL MSA Ad Extension] reports) The account identifier assigned by the ad network. |
 | [!UICONTROL Account Status] | ([!UICONTROL MSA Ad Extension] reports) The account status: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, or *[!UICONTROL Inactive]*. |

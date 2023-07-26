@@ -11,9 +11,9 @@ The following are the requirements for the file format, required and optional da
 
 The data file must be in flat text (TXT), comma-separated values (CSV), or tab-separated values (TSV) format. The file may consist of a header row and data rows with values separated by tabs, commas, or another character (but not spaces):
 
-* **Header row:** (Optional) The first line of the file is a header, which specifies the required field names (or column names) in a specific order, separated by tabs or commas. The required column names include the transaction properties that Adobe Advertising is tracking as conversions.
+* **Header row:** (Optional) The first line of the file is a header, which specifies the required field names (or column names) in a specific order, separated by tabs or commas. The required column names include the conversion metrics that Adobe Advertising is tracking as conversions.
 
-* **Data rows:** Each subsequent line includes data fields in the same order as the header and separated by tabs or commas. If the first record isn't a header, then each data row must include all possible fields, in a specified order. The values of all IDs and transaction properties must be alphanumeric.
+* **Data rows:** Each subsequent line includes data fields in the same order as the header and separated by tabs or commas. If the first record isn't a header, then each data row must include all possible fields, in a specified order. The values of all IDs and conversion metrics must be alphanumeric.
 
   When multiple clicks on one or multiple ads lead to one transaction, then you must determine the click ID and the tracking ID to which to attribute the transaction. Because a unique ID is reported for each transaction, you can update individual transactions.
 
