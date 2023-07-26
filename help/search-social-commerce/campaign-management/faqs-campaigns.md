@@ -60,7 +60,7 @@ Depending on the [feed data settings](/help/search-social-commerce/campaign-mana
 
 +++([!DNL Google Ads] campaigns) Changes to the display names for my [!DNL Google]-tracked conversions were reverted.
 
-If you change the display names of the transaction properties in Search, Social, & Commerce, your changes are overwritten with the names configured in [!DNL Google Ads]. Make any name changes within [!DNL Google Ads].
+If you change the display names of the conversion metrics in Search, Social, & Commerce, your changes are overwritten with the names configured in [!DNL Google Ads]. Make any name changes within [!DNL Google Ads].
 +++
 
 +++(Google Ads campaigns) Can I use a shared budget for campaigns in portfolios?
