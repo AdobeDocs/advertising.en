@@ -37,7 +37,7 @@ From the list of conversion metrics that are available, each user with access to
      
      1. (To hide metrics) In the confirmation message, click **[!UICONTROL Yes]** to hide the metrics, including removing them from any derived metrics that contain the metrics.
 
-1. (Optional) [Change the name that appears in column headings](conversion metric-edit-display-name.md) for any of the conversion metrics.
+1. (Optional) [Change the name that appears in column headings](conversion-metric-edit-display-name.md) for any of the conversion metrics.
 
    The default display name for each visible conversion metric is the metric name as it's spelled in the retrieved data.
 
@@ -47,6 +47,6 @@ From the list of conversion metrics that are available, each user with access to
 
 >[!MORELIKETHIS]
 >
->* [About managing an advertiser's conversion metrics](conversion metric-about.md)
->* [View the conversion metrics tracked for an advertiser](conversion metric-view-tracked.md)
->* [Change the display name for a conversion metric](conversion metric-edit-display-name.md)
+>* [About managing an advertiser's conversion metrics](conversion-metric-about.md)
+>* [View the conversion metrics tracked for an advertiser](conversion-metric-view-tracked.md)
+>* [Change the display name for a conversion metric](conversion-metric-edit-display-name.md)

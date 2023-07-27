@@ -13,10 +13,10 @@ All conversion metrics that have been gathered for the advertiser, and any diffe
 
 >[!TIP]
 >
->Once the advertiser (or the ad network) stops collecting a conversion metric, [hide it from management views and reports](conversion metric-edit-available.md) unless you want to use it for viewing historical data.
+>Once the advertiser (or the ad network) stops collecting a conversion metric, [hide it from management views and reports](conversion-metric-edit-available.md) unless you want to use it for viewing historical data.
 
 >[!MORELIKETHIS]
 >
->* [About managing an advertiser's conversion metrics](conversion metric-about.md)
->* [Change the conversion metrics available in management views and reports](conversion metric-edit-available.md)
->* [Change the display name for a conversion metric](conversion metric-edit-display-name.md)
+>* [About managing an advertiser's conversion metrics](conversion-metric-about.md)
+>* [Change the conversion metrics available in management views and reports](conversion-metric-edit-available.md)
+>* [Change the display name for a conversion metric](conversion-metric-edit-display-name.md)

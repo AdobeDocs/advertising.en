@@ -5,7 +5,7 @@ exl-id: 322be2d5-0d66-4d0c-a17a-619a1f6c0644
 ---
 # Change the display name for a conversion metric
 
-You can optionally change the name that is shown in column headings for readability when a [conversion](/help/search-social-commerce/glossary.md#c-d) metric is [available for campaign and portfolio management views and in reports](conversion metric-edit-available.md). For example, if you collect registration data using a conversion metric named *reg*, then you can optionally change the display name to see it displayed as "Registrations."
+You can optionally change the name that is shown in column headings for readability when a [conversion](/help/search-social-commerce/glossary.md#c-d) metric is [available for campaign and portfolio management views and in reports](conversion-metric-edit-available.md). For example, if you collect registration data using a conversion metric named *reg*, then you can optionally change the display name to see it displayed as "Registrations."
 
 You can't delete an existing display name.
 
@@ -23,6 +23,6 @@ You can't delete an existing display name.
 
 >[!MORELIKETHIS]
 >
->* [About managing an advertiser's conversion metrics](conversion metric-about.md)
->* [View the conversion metrics tracked for an advertiser](conversion metric-view-tracked.md)
->* [Change the conversion metrics available in management views and reports](conversion metric-edit-available.md)
+>* [About managing an advertiser's conversion metrics](conversion-metric-about.md)
+>* [View the conversion metrics tracked for an advertiser](conversion-metric-view-tracked.md)
+>* [Change the conversion metrics available in management views and reports](conversion-metric-edit-available.md)

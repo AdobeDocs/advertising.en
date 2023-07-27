@@ -17,6 +17,6 @@ From the list of metrics that you make available, each user with access to the a
 
 >[!MORELIKETHIS]
 >
->* [View the conversion metrics tracked for an advertiser](conversion metric-view-tracked.md)
->* [Change the conversion metrics available in management views and reports](conversion metric-edit-available.md)
->* [Change the display name for a conversion metric](conversion metric-edit-display-name.md)
+>* [View the conversion metrics tracked for an advertiser](conversion-metric-view-tracked.md)
+>* [Change the conversion metrics available in management views and reports](conversion-metric-edit-available.md)
+>* [Change the display name for a conversion metric](conversion-metric-edit-display-name.md)
