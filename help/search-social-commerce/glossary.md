@@ -100,14 +100,23 @@ feature: Search Introduction
 
 **marginal cost:** The change in total cost when the quantity changes by one unit.
 
+**marginal cost-to-objective value:** The change in cost needed to raise the objective value by one (1). This has the same value as the legacy column "Marginal Cost-to-Revenue."
+
 **match type:** An option that specifies how search terms are matched to ads. The options vary by ad network.
 
 **minimum bid:** 1) The minimum amount to pay per impression or per 1000 impressions. 2) For search keywords, the minimum bid required for a given keyword based on its quality score. The minimum bid is usually the least amount you can pay per click in order for your keyword to show ads.
 
 ## O-P {#o-p}
 
-**objective:** (Advertisers with portfolios) A goal which a client sets to meet its business objective for a specific portfolio or a display campaign, such as to maximize profits or to meet a specific sales target. An objective consists of the conversion metrics (also called transaction properties)
-to be tracked and optimized for the portfolio, and the relative weights of those metrics.
+**objective:** (Advertisers with portfolios) A goal which a client sets to meet its business objective for a specific portfolio or a display campaign, such as to maximize profits or to meet a specific sales target. An objective consists of the conversion metrics (also called transaction properties) to be tracked and optimized for the portfolio, and the relative weights of those metrics.
+
+**objective value:** (Advertisers with portfolios) The total weighted conversions  as calculated according to the portfolio's current objective, including:
+
+* all conversions, taking into account a) the weights assigned to each conversion in the portfolio's objective function and, when applicable, b) the view-through weight for display view-throughs.
+
+* all clicks, which the optimization capability considers a single conversion and is weighted according to the click value for the objective.
+
+This has the same value as the legacy column "Weighted Revenue."
 
 **optimization capability:** (Advertisers with portfolios) Search, Social, & Commerce keyword bidding technology, which determines the optimal bidding and budget management strategy for a portfolio based on its business objective.
 
@@ -173,11 +182,7 @@ to be tracked and optimized for the portfolio, and the relative weights of those
 
 ## W-X {#w-x}
 
-**weighted revenue:** (Advertisers with portfolios) The total revenue, which includes: 
-
-* all revenue, taking into account a) the weights assigned to each transaction property in the portfolio's objective and, when applicable, b) the view-through weight for display/social view-throughs.
-
-* all clicks, which the optimization capability considers a single transaction property and is weighted according to the click value for the objective.
+**weighted revenue:** See "objective value."
 
 **XLS** or **XLSX**: A binary file format for [!DNL Microsoft Office Excel] workbooks.
 
