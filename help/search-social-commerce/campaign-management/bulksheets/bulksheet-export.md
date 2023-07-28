@@ -2,6 +2,7 @@
 title: Export a generated or uploaded bulksheet file
 description: Learn how to download a bulksheet file, including error files and landing page validation files.
 exl-id: a6b5d6a6-c719-45a5-a68a-91cf05a2b4e2
+feature: Search Bulksheets
 ---
 # Export a generated or uploaded bulksheet file locally
 

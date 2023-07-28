@@ -2,6 +2,7 @@
 title: About notifications
 description: Learn about notifications, including the different types and categories.
 exl-id: a21dae13-b948-48e0-922a-d865f86e72f8
+feature: Search Notifications
 ---
 # About notifications
 

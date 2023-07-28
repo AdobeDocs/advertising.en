@@ -2,6 +2,7 @@
 title: The Adobe Advertising conversion mapping tag
 description: Learn about the JavaScript-based conversion mapping tag for ITP 2.2, which allows Adobe Advertising to track a conversion event that occurs on a page that's not the landing page.
 exl-id: 6e2515da-2552-4f19-8344-1dee96cbf706
+feature: Search Tracking
 ---
 # The Adobe Advertising JavaScript conversion mapping tag
 

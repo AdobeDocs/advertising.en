@@ -2,6 +2,7 @@
 title: Implement [!DNL Google Ads] dynamic search ads
 description: Learn about the workflow for setting up [!DNL Google Ads] dynamic search ads.
 exl-id: 4c806824-b582-46dc-8d88-85c73bfb0944
+feature: Search Campaign Management
 ---
 # Implement [!DNL Google Ads] dynamic search ads
 

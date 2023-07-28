@@ -2,6 +2,7 @@
 title: Manage ad network accounts
 description: Learn how to set up and manage account details for an ad network account.
 exl-id: fd8b38bd-24d0-488c-9e57-a516f5ae67ac
+feature: Search Campaign Management
 ---
 # Manage ad network accounts
 

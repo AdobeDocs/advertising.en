@@ -2,6 +2,7 @@
 title: Implement [!DNL Naver] tracking-only accounts
 description: Learn how to set up tracking campaigns for your [!DNL Naver] accounts so that you can track, report on, and visualize performance for the ads you buy directly from the ad network.
 exl-id: 8013d4e8-0b4f-41a7-9c1b-10c55349930f
+feature: Search Campaign Management
 ---
 # Implement [!DNL Naver] tracking-only accounts
 

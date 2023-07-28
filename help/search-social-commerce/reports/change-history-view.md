@@ -2,6 +2,7 @@
 title: View the [!UICONTROL Change History] report
 description: Learn how to view recent changes to the advertiser account.
 exl-id: 822fa5eb-b7b4-4f32-9cee-984f4e96b978
+feature: Search Reports
 ---
 # View the [!UICONTROL Change History] report
 

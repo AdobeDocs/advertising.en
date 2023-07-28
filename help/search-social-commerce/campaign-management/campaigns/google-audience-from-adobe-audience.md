@@ -2,6 +2,7 @@
 title: Create [!DNL Google Ads] customer match audiences from [!DNL Adobe] audiences
 description: Learn how to create [!DNL Google Ads] customer match audiences from your existing Adobe Analytics and Audience Manager audiences.
 exl-id: 17cf0729-bc13-4ec3-918e-039ecdc91a41
+feature: Search Campaign Management
 ---
 # Create [!DNL Google Ads] customer match audiences from Adobe Analytics and Audience Manager audiences
 

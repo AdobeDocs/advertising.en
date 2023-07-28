@@ -2,6 +2,7 @@
 title: Generate an [!DNL Advertising Insight]
 description: Learn how to create an [!DNL Advertising Insight].
 exl-id: 242095c9-25f0-4954-b1a8-5ea3db312afd
+feature: Search Advertising Insights
 ---
 # Generate an [!DNL Advertising Insight]
 

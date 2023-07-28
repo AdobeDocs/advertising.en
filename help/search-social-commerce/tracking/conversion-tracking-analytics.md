@@ -2,6 +2,7 @@
 title: Adobe Analytics conversion tracking
 description: Learn about using Adobe Analytics conversion tracking for your campaigns in Adobe Advertising.
 exl-id: 0ed1d059-829a-4090-950d-41cbcc27b3ac
+feature: Search Tracking
 ---
 # Adobe Analytics conversion tracking
 

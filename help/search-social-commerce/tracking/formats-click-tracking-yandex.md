@@ -2,6 +2,7 @@
 title: Click-tracking formats for [!DNL Yandex]
 description: Learn about the click-tracking formats for [!DNL Yandex] accounts.
 exl-id: cf1d6c4b-9bcd-4b82-919f-c14dbaff9a76
+feature: Search Tracking
 ---
 # Click-tracking formats for sponsored ads on [!DNL Yandex]
 

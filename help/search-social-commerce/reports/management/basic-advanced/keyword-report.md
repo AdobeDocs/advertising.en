@@ -2,6 +2,7 @@
 title: '[!UICONTROL Keyword Report]'
 description: Learn about the [!UICONTROL Keyword Report].
 exl-id: e274e363-2ac5-4ba6-a2df-7786c3c3423f
+feature: Search Reports, Search Basic Reports
 ---
 # [!UICONTROL Keyword Report]
 

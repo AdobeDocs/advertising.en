@@ -2,6 +2,7 @@
 title: About managing an advertiser's transaction properties
 description: Learn how you can use the transaction properties that Adobe Advertising tracks for an advertiser.
 exl-id: e5e4dc8a-04b0-4423-be1d-18f89453d264
+feature: Search Admin, Search Transaction Properties
 ---
 # About managing an advertiser's transaction properties
 

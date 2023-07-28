@@ -2,6 +2,7 @@
 title: About roles
 description: Learn about user roles.
 exl-id: 54e17b15-59b2-413b-9670-feb31ba8b3ef
+feature: Search Admin
 ---
 # About roles
 

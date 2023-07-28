@@ -3,6 +3,7 @@ title: Configure a [!DNL Google Analytics] view as a data source
 description: Learn how to configure a data source from a [!DNL Google Analytics] view.
 role: User, Admin
 exl-id: 583cf9aa-861c-4faf-a707-1def4e983b93
+feature: Search Admin, Search Data Sources
 ---
 # Configure a [!DNL Google Analytics] view as a data source
 

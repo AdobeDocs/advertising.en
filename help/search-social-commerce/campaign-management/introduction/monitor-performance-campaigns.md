@@ -2,6 +2,7 @@
 title: Monitor and manage the performance of your campaigns
 description: Learn how to monitor the performance of each campaign and portfolio and make changes to meet your goals.
 exl-id: cf3d015f-a171-45f2-be92-94f19b30e5ce
+feature: Search Campaign Management
 ---
 # Monitor and manage the performance of your ad network campaigns
 

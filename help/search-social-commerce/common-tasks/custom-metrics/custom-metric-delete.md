@@ -2,6 +2,7 @@
 title: Delete a custom metric
 description: Learn how to delete custom metrics, which are calculated from standard metrics.
 exl-id: 531da1f7-6e20-4124-9e8c-e1816929c4d7
+feature: Search Common Tasks, Search Custom Metrics
 ---
 # Delete a custom metric
 

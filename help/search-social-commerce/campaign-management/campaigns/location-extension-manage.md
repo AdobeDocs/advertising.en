@@ -2,6 +2,7 @@
 title: Manage [!DNL Google Ads] location extensions
 description: Learn how to create and manage [!DNL Google Ads] location extensions.
 exl-id: 1a1aeb51-563e-453e-bd6f-ea1fa31b8f37
+feature: Search Campaign Management
 ---
 # Manage [!DNL Google Ads] location extensions
 

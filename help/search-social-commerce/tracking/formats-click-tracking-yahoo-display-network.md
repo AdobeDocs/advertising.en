@@ -2,6 +2,7 @@
 title: Click-tracking formats for [!DNL Yahoo! Display Network]
 description: Learn about the click-tracking formats for [!DNL Yahoo! Display Network] accounts.
 exl-id: 62ea592c-9138-4a8e-9616-c8f2475fea26
+feature: Search Tracking
 ---
 # Click-tracking formats for sponsored ads on [!DNL Yahoo! Display Network]
 

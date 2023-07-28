@@ -2,6 +2,7 @@
 title: Text ad and responsive search ad template settings for inventory feeds
 description: Reference the settings for text ad and responsive search ad templates for inventory feeds.
 exl-id: ee3956f9-4367-40e4-bdb3-f04a8da9a5f1
+feature: Search Inventory Feeds
 ---
 # Text ad and responsive search ad template settings for inventory feeds
 

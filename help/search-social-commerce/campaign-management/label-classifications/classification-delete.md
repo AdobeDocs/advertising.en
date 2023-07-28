@@ -2,6 +2,7 @@
 title: Delete label classifications
 description: Learn how to delete a label classification.
 exl-id: 4d00bda7-e3a6-4558-b818-5ccd45d0eb5b
+feature: Search Label Classifications
 ---
 # Delete label classifications
 

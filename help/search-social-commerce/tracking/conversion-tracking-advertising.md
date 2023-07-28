@@ -2,6 +2,7 @@
 title: About Adobe Advertising conversion-tracking tags
 description: Learn about using the Adobe Advertising conversion-tracking tags.
 exl-id: 07403d60-6db2-47e7-977b-4b59c8797c3d
+feature: Search Tracking
 ---
 # About Adobe Advertising conversion-tracking tags
 

@@ -2,6 +2,7 @@
 title: About keywords
 description: Learn about options for biddable and negative keywords.
 exl-id: f9216251-e0ab-43c1-81da-30503ee9f54e
+feature: Search Campaign Management
 ---
 # About keywords
 

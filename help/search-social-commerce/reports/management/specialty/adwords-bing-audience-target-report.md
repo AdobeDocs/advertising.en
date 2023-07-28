@@ -2,6 +2,7 @@
 title: '[!UICONTROL AdWords and Bing Audience Target Report]'
 description: Learn about the [!UICONTROL AdWords and Bing Audience Target Report].
 exl-id: 02c12266-f11b-4478-a511-8ee464dbb061
+feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL AdWords and Bing Audience Target Report]
 

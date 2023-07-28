@@ -2,6 +2,7 @@
 title: Assign classification values to account components using bulksheets
 description: Learn how to use bulksheets to assign classification values to account components.
 exl-id: 9bb38f28-d6bc-41f4-9c28-b391d9b9e412
+feature: Search Label Classifications
 ---
 # Assign classification values to account components using bulksheets
 
