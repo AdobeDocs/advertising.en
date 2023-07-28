@@ -2,7 +2,7 @@
 title: Edit a custom metric
 description: Learn how to edit custom metrics, which are calculated from standard metrics.
 exl-id: 7b0c18d3-e4ed-49ad-aef7-d05b2a67ba2e
-feature: "Search Common Tasks, Search Custom Metrics"
+feature: Search Common Tasks, Search Custom Metrics
 ---
 # Edit a custom metric
 

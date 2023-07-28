@@ -2,7 +2,7 @@
 title: Remove a column filter
 description: Learn how to remove a column filter.
 exl-id: 9f11d100-06c7-474d-a7ca-30f180e3d7ff
-feature: "Search Common Tasks, Search Custom Data Views"
+feature: Search Common Tasks, Search Custom Data Views
 ---
 # Remove a column filter
 

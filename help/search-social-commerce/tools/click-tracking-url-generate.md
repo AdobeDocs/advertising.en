@@ -2,7 +2,7 @@
 title: Generate a click-tracking URL
 description: Learn how to manually generate a Search, Social, & Commerce click-tracking URL.
 exl-id: d22a472a-a562-4812-a067-fbd407cd7d00
-feature: "Search Tools, Search Tracking"
+feature: Search Tools, Search Tracking
 ---
 # Generate a Search, Social, & Commerce click-tracking URL using the Tracking URLs tool
 

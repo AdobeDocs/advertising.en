@@ -2,7 +2,7 @@
 title: Change the display name for a transaction property
 description: Learn how to change the transaction property name that is shown in column headings in your management views and reports.
 exl-id: 322be2d5-0d66-4d0c-a17a-619a1f6c0644
-feature: "Search Admin, Search Transaction Properties"
+feature: Search Admin, Search Transaction Properties
 ---
 # Change the display name for a transaction property
 

@@ -2,7 +2,7 @@
 title: '[!UICONTROL Label Value Report]'
 description: Learn about the [!UICONTROL Label Value Report].
 exl-id: 6fc7efca-9189-48f9-a2db-dc324b73bef6
-feature: "Search Reports, Search Basic Reports"
+feature: Search Reports, Search Basic Reports
 ---
 # [!UICONTROL Label Value Report]
 

@@ -2,7 +2,7 @@
 title: '[!UICONTROL AdWords Search Query Report]'
 description: Learn about the [!UICONTROL AdWords Search Query Report].
 exl-id: 085f6a46-ce7e-4b68-b03d-edfbb6834284
-feature: "Search Reports, Search Specialty Reports"
+feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL AdWords Search Query Report]
 

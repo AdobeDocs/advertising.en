@@ -3,7 +3,7 @@ title: Edit a [!DNL Google Analytics] data source
 description: Learn how to edit the configuration for a [!DNL Google Analytics] data source.
 role: User, Admin
 exl-id: a23444f7-8f4c-42ba-b5fe-a325fb18136d
-feature: "Search Admin, Search Data Sources"
+feature: Search Admin, Search Data Sources
 ---
 # Edit a [!DNL Google Analytics] data source
 
