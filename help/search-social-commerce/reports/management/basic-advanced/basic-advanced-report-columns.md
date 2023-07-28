@@ -128,7 +128,7 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Network Ad Group ID] | The ad group ID assigned by the network. |
 | [!UICONTROL Network Campaign ID] | The campaign ID assigned by the network. |
 | [!UICONTROL Objective Name] | The portfolio's objective. |
-| [!UICONTROL Objective Value] | The total weighted conversions as calculated according to the portfolio's current objective. See "[objective value](/help/search-social-commerce/glossary.md#o-p)." |
+| [!UICONTROL Objective Value] | The total weighted conversions as calculated according to the portfolio's current objective. |
 | [!UICONTROL Objective Value Calculation] | The calculation used to derive the Objective Value. |
 | [!UICONTROL Outbound Clicks] | ([!DNL Meta] ads) The number of clicks on links within ads that take people off [!DNL Meta]-owned properties. |
 | [!UICONTROL Parent Product Groupings] | The full hierarchy of the parent product groups, with `>>` between tiers (such as `All Products>>CategoryL1=Animals`), when applicable. |
