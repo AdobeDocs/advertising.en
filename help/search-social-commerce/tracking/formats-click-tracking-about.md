@@ -2,6 +2,7 @@
 title: About click-tracking URL formats for the Adobe Advertising conversion tracking service
 description: Learn about the click-tracking formats for supported ad networks.
 exl-id: 12148caf-fde6-4ac2-b8b4-222409895dd7
+feature: Search Tracking
 ---
 # About click-tracking URL formats for the Adobe Advertising conversion tracking service
 

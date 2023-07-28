@@ -2,6 +2,7 @@
 title: '[!UICONTROL AdWords Conversion Report]'
 description: Learn about the [!UICONTROL AdWords Conversion Report].
 exl-id: 5c9252fd-b791-421b-a5d2-1f6279d38c45
+feature: "Search Reports, Search Specialty Reports"
 ---
 # [!UICONTROL AdWords Conversion Report]
 

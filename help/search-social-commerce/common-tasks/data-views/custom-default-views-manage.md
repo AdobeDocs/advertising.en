@@ -2,6 +2,7 @@
 title: Manage default and custom views
 description: Learn how to customize your default views and custom views.
 exl-id: b28f58f6-c80a-45f8-8c5f-b821a76dab6d
+feature: "Search Common Tasks, Search Custom Data Views"
 ---
 # Manage default and custom views
 

@@ -2,6 +2,7 @@
 title: When are account components created or deleted by inventory feeds?
 description: Learn which situations create and delete account components when you post inventory feeds.
 exl-id: 93b31996-15dd-4215-ae9d-39327910f712
+feature: Search Inventory Feeds
 ---
 # When are account components created or deleted by inventory feeds?
 

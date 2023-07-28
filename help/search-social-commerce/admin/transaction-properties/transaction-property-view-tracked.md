@@ -2,6 +2,7 @@
 title: View the transaction properties tracked for an advertiser
 description: Learn how to view a list of the transaction properties tracked for an advertiser.
 exl-id: 56f5b480-9e75-47a0-8f88-8fa8fcfe23f9
+feature: "Search Admin, Search Transaction Properties"
 ---
 # View the transaction properties tracked for an advertiser
 

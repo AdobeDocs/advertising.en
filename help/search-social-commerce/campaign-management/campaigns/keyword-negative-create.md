@@ -2,6 +2,7 @@
 title: Create negative keywords
 description: Learn how to create negative keywords for search campaigns and ad groups.
 exl-id: 683e5395-cb65-4d7f-a981-7fc9f84d4192
+feature: Search Campaign Management
 ---
 # Create negative keywords
 

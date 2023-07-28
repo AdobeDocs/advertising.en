@@ -2,6 +2,7 @@
 title: Create a report template
 description: Learn how to create a reusable report template.
 exl-id: cd734539-ab01-4106-9998-e2ed994209b2
+feature: Search Reports
 ---
 # Create a report template
 

@@ -2,6 +2,7 @@
 title: Manage inventory data feed files
 description: Learn how to configure the settings that control how feed data is processed.
 exl-id: 73d372de-2673-4190-94cf-2f07f4ce2493
+feature: Search Inventory Feeds
 ---
 # Manage inventory data feed files
 

@@ -2,6 +2,7 @@
 title: Manage [!DNL Google Ads] placements
 description: Learn how to create and manage biddable placements for [!DNL Google Ads] ad groups.
 exl-id: 91fee1eb-d1d5-4a1b-b1a6-369b98269100
+feature: Search Campaign Management
 ---
 # Manage [!DNL Google Ads] placements
 

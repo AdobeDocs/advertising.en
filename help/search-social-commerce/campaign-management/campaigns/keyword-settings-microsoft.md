@@ -2,6 +2,7 @@
 title: '[!DNL Microsoft Advertising] keyword settings'
 description: Reference the settings for [!DNL Microsoft Advertising] keywords.
 exl-id: 248f45c7-8b8c-46fe-a65a-66c50c630044
+feature: Search Campaign Management
 ---
 # [!DNL Microsoft Advertising] keyword settings
 

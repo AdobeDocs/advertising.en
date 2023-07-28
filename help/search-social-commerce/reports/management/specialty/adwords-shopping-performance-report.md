@@ -2,6 +2,7 @@
 title: '[!UICONTROL AdWords Shopping Performance Report]'
 description: Learn about the [!UICONTROL AdWords Shopping Performance Report].
 exl-id: 5884efb5-d34f-47fd-82ad-93a5f4064110
+feature: "Search Reports, Search Specialty Reports"
 ---
 # [!UICONTROL AdWords Shopping Performance Report]
 

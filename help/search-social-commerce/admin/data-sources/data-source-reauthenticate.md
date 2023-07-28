@@ -3,6 +3,7 @@ title: Reauthenticate a [!DNL Google Analytics] data source
 description: Learn how to reauthenticate a [!DNL Google Analytics] data source if you change the associated password or the certificate expires.
 role: User, Admin
 exl-id: 9233e004-8607-444a-ba99-f63cb83a8b7a
+feature: "Search Admin, Search Data Sources"
 ---
 # Reauthenticate a [!DNL Google Analytics] data source
 

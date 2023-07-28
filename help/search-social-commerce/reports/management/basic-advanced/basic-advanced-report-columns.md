@@ -2,6 +2,7 @@
 title: Report columns for basic and advanced reports
 description: Learn about the available data columns for basic and advanced reports.
 exl-id: 20ce9519-4a13-4175-bf7c-26f1dc4c9bd1
+feature: "Search Reports, Search Basic Reports, Search Advanced Reports"
 ---
 # Report columns for basic and advanced reports
 

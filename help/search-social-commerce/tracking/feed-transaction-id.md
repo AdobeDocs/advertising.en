@@ -2,6 +2,7 @@
 title: Conversion tracking using a transaction ID feed
 description: Learn about using a transaction ID feed for conversion tracking data.
 exl-id: 58f231a6-970b-46b4-824b-67b3d3f83051
+feature: Search Tracking
 ---
 # Conversion tracking using a transaction ID feed
 

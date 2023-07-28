@@ -2,6 +2,7 @@
 title: Edit spreadsheet report feed settings
 description: Learn how to edit the settings for spreadsheet feeds.
 exl-id: 063b5fb8-905f-480a-817f-f6b339af6028
+feature: Search Reports
 ---
 # Edit spreadsheet report feed settings
 

@@ -2,6 +2,7 @@
 title: Required bulksheet data for [!DNL Naver] accounts
 description: Reference the required header fields and data fields in bulksheets for [!DNL Naver] accounts.
 exl-id: bd6e3dab-47b0-428a-825d-bd9c21494fb0
+feature: Search Bulksheets
 ---
 # Appendix - Required bulksheet data for [!DNL Naver] accounts
 

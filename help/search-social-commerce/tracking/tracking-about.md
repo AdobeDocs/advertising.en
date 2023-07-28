@@ -2,6 +2,7 @@
 title: About tracking for Search, Social, & Commerce
 description: Learn about tracking options for Search, Social, & Commerce.
 exl-id: 0a26f67c-8b3b-4fa1-ac24-a8461624cfc5
+feature: Search Tracking
 ---
 # About tracking for Search, Social, & Commerce
 

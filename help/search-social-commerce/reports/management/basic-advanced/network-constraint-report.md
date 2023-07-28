@@ -2,6 +2,7 @@
 title: '[!UICONTROL Network Constraint Report]'
 description: Learn about the [!UICONTROL Network Constraint Report].
 exl-id: 11eae03a-824f-4ba2-93f1-8e7532a8c8f0
+feature: "Search Reports, Search Basic Reports"
 ---
 # [!UICONTROL Network Constraint Report]
 

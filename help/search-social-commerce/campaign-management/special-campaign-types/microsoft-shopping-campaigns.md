@@ -2,6 +2,7 @@
 title: Implement [!DNL Microsoft® Advertising] shopping campaigns
 description: Learn about the workflow for setting up [!DNL Microsoft® Advertising] shopping campaigns.
 exl-id: 3fb19b92-5bc0-414e-9234-68310082d0ed
+feature: Search Campaign Management
 ---
 # Implement [!DNL Microsoft® Advertising] shopping campaigns
 

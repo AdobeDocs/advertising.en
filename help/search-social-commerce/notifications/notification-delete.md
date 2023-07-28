@@ -2,6 +2,7 @@
 title: Delete a notification
 description: Learn how to delete a notification.
 exl-id: abf37a77-02e4-429f-adac-13ac954a78e7
+feature: Search Notifications
 ---
 # Delete a notification
 

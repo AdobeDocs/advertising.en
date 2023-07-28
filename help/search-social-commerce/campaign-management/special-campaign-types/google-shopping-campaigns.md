@@ -2,6 +2,7 @@
 title: Implement [!DNL Google Ads] shopping campaigns
 description: Learn about the workflow for setting up [!DNL Google Ads] shopping campaigns.
 exl-id: aab61d94-861f-4072-b044-f9ae6759e028
+feature: Search Campaign Management
 ---
 # Implement [!DNL Google Ads] shopping campaigns
 

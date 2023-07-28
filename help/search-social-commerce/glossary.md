@@ -2,6 +2,7 @@
 title: Glossary
 description: See definitions of key terms.
 exl-id: 906acea8-731d-4a3c-929b-9d63e8e1eafe
+feature: Search Introduction
 ---
 # Glossary {#glossary}
 

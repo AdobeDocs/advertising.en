@@ -2,6 +2,7 @@
 title: View your notifications
 description: Learn about the different ways to view your notifications.
 exl-id: 01226827-661d-4125-ab64-874fe7dcaf3a
+feature: Search Notifications
 ---
 # View your notifications
 

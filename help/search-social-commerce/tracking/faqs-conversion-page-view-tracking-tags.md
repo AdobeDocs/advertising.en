@@ -2,6 +2,7 @@
 title: FAQs about Adobe Advertising conversion and page view tracking tags
 description: See a comparison of the Adobe Advertising conversion and page view tracking tags.
 exl-id: 5eb414a7-2f96-47de-b157-a17851653206
+feature: Search Tracking
 ---
 # FAQs about Adobe Advertising conversion and page view tracking tags
 

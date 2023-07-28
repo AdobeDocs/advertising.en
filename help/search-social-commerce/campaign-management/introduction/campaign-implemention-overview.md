@@ -2,6 +2,7 @@
 title: Overview of implementing ad network accounts and campaigns
 description: Learn about the tasks involved in setting up, synching, and managing your ad network accounts.
 exl-id: 401c5ebb-258c-4614-96e8-ca604fc698c0
+feature: Search Campaign Management
 ---
 # Overview of implementing ad network accounts and campaigns
 

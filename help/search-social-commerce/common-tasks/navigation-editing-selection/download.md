@@ -2,6 +2,7 @@
 title: Download data from a campaign management view
 description: Learn how to download data from most campaign management views.
 exl-id: 0bbb02df-2ee0-4610-b60a-ca2b58daadbb
+feature: Search Common Tasks
 ---
 # Download data from a campaign management view
 

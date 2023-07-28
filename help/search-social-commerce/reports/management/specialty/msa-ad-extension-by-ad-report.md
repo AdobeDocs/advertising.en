@@ -1,6 +1,7 @@
 ---
 title: "[!UICONTROL MSA Ad Extension by Ad Report]"
 description: Learn about the [!UICONTROL MSA Ad Extension by Ad Report].
+feature: "Search Reports, Search Specialty Reports"
 ---
 # [!UICONTROL MSA Ad Extension by Ad Report]
 

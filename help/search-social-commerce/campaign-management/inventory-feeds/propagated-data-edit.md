@@ -2,6 +2,7 @@
 title: Edit data generated from feeds
 description: Learn how to edit data generated from inventory data feeds.
 exl-id: 5f866557-e44b-4fd9-9683-f7fbaf6d308b
+feature: Search Inventory Feeds
 ---
 # Edit data generated from feeds
 

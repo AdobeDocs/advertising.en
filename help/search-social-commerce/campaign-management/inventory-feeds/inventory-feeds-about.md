@@ -2,6 +2,7 @@
 title: About automating ad management using inventory feeds
 description: Learn about advanced campaign management, which allows you to automatically manage account structure and deliver dynamic ads based on data about your product or service inventory.
 exl-id: 2cbf08ce-728e-4d5b-b0a4-01aa244a6e29
+feature: Search Inventory Feeds
 ---
 # About automating ad management using inventory feeds
 
