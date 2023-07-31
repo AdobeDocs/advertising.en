@@ -16,7 +16,7 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
 
 1. Log into [!DNL Advertising Search, Social, & Commerce] at (users in North America) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) or (all other users) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Make sure the metrics that you want to include in your goal have been tracked, are available in the product, and include a display name:
-    1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
+    1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Transaction Properties]**.
     1. Locate the metric, and make sure that **[!UICONTROL Show in UI and Reports]** is enabled for the metric.
     1. If the metric doesn't have a value in the **[!UICONTROL Display Name]** column, click in the cell, enter the display name, and then click **[!UICONTROL Apply].**
 1. Create the custom goal as an *objective*:

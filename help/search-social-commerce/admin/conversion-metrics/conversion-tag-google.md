@@ -5,7 +5,7 @@ exl-id: 322be2d5-0d66-4d0c-a17a-619a1f6c0644
 ---
 # Create a conversion tag for [!DNL Google Ads]
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
+1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Transaction Properties]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 
@@ -19,7 +19,12 @@ exl-id: 322be2d5-0d66-4d0c-a17a-619a1f6c0644
 
    1. Click **[!UICONTROL Generate]**.
 
-After you create the tag, implement it on the websites from which you want to track the conversion metric. See "Installing the Google tag" in the Google Ads help to "[2. Set up your Google tag](https://support.google.com/google-ads/answer/12215519)."
+After you create the tag, copy it and implement it on the websites from which you want to track the conversion metric. See "Installing the Google tag" in the Google Ads help to "[2. Set up your Google tag](https://support.google.com/google-ads/answer/12215519)."
+
+Once you implement the tag on your website and the tag is fired, [!DNL Google Ads] starts recording conversions on the website. Adobe Advertising syncs the conversion as 3 corresponding conversions – Count, Value and Cross-Device. The display name convention is as follows:
+Count – CT_<Conversion Name in Google>
+Value - <Conversion Name in Google>
+Cross-Device - XD_<Conversion Name in Google>
 
 ## Conversion tag settings {#conversion-tag-settings-google}
 

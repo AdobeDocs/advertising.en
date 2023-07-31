@@ -70,7 +70,7 @@ You can use your standard events and custom events from [!DNL Analytics] to buil
 >
 > You can't map calculated metrics from [!DNL Analytics] into Adobe Advertising.
 
-Your Adobe Advertising team will help you to identify and map the events that are applicable to paid media performance into Adobe Advertising, where they will appear in [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions].
+Your Adobe Advertising team will help you to identify and map the events that are applicable to paid media performance into Adobe Advertising, where they will appear in [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Transaction Properties].
 
 See "[Analytics Metrics in Adobe Advertising](analytics-data-in-advertising.md)" for a list of available metrics.
 
