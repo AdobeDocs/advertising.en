@@ -28,7 +28,7 @@ Create a separate conversion tag for each set of metrics that you want to track,
 
 >[!NOTE]
 >
->Each metric in the new conversion tag is automatically listed in [!UICONTROL Admin] > [!UICONTROL Transaction Properties], even if it isn't implemented or the webpages it's on haven't received any clicks. This behavior is different from the behavior of metrics in tags created manually or elsewhere, which aren't listed in [!UICONTROL Admin] > [!UICONTROL Transaction Properties] until one of the webpages it's on has received a click. In all cases, however, each metric is initially excluded from portfolio objectives, reports, and views until you explicitly make them available. Before you add the metrics to portfolio objectives, however, consider first making the metrics available and adding them to reports to verify when they receive clicks.
+>Each metric in the new conversion tag is automatically listed in [!UICONTROL Admin] > [!UICONTROL Conversions], even if it isn't implemented or the webpages it's on haven't received any clicks. This behavior is different from the behavior of metrics in tags created manually or elsewhere, which aren't listed in [!UICONTROL Admin] > [!UICONTROL Conversions] until one of the webpages it's on has received a click. In all cases, however, each metric is initially excluded from portfolio objectives, reports, and views until you explicitly make them available. Before you add the metrics to portfolio objectives, however, consider first making the metrics available and adding them to reports to verify when they receive clicks.
 
 ## Adobe Advertising conversion tag settings {#conversion-tag-settings}
 
@@ -75,4 +75,4 @@ See "[FAQs about Adobe Advertising conversion and page view tracking tags](/help
 >* [Format of JavaScript conversion tracking tags version 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
 >* [Format of image conversion tracking tags](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
 >* [The Adobe Advertising JavaScript conversion mapping tag](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
->* [About managing an advertiser's transaction properties](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md)
+>* [About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
