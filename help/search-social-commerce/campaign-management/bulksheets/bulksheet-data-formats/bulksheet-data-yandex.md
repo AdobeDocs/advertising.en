@@ -62,8 +62,6 @@ Platform,Acct Name,Campaign Name,Campaign Start Date,Campaign Budget,Delivery Me
 | [!UICONTROL Constraints] | Optional | Optional | Optional | n/a | n/a | A constraint that's assigned to the entity. You can assign only one constraint per entity.<br><br>Constraints are inherited by child entities, so you don't need to enter values for child entities unless you want to override the inherited values. |
 | [!UICONTROL EF Error Message] | n/a | n/a | n/a | n/a | n/a | (Included in generated bulksheets for information purposes) Placeholder for displaying error messages from Search, Social, & Commerce regarding data in the row; error messages are included in [!UICONTROL EF Errors] files. This value isn't posted to the ad network. |
 
-<table style="table-layout:auto">
-
 [^1]: Excel converts large numbers to scientific notation (such as 2.12E+09 for 2115585666) when it opens the file. To view digits in the standard notation, select any cell in the column and click inside the formula bar.
 
 >[!MORELIKETHIS]
