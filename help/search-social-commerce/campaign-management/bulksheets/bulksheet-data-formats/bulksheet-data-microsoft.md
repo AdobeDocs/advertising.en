@@ -107,8 +107,6 @@ For the data fields relevant for account entities, see "[Fields required to crea
 | [!UICONTROL Exemption Request] | (Included in generated bulksheets for information purposes) Placeholder for displaying the names and text of any Google advertising policies that an ad violates. |
 | [!UICONTROL Retail Hash] | (Included for information purposes in bulksheets generated using Advanced Campaign Management) An alphanumeric hash code (such as f9639f40cdf56524b541e5dacf55a991) that indicates the item was generated using the Advanced (ACM) view. |
 
-<table style="table-layout:auto">
-
 [^1]: [!DNL Excel] converts large numbers to scientific notation (such as 2.12E+09 for 2115585666) when it opens the file. To view digits in the standard notation, select any cell in the column and click inside the formula bar.
 
 ## Fields required to create, edit, or delete each account component {#bulksheet-fields-per-component-microsoft}

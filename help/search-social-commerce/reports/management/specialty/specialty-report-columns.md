@@ -148,8 +148,6 @@ exl-id: 5cc98781-588b-4bf3-8978-a7966009fa51
 | [!UICONTROL User SE Account ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network. |
 | [!UICONTROL ViewThroughConversions] | ([!UICONTROL Bing Ads Geo Report]; ads on the audience network) The number of conversions that resulted from one or more impressions but no clicks. |
 
-<table style="table-layout:auto">
-
 >[!MORELIKETHIS]
 >
 >* [About specialty reports](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md)

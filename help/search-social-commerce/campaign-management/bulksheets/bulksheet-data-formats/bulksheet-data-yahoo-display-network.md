@@ -46,8 +46,6 @@ Platform,Acct Name,Campaign Name,Ad Group Name,Ad Name, Ad Title,Description Lin
 | [!UICONTROL AMO ID] | n/a | n/a | n/a | (In generated bulksheets) An Adobe-generated unique identifier for a synced entity. |
 | [!UICONTROL EF Error Message] | n/a | n/a | n/a | (Included in generated bulksheets for information purposes) Placeholder for displaying error messages from Search, Social, & Commerce regarding data in the row; error messages are included in [!UICONTROL EF Errors] files. |
 
-<table style="table-layout:auto">
-
 >[!MORELIKETHIS]
 >
 >* [Download/Create a bulksheet file](../bulksheet-download.md)

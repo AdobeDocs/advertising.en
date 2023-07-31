@@ -42,8 +42,6 @@ The following are the columns that are available for each report. The default co
 | [!UICONTROL Portfolio Group Name] | Default | The name of the portfolio group to which the portfolio belongs. |
 | [!UICONTROL Portfolio ID] | Default | The numeric portfolio ID. |
 
-<table style="table-layout:auto">
-
 >[!MORELIKETHIS]
 >
 >* [About model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md)

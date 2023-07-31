@@ -26,8 +26,6 @@ The following are the columns that are automatically included in each report. Yo
 | [!UICONTROL Clicks] | Default | The total clicks. |
 | [!UICONTROL Cost] | Default | The total cost. |
 
-<table style="table-layout:auto">
-
 >[!MORELIKETHIS]
 >
 >* [About model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md)
