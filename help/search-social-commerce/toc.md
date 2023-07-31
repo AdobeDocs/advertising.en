@@ -404,6 +404,6 @@ index: yes
     + [Change the conversion metrics available in management views and reports](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md)
     + [Change the display name for a conversion metric](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md)
     + Managing Conversion Tags {#conversion-tags}
-      + [Create a conversion tag for [!DNL Google Ads](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md)
+      + [Create a conversion tag for [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md)
 + [Get help](get-help.md)
 + [Glossary](glossary.md)
