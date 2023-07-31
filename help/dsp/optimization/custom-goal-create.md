@@ -16,7 +16,7 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
 
 1. Log into [!DNL Advertising Search, Social, & Commerce] at (users in North America) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) or (all other users) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Make sure the metrics that you want to include in your goal have been tracked, are available in the product, and include a display name:
-    1. In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Admin] > [!UICONTROL Transaction Properties]**.
+    1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
     1. Locate the metric, and make sure that **[!UICONTROL Show in UI and Reports]** is enabled for the metric.
     1. If the metric doesn't have a value in the **[!UICONTROL Display Name]** column, click in the cell, enter the display name, and then click **[!UICONTROL Apply].**
 1. Create the custom goal as an *objective*:
@@ -31,30 +31,30 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
 
            >[!NOTE]
            >
-           > All transaction properties tracked for the advertiser are listed by default in the [!UICONTROL Available Properties] list.
+           > All conversion metrics tracked for the advertiser are listed by default in the [!UICONTROL Available Properties] list.
 
-            * To import a CSV file with properties and their weights, click **[!UICONTROL Import]** and locate the file to import.
+            * To import a CSV file with conversion metrics and their weights, click **[!UICONTROL Import]** and locate the file to import.
 
-               The imported properties must already exist for the advertiser; the names aren't case-sensitive.
+               The imported conversion metrics must already exist for the advertiser; the names aren't case-sensitive.
 
-               The imported properties replace any existing properties specified.
+               The imported conversion metrics replace any existing properties specified.
 
-            * To manually specify the first property with the default weight (1), select from a list of all transaction properties tracked for the advertiser.
+            * To manually specify the first conversion metric with the default weight (1), select from a list of all conversion metrics tracked for the advertiser.
 
-            * To manually add another property with the default weight (1), click **[!UICONTROL +]** .
-
-               >[!TIP]
-               >
-               > To search for a property in the list, enter a string from anywhere within the property name.
-
-            * To manually add multiple properties, click **[!UICONTROL Add Multiple Properties].** For each property you want to add, click the property name in the [!UICONTROL Available Properties] column and drag it into the [!UICONTROL Added Properties] column. When you're finished adding properties, click **[!UICONTROL Add]**.
+            * To manually add another conversion metric with the default weight (1), click **[!UICONTROL +]** .
 
                >[!TIP]
                >
-               >* To search for a property in the list, enter a string from anywhere within the property name in the input field.
-               >* To filter the list to exclude properties that are excluded in reports, select the option **[!UICONTROL Hide properties excluded from reports].**
+               > To search for a metric in the list, enter a string from anywhere within the metric name.
 
-            * (When the objective contains multiple properties) To change the weight of a property relative to the other properties in the objective, enter values in the **[!UICONTROL Weight]** field(s).
+            * To manually add multiple conversion metrics, click **[!UICONTROL Add Multiple Properties].** For each conversion metric you want to add, click the metric name in the [!UICONTROL Available Properties] column and drag it into the [!UICONTROL Added Properties] column. When you're finished adding metrics, click **[!UICONTROL Add]**.
+
+               >[!TIP]
+               >
+               >* To search for a metric in the list, enter a string from anywhere within the metric name in the input field.
+               >* To filter the list to exclude metrics that are excluded in reports, select the option **[!UICONTROL Hide properties excluded from reports].**
+
+            * (When the objective contains multiple conversion metrics) To change the weight of a metric relative to the other metrics in the objective, enter values in the **[!UICONTROL Weight]** field(s).
 
         1. At the bottom of the settings, click **[!UICONTROL Save]**.
 
@@ -62,7 +62,7 @@ Once you create an objective, you can assign it to a DSP package as a custom goa
 
 >[!TIP]
 >
->For optimum performance, the combined metrics in the custom goal (objective) must total at least ten conversions per day. When they don't, the best practice is to add additional supporting events (transaction properties), such a product pages or application starts, to the objective. See [Best Practices for Building a Custom Goal](custom-goal-best-practices.md) for guidelines.
+>For optimum performance, the combined metrics in the custom goal (objective) must total at least ten conversions per day. When they don't, the best practice is to add additional supporting conversion metrics, such as product pages or application starts, to the objective. See [Best Practices for Building a Custom Goal](custom-goal-best-practices.md) for guidelines.
 
 >[!MORELIKETHIS]
 >

@@ -12,7 +12,7 @@ feature: Search Tools
 
 If your advertiser account is configured to use hybrid optimization, then Adobe Advertising can optionally upload the objectives for the account's portfolios to [!DNL Google Ads] and [!DNL Microsoft® Advertising] as conversions so you can use them for hybrid optimization.
 
-Enabling this option automatically triggers an upload for portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable portfolio-and-objective combination. Each conversion has the name `ACS_OBJ_SID_<portfolio_id>_<se_acctid/conversion_manager_se_acctid>`, where `<portfolio_id>` is the numeric portfolio ID and `<se_acctid/conversion_manager_se_acctid>` is the numeric ID for the ad network account or manager account. The conversion represents all weighted transaction properties in the objective.
+Enabling this option automatically triggers an upload for portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable portfolio-and-objective combination. Each conversion has the name `ACS_OBJ_SID_<portfolio_id>_<se_acctid/conversion_manager_se_acctid>`, where `<portfolio_id>` is the numeric portfolio ID and `<se_acctid/conversion_manager_se_acctid>` is the numeric ID for the ad network account or manager account. The conversion represents all weighted conversion metrics in the objective.
 
 Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone. Uploads to [!DNL Microsoft® Advertising] occur daily at 09:00 in the advertiser's time zone.
 
@@ -30,5 +30,5 @@ Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone.
 
 >[!MORELIKETHIS]
 >
->* [About managing an advertiser's transaction properties](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md)
+>* [About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
 >* [Upload conversion metrics to [!DNL Google Ads]](conversion-metrics-upload-to-google.md)

@@ -22,7 +22,7 @@ Information about specific groups of tasks and other information are available i
 
 * "Tools" explains how to change your password, use tools to generate click tracking and conversion tracking tags, upload your conversion metrics to [!DNL Google Ads] and your portfolio objectives to the ad networks for hybrid optimization, upload metrics for tracking campaigns, and replicate your [!DNL Google Ads] campaigns in your [!DNL Microsoft Advertising] accounts.
 
-* "Administration" explains how to manage advertiser data, including the transaction properties that are collected and any dates to exclude from portfolio forecasts; sync your conversion metrics from a [!DNL Google Analytics] account; configure various advertiser-level settings; and (some roles) administer user, agency, and advertiser accounts.
+* "Administration" explains how to manage advertiser data, including the conversion metrics that are collected and any dates to exclude from portfolio forecasts; sync your conversion metrics from a [!DNL Google Analytics] account; configure various advertiser-level settings; and (some roles) administer user, agency, and advertiser accounts.
 
 >[!NOTE]
 >

@@ -34,7 +34,7 @@ feature: Search Introduction
 
 **constraint:** (Advertisers with portfolios; applicable for bid units in standard portfolios only) A rule for bidding on a specific keyword or ad. It overrides any portfolio-level limits and the recommended bidding strategy.
 
-**conversion:** The completion of an action after an end user clicks an ad, usually captured as a metric; examples include registrations or purchases. A conversion can consist of one or more transaction events, but the terms "conversion" and "transaction" are often used interchangeably.
+**conversion:** The completion of an action after an end user clicks an ad, usually captured as a metric. Examples include registrations and purchases, and they can represent counts or monetary amounts. A conversion can consist of one or more transaction events, but the terms "conversion" and "transaction" are often used interchangeably.
 
 **conversion tracking:** Conversion tracking uses cookies to track a) clicks on an advertiser's ads on the ad networks and b) the resulting transactions on the advertiser's website.
 
@@ -108,9 +108,9 @@ feature: Search Introduction
 
 ## O-P {#o-p}
 
-**objective:** (Advertisers with portfolios) A goal which a client sets to meet its business objective for a specific portfolio or a display campaign, such as to maximize profits or to meet a specific sales target. An objective consists of the conversion metrics (also called transaction properties) to be tracked and optimized for the portfolio, and the relative weights of those metrics.
+**objective:** (Advertisers with portfolios) A goal which a client sets to meet its business objective for a specific portfolio or a display campaign, such as to maximize profits or to meet a specific sales target. An objective consists of the conversion metrics to be tracked and optimized for the portfolio, and the relative weights of those metrics.
 
-**objective value:** (Advertisers with portfolios) The total weighted conversions  as calculated according to the portfolio's current objective, including:
+**objective value:** (Advertisers with portfolios) The total weighted conversions as calculated according to the portfolio's current objective, including:
 
 * all conversions, taking into account a) the weights assigned to each conversion in the portfolio's objective function and, when applicable, b) the view-through weight for display view-throughs.
 
@@ -132,9 +132,9 @@ This has the same value as the legacy column "Weighted Revenue."
 
 **PPC:** See "pay per click."
 
-**property:** See "transaction property."
+**property:** See "conversion metric."
 
-**property time:** The time at which an individual transaction occurs. When a transaction includes related follow-on transactions (such as a customer first registering for a free trial and later subscribing to a paid service), each transaction has its own property time.
+**property time:** The time at which an individual conversion event occurs. When an event includes related follow-on events (such as a customer first registering for a free trial and later subscribing to a paid service), each event has its own property time.
 
 ## Q-R {#q-r}
 
@@ -168,7 +168,7 @@ This has the same value as the legacy column "Weighted Revenue."
 
 **transaction ID:** An advertiser-specified ID that identifies a transaction. When a transaction includes multiple events, they all have the same transaction ID.
 
-**transaction property:** An attribute of a transaction, such as the transaction/conversion type, the dollar amount of a sale, or a type of product sold (for example, "Sales Leads," "Amount of Sale," or "1-Yr. Registrations," respectively). In Search, Social, & Commerce, transaction properties are measured for a portfolio's objective and are identified in the tracking ID. The terms "transaction property" and "conversion<!-- type-->" are often used interchangeably.
+**transaction property:** See "conversion."
 
 **transaction time:** The time at which a click or impression is converted to a transaction. When a transaction consists of multiple transaction events (such as when a customer first registers for a free trial and later subscribes to a paid service), the transaction time comes from the first event in the chain (registering for the free trial).
 

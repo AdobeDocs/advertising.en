@@ -8,13 +8,13 @@ exl-id: 8b1247cd-083d-4c8c-8588-9e8c03c4cc67
 
 ## Custom Goals with a Single Property
 
-The following examples show how you might configure goals that target a single property (metric).
+The following examples show how you might configure goals that target a single conversion metric.
 
 ### Example for a Campaign with the "[!UICONTROL Highest ROAS - Custom Goal]" Optimization Goal
 
-If your campaign goal is revenue ([!UICONTROL Highest ROAS - Custom Goal]), then your custom goal (objective) will include the "[!UICONTROL Revenue]" property with a weight of one (1).
+If your campaign goal is revenue ([!UICONTROL Highest ROAS - Custom Goal]), then your custom goal (objective) will include the "[!UICONTROL Revenue]" metric with a weight of one (1).
 
-![example of a ROAS custom goal with a single property](/help/dsp/assets/custom-goal-roas.png)
+![example of a ROAS custom goal with a single conversion metric](/help/dsp/assets/custom-goal-roas.png)
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ If your campaign goal is revenue ([!UICONTROL Highest ROAS - Custom Goal]), then
 
 If your campaign goal is the lowest cost per acquisition (CPA) and it requires only one success event, then you'll include that one metric (in the following example, "Application Submit"). The best practice is to set the weight as one (1).
 
-![example of a CPA custom goal with a single property](/help/dsp/assets/custom-goal-roas.png)
+![example of a CPA custom goal with a single conversion metric](/help/dsp/assets/custom-goal-roas.png)
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ There are two scenarios in which you would use multiple properties in a custom g
 
    ![example of a custom goal with multiple properties](/help/dsp/assets/custom-goal-multiple-properties.png)
 
-* The single property in your custom goal isn't achieving the minimum of 10 conversions per day required for optimized performance. This can occur because of minimal daily package spend or a limited number of natural conversions. Adding additional supporting properties to the custom goal can help you achieve the 10-conversions-per-day threshold. Ten supporting events can help a package meet the 10/day threshold, even when each of their weights is below one (1). But you may not need to add that many events.
+* The single conversion metric in your custom goal isn't achieving the minimum of 10 conversions per day required for optimized performance. This can occur because of minimal daily package spend or a limited number of natural conversions. Adding additional supporting properties to the custom goal can help you achieve the 10-conversions-per-day threshold. Ten supporting events can help a package meet the 10/day threshold, even when each of their weights is below one (1). But you may not need to add that many events.
 
    When you add supporting properties to a custom goal, weight them according to their relative importance to the main success event, and keep in mind the quantity of data points. This allows the Adobe Sensei algorithm to balance multiple properties and optimize toward your goal.
 

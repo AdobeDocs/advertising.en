@@ -6,8 +6,7 @@ feature: Search Common Tasks, Search Custom Metrics
 ---
 # About custom metrics
 
-You can configure custom (derived) metrics, which are calculated from standard traffic metrics and existing transaction properties (revenue metrics) tracked for the advertiser. Custom metrics can be as simple (such as `[Cost]/[Registrations]`) or as complex as
-you want.
+You can configure custom (derived) metrics, which are calculated from standard traffic metrics and existing conversion metrics tracked for the advertiser. Custom metrics can be as simple (such as `[Cost]/[Registrations]`) or as complex as you want.
 
 You can include custom metrics as columns in portfolio and campaign management views and in reports.
 

@@ -31,11 +31,11 @@ Duplicate transactions may occur when a user refreshes the confirmation page aft
 
 The following is Adobe Advertising's de-duplication logic:
 
-* **When a client sends a value for the `ev_transid` attribute:** Subsequent pixel requests are considered duplicates of the previous one if the following are all the same: the `ev_transid`; the tracking ID for the same keyword, ad, or placement; and the value for a specific transaction property.
+* **When a client sends a value for the `ev_transid` attribute:** Subsequent pixel requests are considered duplicates of the previous one if the following are all the same: the `ev_transid`; the tracking ID for the same keyword, ad, or placement; and the value for a specific conversion metric.
 
   For example, if multiple loan applications have the same application ID and loan amount for the same keyword on a specific ad network, then they're considered duplicates, and only the first loan application is counted.
 
-* **When a client doesn't send a value for the `ev_transid` attribute:** Subsequent transactions are considered duplicates of the previous one if they share a tracking ID for the same keyword, ad, or placement; and the same value for a specific transaction property.
+* **When a client doesn't send a value for the `ev_transid` attribute:** Subsequent transactions are considered duplicates of the previous one if they share a tracking ID for the same keyword, ad, or placement; and the same value for a specific conversion metric.
 
   For example, if multiple loan applications have the same keyword ID and loan amount, then they are considered duplicates, and only the first loan application is counted.
 +++
@@ -51,9 +51,9 @@ In the account or campaign, change the tracking method to "[!UICONTROL No EF Red
 
 ## Data questions
 
-+++How do I know which transaction property is from a data feed or is tracked by the Adobe Advertising conversion tracking tag?
++++How do I know which conversion metric is from a data feed or is tracked by the Adobe Advertising conversion tracking tag?
 
-In a [!UICONTROL Transaction Report], you can tell if an included transaction property was tracked by the Adobe Advertising conversion tracking pixel if you include the custom column "[!UICONTROL Tracking URL]." Tracking URLs with the Adobe Advertising tracking pixel begin with `http://pixel.everesttech.net`.
+In a [!UICONTROL Transaction Report], you can tell if an included conversion metric was tracked by the Adobe Advertising conversion tracking pixel if you include the custom column "[!UICONTROL Tracking URL]." Tracking URLs with the Adobe Advertising tracking pixel begin with `http://pixel.everesttech.net`.
 +++
 
 +++What are orphan transactions?

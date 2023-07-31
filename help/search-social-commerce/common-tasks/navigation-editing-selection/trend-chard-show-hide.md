@@ -20,7 +20,7 @@ By default, the chart shows the number of clicks versus cost during the selected
 
    1. In the upper right of the chart, specify the metrics to compare and (when applicable) the currency for which to include data.
    
-      When you have accounts with multiple currencies, all currencies for the relevant accounts are listed; changing the currency shows data for only the accounts that use that currency. All standard metrics, advertiser-specific transaction properties, and custom metrics you've derived from existing metrics are listed.
+      When you have accounts with multiple currencies, all currencies for the relevant accounts are listed; changing the currency shows data for only the accounts that use that currency. All standard metrics, advertiser-specific conversion metrics, and custom metrics you've derived from existing metrics are listed.
 
    1. Click ![Save](/help/search-social-commerce/assets/save-checkmark.png "Save").
 

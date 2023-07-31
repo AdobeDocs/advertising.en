@@ -54,11 +54,11 @@ Inventory mapping is the detailed review and on-boarding process required for al
 
 * **Tiering:** We holistically examine brand presence in the overall ecosystem to classify inventory across different tiers. You can [target your placements](/help/dsp/campaign-management/placements/placement-settings.md) to these tiers for the desired level of reach:
 
-   * **[!UICONTROL T1]** – Brand-name, internationally-recognizable sites
+   * **[!UICONTROL T1]** &mdash; Brand-name, internationally-recognizable sites
 
-   * **[!UICONTROL T2]** – Great-looking sites that are current, up-to-date, without user-generated content, and usually lacking in global recognition
+   * **[!UICONTROL T2]** &mdash; Great-looking sites that are current, up-to-date, without user-generated content, and usually lacking in global recognition
 
-   * **[!UICONTROL T3]** – User-generated content and niche content
+   * **[!UICONTROL T3]** &mdash; User-generated content and niche content
 
 * **Site categorization:** To ensure easy content targeting and blocking, we tag each property with a DSP-defined site category based on the property's content. You can [target or exclude these site categories for each placement](/help/dsp/campaign-management/placements/placement-settings.md) based on the placement goals.
 
