@@ -181,8 +181,6 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Views] | (Video ads) The number of times people watched or engaged with your ad. |
 | [!UICONTROL ViewThroughConversions] | (Ads on the audience network) The number of conversions that resulted from one or more impressions but no clicks. |
 
-<table style="table-layout:auto">
-
 <!-- HOW IS MARKET TYPE DIFFERENT FROM CHANNEL TYPE? And what are all possible values for each? -->
 
 >[!MORELIKETHIS]

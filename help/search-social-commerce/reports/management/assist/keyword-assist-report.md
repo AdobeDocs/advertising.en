@@ -39,8 +39,6 @@ The following are the columns that are available for each report. The default co
 | [!UICONTROL Avg. Conv. Latency (Last Channel To Conversion)] \[transaction property\] | Automatic | (Not available in report settings but automatically included in report output) The average latency in days from the last event (on the last keyword or placement) to a conversion. |
 | [!UICONTROL Path Frequency] | Custom | The number of times that the path for this row occurred before conversion. |
 
-<table style="table-layout:auto">
-
 >[!MORELIKETHIS]
 >
 >* [About assist reports](assist-report-about.md)

@@ -44,8 +44,6 @@ The following are the columns that are available for each report. The default co
 | [!UICONTROL Portfolio ID] | The numeric portfolio ID. |
 | [!UICONTROL User SE Account ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network. |
 
-<table style="table-layout:auto">
-
 >[!MORELIKETHIS]
 >
 >* [About assist reports](assist-report-about.md)
