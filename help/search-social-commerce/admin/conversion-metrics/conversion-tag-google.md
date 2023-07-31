@@ -1,7 +1,6 @@
 ---
 title: Create a conversion tag for [!DNL Google Ads]
 description: Learn how to create a [!DNL Google Ads] conversion tag.
-exl-id: 322be2d5-0d66-4d0c-a17a-619a1f6c0644
 ---
 # Create a conversion tag for [!DNL Google Ads]
 
