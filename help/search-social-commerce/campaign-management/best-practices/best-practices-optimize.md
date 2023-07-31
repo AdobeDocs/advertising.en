@@ -2,6 +2,7 @@
 title: Optimize the website landing pages
 description: Learn about best practices for optimizing your website landing pages.
 exl-id: 87379fb1-c737-4ac0-80c1-26c79feb45d8
+feature: Search Best Practices
 ---
 # Optimize the website landing pages
 

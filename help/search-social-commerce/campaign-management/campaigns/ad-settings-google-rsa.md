@@ -2,6 +2,7 @@
 title: '[!DNL Google Ads] responsive search ad settings'
 description: Reference the settings for [!DNL Google Ads] responsive search ads.
 exl-id: e3c76f22-780d-4631-bcf2-af68d12810e2
+feature: Search Campaign Management
 ---
 # [!DNL Google Ads] responsive search ad settings
 

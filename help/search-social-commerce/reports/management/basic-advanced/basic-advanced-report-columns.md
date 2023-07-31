@@ -2,6 +2,7 @@
 title: Report columns for basic and advanced reports
 description: Learn about the available data columns for basic and advanced reports.
 exl-id: 20ce9519-4a13-4175-bf7c-26f1dc4c9bd1
+feature: Search Reports, Search Basic Reports, Search Advanced Reports
 ---
 # Report columns for basic and advanced reports
 
@@ -127,6 +128,8 @@ exl-id: 20ce9519-4a13-4175-bf7c-26f1dc4c9bd1
 | [!UICONTROL Network Ad Group ID] | The ad group ID assigned by the network. |
 | [!UICONTROL Network Campaign ID] | The campaign ID assigned by the network. |
 | [!UICONTROL Objective Name] | The portfolio's objective. |
+| [!UICONTROL Objective Value] | The total weighted conversions as calculated according to the portfolio's current objective. |
+| [!UICONTROL Objective Value Calculation] | The calculation used to derive the Objective Value. |
 | [!UICONTROL Outbound Clicks] | ([!DNL Meta] ads) The number of clicks on links within ads that take people off [!DNL Meta]-owned properties. |
 | [!UICONTROL Parent Product Groupings] | The full hierarchy of the parent product groups, with `>>` between tiers (such as `All Products>>CategoryL1=Animals`), when applicable. |
 | [!UICONTROL Partition Type] | The type of product group: <i>[!UICONTROL Sub-Division]</i> (parent product groups) or <i>[!UICONTROL Unit]</i> (the lowest level of child product groups, which has a bid). |
@@ -166,7 +169,6 @@ exl-id: 20ce9519-4a13-4175-bf7c-26f1dc4c9bd1
 | [!UICONTROL Surfer ID] | ([!UICONTROL Transaction Report]) The ID of the user who completed the transaction. |
 | [!UICONTROL Through Plays] | ([!DNL Meta] ads) The number of views that watched the ad in its entirety. |
 | [!UICONTROL Top of Page CPC] | (Google campaigns only) The cost per click (CPC) for ads that appear at the top of search result pages during the specified date range. |
-
 | [!UICONTROL Tracking URL] | (Search-targeted keywords only) The tracking template or the destination URL embedded with (when applicable) Search, Social, & Commerce tracking code. |
 | [!UICONTROL Transaction Property Name] | ([!UICONTROL Transaction Report]) The advertiser-specific conversion metric to which the transaction is credited. |
 | [!UICONTROL Transaction Time] | ([!UICONTROL Transaction Report]) The time at which the specified conversion metric was credited. |

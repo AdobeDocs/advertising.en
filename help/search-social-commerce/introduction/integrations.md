@@ -2,6 +2,7 @@
 title: Integration with Adobe Experience Cloud solutions and services
 description: Learn about Search, Social, & Commerce integrations with Adobe Experience Cloud solutions and services.
 exl-id: e8b521f5-f426-4c50-9df4-361a047c9ff0
+feature: Search Introduction
 ---
 # Integration with Adobe Experience Cloud solutions and services
 

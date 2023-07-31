@@ -2,6 +2,7 @@
 title: Statuses of data generated from feeds
 description: Learn about the statuses for data generated from inventory data feeds.
 exl-id: 8e5e7649-a16b-4634-896a-7c216185b367
+feature: Search Inventory Feeds
 ---
 # Statuses of data generated from feeds
 

@@ -2,6 +2,7 @@
 title: View or save an [!DNL Advertising Insight]
 description: Learn how to view an [!DNL Advertising Insight] and save it to a file.
 exl-id: 165a6036-c911-4c56-a820-c9d172e47ea4
+feature: Search Advertising Insights
 ---
 # View or save an [!DNL Advertising Insight]
 

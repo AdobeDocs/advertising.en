@@ -3,6 +3,7 @@ title: Available [!DNL Google Analytics] metrics
 description: Reference the [!DNL Google Analytics] metrics available for data sources.
 role: User, Admin
 exl-id: f7ac93e3-1aed-4165-ae65-7966ca192c84
+feature: Search Admin, Search Data Sources
 ---
 # Appendix - Available [!DNL Google Analytics] metrics
 

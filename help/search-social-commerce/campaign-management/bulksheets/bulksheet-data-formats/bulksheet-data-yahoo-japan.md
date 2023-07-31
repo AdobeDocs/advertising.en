@@ -2,6 +2,7 @@
 title: Bulksheet data for [!DNL Yahoo! Japan] accounts
 description: Reference the header fields and data fields in downloaded bulksheets for [!DNL Yahoo! Japan] accounts.
 exl-id: b68edbc1-0054-4dac-be3f-4df3c4e00ba9
+feature: Search Bulksheets
 ---
 # Appendix - Bulksheet data for [!DNL Yahoo! Japan] accounts
 

@@ -2,6 +2,7 @@
 title: Mark a notification as read or unread
 description: Learn how to indicate if you've read or not read a notification.
 exl-id: 333173a0-7e3a-4fb6-a80c-a9a1f5714fbf
+feature: Search Notifications
 ---
 # Mark a notification as read or unread
 

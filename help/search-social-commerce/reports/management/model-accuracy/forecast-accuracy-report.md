@@ -2,6 +2,7 @@
 title: '[!UICONTROL Forecast Accuracy Report]'
 description: Learn about the Forecast Accuracy Report, including the data columns.
 exl-id: 2bb36728-ae14-441b-bcda-fa457f5cf664
+feature: Search Reports, Search Model Accuracy Reports
 ---
 # The [!UICONTROL Forecast Accuracy Report]
 

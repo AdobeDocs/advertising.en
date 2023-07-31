@@ -2,6 +2,7 @@
 title: FTP access to reports
 description: Learn how to receive reports at a read-only FTP location.
 exl-id: 69850b68-0309-4f07-b4cb-c14488219a4b
+feature: Search Reports
 ---
 # FTP access to reports
 

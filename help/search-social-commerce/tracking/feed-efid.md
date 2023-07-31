@@ -2,6 +2,7 @@
 title: Conversion tracking using an EF ID feed
 description: Learn about using an EF ID feed for conversion tracking data.
 exl-id: db722a54-a9bf-4a31-a285-a82e6d79c34a
+feature: Search Tracking
 ---
 # Conversion tracking using an EF ID feed
 

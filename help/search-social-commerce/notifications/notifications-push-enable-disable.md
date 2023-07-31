@@ -2,6 +2,7 @@
 title: Enable and disable push notifications from [!UICONTROL Notification Center]
 description: Learn how to enable and disable push notifications from [!UICONTROL Notification Center].
 exl-id: 71d115d0-6190-4052-a299-d5e8cde8e46c
+feature: Search Notifications
 ---
 # Enable and disable push notifications from [!UICONTROL Notification Center]
 

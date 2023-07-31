@@ -2,6 +2,7 @@
 title: Create a custom metric
 description: Learn how to configure custom metrics, which are calculated from standard metrics.
 exl-id: 14a768f5-3c7f-4e8e-bcd0-66b176052a25
+feature: Search Common Tasks, Search Custom Metrics
 ---
 # Create a custom metric
 

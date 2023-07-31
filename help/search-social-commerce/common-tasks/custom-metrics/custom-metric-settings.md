@@ -2,6 +2,7 @@
 title: Custom metric settings
 description: Reference the settings for custom metrics, which are calculated from standard metrics.
 exl-id: f4b8c44e-ecb3-46dc-9a68-c079188e1d75
+feature: Search Common Tasks, Search Custom Metrics
 ---
 # Custom metric settings
 

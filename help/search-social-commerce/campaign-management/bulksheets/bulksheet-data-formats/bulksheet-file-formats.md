@@ -2,6 +2,7 @@
 title: Supported bulksheet file formats
 description: Reference the general file requirements for bulksheets.
 exl-id: b14aaf11-e2e9-4f7c-b6bc-831f668b93a6
+feature: Search Bulksheets
 ---
 # Supported bulksheet file formats
 

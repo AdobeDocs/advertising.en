@@ -2,6 +2,7 @@
 title: Change the status of keywords and negative keywords
 description: Learn how to change the status of keywords and negative keywords.
 exl-id: c1562104-048e-486d-b20c-3c15f089324d
+feature: Search Campaign Management
 ---
 # Change the status of keywords and negative keywords
 

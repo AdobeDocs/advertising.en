@@ -2,6 +2,7 @@
 title: Optional tracking parameters for click-tracking URLs
 description: Learn about optional Search, Social, & Commerce tracking parameters and ad network-specific tracking parameters that you can add to your click-tracking URLs.
 exl-id: ca619e55-14b1-4768-b866-e339ae2ca6d4
+feature: Search Tracking
 ---
 # Optional tracking parameters for click-tracking URLs
 

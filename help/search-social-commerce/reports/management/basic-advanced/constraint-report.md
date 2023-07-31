@@ -2,6 +2,7 @@
 title: '[!UICONTROL Constraint Report]'
 description: Learn about the [!UICONTROL Constraint Report].
 exl-id: c118c9fa-5dfe-4224-bbc5-618d291bafc2
+feature: Search Reports, Search Basic Reports
 ---
 # [!UICONTROL Constraint Report]
 

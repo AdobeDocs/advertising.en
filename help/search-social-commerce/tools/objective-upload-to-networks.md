@@ -2,6 +2,7 @@
 title: Enable uploading of objectives to ad networks
 description: Learn how to upload objectives for your hybrid portfolios to [!DNL Google Ads] and [!DNL Microsoft® Advertising].
 exl-id: 75a1a804-ad6a-4dbc-9cde-30fe54476162
+feature: Search Tools
 ---
 # Enable uploading of objectives to ad networks
 

@@ -2,6 +2,7 @@
 title: Create an [!DNL Excel] template for a spreadsheet report feed
 description: Learn how to create specially formatted spreadsheet templates.
 exl-id: d675cb8c-b7a9-4d7b-8435-5dd662d151a3
+feature: Search Reports
 ---
 # Create an [!DNL Excel] template for a spreadsheet report feed
 

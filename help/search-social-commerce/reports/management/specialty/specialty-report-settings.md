@@ -2,6 +2,7 @@
 title: Specialty report settings
 description: Learn about the required and optional settings for  specialty reports.
 exl-id: b64163fd-030d-4183-abe4-a9cb021884a4
+feature: Search Reports, Search Specialty Reports
 ---
 # Specialty report settings
 

@@ -2,6 +2,7 @@
 title: Filter data using the left navigation panel
 description: Learn how to filter data using the left navigation panel.
 exl-id: a0e88e85-e470-45dd-8d39-afddd27fd95b
+feature: Search Common Tasks, Search Custom Data Views
 ---
 # Filter data using the left navigation panel
 

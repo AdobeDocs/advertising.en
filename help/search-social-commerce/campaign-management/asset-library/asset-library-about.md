@@ -1,6 +1,7 @@
 ---
 title: "About the [!UICONTROL Asset Library]"
 description: Learn about the asset library for your ad assets.
+feature: Search Campaign Management
 ---
 # About the [!UICONTROL Asset Library]
 

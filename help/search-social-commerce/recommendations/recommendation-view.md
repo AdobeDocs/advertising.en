@@ -1,6 +1,7 @@
 ---
 title: View publisher recommendations and performance insights
 description: Learn how to view the [!DNL Google Ads] recommendations and [!DNL Microsoft® Advertising] performance insights for your ad network accounts.
+feature: Search Recommendations
 ---
 # View your publisher recommendations and performance insights
 

@@ -2,6 +2,7 @@
 title: Manage shared sitelinks
 description: Learn how to create and manage shared sitelink extensions.
 exl-id: 33d52179-b968-4eab-a1b9-b10ff20948e3
+feature: Search Campaign Management
 ---
 # Manage shared sitelinks
 
