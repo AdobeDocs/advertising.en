@@ -30,5 +30,5 @@ Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone.
 
 >[!MORELIKETHIS]
 >
->* [About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
+>* [About managing an advertiser's transaction properties](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md)
 >* [Upload conversion metrics to [!DNL Google Ads]](conversion-metrics-upload-to-google.md)

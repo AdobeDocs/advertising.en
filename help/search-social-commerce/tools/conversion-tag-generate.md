@@ -75,4 +75,4 @@ See "[FAQs about Adobe Advertising conversion and page view tracking tags](/help
 >* [Format of JavaScript conversion tracking tags version 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
 >* [Format of image conversion tracking tags](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
 >* [The Adobe Advertising JavaScript conversion mapping tag](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
->* [About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
+>* [About managing an advertiser's transaction properties](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md)

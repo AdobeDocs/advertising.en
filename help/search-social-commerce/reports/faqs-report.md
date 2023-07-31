@@ -162,7 +162,7 @@ The report may not include conversion metrics for which conversions occurred.
 
 *Possible solution or work-around:*
 
-1. Verify that the correct columns are included in the reports or data views. If the correct columns aren't available to add, then you or your Adobe Account Team must [make the conversion metrics available to reports](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
+1. Verify that the correct columns are included in the reports or data views. If the correct columns aren't available to add, then you or your Adobe Account Team must [make the conversion metrics available to reports](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
 
 1. Verify that the correct conversion tracking tags are implemented on all applicable webpages. If necessary, ask your Adobe Account Team to create a test transaction for each applicable conversion tracking tag and to capture the details of the transaction, such as the `transactionid` and details from the cookie (such as the `trackingid`, `clickid`, and so on).
 
@@ -190,7 +190,7 @@ The report may not include conversion metrics for which conversions occurred.
 
 *Possible solution or work-around:*
 
-1. Verify that the correct columns are included in the reports or data views. If the correct columns aren't available to add, then you or your Adobe Account Team must [make the conversion metrics available to reports](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
+1. Verify that the correct columns are included in the reports or data views. If the correct columns aren't available to add, then you or your Adobe Account Team must [make the conversion metrics available to reports](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
 
 1. Run the [!UICONTROL Portfolio Report]. If it's empty, then run the [!UICONTROL Campaign Report] and [!UICONTROL Search Engine Report] to see if the revenue appears in those reports. If it does, then the campaigns may not be assigned to the appropriate portfolio.
 

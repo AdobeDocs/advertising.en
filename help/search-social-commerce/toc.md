@@ -398,10 +398,10 @@ index: yes
     + [Reauthenticate a [!DNL Google Analytics] data source](/help/search-social-commerce/admin/data-sources/data-source-reauthenticate.md)
     + [[!DNL Google Analytics] data source settings](/help/search-social-commerce/admin/data-sources/data-source-settings.md)
     + [Appendix - Available [!DNL Google Analytics] metrics](/help/search-social-commerce/admin/data-sources/data-source-ga-metrics.md)
-  + Managing an advertiser's conversion metrics{#conversion-metrics}
-    + [About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
-    + [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
-    + [Change the conversion metrics available in management views and reports](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md)
-    + [Change the display name for a conversion metric](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md)
+  + Managing an advertiser's transaction properties{#transaction-properties}
+    + [About managing an advertiser's transaction properties](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md)
+    + [View the transaction properties tracked for an advertiser](/help/search-social-commerce/admin/transaction-properties/transaction-property-view-tracked.md)
+    + [Change the transaction properties available in management views and reports](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md)
+    + [Change the display name for a transaction property](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-display-name.md)
 + [Get help](get-help.md)
 + [Glossary](glossary.md)
