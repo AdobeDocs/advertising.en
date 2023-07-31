@@ -149,8 +149,6 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL User SE Account ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network. |
 | [!UICONTROL ViewThroughConversions] | ([!UICONTROL Bing Ads Geo Report]; ads on the audience network) The number of conversions that resulted from one or more impressions but no clicks. |
 
-<table style="table-layout:auto">
-
 >[!MORELIKETHIS]
 >
 >* [About specialty reports](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md)
