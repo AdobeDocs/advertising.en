@@ -4,6 +4,8 @@ description: Learn how to create a [!DNL Google Ads] conversion tag.
 ---
 # Create a conversion tag for [!DNL Google Ads]
 
+You can create conversion tags for conversions that are tracked for individual [!DNL Google Ads] accounts, not conversions that are tracked at a manager account level.
+
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
@@ -18,7 +20,12 @@ description: Learn how to create a [!DNL Google Ads] conversion tag.
 
    1. Click **[!UICONTROL Generate]**.
 
-After you create the tag, implement it on the websites from which you want to track the conversion metric. See "Installing the Google tag" in the Google Ads help to "[2. Set up your Google tag](https://support.google.com/google-ads/answer/12215519)."
+After you create the tag, implement it on the websites from which you want to track the conversion metric. See "Installing the [!DNL Google] tag" in the [!DNL Google Ads] help to "[2. Set up your Google tag](https://support.google.com/google-ads/answer/12215519)."
+
+Once you add the tags to your website and they begin firing, [!DNL Google Ads] records conversions on the website. Search, Social, & Commerce syncs the conversions daily. For more information about the data that's synced, see "[[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md).
+
+<!--
+-->
 
 ## Conversion tag settings {#conversion-tag-settings-google}
 
