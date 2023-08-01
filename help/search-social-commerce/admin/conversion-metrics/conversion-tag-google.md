@@ -4,7 +4,9 @@ description: Learn how to create a [!DNL Google Ads] conversion tag.
 ---
 # Create a conversion tag for [!DNL Google Ads]
 
-You can create conversion tags for conversions that are tracked for individual [!DNL Google Ads] accounts, not conversions that are tracked at a manager account level.
+You can create conversion tags for new conversions to be tracked for individual [!DNL Google Ads] accounts, not tracked at a manager account level.
+
+To generate conversion tags for existing conversions, use the ad network's editor.
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
 
@@ -23,9 +25,6 @@ You can create conversion tags for conversions that are tracked for individual [
 After you create the tag, implement it on the websites from which you want to track the conversion metric. See "Installing the [!DNL Google] tag" in the [!DNL Google Ads] help to "[2. Set up your Google tag](https://support.google.com/google-ads/answer/12215519)."
 
 Once you add the tags to your website and they begin firing, [!DNL Google Ads] records conversions on the website. Search, Social, & Commerce syncs the conversions daily. For more information about the data that's synced, see "[[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md).
-
-<!--
--->
 
 ## Conversion tag settings {#conversion-tag-settings-google}
 
@@ -49,3 +48,6 @@ Once you add the tags to your website and they begin firing, [!DNL Google Ads] r
 
 **[!UICONTROL Attribution Model]:** [How much credit each ad interaction gets](https://support.google.com/google-ads/answer/6259715?sjid=8211249329930775138): *[!UICONTROL Data driven]*, *[!UICONTROL Last click]*, *[!UICONTROL First click]*, *[!UICONTROL Linear]*, *[!UICONTROL Time decay]*, or *[!UICONTROL Position based]*.
 
+>[!MORELIKETHIS]
+>
+>* [[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)
