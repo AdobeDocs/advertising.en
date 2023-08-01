@@ -16,6 +16,16 @@ Search, Social, & Commerce syncs data for conversions for which the "[!DNL Inclu
 
 Up to three metrics for each [[!DNL Google Ads]-tracked conversion](https://support.google.com/google-ads/answer/4677036) (which you set up in [!DNL Google Ads]) are automatically available in Search, Social, & Commerce, using the conversion names configured in [!DNL Google Ads]. The metrics for each conversion include:
 
+<!--
+
+* `<conversion-name>` &mdash; (When you track it) The conversion value for the keyword, beginning with the "GGL" prefix (such as GGL Purchase).
+
+`CT_<conversion-name>` &mdash; The number (count) of conversions, beginning with the "GGL_CT" prefix (such as GGL_CT_Purchase).
+
+* `XD_<conversion-name>` &mdash; (When available for the conversion type, when you track them) The number (count) of cross-device conversions, as measured by Google, beginning with the "GGL_XD_CT_" prefix (such as GGL_XD_CT_Purchase).
+
+-->
+
 * `GGL*` &mdash; (When you track it) The conversion value for the keyword, beginning with the "GGL" prefix (such as GGL Purchase).
 
 * `GGL_CT*` &mdash; The number (count) of conversions, beginning with the "GGL_CT" prefix (such as GGL_CT_Purchase).
