@@ -99,3 +99,4 @@ In Search, Social, & Commerce, use the view or report option to view conversions
 >* [Overview of implementing ad network accounts and campaigns](campaign-implemention-overview.md)
 >* [Monitor and manage the performance of your ad network campaigns](monitor-performance-campaigns.md)
 >* [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
+>* [Create a conversion tag for [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md)
