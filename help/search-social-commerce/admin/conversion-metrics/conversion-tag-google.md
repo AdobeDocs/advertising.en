@@ -42,7 +42,13 @@ Once you add the tags to your website and they begin firing, [!DNL Google Ads] r
 
 **\[Action Type\]:** Whether the goal is a *[!UICONTROL Primary action used for bidding optimization]* or a *[!UICONTROL Secondary action not used for bidding optimization]*.
 
-**[!UICONTROL Value]:** How to measure the [value of each conversion](https://support.google.com/google-ads/answer/3419241): *[!UICONTROL Use the same value for each conversion]*, *[!UICONTROL Use a different value for each conversion]*, or *[!UICONTROL Don't use a value for this conversion action (Not recommended)]*.
+**[!UICONTROL Value]:** How to measure the [value of each conversion](https://support.google.com/google-ads/answer/3419241):
+
+* *[!UICONTROL Use the same value for each conversion],* which requires you to select a currency and enter the value for each conversion.
+
+* *[!UICONTROL Use a different value for each conversion],* which requires you to select a currency and enter a default value for each conversion. You can change the default value in the tag with a transaction-specific value when you implement the tag on a specific webpage.
+
+* *[!UICONTROL Don't use a value for this conversion action (Not recommended)]*
 
 **[!UICONTROL Count]:** [How many conversions to count per click or interaction](https://support.google.com/google-ads/answer/3438531): *[!UICONTROL Every (Recommended for every purchases because every purchase is valuable)]* or *[!UICONTROL One (Recommended for leads, sign-ups and other conversions because only the first interaction is valuable)]*.
 
