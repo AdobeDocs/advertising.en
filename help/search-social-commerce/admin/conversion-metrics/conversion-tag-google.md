@@ -22,7 +22,11 @@ To generate conversion tags for existing conversions, use the ad network's edito
 
    1. Click **[!UICONTROL Generate]**.
 
-After you create the tag, implement it on the websites from which you want to track the conversion metric. See "Installing the [!DNL Google] tag" in the [!DNL Google Ads] help to "[2. Set up your Google tag](https://support.google.com/google-ads/answer/12215519)."
+1. Copy the conversion tag and implement it on the websites from which you want to track the conversion metric.
+
+   See "Installing the [!DNL Google] tag" in the [!DNL Google Ads] help to "[2. Set up your Google tag](https://support.google.com/google-ads/answer/12215519)."
+
+1. Click **[!UICONTROL Done].**
 
 Once you add the tags to your website and they begin firing, [!DNL Google Ads] records conversions on the website. Search, Social, & Commerce syncs the conversions daily. For more information about the data that's synced, see "[[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md).
 
