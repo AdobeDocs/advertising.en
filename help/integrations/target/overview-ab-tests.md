@@ -87,7 +87,7 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
           
           For example, to group users for a particular placement, use the `d_placement` key. For the value, use an actual numeric placement ID (such as 2501853) that's captured by the DSP macro `${TM_PLACEMENT_ID_NUM}`. <!-- Explain where to find the placement ID, other than in a custom report. -->
           
-          If the search results shows user counts for the key-value pair, which indicates that the pixel was placed correctly and data is flowing, then continue to the next step.
+          If the search results show user counts for the key-value pair, which indicates that the pixel was placed correctly and data is flowing, then continue to the next step.
 
    1. [Create a rule-based trait](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) for segment creation in Audience Manager.
 
@@ -105,45 +105,45 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
 
 <!-- [If separate page, add "Adobe" before first-use of product names.] -->
 
-The following instructions highlight information pertaining to the DSP use case. For full instructions, see "[Create an A/B Test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html)".
+The following instructions highlight information pertaining to the DSP use case. For full instructions, see "".
 
 1. [Log into Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
-1. From the **Activities** list, click **Create Activity** > **A/B Test**.
+1. [Create an A/B test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html):
 
-1. In the **Enter Activity URL*** field, enter the landing page URL for the test.
+   1. In the **Enter Activity URL*** field, enter the landing page URL for the test.
 
-   >[!NOTE]
-   >
-   >You can use multiple URLs to test view-through site entry. For more information, see "[Multipage Activity](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html)." You can easily identify top entries by page URL by creating a [Site Entry report](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-cloud-site-entry-reports.html) in Analytics.
+       >[!NOTE]
+       >
+       >You can use multiple URLs to test view-through site entry. For more information, see "[Multipage Activity](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html)." You can easily identify top entries by page URL by creating a [Site Entry report](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-cloud-site-entry-reports.html) in Analytics.
 
-1. In the **Goal** field, enter the success metric for the test.
+   1. In the **Goal** field, enter the success metric for the test.
 
-   >[!NOTE]
-   >
-   >Make sure that [!DNL Analytics] is enabled as a data source within [!DNL Target], and that the correct report suite is selected.
+       >[!NOTE]
+       >
+       >Make sure that [!DNL Analytics] is enabled as a data source within [!DNL Target], and that the correct report suite is selected.
 
-1. Set the **Priority** to `High` or `999` to prevent conflicts when users in the test segment receive an incorrect on-site experience.
+   1. Set the **Priority** to `High` or `999` to prevent conflicts when users in the test segment receive an incorrect on-site experience.
 
-1. Within **Reporting Settings**, select the **Company Name** and **Report Suite** connected to your DSP account.
+   1. Within **Reporting Settings**, select the **Company Name** and **Report Suite** connected to your DSP account.
 
-   For additional reporting tips, see "[Reporting best practices and troubleshooting](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html)."
+       For additional reporting tips, see "[Reporting best practices and troubleshooting](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html)."
 
-1. In the **Date Range** field, enter the appropriate start and end dates for the test.
+   1. In the **Date Range** field, enter the appropriate start and end dates for the test.
 
-1. Add audiences to the activity:
+   1. Add audiences to the activity:
 
-   1. Choose the [segment that you previously created in Audience Manager to test view-through audiences](#view-through-framework).
+      1. Choose the [segment that you previously created in Audience Manager to test view-through audiences](#view-through-framework).
 
-   1. Select **Site Pages** > **Landing Page** > **Query**, and enter the DSP placement key in the **Value** field to use the Target query string parameters for click-through audiences.
+      1. Select **Site Pages** > **Landing Page** > **Query**, and enter the DSP placement key in the **Value** field to use the Target query string parameters for click-through audiences.
 
-1. For the **Traffic Allocation Method**, select **Manual (Default)** and split the audience 50/50.
+   1. For the **Traffic Allocation Method**, select **Manual (Default)** and split the audience 50/50.
 
-1. Save the activity. 
+   1. Save the activity. 
 
 1. Use [!DNL Target] [Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html) to make design changes to the A/B test landing page template.
 
-   * Experience A: Don't edit because it is the default/control landing page experience without personalization.
+   * Experience A: Don't edit because it's the default/control landing page experience without personalization.
 
    * Experience B: Use the [!DNL Target] user interface to customize the landing page template based on the assets included in the test (such as headlines, copy, button placement, and creatives).
 
