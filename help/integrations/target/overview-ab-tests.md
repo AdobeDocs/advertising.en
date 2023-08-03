@@ -111,7 +111,7 @@ The following instructions highlight information pertaining to the DSP use case.
 
 1. [Create an A/B test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html):
 
-   1. In the **Enter Activity URL*** field, enter the landing page URL for the test.
+   1. In the **Enter Activity URL** field, enter the landing page URL for the test.
 
        >[!NOTE]
        >
