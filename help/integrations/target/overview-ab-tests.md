@@ -79,87 +79,71 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
 
 1. Configure an Audience Manager segment from the DSP impression data:
 
-   1. Go to **Audience Manager** > **Audience Data** > **Signals**, and then select the **Search** tab in the top left.
+   1. Verify that segment data is available:
 
-   1. Enter the **Key** and **Value** for the signal that determines at what level the segment users are grouped. Use a [supported key](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html) with a value that corresponds to a macro that you added to the Audience Manager impression event pixel. 
+      1. [Search for the signal](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/signals-search/data-explorer-signals-search.html) for the [key-value pair](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/signals-search/data-explorer-search-pairs.html) that determines at what level the segment users are grouped.
+      
+          Use a [supported key](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html) with a value that corresponds to a macro that you added to the Audience Manager impression event pixel.
+          
+          For example, to group users for a particular placement, use the `d_placement` key. For the value, use an actual numeric placement ID (such as 2501853) that's captured by the DSP macro `${TM_PLACEMENT_ID_NUM}`. <!-- Explain where to find the placement ID, other than in a custom report. -->
+          
+          If the search results show user counts for the key-value pair, which indicates that the pixel was placed correctly and data is flowing, then continue to the next step.
 
-      For example, to group users for a particular placement, use the `d_placement` key. For the value, use an actual numeric placement ID (such as 2501853 in the screen shot above) that's captured by the DSP macro `${TM_PLACEMENT_ID_NUM}`. <!-- Explain where to find the placement ID, other than in a custom report. -->
+   1. [Create a rule-based trait](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) for segment creation in Audience Manager.
 
-      If the Total Count field shows user counts for the key-value pair, which indicates that the pixel was placed correctly and data is flowing, then you can continue to the next step.
+      * Name the trait so that it’s easily identifiable within test activities. Store the trait in whichever folder you prefer.
+      
+      * Select `Ad Cloud` as the **Data Source**.
+      
+      * For the trait expression, use `d_event` as the **Key** and `imp` as the **Value**.
 
-   ![Search signals](/help/integrations/assets/target-am-signals.png)
+   1. [Set up a test segment](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder.html) for the new trait in Audience Manager, selecting `Ad Cloud` as the **Data Source**.
 
-1. [Create a rule-based trait](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) for segment creation in Audience Manager.
-
-   1. Name the trait so that it’s easily identifiable within test activities. Store the trait in whichever folder that you prefer.
-
-   1. From the **Data Source** drop-down menu, select **Ad Cloud**.
-
-   1. Within the Expression Builder, add `d_event` in the Key field and `imp` in the **Value** field, select **Add Rule**, and then save the trait.
-
-   ![Screenshot of a rule-based trait](/help/integrations/assets/target-am-trait.png)
-
-1. Set up a test segment in Audience Manager:
-
-   1. At the top of the page, go to **Audience Data** > **Traits** and search for the full trait name. Select the check box next to the trait name, and then click **Create Segment**.
-
-   1. Name the segment, select `Ad Cloud` as the **Data Source**, and then save the segment.
-
-      Audience Manager automatically splits the segment into a control group that receives the standard landing page experience and a test group that received a personalized onsite experience.
-
-   ![Screenshot of a test segment](/help/integrations/assets/target-am-segment.png)
+       Audience Manager automatically splits the segment into a control group that receives the standard landing page experience and a test group that received a personalized onsite experience.
 
 ## Step 3: Set Up an “A/B Test” Activity in Target
 
 <!-- [If separate page, add "Adobe" before first-use of product names.] -->
 
-The following instructions highlight information pertaining to the DSP use case. For full instructions, see "[Create an A/B Test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html)".
+The following instructions highlight information pertaining to the DSP use case. For full instructions, see "".
 
 1. [Log into Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
-1. From the **Activities** list, click **Create Activity** > **A/B Test**.
+1. [Create an A/B test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html):
 
-   ![Create an A/B Test activity](/help/integrations/assets/target-create-ab.png)
+   1. In the **Enter Activity URL** field, enter the landing page URL for the test.
 
-1. In the **Enter Activity URL*** field, enter the landing page URL for the test.
+       >[!NOTE]
+       >
+       >You can use multiple URLs to test view-through site entry. For more information, see "[Multipage Activity](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html)." You can easily identify top entries by page URL by creating a [Site Entry report](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-cloud-site-entry-reports.html) in Analytics.
 
-   ![Enter Activity URL field](/help/integrations/assets/target-create-ab-url.png)
+   1. In the **Goal** field, enter the success metric for the test.
 
-   >[!NOTE]
-   >
-   >You can use multiple URLs to test view-through site entry. For more information, see "[Multipage Activity](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html)." You can easily identify top entries by page URL by creating a [Site Entry report](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-cloud-site-entry-reports.html) in Analytics.
+       >[!NOTE]
+       >
+       >Make sure that [!DNL Analytics] is enabled as a data source within [!DNL Target], and that the correct report suite is selected.
 
-1. In the **Goal** field, enter the success metric for the test.
+   1. Set the **Priority** to `High` or `999` to prevent conflicts when users in the test segment receive an incorrect on-site experience.
 
-   >[!NOTE]
-   >
-   >Make sure that [!DNL Analytics] is enabled as a data source within [!DNL Target], and that the correct report suite is selected.
+   1. Within **Reporting Settings**, select the **Company Name** and **Report Suite** connected to your DSP account.
 
-1. Set the **Priority** to `High` or `999` to prevent conflicts when users in the test segment receive an incorrect on-site experience.
+       For additional reporting tips, see "[Reporting best practices and troubleshooting](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html)."
 
-1. Within **Reporting Settings**, select the **Company Name** and **Report Suite** connected to your DSP account.
+   1. In the **Date Range** field, enter the appropriate start and end dates for the test.
 
-   For additional reporting tips, see "[Reporting best practices and troubleshooting](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html)."
+   1. Add audiences to the activity:
 
-1. In the **Date Range** field, enter the appropriate start and end dates for the test.
+      1. Choose the [segment that you previously created in Audience Manager to test view-through audiences](#view-through-framework).
 
-1. Add audiences to the activity:
+      1. Select **Site Pages** > **Landing Page** > **Query**, and enter the DSP placement key in the **Value** field to use the Target query string parameters for click-through audiences.
 
-   1. Choose the [segment that you previously created in Audience Manager to test view-through audiences](#view-through-framework).
+   1. For the **Traffic Allocation Method**, select **Manual (Default)** and split the audience 50/50.
 
-      ![Add audiences to the activity](/help/integrations/assets/target-create-ab-audiences.png)
-
-   1. Select **Site Pages** > **Landing Page** > **Query**, and enter the DSP placement key in the **Value** field to use the Target query string parameters for click-through audiences.
-
-      ![Screenshot of a target click audience](/help/integrations/assets/target-click-audience.jpg)
-
-1. For the **Traffic Allocation Method**, select **Manual (Default)** and split the audience 50/50.
-
-1. Save the activity. 
+   1. Save the activity. 
 
 1. Use [!DNL Target] [Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html) to make design changes to the A/B test landing page template.
 
-   * Experience A: Don't edit because it is the default/control landing page experience without personalization.
+   * Experience A: Don't edit because it's the default/control landing page experience without personalization.
 
    * Experience B: Use the [!DNL Target] user interface to customize the landing page template based on the assets included in the test (such as headlines, copy, button placement, and creatives).
 
@@ -173,7 +157,7 @@ The following instructions highlight information pertaining to the DSP use case.
 
 [!DNL Analytics for Target] (A4T) is a cross-solution integration that lets advertisers create [!DNL Target] activities based on [!DNL Analytics] conversion metrics and audience segments and then measure the results using [!DNL Analytics] as the reporting source. All reporting and segmentation for that activity is based on [!DNL Analytics] data collection.
 
-For more information about [!DNL Analytics for Target], including a link to implementation instructions, see '[Adobe Analytics as the reporting source for Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)".
+For more information about [!DNL Analytics for Target], including a link to implementation instructions, see "[Adobe Analytics as the reporting source for Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)".
 
 ### Set up the [!DNL Analytics for Target] Panel
 
