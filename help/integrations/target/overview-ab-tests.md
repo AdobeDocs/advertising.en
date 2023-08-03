@@ -111,11 +111,7 @@ The following instructions highlight information pertaining to the DSP use case.
 
 1. From the **Activities** list, click **Create Activity** > **A/B Test**.
 
-   ![Create an A/B Test activity](/help/integrations/assets/target-create-ab.png)
-
 1. In the **Enter Activity URL*** field, enter the landing page URL for the test.
-
-   ![Enter Activity URL field](/help/integrations/assets/target-create-ab-url.png)
 
    >[!NOTE]
    >
@@ -139,11 +135,7 @@ The following instructions highlight information pertaining to the DSP use case.
 
    1. Choose the [segment that you previously created in Audience Manager to test view-through audiences](#view-through-framework).
 
-      ![Add audiences to the activity](/help/integrations/assets/target-create-ab-audiences.png)
-
    1. Select **Site Pages** > **Landing Page** > **Query**, and enter the DSP placement key in the **Value** field to use the Target query string parameters for click-through audiences.
-
-      ![Screenshot of a target click audience](/help/integrations/assets/target-click-audience.jpg)
 
 1. For the **Traffic Allocation Method**, select **Manual (Default)** and split the audience 50/50.
 
@@ -165,7 +157,7 @@ The following instructions highlight information pertaining to the DSP use case.
 
 [!DNL Analytics for Target] (A4T) is a cross-solution integration that lets advertisers create [!DNL Target] activities based on [!DNL Analytics] conversion metrics and audience segments and then measure the results using [!DNL Analytics] as the reporting source. All reporting and segmentation for that activity is based on [!DNL Analytics] data collection.
 
-For more information about [!DNL Analytics for Target], including a link to implementation instructions, see '[Adobe Analytics as the reporting source for Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)".
+For more information about [!DNL Analytics for Target], including a link to implementation instructions, see "[Adobe Analytics as the reporting source for Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)".
 
 ### Set up the [!DNL Analytics for Target] Panel
 
