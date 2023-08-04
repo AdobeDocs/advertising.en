@@ -20,7 +20,7 @@ exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
 
     1. Click **[!UICONTROL Save]**.
 
-1. (Guaranteed deals only) Select the ads that to use for the deal and create a default programmatic guaranteed (PG) placement.
+1. (Guaranteed deals only) Select the ads that to use for the deal (or a 1x1 pixel for publisher managed ads) and create a default programmatic guaranteed (PG) placement.
 
    Default PG placements ensure that your deal always returns a bid for each bid request. If you don't create a default PG placement, then any placements that target the deal don't place bids unless they're set up correctly. You should always create a default PG placement. In the [!UICONTROL Placements] view, default PG placements have a [!UICONTROL Sub-type] column value of "[!UICONTROL PG Default]."
 
@@ -31,6 +31,8 @@ exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
        1. Select the advertiser, campaign, and ad type. Optionally select an ad status by which to filter the ads.
 
        1. From the list of available ads, select the check box next to each ad to use for the deal.
+
+       1. For publisher managed ads, a 1x1 tracking pixel will be automatically applied after advertiser and campaign are selected.
 
        1. Click **[!UICONTROL Apply]**.
 
