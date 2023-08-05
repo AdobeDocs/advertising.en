@@ -6,11 +6,12 @@
 
 *Advertisers with Advertising DSP only* <!-- Is this for DSP only, or also for Search? If Search also, then change all language below. -->
 
-You can use custom goals to optimize DSP packages based on Adobe Analytics site data that best fit your brand’s objectives. Custom goals are automatically built from success event metrics.<!-- dimensions aren't conversions or site engagement metrics, are they?? --> You can also configure your own custom optimization goals based on [!DNL Analytics] [eVars](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) and [props](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).
+You can use custom goals to optimize DSP packages based on Adobe Analytics site data that best fit your brand’s objectives. Custom goals are automatically built from success event metrics.<!-- dimensions aren't conversions or site engagement metrics, are they?? --> You can also configure your own custom optimization goals based on your existing[!DNL Analytics] [eVars](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) and [props](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).
 
 To funnel eVar- and prop-level data into a custom success event, first create a placeholder event. Then create a processing rule to apply to incoming data.
 
-Reach out to adcloud_support@adobe.com for more information.
+<!--If you need assistance, contact adcloud_support@adobe.com.-->
+<!-- Do we want to offer that? Shouldn't they just talk to their Account Team? -->
 
 1. In [!DNL Analytics], create a placeholder success event](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/success-events/success-event.html?lang=en).
 
@@ -22,7 +23,7 @@ Reach out to adcloud_support@adobe.com for more information.
    **Unique Event Recording:** `Always Record Event``
    **Participation:** `Enabled``
 
-   You don't need to place the newly created event on your brand’s website because it will use existing data that's already captured.
+   You don't need to place the newly created event on your brand’s website because it uses existing data that's already captured.
 
 1. Create a processing rule in [!DNL Analytics]:
 
