@@ -1,4 +1,6 @@
-# Create a DSP Custom Goal from Adobe Analytics eVars and Props
+# Create a DSP custom goal from Adobe Analytics eVars and props
+
+<!-- single "an eVar or prop?" -->
 
 <!-- not using original title: Optimize Adobe Advertising DSP Campaigns With Analytics eVars and Props -->
 
@@ -6,9 +8,7 @@
 
 *Advertisers with Advertising DSP only* <!-- Is this for DSP only, or also for Search? If Search also, then change all language below. -->
 
-You can use custom goals to optimize DSP packages based on Adobe Analytics site data that best fit your brand’s objectives. Custom goals are automatically built from success event metrics.<!-- dimensions aren't conversions or site engagement metrics, are they?? --> You can also configure your own custom optimization goals based on your existing[!DNL Analytics] [eVars](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) and [props](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).
-
-To funnel eVar- and prop-level data into a custom success event, first create a placeholder event. Then create a processing rule to apply to incoming data.
+You can use custom goals to optimize DSP packages based on Adobe Analytics site data that best fit your brand’s objectives. Custom goals are automatically built from success event metrics.<!-- dimensions aren't conversions or site engagement metrics, are they?? --> You can also configure your own custom optimization goals based on your existing [!DNL Analytics] [eVars](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) and [props](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) by funneling eVar- and prop-level data into a custom success event.
 
 <!--If you need assistance, contact adcloud_support@adobe.com.-->
 <!-- Do we want to offer that? Shouldn't they just talk to their Account Team? -->
@@ -18,7 +18,7 @@ To funnel eVar- and prop-level data into a custom success event, first create a 
    Use the following additional parameters:
    
    **Type:** `Counter`
-   **Polarity:**  either `Up is Good` or `Up is Bad``
+   **Polarity:**  either `Up is Good` or `Up is Bad`
    **Visibility:** `Visible Everywhere`
    **Unique Event Recording:** `Always Record Event`
    **Participation:** `Enabled`
