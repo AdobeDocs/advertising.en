@@ -1,6 +1,8 @@
 # Create a DSP custom goal from Adobe Analytics eVars and props
 
-<!-- single "an eVar or prop?" -->
+<!-- Title:  Verify if this creates custom goals, or if it just makes them available in Search, where you can add them to objectives, which are used as custom goals. Reword title accordingly. Something like "Make Adobe Analytics eVars and props available for DSP package optimization" ? better wording -->
+
+<!-- single "an eVar or prop?" or can each event include multiple? -->
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
@@ -43,5 +45,5 @@ You can use custom goals to optimize DSP packages based on Adobe Analytics site 
 
    1. In [!DNL Analytics] [!DNL Analysis Workspace], [create a project](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html) and pull the new event into a freeform table to ensure that data is populating for the eVar or prop metric. 
 
-To enable the new metric as a custom goal for optimization, contact your Adobe Account Team.<!-- Are the metrics automatically available as custom goals in Search, or does something have to be done on the backend to enable them? -->
+To enable the new metric as a custom goal for optimization, contact your Adobe Account Team.<!-- Are the metrics automatically visible in Search and available for objectives, or does something have to be done on the backend to enable them? -->
 
