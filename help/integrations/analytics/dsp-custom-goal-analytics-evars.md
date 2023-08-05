@@ -43,7 +43,7 @@ You can use custom goals to optimize DSP packages based on Adobe Analytics site 
      
       * For the action, select **Set Event** and select the placeholder event.
 
-   1. In [!DNL Analytics] [!DNL Analysis Workspace], [create a project](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html and pull the new event into a freeform table to ensure that data is populating for the eVar or prop metric. 
+   1. In [!DNL Analytics] [!DNL Analysis Workspace], [create a project](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html) and pull the new event into a freeform table to ensure that data is populating for the eVar or prop metric. 
 
 To enable the new metric as a custom goal for optimization, contact your Adobe Account Team.<!-- Are the metrics automatically available as custom goals in Search, or does something have to be done on the backend to enable them? -->
 
