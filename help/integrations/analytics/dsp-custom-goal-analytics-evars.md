@@ -13,15 +13,15 @@ To funnel eVar- and prop-level data into a custom success event, first create a 
 <!--If you need assistance, contact adcloud_support@adobe.com.-->
 <!-- Do we want to offer that? Shouldn't they just talk to their Account Team? -->
 
-1. In [!DNL Analytics], create a placeholder success event](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/success-events/success-event.html?lang=en).
+1. In [!DNL Analytics], [create a placeholder success event](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/success-events/success-event.html?lang=en).
 
    Use the following additional parameters:
    
-   **Type:** `Counter``
+   **Type:** `Counter`
    **Polarity:**  either `Up is Good` or `Up is Bad``
-   **Visibility:** `Visible Everywhere``
-   **Unique Event Recording:** `Always Record Event``
-   **Participation:** `Enabled``
+   **Visibility:** `Visible Everywhere`
+   **Unique Event Recording:** `Always Record Event`
+   **Participation:** `Enabled`
 
    You don't need to place the newly created event on your brand’s website because it uses existing data that's already captured.
 
