@@ -4,7 +4,7 @@
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
-*Advertisers with Advertising DSP only* <!-- Is this really for DSP only, or are the metrics also available for Search, and would Search users be likely to use them? If Search also, then change all language below. -->
+*Advertisers with Advertising DSP only* <!-- Is this really for DSP only, or are the metrics also available for Search users in Portfolios > Objectives, and would Search users be likely to use them? If Search also, then change all language below. -->
 
 You can use custom goals to optimize DSP packages based on Adobe Analytics site data that best fit your brand’s objectives. Custom goals are automatically built from success event metrics, including conversions and traffic metrics.<!-- it said "success event dimensions, but dimensions aren't conversions or site engagement metrics, are they?? --> You can also configure your own custom optimization goals based on your existing [!DNL Analytics] [eVars](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) and [props](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) by funneling eVar- and prop-level data into a custom success event.
 
