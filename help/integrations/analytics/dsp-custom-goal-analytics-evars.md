@@ -18,9 +18,13 @@ You can use custom goals to optimize DSP packages based on Adobe Analytics site 
    Use the following additional parameters:
    
    **Type:** `Counter`
+
    **Polarity:**  either `Up is Good` or `Up is Bad`
+
    **Visibility:** `Visible Everywhere`
+
    **Unique Event Recording:** `Always Record Event`
+   
    **Participation:** `Enabled`
 
    You don't need to place the newly created event on your brand’s website because it uses existing data that's already captured.
