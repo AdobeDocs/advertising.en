@@ -24,10 +24,10 @@ You can use custom goals to optimize DSP packages based on Adobe Analytics site 
    **Visibility:** `Visible Everywhere`
 
    **Unique Event Recording:** `Always Record Event`
-   
+
    **Participation:** `Enabled`
 
-   You don't need to place the newly created event on your brand’s website because it uses existing data that's already captured.
+   You don't need to implement the new event on your brand’s website because it uses existing data that's already captured.
 
 1. Create a processing rule in [!DNL Analytics]:
 
