@@ -32,7 +32,7 @@ exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
 
        1. From the list of available ads, select the check box next to each ad to use for the deal.
 
-       1. For publisher-managed ads, a 1x1 tracking pixel will be automatically applied after advertiser and campaign are selected.
+          For each publisher-managed ad, a 1x1 tracking pixel is automatically applied after an advertiser and campaign are selected.
 
        1. Click **[!UICONTROL Apply]**.
 
