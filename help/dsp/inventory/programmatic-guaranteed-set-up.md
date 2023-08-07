@@ -22,7 +22,7 @@ The following method is the preferred procedure for [!DNL FreeWheel], [!DNL Goog
 
 1. [Accept the deal](deal-id-inbox-accept.md).
 
-1. After you save the deal, select the ads (or 1x1 tracking pixel for publisher managed ads) that will be used for the deal and create a programmatic guaranteed (PG) default placement, as prompted.
+1. After you save the deal, select the ads (or 1x1 tracking pixel for publisher-managed ads) that will be used for the deal and create a programmatic guaranteed (PG) default placement, as prompted.
 
    Creating a default PG placement for the deal is mandatory to deliver 100% of your buy. This type of placement has no targeting so DSP can return a bid to every bid request from the publisher.
 
@@ -42,7 +42,7 @@ Use this method for all other SSPs.
 
 1. [Manually set up the deal ID details](deal-id-create.md).
 
-1. After you save the deal, select the ads (or the 1x1 tracking pixel for publisher managed ads) that will be used for the deal and create a PG default placement, as prompted.
+1. After you save the deal, select the ads (or the 1x1 tracking pixel for publisher-managed ads) that will be used for the deal and create a PG default placement, as prompted.
 
    Creating a PG default placement for the deal is mandatory to deliver 100% of your buy. This type of placement has no targeting so DSP can return a bid to every bid request from the publisher.
 
