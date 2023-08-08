@@ -48,13 +48,11 @@ New segments take 24-48 hours to appear in Adobe Advertising. Updates to existin
 
 ### Custom Conversion Metrics
 
-These metrics are specific to the report suite, so the available metrics vary for each customer and report suite.<!-- Does this include metrics with eVars and props, do those need a separate header? -->
-
-<!-- edit below as needed -->
+These metrics are specific to the report suite, so the available metrics vary for each customer and report suite.
 
 ### Custom Conversion Metrics Created from eVars and Props
 
-The available metrics vary for each customer. See "[](/help/integrations/analytics/custom-metrics-from-evars.md)."
+The available metrics vary for each customer. See "[Create conversion metrics from Adobe Analytics eVars and props](/help/integrations/analytics/conversion-metrics-from-evars.md)."
 
 ### Reserved Conversion Metrics
 
