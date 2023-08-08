@@ -30,6 +30,7 @@ index: yes
         + [Using Adobe Advertising IDs to Create [!DNL Marketing Channels] Processing Rules](/help/integrations/analytics/marketing-channels/mc-ids.md)
         + [Using [!DNL Marketing Channels] with Adobe Advertising Data](/help/integrations/analytics/marketing-channels/mc-ac-data.md)
         + [Why Channel Data Can Vary Between Adobe Advertising and [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md)
+    + [Create Conversion Metrics from Adobe Analytics eVars and props](/help/integrations/analytics/conversion-metrics-from-evars.md)
 + Integration with Adobe Audience Manager {#audience-manager}
     + [Adobe Advertising Integrations with Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
     + [Import Audience Manager Segments to Adobe Advertising](/help/integrations/audience-manager/import-audiences.md)
