@@ -1,7 +1,7 @@
 ---
-title: 
-description: 
-feature: Integration with Adobe Analytics
+title: Create conversion metrics from Adobe Analytics eVars and props
+description: Configure custom success event metrics using eVar- and prop-level data.
+feature: Integration with Adobe Analytics, Conversions
 ---
 # Create conversion metrics from Adobe Analytics eVars and props
 
