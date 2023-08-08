@@ -26,7 +26,7 @@ For more information about tracking, see the chapter on "Tracking."
 
 For [supported ad networks and campaign types](/help/search-social-commerce/introduction/supported-inventory.md), you can group your campaigns into portfolios, each with a specific business objective and a specific budget or performance target. In standard portfolios, Search, Social, & Commerce optimizes CPC keyword bids and campaign budgets. Hybrid portfolios combine optimization technologies from Search, Social, & Commerce and your ad networks.
 
-For more information about the available portfolio options and how to set up portfolios, see Optimization Guide chapter on "Managing Portfolios," which is available from within Search, Social, & Commerce.<!-- verify convention for referencing Optimization Guide here -->
+For more information about the available portfolio options and how to set up portfolios, see Optimization Guide chapter on "Portfolios," which is available from within Search, Social, & Commerce.<!-- verify convention for referencing Optimization Guide here -->
 
 ## The campaign management views
 
