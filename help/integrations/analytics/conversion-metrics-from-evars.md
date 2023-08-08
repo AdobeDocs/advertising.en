@@ -9,7 +9,7 @@ feature: Integration with Adobe Analytics
 
 You can use success event metrics to optimize DSP packages and Search, Social, & Commerce campaigns based on Adobe Analytics site data that best fits your brand’s objectives. You can configure custom success event metrics based on your existing [!DNL Analytics] [eVars](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) and [props](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) by funneling eVar- and prop-level data into an event. Other [!DNL Analytics] metrics, including standard, custom, and reserved conversion metrics and traffic metrics, are automatically available in DSP and Search, Social, & Commerce.
 
-Most of the following tasks must be performed by an [!DNL Analytics] administrator or other user. If you need assistance, contact your technical support team (DSP users: `adcloud_support@adobe.com`; Search, Social, & Commerce users: `<Your Search, Social, & Commerce user account>@support.efrontier.com`).
+Most of the following tasks must be performed by an [!DNL Analytics] administrator or other user. If you need assistance, contact (DSP users) the DSP technical support team at `adcloud_support@adobe.com` or (Search, Social, & Commerce users) your Adobe Account Team.
 
 1. In [!DNL Analytics], [create a placeholder success event](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/success-events/success-event.html?lang=en).
 
