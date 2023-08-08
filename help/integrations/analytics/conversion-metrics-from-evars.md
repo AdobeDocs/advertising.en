@@ -7,7 +7,7 @@ feature: Integration with Adobe Analytics, Conversions
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
-You can use success event metrics to optimize DSP packages and Search, Social, & Commerce campaigns based on Adobe Analytics site data that best fits your brand’s objectives. You can configure custom success event metrics based on [your existing [!DNL Analytics] [!DNL eVars]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) and [ [!DNL props]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) by funneling [!DNL eVar]- and [!DNL prop]-level data into an event. Other [!DNL Analytics] metrics, including standard, custom, and reserved conversion metrics and traffic metrics, are automatically available in DSP and Search, Social, & Commerce.
+You can use success event metrics to optimize DSP packages and Search, Social, & Commerce campaigns based on Adobe Analytics site data that best fits your brand’s objectives. You can configure custom success event metrics based on your existing [ [!DNL Analytics] [!DNL eVars]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) and [ [!DNL props]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) by funneling [!DNL eVar]- and [!DNL prop]-level data into an event. Other [!DNL Analytics] metrics, including standard, custom, and reserved conversion metrics and traffic metrics, are automatically available in DSP and Search, Social, & Commerce.
 
 ![Usage example](/help/integrations/assets/a4adc-conversion-evar-example.jpg "Usage example")
 
@@ -29,7 +29,7 @@ Most of the following tasks must be performed by an [!DNL Analytics] administrat
 
    You don't need to implement the new event on your brand’s website because it uses existing data that's already captured.
 
-1. Create a processing rule in [!DNL Analytics]:
+1. Create and validate a processing rule in [!DNL Analytics]:
 
    >[!NOTE]
    >
