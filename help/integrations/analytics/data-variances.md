@@ -18,9 +18,9 @@ Advertisers with the [!DNL Analytics for Advertising] <!-- (A4AdC) --> integrati
 
 ### Potentially Different Lookback Windows and Attribution Models
 
-The [!DNL Analytics for Advertising] integration uses two variables (eVars or rVars \[reserved eVars]\) to capture the [EF ID and AMO ID](ids.md). These variables are configured with a single lookback window (the time within which click-throughs and view-throughs are attributed) and an attribution model. Unless otherwise specified, the variables are configured to match the default, advertiser-level click lookback window and attribution model in Adobe Advertising.
+The [!DNL Analytics for Advertising] integration uses two variables ([!DNL eVars] or [!DNL rVars] \[reserved [!DNL eVars]]\) to capture the [EF ID and AMO ID](ids.md). These variables are configured with a single lookback window (the time within which click-throughs and view-throughs are attributed) and an attribution model. Unless otherwise specified, the variables are configured to match the default, advertiser-level click lookback window and attribution model in Adobe Advertising.
 
-However, lookback windows and attribution models are configurable in both Analytics (via the eVars) and in Adobe Advertising. Further, in Adobe Advertising, the attribution model is configurable not only at the advertiser level (for bid optimization) but also within individual data views and reports (for reporting purposes only). For example, an organization may prefer to use the even distribution attribution model for optimization but use last touch attribution for reports in Advertising DSP or [!DNL Advertising Search, Social, & Commerce]. Changing attribution models changes the number of attributed conversions.
+However, lookback windows and attribution models are configurable in both Analytics (via the [!DNL eVars]) and in Adobe Advertising. Further, in Adobe Advertising, the attribution model is configurable not only at the advertiser level (for bid optimization) but also within individual data views and reports (for reporting purposes only). For example, an organization may prefer to use the even distribution attribution model for optimization but use last touch attribution for reports in Advertising DSP or [!DNL Advertising Search, Social, & Commerce]. Changing attribution models changes the number of attributed conversions.
 
 If a reporting lookback window or attribution model is modified in one product and not in the other, then the same reports from each system will show distinct data:
 
@@ -58,7 +58,7 @@ Consider these differences when comparing view-through conversions between Adobe
 
 #### Available Attribution Models
 
-| Adobe Advertising Attribution | [!DNL Analytics] Attribution | eVar/rVar Allocation |
+| Adobe Advertising Attribution | [!DNL Analytics] Attribution | [!DNL eVar]/[!DNL rVar] Allocation |
 |--- |--- |--- |
 | [!UICONTROL Last Event] | [!UICONTROL Last Touch] | [!UICONTROL Most Recent] |
 | [!UICONTROL First Event] | [!UICONTROL First Touch] | [!UICONTROL Original Value] |
@@ -74,11 +74,11 @@ Consider these differences when comparing view-through conversions between Adobe
 
 >[!NOTE]
 >
->For linear allocation, [!DNL Analytics] attributes success events equally across all eVar values within a single visit, so use linear allocation with an eVar expiration of "Visit." For advertising, however, the use of linear attribution leads to allocation that is not truly linear and to less-than-ideal reporting. For example, if a visitor interacts with three ads before converting in three separate visits, only the ad seen in the last visit is attributed to the conversion, not all three ads.
+>For linear allocation, [!DNL Analytics] attributes success events equally across all [!DNL eVar] values within a single visit, so use linear allocation with an [!DNL eVar] expiration of "Visit." For advertising, however, the use of linear attribution leads to allocation that is not truly linear and to less-than-ideal reporting. For example, if a visitor interacts with three ads before converting in three separate visits, only the ad seen in the last visit is attributed to the conversion, not all three ads.
 >
->In addition, switching conversion allocation to or from "Linear" prevents historical data from displaying, which can can lead to misstated data in reports. For example, linear allocation might divide revenue across a number of different eVar values. If you change allocation to "Most Recent," then 100% of that revenue becomes associated with the most recent single value. This association can lead you to incorrect conclusions.
+>In addition, switching conversion allocation to or from "Linear" prevents historical data from displaying, which can can lead to misstated data in reports. For example, linear allocation might divide revenue across a number of different [!DNL eVar] values. If you change allocation to "Most Recent," then 100% of that revenue becomes associated with the most recent single value. This association can lead you to incorrect conclusions.
 >
->To prevent confusion, [!DNL Analytics] makes historical data unavailable in the reporting interface. You can view the historical data if you change the eVar back to the initial allocation setting, although you should not change eVar allocation settings simply to access historical data. Adobe recommends using a new eVar when you want to apply a new allocation setting for data that's already being recorded, rather than changing allocation settings for an eVar that already has a significant amount of historical data.
+>To prevent confusion, [!DNL Analytics] makes historical data unavailable in the reporting interface. You can view the historical data if you change the [!DNL eVar] back to the initial allocation setting, although you should not change [!DNL eVar] allocation settings simply to access historical data. Adobe recommends using a new [!DNL eVar] when you want to apply a new allocation setting for data that's already being recorded, rather than changing allocation settings for an [!DNL eVar] that already has a significant amount of historical data.
 
 See a list of [!DNL Analytics] attribution models and their definitions at [https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/models.html](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/models.html).
 
@@ -100,7 +100,7 @@ In Adobe Advertising, you can report conversion data either by the associated cl
 
 >[!NOTE]
 >
-> The following core concepts also apply to any multi-channel tracking that involves campaigns not tracked in Adobe Advertising, such as the [`campaign`](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/campaign.html) variable (also known as the "Tracking code" Dimension or "eVar 0") and custom eVar tracking.
+> The following core concepts also apply to any multi-channel tracking that involves campaigns not tracked in Adobe Advertising, such as the [`campaign`](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/campaign.html) variable (also known as the "Tracking code" dimension or "[!DNL eVar] 0") and custom [!DNL eVar] tracking.
 
 ### Potentially Different Attribution Models in [!DNL Marketing Channels]
 

@@ -20,7 +20,7 @@ See "[Overview of [!DNL Analytics for Advertising]](https://experienceleague.ado
 
 1. In [!DNL Analytics], your Search, Social, & Commerce implementation team modifies the following configuration settings for each report suite:
 
-   * The expiration for the `ef_id` eVar is changed to match the advertiser's click lookback window for Adobe Advertising.
+   * The expiration for the `ef_id` [!DNL eVar] is changed to match the advertiser's click lookback window for Adobe Advertising.
    
    * The Adobe Advertising user ID.
    

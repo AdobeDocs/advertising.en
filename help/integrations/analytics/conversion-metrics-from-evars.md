@@ -1,13 +1,13 @@
 ---
-title: Create conversion metrics from Adobe Analytics eVars and props
-description: Configure custom success event metrics using eVar- and prop-level data.
+title: "Create conversion metrics from Adobe Analytics [!DNL eVars] and props"
+description: "Configure custom success event metrics using [!DNL eVar]- and [!DNL prop]-level data."
 feature: Integration with Adobe Analytics, Conversions
 ---
-# Create conversion metrics from Adobe Analytics eVars and props
+# Create conversion metrics from Adobe Analytics [!DNL eVars] and [!DNL props]
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
-You can use success event metrics to optimize DSP packages and Search, Social, & Commerce campaigns based on Adobe Analytics site data that best fits your brand’s objectives. You can configure custom success event metrics based on your existing [!DNL Analytics] [eVars](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) and [props](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) by funneling eVar- and prop-level data into an event. Other [!DNL Analytics] metrics, including standard, custom, and reserved conversion metrics and traffic metrics, are automatically available in DSP and Search, Social, & Commerce.
+You can use success event metrics to optimize DSP packages and Search, Social, & Commerce campaigns based on Adobe Analytics site data that best fits your brand’s objectives. You can configure custom success event metrics based on [your existing [!DNL Analytics] [!DNL eVars]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) and [your [!DNL props]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) by funneling [!DNL eVar]- and [!DNL prop]-level data into an event. Other [!DNL Analytics] metrics, including standard, custom, and reserved conversion metrics and traffic metrics, are automatically available in DSP and Search, Social, & Commerce.
 
 ![Usage example](/help/integrations/assets/a4adc-conversion-evar-example.jpg "Usage example")
 
@@ -37,17 +37,17 @@ Most of the following tasks must be performed by an [!DNL Analytics] administrat
 
    1. [Create a processing rule](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/t-processing-rules.html?lang=en), using the following configuration:
 
-      * For the condition that must be met, specify the required eVars or props.
+      * For the condition that must be met, specify the required [!DNL eVars] or [!DNL props].
       
         You can configure additional levels of granularity as needed to ensure that the most accurate events are created.
         
         >[!TIP]
         >
-        >The best practice is to use only one eVar or prop.
+        >The best practice is to use only one [!DNL eVar] or [!DNL prop].
      
       * For the action, select **Set Event** and select the placeholder event.
 
-   1. In [!DNL Analytics] [!DNL Analysis Workspace], [create a project](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html) and pull the new event into a freeform table to ensure that data is populating for the eVar or prop metric. 
+   1. In [!DNL Analytics] [!DNL Analysis Workspace], [create a project](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html) and pull the new event into a freeform table to ensure that data is populating for the [!DNL eVar] or [!DNL prop] metric. 
 
 1.  Contact your Adobe Account Team to sync the new metric into Adobe Advertising.
 

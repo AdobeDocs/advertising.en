@@ -39,13 +39,13 @@ Primary benefits:
 
 To use [!DNL Analytics] as your paid media reporting tool, your organization needs an Experience Cloud login with access to Analysis Workspace. Your Adobe Advertising team will help you to map your Adobe Advertising data to individual report suites in Analysis Workspace. You can send Adobe Advertising data to any report suite, but you should be aware of the report suites that have been mapped to Adobe Advertising and those that haven't. Depending on the report suite, this may change the data reported.
 
-[Adobe Advertising IDs within [!DNL Analytics]](ids.md) works like other eVars, with a custom, persistent expiration. By default, the attribution lookback window is set to 60 days during the Adobe Advertising implementation. To change this setting, work with your Adobe Account Team.
+[Adobe Advertising IDs within [!DNL Analytics]](ids.md) works like other [!DNL eVars], with a custom, persistent expiration. By default, the attribution lookback window is set to 60 days during the Adobe Advertising implementation. To change this setting, work with your Adobe Account Team.
 
 Adobe Advertising dimensions are appended with the suffix "(AMO ID)" (such as "Ad Type (AMO ID)"). See "[Adobe Advertising Metrics in Analysis Workspace](advertising-metrics-in-analytics.md)" for a list of the available dimensions.
 
 >[!NOTE]
 >
-> When you view Adobe Advertising data (or any data set) within [!DNL Analytics], be aware that metrics and reports are based on the rules that are set within [!DNL Analytics]. The data could be different than what you see within other reporting systems, such as ad server reports, [!DNL DSP] reports, or search engine reports. To understand the data differences in [!DNL Analytics], you need to know when eVar data expires, what defines a visit, what is considered last touch attribution versus total persisting attribution, and other factors. For more information, see [Expected Data Variances Between [!DNL Analytics] and Adobe Advertising](data-variances.md).
+> When you view Adobe Advertising data (or any data set) within [!DNL Analytics], be aware that metrics and reports are based on the rules that are set within [!DNL Analytics]. The data could be different than what you see within other reporting systems, such as ad server reports, [!DNL DSP] reports, or search engine reports. To understand the data differences in [!DNL Analytics], you need to know when [!DNL eVar] data expires, what defines a visit, what is considered last touch attribution versus total persisting attribution, and other factors. For more information, see [Expected Data Variances Between [!DNL Analytics] and Adobe Advertising](data-variances.md).
 
 ## Using Analytics to Power Adobe Advertising Campaigns and Portfolios
 

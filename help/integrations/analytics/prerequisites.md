@@ -55,9 +55,9 @@ The [!DNL Analytics for Advertising] JavaScript uses these settings to determine
 
 ## Adobe Advertising Data in [!DNL Analytics]
 
-[!DNL Analytics] sets Adobe Advertising IDs (AMO IDs) within the Analytics hit, subject to the advertiser's eVar persistence setting, which applies to both click-throughs and view-throughs. The persistence setting is configured on the Adobe Advertising back end, and your Adobe Account Team can change it.
+[!DNL Analytics] sets Adobe Advertising IDs (AMO IDs) within the Analytics hit, subject to the advertiser's [!DNL eVar] persistence setting, which applies to both click-throughs and view-throughs. The persistence setting is configured on the Adobe Advertising back end, and your Adobe Account Team can change it.
 
-* [!DNL Analytics for Advertising] eVar expiration: 60 days by default for AMO IDs
+* [!DNL Analytics for Advertising] [!DNL eVar] expiration: 60 days by default for AMO IDs
 
 >[!NOTE]
 >
@@ -81,7 +81,7 @@ Contact your Adobe Account Team for the latest supported ad environments in each
 
 * [!DNL Analytics for Advertising] is ad server-agnostic: a view-through or click-through may occur from any ad server, and the proper IDs are generated upon site entry.
 
-* The integration passes only [!DNL Analytics] standard and custom events to Adobe Advertising for bid optimization of subsequent paid media and advertising efforts. It doesn't pass [!DNL Analytics] segments, calculated metrics, and eVars to Adobe Advertising for bid optimization.
+* The integration passes only [!DNL Analytics] standard and custom events to Adobe Advertising for bid optimization of subsequent paid media and advertising efforts. It doesn't pass [!DNL Analytics] segments, calculated metrics, and [!DNL eVars] to Adobe Advertising for bid optimization.
 
 * Adobe Advertising creates persistent IDs within [!DNL Analytics] based on the last advertisement clicked or viewed before the user enters the site, based on the [click and view-through lookback windows](#lookback-a4adc) configured in Adobe Advertising. If a site visitor were to have both types of site entry interactions within their profile, and the click is within the lookback period, then the visitor's click-through ID would override the view-through ID for site reporting.
 
