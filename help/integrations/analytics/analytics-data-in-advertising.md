@@ -52,7 +52,7 @@ These metrics are specific to the report suite, so the available metrics vary fo
 
 ### Custom Conversion Metrics Created from eVars and Props
 
-The available metrics vary for each customer. See "[Create conversion metrics from Adobe Analytics eVars and props](/help/integrations/analytics/conversion-metrics-from-evars.md)."
+The available metrics vary for each customer. See "[Create Conversion Metrics from Adobe Analytics eVars and props](/help/integrations/analytics/conversion-metrics-from-evars.md)."
 
 ### Reserved Conversion Metrics
 
