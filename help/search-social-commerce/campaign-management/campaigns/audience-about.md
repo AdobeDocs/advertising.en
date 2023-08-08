@@ -18,7 +18,7 @@ You can also create and manage audiences using segments or email lists from your
   
   * (Advertisers with Audience Manager accounts) You can create [!DNL Google Ads] customer match audiences using user IDs from Audience Manager segments that have Search, Social, & Commerce as a destination. This may include Adobe Analytics segments that are published to Adobe Experience Cloud and segments created using the Adobe Experience Cloud Audience Library.
 
-  To create customer match audiences, the advertiser's [!DNL Google Ads] account must be [eligible for custom match](https://support.google.com/adspolicy/answer/6299717) and opted in for [user ID segments](https://support.google.com/google-ads/answer/9199250). Also, the advertiser account in Search, Social, & Commerce must be configured to allow the creation of customer match audiences.<!-- For Analytics audiences: Analytics Only Integration. For Audience Manager, Enable CM/CRM option) -->
+  To create customer match audiences, the advertiser's [!DNL Google Ads] account must be [eligible for custom match](https://support.google.com/adspolicy/answer/6299717) and opted in for [user ID segments](https://support.google.com/google-ads/answer/9199250). Also, the advertiser account in Search, Social, & Commerce must be configured to allow the creation of customer match audiences.
   
   [!DNL Adobe] segment data and cookie sync files for customer data-based audiences are synced to [!DNL Google Ads] daily.
 
