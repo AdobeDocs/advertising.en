@@ -8,7 +8,7 @@ feature: Search Campaign Management
 
 Assigning a campaign to an optimized portfolio allows Search, Social, & Commerce to optimize bids and campaign budgets for keywords and ads in the campaign. You can assign campaigns to a portfolio from the [!UICONTROL Campaigns] view, when you create the portfolio, or by editing a portfolio's settings.
 
-Not all campaign types and ad networks are eligible for optimization; see a list of [supported campaign types](/help/search-social-commerce/introduction/supported-inventory.md) that you can include in a portfolio. In addition, verify the optimization support for each campaign bid strategy by consulting "Eligible Portfolio Types by Campaign Bid Strategy" in the Optimization Guide chapter on "Managing Portfolios," which is available from within Search, Social, & Commerce.<!-- verify convention for referencing Optimization Guide here -->
+Not all campaign types and ad networks are eligible for optimization; see a list of [supported campaign types](/help/search-social-commerce/introduction/supported-inventory.md) that you can include in a portfolio. In addition, verify the optimization support for each campaign bid strategy by consulting "Eligible Portfolio Types by Campaign Bid Strategy" in the Optimization Guide chapter on "Portfolios," which is available from within Search, Social, & Commerce.<!-- verify convention for referencing Optimization Guide here -->
 
 >[!NOTE]
 >
