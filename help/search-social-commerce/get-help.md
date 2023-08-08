@@ -30,8 +30,8 @@ Look for answers to your questions in the [Adobe Advertising community forums](h
 | Search, Social, & Commerce product or account issues | Contact your Adobe Account Team. |
 | Feedback about Search, Social, & Commerce  | In the top menu, click ![Help](/help/search-social-commerce/assets/help-main-menu.png "Help") > **[!UICONTROL Provide Feedback]**, enter your message, and then click **[!UICONTROL Send Feedback]**. |
 
-### Information to include for account issues
+### Information to include for product issues
 
-Provide the support team with detailed steps to reproduce the issue, the browser name and version, any relevant data, and information about preliminary troubleshooting you've performed.
+Provide detailed steps to reproduce the issue, the browser name and version, any relevant data, and information about preliminary troubleshooting you've performed.
 
-For report issues, don't delete the report, and provide the support team with the report name and URL.
+For report issues, don't delete the report, and provide the report name and URL.
