@@ -27,10 +27,8 @@ Look for answers to your questions in the [Adobe Advertising community forums](h
 
 | For... | Contact us at |
 | ---- | ---- |
-| Search, Social, & Commerce account issues | Contact your Adobe Account Team. |
-|  | For non-critical issues: Contact your Adobe Account Team, or send email to `<Your Search, Social, & Commerce user account>@support.efrontier.com`. |
+| Search, Social, & Commerce product or account issues | Contact your Adobe Account Team. |
 | Feedback about Search, Social, & Commerce  | In the top menu, click ![Help](/help/search-social-commerce/assets/help-main-menu.png "Help") > **[!UICONTROL Provide Feedback]**, enter your message, and then click **[!UICONTROL Send Feedback]**. |
-| Feedback about documentation | Contact your Adobe Account Team. |
 
 ### Information to include for account issues
 
