@@ -116,7 +116,7 @@ The following are common reasons for a lack of click data.
   
 | Cause | Detection/Analysis | Resolution |
 |---|---|---|
-| The process that retrieves click data from the ad account failed. | There is no systematic way to detect this issue, but you may notice that a campaign shows no cost or click information even though the ad account spent money. | Contact Customer Support at &lt;*your Search, Social, & Commerce user account*&gt;@support\.efrontier\.com.<!-- Escaped periods and using HTML code for angle brackets --><br><br>If the data is missing for more than 24 hours, then exclude those dates from the cost forecasts until the data is retrieved. Your Adobe Account Team can exclude the dates. |
+| The process that retrieves click data from the ad account failed. | There is no systematic way to detect this issue, but you may notice that a campaign shows no cost or click information even though the ad account spent money. | Contact your Adobe Account Team.<br><br>If the data is missing for more than 24 hours, then exclude those dates from the cost forecasts until the data is retrieved. Your Adobe Account Team can exclude the dates. |
 | A billing issue between the advertiser and ad network prevents the ad account from spending. | There is no systematic way to detect this issue, but you may notice that a campaign shows no cost or click information. | If you know that an ad account wasn't able to spend because of a billing issue, then exclude those dates from the cost forecasts. Your Adobe Account Team can exclude the dates. |  
 +++
   
