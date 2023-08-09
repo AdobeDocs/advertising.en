@@ -104,7 +104,7 @@ You can list all completed or failed import jobs, including the start time, the 
 
 **[!UICONTROL Credential ID]:** An ID that [!DNL Microsoft® Advertising] uses to represent your [!DNL Google Ads] credentials.
 
-Auto-generation of [!DNL Microsoft® Advertising] credentials for import is unavailable because of [!DNL Microsoft® Advertising] limitations. Contact Adobe technical support or your Adobe Account Team, and they'll generate the credentials and give you the ID.
+Auto-generation of [!DNL Microsoft® Advertising] credentials for import is unavailable because of [!DNL Microsoft® Advertising] limitations. Contact your Adobe Account Team, and they'll generate the credentials and give you the ID.
 
 **[!UICONTROL Target Microsoft® Ads account]:** The synced [!DNL Microsoft® Advertising] account into which campaign data is imported.
 
