@@ -2,7 +2,7 @@
 title: '[!DNL Google Ads] conversion data'
 description: Learn about the types of [!DNL Google Ads]-tracked conversion data available in in Search, Social, & Commerce.
 exl-id: a7ee8e72-aa7d-4e90-b765-b7b01308762d
-feature: Search Campaign Management
+feature: Search Campaign Management, Conversions
 ---
 # [!DNL Google Ads] conversion data in Search, Social, & Commerce
 
@@ -16,6 +16,16 @@ Search, Social, & Commerce syncs data for conversions for which the "[!DNL Inclu
 
 Up to three metrics for each [[!DNL Google Ads]-tracked conversion](https://support.google.com/google-ads/answer/4677036) (which you set up in [!DNL Google Ads]) are automatically available in Search, Social, & Commerce, using the conversion names configured in [!DNL Google Ads]. The metrics for each conversion include:
 
+<!--
+
+* `<conversion-name>` &mdash; (When you track it) The conversion value for the keyword, beginning with the "GGL" prefix (such as GGL Purchase).
+
+`CT_<conversion-name>` &mdash; The number (count) of conversions, beginning with the "GGL_CT" prefix (such as GGL_CT_Purchase).
+
+* `XD_<conversion-name>` &mdash; (When available for the conversion type, when you track them) The number (count) of cross-device conversions, as measured by Google, beginning with the "GGL_XD_CT_" prefix (such as GGL_XD_CT_Purchase).
+
+-->
+
 * `GGL*` &mdash; (When you track it) The conversion value for the keyword, beginning with the "GGL" prefix (such as GGL Purchase).
 
 * `GGL_CT*` &mdash; The number (count) of conversions, beginning with the "GGL_CT" prefix (such as GGL_CT_Purchase).
@@ -26,7 +36,7 @@ Up to three metrics for each [[!DNL Google Ads]-tracked conversion](https://supp
 
 >[!NOTE]
 >
->* If you have multiple accounts with the same conversion names, then you may see duplicate conversion names in Adobe Advertising. If this occurs, [change the display name](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-display-name.md) for one of the duplicate metrics in [!UICONTROL Admin] > [!UICONTROL Transaction Properties]. Reporting isn't accurate when two different metrics have the same name.
+>* If you have multiple accounts with the same conversion names, then you may see duplicate conversion names in Adobe Advertising. If this occurs, [change the display name](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md for one of the duplicate metrics in [!UICONTROL Admin] > [!UICONTROL Conversions]. Reporting isn't accurate when two different metrics have the same name.
 >* Data at the bid unit level matches data in [!DNL Google Ads] at the same level. However, [!DNL Google Ads]' own conversion data for higher levels may include additional conversions that aren't attributed to the child bid units. Data in Search, Social, & Commerce is always rolled up from the bid unit level, so, for example, a campaign-level report might not have the same totals as a campaign-level report in Google Ads.
 >* Data variance is typically less after the morning sync than it is later in the day, when additional conversions haven't yet been synced. We recommend validating data in the morning.
 >* Conversion data isn't available for [!DNL Google Display Network], [!DNL Gmail], [!DNL Mobile App], and [!DNL YouTube] ads. Filter out those types of ads when you compare data in [!DNL Google Ads] with data in Search, Social, & Commerce.
@@ -88,4 +98,5 @@ In Search, Social, & Commerce, use the view or report option to view conversions
 >
 >* [Overview of implementing ad network accounts and campaigns](campaign-implemention-overview.md)
 >* [Monitor and manage the performance of your ad network campaigns](monitor-performance-campaigns.md)
->* [View the transaction properties tracked for an advertiser](/help/search-social-commerce/admin/transaction-properties/transaction-property-view-tracked.md)
+>* [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
+>* [Create a conversion tag for [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md)

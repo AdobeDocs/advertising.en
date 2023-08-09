@@ -8,7 +8,7 @@ feature: Search Reports
 
 Search, Social, & Commerce includes a comprehensive set of performance reports based on click and conversion data. You can view basic performance data for the various components of a portfolio or ad account from the [!UICONTROL Portfolios] and [!UICONTROL Campaigns] views as well as by generating various basic and advanced reports.
 
-Advertisers who use the Adobe Advertising conversion tracking service also can identify the number of clicks for a geographical location or domain name of a referring website, how ads in each channel and the various events leading to a conversion contribute to the overall conversion rate, and the distribution of conversions for a single [conversion metric](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md) by marketing channel. The reports available vary by user account type. The Adobe Account Team has access to all reports.
+Advertisers who use the Adobe Advertising conversion tracking service also can identify the number of clicks for a geographical location or domain name of a referring website, how ads in each channel and the various events leading to a conversion contribute to the overall conversion rate, and the distribution of conversions for a single [conversion metric](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) by marketing channel. The reports available vary by user account type. The Adobe Account Team has access to all reports.
 
 Most reports can be customized to display only the information you want to see. The following standard metrics are available in most reports and are calculated at the ad level:
 
