@@ -1,6 +1,7 @@
 ---
 title: Create a conversion tag for [!DNL Google Ads]
 description: Learn how to create a [!DNL Google Ads] conversion tag.
+feature: Conversions
 ---
 # Create a conversion tag for [!DNL Google Ads]
 
