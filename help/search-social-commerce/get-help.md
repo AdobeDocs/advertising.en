@@ -23,15 +23,14 @@ You can open online help from any page within the user interface. If the online 
 
 Look for answers to your questions in the [Adobe Advertising community forums](https://experienceleaguecommunities.adobe.com/t5/adobe-advertising-cloud/ct-p/adobe-advertising-cloud-community).
 
-## Contact Adobe
+## Contact [!DNL Adobe]
 
-| For... | Contact us at |
-| ---- | ---- |
-| Search, Social, & Commerce product or account issues | Contact your Adobe Account Team. |
-| Feedback about Search, Social, & Commerce  | In the top menu, click ![Help](/help/search-social-commerce/assets/help-main-menu.png "Help") > **[!UICONTROL Provide Feedback]**, enter your message, and then click **[!UICONTROL Send Feedback]**. |
+For Search, Social, & Commerce product or account issues, do either of the following:
 
-### Information to include for product issues
+* Contact your Adobe Account Team.
 
-Provide detailed steps to reproduce the issue, the browser name and version, any relevant data, and information about preliminary troubleshooting you've performed.
+* In the top menu, click ![Help](/help/search-social-commerce/assets/help-main-menu.png "Help") > **[!UICONTROL Provide Feedback]**, enter your message, and then click **[!UICONTROL Send Feedback]**. |
+
+Provide detailed steps to reproduce the issue, any relevant data, and information about preliminary troubleshooting you've performed. If you're reporting the problem to your Adobe Account Team, also include the browser name and version.
 
 For report issues, don't delete the report, and provide the report name and URL.
