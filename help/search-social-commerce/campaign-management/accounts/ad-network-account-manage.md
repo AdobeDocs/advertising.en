@@ -162,7 +162,7 @@ For [!DNL Microsoft Advertising] accounts, only [!DNL oAuth]-authorized logins c
 
 Example: `param1=value1&param2=value2`
 
-Accounts that use Adobe Advertising click tracking must include the ad network's click identifier (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for Google) in the suffix. Accounts with an Adobe Analytics integration must use the AMO ID parameter (beginning with `s_kwcid``). If the account has a server-side AMO ID implementation, then the parameter is added automatically when a user clicks an ad; otherwise, you must manually add it here. See the [required suffix formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and [required suffix formats for [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+Accounts that use Adobe Advertising click tracking must include the ad network's click identifier (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for Google) in the suffix. Accounts with an Adobe Analytics integration must use the AMO ID parameter (beginning with `s_kwcid`). If the account has a server-side AMO ID implementation, then the parameter is added automatically when a user clicks an ad; otherwise, you must manually add it here. See the [required suffix formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and [required suffix formats for [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 
 >[!NOTE]
 >
