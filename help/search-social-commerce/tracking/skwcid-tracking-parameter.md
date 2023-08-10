@@ -14,9 +14,13 @@ Adobe Advertising shares data about your campaigns with Adobe Analytics using th
 
 * (Recommended<!--; the only option for Advertising DSP-->) The server-side s_kwcid feature is implemented.
 
-  For [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts with the [!UICONTROL Auto Upload] setting enabled for the account or campaign, the pixel server automatically appends the s_kwcid parameter to your landing page suffixes when an end user clicks an ad <!-- click a search ad or views a display ad --> with the Adobe Advertising pixel.
+  * DSP customers: The pixel server automatically appends the s_kwcid parameter to your landing page suffixes when an end user views a display ad with the Adobe Advertising pixel.
 
-  For other ad networks, or [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts with the [!UICONTROL Auto Upload] setting disabled, manually add the parameter to your account-level append parameters, which append it to your base URLs.
+  * Search, Social, & Commerce customers:
+
+    * For [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts with the [!UICONTROL Auto Upload] setting enabled for the account or campaign, the pixel server automatically appends the s_kwcid parameter to your landing page suffixes when an end user clicks an ad with the Adobe Advertising pixel.
+    
+    * For other ad networks, or [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts with the [!UICONTROL Auto Upload] setting disabled, manually add the parameter to your account-level append parameters, which append it to your base URLs.
 
 * <!-- (Search, Social, & Commerce only) -->The server-side s_kwcid feature isn't implemented, and you need to manually add the s_kwcid parameter to your ([!DNL Google Ads] and [!DNL Microsoft Advertising]) landing page suffixes or (other ad networks) account-level append parameters.
 
