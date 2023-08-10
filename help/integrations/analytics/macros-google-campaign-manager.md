@@ -14,7 +14,7 @@ If you use ad tags from [!DNL Google Campaign Manager 360] for your Advertising 
 
 Use macros for [!DNL Campaign Manager 360] display and video ads for the following types of [!DNL Analytics for Advertising] implementations:
 
-* **Advertisers with the [!DNL Adobe] [!DNL Analytics for Advertising] JavaScript code implemented on their websites**: The JavaScript code already records the AMO ID (`s_kwcid`)` and `ef_id` query string parameters. However, using macros extends tracking to include click-based conversions when third-party cookies aren't supported. The best practice is to add the macros in the following sections to your ad tags to capture additional click-through data that isn't captured through the JavaScript code.
+* **Advertisers with the [!DNL Adobe] [!DNL Analytics for Advertising] JavaScript code implemented on their websites**: The JavaScript code already records the AMO ID (`s_kwcid`) and `ef_id` query string parameters. However, using macros extends tracking to include click-based conversions when third-party cookies aren't supported. The best practice is to add the macros in the following sections to your ad tags to capture additional click-through data that isn't captured through the JavaScript code.
 
 >[!NOTE]
 >
