@@ -36,4 +36,4 @@ See more information about [!DNL Naver] tracking-only campaigns, see "[Implement
 >
 >* [Manage ad network accounts](ad-network-account-manage.md)
 >* [Manage merchant center accounts](merchant-account-manage.md)
->* [Update the s\_kwcid tracking code for a [!DNL Google Ads] account](update-skwcid-google.md)
+>* [Update the AMO ID tracking code for a [!DNL Google Ads] account](update-amo-id-google.md)
