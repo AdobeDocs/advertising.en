@@ -87,4 +87,4 @@ Accounts that use Adobe Advertising conversion tracking must include the ad netw
 >[!MORELIKETHIS]
 >
 >* [About click-tracking URL formats for the Adobe Advertising conversion tracking service](formats-click-tracking-about.md)
->* [Formats for the AMO ID tracking code](skwcid-tracking-parameter.md)
+>* [Formats for the AMO ID tracking code](amo-id-tracking-parameter.md)

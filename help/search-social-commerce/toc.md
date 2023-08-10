@@ -75,7 +75,7 @@ index: yes
         + [Click-tracking formats for [!DNL Yandex]](/help/search-social-commerce/tracking/formats-click-tracking-yandex.md)
       + [Optional tracking parameters for click-tracking URLs](/help/search-social-commerce/tracking/click-tracking-urls-optional-parameters.md)
     + [Adobe Advertising cookies (link)](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html){target="_blank"}
-    + [The s_kwcid tracking parameter](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md)
+    + [The AMO ID tracking parameter](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md)
   + Conversion tracking {#conversion-tracking}
     + [Conversion tracking options](/help/search-social-commerce/tracking/conversion-tracking-about.md)
     + Adobe Advertising conversion tracking {#advertising-conversion-tracking}

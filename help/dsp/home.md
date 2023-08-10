@@ -10,6 +10,10 @@ exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
 
 The following features are new or recently changed.
 
+<!--
+| ?? August 2023| Placement Forecasting | The [!UICONTROL Forecast] section of the placement settings includes a new XXX section, which indicates XXX. | &mdash; |
+-->
+
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
 | 19 July 2023 | Inventory | You can now run publisher-managed ads for programmatic guaranteed deals with Google Authorized Buyers SSP. By hosting your ads directly with the publisher, instead of in DSP, you can take advantage of custom rich media ad formats. Custom ad formats are typically run via direct reservations, so the ability to select publisher-managed ads in DSP also allows you to shift your direct reservation budgets to the programmatic ecosystem. | See "[About Programmatic Guaranteed Deals](/help/dsp/inventory/programmatic-guaranteed-about.md)" and "[Set up a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-set-up.md)." |

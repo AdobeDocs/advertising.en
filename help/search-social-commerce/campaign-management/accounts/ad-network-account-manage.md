@@ -236,7 +236,7 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 
 * **S_kwcid Format** - (Existing [!DNL Google Ads] accounts for advertisers with an Adobe Advertising-Adobe Analytics integration and for which the AMO ID (s_kwcid) hasn't already been migrated)
 
-This account uses the legacy format for the AMO ID tracking code, which allows Adobe Advertising to share data about the account with Adobe Analytics. The [latest format](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md) includes parameters for campaign ID and ad group ID, which are necessary to accurately report at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns and drafts and experiments campaigns in Analytics:
+This account uses the legacy format for the AMO ID tracking code, which allows Adobe Advertising to share data about the account with Adobe Analytics. The [latest format](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md) includes parameters for campaign ID and ad group ID, which are necessary to accurately report at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns and drafts and experiments campaigns in Analytics:
 
 `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
   
