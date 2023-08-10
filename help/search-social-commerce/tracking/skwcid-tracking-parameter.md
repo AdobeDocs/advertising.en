@@ -26,7 +26,7 @@ Adobe Advertising shares data about your campaigns with Adobe Analytics using th
 
 To implement the server-side s_kwcid feature, or to determine the best option for your business, talk to your Adobe Account Team.
 
-## s_kwcid format for Advertising DSP ads
+## AMO ID format for Advertising DSP ads
 
 `s_kwcid=AC!${TM_AD_ID}!${TM_PLACEMENT_ID}`
 
@@ -38,7 +38,7 @@ where:
 
 * `{TM_PLACEMENT_ID}` is the alphanumeric placement key.
 
-## s_kwcid formats for Search, Social, & Commerce ads
+## AMO ID formats for Search, Social, & Commerce ads
 
 The parameters vary by ad network, but the following parameters are common to all:
 
@@ -56,7 +56,7 @@ The parameters vary by ad network, but the following parameters are common to al
 
 These including shopping campaigns using [!DNL Google Merchant Center].
 
-* Accounts that use the latest s_kwcid format, which supports campaign- and ad group-level reporting for performance max campaigns and drafts and experiments campaigns:
+* Accounts that use the latest AMO ID format, which supports campaign- and ad group-level reporting for performance max campaigns and drafts and experiments campaigns:
 
   `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
@@ -68,7 +68,7 @@ These including shopping campaigns using [!DNL Google Merchant Center].
 >
 >* For dynamic search ads, {keyword} is populated with the auto target.
 >* When you generate tracking for [!DNL Google] shopping ads, a product ID parameter, `{adwords_producttargetid}`, is inserted before the keyword parameter. The product ID parameter doesn't appear in the [!DNL Google Ads] account-level and campaign-level tracking parameters.
->* To use the latest s_kwcid tracking code, see "[Update the s_kwcid tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-skwcid-google.md)."
+>* To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)." <!-- Update terminology there too. -->
 
 <!--
 
