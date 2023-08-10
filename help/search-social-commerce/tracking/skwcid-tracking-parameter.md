@@ -1,18 +1,22 @@
 ---
-title: The s_kwcid tracking parameter
+title: The AMO ID (s_kwcid) tracking parameter
 description: Learn about the tracking parameter used to share Adobe Advertising data with Adobe Analytics.
 exl-id: 3f739f1c-3cb7-40d0-86ab-cf66afe6a06f
 feature: Search Tracking
 ---
-# The s_kwcid tracking parameter
+# The AMO ID (s_kwcid) tracking parameter
 
 *Advertisers with an Adobe Advertising-Adobe Analytics integration only*
 
-<!-- Where should this go? It probably belongs in the Analytics integration chapter, but I'll need to fit it in/create context around it/explain more about implementation and how this works.  SPECIFICALLY, I'll need to update the second section that explains when/where to add the code for DSP clients. -->
+<!-- This should go in the Analytics integration chapter > IDs page, under "AMO IDs."  But I'll need to update with when/where to add the code for DSP clients. -->
 
-Adobe Advertising shares data about your campaigns with Adobe Analytics using the `s_kwcid` append parameter, which consists of ad channel and ad network-specific elements. The parameter is added to your tracking URLs in one of the following ways:
+Adobe Advertising shares data about your campaigns with Adobe Analytics using the AMO ID append parameter, also called the `s_kwcid` parameter, which consists of ad channel and ad network-specific elements. 
 
-* (Recommended<!--; the only option for Advertising DSP-->) The server-side s_kwcid feature is implemented.
+<!-- add everything below to IDs page -->
+
+The parameter is added to your tracking URLs in one of the following ways:
+
+* (Recommended) The server-side insertion feature is implemented.
 
   * DSP customers: The pixel server automatically appends the s_kwcid parameter to your landing page suffixes when an end user views a display ad with the Adobe Advertising pixel.
 
@@ -22,11 +26,11 @@ Adobe Advertising shares data about your campaigns with Adobe Analytics using th
     
     * For other ad networks, or [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts with the [!UICONTROL Auto Upload] setting disabled, manually add the parameter to your account-level append parameters, which append it to your base URLs.
 
-* <!-- (Search, Social, & Commerce only) -->The server-side s_kwcid feature isn't implemented, and you need to manually add the s_kwcid parameter to your ([!DNL Google Ads] and [!DNL Microsoft Advertising]) landing page suffixes or (other ad networks) account-level append parameters.
+* <!-- (Search, Social, & Commerce only) -->The server-side insertion feature isn't implemented, and you need to manually add the AMO ID parameter to your ([!DNL Google Ads] and [!DNL Microsoft Advertising]) landing page suffixes or (other ad networks) account-level append parameters.
 
-To implement the server-side s_kwcid feature, or to determine the best option for your business, talk to your Adobe Account Team.
+To implement the server-side insertion feature, or to determine the best option for your business, talk to your Adobe Account Team.
 
-## s_kwcid format for Advertising DSP ads
+## AMO ID format for Advertising DSP ads
 
 `s_kwcid=AC!${TM_AD_ID}!${TM_PLACEMENT_ID}`
 
@@ -38,7 +42,7 @@ where:
 
 * `{TM_PLACEMENT_ID}` is the alphanumeric placement key.
 
-## s_kwcid formats for Search, Social, & Commerce ads
+## AMO ID formats for Search, Social, & Commerce ads
 
 The parameters vary by ad network, but the following parameters are common to all:
 
@@ -56,7 +60,7 @@ The parameters vary by ad network, but the following parameters are common to al
 
 These including shopping campaigns using [!DNL Google Merchant Center].
 
-* Accounts that use the latest s_kwcid format, which supports campaign- and ad group-level reporting for performance max campaigns and drafts and experiments campaigns:
+* Accounts that use the latest AMO ID format, which supports campaign- and ad group-level reporting for performance max campaigns and drafts and experiments campaigns:
 
   `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
@@ -68,7 +72,7 @@ These including shopping campaigns using [!DNL Google Merchant Center].
 >
 >* For dynamic search ads, {keyword} is populated with the auto target.
 >* When you generate tracking for [!DNL Google] shopping ads, a product ID parameter, `{adwords_producttargetid}`, is inserted before the keyword parameter. The product ID parameter doesn't appear in the [!DNL Google Ads] account-level and campaign-level tracking parameters.
->* To use the latest s_kwcid tracking code, see "[Update the s_kwcid tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-skwcid-google.md)."
+>* To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)." <!-- Update terminology there too. -->
 
 <!--
 
