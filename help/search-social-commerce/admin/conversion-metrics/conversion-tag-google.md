@@ -39,7 +39,7 @@ Once you add the tags to your website and they begin firing, [!DNL Google Ads] r
 
 **[!UICONTROL Conversion Name]:** A unique name for the conversion metric.
 
-**\[Goal Category\]:** The conversion category. The available categories vary by conversion type. For *[!UICONTROL Calls to a phone number on your website]* and *[!UICONTROL Clicks to your number on your mobile website]*, "[!UICONTROL Phone Call Lead]" is selected by default.
+**\[Conversion Category\]:** The conversion category. The available categories vary by conversion type. For *[!UICONTROL Calls to a phone number on your website]* and *[!UICONTROL Clicks to your number on your mobile website]*, "[!UICONTROL Phone Call Lead]" is selected by default.
 
 **\[Action Type\]:** Whether the goal is a *[!UICONTROL Primary action used for bidding optimization]* or a *[!UICONTROL Secondary action not used for bidding optimization]*.
 
