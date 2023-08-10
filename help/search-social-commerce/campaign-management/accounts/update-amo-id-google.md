@@ -1,10 +1,10 @@
 ---
-title: Update the s kwcid tracking code for a [!DNL Google Ads] account
-description: Learn how to switch to the latest s\_kwcid tracking code for a [!DNL Google Ads] account.
+title: Update the AMO ID (s\_kwcid) tracking code for a [!DNL Google Ads] account
+description: Learn how to switch to the latest AMO ID tracking code for a [!DNL Google Ads] account.
 exl-id: 82168ee6-43bb-4b8d-882d-5254a1abcb09
 feature: Search Campaign Management
 ---
-# Update the s\_kwcid tracking code for a [!DNL Google Ads] account
+# Update the s_kwcid tracking code for a [!DNL Google Ads] account
 
 *Advertisers with an Adobe Advertising-Adobe Analytics integration only*
 
@@ -53,5 +53,5 @@ All new [!DNL Google Ads] accounts automatically use the new  s\_kwcid format.
 >[!MORELIKETHIS]
 >
 >* [Manage ad network accounts](ad-network-account-manage.md)
->* [The s_kwcid tracking parameter](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md)
+>* [The AMO ID tracking parameter](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md)
 >* [Overview of [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising/integrations/home.html){target="_blank"}
