@@ -12,6 +12,8 @@ feature: Search Introduction
 
 **ad variation:** Any ad within an ad group or ad strategy.
 
+**AMO ID:** A tracking code that allows Adobe Advertising to share data about campaigns with Adobe Analytics. It begins with `s_kwcid=`.
+
 **bid unit:** A Search, Social, & Commerce term for a unit on which bids are placed. For most campaigns on most networks, this is a keyword and its match type for a search or content campaign, a unit-level product group (the lowest level of subdivision) for a shopping campaign, or a dynamic search target for a dynamic search ad campaign. When the same keyword and match type combination, the same product group, or the same dynamic search target occurs within multiple ad groups in a single campaign, all instances are considered the same bid unit and thus have the same bid.
 
 **bid unit constraint:** See "constraint."
@@ -160,7 +162,7 @@ This has the same value as the legacy column "Weighted Revenue."
 
 **spend strategy:** (Advertisers with portfolios) The strategy selected to optimize keyword/ad bidding for a portfolio.
 
-**`s_kwcid`:** A tracking code that allows Adobe Advertising to share data about search campaigns with Adobe Analytics.
+**`s_kwcid`:** See "AMO ID."
 
 **tracking URL:** A tracking template or a destination URL with extra parameters added to track information about clicks on the ad. It may include a redirect URL to first send users to a tracking server before redirecting them to the advertiser's landing page.
 
