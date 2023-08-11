@@ -95,9 +95,9 @@ The AMO ID tracks each unique ad combination at a less granular level and is use
 
 The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL the squid]."
 
-### AMO ID Format for [!DNL DSP]
+### AMO ID Formats
 
-AMO ID format for Advertising DSP ads
+#### AMO ID Formats for [!DNL DSP]
 
 `s_kwcid=AC!${TM_AD_ID}!${TM_PLACEMENT_ID}`
 
@@ -111,7 +111,7 @@ where:
 
 Example AMO ID: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
-### AMO ID formats for Search, Social, & Commerce ads
+#### AMO ID formats for Search, Social, & Commerce ads
 
 The parameters vary by ad network, but the following parameters are common to all:
 
@@ -121,11 +121,11 @@ The parameters vary by ad network, but the following parameters are common to al
 
 * `{sid}` is replaced by the numeric ID for the advertiser's ad network account: *3* for [!DNL Google Ads], *10* for [!DNL Microsoft Advertising], *45* for [!DNL Meta], *86* for [!DNL Yahoo! Display Network], *87* for [!DNL Naver], *88* for [!DNL Baidu], *90* for [!DNL Yandex], *94* for [!DNL Yahoo! Japan Ads], *105* for [!DNL Yahoo Native] (deprecated), or *106* for [!DNL Pinterest] (deprecated).
 
-#### [!DNL Baidu]
+##### [!DNL Baidu]
 
 `s_kwcid=AL!{userid}!{sid}!{creative}!{placement}!{keywordid}`
 
-#### [!DNL Google Ads]
+##### [!DNL Google Ads]
 
 These including shopping campaigns using [!DNL Google Merchant Center].
 
@@ -154,7 +154,7 @@ where:
 
 <!--
 
-#### [!DNL Meta]
+##### [!DNL Meta]
 
 `s_kwcid=AL!{userid}!{sid}!{{ad.id}}!{{campaign.id}}!{{adset.id}}`
 
@@ -168,7 +168,7 @@ where:
 
 -->
 
-#### [!DNL Microsoft Advertising]
+##### [!DNL Microsoft Advertising]
 
 * Search campaigns:
 
@@ -188,11 +188,11 @@ where:
 * `{OrderItemId}` is the [!DNL Microsoft Advertising] numeric ID for the keyword.
 * `{CriterionId}` is the [!DNL Microsoft Advertising] numeric ID for the product group used with product ads.
 
-#### [!DNL Yahoo! Japan Ads]
+##### [!DNL Yahoo! Japan Ads]
 
 `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{network}!{keyword}`
 
-#### [!DNL Yandex]
+##### [!DNL Yandex]
 
 `s_kwcid=AL!{userid}!{sid}!{ad_id}!{source_type}!!!{phrase_id}`
 
