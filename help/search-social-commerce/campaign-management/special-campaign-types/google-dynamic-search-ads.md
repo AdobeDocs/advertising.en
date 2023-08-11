@@ -34,7 +34,7 @@ You can set up dynamic search ads either individually or by using bulksheets. Th
    
    1. (Optional) Configure a campaign-level tracking template, which overrides the account-level tracking template but can be overridden at the lower levels.
    
-      (Advertisers with Adobe Analytics without server-side tracking) When you want include tracking for the reverse feed from Search, Social, & Commerce to Analytics, add the AMO ID tracking code to the account-level append parameters, which add the code to the final URL. See "[The AMO ID tracking parameter](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md)."
+      (Advertisers with Adobe Analytics without server-side tracking) When you want include tracking for the reverse feed from Search, Social, & Commerce to Analytics, add the AMO ID tracking code to the account-level append parameters, which add the code to the final URL. See "[The AMO ID tracking parameter](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md)."
 
 1. [Create an ad group](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) within the campaign, including the following steps:
 
