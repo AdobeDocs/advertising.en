@@ -125,16 +125,11 @@ The parameters vary by ad network, but the following parameters are common to al
 
 `s_kwcid=AL!{userid}!{sid}!{creative}!{placement}!{keywordid}`
 
-<!-- VERIFY CREATIVE description -- an ID? (It is for GGL.)
-
-  Also verify description for "placement" -- do text ads have placements?
--->
-
 where:
 
 * `{creative}` is the ad network's unique numeric ID for the creative.
-* `{placement}` is the domain name of the website on which the ad was clicked.
-* `{keyworid}` is the ad network's unique numeric ID for the keyword that triggered the ad.
+* `{placement}` is the website on which the ad was clicked.
+* `{keywordid}` is the ad network's unique numeric ID for the keyword that triggered the ad.
 
 ##### [!DNL Google Ads]
 
