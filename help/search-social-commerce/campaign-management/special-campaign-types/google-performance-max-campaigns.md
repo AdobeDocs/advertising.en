@@ -8,7 +8,7 @@ feature: Search Campaign Management
 
 In [!DNL Google Ads] performance max campaigns, you don't set up ad groups, ads, or keywords. Instead, within the campaign settings, you specify one or more asset groups, which include headlines, descriptions, and uploaded images, logos, and [!DNL YouTube videos]. [!DNL Google Ads] automatically combines the assets to serve ads based on the channel (such as [!DNL YouTube], [!DNL Gmail], or [!DNL Search]).
 
-You can view your existing performance max campaigns, with performance data in table and trend chart format, in the [!DNL Campaigns] view; data isn't available at lower levels. Campaign-level performance data is also available in reports and in Adobe Analytics (for advertisers with an [Analytics integration](/help/integrations/analytics/overview.md). To view performance data for performance max campaigns in [!DNL Analytics], the campaign must use the [upgraded AMO ID tracking code](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md) (which tracks the campaign ID and ad group ID).
+You can view your existing performance max campaigns, with performance data in table and trend chart format, in the [!DNL Campaigns] view; data isn't available at lower levels. Campaign-level performance data is also available in reports and in Adobe Analytics (for advertisers with an [Analytics integration](/help/integrations/analytics/overview.md). To view performance data for performance max campaigns in [!DNL Analytics], the campaign must use the [upgraded AMO ID tracking code](/help/integrations/analytics/ids.md#amo-id-formats) (which tracks the campaign ID and ad group ID).
 
 >[!NOTE]
 >

@@ -29,4 +29,4 @@ Example:
 >[!MORELIKETHIS]
 >
 >* [About click-tracking URL formats for the Adobe Advertising conversion tracking service](formats-click-tracking-about.md)
->* [Formats for the AMO ID tracking code](amo-id-tracking-parameter.md)
+>* [AMO ID formats](/help/integrations/analytics/ids.md#amo-id-formats)

@@ -26,91 +26,12 @@ The parameter is added to your tracking URLs in one of the following ways:
 
 To implement the server-side insertion feature, or to determine the best option for your business, talk to your Adobe Account Team.
 
-## AMO ID format for Advertising DSP ads
-
-`s_kwcid=AC!${TM_AD_ID}!${TM_PLACEMENT_ID}`
-
-where:
-
-* `AC` indicates the display channel.
-
-* `{TM_AD_ID}` is the alphanumeric ad key.
-
-* `{TM_PLACEMENT_ID}` is the alphanumeric placement key.
-
-## AMO ID formats for Search, Social, & Commerce ads
-
-The parameters vary by ad network, but the following parameters are common to all:
-
-* `AL` indicates the search channel. <!-- what about social/Facebook, and display ads on Google (like Gmail, YouTube)? -->
-
-* `{userid}` is a unique user ID assigned to the advertiser.
-
-* `{sid}` is replaced by the numeric ID for the advertiser's ad network account: *3* for [!DNL Google Ads], *10* for [!DNL Microsoft Advertising], *45* for [!DNL Meta], *86* for [!DNL Yahoo! Display Network], *87* for [!DNL Naver], *88* for [!DNL Baidu], *90* for [!DNL Yandex], *94* for [!DNL Yahoo! Japan Ads], *105* for [!DNL Yahoo Native] (deprecated), or *106* for [!DNL Pinterest] (deprecated).
-
-### [!DNL Baidu]
-
-`s_kwcid=AL!{userid}!{sid}!{creative}!{placement}!{keywordid}`
-
-### [!DNL Google Ads]
-
-These including shopping campaigns using [!DNL Google Merchant Center].
-
-* Accounts that use the latest AMO ID format, which supports campaign- and ad group-level reporting for performance max campaigns and drafts and experiments campaigns:
-
-  `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
-
-* All other accounts:
-
-  `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
-
->[!NOTE]
->
->* For dynamic search ads, {keyword} is populated with the auto target.
->* When you generate tracking for [!DNL Google] shopping ads, a product ID parameter, `{adwords_producttargetid}`, is inserted before the keyword parameter. The product ID parameter doesn't appear in the [!DNL Google Ads] account-level and campaign-level tracking parameters.
->* To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)." <!-- Update terminology there too. -->
-
-<!--
-
-### [!DNL Meta]
-
-`s_kwcid=AL!{userid}!{sid}!{{ad.id}}!{{campaign.id}}!{{adset.id}}`
-
-where:
-
-* `{{ad.id}}` is the unique numeric ID for the ad/creative.
-
-* `{{campaign.id}}` is the unique ID for the campaign.
-
-* `{{adset.id}}` is the unique ID for the ad set.
-
--->
-
-### [!DNL Microsoft Advertising]
-
-* Search campaigns:
-
-  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}`
-
-* Shopping campaigns (using [!DNL Microsoft Merchant Center]):
-
-  `s_kwcid=AL!{userid}!{sid}!{AdId}!{CriterionId}`
-
-* Audience network campaigns:
-
-  `s_kwcid=AL!{userid}!{sid}!{AdId}`
-
-### [!DNL Yahoo! Japan Ads]
-
-`s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{network}!{keyword}`
-
-### [!DNL Yandex]
-
-`s_kwcid=AL!{userid}!{sid}!{ad_id}!{source_type}!!!{phrase_id}`
+For the AMO ID formats for DSP and Search, Social, & Commerce, see "[Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id)."
 
 >[!MORELIKETHIS]
 >
 >* [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md){target="_blank"}
+>* [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id){target="_blank"}
 >* [Manage ad network accounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md)
 >* [Baidu campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md)
 >* [Google Ads campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
