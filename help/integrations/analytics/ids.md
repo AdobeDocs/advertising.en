@@ -95,7 +95,7 @@ The AMO ID tracks each unique ad combination at a less granular level and is use
 
 The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL the squid]."
 
-### AMO ID Formats
+### AMO ID Formats {#amo-id-formats}
 
 #### AMO ID Format for [!DNL DSP]
 

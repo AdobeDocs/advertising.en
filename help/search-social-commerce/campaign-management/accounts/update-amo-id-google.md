@@ -10,7 +10,7 @@ feature: Search Campaign Management
 
 *[!DNL Google Ads] accounts only*
 
-The legacy format for the [AMO ID tracking code](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md) for existing [!DNL Google Ads] accounts doesn't support some features in Analytics, such as reporting at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns, drafts and experiments campaigns, and other use cases in which the same ad+keyword+match type combination exists in multiple campaigns.
+The legacy format for the [AMO ID tracking code](/help/integrations/analytics/ids.md#amo-id-formats) for existing [!DNL Google Ads] accounts doesn't support some features in Analytics, such as reporting at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns, drafts and experiments campaigns, and other use cases in which the same ad+keyword+match type combination exists in multiple campaigns.
 
 The latest format includes parameters for campaign ID and ad group ID:
 
@@ -52,7 +52,7 @@ All new [!DNL Google Ads] accounts automatically use the new  AMO ID format.
 
    * When the [!UICONTROL Auto Upload]" feature is enabled in the tracking settings, Search, Social, & Commerce automatically updates the tracking code in the Landing Page Suffix for this account and its campaigns. You don't have to do anything.
 
-   * When the [!UICONTROL Auto Upload]" feature isn't enabled, and you don't use the [server-side AMO ID feature](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md), then you must manually update the AMO ID parameter in the Landing Page Suffix settings. You can change account- and campaign-level suffixes manually in the account and campaign settings or by uploading changes in a bulksheet. To configure a suffix at the ad group level or lower, use the [!DNL Google Ads] editor.
+   * When the [!UICONTROL Auto Upload]" feature isn't enabled, and you don't use the [server-side AMO ID feature](/help/integrations/analytics/ids.md#amo-id-formats), then you must manually update the AMO ID parameter in the Landing Page Suffix settings. You can change account- and campaign-level suffixes manually in the account and campaign settings or by uploading changes in a bulksheet. To configure a suffix at the ad group level or lower, use the [!DNL Google Ads] editor.
    
    * If you include the AMO ID in the Base URL setting for any campaign component, then move it to the relevant Landing Page Suffix setting.
 
@@ -61,5 +61,5 @@ All new [!DNL Google Ads] accounts automatically use the new  AMO ID format.
 >[!MORELIKETHIS]
 >
 >* [Manage ad network accounts](ad-network-account-manage.md)
->* [The AMO ID tracking parameter](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md)
+>* [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
 >* [Overview of [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising/integrations/home.html){target="_blank"}
