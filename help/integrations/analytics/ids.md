@@ -89,7 +89,7 @@ In [!DNL Analytics] reports, you can find EF ID data by searching for the [!UICO
 
 EF IDs are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title “[!UICONTROL Low Traffic].” Because of the possibility of missing reporting fidelity, the EF IDs are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
 
-## Adobe Advertising AMO IDs
+## Adobe Advertising AMO IDs {#amo-id}
 
 The AMO ID tracks each unique ad combination at a less granular level and is used for [!DNL Analytics] data classification and ingestion of advertising metrics (such as impressions, clicks, and cost) from Adobe Advertising. The AMO ID is stored in an [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or rVar dimension (AMO ID) and is used exclusively for reporting in [!DNL Analytics].
 
@@ -97,44 +97,45 @@ The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL
 
 ### AMO ID Format for [!DNL DSP]
 
-```
-<Channel ID>!<Ad ID>!<Placement ID>
-```
+AMO ID format for Advertising DSP ads
+
+`s_kwcid=AC!${TM_AD_ID}!${TM_PLACEMENT_ID}`
 
 where:
 
-* <*Channel ID*> may be:
+* `AC` indicates the display channel.
 
-    * `AC` = Advertising DSP
-    * `AL` for [!DNL Advertising Search, Social, & Commerce]
+* `{TM_AD_ID}` is the Adobe Advertising-generated alphanumeric ad key. It's used an unique identifier for an ad and serves as a key for translating Adobe Advertising entity metadata into readable [!DNL Analytics] dimensions.
 
-* <*Ad ID*> is used an Adobe Advertising-generated unique identifier for an ad. It serves as a key for translating Adobe Advertising entity metadata into readable [!DNL Analytics] dimensions.
-
-* <*Placement ID*> is an Adobe Advertising-generated unique identifier for an placement. It serves as a key for translating Adobe Advertising entity metadata into readable [!DNL Analytics] dimensions.
+* `{TM_PLACEMENT_ID}` is the Adobe Advertising-generated alphanumeric placement key. It's used an unique identifier for a placement and serves as a key for translating Adobe Advertising entity metadata into readable [!DNL Analytics] dimensions.
 
 Example AMO ID: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
-### AMO ID Format for [!DNL Search, Social, & Commerce]
+### AMO ID formats for Search, Social, & Commerce ads
 
-AMO IDs for [!DNL Search, Social, & Commerce] follow a distinct format for each search engine. The format for all search engines begins with the following:
+The parameters vary by ad network, but the following parameters are common to all:
 
-```
-AL!{userid}!{sid}
-```
+* `AL` indicates the search channel. <!-- what about social/Facebook, and display ads on Google (like Gmail, YouTube)? -->
 
-where:
+* `{userid}` is a unique user ID assigned to the advertiser.
 
-* `AL` is the channel ID for the ad network.
-* `{userid}` is the unique numeric user ID that Adobe Advertising assigns to the advertiser.
-* `{sid}` is the numeric ID that Adobe Advertising uses for the specified ad network, such as `3` for [!DNL Google Ads] or `10` for [!DNL Microsoft Advertising].
+* `{sid}` is replaced by the numeric ID for the advertiser's ad network account: *3* for [!DNL Google Ads], *10* for [!DNL Microsoft Advertising], *45* for [!DNL Meta], *86* for [!DNL Yahoo! Display Network], *87* for [!DNL Naver], *88* for [!DNL Baidu], *90* for [!DNL Yandex], *94* for [!DNL Yahoo! Japan Ads], *105* for [!DNL Yahoo Native] (deprecated), or *106* for [!DNL Pinterest] (deprecated).
 
-The following are the full AMO ID formats for a couple of ad networks. For AMO ID formats for other ad networks, contact your Adobe Account Team.
+#### [!DNL Baidu]
 
-AMO ID Format for [!DNL Google Ads]:
+`s_kwcid=AL!{userid}!{sid}!{creative}!{placement}!{keywordid}`
 
-```
-AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}
-```
+#### [!DNL Google Ads]
+
+These including shopping campaigns using [!DNL Google Merchant Center].
+
+* Accounts that use the latest AMO ID format, which supports campaign- and ad group-level reporting for performance max campaigns and drafts and experiments campaigns:
+
+  `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
+
+* All other accounts:
+
+  `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
 
 where:
 
@@ -142,18 +143,58 @@ where:
 * `{matchtype}` is the matchtype of the keyword that triggered the ad: `e` for exact, `p` for phrase, or `b` for broad.
 * `{placement}` is the domain name of the website on which the ad was clicked. A value is available for ads in placement-targeted campaigns and for ads in keyword-targeted campaigns that are displayed on content sites.
 * `{network}` indicates the network from which the click occurred:  `g` for [!DNL Google] search (for keyword-targeted ads only), `s` for a search partner (for keyword-targeted ads only), or `d` for the Display Network (for either keyword-targeted or placement-targeted ads).
+<!-- * `{product_partition_id}` is the. -->
 * `{keyword}` is either the specific keyword that triggered your ad (on search sites) or the best-matching keyword (on content sites).
 
-AMO ID Format for [!DNL Microsoft Advertising]:
+>[!NOTE]
+>
+>* For dynamic search ads, {keyword} is populated with the auto target.
+>* When you generate tracking for [!DNL Google] shopping ads, a product ID parameter, `{adwords_producttargetid}`, is inserted before the keyword parameter. The product ID parameter doesn't appear in the [!DNL Google Ads] account-level and campaign-level tracking parameters.
+>* To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)." <!-- Update terminology there too. -->
 
-```
-AL!{userid}!{sid}!{AdId}!{OrderItemId}
-```
+<!--
+
+#### [!DNL Meta]
+
+`s_kwcid=AL!{userid}!{sid}!{{ad.id}}!{{campaign.id}}!{{adset.id}}`
+
+where:
+
+* `{{ad.id}}` is the unique numeric ID for the ad/creative.
+
+* `{{campaign.id}}` is the unique ID for the campaign.
+
+* `{{adset.id}}` is the unique ID for the ad set.
+
+-->
+
+#### [!DNL Microsoft Advertising]
+
+* Search campaigns:
+
+  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}`
+
+* Shopping campaigns (using [!DNL Microsoft Merchant Center]):
+
+  `s_kwcid=AL!{userid}!{sid}!{AdId}!{CriterionId}`
+
+* Audience network campaigns:
+
+  `s_kwcid=AL!{userid}!{sid}!{AdId}`
 
 where:
 
 * `{AdId}` is the [!DNL Microsoft Advertising] unique numeric ID for the creative.
 * `{OrderItemId}` is the [!DNL Microsoft Advertising] numeric ID for the keyword.
+* `{CriterionId}` is the [!DNL Microsoft Advertising] numeric ID for the product group used with product ads.
+
+#### [!DNL Yahoo! Japan Ads]
+
+`s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{network}!{keyword}`
+
+#### [!DNL Yandex]
+
+`s_kwcid=AL!{userid}!{sid}!{ad_id}!{source_type}!!!{phrase_id}`
 
 ### AMO ID Dimension in [!DNL Analytics]
 
