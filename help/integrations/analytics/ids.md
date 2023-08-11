@@ -97,7 +97,7 @@ The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL
 
 ### AMO ID Formats
 
-#### AMO ID Formats for [!DNL DSP]
+#### AMO ID Format for [!DNL DSP]
 
 `s_kwcid=AC!${TM_AD_ID}!${TM_PLACEMENT_ID}`
 
@@ -125,6 +125,17 @@ The parameters vary by ad network, but the following parameters are common to al
 
 `s_kwcid=AL!{userid}!{sid}!{creative}!{placement}!{keywordid}`
 
+<!-- VERIFY CREATIVE description -- probably not an ID?
+
+  Also verify description for "placement" -- copied from Google, and not sure that both conditions apply here.
+
+where:
+
+* `{creative}` is the ad network's unique numeric ID for the creative.
+* `{placement}` is the domain name of the website on which the ad was clicked. A value is available for ads in placement-targeted campaigns and for ads in keyword-targeted campaigns that are displayed on content sites.
+* `{keyworid}` is the ad network's unique numeric ID for the keyword that triggered the ad.
+-->
+
 ##### [!DNL Google Ads]
 
 These including shopping campaigns using [!DNL Google Merchant Center].
@@ -139,12 +150,16 @@ These including shopping campaigns using [!DNL Google Merchant Center].
 
 where:
 
+<!-- VERIFY CREATIVE description. Also, are there more networks now (audience and shopping?) -->
+
 * `{creative}` is the [!DNL Google Ads] unique numeric ID for the creative.
 * `{matchtype}` is the matchtype of the keyword that triggered the ad: `e` for exact, `p` for phrase, or `b` for broad.
 * `{placement}` is the domain name of the website on which the ad was clicked. A value is available for ads in placement-targeted campaigns and for ads in keyword-targeted campaigns that are displayed on content sites.
-* `{network}` indicates the network from which the click occurred:  `g` for [!DNL Google] search (for keyword-targeted ads only), `s` for a search partner (for keyword-targeted ads only), or `d` for the Display Network (for either keyword-targeted or placement-targeted ads).
-<!-- * `{product_partition_id}` is the. -->
+* `{network}` indicates the network from which the click occurred: `g` for [!DNL Google] search (for keyword-targeted ads only), `s` for a search partner (for keyword-targeted ads only), or `d` for the display network (for either keyword-targeted or placement-targeted ads).
+* `{product_partition_id}` is the ad network's unique numeric ID for the product group used with product ads.
 * `{keyword}` is either the specific keyword that triggered your ad (on search sites) or the best-matching keyword (on content sites).
+* `{campaignid}` is the ad network's unique numeric ID for the campaign.
+* `{adgroupid}` is the the ad network's unique numeric ID for the ad group.
 
 >[!NOTE]
 >
@@ -184,17 +199,30 @@ where:
 
 where:
 
-* `{AdId}` is the [!DNL Microsoft Advertising] unique numeric ID for the creative.
-* `{OrderItemId}` is the [!DNL Microsoft Advertising] numeric ID for the keyword.
-* `{CriterionId}` is the [!DNL Microsoft Advertising] numeric ID for the product group used with product ads.
+* `{AdId}` is the ad network's unique numeric ID for the creative.
+* `{OrderItemId}` is the ad network's numeric ID for the keyword.
+* `{CriterionId}` is the ad network's numeric ID for the product group used with product ads.
 
 ##### [!DNL Yahoo! Japan Ads]
 
 `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{network}!{keyword}`
 
+where:
+
+* `{creative}` is the ad network's unique numeric ID for the creative.
+* `{matchtype}` is the matchtype of the keyword that triggered the ad: `be` for exact, `bp` for phrase, or `bb` for broad.
+* `{network}` indicates the network from which the click occurred: `n` for native or `s` for search.
+* `{keyword}` is the keyword that triggered your ad.
+
 ##### [!DNL Yandex]
 
 `s_kwcid=AL!{userid}!{sid}!{ad_id}!{source_type}!!!{phrase_id}`
+
+where:
+
+* `{ad_id}` is the ad network's unique numeric ID for the creative.
+* `{source_type}` is the type of site on which the ad has been displayed: *b* for search, *c* for context (content), or *ct* for category.
+* `{phrase_id}` is the ad network's numeric ID for the keyword.
 
 ### AMO ID Dimension in [!DNL Analytics]
 
