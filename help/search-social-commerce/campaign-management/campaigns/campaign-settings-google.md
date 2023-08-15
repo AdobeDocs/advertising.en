@@ -23,7 +23,7 @@ the campaign may contain:
 
   **Notes:**
   
-  * Only required settings are available. For optional settings, log into the [!DNL Google Ads] editor.
+  * Only required settings are available. For optional settings, log in to the [!DNL Google Ads] editor.
   
   * Links to [!DNL Google Merchant Center] product feeds aren’t supported.
   

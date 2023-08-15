@@ -38,7 +38,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 >
 >Users remain in CCPA opt-out-of-sale segments indefinitely.
 
-1. Log into the advertiser's account in Advertising DSP at [https://advertising.adobe.com/](https://advertising.adobe.com/).
+1. Log in to the advertiser's account in Advertising DSP at [https://advertising.adobe.com/](https://advertising.adobe.com/).
 1. [Create a CCPA opt-out-of-sale segment, and implement the segment pixel to capture the opt-out requests](/help/dsp/audiences/ccpa-opt-out-segment-create.md).
 
 ### Method 2: Communicate CCPA Opt-Out-of-Sale Requests Using the Adobe Experience Platform Privacy Service API
@@ -79,7 +79,7 @@ You can retrieve links to the monthly reports that were created in the previous 
 
 ### Method 1: Retrieve Consumer Opt-Out-of-Sale Reports Within Advertising DSP
 
-1. Log into the advertiser's account in Advertising DSP at [https://advertising.adobe.com/](https://advertising.adobe.com/).
+1. Log in to the advertiser's account in Advertising DSP at [https://advertising.adobe.com/](https://advertising.adobe.com/).
 1. [Retrieve the reports](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md).
 
 ### Method 2: Retrieve Consumer Opt-Out-of-Sale Reports Using the Advertising DSP [!DNL Trafficking API]
