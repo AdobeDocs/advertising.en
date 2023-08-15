@@ -18,7 +18,7 @@ See the following best practices for performance campaigns:
 
 ## Step 1 - Define Your Goal
 
-It's important to understand whether the goal of the campaign is to achieve the highest possible ROAS or the lowest possible CPA. For each package in the campaign, you'll specify the objective goal accordingly as either *[!UICONTROL Highest ROAS - Custom Goal]* or *[!UICONTROL Lowest CPA - Custom Goal]*.
+It's important to understand the goal of the campaign, such as to achieve the highest possible ROAS or the lowest possible CPA. Performance campaigns have [optimization goals](/help/dsp/optimization/optimization-goals.md) that end with "[!UICONTROL - Custom Goal]" (such as "[!UICONTROL Highest ROAS - Custom Goal]"). For each package in the campaign, you'll specify the objective goal accordingly.
 
 ![optimization goal](/help/dsp/assets/optimization-goals.png)
 
