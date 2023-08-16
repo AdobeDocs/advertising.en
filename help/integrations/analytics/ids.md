@@ -116,13 +116,11 @@ The parameter is added to your tracking URLs in one of the following ways:
 
 * The server-side insertion feature isn't implemented:
 
-  * DSP customers:
+  * DSP customers: The [JavaScript code](javascript.md) automatically records click-throughs and view-throughs. When a browser doesn't support third-party cookies, you can still track click-based conversions for the following ad types.
 
     * For [!DNL Flashtalking] ad tags, manually insert additional macros per "[Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)."
 
     * For [!DNL Google Campaign Manager 360] ad tags, manually insert additional macros per "[Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)."
-
-  <!--  * For all other ads, XXXX. -->
 
   * Search, Social, & Commerce customers:
   
