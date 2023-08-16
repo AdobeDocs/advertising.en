@@ -37,7 +37,7 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 >[!NOTE]
 >
 >>* If the landing page URL includes a hash symbol (#), which is not common, then place the `amo` parameter before the hash symbol.
->* If no other parameters are included after the `amo` parameter, then add a parameter (for example, &a=b) after it. Example:`https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
+>* If no other parameters are included after the `amo` parameter, then add a parameter (for example, &a=b) after it. Example: `https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
 ### Configure the Advertiser-Level Landing Page URL Suffix
 
