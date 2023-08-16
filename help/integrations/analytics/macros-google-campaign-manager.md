@@ -10,11 +10,11 @@ exl-id: 89cd4e1d-277a-4a43-9c38-ae6641302e09
 
 *Applicable to Advertising DSP only*
 
-If you use ad tags from [!DNL Google Campaign Manager 360] for your Advertising DSP ads, append [!DNL Analytics for Advertising] parameters to your landing page URLs using the [`%p` macro](https://support.google.com/campaignmanager/table/6096962). The parameters record `s_kwcid` and `ef_id` query string parameters in the landing page URL, allowing Adobe Advertising to send click data for the ads to Adobe Analytics.
+If you use ad tags from [!DNL Google Campaign Manager 360] for your Advertising DSP ads, append [!DNL Analytics for Advertising] parameters to your landing page URLs using the [`%p` macro](https://support.google.com/campaignmanager/table/6096962). The parameters record AMO ID (`s_kwcid`) and `ef_id` query string parameters in the landing page URL, allowing Adobe Advertising to send click data for the ads to Adobe Analytics.
 
 Use macros for [!DNL Campaign Manager 360] display and video ads for the following types of [!DNL Analytics for Advertising] implementations:
 
-* **Advertisers with the [!DNL Adobe] [!DNL Analytics for Advertising] JavaScript code implemented on their websites**: The JavaScript code already records the `s_kwcid` and `ef_id` query string parameters. However, using macros extends tracking to include click-based conversions when third-party cookies aren't supported. The best practice is to add the macros in the following sections to your ad tags to capture additional click-through data that isn't captured through the JavaScript code.
+* **Advertisers with the [!DNL Adobe] [!DNL Analytics for Advertising] JavaScript code implemented on their websites**: The JavaScript code already records the AMO ID (`s_kwcid`) and `ef_id` query string parameters. However, using macros extends tracking to include click-based conversions when third-party cookies aren't supported. The best practice is to add the macros in the following sections to your ad tags to capture additional click-through data that isn't captured through the JavaScript code.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 >[!NOTE]
 >
 >>* If the landing page URL includes a hash symbol (#), which is not common, then place the `amo` parameter before the hash symbol.
->* If no other parameters are included after the `amo` parameter, then add a parameter (for example, &a=b) after it. Example:`https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
+>* If no other parameters are included after the `amo` parameter, then add a parameter (for example, &a=b) after it. Example: `https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
 ### Configure the Advertiser-Level Landing Page URL Suffix
 

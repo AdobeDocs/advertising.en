@@ -107,7 +107,7 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
 
 The following instructions highlight information pertaining to the DSP use case. For full instructions, see "".
 
-1. [Log into Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
+1. [Log in to Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
 1. [Create an A/B test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html):
 

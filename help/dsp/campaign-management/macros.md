@@ -79,6 +79,10 @@ DSP automatically inserts display click macros in a third-party display tag when
 
 If a click macro is missing when you build a display ad, DSP displays a warning message, which prompts you to manually insert the appropriate display click macro in the correct area of the tag.
 
+## [!DNL Analytics for Advertising] Macros
+
+For additional macros available specifically for [ [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) customers, see "[Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)" and "[Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)."
+
 ## Troubleshooting Macro Errors
 
 When you add macros to your code, make sure you use the exact syntax of the macro. When validating the macros, DSP checks that the macro exactly matches one of the valid macros.

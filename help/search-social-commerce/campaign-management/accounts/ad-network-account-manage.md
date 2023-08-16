@@ -234,22 +234,22 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 
 {{$include /help/_includes/append-parameters.md}}
 
-* **S\_kwcid Format** - (Existing [!DNL Google Ads] accounts for advertisers with an Adobe Advertising-Adobe Analytics integration and for which the AMO ID (s\_kwcid) hasn't already been migrated)
+* **S_kwcid Format** - (Existing [!DNL Google Ads] accounts for advertisers with an Adobe Advertising-Adobe Analytics integration and for which the AMO ID (s_kwcid) hasn't already been migrated)
 
-This account uses the legacy format for the AMO ID tracking code, which allows Adobe Advertising to share data about the account with Adobe Analytics. The [latest format](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md) includes parameters for campaign ID and ad group ID, which are necessary to accurately report at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns and drafts and experiments campaigns in Analytics:
+This account uses the legacy format for the AMO ID tracking code, which allows Adobe Advertising to share data about the account with Adobe Analytics. The [latest format](/help/integrations/analytics/ids.md#amo-id-formats) includes parameters for campaign ID and ad group ID, which are necessary to accurately report at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns and drafts and experiments campaigns in Analytics:
 
 `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
   
-If this account needs to report at the campaign and ad group levels, then click the [!UICONTROL Edit] (pencil) icon and then **[!UICONTROL Migrate to new s\_kwcid format]** to change to the new format. For accounts that don't include these campaign types, migrating to the new format is optional but recommended.
+If this account needs to report at the campaign and ad group levels, then click the [!UICONTROL Edit] (pencil) icon and then **[!UICONTROL Migrate to new s_kwcid format]** to change to the new format. For accounts that don't include these campaign types, migrating to the new format is optional but recommended.
   
 For full instructions, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)."
 
 **Report Suite Names** - (For EF Redirect with token only; advertisers with an Adobe Advertising-Adobe Analytics integration; optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks. 
 
-For the data to appear in the report suites, either (a) the server-side s\_kwcid must be configured for the account or (b) the advertiser-level setting to "[!UICONTROL Enable tracking for SAINT feeds]" must be enabled. In addition, the advertiser's Analytics account must be configured to receive data from Search, Social, & Commerce. For more information, contact your Adobe Account Manager.
+For the data to appear in the report suites, either (a) the server-side AMO ID feature must be configured for the account or (b) the advertiser-level setting to "[!UICONTROL Enable tracking for SAINT feeds]" must be enabled. In addition, the advertiser's Analytics account must be configured to receive data from Search, Social, & Commerce. For more information, contact your Adobe Account Manager.
 
 >[!MORELIKETHIS]
 >
 >* [About ad network accounts](ad-network-account-about.md)
 >* [Manage merchant center accounts](merchant-account-manage.md)
->* [Update the s\_kwcid tracking code for a [!DNL Google Ads] account](update-amo-id-google.md)
+>* [Update the s_kwcid tracking code for a [!DNL Google Ads] account](update-amo-id-google.md)

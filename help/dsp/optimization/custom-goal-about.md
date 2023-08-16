@@ -6,7 +6,7 @@ exl-id: 806450b9-ce32-4f5c-a2ac-ba8e435ce36d
 ---
 # About Custom Goals
 
-Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goals "[!UICONTROL Highest ROAS - Custom Goal]" or "[!UICONTROL Lowest CPA - Custom Goal]" must include a custom goal that will help achieve the overall optimization goal. You can create custom goals as *objectives* in [!DNL Advertising Search, Social, & Commerce].
+Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses an optimization goals that ends with "[!UICONTROL - Custom Goal]" (such as "[!UICONTROL Highest ROAS - Custom Goal]") must include a custom goal that will help achieve the overall optimization goal. You can create custom goals as *objectives* in [!DNL Advertising Search, Social, & Commerce].
 
 ![custom goals](/help/dsp/assets/objective-goals.png)
 
