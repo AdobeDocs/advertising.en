@@ -12,15 +12,20 @@ exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
 
 Adobe Advertising uses two IDs for on-site performance tracking:  the *EF ID* and the *AMO ID*.
 
-When an ad impression occurs, Adobe Advertising creates the AMO ID and EF ID values and stores them. When a visitor who has seen an ad enters the site without clicking an ad, [!DNL Analytics] calls these values from Adobe Advertising through the [!DNL Analytics for Advertising] JavaScript code. For view-through traffic, [!DNL Analytics] generates a supplemental ID (`SDID`), which is used to stitch the EF ID and AMO ID into [!DNL Analytics]. For click-through traffic, these IDs are included in the landing page URL using the `s_kwcid` and `ef_id` query string parameters.
+When an ad impression occurs, Adobe Advertising creates the AMO ID and EF ID values and stores them. When a visitor who has seen an ad enters the site without clicking an ad, [!DNL Analytics] calls these values from Adobe Advertising through the [!DNL Analytics for Advertising] JavaScript code. For view-through traffic, [!DNL Analytics] generates a supplemental ID (`SDID`), which is used to stitch the EF ID and AMO ID into [!DNL Analytics]. For click-through traffic, these IDs are included in the landing page URL using the `ef_id` and `s_kwcid` (for the AMO ID) query string parameters.
 
 Adobe Advertising distinguishes between a click-through or view-through entry to the website using the following criteria:
 
 * A view-through entry is captured when a user visits the site after viewing an ad but not clicking it. [!DNL Analytics] records a view-through if two conditions are met:
+
     * The visitor has no click-throughs for a [!DNL DSP] or [!DNL Search, Social, & Commerce] ad during the [click lookback window](#lookback-a4adc).
+
     * The visitor has seen at least one [!DNL DSP] ad during the [impression lookback window](#lookback-a4adc). The last impression is passed as the view-through.
+
 * A click-through entry is captured when a site visitor clicks an ad before entering the site. [!DNL Analytics] captures a click-through when either of the following conditions occurs:
+
     * The URL includes an EF ID and AMO ID as added to the landing page URL by Adobe Advertising.
+
     * The URL contains no tracking codes, but the Adobe Advertising JavaScript code detects a click within the last two minutes.
 
 ![Adobe Advertising view-based [!DNL Analytics] integration](/help/integrations/assets/a4adc-view-through-process.png)
@@ -94,6 +99,38 @@ EF IDs are subject to the 500k unique identifier limit in Analysis Workspace. On
 The AMO ID tracks each unique ad combination at a less granular level and is used for [!DNL Analytics] data classification and ingestion of advertising metrics (such as impressions, clicks, and cost) from Adobe Advertising. The AMO ID is stored in an [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or rVar dimension (AMO ID) and is used exclusively for reporting in [!DNL Analytics].
 
 The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL the squid]."
+
+### Ways to Implement the AMO ID
+
+The parameter is added to your tracking URLs in one of the following ways:
+
+* (Recommended) The server-side insertion feature is implemented.
+
+  * DSP customers: The pixel server automatically appends the s_kwcid parameter to your landing page suffixes when an end user views a display ad with the Adobe Advertising pixel.
+
+  * Search, Social, & Commerce customers:
+
+    * For [!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts with the [!UICONTROL Auto Upload] setting enabled for the account or campaign, the pixel server automatically appends the s_kwcid parameter to your landing page suffixes when an end user clicks an ad with the Adobe Advertising pixel.
+    
+    * For other ad networks, or [!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts with the [!UICONTROL Auto Upload] setting disabled, manually add the parameter to your account-level append parameters, which append it to your base URLs.
+
+* The server-side insertion feature isn't implemented:
+
+  * DSP customers:
+
+    * For [!DNL Flashtalking] ad tags, manually insert additional macros per "[Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)."
+
+    * For [!DNL Google Campaign Manager 360] ad tags, manually insert additional macros per "[Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)."
+
+  <!--  * For all other ads, XXXX. -->
+
+  * Search, Social, & Commerce customers:
+  
+    * For ([!DNL Google Ads] and [!DNL Microsoft® Advertising]) ads, manually add the AMO ID parameter to your landing page suffixes.
+
+    * For ads on all other ad networks, manually add the AMO ID parameter to your account-level append parameters, which append it to your base URLs.
+
+To implement the server-side insertion feature, or to determine the best option for your business, talk to your Adobe Account Team.
 
 ### AMO ID Formats {#amo-id-formats}
 
