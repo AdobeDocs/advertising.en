@@ -64,11 +64,11 @@ Accounts that use Adobe Advertising conversion tracking must include the ad netw
 
 * When the advertiser has an Adobe Analytics integration, the suffix must include one of the following:
   
-  * [!DNL Google Ads] accounts that use the latest AMO ID format (beginning with `s_kwcid`), which supports campaign- and ad group-level reporting for performance max campaigns and drafts and experiments campaigns:
+  * [!DNL Google Ads] accounts that use the latest [AMO ID format](/help/integrations/analytics/ids.md#amo-id-formats) (beginning with `s_kwcid`), which supports campaign- and ad group-level reporting for performance max campaigns and drafts and experiments campaigns:
 
     `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
-    If the account has a server-side AMO ID implementation and the account or campaign setting "[!UICONTROL Auto Upload]" is enabled, then the parameter is added automatically. Otherwise, you need to manually add it.
+    If the account has a server-side AMO ID implementation and the account or campaign setting "[!UICONTROL Auto Upload]" is enabled, then the parameter is added automatically. Otherwise, you need to manually add it. See "Ways to Implement the AMO ID" in "[Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id-implement)."
 
   * All other [!DNL Google Ads] accounts:
 
