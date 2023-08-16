@@ -8,7 +8,7 @@ feature: Search Tracking
 
 *Advertisers with an Adobe Advertising-Adobe Analytics integration only*
 
-<!-- This should go in the Analytics integration chapter > IDs page, under "AMO IDs."  But I'll need to update with when/where to add the code for DSP clients. -->
+<!-- This should go in the Analytics integration chapter > IDs page, under "AMO IDs."  But I'll need to update with when/where to add the code for DSP clients.  -->
 
 Adobe Advertising shares data about your campaigns with Adobe Analytics using the AMO ID append parameter, also called the `s_kwcid` parameter, which consists of ad channel and ad network-specific elements. 
 
