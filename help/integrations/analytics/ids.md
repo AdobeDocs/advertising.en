@@ -100,7 +100,7 @@ The AMO ID tracks each unique ad combination at a less granular level and is use
 
 The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL the squid]."
 
-### Ways to Implement the AMO ID
+### Ways to Implement the AMO ID {#amo-id-implement}
 
 The parameter is added to your tracking URLs in one of the following ways:
 
