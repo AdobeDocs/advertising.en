@@ -12,7 +12,7 @@ feature: Search Introduction
 
 **ad variation:** Any ad within an ad group or ad strategy.
 
-**AMO ID:** A tracking code that allows Adobe Advertising to share data about campaigns with Adobe Analytics. It begins with `s_kwcid=`.
+**[AMO ID](/help/integrations/analytics/ids.md#amo-id):** A tracking code that allows Adobe Advertising to share data about campaigns with Adobe Analytics. It begins with `s_kwcid=`.
 
 **bid unit:** A Search, Social, & Commerce term for a unit on which bids are placed. For most campaigns on most networks, this is a keyword and its match type for a search or content campaign, a unit-level product group (the lowest level of subdivision) for a shopping campaign, or a dynamic search target for a dynamic search ad campaign. When the same keyword and match type combination, the same product group, or the same dynamic search target occurs within multiple ad groups in a single campaign, all instances are considered the same bid unit and thus have the same bid.
 
