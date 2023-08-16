@@ -162,7 +162,7 @@ For [!DNL Microsoft Advertising] accounts, only [!DNL oAuth]-authorized logins c
 
 Example: `param1=value1&param2=value2`
 
-Accounts that use Adobe Advertising click tracking must include the ad network's click identifier (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for Google) in the suffix. Accounts with an Adobe Analytics integration must use the `s_kwcid` parameter. If the account has a server-side s\_kwcid implementation, then the parameter is added automatically when a user clicks an ad; otherwise, you must manually add it here. See the [required suffix formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and [required suffix formats for [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+Accounts that use Adobe Advertising click tracking must include the ad network's click identifier (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for Google) in the suffix. Accounts with an Adobe Analytics integration must use the AMO ID parameter (beginning with `s_kwcid`). If the account has a server-side AMO ID implementation, then the parameter is added automatically when a user clicks an ad; otherwise, you must manually add it here. See the [required suffix formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and [required suffix formats for [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 
 >[!NOTE]
 >
@@ -234,15 +234,15 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 
 {{$include /help/_includes/append-parameters.md}}
 
-* **S\_kwcid Format** - (Existing [!DNL Google Ads] accounts for advertisers with an Adobe Advertising-Adobe Analytics integration and for which the s\_kwcid hasn't already been migrated)
+* **S\_kwcid Format** - (Existing [!DNL Google Ads] accounts for advertisers with an Adobe Advertising-Adobe Analytics integration and for which the AMO ID (s\_kwcid) hasn't already been migrated)
 
-This account uses the legacy format for the s\_kwcid tracking code, which allows Adobe Advertising to share data about the account with Adobe Analytics. The [latest format](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md) includes parameters for campaign ID and ad group ID, which are necessary to accurately report at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns and drafts and experiments campaigns in Analytics:
+This account uses the legacy format for the AMO ID tracking code, which allows Adobe Advertising to share data about the account with Adobe Analytics. The [latest format](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md) includes parameters for campaign ID and ad group ID, which are necessary to accurately report at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns and drafts and experiments campaigns in Analytics:
 
 `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
   
 If this account needs to report at the campaign and ad group levels, then click the [!UICONTROL Edit] (pencil) icon and then **[!UICONTROL Migrate to new s\_kwcid format]** to change to the new format. For accounts that don't include these campaign types, migrating to the new format is optional but recommended.
   
-For full instructions, see "[Update the s\_kwcid tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-skwcid-google.md)."
+For full instructions, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)."
 
 **Report Suite Names** - (For EF Redirect with token only; advertisers with an Adobe Advertising-Adobe Analytics integration; optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks. 
 
@@ -252,4 +252,4 @@ For the data to appear in the report suites, either (a) the server-side s\_kwcid
 >
 >* [About ad network accounts](ad-network-account-about.md)
 >* [Manage merchant center accounts](merchant-account-manage.md)
->* [Update the s\_kwcid tracking code for a [!DNL Google Ads] account](update-skwcid-google.md)
+>* [Update the s\_kwcid tracking code for a [!DNL Google Ads] account](update-amo-id-google.md)
