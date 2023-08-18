@@ -252,45 +252,60 @@ by country. If you don't select any, all are targeted.
 
 **[!UICONTROL Final URL]:** The final URL for all ads created from the asset group. <!-- For campaigns created within Search, Social, & Commerce, final URL expansion is automatically enabled for the campaign, and Google Ads replaces this value with a more relevant landing page based on the user's search query and intent, and also customizes the headline based on the landing page content. You can disable final URL expansion, or exclude specific URLs from expansion, from within the [!DNL Google Ads] editor. -->
 
-**[!UICONTROL Images]:** Up to fifteen images for the ad, including the following sizes: 1) at least three square images, 2) at least three landscape images, and 3) at least one portrait image. See the [[!DNL Google Ads] image specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). To upload images:
+**[!UICONTROL Images]:** Up to fifteen images for the ad, including the following sizes: 1) at least three square images, 2) at least three landscape images, and 3) at least one portrait image. See the [[!DNL Google Ads] image specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
 
-1. Click **[!UICONTROL +]** and select images from your device or network.
+* To upload images:
 
-1. For each image:
+  1. On the [!UICONTROL Upload from computer] tab, click **[!UICONTROL +]** and select images from your device or network.
 
-   1. Select the aspect ratio.
+  1. For each image:
+
+     1. Select the aspect ratio.
    
-   1. Drag and position the crop box as necessary to select the viewable part of the image, and resize the viewable part of the image as necessary when possible.
+     1. Drag and position the crop box as necessary to select the viewable part of the image, and resize the viewable part of the image as necessary when possible.
 
-   1. (Optional) Select additional aspect ratios, and optionally reposition and resize the image as necessary for each selected aspect ratio.
+     1. (Optional) Select additional aspect ratios, and optionally reposition and resize the image as necessary for each selected aspect ratio.
    
-      One asset is created for each selected aspect ratio.
+        One asset is created for each selected aspect ratio.
 
-   1. Click **[!UICONTROL Proceed]**.
+     1. Click **[!UICONTROL Proceed]**.
 
-1. When you're finished specifying images, click **[!UICONTROL Upload]**.
+  1. When you're finished specifying images, click **[!UICONTROL Upload]**.
 
-**[!UICONTROL Logos]:** At least one square (1:1) logo and one landscape (4:1) logo. You can include up to five of each size. See the [[!DNL Google Ads] logo specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). To upload images:
+* To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
 
-1. Click **[!UICONTROL +]** and select images from your device or network.
+**[!UICONTROL Logos]:** At least one square (1:1) logo and one landscape (4:1) logo. You can include up to five of each size. See the [[!DNL Google Ads] logo specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
 
-1. For each image:
+* To upload images:
 
-   1. Select the aspect ratio.
+  1. On the [!UICONTROL Upload from computer] tab, click **[!UICONTROL +]** and select images from your device or network.
+
+  1. For each image:
+
+     1. Select the aspect ratio.
    
-   1. Drag and position the crop box as necessary to select the viewable part of the image, and resize the viewable part of the image as necessary when possible.
+     1. Drag and position the crop box as necessary to select the viewable part of the image, and resize the viewable part of the image as necessary when possible.
 
-   1. (Optional) Select additional aspect ratios, and optionally reposition and resize the image as necessary for each selected aspect ratio.
+     1. (Optional) Select additional aspect ratios, and optionally reposition and resize the image as necessary for each selected aspect ratio.
    
-      One asset is created for each selected aspect ratio.
+        One asset is created for each selected aspect ratio.
 
-   1. Click **[!UICONTROL Proceed]**.
+     1. Click **[!UICONTROL Proceed]**.
 
-1. When you're finished specifying images, click **[!UICONTROL Upload]**.
+  1. When you're finished specifying images, click **[!UICONTROL Upload]**.
 
-**[!UICONTROL Videos]:** (Optional) The URL for at least one, and up to five, [!DNL YouTube] videos at least 10
-seconds long.
+* To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
 
+**[!UICONTROL Videos]:** (Optional) At least one, and up to five, [!DNL YouTube] videos that are at least 10 seconds long.  You can either enter URLs or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
+
+* To enter URLs:
+
+  1. On the [!UICONTROL Upload from computer] tab, enter an URL.
+  
+  1. (Optional) To add another URL, click [!UICONTROL + Add]** and enter the URL.
+
+* To select videos from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the videos.
+  
 **[!UICONTROL Headlines]:** At least three, and up to five, short headlines with a maximum of 30 characters each. At least one headline must be at least 15 characters or less. If the campaign-level option to enable final URL expansion is set within [!DNL Google Ads], then [!DNL Google Ads] replaces this value with a custom headline based on the landing page content.
 
 **[!UICONTROL Long Headlines]:** At least one, and up to five, long headlines with a maximum of 90 characters each.
@@ -300,6 +315,8 @@ seconds long.
 **[!UICONTROL Call to Action]:** The call to action to include in the ad. By default, *[!UICONTROL Automated]* is selected, and [!DNL Google Ads] selects the call to action. You can optionally choose a different action.
 
 **[!UICONTROL Business Name]:** The business name, with a maximum of 25 characters.
+
+**[!UICONTROL Audience Signal]:** (Optional) Google Ads audiences and Adobe Audience Manager audiences to use as audience signals for the campaign. Choose audiences that are most likely to convert. Google Ads machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals.
 
 **[!UICONTROL Add new asset group]:** Allows you to specify another asset group.
 
