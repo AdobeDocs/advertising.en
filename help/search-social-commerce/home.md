@@ -8,6 +8,22 @@ exl-id: 8b90bb13-9fc1-4671-b16e-15c1d80aec6e
 ---
 # What's new
 
+
+<!--
+
+| 23 August 2023 | Campaigns | ([!DNL Google Ads] performance max campaigns) New features allow you to:<ul>
+
+<li>Choose existing conversion goals, or create new ones, for your performance max campaigns.</li>
+
+<li>Select from the existing assets in your [!UICONTROL Asset Library] for images, logos, and videos within performance max campaign settings. You can still also upload new assets.<li>
+
+<li>(Optional) Provide audience signals for your performance max asset groups by selecting [!DNL Google Ads] audiences. [!DNL Google Ads] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals. **Note:** Audience signals are different from [campaign-level and ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).</li>
+
+</ul>
+
+| See "[[!DNL Google Ads] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)." |
+-->
+
 The following features are new or recently changed.
 
 | Date | Feature | Description | For More Information |
