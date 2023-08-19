@@ -316,9 +316,22 @@ by country. If you don't select any, all are targeted.
 
 **[!UICONTROL Business Name]:** The business name, with a maximum of 25 characters.
 
-**[!UICONTROL Audience Signal]:** (Optional) Google Ads audiences and Adobe Audience Manager audiences to use as audience signals for the campaign. Choose audiences that are most likely to convert. Google Ads machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals.
+**[!UICONTROL Audience Signal]:** (Optional) [!DNL Google Ads] audiences to use as audience signals for the campaign. [!DNL Google Ads] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
+
+>[!NOTE]
+>Audience signals are different from [campaign-level and ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
 
 **[!UICONTROL Add new asset group]:** Allows you to specify another asset group.
+
+## [!UICONTROL Conversion Goals]
+
+**[!UICONTROL Conversion Goal]:** Whether to *[!UICONTROL Use account conversion goals for this campaign]* (the default) or *[!UICONTROL Use campaign specific conversion goals]*. If you choose to specify conversion goals for the campaign, then either select the goals from the list of all available goals or create new goals at the campaign level only. **Note:** Goals are synchronized daily, so existing goals created in the previous 24 hours may not be listed. To update the list, [manually synchronize the ad network data](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
+
+To create a new conversion goal, click **[!UICONTROL + Add custom goal]**, enter the custom goal name, select the [conversion actions](https://support.google.com/google-ads/answer/6032150) to include in the custom goal, and then click **[!UICONTROL Save]**.
+
+>[!TIP]
+>
+>If the campaign is part of a portfolio, then use the same conversion goals as the portfolio's objective. Using different conversion goals may impact portfolio performance.
 
 >[!MORELIKETHIS]
 >
