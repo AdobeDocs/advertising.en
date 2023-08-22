@@ -11,7 +11,7 @@ exl-id: 8b90bb13-9fc1-4671-b16e-15c1d80aec6e
 
 <!--
 
-| 23 August 2023 | Campaigns | ([!DNL Google Ads] performance max campaigns) New features allow you to:<ul>
+| 4 September 2023 | Campaigns | ([!DNL Google Ads] performance max campaigns) New features allow you to:<ul>
 
 <li>Choose existing conversion goals, or create new ones, for your performance max campaigns.</li>
 
