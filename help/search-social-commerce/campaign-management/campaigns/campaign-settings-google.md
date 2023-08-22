@@ -325,9 +325,11 @@ by country. If you don't select any, all are targeted.
 
 ## [!UICONTROL Conversion Goals]
 
-**[!UICONTROL Conversion Goal]:** Whether to *[!UICONTROL Use account conversion goals for this campaign]* (the default) or *[!UICONTROL Use campaign specific conversion goals]*. If you choose to specify conversion goals for the campaign, then either select the goals from the list of all available goals or create new goals at the campaign level only. **Note:** Goals are synchronized daily, so existing goals created in the previous 24 hours may not be listed. To update the list, [manually synchronize the ad network data](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
+**[!UICONTROL Conversion Goal]:** Whether to *[!UICONTROL Use account conversion goals for this campaign]* (the default) or *[!UICONTROL Use campaign specific conversion goals]*. If you choose to specify conversion goals for the campaign, then select standard goals and/or create a custom goal for the campaign.
 
-To create a new conversion goal, click **[!UICONTROL + Add custom goal]**, enter the custom goal name, select the [conversion actions](https://support.google.com/google-ads/answer/6032150) to include in the custom goal, and then click **[!UICONTROL Save]**.
+Goals are synchronized daily, so existing goals created in the previous 24 hours may not be listed. To update the list, [manually synchronize the ad network data](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
+
+To create a custom conversion goal, click **[!UICONTROL + Add custom goal]**, enter the custom goal name, select the [conversion actions](https://support.google.com/google-ads/answer/6032150) to include in the custom goal, and then click **[!UICONTROL Save]**. **Note:** Each campaign can have only one custom goal.
 
 >[!TIP]
 >
