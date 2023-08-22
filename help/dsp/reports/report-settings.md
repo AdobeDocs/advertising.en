@@ -120,11 +120,13 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 * *[!UICONTROL sFTP]:* To send the completed report to one or more SFTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
 * *[!UICONTROL FTP]:* To send the completed report to one or more FTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
 * *[!UICONTROL FTP SSL] (Currently in Beta):* To send the completed report to one or more FTP SSL locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors. To specify multiple addresses, separate them with commas or spaces.
+* *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors.
 
 >[!NOTE]
 >
 > You can't change the destination type once you save the report. 
+
+**[!UICONTROL Email]:** (Email destination type only) For each address, enter the address and click **+**.
 
 **[!UICONTROL Destination Name]:** (S3, FTP, sFTP, and FTP SSL destination types only) The names of the report destinations to which the custom report will be sent.
 
