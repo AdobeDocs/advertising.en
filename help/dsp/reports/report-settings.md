@@ -140,7 +140,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
       The new destination is now available from the list of existing destinations, and you can optionally add it to the report.
 
-**[!UICONTROL Frequency]:** (For each [!UICONTROL Destination Name] How often to send the report to the destination: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
+**[!UICONTROL Frequency]:** (For each [!UICONTROL Destination Name]) How often to send the report to the destination: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
 
 ## [!UICONTROL Save Report] Section
 
