@@ -1,12 +1,12 @@
 ---
-title: About Correcting Placement Settings for a Campaign Using Spreadsheets
-description: Learn how to review and edit key placement settings for a campaign using Excel QA spreadsheets.
+title: About Correcting Placement Settings Using Spreadsheets
+description: Learn how to review and edit key placement settings using spreadsheets.
 feature: DSP Placements
 exl-id: 2de4407d-eb3b-44ff-893c-9fdf6921d4b3
 ---
-# About Correcting Placement Settings for a Campaign Using Spreadsheets
+# About Correcting Placement Settings Using Spreadsheets
 
-The QA spreadsheet feature allows you to download the placement settings for a campaign in XLSX (Excel spreadsheet) format for review. Use this feature to quickly review such details as:
+You can download the settings for one or more placements, or for all placements in a campaign, in XLSX (Excel spreadsheet) format for review. Use this feature to quickly review such details as:
 
 * Which audiences the campaign targets.
 * When the placements start delivering, and when they will stop.
@@ -16,10 +16,10 @@ You can then make changes to select fields and post them back to DSP all at once
 
 >[!TIP]
 >
->To make more extensive changes to placement settings, use the bulk edit feature.<!-- add link once we have help on it -->
+>To make more extensive changes to placement settings, use the [bulk edit feature](/help/dsp/campaign-management/placements/placement-edit.md).
 
 >[!MORELIKETHIS]
 >
->* [Download Placement Settings for a Campaign](qa-sheet-download.md)
->* [Upload Placement Settings for a Campaign](qa-sheet-upload.md)
+>* [Download Placement Settings in a Spreadsheet](qa-sheet-download.md)
+>* [Upload Placement Settings in a Spreadsheet](qa-sheet-upload.md)
 >* [Columns in Downloaded/Uploaded Spreadsheets](qa-sheet-columns.md)
