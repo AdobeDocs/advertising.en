@@ -1,18 +1,18 @@
 ---
 title: Columns in Downloaded/Uploaded Spreadsheets
-description: Reference the columns in downloaded and uploaded Excel QA spreadsheets.
+description: Reference the placement setting columns in downloaded and uploaded spreadsheets.
 feature: DSP Placements
 exl-id: 698c0d86-cb2e-4d76-89c7-5584b6cdb542
 ---
-# Columns in Downloaded/Uploaded Spreadsheets
-
-<!-- rename -- not specific enough - I think you can download Excel files of other things too -->
+# Placement Setting Columns in Downloaded/Uploaded Spreadsheets
 
 <!-- see notes within the table about descriptions that need to be edited -->
 
 >[!TIP]
 >
 > In a downloaded spreadsheet, all editable columns are highlighted in blue.
+
+## Campaign-level Spreadsheets
 
 | Section | Column | Description | Editable? |
 |---------|--------|-------------|-----------|
@@ -40,7 +40,7 @@ exl-id: 698c0d86-cb2e-4d76-89c7-5584b6cdb542
 | [!UICONTROL Goals] | [!UICONTROL Frequency Cap Interval] | The interval for the primary frequency cap: *[!UICONTROL Day]*, *[!UICONTROL Week]*, or *[!UICONTROL Month]*. | Yes |
 | [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap] | The secondary frequency cap for the placement during the specified [!UICONTROL Secondary Frequency Cap Interval] | Yes |
 | [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap Interval] | The type of interval for the secondary frequency cap: *[!UICONTROL Week]*, *[!UICONTROL Day]*, *[!UICONTROL Hour]*, or *[!UICONTROL Minute]*. The applicable number of weeks, days, hours, or minutes is indicated by the [!UICONTROL Secondary Frequency Cap Interval Value]. | Yes |
-| [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap Interval Value] | The number of weeks, days, hours, or minutes for which the [!UICONTROL Secondary Frequency Cap] applies. For example, if the secondary cap is three impressions per six hours, then the value here would be <b>6</>.  | Yes |
+| [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap Interval Value] | The number of weeks, days, hours, or minutes for which the [!UICONTROL Secondary Frequency Cap] applies. For example, if the secondary cap is three impressions per six hours, then the value here would be `6`. | Yes |
 | [!UICONTROL Audience Location] | [!UICONTROL Audience Location - Included #] | The number of targeted geographical locations, *[!UICONTROL All]*, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Audience Location] | [!UICONTROL Audience Location - Included] | The targeted geographical locations, separated by semi-colons,or *[!UICONTROL All Locations]*. | &mdash; |
 | [!UICONTROL Audience Location] | [!UICONTROL Audience Location - Excluded #] | The number of excluded geographical locations or *[!UICONTROL None]*. | &mdash; |
@@ -78,13 +78,32 @@ exl-id: 698c0d86-cb2e-4d76-89c7-5584b6cdb542
 | [!UICONTROL Tracking] | [!UICONTROL Conversion Pixels #] | The number of conversion tracking pixels attached to the placement, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | A static, third-party fee rate to be tracked as a non-billable cost per 1000 impressions, if applicable. | &mdash; |
 | [!UICONTROL Ads] | [!UICONTROL # of Ads Attached] | The number of ads attached to the placement, if any are attached, or *[!UICONTROL None]*. | &mdash; |
-| [!UICONTROL Ads] | [!UICONTROL Ad Names] | The names of the ads attached to the placement, if any are attached, or *[!UICONTROL None]*. | &mdash; |
+| [!UICONTROL Ads] | [!UICONTROL Ad Names] | The names of any ads attached to the placement, or *[!UICONTROL None]*. | &mdash; |
+| [!UICONTROL Ads] | [!UICONTROL Attached Ad ID] | The unique DSP-generated Ad IDs of any ads attached to the placement, separated by semi-colons. To download a list of ad names and associated Ad IDs from the [!UICONTROL Ads] view, create a custom view that includes the [!UICONTROL Ad ID] metric, and then [export the data](/help/dsp/campaign-management/reports/campaign-export-data.md). | Yes |
 
-{style="table-layout:auto"}
+## Placement-level Spreadsheets
+
+| Column | Description | Editable? |
+|--------|-------------|-----------|
+| [!UICONTROL Placement ID] | The numeric ID of the placement. | &mdash; |
+| [!UICONTROL Placement Name] | The name of the placement. | Yes |
+| [!UICONTROL Package Name] | The name of the parent package, when applicable. | &mdash; |
+| [!UICONTROL Start Date] | The start date of the placement. | &mdash; |
+| [!UICONTROL End Date] | The end date of the placement. | &mdash; |
+| [!UICONTROL Status] | The placement status: *[!UICONTROL active]* or *[!UICONTROL inactive]*. | &mdash; |
+| [!UICONTROL Max Bid] | The maximum bid for the placement. | Yes |
+| [!UICONTROL Budget] | The placement budget, if there is one. | Yes |
+| [!UICONTROL Budget Interval] | The budget interval: <i[!UICONTROL >Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*, or *[!UICONTROL All Time]*. | Yes |
+| [!UICONTROL Primary Frequency Cap] | The primary frequency cap for the placement during the specified [!UICONTROL Primary Frequency Cap Interval]. | Yes |
+| [!UICONTROL Primary Frequency Cap Interval] | The interval for the primary frequency cap: *[!UICONTROL Day]*, *[!UICONTROL Week]*, or *[!UICONTROL Month]*. | Yes |
+| [!UICONTROL Secondary Frequency Cap] | The secondary frequency cap for the placement during the specified [!UICONTROL Secondary Frequency Cap Interval] | Yes |
+| [!UICONTROL Secondary Frequency Cap Interval] | The type of interval for the secondary frequency cap: *[!UICONTROL Week]*, *[!UICONTROL Day]*, *[!UICONTROL Hour]*, or *[!UICONTROL Minute]*. The applicable number of weeks, days, hours, or minutes is indicated by the [!UICONTROL Secondary Frequency Cap Interval Value]. | Yes |
+| [!UICONTROL Secondary Frequency Cap Interval Value] | The number of weeks, days, hours, or minutes for which the [!UICONTROL Secondary Frequency Cap] applies. For example, if the secondary cap is three impressions per six hours, then the value here would be `6`. | Yes |
+| [!UICONTROL Attached Ad ID] | The unique DSP-generated Ad IDs of any ads attached to the placement, separated by semi-colons. To download a list of ad names and associated Ad IDs from the [!UICONTROL Ads] view, create a custom view that includes the [!UICONTROL Ad ID] metric, and then [export the data](/help/dsp/campaign-management/reports/campaign-export-data.md). | Yes |
 
 >[!MORELIKETHIS]
 >
->* [About Correcting Placement Settings for a Campaign Using Spreadsheets](qa-about.md)
->* [Download Placement Settings for a Campaign](qa-sheet-download.md)
->* [Upload Placement Settings for a Campaign](qa-sheet-upload.md)
+>* [About Correcting Placement Settings Using Spreadsheets](qa-about.md)
+>* [Download Placement Settings in a Spreadsheet](qa-sheet-download.md)
+>* [Upload Placement Settings in a Spreadsheet](qa-sheet-upload.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
