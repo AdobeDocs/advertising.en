@@ -10,7 +10,7 @@ You can download placement settings in XLSX (Excel spreadsheet) format.
 
 If necessary, you can later edit [select fields](qa-sheet-columns.md) in the downloaded file and [upload the changes](qa-sheet-upload.md) to DSP.
 
-# Download Settings for All Placements in a Campaign
+## Download Settings for All Placements in a Campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -28,8 +28,7 @@ If necessary, you can later edit [select fields](qa-sheet-columns.md) in the dow
 
     * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
 
-    The file is saved to the browser's Download folder. See "[Columns in Downloaded/Uploaded Spreadsheets](qa-sheet-columns.md)" for a list of the included columns.
-
+    The file is saved to the browser's Downloads folder. See "[Columns in Downloaded/Uploaded Spreadsheets](qa-sheet-columns.md)" for a list of the included columns.
 
 ## Download Settings for One or More Placements
 
