@@ -81,5 +81,5 @@ Use this option only when you want to apply the same changes to all selected pla
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
 >* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [About Correcting Placement Settings for a Campaign Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
+>* [About Correcting Placement Settings Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
 >* [Video: How to Edit Placements Using Bulk Edit Tools](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)
