@@ -144,7 +144,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 **[!UICONTROL Frequency]:** (For each [!UICONTROL Destination Name]) How often to send the report to the destination: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
 
-**[!UICONTROL Start Day]:** (For each [!UICONTROL Destination Name] with a [!UICONTROL Frequency] of [*[!UICONTROL Weekly]* or *[!UICONTROL Monthly]*) Which day to generate the report. For weekly reports, select the day of the week. For monthly reports, select the numeric day of the month.
+**[!UICONTROL Start Day]:** (For each [!UICONTROL Destination Name] with a [!UICONTROL Frequency] of *[!UICONTROL Weekly]* or *[!UICONTROL Monthly]*) Which day to generate the report. For weekly reports, select the day of the week. For monthly reports, select the numeric day of the month.
 
 ## [!UICONTROL Save Report] Section
 
