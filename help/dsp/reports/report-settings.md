@@ -142,11 +142,15 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
       The new destination is now available from the list of existing destinations, and you can optionally add it to the report.
 
-**[!UICONTROL Frequency]:** (For each [!UICONTROL Destination Name] How often to send the report to the destination: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
+**[!UICONTROL Frequency]:** (For each [!UICONTROL Destination Name]) How often to send the report to the destination: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
+
+**[!UICONTROL Start Day]:** (For each [!UICONTROL Destination Name] with a [!UICONTROL Frequency] of [*[!UICONTROL Weekly]* or *[!UICONTROL Monthly]*) Which day to generate the report. For weekly reports, select the day of the week. For monthly reports, select the numeric day of the month.
 
 ## [!UICONTROL Save Report] Section
 
-**[!UICONTROL Send & Save]:** When to send the report: *[!UICONTROL On Schedule]* or *[!UICONTROL Run Now]*. Scheduled reports are delivered by 09:00 in the account's timezone.
+**[!UICONTROL When to Generate]:** When to generate the report: *[!UICONTROL On Schedule]* or *[!UICONTROL Run Now]*. Scheduled reports are delivered by 09:00 in the account's timezone.
+
+**[!UICONTROL End Date]:** The report expiration date, which can be up to four months away. Before a report expires, all specified email recipients receive an email alert seven days and one day before the expiration date. To keep the report longer, change the expiration date in the report settings.
 
 >[!NOTE]
 >
