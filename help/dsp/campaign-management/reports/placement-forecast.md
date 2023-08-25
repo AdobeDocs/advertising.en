@@ -58,7 +58,7 @@ The forecast data will be most useful in the following conditions:
 
   * The placement targets a new inventory deal for the campaign.
 
-  * The placement is a new placement type for the campaign.<!-- a new ad type? -->
+  * The placement is a new placement type [**uses a new ad type??**] for the campaign.<!-- a new ad type? -->
 
     A placement is usually a collection of multiple ad templates as defined by supply-side platforms. So, even if the placement has existed for a long time, the underlying ad template can be new, and the forecasting tool will be unable to forecast.
 
