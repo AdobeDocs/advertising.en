@@ -32,7 +32,7 @@ The forecast includes the following information:
 >[!NOTE]
 >
 >* No forecast is generated for placements with programmatic guaranteed (PG) targeting because availability and spending are deterministic.  
->* Sometimes the forecast may be unavailable due to browser cache. I this happens, clear the cache and re-open the forecast tool.
+>* Sometimes the forecast may be unavailable due to browser cache. If this happens, clear the cache and re-open the forecast tool.
 
 ### Budget Calculation
 
@@ -40,7 +40,7 @@ The forecast includes the following information:
 
 * For placements within a package, the budget assigned to the placement is used for calculations. During the flight, the budget allocated to the placement is calculated.
 
-* For placements added to a package in flight, an equal share of the budget based on the number of placements is calculated. When the placement goes live, the budget assigned by the package is calculated.
+* For placements added to a package in flight, the budget is divided equally based on the number of placements. When the placement goes live, the budget assigned by the package is calculated.
 
 ## Best Practices (Requirements? or Best Practices for what -- getting useful data?)
 
@@ -48,7 +48,7 @@ The forecast includes the following information:
 
 The forecast data will be most useful in the following conditions:
 
-* Minimum spend: $25 daily or equivalent in local currency per placement. Currently, the UI shows calculations in USD. <!--, which will be updated to the campaign currency in a future release. -->
+* Minimum spend: $25 daily or equivalent in local currency per placement. Currently, the UI shows all calculations in USD. <!--, which will be updated to the campaign currency in a future release. -->
 
 * Maximum spend: $15,000 daily or the equivalent in local currency per placement.
 
