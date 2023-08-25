@@ -42,7 +42,9 @@ The forecast includes the following information:
 
 * For placements added to a package in flight, an equal share of the budget based on the number of placements is calculated. When the placement goes live, the budget assigned by the package is calculated.
 
-## Best Practices (Requirements? or Best Practices for __what?__ -- getting useful data?)<!-- wording:  Are these requirements? If best practices, best practices to what? Get useful data? Get complete data? --?
+## Best Practices (Requirements? or Best Practices for what -- getting useful data?)
+
+<!-- wording:  Are these requirements? If best practices, best practices to what? Get useful data? Get complete data? -->
 
 The forecast data will be most useful in the following conditions:
 
