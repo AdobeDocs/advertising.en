@@ -40,4 +40,5 @@ The following tools can help you diagnose issues with placement setup and pacing
 >[!MORELIKETHIS]
 >
 >* [About In-Platform Reports](campaign-reports-about.md)
+>* [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
