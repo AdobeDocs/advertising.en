@@ -7,9 +7,11 @@ feature: DSP Placements
 
 <!-- Does this really belong in the Campaign Management > Reports section or in the Placements section? -->
 
-*Placements with open auction deals only*
+The placement forecast tool shows the forecasted number of impressions, spend, and optimum maximum bid for a particular targeting strategy. Forecasting is calculated based on the overall inventory that is available with the placement and the unique users that are available.
 
-The placement forecast tool shows the forecasted number of impressions, spend, and optimum maximum bid for a particular targeting strategy. Forecasting is calculated based on the overall inventory.
+>[!NOTE]
+>
+>* No forecast is generated for placements with only programmatic guaranteed (PG) targeting because availability and spending are deterministic.  
 
 ## Information in the Forecast
 
@@ -25,32 +27,25 @@ The forecast includes the following information:
 
 * **[!UICONTROL Budget Yield Curve]:** The estimated number of impressions the placement can deliver at different budget levels if all other targeting settings are the same.
 
-* **[!UICONTROL Max Bid Yield Curve]:** To be updated based on user feedback.  
+* **[!UICONTROL Max Bid Yield Curve]:** The estimated spend for the placement at different Max Bid levels, when all other targeting settings are the same.  
 
 * **[!UICONTROL Message]:** Provides information about the forecasted output, including any scenarios in which the forecast could not be generated. It also highlights any targeting settings reviewed but not considered in that scenario due to a lack of data. 
-
->[!NOTE]
->
->* No forecast is generated for placements with programmatic guaranteed (PG) targeting because availability and spending are deterministic.  
->* Sometimes the forecast may be unavailable due to browser cache. If this happens, clear the cache and re-open the forecast tool.
 
 ### Budget Calculation
 
 * For placements that aren't assigned to a package, the placement budget is used for calculations. Within a flight, the same overall budget is calculated.
 
-* For placements within a package, the budget assigned to the placement is used for calculations. During the flight, the budget allocated to the placement is calculated.
+* For placements within a package, the budget assigned to the placement is used for calculations. During the flight, the budget allocated to the placement is calculated and is included in the message.
 
 * For placements added to a package in flight, the budget is divided equally based on the number of placements. When the placement goes live, the budget assigned by the package is calculated.
 
-## Best Practices (Requirements? or Best Practices for what -- getting useful data?)
+## Requirements
 
-<!-- wording:  Are these requirements? If best practices, best practices to what? Get useful data? Get complete data? -->
-
-The forecast data will be most useful in the following conditions:
-
-* Minimum spend: $25 daily or equivalent in local currency per placement. Currently, the UI shows all calculations in USD. <!--, which will be updated to the campaign currency in a future release. -->
+* Minimum spend: $25 daily or equivalent in local currency per placement.
 
 * Maximum spend: $15,000 daily or the equivalent in local currency per placement.
+
+* Minimum Max Bid, Maximum Max Bid: There is a minimum max bid (for the Budget Yield Curve) and maximum max bid (for the Max Bid Yield Curve) by placement type. These values are true globally and do not take into account regional variations. Sometimes, these values may be too high or low for the targeted region. 
 
 * Historical Data: The placement forecast is available when sufficient historical data is available. The following are examples of when insufficient historical data may be available:
 
@@ -58,21 +53,23 @@ The forecast data will be most useful in the following conditions:
 
   * The placement targets a new inventory deal for the campaign.
 
-  * The placement is a new placement type [**uses a new ad type??**] for the campaign.<!-- a new ad type? -->
+  * The placement uses a new ad type for the campaign.
 
     A placement is usually a collection of multiple ad templates as defined by supply-side platforms. So, even if the placement has existed for a long time, the underlying ad template can be new, and the forecasting tool will be unable to forecast.
 
 ## Open the Placement Forecast Report
 
-1. Open the placement settings:
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+   
+1. Click the name of the campaign, and then click **[!UICONTROL Placements]**.
+   
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
+   
+1. Locate the **[!UICONTROL Forecast]** section in the upper right. If necessary, click ![Forecast](/help/dsp/assets/placement-forecast.png).
 
-   1. In the main menu, click **[!UICONTROL Campaigns]**.
-   
-   1. Click the name of the campaign, and then click **[!UICONTROL Placements]**.
-   
-   1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
-   
-1. In the upper right, click ![Forecast](/help/dsp/assets/placement-forecast.png) or **[!UICONTROL Forecast]**.
+   >[!NOTE]
+   >
+   >* Sometimes the forecast may be unavailable due to browser cache. If this happens, clear the cache and try again.
 
 >[!MORELIKETHIS]
 >
