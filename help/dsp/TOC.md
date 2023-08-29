@@ -90,6 +90,7 @@ index: yes
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [Export Data from a Campaign Management View](/help/dsp/campaign-management/reports/campaign-export-data.md)
     + [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
+    + [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
     + [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
     + Manage Data Views {#data-views}
       + [About the Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
