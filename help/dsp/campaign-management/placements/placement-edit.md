@@ -80,6 +80,7 @@ Use this option only when you want to apply the same changes to all selected pla
 >* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
+>* [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [About Correcting Placement Settings Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
 >* [Video: How to Edit Placements Using Bulk Edit Tools](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)
