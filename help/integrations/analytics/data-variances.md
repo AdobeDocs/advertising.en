@@ -148,10 +148,10 @@ The [!DNL Paid Search Detection] reports allow you to identify natural search tr
 
 For your integration, you should validate your click-through data to make sure that all pages on your site are properly tracking click-throughs.
 
-In [!DNL Analytics], one of the easiest ways to validate [!DNL Analytics for Advertising] tracking is to compare clicks to instances using the "Clicks to AMO ID Instances" calculated metric, which is calculated as follows:
+In [!DNL Analytics], one of the easiest ways to validate [!DNL Analytics for Advertising] tracking is to compare clicks to instances using a "Clicks to [!UICONTROL AMO ID Instances]" calculated metric, which is calculated as follows:
 
 ```
-Clicks to AMO ID Instances = (AMO ID Instances / AMO Clicks)
+Clicks to [!UICONTROL AMO ID Instances] = ([!UICONTROL AMO ID Instances] / Adobe Advertising Clicks)
 ```
 
 [!UICONTROL AMO ID Instances] represents the number of times that [AMO IDs](ids.md) are tracked on the site. Each time an ad is clicked, an AMO ID (`s_kwcid`) parameter is added to the landing page URL. The number of [!UICONTROL AMO ID Instances], therefore, is analogous to the number of clicks and can be validated against actual ad clicks. We typically see an 80% match rate for [!DNL Search, Social, & Commerce] and a 30% match rate for [!DNL DSP] traffic (when filtered to include only click-through [!UICONTROL AMO ID Instances]). The difference in expectations between search and display can be explained by the expected traffic behavior. Search captures intent, and, as such, users usually intend to click on the search results from their query. Users who see a display or online video ad, however, are more likely to click the ad unintentionally and then either bounce from the site or abandon the new window that loads before the page activity is tracked.
@@ -230,19 +230,19 @@ The click data may also be recorded in environments that can't record click-thro
 
 Adobe Advertising provides Analytics with [advertising-specific traffic metrics  and the related dimensions from [!DNL DSP] and [!DNL Search, Social, & Commerce]](advertising-metrics-in-analytics.md). The Adobe Advertising-provided metrics are applicable only to the specified Adobe Advertising dimensions, and data isn't available for other dimensions in [!DNL Analytics].
 
-For example, if you view the [!UICONTROL AMO Clicks] and [!UICONTROL AMO Cost] metrics by Account, which is an Adobe Advertising dimension, then you'll see the total [!UICONTROL AMO Clicks] and [!UICONTROL AMO Cost] by account.
+For example, if you view the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] metrics by Account, which is an Adobe Advertising dimension, then you'll see the total [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] by account.
 
 ![Example of Adobe Advertising metrics in a report using an Adobe Advertising dimension](/help/integrations/assets/a4adc-traffic-supported-dimension.png)
 
-However, if you view the [!UICONTROL AMO Clicks] and [!UICONTROL AMO Cost] metrics by an on-page dimension (such as Page), for which which Adobe Advertising doesn't provide data, then the [!UICONTROL AMO Clicks] and [!UICONTROL AMO Cost] for each page will be zero (0).
+However, if you view the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] metrics by an on-page dimension (such as Page), for which which Adobe Advertising doesn't provide data, then the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] for each page will be zero (0).
 
 ![Example of Adobe Advertising metrics in a report using an unsupported dimension](/help/integrations/assets/a4adc-traffic-unsupported-dimension.png)
 
 ### Using [!UICONTROL AMO ID Instances] as a Substitute for Clicks with Non-Adobe Advertising Dimensions
 
-Since you can't use [!UICONTROL AMO Clicks] with on-site dimensions, you may want to find an equivalent to clicks. You may be tempted to use Visits as a substitute, but they aren't the best option because each visitor may have multiple visits. (See "[The Difference Between Clicks and Visits](#clicks-vs-visits)." Instead, we recommend using [!UICONTROL AMO ID Instances], which is the number of times the AMO ID is captured. While [!UICONTROL AMO ID Instances] won't match [!UICONTROL AMO Clicks] exactly, they are the best option for measuring click traffic on the site. For more information, see "[Data Validation for [!DNL Analytics for Advertising]](#data-validation)."
+Since you can't use [!UICONTROL Adobe Advertising Clicks] with on-site dimensions, you may want to find an equivalent to clicks. You may be tempted to use Visits as a substitute, but they aren't the best option because each visitor may have multiple visits. (See "[The Difference Between Clicks and Visits](#clicks-vs-visits)." Instead, we recommend using [!UICONTROL AMO ID Instances], which is the number of times the AMO ID is captured. While [!UICONTROL AMO ID Instances] won't match [!UICONTROL Adobe Advertising Clicks] exactly, they are the best option for measuring click traffic on the site. For more information, see "[Data Validation for [!DNL Analytics for Advertising]](#data-validation)."
 
-![Example of [!UICONTROL AMO ID Instances] instead of [!UICONTROL AMO Clicks] for an unsupported dimension](/help/integrations/assets/a4adc-amo-id-instances.png)
+![Example of [!UICONTROL AMO ID Instances] instead of [!UICONTROL Adobe Advertising Clicks] for an unsupported dimension](/help/integrations/assets/a4adc-amo-id-instances.png)
 
 >[!MORELIKETHIS]
 >
