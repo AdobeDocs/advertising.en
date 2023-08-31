@@ -12,13 +12,11 @@ exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
 >
 >* Adobe Advertising passes traffic metrics and dimensions to [!DNL Analytics] daily.
 >* [!DNL Analytics] captures Adobe Advertising click-throughs and view-throughs in real time.
-> For [!DNL Search, Social, & Commerce], this feature is supported for most ad networks and campaign types. See "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)" in the [!DNL Search, Social, & Commerce] Guide for more information.
+>* For [!DNL Search, Social, & Commerce], this feature is supported for most ad networks and campaign types. See "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)" in the [!DNL Search, Social, & Commerce] Guide for more information.
 
 ## Traffic Metrics from Adobe Advertising
 
->[!NOTE]
->
->Most Adobe Advertising traffic metrics in [!DNL Analytics] start with "Adobe Advertising," except for "[!UICONTROL AMO ID Instances]." However, for long-term customers who used a custom event (rather than a reserved event) to originally create metrics for clicks, cost, and impressions, those metrics still begin with "AMO."
+Most Adobe Advertising traffic metrics in [!DNL Analytics] start with "Adobe Advertising," except for "[!UICONTROL AMO ID Instances]." However, for long-term customers who used a custom event (rather than a reserved event) to originally create metrics for clicks, cost, and impressions, those metrics still begin with "AMO."
 
 | Traffic Metric | Description |
 | -------------- | ----------- |
