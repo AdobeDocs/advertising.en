@@ -256,13 +256,13 @@ where:
 
 ### AMO ID Dimension in [!DNL Analytics]
 
-In Analytics reports, you can find AMO ID data by searching for the [!UICONTROL AMO ID] dimension and using the [!UICONTROL AMO ID Instance] metric. The [!UICONTROL AMO ID] dimension houses all AMO ID values captured, whereas the [!UICONTROL AMO ID Instance] metric indicates how often an AMO ID value was captured by the site. For example, if the same search ad was clicked four times but Analytics tracked seven site entries, then [!UICONTROL AMO ID Instance] would be seven (7) and [!UICONTROL Clicks] would be four (4).
+In Analytics reports, you can find AMO ID data by searching for the [!UICONTROL AMO ID] dimension and using the [!UICONTROL AMO ID Instances] metric. The [!UICONTROL AMO ID] dimension houses all AMO ID values captured, whereas the [!UICONTROL AMO ID Instances] metric indicates how often an AMO ID value was captured by the site. For example, if the same search ad was clicked four times but Analytics tracked seven site entries, then [!UICONTROL AMO ID Instances] would be seven (7) and [!UICONTROL Clicks] would be four (4).
 
 For any reporting or auditing within [!DNL Analytics], the best practice is to use the AMO ID along with its corresponding instance. For more information, see "[Data Validation for [!DNL Analytics for Advertising]](data-variances.md#data-validation)" in "Expected Data Variances Between [!DNL Analytics] and Adobe Advertising."
 
 ## About Analytics Classifications
 
-In [!DNL Analytics], a [classification](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) is a piece of metadata for a given tracking code, such as Account, Campaign, or Ad. Adobe Advertising categorizes raw Adobe Advertising data using classifications so that you can display the data in different ways (such as by Ad Type or Campaign) when you generate reports. Classifications form the basis of Adobe Advertising reporting in [!DNL Analytics] and can be used with the AMO metrics, such as [!UICONTROL AMO Cost], [!UICONTROL AMO Impressions], and [!UICONTROL AMO Clicks], as well as with custom and standard on-site events like [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders], and [!UICONTROL Revenue].
+In [!DNL Analytics], a [classification](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) is a piece of metadata for a given tracking code, such as Account, Campaign, or Ad. Adobe Advertising categorizes raw Adobe Advertising data using classifications so that you can display the data in different ways (such as by Ad Type or Campaign) when you generate reports. Classifications form the basis of Adobe Advertising reporting in [!DNL Analytics] and can be used with the AMO metrics, such as [!UICONTROL Adobe Advertising Cost], [!UICONTROL Adobe Advertising Impressions], and [!UICONTROL AMO Clicks], as well as with custom and standard on-site events like [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders], and [!UICONTROL Revenue].
 
 >[!MORELIKETHIS]
 >
