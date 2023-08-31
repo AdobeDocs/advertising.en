@@ -10,7 +10,7 @@ exl-id: 8b90bb13-9fc1-4671-b16e-15c1d80aec6e
 
 The following features are new or recently changed.
 
-| Date | Feature | Description | For More Information |
+| Date | Feature | Description | 
 | ---- | ------- | ----------- | --------------------- |
 | 15 August 2023 | Conversion metrics | [!UICONTROL Admin] > [!DNL Transaction Properties] now includes a "[!UICONTROL Source]" column, which indicates the source of each metric, such as [!UICONTROL Adobe Advertising], [!UICONTROL Adobe Analytics], [!UICONTROL Google Ads], or [!UICONTROL Custom Feed]. | See "[View the conversion metrics tracked for an advertiser](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)." |
 | 9 August 2023 | Conversion metrics | [!UICONTROL Admin] > [!DNL Transaction Properties] was renamed [!UICONTROL Conversions]. | See "[About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)." |
