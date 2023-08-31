@@ -16,7 +16,7 @@ exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
 
 ## Traffic Metrics from Adobe Advertising
 
-Most Adobe Advertising traffic metrics in [!DNL Analytics] start with "Adobe Advertising," except for "[!UICONTROL AMO ID Instances]." However, for long-term customers who used a custom event (rather than a reserved event) to originally create metrics for clicks, cost, and impressions, those metrics still begin with "AMO."
+Adobe Advertising traffic metrics in [!DNL Analytics] usually start with "Adobe Advertising," except for "[!UICONTROL AMO ID Instances]." However, for long-term customers who used a custom event (rather than a reserved event) to originally create metrics for clicks, cost, and impressions, those metrics still begin with "AMO."
 
 | Traffic Metric | Description |
 | -------------- | ----------- |
