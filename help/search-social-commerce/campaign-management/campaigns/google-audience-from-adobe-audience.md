@@ -26,7 +26,7 @@ Each new [!DNL Google] audience has the same name as the original [!DNL Adobe] a
 
 1. Complete the prerequisites as needed:
    
-   1. (To create user ID remarketing list audiences) An [!DNL Adobe] admin user or account manager must select the advertiser-level setting to enable customer match audiences. The settings differ between advertisers with Audience Manager and advertisers with [!DNL Analytics] only.
+   1. (To create user ID remarketing list audiences) An [!DNL Adobe] admin user or account manager must select the advertiser-level setting to enable customer match audiences.
 
    1. Implement the [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) version 2.0 or higher.
 
@@ -34,7 +34,9 @@ Each new [!DNL Google] audience has the same name as the original [!DNL Adobe] a
 
        `<script src="//pixel.everesttech.net/rlsa/<Advertising_Cloud_UserID>" type="text/javascript"> </script>`
      
-       where `Advertising_Cloud_UserID` is the unique user ID assigned to the advertiser. Example:  `<script src="//pixel.everesttech.net/rlsa/1234" type="text/javascript"> </script>`
+       where `Advertising_Cloud_UserID` is the unique numeric user ID assigned to the advertiser.
+       
+       Example: `<script src="//pixel.everesttech.net/rlsa/1234" type="text/javascript"> </script>`
      
    1. (If not already completed) An authorized user must configure the advertiser's account to [sync with the advertiser's organization account in Adobe Experience Cloud](/help/search-social-commerce/admin/sync-adobe-audiences.md).
 
