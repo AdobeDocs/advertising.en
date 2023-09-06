@@ -28,7 +28,13 @@ You need the following software and account information.
 
 To log in, you need a user name and password. Your Adobe Account Team sets up your user account and creates your user name and password.
 
-## Computer and browser language settings
+## Computer and browser settings
+
+### Browser site settings
+
+To see image previews for some ad/asset types, disable ad blockers/content blockers for the `efrontier.com` domain by allowing an exception for the site. Manage ad blockers in your browser's site/website settings or (in Firefox) by editing the settings for any ad blocker browser extensions you've installed.
+
+### Computer and browser language settings
 
 The following information determines which character sets to use and which formats to use to display numbers, dates, times, and currencies:
 

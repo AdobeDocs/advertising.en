@@ -38,6 +38,7 @@ In all campaign management views ([!UICONTROL Campaigns], [!UICONTROL Packages],
 >* [Edit a Custom Column View](column-view-edit.md)
 >* [Manage Data Visualizations](campaign-data-visualization-manage.md)
 >* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
+>* [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [View the Placement Diagnostic Reports](placement-diagnostics.md)
 >* [Export Data from a Campaign Management View](campaign-export-data.md)
 >* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)

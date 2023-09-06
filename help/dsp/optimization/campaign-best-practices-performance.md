@@ -6,9 +6,7 @@ exl-id: bc297796-0c89-4d91-87aa-0668462526ae
 ---
 # Best Practices for Setting up Performance Campaigns
 
-DSP can optimize your performance-focused campaigns for placements with the lowest cost per acquisition (CPA) or the highest return on ad spend (ROAS).
-
-See the following best practices for performance campaigns:
+DSP can optimize your performance-focused campaigns. See the following best practices for performance campaigns:
 
 * Step 1 - Define your Goal
 * Step 2 - Define your Strategy
@@ -18,7 +16,7 @@ See the following best practices for performance campaigns:
 
 ## Step 1 - Define Your Goal
 
-It's important to understand the goal of the campaign, such as to achieve the highest possible ROAS or the lowest possible CPA. Performance campaigns have [optimization goals](/help/dsp/optimization/optimization-goals.md) that end with "[!UICONTROL - Custom Goal]" (such as "[!UICONTROL Highest ROAS - Custom Goal]"). For each package in the campaign, you'll specify the objective goal accordingly.
+It's important to understand the goal of the campaign, such as to achieve the highest possible ROAS or the lowest possible CPA. Performance campaigns have [optimization goals](/help/dsp/optimization/optimization-goals.md) that end with "[!UICONTROL - Custom Goal]" (such as "[!UICONTROL Highest ROAS - Custom Goal]"). For each package in the campaign, you'll specify the optimization goal accordingly.
 
 ![optimization goal](/help/dsp/assets/optimization-goals.png)
 
