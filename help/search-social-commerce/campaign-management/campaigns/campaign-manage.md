@@ -29,7 +29,7 @@ Once you [make an ad network account accessible](/help/search-social-commerce/ca
 
 1. Enter the [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), [Yahoo! Japan Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campaign settings.
 
-   Depending on the ad network, the settings may be grouped into [!UICONTROL Campaign Details], [!UICONTROL Budget Options], [!UICONTROL Shopping Settings], [!UICONTROL Campaign Targeting], [!UICONTROL Conversion Goals], [!UICONTROL Advanced Device Options], [!UICONTROL URL Options], and [!UICONTROL (Google) DSA Options]. To configure settings for [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], [!UICONTROL Campaign Tracking], or [!UICONTROL Asset Groups] (when available), click **[!UICONTROL Add Negative Keywords]**, **[!UICONTROL Add Negative Websites]**, **[!UICONTROL Set Campaign Tracking]**, **[!UICONTROL Set Campaign Goals]**, or **[!UICONTROL Manage Asset Groups]**, respectively.
+   Depending on the ad network, the settings may be grouped into [!UICONTROL Campaign Details], [!UICONTROL Budget Options], [!UICONTROL Shopping Settings], [!UICONTROL Campaign Targeting], [!UICONTROL Conversion Goals], [!UICONTROL Advanced Device Options], [!UICONTROL URL Options], and [!UICONTROL (Google) DSA Options]. To configure additional settings, when available, for [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], [!UICONTROL Campaign Tracking], [!UICONTROL Asset Groups], or [!UICONTROL Campaign Goals], click **[!UICONTROL Add Negative Keywords]**, **[!UICONTROL Add Negative Websites]**, **[!UICONTROL Set Campaign Tracking]**, **[!UICONTROL Manage Asset Groups]**, or **[!UICONTROL Set Campaign Goals]**, respectively.
 
 1. Click **[!UICONTROL Post]**.
 
@@ -61,7 +61,7 @@ You can edit settings for individual campaigns. You can also edit some fields fo
 
    For multiple campaigns, the settings may be grouped into [!UICONTROL Campaign Details], [!UICONTROL Budget Options], and [!UICONTROL URL Options], depending on the ad networks. You can edit only the fields that are common to all of the selected campaigns, and your changes are applied to all of the selected campaigns. For some alphanumeric fields, you have options to change existing values to a specified value, replace an existing string with a specified string, add a specified prefix to the beginning of each value, or append a suffix to the end of each value. For some monetary fields, you have options to change existing values to a specified value or to either increase or decrease the amount by a specified percentage or monetary amount, with a limit.
 
-   For single campaigns, the settings may be grouped into [!UICONTROL Campaign Details], [!UICONTROL Budget Options], [!UICONTROL Shopping Settings], [!UICONTROL Campaign Targeting], [!UICONTROL Conversion Goals], [!UICONTROL Advanced Device Options], [!UICONTROL URL Options], and [!UICONTROL (Google) DSA Options]. To configure settings for [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], [!UICONTROL Campaign Tracking], or [!UICONTROL Asset Groups] (when available), click **[!UICONTROL Add Negative Keywords]**, **[!UICONTROL Add Negative Websites]**, **[!UICONTROL Set Campaign Tracking]**, **[!UICONTROL Set Campaign Goals]**, or **[!UICONTROL Manage Asset Groups]**, respectively.
+   For single campaigns, the settings may be grouped into [!UICONTROL Campaign Details], [!UICONTROL Budget Options], [!UICONTROL Shopping Settings], [!UICONTROL Campaign Targeting], [!UICONTROL Conversion Goals], [!UICONTROL Advanced Device Options], [!UICONTROL URL Options], and [!UICONTROL (Google) DSA Options]. To configure additional settings, when available, for [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], [!UICONTROL Campaign Tracking], [!UICONTROL Asset Groups], or [!UICONTROL Campaign Goals], click **[!UICONTROL Add Negative Keywords]**, **[!UICONTROL Add Negative Websites]**, **[!UICONTROL Set Campaign Tracking]**, **[!UICONTROL Manage Asset Groups]**, or **[!UICONTROL Set Campaign Goals]**, respectively.
 
 1. Save the data:
    
@@ -96,7 +96,7 @@ You also can delete any active or paused search campaign. Deleted campaigns are 
 >[!MORELIKETHIS]
 >
 >* [Baidu campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md)
->* [Google Ads campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
+>* [[!DNL Google Ads] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
 >* [Microsoft Advertising campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)
 >* [Yahoo! Japan Ads campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md)
 >* [Yandex campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md)
