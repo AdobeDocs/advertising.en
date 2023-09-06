@@ -12,35 +12,33 @@ exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
 >
 >* Adobe Advertising passes traffic metrics and dimensions to [!DNL Analytics] daily.
 >* [!DNL Analytics] captures Adobe Advertising click-throughs and view-throughs in real time.
-> For [!DNL Search, Social, & Commerce], this feature is supported for most ad networks and campaign types. See "Supported Inventory" in the [!DNL Search, Social, & Commerce] Guide for more information.<!-- add link when that's published in ExL -->
+>* For [!DNL Search, Social, & Commerce], this feature is supported for most ad networks and campaign types. See "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)" in the [!DNL Search, Social, & Commerce] Guide for more information.
 
 ## Traffic Metrics from Adobe Advertising
 
->[!NOTE]
->
->All Adobe Advertising traffic metrics in [!DNL Analytics] start with "AMO."
+Adobe Advertising traffic metrics in [!DNL Analytics] usually start with "Adobe Advertising," except for "[!UICONTROL AMO ID Instances]." However, for long-term customers who used a custom event (rather than a reserved event) to originally create metrics for clicks, cost, and impressions, those metrics still begin with "AMO."
 
 | Traffic Metric | Description |
 | -------------- | ----------- |
-| [!UICONTROL AMO Impressions] | The number of Adobe Advertising impressions. |
-| [!UICONTROL AMO Clicks] | The number of total Adobe Advertising clicks. |
-| [!UICONTROL AMO Cost] | The Adobe Advertising spend in the currency of the report suite. |
-| [!UICONTROL AMO ID Instance] | The number of times the Adobe Advertising ID is set. |
-| [!UICONTROL AMO Minutes Viewed] | The number of minutes an Adobe Advertising video was viewed. |
-| [!UICONTROL AMO Views] | The number of views on an ad. A view is counted when the viewer initiates the Adobe Advertising video. |
-| [!UICONTROL AMO Views 25% Complete] | The number of views for which at least 25% of an Adobe Advertising video was watched. |
-| [!UICONTROL AMO Views 50% Complete] | The number of views for which at least 50% of an Adobe Advertising video was watched. |
-| [!UICONTROL AMO Views 75% Complete] | The number of views for which at least 75% of an Adobe Advertising video was watched. |
-| [!UICONTROL AMO Views 100% Complete] | The number of views for which 100% of an Adobe Advertising video was watched. |
-| [!UICONTROL AMO Viewable Impressions] | The number of impressions that were measured to be viewable according to the placement configuration. |
-| [!UICONTROL AMO Not Viewable Impressions] | The number of impressions that were determined to be not viewable. This value is calculated as ([!UICONTROL AMO Measurable Impressions] - [!UICONTROL AMO Viewable]). |
-| [!UICONTROL AMO Measurable Impressions] | The number of impressions that were served for which viewability instrumentation successfully initialized. This value is calculated as (instrumented impressions - the number of unmeasurable impressions). |
+| [!UICONTROL Adobe Advertising Clicks] or (some legacy customers) [!UICONTROL AMO Clicks] | The number of total Adobe Advertising clicks. |
+| [!UICONTROL Adobe Advertising Cost] or (some legacy customers) [!UICONTROL AMO Cost] | The Adobe Advertising spend in the currency of the report suite. |
+| [!UICONTROL Adobe Advertising Impressions] or (some legacy customers) [!UICONTROL AMO Impressions] | The number of Adobe Advertising impressions. |
+| [!UICONTROL Adobe Advertising Measurable Impressions] | The number of impressions that were served for which viewability instrumentation successfully initialized. This value is calculated as (instrumented impressions - the number of unmeasurable impressions). |
+| [!UICONTROL Adobe Advertising Minutes Viewed] | The number of minutes an Adobe Advertising video was viewed. |
+| [!UICONTROL Adobe Advertising Not Viewable Impressions] | The number of impressions that were determined to be not viewable. This value is calculated as ([!UICONTROL Adobe Advertising Measurable Impressions] - [!UICONTROL Adobe Advertising Viewable]). |
+| [!UICONTROL Adobe Advertising Viewable Impressions] | The number of impressions that were measured to be viewable according to the placement configuration. |
+| [!UICONTROL Adobe Advertising Views] | The number of views on an ad. A view is counted when the viewer initiates the Adobe Advertising video. |
+| [!UICONTROL Adobe Advertising Views 25% Complete] | The number of views for which at least 25% of an Adobe Advertising video was watched. |
+| [!UICONTROL Adobe Advertising Views 50% Complete] | The number of views for which at least 50% of an Adobe Advertising video was watched. |
+| [!UICONTROL Adobe Advertising Views 75% Complete] | The number of views for which at least 75% of an Adobe Advertising video was watched. |
+| [!UICONTROL Adobe Advertising Views 100% Complete] | The number of views for which 100% of an Adobe Advertising video was watched. |
+| [!UICONTROL AMO ID Instances] | The number of times the [!UICONTROL AMO ID] is set. |
 
 ## Adobe Advertising Dimensions
 
 >[!NOTE]
 >
->All Adobe Advertising dimensions in [!DNL Analytics] are followed by "(AMO ID)."
+>All Adobe Advertising dimensions in [!DNL Analytics] are followed by "[!DNL (AMO ID)]."
 
 | Dimension | Applicable Adobe Advertising Data  | Description |
 | ----------- | ---------- | ---------- |
@@ -66,11 +64,11 @@ exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
 
 Consider creating the following metrics for your Adobe Advertising data.
 
-* Clicks to Landing Page Instance ([!UICONTROL AMO ID Instances] / [!UICONTROL AMO Clicks]): This is the % of people who clicked the ad and made it to the landing page.
-* Measurable Rate ([!UICONTROL AMO Viewable Impressions] / [!UICONTROL AMO Impressions] * 100)
-* Viewable Impression Rate ([!UICONTROL AMO Viewable Impressions] / [!UICONTROL AMO Measureable Impressions] * 100)
-* Cost Per View ([!UICONTROL AMO Cost] / [!UICONTROL AMO Views])
-* Cost Per Click ([!UICONTROL AMO Cost] / [!UICONTROL AMO Clicks])
+* Clicks to Landing Page Instance ([!UICONTROL AMO ID Instances] / [!UICONTROL Adobe Advertising Clicks]): This is the % of people who clicked the ad and made it to the landing page.
+* Measurable Rate ([!UICONTROL Adobe Advertising Viewable Impressions] / [!UICONTROL Adobe Advertising Impressions] * 100)
+* Viewable Impression Rate ([!UICONTROL Adobe Advertising Viewable Impressions] / [!UICONTROL Adobe Advertising Measureable Impressions] * 100)
+* Cost Per View ([!UICONTROL Adobe Advertising Cost] / [!UICONTROL Adobe Advertising Views])
+* Cost Per Click ([!UICONTROL Adobe Advertising Cost] / [!UICONTROL Adobe Advertising Clicks])
 
 >[!MORELIKETHIS]
 >

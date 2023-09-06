@@ -120,11 +120,13 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 * *[!UICONTROL sFTP]:* To send the completed report to one or more SFTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
 * *[!UICONTROL FTP]:* To send the completed report to one or more FTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
 * *[!UICONTROL FTP SSL] (Currently in Beta):* To send the completed report to one or more FTP SSL locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors. To specify multiple addresses, separate them with commas or spaces.
+* *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors.
 
 >[!NOTE]
 >
 > You can't change the destination type once you save the report. 
+
+**[!UICONTROL Email]:** (Email destination type only) For each address, enter the address and click **+**.
 
 **[!UICONTROL Destination Name]:** (S3, FTP, sFTP, and FTP SSL destination types only) The names of the report destinations to which the custom report will be sent.
 
@@ -140,11 +142,15 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
       The new destination is now available from the list of existing destinations, and you can optionally add it to the report.
 
-**[!UICONTROL Frequency]:** (For each [!UICONTROL Destination Name] How often to send the report to the destination: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
+**[!UICONTROL Frequency]:** (For each [!UICONTROL Destination Name]) How often to send the report to the destination: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
+
+**[!UICONTROL Start Day]:** (For each [!UICONTROL Destination Name] with a [!UICONTROL Frequency] of *[!UICONTROL Weekly]* or *[!UICONTROL Monthly]*) Which day to generate the report. For weekly reports, select the day of the week. For monthly reports, select the numeric day of the month.
 
 ## [!UICONTROL Save Report] Section
 
-**[!UICONTROL Send & Save]:** When to send the report: *[!UICONTROL On Schedule]* or *[!UICONTROL Run Now]*. Scheduled reports are delivered by 09:00 in the account's timezone.
+**[!UICONTROL When to Generate]:** When to generate the report: *[!UICONTROL On Schedule]* or *[!UICONTROL Run Now]*. Scheduled reports are delivered by 09:00 in the account's timezone.
+
+**[!UICONTROL End Date]:** The report expiration date, which can be up to four months away. Before a report expires, all specified email recipients receive an email alert seven days and one day before the expiration date. To keep the report longer, change the expiration date in the report settings.
 
 >[!NOTE]
 >

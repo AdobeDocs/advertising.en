@@ -134,6 +134,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 >* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
+>* [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
 >* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
