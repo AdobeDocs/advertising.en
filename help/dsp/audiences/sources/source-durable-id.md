@@ -16,7 +16,7 @@ To activate authenticated audiences through a durable ID solution within Adverti
 
 ## Tasks
 
-1. For either option, contact `adcloud-support@adobe.com` to enable the following settings in DSP, which will allow you to target authenticated segments in DSP campaigns once [all steps in the activation workflow are completed](source-about.md#workflow-sources):
+1. For either option, contact `adcloud-support@adobe.com` to enable the following settings in DSP, which will allow you to target authenticated segments in DSP campaigns once [all steps in the activation workflow are completed](source-about.md#workflow-sources-rtcdp):
 
     1. [!DNL LiveRamp] [!DNL RampID] campaign configuration prior to segment sharing from [!DNL Real-Time CDP].
 
