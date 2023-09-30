@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Baidu] ad group settings'
 description: Reference the settings for [!DNL Baidu] ad groups.
-exl-id: 940c5d62-8646-4686-ad34-1fbabe69e1b3
+exl-id: 1d480339-a8c8-4874-ad8e-d8973660682c
 feature: Search Campaign Management
 ---
 # [!DNL Baidu] ad group settings

@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Microsoft Advertising] ad group settings'
 description: Reference the settings for [!DNL Microsoft Advertising] ad groups.
-exl-id: 5dfa766d-2a42-455d-a340-e72e11a38032
+exl-id: 5d788e5b-ddf3-4f4e-8e8d-98e3235cb187
 feature: Search Campaign Management
 ---
 # [!DNL Microsoft Advertising] ad group settings

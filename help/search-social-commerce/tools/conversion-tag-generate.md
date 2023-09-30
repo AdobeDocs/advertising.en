@@ -1,7 +1,7 @@
 ---
 title: Generate an Adobe Advertising conversion-tracking tag
 description: Learn how to create an Adobe Advertising conversion tag to track your conversion events.
-exl-id: 617cd808-c4ba-4413-89e4-0f52cb44f44b
+exl-id: 02492162-96a0-4a91-8896-dd0f72199f79
 feature: Search Tools, Search Tracking
 ---
 # Generate an Adobe Advertising conversion-tracking tag

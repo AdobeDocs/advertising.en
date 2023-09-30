@@ -1,7 +1,7 @@
 ---
 title: Delete a report template
 description: Learn how to delete your report templates.
-exl-id: 2b81aad8-6ab1-495f-8f34-67fa5c55be42
+exl-id: 2e7038e1-bbe0-473e-97fa-ecfa475ce411
 feature: Search Reports
 ---
 # Delete report templates

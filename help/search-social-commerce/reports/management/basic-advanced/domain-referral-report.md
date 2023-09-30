@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Domain Referral Report]'
 description: Learn about the [!UICONTROL Domain Referral Report].
-exl-id: a5233a09-1dd6-43d0-bef7-b8cf8c905e13
+exl-id: 17198c32-1dc4-4b1b-9af4-aaca027213dc
 feature: Search Reports, Search Advanced Reports
 ---
 # [!UICONTROL Domain Referral Report]

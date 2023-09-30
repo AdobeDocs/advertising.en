@@ -2,7 +2,7 @@
 title: '[!DNL Google Analytics] data source settings'
 description: Reference the required settings for [!DNL Google Analytics] data sources.
 role: User, Admin
-exl-id: 531351b4-07f1-43ef-a3d2-892a49ffb5ca
+exl-id: 78422c2c-ed58-410e-8996-882759ed5556
 feature: Search Data Sources
 ---
 # [!DNL Google Analytics] data source settings

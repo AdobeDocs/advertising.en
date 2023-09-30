@@ -1,7 +1,7 @@
 ---
 title: Format of JavaScript conversion tracking tags version 2
 description: Reference the format of JavaScript conversion tracking tags version 2.
-exl-id: c4845694-10ac-41f8-bafb-ca813e42d190
+exl-id: 75e96f97-a3f0-4f5b-8bbb-4b1e8986f01a
 feature: Search Tracking
 ---
 # Format of JavaScript conversion tracking tags version 2

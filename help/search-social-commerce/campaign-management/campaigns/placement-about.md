@@ -1,7 +1,7 @@
 ---
 title: About [!DNL Google Ads] placements
 description: Learn about options for biddable and negative placements for [!DNL Google Ads].
-exl-id: 2f390a39-99e9-4b0d-8576-e724882185ef
+exl-id: c0a2d888-8afa-47c8-a89e-da4de527e6ea
 feature: Search Campaign Management
 ---
 # About [!DNL Google Ads] placements

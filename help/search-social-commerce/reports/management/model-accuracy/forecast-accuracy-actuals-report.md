@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Forecast Accuracy (Actuals) Report]'
 description: Learn about the [!UICONTROL Forecast Accuracy (Actuals) Report], including the data columns.
-exl-id: ff49284a-2d13-48bf-a172-3bd461db7a3c
+exl-id: 659e11c7-5fed-4d91-a73f-7c435d36634f
 feature: Search Reports, Search Model Accuracy Reports
 ---
 # The [!UICONTROL Forecast Accuracy (Actuals) Report]

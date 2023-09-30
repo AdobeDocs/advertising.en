@@ -1,7 +1,7 @@
 ---
 title: Apply or dismiss a [!DNL Google Ads] recommendation
 description: Learn how to view a [!DNL Google Ads] recommendation and how to apply or dismiss the recommendation.
-exl-id: 7aab10bf-d5fc-4eb7-b1bb-9e61ba354a29
+exl-id: 794df5d5-fc7c-45f7-8a26-460b0a8f56b7
 feature: Search Recommendations
 ---
 # Apply or dismiss a [!DNL Google Ads] recommendation

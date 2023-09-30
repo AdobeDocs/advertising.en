@@ -1,7 +1,7 @@
 ---
 title: Apply data filters from the toolbar
 description: Learn how to filter the page data from the toolbar.
-exl-id: 922cc148-e6dc-428b-a7f3-1da3780df326
+exl-id: fc1dca75-b0e5-48fd-90ee-f09c158e3e8b
 feature: Search Common Tasks, Search Custom Data Views
 ---
 # Apply data filters from the toolbar

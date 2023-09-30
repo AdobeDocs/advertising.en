@@ -1,7 +1,7 @@
 ---
 title: Decode a click-tracking URL
 description: Learn how to remove Search, Social, & Commerce click-tracking code from a base URL.
-exl-id: e6567cfa-317f-405f-92fc-61ac9274a317
+exl-id: 2f40f6a9-afc9-4e9d-9233-40e29a7f50d8
 feature: Search Tools, Search Tracking
 ---
 # Decode a Search, Social, & Commerce click-tracking URL

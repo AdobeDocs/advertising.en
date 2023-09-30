@@ -1,7 +1,7 @@
 ---
 title: Delete reports
 description: Learn how to delete generated reports.
-exl-id: 63e10552-e0a9-4957-b18b-e62bd150bef5
+exl-id: 04ec3f7a-0cea-4f9d-bb76-d576f529b6ae
 feature: Search Reports
 ---
 # Delete reports

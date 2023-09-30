@@ -1,7 +1,7 @@
 ---
 title: Manage [!DNL Google Ads] callout extensions
 description: Learn how to create and manage [!DNL Google Ads] callout extensions.
-exl-id: 5ac4ae56-6de6-4c35-aaf3-339011af16c5
+exl-id: b1be553e-49a1-47b8-8dd2-84db56fa249e
 feature: Search Campaign Management
 ---
 # Manage [!DNL Google Ads] shared callout extensions

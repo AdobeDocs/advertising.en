@@ -1,7 +1,7 @@
 ---
 title: Shopping campaign product filters
 description: Reference the product filters available for shopping product groups.
-exl-id: 9c4f3c64-5a51-49de-aeba-bcda8a379609
+exl-id: 91695fa8-6e5e-42a7-a84a-0b46b9f4dfcc
 feature: Search Campaign Management
 ---
 # Shopping campaign product filters

@@ -1,7 +1,7 @@
 ---
 title: View data for another advertiser
 description: Learn how to view data for another advertiser.
-exl-id: 823689b3-7c74-4927-8973-c6ce9fc79729
+exl-id: 31c5db71-9ef1-4088-8fdc-ff091e0eaef8
 feature: Search Common Tasks
 ---
 # View data for another advertiser

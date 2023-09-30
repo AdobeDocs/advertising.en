@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Microsoft® Advertising] multimedia ad settings'
 description: Reference the settings for [!DNL Microsoft® Advertising] multimedia ads.
-exl-id: b7ce413c-ee7a-420a-8791-e2666cc33eba
+exl-id: 920ecb8d-e179-4946-be60-64f00bbabb70
 feature: Search Campaign Management
 ---
 # [!DNL Microsoft® Advertising] multimedia ad settings

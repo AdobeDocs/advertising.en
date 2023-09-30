@@ -2,7 +2,7 @@
 title: Prerequisites for configuring a [!DNL Google Analytics] data source
 description: Learn about the steps that you must complete before you configure a [!DNL Google Analytics] data source.
 role: User, Admin
-exl-id: cbb2ad6d-8494-4fa4-928c-238b25bda3a6
+exl-id: 97b0c149-5f82-4a1e-a5d9-aeab43cbd88f
 feature: Search Admin, Search Data Sources
 ---
 # Prerequisites for configuring a [!DNL Google Analytics] data source

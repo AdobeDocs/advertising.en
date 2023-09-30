@@ -1,7 +1,7 @@
 ---
 title: The data used for reports
 description: Learn about the different types of data available in data views and custom reports.
-exl-id: 3e1f2967-5034-46bc-8473-63cffeeeecba
+exl-id: ba808b21-4421-4de5-9293-a20ec67cc81c
 feature: Search Reports
 ---
 # The data used for reports

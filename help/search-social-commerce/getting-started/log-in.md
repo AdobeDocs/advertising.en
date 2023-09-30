@@ -1,7 +1,7 @@
 ---
 title: Log in
 description: Learn ways to log in.
-exl-id: b4359852-ed2a-4c97-864c-4a456fe57648
+exl-id: 9631a285-41f6-4fae-966b-e702d87b7f1c
 feature: Search Getting Started
 ---
 # Log in

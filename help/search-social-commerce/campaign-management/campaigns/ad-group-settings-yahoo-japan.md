@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Yahoo! Japan Ads] ad group settings'
 description: Reference the settings for [!DNL Yahoo! Japan Ads] ad groups.
-exl-id: 987c9627-06b3-447a-aa1b-a4040f4f5a0c
+exl-id: 1afacb94-bf07-45df-ab79-13cb7f876288
 feature: Search Campaign Management
 ---
 # [!DNL Yahoo! Japan Ads] ad group settings

@@ -1,7 +1,7 @@
 ---
 title: Upload conversion metrics to [!DNL Google Ads]
 description: Learn how to upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads].
-exl-id: 88db66c2-12db-41cf-b6c4-ed821cb3b8ea
+exl-id: 976792ae-135c-4790-82cf-9503edb93fb1
 feature: Search Tools
 ---
 # Upload conversion metrics to [!DNL Google Ads]

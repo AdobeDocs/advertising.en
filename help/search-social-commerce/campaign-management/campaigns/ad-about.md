@@ -1,7 +1,7 @@
 ---
 title: Manage ads
 description: Learn about ads in Search, Social, & Commerce, including the available ad types.
-exl-id: 92ae631a-c35a-40ec-9d40-ebce13e3311b
+exl-id: 01bd211d-fe6b-4329-90e1-0e54d626c125
 feature: Search Campaign Management
 ---
 # About ads

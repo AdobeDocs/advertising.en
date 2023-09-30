@@ -1,7 +1,7 @@
 ---
 title: About shopping product groups
 description: Learn about shopping product groups in shopping campaigns.
-exl-id: c91e6fb5-3be1-4d21-b508-09f974058fc7
+exl-id: ae270935-1464-4393-8b8c-745fee077522
 feature: Search Campaign Management
 ---
 # About shopping product groups

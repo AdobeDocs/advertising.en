@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Geo Distribution Report]'
 description: Learn about the [!UICONTROL Geo Distribution Report].
-exl-id: 08369dad-c499-4342-a76a-0708167cd704
+exl-id: f9c08b81-1ebb-43bf-b1f3-1b373bde9d3e
 feature: Search Reports, Search Advanced Reports
 ---
 # [!UICONTROL Geo Distribution Report]

@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Yandex] campaign settings'
 description: Reference the settings for [!DNL Yandex] campaigns.
-exl-id: 33e73b90-7a37-4be7-b96d-02ef8bfdb79e
+exl-id: 3be88471-06b8-4f05-8a4e-24f71f7a36f7
 feature: Search Campaign Management
 ---
 # [!DNL Yandex] campaign settings

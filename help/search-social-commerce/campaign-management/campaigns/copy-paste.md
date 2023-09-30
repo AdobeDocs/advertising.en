@@ -1,7 +1,7 @@
 ---
 title: Create and edit campaign data in bulk using copy and paste
 description: Learn how to manage campaign data in bulk using the copy and paste feature.
-exl-id: 09454f19-221b-43bb-ac74-f2c121329422
+exl-id: 2ae1b02f-46ac-4ea8-aa9f-9e26ccaf63d0
 feature: Search Campaign Management
 ---
 # Create and edit campaign data in bulk using copy and paste

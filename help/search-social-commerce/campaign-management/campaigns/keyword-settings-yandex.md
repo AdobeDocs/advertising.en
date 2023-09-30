@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Yandex] keyword settings'
 description: Reference the settings for [!DNL Yandex] keywords.
-exl-id: 276f991b-f604-445c-8dd0-481b6eaee3d2
+exl-id: 973be0df-9b3c-4f33-b48b-ef1db4ab35da
 feature: Search Campaign Management
 ---
 # [!DNL Yandex] keyword settings

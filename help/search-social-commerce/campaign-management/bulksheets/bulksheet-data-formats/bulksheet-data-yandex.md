@@ -1,7 +1,7 @@
 ---
 title: Required bulksheet data for [!DNL Yandex] accounts
 description: Reference the required header fields and data fields in bulksheets for [!DNL Yandex] accounts.
-exl-id: c43ea56b-5435-4bbf-8764-beda1bb9b410
+exl-id: bf5a22dd-75c2-486d-85fd-e042bdb87de3
 feature: Search Bulksheets
 ---
 # Appendix - Required bulksheet data for [!DNL Yandex] accounts

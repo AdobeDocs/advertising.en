@@ -4,7 +4,7 @@ description: Learn about the latest updates and new features in Advertising Sear
 cloud: Experience Cloud
 product: advertising cloud
 index: yes
-exl-id: 8b90bb13-9fc1-4671-b16e-15c1d80aec6e
+exl-id: 8f17f930-cfad-465f-992f-8b966d27ff36
 ---
 # What's new
 

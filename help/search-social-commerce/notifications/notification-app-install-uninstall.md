@@ -1,7 +1,7 @@
 ---
 title: Install and uninstall the [!UICONTROL Notification Center] web application
 description: Learn how to install and uninstall the [!UICONTROL Notification Center] web application.
-exl-id: e1afc7c0-4bbb-44d6-9871-924580648fa9
+exl-id: e0a72907-3b5e-4678-b08b-95ed099f2dab
 feature: Search Notifications
 ---
 # Install and uninstall the [!UICONTROL Notification Center] web application

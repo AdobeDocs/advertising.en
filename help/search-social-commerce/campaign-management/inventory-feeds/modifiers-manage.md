@@ -1,7 +1,7 @@
 ---
 title: Manage modifiers
 description: Learn how to configure and manage modifiers for your ad templates for inventory data feeds.
-exl-id: ade1472d-10e3-454e-8095-c579b48cfc01
+exl-id: 74c9a7c7-0979-4f78-9225-43bc6c94acd7
 feature: Search Inventory Feeds
 ---
 # Managing modifiers

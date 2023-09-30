@@ -1,7 +1,7 @@
 ---
 title: View or save a report
 description: Learn how to view a generated report or save a report as a file.
-exl-id: 7e2e93f2-5c59-48e7-9acc-7b7ccf777f2e
+exl-id: 11333266-d1af-4064-9816-c70b53b0a8bd
 feature: Search Reports
 ---
 # View or save a report

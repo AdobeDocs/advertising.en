@@ -1,7 +1,7 @@
 ---
 title: Format of JavaScript conversion tracking tags version 3
 description: Reference the format of JavaScript conversion tracking tags version 3.
-exl-id: 1e177c52-f93c-4800-afb5-28f2336117b9
+exl-id: 9fc6bb15-d880-4353-a8c5-260b7932ab34
 feature: Search Tracking
 ---
 # Format of JavaScript conversion tracking tags version 3

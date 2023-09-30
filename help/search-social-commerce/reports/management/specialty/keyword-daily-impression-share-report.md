@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Keyword Daily Impression Share Report]'
 description: Learn about the [!UICONTROL Keyword Daily Impression Share Report].
-exl-id: 177f7c9e-407f-4200-90a6-57b2fd569cf4
+exl-id: 761864db-a6ef-4155-8959-6c2c90f14a6b
 feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL Keyword Daily Impression Share Report]

@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Campaign Assist Report]'
 description: Learn about the [!UICONTROL Campaign Assist Report].
-exl-id: 7fbc9c17-c77d-485b-8d51-5e5a153d7a2b
+exl-id: c89b4c9f-16d5-4e1a-a73f-6cc99dd3f526
 feature: Search Reports, Search Assist Reports
 ---
 # The [!UICONTROL Campaign Assist Report]

@@ -1,7 +1,7 @@
 ---
 title: Required bulksheet data for [!DNL Baidu] accounts
 description: Reference the required header fields and data fields in bulksheets for [!DNL Baidu] accounts.
-exl-id: 9066f3d5-5de1-4efe-bd61-6c877e106920
+exl-id: 9680cb37-50d4-4b4b-b359-ac54267cd5e6
 feature: Search Bulksheets
 ---
 # Appendix - Required bulksheet data for [!DNL Baidu] accounts

@@ -1,7 +1,7 @@
 ---
 title: Supported inventory
 description: Reference the supported ad networks, campaign types, and ad types.
-exl-id: 25e2ccf1-4de3-4b0d-a8ef-df7001c77733
+exl-id: af88e63b-b64f-4772-bb43-ffd3b0ee1589
 feature: Search Introduction
 ---
 # Supported inventory

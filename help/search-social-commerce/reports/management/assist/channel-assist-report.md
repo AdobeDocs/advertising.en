@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Channel Assist Report]'
 description: Learn about the [!UICONTROL Channel Assist Report].
-exl-id: 49616327-72e9-49c6-90b9-91c7486e8417
+exl-id: 67bce347-2776-4585-adb4-e1a4d76fbadc
 feature: Search Reports, Search Assist Reports
 ---
 # The [!UICONTROL Channel Assist Report]

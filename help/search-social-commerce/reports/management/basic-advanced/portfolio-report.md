@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Portfolio Report]'
 description: Learn about the [!UICONTROL Portfolio Report].
-exl-id: 92ff61b5-335d-4c8f-998d-fd9cf59574dc
+exl-id: fe1ac365-e613-4ac1-9fb9-0063e1350014
 feature: Search Reports, Search Basic Reports
 ---
 # [!UICONTROL Portfolio Report]

@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL AdWords Geo Report]'
 description: Learn about the [!UICONTROL AdWords Geo Report].
-exl-id: 0597fdff-f256-4ca7-b208-1c28c5631b3a
+exl-id: e64f371f-b1dc-48e0-a883-dde6d4796b58
 feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL AdWords Geo Report]

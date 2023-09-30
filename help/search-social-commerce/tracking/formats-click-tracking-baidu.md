@@ -1,7 +1,7 @@
 ---
 title: Click-tracking formats for [!DNL Baidu]
 description: Learn about the click-tracking formats for [!DNL Baidu] accounts.
-exl-id: a57ff0cf-0bcf-4d55-9a86-7551db8a08e7
+exl-id: 4f4ed518-aa25-4a29-b263-c01f78b69b92
 feature: Search Tracking
 ---
 # Click-tracking formats for sponsored ads on [!DNL Baidu]

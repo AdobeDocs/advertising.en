@@ -1,7 +1,7 @@
 ---
 title: The AMO ID (s_kwcid) tracking parameter
 description: Learn about the tracking parameter used to share Adobe Advertising data with Adobe Analytics.
-exl-id: 3f739f1c-3cb7-40d0-86ab-cf66afe6a06f
+exl-id: 07b78f0b-624e-4dc2-8588-7cc1a86d3945
 feature: Search Tracking
 ---
 # The AMO ID (s_kwcid) tracking parameter

@@ -2,6 +2,7 @@
 title: Create and upload assets
 description: Learn how to create reusable image, video, and text assets and upload them to your [!DNL Google Ads] account-level asset library.
 feature: Search Campaign Management
+exl-id: dd6fc5bf-3e3e-4e8f-b20b-37b9311fcf9f
 ---
 # Create and upload assets
 

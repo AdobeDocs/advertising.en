@@ -1,7 +1,7 @@
 ---
 title: About [!UICONTROL Advertising Insights]
 description: Learn about the different types of [!UICONTROL Advertising Insights] available.
-exl-id: 08ec4de2-1701-4342-92f9-ff5852e4e659
+exl-id: e6eec71e-04ab-4180-95f2-da31a26e5c1a
 feature: Search Advertising Insights
 ---
 # About [!UICONTROL Advertising Insights]

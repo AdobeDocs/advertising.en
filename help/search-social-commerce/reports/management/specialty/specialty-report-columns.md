@@ -1,7 +1,7 @@
 ---
 title: Report columns for specialty reports
 description: Learn about the available data columns for specialty reports.
-exl-id: 5cc98781-588b-4bf3-8978-a7966009fa51
+exl-id: c4533105-a0a8-4c76-bda9-ae653e7fd911
 feature: Search Reports, Search Specialty Reports
 ---
 # Report columns for specialty reports

@@ -1,7 +1,7 @@
 ---
 title: About publisher recommendations and insights support
 description: Learn about the support for viewing and managing publisher recommendations and insights.
-exl-id: 166c429a-043a-4e74-b1ee-5359cd483de5
+exl-id: 8bad85e0-8c01-4177-a881-96dd9c4a5949
 feature: Search Recommendations
 ---
 # About publisher recommendations and insights support

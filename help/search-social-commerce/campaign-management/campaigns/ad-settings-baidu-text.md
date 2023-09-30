@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Baidu] text ad settings'
 description: Reference the settings for [!DNL Baidu] text ads.
-exl-id: 68165d1f-a7ef-4b2a-ae5d-36190fb49d77
+exl-id: 1c914e8a-e39b-477e-9c19-919ffedc30c7
 feature: Search Campaign Management
 ---
 # [!DNL Baidu] text ad settings

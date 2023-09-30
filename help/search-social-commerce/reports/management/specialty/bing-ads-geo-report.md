@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Bing Ads Geo Report]'
 description: Learn about the [!UICONTROL Bing Ads Geo Report].
-exl-id: b14e5039-4af6-43de-925c-429f537dad6a
+exl-id: 8829ac72-d622-485d-abfb-310778f266b7
 feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL Bing Ads Geo Report]

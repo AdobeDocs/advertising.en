@@ -1,7 +1,7 @@
 ---
 title: FAQs about campaigns
 description: See answers to questions about campaign management and campaign data views.
-exl-id: b5975869-4bc3-461d-8cb7-eeefab157137
+exl-id: 999e5aba-f556-4b34-bb92-5931d5e0dd72
 feature: Search Campaign Management
 ---
 # FAQs about campaign management

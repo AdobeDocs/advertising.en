@@ -1,7 +1,7 @@
 ---
 title: Generate a model accuracy report
 description: Learn how to generate model accuracy reports.
-exl-id: 2ae8b344-7c05-4208-9457-174efd05fe53
+exl-id: 84a32782-e141-45bc-87df-c7b82d0e8ad0
 feature: Search Reports, Search Model Accuracy Reports
 ---
 # Generate a model accuracy report

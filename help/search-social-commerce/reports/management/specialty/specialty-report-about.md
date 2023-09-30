@@ -1,7 +1,7 @@
 ---
 title: About specialty reports
 description: Learn about specialty reports.
-exl-id: a5232434-cdb5-451f-aa65-6536c97c4a52
+exl-id: fd2bcd97-70dd-4160-8209-6cdf9c9a6d62
 feature: Search Reports, Search Specialty Reports
 ---
 # About specialty reports

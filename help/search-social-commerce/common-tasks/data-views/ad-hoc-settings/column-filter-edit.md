@@ -1,7 +1,7 @@
 ---
 title: Edit column filters
 description: Learn how to edit column filters.
-exl-id: 6e42e006-089b-44b9-b9b1-66835b680413
+exl-id: 68f816ea-cde2-4df0-b46c-f47fa20a2727
 feature: Search Common Tasks, Search Custom Data Views
 ---
 # Edit column filters

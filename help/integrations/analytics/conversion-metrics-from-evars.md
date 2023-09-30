@@ -1,7 +1,8 @@
 ---
-title: "Create conversion metrics from Adobe Analytics [!DNL eVars] and props"
-description: "Configure custom success event metrics using [!DNL eVar]- and [!DNL prop]-level data."
+title: Create conversion metrics from Adobe Analytics [!DNL eVars] and props
+description: Configure custom success event metrics using [!DNL eVar]- and [!DNL prop]-level data.
 feature: Integration with Adobe Analytics, Conversions
+exl-id: 7717d10c-76ca-4ba9-9fbb-e34ad006619c
 ---
 # Create conversion metrics from Adobe Analytics [!DNL eVars] and [!DNL props]
 

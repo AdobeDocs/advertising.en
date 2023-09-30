@@ -1,7 +1,7 @@
 ---
 title: Re-sort a column
 description: Learn how to re-sort columns.
-exl-id: 14f66a19-232d-4f68-b939-c5c512025ec9
+exl-id: 934e1f7e-a34d-4973-8219-27876cf50f0f
 feature: Search Common Tasks, Search Custom Data Views
 ---
 # Re-sort a column

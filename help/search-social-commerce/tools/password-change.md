@@ -1,7 +1,7 @@
 ---
 title: Change your password
 description: Learn how to change your account password.
-exl-id: 1cc63747-4b80-45ba-a044-4a7b0a237c63
+exl-id: 62a4710d-aff7-4635-9fce-6d14f890728f
 feature: Search Tools
 ---
 # Change your password
