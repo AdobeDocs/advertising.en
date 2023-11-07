@@ -17,7 +17,7 @@ the campaign may contain:
 
 * *[!UICONTROL Shopping Network]:* Shows product ads, which [!DNL Google] generates automatically based on your products in [!DNL Google Merchant Center] on [!DNL Google Shopping], the area next to [!DNL Google] search results (separate from text ads), and (optionally) search partner websites. For each ad group in the campaign, you can specify product groups to advertise.
 
-* *[!UICONTROL Display Network Only]:* Shows ads on the display network. For each ad group, you must specify placements and optionally can specify keywords.
+* *[!UICONTROL Display Network Only]:* Shows ads on the display network. For each ad group, you must specify placements and can optionally specify keywords.
 
 * *[!UICONTROL Performance Max]:* (Beta feature) Shows and optimizes conversions for your ads across channels using [!DNL Google Ads] smart bidding. Within the campaign settings, you must specify one or more asset groups, which include images, logos, headlines, descriptions, optional videos, and audience signals. [!DNL Google Ads] automatically combines the assets to serve ads based on the channel (such as [!DNL YouTube], [!DNL Gmail], or [!DNL Search]).
 
@@ -84,7 +84,7 @@ When you add a campaign with eCPC to an optimized Search, Social, & Commerce por
 
   Average position and CPC bid data aren't available for campaigns with this bid strategy.
 
-  For new search campaigns, [!DNL Google Ads] has replaced this bid strategy with the [!UICONTROL Maximize Conversions] strategy using a [!UICONTROL Target CPA] value. For existing search campaigns with this strategy, you only can edit the target value, and doing so changes the strategy to the [!UICONTROL Maximize Conversions] strategy using the specified [!UICONTROL Target CPA] value.
+  For new search campaigns, [!DNL Google Ads] has replaced this bid strategy with the [!UICONTROL Maximize Conversions] strategy using a [!UICONTROL Target CPA] value. For existing search campaigns with this strategy, you can edit only the target value, and doing so changes the strategy to the [!UICONTROL Maximize Conversions] strategy using the specified [!UICONTROL Target CPA] value.
 
 * *[!UICONTROL Target Impression Share]:* (Search campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to achieve a target impression share and ad position. Optionally, enter a **[!UICONTROL Target Impression Share]** as a percentage, the **[!UICONTROL Target Ad Position]**, and a **[!UICONTROL Max CPC]** (cost per click). **Note:** This option isn't supported in portfolios.
 
@@ -92,7 +92,7 @@ When you add a campaign with eCPC to an optimized Search, Social, & Commerce por
 
   Average position and CPC bid data aren't available for campaigns with this bid strategy.
 
-  For new search campaigns, [!DNL Google Ads] has replaced this bid strategy with the [!UICONTROL Maximize Conversion Value] strategy using a [!UICONTROL Target Return on Ad Spend value]. For existing search campaigns with this strategy, you only can edit the target value, and doing so changes the strategy to the [!UICONTROL Maximize Conversion Value] strategy using the specified [!UICONTROL Target Return on Ad Spend] value.
+  For new search campaigns, [!DNL Google Ads] has replaced this bid strategy with the [!UICONTROL Maximize Conversion Value] strategy using a [!UICONTROL Target Return on Ad Spend value]. For existing search campaigns with this strategy, you can edit only the target value, and doing so changes the strategy to the [!UICONTROL Maximize Conversion Value] strategy using the specified [!UICONTROL Target Return on Ad Spend] value.
 
 * *[!UICONTROL Viewable CPM]:* (Existing, read-only [!DNL Gmail] campaigns only) The ad network &mdash; not Search, Social, & Commerce &mdash; bids only on ads that are measured as viewable. **Note:** Optimization for this strategy isn't supported in any type of portfolio.
 
@@ -252,11 +252,11 @@ by country. If you don't select any, all are targeted.
 
 **[!UICONTROL Final URL]:** The final URL for all ads created from the asset group. <!-- For campaigns created within Search, Social, & Commerce, final URL expansion is automatically enabled for the campaign, and Google Ads replaces this value with a more relevant landing page based on the user's search query and intent, and also customizes the headline based on the landing page content. You can disable final URL expansion, or exclude specific URLs from expansion, from within the [!DNL Google Ads] editor. -->
 
-**[!UICONTROL Images]:** Up to fifteen images for the ad, including the following sizes: 1) at least three square images, 2) at least three landscape images, and 3) at least one portrait image. See the [[!DNL Google Ads] image specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Images]:** Up to 15 images for the ad, including the following sizes: 1) at least three square images, 2) at least three landscape images, and 3) at least one portrait image. See the [[!DNL Google Ads] image specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
 
 * To upload images:
 
-  1. On the [!UICONTROL Upload from computer] tab, click **[!UICONTROL +]** and select images from your device or network.
+  1. On the [!UICONTROL Upload from Device] tab, click **[!UICONTROL +]** and select images from your device or network.
 
   1. For each image:
 
@@ -278,7 +278,7 @@ by country. If you don't select any, all are targeted.
 
 * To upload images:
 
-  1. On the [!UICONTROL Upload from computer] tab, click **[!UICONTROL +]** and select images from your device or network.
+  1. On the [!UICONTROL Upload from Device] tab, click **[!UICONTROL +]** and select images from your device or network.
 
   1. For each image:
 
@@ -300,9 +300,9 @@ by country. If you don't select any, all are targeted.
 
 * To enter URLs:
 
-  1. On the [!UICONTROL Upload from computer] tab, enter an URL.
+  1. On the [!UICONTROL Enter Video Url] tab, enter an URL.
   
-  1. (Optional) To add another URL, click [!UICONTROL + Add]** and enter the URL.
+  1. (Optional) To add another URL, click **[!UICONTROL + Add]** and enter the URL.
 
 * To select videos from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the videos.
   
@@ -314,7 +314,7 @@ by country. If you don't select any, all are targeted.
 
   1. On the [!UICONTROL Enter Text] tab, enter the text.
   
-  1. (Optional) To add another text string, click [!UICONTROL + Add]** and enter the string.
+  1. (Optional) To add another text string, click **[!UICONTROL + Add]** and enter the string.
 
 * To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
 
@@ -324,17 +324,17 @@ by country. If you don't select any, all are targeted.
 
   1. On the [!UICONTROL Enter Text] tab, enter the text.
   
-  1. (Optional) To add another text string, click [!UICONTROL + Add]** and enter the string.
+  1. (Optional) To add another text string, click **[!UICONTROL + Add]** and enter the string.
 
 * To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
 
-**[!UICONTROL Descriptions]:** At least two, and up to four, descriptions with a maximum of 90 characters each. At least one description must be at least 30 characters or less.You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Descriptions]:** At least two, and up to four, descriptions with a maximum of 90 characters each. At least one description must be at least 30 characters or less. You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
 
 * To enter text:
 
   1. On the [!UICONTROL Enter Text] tab, enter the text.
   
-  1. (Optional) To add another text string, click [!UICONTROL + Add]** and enter the string.
+  1. (Optional) To add another text string, click **[!UICONTROL + Add]** and enter the string.
 
 * To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
 
