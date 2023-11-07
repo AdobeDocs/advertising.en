@@ -296,7 +296,7 @@ by country. If you don't select any, all are targeted.
 
 * To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
 
-**[!UICONTROL Videos]:** (Optional) At least one, and up to five, [!DNL YouTube] videos that are at least 10 seconds long.  You can either enter URLs or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Videos]:** (Optional) At least one, and up to five, [!DNL YouTube] videos that are at least 10 seconds long. You can either enter URLs or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
 
 * To enter URLs:
 
@@ -308,9 +308,35 @@ by country. If you don't select any, all are targeted.
   
 **[!UICONTROL Headlines]:** At least three, and up to five, short headlines with a maximum of 30 characters each. At least one headline must be at least 15 characters or less. If the campaign-level option to enable final URL expansion is set within [!DNL Google Ads], then [!DNL Google Ads] replaces this value with a custom headline based on the landing page content.
 
-**[!UICONTROL Long Headlines]:** At least one, and up to five, long headlines with a maximum of 90 characters each.
+ You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
 
-**[!UICONTROL Descriptions]:** At least two, and up to four, descriptions with a maximum of 90 characters each. At least one description must be at least 30 characters or less.
+* To enter text:
+
+  1. On the [!UICONTROL Enter Text] tab, enter the text.
+  
+  1. (Optional) To add another text string, click [!UICONTROL + Add]** and enter the string.
+
+* To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
+
+**[!UICONTROL Long Headlines]:** At least one, and up to five, long headlines with a maximum of 90 characters each. You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+
+* To enter text:
+
+  1. On the [!UICONTROL Enter Text] tab, enter the text.
+  
+  1. (Optional) To add another text string, click [!UICONTROL + Add]** and enter the string.
+
+* To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
+
+**[!UICONTROL Descriptions]:** At least two, and up to four, descriptions with a maximum of 90 characters each. At least one description must be at least 30 characters or less.You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+
+* To enter text:
+
+  1. On the [!UICONTROL Enter Text] tab, enter the text.
+  
+  1. (Optional) To add another text string, click [!UICONTROL + Add]** and enter the string.
+
+* To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
 
 **[!UICONTROL Call to Action]:** The call to action to include in the ad. By default, *[!UICONTROL Automated]* is selected, and [!DNL Google Ads] selects the call to action. You can optionally choose a different action.
 
