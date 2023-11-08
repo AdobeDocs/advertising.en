@@ -11,8 +11,7 @@ This report shows campaign-level impression share metrics and basic traffic metr
 
 When you run a report with only metric columns and no dimensions, then the generated report contains two duplicate rows: one with aggregated data and the other with all metrics.
 
-<!--verify data availability -->
-You can view data for the previous two (2) months. Search, Social, & Commerce pulls the data from [!DNL Microsoft Advertising] in real time, and it may take several minutes to generate reports with larger data volume.
+You can view data for the last 180 days. Search, Social, & Commerce pulls the data from [!DNL Microsoft Advertising] in real time, and it may take several minutes to generate reports with larger data volume.
 
 >[!NOTE]
 >
