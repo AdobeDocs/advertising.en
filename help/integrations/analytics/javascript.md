@@ -34,7 +34,7 @@ The JavaScript library consists of two lines that allow [!DNL Analytics] and Ado
 <script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
 <script>
      if("undefined" != typeof AdCloudEvent) 
-          AdCloudEvent('IMS ORG Id','rsid');
+          AdCloudEvent('IMS ORG Id', 'rsid');
 </script>
 ```
 
