@@ -22,4 +22,4 @@ You can use your assets for ads when you create or edit campaigns:
 
 >[!MORELIKETHIS]
 >
->* [Create and upload assets](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)
+>* [Create and upload assets](asset-create.md)
