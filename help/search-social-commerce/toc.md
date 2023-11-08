@@ -311,6 +311,8 @@ index: yes
           + [The [!UICONTROL MSA Ad Extension by Ad Report]](/help/search-social-commerce/reports/management/specialty/msa-ad-extension-detail-report.md)
           + [The [!UICONTROL MSA Ad Extension by Keyword Report]](/help/search-social-commerce/reports/management/specialty/msa-ad-extension-by-keyword-report.md)
           + [The [!UICONTROL MSA Ad Extension Detail Report]](/help/search-social-commerce/reports/management/specialty/msa-ad-extension-by-ad-report.md)
+          + [The [!UICONTROL MSA Network Impression Share Report]](/help/search-social-commerce/reports/management/specialty/msa-network-impression-share-report.md)
+          + [The [!UICONTROL MSA Network Performance Report]](/help/search-social-commerce/reports/management/specialty/msa-network-performance-report.md)
         + [Generate a specialty report](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
         + [Specialty report settings](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
         + [Report columns for specialty reports](/help/search-social-commerce/reports/management/specialty/specialty-report-columns.md)
