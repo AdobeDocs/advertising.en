@@ -31,18 +31,20 @@ The JavaScript library consists of two lines that allow [!DNL Analytics] and Ado
 #### Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code
 
 ```
+<script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
 <script>
      if("undefined" != typeof AdCloudEvent) 
-          AdCloudEvent('IMS ORG Id');
+          AdCloudEvent('IMS ORG Id','rsid');
 </script>
 ```
 
 #### Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code
 
 ```
+<script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
 <script>
      if("undefined" != typeof AdCloudEvent) 
-          stitchId = AdCloudEvent('IMS ORG Id').generateRandomId();
+          stitchId = AdCloudEvent('IMS ORG Id', 'rsid').generateRandomId();
 </script>
 ```
 
