@@ -25,7 +25,7 @@ the campaign may contain:
 
 * *[!UICONTROL Audience Video]:* (Beta feature) Shows connected TV (CTV) video ads on the audience network.
 
-* *[!UICONTROL Performance Max]:* Shows multiple ad types across all networks.
+* *[!UICONTROL Performance Max]:* (Beta feature) Shows multiple ad types across all networks.
 
 ## [!UICONTROL Campaign Details]
 
