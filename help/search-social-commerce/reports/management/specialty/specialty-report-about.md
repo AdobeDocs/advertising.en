@@ -40,6 +40,10 @@ Most specialty reports consist only of data collected by the ad networks. The [!
 
 * [The [!UICONTROL MSA Ad Extension Detail Report]](msa-ad-extension-by-ad-report.md)
 
+* [The [!UICONTROL MSA Network Performance Report]](msa-network-performance-report.md)
+
+* [The [!UICONTROL MSA Network Impression Share Report]](msa-network-impression-share-report.md)
+
 >[!MORELIKETHIS]
 >
 >* [Generate a specialty report](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
