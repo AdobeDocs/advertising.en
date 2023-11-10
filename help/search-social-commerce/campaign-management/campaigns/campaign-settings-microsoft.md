@@ -21,7 +21,7 @@ the campaign may contain:
 
 * *[!UICONTROL Microsoft® Store Ads Campaign]:* (Beta feature) Promotes your apps and games that are available in the [!DNL Microsoft® Store]. You can create child ad groups, product groups, and optional product ads for the campaign; [!DNL Microsoft® Advertising] automatically creates ads for the product groups.
 
-* *[!UICONTROL Audience Video]:* (Beta feature) Shows video ads on the audience network.
+* *[!UICONTROL Audience Video]:* (Beta feature) Shows standard video ads on the audience network.
 
 * *[!UICONTROL Audience Video]:* (Beta feature) Shows connected TV (CTV) video ads on the audience network.
 
