@@ -17,15 +17,15 @@ the campaign may contain:
 
 * *[!UICONTROL Audience]:* Shows native/display ads on the [!DNL Microsoft® Audience Network]. You can either a) automatically generate feed-based ads by linking the campaign to a merchant center store in the [!UICONTROL Shopping Settings] section or b) create responsive ads with text assets and uploaded images. Both options require you to create ad groups with user targeting.
 
-* *[!UICONTROL Shopping Campaigns for Brands]:* (Beta feature) Promotes your products through linked retailers across the search and audience networks. You can create child ad groups and product groups (apps to promote) for the campaign, and [!DNL Microsoft® Advertising] automatically creates ads for the product groups.
+* *[!UICONTROL Shopping Campaigns for Brands]:* (Beta feature) Promotes your products through linked retailers across the search and audience networks. You can create child ad groups and product groups (apps to promote), and optional product ads for the campaign; [!DNL Microsoft® Advertising] automatically creates ads for the product groups.
 
-* *[!UICONTROL Microsoft® Store Ads Campaign]:* (Beta feature) Promotes your apps and games that are available in the [!DNL Microsoft® Store]. You can create child ad groups and product groups for the campaign, and [!DNL Microsoft® Advertising] automatically creates ads for the product groups.
+* *[!UICONTROL Microsoft® Store Ads Campaign]:* (Beta feature) Promotes your apps and games that are available in the [!DNL Microsoft® Store]. You can create child ad groups, product groups, and optional product ads for the campaign; [!DNL Microsoft® Advertising] automatically creates ads for the product groups.
 
 * *[!UICONTROL Audience Video]:* (Beta feature) Shows video ads on the audience network.
 
 * *[!UICONTROL Audience Video]:* (Beta feature) Shows connected TV (CTV) video ads on the audience network.
 
-* *[!UICONTROL Performance Max]:* (Beta feature) Shows multiple ad types across all networks.
+* *[!UICONTROL Performance Max]:* (Beta feature) Shows multiple ad types across all networks. Assign asset groups separately within the [!DNL Microsoft® Advertising] ad editor.
 
 ## [!UICONTROL Campaign Details]
 
