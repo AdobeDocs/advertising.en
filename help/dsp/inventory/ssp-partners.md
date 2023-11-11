@@ -21,7 +21,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL AppNexus]|[!DNL Xandr]|Video Seat ID: 9094<br>Display Seat ID: 3939|No|Global|USD|x|x|x|x|x|||
 |[!DNL DailyMotion]|n/a|[!DNL TubeMogul] or Adobe Advertising|No|US + EMEA|USD, EUR|x|x|x|x|x|||
 |[!DNL DistrictM]||Adobe|No|US/CA|USD||||x|x|||
-|[!DNL EMX Digital]||Adobe Advertising|No|US/CA|USD|x|x|x|x|x|||
+|[!DNL EMX Digital]|[!DNL Cadent]|Adobe Advertising|No|US/CA|USD|x|x|x|x|x|||
 |[!DNL Equativ] (formerly [!DNL SmartAdServer])||[!DNL TubeMogul] or Adobe Advertising|No|Global|USD, EUR|x|x||x|x|||
 |[!DNL FreeWheel] (formerly [!DNL StickyAds])|[!DNL Comcast]|[!DNL TubeMogul] or Adobe Advertising|Yes|Global|USD, EUR, AUD, GBP|x|x|x|||||
 |[!DNL Fyber]/[!DNL Inneractive]||[!DNL TubeMogul]|No|Global|USD|x|x||||||
@@ -31,7 +31,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL Magnite CTV]|[!DNL Magnite] (formerly [!DNL Telaria] and [!DNL Tremor])|[!DNL TubeMogul] or Adobe Advertising|Yes|Global|AUD, USD|x|x|x|||||
 |[!DNL Magnite DV+]|[!DNL Magnite] (formerly [!DNL Telaria] and [!DNL Tremor])|[!DNL TubeMogul] or Adobe Advertising|Yes|Global|USD|x|x|x|x|x||x|
 |[!DNL MoPub]|[!DNL Twitter]|[!DNL TubeMogul]|No|Global|USD||x||||||
-|[!DNL OpenX]|[!DNL OpenX]|[!DNL TubeMogul] or Adobe Advertising|Yes|Global|USD|x|||x|x|||
+|[!DNL OpenX]|[!DNL OpenX]|[!DNL TubeMogul] or Adobe Advertising|Yes|Global|USD|x|x|x|x|x|||
 |[!DNL PubMatic New ortb2.2]|[!DNL Pubmatic]|[!DNL TubeMogul] or Adobe Advertising|No|Global|USD|x|x|x|x|x|||
 |[!DNL ShareThrough]||[!DNL TubeMogul] or Adobe Advertising|No|Global|USD|x|x|x|x|x|x||
 |[!DNL SmartClip]||Adobe Advertising|No|EMEA|All Currencies|x|x|x|x|x|||
