@@ -183,7 +183,6 @@ index: yes
           + [About [!DNL Google Ads] callout extensions](/help/search-social-commerce/campaign-management/campaigns/callout-extension-about.md)
           + [Manage [!DNL Google Ads] callout extensions](/help/search-social-commerce/campaign-management/campaigns/callout-extension-manage.md)
           + [Associate [!DNL Google Ads] shared callout extensions with campaigns or ad groups](/help/search-social-commerce/campaign-management/campaigns/callout-extension-associate.md)
-        + [Manage [!DNL Google Ads] location extensions](/help/search-social-commerce/campaign-management/campaigns/location-extension-manage.md)
         + Sitelink extensions {#sitelinks}
           + [About sitelink extensions](/help/search-social-commerce/campaign-management/campaigns/sitelink-extension-about.md)
           + [Manage shared sitelinks](/help/search-social-commerce/campaign-management/campaigns/sitelink-extension-manage.md)
