@@ -23,5 +23,4 @@ You can delete campaign- and ad group-level associations with any location, phon
 >[!MORELIKETHIS]
 >
 >* [Manage [!DNL Google Ads] callout extensions](/help/search-social-commerce/campaign-management/campaigns/callout-extension-manage.md)
->* [Manage location extensions](location-extension-manage.md)
 >* [Manage sitelink extensions](sitelink-extension-manage.md)
