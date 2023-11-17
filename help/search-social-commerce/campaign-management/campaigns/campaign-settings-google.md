@@ -144,8 +144,6 @@ the campaign's products are sold. Because products are associated with target co
   * (Locations near an address; included targets only) Click **[!UICONTROL Radius Target]** (![Radius Target](/help/search-social-commerce/assets/radius-target.png "Radius Target")), and then click **[!UICONTROL Address]**. Enter the address and the radius in miles or kilometers around the address to target, and then click **[!UICONTROL Add]**.
   
   * (Locations near geographic coordinates; included targets only) Click **[!UICONTROL Radius Target]** (![Radius Target](/help/search-social-commerce/assets/radius-target.png "Radius Target")), and then click **[!UICONTROL Coordinate]**. Enter the latitude and longitude and the radius in miles or kilometers around the location to target, and then click **[!UICONTROL Add]**.
-  
-  * (Locations near your [!DNL My Business] locations that are available as location extensions; included targets only) Click **[!UICONTROL Location Group Target]** (![Location Group](/help/search-social-commerce/assets/location-group.png "Location Group")); optionally enter a country, state, metropolitan region, or city to arrow down the list of available locations; and then select one or more locations from the list of [!DNL Google My Business] locations. Specify the radius in miles or kilometers around the locations to target, and then click **[!UICONTROL Add]**.
 
 * (To add a bid adjustment for an included target location) Enter a bid adjustment value:
 
