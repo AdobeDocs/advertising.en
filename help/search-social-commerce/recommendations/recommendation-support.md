@@ -52,7 +52,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Text ad] | Add ad suggestions |
 | [!UICONTROL Automated campaigns] | [!UICONTROL DSA to performance max migration] | Migrate dynamic search ads to performance max campaigns. |
 | | [!UICONTROL Dynamic image extension opt in] | Enable dynamic image extensions for the account, which allows [!DNL Google Ads] machine learning to automatically append the most relevant images from your ad's landing page to your ad. |
-| | [!UICONTROL Improve performance max ad strength | Improve the asset group strength of a performance max campaign so that it has an "Excellent" rating. |
+| | [!UICONTROL Improve performance max ad strength] | Improve the asset group strength of a performance max campaign so that it has an "Excellent" rating. |
 | | [!UICONTROL Performance max opt in] |Opt in to performance max campaigns.  |
 | | [!UICONTROL Upgrade local campaign to performance max] | Upgrade a legacy local campaign to a performance max campaign |
 | | [!UICONTROL Upgrade smart shopping campaign to performance max] | Upgrade a legacy smart shopping campaign to a performance max campaign |
