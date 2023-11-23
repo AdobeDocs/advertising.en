@@ -1,7 +1,8 @@
 ---
-title: "The [!UICONTROL MSA Network Impression Share Report]"
+title: The [!UICONTROL MSA Network Impression Share Report]
 description: Learn about the [!UICONTROL MSA Network Impression Share Report].
 feature: Search Reports, Search Specialty Reports
+exl-id: 274f7bac-5eea-4e21-bcdb-ebf6250c4959
 ---
 # The [!UICONTROL MSA Network Impression Share Report]
 
