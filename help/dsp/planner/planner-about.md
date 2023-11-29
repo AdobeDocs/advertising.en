@@ -35,7 +35,9 @@ The planner tool supports all types of inventory, including programmatic guarant
 
 +++Why am I seeing "[!UICONTROL Unable to generate forecast]?"
 
-One of the most common reasons for this error is an insufficient budget or maximum bid. For best results, use a minimum budget of 5000 USD and a maximum bid of at least 10 USD (in case only CTV media is selected). Also, ensure that the included publishers or deals are active and have recent impression activity.
+One of the most common reasons for this error is an insufficient budget or maximum bid. For best results, use a minimum budget of 5000 USD. If the [!UICONTROL Connected TV] media type is selected, enter a maximum bid of at least 10 USD.
+
+Also, ensure that the included publishers or deals are active and have recent impression activity.
 
 +++
 
