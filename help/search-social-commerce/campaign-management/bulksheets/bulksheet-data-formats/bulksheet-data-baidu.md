@@ -24,6 +24,10 @@ Platform,Acct Name,Campaign Name,Campaign Budget,Location,Excluded IPs (Baidu), 
 
 {{$include /help/_includes/bulksheet-appendices-intro-required-data.md}}
 
+>[!TIP]
+>
+>The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents by clicking ![Hide table of contents](/help/search-social-commerce/assets/hide-toc.png "Hide table of contents") at the top of the left pane.
+
 | Field | Campaign | Ad Group | Keyword | Text Ad | Location Target | Description |
 |----|----|----|----|----|----|----|
 | [!UICONTROL Platform] | n/a | n/a | n/a | n/a | n/a | (Included in generated bulksheets for information purposes) The ad platform. Required unless each row includes an AMO ID for the entity. |
