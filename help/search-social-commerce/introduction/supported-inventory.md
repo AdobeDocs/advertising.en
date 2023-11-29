@@ -8,6 +8,10 @@ feature: Search Introduction
 
 Following are the supported ad networks, campaign types, and ad types and the functionality available for each.
 
+>[!TIP]
+>
+>The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents by clicking ![Hide table of contents](/help/dsp/assets/hide-toc.png "Hide table of contents") at the top of the left pane.
+
 | Source | Network | Campaign Type | Ad Type | Sync and View | Create/Edit | Track[^1] | Optimize | Report[^2] | Adobe Analytics Support[^3] |
 |----|----|----|----|----|----|----|----|----|----|
 | [!DNL Baidu] | Search network | Manual | Text | Automatic via API | Using [campaign management views](/help/search-social-commerce/campaign-management/campaigns/campaign-management-options.md) and [bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) | Yes | Campaigns with Manual CPC bid strategy only | Ad-level data | Analytics data to Search, Social, & Commerce<br><br>Ad-level data from Search, Social, & Commerce to Analytics |
