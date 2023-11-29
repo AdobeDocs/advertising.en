@@ -23,7 +23,7 @@ The forecast output also includes an [!UICONTROL Inventory Breakdown] section th
 >[!NOTE]
 >
 >* The [!UICONTROL Inventory Breakdown] section displays data for only private and [!UICONTROL On Demand] inventory.
-* The estimated unique reach shown for two publishers can be overlapping.
+>* The estimated unique reach shown for two publishers can be overlapping.
 
 ## FAQs
 
