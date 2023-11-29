@@ -26,7 +26,6 @@ Updating the plan settings generates a new forecast.
 >* [About the DSP planner tool](planner-about.md)
 >* [Create a campaign strategy plan](planner-create.md)
 >* [Duplicate a campaign strategy plan](planner-duplicate.md)
-
 >* [Export a campaign strategy plan](planner-export.md)
 >* [Regenerate the forecast for a campaign strategy plan](planner-forecast.md)
 >* [Archive a campaign strategy plan](planner-archive.md)
