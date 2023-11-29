@@ -12,6 +12,10 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 >
 >All SSP partnerships are subject to change. This list reflects the current partnerships.
 
+>[!TIP]
+>
+>The following table is wide. Use the scrollbar at the bottom of the table to view the full contents.
+
 |SSP Listed|Company|Seat ID|Programmatic Guaranteed Support|Region|Supported Currency|Video Desktop|Video Mobile|Video CTV|Display Desktop|Display Mobile|Native Display|Audio Desktop & Mobile|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 |[!DNL AdColony] (previously [!DNL Opera])|[!DNL Digital Turbine]|[!DNL TubeMogul]|No|Global|USD|x|x||x|x|||
