@@ -1,23 +1,17 @@
 ---
-title: Edit a campaign strategy plan
-description: Learn how to edit the settings for a campaign strategy plan.
+title: Regenerate the forecast for a campaign strategy plan
+description: Learn how to create a new forecast for a campaign strategy plan.
 feature: DSP Planner
 ---
-# Edit a campaign strategy plan
+# Regenerate the forecast for a campaign strategy plan
 
 *Beta feature*
 
-Updating the plan settings generates a new forecast.
+You can regenerate the forecast for a campaign plan based on the latest observed data.
 
 1. In the main menu, click **[!UICONTROL Planner]**.
 
-1. Hold the cursor over the plan row and click **[!UICONTROL Edit]**.
-
-1. Edit the [plan settings](planner-settings.md).
-
-1. Click **[!UICONTROL Save and Forecast]**.
-
-    Once you save the plan, the forecasted output is shown.
+1. Hold the cursor over the plan row and click **[!UICONTROL Forecast]**.
 
 1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft® Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
 
@@ -26,8 +20,7 @@ Updating the plan settings generates a new forecast.
 >* [About the DSP planner tool](planner-about.md)
 >* [Create a campaign strategy plan](planner-create.md)
 >* [Duplicate a campaign strategy plan](planner-duplicate.md)
-
+>* [Edit a campaign strategy plan](planner-edit.md)
 >* [Export a campaign strategy plan](planner-export.md)
->* [Regenerate the forecast for a campaign strategy plan](planner-forecast.md)
 >* [Archive a campaign strategy plan](planner-archive.md)
 >* [Campaign strategy plan settings](planner-settings.md)

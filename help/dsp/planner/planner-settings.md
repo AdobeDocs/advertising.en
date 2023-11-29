@@ -1,9 +1,9 @@
 ---
-title: Plan settings
-description: See descriptions of the plan settings for campaign forecasts.
-feature: 
+title: Campaign strategy plan settings
+description: See descriptions of the settings for campaign strategy plans.
+feature: DSP Planner
 ---
-# Plan settings
+# Campaign strategy plan settings
 
 *Beta feature*
 
@@ -25,5 +25,9 @@ feature:
 >[!MORELIKETHIS]
 >
 >* [About the DSP planner tool](planner-about.md)
->* [Create a plan](planner-create.md)
->* [Edit a plan](planner-edit.md)
+>* [Create a campaign strategy plan](planner-create.md)
+>* [Duplicate a campaign strategy plan](planner-duplicate.md)
+>* [Edit a campaign strategy plan](planner-edit.md)
+>* [Export a campaign strategy plan](planner-export.md)
+>* [Regenerate the forecast for a campaign strategy plan](planner-forecast.md)
+>* [Archive a campaign strategy plan](planner-archive.md)

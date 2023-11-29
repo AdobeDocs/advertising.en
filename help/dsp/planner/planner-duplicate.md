@@ -1,19 +1,19 @@
 ---
-title: Edit a campaign strategy plan
-description: Learn how to edit the settings for a campaign strategy plan.
+title: Duplicate a campaign strategy plan
+description: Learn how to create a campaign strategy plan using the settings from an existing plan.
 feature: DSP Planner
 ---
-# Edit a campaign strategy plan
+# Duplicate a campaign strategy plan
 
 *Beta feature*
 
-Updating the plan settings generates a new forecast.
-
 1. In the main menu, click **[!UICONTROL Planner]**.
 
-1. Hold the cursor over the plan row and click **[!UICONTROL Edit]**.
+1. 1. Hold the cursor over the plan row and click **[!UICONTROL More]** > **[!UICONTROL Duplicate]**.
 
-1. Edit the [plan settings](planner-settings.md).
+1. (Optional) Edit the plan name and [plan settings](planner-settings.md).
+
+    By default, the new plan is called "`<existing plan name> duplicate`."
 
 1. Click **[!UICONTROL Save and Forecast]**.
 
@@ -25,8 +25,7 @@ Updating the plan settings generates a new forecast.
 >
 >* [About the DSP planner tool](planner-about.md)
 >* [Create a campaign strategy plan](planner-create.md)
->* [Duplicate a campaign strategy plan](planner-duplicate.md)
-
+>* [Edit a campaign strategy plan](planner-edit.md)
 >* [Export a campaign strategy plan](planner-export.md)
 >* [Regenerate the forecast for a campaign strategy plan](planner-forecast.md)
 >* [Archive a campaign strategy plan](planner-archive.md)

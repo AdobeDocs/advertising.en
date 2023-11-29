@@ -1,9 +1,9 @@
 ---
-title: Create a plan
-description: Learn how to create a campaign forecast.
-feature: 
+title: Create a campaign strategy plan
+description: Learn how to create a campaign strategy forecast.
+feature: DSP Planner
 ---
-# Create a plan
+# Create a campaign strategy plan
 
 *Beta feature*
 
@@ -15,10 +15,16 @@ feature:
 
 1. Click **[!UICONTROL Save and Forecast]**.
 
-Once you create a plan, the forecasted output for the specified settings is shown.
+    Once you save the plan, the forecasted output is shown.
+
+1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft® Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**.
 
 >[!MORELIKETHIS]
 >
 >* [About the DSP planner tool](planner-about.md)
->* [Edit a plan](planner-edit.md)
->* [Plan settings](planner-settings.md)
+>* [Duplicate a campaign strategy plan](planner-duplicate.md)
+>* [Edit a campaign strategy plan](planner-edit.md)
+>* [Export a campaign strategy plan](planner-export.md)
+>* [Regenerate the forecast for a campaign strategy plan](planner-forecast.md)
+>* [Archive a campaign strategy plan](planner-archive.md)
+>* [Campaign strategy plan settings](planner-settings.md)

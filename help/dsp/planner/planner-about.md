@@ -1,12 +1,12 @@
 ---
 title: About the DSP planner tool
-description: Learn about the planner tool to forecast the unique reach  for a campaign strategy according to specified budget and targeting criteria.
-feature: 
+description: Learn about the planner tool to forecast the unique reach for a campaign strategy according to specified budget and targeting criteria.
+feature: DSP Planner
 ---
 
-*Beta feature*
-
 # About the DSP planner tool
+
+*Beta feature*
 
 The planner tool helps you forecast the unique reach at the household level for a campaign strategy according to specified budget and targeting criteria before you begin spending on inventory. After you evaluate multiple plans, you can implement the plan that best aligns with the desired outcomes in your packages and placements.
 
@@ -24,6 +24,12 @@ The forecast output also includes an [!UICONTROL Inventory Breakdown] section th
 >
 >* The [!UICONTROL Inventory Breakdown] section displays data for only private and [!UICONTROL On Demand] inventory.
 >* The estimated unique reach shown for two publishers can be overlapping.
+
+## The Planner View
+
+In the [!UICONTROL Planner] view, you can view your existing campaign strategy plans and create new ones.
+
+You can also edit, duplicate, export, archive, or regenerate the forecast for any plan.
 
 ## FAQs
 
@@ -60,6 +66,10 @@ Yes, you can export a forecast into a [!DNL Microsoft® Excel] spreadsheet by cl
 >[!MORELIKETHIS]
 >
 >* [About the DSP planner tool](planner-about.md)
->* [Create a plan](planner-create.md)
->* [Edit a plan](planner-edit.md)
->* [Plan settings](planner-settings.md)
+>* [Create a campaign strategy plan](planner-create.md)
+>* [Duplicate a campaign strategy plan](planner-duplicate.md)
+>* [Edit a campaign strategy plan](planner-edit.md)
+>* [Export a campaign strategy plan](planner-export.md)
+>* [Regenerate the forecast for a campaign strategy plan](planner-forecast.md)
+>* [Archive a campaign strategy plan](planner-archive.md)
+>* [Campaign strategy plan settings](planner-settings.md)
