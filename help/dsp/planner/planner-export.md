@@ -7,7 +7,7 @@ feature: DSP Planner
 
 *Beta feature*
 
-You can export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft® Excel] spreadsheet**.
+You can export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft® Excel] spreadsheet** with [!UICONTROL Budget] and [!UICONTROL Reach] columns.
 
 * In a generated forecast, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
 
