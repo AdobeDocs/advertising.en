@@ -20,6 +20,10 @@ Platform,Acct Name,Campaign Name,Campaign Budget,Delivery Method,Mobile Bid Adju
 
 ## Available data fields
 
+>[!TIP]
+>
+>The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents by clicking ![Hide table of contents](/help/search-social-commerce/assets/hide-toc.png "Hide table of contents") at the top of the left pane.
+
 | Field | Campaign | Ad Group | Keyword | Text Ad | Campaign Location Target | Description |
 |----|----|----|----|----|----|----|
 | [!UICONTROL Platform] | n/a | n/a | n/a | n/a | n/a | (Included in generated bulksheets for information purposes) The ad platform. Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
