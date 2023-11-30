@@ -10,7 +10,7 @@ Following are the supported ad networks, campaign types, and ad types, and the f
 
 >[!TIP]
 >
->The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents by clicking ![Hide table of contents](/help/search-social-commerce/assets/hide-toc.png "Hide table of contents") at the top of the left pane.
+>The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents or the right pane by clicking ![Hide pane](/help/search-social-commerce/assets/hide-pane.png "Hide pane") at the top of the left or right pane.
 
 | Source | Network | Campaign Type | Ad Type | Sync and View | Create/Edit | Track[^1] | Optimize | Report[^2] | Adobe Analytics Support[^3] |
 |----|----|----|----|----|----|----|----|----|----|
