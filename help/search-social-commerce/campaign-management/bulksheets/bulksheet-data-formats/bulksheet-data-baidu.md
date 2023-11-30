@@ -26,7 +26,7 @@ Platform,Acct Name,Campaign Name,Campaign Budget,Location,Excluded IPs (Baidu), 
 
 >[!TIP]
 >
->The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents or the right pane by clicking ![Hide pane](/help/search-social-commerce/assets/hide-pane.png "Hide pane") at the top of the left or right pane.
+>The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents or the right pane by clicking ![Hide left pane](/help/search-social-commerce/assets/hide-left-pane.png "Hide left pane") at the top of the left pane or ![Hide right pane](/help/search-social-commerce/assets/hide-right-pane.png "Hide right pane") at the top of the right pane.
 
 | Field | Campaign | Ad Group | Keyword | Text Ad | Location Target | Description |
 |----|----|----|----|----|----|----|

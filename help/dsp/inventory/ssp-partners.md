@@ -14,7 +14,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 
 >[!TIP]
 >
->The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents or the right pane by clicking ![Hide pane](/help/dsp/assets/hide-pane.png "Hide pane") at the top of the left or right pane.
+>The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents or the right pane by clicking ![Hide left pane](/help/dsp/assets/hide-left-pane.png "Hide left pane") at the top of the left pane or ![Hide right pane](/help/dsp/assets/hide-right-pane.png "Hide right pane") at the top of the right pane.
 
 |SSP Listed|Company|Seat ID|Programmatic Guaranteed Support|Region|Supported Currency|Video Desktop|Video Mobile|Video CTV|Display Desktop|Display Mobile|Native Display|Audio Desktop & Mobile|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
