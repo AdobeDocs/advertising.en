@@ -1,13 +1,13 @@
 ---
-title: Regenerate the forecast for a campaign strategy plan
-description: Learn how to create a new forecast for a campaign strategy plan.
+title: Regenerate the forecast for a reach plan
+description: Learn how to create a new forecast for a reach plan.
 feature: DSP Planner
 ---
-# Regenerate the forecast for a campaign strategy plan
+# Regenerate the forecast for a reach plan
 
 *Beta feature*
 
-You can regenerate the forecast for a campaign plan based on the latest observed data.
+You can regenerate the forecast for a reach plan based on the latest observed data.
 
 1. In the main menu, click **[!UICONTROL Planner]**.
 
@@ -18,9 +18,9 @@ You can regenerate the forecast for a campaign plan based on the latest observed
 >[!MORELIKETHIS]
 >
 >* [About the DSP planner tool](planner-about.md)
->* [Create a campaign strategy plan](planner-create.md)
->* [Duplicate a campaign strategy plan](planner-duplicate.md)
->* [Edit a campaign strategy plan](planner-edit.md)
->* [Export a campaign strategy plan](planner-export.md)
->* [Archive a campaign strategy plan](planner-archive.md)
->* [Campaign strategy plan settings](planner-settings.md)
+>* [Create a reach plan](planner-create.md)
+>* [Duplicate a reach plan](planner-duplicate.md)
+>* [Edit a reach plan](planner-edit.md)
+>* [Export a reach plan](planner-export.md)
+>* [Archive a reach plan](planner-archive.md)
+>* [Reach plan settings](planner-settings.md)

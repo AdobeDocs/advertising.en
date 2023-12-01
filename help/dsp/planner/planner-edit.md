@@ -1,13 +1,13 @@
 ---
-title: Edit a campaign strategy plan
-description: Learn how to edit the settings for a campaign strategy plan.
+title: Edit a reach plan
+description: Learn how to edit the settings for a reach plan.
 feature: DSP Planner
 ---
-# Edit a campaign strategy plan
+# Edit a reach plan
 
 *Beta feature*
 
-Updating the plan settings generates a new forecast.
+Editing the plan settings generates a new forecast.
 
 1. In the main menu, click **[!UICONTROL Planner]**.
 
@@ -24,9 +24,9 @@ Updating the plan settings generates a new forecast.
 >[!MORELIKETHIS]
 >
 >* [About the DSP planner tool](planner-about.md)
->* [Create a campaign strategy plan](planner-create.md)
->* [Duplicate a campaign strategy plan](planner-duplicate.md)
->* [Export a campaign strategy plan](planner-export.md)
->* [Regenerate the forecast for a campaign strategy plan](planner-forecast.md)
->* [Archive a campaign strategy plan](planner-archive.md)
->* [Campaign strategy plan settings](planner-settings.md)
+>* [Create a reach plan](planner-create.md)
+>* [Duplicate a reach plan](planner-duplicate.md)
+>* [Export a reach plan](planner-export.md)
+>* [Regenerate the forecast for a reach plan](planner-forecast.md)
+>* [Archive a reach plan](planner-archive.md)
+>* [Reach plan settings](planner-settings.md)

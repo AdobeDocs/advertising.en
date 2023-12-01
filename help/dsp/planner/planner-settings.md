@@ -1,9 +1,9 @@
 ---
-title: Campaign strategy plan settings
-description: See descriptions of the settings for campaign strategy plans.
+title: Reach plan settings
+description: See descriptions of the settings for reach plans.
 feature: DSP Planner
 ---
-# Campaign strategy plan settings
+# Reach plan settings
 
 *Beta feature*
 
@@ -25,9 +25,9 @@ feature: DSP Planner
 >[!MORELIKETHIS]
 >
 >* [About the DSP planner tool](planner-about.md)
->* [Create a campaign strategy plan](planner-create.md)
->* [Duplicate a campaign strategy plan](planner-duplicate.md)
->* [Edit a campaign strategy plan](planner-edit.md)
->* [Export a campaign strategy plan](planner-export.md)
->* [Regenerate the forecast for a campaign strategy plan](planner-forecast.md)
->* [Archive a campaign strategy plan](planner-archive.md)
+>* [Create a reach plan](planner-create.md)
+>* [Duplicate a reach plan](planner-duplicate.md)
+>* [Edit a reach plan](planner-edit.md)
+>* [Export a reach plan](planner-export.md)
+>* [Regenerate the forecast for a reach plan](planner-forecast.md)
+>* [Archive a reach plan](planner-archive.md)

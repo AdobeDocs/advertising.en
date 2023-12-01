@@ -1,9 +1,9 @@
 ---
-title: Duplicate a campaign strategy plan
-description: Learn how to create a campaign strategy plan using the settings from an existing plan.
+title: Duplicate a reach plan
+description: Learn how to create a reach plan using the settings from an existing plan.
 feature: DSP Planner
 ---
-# Duplicate a campaign strategy plan
+# Duplicate a reach plan
 
 *Beta feature*
 
@@ -24,9 +24,9 @@ feature: DSP Planner
 >[!MORELIKETHIS]
 >
 >* [About the DSP planner tool](planner-about.md)
->* [Create a campaign strategy plan](planner-create.md)
->* [Edit a campaign strategy plan](planner-edit.md)
->* [Export a campaign strategy plan](planner-export.md)
->* [Regenerate the forecast for a campaign strategy plan](planner-forecast.md)
->* [Archive a campaign strategy plan](planner-archive.md)
->* [Campaign strategy plan settings](planner-settings.md)
+>* [Create a reach plan](planner-create.md)
+>* [Edit a reach plan](planner-edit.md)
+>* [Export a reach plan](planner-export.md)
+>* [Regenerate the forecast for a reach plan](planner-forecast.md)
+>* [Archive a reach plan](planner-archive.md)
+>* [Reach plan settings](planner-settings.md)

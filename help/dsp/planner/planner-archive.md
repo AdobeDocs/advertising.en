@@ -1,13 +1,13 @@
 ---
-title: Archive a campaign strategy plan
-description: Learn how to archive a campaign strategy plan.
+title: Archive a reach plan
+description: Learn how to archive a reach plan.
 feature: DSP Planner
 ---
-# Archive a campaign strategy plan
+# Archive a reach plan
 
 *Beta feature*
 
-<!-- what are consequences of archiving? -->
+Archiving a plan removes it from the default [!UICONTROL Planner] view.<!-- You can still view it by including the [!UICONTROL Status] "[!UICONTROL Archived]" in the view filter. -->
 
 1. In the main menu, click **[!UICONTROL Planner]**.
 
@@ -16,9 +16,9 @@ feature: DSP Planner
 >[!MORELIKETHIS]
 >
 >* [About the DSP planner tool](planner-about.md)
->* [Create a campaign strategy plan](planner-create.md)
->* [Duplicate a campaign strategy plan](planner-duplicate.md)
->* [Edit a campaign strategy plan](planner-edit.md)
->* [Export a campaign strategy plan](planner-export.md)
->* [Regenerate the forecast for a campaign strategy plan](planner-forecast.md)
->* [Campaign strategy plan settings](planner-settings.md)
+>* [Create a reach plan](planner-create.md)
+>* [Duplicate a reach plan](planner-duplicate.md)
+>* [Edit a reach plan](planner-edit.md)
+>* [Export a reach plan](planner-export.md)
+>* [Regenerate the forecast for a reach plan](planner-forecast.md)
+>* [Reach plan settings](planner-settings.md)

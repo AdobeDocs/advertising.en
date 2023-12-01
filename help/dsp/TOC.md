@@ -211,13 +211,13 @@ index: yes
     + [[!UICONTROL Report Destination] Settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
 + Planner {#planner}
   + [About the DSP planner tool](/help/dsp/planner/planner-about.md)
-  + [Create a campaign strategy plan](/help/dsp/planner/planner-create.md)
-  + [Duplicate a campaign strategy plan](/help/dsp/planner/planner-duplicate.md)
+  + [Create a reach plan](/help/dsp/planner/planner-create.md)
+  + [Duplicate a reach plan](/help/dsp/planner/planner-duplicate.md)
   + [Edit a campaign strategy  plan](/help/dsp/planner/planner-edit.md)
-  + [Campaign strategy plan settings settings](/help/dsp/planner/planner-settings.md)
-  + [Export a campaign strategy plan](/help/dsp/planner/planner-export.md)
-  + [Regenerate the forecast for a campaign strategy plan](/help/dsp/planner/planner-forecast.md)
-  + [Archive a campaign strategy plan](/help/dsp/planner/planner-archive.md)
+  + [Reach plan settings settings](/help/dsp/planner/planner-settings.md)
+  + [Export a reach plan](/help/dsp/planner/planner-export.md)
+  + [Regenerate the forecast for a reach plan](/help/dsp/planner/planner-forecast.md)
+  + [Archive a reach plan](/help/dsp/planner/planner-archive.md)
 + Administration {#admin}
   + [Edit Your Profile](/help/dsp/admin/user-own-profile-edit.md)
   + Users {#users}
