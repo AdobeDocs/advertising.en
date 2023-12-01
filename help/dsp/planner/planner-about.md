@@ -8,7 +8,7 @@ feature: DSP Planner
 
 *Beta feature*
 
-The planner tool helps you to forecast the unique household-level reach of connected TV (CTV) placements according to specified budget and targeting criteria before you begin spending on inventory. After you evaluate multiple reach plans, you can implement the plan that best aligns with the desired outcomes in your packages and placements.
+The planner tool helps you to forecast the household-level unique reach of connected TV (CTV) placements according to specified budget and targeting criteria before you begin spending on inventory. After you evaluate multiple reach plans, you can implement the plan that best aligns with the desired outcomes in your packages and placements.
 
 The planner tool uses historical bid, impression, and reach data from the last 90 days to estimate the unique reach, average CPM, average frequency, and impressions for a plan configuration.
 
