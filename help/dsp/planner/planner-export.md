@@ -1,9 +1,9 @@
 ---
-title: Export the forecast for a reach plan
-description: Learn how to export the forecast for a reach plan.
+title: Export a Forecast for a Connected TV Reach Plan
+description: Learn how to export the forecast for a connected TV reach plan.
 feature: DSP Planner
 ---
-# Export the forecast for a reach plan
+# Export a Forecast for a Connected TV Reach Plan
 
 *Beta feature*
 
@@ -13,10 +13,10 @@ You can export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft® 
 
 >[!MORELIKETHIS]
 >
->* [About the DSP planner tool](planner-about.md)
->* [Create a reach plan](planner-create.md)
->* [Duplicate a reach plan](planner-duplicate.md)
->* [Edit a reach plan](planner-edit.md)
->* [Regenerate the forecast for a reach plan](planner-forecast.md)
->* [Archive a reach plan](planner-archive.md)
->* [Reach plan settings](planner-settings.md)
+>* [About the DSP Planner Tool](planner-about.md)
+>* [Create a Connected TV Reach Plan](planner-create.md)
+>* [Duplicate a Connected TV Reach Plan](planner-duplicate.md)
+>* [Edit a Connected TV Reach Plan](planner-edit.md)
+>* [Regenerate the Forecast for a Connected TV Reach Plan](planner-forecast.md)
+>* [Archive a Connected TV Reach Plan](planner-archive.md)
+>* [Settings for Connected TV Reach Plans](planner-settings.md)

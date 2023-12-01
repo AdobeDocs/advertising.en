@@ -1,9 +1,9 @@
 ---
-title: Reach plan settings
-description: See descriptions of the settings for reach plans.
+title: Settings for Connected TV Reach Plans
+description: See descriptions of the settings for connected TV reach plans.
 feature: DSP Planner
 ---
-# Reach plan settings
+# Settings for Connected TV Reach Plans
 
 *Beta feature*
 
@@ -24,10 +24,10 @@ feature: DSP Planner
 
 >[!MORELIKETHIS]
 >
->* [About the DSP planner tool](planner-about.md)
->* [Create a reach plan](planner-create.md)
->* [Duplicate a reach plan](planner-duplicate.md)
->* [Edit a reach plan](planner-edit.md)
->* [Export a reach plan](planner-export.md)
->* [Regenerate the forecast for a reach plan](planner-forecast.md)
->* [Archive a reach plan](planner-archive.md)
+>* [About the DSP Planner Tool](planner-about.md)
+>* [Create a Connected TV Reach Plan](planner-create.md)
+>* [Duplicate a Connected TV Reach Plan](planner-duplicate.md)
+>* [Edit a Connected TV Reach Plan](planner-edit.md)
+>* [Export a Connected TV Reach Plan](planner-export.md)
+>* [Regenerate the Forecast for a Connected TV Reach Plan](planner-forecast.md)
+>* [Archive a Connected TV Reach Plan](planner-archive.md)

@@ -1,14 +1,14 @@
 ---
-title: About the DSP planner tool
-description: Learn about the planner tool to forecast the unique reach for a campaign strategy according to specified budget and targeting criteria.
+title: About the DSP Planner Tool
+description: Learn about the planner tool to forecast the unique reach for connected TV (CTV) placements according to specified budget and targeting criteria.
 feature: DSP Planner
 ---
 
-# About the DSP planner tool
+# About the DSP Planner Tool
 
 *Beta feature*
 
-The planner tool helps you forecast the unique reach at the household level for a campaign strategy according to specified budget and targeting criteria before you begin spending on inventory. After you evaluate multiple reach plans, you can implement the plan that best aligns with the desired outcomes in your packages and placements.
+The planner tool helps you to forecast the unique household-level reach of connected TV (CTV) placements according to specified budget and targeting criteria before you begin spending on inventory. After you evaluate multiple reach plans, you can implement the plan that best aligns with the desired outcomes in your packages and placements.
 
 The planner tool uses historical bid, impression, and reach data from the last 90 days to estimate the unique reach, average CPM, average frequency, and impressions for a plan configuration.
 
@@ -27,7 +27,7 @@ The forecast output also includes an [!UICONTROL Inventory Breakdown] section th
 
 ## The Planner View
 
-In the [!UICONTROL Planner] view, you can view your existing reach plans and create new ones.
+In the [!UICONTROL Planner] view, you can view your existing CTV reach plans and create new ones.
 
 You can also edit, duplicate, export, archive, or regenerate the forecast for any plan.
 
@@ -65,11 +65,11 @@ Yes, you can export a forecast into a [!DNL Microsoft® Excel] spreadsheet by cl
 
 >[!MORELIKETHIS]
 >
->* [About the DSP planner tool](planner-about.md)
->* [Create a reach plan](planner-create.md)
->* [Duplicate a reach plan](planner-duplicate.md)
->* [Edit a reach plan](planner-edit.md)
->* [Export a reach plan](planner-export.md)
->* [Regenerate the forecast for a reach plan](planner-forecast.md)
->* [Archive a reach plan](planner-archive.md)
->* [Reach plan settings](planner-settings.md)
+>* [About the DSP Planner Tool](planner-about.md)
+>* [Create a Connected TV Reach Plan](planner-create.md)
+>* [Duplicate a Connected TV Reach Plan](planner-duplicate.md)
+>* [Edit a Connected TV Reach Plan](planner-edit.md)
+>* [Export a Connected TV Reach Plan](planner-export.md)
+>* [Regenerate the Forecast for a Connected TV Reach Plan](planner-forecast.md)
+>* [Archive a Connected TV Reach Plan](planner-archive.md)
+>* [Settings for Connected TV Reach Plans](planner-settings.md)
