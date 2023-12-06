@@ -2,6 +2,7 @@
 title: Create a Connected TV Reach Plan
 description: Learn how to create a connected TV reach plan.
 feature: DSP Planner
+exl-id: 88b1fb23-f856-44ed-a955-844a329efb98
 ---
 # Create a Connected TV Reach Plan
 

@@ -2,6 +2,7 @@
 title: Export a Forecast for a Connected TV Reach Plan
 description: Learn how to export the forecast for a connected TV reach plan.
 feature: DSP Planner
+exl-id: f4bad569-1b56-439a-8c41-92a24a710476
 ---
 # Export a Forecast for a Connected TV Reach Plan
 

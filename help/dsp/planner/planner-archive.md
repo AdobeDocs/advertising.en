@@ -2,6 +2,7 @@
 title: Archive a Connected TV Reach Plan
 description: Learn how to archive a connected TV reach plan.
 feature: DSP Planner
+exl-id: 335db881-51e6-412d-9346-216c6a70a6de
 ---
 # Archive a Connected TV Reach Plan
 

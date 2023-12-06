@@ -2,6 +2,7 @@
 title: Duplicate a Connected TV Reach Plan
 description: Learn how to create a connected TV reach plan using the settings from an existing plan.
 feature: DSP Planner
+exl-id: 80dab57a-e56d-4a77-a1d5-c3e705f54fb9
 ---
 # Duplicate a Connected TV Reach Plan
 
