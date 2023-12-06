@@ -54,10 +54,6 @@ The following features are new or recently changed.
 |  | [!DNL Freewheel] programmatic guaranteed deals | You can now submit ads and check the status of ads for [!DNL Freewheel] programmatic guaranteed deals from the [!UICONTROL Ads] view. Previously, you could do both only from the [!UICONTROL Deals] view.  | See "[Submit an Ad for a Programmatic Guaranteed Deal to [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)" and "[Check the Status of Ads for [!DNL Freewheel] Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)." |
 | 7 October 2021 | Help | All [DSP and other Adobe Advertising documentation](https://experienceleague.adobe.com/docs/advertising.html) on [!DNL Experience League] is now machine translated into all available languages. To change the displayed language, use the “Change Language” menu at the bottom left of any page.<br>![Change language](/help/dsp/assets/change-language.png) |
 
-
-{style="table-layout:auto"}
-
-
 <!-- older entries:
 
 | 30 September 2021 | Brand Safety | (22 September release) [!DNL DoubleVerify] brand safety pre-bid products were updated to [!DNL Brand Suitability Tiers], which allow advertisers to choose between three risk levels (low, medium, and high) for specific segments without avoiding all instances of a certain topic. Historically, segments did not include any tolerance levels.<br><br>To align with the new [!DNL DoubleVerify] segment structure, DSP migrated your existing brand safety segments to their new, recommended *medium*-level segment. You can optionally adjust the segment tier to *low* or *high*.<br><br>**Note:** A few segments don't have tiers but have new names, such as “Nuisance/Spyware/Malware,Warez” > Incentivized/Malware/Clutter.” | &mdash; |
