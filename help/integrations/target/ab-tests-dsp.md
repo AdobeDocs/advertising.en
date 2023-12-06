@@ -1,15 +1,11 @@
 ---
-title: Configure A/B Tests for Adobe Advertising Ads in Adobe Target
+title: Configure A/B Tests for Adobe Advertising DSP Ads in Adobe Target
 description: Learn how to set up an A/B test in [!DNL Target] for your DSP ads.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
 ---
 # Configure A/B Tests in Adobe Target for Advertising DSP Ads
 
-<!-- In title and Heading1:  DSP and [!DNL Advertising Search, Social, & Commerce] Ads -->
-
 <!-- Add [!UICONTROL and [!DNL tags throughout as needed. -->
-
-<!-- Break into sub-files, or just leave as one? -->
 
 *Advertisers with Advertising DSP only*
 
@@ -17,7 +13,7 @@ Adobe Advertising and Adobe Target make it even easier for marketers to deliver 
 
 * Decrease site fall-through rates by linking customers’ ad exposure from DSP campaigns to their on-site experiences.
 
-* Establish A/B testing by mirroring on-site experiences with advertising messaging using Adobe Audience Manager exposure data and click-to-feed Target audiences.
+* Establish A/B testing by mirroring on-site experiences with advertising messaging using Adobe Audience Manager exposure data and click-to-feed [!DNL Target] audiences.
 
 * Measure the impact of unified messaging on an on-site objective lift with simple visualizations in Adobe Analytics for [!DNL Target].
 
@@ -93,55 +89,53 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
 
       * Name the trait so that it’s easily identifiable within test activities. Store the trait in whichever folder you prefer.
       
-      * Select `Ad Cloud` as the **Data Source**.
+      * Select `Ad Cloud` as the **[!UICONTROL Data Source]**.
       
-      * For the trait expression, use `d_event` as the **Key** and `imp` as the **Value**.
+      * For the trait expression, use `d_event` as the **[!UICONTROL Key]** and `imp` as the **[!UICONTROL Value]**.
 
-   1. [Set up a test segment](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder.html) for the new trait in Audience Manager, selecting `Ad Cloud` as the **Data Source**.
+   1. [Set up a test segment](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder.html) for the new trait in Audience Manager, selecting `Ad Cloud` as the **[!UICONTROL Data Source]**.
 
        Audience Manager automatically splits the segment into a control group that receives the standard landing page experience and a test group that received a personalized onsite experience.
 
-## Step 3: Set Up an “A/B Test” Activity in Target
+## Step 3: Set Up an A/B Test Activity in [!DNL Target] for DSP
 
-<!-- [If separate page, add "Adobe" before first-use of product names.] -->
-
-The following instructions highlight information pertaining to the DSP use case. For full instructions, see "".
+The following instructions highlight information pertaining to the DSP use case.
 
 1. [Log in to Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
 1. [Create an A/B test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html):
 
-   1. In the **Enter Activity URL** field, enter the landing page URL for the test.
+   1. In the **[!UICONTROL Enter Activity URL]** field, enter the landing page URL for the test.
 
        >[!NOTE]
        >
        >You can use multiple URLs to test view-through site entry. For more information, see "[Multipage Activity](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html)." You can easily identify top entries by page URL by creating a [Site Entry report](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-cloud-site-entry-reports.html) in Analytics.
 
-   1. In the **Goal** field, enter the success metric for the test.
+   1. In the **[!UICONTROL Goal]** field, enter the success metric for the test.
 
        >[!NOTE]
        >
        >Make sure that [!DNL Analytics] is enabled as a data source within [!DNL Target], and that the correct report suite is selected.
 
-   1. Set the **Priority** to `High` or `999` to prevent conflicts when users in the test segment receive an incorrect on-site experience.
+   1. Set the **[!UICONTROL Priority]** to `High` or `999` to prevent conflicts when users in the test segment receive an incorrect on-site experience.
 
-   1. Within **Reporting Settings**, select the **Company Name** and **Report Suite** connected to your DSP account.
+   1. Within **[!UICONTROL Reporting Settings]**, select the **[!UICONTROL Company Name]** and **[!UICONTROL Report Suite]** connected to your DSP account.
 
        For additional reporting tips, see "[Reporting best practices and troubleshooting](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html)."
 
-   1. In the **Date Range** field, enter the appropriate start and end dates for the test.
+   1. In the **[!UICONTROL Date Range]** field, enter the appropriate start and end dates for the test.
 
    1. Add audiences to the activity:
 
       1. Choose the [segment that you previously created in Audience Manager to test view-through audiences](#view-through-framework).
 
-      1. Select **Site Pages** > **Landing Page** > **Query**, and enter the DSP placement key in the **Value** field to use the Target query string parameters for click-through audiences.
+      1. Select **[!UICONTROL Site Pages]** > **[!UICONTROL Landing Page]** > **[!UICONTROL Query]**, and enter the DSP placement key in the **[!UICONTROL Value]** field to use the Target query string parameters for click-through audiences.
 
-   1. For the **Traffic Allocation Method**, select **Manual (Default)** and split the audience 50/50.
+   1. For the **[!UICONTROL Traffic Allocation Method]**, select **[!UICONTROL Manual (Default)]** and split the audience 50/50.
 
    1. Save the activity. 
 
-1. Use [!DNL Target] [Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html) to make design changes to the A/B test landing page template.
+1. Use [!DNL Target Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html) to make design changes to the A/B test landing page template.
 
    * Experience A: Don't edit because it's the default/control landing page experience without personalization.
 
@@ -165,31 +159,31 @@ In Analysis Workspace, configure the [!DNL Analytics for Target panel] to analyz
 
 #### Metrics
 
-* Create a panel within the workspace specific to the Adobe Advertising campaign, package, or placement for which the test was run. Use summary visualizations to show Adobe Advertising metrics in the same report as the Target test performance.
+* Create a panel within the workspace specific to the Adobe Advertising campaign, package, or placement for which the test was run. Use summary visualizations to show Adobe Advertising metrics in the same report as the [!DNL Target] test performance.
 
 * Prioritize using on-site metrics (such as visits and conversions) to measure performance.
 
-* Understand that aggregated media metrics from Adobe Advertising (such as impressions, clicks, and costs) cannot be matched to Target metrics.
+* Understand that aggregated media metrics from Adobe Advertising (such as impressions, clicks, and costs) can't be matched to [!DNL Target] metrics.
 
 #### Dimensions
 
 The following dimensions pertain to [!DNL Analytics for Target]:
 
-* **Target Activities**: Name of the A/B Test
+* **[!UICONTROL Target Activities]**: Name of the A/B Test
 
-* **Target Experiences**: Names of landing page experiences used within the activity
+* **[!UICONTROL Target Experiences]**: Names of landing page experiences used within the activity
 
-* **Target Activity** > **Experience**: The activity name and experience name in the same row
+* **[!UICONTROL Target Activity]** > **[!UICONTROL Experience]**: The activity name and experience name in the same row
 
 ### Troubleshooting Analytics for [!DNL Target] Data
 
 Within Analysis Workspace, if you notice that activity and experiences data is minimal or not populating, then do the following:
 
-* Verify that the same Supplemental Data ID (SDID) is used for both Target and Analytics. You can verify the SDID values by using the [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html) on the landing page to which the campaign is driving users.
+* Verify that the same [!UICONTROL Supplemental Data ID] (SDID) is used for both [!DNL Target] and [DNL Analytics]. You can verify the SDID values by using the [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html) on the landing page to which the campaign is driving users.
 
   [Supplemental Data ID (SDID) values in Adobe Debugger](/help/integrations/assets/target-troubleshooting-sdid.png)
 
-* On the same landing page, verify that a) the Hostname shown in the Adobe Debugger under Solutions> Target matches b) the Tracking Server shown in [!DNL Target] for the activity (under Goals & Settings > Reporting Settings).
+* On the same landing page, verify that a) the [!UICONTROL Hostname] shown in the Adobe Debugger under [!UICONTROL Solutions] > [!UICONTROL Target] matches b) the [!UICONTROL Tracking Server] shown in [!DNL Target] for the activity (under [!UICONTROL Goals & Settings] > [!UICONTROL Reporting Settings]).
 
   [!DNL Analytics For Target] requires an [!DNL Analytics] tracking server to be sent in calls from [!DNL Target] to the [!DNL Modstats] data collection server for Analytics.<!-- just "to Analytics?"-->
 
@@ -199,14 +193,12 @@ Within Analysis Workspace, if you notice that activity and experiences data is m
 
 ## Further Reading
 
-* [Integrate Target with Analytics](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html)– Explains how to set up Target reporting in Analysis Workspace.
-* [A/B Test Overview](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) – Describes A/B test activities, which you can use with DSP ads.
-* [Experiences and offers](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html) – Explains [!DNL Target] tools to determine the on-site content to which DSP test users are exposed.
-* [Signals, Traits, and Segments](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html) – Defines some of the Audience Manager tools that can help with DSP view-through testing.
-* [Overview of Analytics for Advertising](/help/integrations/analytics/overview.md) – Introduces Analytics for Advertising, which allows you to track click-through and view-through site interactions in your Analytics instances.
+* [Integrate Target with Analytics](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html) - Explains how to set up [!DNL Target] reporting in Analysis Workspace.
+* [A/B Test Overview](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Describes A/B test activities, which you can use with DSP ads.
+* [Experiences and offers](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html) - Explains [!DNL Target] tools to determine the on-site content to which DSP test users are exposed.
+* [Signals, Traits, and Segments](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html) - Defines some of the Audience Manager tools that can help with DSP view-through testing.
+* [Overview of Analytics for Advertising](/help/integrations/analytics/overview.md) - Introduces Analytics for Advertising, which allows you to track click-through and view-through site interactions in your Analytics instances.
 
-<!-- 
 >[!MORELIKETHIS]
 >
->* 
--->
+>* [Configure A/B Tests in Adobe Target for Advertising Search, Social, & Commerce Ads](ab-tests-search.md)
