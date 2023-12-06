@@ -179,7 +179,7 @@ The following dimensions pertain to [!DNL Analytics for Target]:
 
 Within Analysis Workspace, if you notice that activity and experiences data is minimal or not populating, then do the following:
 
-* Verify that the same [!UICONTROL Supplemental Data ID] (SDID) is used for both [!DNL Target] and [DNL Analytics]. You can verify the SDID values by using the [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html) on the landing page to which the campaign is driving users.
+* Verify that the same [!UICONTROL Supplemental Data ID] (SDID) is used for both [!DNL Target] and [!DNL Analytics]. You can verify the SDID values by using the [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html) on the landing page to which the campaign is driving users.
 
   [Supplemental Data ID (SDID) values in Adobe Debugger](/help/integrations/assets/target-troubleshooting-sdid.png)
 
