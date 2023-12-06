@@ -135,7 +135,7 @@ The following instructions highlight information pertaining to the DSP use case.
 
    1. Save the activity. 
 
-1. Use [!DNL Target Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html) to make design changes to the A/B test landing page template.
+1. Use [Target Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html) to make design changes to the A/B test landing page template.
 
    * Experience A: Don't edit because it's the default/control landing page experience without personalization.
 
