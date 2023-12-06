@@ -39,5 +39,7 @@ index: yes
         + [Collect Impression and Click Data from DSP Campaigns](/help/integrations/audience-manager/media-data-integration/collect.md)
         + [Use Cases](/help/integrations/audience-manager/media-data-integration/use-cases.md)
     + [Adobe Audience Analytics for Advertising Customers](/help/integrations/audience-manager/audience-analytics.md)
-+ [Configure A/B Tests in Adobe Target for DSP Ads](/help/integrations/target/ab-tests-dsp.md)
++ Integration with Adobe Target {#target}
+  + [Configure A/B Tests in Adobe Target for DSP Ads](/help/integrations/target/ab-tests-dsp.md)
+  + [Configure A/B Tests in Adobe Target for Search, Social, & Commerce Ads](/help/integrations/target/ab-tests-search.md)
 + [Videos Tutorials About Adobe Advertising Integrations](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
