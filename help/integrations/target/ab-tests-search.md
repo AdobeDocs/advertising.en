@@ -12,7 +12,7 @@ Adobe Advertising and Adobe Target make it easy to set up landing page experienc
 
 * Deliver a more personalized landing page experience that's relevant to the ad (for example, matching the image/video creative, copy, keyword, or other advertising signal to the landing page).
 
-You can also combine the native [[!DNL Analytics] for Advertising](/help/integrations/analytics/overview.md) and * [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) integration
+You can also combine the native [[!DNL Analytics] for Advertising](/help/integrations/analytics/overview.md) and [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) integration
 reporting dimensions that are integrated into Adobe Analytics to measure and visualize your test data with [!DNL Analytics] metrics and success events.
 
 See the following sections for the prerequisites, instructions to set up A/B tests in [!DNL Target] for click-through traffic from ad platforms managed in Search, Social, & Commerce, and tips on how to measure and visualize your tests in [!DNL Analytics].
