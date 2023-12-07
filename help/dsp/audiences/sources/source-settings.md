@@ -10,9 +10,9 @@ exl-id: 274ea502-ad15-4d3d-922a-17caddb87f69
 
 **[!UICONTROL Advertiser]:** (Advertiser-level visibility only) The advertiser for whom the segments are available. Select one from the list of advertisers with access to the account.
 
-**[!UICONTROL Enter IMS Org Id]:** ([!DNL Real-Time CDP] sources only] The Adobe Experience Cloud organization ID for the [!DNL Adobe Experience Platform] account.
+**[!UICONTROL Enter IMS Org Id]:** ([!DNL Real-Time CDP] sources only) The Adobe Experience Cloud organization ID for the [!DNL Adobe Experience Platform] account.
 
-**[!UICONTROL Convert PII to the following IDs]:** ([!DNL ActionIQ] and [!DNL Tealium CDP] sources only] The ID type to which you want to convert your personally identifiable information (PII). Data charges are applied accordingly. 
+**[!UICONTROL Convert PII to the following IDs]:** ([!DNL ActionIQ] and [!DNL Tealium CDP] sources only) The ID type to which you want to convert your personally identifiable information (PII). Data charges are applied accordingly. 
 
 **[!UICONTROL Source Key]:** (Read-only; generated automatically) The source key you can use to create a destination connection in the customer data platform to push audiences to Advertising DSP. You can copy the value to your clipboard to paste into the destination connection settings or into a file.
 
