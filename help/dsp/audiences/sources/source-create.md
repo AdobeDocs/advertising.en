@@ -20,9 +20,9 @@ For additional steps required to ingest segments from specific customer data pla
 
    * *[!UICONTROL RT-CDP]*: [The [!DNL Adobe Real-Time Customer Data Profile]](source-about.md).
 
-   <!-- *[!UICONTROL ActionIQ]*: [The [!DNL ActionIQ]](source-about.md) customer data platform. -->
+   <!-- * *[!UICONTROL ActionIQ]*: The [[!DNL ActionIQ] customer data platform](source-about.md). -->
 
-   * *[!UICONTROL Tealium CDP]*: The [!DNL Tealium](source-about.md) customer data platform.
+   * *[!UICONTROL Tealium CDP]*: The [[!DNL Tealium] customer data platform](source-about.md).
 
 1. Specify the [!UICONTROL Data Visibility Level]: *[!UICONTROL Advertiser]* or *[!UICONTROL Account]*.
 
