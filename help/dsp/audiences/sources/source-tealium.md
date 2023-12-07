@@ -25,13 +25,13 @@ There are four steps to share data from Tealium with DSP:
 
 1. The advertiser must prepare and share segment mapping data:
 
-   1. The advertiser must prepare the data:
+   1. The advertiser must prepare the data:<!-- Is these separate steps, or are these options during an export/output operation? -->
    
       1. The email IDs for the advertiser's audience must be hashed using the SHA-256 algorithm.
 
       1. The column containing hashed email IDs must be mapped to the attribute of the type of Visitor ID.
 
-      1. An audience must be created with the `Tealium_visitor_id` attribute. The right enrichment must be applied to trigger the audience.<!-- enrichment? -->
+      1. The audience must be created with the `Tealium_visitor_id` attribute. The right enrichment must be applied to trigger the audience.<!-- enrichment? -->
    
    1. The advertiser must give segment mapping data to the Adobe Account Team to create the segments in DSP. Use the following column names and values in a comma-separated values file:<!-- are a couple of fields missing? -->
 
@@ -49,9 +49,9 @@ There are four steps to share data from Tealium with DSP:
 
       * **Segment Window:** The segment time-to-live.
 
-Step 3: Create connectors in [!DNL Tealium] to share segment data {#tealium-connector}
+## Step 3: Create connectors in [!DNL Tealium] to share segment data {#tealium-connector}
 
-For each segment the advertiser wants to share, create a separate connector for each action that will trigger data changes. For example, to share two segments, each with two triggers, you would create four connectors.
+For each segment that you want to share, create a separate connector for each action that will trigger data changes. For example, to share two segments, each with two triggers, you would create four connectors.
 
 1. The Adobe Account Team provides the advertiser with AWS firehose connector credentials.
 
@@ -69,39 +69,39 @@ For each segment the advertiser wants to share, create a separate connector for 
 
          * For the second connector for the segment, select the trigger `Left Audience`. This connector is used to handle all opt outs and users who leave the segment in DSP.
 
-     1. In the configuration settings, specify the AWS firehose connector. If you haven't added the firehose connector for DSP yet, then add a new firehose connector using the following information:
+   1. In the configuration settings, specify the AWS firehose connector. If you haven't added the firehose connector for DSP yet, then add a new firehose connector using the following information:
 
-        * **Name:** The name of the connector.
-
-        * **Access Key:** The access key provided by the Adobe Account Team.
-
-        * **Secret Key:** The secret key provided by the Adobe Account Team.
-
-        * **Region:** US East North Virginia (us-east-1)
+      * **Name:** The name of the connector.
+      
+      * **Access Key:** The access key provided by the Adobe Account Team.
+      
+      * **Secret Key:** The secret key provided by the Adobe Account Team.
+      
+      * **Region:** US East North Virginia (us-east-1)
      
-     1. In the action settings, do the following:
-     
-        1. Create a "Send Customer Data to Delivery Stream (Advanced)" action to add data to the segment, using the following information:
-
-           * **Action Name:** The name of the action.
-
-           * **Action Type:** Send Customer Data to Delivery Stream (Advanced)
-
-           * **Delivery Stream:** Tealium_CDP_Connector
-
-           * **Message Data:**  Do the following:
-
-             1. Choose one attribute for the segment:
-             
-                * For the Hashed_Email attribute, name the custom message `hashed_email`.
+   1. In the action settings, do the following:
+   
+      1. Create a "Send Customer Data to Delivery Stream (Advanced)" action to add data to the segment, using the following information:
+      
+         * **Action Name:** The name of the action.
+         
+         * **Action Type:** Send Customer Data to Delivery Stream (Advanced)
+         
+         * **Delivery Stream:** Tealium_CDP_Connector
+         
+         * **Message Data:**  Do the following:
+         
+           1. Choose one attribute for the segment:
+           
+              * For the Hashed_Email attribute, name the custom message `hashed_email`.
+              
+              * For the Cookies attribute, name the custom message `cookies`.
                 
-                * For the Cookies attribute, name the custom message `cookies`.
+           1. Enter the external_segment_key that was included in the segment mapping data in [Step 2](#map-data). <!-- Is the field named "external_segment_key"?  If not, what is the field name? -->
+           
+              DSP will use this key to populate your segment.
                 
-             1. Enter the external_segment_key that was included in the segment mapping data in [Step 2](#map-data). <!-- Is the field named that?  If not, what is the field name? -->
-             
-                DSP will use this key to populate your segment. The recommended naming convention is "`<DSP source key>_<Tealium segment name>`," such as "57bf424dc1054affce10218_coffee-drinkers."
-
-                1. (Recommended) Create an update action to keep the segment fresh. <!-- This was listed under triggers, but I don't see a setting in the Source UI, so is it in the Actions UI? -->
+           1. (Recommended) Create an update action to keep the segment fresh. <!-- This was listed under triggers, but I don't see a setting in the Source UI, so is it in the Actions UI? -->
    
 ## Step 4: Duplicate the existing connector in [!DNL Tealium] to continue to share segments {#duplicate-connector}
 
