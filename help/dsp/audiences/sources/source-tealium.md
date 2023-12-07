@@ -31,7 +31,7 @@ There are four steps to share data from Tealium with DSP:
 
       1. The column containing hashed email IDs must be mapped to the attribute of the type of Visitor ID.
 
-      1. An audience must be created with the `Tealium_visitor_id`` attribute. The right enrichment must be applied to trigger the audience.<!-- enrichment? -->
+      1. An audience must be created with the `Tealium_visitor_id` attribute. The right enrichment must be applied to trigger the audience.<!-- enrichment? -->
    
    1. The advertiser must give the following segment mapping data in a comma-separated values file to the Adobe Account Team to create the segments:<!-- are a couple of fields missing? -->
 
@@ -61,7 +61,7 @@ For each segment the advertiser wants to share, create a separate connector for 
 
       1. Set up a trigger:
 
-         * For the first connector for the segment, select the trigger `Joined Audience``. This ensures that data is shared with DSP whenever a user joins a segment.
+         * For the first connector for the segment, select the trigger `Joined Audience`. This ensures that data is shared with DSP whenever a user joins a segment.
 
          * For the second connector for the segment, select the trigger `Left Audience`. This connector is used to handle all opt outs and users who leave the segment in DSP.
 
@@ -89,9 +89,9 @@ For each segment the advertiser wants to share, create a separate connector for 
 
              1. Choose one attribute for the segment:
              
-                * For the Hashed_Email attribute, name the custom message `hashed_email``.
+                * For the Hashed_Email attribute, name the custom message `hashed_email`.
                 
-                * For the Cookies attribute, name the custom message `cookies``.
+                * For the Cookies attribute, name the custom message `cookies`.
                 
              1. Enter the external_segment_key that was included in the segment mapping data in [Step 2](#map-data). <!-- Is the field named that?  If not, what is the field name? -->
              
