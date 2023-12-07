@@ -18,11 +18,11 @@ For additional steps required to ingest segments from specific customer data pla
 
 1. In the [!UICONTROL Select a Type] menu, select the source type.
 
-   *[!UICONTROL RT-CDP]*: [The [!DNL Adobe Real-Time Customer Data Profile]](source-about.md).
+   * *[!UICONTROL RT-CDP]*: [The [!DNL Adobe Real-Time Customer Data Profile]](source-about.md).
 
    <!-- *[!UICONTROL ActionIQ]*: [The [!DNL ActionIQ]](source-about.md) customer data platform. -->
 
-   *[!UICONTROL Tealium CDP]*: The [!DNL Tealium](source-about.md) customer data platform.
+   * *[!UICONTROL Tealium CDP]*: The [!DNL Tealium](source-about.md) customer data platform.
 
 1. Specify the [!UICONTROL Data Visibility Level]: *[!UICONTROL Advertiser]* or *[!UICONTROL Account]*.
 
