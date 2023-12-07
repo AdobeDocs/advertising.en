@@ -24,7 +24,9 @@ For more information about destinations, see the Experience Platform [Destinatio
 
 1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account.
 
-1. [Configure a [!DNL Real-Time CDP] destination connection in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).
+1. In Experience Platform, configure an Advertising DSP destination connection using the [!UICONTROL Source Key] that was generated in the DSP source settings.
+
+   For instructions for activating the DSP destination connection, selecting segments, and accessing control permissions, see "[Adobe Advertising Cloud DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)."
 
 For additional support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
