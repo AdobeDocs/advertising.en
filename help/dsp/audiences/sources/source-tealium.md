@@ -33,17 +33,21 @@ There are four steps to share data from Tealium with DSP:
 
       1. An audience must be created with the `Tealium_visitor_id` attribute. The right enrichment must be applied to trigger the audience.<!-- enrichment? -->
    
-   1. The advertiser must give the following segment mapping data in a comma-separated values file to the Adobe Account Team to create the segments:<!-- are a couple of fields missing? -->
+   1. The advertiser must give segment mapping data to the Adobe Account Team to create the segments in DSP. Use the following column names and values in a comma-separated values file:<!-- are a couple of fields missing? -->
 
-      | Field | Value |
-      |---|---|---|
-      | External Segment Key | The external segment key, which will be specified in the action settings for the connector in [!DNL Tealium]. The recommended naming convention is "`<DSP source key>_<Tealium segment name>`," such as "57bf424dc1054affce10218_coffee-drinkers." |
-      | Segment Name | The segment name. |
-      | Segment Description | The purpose or rule of the segment, or both. |
-      | Parent ID | Keep blank |
-      | Video CPM | 0 |
-      | Display CPM | 0 |
-      | Segment Window | The segment time-to-live. |
+      * **External Segment Key:** The external segment key, which will be specified in the action settings for the connector in [!DNL Tealium]. The recommended naming convention is "`<DSP source key>_<Tealium segment name>`," such as "57bf424dc10_coffee-drinkers."
+      
+      * **Segment Name:** The segment name.  
+      
+      * **Segment Description:** The purpose or rule of the segment, or both.
+      
+      * **Parent ID:** Keep blank
+      
+      * **Video CPM:** 0
+
+      * **Display CPM:** 0
+
+      * **Segment Window:** The segment time-to-live.
 
 Step 3: Create connectors in [!DNL Tealium] to share segment data {#tealium-connector}
 
