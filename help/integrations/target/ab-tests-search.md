@@ -1,19 +1,20 @@
 ---
 title: Configure A/B Tests for Adobe Advertising Search, Social, & Commerce Ads in Adobe Target
-description: Learn how to set up an A/B test in [!DNL Target] for your Search, Social, & Commerce ads.
+description: "Learn how to set up an A/B test in [!DNL Target] for your [!DNL Google Ads] and [!DNL Microsoft Advertising] ads in Search, Social, & Commerce."
 ---
 # Configure A/B Tests in Adobe Target for Advertising Search, Social, & Commerce Ads
 
 *Advertisers with Advertising Search, Social, & Commerce only*
 
-Adobe Advertising and Adobe Target make it easy to set up landing page experience A/B tests for digital advertising traffic from ad platforms like [!DNL Google Ads] and [!DNL Microsoft Advertising] to:
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
+
+Adobe Advertising and Adobe Target make it easy to set up landing page experience A/B tests for digital advertising traffic [!DNL Google Ads] and [!DNL Microsoft Advertising] to:
 
 * Improve conversion rates (CVR) and acquisition efficiency measures (such as CPA, CPL, and CAC).
 
 * Deliver a more personalized landing page experience that's relevant to the ad (for example, matching the image/video creative, copy, keyword, or other advertising signal to the landing page).
 
-You can also combine the native [[!DNL Analytics] for Advertising](/help/integrations/analytics/overview.md) and [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) integration
-reporting dimensions that are integrated into Adobe Analytics to measure and visualize your test data with [!DNL Analytics] metrics and success events.
+You can also combine the native [[!DNL Analytics] for Advertising](/help/integrations/analytics/overview.md) and [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) integration reporting dimensions that are integrated into Adobe Analytics to measure and visualize your test data with [!DNL Analytics] metrics and success events.
 
 See the following sections for the prerequisites, instructions to set up A/B tests in [!DNL Target] for click-through traffic from ad platforms managed in Search, Social, & Commerce, and tips on how to measure and visualize your tests in [!DNL Analytics].
 
@@ -57,7 +58,7 @@ The following instructions highlight information pertaining to the Search, Socia
 
    1. In the **[!UICONTROL Date Range]** field, enter the appropriate start and end dates for the test.
 
-   1. Select **[!UICONTROL Site Pages]** > **[!UICONTROL Landing Page]** > **[!UICONTROL Query]**, and enter the [!UICONTROL Network Account ID], [!UICONTROL Network Campaign ID], or [!UICONTROL Network Ad Group ID] for the relevant ad network entity in Search, Social, & Commerce in the **[!UICONTROL Value]** field. This allows you to use the [!DNL Target] query string parameters for click-through audiences for the entity.
+   1. Select **[!UICONTROL Site Pages]** > **[!UICONTROL Landing Page]** > **[!UICONTROL Query]**. In the **[!UICONTROL Value]** field, enter the [!UICONTROL Network Account ID], [!UICONTROL Network Campaign ID], [!UICONTROL Network Adgroup ID], or [!UICONTROL Network Ad ID] for the relevant ad network entity in Search, Social, & Commerce. This allows you to use the [!DNL Target] query string parameters for click-through audiences for the entity.
    
       You can find the ID by [adding the relevant ID column to the entity view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md).
 
