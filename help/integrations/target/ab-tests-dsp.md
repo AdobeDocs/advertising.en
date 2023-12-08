@@ -35,8 +35,6 @@ This use case requires the following products and integrations:
 
 ## Step 1: Set up the Click-through Framework {#click-through-framework}
 
-<!-- [If separate page, add "Adobe" before first-use of product names.] -->
-
 ![Click-through framework](/help/integrations/assets/target-ct-framework.png)
 
 When you add DSP macros to a click-through URL (the URL displayed when a user clicks an ad and reaches the landing page), DSP automatically captures the placement key by including `${TM_PLACEMENT_ID}` in the click-through URL. This macro captures the alphanumeric placement key and not the numeric placement ID.
@@ -56,8 +54,6 @@ Within Flash talking or Google Campaign Manager 360, manually update the click-t
 Contact your Adobe Account Team and the Advertising Solutions Group (aac-advertising-solutions-group@adobe.com) to retrieve the required placement key and finalize the setup, and to make sure that each click-through URL is populated with the placement key.
 
 ## Step 2: Set up the View-through Framework Using Audience Manager {#view-through-framework}
-
-<!-- [If separate page, add "Adobe" before first-use of product names.] -->
 
 ![View-through framework](/help/integrations/assets/targetr-vt-framework.png) 
 
