@@ -1,14 +1,14 @@
 ---
 title: Configure A/B Tests for Adobe Advertising Search, Social, & Commerce Ads in Adobe Target
-description: "Learn how to set up an A/B test in [!DNL Target] for your [!DNL Google Ads] and [!DNL Microsoft Advertising] ads in Search, Social, & Commerce."
+description: "Learn how to set up an A/B test in [!DNL Target] for your [!DNL Google Ads] and [!DNL Microsoft® Advertising] ads in Search, Social, & Commerce."
 ---
 # Configure A/B Tests in Adobe Target for Advertising Search, Social, & Commerce Ads
 
 *Advertisers with Advertising Search, Social, & Commerce only*
 
-*[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
+*[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts only*
 
-Adobe Advertising and Adobe Target make it easy to set up landing page experience A/B tests for digital advertising traffic [!DNL Google Ads] and [!DNL Microsoft Advertising] to:
+Adobe Advertising and Adobe Target make it easy to set up landing page experience A/B tests for digital advertising traffic [!DNL Google Ads] and [!DNL Microsoft® Advertising] to:
 
 * Improve conversion rates (CVR) and acquisition efficiency measures (such as CPA, CPL, and CAC).
 
@@ -16,7 +16,7 @@ Adobe Advertising and Adobe Target make it easy to set up landing page experienc
 
 You can also combine the native [[!DNL Analytics] for Advertising](/help/integrations/analytics/overview.md) and [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) integration reporting dimensions that are integrated into Adobe Analytics to measure and visualize your test data with [!DNL Analytics] metrics and success events.
 
-See the following sections for the prerequisites, instructions to set up A/B tests in [!DNL Target] for click-through traffic from ad platforms managed in Search, Social, & Commerce, and tips on how to measure and visualize your tests in [!DNL Analytics].
+See the following sections for the prerequisites, instructions to set up A/B tests in [!DNL Target] for click-through traffic from ads in Search, Social, & Commerce, and tips on how to measure and visualize your tests in [!DNL Analytics].
 
 ## Prerequisites
 
