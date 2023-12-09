@@ -10,13 +10,13 @@ exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
 
 To activate authenticated audiences through a durable ID solution within Advertising DSP, your segments must be translated into [!DNL RampIDs], which are recognizable in a biddable environment. You can accomplished this by either:
 
-* Leveraging the DSP integration with the [!DNL Adobe Real-Time Customer Data Profile (CDP)] and the [!DNL Adobe-LiveRamp Retrieval API].
+* Leveraging the DSP integration with the [!DNL Adobe Real-Time Customer Data Platform (CDP)] and the [!DNL Adobe-LiveRamp Retrieval API].
 
 * Manually sending authenticated segments to DSP from the [!DNL LiveRamp] [!DNL Connect] dashboard.
 
 ## Tasks
 
-1. For either option, contact `adcloud-support@adobe.com` to enable the following settings in DSP, which will allow you to target authenticated segments in DSP campaigns once [all steps in the activation workflow are completed](source-about.md#workflow-sources-rtcdp):
+1. For either option, contact `adcloud-support@adobe.com` to enable the following settings in DSP, which will allow you to target authenticated segments in DSP campaigns once [all steps in the activation workflow are completed](source-adobe-rtcdp.md):
 
     1. [!DNL LiveRamp] [!DNL RampID] campaign configuration prior to segment sharing from [!DNL Real-Time CDP].
 

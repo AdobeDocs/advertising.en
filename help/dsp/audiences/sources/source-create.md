@@ -18,7 +18,7 @@ For additional steps required to ingest segments from specific customer data pla
 
 1. In the [!UICONTROL Select a Type] menu, select the source type.
 
-   * *[!UICONTROL RT-CDP]*: [The [!DNL Adobe Real-Time Customer Data Profile]](source-about.md).
+   * *[!UICONTROL RT-CDP]*: [The [!DNL Adobe Real-Time Customer Data Platform]](source-about.md).
 
    <!-- * *[!UICONTROL ActionIQ]*: The [[!DNL ActionIQ] customer data platform](source-about.md). -->
 
@@ -34,7 +34,7 @@ For additional steps required to ingest segments from specific customer data pla
 
 >[!NOTE]
 >
->After you create a source for the [!DNL Real-Time CDP], you'll need to activate your [!DNL Real-Time CDP] audiences through the Adobe Advertising DSP destination within [!DNL Real-Time CDP] to begin importing them. See [the steps in the activation workflow](source-about.md#workflow-sources-rtcdp).<!-- add link to workflow for Tealium also -->
+>After you create a source for your customer data platform, you'll need to complete additional steps. See the [activation workflow for [!DNL Adobe] [!DNL Real-time CDP](source-adobe-rtcdp.md)<!--, the [activation workflow for [!DNL ActionIQ](source-actioniq.md), --> and the [activation workflow for [!DNL Tealium](source-tealium.md).
 
 >[!MORELIKETHIS]
 >

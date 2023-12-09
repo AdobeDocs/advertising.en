@@ -1,13 +1,11 @@
 ---
-title: 
-description: 
+title: "Workflow for Using the DSP Integration with [!DNL Tealium]"
+description: "Learn how to enable DSP to ingest your [!DNL Tealium] first-party segments."
 feature: DSP Audiences
 ---
-# Workflow for Using the DSP Integration with [!DNL Tealium] {#workflow-sources-tealium}
+# Workflow for Using the DSP Integration with [!DNL Tealium]
 
-You can share your organization's first-party data from the [!DNL Tealium] customer data platform using the [!DNL Amazon Web Services] (AWS) firehose connector.  
-
-There are four steps to share data from Tealium with DSP:
+You can share your organization's first-party data from the [!DNL Tealium] customer data platform using the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
 
 1. [Create an audience source in DSP](#source-create). 
 
@@ -114,7 +112,15 @@ For each segment that you want to share, create a separate connector for each ac
 >[!MORELIKETHIS]
 >
 >* [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
->* [Activate Authenticated Segments from Durable ID Partners](source-durable-id.md)
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
+>* [Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
+
+<!--
+>* [Workflow for Using the DSP Integration with [!DNL ActionIQ]](/help/dsp/audiences/sources/source-actioniq.md)
+-->
+
+<!-- relevant?
+>* [Activate Authenticated Segments from Durable ID Partners](source-durable-id.md)
+-->
