@@ -5,6 +5,14 @@ feature: DSP Audiences
 ---
 # Workflow for Using the DSP Integration with [!DNL Tealium]
 
+<!-- for What's New:
+
+<I didn't see "Amazon Kinesis" anywhere in product requirements -- just AWS (parent) generically. Also, verify if must use RampIDs in particular or if there's a choice in the Audience > Source settings
+
+| <release date> | [!UICONTROL Audiences] | Advertisers can now share their first-party data from the [!DNL Tealium] customer data platform (CDP) with DSP using the [!DNL Amazon Kinesis] streaming data platform. You can then target your DSP placements to the segments using [!DNL RampIDs]. Within placement settings for [!UICONTROL Audience Targeting], the shared segments are available in the [!UICONTROL First Party Segments] list. | Contact your Adobe Account Team. |
+
+-->
+
 You can share your organization's first-party data from the [!DNL Tealium] customer data platform using the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
 
 1. [Create an audience source in DSP](#source-create). 
@@ -29,7 +37,7 @@ You can share your organization's first-party data from the [!DNL Tealium] custo
 
       1. The column containing hashed email IDs must be mapped to the attribute of the type of Visitor ID.
 
-      1. The audience must be created with the `Tealium_visitor_id` attribute. The right enrichment must be applied to trigger the audience. See the [[!DNL Tealium] documentation on visitor ID attributes (https://docs.tealium.com/server-side/visitor-stitching/visitor-id-attribute/).
+      1. The audience must be created with the `Tealium_visitor_id` attribute. The right enrichment must be applied to trigger the audience. See the [[!DNL Tealium] documentation on visitor ID attributes](https://docs.tealium.com/server-side/visitor-stitching/visitor-id-attribute/).
    
    1. The advertiser must give segment-mapping data to the Adobe Account Team to create the segments in DSP. Use the following column names and values in a comma-separated values file:<!-- are a couple of fields missing? -->
 
@@ -101,7 +109,9 @@ For each segment that you want to share, create a separate connector for each ac
                 
            1. (Recommended) Create an update action to keep the segment fresh. <!-- This was listed under triggers, but I don't see a setting in the Source UI, so is it in the Actions UI? -->
    
-## Step 4: Duplicate the existing connector in [!DNL Tealium] to continue to share segments {#duplicate-connector} <!-- why? -->
+## Step 4: Duplicate the existing connector in [!DNL Tealium] to continue to share segments {#duplicate-connector}
+
+<!-- why? -->
 
 1. In [!DNL Tealium], duplicate the connector you created in Step 3.
 
