@@ -22,7 +22,8 @@ For more information about destinations, see the Experience Platform [Destinatio
 
 See "[Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)."
 
-<!-->
+<!--
+
 ## [!DNL ActionIQ]
 
 DSP is integrated with the [!DNL Action IQ] customer data platform.
