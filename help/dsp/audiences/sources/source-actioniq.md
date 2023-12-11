@@ -11,7 +11,7 @@ There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 
 1. [Create an audience source in DSP](#source-create). 
 
-1.
+1. ?
 
 ## Step 1: Create an audience source in DSP {#source-create}
 
@@ -22,7 +22,6 @@ There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 >[!MORELIKETHIS]
 >
 >* [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
-
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
 >* [Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
