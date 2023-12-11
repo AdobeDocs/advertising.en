@@ -6,8 +6,6 @@ exl-id: 18bfb32d-2754-44b2-86c1-d102836cc08c
 ---
 # JavaScript Code for [!DNL Analytics for Advertising]
 
-*Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
-
 *Advertisers with Advertising DSP only*
 
 For Advertising DSP, the [!DNL Analytics for Advertising] integration tracks view-through and click-through site interactions. Click-through visits are tracked by the standard Adobe Analytics code on your webpages; the [!DNL Analytics] code captures the AMO ID and EF ID parameters in the landing page URL and tracks them in their respective reserved eVars. You can track view-through visits by deploying a JavaScript snippet in your webpages.
