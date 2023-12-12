@@ -29,5 +29,5 @@ There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
 
 <!-- relevant?
->* [Activate Authenticated Segments from Durable ID Partners](source-durable-id.md)
+>* [Activate Authenticated Segments from Universal ID Partners](source-durable-id.md)
 -->
