@@ -42,7 +42,7 @@ You can collect your own first-party audience data by creating and implementing 
 
                The advertiser's IT department or other group may need to schedule, or be informed about, the tag deployment.
 
-        * To track users exposed to an ad unit on desktop, mobile, or CTV devices:
+        * To track users exposed to an ad unit on desktop or mobile devices:
 
             1. Copy the impression tracking tag, which is labeled "[!UICONTROL Desktop or mobile ads]."
 
