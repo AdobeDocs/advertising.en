@@ -11,7 +11,7 @@ feature: DSP Audiences
 
 | <release date> | [!UICONTROL Audiences] | Advertisers can now share their first-party data from the [!DNL Tealium] customer data platform (CDP) with DSP using the [!DNL Amazon Kinesis] streaming data platform. You can then target your DSP placements to the segments using [!DNL RampIDs]. Within placement settings for [!UICONTROL Audience Targeting], the shared segments are available in the [!UICONTROL First Party Segments] list. | Contact your Adobe Account Team. |
 
--->
+--><!-- Look up Kinesis -->
 
 You can share your organization's first-party data from the [!DNL Tealium] customer data platform using the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
 
@@ -103,7 +103,7 @@ For each segment that you want to share, create a separate connector for each ac
               
               * For the Cookies attribute, name the custom message `cookies`.
                 
-           1. Enter the external_segment_key that was included in the segment-mapping data in [Step 2](#map-data). <!-- Is the field named "external_segment_key"?  If not, what is the field name? -->
+           1. In the option to create a custom field, in the Source Key field, enter the External Segment Key that was included in the segment-mapping data in [Step 2](#map-data). <!-- Is the field named "external_segment_key"?  If not, what is the field name? -->
            
               DSP will use this key to populate your segment.
                 
@@ -111,13 +111,13 @@ For each segment that you want to share, create a separate connector for each ac
    
 ## Step 4: Duplicate the existing connector in [!DNL Tealium] to continue to share segments {#duplicate-connector}
 
-<!-- why? -->
+<!-- why?  because can have only one segment per connector and need multiple connectors -->
 
 1. In [!DNL Tealium], duplicate the connector you created in Step 3.
 
    The duplicated connector is named "`<original name>-copy`."
 
-1. Rename the new connector to <!-- the original name, or what? -->
+1. Rename the new connector to the new segment name.
 
 >[!MORELIKETHIS]
 >
