@@ -18,7 +18,7 @@ For additional support, contact your Adobe Account Team or `adcloud-support@adob
 
 >[!MORELIKETHIS]
 >
->* [Activate Authenticated Segments from Durable ID Partners](source-durable-id.md)
+>* [Activate Authenticated Segments from Universal ID Partners](source-durable-id.md)
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
