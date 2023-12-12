@@ -40,6 +40,6 @@ For additional steps required to ingest segments from specific customer data pla
 >
 >* [Audience Source Settings](source-settings.md)
 >* [About Activating Authenticated Segments from Audience Sources](source-about.md)
->* [Activate Authenticated Segments from Durable ID Partners](source-durable-id.md)<!-- title?-->
+>* [Activate Authenticated Segments from Universal ID Partners](source-durable-id.md)<!-- title?-->
 >* [Adobe Advertising Cloud DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)

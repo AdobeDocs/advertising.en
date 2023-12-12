@@ -41,7 +41,7 @@ See "[Workflow for Using the DSP Integration with [!DNL Tealium]](/help/dsp/audi
 
 >[!MORELIKETHIS]
 >
->* [Activate Authenticated Segments from Durable ID Partners](source-durable-id.md)
+>* [Activate Authenticated Segments from Universal ID Partners](source-durable-id.md)
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
 >* [Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
