@@ -1,14 +1,12 @@
 ---
-title: Activate Authenticated Segments from Durable ID partners
-description: Learn about activating authenticated audiences through a durable ID solution.
+title: Activate Authenticated Segments from Universal ID partners
+description: Learn about activating authenticated audiences through a universal ID solution.
 feature: DSP Audiences
 exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
 ---
-# Activate Authenticated Segments from Durable ID partners 
+# Activate Authenticated Segments from Universal ID partners 
 
-*Beta feature*
-
-To activate authenticated audiences through a durable ID solution within Advertising DSP, your segments must be translated into [!DNL RampIDs], which are recognizable in a biddable environment. You can accomplished this by either:
+To activate authenticated audiences through a universal ID solution within Advertising DSP, your segments must be translated into [!DNL RampIDs], which are recognizable in a biddable environment. You can accomplished this by either:
 
 * Leveraging the DSP integration with the [!DNL Adobe Real-Time Customer Data Platform (CDP)] and the [!DNL Adobe-LiveRamp Retrieval API].
 
