@@ -27,7 +27,3 @@ There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 >* [Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [Workflow for Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
-
-<!-- relevant?
->* [Activate Authenticated Segments from Universal ID Partners](source-durable-id.md)
--->
