@@ -1,11 +1,12 @@
 ---
 title: Create and upload assets
-description: Learn how to create reusable image, video, and text assets and upload them to your [!DNL Google Ads] account-level asset library.
+description: Learn how to create reusable image, video, and text assets and upload them to your [!DNL Google Ads] and [!DNL Microsoft® Advertising] account-level asset libraries.
 feature: Search Campaign Management
+exl-id: dd6fc5bf-3e3e-4e8f-b20b-37b9311fcf9f
 ---
 # Create and upload assets
 
-*For [!DNL Google Ads] accounts only*
+*For [!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts only*
 
 *Open beta feature*
 
@@ -45,7 +46,7 @@ feature: Search Campaign Management
       
         You can post up to 10 video URLs at a time.
 
-      * For text assets, enter the text string. To add another text asset, click **+ Add** and enter another text string.
+      * ([!DNL Google Ads] accounts only) For text assets, enter the text string. To add another text asset, click **+ Add** and enter another text string.
       
         Each text asset can have a maximum of 1000 characters. You can upload a maximum of 10 text assets at a time.
         

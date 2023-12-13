@@ -1,7 +1,7 @@
 ---
 title: Generate a report from an existing report
 description: Learn how to create a report using an previously-generated report.
-exl-id: 14df0a57-4b15-4383-8093-9ca88b0e028c
+exl-id: f094c767-629a-4e3c-91f6-12761927fe89
 feature: Search Reports
 ---
 # Generate a report from an existing report

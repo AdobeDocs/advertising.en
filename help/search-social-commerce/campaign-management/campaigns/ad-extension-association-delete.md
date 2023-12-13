@@ -1,7 +1,7 @@
 ---
 title: Delete ad extension associations with campaigns and ad groups
 description: Learn how to disassociate ad extensions with campaigns and ad groups.
-exl-id: 89aa556b-65fa-43de-989a-f58f0bbcf1f2
+exl-id: 123838fc-ebfb-477f-b33d-03d9e2d98789
 feature: Search Campaign Management
 ---
 # Delete ad extension associations with campaigns and ad groups
@@ -23,5 +23,4 @@ You can delete campaign- and ad group-level associations with any location, phon
 >[!MORELIKETHIS]
 >
 >* [Manage [!DNL Google Ads] callout extensions](/help/search-social-commerce/campaign-management/campaigns/callout-extension-manage.md)
->* [Manage location extensions](location-extension-manage.md)
 >* [Manage sitelink extensions](sitelink-extension-manage.md)

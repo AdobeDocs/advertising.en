@@ -58,7 +58,7 @@ index: yes
     + [Quickly Edit Key Placement Settings](/help/dsp/campaign-management/placements/placement-quick-edit.md)
     + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
-    + [Edit the Ad Schedule for a Placement](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
+    + [Edit the Ad Schedules for Placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
     + [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
     + [View the Change Log for a Placement](/help/dsp/campaign-management/placements/placement-change-log.md)
     + [Pause or Activate a Placement](/help/dsp/campaign-management/placements/placement-pause-activate.md)
@@ -213,6 +213,15 @@ index: yes
     + [Edit a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
     + [Delete a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
     + [[!UICONTROL Report Destination] Settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
++ Planner {#planner}
+  + [About the DSP Planner Tool](/help/dsp/planner/planner-about.md)
+  + [Create a Connected TV Reach Plan](/help/dsp/planner/planner-create.md)
+  + [Duplicate a Connected TV Reach Plan](/help/dsp/planner/planner-duplicate.md)
+  + [Edit a Connected TV Reach Plan](/help/dsp/planner/planner-edit.md)
+  + [Settings for Connected TV Reach Plans](/help/dsp/planner/planner-settings.md)
+  + [Export a Forecast for a Connected TV Reach Plan](/help/dsp/planner/planner-export.md)
+  + [Regenerate the Forecast for a Connected TV Reach Plan](/help/dsp/planner/planner-forecast.md)
+  + [Archive a Connected TV Reach Plan](/help/dsp/planner/planner-archive.md)
 + Administration {#admin}
   + [Edit Your Profile](/help/dsp/admin/user-own-profile-edit.md)
   + Users {#users}

@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Campaign Report]'
 description: Learn about the [!UICONTROL Campaign Report].
-exl-id: a241535a-d32a-4f84-9e0e-addb68d75496
+exl-id: c0cbdacc-2fa3-4eca-9355-6b3547d83802
 feature: Search Reports, Search Basic Reports
 ---
 # [!UICONTROL Campaign Report]

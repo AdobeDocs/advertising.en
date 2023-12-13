@@ -1,7 +1,7 @@
 ---
 title: Data requirements for data feeds using EF IDs
 description: Reference the data requirements for data feeds using EF IDs.
-exl-id: 15e76f3a-c376-4e7b-b3c8-ca76fd427002
+exl-id: 507ed42c-349f-4311-af61-8f7a27794162
 feature: Search Tracking
 ---
 # Data requirements for data feeds using EF IDs

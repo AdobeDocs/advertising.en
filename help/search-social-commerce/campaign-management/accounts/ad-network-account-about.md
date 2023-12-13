@@ -1,7 +1,7 @@
 ---
 title: About ad network accounts
 description: Learn about ad network accounts in Search, Social, & Commerce.
-exl-id: fca469f1-502c-415a-897d-03b6e6ba34e8
+exl-id: cb3e650d-721f-48ec-ada3-50bdd7c0375b
 feature: Search Campaign Management
 ---
 # About ad network accounts

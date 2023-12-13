@@ -2,7 +2,7 @@
 title: View the conversion metrics tracked for an advertiser
 description: Learn how to view a list of the conversion metrics tracked for an advertiser.
 feature: Conversions
-exl-id: 56f5b480-9e75-47a0-8f88-8fa8fcfe23f9
+exl-id: 7c9e2271-4127-4d43-aff8-5a2788bfe60f
 ---
 # View the conversion metrics tracked for an advertiser
 

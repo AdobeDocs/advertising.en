@@ -6,7 +6,7 @@ exl-id: 3190fd78-18d2-4da3-920b-d4171e693c03
 ---
 # Create and Implement a Custom Segment
 
-You can collect your own first-party audience data by creating and implementing a custom DSP segment. You can use the segment to track a) users exposed to ads from desktop, mobile, and CTV devices and b) users who visit specific webpages. You can later retarget users in the segment with additional ads or prevent users in the segment from receiving additional ads.
+You can collect your own first-party audience data by creating and implementing a custom DSP segment. You can use the segment to track a) users exposed to ads from desktop and mobile devices and b) users who visit specific webpages. You can later retarget users in the segment with additional ads or prevent users in the segment from receiving additional ads.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ You can collect your own first-party audience data by creating and implementing 
 
                The advertiser's IT department or other group may need to schedule, or be informed about, the tag deployment.
 
-        * To track users exposed to an ad unit on desktop, mobile, or CTV devices:
+        * To track users exposed to an ad unit on desktop or mobile devices:
 
             1. Copy the impression tracking tag, which is labeled "[!UICONTROL Desktop or mobile ads]."
 

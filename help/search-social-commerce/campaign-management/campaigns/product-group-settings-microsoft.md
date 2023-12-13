@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Microsoft® Advertising] product group settings'
 description: Reference the settings for [!DNL Microsoft® Advertising] shopping product groups.
-exl-id: a34511ef-f5bc-4d93-a56e-90348f670ad6
+exl-id: ea3a4137-1396-430f-9d6c-8e1e1f1f52c2
 feature: Search Campaign Management
 ---
 # [!DNL Microsoft® Advertising] product group settings

@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Transaction Report]'
 description: Learn about the [!UICONTROL Transaction Report].
-exl-id: 879c6dc0-6667-4e63-8403-bc2f2ee5ba3c
+exl-id: b20c22c1-280e-4dd1-aa6f-7c1e9af09b4c
 feature: Search Reports, Search Advanced Reports
 ---
 # [!UICONTROL Transaction Report]

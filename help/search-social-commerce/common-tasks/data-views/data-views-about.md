@@ -1,7 +1,7 @@
 ---
 title: About customizing data in campaign management views
 description: Learn about the types of data that you can customize in campaign data views.
-exl-id: a8e4020a-ed8e-4ccc-9aaf-8ba115fb9ea3
+exl-id: 89f36865-9275-494e-ac33-d41fa30faa2a
 feature: Search Common Tasks, Search Custom Data Views
 ---
 # About customizing data in campaign management views

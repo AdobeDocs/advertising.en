@@ -1,7 +1,7 @@
 ---
 title: Operations you can perform in bulksheets
 description: Reference general information about adding, editing, and deleting campaign data using bulksheets.
-exl-id: 82969bb8-dff8-48e7-b37d-1446a2a90072
+exl-id: 17ec9307-6dfd-45cb-b8bd-d0d7fcbf2d41
 feature: Search Bulksheets
 ---
 # Operations you can perform in bulksheets

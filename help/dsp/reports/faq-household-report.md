@@ -1,7 +1,7 @@
 ---
 title: FAQs About Household Reports
 description: Learn more about household reach, frequency, and conversion data, including how the household reports are different from other reports and troubleshooting.
-exl-id: aaaf6f6d-b133-4cda-8fc6-bd686b3b1ebb
+exl-id: 3ffd178e-de41-4663-b85f-bd8ce3eb0dad
 ---
 # FAQs About Household Reports
 

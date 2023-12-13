@@ -2,7 +2,7 @@
 title: Change the display name for a conversion metric
 description: Learn how to change the conversion metric name that's shown in column headings in your management views and reports.
 feature: Conversions
-exl-id: 322be2d5-0d66-4d0c-a17a-619a1f6c0644
+exl-id: 5c3c1eaf-6754-42f1-acf1-f75d01e2d216
 ---
 # Change the display name for a conversion metric
 

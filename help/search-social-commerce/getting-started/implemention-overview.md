@@ -1,7 +1,7 @@
 ---
 title: Overview of implementing Search, Social, & Commerce
 description: Learn
-exl-id: 31a4cd6f-8b02-4762-8e68-c9f377389935
+exl-id: c99dc029-81e4-4416-89b1-7cf8d66658b2
 feature: Search Getting Started
 ---
 # Overview of implementing Search, Social, & Commerce

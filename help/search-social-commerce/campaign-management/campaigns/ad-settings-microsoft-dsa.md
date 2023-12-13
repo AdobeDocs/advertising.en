@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Microsoft® Advertising] expanded dynamic search ad settings'
 description: Reference the settings for [!DNL Microsoft® Advertising] expanded dynamic search ads.
-exl-id: 73ac6cca-717e-46d2-a060-f1eafd754245
+exl-id: 232a57fc-2823-4d82-aa02-3e670430979f
 feature: Search Campaign Management
 ---
 # [!DNL Microsoft® Advertising] expanded dynamic search ad settings

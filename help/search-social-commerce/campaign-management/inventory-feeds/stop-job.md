@@ -1,7 +1,7 @@
 ---
 title: Stop a posting job for inventory feed data
 description: Learn how to stop a posting job for inventory feed data.
-exl-id: 995dd6f4-fb8c-4b3f-bdc5-1e80d1129f53
+exl-id: 06a10ec1-bfff-4384-b1c8-ba6b504c6888
 feature: Search Inventory Feeds
 ---
 # Stop a posting job for inventory feed data

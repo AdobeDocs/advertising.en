@@ -1,7 +1,8 @@
 ---
-title: "Create conversion metrics from Adobe Analytics [!DNL eVars] and props"
-description: "Configure custom success event metrics using [!DNL eVar]- and [!DNL prop]-level data."
+title: Create conversion metrics from Adobe Analytics [!DNL eVars] and props
+description: Configure custom success event metrics using [!DNL eVar]- and [!DNL prop]-level data.
 feature: Integration with Adobe Analytics, Conversions
+exl-id: 7717d10c-76ca-4ba9-9fbb-e34ad006619c
 ---
 # Create conversion metrics from Adobe Analytics [!DNL eVars] and [!DNL props]
 
@@ -51,13 +52,11 @@ Most of the following tasks must be performed by an [!DNL Analytics] administrat
 
 1.  Contact your Adobe Account Team to sync the new metric into Adobe Advertising.
 
-After the metric is available, can use it to create an objective, which you can then assign to a Search, Social, & Commerce portfolio or use as a [custom goal](/help/dsp/optimization/custom-goal-about.md) for a DSP package.
+After the metric is available, you can use it to create an objective, which you can then assign to a Search, Social, & Commerce portfolio or use as a [custom goal](/help/dsp/optimization/custom-goal-about.md) for a DSP package.
 
 For more information about creating objectives, see the Optimization Guide chapter on "Objectives," which is available from within Search, Social, & Commerce.
 
 >[!MORELIKETHIS]
 >
 >* [[!DNL Analytics] Data in Adobe Advertising](/help/integrations/analytics/analytics-data-in-advertising.md)
-<!--
->* [](/help/search-social-commerce/admin/conversion-metrics/ ????????)
--->
+>* [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)

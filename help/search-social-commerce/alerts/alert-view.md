@@ -1,7 +1,7 @@
 ---
 title: View custom alert
 description: Learn how to list your alert instances.
-exl-id: a2ba2a8c-7334-4a6e-9873-8a4f59b9717c
+exl-id: 0a5260f6-8651-451e-841c-600be371cc3f
 feature: Search Alerts
 ---
 # View custom alerts

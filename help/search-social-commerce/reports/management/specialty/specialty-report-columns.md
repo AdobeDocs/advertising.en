@@ -1,7 +1,7 @@
 ---
 title: Report columns for specialty reports
 description: Learn about the available data columns for specialty reports.
-exl-id: 5cc98781-588b-4bf3-8978-a7966009fa51
+exl-id: c4533105-a0a8-4c76-bda9-ae653e7fd911
 feature: Search Reports, Search Specialty Reports
 ---
 # Report columns for specialty reports
@@ -10,10 +10,14 @@ feature: Search Reports, Search Specialty Reports
 |----|----|
 | \[Advertiser-specific custom (derived) metrics\] | The value for a custom metric you've created that’s calculated from existing metrics. |
 | \[Advertiser-specific conversion metrics\] | The number of conversions for a specified conversion metric or site engagement metric. |
+|[!UICONTROL Absolute Top Impression Rate Percent] | The percentage of your ad impressions that were shown in the first position at the top of search results. |
+|[!UICONTROL Absolute Top Impression Share Lost To Budget Percent] | The estimated percentage of time that your ads weren't shown in the first position at the top of search results because your daily or monthly budget was too low. |
+|[!UICONTROL Absolute Top Impression Share Lost To Rank Percent] | The percentage of time that your ads weren't shown in the first position at the top of search results because of a poor ad rank. |
+|[!UICONTROL Absolute Top Impression Share Percent] | The impressions you’ve received in the absolute top location (the first ad above the organic search results) divided by the estimated number of impressions that you were eligible to receive in the top location. |
 | [!UICONTROL Account Name] | The account name. |
 | [!UICONTROL Account Number] | ([!UICONTROL MSA Ad Extension] reports) The account identifier assigned by the ad network. |
 | [!UICONTROL Account Status] | ([!UICONTROL MSA Ad Extension] reports) The account status: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, or *[!UICONTROL Inactive]*. |
-| [!UICONTROL Ad Distribution] | ([!UICONTROL Bing Ads Geo Report]) Where the ad was distributed: *[!UICONTROL Search]* (on search results pages) or *[!UICONTROL Content]* (on [!DNL Microsoft®]-owned websites or participating partner websites). |
+| [!UICONTROL Ad Distribution] | ([!UICONTROL Bing Ads Geo Report], [!UICONTROL MSA Network Impression Share Report], and [!UICONTROL MSA Network Performance Report]) Where the ad was distributed: *[!UICONTROL Audience]* (on the audience network)*, [!UICONTROL Search]* (on search results pages) or *[!UICONTROL Content]* (on [!DNL Microsoft®]-owned websites or participating partner websites). |
 | [!UICONTROL Ad Extension ID] | ([!UICONTROL MSA Ad Extension] reports) The ID for the ad extension. |
 | [!UICONTROL Ad Extension Number] | ([!UICONTROL MSA Ad Extension] reports) The version attribute for the ad extension. |
 | [!UICONTROL Ad Extension Type] | ([!UICONTROL MSA Ad Extension] reports) The type of ad extension. |
@@ -38,6 +42,9 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Assists] | ([!UICONTROL MSA Ad Extension] reports) The number of times an entity contributed to a conversion associated with a different entity. |
 | [!UICONTROL Audience ID] | The numeric audience ID. |
 | [!UICONTROL Audience Name] | The audience. Available audiences include your [!DNL Google Ads] customer data-based, in-market, and similar audiences and your [!DNL [!DNL Microsoft® Advertising]] custom, customer match, dynamic remarketing, in-market, remarketing, and similar audiences. |
+| [!UICONTROL Audience Impression Lost To Budget Percent] | The percentage of impression share you lost on the Microsoft Audience Network because your daily or monthly budget was too low. |
+| [!UICONTROL Audience Impression Lost To Rank Percent] | The percentage of impression share you lost on the Microsoft Audience Network because of a poor ad rank. |
+| [!UICONTROL Audience Impression Share Percent] | The estimated percentage of impressions on the [!DNL Microsoft Audience Network] divided by the total available impressions you could have received. |
 | [!UICONTROL Audience Status] | The status of the audience. |
 | [!UICONTROL Average CPC] | The average cost per click. |
 | [!UICONTROL Average Position], [!UICONTROL Avg Position] | The average position of the ads during the specified date range.<br><br>For [!DNL Google Ads] and [!DNL Yahoo! Japan Ads] campaigns, this data is available only through September 2019. For [!DNL Microsoft® Advertising], this data is available only through 22 January 2021. |
@@ -82,12 +89,15 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL End Date] | The last day reported. |
 | [!UICONTROL Extension Property Value] | ([!UICONTROL MSA Ad Extension] reports) The [display name of the extension](https://help.ads.microsoft.com/#apex/ads/en/51001). |
 | [!UICONTROL Extension Type ID] | ([!UICONTROL MSA Ad Extension] reports) The ID for the ad extension type. |
-| [!UICONTROL Goal] | ([!UICONTROL MSA Ad Extension] reports) The name of the conversion goal. |
-| [!UICONTROL Goal Type] | ([!UICONTROL MSA Ad Extension] reports) The type of conversion goal. |
+| [!UICONTROL Goal] | ([!UICONTROL MSA Ad ExtensionReport] reports, [!UICONTROL MSA Network Performance Report]) The name of the conversion goal. |
+| [!UICONTROL Goal Type] | ([!UICONTROL MSA Ad Extension] reports, [!UICONTROL MSA Network Performance Report]) The type of conversion goal. |
 | [!UICONTROL Google Conversions] | ([!UICONTROL AdWords Conversion Report]) The number of online conversions tracked by [the [!DNL Google Ads Conversion Optimizer]](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md). |
 | [!UICONTROL Google Converted Clicks] | ([!UICONTROL AdWords Conversion Report]; deprecated in 2016) The number of clicks that resulted in one or more conversions. |
-| [!UICONTROL Impr. (Abs. Top) %] | ([!DNL Google Ads] only; [!UICONTROL AdWords and Bing Audience Target Report], [!UICONTROL Campaign Daily Impression Share Report], and [!UICONTROL Keyword Daily Impression Share Report]) The percentage of your ad impressions that are shown as the first ad above the organic search results. |
+| [!UICONTROL Impr. (Abs. Top) %] | ([!DNL Google Ads] only; [!UICONTROL AdWords and Bing Audience Target Report], [!UICONTROL Campaign Daily Impression Share Report], and [!UICONTROL Keyword Daily Impression Share Report]) The percentage of your ad impressions that were shown as the first ad above the organic search results. |
 | [!UICONTROL Impr. (Top) %] | ([!DNL Google Ads] only; [!UICONTROL AdWords and Bing Audience Target Report], [!UICONTROL Campaign Daily Impression Share Report], and [!UICONTROL Keyword Daily Impression Share Report]) The percentage of your ad impressions that are shown above the organic search results. |
+|[!UICONTROL Impression Lost To Budget Percent] | The estimated percentage of time that your ads weren't shown because your daily or monthly budget was too low. |
+|[!UICONTROL Impression Lost To Rank Percent] | The percentage of time that your ads weren't shown because of a poor ad rank. |
+|[!UICONTROL Impression Share Percent] | The impressions you’ve received divided by the estimated number of impressions that you were eligible to receive. |
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
 | [!UICONTROL Keyword] | The keyword.<br><br><b>Note:</b> If the report includes data from ad groups in content-enabled search campaigns, then this column includes the applicable ad group names such "(adgroup content) Your Ad Group Name." For a site-targeted placement in a search campaign, this column doesn't have a value. |
 | [!UICONTROL Keyword ID] | The numeric ID that Search, Social, & Commerce assigns to the keyword. |
@@ -115,7 +125,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Query Match Type] | (AdWords Search Query Report) The keyword match type for the search query. |
 | [!UICONTROL Region] | ([!UICONTROL AdWords Geo Report] and [!UICONTROL Bing Ads Geo Report]) A region or U.S./Canadian state for which impressions or clicks originated. It's determined from the user's IP address. |
 | [!UICONTROL Return on Ad Spend] | ([!UICONTROL MSA Ad Extension] reports) The total revenue divided by spend, expressed as a percentage. |
-| [!UICONTROL Revenue] | ([!UICONTROL MSA Ad Extension] reports) The total revenue. |
+| [!UICONTROL Revenue] | ([!UICONTROL MSA Ad Extension] reports, [!UICONTROL MSA Network Performance Report]) The total revenue. |
 | [!UICONTROL Revenue per Assist] | ([!UICONTROL MSA Ad Extension] reports) The total revenue per assist. | 
 | [!UICONTROL Revenue per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The total revenue per conversion. |
 | [!UICONTROL SE Account Name] | The account name on the ad network. |
@@ -144,6 +154,10 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL title_part1] | ([!UICONTROL MSA Ad Extension by Ad Report]) The first line of the ad that links to your website. |
 | [!UICONTROL title_part2] | ([!UICONTROL MSA Ad Extension by Ad Report]) The second line of the ad that links to your website. |
 | [!UICONTROL title_part3] | ([!UICONTROL MSA Ad Extension by Ad Report]) The third line of the ad that links to your website. |
+|[!UICONTROL Top Impression Rate Percent] | The percentage of your ad impressions that were shown in the mainline (the top ad placements above the search results). |
+|[!UICONTROL Top Impression Share Lost To Budget Percent] | The estimated percentage of time that your ads weren't shown in the mainline (the top ad placements above the search results) because your daily or monthly budget was too low. |
+|[!UICONTROL Top Impression Share Lost To Rank Percent] | The percentage of time that your ads weren't shown in the mainline (the top ad placements above the search results) because of a poor ad rank. |
+|[!UICONTROL Top Impression Share Percent] | The impressions you’ve received in the mainline (the top ad placements above the search results) divided by the estimated number of impressions that you were eligible to receive in the top location. |
 | [!UICONTROL Top vs. Other] | ([!UICONTROL MSA Ad Extension] reports) The position of your ad on the search results page. |
 | [!UICONTROL Total Clicks] | ([!UICONTROL MSA Ad Extension] reports) The number of clicks when the ad element was present in the ad copy, whether or not it was clicked. |
 | [!UICONTROL User SE Account ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network. |

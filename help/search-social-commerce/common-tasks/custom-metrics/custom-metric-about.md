@@ -1,7 +1,7 @@
 ---
 title: About custom metrics
 description: Learn about custom metrics, which are calculated from standard metrics.
-exl-id: 6a2df48f-4d6b-4afe-88c0-c52a6de53e33
+exl-id: 2c322ad1-399c-4e94-9a68-44c07da04cbd
 feature: Search Common Tasks, Search Custom Metrics
 ---
 # About custom metrics

@@ -1,7 +1,7 @@
 ---
 title: Show and hide a trend chart
 description: Learn how to view and hide a trend chart for the data in some campaign management views.
-exl-id: 9360e0c1-a326-4b1f-8c80-a4a5049ff024
+exl-id: fa58b123-648f-4a95-86f0-3c38fa89cb28
 feature: Search Common Tasks
 ---
 # Show and hide a trend chart

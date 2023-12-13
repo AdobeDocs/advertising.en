@@ -1,7 +1,7 @@
 ---
 title: FAQs about tracking
 description: Learn answers to common questions about tracking, including troubleshooting issues.
-exl-id: f559b977-dd44-4d29-b49e-c41c6fb783d1
+exl-id: e5302c09-0b40-47ae-bc88-9299e6bd3044
 feature: Search Tracking
 ---
 # FAQs about tracking

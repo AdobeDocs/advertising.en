@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Google Ads] ad group settings'
 description: Reference the settings for [!DNL Google Ads] ad groups.
-exl-id: 00aaa936-796f-4e22-9bee-4bb5121cd887
+exl-id: def75630-19b9-4676-ad34-5d9041cc3680
 feature: Search Campaign Management
 ---
 # [!DNL Google Ads] ad group settings

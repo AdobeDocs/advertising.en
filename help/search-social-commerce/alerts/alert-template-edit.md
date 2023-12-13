@@ -1,7 +1,7 @@
 ---
 title: Edit a custom alert template
 description: Learn how to edit a template for generating custom alerts.
-exl-id: 14051d02-108c-4b0e-8a52-9ae18a95fe2e
+exl-id: 37dfaaa2-ecd2-42cf-a3a6-9d82a8610355
 feature: Search Alerts
 ---
 # Edit a custom alert template

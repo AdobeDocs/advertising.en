@@ -1,7 +1,8 @@
 ---
-title: "[!UICONTROL MSA Ad Extension Detail Report]"
+title: '[!UICONTROL MSA Ad Extension Detail Report]'
 description: Learn about the [!UICONTROL MSA Ad Extension Detail Report].
 feature: Search Reports, Search Specialty Reports
+exl-id: 8fdbfdf8-502a-47e0-a0a0-8722726280e9
 ---
 # [!UICONTROL MSA Ad Extension Detail Report]
 

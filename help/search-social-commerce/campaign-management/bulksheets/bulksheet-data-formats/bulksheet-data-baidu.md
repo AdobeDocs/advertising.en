@@ -1,7 +1,7 @@
 ---
 title: Required bulksheet data for [!DNL Baidu] accounts
 description: Reference the required header fields and data fields in bulksheets for [!DNL Baidu] accounts.
-exl-id: 9066f3d5-5de1-4efe-bd61-6c877e106920
+exl-id: 9680cb37-50d4-4b4b-b359-ac54267cd5e6
 feature: Search Bulksheets
 ---
 # Appendix - Required bulksheet data for [!DNL Baidu] accounts
@@ -23,6 +23,10 @@ Platform,Acct Name,Campaign Name,Campaign Budget,Location,Excluded IPs (Baidu), 
 ## Available data fields
 
 {{$include /help/_includes/bulksheet-appendices-intro-required-data.md}}
+
+>[!TIP]
+>
+>The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents or the right pane by clicking ![Hide left pane](/help/search-social-commerce/assets/hide-left-pane.png "Hide left pane") at the top of the left pane or ![Hide right pane](/help/search-social-commerce/assets/hide-right-pane.png "Hide right pane") at the top of the right pane.
 
 | Field | Campaign | Ad Group | Keyword | Text Ad | Location Target | Description |
 |----|----|----|----|----|----|----|

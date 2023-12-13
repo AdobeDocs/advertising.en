@@ -1,7 +1,7 @@
 ---
 title: Click-tracking formats for [!DNL Yahoo! Japan Ads]
 description: Learn about the click-tracking formats for [!DNL Yahoo! Japan Ads] accounts.
-exl-id: 4584f2c4-8090-4931-bd44-0df42f350755
+exl-id: 79e45205-5c72-4612-9b60-36538e3c48c4
 feature: Search Tracking
 ---
 # Click-tracking formats for sponsored ads on [!DNL Yahoo! Japan Ads]

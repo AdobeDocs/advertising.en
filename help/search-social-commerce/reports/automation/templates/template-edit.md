@@ -1,7 +1,7 @@
 ---
 title: Edit a report template
 description: Learn how to edit the settings for your reusable report templates.
-exl-id: 8e195b60-8c58-460b-bc61-19dd2452d332
+exl-id: f986bc75-e42c-4388-8cb1-305100678b1b
 feature: Search Reports
 ---
 # Edit a report template

@@ -1,7 +1,7 @@
 ---
 title: Edit your notification settings
 description: Learn how to edit the settings for your notifications.
-exl-id: bcfbecf4-ed1d-4afe-a42d-e584d6837db8
+exl-id: b60d3abe-10ec-4fc0-8c91-6b329a3e9ecc
 feature: Search Notifications
 ---
 # Edit your notification settings

@@ -1,7 +1,7 @@
 ---
 title: About sitelink extensions
 description: Learn about sitelink extensions.
-exl-id: bf4ef112-7a9f-4e8a-8f04-06ed123c862a
+exl-id: c2d96440-62da-4b57-a98e-d7b94882d6c5
 feature: Search Campaign Management
 ---
 # About sitelink extensions

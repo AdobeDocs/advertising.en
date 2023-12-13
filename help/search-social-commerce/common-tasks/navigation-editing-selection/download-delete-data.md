@@ -1,7 +1,7 @@
 ---
 title: Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu
 description: Learn how to delete a report or bulksheet file you've downloaded a campaign management view.
-exl-id: bb25c2f1-3ade-44ad-b10a-b5684feffd8f
+exl-id: cd1244da-ddb8-4ee1-8ebb-2df4e9924952
 feature: Search Common Tasks
 ---
 # Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu

@@ -1,7 +1,7 @@
 ---
 title: FAQs About Custom Reports
 description: Learn answers to common questions about performance reports, including troubleshooting data issues.
-exl-id: 85707666-7c0f-4aa3-8c91-fb73ef6a5061
+exl-id: 1232efce-25eb-48d8-a3fb-f57711fa14e5
 feature: Search Reports
 ---
 # FAQs About Custom Reports

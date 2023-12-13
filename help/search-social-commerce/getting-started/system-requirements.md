@@ -1,7 +1,7 @@
 ---
 title: System requirements
 description: Learn about software and account requirements.
-exl-id: 9ff7d9ba-3f04-4552-b24f-6c8165cd89e1
+exl-id: 818494f2-45d6-4788-a847-d80dec711245
 feature: Search Getting Started
 ---
 # System requirements

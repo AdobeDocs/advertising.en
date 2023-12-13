@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Yandex] text ad settings'
 description: Reference the settings for [!DNL Yandex] text ads.
-exl-id: 762eca31-58f7-4a4e-bf6a-1c2132c6529f
+exl-id: ed0ae54f-85a3-4475-af2d-f3e693fc48a1
 feature: Search Campaign Management
 ---
 # [!DNL Yandex] text ad settings

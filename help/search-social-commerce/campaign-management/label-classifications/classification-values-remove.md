@@ -1,7 +1,7 @@
 ---
 title: Remove label classification values from account components
 description: Learn how to remove associations between label classification values and account components.
-exl-id: 0e7ef344-7f23-40bc-9841-dc0354ad7f07
+exl-id: 8697367b-0bf9-48c9-8dd3-e733360e1df2
 feature: Search Label Classifications
 ---
 # Remove label classification values from account components

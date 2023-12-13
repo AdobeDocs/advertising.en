@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Product Group Report]'
 description: Learn about the [!UICONTROL Product Group Report].
-exl-id: cda775bb-3b86-4315-9b46-bf5f488a9fe8
+exl-id: 4e310d06-11fe-4c5a-b9a3-59ee099aeaef
 feature: Search Reports, Search Basic Reports
 ---
 # [!UICONTROL Product Group Report]

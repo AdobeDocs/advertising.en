@@ -1,7 +1,7 @@
 ---
 title: Remove campaigns from a portfolio
 description: Learn how to remove campaigns from a portfolio.
-exl-id: f86ebc10-650c-42ef-b3df-cd707a863c70
+exl-id: 5f2e7a01-f55b-4f49-a217-462cd2e365c7
 feature: Search Campaign Management
 ---
 # Remove campaigns from a portfolio

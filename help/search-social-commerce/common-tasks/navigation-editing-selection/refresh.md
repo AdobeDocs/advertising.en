@@ -1,7 +1,7 @@
 ---
 title: Select multiple rows
 description: Learn how to refresh the data in campaign management views.
-exl-id: 63ce1753-3bfb-454d-ac18-ef67bf95eabc
+exl-id: b1103f02-89cf-4cdb-9077-03685e61778c
 feature: Search Common Tasks
 ---
 # Refresh data in management views

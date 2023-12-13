@@ -1,7 +1,7 @@
 ---
 title: Manage biddable keywords
 description: Learn how to create and manage biddable keywords for search ad groups.
-exl-id: c52364bf-a55a-444e-bde8-88d46c2f4813
+exl-id: 79ae5347-8625-4d31-a9fe-f476c041a063
 feature: Search Campaign Management
 ---
 # Manage biddable keywords

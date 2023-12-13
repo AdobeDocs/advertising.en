@@ -129,5 +129,5 @@ exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 >* [Create Multiple Third-party Ads](ad-create-multiple.md)
 >* [Edit an Ad](ad-edit.md)
 >* [List the Placements Associated with an Ad](ad-list-placements.md)
->* [Edit the Ad Schedule for a Placement](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
+>* [Edit the Ad Schedules for Placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
 >* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)

@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Yahoo! Japan Ads] keyword settings'
 description: Reference the settings for [!DNL Yahoo! Japan Ads] keywords.
-exl-id: cfb6ad85-1478-44af-a132-6b41278acd32
+exl-id: c2a34b3e-fb88-44e8-8bf8-7854639bd8cd
 feature: Search Campaign Management
 ---
 # [!DNL Yahoo! Japan Ads] keyword settings

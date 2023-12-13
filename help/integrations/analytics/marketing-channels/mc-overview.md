@@ -6,8 +6,6 @@ exl-id: de02dff5-86ce-41e8-89c6-3c11f6375b77
 ---
 # Fundamentals of [!DNL Analytics Marketing Channels]
 
-*Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
-
 This page explains key information about [!DNL Analytics Marketing Channels] that [!DNL Analytics for Advertising] users need to understand.
 
 For full documentation on [!DNL Marketing Channels], see "[Get Started with [!DNL Marketing Channels]](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html)."

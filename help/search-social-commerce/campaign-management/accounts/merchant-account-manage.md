@@ -1,7 +1,7 @@
 ---
 title: Manage merchant accounts
 description: Learn how to set up and manage account details for a merchant center account.
-exl-id: eca58f55-f056-46b3-b192-2849690e8bcc
+exl-id: 7d940e45-ea49-470b-98d0-0196593228cb
 feature: Search Campaign Management
 ---
 # Manage merchant accounts

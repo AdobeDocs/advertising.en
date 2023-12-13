@@ -1,7 +1,7 @@
 ---
 title: Log out
 description: Learn where to log out.
-exl-id: cebb97ca-8fa6-4b29-a3f7-613beb422450
+exl-id: b19b19ea-ca74-4605-b2a3-0515659b58f5
 feature: Search Getting Started
 ---
 # Log out

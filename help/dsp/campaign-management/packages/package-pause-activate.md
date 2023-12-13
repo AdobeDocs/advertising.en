@@ -2,7 +2,7 @@
 title: Pause or Activate a Package
 description: Learn how to pause or activate a package.
 feature: DSP Packages
-exl-id: 0cbeb64a-f2f1-4773-bee6-a9c1325e1f7e
+exl-id: c4a6fb08-14db-4c8b-ab7a-0bbc0f201390
 ---
 # Pause or Activate a Package
 

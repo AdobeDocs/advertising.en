@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Google Ads] conversion data'
 description: Learn about the types of [!DNL Google Ads]-tracked conversion data available in in Search, Social, & Commerce.
-exl-id: a7ee8e72-aa7d-4e90-b765-b7b01308762d
+exl-id: a4634410-446b-4e2e-a52f-22a494f731f9
 feature: Search Campaign Management, Conversions
 ---
 # [!DNL Google Ads] conversion data in Search, Social, & Commerce

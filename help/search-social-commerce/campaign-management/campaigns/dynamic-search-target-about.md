@@ -1,7 +1,7 @@
 ---
 title: About [!DNL Google Ads] dynamic search targets
 description: Learn about [!DNL Google Ads] dynamic search targets.
-exl-id: 3936455b-926a-4a3f-b3df-54e92cdfdc99
+exl-id: e6a8a426-5848-4161-99f3-1140aa3e4b9f
 feature: Search Campaign Management
 ---
 # About [!DNL Google Ads] dynamic search targets

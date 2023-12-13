@@ -1,7 +1,7 @@
 ---
 title: Create a label classification
 description: Learn how to create a label classification to group your account components.
-exl-id: a7f6ca43-e829-4295-96bc-27ce8858227a
+exl-id: 227f44d7-c422-4baa-94ff-6deafcddf920
 feature: Search Label Classifications
 ---
 # Create a label classification

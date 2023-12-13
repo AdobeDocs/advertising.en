@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Ad Group Report]'
 description: Learn about the [!UICONTROL Ad Group Report].
-exl-id: 7939c015-4828-49d4-8f7a-efd5992e088b
+exl-id: 1d82fbd3-748b-4c05-87b0-9dc016d5d1b1
 feature: Search Reports, Search Basic Reports
 ---
 # [!UICONTROL Ad Group Report]

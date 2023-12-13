@@ -1,7 +1,7 @@
 ---
 title: Manage audience exclusions for campaigns and ad groups
 description: Learn how to configure and manage audience exclusions for your [!DNL Google Ads] and [!DNL Microsoft® Advertising] campaigns and ad groups.
-exl-id: 0b05d980-d736-4b44-8317-c90de687dbd4
+exl-id: 8bebc1fe-aad8-40f2-9dca-e4065a0c4990
 feature: Search Campaign Management
 ---
 # Manage audience exclusions for your [!DNL Google Ads] and [!DNL Microsoft® Advertising] campaigns and ad groups

@@ -1,7 +1,7 @@
 ---
 title: View or save a spreadsheet report feed file
 description: Learn how to view a spreadsheet feed and save it to a file.
-exl-id: 3f8af6fb-6652-4434-bd88-ef1a0e10efd1
+exl-id: b229ab9e-a48a-4487-8434-0fdcf7139d8f
 feature: Search Reports
 ---
 # View or save a spreadsheet report feed file

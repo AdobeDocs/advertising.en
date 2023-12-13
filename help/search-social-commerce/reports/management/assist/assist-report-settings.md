@@ -1,7 +1,7 @@
 ---
 title: Assist report settings
 description: Learn about the required and optional settings for assist reports.
-exl-id: f5b4f4ee-c13c-4d16-a786-a2225d136efe
+exl-id: f433f52b-174f-4df5-b033-2e19d00835f1
 feature: Search Reports, Search Assist Reports
 ---
 # Assist report settings

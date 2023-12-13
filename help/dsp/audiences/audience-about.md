@@ -10,7 +10,7 @@ In DSP, you can create and manage audience segments and audience sets, which you
 
 * You can collect your own first-party audience data by creating and implementing segments. You can later retarget users in the segment with ads or prevent users in the segment from receiving ads. You can create the following types of segments:
 
-   * [Custom segments](/help/dsp/audiences/custom-segment-create.md) to track a) users exposed to ads from desktop, mobile, and CTV devices and b) users who visit specific webpages.
+   * [Custom segments](/help/dsp/audiences/custom-segment-create.md) to track a) users exposed to ads from desktop and mobile devices and b) users who visit specific webpages.
 
    * [CCPA opt-out-of-sale segments](/help/dsp/audiences/ccpa-opt-out-segment-create.md) to track the users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). You can retrieve monthly reports of the user IDs from opt-out-of-sale requests.
 

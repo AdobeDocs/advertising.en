@@ -1,7 +1,7 @@
 ---
 title: The data used for reports
 description: Learn about the different types of data available in data views and custom reports.
-exl-id: 3e1f2967-5034-46bc-8473-63cffeeeecba
+exl-id: ba808b21-4421-4de5-9293-a20ec67cc81c
 feature: Search Reports
 ---
 # The data used for reports
@@ -47,7 +47,7 @@ Depending on the attribution rule you specify for the report, data for each repo
 | [!UICONTROL Assist Reports] | All | The previous 18 months. |
 | [!UICONTROL Specialty Reports] | [!UICONTROL AdWords Audience Target Report] | The previous year.|
 | | [!UICONTROL RSA Assets Report] | Beginning on 10 August 2022. |
-| | [!UICONTROL MSA Ad Extension by Ad Report], [!UICONTROL MSA Ad Extension by Keyword Report], [!UICONTROL MSA Ad Extension Detail Report] | The last 180 days. |
+| | [!UICONTROL MSA Ad Extension by Ad Report], [!UICONTROL MSA Ad Extension by Keyword Report], [!UICONTROL MSA Ad Extension Detail Report], [!UICONTROL MSA Network Impression Share Report], [!UICONTROL MSA Network Performance Report] | The last 180 days. |
 | | All other [!UICONTROL Specialty Reports] | The previous two (2) months. |
 | [!UICONTROL Model Accuracy Reports] | [!UICONTROL Forecast Accuracy Report] | The previous 18 months. |
 | [!UICONTROL Change History Report] | &mdash; | The previous 31 days. |

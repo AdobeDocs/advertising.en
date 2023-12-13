@@ -1,7 +1,7 @@
 ---
 title: Generate a basic report or advanced report
 description: Learn how to generate a customized basic or advanced report.
-exl-id: cad5183c-cd21-439a-ab3e-033b2bb187ec
+exl-id: 529a35f5-517f-4bde-b752-c0afc6346f4b
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
 ---
 # Generate a basic report or advanced report

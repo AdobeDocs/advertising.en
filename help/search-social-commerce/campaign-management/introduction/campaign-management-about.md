@@ -1,7 +1,7 @@
 ---
 title: About campaign management in Search, Social, & Commerce
 description: Learn about campaign management features in Search, Social, & Commerce.
-exl-id: e6fca48d-1f6c-4d36-a10d-e1a5db859a37
+exl-id: 19e36e73-fcb6-4ff3-980b-fc05042725fd
 feature: Search Campaign Management
 ---
 # About campaign management in Search, Social, & Commerce

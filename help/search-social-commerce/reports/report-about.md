@@ -1,7 +1,7 @@
 ---
 title: About reports
 description: Learn about performance reports, including the different report types available and how to automate reports.
-exl-id: a945b255-a9b0-42f4-85ea-44416c837fc0
+exl-id: 173d1bad-e3aa-4417-a9b1-4b5d06c304d2
 feature: Search Reports
 ---
 # About reports

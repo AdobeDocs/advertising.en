@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Campaign Hourly Report]'
 description: Learn about the [!UICONTROL Campaign Hourly Report].
-exl-id: 0819d249-c105-4408-b5a2-a82a9e553d31
+exl-id: 0e807e74-b8f8-4823-a9d9-1871a20e90b6
 feature: Search Reports, Search Basic Reports
 ---
 # [!UICONTROL Campaign Hourly Report]

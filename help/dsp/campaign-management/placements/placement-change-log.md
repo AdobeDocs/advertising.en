@@ -33,6 +33,6 @@ You can sort the data by the Type, Modified By, or Date Modified column.
 >* [Create a Placement](placement-create.md)
 >* [Edit a Placement](placement-edit.md)
 >* [Duplicate a Placement](placement-duplicate.md)
->* [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
+>* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
 >* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [Placement Settings](placement-settings.md)

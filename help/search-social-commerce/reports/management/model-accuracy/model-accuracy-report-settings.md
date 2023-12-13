@@ -1,7 +1,7 @@
 ---
 title: Model accuracy report settings
 description: Learn about the required and optional settings for model accuracy reports.
-exl-id: 0d0e6ace-3cb3-4cf4-8cbf-3dd5a356f35e
+exl-id: 11782a75-9141-4a4e-b3b3-60679b0e36de
 feature: Search Reports, Search Model Accuracy Reports
 ---
 # Model accuracy report settings
