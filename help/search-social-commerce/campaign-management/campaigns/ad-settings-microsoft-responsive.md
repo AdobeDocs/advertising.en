@@ -6,13 +6,19 @@ feature: Search Campaign Management
 ---
 # [!DNL Microsoft® Advertising] responsive (audience) ad settings
 
-The responsive ad format is available for image-based audience ads on the [!DNL Microsoft® Audience Network]. The ad network dynamically assembles responsive ads using the most effective combinations of ad elements.
+The responsive ad format is available for image-based, video-based, and connected TV video-based audience ads on the [!DNL Microsoft® Audience Network]. The ad network dynamically assembles responsive ads using the most effective combinations of ad elements.
+
+## [!UICONTROL Ad Settings] (for video ads) and [!UICONTROL Audience CTV Video Ad Details]
+
+**[!UICONTROL Videos]:** The URL of one video ad.
+
+**[!UICONTROL Status]:** The ad status.
+
+## [!UICONTROL Responsive Ad Details] (for image ads)
 
 >[!NOTE]
 >
 >The ad network automatically creates ads for audience campaigns that are linked to a merchant center store using the store's product information and ad group-level user targeting. You don't need to manually create ads.
-
-## [!UICONTROL Responsive Ad Details]
 
 **[!UICONTROL Images]:** Up to 15 JPEG or PNG images for the ad. Include at least one image with a 1.91:1 aspect ratio. See the permitted aspect rations and dimensions for [audience ad images](https://help.ads.microsoft.com/#apex/ads/en/56912/0).
 
