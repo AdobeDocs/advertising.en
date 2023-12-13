@@ -24,6 +24,6 @@ exl-id: 274ea502-ad15-4d3d-922a-17caddb87f69
 >
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
 >* [About Activating Authenticated Segments from Audience Sources](source-about.md)
->* [Activate Authenticated Segments from Universal ID Partners](source-durable-id.md)
+>* [Activate Authenticated Segments from Universal ID Partners](source-universal-id.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
