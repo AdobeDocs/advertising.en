@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Google Ads] shopping ad template settings for inventory feeds'
 description: Reference the settings for [!DNL Google Ads] shopping ad templates for inventory feeds.
-exl-id: c154e1b3-70eb-437d-80f6-abf6ac192697
+exl-id: 36cbe719-f984-4456-8575-94b9d3e6094e
 feature: Search Inventory Feeds
 ---
 # [!DNL Google Ads] shopping ad template settings for inventory feeds

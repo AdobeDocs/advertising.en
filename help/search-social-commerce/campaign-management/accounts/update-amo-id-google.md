@@ -1,7 +1,7 @@
 ---
 title: Update the AMO ID (s_kwcid) tracking code for a [!DNL Google Ads] account
 description: Learn how to switch to the latest AMO ID tracking code for a [!DNL Google Ads] account.
-exl-id: 82168ee6-43bb-4b8d-882d-5254a1abcb09
+exl-id: 4dfd9ea6-f639-4b9a-aaa5-13f574e3961b
 feature: Search Campaign Management
 ---
 # Update the AMO ID (s_kwcid) tracking code for a [!DNL Google Ads] account

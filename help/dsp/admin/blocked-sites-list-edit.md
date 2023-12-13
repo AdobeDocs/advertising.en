@@ -30,7 +30,7 @@ exl-id: b2261b3a-ead2-4d88-a363-66c53653de1a
 
        * To remove a single values, click **X** next to the value.
 
-   * (Optional) To export the list to a Microsoft Excel spreadsheet in comma-separated values (CV) format, click **Export**.
+   * (Optional) To export the list to a [!DNL Microsoft Excel]  spreadsheet in comma-separated values (CV) format, click **Export**.
 
 >[!MORELIKETHIS]
 >

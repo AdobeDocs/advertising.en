@@ -130,7 +130,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 >
 >* [About Placement Management](placement-about.md)
 >* [Edit a Placement](placement-edit.md)
->* [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
+>* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
 >* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)

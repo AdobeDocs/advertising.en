@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Baidu] keyword settings'
 description: Reference the settings for [!DNL Baidu] keywords.
-exl-id: 70ecb5da-1056-4d87-82ba-ac03e0c81761
+exl-id: 3b3a578b-06f1-486f-9ade-9104e0a1dd5f
 feature: Search Campaign Management
 ---
 # [!DNL Baidu] keyword settings

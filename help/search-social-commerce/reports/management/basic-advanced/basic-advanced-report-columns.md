@@ -1,7 +1,7 @@
 ---
 title: Report columns for basic and advanced reports
 description: Learn about the available data columns for basic and advanced reports.
-exl-id: 20ce9519-4a13-4175-bf7c-26f1dc4c9bd1
+exl-id: 649cdfa0-e6f2-4881-9f9d-8217e2547d99
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
 ---
 # Report columns for basic and advanced reports
@@ -27,6 +27,8 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Ad Group Type] | The ad group type, such as <i>[!UICONTROL Audience]</i> (for audience campaigns only), <i>[!UICONTROL Discovery]</i> (for discovery campaigns only), <i>[!UICONTROL Display]</i> (for display campaigns only), <i>[!UICONTROL Search Dynamic]</i> (for dynamic search ads only), <i>[!UICONTROL Search Standard]</i> (for responsive search ads and existing expanded text ads only), <i>[!UICONTROL Shopping Showcase]</i>, <i>[!UICONTROL Shopping Product]</i> (for standard shopping campaigns only), or <i>[!UICONTROL Shopping Smart]</i> (for smart shopping campaigns). For some campaign types, a single campaign can include multiple ad types. |
 | [!UICONTROL Ad Groups] | The number of ad groups to which the label value is assigned. |
 | [!UICONTROL AD Name] |  The ad group name; the same value as [!UICONTROL Ad Group]. |
+| [!UICONTROL Ad Recall Lift] | ([!DNL Meta] campaigns only) The estimated number of people who will remember your ad within two days. |
+| [!UICONTROL Ad Recall Rate] | ([!DNL Meta] campaigns only) The estimated number of people who will remember your ad within two days divided by the number of people you've reached, as a percentage. |
 | [!UICONTROL Ad Size] | The dimensions of the ad. |
 | [!UICONTROL AD Strength] | ([!DNL Google Ads] responsive search ads) The effectiveness of the ad: <i>[!UICONTROL average]</i>, <i>[!UICONTROL excellent]</i>, <i>[!UICONTROL good]</i>, <i>[!UICONTROL no_ads]</i>, <i>[!UICONTROL pending]</i>, <i>[!UICONTROL poor]</i>, <i>[!UICONTROL unknown]</i>, or <i>[!UICONTROL unspecified]</i>. |
 | [!UICONTROL Adgroup MBA] | ([!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Yahoo! Japan Ads] campaigns) The current ad group-level mobile bid adjustment, which determines how bids are adjusted when the ad is displayed on a mobile device. |
@@ -40,9 +42,10 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Campaign] | The campaign. |
 | [!UICONTROL Campaign Budget] | The campaign budget. |
 | [!UICONTROL Campaign MBA] | ([!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Yahoo! Japan Ads] campaigns) The current campaign-level mobile bid adjustment, which determines how bids are adjusted when the ad is displayed on a mobile device. |
+| [!UICONTROL Campaign Product Scope Filter] | (Campaigns using the shopping network only) The products in your merchant account for which product ads can be created for the campaign. |
 | [!UICONTROL Campaign Start Date] | The first day on which bids were/are placed for the campaign. |
 | [!UICONTROL Campaign Status] | The campaign status: <i>[!UICONTROL Active]</i>, <i>[!UICONTROL Paused]</i>, <i>[!UICONTROL Ended]</i>, or <i>[!UICONTROL Deleted]</i>. |
-| [!UICONTROL Campaign Type] | The campaign type, such as <i>[!UICONTROL Audience (Image)]</i>, <i>[!UICONTROL Audience (Feed)]</i>, <i>[!UICONTROL Discovery]</i>, <i>[!UICONTROL Search and Display]</i>, <i>[!UICONTROL Standard Display]</i>, <i>[!UICONTROL Standard Performance Max]</i>, <i>[!UICONTROL Standard Search]</i>, <i>[!UICONTROL Standard Shopping]</i>, <i>[!UICONTROL Video]</i>, or <i>[!UICONTROL Others]</i>. |
+| [!UICONTROL Campaign Type] | The campaign type, such as <i>[!UICONTROL Audience (Ctv Video)]</i><i>[!UICONTROL Audience (Feed)]</i>, <i>[!UICONTROL Audience (Image)]</i>, <i>[!UICONTROL Audience (Video)]</i>, <i>[!UICONTROL Brand Shopping]</i>, <i>[!UICONTROL Discovery]</i>, <i>[!UICONTROL Search and Display]</i>, <i>[!UICONTROL Standard Display]</i>, <i>[!UICONTROL Standard Performance Max]</i>, <i>[!UICONTROL Standard Search]</i>, <i>[!UICONTROL Standard Shopping]</i>, <i>[!UICONTROL Store Ad]</i>, <i>[!UICONTROL Video]</i>, or <i>[!UICONTROL Others]</i>. |
 | [!UICONTROL Channel Type] | The type of marketing channel: <i>[!UICONTROL Search]</i> or <i>[!UICONTROL Content]</i>. This column isn't included when the report's [!UICONTROL Search/Content] setting in the report settings is "[!UICONTROL Combined]." |
 | [!UICONTROL City] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Transaction Report]) A city from which clicks originated. It's determined from the user's IP address. |
 | [!UICONTROL Click Match Type] | The keyword match type for the ad that was clicked. This is the same as the [!UICONTROL Listing Match Type] except for [!DNL Microsoft Advertising] keywords with multiple match types. For [!DNL Microsoft Advertising] keywords, this is the match type that was actually clicked. |
@@ -100,6 +103,7 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Estimated Impressions] | (Display campaigns only) The estimated number of ad impressions that Search, Social, & Commerce has tracked. This value may be different than the value for the [!UICONTROL Impressions] column (when available), which shows the value provided by the ad networks. |
 | [!UICONTROL Exclude (yes/no)] | Whether bidding is excluded (<i>[!UICONTROL Yes]</i>) or bidding are allowed (<i>[!UICONTROL No]</i>) for ads for matching products. |
 | [!UICONTROL First Page CPC] | (Google campaigns only) The cost per click (CPC) for ads that appear on the first page of search results during the specified date range. |
+| [!UICONTROL Frequency] | ([!DNL Meta] campaigns only) The average number of times someone saw your ad. |
 | `GGL*`, `GGL_CT*`, and `GGL_XD_CT*` [[!DNL Google Ads]-tracked conversions] | ([!DNL Google Ads] campaigns on the search and shopping networks) [!DNL Google Ads]-tracked conversions, with up to three separate metrics for each conversion:<ul><li>`GGL*` &mdash; (When you track it) The conversion value for the keyword, beginning with the "GGL" prefix (such as GGL Purchase).</li><li>`GGL_CT*` &mdash; The number (count) of conversions, beginning with the "GGL_CT" prefix (such as GGL_CT_Purchase).</li><li>`GGL_XD_CT*` &mdash; (When available for the conversion type, when you track them) The number (count) of cross-device conversions, as measured by [!DNL Google Ads] beginning with the "GGL_XD_CT_" prefix (such as GGL_XD_CT_Purchase).</li></ul><br>Each conversion is recorded by bid unit and click date; it’s not available at the event level. For more information about [!DNL Google Ads]-tracked conversions, see "[[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)." |
 | [!UICONTROL Impr. (Abs. Top) %] | ([!DNL Google Ads] only) The percentage of your ad impressions that are shown as the first ad above the organic search results. |
 | [!UICONTROL Impr. (Top) %] | ([!DNL Google Ads] only) The percentage of your ad impressions that are shown above the organic search results. |
@@ -121,16 +125,17 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Market Type] | The market type:  <i>[!UICONTROL search]</i> or <i>[!UICONTROL social]</i> |
 | [!UICONTROL Max Spend % Target] | (Campaigns in portfolios with [!UICONTROL ROI], [!UICONTROL CPT], or [!UICONTROL Marginal Cost per Transaction] spend strategies) The maximum daily budget target for the portfolio. |
 | [!UICONTROL Max Spend (%)] | ([!UICONTROL Network Constraint Report]) The maximum percentage of the portfolio's spend that's configured for the ad network. For portfolios using the constraint type "[!UICONTROL Min-Max]," this is the [!UICONTROL Max %] value. For portfolios using the constraint type "[!UICONTROL Target Spend]," this is the [!UICONTROL Target Spend] value. |
-| [!UICONTROL Method ID] | ([!UICONTROL Portfolio Report])  <!-- ???????? Insert value --> |
+| [!UICONTROL Method ID] | ([!UICONTROL Portfolio Report])  |
 | [!UICONTROL Metro Code] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) A numeric metro code from which impressions or clicks originated (such as us-751 for Denver). It's determined from the search user's IP address. |
 | [!UICONTROL Min Spend (%)] | ([!UICONTROL Network Constraint Report]) The minimum percentage of the portfolio's spend that's configured for the ad network. For portfolios using the constraint type "[!UICONTROL Min-Max]," this is the [!UICONTROL Min %] value, if a [!UICONTROL Min %] is configured. For portfolios using the constraint type "[!UICONTROL Target Spend]," this is the [!UICONTROL Target Spend] value. |
 | [!UICONTROL Network Account ID] | The account ID assigned by the network. |
 | [!UICONTROL Network Ad Group ID] | The ad group ID assigned by the network. |
 | [!UICONTROL Network Campaign ID] | The campaign ID assigned by the network. |
+| [!UICONTROL Network Campaign Objective] | ([!DNL Meta] campaigns only) The objective for the campaign. |
 | [!UICONTROL Objective Name] | The portfolio's objective. |
 | [!UICONTROL Objective Value] | The total weighted conversions as calculated according to the portfolio's current objective. |
 | [!UICONTROL Objective Value Calculation] | The calculation used to derive the Objective Value. |
-| [!UICONTROL Outbound Clicks] | ([!DNL Meta] ads) The number of clicks on links within ads that take people off [!DNL Meta]-owned properties. |
+| [!UICONTROL Outbound Clicks] | ([!DNL Meta] campaigns only) The number of clicks on links within ads that take people off [!DNL Meta]-owned properties. |
 | [!UICONTROL Parent Product Groupings] | The full hierarchy of the parent product groups, with `>>` between tiers (such as `All Products>>CategoryL1=Animals`), when applicable. |
 | [!UICONTROL Partition Type] | The type of product group: <i>[!UICONTROL Sub-Division]</i> (parent product groups) or <i>[!UICONTROL Unit]</i> (the lowest level of child product groups, which has a bid). |
 | [!UICONTROL Path Position] | ([!UICONTROL Transaction Report]) The position of the event within the conversion path. |
@@ -144,10 +149,12 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Portfolio Target] | ([!UICONTROL Portfolio Report]) The daily target for the portfolio's spend strategy. For daily/monthly and day of week/month strategies, the current day’s target is shown. |
 | [!UICONTROL Preferred Devices] | ([!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Yahoo! Japan Ads] campaigns) Whether the ad settings give preference to <i>[!UICONTROL Mobile ads]</i> or to <i>[!UICONTROL All ads]</i>. |
 | [!UICONTROL Product Group ID] | The numeric ID that the ad network assigns to the product group. |
+| [!UICONTROL Product Group Name] | The name of the product group. |
+| [!UICONTROL Product Group Status] | The status of the product group. |
 | [!UICONTROL Product Groupings] | The parent product group. |
 | [!UICONTROL Product ID] | ([!UICONTROL Keyword Report]; [!DNL Google Ads] product listing ads) The product ID of the product shown with the ad.<br><br><b>Note:</b> The ID is captured only when the product listing includes the tracking parameter `ev_plx=<GMC product ID>`, which you must add within [!DNL Google Merchant Center]. |
 | [!UICONTROL Raw Transaction Data] | ([!UICONTROL Transaction Report]) The revenue for the conversion metric (such as 1 for one registration or 12 for a 12 USD order). If multiple bid units have the same transaction ID, then the revenue for the tracking ID is split according to the number of clicks on the specified click date (when click data is available). |
-| [!UICONTROL Reach] | ([!DNL Meta] ads) The number of people who saw your ads at least once. Note: [!DNL Meta] deduplicates reach for user profiles daily, so the numbers reported by [!DNL Meta] and by Search, Social, & Commerce may differ. |
+| [!UICONTROL Reach] | ([!DNL Meta] campaigns only) The number of people who saw your ads at least once. Note: [!DNL Meta] deduplicates reach for user profiles daily, so the numbers reported by [!DNL Meta] and by Search, Social, & Commerce may differ. |
 | [!UICONTROL Region] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) A region or U.S./Canadian state for which impressions or clicks originated. It's determined from the user's IP address. |
 | [!UICONTROL SE Creative ID] | The ad ID assigned by the network. |
 | [!UICONTROL Search (Abs. Top) IS] | ([!DNL Google Ads] and [!DNL Microsoft Advertising]) The impressions you’ve received in the absolute top location (the very first ad above the organic search results) divided by the estimated number of impressions you were eligible to receive in the top location. Percentages under 10% are indicated as "`<10%`" or "`0.0999`." |
@@ -167,15 +174,17 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Start Date] | The first day reported. |
 | [!UICONTROL State] | (Geo Distribution Report, [!UICONTROL Keyword Report]) A state from which the transaction originated. It's determined from the user's IP address. |
 | [!UICONTROL Surfer ID] | ([!UICONTROL Transaction Report]) The ID of the user who completed the transaction. |
-| [!UICONTROL Through Plays] | ([!DNL Meta] ads) The number of views that watched the ad in its entirety. |
+| [!UICONTROL Thru Plays] | ([!DNL Meta] campaigns only) The number of views that watched the ad in its entirety. |
 | [!UICONTROL Top of Page CPC] | (Google campaigns only) The cost per click (CPC) for ads that appear at the top of search result pages during the specified date range. |
 | [!UICONTROL Tracking URL] | (Search-targeted keywords only) The tracking template or the destination URL embedded with (when applicable) Search, Social, & Commerce tracking code. |
 | [!UICONTROL Transaction Property Name] | ([!UICONTROL Transaction Report]) The advertiser-specific conversion metric to which the transaction is credited. |
 | [!UICONTROL Transaction Time] | ([!UICONTROL Transaction Report]) The time at which the specified conversion metric was credited. |
+| [!UICONTROL Two Second Continuous Video Plays] | ([!DNL Meta] campaigns only) The number of times the video was played for at least two continuous seconds. |
 | [!UICONTROL User Account Type] | Obsolete |
 | [!UICONTROL User SE Account ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network. |
-| [!UICONTROL Video Average Play Time] | ([!DNL Meta] ads) The average time that a video was played, including time spent replaying the video, for a single impression. |
-| [!UICONTROL Video Plays] | ([!DNL Meta] ads) The number of times your video starts to play, excluding replays. |
+| [!UICONTROL Video Average Play Time] | ([!DNL Meta] campaigns only) The average time that a video was played, including time spent replaying the video, for a single impression. |
+| [!UICONTROL Video Plays] | ([!DNL Meta] campaigns only) The number of times your video starts to play, excluding replays. |
+| [!UICONTROL Video Played at 25 Percent Count], [!UICONTROL Video Played at 50 Percent Count], [!UICONTROL Video Played at 75 Percent Count], and [!UICONTROLVideo Played at 100 Percent Count] | (Video ads) The number of videos that were played 25%, 50%, 75%, or 100% of the way through. |
 | [!UICONTROL VideoQuartile25Rate], [!UICONTROL VideoQuartile50Rate], [!UICONTROL VideoQuartile75Rate], and [!UICONTROL VideoQuartile100Rate] | (Video ads) The percentage of videos that were played 25%, 50%, 75%, or 100% of the way through. |
 | [!UICONTROL View Rate] | (Video ads) The number of views or engagements divided by the number of times the ad (video and thumbnail impressions) was shown. |
 | [!UICONTROL Views] | (Video ads) The number of times people watched or engaged with your ad. |

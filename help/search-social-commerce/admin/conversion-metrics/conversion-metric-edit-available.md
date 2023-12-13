@@ -2,7 +2,7 @@
 title: Change the conversion metrics available in management views and reports
 description: Learn how to make conversion metrics available in your management views and reports.
 feature: Conversions
-exl-id: a8f3a2d6-4203-42db-96cd-faf02d20d247
+exl-id: de3d288a-5fec-4479-92cf-7754390e21bb
 ---
 # Change the conversion metrics available in management views and reports
 

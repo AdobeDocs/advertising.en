@@ -1,7 +1,7 @@
 ---
 title: Edit and sort the column set from the [!UICONTROL Custom Columns] icon
 description: Learn how to change the visible columns using the column customizer.
-exl-id: 9b8ddb3d-c598-4393-85f2-0e586ebe0df3
+exl-id: bc03b53f-179a-426f-bc31-20be25915506
 feature: Search Common Tasks, Search Custom Data Views
 ---
 # Edit and sort the column set from the [!UICONTROL Custom Columns] icon

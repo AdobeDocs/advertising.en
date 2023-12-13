@@ -1,7 +1,7 @@
 ---
 title: Write effective text ad copy
 description: Learn about best practices for writing effective ad copy.
-exl-id: 17feba02-e49a-4550-aca8-d9b06d427a7e
+exl-id: 2c51cd0b-90c5-4093-9a0f-ace5ef1019e7
 feature: Search Best Practices
 ---
 # Write effective text ad copy

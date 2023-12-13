@@ -1,7 +1,7 @@
 ---
 title: Click-tracking formats for [!DNL Naver]
 description: Learn about the click-tracking formats for [!DNL Naver] accounts.
-exl-id: ff243eb5-d768-4e5c-b5b3-015fe22c9d5a
+exl-id: b438652e-6e98-4223-8169-2bfb37500670
 feature: Search Tracking
 ---
 # Click-tracking formats for sponsored ads on [!DNL Naver]

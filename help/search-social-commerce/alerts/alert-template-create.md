@@ -1,7 +1,7 @@
 ---
 title: Create a custom alert template
 description: Learn how to create a template for generating custom alerts.
-exl-id: 1acc6224-3e6c-4443-8efe-9ae8545d6da0
+exl-id: 95fdc91d-837c-46af-9dd7-212cb4b5a8ac
 feature: Search Alerts
 ---
 # Create a custom alert template

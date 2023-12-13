@@ -76,7 +76,7 @@ Use this option only when you want to apply the same changes to all selected pla
 >* [Quickly Edit Key Placement Settings](placement-quick-edit.md)
 >* [Create a Placement](placement-create.md)
 >* [Duplicate a Placement](placement-duplicate.md)
->* [Edit the Ad Schedule for a Placement](placement-edit-ad-schedule.md)
+>* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
 >* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)

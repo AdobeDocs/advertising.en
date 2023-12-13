@@ -1,7 +1,7 @@
 ---
 title: The initial setup tasks for reports
 description: Learn how to make metrics available in reports and how to automate reports.
-exl-id: 0f55aae9-6898-4967-a377-190a13dff6fd
+exl-id: c2e76c63-ddb8-4762-8628-30cf3f54b8fd
 feature: Search Reports
 ---
 # The initial setup tasks for reports

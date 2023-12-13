@@ -1,7 +1,7 @@
 ---
 title: Generate a report from a template
 description: Learn how to create a report using a report template.
-exl-id: 353e2a88-a3fc-4a53-afd4-b18b776357db
+exl-id: cb918323-cb7e-407c-bfa3-ec3d8753ecbb
 feature: Search Reports
 ---
 # Generate a report from a template

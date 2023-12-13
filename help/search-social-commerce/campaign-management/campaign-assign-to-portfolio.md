@@ -1,7 +1,7 @@
 ---
 title: Assign campaigns to a portfolio
 description: Learn how to include campaigns in portfolios for optimization.
-exl-id: ecf9f45f-5e90-4acb-a880-21fd8c96499d
+exl-id: 62876260-dadd-4f4b-a5b9-1e04914e3a89
 feature: Search Campaign Management
 ---
 # Assign campaigns to a portfolio

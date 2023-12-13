@@ -1,7 +1,7 @@
 ---
 title: Edit settings directly within a row
 description: Learn how edit data in management views within the row.
-exl-id: 54625fc5-0e7d-4474-9789-61e04ffbb44f
+exl-id: 0b22a2ec-50c2-457d-8cea-a40943ee2a41
 feature: Search Common Tasks
 ---
 # Edit settings directly within a row

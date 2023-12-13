@@ -1,7 +1,7 @@
 ---
 title: Post campaign data generated from feeds to ad networks
 description: Learn how to post data generated from inventory data feeds to ad networks.
-exl-id: 14ce377c-9b71-48ac-8ead-cada9c06d52f
+exl-id: 7d66c52b-f761-4be2-a1d9-2c63887d7cb7
 feature: Search Inventory Feeds
 ---
 # Post campaign data generated from feeds to ad networks

@@ -21,7 +21,7 @@ In the [!DNL Analytics for Advertising] [!DNL Last Event Service] tag you use on
 ```
 <script>
      if("undefined" != typeof AdCloudEvent) 
-          AdCloudEvent('IMS ORG Id');
+          AdCloudEvent('IMS ORG Id','rsid');
 </script>
 ```
 
@@ -30,7 +30,7 @@ In the [!DNL Analytics for Advertising] [!DNL Last Event Service] tag you use on
 ```
 <script>
      if("undefined" != typeof AdCloudEvent) 
-          stitchId = AdCloudEvent('IMS ORG Id').generateRandomId();
+          stitchId = AdCloudEvent('IMS ORG Id','rsid').generateRandomId();
 </script>
 ```
 

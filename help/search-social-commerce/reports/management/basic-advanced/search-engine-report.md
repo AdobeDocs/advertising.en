@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Search Engine Report]'
 description: Learn about the [!UICONTROL Search Engine Report].
-exl-id: d90323b0-c3fa-4cb9-a649-ec51f858e71b
+exl-id: d475861f-ec4b-47c8-be72-bccbe803e891
 feature: Search Reports, Search Basic Reports
 ---
 # [!UICONTROL Search Engine Report]

@@ -1,7 +1,7 @@
 ---
 title: Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft® Advertising]
 description: Learn how to export your synced campaigns in a [!DNL Google Ads] account directly into a synced [!DNL Microsoft® Advertising] account.
-exl-id: 1bb0d915-bf33-4c50-88a5-268d4de5ccff
+exl-id: e7714d3d-4a8e-44ef-a3a7-e5198c091660
 feature: Search Tools
 ---
 # Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft® Advertising]
@@ -16,7 +16,7 @@ You can replicate the following types of campaigns and their campaign structure:
 
   If you want to replicate shopping feed-based display campaigns, then first replicate your [!DNL Google Merchant Center] product offers to [!DNL Microsoft® Merchant Center]. When you replicate the campaigns, select the [!DNL Microsoft® Merchant Center] store in the Import Options to link the store to your feed-based audience campaigns.
 
-* [!DNL Google Ads] performance max campaigns, including local inventory ads, into [!DNL Microsoft® Advertising] smart shopping campaigns.
+* [!DNL Google Ads] performance max campaigns, including local inventory ads, into [!DNL Microsoft® Advertising] performance max campaigns.
 
 You can choose to update the campaigns once; daily weekly, or monthly; or according to [!DNL Microsoft® Advertising]'s recommended schedule. You can optionally configure notifications every time an import job runs or when errors or changes occur. Once you import your campaigns into [!DNL Microsoft® Advertising], you can check the status of your import job, review any error logs, manually run an import job, and edit, pause, enable, or delete your import schedule.
 

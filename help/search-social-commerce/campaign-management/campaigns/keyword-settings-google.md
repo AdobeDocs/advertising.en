@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Google Ads] keyword settings'
 description: Reference the settings for [!DNL Google Ads] keywords.
-exl-id: 8834e852-214b-4b2c-9a95-4b1c802e800d
+exl-id: b2937d18-565a-43f0-ba33-d46d4c77ec07
 feature: Search Campaign Management
 ---
 # [!DNL Google Ads] keyword settings

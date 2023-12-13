@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Yandex] ad group settings'
 description: Reference the settings for [!DNL Yandex] ad groups.
-exl-id: 8b313502-4101-46a0-a0c9-692eb754cc3d
+exl-id: f580382a-ada8-4de3-91c4-d0c84e43234c
 feature: Search Campaign Management
 ---
 # [!DNL Yandex] ad group settings

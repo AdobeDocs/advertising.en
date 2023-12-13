@@ -1,7 +1,7 @@
 ---
 title: '[!DNL Google Ads] call-only ad settings'
 description: Reference the settings for [!DNL Google Ads] call-only ads.
-exl-id: 1f810c2b-9c30-43c6-bda6-07609423ef79
+exl-id: 10672771-53fd-4ce9-9d67-6b1f8f5a41b8
 feature: Search Campaign Management
 ---
 # [!DNL Google Ads] call-only ad settings

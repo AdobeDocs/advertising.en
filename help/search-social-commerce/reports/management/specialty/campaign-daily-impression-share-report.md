@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Campaign Daily Impression Share Report]'
 description: Learn about the [!UICONTROL Campaign Daily Impression Share Report].
-exl-id: 85243fd0-0c39-4e73-b798-48710f887985
+exl-id: 0c77277f-e4a8-4c4b-83e8-0ad83402d81f
 feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL Campaign Daily Impression Share Report]

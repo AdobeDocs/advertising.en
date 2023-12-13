@@ -1,7 +1,7 @@
 ---
 title: View a report template
 description: Learn how to view a reusable report template.
-exl-id: fc2b9326-c783-4632-9673-89392bffb05f
+exl-id: 1c7ae1d4-c843-4c1b-a947-d58816abc4b2
 feature: Search Reports
 ---
 # View a report template

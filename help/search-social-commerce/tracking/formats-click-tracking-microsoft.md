@@ -1,7 +1,7 @@
 ---
 title: Click-tracking formats for [!DNL Microsoft Advertising]
 description: Learn about the click-tracking formats for [!DNL Microsoft Advertising] accounts.
-exl-id: 725981db-1b9a-4c89-b95d-98d07ec99756
+exl-id: 4970ac33-4978-4768-8701-6fdd3252bbd1
 feature: Search Tracking
 ---
 # Click-tracking formats for [!DNL Microsoft Advertising]

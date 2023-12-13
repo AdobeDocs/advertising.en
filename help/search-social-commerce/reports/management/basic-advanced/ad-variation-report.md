@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Ad Variation Report]'
 description: Learn about the [!UICONTROL Ad Variation Report].
-exl-id: 3f760c40-c9ff-4100-8b4a-80c98dca2460
+exl-id: e12f2dee-b430-444f-9204-73fed4e33e29
 feature: Search Reports, Search Basic Reports
 ---
 # [!UICONTROL Ad Variation Report]

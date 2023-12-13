@@ -1,7 +1,7 @@
 ---
 title: Manage credentials for ad network manager accounts
 description: Learn how to provide credentials for your [!DNL Google Ads] manager accounts.
-exl-id: bde22f70-12a7-4eef-a141-dafeed9a7dc5
+exl-id: 95866a2e-4695-4b1d-ac23-844d3b9a0a74
 feature: Search Admin
 ---
 # Manage credentials for ad network manager accounts

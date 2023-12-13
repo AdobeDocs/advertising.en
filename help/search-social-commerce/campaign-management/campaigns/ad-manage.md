@@ -1,7 +1,7 @@
 ---
 title: Manage ads
 description: Learn how to create and manage ads.
-exl-id: 9108bbfd-61e7-49fa-90ba-4eb276eb0897
+exl-id: 5ec410cd-9dff-41e6-9ecc-d6ceee84755e
 feature: Search Campaign Management
 ---
 # Manage ads

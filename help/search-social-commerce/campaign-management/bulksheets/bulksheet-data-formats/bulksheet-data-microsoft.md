@@ -1,7 +1,7 @@
 ---
 title: Required bulksheet data for [!DNL Microsoft Advertising] accounts
 description: Reference the required header fields and data fields in bulksheets for [!DNL Microsoft Advertising] accounts.
-exl-id: a3090962-49df-46b0-89f8-98b633c3ea7a
+exl-id: 2a5f0e7b-f020-4cca-9b77-807c2ee5c273
 feature: Search Bulksheets
 ---
 # Appendix - Required bulksheet data for [!DNL Microsoft Advertising] accounts

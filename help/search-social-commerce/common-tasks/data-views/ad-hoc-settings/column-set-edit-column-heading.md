@@ -1,7 +1,7 @@
 ---
 title: Edit the column set from the column heading menu
 description: Learn how to show and hide the columns from the column heading.
-exl-id: 3c9099cb-9a27-41b0-9e21-089226cc7c4d
+exl-id: ebcf5759-f3a0-4816-8095-5679a642f862
 feature: Search Common Tasks, Search Custom Data Views
 ---
 # Edit the column set from the column heading menu

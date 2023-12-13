@@ -1,7 +1,7 @@
 ---
 title: About assist reports
 description: Learn about reports that provide insights into conversion paths.
-exl-id: b402727e-a639-48f9-96c9-33fa1edafc6b
+exl-id: 0962c8b1-0116-480a-8253-4e8488fec77c
 feature: Search Reports, Search Assist Reports
 ---
 # About assist reports

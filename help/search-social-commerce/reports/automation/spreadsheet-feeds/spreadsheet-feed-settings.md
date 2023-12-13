@@ -1,7 +1,7 @@
 ---
 title: Spreadsheet report feed settings
 description: Learn about the settings for spreadsheet feeds.
-exl-id: 9a7e0a21-5db4-4829-a191-cacaa51f6cb6
+exl-id: 88836c15-81fe-4fe7-8321-2c984b4dcb5d
 feature: Search Reports
 ---
 # Spreadsheet report feed settings

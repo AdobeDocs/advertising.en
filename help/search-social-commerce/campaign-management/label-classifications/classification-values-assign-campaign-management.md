@@ -1,7 +1,7 @@
 ---
 title: Assign classification values to account components from campaign management views
 description: Learn how to assign classification values to account components.
-exl-id: 7e55d7d8-5e12-409b-ad5d-c53cbf24c7c9
+exl-id: 5a3cb059-9cff-4a2e-b8aa-be8626774377
 feature: Search Label Classifications
 ---
 # Assign classification values to account components from campaign management views

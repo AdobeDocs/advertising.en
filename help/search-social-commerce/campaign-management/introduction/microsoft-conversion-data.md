@@ -2,6 +2,7 @@
 title: '[!DNL Microsoft Advertising] conversion data'
 description: Learn about the types of [!DNL Microsoft Advertising]-tracked conversion data available in in Search, Social, & Commerce.
 feature: Search Campaign Management, Conversions
+exl-id: 0ebc70a0-1fb7-48db-b45d-7409e8bb6f64
 ---
 # [!DNL Microsoft Advertising] conversion data in Search, Social, & Commerce
 

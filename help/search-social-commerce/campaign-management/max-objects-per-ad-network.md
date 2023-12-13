@@ -1,7 +1,7 @@
 ---
 title: Maximum number of objects per ad network account
 description: See where to find the maximum number of objects per ad network account.
-exl-id: 2db46e03-6023-4efb-b30b-24d99795a27d
+exl-id: 64463f56-0972-4acb-867e-d216f09bbc2d
 feature: Search Campaign Management
 ---
 # Maximum number of objects per ad network account

@@ -1,7 +1,7 @@
 ---
 title: Uninvite a Pending User
 description: Learn how to rescind a pending user invitation.
-role: User, Admin
+role: Admin
 exl-id: 62a5d50c-b836-4a15-ba5a-6eb7a0f26570
 ---
 # Uninvite a Pending User

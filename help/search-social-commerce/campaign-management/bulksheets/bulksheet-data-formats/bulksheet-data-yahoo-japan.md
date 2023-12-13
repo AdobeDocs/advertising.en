@@ -1,7 +1,7 @@
 ---
 title: Bulksheet data for [!DNL Yahoo! Japan] accounts
 description: Reference the header fields and data fields in downloaded bulksheets for [!DNL Yahoo! Japan] accounts.
-exl-id: b68edbc1-0054-4dac-be3f-4df3c4e00ba9
+exl-id: 78eb41ce-3854-454c-adf2-ba0339e2aef7
 feature: Search Bulksheets
 ---
 # Appendix - Bulksheet data for [!DNL Yahoo! Japan] accounts
@@ -19,6 +19,10 @@ Platform,Acct Name,Campaign Name,Campaign Budget,Delivery Method,Mobile Bid Adju
 -->
 
 ## Available data fields
+
+>[!TIP]
+>
+>The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents or the right pane by clicking ![Hide left pane](/help/search-social-commerce/assets/hide-left-pane.png "Hide left pane") at the top of the left pane or ![Hide right pane](/help/search-social-commerce/assets/hide-right-pane.png "Hide right pane") at the top of the right pane.
 
 | Field | Campaign | Ad Group | Keyword | Text Ad | Campaign Location Target | Description |
 |----|----|----|----|----|----|----|

@@ -2,7 +2,7 @@
 title: About managing an advertiser's conversion metrics
 description: Learn how you can use the conversion metrics that Adobe Advertising tracks for an advertiser.
 feature: Conversions
-exl-id: e5e4dc8a-04b0-4423-be1d-18f89453d264
+exl-id: 8cfb4df8-ed48-4809-b383-7a6011b1f530
 ---
 # About managing an advertiser's conversion metrics
 

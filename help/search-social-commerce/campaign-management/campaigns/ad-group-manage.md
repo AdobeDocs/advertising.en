@@ -1,7 +1,7 @@
 ---
 title: Manage ad groups
 description: Learn how to create and manage ad groups.
-exl-id: b86ea2e9-0d4b-4885-9cc9-b62d2c784017
+exl-id: 66900a1f-f915-497d-9053-9d393845af08
 feature: Search Campaign Management
 ---
 # Manage ad groups

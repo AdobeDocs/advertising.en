@@ -1,7 +1,7 @@
 ---
 title: Required bulksheet data for [!DNL Yandex] accounts
 description: Reference the required header fields and data fields in bulksheets for [!DNL Yandex] accounts.
-exl-id: c43ea56b-5435-4bbf-8764-beda1bb9b410
+exl-id: bf5a22dd-75c2-486d-85fd-e042bdb87de3
 feature: Search Bulksheets
 ---
 # Appendix - Required bulksheet data for [!DNL Yandex] accounts
@@ -23,6 +23,10 @@ Platform,Acct Name,Campaign Name,Campaign Start Date,Campaign Budget,Delivery Me
 ## Available data fields
 
 {{$include /help/_includes/bulksheet-appendices-intro-required-data.md}}
+
+>[!TIP]
+>
+>The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents or the right pane by clicking ![Hide left pane](/help/search-social-commerce/assets/hide-left-pane.png "Hide left pane") at the top of the left pane or ![Hide right pane](/help/search-social-commerce/assets/hide-right-pane.png "Hide right pane") at the top of the right pane.
 
 | Field | Campaign | Ad Group | Keyword | Text Ad | Sitelink | Description |
 |----|----|-----|-----|----|----|----|

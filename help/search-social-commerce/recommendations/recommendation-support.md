@@ -1,7 +1,7 @@
 ---
 title: About publisher recommendations and insights support
 description: Learn about the support for viewing and managing publisher recommendations and insights.
-exl-id: 166c429a-043a-4e74-b1ee-5359cd483de5
+exl-id: 8bad85e0-8c01-4177-a881-96dd9c4a5949
 feature: Search Recommendations
 ---
 # About publisher recommendations and insights support
@@ -50,7 +50,11 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Responsive search improve ad strength] | Suggestions to improve ad strength for a responsive search ad |
 | | [!UICONTROL Sitelink extension] | Add sitelink extensions to a campaign |
 | | [!UICONTROL Text ad] | Add ad suggestions |
-| [!UICONTROL Automated campaigns] | [!UICONTROL Upgrade local campaign to performance max] | Upgrade a legacy local campaign to a performance max campaign |
+| [!UICONTROL Automated campaigns] | [!UICONTROL DSA to performance max migration] | Migrate dynamic search ads to performance max campaigns. |
+| | [!UICONTROL Dynamic image extension opt in] | Enable dynamic image extensions for the account, which allows [!DNL Google Ads] machine learning to automatically append the most relevant images from your ad's landing page to your ad. |
+| | [!UICONTROL Improve performance max ad strength] | Improve the asset group strength of a performance max campaign so that it has an "Excellent" rating. |
+| | [!UICONTROL Performance max opt in] |Opt in to performance max campaigns.  |
+| | [!UICONTROL Upgrade local campaign to performance max] | Upgrade a legacy local campaign to a performance max campaign |
 | | [!UICONTROL Upgrade smart shopping campaign to performance max] | Upgrade a legacy smart shopping campaign to a performance max campaign |
 | [!UICONTROL Bidding and budget] | [!UICONTROL Campaign budget] | Fix campaigns limited by budget |
 | | [!UICONTROL Enhanced CPC opt in] | Bid with [!UICONTROL Enhanced CPC] |
@@ -62,6 +66,8 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Move unused budget] | Move unused to constrained budgets |
 | | [!UICONTROL Raise Target CPA bid too low] | Raise the [!UICONTROL Target CPA] by a recommended amount when it's too low and there are few or no conversions |
 | | [!UICONTROL Target CPA opt in] | Bid with [!UICONTROL Target CPA] |
+| | [!UICONTROL Target CPA raising] | Raise the [!UICONTROL Target CPA] based on [!DNL Google Ads] predictions, which are calculated from past conversions. |
+| | [!UICONTROL Target ROAS lowering] | Lower the [!UICONTROL Target ROAS] based on [!DNL Google Ads] predictions, which are calculated from past conversions. |
 | | [!UICONTROL Target ROAS opt in] | Bid with [!UICONTROL Target ROAS] |
 | [!UICONTROL Keywords and targeting] | [!UICONTROL Display expansion opt in] | Expand reach by updating a campaign to use display expansion |
 | | [!UICONTROL Keyword] | Add new keywords |

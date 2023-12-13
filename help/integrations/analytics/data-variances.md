@@ -240,7 +240,7 @@ However, if you view the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL A
 
 ### Using [!UICONTROL AMO ID Instances] as a Substitute for Clicks with Non-Adobe Advertising Dimensions
 
-Since you can't use [!UICONTROL Adobe Advertising Clicks] with on-site dimensions, you may want to find an equivalent to clicks. You may be tempted to use Visits as a substitute, but they aren't the best option because each visitor may have multiple visits. (See "[The Difference Between Clicks and Visits](#clicks-vs-visits)." Instead, we recommend using [!UICONTROL AMO ID Instances], which is the number of times the AMO ID is captured. While [!UICONTROL AMO ID Instances] won't match [!UICONTROL Adobe Advertising Clicks] exactly, they are the best option for measuring click traffic on the site. For more information, see "[Data Validation for [!DNL Analytics for Advertising]](#data-validation)."
+Since you can't use [!UICONTROL AMO Clicks] with on-site dimensions, you may want to find an equivalent to clicks. You may be tempted to use Visits as a substitute, but they aren't the best option because each visitor may have multiple visits. (See "[The Difference Between Clicks and Visits](#clicks-vs-visits)." Instead, we recommend using [!UICONTROL AMO ID Instances], which is the number of times the AMO ID is captured. While [!UICONTROL AMO ID Instances] won't match [!UICONTROL AMO Clicks] exactly, they are the best option for measuring click traffic on the site. For more information, see "[Click-Through Data Validation for [!DNL Analytics for Advertising]](#data-validation)."
 
 ![Example of [!UICONTROL AMO ID Instances] instead of [!UICONTROL Adobe Advertising Clicks] for an unsupported dimension](/help/integrations/assets/a4adc-amo-id-instances.png)
 

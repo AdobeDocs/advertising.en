@@ -1,7 +1,7 @@
 ---
 title: About specialty reports
 description: Learn about specialty reports.
-exl-id: a5232434-cdb5-451f-aa65-6536c97c4a52
+exl-id: fd2bcd97-70dd-4160-8209-6cdf9c9a6d62
 feature: Search Reports, Search Specialty Reports
 ---
 # About specialty reports
@@ -39,6 +39,10 @@ Most specialty reports consist only of data collected by the ad networks. The [!
 * [The [!UICONTROL MSA Ad Extension by Keyword Report]](msa-ad-extension-by-keyword-report.md)
 
 * [The [!UICONTROL MSA Ad Extension Detail Report]](msa-ad-extension-by-ad-report.md)
+
+* [The [!UICONTROL MSA Network Performance Report]](msa-network-performance-report.md)
+
+* [The [!UICONTROL MSA Network Impression Share Report]](msa-network-impression-share-report.md)
 
 >[!MORELIKETHIS]
 >

@@ -1,7 +1,7 @@
 ---
 title: Bulksheet errors
 description: Reference potential reasons for each bulksheet error.
-exl-id: 0a259aca-2e9a-4e24-b4db-f8d0249d25d4
+exl-id: dc3559b0-05c0-4896-b9e9-67084f56ab80
 feature: Search Bulksheets
 ---
 # Bulksheet errors

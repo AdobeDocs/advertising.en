@@ -1,7 +1,7 @@
 ---
 title: Analyze reports to refine your keywords and campaign settings
 description: Learn about best practices for using reports to refine your keywords and campaign settings.
-exl-id: fe32561d-e910-40e0-8c37-889184b4e9c6
+exl-id: f1e3834b-2a6c-4d41-9355-70435a9e83e6
 feature: Search Best Practices
 ---
 # Analyze reports to refine your keywords and campaign settings

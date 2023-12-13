@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL RSA Asset Report]'
 description: Learn about the [!UICONTROL RSA Asset Report].
-exl-id: 76a7c698-5d05-4b48-bd50-5d126c0c4386
+exl-id: 6582c837-9521-479f-bae0-782e4c404ba2
 feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL RSA Asset Report]

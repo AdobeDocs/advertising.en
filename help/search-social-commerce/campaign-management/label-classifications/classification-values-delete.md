@@ -1,7 +1,7 @@
 ---
 title: Delete label classification values
 description: Learn how to delete values for label classifications.
-exl-id: 97c07598-4740-4e55-85e9-ef4e4e46daeb
+exl-id: 1b404c6d-a6db-485b-9438-b102786eb65d
 feature: Search Label Classifications
 ---
 # Delete label classification values

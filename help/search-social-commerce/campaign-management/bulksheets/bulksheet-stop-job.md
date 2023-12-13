@@ -1,7 +1,7 @@
 ---
 title: Stop a bulksheet job in progress
 description: Learn how to stop a bulksheet job while it's in process.
-exl-id: bfdc3c65-8dfc-4683-a39d-05d40078fd2d
+exl-id: 10577dcf-3b86-49f1-8e3a-ccfe56fffe84
 feature: Search Bulksheets
 ---
 # Stop a bulksheet job in progress

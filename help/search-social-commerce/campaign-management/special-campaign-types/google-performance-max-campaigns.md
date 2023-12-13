@@ -1,7 +1,7 @@
 ---
 title: Implement [!DNL Google Ads] performance max campaigns
 description: Learn about the workflow for setting up [!DNL Google Ads] performance max campaigns.
-exl-id: afad96b2-d4a6-41ee-ad84-38aa1306d73e
+exl-id: 4208774c-e4dd-499d-987e-933fe073c04f
 feature: Search Campaign Management
 ---
 # Implement [!DNL Google Ads] performance max campaigns

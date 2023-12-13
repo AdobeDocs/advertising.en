@@ -1,7 +1,7 @@
 ---
 title: About the tools to create and decode tracking tags
 description: Learn about tools to create Adobe Advertising conversion tracking tags and Search, Social, & Commerce click-tracking tags and how to decode existing click-tracking tags.
-exl-id: 2419af32-fbc9-48ac-a57e-2f66e77c219a
+exl-id: ca8058a7-6a36-44e9-a42f-3b7cd91e664a
 feature: Search Tools, Search Tracking
 ---
 # About the tools to create and decode tracking tags

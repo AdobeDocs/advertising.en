@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Label Classification Report]'
 description: Learn about the [!UICONTROL Label Classification Report].
-exl-id: 97f3b1d5-ec25-49c4-8efe-66395285f0da
+exl-id: 847fa384-b9c6-446f-9ebf-da7679ed35ae
 feature: Search Reports, Search Basic Reports
 ---
 # [!UICONTROL Label Classification Report]

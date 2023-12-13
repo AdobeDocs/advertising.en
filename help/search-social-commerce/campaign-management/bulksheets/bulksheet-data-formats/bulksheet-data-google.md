@@ -1,7 +1,7 @@
 ---
 title: Required bulksheet data for [!DNL Google Ads] accounts
 description: Reference the required header fields and data fields in bulksheets for [!DNL Google Ads] accounts.
-exl-id: 1e35f503-c2fe-459c-ad13-6b8cf65be67e
+exl-id: 756b77fe-f95d-469f-9ae0-7424c2fad0b1
 feature: Search Bulksheets
 ---
 # Appendix - Required bulksheet data for [!DNL Google Ads] accounts

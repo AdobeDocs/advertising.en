@@ -1,7 +1,7 @@
 ---
 title: '[!UICONTROL Bing Ads Search Query Report]'
 description: Learn about the [!UICONTROL Bing Ads Search Query Report].
-exl-id: 5674577b-8f95-4f43-aca9-73fdd6bb8e33
+exl-id: 0207cfe7-a789-409f-af1b-a9579f2abe1e
 feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL Bing Ads Search Query Report]
