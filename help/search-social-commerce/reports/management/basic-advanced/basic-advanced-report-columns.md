@@ -184,7 +184,7 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL User SE Account ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network. |
 | [!UICONTROL Video Average Play Time] | ([!DNL Meta] campaigns only) The average time that a video was played, including time spent replaying the video, for a single impression. |
 | [!UICONTROL Video Plays] | ([!DNL Meta] campaigns only) The number of times your video starts to play, excluding replays. |
-| [!UICONTROL Video Played at 25 Percent Count], [!UICONTROL Video Played at 50 Percent Count], [!UICONTROL Video Played at 75 Percent Count], and [!UICONTROLVideo Played at 100 Percent Count] | (Video ads) The number of videos that were played 25%, 50%, 75%, or 100% of the way through. |
+| [!UICONTROL Video Played at 25 Percent Count], [!UICONTROL Video Played at 50 Percent Count], [!UICONTROL Video Played at 75 Percent Count], and [!UICONTROL Video Played at 100 Percent Count] | (Video ads) The number of videos that were played 25%, 50%, 75%, or 100% of the way through. |
 | [!UICONTROL VideoQuartile25Rate], [!UICONTROL VideoQuartile50Rate], [!UICONTROL VideoQuartile75Rate], and [!UICONTROL VideoQuartile100Rate] | (Video ads) The percentage of videos that were played 25%, 50%, 75%, or 100% of the way through. |
 | [!UICONTROL View Rate] | (Video ads) The number of views or engagements divided by the number of times the ad (video and thumbnail impressions) was shown. |
 | [!UICONTROL Views] | (Video ads) The number of times people watched or engaged with your ad. |
