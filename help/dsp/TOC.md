@@ -145,7 +145,7 @@ index: yes
   + Sources {#sources}
     + [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
     + Workflows by Customer Data Platform {#sources-workflows}
-      + [!DNL Adobe Real-Time CDP]
+      + [!DNL Adobe Real-Time CDP] {#sources-adobe-rt-cdp}
         + [Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
         + [Activate Authenticated Segments from Universal ID Partners](/help/dsp/audiences/sources/source-durable-id.md)
       + [Workflow for Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
