@@ -5,8 +5,6 @@ exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
 ---
 # Configure A/B Tests in Adobe Target for Advertising DSP Ads
 
-<!-- Add [!UICONTROL and [!DNL tags throughout as needed. -->
-
 *Advertisers with Advertising DSP only*
 
 Adobe Advertising and Adobe Target make it even easier for marketers to deliver a personalized and connected experience across paid media and on-site messaging. By sharing signals between the products, you can:
