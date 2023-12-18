@@ -37,7 +37,7 @@ exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
 | [!DNL Innovid] | X | X | | X | |
 | [!DNL Inskin] | | | X | | High impact skins (including Cavai conversational ads) must be served out of a 180x150 display deal ID across the Inskin inventory network. |
 | [!DNL Jivox] | | X | | | |
-| [!DNL Kargo] | | X | | X | 320x50 Anchor, BYOC, Hover, Breakout, Breakaway, and Sidekick; 300x250 Outstream, HighRise; Standard Desktop Display (specific ad plugin IDs aren't required); Video Anchor (VAST only)</br></br>Contact your Adobe Account Team for assistance in setting up ad units. |
+| [!DNL Kargo] | | X | | X | 320x50 Anchor, BYOC, Hover, Breakout, Breakaway, and Sidekick; 300x250 Outstream, HighRise; Standard Desktop Display (specific ad plugin IDs aren't required); Video Anchor (VAST only); CTV via [!DNL Pubmatic]</br></br>Contact your Adobe Account Team for assistance in setting up ad units. |
 | [!DNL Linkstorm] | | | X | | |
 | [!DNL mCanvas] | | | X | | |
 | [!DNL Medialets] | | X | | | |
