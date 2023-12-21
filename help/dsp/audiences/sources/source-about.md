@@ -6,15 +6,13 @@ exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 ---
 # About Activating Authenticated Segments from Audience Sources
 
-<!-- Doesn't specifically explain what you can do in our UI -->
+DSP can ingest first-party segments comprised of hashed email IDs or universal IDs built within a customer data platform (CDP). You can use the ingested segments as targets for your placements.
 
-DSP can ingest first-party segments comprised of authenticated signals built within a customer data platform (CDP). You can use the ingested segments as targets for your placements.
-
-Support is available for the following customer data platform.
+The following CDPs have established connectors, but the DSP can also connect to any CDP using batch, streaming, or API-based data sharing. To integrate with a new CDP, contact your Adobe Account Team. 
 
 ## [!DNL Adobe Real-Time Customer Data Platform]
 
-DSP is integrated with the [the [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform.
+DSP is integrated with [the [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform.
 
 In [!DNL Real-Time CDP], *destinations* are connections to external data platforms that allow seamless data activation. For example, you can use destinations to activate your known customer relationships (such as hashed email addresses) for targeted advertising across digital formats supported by DSP. For more information about destinations, see the Experience Platform [Destinations Guide](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), including an overview of the product, instructions for [creating destination workspaces](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) and [creating destination connections](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), and [activating data to destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
 
