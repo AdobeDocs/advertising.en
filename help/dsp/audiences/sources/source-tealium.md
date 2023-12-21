@@ -5,12 +5,6 @@ feature: DSP Audiences
 ---
 # Workflow for Using the DSP Integration with [!DNL Tealium]
 
-<!-- for What's New:
-
-| <release date> | [!UICONTROL Audiences] | Advertisers can now share their first-party data from the [!DNL Tealium] customer data platform with DSP using [!DNL Amazon Web Services]. You can then target your DSP placements to the segments using [!DNL RampIDs]. Within placement settings for [!UICONTROL Audience Targeting], the shared segments are available in the [!UICONTROL First Party Segments] list. | See "[Workflow for Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)." |
-
--->
-
 You can share your organization's first-party data from the [!DNL Tealium] customer data platform using the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
 
 1. [Create an audience source in DSP](#source-create).
@@ -109,13 +103,11 @@ For each segment that you want to share, create a separate connector for each ac
    
 ## Step 4: Duplicate the existing connector in [!DNL Tealium] to continue to share segments {#duplicate-connector}
 
-<!-- You can have only one segment per connector and need multiple connectors. -->
+You can have only one connector per segment and one segment per connector.
 
-1. In [!DNL Tealium], duplicate the connector you created in Step 3.
+1. In [!DNL Tealium], duplicate the segment for which you want to create another segment, and rename the new segment.
 
-   The duplicated connector is named "`<original name>-copy`."
-
-1. Rename the new connector to the new segment name.
+1. In [!DNL Tealium], duplicate the connector you created in [Step 3](#tealium-connector), and rename the new connector from "`<original name>-copy`" to the new segment name.
 
 >[!MORELIKETHIS]
 >
@@ -124,7 +116,3 @@ For each segment that you want to share, create a separate connector for each ac
 >* [Audience Source Settings](source-settings.md)
 >* [Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
-
-<!--
->* [Workflow for Using the DSP Integration with [!DNL ActionIQ]](/help/dsp/audiences/sources/source-actioniq.md)
--->
