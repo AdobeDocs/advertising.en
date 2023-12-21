@@ -144,7 +144,11 @@ index: yes
     + [Syntax for Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
   + Sources {#sources}
     + [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
-    + [Activate Authenticated Segments from Durable ID partners](/help/dsp/audiences/sources/source-durable-id.md)
+    + Workflows by Customer Data Platform {#sources-workflows}
+      + [!DNL Adobe Real-Time CDP] {#sources-adobe-rt-cdp}
+        + [Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+        + [Activate Authenticated Segments from Universal ID Partners](/help/dsp/audiences/sources/source-universal-id.md)
+      + [Workflow for Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
     + [Create an Audience Source to Activate First-Party Audiences](/help/dsp/audiences/sources/source-create.md)
     + [Audience Source Settings](/help/dsp/audiences/sources/source-settings.md)
   + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)

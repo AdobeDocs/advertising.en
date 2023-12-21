@@ -16,7 +16,7 @@ exl-id: ea69ed6e-2d68-4ac5-8465-2ee7d798ae1d
 
 ## Adobe Segments
 
-(Optional) Any [!DNL Adobe Real-Time Customer Data Profile], Adobe Analytics, or Adobe Audience Manager segments to include in the audience configuration.
+(Optional) Any [!DNL Adobe Real-Time Customer Data Platform], Adobe Analytics, or Adobe Audience Manager segments to include in the audience configuration.
 
 ## Custom Segments
 
