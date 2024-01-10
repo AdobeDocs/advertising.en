@@ -6,8 +6,6 @@ exl-id: 4c981d57-032f-4cde-858a-e9ac2bf2e6f2
 ---
 # Edit Ad Schedules for Placements
 
-<!--
-
 ## Edit the Ad Schedules for One or More Placements
 
 You can change the scheduled flight dates and ad rotation for the ads attached to multiple placements using a [!DNL Microsoft Excel] spreadsheet. Each ad can be active during multiple flights.
@@ -22,19 +20,29 @@ You can change the scheduled flight dates and ad rotation for the ads attached t
 
 1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Download Custom Ad Schedule Sheet]**.
 
-1. When the file is available, click **[!UICONTROL Download]** in the notification at the top of the browser page to download a worksheet file (in XLSX format) according to your browser's normal procedure..
+1. When the file is available, click **[!UICONTROL Download]** in the notification at the top of the browser page to download a worksheet file (in XLSX format) according to your browser's normal procedure.
 
    ![Download Ready notification](/help/dsp/assets/download-ready.png "Download Ready notification")
 
-1. Open the downloaded file and edit the flight dates as needed.
+1. Open the downloaded file, edit the flight information as needed, and save the updated file:
+
+   * To add a flight, specify the flight dates for each ad row to include in the flight using the **[!UICONTROL Flight N Start Date]** and **[!UICONTROL Flight N End Date]** columns. Use the format YYYY-MM-DD for each date.
+
+     For example, for ads in the first flight, enter values in the [!UICONTROL Flight 1 Start Date] and [!UICONTROL Flight 1 End Date] fields. If the ad rows aren't already included in the file, then enter the required ad information in new rows.
+     
+     Any ads with empty flight date fields are treated as non-participating ads.
+
+   * To rotate the ads for a flight evenly, enter "**[!UICONTROL Even]**" in the relevant **[!UICONTROL Flight N Weight]** fields (such as [!UICONTROL Flight 1 Weight]).
+
+   * To rotate the ads for a flight unevenly, enter the relative weight by which to rotate each ad, as a percentage, in the relevant **[!UICONTROL Flight N Weight]** fields (such as [!UICONTROL Flight 1 Weight]).
+   
+     The total weights for each flight must equal 100. 
 
 1. Upload the edited ad schedule template:
 
    1. Select the check box next to each applicable placement.
 
    1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Upload Custom Ad Schedule Sheet]**, and specify the file to upload.
-
--->
 
 ## Edit the Ad Schedule for a Single Placement
 
