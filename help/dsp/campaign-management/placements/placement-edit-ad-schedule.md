@@ -26,13 +26,13 @@ You can change the scheduled flight dates and ad rotation for the ads attached t
 
 1. Open the downloaded file, edit the flight information fields for each ad row to include in the flight, and save the updated file:
 
-   **[!UICONTROL Flight N Start Date]** / **[!UICONTROL Flight N End Date]** (such as [!UICONTROL Flight 1 Start Date] and [!UICONTROL Flight 1 End Date]): The first and last dates of the flight. Use the format YYYY-MM-DD for each date. Any ads with empty flight date fields are treated as non-participating ads.
+   * **[!UICONTROL Flight N Start Date]** / **[!UICONTROL Flight N End Date]** (such as [!UICONTROL Flight 1 Start Date] and [!UICONTROL Flight 1 End Date]): The first and last dates of the flight. Use the format YYYY-MM-DD for each date. Any ads with empty flight date fields are treated as non-participating ads.
 
-   **[!UICONTROL Flight N Weight]** (such as [!UICONTROL Flight 1 Weight]): How to rotate the ads for a flight. Enter a value:
+   * **[!UICONTROL Flight N Weight]** (such as [!UICONTROL Flight 1 Weight]): How to rotate the ads for a flight. Enter a value:
 
-   * To rotate the ads for a flight evenly, enter "**[!UICONTROL Even]**".
+     * To rotate the ads for a flight evenly, enter `[!UICONTROL Even]`.
 
-   * To rotate the ads for a flight unevenly, enter the relative weight by which to rotate each ad, as a percentage. The total weights for the flight must equal 100.
+     * To rotate the ads for a flight unevenly, enter the relative weight by which to rotate each ad, as a percentage. The total weights for the flight must equal 100.
 
 1. Upload the edited ad schedule template:
 
