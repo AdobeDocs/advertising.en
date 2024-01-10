@@ -24,19 +24,15 @@ You can change the scheduled flight dates and ad rotation for the ads attached t
 
    ![Download Ready notification](/help/dsp/assets/download-ready.png "Download Ready notification")
 
-1. Open the downloaded file, edit the flight information as needed, and save the updated file:
+1. Open the downloaded file, edit the flight information fields for each ad row to include in the flight, and save the updated file:
 
-   * To add a flight, specify the flight dates for each ad row to include in the flight using the **[!UICONTROL Flight N Start Date]** and **[!UICONTROL Flight N End Date]** columns. Use the format YYYY-MM-DD for each date.
+   **[!UICONTROL Flight N Start Date]** / **[!UICONTROL Flight N End Date]** (such as [!UICONTROL Flight 1 Start Date] and [!UICONTROL Flight 1 End Date]): The first and last dates of the flight. Use the format YYYY-MM-DD for each date. Any ads with empty flight date fields are treated as non-participating ads.
 
-     For example, for ads in the first flight, enter values in the [!UICONTROL Flight 1 Start Date] and [!UICONTROL Flight 1 End Date] fields. If the ad rows aren't already included in the file, then enter the required ad information in new rows.
-     
-     Any ads with empty flight date fields are treated as non-participating ads.
+   **[!UICONTROL Flight N Weight]** (such as [!UICONTROL Flight 1 Weight]): How to rotate the ads for a flight. Enter a value:
 
-   * To rotate the ads for a flight evenly, enter "**[!UICONTROL Even]**" in the relevant **[!UICONTROL Flight N Weight]** fields (such as [!UICONTROL Flight 1 Weight]).
+   * To rotate the ads for a flight evenly, enter "**[!UICONTROL Even]**".
 
-   * To rotate the ads for a flight unevenly, enter the relative weight by which to rotate each ad, as a percentage, in the relevant **[!UICONTROL Flight N Weight]** fields (such as [!UICONTROL Flight 1 Weight]).
-   
-     The total weights for each flight must equal 100. 
+   * To rotate the ads for a flight unevenly, enter the relative weight by which to rotate each ad, as a percentage. The total weights for the flight must equal 100.
 
 1. Upload the edited ad schedule template:
 
