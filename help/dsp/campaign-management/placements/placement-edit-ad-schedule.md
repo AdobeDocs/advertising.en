@@ -32,7 +32,7 @@ You can change the scheduled flight dates and ad rotation for the ads attached t
 
      * To rotate the ads for a flight evenly, enter `[!UICONTROL Even]`.
 
-     * To rotate the ads for a flight unevenly, enter the relative weight by which to rotate each ad, as a percentage. The total weights for the flight must equal 100.
+     * To rotate the ads for a flight unevenly, enter the relative weight by which to rotate each ad, as a percentage (such as `40`` for 40%). The total weights for the flight must equal 100.
 
 1. Upload the edited ad schedule template:
 
