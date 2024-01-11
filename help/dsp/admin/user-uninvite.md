@@ -6,9 +6,7 @@ exl-id: 62a5d50c-b836-4a15-ba5a-6eb7a0f26570
 ---
 # Uninvite a Pending User
 
-*Administrator Users Only*
-
-You can uninvite a user with a pending invitation. Uninviting a user invalidates the token in the invitation link that was sent to the specified email address.
+Administrator users can uninvite a user with a pending invitation. Uninviting a user invalidates the token in the invitation link that was sent to the specified email address.
 
 1. Do either of the following:
 

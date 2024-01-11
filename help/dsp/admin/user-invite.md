@@ -6,9 +6,7 @@ exl-id: 5aba8db8-a27b-44a0-88f3-ea49311f4d76
 ---
 # Invite a New User for Your Organization Account
 
-*Administrator Users Only*
-
-You can invite a new user for the account. Once the user accepts the invitation, they have access to all advertisers for the account. New users have read-only access by default.
+Administrator users can invite a new user for the account. Once the user accepts the invitation, they have access to all advertisers for the account. New users have read-only access by default.
 
 If necessary, you can uninvite a user with a pending invitation.
 
