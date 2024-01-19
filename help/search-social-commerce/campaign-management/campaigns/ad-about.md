@@ -6,7 +6,7 @@ feature: Search Campaign Management
 ---
 # About ads
 
-*[!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
 
 An ad can be displayed on a target web site (for content, or placement-targeted, campaigns); when a user searches for one of the keywords in the ad group (for search campaigns) or for content on your website (dynamic search ads in [!DNL Google Ads] search-only campaigns); or when a user performs a search relevant to one of the items in your [!DNL Google Merchant Center] or [!DNL Microsoft® Merchant Center] product feed (shopping ads in [!DNL Google Ads] or product ads in [!DNL Microsoft® Advertising] campaigns).
 
