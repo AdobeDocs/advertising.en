@@ -8,15 +8,18 @@ feature: Search Campaign Management
 
 Following are instructions for creating and editing ad network account details, refreshing the [!DNL oAuth] token for an account, and disabling accounts.
 
+For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
+
 ## Create ad network account details {#create-account}
 
 *Agency account manager, Adobe account manager, and administrator user roles only*
 
-To enable syncing or tracking of an account, you must create a corresponding account record containing the account access credentials and tracking options and with the status *active*. For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
+To enable syncing or tracking of an account, you must create a corresponding account record containing the account access credentials and tracking options and with the status *active*.
 
 >[!NOTE]
 >
->To create an actual account on the ad network, go to the ad network's website.
+>* Support isn't available for new [!DNL Baidu] accounts.
+>* To create an actual account on the ad network, go to the ad network's website.
 
 1. In the main menu, click **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
 
@@ -150,11 +153,11 @@ For [!DNL Microsoft Advertising] accounts, only [!DNL oAuth]-authorized logins c
 
 **[!UICONTROL Login Details]: [!UICONTROL Login]:** (All ad networks except [!DNL Naver]) The login name or ID to enable API access to the account.
 
-**[!UICONTROL Login Details]: [!UICONTROL OAuth Token]:** ([!DNL Microsoft Advertising] [!DNL oAuth]-enabled and all other networks except for [!DNL Baidu], [!DNL Meta], and [!DNL Yandex]) The account's token to authorize logins using the [[!DNL OAuth] authorization protocol](https://oauth.net/2/).
+**[!UICONTROL Login Details]: [!UICONTROL OAuth Token]:** ([!DNL Microsoft Advertising] [!DNL oAuth]-enabled and all other networks except for [!DNL Meta] and [!DNL Yandex]) The account's token to authorize logins using the [[!DNL OAuth] authorization protocol](https://oauth.net/2/).
 
-**[!UICONTROL Login Details]: [!UICONTROL Password]:** (All ad networks except [!DNL Naver]) The password for the account. For password-enabled accounts on [!DNL Baidu], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], and [!DNL Yandex], this field is required. For [!DNL oAuth]-enabled accounts, this field is optional; use it when you want to encrypt and save the password so that the account manager can refresh tokens as needed.
+**[!UICONTROL Login Details]: [!UICONTROL Password]:** (All ad networks except [!DNL Naver]) The password for the account. For password-enabled accounts on [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], and [!DNL Yandex], this field is required. For [!DNL oAuth]-enabled accounts, this field is optional; use it when you want to encrypt and save the password so that the account manager can refresh tokens as needed.
 
-**[!UICONTROL Login Details]: [!UICONTROL Access Key]:** ([!DNL Baidu] and [!DNL Yandex] accounts only) The access key for the developer account to be used.
+**[!UICONTROL Login Details]: [!UICONTROL Access Key]:** ([!DNL Yandex] accounts only) The access key for the developer account to be used.
 
 **[!UICONTROL Currency]:** The abbreviation for the currency used for the account. This field is editable for new [!DNL Naver] accounts. For all other search networks, the value is filled automatically with the currency configured for the account on the ad network once you save the record.
 

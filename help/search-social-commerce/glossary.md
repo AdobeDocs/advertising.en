@@ -20,7 +20,7 @@ feature: Search Introduction
 
 ## C-D {#c-d}
 
-**campaign:** A set of ad groups in a single ad account that share a budget, time span, targeting, and other settings. **Note:** [!DNL Baidu] doesn't have the concept of campaigns, but Search, Social, & Commerce creates pseudo-campaigns for each set of related ad groups in [!DNL Baidu] that are synched within Search, Social, & Commerce.
+**campaign:** A set of ad groups in a single ad account that share a budget, time span, targeting, and other settings. **Note:** [!DNL Baidu] doesn't have the concept of campaigns, but Search, Social, & Commerce creates pseudo-campaigns for each set of related ad groups in existing [!DNL Baidu] accounts that are synched within Search, Social, & Commerce.
 
 **case-sensitive field:** A case-sensitive field or query treats uppercase letters (such as C) differently than lowercase letters (such as c). For example, Car is treated as a different value than car.
 

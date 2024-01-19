@@ -6,7 +6,7 @@ feature: Search Campaign Management
 ---
 # Manage biddable keywords
 
-*[!DNL Baidu], [!DNL Google Ads] and [!DNL Microsoft® Advertising], and [!DNL Yahoo! Japan Ads], and [!DNL Yandex] accounts only*
+*[!DNL Google Ads] and [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
 
 You can create and edit keywords for search ad groups in [supported campaign types](/help/search-social-commerce/introduction/supported-inventory.md) that target the search and display/native networks within a [synchronized ad network account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md)
 

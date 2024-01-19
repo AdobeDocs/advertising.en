@@ -6,7 +6,7 @@ feature: Search Campaign Management
 ---
 # Manage ads
 
-*[!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
 
 You can create, edit, and change the status of ads from the [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Ads] view.
 

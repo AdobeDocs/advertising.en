@@ -6,7 +6,7 @@ feature: Search Campaign Management
 ---
 # Manage campaigns
 
-*[!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
 
 A campaign is the primary component of an ad network account. For most campaign types, it consists of a set of ad groups or ad sets. Campaign settings include campaign budget parameters, ad targets, and optional tracking parameters for all ads in the campaign. Campaign-level tracking parameters override the account-level parameters but may themselves be overridden at a lower level.
 

@@ -6,7 +6,7 @@ feature: Search Campaign Management
 ---
 # Manage ad groups
 
-*[!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
 
 An ad group includes a set of ads and their related keywords. An ad group in a campaign that targets the display network can also include placements, which are locations on the display network in which your ads can appear. Ad group settings, which apply to all components of the ad group, vary by ad network.
 

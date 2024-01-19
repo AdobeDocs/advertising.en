@@ -6,7 +6,7 @@ feature: Search Campaign Management
 ---
 # Create negative keywords
 
-*[!DNL Baidu], [!DNL Google Ads] and [!DNL Microsoft® Advertising], and [!DNL Yahoo! Japan Ads] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], and existing [!DNL Baidu] accounts only*
 
 You can create negative keywords for a search ad group or campaign that targets the search or display/native network. Negative keywords don't trigger ads.
 
