@@ -1,7 +1,8 @@
 ---
-title: "Workflow for Using the DSP Integration with [!DNL Tealium]"
-description: "Learn how to enable DSP to ingest your [!DNL Tealium] first-party segments."
+title: Workflow for Using the DSP Integration with [!DNL Tealium]
+description: Learn how to enable DSP to ingest your [!DNL Tealium] first-party segments.
 feature: DSP Audiences
+exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
 ---
 # Workflow for Using the DSP Integration with [!DNL Tealium]
 

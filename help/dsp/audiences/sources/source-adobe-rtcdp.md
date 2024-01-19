@@ -1,7 +1,8 @@
 ---
-title: "Workflow for Using the DSP Integration with [!DNL Adobe] [!DNL Real-time CDP]"
-description: "Learn how to enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments."
+title: Workflow for Using the DSP Integration with [!DNL Adobe] [!DNL Real-time CDP]
+description: Learn how to enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments.
 feature: DSP Audiences
+exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
 ---
 # Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]
 
