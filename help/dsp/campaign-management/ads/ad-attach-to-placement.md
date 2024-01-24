@@ -52,7 +52,7 @@ exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 
 1. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
 
-1. Click the **[!UICONTROL View]** toggle in the upper right.
+1. Switch to the **[!UICONTROL View]** option in the upper right.
 
 1. (Optional) Locate specific placements and ads:
 
@@ -62,7 +62,7 @@ exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 
 1. Click any placement in the left table to see the attached ads in the right table.
 
-1. (Optional) To attach more ads to the campaign's placements, click the **[!UICONTROL Edit]** toggle. See Step 4 in the previous procedure, "[Attach Ads to Placements](#attach-ads-campaign)," for instructions.
+1. (Optional) To attach more ads to the campaign's placements, switch to the **[!UICONTROL Edit]** view in the upper right. See Step 4 in the previous procedure, "[Attach Ads to Placements](#attach-ads-campaign)," for instructions.
 
 >[!MORELIKETHIS]
 >
