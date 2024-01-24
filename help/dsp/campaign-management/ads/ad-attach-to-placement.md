@@ -20,9 +20,9 @@ exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 
    * (From the [!UICONTROL Packages] , [!UICONTROL Placements], or [!UICONTROL Ads] view) In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
 
-  * (From the [!UICONTROL Placements] view) Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
+   * (From the [!UICONTROL Placements] view) Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
 
-  * (From the [!UICONTROL Ads] view) Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
+   * (From the [!UICONTROL Ads] view) Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
 
 1. In the [!UICONTROL Edit] subview, do the following for each group of ads you want to attach to placements:
 
@@ -54,9 +54,9 @@ exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 
    * (From the [!UICONTROL Packages] , [!UICONTROL Placements], or [!UICONTROL Ads] view) In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
 
-  * (To see ads attached to a specific placement) In the submenu, click **[!UICONTROL Placements]**. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
+   * (To see ads attached to a specific placement) In the submenu, click **[!UICONTROL Placements]**. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
 
-  * (To see the placements to which an ad is, or is eligible to be, attached) In the submenu, click **[!UICONTROL Ads]**. Next to an ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
+   * (To see the placements to which an ad is, or is eligible to be, attached) In the submenu, click **[!UICONTROL Ads]**. Next to an ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
 
 1. Switch to the **[!UICONTROL View]** option in the upper right.
 
