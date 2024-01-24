@@ -1,126 +1,68 @@
 ---
-title: Attach an Ad to a Placement
-description: Learn how to attach an ad to a placement.
+title: Attach Ads to Placements
+description: Learn how to attach an ads to placements.
 feature: DSP Ads
 exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 ---
-# Attach an Ad to a Placement
+# Attach Ads to Placements
 
 >[!NOTE]
 >
 >Universal video ads can be attached only to universal video placements.
 
-## Attach a New Ad from the [!UICONTROL Ads] View
+## Attach Ads to Placements{#attach-ads-campaign}
+
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+     
+1. Click the name of the campaign.
+
+1. Open the [!UICONTROL Ad Tools] view in any of the following ways:
+
+   * (From the [!UICONTROL Packages] , [!UICONTROL Placements], or [!UICONTROL Ads] view) In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
+
+  * (From the [!UICONTROL Placements] view) Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
+
+  * (From the [!UICONTROL Ads] view) Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
+
+1. In the [!UICONTROL Edit] subview, do the following for each group of ads you want to attach to placements:
+
+   1. (Optional) Locate specific placements and ads in any of the following ways:
+
+      * Above the tables, click ![Filter](/help/dsp/assets/filter.png) and filter the lists by placement type, placement status, ad type, or ad status.
+   
+      * In the right and left tables, search for specific text strings in the placement and ad names.
+   
+   1. In the left table, select the check box next to each placement to which to attach the ads.
+
+   1. In the right table, select the check box next to each ad you want to attach to the selected placements.
+
+      Only ads that are applicable for the placement type and that aren't already attached to the selected placements are selectable.
+
+   1. In the bottom right, click  **[!UICONTROL Attach]**.
+
+1. (Optional) To return to the campaign detail views, click ![Return to folder](/help/dsp/assets/breadcrumb-return.png "Return to folder") to the left of [!UICONTROL Ad Tools] and select the campaign name.
+
+## View Ads Attached to Placements
+
+<!-- should really be a separate page, or -- better yet -- rename this topic -->
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
 1. Click the name of the campaign.
 
-1. In the submenu, click **[!UICONTROL Ads]**.
+1. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
 
-1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
+1. Click the **[!UICONTROL View]** toggle in the upper right.
 
-1. In the Place Ad screen, do either of the following:
+1. (Optional) Locate specific placements and ads:
 
-    * To create a new placement for the ad:
+   * Above the left table, filter the lists by placement type, placement status, ad type, or ad status.
+   
+   * In the right and left tables, search for specific text strings in the placement or ad name.
 
-        1. Click **[!UICONTROL Create New Placement]**.
+1. Click any placement in the left table to see the attached ads in the right table.
 
-        1. Enter the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), and then click **[!UICONTROL Create Placement]**.
-
-    * To add the ad to one or more existing placements:
-
-        1. Click **[!UICONTROL Select a Placement].**
-
-        1. Do either of the following:
-
-            * To add one ad at a time:
-
-                1. Next to the ad name, click **[!UICONTROL Select].**
-
-                1. (Optional) For each additional ad you want to attach, click **[!UICONTROL Attach to Other Placement]**. Next to the ad name, click **[!UICONTROL Select].**
-
-            * To attach the ad to up to 20 placements at a time:
-
-                1. Select the check box next to **Bulk Select."
-
-                1. Select the check box next to each placement to which to attach the ad.
-
-                1. Click **[!UICONTROL Attach]**.
-
-        1. On the Complete & Review tab, select one of the following:
-
-            * To return to the Ads view, click **[!UICONTROL I'm done for now]**.
-
-            * To attach the ad to another placement, click **[!UICONTROL Attach To Other Placement]**.
-
-## Attach a New or Existing Ad from the [!UICONTROL Placements] View
-
-1. In the main menu, click **[!UICONTROL Campaigns]**.
-
-1. Click the name of the campaign.
-
-1. In the submenu, click **[!UICONTROL Placements]**.
-
-1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
-
-1. In the [!UICONTROL Add Ad to Placement] screen, do either of the following:
-
-    * To create a new ad:
-
-       1. Click **[!UICONTROL Create a New Ad]**.
-
-       1. Enter the ad settings for [audio ads](ad-settings-audio.md), [connected TV](ad-settings-connected-tv.md), [display ads](ad-settings-display.md), [mobile ads](ad-settings-mobile.md), [native ads](ad-settings-native.md), or [pre-roll ads](ad-settings-pre-roll.md).
-
-       1. Click **[!UICONTROL Save & Submit for Review]**.
-
-           The [ad review](ad-about.md) for the new ad takes 24-48 hours and includes checks for sensitive categories, click URL functionality, and preview rendering. The [!UICONTROL Status] column indicates whether DSP has approved the ad. Broken ads may have a pending status for longer than 24-48 hours so you have time to fix errors before they're rejected.
-
-           >[!NOTE]
-           >
-           >Your ad will only be served if both DSP and the SSP have approved the creative. Each SSP has its own approval requirements and process.
-
-    * To select existing ads:
-
-       1. Click **[!UICONTROL Select an Ad].**
-
-       1. Specify the ads:
-
-           * To add one ad at a time:
-
-              1. Next to the ad name, click **[!UICONTROL Select].**
-
-              1. (Optional) For each additional ad you want to attach, click **[!UICONTROL Add Another Ad]**. Next to the ad name, click **[!UICONTROL Select].**
-
-           * To add up to 20 ads at a time:
-
-              1. Select the check box next to **[!UICONTROL Bulk Select]**."
-
-              1. Select the check box next to each ad to add.
-
-              1. Click **[!UICONTROL Attach]**.
-
-       1. (Optional) To override the default flight period and ad rotation for specific ads in the placement:
-
-           1. Click **[!UICONTROL Custom Schedule Ads]**.
-
-           1. Do any of the following:
-
-               * To add a flight, click **[!UICONTROL Add Flight]**, and then specify the start date and end date.
-
-               * To add an existing flight to an ad, click **[!UICONTROL +]** in the ad row for the flight column.
-
-               * To remove an existing flight from an ad, click **[!UICONTROL x]** in the ad row for the flight column.
-
-               * (When multiple ads have the same flight) To rotate the ads unevenly, click **[!UICONTROL Even Rotation]** in the flight information, and then enter the relative weight by which to rotate each ad, as a percentage.
-
-                  The total weights must equal 100.
-
-           1. In the upper right, click **[!UICONTROL Continue]**.
-
-           1. Review the flight details, and then click **[!UICONTROL Save & Finish]**.
-
-       1. Click **[!UICONTROL I'm done for now]**.
+1. (Optional) To attach more ads to the campaign's placements, click the **[!UICONTROL Edit]** toggle. See Step 4 in the previous procedure, "[Attach Ads to Placements](#attach-ads-campaign)," for instructions.
 
 >[!MORELIKETHIS]
 >
