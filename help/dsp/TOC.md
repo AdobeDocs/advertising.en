@@ -57,7 +57,7 @@ index: yes
     + [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)
     + [Quickly Edit Key Placement Settings](/help/dsp/campaign-management/placements/placement-quick-edit.md)
     + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
-    + [Attach an Ad to a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+    + [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
     + [Edit the Ad Schedules for Placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
     + [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
     + [View the Change Log for a Placement](/help/dsp/campaign-management/placements/placement-change-log.md)
@@ -72,7 +72,7 @@ index: yes
     + [Create Ads with [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
-    + [Attach an Ad to a Placement](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+    + [Attach Ads to Placements](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
     + [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
     + [View a Detailed Report for an Ad](/help/dsp/campaign-management/ads/ad-view-report.md)
     + [Pause or Activate an Ad](/help/dsp/campaign-management/ads/ad-pause-activate.md)
