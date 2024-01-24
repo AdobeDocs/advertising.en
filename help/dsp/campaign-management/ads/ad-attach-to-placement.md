@@ -10,7 +10,7 @@ exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 >
 >Universal video ads can be attached only to universal video placements.
 
-## Attach Ads to Placements{#attach-ads-campaign}
+## Attach Ads to Placements {#attach-ads-campaign}
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
      
@@ -42,25 +42,31 @@ exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 
 1. (Optional) To return to the campaign detail views, click ![Return to folder](/help/dsp/assets/breadcrumb-return.png "Return to folder") to the left of [!UICONTROL Ad Tools] and select the campaign name.
 
-## View Ads Attached to Placements
+## View Ads Attached to Placements {#view-ads-campaign}
 
-<!-- should really be a separate page, or -- better yet -- rename this topic -->
+<!-- should be a separate page, combined with "List the Placements Associated with an Ad" (although that pertains to a single ad only), or maybe just rename this topic -->
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
 1. Click the name of the campaign.
 
-1. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
+1. Open the [!UICONTROL Ad Tools] view in any of the following ways:
+
+   * (From the [!UICONTROL Packages] , [!UICONTROL Placements], or [!UICONTROL Ads] view) In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
+
+  * (To see ads attached to a specific placement) In the submenu, click **[!UICONTROL Placements]**. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
+
+  * (To see the placements to which an ad is, or is eligible to be, attached) In the submenu, click **[!UICONTROL Ads]**. Next to an ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
 
 1. Switch to the **[!UICONTROL View]** option in the upper right.
 
-1. (Optional) Locate specific placements and ads:
+1. (Optional) Locate specific placements and ads as needed:
 
    * Above the left table, filter the lists by placement type, placement status, ad type, or ad status.
    
    * In the right and left tables, search for specific text strings in the placement or ad name.
 
-1. Click any placement in the left table to see the attached ads in the right table.
+1. Click any placement row in the left table to see the attached ads in the right table.
 
 1. (Optional) To attach more ads to the campaign's placements, switch to the **[!UICONTROL Edit]** view in the upper right. See Step 4 in the previous procedure, "[Attach Ads to Placements](#attach-ads-campaign)," for instructions.
 
