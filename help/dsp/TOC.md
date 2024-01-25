@@ -88,6 +88,7 @@ index: yes
     + [Specifications for Supported Ad Types](/help/dsp/campaign-management/ads/ad-specs.md)
   + Campaign Reports {#campaign-reports}
     + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+    + [View Alerts and Notifications](/help/dsp/campaign-management/reports/campaign-alerts.md)
     + [Export Data from a Campaign Management View](/help/dsp/campaign-management/reports/campaign-export-data.md)
     + [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
     + [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
