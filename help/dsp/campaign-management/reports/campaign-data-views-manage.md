@@ -1,15 +1,13 @@
 ---
-title: Manage the Campaign Data Views
-description: Learn how you can customize the data views for campaigns, packages, placements, and ads.
+title: Manage Your Campaign Data Views
+description: Learn how you can customize your data views for campaigns, packages, placements, and ads.
 feature: DSP Campaign Data Views
--->
 ---
-
-# Manage the Campaign Data Views
+# Manage Your Campaign Data Views
 
 You can customize the data that appears within your campaign management views ([!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads]).
 
-## Manage Data Visualizations
+## Manage Data Visualizations {#data-visualizations-manage}
 
 You can change the metrics and chart mode for all data visualizations across campaigns or for a single campaign. Changes to a single campaign are applied across all data visualizations for the campaign, including those in the [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads] views.
 
@@ -27,11 +25,11 @@ You can change the metrics and chart mode for all data visualizations across cam
 
 * In the upper right of the data visualization, click the [!UICONTROL Overlay] switch (![Overlay switch](/help/dsp/assets/overlay.png)) to change between overlay mode (all charts overlaid together) and trellis chart mode (three separate charts).
 
-## Manage Data Tables
+## Manage Data Tables {#data-tables-manage}
 
 In all campaign management views ([!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads]), you can customize the data that appears within the data table.
 
-### Manage Column Views
+### Manage Column Views {#column-views-manage}
 
 Each campaign management level ([!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads]) includes built-in [!UICONTROL Pacing] and [!UICONTROL Performance] views that include relevant metrics for that entity. By default, the [!UICONTROL Pacing] view is shown so that you can identify under-performing campaigns and campaign components at a glance. You can optionally create and edit custom column sets.
 
@@ -91,7 +89,7 @@ DSP saves your most recent view as the default view so that, every time you retu
 
     * To save the settings to a new, custom column view, click **[!UICONTROL Save As]**. In the [!UICONTROL Save View] window, enter the name of the new view, and then click **[!UICONTROL Save]**.
 
-### Filter Campaign Data
+### Filter Campaign Data {#filter-data-tables}
 
 Filters change the data that is displayed on the current tab. Available filters vary by entity type but may include entity name, status, and additional property columns.
 
@@ -168,12 +166,6 @@ On the bottom right of any page, next to **[!UICONTROL Items per page]** , selec
 >[!MORELIKETHIS]
 >
 >* [About In-Platform Reports](campaign-reports-about.md)
->* [Manage Data Visualizations](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
->* [Change the Column View](column-view-change.md)
->* [Create a Custom Column View](column-view-create.md)
->* [Edit a Custom Column View](/help/dsp/campaign-management/reports/column-view-edit.md)
->* [Filter Campaign Data](campaign-data-filter.md)
->* [Sort a Data Column](campaign-data-sort.md)
 >* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
 >* [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [View the Placement Diagnostic Reports](placement-diagnostics.md)
