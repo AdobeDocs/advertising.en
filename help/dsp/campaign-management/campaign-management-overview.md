@@ -48,6 +48,6 @@ All active, approved ads in an active placement in an active campaign are eligib
 >* [About Ad Management](/help/dsp/campaign-management/ads/ad-about.md)
 >* [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
 >* [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
->* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [About the Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
+>* [About Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Manage Your Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
 >* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)

@@ -38,11 +38,9 @@ The Placement [!UICONTROL Inspector] lists all targeted sites, ads, and deals in
 
     * To view all deals that the placement targets, click **[!UICONTROL Inventory]**.
 
-1. (Optional) [Change the column view](column-view-change.md) as needed to view the required metrics.
+1. (Optional) [Change the column view](campaign-data-views-manage.md#column-view-change) as needed to view the required metrics.
 
 >[!MORELIKETHIS]
 >
->* [About In-Platform Reports](campaign-reports-about.md)
->* [About the Campaign Data Views](campaign-data-views-about.md)
->* [Change the Column View](column-view-change.md)
->* [Manage Data Visualizations](campaign-data-visualization-manage.md)
+>* [About Performance Reports in Campaign Management Views](campaign-reports-about.md)
+>* [Manage Your Campaign Data Views](campaign-data-views-manage.md)

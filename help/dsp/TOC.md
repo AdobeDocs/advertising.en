@@ -86,20 +86,13 @@ index: yes
       + [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
       + [Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
     + [Specifications for Supported Ad Types](/help/dsp/campaign-management/ads/ad-specs.md)
-  + Campaign Reports {#campaign-reports}
-    + [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+  + Performance Reports in Campaign Management Views {#campaign-reports}
+    + [About Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [Export Data from a Campaign Management View](/help/dsp/campaign-management/reports/campaign-export-data.md)
     + [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
     + [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
     + [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
-    + Manage Data Views {#data-views}
-      + [About the Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
-      + [Change the Column View](/help/dsp/campaign-management/reports/column-view-change.md)
-      + [Create a Custom Column View](/help/dsp/campaign-management/reports/column-view-create.md)
-      + [Edit a Custom Column View](/help/dsp/campaign-management/reports/column-view-edit.md)
-      + [Filter Campaign Data](/help/dsp/campaign-management/reports/campaign-data-filter.md)
-      + [Sort a Column](/help/dsp/campaign-management/reports/campaign-data-sort.md)
-    + [Manage Data Visualizations](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
+    + [Manage Your Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
   + Correct Placement Settings Using Spreadsheets {#qa-spreadsheet}
       + [About Correcting Placement Settings Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
       + [Download Placement Settings in a Spreadsheet](/help/dsp/campaign-management/qa/qa-sheet-download.md)
