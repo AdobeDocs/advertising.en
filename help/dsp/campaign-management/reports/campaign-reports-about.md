@@ -15,7 +15,7 @@ The [!UICONTROL Campaigns] view opens to a set of performance data charts and a 
 
 ### Chart View {#chart-view}
 
-You can [customize time series trend charts](campaign-data-visualization-manage.md) across all campaigns using three metrics. By default, data for [!UICONTROL Net Spend], [!UICONTROL Impressions], and [!UICONTROL Net CPM] are included in separate charts (trellis charts). You can optionally change the metrics. To enable hourly data in the time series trend charts, change your date selection to a single day ([!UICONTROL Today], [!UICONTROL Yesterday], or a specific day).  
+You can [customize time series trend charts](campaign-data-views-manage.md#data-visualizations-manage) across all campaigns using three metrics. By default, data for [!UICONTROL Net Spend], [!UICONTROL Impressions], and [!UICONTROL Net CPM] are included in separate charts (trellis charts). You can optionally change the metrics. To enable hourly data in the time series trend charts, change your date selection to a single day ([!UICONTROL Today], [!UICONTROL Yesterday], or a specific day).  
 
 ![separate trend charts for three metrics](/help/dsp/assets/trend-chart-separate.png)
 
@@ -27,9 +27,9 @@ You also can optionally overlay the three metrics for easy detection of anomalie
 
 ![Campaigns list](/help/dsp/assets/campaigns-list.png)
 
-By default, each campaign row includes pacing and delivery metrics. Pacing metrics include [!UICONTROL Gross Spend (Lifetime)], which includes a gauge of the actual on-target spend versus the expected on-target spend across all packages in the campaign, so you can identify under-performing campaigns at a glance. You can optionally [change the column view](column-view-change.md) or even [create a custom column view](column-view-create.md).
+By default, each campaign row includes pacing and delivery metrics. Pacing metrics include [!UICONTROL Gross Spend (Lifetime)], which includes a gauge of the actual on-target spend versus the expected on-target spend across all packages in the campaign, so you can identify under-performing campaigns at a glance. You can optionally [change the column view](campaign-data-views-manage.md#column-view-change) or even [create a custom column view](campaign-data-views-manage.md#column-view-create).
 
-You can further [customize the data tables](campaign-data-views-about.md) in additional ways and [filter the visible data](campaign-data-filter.md).
+You can further [customize the data tables](campaign-data-views-manage.md#data-tables-manage) in additional ways and [filter the visible data](campaign-data-views-manage.md#filter-data-tables).
 
 An "Alerts" column indicates when a campaign (or any child entity under it) has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
 
@@ -37,19 +37,19 @@ To view a campaign in more detail, click the campaign name.
 
 ## Single Campaign Reporting {#single-campaign-reporting}
 
-Within a campaign, you can filter data based on the campaign entity: [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads]. You can further [filter the visible data](campaign-data-filter.md) to include only the packages, placements, or ads that you want to see.
+Within a campaign, you can filter data based on the campaign entity: [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads]. You can further [filter the visible data](campaign-data-views-manage.md#filter-data-tables) to include only the packages, placements, or ads that you want to see.
 
 ![Campaign entity tabs](/help/dsp/assets/campaign-subtabs.png)
 
 ### Chart View
 
-For each campaign, you can [customize time series trend charts](campaign-data-visualization-manage.md) with three metrics, which are available in each entity view. The same metrics are persisted across all trend charts for the campaign.
+For each campaign, you can [customize time series trend charts](campaign-data-views-manage.md#data-visualizations-manage) with three metrics, which are available in each entity view. The same metrics are persisted across all trend charts for the campaign.
 
 See the ["Chart View" section on cross-campaign metrics](#chart-view) for more information.
 
 ### Table View
 
-In each entity tab, each row includes pacing and delivery metrics, by default, but you can [change the column view](column-view-change.md) or even [create a custom column view](column-view-create.md) to apply across all subtabs for the campaign. You can further [customize the data tables](campaign-data-views-about.md) in additional ways. Each data table includes a [!UICONTROL Subtotals] row, which shows either the sum or the average value of each metric across all visible rows.
+In each entity tab, each row includes pacing and delivery metrics, by default, but you can [change the column view](campaign-data-views-manage.md#column-view-change) or even [create a custom column view](campaign-data-views-manage.md#column-view-create) to apply across all subtabs for the campaign. You can further [customize the data tables](campaign-data-views-manage.md#data-tables-manage) in additional ways. Each data table includes a [!UICONTROL Subtotals] row, which shows either the sum or the average value of each metric across all visible rows.
 
 An "Alerts" column indicates when a package, placement, or ad &mdash; or any child entity under a package or placement &mdash; has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
 
@@ -100,7 +100,7 @@ For other data breakouts, view [the campaign-level reporting pages](/help/dsp/ca
 >[!MORELIKETHIS]
 >
 >* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
->* [About the Campaign Data Views](campaign-data-views-about.md)
+>* [Manage Your Campaign Data Views](campaign-data-views-manage.md)
 >* [Create a Custom Column View](column-view-create.md)
 >* [Change the Column View](column-view-change.md)
 >* [Manage Data Visualizations](campaign-data-visualization-manage.md)
