@@ -42,5 +42,5 @@ The Placement [!UICONTROL Inspector] lists all targeted sites, ads, and deals in
 
 >[!MORELIKETHIS]
 >
->* [About In-Platform Reports](campaign-reports-about.md)
+>* [About Performance Reports in Campaign Management Views](campaign-reports-about.md)
 >* [Manage Your Campaign Data Views](campaign-data-views-manage.md)

@@ -17,5 +17,5 @@ The <!--legacy --> ad-level report includes [!UICONTROL Overview], [!UICONTROL G
 >
 >* [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
 >* [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
->* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [About Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [About Custom Reports](/help/dsp/reports/report-about.md)

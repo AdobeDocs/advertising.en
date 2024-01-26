@@ -74,6 +74,6 @@ The forecast includes the following information:
 
 >[!MORELIKETHIS]
 >
->* [About In-Platform Reports](campaign-reports-about.md)
+>* [About Performance Reports in Campaign Management Views](campaign-reports-about.md)
 >* [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

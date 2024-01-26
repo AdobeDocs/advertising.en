@@ -45,4 +45,4 @@ Area charts are available for the following auction attributes:
 >* [About Private Inventory](private-inventory-about.md)
 >* [Specify Placements and Ads for a Deal ID](deal-id-attach-placements.md)
 >* [View a Detailed Report for a Deal](deal-view-report.md)
->* [About In-Platform Reports](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [About Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)

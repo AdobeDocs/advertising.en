@@ -24,7 +24,5 @@ You can export a snapshot of the current, filtered campaign management view to a
 
 >[!MORELIKETHIS]
 >
->* [About In-Platform Reports](campaign-reports-about.md)
->* [Change the Column View](column-view-change.md)
->* [Filter Campaign Data](campaign-data-filter.md)
->* [Sort a Data Column](campaign-data-sort.md)
+>* [About Performance Reports in Campaign Management Views](campaign-reports-about.md)
+>* [Manage Your Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)

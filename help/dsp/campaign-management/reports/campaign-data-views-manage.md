@@ -165,7 +165,7 @@ On the bottom right of any page, next to **[!UICONTROL Items per page]** , selec
 
 >[!MORELIKETHIS]
 >
->* [About In-Platform Reports](campaign-reports-about.md)
+>* [About Performance Reports in Campaign Management Views](campaign-reports-about.md)
 >* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
 >* [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [View the Placement Diagnostic Reports](placement-diagnostics.md)
