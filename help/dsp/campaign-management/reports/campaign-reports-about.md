@@ -1,12 +1,11 @@
 ---
-title: About In-Platform Reports
+title: About Performance Reports in Campaign Management Views
 description: Learn about the report data included in the campaign management views.
 feature: DSP Campaign Data Views
 exl-id: 7af97704-2053-4862-a851-12db009e6776
 ---
-# About In-Platform Reports
+# About Performance Reports in Campaign Management Views
 
-<!-- rename "About Performance Reports in Campaign Management Views?" -->
 The campaign management views include comprehensive report data. The available reports help you to identify the packages and placements that are performing well and those that need your attention. Quick action buttons also make you more productive.
 
 ## All Campaigns View
@@ -31,7 +30,9 @@ By default, each campaign row includes pacing and delivery metrics. Pacing metri
 
 You can further [customize the data tables](campaign-data-views-manage.md#data-tables-manage) in additional ways and [filter the visible data](campaign-data-views-manage.md#filter-data-tables).
 
+<!--
 An "Alerts" column indicates when a campaign (or any child entity under it) has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
+-->
 
 To view a campaign in more detail, click the campaign name.
 
@@ -51,7 +52,9 @@ See the ["Chart View" section on cross-campaign metrics](#chart-view) for more i
 
 In each entity tab, each row includes pacing and delivery metrics, by default, but you can [change the column view](campaign-data-views-manage.md#column-view-change) or even [create a custom column view](campaign-data-views-manage.md#column-view-create) to apply across all subtabs for the campaign. You can further [customize the data tables](campaign-data-views-manage.md#data-tables-manage) in additional ways. Each data table includes a [!UICONTROL Subtotals] row, which shows either the sum or the average value of each metric across all visible rows.
 
+<!--
 An "Alerts" column indicates when a package, placement, or ad &mdash; or any child entity under a package or placement &mdash; has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
+-->
 
 ### Placement [!UICONTROL Inspector] {#placement-inspector}
 
@@ -101,8 +104,5 @@ For other data breakouts, view [the campaign-level reporting pages](/help/dsp/ca
 >
 >* [View the Sites, Ads, and Frequency Details for a Placement](placement-details-view.md)
 >* [Manage Your Campaign Data Views](campaign-data-views-manage.md)
->* [Create a Custom Column View](column-view-create.md)
->* [Change the Column View](column-view-change.md)
->* [Manage Data Visualizations](campaign-data-visualization-manage.md)
 >* [Export Data from a Campaign Management View](campaign-export-data.md)
 >* [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
