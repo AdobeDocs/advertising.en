@@ -89,7 +89,7 @@ index: yes
   + Performance Reports in Campaign Management Views {#campaign-reports}
     + [About Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [Export Data from a Campaign Management View](/help/dsp/campaign-management/reports/campaign-export-data.md)
-    + [View the Sites, Ads, and Frequency Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
+    + [View the Sites, Ads, Frequency, and Inventory Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
     + [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
     + [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
     + [Manage Your Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
