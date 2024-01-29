@@ -1,10 +1,10 @@
 ---
-title: About Performance Reports in Campaign Management Views
+title: Types of Performance Reports in Campaign Management Views
 description: Learn about the report data included in the campaign management views.
 feature: DSP Campaign Data Views
 exl-id: 7af97704-2053-4862-a851-12db009e6776
 ---
-# About Performance Reports in Campaign Management Views
+# Types of Performance Reports in Campaign Management Views
 
 The campaign management views include comprehensive report data. The available reports help you to identify the packages and placements that are performing well and those that need your attention. Quick action buttons also make you more productive.
 

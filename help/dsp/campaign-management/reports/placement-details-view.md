@@ -84,5 +84,5 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 
 >[!MORELIKETHIS]
 >
->* [About Performance Reports in Campaign Management Views](campaign-reports-about.md)
+>* [Types of Performance Reports in Campaign Management Views](campaign-reports-about.md)
 >* [Manage Your Campaign Data Views](campaign-data-views-manage.md)

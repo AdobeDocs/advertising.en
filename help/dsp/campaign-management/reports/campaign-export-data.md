@@ -24,5 +24,5 @@ You can export a snapshot of the current, filtered campaign management view to a
 
 >[!MORELIKETHIS]
 >
->* [About Performance Reports in Campaign Management Views](campaign-reports-about.md)
+>* [Types of Performance Reports in Campaign Management Views](campaign-reports-about.md)
 >* [Manage Your Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)

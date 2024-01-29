@@ -18,5 +18,5 @@ exl-id: f895529b-dc69-4c74-bca6-3f7617f41ceb
 >* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
 >* [Delete a Custom Report](/help/dsp/reports/report-delete.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [About Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Available Report Columns](/help/dsp/reports/report-columns.md)

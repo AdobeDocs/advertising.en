@@ -87,7 +87,7 @@ index: yes
       + [Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
     + [Specifications for Supported Ad Types](/help/dsp/campaign-management/ads/ad-specs.md)
   + Performance Reports in Campaign Management Views {#campaign-reports}
-    + [About Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+    + [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [Export Data from a Campaign Management View](/help/dsp/campaign-management/reports/campaign-export-data.md)
     + [View the Sites, Ads, Frequency, and Inventory Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
     + [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)

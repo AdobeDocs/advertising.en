@@ -83,6 +83,6 @@ Your account settings at [!UICONTROL Settings] > [!UICONTROL Account] indicate a
 >* [Create a Custom Report](/help/dsp/reports/report-create.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 >* [FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)
->* [About Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Available Report Columns](/help/dsp/reports/report-columns.md)
 >* [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
