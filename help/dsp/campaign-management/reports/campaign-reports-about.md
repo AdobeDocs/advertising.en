@@ -56,49 +56,26 @@ In each entity tab, each row includes pacing and delivery metrics, by default, b
 An "Alerts" column indicates when a package, placement, or ad &mdash; or any child entity under a package or placement &mdash; has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
 -->
 
-### Placement [!UICONTROL Inspector] {#placement-inspector}
-
-For each placement, you can [open a (detail view [!UICONTROL Inspector])](placement-details-view.md), which includes the following in-depth data:
-
-* **[!UICONTROL Sites]:** All of the sites on which the placement has had impressions.
-
-   The [!UICONTROL Sites] tab includes search and filter features, the same standard and custom column view options that are available on the main page, and an [!UICONTROL Exclude] button in each row so you can quickly exclude a site from the placement.
-
-* **[!UICONTROL Ads]:** All of the ads in the placement.
-
-   The [!UICONTROL Ads] tab includes search and filter features, the same standard and custom column view options that are available on the main page, and quick action buttons in each row, such as [!UICONTROL Pause] (so you can quickly pause an ad).
-
-* **[!UICONTROL Frequency]:** Data for each ad frequency level for the placement, including:
-    * the ad frequency level (such as "1" for all instances in which users saw an ad one time)
-    * the estimated unique number of devices/browsers or people (depending on the specified [!UICONTROL Cross Device Level] for the campaign) who received impressions at the specified frequency level
-    * the estimated number of impressions at the specified frequency level
-    * the estimated average frequency for the specified frequency level. This value is equal to (Estimated Impressions)/(Estimated Uniques).
-
-* **[!UICONTROL Inventory]:** Information about all deals targeted by the placement.
-
-    The [!UICONTROL Inventory] tab enables quick troubleshooting by showing performance statistics, such as [!UICONTROL Auctions], [!UICONTROL Bids], and [!UICONTROL Win Rate]. The tab includes search and filter features, the same standard and custom column view options that are available on the main page, and quick action buttons in each row, including [!UICONTROL Edit], [!UICONTROL View Report], and [[!UICONTROL Auction Insights] for further troubleshooting](/help/dsp/inventory/private-deal-auction-insights.md). 
-
-#### Troubleshooting Inventory
-
-| Issue | Possible Cause  | Actions to Take |
-| -----------| ---------- | ---------- |
-| [!UICONTROL Zero Auctions] | The publisher hasn't started sending bid requests. | Contact the publisher to activate the deal. |
-| | The deal was set up incorrectly, such as by entering an incorrect external deal ID. | Confirm the deal details and edit the deal. |
-| [!UICONTROL Auctions but no Bids] | The placement targeting doesn't match the incoming bid requests for the deal. <br><br> For example, a placement might be targeting a geography that isn't eligible for the deal. | Edit the placement targets as needed to avoid targeting mismatches. |
-| | The placement doesn't have an active ad with the required media type for the deal. | Create and attach an ad with the correct media type to the placement. |
-| | The placement doesn't have adequate budget. | Increase the placement budget to allow bidding on incoming requests. |
-| | The placement flight dates don't overlap with the impression delivery dates for the deal. | Edit the placement's flight dates as needed. |
-| [!UICONTROL Low Win Rate] | The placement's maximum bid (floor or fixed) is below the minimum required by the deal. | Increase the placement's [!UICONTROL Max Bid] as needed. |
-| | The placement uses pre-bid filters that limit bidding. | Lower the thresholds of the pre-bid filters to allow more bidding. |
-| | Audience targeting for the placement is too restrictive. | Check if the specified audience targets have enough active users, and expand the audience if possible. |
-
-![placement Inspector](/help/dsp/assets/placement-inspector.png)
-
-You can export the data on the [!UICONTROL Sites], [!UICONTROL Ads], or [!UICONTROL Frequency] tab to your browser's default download folder as a report in XLSM format.
-
 ### Other Types of Campaign-level Reporting
 
-For other data breakouts, view [the campaign-level reporting pages](/help/dsp/campaign-management/campaigns/campaign-view-report.md). The <!--legacy --> report includes sections on [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], and [!UICONTROL Audience Performance] data.
+For other data breakouts, view [the campaign-level reporting pages](/help/dsp/campaign-management/campaigns/campaign-view-report.md). The report includes sections on [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], and [!UICONTROL Audience Performance] data.
+
+### Other Types of Placement-level Reporting
+
+For other data breakouts, view [the placement-level reporting pages](/help/dsp/campaign-management/placements/placement-view-report.md). The report includes sections on [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications], and [!UICONTROL Ads] data.
+
+In addition, you can view the following data within the placement settings:
+
+* [A (detail view [!UICONTROL Inspector])](placement-details-view.md), which shows all targeted sites, ads, frequency data, and deals for a placement.
+
+* A [placement forecast report](/help/dsp/campaign-management/reports/placement-forecast.md)
+ 
+* [Placement diagnostic reports](/help/dsp/campaign-management/reports/placement-diagnostics.md).
+
+
+### Other Types of Ad-level Reporting
+
+For other data breakouts, view [the ad-level reporting pages](/help/dsp/campaign-management/ads/ad-view-report.md). The report includes [!UICONTROL Overview], [!UICONTROL Geography], and [!UICONTROL Viewability] data.
 
 >[!MORELIKETHIS]
 >
