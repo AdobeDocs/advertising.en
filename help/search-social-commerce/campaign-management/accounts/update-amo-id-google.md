@@ -10,17 +10,17 @@ feature: Search Campaign Management
 
 *[!DNL Google Ads] accounts only*
 
-The legacy format for the [AMO ID tracking code](/help/integrations/analytics/ids.md#amo-id-formats) for existing [!DNL Google Ads] accounts doesn't support some features in Analytics, such as reporting at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns, drafts and experiments campaigns, and other use cases in which the same ad+keyword+match type combination exists in multiple campaigns.
+The legacy (prior to October 2019) format for the [AMO ID tracking code](/help/integrations/analytics/ids.md#amo-id-formats) for existing [!DNL Google Ads] accounts doesn't support some features in Analytics, such as reporting at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns, drafts and experiments campaigns, and other use cases in which the same ad+keyword+match type combination exists in multiple campaigns.
 
-The latest format includes parameters for campaign ID and ad group ID:
+The current format includes parameters for campaign ID and ad group ID:
 
 ```
 s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}
 ```
 
-You can change to the new format for any or all of your existing accounts, individually. If you don't have performance max campaigns or drafts and experiments campaigns, migrating then to the new format is optional.
+You can change to the current format for any or all of your existing accounts, individually. If you don't have performance max campaigns or drafts and experiments campaigns, migrating then to the new format is optional.
 
-All new [!DNL Google Ads] accounts automatically use the new  AMO ID format.
+All new [!DNL Google Ads] accounts automatically use the current AMO ID format.
 
 >[!NOTE]
 >
