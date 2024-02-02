@@ -104,7 +104,7 @@ The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL
 
 The parameter is added to your tracking URLs in one of the following ways:
 
-* (Recommended) The server-side insertion feature is implemented.
+* (Recommended) When the server-side insertion feature is implemented.
 
   * DSP customers: The pixel server automatically appends the s_kwcid parameter to your landing page suffixes when an end user views a display ad with the Adobe Advertising pixel.
 
@@ -114,7 +114,7 @@ The parameter is added to your tracking URLs in one of the following ways:
     
     * For other ad networks, or [!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts with the [!UICONTROL Auto Upload] setting disabled, manually add the parameter to your [account-level append parameters](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"}, which append it to your base URLs.
 
-* The server-side insertion feature isn't implemented:
+* When the server-side insertion feature isn't implemented:
 
   * DSP customers: The [JavaScript code](javascript.md) automatically records click-throughs and view-throughs. When a browser doesn't support third-party cookies, you can still track click-based conversions for the following ad types:
 
@@ -146,7 +146,7 @@ where:
 
 Example AMO ID: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
-#### AMO ID formats for Search, Social, & Commerce ads
+#### AMO ID formats for Search, Social, & Commerce ads {#amo-id-format-search}
 
 The parameters vary by ad network, but the following parameters are common to all:
 
