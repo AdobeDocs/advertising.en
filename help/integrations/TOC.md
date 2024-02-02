@@ -16,7 +16,7 @@ index: yes
     + [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
     + Planning Your Implementation {#planning}
         + [Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md)
-        + [JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)
+        + [(DSP) JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)
         + [Using the [!DNL Last Event Service] JavaScript Library with Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md)
         + (DSP) Macros for Ad Tags {#macros}
           + [Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)
