@@ -12,7 +12,7 @@ feature: Search Campaign Management
 
 **[!UICONTROL Status]:** The display status of the ad group: *Active* or *Paused*. The default for new ad groups is *Active*.
 
-**[!UICONTROL Ad Language]:** The target language for ads.<!-- Which campaign types? Not there for audience image-based ad groups. -->
+**[!UICONTROL Ad Language]:** (Search campaigns) The target language for ads.
 
 <!-- **[!UICONTROL Start Date]:** -->
 
@@ -24,7 +24,7 @@ feature: Search Campaign Management
 
 ## [!UICONTROL Networks]
 
-**[!UICONTROL Networks]:** How and where to place ads within the ad group:
+**[!UICONTROL Networks]:** (Search ads) How and where to place ads within the ad group:
 
 * *[!UICONTROL Only Microsoft Advertising and Yahoo! websites]* (the default): To place bids for ads on the search network.
 
@@ -99,6 +99,8 @@ For [!DNL Microsoft Advertising] ad groups in the audience network, bid modifier
 <!-- **[!UICONTROL Custom Parameters]:** -->
 
 {{$include /help/_includes/custom-parameters.md}}
+
+**[!UICONTROL Adgroup Frequency Cap Settings]:** (Optional) The number of times a customer will be served ads from the ad group. Enter a value and select the time unit (*[!UICONTROL Hour]*, *[!UICONTROL Day]*, or *[!UICONTROL Week]*).
 
 ## [!UICONTROL Negative Keywords]
 
