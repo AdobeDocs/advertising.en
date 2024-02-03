@@ -26,7 +26,7 @@ You can create ad groups from within Search, Social, & Commerce for a [supported
 
 1. Enter the [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), [Yahoo! Japan Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) ad group settings.
 
-   Depending on the ad network, the settings may be grouped into [!UICONTROL Ad Group Details], [!UICONTROL Budget Options], [!UICONTROL Ad Group Targeting], and [!UICONTROL URL Options]. To configure settings for [!UICONTROL Negative Keywords] or [!UICONTROL Negative Websites], when they're available, click **[!UICONTROL Add Negative Keywords]** or **[!UICONTROL Add Negative Websites]**, respectively.
+   Depending on the ad network, the settings may be grouped into [!UICONTROL Ad Group Details], [!UICONTROL Budget Options], [!UICONTROL Ad Group Targeting], and [!UICONTROL URL Options]. To configure settings for [!UICONTROL Adgroup Frequency Cap Settings], [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], when they're available, click **[!UICONTROL Add Frequency Cap Settings]**, **[!UICONTROL Add Negative Keywords]**, or **[!UICONTROL Add Negative Websites]**, respectively.
 
 1. Click **[!UICONTROL Post]**.
 
