@@ -30,9 +30,7 @@ By default, each campaign row includes pacing and delivery metrics. Pacing metri
 
 You can further [customize the data tables](campaign-data-views-manage.md#data-tables-manage) in additional ways and [filter the visible data](campaign-data-views-manage.md#filter-data-tables).
 
-<!--
-An "Alerts" column indicates when a campaign (or any child entity under it) has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
--->
+An "[!UICONTROL Alerts]" column indicates when a campaign, or any child entity under it, has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md)" for more information.
 
 To view a campaign in more detail, click the campaign name.
 
@@ -52,9 +50,7 @@ See the ["Chart View" section on cross-campaign metrics](#chart-view) for more i
 
 In each entity tab, each row includes pacing and delivery metrics, by default, but you can [change the column view](campaign-data-views-manage.md#column-view-change) or even [create a custom column view](campaign-data-views-manage.md#column-view-create) to apply across all subtabs for the campaign. You can further [customize the data tables](campaign-data-views-manage.md#data-tables-manage) in additional ways. Each data table includes a [!UICONTROL Subtotals] row, which shows either the sum or the average value of each metric across all visible rows.
 
-<!--
-An "Alerts" column indicates when a package, placement, or ad &mdash; or any child entity under a package or placement &mdash; has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
--->
+An "[!UICONTROL Alerts]" column indicates when a package, placement, or ad &mdash; or any child entity under a package or placement &mdash; has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md)" for more information.
 
 ### Other Types of Campaign-level Reporting
 
