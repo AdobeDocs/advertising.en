@@ -1,23 +1,19 @@
 ---
-title: View Alerts and Notifications
+title: View Alerts
 description: Learn how to view alerts and recommended resolutions for your campaigns and campaign components.
 feature: DSP Campaigns, DSP Packages, DSP Placements, DSP Ads, DSP Campaign Data Views
 ---
-# View Alerts and Notifications
+# View Alerts
 
-An [!UICONTROL Alerts Panel] icon in the [!UICONTROL Campaigns], [!UICONTROL Packages] and package details, [!UICONTROL Placements], and [!UICONTROL Ads] views indicates if any alerts are available for the entities that are listed. When the icon has a blue dot (![Alerts Panel icon when alerts are available](/help/dsp/assets/alerts-panel.png "Alerts Panel icon when alerts are available")), alerts are available. When no dot is visible (![Alerts Panel icon when no alerts are available](/help/dsp/assets/alerts-panel-empty.png "Alerts Panel icon when no alerts are available")), no alerts are available.
+When any of your campaigns or campaign components has an issue, an alert is created, with a time stamp and recommended action to resolve the issue. Reasons for alerts include configuration issues (such as the absence of active child entities or a required budget update), ad rejection, and metric issues (such as poor ad delivery or performance). <!-- Need a list of possible alert types? -->
 
-In addition, the data tables in the same views include an "[!UICONTROL Alerts]" column that indicates when an entity (or any child entity under it) has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")).
+Alerts are available in the following locations:
 
-<!--
-The [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads] views, and the package detail view, include an "[!UICONTROL Alerts]" column that indicates when an entity (or any child entity under it) has an issue. Alert indicators include "Critical" (indicator-critical.png) and "Warning" (indicator-warning.png).
+* An [!UICONTROL Alerts Panel] icon in the [!UICONTROL Campaigns], [!UICONTROL Packages] and package details, [!UICONTROL Placements], and [!UICONTROL Ads] views indicates if any alerts are available for the entities that are listed. When the icon has a blue dot (![Alerts Panel icon when alerts are available](/help/dsp/assets/alerts-panel.png "Alerts Panel icon when alerts are available")), alerts are available. When no dot is visible (![Alerts Panel icon when no alerts are available](/help/dsp/assets/alerts-panel-empty.png "Alerts Panel icon when no alerts are available")), no alerts are available.
 
-In addition, the [!UICONTROL Alerts Panel] icon in the upper right of the toolbar indicates if any alerts are available for the current set of entities that are listed. When the icon has a blue dot (![Alerts Panel icon when alerts are available](/help/dsp/assets/alerts-panel.png "Alerts Panel icon when alerts are available")), alerts are available. When no dot is visible (![Alerts Panel icon when no alerts are available](/help/dsp/assets/alerts-panel-empty.png "Alerts Panel icon when no alerts are available")), no alerts are available.
--->
+* The data tables in the same views include an "[!UICONTROL Alerts]" column that indicates when an entity (or any child entity under it) has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")).
 
-The alert details include the time stamp and recommended action for each affected entity. You can optionally choose to ignore an individual alert, which removes it from the [!UICONTROL Alerts Panel].
-
-Reasons for alerts include configuration issues (such as the absence of active child entities or a required budget update), ad rejection, and metric issues (such as poor ad delivery or performance). <!-- Need a list of possible alert types? -->
+You can optionally choose to ignore an individual alert, which removes it from the [!UICONTROL Alerts Panel].
 
 Alerts and alert indicators disappear when the underlying issues are resolved.
 
