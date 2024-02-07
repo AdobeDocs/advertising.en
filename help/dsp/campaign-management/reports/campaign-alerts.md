@@ -5,19 +5,27 @@ feature: DSP Campaigns, DSP Packages, DSP Placements, DSP Ads, DSP Campaign Data
 ---
 # View Alerts and Notifications
 
+An [!UICONTROL Alerts Panel] icon in the [!UICONTROL Campaigns], [!UICONTROL Packages] and package details, [!UICONTROL Placements], and [!UICONTROL Ads] views indicates if any alerts are available for the entities that are listed. When the icon has a blue dot (![Alerts Panel icon when alerts are available](/help/dsp/assets/alerts-panel.png "Alerts Panel icon when alerts are available")), alerts are available. When no dot is visible (![Alerts Panel icon when no alerts are available](/help/dsp/assets/alerts-panel-empty.png "Alerts Panel icon when no alerts are available")), no alerts are available.
+
+In addition, the data tables in the same views include an "[!UICONTROL Alerts]" column that indicates when an entity (or any child entity under it) has an issue. Alert indicators include "Critical" (indicator-critical.png) and "Warning" (indicator-warning.png).
+
+<!--
 The [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads] views, and the package detail view, include an "[!UICONTROL Alerts]" column that indicates when an entity (or any child entity under it) has an issue. Alert indicators include "Critical" (indicator-critical.png) and "Warning" (indicator-warning.png).
 
 In addition, the [!UICONTROL Alerts Panel] icon in the upper right of the toolbar indicates if any alerts are available for the current set of entities that are listed. When the icon has a blue dot (![Alerts Panel icon when alerts are available](/help/dsp/assets/alerts-panel.png "Alerts Panel icon when alerts are available")), alerts are available. When no dot is visible (![Alerts Panel icon when no alerts are available](/help/dsp/assets/alerts-panel-empty.png "Alerts Panel icon when no alerts are available")), no alerts are available.
+-->
 
-Alert indicators disappear when the underlying issue is resolved.
+The alert details include the time stamp and recommended action for each affected entity. You can optionally choose to ignore an individual alert, which removes it from the [!UICONTROL Alerts Panel].
 
-<!-- Need a list of possible alert types? -->
+Reasons for alerts include configuration issues (such as the absence of active child entities or a required budget update), ad rejection, and metric issues (such as poor ad delivery or performance). <!-- Need a list of possible alert types? -->
+
+Alerts and alert indicators disappear when the underlying issues are resolved.
 
 ## View Alerts in the [!UICONTROL Alerts Panel]<!-- verify final name-->
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. Do either of the following:
+1. Do any of the following:
 
    * (For all alerts applicable for the view) To the right of the toolbar in any campaign management view, click ![Alerts Panel icon when alerts are available](/help/dsp/assets/alerts-panel.png "Alerts Panel icon when alerts are available").
    
@@ -31,9 +39,15 @@ Alert indicators disappear when the underlying issue is resolved.
 
      1. Click the alert indicator for a package, placement, or ad row, and then click **[!UICONTROL View in alert panel]**.
 
+   By default, critical alerts are listed first.
+
 1. (Optional) To filter the alerts by alert grouping or status, entity status, or entity type, or for a specific campaign, click [Filter button](/help/dsp/assets/filter.png) in the upper right of the panel, select the filter options, and then click **[!UICONTROL Apply]**.
 
-1. To view a list of all affected entities for a specific alert type, click the alert name, such as "[!UICONTROL Package: No Active Placement (*N*)]". To view the details for each affected entity, click [!UICONTROL EXPAND ALL].
+1. To view a list of all affected entities for a specific alert type, click the alert name, such as "[!UICONTROL Package: No Active Placement (*N*)]". To view the details for each affected entity, including the recommended action, click [!UICONTROL EXPAND ALL].
+
+1. (Optional) To permanently remove an individual alert from the [!UICONTROL Alerts Panel], hold the cursor over the entity name and click ![Ignore](/help/dsp/assets/alert-ignore.png "Ignore"), and then click **[!UICONTROL Ignore indefinitely]**.<!-- may add additional options to "Ignore alert until next check" and "Ignore alert for 3 days" -->
+
+   You have a few seconds after ignoring an alert to undo the action. Once the option message closes, you can't cancel the action.
 
 ## Close the [!UICONTROL Alerts Panel]<!-- verify final name-->
 
