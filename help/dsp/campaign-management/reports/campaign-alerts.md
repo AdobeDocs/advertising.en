@@ -7,7 +7,7 @@ feature: DSP Campaigns, DSP Packages, DSP Placements, DSP Ads, DSP Campaign Data
 
 An [!UICONTROL Alerts Panel] icon in the [!UICONTROL Campaigns], [!UICONTROL Packages] and package details, [!UICONTROL Placements], and [!UICONTROL Ads] views indicates if any alerts are available for the entities that are listed. When the icon has a blue dot (![Alerts Panel icon when alerts are available](/help/dsp/assets/alerts-panel.png "Alerts Panel icon when alerts are available")), alerts are available. When no dot is visible (![Alerts Panel icon when no alerts are available](/help/dsp/assets/alerts-panel-empty.png "Alerts Panel icon when no alerts are available")), no alerts are available.
 
-In addition, the data tables in the same views include an "[!UICONTROL Alerts]" column that indicates when an entity (or any child entity under it) has an issue. Alert indicators include "Critical" (/help/dsp/assets/indicator-critical.png) and "Warning" (/help/dsp/assets/indicator-warning.png).
+In addition, the data tables in the same views include an "[!UICONTROL Alerts]" column that indicates when an entity (or any child entity under it) has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")).
 
 <!--
 The [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads] views, and the package detail view, include an "[!UICONTROL Alerts]" column that indicates when an entity (or any child entity under it) has an issue. Alert indicators include "Critical" (indicator-critical.png) and "Warning" (indicator-warning.png).
