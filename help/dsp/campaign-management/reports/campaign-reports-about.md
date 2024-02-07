@@ -83,3 +83,4 @@ For other data breakouts, view [the ad-level reporting pages](/help/dsp/campaign
 >* [Manage Your Campaign Data Views](campaign-data-views-manage.md)
 >* [Export Data from a Campaign Management View](campaign-export-data.md)
 >* [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+>* [View Alerts and Notifications](campaign-alerts.md)
