@@ -62,7 +62,7 @@ exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 
 1. (Optional) Locate specific placements and ads as needed:
 
-   * Above the left table, filter the lists by placement type, placement status, ad type, or ad status.
+   * Above the left table, filter the lists by package, placement type, placement status, ad type, or ad status.
    
    * In the right and left tables, search for specific text strings in the placement or ad name.
 
