@@ -37,7 +37,7 @@ Alerts and alert indicators disappear when the underlying issues are resolved.
 
    By default, critical alerts are listed first.
 
-1. (Optional) To filter the alerts by alert grouping or status, entity status, or entity type, or for a specific campaign, click [Filter button](/help/dsp/assets/filter.png) in the upper right of the panel, select the filter options, and then click **[!UICONTROL Apply]**.
+1. (Optional) To filter the alerts by alert grouping or status, entity status, or entity type, or for a specific campaign, click ![Filter button](/help/dsp/assets/filter.png) in the upper right of the panel, select the filter options, and then click **[!UICONTROL Apply]**.
 
 1. To view a list of all affected entities for a specific alert type, click the alert name, such as "[!UICONTROL Package: No Active Placement (*N*)]". To view the details for each affected entity, including the recommended action, click [!UICONTROL EXPAND ALL].
 
