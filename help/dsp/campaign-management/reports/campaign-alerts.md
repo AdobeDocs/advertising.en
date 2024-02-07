@@ -5,9 +5,13 @@ feature: DSP Campaigns, DSP Packages, DSP Placements, DSP Ads, DSP Campaign Data
 ---
 # View Alerts and Notifications
 
-The [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads] views include an "[!UICONTROL Alerts]" column that indicates when an entity (or any child entity under it) has an issue. Alert indicators include "Critical" (indicator-critical.png) and "Warning" (indicator-warning.png). Alert indicators disappear when the underlying issue is resolved.
+The [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads] views, and the package detail view, include an "[!UICONTROL Alerts]" column that indicates when an entity (or any child entity under it) has an issue. Alert indicators include "Critical" (indicator-critical.png) and "Warning" (indicator-warning.png).
 
-<!-- Need any explanation of "critical" vs "warning," or a list of possible alert types? -->
+In addition, the [!UICONTROL Alerts Panel] icon in the upper right of the toolbar indicates if any alerts are available for the current set of entities that are listed. When the icon has a blue dot (![Alerts Panel icon when alerts are available](/help/dsp/assets/alerts-panel.png "Alerts Panel icon when alerts are available")), alerts are available. When no dot is visible (![Alerts Panel icon when no alerts are available](/help/dsp/assets/alerts-panel-empty.png "Alerts Panel icon when no alerts are available")), no alerts are available.
+
+Alert indicators disappear when the underlying issue is resolved.
+
+<!-- Need a list of possible alert types? -->
 
 ## View Alerts in the [!UICONTROL Alerts Panel]<!-- verify final name-->
 
@@ -15,11 +19,11 @@ The [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and 
 
 1. Do either of the following:
 
-   * To the right of the toolbar, click ![Alerts Panel](/help/dsp/assets/alerts-panel.png "Alerts Panel).
+   * (For all alerts applicable for the view) To the right of the toolbar in any campaign management view, click ![Alerts Panel icon when alerts are available](/help/dsp/assets/alerts-panel.png "Alerts Panel icon when alerts are available").
    
-   * (For a specific campaign) Click the alert indicator for a campaign row, and then click **[!UICONTROL View in alert panel]**.<!-- Does this open the panel with the specific alert expanded? If yes, then start this "To open the panel to show a specific alert, click.... -->
+   * (For all alerts for a specific campaign) Click the alert indicator for a campaign row, and then click **[!UICONTROL View in alert panel]**.
 
-   * (For packages, placements, or ads) Do the following:
+   * (For all alerts for a specific package, placement, or ad) Do the following:
    
      1. Click the campaign name.
 
@@ -27,7 +31,13 @@ The [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and 
 
      1. Click the alert indicator for a package, placement, or ad row, and then click **[!UICONTROL View in alert panel]**.
 
-1. To view a specific alert type, click the alert name. To view the alert details, including XXXX<!-- ?? -->, click [!UICONTROL EXPAND ALL].
+1. (Optional) To filter the alerts by alert grouping or status, entity status, or entity type, or for a specific campaign, click [Filter button](/help/dsp/assets/filter.png) in the upper right of the panel, select the filter options, and then click **[!UICONTROL Apply]**.
+
+1. To view a list of all affected entities for a specific alert type, click the alert name, such as "[!UICONTROL Package: No Active Placement (*N*)]". To view the details for each affected entity, click [!UICONTROL EXPAND ALL].
+
+## Close the [!UICONTROL Alerts Panel]<!-- verify final name-->
+
+* To the right of the toolbar, click ![Alerts Panel icon when alerts are available](/help/dsp/assets/alerts-panel.png "Alerts Panel icon when alerts are available") or ![Alerts Panel icon when no alerts are available](/help/dsp/assets/alerts-panel-empty.png "Alerts Panel icon when no alerts are available").
 
 >[!MORELIKETHIS]
 >
