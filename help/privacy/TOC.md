@@ -13,3 +13,4 @@ index: yes
 + Support for CCPA {#ccpa}
     + [Support for CCPA: Consumer Data Access and Delete](/help/privacy/ccpa/ccpa-access-delete.md)
     + [(DSP Only) Support for CCPA: Consumer Opt-Out-of-Sale](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
++ [Agreement to Share Data with Google Ads](/help/privacy/dma-agreement.md)
