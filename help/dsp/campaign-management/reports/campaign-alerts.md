@@ -5,7 +5,7 @@ feature: DSP Campaigns, DSP Packages, DSP Placements, DSP Ads, DSP Campaign Data
 ---
 # View Alerts
 
-When any of your campaigns or campaign components has an issue, an alert is created, with a time stamp and recommended action to resolve the issue. Reasons for alerts include configuration issues (such as the absence of active child entities or a required budget update), ad rejection, and metric issues (such as poor ad delivery or performance). <!-- Need a list of possible alert types? -->
+When any of your campaigns or campaign components has an issue, an alert is created, with a time stamp and recommended action to resolve the issue. Reasons for alerts include configuration issues (such as the absence of active child entities or a required budget update), ad rejection, and metric issues (such as poor ad delivery or performance). Alerts are available at the campaign, package, placement, ad, and deal levels.
 
 Alerts are available in the following locations:
 
@@ -13,7 +13,9 @@ Alerts are available in the following locations:
 
 * The data tables in the same views include an "[!UICONTROL Alerts]" column that indicates when an entity (or any child entity under it) has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")).
 
-You can optionally choose to ignore an individual alert, which removes it from the [!UICONTROL Alerts Panel].
+You can open the relevant entity view for any entity with an alert. You can then edit the entity settings as needed to resolve the issue.
+
+You can also choose to ignore an individual alert, which removes it from the [!UICONTROL Alerts Panel].
 
 Alerts and alert indicators disappear when the underlying issues are resolved.
 
@@ -25,7 +27,7 @@ Alerts and alert indicators disappear when the underlying issues are resolved.
 
    * (For all alerts applicable for the view) To the right of the toolbar in any campaign management view, click ![Alerts Panel icon when alerts are available](/help/dsp/assets/alerts-panel.png "Alerts Panel icon when alerts are available").
    
-   * (For all alerts for a specific campaign) Click the alert indicator for a campaign row, and then click **[!UICONTROL View in alert panel]**.
+   * (For all alerts for a specific campaign) Click the alert indicator for a campaign row to see the number of applicable alerts, and then click **[!UICONTROL View in alert panel]**.
 
    * (For all alerts for a specific package, placement, or ad) Do the following:
    
@@ -40,6 +42,8 @@ Alerts and alert indicators disappear when the underlying issues are resolved.
 1. (Optional) To filter the alerts by alert grouping or status, entity status, or entity type, or for a specific campaign, click ![Filter button](/help/dsp/assets/filter.png) in the upper right of the panel, select the filter options, and then click **[!UICONTROL Apply]**.
 
 1. To view a list of all affected entities for a specific alert type, click the alert name, such as "[!UICONTROL Package: No Active Placement (*N*)]". To view the details for each affected entity, including the recommended action, click [!UICONTROL EXPAND ALL].
+
+1. (Optional) To open the relevant entity view for any entity with an alert, hold the cursor over the entity name and click ![Go to view](/help/dsp/assets/go-to-view.png "Go to view").
 
 1. (Optional) To permanently remove an individual alert from the [!UICONTROL Alerts Panel], hold the cursor over the entity name and click ![Ignore](/help/dsp/assets/alert-ignore.png "Ignore"), and then click **[!UICONTROL Ignore indefinitely]**.<!-- may add additional options to "Ignore alert until next check" and "Ignore alert for 3 days" -->
 
