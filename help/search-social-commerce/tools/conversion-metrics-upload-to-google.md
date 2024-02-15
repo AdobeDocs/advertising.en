@@ -8,7 +8,7 @@ feature: Search Tools
 
 *Advertisers with [!DNL Google Ads] Accounts Only*
 
-Search, Social, & Commerce can optionally upload to [!DNL Google Ads] all conversion metrics it tracks for [!DNL Google Ads] campaigns that use the Adobe Advertising conversion tracking service and conversion metrics synced from Adobe Analytics. This option doesn't make the conversions available for hybrid optimization. If you want to use your Adobe conversions for hybrid optimization, see "[Enable uploading of objectives to ad networks](objective-upload-to-networks.md)."
+Search, Social, & Commerce can optionally upload to [!DNL Google Ads] all conversion metrics it tracks for [!DNL Google Ads] campaigns that use the Adobe Advertising conversion tracking service. This option doesn't make the conversions available for hybrid optimization. If you want to use your Adobe conversions for hybrid optimization, see "[Enable uploading of objectives to ad networks](objective-upload-to-networks.md)."
 
 Daily uploads include the tracked `gclid` value, the conversion value defined using the advertiser-level attribution model, and the timestamp. If the attribution model is updated, then the next upload uses the new model, but past data isn't updated to use the new model.
 
