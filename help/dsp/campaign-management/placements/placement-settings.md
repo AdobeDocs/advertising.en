@@ -57,7 +57,7 @@ The dates for the package (when applicable) or campaign are auto-populated by de
 * *[!UICONTROL Optimize based on performance]:* Controls the budget at the package level.
 * *[!UICONTROL Set a Fixed Minimum or Maximum Budget]:* Allows you to set a minimum and/or a maximum placement budget. Specify at least one type of budget:
 
-  * *[!UICONTROL Max Budget]*: Enter a value and the duration (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*).
+  * *[!UICONTROL Maximum Budget]*: Enter a value and the duration (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*).
 
   * *[!UICONTROL Minimum Budget]*: The minimum budget as a percentage of the package budget; enter a value and the duration (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*). When an interval cap is specified, the minimum budget value is always calculated as a percentage of the interval cap. Otherwise, it's calculated as a percentage of the package budget.
 
