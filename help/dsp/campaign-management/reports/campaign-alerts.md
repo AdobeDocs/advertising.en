@@ -5,6 +5,8 @@ feature: DSP Campaigns, DSP Packages, DSP Placements, DSP Ads, DSP Campaign Data
 ---
 # View Alerts
 
+*Beta feature*
+
 DSP helps you identify when any of your campaigns or campaign components have issues. For each issue, DSP creates an alert with a time stamp and the recommended action to resolve the issue. Reasons for alerts include configuration issues (for example, when no ads are attached to a placement or when a deal is set up incorrectly), ad rejection, and campaign health issues (such as poor ad delivery or performance). Alerts are available at the campaign, package, placement, ad, and deal levels. 
 
 Alerts are available in the following locations:
