@@ -32,6 +32,14 @@ To view product data and generate tracking templates for a merchant account, and
 
    1. In the [!UICONTROL Product Source] menu, select the merchant center.
 
+   <!--
+
+   1. ([!DNL Meta Ads] accounts only) Log in to the [!DNL Meta Ads] account.
+
+   And are there additional steps just for Meta? If so, create a separate procedure for it.
+   
+   -->
+
    1. (Required for [!DNL Google Ads] accounts; optional for [!DNL Microsoft Advertising] accounts) Allow Search, Social, & Commerce to access the account using the [[!DNL OAuth] authorization protocol](https://oauth.net/2/):
 
       1. ([!DNL Microsoft Advertising] accounts only) Select **[!UICONTROL oAuth]**.
