@@ -92,6 +92,7 @@ index: yes
     + [View the Sites, Ads, Frequency, and Inventory Details for a Placement](/help/dsp/campaign-management/reports/placement-details-view.md)
     + [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
     + [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
+    + [View Alerts](/help/dsp/campaign-management/reports/campaign-alerts.md)
     + [Manage Your Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
   + Correct Placement Settings Using Spreadsheets {#qa-spreadsheet}
       + [About Correcting Placement Settings Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
