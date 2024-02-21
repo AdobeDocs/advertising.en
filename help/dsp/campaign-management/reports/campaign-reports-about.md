@@ -34,7 +34,7 @@ To view a campaign in more detail, click the campaign name.
 
 #### Alert Indicators
 
-An "[!UICONTROL Alerts]" column indicates when a campaign, or any child entity under it, has an issue. An [!UICONTROL Alerts Panel] icon to the right of the toolbar also indicates if any alerts are available for the entities that are listed. See "[View Alerts](campaign-alerts.md)" for more information.
+An "[!UICONTROL Alerts]" column indicates when a campaign, or any child entity under it, has an issue. A [!UICONTROL Pulse Panel] icon to the right of the toolbar also indicates if any alerts are available for the entities that are listed. See "[View Alerts](campaign-alerts.md)" for more information.
 
 ## Single Campaign Reporting {#single-campaign-reporting}
 
@@ -54,7 +54,7 @@ In each entity tab, each row includes pacing and delivery metrics, by default, b
 
 #### Alert Indicators
 
-An "[!UICONTROL Alerts]" column indicates when a package, placement, or ad &mdash; or any child entity under a package or placement &mdash; has an issue. An "[!UICONTROL Alerts]" column indicates when a campaign, or any child entity under it, has an issue. An [!UICONTROL Alerts Panel] icon to the right of the toolbar also indicates if any alerts are available for the entities that are listed. See "[View Alerts](campaign-alerts.md)" for more information.
+An "[!UICONTROL Alerts]" column indicates when a package, placement, or ad &mdash; or any child entity under a package or placement &mdash; has an issue. An "[!UICONTROL Alerts]" column indicates when a campaign, or any child entity under it, has an issue. A [!UICONTROL Pulse Panel] icon to the right of the toolbar also indicates if any alerts are available for the entities that are listed. See "[View Alerts](campaign-alerts.md)" for more information.
 
 ### Other Types of Campaign-level Reporting
 
