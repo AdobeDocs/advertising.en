@@ -24,7 +24,7 @@ It also shows pacing and delivery metrics by package, by default. You can option
 >
 >You can further customize the content and delivery of package reporting via [custom reports](/help/dsp/reports/report-about.md).
 
-To see all of the placements within a package, click the package name.
+To see all of the placements within a package, and the flight dates for the package, click the package name.
 
 >[!MORELIKETHIS]
 >
