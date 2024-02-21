@@ -26,7 +26,7 @@ exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
 
    * To reuse all target from a template, select the check box next to the template name.
 
-   * To reuse individual target types from a template, expand the template name and select the check box next to  the target types you want to reuse.
+   * To reuse individual target types from a template, expand the template name and select the check box next to the target types you want to reuse.
 
 1. Click **[!UICONTROL Apply]**.
 
@@ -40,7 +40,7 @@ In custom reports, the placement-level dimension “Device Environment” indica
 
 ## Goals
 
-**[!UICONTROL Package]:** (Optional) A package to which the placement is assigned. Click ![Edit](/help/dsp/assets/edit.png) to select and existing package or create a new package. When you assign the placement to a package, the [!UICONTROL Goals] section is updated with the flight dates, delivery goal, and budget from the package.
+**[!UICONTROL Package]:** (Optional) A package to which the placement is assigned. Click ![Edit](/help/dsp/assets/edit.png) to select an existing package or create a package. When you assign the placement to a package, the [!UICONTROL Goals] section is updated with the flight dates, delivery goal, and budget from the package.
 
 **[!UICONTROL Flight Dates]:** The start date and end date for the placement. Approved ads are eligible to run during the flight when the placement is active and assigned to an active package or campaign.
 
@@ -55,7 +55,11 @@ The dates for the package (when applicable) or campaign are auto-populated by de
 **[!UICONTROL Placement Funding]:** How to budget for the placement:
 
 * *[!UICONTROL Optimize based on performance]:* Controls the budget at the package level.
-* *[!UICONTROL Set a fixed budget cap]:* Allows you to set a daily, weekly, monthly or all-time placement budget. Enter a value and the duration (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*).
+* *[!UICONTROL Set a Fixed Minimum or Maximum Budget]:* Allows you to set a minimum and/or a maximum placement budget. Specify at least one type of budget:
+
+  * *[!UICONTROL Maximum Budget]*: Enter a value and the duration (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*).
+
+  * *[!UICONTROL Minimum Budget]*: The minimum budget as a percentage of the package budget. When an interval cap is specified, the minimum budget value is always calculated as a percentage of the interval cap. Otherwise, it's calculated as a percentage of the package budget.
 
 **[!UICONTROL Max Bid]:** The maximum to pay for 1000 impressions.
 
@@ -85,7 +89,7 @@ The dates for the package (when applicable) or campaign are auto-populated by de
 >
 >This field is only a benchmark and isn't used for decisioning.
 
-**[!UICONTROL Pace on]:** What pacing will be based on:
+**[!UICONTROL Pace on]:** The basis for pacing:
 
 * **[!UICONTROL Budget goal]:** (Default) This option delivers as many impressions as possible within the allocated budget.
 
@@ -144,13 +148,13 @@ To specify locations:
       1. Select the country.
       1. Enter the city name, and then click ![Edit](/help/dsp/assets/search.png).
       1. Click the correct search result.
-      1. Click *[!UICONTROL Include All]* to include all of the locations as targets or *[!UICONTROL Exclude All]* to exclude all of the locations as targets.
+      1. Click *[!UICONTROL Include All]* to include all locations as targets or *[!UICONTROL Exclude All]* to exclude all locations as targets.
    * To enter or paste postal codes, and include or exclude them all:
       1. Click **[!UICONTROL Paste Postal Code]**.
       1. Select the country.
       1. Enter or paste up to 1000 postal codes.
          Include one postal code per line, or enter multiple values separated by commas or tabs.
-      1. Click *[!UICONTROL Include All]* to include all of the locations as targets or *[!UICONTROL Exclude All]* to exclude all of the locations as targets.
+      1. Click *[!UICONTROL Include All]* to include all locations as targets or *[!UICONTROL Exclude All]* to exclude all locations as targets.
    * To remove a location from the [!UICONTROL Included] or [!UICONTROL Excluded] list, click **[!UICONTROL X]** next to the location in the right column.
 1. Click **[!UICONTROL Done]**.
 
@@ -163,7 +167,7 @@ To specify locations:
 
 **[!UICONTROL Inventory Sources]:** Inventory sources to include or exclude as targets. For most placement types, all inventory types, and all sources for each type, are included by default. For [!DNL Roku] placements, you must specify the inventory type and sources. You can choose from the following types of inventory:
 
-* [!UICONTROL Public]: (All placement types except for Roku) All of the open exchange inventory to which DSP has access. You can include and exclude public inventory.
+* [!UICONTROL Public]: (All placement types except for Roku) All open exchange inventory to which DSP has access. You can include and exclude public inventory.
 
     You can view the list by source or by feed. When you view the list by feed, you can search by feed name, feed key, or a selected characteristic tag.
 
@@ -171,9 +175,13 @@ To specify locations:
 
     You can search the list by keyword, key, deal ID, or custom tag.
 
+    * *[!UICONTROL Ensure Fixed or Floor Price for the bid]*: (Optional) Overrides the bid price algorithm to bid at least the fixed and floor prices for deals.
+
 * [!UICONTROL On Demand] | [!UICONTROL Roku On Demand]: All [premium, non-guaranteed [!UICONTROL On Demand] inventory](/help/dsp/inventory/on-demand-inventory-about.md) (or [!UICONTROL On Demand] [!DNL Roku] deals for [!DNL Roku] placements) to which you've subscribed in [!DNL DSP]. You can include and exclude [!UICONTROL On Demand] inventory.
 
     You can view the list by source or by feed. When you view the list by feed, you can search by feed name, feed key, or a selected publisher region, category tag, or characteristic tag.
+
+    * *[!UICONTROL Ensure Fixed or Floor Price for the bid]*: (Optional) Overrides the bid price algorithm to bid at least the fixed and floor prices for deals.
 
 To specify inventory targeting:
 
@@ -207,9 +215,12 @@ Outstream ads usually appear over the content as a pop-up or stuffed into conten
 
 **[!UICONTROL Site tier]:** (Available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) The quality of the sites to target. Tiers 1-3 are all brand safe and have been vetted and approved by the DSP mapping team.
 
-* *[!UICONTROL Tier 1]:* Premium sites and applications that are nationally-recognizable.
-* *[!UICONTROL Tier 2]:* Targets Tier 1 as well as quality sites and applications that are less widely know than Tier 1.
-* *[!UICONTROL Tier 3]:* Targets Tiers 1-2 as well as legitimate and brand-safe sites and applications that cater to a niche audience. Use Tier 3 for reach or data targeting buys.
+* *[!UICONTROL Tier 1]:* Premium sites and applications that are nationally recognizable.
+
+* *[!UICONTROL Tier 2]:* Targets Tier 1 as well as quality sites and applications that are less widely known than Tier 1.
+
+* *[!UICONTROL Tier 3]:* Targets Tiers 1-2 plus legitimate and brand-safe sites and applications that cater to a niche audience. Use Tier 3 for reach or data targeting buys.
+
 * *[!UICONTROL All Sites]:* Targets Tiers 1-3 and new inventory that has not been screened or categorized, which you can use for reach.
 
 >[!NOTE]
@@ -220,7 +231,7 @@ Outstream ads usually appear over the content as a pop-up or stuffed into conten
 >
 >For performance campaigns, the best practice is to select *[!UICONTROL All Sites]*.
 
-**[!UICONTROL Site Categories]:** (Optional; available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Site categories within the selected site tiers to either include or exclude (but not both) as targets. Choose from vertical site lists that DSP has mapped based on site subject:
+**[!UICONTROL Site Categories]:** (Optional; available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Site categories within the selected site tiers to either include or exclude (but not both) as targets. Choose from vertical site lists that DSP has mapped based on subject:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Specify the site categories to either include or exclude:
@@ -242,7 +253,7 @@ Outstream ads usually appear over the content as a pop-up or stuffed into conten
       1. Enter a keyword, select a site tier, and/or select a site category.
       1. In the search results, select the sites to exclude:
          * To exclude an individual site, select the check box next to it.
-         * (When more than 50 results are available) To exclude the first 50 results, click **[!UICONTROL Exclude these 50]**. To exclude all of the search results, click **[!UICONTROL Exclude these \<*NN*\>]**.
+         * (When more than 50 results are available) To exclude the first 50 results, click **[!UICONTROL Exclude these 50]**. To exclude all search results, click **[!UICONTROL Exclude these \<*NN*\>]**.
    * To enter domain names:
       1. Click **[!UICONTROL Paste]**.
       1. Enter one or more domain names on separate lines.
@@ -252,7 +263,7 @@ Outstream ads usually appear over the content as a pop-up or stuffed into conten
 >[!NOTE]
 >
 >* Account-level and advertiser-level blocked site lists are also applied, in addition to the DSP [globally blocked site list](/help/dsp/introduction/features/brand-safety-media-quality.md), which includes sites deemed unsafe for ads.
->* Blocked sites lists always override targeted sites lists. If a placement both excludes and includes the same target for an ad, then the target is excluded.
+>* Blocked site lists always override targeted site lists. If a placement both excludes and includes the same target for an ad, then the target is excluded.
 
 **[!UICONTROL Language]:** (Optional) A single language to target.
 
@@ -273,7 +284,7 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
       1. Enter a keyword, select a site tier, and/or select a site category.
       1. In the search results, select the sites to include:
          * To exclude an individual site, select the check box next to it.
-         * (When more than 50 results are available) To include the first 50 results, click **[!UICONTROL Include these 50]**. To include all of the search results, click **[!UICONTROL Include these \<*NN*\>]**.
+         * (When more than 50 results are available) To include the first 50 results, click **[!UICONTROL Include these 50]**. To include all search results, click **[!UICONTROL Include these \<*NN*\>]**.
    * To enter domain names:
       1. click **[!UICONTROL Paste]**.
       1. Enter one or more domain names on separate lines.
@@ -282,24 +293,24 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 
 ## [!UICONTROL Audience Targeting]
 
-**[!UICONTROL Included Audiences]:** Any audience targets for the placement, including [third-party segments, first-party segments, Adobe segments, custom segments, and saved audiences](/help/dsp/audiences/audience-settings.md). The total and active deduplicated audience size across all selected segments and saved audiences is also displayed. You can select an existing audience, create a new audience that you can reuse later, or select specific audience segments:
+**[!UICONTROL Included Audiences]:** Any audience targets for the placement, including [third-party segments, first-party segments, Adobe segments, custom segments, and saved audiences](/help/dsp/audiences/audience-settings.md). The total and active deduplicated audience size across all selected segments and saved audiences is also displayed. You can select an existing audience, create an audience that you can reuse later, or select specific audience segments:
 
 * To select an existing audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Included Audiences], and then select the audience.
-* To create a new audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Included Audiences], and then select **[!UICONTROL + Create Audience]**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
+* To create an audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Included Audiences], and then select **[!UICONTROL + Create Audience]**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
 * To select specific audience segments, click **[!UICONTROL Select segments for this placement only]**. Select the segment logic; for instructions, see Step 6 in "[Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md)." When you're done, click **Save**.
 
 **[!UICONTROL Excluded Audiences]:** Any audiences to exclude for the placement, including audiences with [third-party segments, first-party segments, Adobe segments, custom segments, and saved audiences](/help/dsp/audiences/audience-settings.md). The total and active deduplicated audience size across all excluded audiences is also displayed. You can select an existing audience or create a new audience that you can reuse later:
 
 * To select an existing audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Excluded Audiences], and then select the audience.
-* To create a new audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Excluded Audiences], and then select **+ Create Audience**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
+* To create an audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Excluded Audiences], and then select **+ Create Audience**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
 
-**[!UICONTROL Cross Device Targeting]:** (Available when you select at least one segment or audience and the [campaign is configured for people-based cross-device targeting](/help/dsp/campaign-management/campaigns/campaign-settings.md). Allows you to extend your targeting across all of a person's known devices (per the device graph specified in the campaign settings), even devices that aren't in the specified segments. Fees may apply depending on the graph specified for the campaign. Device graph data is currently only available in North America.
+**[!UICONTROL Cross Device Targeting]:** (Available when you select at least one segment or audience and the [campaign is configured for people-based cross-device targeting](/help/dsp/campaign-management/campaigns/campaign-settings.md). Allows you to extend your targeting across all of a person's known devices (per the device graph specified in the campaign settings), even devices that aren't in the specified segments. Fees may apply depending on the graph specified for the campaign. Device graph data is available only in North America.
 
-**[!UICONTROL Placement Cap]:** (Optional) The number of times a unique device or person (depending on the specified [!UICONTROL Cross Device Level] for the campaign) will be served ads from the placement. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
+**[!UICONTROL Placement Cap]:** (Optional) The number of times a unique device or person (depending on the specified [!UICONTROL Cross Device Level] for the campaign) is served ads from the placement. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
 
 >[!NOTE]
 >
-> You can set frequency caps at the campaign, package, and placement levels. DSP will respect the strictest frequency cap in the campaign hierarchy.
+> You can set frequency caps at the campaign, package, and placement levels. DSP respects the strictest frequency cap in the campaign hierarchy.
 
 **[!UICONTROL Secondary Cap]:** (Optional; available when you include a numeric [!UICONTROL Placement Cap]) An additional limitation within the bounds of the primary placement cap. Select the number of impressions and the time period (such as 3 per 12 hours).
 
@@ -381,21 +392,21 @@ To specify topic targeting:
 
 * [!UICONTROL DoubleVerify]:
 
-   * **[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** By default, blocks all 100% invalid traffic, including traffic on highjacked devices, for new placements. Additional fees may apply.
+   * **[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** By default, blocks all 100% invalid traffic, including traffic on hijacked devices, for new placements. Additional fees may apply.
 
-   * **[!UICONTROL Also block sites with]:** (Optional) An additional level of fraud and invalid traffic that will cause DSP to block ads by default:  *[!UICONTROL None]* (the default, which doesn't block additional traffic), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]*, or *[!UICONTROL >25% Average Fraud/IVT levels]*. Additional fees may apply.
+   * **[!UICONTROL Also block sites with]:** (Optional) An additional level of fraud and invalid traffic that causes DSP to block ads by default:  *[!UICONTROL None]* (the default, which doesn't block additional traffic), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]*, or *[!UICONTROL >25% Average Fraud/IVT levels]*. Additional fees may apply.
 
 * [!UICONTROL Peer 39]:
 
-   * **[!UICONTROL Block sites that are]:** (Optional) One or more types of fraud that will cause DSP to block ads by default: *[!UICONTROL Fraud]* (which blocks all sites with fraud), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]*, and/or *[!UICONTROL Fraud: Zero Ads]*. Additional fees may apply.
+   * **[!UICONTROL Block sites that are]:** (Optional) One or more types of fraud that cause DSP to block ads by default: *[!UICONTROL Fraud]* (which blocks all sites with fraud), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]*, and/or *[!UICONTROL Fraud: Zero Ads]*. Additional fees may apply.
 
 * [!UICONTROL Integral Ad Science]:
 
-   * **[!UICONTROL Block sites that are]:** (Optional) A type of suspicious website or app activity that will cause DSP to block ads by default: *[!UICONTROL None]* (the default, which doesn't block ads based on suspicious activity), *[!UICONTROL Suspicious Activity - High Risk]*, or *[!UICONTROL Suspicious Activity - High or Moderate Risk]*. Additional fees may apply.
+   * **[!UICONTROL Block sites that are]:** (Optional) A type of suspicious website or app activity that causes DSP to block ads by default: *[!UICONTROL None]* (the default, which doesn't block ads based on suspicious activity), *[!UICONTROL Suspicious Activity - High Risk]*, or *[!UICONTROL Suspicious Activity - High or Moderate Risk]*. Additional fees may apply.
 
 **[!UICONTROL Ads.txt filtering]:**
 
-Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filtering to use by leveraging each publisher's Authorized Digital Sellers list. The advertiser-level default is selected for new placements, but you can change the settings:
+Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filtering to use by applying each publisher's Authorized Digital Sellers list. The advertiser-level default is selected for new placements, but you can change the settings:
 
 * *[!UICONTROL Opt out of ads.txt (default)]*: To buy inventory from all sellers.
 * *[!UICONTROL Ads.txt sellers + sites without ads.txt]*: To prioritize buying inventory from a domain's authorized direct sellers and resellers.
@@ -410,12 +421,12 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
 >
 >([!DNL Roku] placements) Third-party tracking vendors approved by [!DNL Roku] include [!DNL Acxiom], [!DNL comScore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Neustar], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], and [!DNL Research Now].
 
-**[!UICONTROL Event Pixels]:** (Optional) Third-party event-tracking pixels that will be attached by default to all new ads in the placement. To specify event pixels:
+**[!UICONTROL Event Pixels]:** (Optional) Third-party event-tracking pixels to attach by default to all new ads in the placement. To specify event pixels:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Do any of the following:
    * To select an existing pixel, select the check box in the pixel row.
-   * To create a new pixel:
+   * To create a pixel:
       1. Click **[!UICONTROL Create]**.
       1. Enter the following information:
          * **[!UICONTROL Pixel name]:** The pixel name; the maximum length is 500 characters. Use a name that helps you easily identify the pixel.
@@ -425,12 +436,12 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
       1. Click **[!UICONTROL Create and attach]**.
    1. Click **[!UICONTROL Save]**.
 
-**[!UICONTROL Conversion Pixels]:** (Optional) Conversion tracking pixels that will be attached by default to all new ads in the placement. To specify conversion pixels:
+**[!UICONTROL Conversion Pixels]:** (Optional) Conversion tracking pixels to attach by default to all new ads in the placement. To specify conversion pixels:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Do any of the following:
    * To select an existing pixel, select the check box in the pixel row.
-   * To create a new pixel:
+   * To create a pixel:
       1. Click **[!UICONTROL Create]**.
       1. Enter the following information:
          * **[!UICONTROL Conversion pixel name]:** The pixel name; the maximum length is 500 characters. Use a name that helps you easily identify the pixel.
