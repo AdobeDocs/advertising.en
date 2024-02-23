@@ -11,7 +11,7 @@ hidefromtoc: yes
 
 Last updated: March 1, 2024
 
-This Universal ID Requirements Policy (“Policy”) sets forth the requirements for the use of Universal IDs in connection with Ads distributed via [!DNL Adobe’s] On-demand Services for Advertising Cloud (“Services”). This Policy is incorporated by reference into the Agreement between [!DNL Adobe] and the Customer (“you”) using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
+This Universal ID Requirements Policy (“Policy”) sets forth the requirements for the use of Universal IDs in connection with Ads distributed via On-demand Services for Adobe Advertising (“Services”). This Policy is incorporated by reference into the Agreement between [!DNL Adobe] and the Customer (“you”) using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
 
 [!DNL Adobe] reserves the right to determine, in its sole judgment, whether an Ad or the website(s) to which the Ad redirects or links, violate the requirements of this Policy, in which event [!DNL Adobe] may reject such Ad and/or terminate or suspend access to the Services on that basis.
 
