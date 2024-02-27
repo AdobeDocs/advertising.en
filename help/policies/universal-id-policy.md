@@ -37,7 +37,7 @@ If you receive an Opt Out following the Effective Data, you will no longer utili
 
 You may not use the Services to engage in discrimination in violation of law, including by wrongfully targeting specific groups of people for advertising, wrongfully excluding specific groups of people from seeing ads, or featuring discriminatory content in ads. You are responsible for using the Services responsibly to avoid discrimination against protected classes, including but not limited to ensuring that your Ads do not have a disparate impact on protected classes.
 
-## EXHIBIT A: PROHIBITED COUNTRIES {#prohibited-countries}
+## Exhibit A: Prohibited Countries {#prohibited-countries}
 
 ### EU Countries
 
