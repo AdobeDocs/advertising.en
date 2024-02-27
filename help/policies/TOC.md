@@ -9,5 +9,6 @@ index: yes
 # Adobe Advertising Policies and Guidelines {#policies}
 
 + [Ads Requirements Policy](/help/policies/ad-requirements-policy.md)
++ [Universal ID Requirements Policy](/help/policies/universal-id-policy.md)
 + [Acceptable Health Segment Guidelines](/help/policies/health-segment-guidelines.md)
 + [[!DNL DSP] Data Usage Guidelines](/help/policies/data-usage-guidelines.md)
