@@ -10,7 +10,7 @@ feature: Search Campaign Management
 
 +++Can I move campaigns and components from one account to another?
 
-Don't move or copy a campaign or campaign component, which has a unique ID, to an account with a different account ID. Doing so will result in data errors.
+Don't move or copy a campaign or campaign component, which has a unique ID, to an account with a different account ID. Doing so results in data errors.
 +++
 
 +++When is click data updated from the ad networks?
@@ -20,11 +20,11 @@ The process of pulling the previous day's click data from the search engines beg
 In addition, [!DNL Google Ads] campaign-level performance metrics on the search network for the current day are pulled at 08:00 and 16:00 in the advertiser's time zone.
 +++
 
-+++What actions causes keywords and ads to lose their history?
++++What actions cause keywords and ads to lose their history?
 
 >[!NOTE]
 >
->(Advertisers with portfolios) Expect the performance of new keyword and match type combinations to be volatile while Search, Social, & Commerce gathers data to create new models.
+>(Advertisers with portfolios) Expect the performance of new keyword and match type combinations to be volatile while Search, Social, & Commerce gathers data to create models for them.
 
 **Actions in the [!UICONTROL Search] > [!UICONTROL Campaigns] views, in the bulksheet posting process, and in the ad network's own editor:**
 
@@ -32,11 +32,11 @@ The existing keyword or ad is deleted and another one is created when:
 
 * ([!DNL Baidu], [!DNL Google Ads], and [!DNL Yandex]) You edit a keyword name.
 
-* ([!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Yandex]) You change a keyword's match type.
+* ([!DNL Google Ads], [!DNL Microsoft® Advertising], and [!DNL Yandex]) You change a keyword's match type.
 
 * You move a keyword between ad groups.
 
-* ([!DNL Google Ads] dynamic search ads, [!DNL Microsoft Advertising] expanded text ads, and all ad types on other supported ad networks) You edit ad copy (headline/title or description) or an ad image.
+* ([!DNL Google Ads] dynamic search ads, [!DNL Microsoft® Advertising] expanded text ads, and all ad types on other supported ad networks) You edit ad copy (headline/title or description) or an ad image.
 
 * You move an ad between ad groups.
 
@@ -66,7 +66,7 @@ If you change the display names of the conversion metrics in Search, Social, & C
 
 +++(Google Ads campaigns) Can I use a shared budget for campaigns in portfolios?
 
-For best results, don't add [!DNL Google Ads] campaigns to an [!DNL Google Ads] shared budget if they're in optimized portfolios that are configured to "[!UICONTROL Auto adjust campaign budget limits]." If you do, [!DNL Google Ads] overrides the Search, Social, & Commerce optimized campaign budgets, which may lead to bidding inefficiencies.
+For best results, don't add [!DNL Google Ads] campaigns to a [!DNL Google Ads] shared budget if they're in optimized portfolios that are configured to "[!UICONTROL Auto adjust campaign budget limits]." If you do, [!DNL Google Ads] overrides the Search, Social, & Commerce optimized campaign budgets, which may lead to bidding inefficiencies.
 +++
 
 +++([!DNL Google Ads] campaigns) Can I send mobile and non-mobile users to different landing pages?
@@ -93,7 +93,7 @@ In both cases, the base URLs with Search, Social, & Commerce tracking include th
 
 [!DNL Google Ads] campaign-level performance metrics on the search network for the current day are pulled at 08:00 and 16:00 in the advertiser's time zone.
 
-In the [!UICONTROL Campaigns] tab in both  the [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view and the [!UICONTROL Optimization] > [!UICONTROL Portfolios] view, when you report on [!UICONTROL Today] or a custom date range that includes the current day, the data will include the most recently-pulled data.
+In the [!UICONTROL Campaigns] tab in both  the [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view and the [!UICONTROL Optimization] > [!UICONTROL Portfolios] view, when you report on [!UICONTROL Today] or a custom date range that includes the current day, the data includes the most recently synched data.
 
 >[!NOTE]
 >
@@ -101,13 +101,21 @@ In the [!UICONTROL Campaigns] tab in both  the [!UICONTROL Search] > [!UICONTROL
 
 +++
 
-+++([!DNL Google Ads] and [!DNL Microsoft Advertising]) Does Search, Social, & Commerce support parallel tracking for ads in [!DNL Google Ads] or [!DNL Microsoft Advertising]?
++++What's the difference between a tracking template and a landing page suffix?
 
-Parallel tracking sends customers directly from your ad to your final URL, and your tracking template URL (with click measurement) is loaded in the background; as a result, your landing page is loaded more quickly.
+Use a landing page suffix only for ad networks that support parallel tracking. In Search, Social, & Commerce, both tracking templates and landing page suffixes should include a click identifier from the ad network, but tracking templates include additional tracking parameters.
 
-Search, Social, & Commerce supports parallel tracking for search and shopping campaigns using the ad network's click identifier (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for [!DNL Google Ads]). Use an [account-level](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md#account-settings) or [campaign-level](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) [!UICONTROL Landing Page Suffix] (called "[!DNL final URL suffix]" in the ad networks), which is appended to landing page URLs to track clicks on child ads from browsers that support parallel tracking. See the [required suffix formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and [required suffix formats for [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+See the next FAQ about [parallel tracking support](#parallel-tracking) for more information about how tracking templates and landing page suffixes are loaded when a user clicks an ad.
 
-When a user views your ad on a browser that doesn't support parallel tracking, the ad network uses sequential tracking instead: customers are first sent to your tracking template URL, which may redirect customers to intermediate tracking servers before redirecting them to the final URL. All tracking templates for an ad network account should include the same click identifier parameter that you use in the [!UICONTROL Landing Page Suffix]. See the [tracking template formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and the [tracking template formats for [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
++++
+
++++([!DNL Google Ads] and [!DNL Microsoft® Advertising]) Does Search, Social, & Commerce support parallel tracking for ads in [!DNL Google Ads] or [!DNL Microsoft® Advertising]? {#parallel-tracking}
+
+Parallel tracking sends customers directly from your ad to your final URL, which may include appended parameters from a final URL suffix, or "landing page suffix." Your tracking template URL (with additional parameters for click measurement) is loaded separately in the background; as a result, your landing page is loaded more quickly.
+
+Search, Social, & Commerce supports parallel tracking for search and shopping campaigns using the ad network's click identifier (`msclkid` for [!DNL Microsoft® Advertising]; `gclid` for [!DNL Google Ads]). Use an [account-level](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md#account-settings) or [campaign-level](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) [!UICONTROL Landing Page Suffix] (called "[!DNL final URL suffix]" in the ad networks), which is appended to landing page URLs to track clicks on child ads from browsers that support parallel tracking. See the [required suffix formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and [required suffix formats for [!DNL Microsoft® Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+
+When a user views your ad on a browser that doesn't support parallel tracking, the ad network uses sequential tracking instead: customers are first sent to your tracking template URL, which may redirect customers to intermediate tracking servers before redirecting them to the final URL (which may include additional parameters in a landing page suffix). All tracking templates for an ad network account should include the same click identifier parameter that you use in the [!UICONTROL Landing Page Suffix]. See the [tracking template formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and the [tracking template formats for [!DNL Microsoft® Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 +++
 
 +++Why do tracking URLs for my ads include "`&EV_HASH={<hash>}`?"
@@ -123,7 +131,7 @@ It depends on the advertiser's business requirements.
 
 When you pause ads, they're reactivated if you resubmit the same ad or the stock level goes above the minimum. This allows you to retain the ad's history.
 
-When you delete ads and resubmit them, new ads are created, and historical data will need to be accumulated. If you don't expect to resubmit deleted ads, however, having historical data isn't important.
+When you delete ads and resubmit them, new ads are created, and historical data needs to be accumulated for the new ads. If you don't expect to resubmit deleted ads, however, having historical data isn't important.
 +++
 
 +++(Product inventory feeds) If I delete an ad template and then create a new, identical one, are missing items in the next feed file paused (when the feed file settings are configured to do so)?
@@ -144,7 +152,7 @@ When you submit data, the data fields for the [!UICONTROL Param1] and [!UICONTRO
 
 +++My campaigns generated from inventory feeds have many orphan transactions.
 
-If the [feed data settings](/help/search-social-commerce/campaign-management/inventory-feeds/feed-settings-manage.md#feed-data-settings) are configured to delete ads in various situations, then any delayed conversions that occur after clicks on the ad may cause [orphan transactions](/help/search-social-commerce/glossary.md#o-p). The best practice is to pause ads instead of to delete them. If an ad still hasn't received any revenue after a long period of time, then you can delete it via a bulksheet or the ad management view.
+If the [feed data settings](/help/search-social-commerce/campaign-management/inventory-feeds/feed-settings-manage.md#feed-data-settings) are configured to delete ads in various situations, then any delayed conversions that occur after clicks on the ad may cause [orphan transactions](/help/search-social-commerce/glossary.md#o-p). The best practice is to pause ads instead of to delete them. If an ad still hasn't received any revenue after a long time, then you can delete it via a bulksheet or the ad management view.
 +++
   
 ## Account- and campaign-related performance issues
