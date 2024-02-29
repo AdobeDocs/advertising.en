@@ -20,6 +20,8 @@ Daily uploads include the tracked `gclid` value, the conversion value defined us
 
 1. Select the check box next to **[!UICONTROL Upload Conversions to Google Ads]**.
 
+1. (Advertisers doing business in the European Economic Area (EEA) or United Kingdom (UK); optional) If you've secured consent from EEA and UK users to upload their data for advertising purposes, then select the check box next to **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
+
 1. Click **[!UICONTROL Save]**.
 
 1. (If your conversions are tracked at a manager account level) [Add credentials for your manager account](/help/search-social-commerce/admin/manager-accounts.md) at **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**.
