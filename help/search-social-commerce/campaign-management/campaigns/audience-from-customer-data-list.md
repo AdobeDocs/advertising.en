@@ -60,7 +60,7 @@ For [!DNL Microsoft® Advertising] accounts, the file can include email addresse
 
       1. Select the check box to indicate that you agree with the terms of the [!DNL Adobe] and ad network privacy policies.
 
-      1. (Advertisers creating [!DNL Google Ads] audiences who do business in the European Economic Area (EEA) or United Kingdom (UK); optional) If you've secured consent from EEA and UK users to upload their data for advertising purposes, then select the check box next to **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
+      1. (Advertisers creating [!DNL Google Ads] audiences who do business in the European Economic Area (EEA) or United Kingdom (UK); optional) If you've collected consent from EEA and UK users to upload their data for advertising purposes, then select the check box next to **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
 
       [!DNL Google Ads] ignores any data for EEA and UK users with an unspecified consent status. This may lead to data discrepancy and performance issues.
 
