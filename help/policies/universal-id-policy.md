@@ -9,7 +9,7 @@ hidefromtoc: yes
 
 <!-- In TOC, but hidden from TOC and both external and internal search -->
 
-Last updated: March 1, 2024
+Last updated: February 29, 2024
 
 This Universal ID Requirements Policy (“Policy”) sets forth the requirements for the use of Universal IDs in connection with Ads distributed via [!DNL Adobe's] On-demand Services for Adobe Advertising (“Services”). This Policy is incorporated by reference into the Agreement between [!DNL Adobe] and the Customer (“you”) using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
 
