@@ -6,7 +6,7 @@ feature: Search Inventory Feeds
 ---
 # Post campaign data generated from feeds to ad networks
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft&reg; Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
 You can post campaign data generated from a feed as you propagate the data through the associated templates or as a separate process. Once you post data, any existing propagated data is removed from the [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], and [!UICONTROL Ads] lists.
 
@@ -46,9 +46,9 @@ For a successful posting, all ad groups must be assigned to campaigns, all keywo
 
          * **[!UICONTROL End Time]:** A future date and time at which the posted ads may be paused or deleted based on the [feed data setting](feed-settings-manage.md#feed-data-settings) for "[!UICONTROL When the Scheduled End Date is reached]." By default, the end time is at 00:00 (12:00 a.m.) 30 days from today. Select **[!UICONTROL None]** to keep the data active indefinitely (or until you propagate new data for the template), or specify a date and time.
          
-           To specify a date, use the format DD/MM/YYYY or D/M/YYYY or click [Calendar](/help/search-social-commerce/assets/calendar.png "Calendar") to open the calendar and [select a date](/help/search-social-commerce/common-tasks/navigation-editing-selection/calendar.md). To change a time, enter the time in the 24-hour format HH/MM or H/M or select a time (in 30-minute intervals) from the list.
+           To specify a date, use the format DD/MM/YYYY or D/M/YYYY or click ![Calendar](/help/search-social-commerce/assets/calendar.png "Calendar") to open the calendar and [select a date](/help/search-social-commerce/common-tasks/navigation-editing-selection/calendar.md). To change a time, enter the time in the 24-hour format HH/MM or H/M or select a time (in 30-minute intervals) from the list.
 
-       * *[!UICONTROL Preview in Bulksheet Management Area only, post later]:** Creates a bulk sheet file that's available from the [!UICONTROL Search] > [!UICONTROL Bulksheets] view. You can optionally post the file from there.
+       * **[!UICONTROL Preview in Bulksheet Management Area only, post later]:** Creates a bulk sheet file that's available from the [!UICONTROL Search] > [!UICONTROL Bulksheets] view. You can optionally post the file from there.
        
          When the resulting bulksheet file is more than 2 MB, the file is in ZIP format. You don't need to unzip the file to post it.
 
