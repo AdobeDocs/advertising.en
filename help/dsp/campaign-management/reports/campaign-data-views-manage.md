@@ -2,6 +2,7 @@
 title: Manage Your Campaign Data Views
 description: Learn how you can customize your data views for campaigns, packages, placements, and ads.
 feature: DSP Campaign Data Views
+exl-id: a22da10b-104d-4860-a23f-f2a6e59b637c
 ---
 # Manage Your Campaign Data Views
 

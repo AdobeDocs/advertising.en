@@ -4,6 +4,7 @@ description: See the policy for the use of Universal IDs.
 feature: Policies, DSP Ads
 hide: yes
 hidefromtoc: yes
+exl-id: a21dcc56-a618-476d-9f5b-7b1260f27331
 ---
 # Adobe Advertising Universal ID Requirements Policy
 
