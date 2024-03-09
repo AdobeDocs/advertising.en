@@ -12,11 +12,19 @@ exl-id: 274ea502-ad15-4d3d-922a-17caddb87f69
 
 **[!UICONTROL Enter IMS Org Id]:** ([!DNL Real-Time CDP] sources only) The Adobe Experience Cloud organization ID for the [!DNL Adobe Experience Platform] account.
 
-**[!UICONTROL Convert PII to the following IDs]:** ([!DNL ActionIQ] and [!DNL Tealium] sources only) The ID type to which you want to convert your personally identifiable information (PII). Data charges are applied accordingly. 
+**[!UICONTROL Convert PII to the following IDs]:** The ID types to which you'll convert your personally identifiable information (PII). If you select multiple types, the generated segment is populated with values for each selected ID type (such as one [!DNL RampID] and one [!DNL Unified ID2.0] for each email address). Data charges are applied accordingly.
 
-* *[!DNL RampID]:* To convert PII to a RampID. If you choose *[!DNL RampID]*, your segments are translated into [!DNL RampIDs] automatically.
+For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email address to see if an ID already exists and translates the address to a matching ID when available. If an ID doesn't exist for the address, then it creates a new ID.
 
-* *[!DNL Unified ID2.0]:* ([!DNL ActionIQ] sources only) To convert PII to a [Unified ID 2.0](https://unifiedid.com/).
+>[!NOTE]
+>
+>You can target only one type of ID in a single placement. To test performance by ID type, [create a separate placement](/help/dsp/campaign-management/placements/placement-create.md) for each ID type in the segment.
+
+* *[!DNL RampID]:* To convert PII to a [!DNL RampID]. You can use [!DNL RampIDs] for retargeting logging-in users and for [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) measurement.
+
+* *[!DNL Unified ID2.0] (Beta):* To convert PII to a [Unified ID 2.0](https://unifiedid.com) for retargeting logging-in users.
+
+**[!UICONTROL Terms of Service]:** The terms of service agreement for converting PII to universal IDs. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
 
 **[!UICONTROL Source Key]:** (Read-only; generated automatically) The source key you can use to create a destination connection in the customer data platform to push audiences to Advertising DSP. You can copy the value to your clipboard to paste into the destination connection settings or into a file.
 
