@@ -8,7 +8,9 @@ exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
 
 <!-- Will this remain for admin users/Adobe Account Team users only? -->
 
-Create a source in DSP to import first-party audiences to your DSP account or an advertiser account.
+Create a source in DSP to import first-party audiences to your DSP account or an advertiser account as universal IDs. You can create multiple types of IDs for each source (such as a [!DNL RampID] and a [!DNL Unified ID2.0] for each email address). Data charges are applied accordingly.
+
+<!-- Can you use the same hashed email/whatever in multiple sources (with different conversion types [RampID, UID2, etc.], or can you use the same one in multiple versions of the same conversion type?) -->
 
 For additional steps required to ingest segments from specific customer data platforms, see [the audience-specific activation workflows](source-about.md)
 
