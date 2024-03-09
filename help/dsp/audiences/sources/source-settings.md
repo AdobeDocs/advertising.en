@@ -12,7 +12,7 @@ exl-id: 274ea502-ad15-4d3d-922a-17caddb87f69
 
 **[!UICONTROL Enter IMS Org Id]:** ([!DNL Real-Time CDP] sources only) The Adobe Experience Cloud organization ID for the [!DNL Adobe Experience Platform] account.
 
-**[!UICONTROL Convert PII to the following IDs]:** The ID types to which you'll convert your personally identifiable information (PII). If you select multiple types, the generated segment is populated with values for each selected ID type (such as one [!DNL RampID] and one [!DNL Unified ID2.0] for each email address). Data charges are applied accordingly.
+**[!UICONTROL Convert PII to the following IDs]:** The ID types to which you'll convert your personally identifiable information (PII). If you select multiple types, the generated segment is populated with values for each selected ID type (such as a [!DNL RampID] and a [!DNL Unified ID2.0] for each email address). Data charges are applied accordingly.
 
 For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email address to see if an ID already exists and translates the address to a matching ID when available. If an ID doesn't exist for the address, then it creates a new ID.
 
