@@ -72,7 +72,7 @@ Within saved audience settings and placement settings, you can see detailed audi
 
    ![the combined audience size](/help/dsp/assets/audience-size.png)
 
-* For individual segments and saved audiences, the total audience size and CPM (when applicable) are displayed next to the segment name. You can view more details about the segment, including the size by device type (browser, mobile, or connected TV). For saved audiences, the total size is the deduplicated total.
+* For individual segments and saved audiences, the total audience size and CPM (when applicable) are displayed next to the segment name. You can view more details about the segment, including the size by browser, mobile, connected TV, and universal ID type partner. For saved audiences, the total size is the deduplicated total.
 
    ![the individual segment size](/help/dsp/assets/audience-size-segment.png)
 
