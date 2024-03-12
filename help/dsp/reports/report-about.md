@@ -28,7 +28,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
 * Pre-configured Report Templates
 
-    * **[!UICONTROL Billing]:** Use this report to understand key billing metrics like spend metrics for media billing by campaign.
+    * **[!UICONTROL Billing]:** Use this report to understand key billing metrics like spend metrics for media billing by campaign. Data isn't available for placements that target universal IDs.
 
        >[!NOTE]
        >
@@ -55,7 +55,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
     * **[!UICONTROL Geo]**: Use this pre-populated template to see key metrics by geographic dimensions.
 
-    * **[!UICONTROL Margin]:** Use this report to see key metrics like margin, profit, and other spend metrics by campaign or placement.
+    * **[!UICONTROL Margin]:** Use this report to see key metrics like margin, profit, and other spend metrics by campaign or placement. Data isn't available for placements that target universal IDs.
 
     * **[!UICONTROL Segment]:** Use this pre-populated template to see key metrics by segment.
 
@@ -66,9 +66,9 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
     * **[!UICONTROL Site]:** By default, includes standard metrics, total media net spend, and total billable net spend by site.
 
-    * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)" for more information.
+    * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)" for more information. Data isn't available for placements that target universal IDs.
     
-    * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)" for more information.
+    * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)" for more information. Data isn't available for placements that target universal IDs.
 
 ## Cross-Account Reporting {#cross-account-reporting}
 
