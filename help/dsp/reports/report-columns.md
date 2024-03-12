@@ -92,12 +92,12 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Video]|[!UICONTROL Video ID]|The unique identifier for the video creative in DSP.|
 |[!UICONTROL Dimension]|[!UICONTROL Video]|[!UICONTROL Video Name]|The name of the creative assigned by the user.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL % Distinct Uniques]|The [!UICONTROL App/Site Distinct Uniques] divided by [!UICONTROL App/Site Uniques].|
-|[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL App/Site Distinct Uniques]|The total number of devices that were reached on this app only. A viewer exposed to an ad across multiple publishers isn't included in this value.|
+|[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL App/Site Distinct Uniques]|The total number of devices that were reached on this app only. A viewer exposed to an ad across multiple publishers isn't included in this value.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Cost per Distinct Unique]|The [!UICONTROL Total Spend] divided by [!UICONTROL App/Site Distinct Uniques].|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Cost per Unique]|The [!UICONTROL Total Spend] divided by [!UICONTROL App/Site Uniques].|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated % Reached]|The estimated percentage of the targeted household universe that received an exposure.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Average Frequency]|The average number of impressions shown to uniques. For some inventory, publishers don't pass along a device identifier, and those impressions aren't included in this value. There is a similar metric in the [!UICONTROL Frequency (by App/Site)] report, but that metric isn't estimated.|
-|[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Impressions (Device/Browser)]|(Included in the [!UICONTROL Frequency (by Impression)] report) The estimated impressions for a given frequency breakout. DSP estimates are based on a sample of impressions. For some inventory, publishers don't pass along a device identifier, and those impressions aren't included in this value. There is a similar metric in the [!UICONTROL Frequency (by App/Site)] report, but that metric isn't estimated.|
+|[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Impressions (Device/Browser)]|(Included in the [!UICONTROL Frequency (by Impression)] report) The estimated impressions for a given frequency breakout. DSP estimates are based on a sample of impressions. For some inventory, publishers don't pass along a device identifier, and those impressions aren't included in this value. There is a similar metric in the [!UICONTROL Frequency (by App/Site)] report, but that metric isn't estimated.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Uniques (Device/Browser)]|(Included in the [!UICONTROL Frequency (by Impression)] report) The number of unique browsers or devices recorded for a given frequency. DSP estimates are based on a sample of impressions. For some inventory, don't pass along a device identifier, and those impressions aren't included in this value. There is a similar metric in the [!UICONTROL Frequency (by App/Site)] report, but that metric isn't estimated.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Estimated Universe]|The sum of unique households that DSP (auctions) has seen within the date range.|
 |[!UICONTROL Metric]|[!UICONTROL Frequency]|[!UICONTROL Extended Impressions]|The total number of impressions served as a result of using a device graph for people-based, cross-device targeting.|
@@ -120,6 +120,7 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Measurable Impressions ] | The total number of impressions served that were able to be measured for viewability. |
 |[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Total Media Spend ] | The total spend. |
 |[!UICONTROL Metric]|[!UICONTROL Household Conversions] | [!UICONTROL Unique Household Reached ] | The total unique households (distinct IP addresses) reached. |
+|[!UICONTROL Metric]|[!UICONTROL Identifier] | [!UICONTROL Identifier Type] | The type of ID targeted. |
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPA]|The average gross cost per acquisition, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Custom Goal]</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPC]|The average gross cost per ad click, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks]</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Gross CPCV]|The average cost per completed video view, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL 100% Completions]</code>.|
@@ -157,13 +158,13 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Completion Rate]|The percentage of views that watched the ad in its entirety.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Completions]|The number of views that watched the ad in its entirety.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Viewable Completion (%)]|The percentage of viewable impressions that watched the ad in its entirety.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 25% Completion Rate]|The percentage of views that watched at least one quartile of the ad.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 25% Completions]|The number of views that watched at least one quartile of the ad.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 50% Completion Rate]|The percentage of views that watched at least two quartiles of the ad.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 50% Completions]|The number of views that watched at least two quartiles of the ad.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 50% Viewable Completion (%)]|The percentage of viewable impressions that watched at least two quartiles of the ad.|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 25% Completion Rate]|The percentage of views that watched at least one quartile of the ad.|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 25% Completions]|The number of views that watched at least one quartile of the ad.|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 50% Completion Rate]|The percentage of views that watched at least two quartiles of the ad.|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 50% Completions]|The number of views that watched at least two quartiles of the ad.|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 50% Viewable Completion (%)]|The percentage of viewable impressions that watched at least two quartiles of the ad.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 75% Completion Rate]|The percentage of views that watched at least three quartiles of the ad.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 75% Completions]|The number of views that watched at least three quartiles of the ad.|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 75% Completions]|The number of views that watched at least three quartiles of the ad.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Avg Percent Viewed]|The average percentage an ad was watched to completion, accounting for all views.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Banner and Overlay Clicks]|The number of clicks on the ad overlay and banners.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Click Through Rate]|The percentage of clicks divided by ad impressions.|
