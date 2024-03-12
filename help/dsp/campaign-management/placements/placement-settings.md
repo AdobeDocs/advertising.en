@@ -304,7 +304,21 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 * To select an existing audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Excluded Audiences], and then select the audience.
 * To create an audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Excluded Audiences], and then select **+ Create Audience**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
 
-**[!UICONTROL Cross Device Targeting]:** (Available when you select at least one segment or audience and the [campaign is configured for people-based cross-device targeting](/help/dsp/campaign-management/campaigns/campaign-settings.md). Allows you to extend your targeting across all of a person's known devices (per the device graph specified in the campaign settings), even devices that aren't in the specified segments. Fees may apply depending on the graph specified for the campaign. Device graph data is available only in North America.
+**[!UICONTROL Targeting]:** The types of user IDs to target. You can't change this setting after the placement is live (that is, after the flight has begun).
+
+When you select both legacy IDs and universal IDs, bidding preference is given to universal IDs.
+
+* *[!UICONTROL Legacy IDs (Cookies, MAIDS, CTV)]*: (The default) Targets users based on their cookies, mobile advertising IDs, or connected TV (CTV) IDs. IDs are selected based on the browser, in-app, or CTV inventory. 
+
+* *[!UICONTROL Universal ID Beta]*: Targets user privacy-focused IDs. The available options are determined by the selected geographical targets in the [!UICONTROL Geo-Targeting] section.
+
+  * *[!UICONTROL RampID]*: Targets [!DNL LiveRamp] [!DNL RampIDs] of users logged into your site using their email addresses. [!DNL RampIDs] are available for users in North America, Australia, and New Zealand.
+  
+  * *[!UICONTROL Unified ID2.0]*: Targets [!DNL Unified ID2.0] (UID2) IDs for logged-in users.<!-- users logged into your site (????) using the original email address? -->[!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
+
+  **[!UICONTROL Terms of service]**: The terms of service agreement for using universal IDs. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
+
+**[!UICONTROL Cross Device Targeting]:** (Available when the [campaign is configured for people-based cross-device targeting](/help/dsp/campaign-management/campaigns/campaign-settings.md), you target legacy IDs only (not universal IDs), and you select at least one segment or audience. Allows you to extend your targeting across all of a person's known devices (per the device graph specified in the campaign settings), even devices that aren't in the specified segments. Fees may apply depending on the graph specified for the campaign. Device graph data is available only in North America.
 
 **[!UICONTROL Placement Cap]:** (Optional) The number of times a unique device or person (depending on the specified [!UICONTROL Cross Device Level] for the campaign) is served ads from the placement. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
 
