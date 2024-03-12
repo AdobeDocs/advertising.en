@@ -6,7 +6,7 @@ exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
 ---
 # Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]
 
-1. [Allow DSP to translate customer data segments into [!DNL LiveRamp RampIDs]](source-universal-id.md) that are recognizable in a biddable environment.<!-- I don't think I need this here: This requires DSP account-level and campaign-level settings to enable segment sharing with [!DNL LiveRamp], which will translate customer data to [!DNL RampIDs] to create targetable segments. Your Adobe Account Team will perform this configuration. -->
+1. [Allow DSP to translate customer data segments into universal IDs](source-universal-id.md) that are recognizable in a biddable environment.
 
 1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account.
 
@@ -15,7 +15,6 @@ exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
    For instructions for activating the DSP destination connection, selecting segments, and accessing control permissions, see "[Adobe Advertising Cloud DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)."
 
 For additional support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
-
 
 >[!MORELIKETHIS]
 >
