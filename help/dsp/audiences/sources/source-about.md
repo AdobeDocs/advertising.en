@@ -6,9 +6,9 @@ exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 ---
 # About Activating Authenticated Segments from Audience Sources
 
-<!-- Title? Not sure the segments are referred to probabilistic (the IDs/device graphs are), but this now includes non-authenticated segments -->
+<!-- Title? Not sure the segments are referred to as probabilistic (the IDs/device graphs are), but this will eventually include non-authenticated segments -->
 
-DSP enables you to convert your first-party <!--AND THIRD-PARTY?--> data to people-based, universal IDs for cookieless, single-device (not cross-device) targeting. DSP can ingest your segments comprised of hashed email IDs or universal IDs built within your customer data platform (CDP). Each resulting ID is people-based, and ad frequency caps are applied at the ID level.
+DSP enables you to convert your first-party data to people-based, universal IDs for cookieless, single-device (not cross-device) targeting. DSP can ingest your segments comprised of hashed email IDs or universal IDs built within your customer data platform (CDP). Each resulting ID is people-based, and ad frequency caps are applied at the ID level.
 
 ## Universal ID Types {#universal-id-types}
 
@@ -19,8 +19,6 @@ You can create segments with IDs from the following universal ID partners:
   Measurement requires the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).<!--AND ANYTHING ELSE -->
 
 * [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
-
-  The vendor looks up the email address to see if an ID already exists. If an ID doesn't exist, then it creates a new ID.
 
   >[!NOTE]
   >
@@ -59,17 +57,17 @@ The following CDPs have established connectors, but DSP can also connect to any 
 
 DSP is an integrated destination for [the [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform. This integration allows you to share authenticated first-party segments with approved advertisers and users for campaign activation.
 
-In [!DNL Real-Time CDP], *destinations* are connections to external data platforms that allow seamless data activation. For example, you can use destinations to activate your known customer relationships (such as hashed email addresses) for targeted advertising across digital formats supported by DSP. For more information about destinations, see the Experience Platform [Destinations Guide](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), including an overview of the product, instructions for [creating destination workspaces](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) and [creating destination connections](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), and [activating data to destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
+In [!DNL Real-Time CDP], *destinations* are connections to external data platforms that allow seamless data activation. You can use destinations to activate your hashed email addresses for targeted advertising across digital formats supported by DSP. For more information about destinations, see the Experience Platform [Destinations Guide](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), including an overview of the product, instructions for [creating destination workspaces](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) and [creating destination connections](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), and [activating data to destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
 
-To enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments, see "[Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)."
+To enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments and convert your user data to universal IDs, see "[Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)."
 
 ### [!DNL ActionIQ]
 
-You can share your organization's first-party data from the [!DNL Action IQ] customer data platform with DSP. This integration requires customization. Contact your Adobe Account Team for more information.
+You can share your organization's first-party data from the [!DNL Action IQ] customer data platform with DSP to convert your user data to universal IDs. This integration requires customization. Contact your Adobe Account Team for more information.
 
 ### [!DNL Tealium]
 
-You can share your organization's first-party data from the [!DNL Tealium] customer data platform using [!DNL Amazon Web Services]. For more information, see "[Workflow for Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)."
+You can share your organization's first-party data from the [!DNL Tealium] customer data platform using [!DNL Amazon Web Services]. For more information about converting your user data to universal IDs, see "[Workflow for Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)."
 
 ## How to Target an Authenticated Audience in Your Placements
 
@@ -113,7 +111,7 @@ See "[Placement Settings](/help/dsp/campaign-management/placements/placement-set
 
     * Use the following ad types: display, video, CTV, universal video, and audio
 
-    <!-- Performance, however, shouldn't be the primary comparison. You want to see which IDs are scaling well, which could eventually inform optimization and budget shifts down the road. The end goal is to make up for the loss in impressions and site traffic being lost by cookie deprecation. -->
+    Getting the best performance, however, shouldn't be the primary comparison. Instead, determine which IDs are scaling well, which might inform your optimization and budget allocations later. The long-term goal is to make up for lost impressions and site traffic when cookies are deprecated.
 
   * To compare total browser reach, target universal ID-based segments and legacy ID-based segments in the same placement. Use the same campaign settings as the previous use case, except that you don't need to split the campaign budget.
   
@@ -125,7 +123,7 @@ See "[Placement Settings](/help/dsp/campaign-management/placements/placement-set
 
 <!-- Keep? If so, put this where? 
 
-  * Currently, [!DNL RampIDs] aren't retrievable during on-site events. This means that certain custom goals, such as Lowest CPA and ROAS, aren't available with the use of authenticated segments. Use cookie-based segments only if you have a restrictive performance KPI.<!-- get update on this, and if it applies to other ID types too -->
+  * Currently, [!DNL RampIDs] aren't retrievable during on-site events. This means that certain custom goals, such as Lowest CPA and ROAS, aren't available with the use of authenticated segments. Use cookie-based segments only if you have a restrictive performance KPI.
 
 -->
 
@@ -137,7 +135,3 @@ See "[Placement Settings](/help/dsp/campaign-management/placements/placement-set
 >* [Audience Source Settings](source-settings.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
-
-<!--
->* [Workflow for Using the DSP Integration with [!DNL ActionIQ]](/help/dsp/audiences/sources/source-actioniq.md)
--->
