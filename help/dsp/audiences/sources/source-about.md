@@ -10,7 +10,7 @@ exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 
 DSP enables you to convert your first-party <!--AND THIRD-PARTY?--> data to people-based, universal IDs for cookieless, single-device (not cross-device) targeting. DSP can ingest your segments comprised of hashed email IDs or universal IDs built within your customer data platform (CDP). Each resulting ID is people-based, and ad frequency caps are applied at the ID level.
 
-## Universal ID Types
+## Universal ID Types {#universal-id-types}
 
 You can create segments with IDs from the following universal ID partners:
 
@@ -21,6 +21,10 @@ You can create segments with IDs from the following universal ID partners:
 * [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
 
   The vendor looks up the email address to see if an ID already exists. If an ID doesn't exist, then it creates a new ID.
+
+  >[!NOTE]
+  >
+  >Third-party segments from [!DNL Eyeota] and [!DNL Neustar] may also include UID2.0 IDs.
 
 <!--
 
@@ -69,14 +73,60 @@ You can share your organization's first-party data from the [!DNL Tealium] custo
 
 ## How to Target an Authenticated Audience in Your Placements
 
-In the [!UICONTROL Audience Targeting] section of each placement, a [!UICONTROL Targeting] setting includes the options "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," which may include the sub-options "[!UICONTROL RampID]" and "[!UICONTROL Unified ID2.0]." The actual sub-options are determined by the selected geographical targets in the [!UICONTROL Geo-Targeting] section.
+When you create a placement, do the following:
 
-You can select both "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," but you can select only one type of universal ID per placement.
+* In the [!UICONTROL Geo-Targeting] section, specify the geographical areas to target. Remember that [each universal ID partner allows user targeting only in specific geographical areas](#universal-id-types).
+
+* In the [!UICONTROL Audience Targeting] section, do the following:
+
+  * In the [!UICONTROL Included Audiences] setting, select the segment for which user data was converted to universal IDs.
+
+    You can include additional segments if you want.
+
+  * In the [!UICONTROL Targeting] setting, select the universal ID type to target.
+  
+    The setting includes the options "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," which may include the sub-options "[!UICONTROL RampID]" and "[!UICONTROL Unified ID2.0]." The actual sub-options are determined by the selected geographical targets.
+    
+    You can select both "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," but you can select only one type of universal ID per placement. When you select both legacy IDs and universal IDs, bidding preference is given to universal IDs. 
 
 See "[Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)."
 
 <!--
 ## Frequency 
+-->
+
+## Best Practices for Testing and Data Validation
+
+* About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, contact your Adobe Account Team. <!-- What can be causes of data variances, and how much variance can be expected? -->
+
+* Test the following use cases:
+
+  * To compare the performance of universal ID-based segments with the performance of placements targeting other audience identifiers, such as cookies or mobile advertising IDs, create a campaign with a separate universal ID-based placement and a legacy ID-based placement.
+
+    Use the following configuration:
+
+    * The recommended campaign budget is USD 10,000. Split the budget evenly between the universal ID-based placement (test group) and the legacy ID-based placement (test group).
+
+    * The recommended audience size is 25,000 universal IDs.
+
+    * Run the placements for at least three weeks.
+
+    * Use the following ad types: display, video, CTV, universal video, and audio
+
+    <!-- Performance, however, shouldn't be the primary comparison. You want to see which IDs are scaling well, which could eventually inform optimization and budget shifts down the road. The end goal is to make up for the loss in impressions and site traffic being lost by cookie deprecation. -->
+
+  * To compare total browser reach, target universal ID-based segments and legacy ID-based segments in the same placement. Use the same campaign settings as the previous use case, except that you don't need to split the campaign budget.
+  
+    Bidding preference is given to universal IDs, but legacy IDs will receive bids when universal IDs aren't available. Make sure to compare reach in different browsers (including Chrome, Safari, and Mozilla).
+ 
+    >[!NOTE]
+    >
+    >Frequency capping applies to an individual ID. When you target multiple ID types, you might be reaching the same user.
+
+<!-- Keep? If so, put this where? 
+
+  * Currently, [!DNL RampIDs] aren't retrievable during on-site events. This means that certain custom goals, such as Lowest CPA and ROAS, aren't available with the use of authenticated segments. Use cookie-based segments only if you have a restrictive performance KPI.<!-- get update on this, and if it applies to other ID types too -->
+
 -->
 
 >[!MORELIKETHIS]
