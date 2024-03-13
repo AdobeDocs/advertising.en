@@ -10,8 +10,6 @@ exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
 
 Create a source in DSP to import first-party audiences to your DSP account or an advertiser account as universal IDs. You can create multiple types of IDs for each source (such as a [!DNL RampID] and a [!DNL Unified ID2.0] for each email address). Data charges are applied accordingly.
 
-<!-- Can you use the same hashed email/whatever in multiple sources (with different conversion types [RampID, UID2, etc.], or can you use the same one in multiple versions of the same conversion type?) -->
-
 For additional steps required to ingest segments from specific customer data platforms, see [the audience-specific activation workflows](source-about.md)
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Sources]**.
@@ -22,9 +20,9 @@ For additional steps required to ingest segments from specific customer data pla
 
    * *[!UICONTROL RT-CDP]*: [The [!DNL Adobe Real-Time Customer Data Platform]](source-about.md).
 
-   <!-- * *[!UICONTROL ActionIQ]*: The [[!DNL ActionIQ] customer data platform](source-about.md). -->
+   * *[!UICONTROL ActionIQ]*: The [[!DNL ActionIQ] customer data platform](source-about.md).
 
-   * *[!UICONTROL Tealium CDP]*: The [[!DNL Tealium] customer data platform](source-about.md).
+   * *[!UICONTROL Tealium CDP]*: (Configured users only) The [[!DNL Tealium] customer data platform](source-about.md).
 
 1. Specify the [!UICONTROL Data Visibility Level]: *[!UICONTROL Advertiser]* or *[!UICONTROL Account]*.
 
