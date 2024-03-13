@@ -6,7 +6,11 @@ exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
 ---
 # Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]
 
-1. [Allow DSP to translate customer data segments into universal IDs](source-universal-id.md) that are recognizable in a biddable environment.
+<!-- Any pre-requisite settings within DSP?
+
+1. Contact `adcloud-support@adobe.com` to enable the account-level “[!UICONTROL LiveRamp segments]” option, which will allow you to target authenticated segments in DSP campaigns once all steps in the activation workflow are completed.
+
+-->
 
 1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account.
 
