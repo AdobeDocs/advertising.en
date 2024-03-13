@@ -4,29 +4,25 @@ description: Learn about activating authenticated audiences through a universal 
 feature: DSP Audiences
 exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
 ---
-# Activate Authenticated Segments from Universal ID partners 
+# Activate Authenticated Segments from Universal ID partners
+
+<!-- Title:  Manually Activate Authenticated Segments from Universal ID partners ??? If yes, then change here, update filename, create a redirect from the old page to the new one, and update all x-refs. -->
 
 <!-- Some of this is workflow for Adobe RT CDP, and some is about manually sending segments from LiveRamp (and Unified ID2.0?). Shouldn't this be a fourth workflow:  "Workflow for manually importing LiveRamp and (and Unified ID2.0?) segments to DSP" ??? -->
 
-To activate authenticated audiences through a universal ID solution within Advertising DSP, your segments must be translated into universal IDs that are recognizable in a biddable environment. You can accomplish this by either:
-
-* Leveraging the DSP integration with the [!DNL Adobe Real-Time Customer Data Platform (CDP)] and the universal ID partner retrieval API (either the [!DNL Adobe-LiveRamp Retrieval API] or the <!-- What about Unified ID2.0? -->).
-
-* Manually sending authenticated segments to DSP from the universal ID partner (using either the [!DNL LiveRamp] [!DNL Connect] dashboard or the <!-- What about Unified ID2.0? -->). 
+You can manually send authenticated segments to DSP from a supported universal ID partner, using either the [!DNL LiveRamp] [!DNL Connect] dashboard or the <!-- What about Unified ID2.0? -->). 
 
 ## Pre-Requisites: Configure Universal ID Settings in DSP
 
-<!-- This doesn't apply to ActionIQ and Tealium sources, but only to RT CDP sources and manually imported segments? -->
+<!-- Are there any pre-requisite settings for either LiveRamp OR UID2???
 
-1. For either option, contact `adcloud-support@adobe.com` to enable the following settings in DSP, which will allow you to target authenticated segments in DSP campaigns once [all steps in the activation workflow are completed](source-adobe-rtcdp.md):
+1. Contact `adcloud-support@adobe.com` to enable the account-level “[!UICONTROL LiveRamp segments]” option, which will allow you to target authenticated segments in DSP campaigns once all steps in the activation workflow are completed.
 
-    * The account-level “[!UICONTROL LiveRamp segments]” option. <!-- ??? -->
-
-    * *[!DNL LiveRamp]* *[!DNL RampID]* campaign configuration before you begin sharing segments from [!DNL Real-Time CDP]. <!-- ??? And this isn't for RT-CDP customers after all? -->
+-->
 
 ## Manually Send Authenticated Segments to DSP
 
-*Users manually sharing authenticated segments from a universal ID partner only*
+<!-- Remove H2 and bump other headers up a level if no pre-requisites -->
 
 ### Manually Send Segments from [!DNL LiveRamp]
 
