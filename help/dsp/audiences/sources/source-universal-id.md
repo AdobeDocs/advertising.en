@@ -6,45 +6,43 @@ exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
 ---
 # Activate Authenticated Segments from Universal ID partners 
 
-<!-- How much of this intro and Tasks sections are applicable to other ID partners? Re-word/reorganize accordingly. -->
+<!-- Some of this is workflow for Adobe RT CDP, and some is about manually sending segments from LiveRamp (and Unified ID2.0?). Shouldn't this be a fourth workflow:  "Workflow for manually importing LiveRamp and (and Unified ID2.0?) segments to DSP" ??? -->
 
-To activate authenticated audiences through a universal ID solution within Advertising DSP, your segments must be translated into [!DNL RampIDs], which are recognizable in a biddable environment. You can accomplish this by either:
+To activate authenticated audiences through a universal ID solution within Advertising DSP, your segments must be translated into universal IDs that are recognizable in a biddable environment. You can accomplish this by either:
 
-* Leveraging the DSP integration with the [!DNL Adobe Real-Time Customer Data Platform (CDP)] and the [!DNL Adobe-LiveRamp Retrieval API].
+* Leveraging the DSP integration with the [!DNL Adobe Real-Time Customer Data Platform (CDP)] and the universal ID partner retrieval API (either the [!DNL Adobe-LiveRamp Retrieval API] or the <!-- What about Unified ID2.0? -->).
 
-* Manually sending authenticated segments to DSP from the [!DNL LiveRamp] [!DNL Connect] dashboard.
+* Manually sending authenticated segments to DSP from the universal ID partner (using either the [!DNL LiveRamp] [!DNL Connect] dashboard or the <!-- What about Unified ID2.0? -->). 
 
-## Tasks
+## Pre-Requisites: Configure Universal ID Settings in DSP
+
+<!-- This doesn't apply to ActionIQ and Tealium sources, but only to RT CDP sources and manually imported segments? -->
 
 1. For either option, contact `adcloud-support@adobe.com` to enable the following settings in DSP, which will allow you to target authenticated segments in DSP campaigns once [all steps in the activation workflow are completed](source-adobe-rtcdp.md):
 
-    * The account-level “[!UICONTROL LiveRamp segments]” option
+    * The account-level “[!UICONTROL LiveRamp segments]” option. <!-- ??? -->
 
-    * The campaign-level "[!UICONTROL Cross Device Graph]" setting for *[!UICONTROL People]* and the "[!UICONTROL Device Graph]" setting for *[!DNL LiveRamp]* before you begin sharing segments from [!DNL Real-Time CDP]
+    * *[!DNL LiveRamp]* *[!DNL RampID]* campaign configuration before you begin sharing segments from [!DNL Real-Time CDP]. <!-- ??? And this isn't for RT-CDP customers after all? -->
 
-1. (Users manually sharing authenticated segments from [!DNL LiveRamp]) Complete the following steps in the [!DNL LiveRamp] [!DNL Connect] dashboard:
+## Manually Send Authenticated Segments to DSP
 
-    1. Activate the destination tile **[!DNL AAC API 1P Onboarding]**.
+*Users manually sharing authenticated segments from a universal ID partner only*
 
-    1. Set [!DNL Identifier Settings] to **[!DNL Ramp ID]** only.
+### Manually Send Segments from [!DNL LiveRamp]
 
-       ![Identifier settings](/help/dsp/assets/liveramp-tile-settings.png)
+Complete the following steps in the [!DNL LiveRamp] [!DNL Connect] dashboard:
 
-    1. (Optional) If you want to still receive cookie-based identifiers, create a second [!DNL AAC API 1P Onboarding] destination tile with “[!DNL Cookies],” "[!DNL IDFA],” and “[!DNL AAID]” selected.
+1. Activate the destination tile **[!DNL AAC API 1P Onboarding]**.
 
-## Best Practices for Testing and Data Validation
+1. Set [!DNL Identifier Settings] to **[!DNL Ramp ID]** only.
 
-* **Target universal ID-based segments and cookie-based segments in separate campaigns.**
+   ![Identifier settings](/help/dsp/assets/liveramp-tile-settings.png)
 
-  * Campaign settings allow for only one identifier to be prioritized.
+1. (Optional) If you want to still receive cookie-based identifiers, create a second [!DNL AAC API 1P Onboarding] destination tile with “[!DNL Cookies],” "[!DNL IDFA],” and “[!DNL AAID]” selected.
 
-  * Currently, [!DNL RampIDs] aren't retrievable during on-site events. This means that certain custom goals, such as Lowest CPA and ROAS, aren't available with the use of authenticated segments. Use cookie-based segments only if you have a restrictive performance KPI.<!-- get update on this, and if it applies to other ID types too -->
+### Manually Send Segments from [!DNL Unified ID2.0]
 
-* **Create one placement in both the universal ID-based and cookie-based campaigns.**
-
-  * Target the segments that are shared from the universal ID partner using the standard segment activation process.
-
-  * Work with your Adobe Advertising support team to validate proper data distribution.
+Complete the following steps in <!-- ??? -->
 
 >[!MORELIKETHIS]
 >
