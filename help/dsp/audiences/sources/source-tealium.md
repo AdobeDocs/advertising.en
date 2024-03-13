@@ -6,7 +6,7 @@ exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
 ---
 # Workflow for Using the DSP Integration with [!DNL Tealium]
 
-You can share your organization's first-party data from the [!DNL Tealium] customer data platform using the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
+You can share your organization's first-party hashed email IDs from the [!DNL Tealium] customer data platform using the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
 
 1. [Create an audience source in DSP](#source-create).
 
