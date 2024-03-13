@@ -310,11 +310,11 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
 
 * *[!UICONTROL Legacy IDs (Cookies, MAIDS, CTV)]*: (The default) Targets users based on their cookies, mobile advertising IDs, or connected TV (CTV) IDs. IDs are selected based on the browser, in-app, or CTV inventory. 
 
-* *[!UICONTROL Universal ID Beta]*: Targets user privacy-focused IDs. The available options are determined by the selected geographical targets in the [!UICONTROL Geo-Targeting] section.
+* *[!UICONTROL Universal ID Beta]*: Targets user privacy-focused IDs. The available options are determined by the selected geographical targets in the [!UICONTROL Geo-Targeting] section. Use with [segments for which DSP converts your PII to universal IDs](/help/dsp/audiences/sources/source-about.md). <!-- **Important:** Make sure that the necessary JavaScript conversion-tracking tag is deployed on your webpages XXX. -->
 
-  * *[!UICONTROL RampID]*: Targets [!DNL LiveRamp] [!DNL RampIDs] of users logged into your site using their email addresses. [!DNL RampIDs] are available for users in North America, Australia, and New Zealand.
+  * *[!UICONTROL RampID]*: Targets [!DNL LiveRamp] [!DNL RampIDs] of users logged into your site using their email addresses.<!-- Verify --> [!DNL RampIDs] are available for users in North America, Australia, and New Zealand.
   
-  * *[!UICONTROL Unified ID2.0]*: Targets [!DNL Unified ID2.0] (UID2) IDs for logged-in users.<!-- users logged into your site (????) using the original email address? -->[!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
+  * *[!UICONTROL Unified ID2.0]*: Targets [!DNL Unified ID2.0] (UID2) IDs of users logged into your site using their email addresses.<!-- Verify -->[!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2). **Note:** Third-party segments from [!DNL Eyeota] and [!DNL Neustar] may include UID2.0 IDs.
 
   **[!UICONTROL Terms of service]**: The terms of service agreement for using universal IDs. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
 
