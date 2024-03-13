@@ -16,6 +16,8 @@ You can share your organization's first-party data from the [!DNL Tealium] custo
 
 1. [Duplicate the existing connector in [!DNL Tealium] to continue to share segments](#duplicate-connector).
 
+The segments should be available in DSP within 24 hours.
+
 ## Step 1: Create an audience source in DSP {#source-create}
 
 * [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account, and share the source code key with the [!DNL Tealium] user.
