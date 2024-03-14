@@ -1,32 +1,31 @@
 ---
-title: Activate Authenticated Segments from Universal ID partners
-description: Learn about activating authenticated audiences through a universal ID solution.
+title: Manually Import Authenticated Segments from [!DNL LiveRamp]
+description: Learn about activating authenticated audiences through [!DNL LiveRamp].
 feature: DSP Audiences
 exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
 ---
-# Activate Authenticated Segments from Universal ID partners
+# Manually Import Authenticated Segments from [!DNL LiveRamp]
 
-<!-- Title:  Manually Activate Authenticated Segments from Universal ID partners ??? If yes, then change here, update filename, create a redirect from the old page to the new one, and update all x-refs. -->
+<!-- Title:
+Workflow to Manually Import Authenticated Segments from [!DNL LiveRamp]
+Manually Activate Authenticated Segments from [!DNL LiveRamp]
+Manually Activate Authenticated Segments from Universal ID partners
 
-<!-- Some of this is workflow for Adobe RT CDP, and some is about manually sending segments from LiveRamp (and Unified ID2.0?). Shouldn't this be a fourth workflow:  "Workflow for manually importing LiveRamp and (and Unified ID2.0?) segments to DSP" ??? -->
+If I change it, update filename, create a redirect from the old page to the new one, and update all x-refs.
+-->
 
-You can manually send authenticated segments to DSP from a supported universal ID partner, using either the [!DNL LiveRamp] [!DNL Connect] dashboard or the <!-- What about Unified ID2.0? -->). 
+You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. 
 
-## Pre-Requisites: Configure Universal ID Settings in DSP
+<!--
+
+1. Configure Universal ID settings in DSP
 
 <!-- Are there any pre-requisite settings for either LiveRamp OR UID2???
 
 1. Contact `adcloud-support@adobe.com` to enable the account-level “[!UICONTROL LiveRamp segments]” option, which will allow you to target authenticated segments in DSP campaigns once all steps in the activation workflow are completed.
-
 -->
 
-## Manually Send Authenticated Segments to DSP
-
-<!-- Remove H2 and bump other headers up a level if no pre-requisites -->
-
-### Manually Send Segments from [!DNL LiveRamp]
-
-Complete the following steps in the [!DNL LiveRamp] [!DNL Connect] dashboard:
+Complete the following steps in the [!DNL Connect] dashboard:
 
 1. Activate the destination tile **[!DNL AAC API 1P Onboarding]**.
 
@@ -35,10 +34,6 @@ Complete the following steps in the [!DNL LiveRamp] [!DNL Connect] dashboard:
    ![Identifier settings](/help/dsp/assets/liveramp-tile-settings.png)
 
 1. (Optional) If you want to still receive cookie-based identifiers, create a second [!DNL AAC API 1P Onboarding] destination tile with “[!DNL Cookies],” "[!DNL IDFA],” and “[!DNL AAID]” selected.
-
-### Manually Send Segments from [!DNL Unified ID2.0]
-
-Complete the following steps in <!-- ??? -->
 
 >[!MORELIKETHIS]
 >
