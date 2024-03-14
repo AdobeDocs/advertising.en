@@ -137,14 +137,15 @@ index: yes
     + [Audience Settings](/help/dsp/audiences/audience-settings.md)
     + [Syntax for Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
   + Sources {#sources}
-    + [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
+    + [About Activating Authenticated Segments from Your First-Party Audiences](/help/dsp/audiences/sources/source-about.md)
     + [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-universal-id.md)
-    + Workflows by Customer Data Platform {#sources-workflows}
-      + [!DNL Adobe Real-Time CDP] {#sources-adobe-rt-cdp}
+    + Convert IDs from Your Customer Data Platform{convert-ids}
+      + Workflows by Customer Data Platform {#sources-workflows}
+        + [!DNL Adobe Real-Time CDP] {#sources-adobe-rt-cdp}
         + [Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
-      + [Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
-    + [Create an Audience Source to Activate First-Party Audiences](/help/dsp/audiences/sources/source-create.md)
-    + [Audience Source Settings](/help/dsp/audiences/sources/source-settings.md)
+        + [Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
+      + [Create an Audience Source to Activate First-Party Audiences](/help/dsp/audiences/sources/source-create.md)
+      + [Audience Source Settings](/help/dsp/audiences/sources/source-settings.md)
   + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)
 + Inventory {#inventory}
   + [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)
