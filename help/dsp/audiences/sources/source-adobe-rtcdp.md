@@ -1,10 +1,10 @@
 ---
-title: Workflow for Using the DSP Integration with [!DNL Adobe] [!DNL Real-time CDP]
+title: Using the DSP Integration with [!DNL Adobe] [!DNL Real-time CDP]
 description: Learn how to enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments.
 feature: DSP Audiences
 exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
 ---
-# Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]
+# Using the DSP Integration with [!DNL Adobe Real-Time CDP]
 
 Use the DSP integration with the [the [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform, to convert your hashed email addresses to universal IDs for targeted advertising.
 
@@ -29,5 +29,5 @@ For additional support, contact your Adobe Account Team or `adcloud-support@adob
 >* [Audience Source Settings](source-settings.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Destinations catalog overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
->* [Workflow for Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
+>* [Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
