@@ -1,14 +1,20 @@
 ---
-title: About Activating Authenticated Segments from Audience Sources
-description: Learn about ingesting first-party segments from a customer data platform.
+title: About Activating Authenticated Audience Segments from Your First-Party Audiences
+description: Learn about converting user identifiers in your first-party segments to universal IDs for cookieless targeting.
 feature: DSP Audiences
 exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 ---
-# About Activating Authenticated Segments from Audience Sources
+# About Activating Authenticated Segments from Your First-Party Audiences
 
-<!-- Title? Not sure the segments are referred to as probabilistic (the IDs/device graphs are), but this will eventually include non-authenticated segments -->
+<!-- Title and description? This will eventually include non-authenticated segments with probabilistic IDs -->
 
-DSP enables you to convert your first-party data to people-based, universal IDs for cookieless, single-device (not cross-device) targeting. DSP can ingest your segments comprised of hashed email IDs or universal IDs built within your customer data platform (CDP). Each resulting ID is people-based, and ad frequency caps are applied at the ID level.
+DSP supports people-based, universal IDs for cookieless, single-device (not cross-device) targeting.
+
+DSP can ingest your first-party segments comprised of hashed email IDs<!-- or universal IDs --> built within your customer data platform (CDP) and convert them to universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level.
+
+You can also manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard.
+
+<!-- In addition, some third-party segment vendors have started sending universal IDs with XXX. [explain more] -->
 
 ## Universal ID Types {#universal-id-types}
 
@@ -38,7 +44,7 @@ You can create segments with IDs from the following universal ID partners:
 
     Measurement requires the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
   
-    ID5 creates an ID based on soft signals, such as IP address and timestamp. [Reword to clarify]
+    ID5 creates an ID by probabilistically stitching together various client/server signals, such as an IP address, user agent string, and hashed email address.
 
 -->
 
