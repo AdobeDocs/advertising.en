@@ -141,8 +141,8 @@ index: yes
     + [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-universal-id.md)
     + Workflows by Customer Data Platform {#sources-workflows}
       + [!DNL Adobe Real-Time CDP] {#sources-adobe-rt-cdp}
-        + [Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
-      + [Workflow for Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
+        + [Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+      + [Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
     + [Create an Audience Source to Activate First-Party Audiences](/help/dsp/audiences/sources/source-create.md)
     + [Audience Source Settings](/help/dsp/audiences/sources/source-settings.md)
   + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)
