@@ -5,7 +5,7 @@ feature: DSP Audiences
 ---
 # Workflow for Using the DSP Integration with [!DNL ActionIQ]
 
-You can share your organization's first-party data from the [!DNL ActionIQ] customer data platform using ........... <!-- fill in -->
+Use the DSP integration with the [!DNL ActionIQ] customer data platform to convert your hashed email addresses to universal IDs for targeted advertising.
 
 There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 
@@ -15,7 +15,9 @@ There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 
 ## Step 1: Create an audience source in DSP {#source-create}
 
-* [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account, and share the source code key with the [!DNL Tealium] user.
+1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account, specifying the [universal ID formats](source-about.md) to which you want to convert your user identifiers.
+
+1. After you create the audience source, share the source code key with the [!DNL ActionIQ] user.
 
 ## Step 2: 
 
