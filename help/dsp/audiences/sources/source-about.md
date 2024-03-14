@@ -32,9 +32,9 @@ You can create segments with IDs from the following universal ID partners:
 
 <!--
 
-* Authenticated IDs using hashed email addresses:
+* Authenticated (deterministic) IDs using hashed email addresses:
 
-  *
+  * Ramp: uses multiple user signals (such as hashed email addresses and phone number) -- With RT CDP, I think we just take HEMs. 
 
   *
 
@@ -44,7 +44,7 @@ You can create segments with IDs from the following universal ID partners:
 
     Measurement requires the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
   
-    ID5 creates an ID by probabilistically stitching together various client/server signals, such as an IP address, user agent string, and hashed email address.
+    ID5 creates an ID by stitching together various client/server signals, such as an IP address, user agent string, and hashed email address. [Field-level help says "browser signals (IP address, timestamp) and user signals (email) when available."]
 
 -->
 
