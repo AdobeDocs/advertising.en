@@ -1,10 +1,10 @@
 ---
-title: Workflow for Using the DSP Integration with [!DNL Tealium]
+title: Using the DSP Integration with [!DNL Tealium]
 description: Learn how to enable DSP to ingest your [!DNL Tealium] first-party segments.
 feature: DSP Audiences
 exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
 ---
-# Workflow for Using the DSP Integration with [!DNL Tealium]
+# Using the DSP Integration with [!DNL Tealium]
 
 Use the DSP integration with the [!DNL Tealium] customer data platform to convert your organization's first-party hashed email IDs to universal IDs for targeted advertising. The process uses the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
 
@@ -119,5 +119,5 @@ You can have only one connector per segment and one segment per connector.
 >* [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
 >* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
->* [Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+>* [Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
