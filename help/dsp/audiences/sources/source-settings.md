@@ -24,7 +24,7 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 
 * *[!DNL Unified ID2.0] (Beta):* To convert PII to a [Unified ID 2.0](https://unifiedid.com) for retargeting logging-in users.
 
-**[!UICONTROL Terms of Service]:** The terms of service agreement for converting PII to universal IDs. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
+**[!UICONTROL Terms of Service]:** The terms of service agreement for converting PII to universal IDs. You must accept the terms the first time you convert data to a new ID type. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
 
 **[!UICONTROL Source Key]:** (Read-only; generated automatically) The source key you can use to create a destination connection in the customer data platform to push audiences to Advertising DSP. You can copy the value to your clipboard to paste into the destination connection settings or into a file.
 
