@@ -28,7 +28,7 @@ You can create segments with IDs from the following universal ID partners:
 
   >[!NOTE]
   >
-  >Third-party segments from [!DNL Eyeota] and [!DNL Neustar] may also include UID2.0 IDs.
+  >Third-party segments from [!DNL Eyeota] and [!DNL Neustar] may also include UID2.0 IDs.<!-- What other info to add WRT this? -->
 
 <!--
 
