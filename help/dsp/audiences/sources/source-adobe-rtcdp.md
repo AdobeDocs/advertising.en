@@ -4,9 +4,9 @@ description: Learn how to enable DSP to ingest your [!DNL Adobe] [!DNL Real-time
 feature: DSP Audiences
 exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
 ---
-# Using the DSP Integration with [!DNL Adobe Real-Time CDP]
+# Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs
 
-Use the DSP integration with the [the [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform, to convert your hashed email addresses to universal IDs for targeted advertising.
+Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform, to convert your hashed email addresses to universal IDs for targeted advertising.
 
 <!-- Any pre-requisite settings within DSP?
 
@@ -29,5 +29,5 @@ For additional support, contact your Adobe Account Team or `adcloud-support@adob
 >* [Audience Source Settings](source-settings.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Destinations catalog overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
->* [Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
+>* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
