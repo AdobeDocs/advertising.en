@@ -316,7 +316,7 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
   
   * *[!UICONTROL Unified ID2.0]*: Targets [!DNL Unified ID2.0] (UID2) IDs of users logged into your site using their email addresses.<!-- Verify -->[!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2). **Note:** Third-party segments from [!DNL Eyeota] and [!DNL Neustar] may include UID2.0 IDs.
 
-  **[!UICONTROL Terms of service]**: The terms of service agreement for using universal IDs. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
+  **[!UICONTROL Terms of service]**: The terms of service agreement for using universal IDs. You must accept the terms the first time you target a new ID type. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
 
 **[!UICONTROL Cross Device Targeting]:** (Available when the [campaign is configured for people-based cross-device targeting](/help/dsp/campaign-management/campaigns/campaign-settings.md), you target legacy IDs only (not universal IDs), and you select at least one segment or audience. Allows you to extend your targeting across all of a person's known devices (per the device graph specified in the campaign settings), even devices that aren't in the specified segments. Fees may apply depending on the graph specified for the campaign. Device graph data is available only in North America.
 
