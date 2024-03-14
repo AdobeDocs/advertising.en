@@ -139,11 +139,10 @@ index: yes
   + Sources {#sources}
     + [About Activating Authenticated Segments from Your First-Party Audiences](/help/dsp/audiences/sources/source-about.md)
     + [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-universal-id.md)
-    + Convert IDs from Your Customer Data Platform{convert-ids}
+    + Convert IDs from Your Customer Data Platform {#convert-ids}
       + Workflows by Customer Data Platform {#sources-workflows}
-        + [!DNL Adobe Real-Time CDP] {#sources-adobe-rt-cdp}
-        + [Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
-        + [Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
+        + [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+        + [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
       + [Create an Audience Source to Activate First-Party Audiences](/help/dsp/audiences/sources/source-create.md)
       + [Audience Source Settings](/help/dsp/audiences/sources/source-settings.md)
   + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)
