@@ -17,6 +17,7 @@ Review the following information before you integrate Adobe Advertising with Ado
   * Experience Cloud Identity Service: `visitorAPI.js` version 2.0 or higher
 * Any version of Adobe Analytics (including [!DNL Prime], [!DNL Premium], or [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` version 2.1 or higher
+* (Advertising DSP customers) An [Advertising DSP JavaScript snippet](javascript.md) deployed in your webpages to track view-through visits.
 
 >[!TIP]
 >
@@ -83,7 +84,7 @@ Contact your Adobe Account Team for the latest supported ad environments in each
 
 * The integration passes only [!DNL Analytics] standard and custom events to Adobe Advertising for bid optimization of subsequent paid media and advertising efforts. It doesn't pass [!DNL Analytics] segments, calculated metrics, and [!DNL eVars] to Adobe Advertising for bid optimization.
 
-* Adobe Advertising creates persistent IDs within [!DNL Analytics] based on the last advertisement clicked or viewed before the user enters the site, based on the [click and view-through lookback windows](#lookback-a4adc) configured in Adobe Advertising. If a site visitor were to have both types of site entry interactions within their profile, and the click is within the lookback period, then the visitor's click-through ID would override the view-through ID for site reporting.
+* Adobe Advertising creates persistent IDs within [!DNL Analytics] based on the last advertisement clicked or viewed before the user enters the site, based on the [click and view-through lookback windows](#lookback-a4adc) configured in Adobe Advertising. If a site visitor has both types of site entry interactions within their profile, and the click is within the lookback period, then the visitor's click-through ID overrides the view-through ID for site reporting.
 
 * [!DNL Analytics for Advertising] conversion tracking in Adobe Analytics uses a configurable tracking lookback window (60 days by default). Adobe Advertising reports reflect site conversions and engagement through the end of this tracking lookback window.
 
