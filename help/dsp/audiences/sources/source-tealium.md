@@ -6,7 +6,7 @@ exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
 ---
 # Workflow for Using the DSP Integration with [!DNL Tealium]
 
-You can share your organization's first-party hashed email IDs from the [!DNL Tealium] customer data platform using the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
+Use the DSP integration with the [!DNL Tealium] customer data platform to convert your organization's first-party hashed email IDs to universal IDs for targeted advertising. The process uses the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
 
 1. [Create an audience source in DSP](#source-create).
 
@@ -20,7 +20,9 @@ The segments should be available in DSP within 24 hours.
 
 ## Step 1: Create an audience source in DSP {#source-create}
 
-* [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account, and share the source code key with the [!DNL Tealium] user.
+1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account, specifying the [universal ID formats](source-about.md) to which you want to convert your user identifiers.
+
+1. After you create the audience source, share the source code key with the [!DNL Tealium] user.
 
 ## Step 2: Prepare and share segment-mapping data {#map-data}
 
