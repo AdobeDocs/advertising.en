@@ -20,7 +20,11 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
 
    For instructions for activating the DSP destination connection, selecting segments, and accessing control permissions, see "[Adobe Advertising Cloud DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)."
 
-For additional support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
+1. After you complete all steps, verify in <!-- Where? Aren't the imported segments available in Audiences > All Audiences, but you have to create/edit a saved audience to see them? They won't show up in Audiences > Segments (which is just for custom segments and CCPA segments you manually create in our UI) Don't you have to  [!UICONTROL Audiences] --> that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
+
+   The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue.
+   
+   For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]
 >
