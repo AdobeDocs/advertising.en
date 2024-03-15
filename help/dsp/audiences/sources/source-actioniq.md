@@ -19,6 +19,12 @@ There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 
 1. After you create the audience source, share the source code key with the [!DNL ActionIQ] user.
 
+1. After you complete all steps, verify in <!-- Where? Aren't the imported segments available in Audiences > All Audiences, but you have to create/edit a saved audience to see them? They won't show up in Audiences > Segments (which is just for custom segments and CCPA segments you manually create in our UI) Don't you have to  [!UICONTROL Audiences] --> that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
+
+   The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue.
+   
+   For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
+
 ## Step 2: 
 
 >[!MORELIKETHIS]
