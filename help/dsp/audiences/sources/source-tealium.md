@@ -16,6 +16,8 @@ Use the DSP integration with the [!DNL Tealium] customer data platform to conver
 
 1. [Duplicate the existing connector in [!DNL Tealium] to continue to share segments](#duplicate-connector).
 
+1. [Compare the number of universal IDs with the number of hashed email addresses](#compare-id-count).
+
 The segments should be available in DSP within 24 hours.
 
 ## Step 1: Create an audience source in DSP {#source-create}
@@ -113,6 +115,14 @@ You can have only one connector per segment and one segment per connector.
 1. In [!DNL Tealium], duplicate the segment for which you want to create another segment, and rename the new segment.
 
 1. In [!DNL Tealium], duplicate the connector you created in [Step 3](#tealium-connector), and rename the new connector from "`<original name>-copy`" to the new segment name.
+
+## Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
+
+After you complete all steps, verify in <!-- Where? Aren't the imported segments available in Audiences > All Audiences, but you have to create/edit a saved audience to see them? They won't show up in Audiences > Segments (which is just for custom segments and CCPA segments you manually create in our UI) Don't you have to  [!UICONTROL Audiences] --> that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
+
+The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue.
+   
+For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]
 >
