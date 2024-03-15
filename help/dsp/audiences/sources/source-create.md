@@ -6,11 +6,14 @@ exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
 ---
 # Create an Audience Source to Activate First-Party Audiences
 
-<!-- Will this remain for admin users/Adobe Account Team users only? -->
+Create a source in DSP for each first-party audience in your customer data platform that you want to convert to segments containing specified universal ID types. You can import the segments to your organization's DSP account or to an advertiser account. Data charges are applied based on the selected universal ID types.
 
-Create a source in DSP to import first-party audiences to your DSP account or an advertiser account as universal IDs. You can create multiple types of IDs for each source (such as a [!DNL RampID] and a [!DNL Unified ID2.0] for each email address). Data charges are applied accordingly.
+<!-- 
+Create a source in DSP to import your first-party audiences to your DSP account or an advertiser account and convert them to universal IDs. You can create multiple types of IDs for each source (such as a [!DNL RampID] and a [!DNL Unified ID2.0] for each email address). Data charges are applied accordingly.
 
-For additional steps required to ingest segments from specific customer data platforms, see [the audience-specific activation workflows](source-about.md)
+-->
+
+Additional steps are required to ingest the audiences from each customer data platform. See [the audience-specific activation workflows](source-about.md)
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Sources]**.
 
@@ -34,7 +37,7 @@ For additional steps required to ingest segments from specific customer data pla
 
 >[!NOTE]
 >
->After you create a source for your customer data platform, you'll need to complete additional steps. See the [activation workflow for [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md)<!-- the [activation workflow for [!DNL ActionIQ]](source-actioniq.md), --> and the [activation workflow for [!DNL Tealium]](source-tealium.md).
+>After you create a source for your customer data platform, you'll need to complete additional steps. See the [workflow for importing audiences from [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md)<!-- the [activation workflow for [!DNL ActionIQ]](source-actioniq.md), --> and the [workflow for importing audiences from [!DNL Tealium]](source-tealium.md).
 
 >[!MORELIKETHIS]
 >
