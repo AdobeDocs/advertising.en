@@ -63,9 +63,9 @@ Also, use the following settings.
 
 * **Pacing & Capping:** To select a CPA or ROAS optimization goal, the package must use package-level pacing. This ensures that all placements within the package are optimized to distribute spend based on performance and scale to the selected goals.
 
-* **Flight Dates:** (Prospecting packages) When your campaign runs for longer than 25 days, use the [!UICONTROL Activate Custom Flighting] feature. First, set a custom flight for the first 10 days at approximately 75% of the necessary daily budget to reduce spending during the *learning phase*. Then set a second custom flight for the remainder of the budget.
+* **Flight Dates:** (Prospecting packages) When your campaign runs for longer than 25 days, use the [!UICONTROL Activate Custom Flighting] feature. First, set a custom flight for the first 10 days at approximately 75% of the necessary daily budget to reduce spending during the *learning phase*. Then set a second custom flight for the remainder of the budget.
 
-  For example, if you have $100,000 to spend in 30 days, then set the budget for Flight 1 (Days 1-10) to $25,000 (75% x $100,000/30 days = $2,500 per day). Use the remaining budget of $75,000 for Flight 2 (Days 11–30).
+  For example, if you have $100,000 to spend in 30 days, then set the budget for Flight 1 (Days 1-10) to $25,000 (75% x $100,000/30 days = $2,500 per day). Use the remaining budget of $75,000 for Flight 2 (Days 11-30).
 
 * **Budget:** DSP will always try to allocate 100% of the package budget evenly between all placements in a package. If a placement has low spend or no spend, we recommend budget capping the placement to allow more of the budget to allocate to placements with scale. Allow 24-48 hours for budget changes to calibrate.
 
@@ -97,7 +97,7 @@ You'll configure CPA or ROAS optimization at the package level (see Step 3 - Cre
   * For prospecting placements, use a low maximum bid ($5).
   * For retargeting placements, use a high maximum bid ($12).
 
-* **Pre-bid Filters:** Minimize, or ideally avoid, setting aggressive pre-bid filters, which prevent the placement from achieving scale. Best practices include the following:
+* **Pre-bid Filters:** Minimize, or ideally avoid, setting aggressive pre-bid filters, which prevent the placement from achieving scale. Best practices include the following:
 
   * Use one (1) pre-bid filter per placement. Multiple pre-bid filters will require that both are met, which reduces scale.
 
@@ -145,8 +145,8 @@ Using contextual filtering, pre-bid fraud blocking, and/or [!UICONTROL Ads.txt] 
 
 ## Step 5 - Use the Right Creative Assets
 
-* The best practice is to include as many unique ad sizes as possible to maximize reach. The universal display template allows you to upload any standard display ad size.
-* Make sure all placements contain *at least* all of the primary display ad sizes (300x250, 728x90, 160x600, 300x600, 320x50, and 300x50).
+* The best practice is to include as many unique ad sizes as possible to maximize reach. The universal display template allows you to upload any standard display ad size.
+* Make sure all placements contain *at least* all of the primary display ad sizes (300x250, 728x90, 160x600, 300x600, 320x50, and 300x50).
 * Update creatives frequently to prevent creative fatigue.
 
 >[!MORELIKETHIS]
