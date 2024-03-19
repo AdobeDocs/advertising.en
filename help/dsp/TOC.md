@@ -137,8 +137,8 @@ index: yes
     + [Audience Settings](/help/dsp/audiences/audience-settings.md)
     + [Syntax for Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
   + Sources {#sources}
-    + [About Activating Authenticated Segments from Your First-Party Audiences](/help/dsp/audiences/sources/source-about.md)
-    + [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-universal-id.md)
+    + [About Activating Authenticated and Probabilistic  Segments from Your First-Party Audiences](/help/dsp/audiences/sources/source-about.md)
+    + [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
     + Convert IDs from Your Customer Data Platform {#convert-ids}
       + Workflows by Customer Data Platform {#sources-workflows}
         + [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
