@@ -1,79 +1,83 @@
 ---
-title: About Activating Authenticated Audience Segments from Your First-Party Audiences
-description: Learn about converting user identifiers in your first-party segments to universal IDs for cookieless targeting.
+title: About Activating Authenticated and Probabilistic Audience Segments from Your First-Party Audiences
+description: Learn about importing your universal ID segments and converting other user identifiers in your first-party segments to universal IDs for cookieless targeting.
 feature: DSP Audiences
 exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 ---
-# About Activating Authenticated Segments from Your First-Party Audiences
+# About Activating Authenticated and Probabilistic  Segments from Your First-Party Audiences
 
 <!-- Title and description? This will eventually include non-authenticated segments with probabilistic IDs -->
 
-DSP supports people-based, universal IDs for cookieless, single-device (not cross-device) targeting.
+DSP supports people-based, universal IDs for cookieless, single-device (not cross-device) targeting across digital formats supported by DSP.
 
-DSP can ingest your first-party segments comprised of hashed email IDs<!-- or universal IDs --> built within your customer data platform (CDP) and convert them to universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level.
+* DSP can ingest your first-party segments comprised of hashed email IDs<!-- or universal IDs --> built within your customer data platform (CDP) and convert them to universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level.
 
-You can also manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard.
+* You can manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard.
 
-<!-- In addition, some third-party segment vendors have started sending universal IDs with XXX. [explain more] -->
+* Some third-party segment vendors have started including universal IDs in their segments, and you can use them in saved audiences and as placement targets without any extra steps.
+
+Segment details include the size of each universal ID type as well as the size for each device type tracked by cookies or device IDs.
 
 ## Universal ID Types {#universal-id-types}
 
 You can create segments with IDs from the following universal ID partners:
 
-* [[!DNL LiveRamp] [!DNL RampIDs]](https://liveramp.com/identity-resolution): For retargeting logged-in users and for measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md). [!DNL RampIDs] are available for users in North America, Australia, and New Zealand.
+<!-- VERIFY THIS, including wording:
 
-  Measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match onsite events to ad impressions. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- add tag info somewhere; also clarify if the second JS tag has anything to do with Analytics or if all users need it for RampIDs -->
-
-* [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
-
-  >[!NOTE]
-  >
-  >Third-party segments from [!DNL Eyeota] and [!DNL Neustar] may also include UID2.0 IDs.<!-- What other info to add WRT this? -->
-
-<!--
+ For all ID types, the segments are streamed continuously so that changes are updated in real time.
+-->
 
 * Authenticated (deterministic) IDs using hashed email addresses:
 
-  * Ramp: uses multiple user signals (such as hashed email addresses and phone number) -- With RT CDP, I think we just take HEMs. 
+  * [[!DNL LiveRamp] [!DNL RampIDs]](https://liveramp.com/identity-resolution): For retargeting logged-in users and for measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md). [!DNL RampIDs] are available for users in North America, Australia, and New Zealand.
 
-  *
+    Measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match conversions from the IDs to view-throughs. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
+  <!-- Will later require yet another JS tag too -->
 
-* Probabilistic (unauthenticated) IDs using XX data: [VERIFY specifically what data types are allowed, and edit top-level info accordingly if more than hashed emails.]
+  * [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
+
+    >[!NOTE]
+    >
+    >Third-party segments from [!DNL Eyeota] may automatically include UID2.0 IDs, in addition to users tracked by cookies or device IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the UID2.0 IDs.
+
+* Probabilistic (unauthenticated) IDs using XX<!-- clarify --> data: <!-- VERIFY specifically what data types are allowed, and edit top-level info accordingly if more than hashed emails. -->
 
   * [[!DNL ID5] IDs](https://id5.io): For retargeting unauthenticated site traffic, prospecting using third-party data, and measurement for both using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).
 
-    Measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
-  
-    ID5 creates an ID by stitching together various client/server signals, such as an IP address, user agent string, and hashed email address. [Field-level help says "browser signals (IP address, timestamp) and user signals (email) when available."]
+    ID5 creates an ID by stitching together various browser signals (IP address, timestamp) and user signals (hashed email address).
 
--->
+    Measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL ID5] on your webpages to match conversions from the IDs to view-throughs. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
+    <!-- Will later require yet another JS tag too -->
 
+### Reporting by Universal ID Type
 
-<!--
-Is this a one-time thing, or do we continue to connect with any sources periodically to update the segments? If yes, how often do we update?
--->
+* **Segment details:** Segment details include the audience size by universal ID type and by device type.
 
-Cost, impression, click, conversion, and frequency data by universal ID type is available in custom reports. Advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) can see view-through conversions in [!DNL Analytics].
+* **Custom reports:** Cost, impression, click, conversion, and frequency data by universal ID type is available in custom reports.
 
-## Customer Data Platforms with Established Connectors
+* **[!DNL Analytics] reports:** Advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) who have implemented all required steps can see view-through conversions by universal ID type in [!DNL Analytics].
 
-The following CDPs have established connectors, but DSP can also connect to any CDP using batch, streaming, or API-based data sharing. To integrate with a new CDP, contact your Adobe Account Team.
+## Supported Customer Data Platforms
+
+DSP has established connectors to the following CDPs to quickly ingest your first-party segments.
+
+DSP can also connect to any additional CDPs using batch, streaming, or API-based data sharing. To integrate with a new CDP, contact your Adobe Account Team.
 
 ### [!DNL Adobe Real-Time Customer Data Platform]
 
-DSP is an integrated destination for [the [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform. This integration allows you to share authenticated first-party segments with approved advertisers and users for campaign activation.
+DSP is an integrated *destination* for [the [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform.
 
-In [!DNL Real-Time CDP], *destinations* are connections to external data platforms that allow seamless data activation. You can use destinations to activate your hashed email addresses for targeted advertising across digital formats supported by DSP. For more information about destinations, see the Experience Platform [Destinations Guide](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), including an overview of the product, instructions for [creating destination workspaces](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) and [creating destination connections](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), and [activating data to destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
+In [!DNL Real-Time CDP], destinations are connections to external data platforms that allow seamless data activation. You can use destinations to activate your hashed email addresses for targeted advertising in DSP. For more information about destinations, see the Experience Platform [Destinations Guide](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), including an overview of the product, instructions for [creating destination workspaces](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) and [creating destination connections](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), and [activating data to destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
 
 To enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments and convert your user data to universal IDs, see "[Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)."
 
 ### [!DNL ActionIQ]
 
-You can share your organization's first-party data from the [!DNL Action IQ] customer data platform with DSP to convert your user data to universal IDs. This integration requires customization. Contact your Adobe Account Team for more information.
+You can share your organization's first-party data from the [!DNL Action IQ] customer data platform with DSP to convert your user data<!-- hashed email addresses ? --> to universal IDs for targeted advertising in DSP. This integration requires customization. Contact your Adobe Account Team for more information.
 
 ### [!DNL Tealium]
 
-You can share your organization's first-party data from the [!DNL Tealium] customer data platform using [!DNL Amazon Web Services]. For more information about converting your user data to universal IDs, see "[Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)."
+You can share your organization's first-party data from the [!DNL Tealium] customer data platform using [!DNL Amazon Web Services]. For more information about converting your user data<!-- hashed email addresses ? --> to universal IDs for targeted advertising in DSP, see "[Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)."
 
 ## How to Target an Authenticated Audience in Your Placements
 
@@ -126,6 +130,8 @@ See "[Placement Settings](/help/dsp/campaign-management/placements/placement-set
     >[!NOTE]
     >
     >Frequency capping applies to an individual ID. When you target multiple ID types, you might be reaching the same user.
+
+* Remember that the reach for authenticated audience segments is naturally smaller than the reach for cookie-based segments, and that using additional targeting options further decreases your reach. Be judicious about using granular targeting, especially by joining multiple targets with AND statements.
 
 <!-- Keep? If so, put this where? 
 
