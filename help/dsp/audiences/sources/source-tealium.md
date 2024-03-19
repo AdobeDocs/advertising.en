@@ -118,7 +118,7 @@ You can have only one connector per segment and one segment per connector.
 
 ## Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
-After you complete all steps, verify in <!-- Where? Aren't the imported segments available in Audiences > All Audiences, but you have to create/edit a saved audience to see them? They won't show up in Audiences > Segments (which is just for custom segments and CCPA segments you manually create in our UI) Don't you have to  [!UICONTROL Audiences] --> that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
+After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
 
 The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue.
    
