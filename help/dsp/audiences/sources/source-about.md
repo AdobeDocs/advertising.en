@@ -22,9 +22,7 @@ You can create segments with IDs from the following universal ID partners:
 
 * [[!DNL LiveRamp] [!DNL RampIDs]](https://liveramp.com/identity-resolution): For retargeting logged-in users and for measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md). [!DNL RampIDs] are available for users in North America, Australia, and New Zealand.
 
-  For [!DNL RampIDs], you must deploy an ID-specific JavaScript tag on your webpages.<!-- add tag info somewhere -->
-
-  In addition, measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
+  Measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match onsite events to ad impressions. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- add tag info somewhere; also clarify if the second JS tag has anything to do with Analytics or if all users need it for RampIDs -->
 
 * [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
 
@@ -44,9 +42,7 @@ You can create segments with IDs from the following universal ID partners:
 
   * [[!DNL ID5] IDs](https://id5.io): For retargeting unauthenticated site traffic, prospecting using third-party data, and measurement for both using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).
 
-    For [!DNL RampIDs], you must deploy an ID-specific JavaScript tag on your webpages.[ADD TAG INFO SOMEWHERE]
-
-    In addition, measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). [IT SOUNDS LIKE THERE'S A PARTICULAR JS SNIPPET THAT'S REQUIRED FOR THIS, TOO. CLARIFY AND UPDATE HERE AN IN /analytics/javascript.md file]
+    Measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
   
     ID5 creates an ID by stitching together various client/server signals, such as an IP address, user agent string, and hashed email address. [Field-level help says "browser signals (IP address, timestamp) and user signals (email) when available."]
 
