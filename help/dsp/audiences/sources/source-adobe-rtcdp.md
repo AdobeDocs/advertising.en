@@ -14,7 +14,7 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
 
 -->
 
-1. <!-- Verify all, including whether this has anything to do with Analytics implementations or not. -->(To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs) Obtain a Javascript tag to match onsite events to ad impressions and implement it on your webpages.<!-- Maybe put instructions on a separate page and put an x-ref to that here and in other procedures? -->
+1. <!-- Verify all, including whether this has anything to do with Analytics implementations or not. -->(To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs) Obtain a Javascript tag to match conversions to view-throughs and implement it on your webpages.<!-- Maybe put instructions on a separate page and put an x-ref to that here and in other procedures? -->
 
    * For [!DNL RampIDs], XXXXX.
 
