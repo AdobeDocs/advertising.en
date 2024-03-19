@@ -6,8 +6,6 @@ exl-id: 88b1fb23-f856-44ed-a955-844a329efb98
 ---
 # Create a Connected TV Reach Plan
 
-*Beta feature*
-
 1. In the main menu, click **[!UICONTROL Planner]**.
 
 1. In the upper right, click **[!UICONTROL Create]**.
