@@ -6,7 +6,9 @@ exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
 ---
 # Convert User IDs from [!DNL Tealium] to Universal IDs
 
-Use the DSP integration with the [!DNL Tealium] customer data platform to convert your organization's first-party hashed email IDs to universal IDs for targeted advertising. The process uses the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
+<!-- Add the prerequisite for Analyics users converting data to RampIDs and ID5 IDs? -->
+
+Use the DSP integration with the [!DNL Tealium] customer data platform to convert your organization's first-party hashed email addresses to universal IDs for targeted advertising. The process uses the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
 
 1. [Create an audience source in DSP](#source-create).
 
