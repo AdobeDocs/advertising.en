@@ -8,7 +8,11 @@ exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
 
 <!-- Add the prerequisite for Analyics users converting data to RampIDs and ID5 IDs? -->
 
-Use the DSP integration with the [!DNL Tealium] customer data platform to convert your organization's first-party hashed email addresses to universal IDs for targeted advertising. The process uses the [!DNL Amazon Web Services] (AWS) firehose connector. There are four steps to share data from Tealium with DSP:
+Use the DSP integration with the [!DNL Tealium] customer data platform to convert your organization's first-party hashed email addresses to universal IDs for targeted advertising. The process uses the [!DNL Amazon Web Services] (AWS) firehose connector. Follow these steps to share data from Tealium with DSP:
+
+<!-- Any pre-requisite settings within DSP? -->
+
+1. (To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs<!--verify that it's not needed for importing segments directly from LiveRamp -->; advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) Obtain a Javascript tag to match conversions to view-throughs and implement it on your webpages.<!-- Maybe put instructions on a separate page and put an x-ref to that here and in other procedures? -->
 
 1. [Create an audience source in DSP](#source-create).
 
@@ -20,7 +24,15 @@ Use the DSP integration with the [!DNL Tealium] customer data platform to conver
 
 1. [Compare the number of universal IDs with the number of hashed email addresses](#compare-id-count).
 
-The segments should be available in DSP within 24 hours.
+The segments should be available in DSP within 24 hours and are refreshed every 24 hours.<!-- verify -->
+
+<!--Step 1: (To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs; advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) Obtain a Javascript tag to match conversions to view-throughs and implement it on your webpages.
+
+..... instructions....
+
+Renumber additional steps below.
+
+-->
 
 ## Step 1: Create an audience source in DSP {#source-create}
 
@@ -34,9 +46,9 @@ The segments should be available in DSP within 24 hours.
 
    1. The advertiser must prepare the data within [!DNL Tealium]:
    
-      1. The email IDs for the advertiser's audience must be hashed using the SHA-256 algorithm.
+      1. <!-- What about for ID5 segments? Those use a mix of signals. -->The email IDs for the advertiser's audience must be hashed using the SHA-256 algorithm.
 
-      1. The column containing hashed email IDs must be mapped to the attribute of the type of Visitor ID.
+      1. <!-- What about for ID5 segments? Those use a mix of signals. -->The column containing hashed email IDs must be mapped to the attribute of the type of Visitor ID.
 
       1. The audience must be created with the `Tealium_visitor_id` attribute. The right enrichment must be applied to trigger the audience. See the [[!DNL Tealium] documentation on visitor ID attributes](https://docs.tealium.com/server-side/visitor-stitching/visitor-id-attribute/).
    
@@ -120,9 +132,9 @@ You can have only one connector per segment and one segment per connector.
 
 ## Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
-After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
+After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.<!-- What about for ID5 segments? Those use a mix of signals. -->
 
-The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue.
+The translation rate of hashed email addresses<!-- What about for ID5 segments? --> to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue.
    
 For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
