@@ -10,7 +10,7 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
 
 <!-- Any pre-requisite settings within DSP?
 
-1. Contact `adcloud-support@adobe.com` to enable the account-level “[!UICONTROL LiveRamp segments]” option, which will allow you to target authenticated segments in DSP campaigns once all steps in the activation workflow are completed.
+1. Contact `adcloud-support@adobe.com` to enable the account-level “[!UICONTROL LiveRamp segments]” option, which allows you to target authenticated segments in DSP campaigns once all steps in the activation workflow are completed.
 
 -->
 
@@ -26,11 +26,13 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
 
    For instructions for activating the DSP destination connection, selecting segments, and accessing control permissions, see "[Adobe Advertising Cloud DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)."
 
-1. After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
+1. After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.<!-- What about for ID5, which uses multiple signals? -->
 
-   The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue.
+   The translation rate of hashed email addresses<!-- What about for ID5, which uses multiple signals? --> to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue.
    
    For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
+
+Segments are refreshed every 24 hours.<!-- verify -->
 
 >[!MORELIKETHIS]
 >
