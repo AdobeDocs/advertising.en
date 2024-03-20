@@ -43,6 +43,6 @@ Additional steps are required to ingest the audiences from each customer data pl
 >
 >* [Audience Source Settings](source-settings.md)
 >* [About Activating Authenticated Segments from Audience Sources](source-about.md)
->* [Activate Authenticated Segments from Universal ID Partners](source-universal-id.md)<!-- title?-->
+>* [Activate Authenticated Segments from Universal ID Partners](source-import-liveramp-segments.md)<!-- title?-->
 >* [Adobe Advertising Cloud DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
