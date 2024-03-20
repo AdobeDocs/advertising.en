@@ -20,12 +20,9 @@ Segment details include the size of each universal ID type as well as the size f
 
 ## Universal ID Types {#universal-id-types}
 
-You can create segments with IDs from the following universal ID partners:
+You can create segments with IDs from the following universal ID partners.
 
-<!-- VERIFY THIS, including wording:
-
- For all ID types, the segments are streamed continuously so that changes are updated in real time.
--->
+<!-- Verify -->For all ID types, the segments are updated every 24 hours.
 
 * Authenticated (deterministic) IDs using hashed email addresses:
 
@@ -36,18 +33,18 @@ You can create segments with IDs from the following universal ID partners:
 
   * [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
 
-    >[!NOTE]
-    >
-    >Third-party segments from [!DNL Eyeota] may automatically include UID2.0 IDs, in addition to users tracked by cookies or device IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the UID2.0 IDs.
-
-* Probabilistic (unauthenticated) IDs using XX<!-- clarify --> data: <!-- VERIFY specifically what data types are allowed, and edit top-level info accordingly if more than hashed emails. -->
+* Probabilistic (unauthenticated) IDs using hashed email addresses:
 
   * [[!DNL ID5] IDs](https://id5.io): For retargeting unauthenticated site traffic, prospecting using third-party data, and measurement for both using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).
 
-    ID5 creates an ID by stitching together various browser signals (IP address, timestamp) and user signals (hashed email address).
+    ID5 creates an ID by stitching together user signals (hashed email address) with various browser signals (such as IP address and timestamp).
 
     Measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL ID5] on your webpages to match conversions from the IDs to view-throughs. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
     <!-- Will later require yet another JS tag too -->
+
+    >[!NOTE]
+    >
+    >Third-party segments from [!DNL Eyeota] may automatically include ID5 IDs, in addition to users tracked by cookies or device IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
 
 ### Reporting by Universal ID Type
 
