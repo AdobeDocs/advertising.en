@@ -20,9 +20,7 @@ Segment details include the size of each universal ID type as well as the size f
 
 ## Universal ID Types {#universal-id-types}
 
-You can create segments with IDs from the following universal ID partners.
-
-<!-- Verify -->For all ID types, the segments are updated every 24 hours.
+You can create segments with IDs from the following universal ID partners. <!-- Verify -->Each of the segments is updated every 24 hours.
 
 * Authenticated (deterministic) IDs using hashed email addresses:
 
