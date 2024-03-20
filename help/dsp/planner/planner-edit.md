@@ -6,8 +6,6 @@ exl-id: 675a09d1-9548-416d-bfa6-a6242149b255
 ---
 # Edit a Connected TV Reach Plan
 
-*Beta feature*
-
 Editing the plan settings generates a new forecast.
 
 1. In the main menu, click **[!UICONTROL Planner]**.

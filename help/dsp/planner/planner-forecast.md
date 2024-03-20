@@ -6,8 +6,6 @@ exl-id: ec3de39c-c2b3-4004-8d86-eb6479608121
 ---
 # Regenerate the Forecast for a Connected TV Reach Plan
 
-*Beta feature*
-
 You can regenerate the forecast for a connected TV reach plan based on the latest observed data.
 
 1. In the main menu, click **[!UICONTROL Planner]**.
