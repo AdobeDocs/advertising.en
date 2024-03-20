@@ -14,11 +14,11 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
 
 -->
 
-1. <!-- Verify all, including whether this has anything to do with Analytics implementations or not. -->(To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs) Obtain a Javascript tag to match conversions to view-throughs and implement it on your webpages.<!-- Maybe put instructions on a separate page and put an x-ref to that here and in other procedures? -->
+1. (To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs<!--verify that it's not needed for importing segments directly from LiveRamp -->; advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) Obtain a Javascript tag to match conversions to view-throughs and implement it on your webpages.<!-- Maybe put instructions on a separate page and put an x-ref to that here and in other procedures? -->
 
-   * For [!DNL RampIDs], XXXXX.
+   * For [!DNL RampIDs], Contact your Adobe Account Team, who will give you instructions to register for a [!DNL LiveRamp] [!DNL LaunchPad] tag. Registration is free, but you must sign an agreement. Once you register, your Adobe Account Team will generate and provide a unique tag for your organization to implement on your webpages.
 
-   * For [!DNL ID5] IDs: Contact your Adobe Account Team, who will give you instructions to register for the tag with ID5. Registration is free, but you must sign an agreement. Once you register, a member of ID5’s technical team will provide a unique tag for your organization.
+   * For [!DNL ID5] IDs: Contact your Adobe Account Team, who will give you instructions to register for the tag with ID5. Registration is free, but you must sign an agreement. Once you register, a member of ID5’s technical team will provide a unique tag for your organization to implement on your webpages.
 
 1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account. You can choose to convert your user identifiers to any of the [available universal ID formats](source-about.md).
 
