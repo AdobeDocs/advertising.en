@@ -16,7 +16,7 @@ If I change it, update filename, create a redirect from the old page to the new 
 
 You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. 
 
-1. <!-- Verify this -->Contact `adcloud-support@adobe.com` to enable importing of [!UICONTROL LiveRamp] segments. Include the account name and applicable advertisers.
+<!-- 1. Probably selected by default for all users, but verifyContact `adcloud-support@adobe.com` to enable importing of [!UICONTROL LiveRamp] segments. Include the account name and applicable advertisers.  -->
 
 <!--Is this necessary for this process, too?
 
