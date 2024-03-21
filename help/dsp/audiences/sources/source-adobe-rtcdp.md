@@ -8,7 +8,7 @@ exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
 
 Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform, to convert your hashed email addresses to universal IDs for targeted advertising.
 
-<!-- Any pre-requisite settings within DSP?
+<!-- Probably selected by default for all users
 
 1. Contact `adcloud-support@adobe.com` to enable the account-level “[!UICONTROL LiveRamp segments]” option, which allows you to target authenticated segments in DSP campaigns once all steps in the activation workflow are completed.
 
