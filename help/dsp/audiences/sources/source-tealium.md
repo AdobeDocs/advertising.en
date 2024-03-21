@@ -10,8 +10,6 @@ exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
 
 Use the DSP integration with the [!DNL Tealium] customer data platform to convert your organization's first-party hashed email addresses to universal IDs for targeted advertising. The process uses the [!DNL Amazon Web Services] (AWS) firehose connector. Follow these steps to share data from Tealium with DSP:
 
-<!-- Any pre-requisite settings within DSP? -->
-
 1. (To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs<!--verify that it's not needed for importing segments directly from LiveRamp -->; advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) Obtain a Javascript tag to match conversions to view-throughs and implement it on your webpages.<!-- Maybe put instructions on a separate page and put an x-ref to that here and in other procedures? -->
 
 1. [Create an audience source in DSP](#source-create).
