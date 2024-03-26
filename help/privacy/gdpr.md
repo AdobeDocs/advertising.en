@@ -49,7 +49,7 @@ To make requests to access and delete data for Adobe Advertising, you'll need to
 
 1. Identify your Experience Cloud organization ID and make sure it's linked to your Adobe Advertising accounts.
 
-   An Experience Cloud organization ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Experience Cloud customers have been assigned an organization ID. If your marketing team or internal [!DNL Adobe] system administrator doesn't know your organization ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the organization ID to submit requests to the Privacy API using the `imsOrgID` namespace.
+   An Experience Cloud organization ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Experience Cloud customers have been assigned an organization ID. If your marketing team or internal [!DNL Adobe] system administrator doesn't know your organization ID, or isn't sure if it's been provisioned, then contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the organization ID to submit requests to the Privacy API using the `imsOrgID` namespace.
 
    >[!IMPORTANT]
    >
