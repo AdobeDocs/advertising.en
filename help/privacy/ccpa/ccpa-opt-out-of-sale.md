@@ -53,9 +53,9 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
    You should deploy the library on the webpage from which your customers can submit opt-out-of-sale requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: `gsurferID`) so that you can submit these identities as part of opt-out-of-sale requests via the Adobe Experience Platform Privacy Service API.
 
-1. Identify your Experience Cloud organization ID and make sure it is linked to your Adobe Advertising accounts.
+1. Identify your Experience Cloud organization ID and make sure that it's linked to your Adobe Advertising accounts.
 
-   An Experience Cloud organization ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Experience Cloud customers have been assigned an organization ID. If your marketing team or internal Adobe system administrator doesn't know your organization ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the organization ID to submit requests to the Privacy API using the `imsOrgID` namespace.
+   An Experience Cloud organization ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Experience Cloud customers have been assigned an organization ID. If your marketing team or internal Adobe system administrator doesn't know your organization ID, or isn't sure if it's been provisioned, then contact your Adobe Account Team. You'll need the organization ID to submit requests to the Privacy API using the `imsOrgID` namespace.
 
    >[!IMPORTANT]
    >
@@ -84,7 +84,7 @@ You can retrieve links to the monthly reports that were created in the previous 
 
 ### Method 2: Retrieve Consumer Opt-Out-of-Sale Reports Using the Advertising DSP [!DNL Trafficking API]
 
-This feature is available to organizations that use the [!DNL Trafficking API]. See the documentation for the [!DNL Trafficking API] for more information.
+This feature is available to organizations that use the [!DNL Trafficking API]. See the documentation for the [!DNL Trafficking API] for more information.<!-- Add link to API doc once it's published. -->
 
 If your organization doesn't use the [!DNL Trafficking API] but is interested in more information, contact your Adobe Account Team.
 
