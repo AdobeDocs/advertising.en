@@ -88,7 +88,7 @@ All of these steps are necessary to receive support from Adobe Advertising. For 
 
 * `"user IDs":`
 
-    * `"namespace": **411**` (which indicates the [!DNL adcloud] cookie space)
+    * `"namespace": **411**` (which indicates the [!DNL adCloud] cookie space)
 
     * `"value":` <*the actual customer’s cookie ID value as retrieved from `AdobePrivacy.js`*>
 
