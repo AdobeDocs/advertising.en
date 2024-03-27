@@ -115,17 +115,17 @@ curl -X POST \
             "type": "standard"
           },
           {
-            "namespace": "AdCloud",
+            "namespace": "adCloud",
             "type": "standard",
             "value":  "Wqersioejr-wdg",
           }
     ],
-    "include": ["AdCloud"],
+    "include": ["adCloud"],
     "regulation": "ccpa"
 }'
 ```
 
 where:
 
-* `"namespace": "AdCloud"` indicates the `AdCloud` cookie space, and the corresponding value is the customer’s cookie ID as retrieved from `AdobePrivacy.js`
-* `"include": ["AdCloud"]` indicates that the request applies to Adobe Advertising
+* `"namespace": "adCloud"` indicates the `adCloud` cookie space, and the corresponding value is the customer’s cookie ID as retrieved from `AdobePrivacy.js`
+* `"include": ["adCloud"]` indicates that the request applies to Adobe Advertising
