@@ -10,9 +10,9 @@ exl-id: 8b1247cd-083d-4c8c-8588-9e8c03c4cc67
 
 The following examples show how you might configure goals that target a single conversion metric.
 
-### Example for a Campaign with the "[!UICONTROL Highest ROAS - Custom Goal]" Optimization Goal
+### Example for a Campaign with the "[!UICONTROL Highest Return on Ad Spend (ROAS)]" Optimization Goal
 
-If your campaign goal is revenue ([!UICONTROL Highest ROAS - Custom Goal]), then your custom goal (objective) will include the "[!UICONTROL Revenue]" metric with a weight of one (1).
+If your campaign goal is revenue ([!UICONTROL Highest Return on Ad Spend (ROAS)]), then your custom goal (objective) will include the "[!UICONTROL Revenue]" metric with a weight of one (1).
 
 ![example of a ROAS custom goal with a single conversion metric](/help/dsp/assets/custom-goal-roas.png)
 
@@ -22,7 +22,7 @@ If your campaign goal is revenue ([!UICONTROL Highest ROAS - Custom Goal]), then
 >
 > For example, a $250 conversion with a weight of one is reported as $250. If the conversion metric is assigned a weight of 0.5, then the $250 conversion is reported as $125 in Adobe Advertising ($250 Conversion * 0.5 [!UICONTROL Property Weight] = $125).
 
-### Example for a Campaign with the "[!UICONTROL Lowest CPA - Custom Goal]" Optimization Goal
+### Example for a Campaign with the "[!UICONTROL Lowest Cost per Acquisition (CPA)]" Optimization Goal
 
 If your campaign goal is the lowest cost per acquisition (CPA) and it requires only one success event, then you'll include that one metric (in the following example, "Application Submit"). The best practice is to set the weight as one (1).
 
