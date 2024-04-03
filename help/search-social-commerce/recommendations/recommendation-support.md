@@ -20,19 +20,15 @@ feature: Search Recommendations
 
 Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights], you can:
 
-* See at a glance all supported recommendations that haven't been acted on for a [!DNL Google Ads] account or all performance insights generated in the last 30 days for a [Microsoft® Advertising] account. Information for each entry includes the recommendation/insight details and the entities affected. For [!DNL Google Ads] accounts, predicted increases to metrics are highlighted in green.
+* See at a glance all supported recommendations that haven't been acted on for a [!DNL Google Ads] account or all performance insights that haven't been acted on<!-- verify --> for a [Microsoft® Advertising] account. Information for each entry includes the recommendation/insight details and the entities affected. For [!DNL Google Ads] accounts, predicted increases to metrics are highlighted in green.<!-- anything similar for MS? -->
 
   ![Recommendations UI](/help/search-social-commerce/assets/recommendations-ui.png "Recommendations UI")
 
   The data is available in real time when you open the view. To refresh the data, click ![Refresh](/help/search-social-commerce/assets/refresh.png "Refresh") on the bottom left of the page.
 
-* For [!DNL Google Ads] accounts:
-
-  * View recommendation details, and directly apply or dismiss a recommendation.
+* View recommendation or insight details, and directly apply or dismiss a recommendation or insight.
   
-  * View a log of each recommendation that was applied for the account, including the affected entities, who applied the recommendation, and the time stamp.
-
-* For [Microsoft® Advertising] accounts, open the [!DNL Microsoft® Advertising] editor, from which you can act on a specific insight.
+* View a log of each recommendation or insight that was applied for the account, including the affected entities, who applied the recommendation or insight, and the time stamp.
 
 >[!NOTE]
 >
@@ -74,9 +70,17 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Search partners opt in] | Expand reach with [!DNL Google] search partners |
 | | [!UICONTROL Use broad match keyword] | Use broad match for conversion-based campaigns with fully automated conversion-based bidding |
 
+## Supported insight types for [!DNL Microsoft Advertising]
+
+| Recommendation Category | Recommendation Type | Description |
+| --- | --- | --- |
+| [!UICONTROL Ads and extensions]  | [!UICONTROL Responsive search ad] | Add new responsive search ad |
+| [!UICONTROL Bidding and budgets]  | [!UICONTROL Campaign budget] | Fix campaigns limited by budget |
+| [!UICONTROL Keywords and targeting]  | [!UICONTROL Keyword] | Add new keywords from all sources |
+
 >[!MORELIKETHIS]
 >
 >* [View your publisher recommendations and performance insights](recommendation-view.md)
->* [Apply or dismiss a [!DNL Google Ads] recommendation](google-recommendation-apply-dismiss.md)
->* [View the recommendations log for a [!DNL Google Ads] account](google-recommendation-view-log.md)
+>* [Apply or dismiss a publisher recommendation or performance insight](recommendation-apply-dismiss.md)
+>* [View the publisher recommendations or insights log for an account](recommendation-view-log.md)
 >* [Best practices for using publisher recommendations and insights with portfolios](recommendation-best-practices.md)
