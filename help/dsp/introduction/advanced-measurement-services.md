@@ -35,7 +35,7 @@ The following measurement solution packages are available to validate the succes
 
   * **Cross-ID People-Based Reach**
 
-      Quantify the unique reach and overlap between cookies and RampIDs, as well as the cost per metrics by ID type. Prove the effectiveness of testing RampIDs in finding incremental reach relative to cookie-based segments across multiple digital environments, such as desktop, mobile, native, and audio.
+      Quantify the unique reach and overlap between cookies and RampIDs, as well as the cost per metric by ID type. Prove the effectiveness of testing RampIDs in finding incremental reach relative to cookie-based segments across multiple digital environments, such as desktop, mobile, native, and audio.
 
 * **[!DNL Dynata] Panel-Based Surveys**
 
