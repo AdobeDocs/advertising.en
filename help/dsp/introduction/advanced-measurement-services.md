@@ -33,9 +33,9 @@ The following measurement solution packages are available to validate the succes
 
      Understand how audiences and tactics overlap at a person level, including exposures across multiple digital environments, such as desktop, mobile, native, and audio.
 
-* **Cross-ID People-Based Reach**
+  * **Cross-ID People-Based Reach**
 
-    Quantify the unique reach and overlap between cookies and RampIDs, as well as the cost per metrics by ID type. Prove the effectiveness of testing RampIDs in finding incremental reach relative to cookie-based segments across multiple digital environments, such as desktop, mobile, native, and audio.
+      Quantify the unique reach and overlap between cookies and RampIDs, as well as the cost per metrics by ID type. Prove the effectiveness of testing RampIDs in finding incremental reach relative to cookie-based segments across multiple digital environments, such as desktop, mobile, native, and audio.
 
 * **[!DNL Dynata] Panel-Based Surveys**
 
@@ -70,10 +70,6 @@ The following measurement solution packages are available to validate the succes
   * Household-Based Reach, Frequency, and Conversion Measurement
 
      Any client looking to understand reach/incremental reach and cost-based efficiencies and/or conversion metrics across multiple digital tactics
-
-  * Cross-ID People-Based Reach
-
-    Any client looking to quantify the unique reach and overlap between cookies and RampIDs and the cost per metric by ID type across multiple digital tactics
 
   * Cross-Screen Reach, Frequency, and Conversion Measurement
 
