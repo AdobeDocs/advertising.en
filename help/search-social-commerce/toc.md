@@ -157,8 +157,8 @@ index: yes
       + Product groups {#product-groups}
         + [About product groups](/help/search-social-commerce/campaign-management/campaigns/product-group-about.md)
         + [Manage product groups](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md)
-        + [Google Ads product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-google.md)
-        + [Microsoft Advertising product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md)
+        + [[!DNL Google Ads] product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-google.md)
+        + [[!DNL Microsoft Advertising] product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md)
         + [Shopping campaign product filters](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md)
       + Placements {#placements}
         + [About placements](/help/search-social-commerce/campaign-management/campaigns/placement-about.md)
