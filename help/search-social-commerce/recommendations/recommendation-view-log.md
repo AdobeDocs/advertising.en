@@ -8,6 +8,8 @@ feature: Search Recommendations
 
 *[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts*
 
+*Beta feature for [!DNL Microsoft® Advertising] accounts*
+
 You can view a log of each recommendation that was applied for a [!DNL Google Ads] or [!DNL Microsoft Advertising] account. The information includes the recommendation or insight category, recommendation or insight type, affected entities, the user who applied the recommendation or insight, and the time stamp.
 
 Dismissed recommendations and insights aren't available from the ad network.
