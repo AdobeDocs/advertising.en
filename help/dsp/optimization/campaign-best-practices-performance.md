@@ -16,7 +16,7 @@ DSP can optimize your performance-focused campaigns. See the following best prac
 
 ## Step 1 - Define Your Goal
 
-It's important to understand the goal of the campaign, such as to achieve the highest possible ROAS or the lowest possible CPA. Performance campaigns have [optimization goals](/help/dsp/optimization/optimization-goals.md) that end with "[!UICONTROL - Custom Goal]" (such as "[!UICONTROL Highest ROAS - Custom Goal]"). For each package in the campaign, you'll specify the optimization goal accordingly.
+It's important to understand the goal of the campaign, such as to achieve the highest possible ROAS or the lowest possible CPA. Performance campaigns have the [optimization goals](/help/dsp/optimization/optimization-goals.md) "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]." For each package in the campaign, you'll specify the optimization goal accordingly.
 
 ![optimization goal](/help/dsp/assets/optimization-goals.png)
 
