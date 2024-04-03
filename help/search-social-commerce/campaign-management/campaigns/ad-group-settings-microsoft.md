@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Microsoft Advertising] ad group settings'
-description: Reference the settings for [!DNL Microsoft Advertising] ad groups.
+title: '[!DNL Microsoft® Advertising] ad group settings'
+description: Reference the settings for [!DNL Microsoft® Advertising] ad groups.
 exl-id: 5d788e5b-ddf3-4f4e-8e8d-98e3235cb187
 feature: Search Campaign Management
 ---
-# [!DNL Microsoft Advertising] ad group settings
+# [!DNL Microsoft® Advertising] ad group settings
 
 ## [!UICONTROL Adgroup Details]
 
@@ -26,9 +26,9 @@ feature: Search Campaign Management
 
 **[!UICONTROL Networks]:** (Search ads) How and where to place ads within the ad group:
 
-* *[!UICONTROL Only Microsoft Advertising and Yahoo! websites]* (the default): To place bids for ads on the search network.
+* *[!UICONTROL Only Microsoft® Advertising and Yahoo! websites]* (the default): To place bids for ads on the search network.
 
-* *[!UICONTROL Only Microsoft Advertising and Yahoo! syndicated search partners]:* To place bids for ads on syndicated partner sites.
+* *[!UICONTROL Only Microsoft® Advertising and Yahoo! syndicated search partners]:* To place bids for ads on syndicated partner sites.
 
 * *[!UICONTROL Content network]:* Deprecated
 
@@ -52,7 +52,7 @@ feature: Search Campaign Management
 
 {{$include /help/_includes/location-targets.md}}
 
-For [!DNL Microsoft Advertising] ad groups in the audience network, bid modifiers for location targets aren't optimized in standard portfolios with the "[!UICONTROL Auto-optimize Bid Adjustment Values]" setting.
+For [!DNL Microsoft® Advertising] ad groups in the audience network, bid modifiers for location targets aren't optimized in standard portfolios with the "[!UICONTROL Auto-optimize Bid Adjustment Values]" setting.
 
 <!-- **[!UICONTROL Devices]:** -->
 
@@ -116,7 +116,7 @@ For [!DNL Microsoft Advertising] ad groups in the audience network, bid modifier
 
 **[!UICONTROL Negative Websites]:** (Campaigns on the display/native network only; optional) Sites on the display network on which you don't want your ads to be displayed. Enter a valid URL, such as www.example.com. To specify multiple strings, separate them with commas or enter them on separate lines.
 
-For information about availability, see Microsoft Advertising help on "[Prevent ads from appearing on specific websites](https://help.ads.microsoft.com/#apex/bae/en/14061/0)."
+For information about availability, see [!DNL Microsoft® Advertising] help to "[Prevent ads from appearing on specific websites](https://help.ads.microsoft.com/#apex/bae/en/14061/0)."
 
 >[!MORELIKETHIS]
 >
