@@ -18,7 +18,7 @@ exl-id: 8a9d99b1-c90b-4a1c-9516-85edc9024a7c
 
    * ([!DNL Google Ads] accounts) In the [!UICONTROL Actions] column for the row, click **[!UICONTROL View]**. If the recommendation has sub-recommendations, then click **[!UICONTROL View]** next to the sub-recommendation. 
 
-     You can optionally [apply or dismiss](google-recommendation-apply-dismiss.md) the ad network's recommendations.
+     You can optionally [apply or dismiss](recommendation-apply-dismiss.md) the ad network's recommendations.
 
    * ([!DNL Microsoft® Advertising] accounts) When the [!UICONTROL Actions] column for the row includes an action, click **[!UICONTROL Click here]** to open the [!DNL Microsoft® Advertising] editor, from which you can act on the insight.
 
@@ -27,6 +27,6 @@ exl-id: 8a9d99b1-c90b-4a1c-9516-85edc9024a7c
 >[!MORELIKETHIS]
 >
 >* [About publisher recommendations and insights support](recommendation-support.md)
->* [Apply or dismiss a [!DNL Google Ads] recommendation](google-recommendation-apply-dismiss.md)
->* [View the recommendations log for a [!DNL Google Ads] account](google-recommendation-view-log.md)
+>* [Apply or dismiss a publisher recommendation or performance insight](recommendation-apply-dismiss.md)
+>* [View the publisher recommendations or insights log for an account](recommendation-view-log.md)
 >* [Best practices for using publisher recommendations and insights with portfolios](recommendation-best-practices.md)
