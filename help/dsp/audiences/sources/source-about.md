@@ -24,16 +24,16 @@ You can create segments with IDs from the following universal ID partners. <!-- 
 
 * Authenticated (deterministic) IDs using hashed email addresses:
 
-  * [[!DNL LiveRamp] [!DNL RampIDs]](https://liveramp.com/identity-resolution): For retargeting logged-in users and for measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md). [!DNL RampIDs] are available for users in North America, Australia, and New Zealand.<!-- Add fee info when available -->
+  * [[!DNL LiveRamp] [!DNL RampIDs]](https://liveramp.com/identity-resolution): For retargeting logged-in users and for measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md). [!DNL RampIDs] are available for users in North America, Australia, and New Zealand. Fees are USD 0.15 per display ad and USD 0.25 per video ad.
 
     Measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match conversions from the IDs to view-throughs. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
   <!-- Will later require yet another JS tag too -->
 
-  * [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).<!-- Add fee info when available -->
+  * [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2). Fees are USD 0.15 per display ad and USD 0.25 per video ad.
 
 * Probabilistic (unauthenticated) IDs using hashed email addresses:
 
-  * [[!DNL ID5] IDs](https://id5.io): For retargeting unauthenticated site traffic, prospecting using third-party data, and measurement for both using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).<!-- What countries/geos are these available for? Everywhere?--><!-- no fee -->
+  * [[!DNL ID5] IDs](https://id5.io): For retargeting unauthenticated site traffic, prospecting using third-party data, and measurement for both using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).<!-- What countries/geos are these available for? Everywhere?--> ID5 IDs are available for no fee.
 
     ID5 creates an ID by stitching together user signals (hashed email address) with various browser signals (such as IP address and timestamp).
 
