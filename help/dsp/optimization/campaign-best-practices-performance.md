@@ -16,7 +16,7 @@ DSP can optimize your performance-focused campaigns. See the following best prac
 
 ## Step 1 - Define Your Goal
 
-It's important to understand the goal of the campaign, such as to achieve the highest possible ROAS or the lowest possible CPA. Performance campaigns have [optimization goals](/help/dsp/optimization/optimization-goals.md) that end with "[!UICONTROL - Custom Goal]" (such as "[!UICONTROL Highest ROAS - Custom Goal]"). For each package in the campaign, you'll specify the optimization goal accordingly.
+It's important to understand the goal of the campaign, such as to achieve the highest possible ROAS or the lowest possible CPA. Performance campaigns have the [optimization goals](/help/dsp/optimization/optimization-goals.md) "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]." For each package in the campaign, you'll specify the optimization goal accordingly.
 
 ![optimization goal](/help/dsp/assets/optimization-goals.png)
 
@@ -69,7 +69,7 @@ Also, use the following settings.
 
 * **Budget:** DSP will always try to allocate 100% of the package budget evenly between all placements in a package. If a placement has low spend or no spend, we recommend budget capping the placement to allow more of the budget to allocate to placements with scale. Allow 24-48 hours for budget changes to calibrate.
 
-* **Optimization Goals:** Use one of the two performance optimization goals, *[!UICONTROL Highest ROAS]* or *[!UICONTROL Lowest CPA]*, depending on the package goal. These goals auto-optimize the package towards the Highest ROAS or Lowest CPA placements, respectively.
+* **Optimization Goals:** Use one of the two performance optimization goals, *[!UICONTROL Highest Return on Ad Spend]* or *[!UICONTROL Lowest Cost per Acquisition]*, depending on the package goal. These goals auto-optimize the package towards the Highest ROAS or Lowest CPA placements, respectively.
 
 * **Custom Goals:**
   * If a new package has the same goal as an existing package, you can optionally link the existing package so that the algorithm can use the existing machine learning data.

@@ -72,7 +72,7 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
        If you don't see the call to Adobe Advertising, then it might not be the first page view of your visit. For testing purposes, you can remove the cookie so that the next call will be the first page view for the corresponding visit:
 
     1. On the Application tab, find the `adcloud` cookie, and verify that the cookie contains `_les_v` (last visit) with a value of `y` and a UTC epoch timestamp that expires in 30 minutes.
-        1. Delete the `ad cloud` cookie and refresh the page.
+        1. Delete the `adcloud` cookie and refresh the page.
 
 1. (Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code) Filter on `/b/ss` to see the Analytics hit.
 

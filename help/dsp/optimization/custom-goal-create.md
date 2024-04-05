@@ -58,7 +58,7 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
 
         1. At the bottom of the settings, click **[!UICONTROL Save]**.
 
-Once you create an objective, you can assign it to a DSP package as a custom goal when the optimization goal ends with "[!UICONTROL - Custom Goal]" (such as "[!UICONTROL Highest ROAS - Custom Goal]").
+Once you create an objective, you can assign it to a DSP package as a custom goal when the optimization goal is either "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]."
 
 >[!TIP]
 >
