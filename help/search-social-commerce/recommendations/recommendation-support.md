@@ -20,13 +20,13 @@ feature: Search Recommendations
 
 Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights], you can:
 
-* See at a glance all supported recommendations that haven't been acted on for a [!DNL Google Ads] account or all performance insights that haven't been acted on<!-- verify --> for a [Microsoft® Advertising] account. Information for each entry includes the recommendation/insight details and the entities affected. For [!DNL Google Ads] accounts, predicted increases to metrics are highlighted in green.<!-- anything similar for MS? -->
+* See at a glance all supported recommendations or performance insights that haven't been acted on for an account. Information for each entry includes the recommendation/insight details and the entities affected. Predicted increases to metrics are highlighted in green.<!-- anything similar for MS? -->
 
   ![Recommendations UI](/help/search-social-commerce/assets/recommendations-ui.png "Recommendations UI")
 
   The data is available in real time when you open the view. To refresh the data, click ![Refresh](/help/search-social-commerce/assets/refresh.png "Refresh") on the bottom left of the page.
 
-* View recommendation or insight details, and directly apply or dismiss a recommendation or insight.
+* View details about a recommendation or insight, and directly apply or dismiss the recommendation or insight.
   
 * View a log of each recommendation or insight that was applied for the account, including the affected entities, who applied the recommendation or insight, and the time stamp.
 
