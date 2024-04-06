@@ -1,6 +1,8 @@
 # Location Targets field in some campaign settings and in MS ad group settings
 
-**[!UICONTROL Location Targets]:** Specific user geographical locations to include or exclude as targets. By default, all locations are targeted. You can include and exclude users in any combination of locations. Exclusions always override inclusions.
+<!-- MS performance max campaigns, MSA ad groups, Baidu campaigns, YJP campaigns -->
+
+**[!UICONTROL Location Targets]:** (When available) Specific user geographical locations to include or exclude as targets. By default, all locations are targeted. You can include and exclude users in any combination of locations. Exclusions always override inclusions.
 
 * To target all locations, don't select any locations.
 
