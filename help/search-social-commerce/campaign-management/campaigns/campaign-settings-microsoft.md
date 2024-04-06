@@ -25,7 +25,17 @@ the campaign may contain:
 
 * *[!UICONTROL Audience Video]:* (Beta feature) Shows standard video ads on the audience network.
 
-* *[!UICONTROL Performance Max]:* (Beta feature) Shows multiple ad types across all networks. Assign asset groups separately within the [!DNL Microsoft® Advertising] ad editor.
+* *[!UICONTROL Performance Max]:* (Beta feature) Shows multiple ad types across all networks using [!DNL Microsoft Advertising] smart bidding. Within the campaign settings, you must specify one or more asset groups, which include images, logos, headlines, descriptions, an optional call to action, and audience signals. The ad network automatically combines the assets to serve ads based on the channel.
+
+<!--
+
+  **Notes:**
+  
+  * Only required settings are available. For optional settings, log in to the [!DNL Microsoft Advertising] ad editor.
+
+  * Hybrid optimization is supported. Bid strategy targets and campaign budgets are set at the campaign level.
+  
+  -->
 
 ## [!UICONTROL Campaign Details]
 
@@ -100,7 +110,6 @@ Once you link the campaign to a store and save the settings, you can't change th
 
 {{$include /help/_includes/merchant-id.md}}
 
-
 **[!UICONTROL Products]:** (Audience campaigns linked to a merchant center store only) The products to advertise. By default, *[!UICONTROL All products]* is selected. To advertise only products with specific attributes, select *[!UICONTROL Filter products]* and specify up to seven product dimension-and-attribute combinations on which to filter your products. All specified values must be applicable for ads to appear for the product. For example, to show ads for Acme pet supplies, you might create the filters `Custom Label 1=animals`, `Category=pet supplies`, and `Brand=Acme Pet Supplies`.
 
 <!-- **[!UICONTROL Inventory Filter]:** -->
@@ -108,6 +117,8 @@ Once you link the campaign to a store and save the settings, you can't change th
 {{$include /help/_includes/inventory-filter.md}}
 
 ## [!UICONTROL Campaign Targeting]
+
+**[!UICONTROL Languages]:** (Performance max campaigns only) The language of the ad, which should match the language of the sites on which your ad will appear. [!DNL Microsoft Advertising] determines a user's language from various signals, including the user's query, the publisher's country, and the user's language setting.
 
 <!-- **[!UICONTROL Location Targets]:** -->
 
@@ -199,31 +210,9 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 **[!UICONTROL Asset Group Status]:** The status of the asset group: *[!UICONTROL Active]* or *[!UICONTROL Paused]*.
 
-**[!UICONTROL Final URL]:** The final URL for all ads created from the asset group. <!-- For campaigns created within Search, Social, & Commerce, final URL expansion is automatically enabled for the campaign, and the ad network replaces this value with a more relevant landing page based on the user's search query and intent, and also customizes the headline based on the landing page content. You can disable final URL expansion, or exclude specific URLs from expansion, from within the ad network's editor. -->
+**[!UICONTROL Final URL]:** The final URL for all ads created from the asset group.
 
-**[!UICONTROL Images]:** Up to 15 images for the ad, including the following sizes: 1) at least three square images, 2) at least three landscape images, and 3) at least one portrait image. See the [[!DNL Microsoft Advertising] image guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
-
-* To upload images:
-
-  1. On the [!UICONTROL Upload from Device] tab, click **[!UICONTROL +]** and select images from your device or network.
-
-  1. For each image:
-
-     1. Select the aspect ratio.
-   
-     1. Drag and position the crop box as necessary to select the viewable part of the image, and resize the viewable part of the image as necessary when possible.
-
-     1. (Optional) Select additional aspect ratios, and optionally reposition and resize the image as necessary for each selected aspect ratio.
-   
-        One asset is created for each selected aspect ratio.
-
-     1. Click **[!UICONTROL Proceed]**.
-
-  1. When you're finished specifying images, click **[!UICONTROL Upload]**.
-
-* To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
-
-<!-- VERIFY THAT MS HAS LOGOS. See also logo extension guidelines, although those are ad extensions and must be different: https://help.ads.microsoft.com/#apex/ads/en/60179 -->**[!UICONTROL Logos]:** At least one square (1:1) logo and one landscape (4:1) logo. You can include up to five of each size. See the [[!DNL Microsoft Advertising] asset guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Images]:** Up to 20 images for the ad, including at least one square image and one landscape image. See the [[!DNL Microsoft Advertising] image guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To upload images:
 
@@ -245,19 +234,29 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 * To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
 
-**[!UICONTROL Videos]:** (Optional) At least one, and up to five, [!DNL YouTube] videos that are at least 10 seconds long. You can either enter URLs or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Logos]:** At least one logo. You can include up to five. See the [[!DNL Microsoft Advertising] asset guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
-* To enter URLs:
+* To upload images:
 
-  1. On the [!UICONTROL Enter Video Url] tab, enter an URL.
+  1. On the [!UICONTROL Upload from Device] tab, click **[!UICONTROL +]** and select images from your device or network.
+
+  1. For each image:
+
+     1. Select the aspect ratio.
+   
+     1. Drag and position the crop box as necessary to select the viewable part of the image, and resize the viewable part of the image as necessary when possible.
+
+     1. (Optional) Select additional aspect ratios, and optionally reposition and resize the image as necessary for each selected aspect ratio.
+   
+        One asset is created for each selected aspect ratio.
+
+     1. Click **[!UICONTROL Proceed]**.
+
+  1. When you're finished specifying images, click **[!UICONTROL Upload]**.
+
+* To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
   
-  1. (Optional) To add another URL, click **[!UICONTROL + Add]** and enter the URL.
-
-* To select videos from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the videos.
-  
-**[!UICONTROL Headlines]:** At least three, and up to five, short headlines with a maximum of 30 characters each. At least one headline must be at least 15 characters or less. If the campaign-level option to enable final URL expansion is set within [!DNL Microsoft Advertising], then [!DNL Microsoft Advertising] replaces this value with a custom headline based on the landing page content.
-
- You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Headlines]:** At least three, and up to 15, short headlines with a maximum of 30 characters each. You can either enter text or select assets from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To enter text:
 
@@ -267,7 +266,7 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 * To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
 
-**[!UICONTROL Long Headlines]:** At least one, and up to five, long headlines with a maximum of 90 characters each. You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Long Headlines]:** At least one, and up to five, long headlines with a maximum of 90 characters each. You can either enter text or select assets from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To enter text:
 
@@ -277,7 +276,7 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 * To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
 
-**[!UICONTROL Descriptions]:** At least two, and up to four, descriptions with a maximum of 90 characters each. At least one description must be at least 30 characters or less. You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Descriptions]:** At least two, and up to five, descriptions with a maximum of 90 characters each. You can either enter text or select assets from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To enter text:
 
@@ -287,20 +286,20 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 * To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
 
-**[!UICONTROL Call to Action]:** The call to action to include in the ad. By default, *[!UICONTROL Automated]* is selected, and [!DNL Microsoft Advertising] selects the call to action. You can optionally choose a different action.
+**[!UICONTROL Call to Action]:** The call to action to include in the ad. By default, *[!UICONTROL Act Now]* is selected.
 
-**[!UICONTROL Business Name]:** The business name, with a maximum of 25 characters.
+**[!UICONTROL Business Name]:** The business name, with a maximum of 25 characters. It can't contain scripts, HTML, or other markup language.
 
 **[!UICONTROL Audience Signal]:** (Optional) [!DNL Microsoft Advertising] audiences to use as audience signals for the campaign. [!DNL Microsoft Advertising] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
 
 >[!NOTE]
->Audience signals are different from [campaign-level and ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
+>Audience signals are different from [ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
+
+<!-- **[!UICONTROL Display Path 1]**, **[!UICONTROL Display Path 2]:** -->
+
+{{$include /help/_includes/display-path1-2.md}}
 
 **[!UICONTROL Add new asset group]:** Allows you to specify another asset group.
-
-
-
-
 
 ## [!UICONTROL Conversion Goals]
 
