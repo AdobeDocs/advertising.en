@@ -107,10 +107,7 @@ index: yes
   + [How [!DNL DSP] Optimizes Your Campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md)
   + [Placement-level Pre-bid Filters and How to Use Them](/help/dsp/optimization/optimization-pre-bid-filters.md)
-  + Custom Goals {#custom-goals}
-    + [About Custom Goals](/help/dsp/optimization/custom-goal-about.md)
-    + [Create a Custom Goal](/help/dsp/optimization/custom-goal-create.md)
-    + [Best Practices for Building Custom Goals](/help/dsp/optimization/custom-goal-best-practices.md)
+  + [Custom Goals](/help/dsp/optimization/custom-goal.md)
   + [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
   + [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
 + Audiences {#audiences}
