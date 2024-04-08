@@ -57,7 +57,7 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
        
 In the DSP package settings for packages that use the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]," the objective name is now included in the [!UICONTROL Custom Goals] list. When you select the objective as the custom goal for a package, the [!UICONTROL Conversion Metric] list includes all goal metrics for the objective.
 
-## Best Practices for Building a Custom Goal [#custom-goal-best-practices]
+## Best Practices for Building a Custom Goal {#custom-goal-best-practices}
 
 ### Custom Goals with a Single Metric
 
