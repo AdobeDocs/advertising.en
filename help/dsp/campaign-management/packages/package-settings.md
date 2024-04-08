@@ -53,7 +53,7 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 
 **[!UICONTROL Consider Only Click Conversions for Model Learning]:** (Optional; packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) Tells the optimization model to learn only from click-based conversions. Otherwise, the optimization model learns from both click- and impression-based conversions.
 
-**[!UICONTROL Conversion Metric]:** (Optional; packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) The final conversion event (such as signups) or revenue event/sale amount (such as purchases and purchase values) to use for computing the return on ad spend or the cost per acquisition. Select from a list of all events mapped to the selected custom goal.
+**[!UICONTROL Conversion Metric]:** (Optional; packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) The final conversion event (such as signups) or revenue event/sale amount (such as purchases and purchase values) to use for computing the return on ad spend or the cost per acquisition. Select from a list of all primary events ("goal metrics") mapped to the selected custom goal. If the list is empty, then edit the custom goal to include at least one of the underlying events as a goal metric. 
 
 **[!UICONTROL Package Goal Type]:** (Packages with custom optimization goals only) The purpose of the package. This setting helps determine how to optimize the package:
 
