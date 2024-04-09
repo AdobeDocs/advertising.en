@@ -17,7 +17,7 @@ the campaign may contain:
 
 * *[!UICONTROL Audience]:* Shows native/display ads on the [!DNL Microsoft® Audience Network]. You can either a) automatically generate feed-based ads by linking the campaign to a merchant center store in the [!UICONTROL Shopping Settings] section or b) create responsive ads with text assets and uploaded images. Both options require you to create ad groups with user targeting.
 
-* *[!UICONTROL Shopping Campaigns for Brands]:* (Beta feature) Promotes your products through linked retailers across the search and audience networks. You can create child ad groups and product groups (apps to promote), and optional product ads for the campaign; [!DNL Microsoft® Advertising] automatically creates ads for the product groups.
+* *[!UICONTROL Shopping Campaigns for Brands]:* (Beta feature) Promotes your products through linked retailers across the search and audience networks. You can create child ad groups and product groups (apps to promote), and optional product ads for the campaign; [!DNL Microsoft® Advertising] automatically creates ads for the product groups. For shopping campaigns for brands, use the bid strategy [!UICONTROL Manual CPC]; for shopping promotions for brands, use the bid strategy [!UICONTROL Cost per Sale].
 
 * *[!UICONTROL Microsoft® Store Ads Campaign]:* (Beta feature) Promotes your apps and games that are available in the [!DNL Microsoft® Store]. You can create child ad groups, product groups, and optional product ads for the campaign; [!DNL Microsoft® Advertising] automatically creates ads for the product groups.
 
@@ -62,6 +62,10 @@ the campaign may contain:
 {{$include /help/_includes/delivery-method.md}}
 
 **[!UICONTROL Bid strategy]:** The bid strategy for the campaign:
+
+* *[!UICONTROL Cost per Sale]:* (Shopping campaigns only) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on the **[!UICONTROL Target CPS]** (cost per sale). You pay only when a click on your product ad results in a sale within 24 hours. **Note:** Use this option for campaigns in hybrid portfolios but not standard portfolios.<!-- Verify all -->
+
+  Once you save a shopping campaign for brands with this bid strategy, you can't change the bid strategy. For other shopping campaign types, this strategy is available only for new campaigns.
 
 * *[!UICONTROL CPV]* (Audience CTV video campaigns only) Uses the cost-per-view (CPV) model. <!-- Campaigns with this bid strategy aren't optimized when they're included in portfolios. -->
 
@@ -199,10 +203,6 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 <!-- **[!UICONTROL Append Parameters]:** -->
 
 {{$include /help/_includes/append-parameters.md}}
-
-
-
-<!-- VERIFY ALL OF THESE -- copied from Google campaign settings and just replaced "GGL" with "MS" -->
 
 ## [!UICONTROL Asset Groups] (per asset group)
 
