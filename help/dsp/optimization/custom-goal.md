@@ -68,6 +68,7 @@ The following examples show how you might configure goals that target a single c
 If your campaign goal is revenue ([!UICONTROL Highest Return on Ad Spend (ROAS)]), and revenue from all device types is equally important to you, then include the "[!UICONTROL Revenue]" metric with a non-mobile weight (for conversions from a non-mobile device) of one (1) and a mobile weight (for conversions from a mobile device) of one (1). Select the metric type *[!UICONTROL Goal]*.
 
 <!-- update image or delete 
+
 ![example of a ROAS custom goal with a single conversion metric](/help/dsp/assets/custom-goal-roas.png)
 
 -->
