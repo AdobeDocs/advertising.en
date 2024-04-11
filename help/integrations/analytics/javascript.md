@@ -25,7 +25,7 @@ On the first page view of a visit to the site, the Adobe Advertising JavaScript 
 
 All users must deploy the standard JavaScript code.
 
-Users who want to convert first-party segments from their customer data platforms to [!DNL RampIDs] or [!DNL ID5] IDs [!!!!VERIFY that it's not needed for importing segments directly from LiveRamp] must also deploy ID partner-specific Javascript code to match conversions to view-throughs.
+Users who want to convert first-party segments from their customer data platforms to [!DNL RampIDs] or [!DNL ID5] IDs [!!!!VERIFY that it's not needed for importing segments directly from LiveRamp] must also deploy ID partner-specific JavaScript code to match conversions to view-throughs.
 
 ### The Standard Code
 
