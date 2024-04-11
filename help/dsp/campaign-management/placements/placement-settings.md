@@ -312,6 +312,8 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
 
 * *[!UICONTROL Universal ID Beta]*: Targets user privacy-focused IDs. The available options are determined by the selected geographical targets in the [!UICONTROL Geo-Targeting] section. Use with [segments for which DSP converts your PII to universal IDs](/help/dsp/audiences/sources/source-about.md). <!-- **Important:** Make sure that the necessary JavaScript conversion-tracking tag is deployed on your webpages XXX. -->
 
+  * *[!UICONTROL ID5]*: Targets [!DNL ID5] IDs created probabilistically using their email addresses.<!-- What countries/geos are these available for? Everywhere?--> ID5 IDs are available for no fee.
+
   * *[!UICONTROL RampID]*: Targets [!DNL LiveRamp] [!DNL RampIDs] of users logged into your site using their email addresses.<!-- Verify --> [!DNL RampIDs] are available for users in North America, Australia, and New Zealand.
   
   * *[!UICONTROL Unified ID2.0]*: Targets [!DNL Unified ID2.0] (UID2) IDs of users logged into your site using their email addresses.<!-- Verify -->[!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
