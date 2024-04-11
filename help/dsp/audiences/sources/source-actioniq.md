@@ -25,7 +25,7 @@ There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
    
    For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
-Segments are refreshed every 24 hours.<!-- verify -->
+Segments are refreshed every 24 hours.
 
 ## Step 2: 
 
