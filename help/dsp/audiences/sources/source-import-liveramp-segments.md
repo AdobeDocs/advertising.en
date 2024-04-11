@@ -6,25 +6,15 @@ exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
 ---
 # Manually Import Authenticated Segments from [!DNL LiveRamp]
 
-<!-- Title:
-Workflow to Manually Import Authenticated Segments from [!DNL LiveRamp]
-Manually Activate Authenticated Segments from [!DNL LiveRamp]
-Manually Activate Authenticated Segments from Universal ID partners
+You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. You can use imported segments for placement targeting. 
 
-If I change it, update filename, create a redirect from the old page to the new one, and update all x-refs.
--->
-
-You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. 
-
-<!-- 1. Probably selected by default for all users, but verifyContact `adcloud-support@adobe.com` to enable importing of [!UICONTROL LiveRamp] segments. Include the account name and applicable advertisers.  -->
-
-<!--Is this necessary for this process, too?
+<!--Is this first step relevant for this process? -->
 
 1. For measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md):
 
-   Measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match onsite events to ad impressions. Contact your Adobe Account Team to get the tag and instructions for where to implement it.
-
--->
+   1. Complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
+   
+   1. Deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match onsite events to ad impressions. Contact your Adobe Account Team to get the tag and instructions for where to implement it.
 
 1. Complete the following steps in the [!DNL Connect] dashboard:
 
