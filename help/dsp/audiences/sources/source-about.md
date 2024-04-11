@@ -6,7 +6,7 @@ exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 ---
 # About Activating Authenticated and Probabilistic  Segments from Your First-Party Audiences
 
-<!-- Title and description? This will eventually include non-authenticated segments with probabilistic IDs -->
+<!-- Title and description? -->
 
 DSP supports people-based, universal IDs for cookieless, single-device (not cross-device) targeting across digital formats supported by DSP.
 
@@ -20,16 +20,16 @@ Segment details include the size of each universal ID type as well as the size f
 
 ## Universal ID Types {#universal-id-types}
 
-You can create segments with IDs from the following universal ID partners. <!-- Verify -->Each of the segments is updated every 24 hours.
+Using your first-party data, you can create segments with IDs from the following universal ID partners.
 
 * Authenticated (deterministic) IDs using hashed email addresses:
 
-  * [[!DNL LiveRamp] [!DNL RampIDs]](https://liveramp.com/identity-resolution): For retargeting logged-in users and for measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md). [!DNL RampIDs] are available for users in North America, Australia, and New Zealand. Fees are USD 0.15 per display ad and USD 0.25 per video ad.
+  * [[!DNL LiveRamp] [!DNL RampIDs]](https://liveramp.com/identity-resolution): For retargeting logged-in users and for measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md). [!DNL RampIDs] are available for users in North America, Australia, and New Zealand. Fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered.
 
-    Measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match conversions from the IDs to view-throughs. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
+    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match conversions from the IDs to view-throughs. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
   <!-- Will later require yet another JS tag too -->
 
-  * [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2). Fees are USD 0.15 per display ad and USD 0.25 per video ad.
+  * [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2). Fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered.
 
 * Probabilistic (unauthenticated) IDs using hashed email addresses:
 
@@ -37,24 +37,22 @@ You can create segments with IDs from the following universal ID partners. <!-- 
 
     ID5 creates an ID by stitching together user signals (hashed email address) with various browser signals (such as IP address and timestamp).
 
-    Measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL ID5] on your webpages to match conversions from the IDs to view-throughs. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
+    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL ID5] on your webpages to match conversions from the IDs to view-throughs. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
     <!-- Will later require yet another JS tag too -->
 
-    <!--
     >[!NOTE]
     >
     >Third-party segments from [!DNL Eyeota] may automatically include ID5 IDs, in addition to users tracked by cookies or device IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
-    -->
 
 ### Reporting by Universal ID Type
-
-* **Segment details:** Segment details include the audience size by universal ID type and by device type.
 
 * **Custom reports:** Cost, impression, click, conversion, and frequency data by universal ID type is available in custom reports.
 
 * **[!DNL Analytics] reports:** Advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) who have implemented all required steps can see view-through conversions by universal ID type in [!DNL Analytics].
 
-## Supported Customer Data Platforms
+* **Segment details:** Segment details include the audience size by universal ID type and by device type.
+
+## Supported Customer Data Platforms for First-Party Segments
 
 DSP has established connectors to the following CDPs to quickly ingest your first-party segments.
 
@@ -90,15 +88,11 @@ When you create a placement, do the following:
 
   * In the [!UICONTROL Targeting] setting, select the universal ID type to target.
   
-    The setting includes the options "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," which may include the sub-options "[!UICONTROL RampID]" and "[!UICONTROL Unified ID2.0]." The actual sub-options are determined by the selected geographical targets.
+    The setting includes the options "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," which may include the sub-options "[!UICONTROL ID5]," "[!UICONTROL RampID]," and "[!UICONTROL Unified ID2.0]." The actual sub-options are determined by the selected geographical targets.
     
     You can select both "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," but you can select only one type of universal ID per placement. When you select both legacy IDs and universal IDs, bidding preference is given to universal IDs. 
 
 See "[Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)."
-
-<!--
-## Frequency 
--->
 
 ## Best Practices for Testing and Data Validation
 
@@ -126,11 +120,11 @@ See "[Placement Settings](/help/dsp/campaign-management/placements/placement-set
  
     >[!NOTE]
     >
-    >Frequency capping applies to an individual ID. When you target multiple ID types, you might be reaching the same user.
+    >Frequency capping applies to an individual ID. When a user has multiple ID types, you might be reaching that user more than you had expected.
 
 * Remember that the reach for authenticated audience segments is naturally smaller than the reach for cookie-based segments, and that using additional targeting options further decreases your reach. Be judicious about using granular targeting, especially by joining multiple targets with AND statements.
 
-<!-- Keep? If so, put this where? 
+<!-- Still true? If so, put this where? 
 
   * Currently, [!DNL RampIDs] aren't retrievable during on-site events. This means that certain custom goals, such as Lowest CPA and ROAS, aren't available with the use of authenticated segments. Use cookie-based segments only if you have a restrictive performance KPI.
 
