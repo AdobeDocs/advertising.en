@@ -22,10 +22,20 @@ You can collect your own first-party audience data by creating and implementing 
 
     1. For the **[!UICONTROL Segment Type]**, select *[!UICONTROL Custom]*.
 
-    1. Enter the **[!UICONTROL Segment Window]**, which is the number of days a user's cookie stays in the segment.
+    1. Enter the **[!UICONTROL Lookback Window]**, which is the number of days a user's cookie stays in the segment.
 
        The default window is 45 days. Enter a value from one (1) to 365.
 
+    1. Click **[!UICONTROL Advanced]** to expand the advanced settings, and then select the types of user identifiers that the segment tag will track:
+
+       * *[!UICONTROL Cookies]:* (The default) The segment tag will track cookies.
+
+       * [!UICONTROL Universal IDs (Beta)]:
+
+         * *[!UICONTROL ID5]:* The segment tag will track [!DNL ID5] IDs.
+
+         **[!UICONTROL Terms of Service]:** The terms of service agreement for using universal IDs. You or another user in the DSP account must accept the terms once before you can use universal IDs for a new ID type. For customers with managed service contracts, your Adobe Account Team will get your consent and accept the terms on your organization's behalf. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
+    
     1. Click **[!UICONTROL Save]**.
 
 1. Copy and implement tags to track the segment, as needed:
@@ -45,6 +55,10 @@ You can collect your own first-party audience data by creating and implementing 
         * To track users exposed to an ad unit on desktop or mobile devices:
 
             1. Copy the impression tracking tag, which is labeled "[!UICONTROL Desktop or mobile ads]."
+
+   1. (Tags for segments that track [!DNL ID5] IDs) In the copied tag, replace `ID5_PARTNER_ID` with the partner ID that [!DNL ID5] assigned to your organization.
+
+      If you don't know your partner ID, contact your Adobe Account Team.
 
 1. Add the tag to either the [!UICONTROL Pixel] tab for each relevant ad or to the [!UICONTROL Event Pixels] section of the [[!UICONTROL Tracking] settings for each relevant placement](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
