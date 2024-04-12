@@ -8,15 +8,23 @@ exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
 
 In DSP, you can create and manage audience segments and audience sets, which you can use as targets for your placements:
 
-* You can collect your own first-party audience data by creating and implementing segments. You can later retarget users in the segment with ads or prevent users in the segment from receiving ads. You can create the following types of segments:
+* Collect your own first-party audience data by creating and implementing segments. You can later retarget users in the segment with ads or prevent users in the segment from receiving ads. You can create the following types of segments:
 
-   * [Custom segments](/help/dsp/audiences/custom-segment-create.md) to track a) users exposed to ads from desktop and mobile devices and b) users who visit specific webpages.
+   * [Custom segments](/help/dsp/audiences/custom-segment-create.md) to track a) users exposed to ads from desktop and mobile devices and b) users who visit specific webpages. The tracking tag can track either cookie-based users or users associated with ID5 universal IDs.
 
    * [CCPA opt-out-of-sale segments](/help/dsp/audiences/ccpa-opt-out-segment-create.md) to track the users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). You can retrieve monthly reports of the user IDs from opt-out-of-sale requests.
 
       For more information about Adobe Advertising support for CCPA opt-out-of-sale requests, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
-* You can create an audience library of [reusable audiences](/help/dsp/audiences/reusable-audience-create.md). Saved audiences are composed of any of your available audience segments and any of your other saved audiences. Any changes you make to a saved audience are automatically applied to all placements that target or exclude the audience and to all other audiences that include the saved audience.
+* Collect<!-- wording --> and use universal IDs for cookieless targeting:
+
+  * Manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP.
+
+  * Allow DSP to import first-party segments from your customer data platform and translate them to supported universal ID types.
+  
+  * Include third-party segments that contain universal IDs in your placement targets without any extra steps.
+
+* Create an audience library of [reusable audiences](/help/dsp/audiences/reusable-audience-create.md). Saved audiences are composed of any of your available audience segments and any of your other saved audiences. Any changes you make to a saved audience are automatically applied to all placements that target or exclude the audience and to all other audiences that include the saved audience.
 
    Saved audiences allow media planners to group audiences as needed, by including and excluding multiple segments using complex Boolean logic. The size of each individual segment and the total audience size are indicated as you build an audience. Campaign executioners can then simply select one or more saved audiences as placement targets rather than manually configure audience targets for each placement.
 
@@ -24,11 +32,13 @@ Additional audience types are also available for placement targeting.
 
 ## Importing First-party and Third-party Data Segments
 
-DSP can import your own first-party data segments from your data management platform (DMP) and provide them to any set of advertisers, as needed.
+* DSP can pull in your Adobe Audience Manager and other [!DNL Adobe] audiences for targeting. For prerequisites and instructions, see "[Import Adobe Audience Manager Segments for Ad Targeting](/help/integrations/audience-manager/import-audiences.md).
 
-DSP is an integrated destination for [the [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), allowing you to share authenticated first-party segments with approved advertisers and users for campaign activation. To learn more about the Real-Time CDP integration, see the [Sources section](/help/dsp/audiences/sources/source-about.md).
+* DSP can import first-party data segments from your data management platform and provide them to any set of advertisers, as needed.
 
-DSP can also import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
+* DSP can translate first-party data segments from supported customer data platforms to segments with universal IDs using the [Sources feature](/help/dsp/audiences/sources/source-about.md).
+
+* DSP can import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
 
 Contact your Adobe Account Team for more information.
 
@@ -44,7 +54,7 @@ You can target your placements to all of the following types of audiences.
 
    * CCPA opt-out-of-sale audience segments for users who submitted opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA).
 
-* All of your imported first-party data segments.
+* All of your imported first-party data segments, including segments that were translated to universal IDs.
 
 * All of your imported custom third-party data segments.
 
@@ -96,13 +106,21 @@ The [!UICONTROL Segments] view also lists the following segment types:
 
    You can't edit or share custom segments that other users have shared with you.
 
-* All imported first-party segments available to the user.
+* All first-party segments imported as-is that are available to the user.
 
    You can't edit or share first-party segments that were shared with you. Contact your Adobe Account Team if you need to share first-party segments with additional users.
 
 * All custom third-party segments available to the user.
 
    You can't edit or share third-party segments that were shared with you. Contact your Adobe Account Team if you need to share third-party segments with additional users.
+
+### The Sources View
+
+In the [!UICONTROL Sources] view, you can configure sources for first-party segments in supported customer data platforms that you want to convert to segments containing specified universal ID types. The source settings will include an auto-generated source key, which you'll provide to your customer data platform to establish the connection.
+
+For more information about the supported customer data platforms, supported universal ID types, and the workflows to set up connections to each customer data platform, see "[About Sources](source-about.md)."
+
+The translated segments are available to include in reusable audiences and in placement settings for cookieless targeting.
 
 >[!MORELIKETHIS]
 >
