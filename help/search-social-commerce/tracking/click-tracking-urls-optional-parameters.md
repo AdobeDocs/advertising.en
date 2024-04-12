@@ -6,7 +6,7 @@ feature: Search Tracking
 ---
 # Optional tracking parameters for click-tracking URLs
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo Native], [!DNL Yahoo! Japan], and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan], and [!DNL Yandex] accounts only*
 
 Instead of using only the standard tracking parameters for a final URL or destination URL, you may add more parameters to track specific data for an ad network account. You can add add any combination of the following parameters in the account settings or the campaign settings:
 
