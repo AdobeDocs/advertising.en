@@ -8,6 +8,12 @@ exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 
 <!-- Title and description? -->
 
+<!-- Clarify -- Are segments being converted as segments, which you can use as-is? Or do you need to create your own segment-tracking tags for the ID types and implement them on the pages whose actions you want to retarget?
+I'm thinking that there are separate procedures for a) translating your existing segments to universal IDs, b) creating retargeting segments from users who visit specific webpages and who have specific universal ID types, and c) sending data to Analytics. For all, you need an agreement with the ID partner. For Analytics measurement and new segment creation, you need some kind of code (different types for each) on your webpages. But for custom segments, are they capturing anyone with an ID type who visit the page, or does the ID need to necessarily be one that's already associated with one of their imported segments (probably not)?
+
+Why would you create a custom segment with our tag, rather than using a segment that already exists in your customer data platform, which is pretty much the system of record?
+-->
+
 DSP supports people-based, universal IDs for cookieless, single-device (not cross-device) targeting across digital formats supported by DSP.
 
 * DSP can ingest your first-party segments comprised of hashed email IDs<!-- or universal IDs --> built within your customer data platform (CDP) and convert them to universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Move that info. to somewhere else? -->.
@@ -26,7 +32,7 @@ Using your first-party data, you can create segments with IDs from the following
 
   * [[!DNL LiveRamp] [!DNL RampIDs]](https://liveramp.com/identity-resolution): For retargeting logged-in users and for measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md). [!DNL RampIDs] are available for users in North America, Australia, and New Zealand. Fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered.
 
-    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match conversions from the IDs to view-throughs. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
+    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must register with [!DNL LiveRamp] to receive an additional JavaScript tag for [!DNL RampIDs] on your webpages to match conversions from the IDs to view-throughs.<!-- Contact your Adobe Account Team for instructions.--><!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
   <!-- Will later require yet another JS tag too -->
 
   * [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2). Fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered.
@@ -37,8 +43,7 @@ Using your first-party data, you can create segments with IDs from the following
 
     ID5 creates an ID by stitching together user signals (hashed email address) with various browser signals (such as IP address and timestamp).
 
-    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must deploy a second JavaScript tag for [!DNL ID5] on your webpages to match conversions from the IDs to view-throughs. Contact your Adobe Account Team to get the tag and instructions for where to implement it.<!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
-    <!-- Will later require yet another JS tag too -->
+    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). You also must sign an agreement with [!DNL ID5] and set a parameter within your existing JavaScript tracking tags. <!-- Contact your Adobe Account Team for instructions. -->
 
     >[!NOTE]
     >
