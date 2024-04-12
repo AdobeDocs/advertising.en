@@ -318,7 +318,7 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
   
   * *[!UICONTROL Unified ID2.0]*: Targets [!DNL Unified ID2.0] (UID2) IDs of users logged into your site using their email addresses.<!-- Verify -->[!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
 
-* *[!UNCONTROL ]*: Targets [[!DNL ID5] IDs](https://id5.io) of users logged into your site using their email addresses.<!-- Verify --><!-- Clarify if available for users everywhere or only in specific geos --> <!-- **Note:** Third-party segments from [!DNL Eyeota] may include ID5 IDs. -->
+* *[!UNCONTROL ID5]*: Targets [[!DNL ID5] IDs](https://id5.io) of users logged into your site using their email addresses.<!-- Verify --><!-- Clarify if available for users everywhere or only in specific geos --> <!-- **Note:** Third-party segments from [!DNL Eyeota] may include ID5 IDs. -->
 
   **[!UICONTROL Terms of service]**: The terms of service agreement for using universal IDs. You or another user in the DSP account must accept the terms once before you can convert data to a new ID type. For customers with managed service contracts, your Adobe Account Team will get your consent and accept the terms on your organization's behalf. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
   
