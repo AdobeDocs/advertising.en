@@ -12,6 +12,8 @@ exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 I'm thinking that there are separate procedures for a) translating your existing segments to universal IDs, b) creating retargeting segments from users who visit specific webpages and who have specific universal ID types, and c) sending data to Analytics. For all, you need an agreement with the ID partner. For Analytics measurement and new segment creation, you need some kind of code (different types for each) on your webpages. But for custom segments, are they capturing anyone with an ID type who visit the page, or does the ID need to necessarily be one that's already associated with one of their imported segments (probably not)?
 
 Why would you create a custom segment with our tag, rather than using a segment that already exists in your customer data platform, which is pretty much the system of record?
+
+Also, for retargeting using a custom segment, the playbook says "2.	ID5 shares customer specific tag and an advertiser specific ID5 “partner ID” back with the customer."  Is that tag separate from the segment tag you get from our UI, which comes in a later step?"
 -->
 
 DSP supports people-based, universal IDs for cookieless, single-device (not cross-device) targeting across digital formats supported by DSP.
