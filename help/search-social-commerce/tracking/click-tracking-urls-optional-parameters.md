@@ -60,15 +60,7 @@ See [https://support.google.com/google-ads/answer/2375447](https://support.googl
 
 See [https://help.bingads.microsoft.com/#apex/3/en/51091/2](https://help.bingads.microsoft.com/#apex/3/en/51091/2).
 
-<<<<<<< Updated upstream
-## [!DNL Yahoo Native] dynamic tracking parameters
-
-See [https://developer.yahoo.com/nativeandsearch/guide/resources/dynamic-parameters](https://developer.yahoo.com/nativeandsearch/guide/resources/dynamic-parameters).
-
-## [!DNL Yahoo! Japan Ads] dynamic tracking parameters
-=======
 ## Yahoo! Japan Ads dynamic tracking parameters
->>>>>>> Stashed changes
 
 See [https://ads-help.yahoo-net.jp/s/article/H000044463?language=en_US](https://ads-help.yahoo-net.jp/s/article/H000044463?language=en_US).
 
