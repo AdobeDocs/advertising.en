@@ -4,12 +4,11 @@ description: Learn about importing your universal ID segments and converting oth
 feature: DSP Audiences
 exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 ---
-# About Activating Authenticated and Probabilistic  Segments from Your First-Party Audiences
+# About Activating Authenticated and Probabilistic Segments from Your First-Party Audiences
 
 <!-- Title and description? -->
 
-<!-- Clarify -- Are segments being converted as segments, which you can use as-is? Or do you need to create your own segment-tracking tags for the ID types and implement them on the pages whose actions you want to retarget?
-I'm thinking that there are separate procedures for a) translating your existing segments to universal IDs, b) creating retargeting segments from users who visit specific webpages and who have specific universal ID types, and c) sending data to Analytics. For all, you need an agreement with the ID partner. For Analytics measurement and new segment creation, you need some kind of code (different types for each) on your webpages. But for custom segments, are they capturing anyone with an ID type who visit the page, or does the ID need to necessarily be one that's already associated with one of their imported segments (probably not)?
+<!-- There are separate procedures for a) translating your existing segments to universal IDs, b) creating retargeting segments from ID5 users who visit specific webpages, and c) sending data to Analytics. For all, you need an agreement with the ID partner. For Analytics measurement and new segment creation, you need some kind of code (different types for each) on your webpages.
 
 Why would you create a custom segment with our tag, rather than using a segment that already exists in your customer data platform, which is pretty much the system of record?
 
