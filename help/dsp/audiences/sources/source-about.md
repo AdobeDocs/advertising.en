@@ -1,62 +1,60 @@
 ---
-title: About Activating Authenticated and Probabilistic Audience Segments from Your First-Party Audiences
-description: Learn about importing your universal ID segments and converting other user identifiers in your first-party segments to universal IDs for cookieless targeting.
+title: About First-Party Audience Sources
+description: Learn about converting other user identifiers in your first-party segments to universal IDs for cookieless targeting.
 feature: DSP Audiences
 exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 ---
-# About Activating Authenticated and Probabilistic Segments from Your First-Party Audiences
+# About First-Party Audience Sources
 
-<!-- Title and description? -->
-
-<!-- There are separate procedures for a) translating your existing segments to universal IDs, b) creating retargeting segments from ID5 users who visit specific webpages, and c) sending data to Analytics. For all, you need an agreement with the ID partner. For Analytics measurement and new segment creation, you need some kind of code (different types for each) on your webpages.
-
-Why would you create a custom segment with our tag, rather than using a segment that already exists in your customer data platform, which is pretty much the system of record?
-
-Also, for retargeting using a custom segment, the playbook says "2.	ID5 shares customer specific tag and an advertiser specific ID5 “partner ID” back with the customer."  Is that tag separate from the segment tag you get from our UI, which comes in a later step?"
--->
-
-DSP supports people-based, universal IDs for cookieless, single-device (not cross-device) targeting across digital formats supported by DSP.
-
-* DSP can ingest your first-party segments comprised of hashed email IDs<!-- or universal IDs --> built within your customer data platform (CDP) and convert them to universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Move that info. to somewhere else? -->.
-
-* You can manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard.
-
-* Some third-party segment vendors have started including universal IDs in their segments, and you can use them in saved audiences and as placement targets without any extra steps.
+DSP can ingest first-party segments comprised of hashed email IDs<!-- or universal IDs --> built within your customer data platform (CDP) and convert them to segments comprised of universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Move that info. to somewhere else? -->.
 
 Segment details include the size of each universal ID type as well as the size for each device type tracked by cookies or device IDs.
 
 ## Universal ID Types {#universal-id-types}
 
+<!--  Replace below with this once ID5 sources are possible 
+
 Using your first-party data, you can create segments with IDs from the following universal ID partners.
 
 * Authenticated (deterministic) IDs using hashed email addresses:
 
-  * [[!DNL LiveRamp] [!DNL RampIDs]](https://liveramp.com/identity-resolution): For retargeting logged-in users and for measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md). [!DNL RampIDs] are available for users in North America, Australia, and New Zealand. Fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered.
+-->
 
-    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). In addition, you must register with [!DNL LiveRamp] to receive an additional JavaScript tag for [!DNL RampIDs] on your webpages to match conversions from the IDs to view-throughs.<!-- Contact your Adobe Account Team for instructions.--><!-- For instructions, see "[JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)." -->
-  <!-- Will later require yet another JS tag too -->
+You can translate your first-party segments to segments with authenticated (deterministic) IDs from the following universal ID partners.
 
-  * [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com): For retargeting logged-in users. [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2). Fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered.
+* [[!DNL LiveRamp] [!DNL RampIDs]](https://liveramp.com/identity-resolution):
+
+  * For retargeting logged-in users.
+  
+    [!DNL RampIDs] are available for users in North America, Australia, and New Zealand.
+    
+    Fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered. 
+  
+  * For measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).
+
+* [[!DNL Unified ID 2.0 (UID2.0)] IDs](https://unifiedid.com):
+
+  * For retargeting logged-in users.
+  
+    [!DNL UID2 IDs] aren't available for users in the European Economic Area and some additional countries. See the [list of prohibited countries](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
+    
+    Fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered.
+
+<!-- Not yet
 
 * Probabilistic (unauthenticated) IDs using hashed email addresses:
 
-  * [[!DNL ID5] IDs](https://id5.io): For retargeting unauthenticated site traffic, prospecting using third-party data, and measurement for both using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).<!-- What countries/geos are these available for? Everywhere?--> ID5 IDs are available for no fee.
+  * [[!DNL ID5] IDs](https://id5.io): For retargeting unauthenticated site traffic, prospecting using third-party data, and measurement for both using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md). ID5 IDs are available for no fee.
 
     ID5 creates an ID by stitching together user signals (hashed email address) with various browser signals (such as IP address and timestamp).
 
     [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). You also must sign an agreement with [!DNL ID5] and set a parameter within your existing JavaScript tracking tags. <!-- Contact your Adobe Account Team for instructions. -->
 
+<!--
     >[!NOTE]
     >
     >Third-party segments from [!DNL Eyeota] may automatically include ID5 IDs, in addition to users tracked by cookies or device IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
-
-### Reporting by Universal ID Type
-
-* **Custom reports:** Cost, impression, click, conversion, and frequency data by universal ID type is available in custom reports.
-
-* **[!DNL Analytics] reports:** Advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) who have implemented all required steps can see view-through conversions by universal ID type in [!DNL Analytics].
-
-* **Segment details:** Segment details include the audience size by universal ID type and by device type.
+-->
 
 ## Supported Customer Data Platforms for First-Party Segments
 
@@ -80,67 +78,12 @@ You can share your organization's first-party data from the [!DNL Action IQ] cus
 
 You can share your organization's first-party data from the [!DNL Tealium] customer data platform using [!DNL Amazon Web Services]. For more information about converting your user data<!-- hashed email addresses ? --> to universal IDs for targeted advertising in DSP, see "[Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)."
 
-## How to Target an Authenticated Audience in Your Placements
-
-When you create a placement, do the following:
-
-* In the [!UICONTROL Geo-Targeting] section, specify the geographical areas to target. Remember that [each universal ID partner allows user targeting only in specific geographical areas](#universal-id-types).
-
-* In the [!UICONTROL Audience Targeting] section, do the following:
-
-  * In the [!UICONTROL Included Audiences] setting, select the segment for which user data was converted to universal IDs.
-
-    You can include additional segments if you want.
-
-  * In the [!UICONTROL Targeting] setting, select the universal ID type to target.
-  
-    The setting includes the options "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," which may include the sub-options "[!UICONTROL ID5]," "[!UICONTROL RampID]," and "[!UICONTROL Unified ID2.0]." The actual sub-options are determined by the selected geographical targets.
-    
-    You can select both "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," but you can select only one type of universal ID per placement. When you select both legacy IDs and universal IDs, bidding preference is given to universal IDs. 
-
-See "[Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)."
-
-## Best Practices for Testing and Data Validation
-
-* About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, contact your Adobe Account Team. <!-- What can be causes of data variances, and how much variance can be expected? -->
-
-* Test the following use cases:
-
-  * To compare the performance of universal ID-based segments with the performance of placements targeting other audience identifiers, such as cookies or mobile advertising IDs, create a campaign with a separate universal ID-based placement and a legacy ID-based placement.
-
-    Use the following configuration:
-
-    * The recommended campaign budget is USD 10,000. Split the budget evenly between the universal ID-based placement (test group) and the legacy ID-based placement (test group).
-
-    * The recommended audience size is 25,000 universal IDs.
-
-    * Run the placements for at least three weeks.
-
-    * Use the following ad types: display, video, CTV, universal video, and audio
-
-    Getting the best performance, however, shouldn't be the primary comparison. Instead, determine which IDs are scaling well, which might inform your optimization and budget allocations later. The long-term goal is to make up for lost impressions and site traffic when cookies are deprecated.
-
-  * To compare total browser reach, target universal ID-based segments and legacy ID-based segments in the same placement. Use the same campaign settings as the previous use case, except that you don't need to split the campaign budget.
-  
-    Bidding preference is given to universal IDs, but legacy IDs will receive bids when universal IDs aren't available. Make sure to compare reach in different browsers (including Chrome, Safari, and Mozilla).
- 
-    >[!NOTE]
-    >
-    >Frequency capping applies to an individual ID. When a user has multiple ID types, you might be reaching that user more than you had expected.
-
-* Remember that the reach for authenticated audience segments is naturally smaller than the reach for cookie-based segments, and that using additional targeting options further decreases your reach. Be judicious about using granular targeting, especially by joining multiple targets with AND statements.
-
-<!-- Still true? If so, put this where? 
-
-  * Currently, [!DNL RampIDs] aren't retrievable during on-site events. This means that certain custom goals, such as Lowest CPA and ROAS, aren't available with the use of authenticated segments. Use cookie-based segments only if you have a restrictive performance KPI.
-
--->
-
 >[!MORELIKETHIS]
 >
 >* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
->* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
+>* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
+>* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
