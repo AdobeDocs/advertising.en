@@ -24,7 +24,10 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 
 * *[!DNL Unified ID2.0] (Beta):* To convert PII to a [Unified ID 2.0](https://unifiedid.com) ID for retargeting logging-in users.
 
+<!-- Later
 * *[!DNL ID5] (Beta):* To convert PII to an [!DNL ID5] ID. You can use [!DNL ID5] IDs for retargeting logging-in users and for [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) measurement.
+
+-->
 
 **[!UICONTROL Terms of Service]:** The terms of service agreement for converting PII to universal IDs. You or another user in the DSP account must accept the terms once before you can convert data to a new ID type. For customers with managed service contracts, your Adobe Account Team will get your consent and accept the terms on your organization's behalf. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
 
@@ -32,8 +35,8 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 
 >[!MORELIKETHIS]
 >
->* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
->* [About Activating Authenticated Segments from Audience Sources](source-about.md)
+>* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
+>* [About First-Party Audience Sources](source-about.md)
 >* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
