@@ -139,12 +139,11 @@ index: yes
     + [Delete a Segment](/help/dsp/audiences/segment-delete.md)
   + Sources {#sources}
     + [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
-    + Convert IDs from Your Customer Data Platform {#convert-ids}
-      + Workflows by Customer Data Platform {#sources-workflows}
-        + [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
-        + [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
-      + [Create an Audience Source to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-create.md)
-      + [Audience Source Settings](/help/dsp/audiences/sources/source-settings.md)
+    + Workflows by Customer Data Platform {#sources-workflows}
+      + [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+      + [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
+    + [Create an Audience Source to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-create.md)
+    + [Audience Source Settings](/help/dsp/audiences/sources/source-settings.md)
   + [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
   + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)
 + Inventory {#inventory}
