@@ -16,7 +16,7 @@ In DSP, you can create and manage audience segments and audience sets, which you
 
       For more information about Adobe Advertising support for CCPA opt-out-of-sale requests, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
-* Collect<!-- wording --> and use universal IDs for cookieless targeting:
+* [Obtain and use universal IDs for cookieless targeting](/help/dsp/audiences/universal-ids.md):
 
   * Manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP.
 
@@ -116,7 +116,7 @@ The [!UICONTROL Segments] view also lists the following segment types:
 
 ### The Sources View
 
-In the [!UICONTROL Sources] view, you can configure sources for first-party segments in supported customer data platforms that you want to convert to segments containing specified universal ID types. The source settings will include an auto-generated source key, which you'll provide to your customer data platform to establish the connection.
+In the [!UICONTROL Sources] view, you can configure sources for first-party segments in supported customer data platforms that you want to convert to segments containing specified universal ID types. The source settings include an auto-generated source key, which you'll provide to your customer data platform to establish the connection.
 
 For more information about the supported customer data platforms, supported universal ID types, and the workflows to set up connections to each customer data platform, see "[About Sources](source-about.md)."
 
@@ -124,10 +124,11 @@ The translated segments are available to include in reusable audiences and in pl
 
 >[!MORELIKETHIS]
 >
+>* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
 >* [Create a Reusable Audience](reusable-audience-create.md)
->* [Audience Settings](audience-settings.md)
->* [Syntax for Audience Segment Logic](audience-segment-logic-syntax.md)
 >* [Create and Implement a Custom Segment](custom-segment-create.md)
 >* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
+>* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
+>* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [Available Third-party Data Providers](third-party-data-providers.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
