@@ -12,6 +12,14 @@ You can collect your own first-party audience data by creating and implementing 
 >
 >To track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), create a [CCPA opt-out-of-sale segment](ccpa-opt-out-segment-create.md).
 
+## Prerequisites for Segments to Track ID5 IDs
+
+* Before you generate a segment to track users associated with ID5 IDs, you must sign an agreement with [!DNL ID5] and get your organization's partner ID. Contact your Adobe Account Team for instructions.
+
+* For measurement in Adobe Analytics, you must complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
+
+## Create and Implement a Custom Segment
+
 1. Create the segment:
 
     1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
@@ -58,7 +66,7 @@ You can collect your own first-party audience data by creating and implementing 
 
    1. (Tags for segments that track [!DNL ID5] IDs) In the copied tag, replace `ID5_PARTNER_ID` with the partner ID that [!DNL ID5] has assigned to your organization.
    
-      Your organization received the partner ID when it signed an agreement before [translating your first-party data to [!DNL ID5] IDs](/help/dsp/audiences/sources/source-about.md). If you don't know your partner ID, contact your Adobe Account Team.
+      Your organization received the partner ID when it signed an agreement with [!DNL ID5]. If you don't know your partner ID, contact your Adobe Account Team.
 
 1. Add the tag to either the [!UICONTROL Pixel] tab for each relevant ad or to the [!UICONTROL Event Pixels] section of the [[!UICONTROL Tracking] settings for each relevant placement](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
