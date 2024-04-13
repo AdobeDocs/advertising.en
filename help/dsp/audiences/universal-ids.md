@@ -22,7 +22,7 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 * Some third-party segment vendors have started including universal IDs in their segments, and you can use them in saved audiences and as placement targets without any extra steps or extra fees.
 -->
 
-### Reporting by Universal ID Type
+## Reporting by Universal ID Type
 
 * **Custom reports:** Cost, impression, click, conversion, and frequency data by universal ID type is available in custom reports.
 
@@ -51,6 +51,8 @@ When you create a placement, do the following:
 See "[Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)."
 
 ## Best Practices for Testing and Data Validation
+
+<!-- revisit -->
 
 * About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, contact your Adobe Account Team. <!-- What can be causes of data variances, and how much variance can be expected? -->
 
