@@ -8,13 +8,15 @@ exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
 
 You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. You can use imported segments for placement targeting. 
 
-<!--Is this first step relevant for this process? -->
+<!--Is this first step relevant for this process?
 
 1. For measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md):
 
    1. Complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
    
    1. Deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match onsite events to ad impressions. Contact your Adobe Account Team to get the tag and instructions for where to implement it.
+
+ -->
 
 1. Complete the following steps in the [!DNL Connect] dashboard:
 
@@ -30,8 +32,8 @@ You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!
 
 >[!MORELIKETHIS]
 >
->* [About Activating Authenticated Segments from Audience Sources](source-about.md)
->* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
+>* [About First-Party Audience Sources](source-about.md)
+>* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
