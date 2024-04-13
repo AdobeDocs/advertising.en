@@ -31,8 +31,8 @@ Segments are refreshed every 24 hours.
 
 >[!MORELIKETHIS]
 >
->* [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
->* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
+>* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
+>* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
 >* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
