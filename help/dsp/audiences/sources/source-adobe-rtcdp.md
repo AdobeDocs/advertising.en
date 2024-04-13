@@ -8,19 +8,32 @@ exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
 
 Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform, to convert your hashed email addresses to universal IDs for targeted advertising.
 
-1. (To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs; advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) Set up tracking for [!DNL Analytics] measurement:
+1. (To convert email addresses to [!DNL RampIDs]<!-- or [!DNL ID5] IDs -->; advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) Set up tracking for [!DNL Analytics] measurement:
 
    1. (If you haven't already done so) Complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
    
    1. Register with the universal ID partner and deploy universal ID-specific code on your webpages to match conversions from the IDs on desktop and mobile web browsers (but not mobile apps) to view-throughs:
    
-      * **For [!DNL RampIDs]:** You must deploy a second JavaScript tag on your webpages to match conversions from the IDs on desktop and mobile web browsers (but not mobile apps) to view-throughs. Contact your Adobe Account Team, who will give you instructions to register for a [!DNL LiveRamp] [!DNL LaunchPad] tag from [!DNL LiveRamp] Authentication Traffic Solutions. Registration is free, but you must sign an agreement. Once you register, your Adobe Account Team will generate and provide a unique tag for your organization to implement on your webpages.
+      * **For [!DNL RampIDs]:** You must deploy an additional JavaScript tag on your webpages to match conversions from the IDs on desktop and mobile web browsers (but not mobile apps) to view-throughs. Contact your Adobe Account Team, who will give you instructions to register for a [!DNL LiveRamp] [!DNL LaunchPad] tag from [!DNL LiveRamp] Authentication Traffic Solutions. Registration is free, but you must sign an agreement. Once you register, your Adobe Account Team will generate and provide a unique tag for your organization to implement on your webpages.
       
-      * **For [!DNL ID5] IDs:** Contact your Adobe Account Team, who will give you instructions for signing a free agreement with [!DNL ID5]. Once you sign the agreement, a member of ID5’s technical team will provide your partner ID, which you must share with your Adobe Account Team. You then must specify the partner ID within your existing JavaScript tracking tags.
+      <!-- * **For [!DNL ID5] IDs:** Contact your Adobe Account Team, who will give you instructions for signing a free agreement with [!DNL ID5]. Once you sign the agreement, a member of ID5’s technical team will provide your partner ID, which you must share with your Adobe Account Team. You then must specify the partner ID above your existing Adobe Advertising JavaScript tracking tag on your web pages.
+
+      ```
+      window.1d5PartnerId=<your partner ID> 
+      <script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
+      <script>
+           if("undefined" != typeof AdCloudEvent) 
+          AdCloudEvent('IMS ORG Id','rsid');
+      </script>
+      ```
       
         <!-- You can verify calls using the network tab of a browser developer tool:  Each call is initiated to the domain `lasteventf-tm.everesttech.net` and contains the parameter `_les_id5` with an encrypted ID5 ID as its value -->
 
+      -->
+
 1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account. You can choose to convert your user identifiers to any of the [available universal ID formats](source-about.md).
+
+   The source settings will include an auto-generated source key, wich you'll use in the next step.
 
 1. In Adobe Experience Platform, configure an Advertising DSP destination connection using the [!UICONTROL Source Key] that was generated in the DSP source settings.
 
@@ -36,7 +49,7 @@ Segments are refreshed every 24 hours.
 
 >[!MORELIKETHIS]
 >
->* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
+>* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Destinations catalog overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
