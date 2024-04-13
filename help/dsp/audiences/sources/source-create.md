@@ -1,10 +1,10 @@
 ---
-title: Create an Audience Source to Activate First-Party Audiences
-description: Learn how to create a source to import audiences from your customer data platform to your account or an advertiser account.
+title: Create an Audience Source to Activate Universal ID Audiences
+description: Learn how to create a source to import audiences from your customer data platform and convert them to segments containing universal IDs.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
 ---
-# Create an Audience Source to Activate First-Party Audiences
+# Create an Audience Source to Activate Universal ID Audiences
 
 Create a source in DSP for each first-party audience in your customer data platform that you want to convert to segments containing specified universal ID types. You can import the segments to your organization's DSP account or to an advertiser account. Data charges are applied based on the selected universal ID types.
 
@@ -37,7 +37,6 @@ Additional steps are required to ingest the audiences from each customer data pl
 >[!MORELIKETHIS]
 >
 >* [Audience Source Settings](source-settings.md)
->* [About Activating Authenticated Segments from Audience Sources](source-about.md)
+>* [About First-Party Audience Sources](source-about.md)
 >* [Adobe Advertising Cloud DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
->* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
