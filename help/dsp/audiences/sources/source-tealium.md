@@ -32,17 +32,29 @@ To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs, you must do the 
 
 1. (If you haven't already done so) Complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
    
-1. 1. Register with the universal ID partner and deploy universal ID-specific code on your webpages to match conversions from the IDs on desktop and mobile web browsers (but not mobile apps) to view-throughs:
+1. Register with the universal ID partner and deploy universal ID-specific code on your webpages to match conversions from the IDs on desktop and mobile web browsers (but not mobile apps) to view-throughs:
    
-      * **For [!DNL RampIDs]:** You must deploy a second JavaScript tag on your webpages. Contact your Adobe Account Team, who will give you instructions to register for a [!DNL LiveRamp] [!DNL LaunchPad] tag from [!DNL LiveRamp] Authentication Traffic Solutions. Registration is free, but you must sign an agreement. Once you register, your Adobe Account Team will generate and provide a unique tag for your organization to implement on your webpages.
+   * **For [!DNL RampIDs]:** You must deploy an additional JavaScript tag on your webpages to match conversions from the IDs on desktop and mobile web browsers (but not mobile apps) to view-throughs. Contact your Adobe Account Team, who will give you instructions to register for a [!DNL LiveRamp] [!DNL LaunchPad] tag from [!DNL LiveRamp] Authentication Traffic Solutions. Registration is free, but you must sign an agreement. Once you register, your Adobe Account Team will generate and provide a unique tag for your organization to implement on your webpages.
       
-      * **For [!DNL ID5] IDs:** Contact your Adobe Account Team, who will give you instructions for signing a free agreement with [!DNL ID5]. Once you sign the agreement, a member of ID5’s technical team will provide your partner ID, which you must share with your Adobe Account Team. You then must specify the partner ID within your existing JavaScript tracking tags.
-      
-        <!-- You can verify calls using the network tab of a browser developer tool:  Each call is initiated to the domain `lasteventf-tm.everesttech.net` and contains the parameter `_les_id5` with an encrypted ID5 ID as its value -->
+   <!-- * **For [!DNL ID5] IDs:** Contact your Adobe Account Team, who will give you instructions for signing a free agreement with [!DNL ID5]. Once you sign the agreement, a member of ID5’s technical team will provide your partner ID, which you must share with your Adobe Account Team. You then must specify the partner ID above your existing Adobe Advertising JavaScript tracking tag on your web pages.
+
+     ```
+     window.1d5PartnerId=<your partner ID> 
+     <script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
+     <script>
+         if("undefined" != typeof AdCloudEvent) 
+          AdCloudEvent('IMS ORG Id','rsid');
+     </script>
+   ```
+   -->
+
+     <!-- You can verify calls using the network tab of a browser developer tool:  Each call is initiated to the domain `lasteventf-tm.everesttech.net` and contains the parameter `_les_id5` with an encrypted ID5 ID as its value -->
 
 ## Step 2: Create an audience source in DSP {#source-create}
 
-1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account, specifying the [universal ID formats](source-about.md) to which you want to convert your user identifiers.
+1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account. You can choose to convert your user identifiers to any of the [available universal ID formats](source-about.md).
+
+   The source settings will include an auto-generated source key, wich you'll use to prepare the segment-mapping data.
 
 1. After you create the audience source, share the source code key with the [!DNL Tealium] user.
 
@@ -52,15 +64,15 @@ To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs, you must do the 
 
    1. The advertiser must prepare the data within [!DNL Tealium]:
    
-      1. The email IDs for the advertiser's audience must be hashed using the SHA-256 algorithm.
+      1. Hash the email IDs for the advertiser's audience using the SHA-256 algorithm.
 
-      1. The column containing hashed email IDs must be mapped to the attribute of the type of Visitor ID.
+      1. Map the column containing hashed email IDs to the attribute of the type of Visitor ID.
 
-      1. The audience must be created with the `Tealium_visitor_id` attribute. The right enrichment must be applied to trigger the audience. See the [[!DNL Tealium] documentation on visitor ID attributes](https://docs.tealium.com/server-side/visitor-stitching/visitor-id-attribute/).
+      1. Create the audience with the `Tealium_visitor_id` attribute. Apply the right enrichment to trigger the audience. See the [[!DNL Tealium] documentation on visitor ID attributes](https://docs.tealium.com/server-side/visitor-stitching/visitor-id-attribute/).
    
    1. The advertiser must give segment-mapping data to the Adobe Account Team to create the segments in DSP. Use the following column names and values in a comma-separated values file:
 
-      * **External Segment Key:** The external segment key, which you'll later specify in the action settings for the connector in [!DNL Tealium]. The recommended naming convention is "`<DSP source key>_<Tealium segment name>`," such as "57bf424dc10_coffee-drinkers."
+      * **External Segment Key:** The external segment key, which you'll later specify in the action settings for the connector in [!DNL Tealium]. The recommended naming convention is "`<DSP source key>_<Tealium segment name>`," such as "57bf424dc10_coffee-drinkers." For the DSP source key, use the [!UICONTROL Source Key] from the DSP audience source settings.
       
       * **Segment Name:** The segment name.
       
@@ -122,7 +134,7 @@ For each segment that you want to share, create a separate connector for each ac
               
               * For the Cookies attribute, name the custom message `cookies`.
                 
-           1. In the option to create a custom field, in the [!DNL Source Key] field, enter the [!UICONTROL External Segment Key] that was included in the segment-mapping data in [Step 2](#map-data).
+           1. In the option to create a custom field, in the [!DNL Source Key] field, enter the [!UICONTROL External Segment Key] that was included in the [segment-mapping data](#map-data) in the previous procedure.
            
               DSP will use this key to populate your segment.
                 
@@ -134,7 +146,7 @@ You can have only one connector per segment and one segment per connector.
 
 1. In [!DNL Tealium], duplicate the segment for which you want to create another segment, and rename the new segment.
 
-1. In [!DNL Tealium], duplicate the connector you created in [Step 3](#tealium-connector), and rename the new connector from "`<original name>-copy`" to the new segment name.
+1. In [!DNL Tealium], duplicate [the connector you created](#tealium-connector) in the previous procedure, and rename the new connector from "`<original name>-copy`" to the new segment name.
 
 ## Step 6: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
@@ -146,8 +158,8 @@ For troubleshooting support, contact your Adobe Account Team or `adcloud-support
 
 >[!MORELIKETHIS]
 >
->* [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
->* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
+>* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
+>* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
 >* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
