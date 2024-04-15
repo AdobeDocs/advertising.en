@@ -18,7 +18,7 @@ In DSP, you can create and manage audience segments and audience sets, which you
 
 * [Obtain and use universal IDs for cookieless targeting](/help/dsp/audiences/universal-ids.md):
 
-  * Manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP.
+  * Manually send your authenticated [!DNL LiveRamp] [!DNL RampID] segments directly to DSP.
 
   * Allow DSP to import first-party segments from your customer data platform and translate them to supported universal ID types.
   
@@ -34,9 +34,9 @@ Additional audience types are also available for placement targeting.
 
 * DSP can pull in your Adobe Audience Manager and other [!DNL Adobe] audiences for targeting. For prerequisites and instructions, see "[Import Adobe Audience Manager Segments for Ad Targeting](/help/integrations/audience-manager/import-audiences.md).
 
-* DSP can import first-party data segments from your data management platform and provide them to any set of advertisers, as needed.
+* DSP can translate first-party data segments from supported customer data platforms to segments with universal IDs using the [Sources feature](/help/dsp/audiences/sources/source-about.md). You can also [manually send your authenticated [!DNL LiveRamp] [!DNL RampID] segments directly to DSP](/help/dsp/audiences/sources/source-import-liveramp-segments.md).
 
-* DSP can translate first-party data segments from supported customer data platforms to segments with universal IDs using the [Sources feature](/help/dsp/audiences/sources/source-about.md).
+* DSP can import your other first-party data segments directly from your data management platform (DMP) and provide them to any set of advertisers, as needed.
 
 * DSP can import custom third-party segments, including complex combinations of third-party segments. You can provide the segments to any set of advertisers, as needed.
 
