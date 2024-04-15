@@ -118,7 +118,7 @@ The [!UICONTROL Segments] view also lists the following segment types:
 
 In the [!UICONTROL Sources] view, you can configure sources for first-party segments in supported customer data platforms that you want to convert to segments containing specified universal ID types. The source settings include an auto-generated source key, which you'll provide to your customer data platform to establish the connection.
 
-For more information about the supported customer data platforms, supported universal ID types, and the workflows to set up connections to each customer data platform, see "[About Sources](source-about.md)."
+For more information about the supported customer data platforms, supported universal ID types, and the workflows to set up connections to each customer data platform, see "[About Sources](/help/dsp/audiences/sources/source-about.md)."
 
 The translated segments are available to include in reusable audiences and in placement settings for cookieless targeting.
 
