@@ -8,7 +8,7 @@ exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
 
 Create a source in DSP for each first-party audience in your customer data platform that you want to convert to segments containing specified universal ID types. You can import the segments to your organization's DSP account or to an advertiser account. Data charges are applied based on the selected universal ID types.
 
-Additional steps are required to ingest the audiences from each customer data platform. See [the audience-specific activation workflows](source-about.md)
+Additional steps are required to ingest the audiences from each customer data platform. See the note at the end of the procedure.
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Sources]**.
 
