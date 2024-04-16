@@ -5,6 +5,8 @@ feature: DSP Audiences
 ---
 # Support for Activating Universal IDs
 
+<!-- Once we have CDP support for ID5 and can set up activation via sources, then maybe I can move this info into "About Sources" and "About Audiences." Or maybe make this the go-to page, removing info from those other pages? -->
+
 DSP supports people-based, universal IDs for cookieless, single-device (not cross-device) targeting across digital formats supported by DSP.
 
 * You can manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. See "[Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)."
@@ -32,7 +34,7 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 When you create a placement, do the following:
 
-* In the [!UICONTROL Geo-Targeting] section, specify the geographical areas to target. Remember that [each universal ID partner allows user targeting only in specific geographical areas](#universal-id-types).
+* In the [!UICONTROL Geo-Targeting] section, specify the geographical areas to target. Each universal ID partner allows user targeting only in specific geographical areas, and only eligible ID types are available in the [!UICONTROL Targeting] settings.
 
 * In the [!UICONTROL Audience Targeting] section, do the following:
 
@@ -50,11 +52,15 @@ See "[Placement Settings](/help/dsp/campaign-management/placements/placement-set
 
 ## Best Practices for Testing and Data Validation
 
+Use the following best practices for [!DNL RampID]-based segments and ID5-based segments, for which Adobe Analytics measurement is available.
+
 <!-- revisit -->
 
-* About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, contact your Adobe Account Team. <!-- What can be causes of data variances, and how much variance can be expected? -->
+* About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, then contact your Adobe Account Team. <!-- What can be causes of data variances, and how much variance can be expected? -->
 
-* Test the following use cases:
+* Don't change your existing packages and placements. However, if you don't have incremental budget to test universal IDs, then reduce the original budgets to fund the tests.
+
+* Copy your original packages and placements, adjust the budgets based on the size of the test, change the audiences to use [!DNL RampID]-based segments (for authenticated users) or ID5-based segments (for unauthenticated users), and verify that the new packages and placements spend their full budgets.
 
   * To compare the performance of universal ID-based segments with the performance of placements targeting other audience identifiers, such as cookies or mobile advertising IDs, create a campaign with a separate universal ID-based placement and a legacy ID-based placement.
 
@@ -68,7 +74,7 @@ See "[Placement Settings](/help/dsp/campaign-management/placements/placement-set
 
     * Use the following ad types: display, video, CTV, universal video, and audio
 
-    Getting the best performance, however, shouldn't be the primary comparison. Instead, determine which IDs are scaling well, which might inform your optimization and budget allocations later. The long-term goal is to make up for lost impressions and site traffic when cookies are deprecated.
+    Getting the best performance shouldn't be the primary comparison. Instead, determine which IDs are scaling well, which might inform your optimization and budget allocations later. The long-term goal is to make up for lost impressions and site traffic when cookies are deprecated.
 
   * To compare total browser reach, target universal ID-based segments and legacy ID-based segments in the same placement. Use the same campaign settings as the previous use case, except that you don't need to split the campaign budget.
   
