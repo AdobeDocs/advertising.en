@@ -27,16 +27,6 @@ the campaign may contain:
 
 * *[!UICONTROL Performance Max]:* (Beta feature) Shows multiple ad types across all networks using [!DNL Microsoft Advertising] smart bidding. Within the campaign settings, you must specify one or more asset groups, which include images, logos, headlines, descriptions, an optional call to action, and audience signals. The ad network automatically combines the assets to serve ads based on the channel.
 
-<!--
-
-  **Notes:**
-  
-  * Only required settings are available. For optional settings, log in to the [!DNL Microsoft Advertising] ad editor.
-
-  * Hybrid optimization is supported. Bid strategy targets and campaign budgets are set at the campaign level.
-  
-  -->
-
 ## [!UICONTROL Campaign Details]
 
 **[!UICONTROL Campaign Name]:** A campaign name that is unique within the account. The maximum length is 128 characters.
