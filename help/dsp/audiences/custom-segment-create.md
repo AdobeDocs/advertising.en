@@ -16,7 +16,21 @@ You can collect your own first-party audience data by creating and implementing 
 
 * Before you generate a segment to track users associated with ID5 IDs, you must sign an agreement with [!DNL ID5] and get your organization's partner ID. Contact your Adobe Account Team for instructions.
 
-* For measurement in Adobe Analytics, you must complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
+* For measurement in Adobe Analytics, you must:
+
+  1. Complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
+
+  1. Add the following parameter to your webpages right before the [JavaScript code required for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)
+
+     `window.id5PartnerId=Your_ID5_PartnerID`
+     
+     Example:
+
+     ```
+     window.id5PartnerId=1234567890
+     <script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
+     ...
+     ```
 
 ## Create and Implement a Custom Segment
 
@@ -64,7 +78,15 @@ You can collect your own first-party audience data by creating and implementing 
 
             1. Copy the impression tracking tag, which is labeled "[!UICONTROL Desktop or mobile ads]."
 
-   1. (Tags for segments that track [!DNL ID5] IDs for desktop and mobile visitors to a webpage) In the copied tag, replace `ID5_PARTNER_ID` with the partner ID that [!DNL ID5] has assigned to your organization.
+   1. (Tags for segments that track [!DNL ID5] IDs for desktop and mobile visitors to a webpage) In the copied tag, replace `ID5_PARTNER_ID` with the partner ID that [!DNL ID5] assigned to your organization.
+
+     For example, if your ID5 partner ID is `abcde` and the generated segment tag is
+
+      ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=ID5_PARTNER_ID"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
+
+      then replace `ID5_PARTNER_ID` with `abcde` within the tag to get the following:
+
+      ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=abcde"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
    
       Your organization received the partner ID when it signed an agreement with [!DNL ID5]. If you don't know your partner ID, contact your Adobe Account Team.
 
