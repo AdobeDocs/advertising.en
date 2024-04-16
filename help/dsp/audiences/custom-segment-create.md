@@ -64,9 +64,11 @@ You can collect your own first-party audience data by creating and implementing 
 
             1. Copy the impression tracking tag, which is labeled "[!UICONTROL Desktop or mobile ads]."
 
-   1. (Tags for segments that track [!DNL ID5] IDs) In the copied tag, replace `ID5_PARTNER_ID` with the partner ID that [!DNL ID5] has assigned to your organization.
+   1. (Tags for segments that track [!DNL ID5] IDs for desktop and mobile visitors to a webpage) In the copied tag, replace `ID5_PARTNER_ID` with the partner ID that [!DNL ID5] has assigned to your organization.
    
       Your organization received the partner ID when it signed an agreement with [!DNL ID5]. If you don't know your partner ID, contact your Adobe Account Team.
+
+      This step isn't necessary for tags to track [!DNL ID5] IDs for users exposed to an ad unit on desktop or mobile devices.
 
 1. Add the tag to either the [!UICONTROL Pixel] tab for each relevant ad or to the [!UICONTROL Event Pixels] section of the [[!UICONTROL Tracking] settings for each relevant placement](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
