@@ -40,7 +40,7 @@ You can collect your own first-party audience data by creating and implementing 
 
        * [!UICONTROL Universal IDs (Beta)]:
 
-         * *[!UICONTROL ID5]:* The segment tag will track [!DNL ID5] IDs.
+         * *[!UICONTROL ID5]:* The segment tag will track [!DNL ID5] IDs. No fees are incurred for impressions delivered to universal IDs.
 
          **[!UICONTROL Terms of Service]:** The terms of service agreement for using universal IDs. You or another user in the DSP account must accept the terms once before you can use universal IDs for a new ID type. For customers with managed service contracts, your Adobe Account Team will get your consent and accept the terms on your organization's behalf. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
     
