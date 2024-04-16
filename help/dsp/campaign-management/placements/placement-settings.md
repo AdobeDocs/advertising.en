@@ -310,7 +310,7 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
 
 * *[!UICONTROL Legacy IDs (Cookies, MAIDS, CTV)]*: (The default) Targets users based on their cookies, mobile advertising IDs, or connected TV (CTV) IDs. IDs are selected based on the browser, in-app, or CTV inventory. 
 
-* *[!UICONTROL Universal ID Beta]*: Targets user privacy-focused IDs. The available options are determined by the selected geographical targets in the [!UICONTROL Geo-Targeting] section. Use with [segments for which DSP converts your PII to universal IDs](/help/dsp/audiences/sources/source-about.md).
+* *[!UICONTROL Universal ID Beta]*: Targets user privacy-focused IDs; select one ID type. The available options are determined by the selected geographical targets in the [!UICONTROL Geo-Targeting] section. Use with [segments for which DSP converts your PII to universal IDs](/help/dsp/audiences/sources/source-about.md) or [custom segments that tracks universal IDs](/help/dsp/audiences/custom-segment-create.md).
 
   * *[!UICONTROL ID5]*: Targets [!DNL ID5] IDs created probabilistically using their email addresses.<!-- What countries/geos are these available for? Everywhere?--> ID5 IDs are available for no fee.
 
