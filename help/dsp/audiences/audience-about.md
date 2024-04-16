@@ -8,7 +8,7 @@ exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
 
 In DSP, you can create and manage audience segments and audience sets, which you can use as targets for your placements:
 
-* Collect your own first-party audience data by creating and implementing segments. You can later retarget users in the segment with ads or prevent users in the segment from receiving ads. You can create the following types of segments:
+* Collect your own first-party audience data by creating and implementing DSP segments. You can later retarget users in the segment with ads or prevent users in the segment from receiving ads. You can create the following types of segments:
 
    * [Custom segments](/help/dsp/audiences/custom-segment-create.md) to track a) users exposed to ads from desktop and mobile devices and b) users who visit specific webpages. The tracking tag can track either cookie-based users or users associated with ID5 universal IDs.
 
@@ -32,6 +32,8 @@ Additional audience types are also available for placement targeting.
 
 ## Importing First-party and Third-party Data Segments
 
+You have many options to import first-party and third-party data segments into DSP, using the DSP user interface and/or through custom import services.
+
 * DSP can pull in your Adobe Audience Manager and other [!DNL Adobe] audiences for targeting. For prerequisites and instructions, see "[Import Adobe Audience Manager Segments for Ad Targeting](/help/integrations/audience-manager/import-audiences.md).
 
 * DSP can translate first-party data segments from supported customer data platforms to segments with universal IDs using the [Sources feature](/help/dsp/audiences/sources/source-about.md). You can also [manually send your authenticated [!DNL LiveRamp] [!DNL RampID] segments directly to DSP](/help/dsp/audiences/sources/source-import-liveramp-segments.md).
@@ -51,10 +53,14 @@ You can target your placements to all of the following types of audiences.
 * All user-created audience segments that were created in DSP:
 
    * Custom segments for users who visited specific webpages and users exposed to impressions of specific ads.
+   
+     No fees are incurred for impressions delivered to universal IDs.
 
    * CCPA opt-out-of-sale audience segments for users who submitted opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA).
 
 * All of your imported first-party data segments, including segments that were translated to universal IDs.
+
+  Additional fees are charged for impressions delivered to universal IDs. See "[About First-Party Audience Sources](source-about.md)" for rates.
 
 * All of your imported custom third-party data segments.
 
