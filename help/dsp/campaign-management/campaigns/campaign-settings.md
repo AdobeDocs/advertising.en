@@ -82,7 +82,7 @@ To estimate taxes to withhold:
 
     Cross-device support applies only for placements that target legacy IDs but not for placements that target universal IDs (including [!DNL LiveRamps]). Targeting, frequency management, and attribution for universal IDs is applied at the ID level only.
 
-**[!UICONTROL Frequency Cap]:** (Optional) The number of times a unique device or person (depending on the specified [!UICONTROL Cross Device Level]) will be served ads from the campaign. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
+**[!UICONTROL Frequency Cap]:** (Optional) The number of times a unique device, universal ID, or person (depending on the specified [!UICONTROL Cross Device Level] and the placement's [!UICONTROL Targeting] setting) can be served ads from the campaign. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
 
 >[!NOTE]
 >
