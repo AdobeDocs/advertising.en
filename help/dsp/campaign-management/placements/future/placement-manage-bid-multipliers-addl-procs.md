@@ -32,11 +32,15 @@ For all selected placements, you can either manually edit values or upload a spr
 
 1. Adjust the bid multipliers for eligible target manually or by uploading a CSV file with target values:
 
-   *  To manually adjust the bid multiplier values, move to each target-specific tab ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], [!UICONTROL Brand Safety]<!--verify all-->) and edit the existing values for the placement targets.
+   *  To manually adjust the bid multiplier values, move to each target-specific tab ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], and[!UICONTROL Brand Safety]) and edit the existing values for the placement targets.
 
      The same changes will be made to all of the selected placements.
 
    * To upload a CSV file with bid multiplier values that will overwrite the existing values:
+
+     >[!NOTE]
+     >
+     >If you leave a field empty, then all values for that target type are deleted.<!-- Verify and re-word if needed. I'm not sure if you'll be able to have multiple data rows (one per placement) or if there will be only one data row applicable for all. -->
 
      1. Click **[!UICONTROL CSV Edit]** in the upper right.
 
@@ -82,42 +86,15 @@ Changes in the uploaded file overwrite the existing bid multiplier values.<!-- w
 
 1. Click **[!UICONTROL Upload]**.
 
-1. Click **[!UICONTROL Save]**.<!-- Verify this step -->
+1. Click **[!UICONTROL Save]**.
 
 ## Target Types Eligible for Bid Multipliers {#bid-multiplier-by-target}
 
-* **Geo targets**: countries, states, cities, DMAs, and postal codes
-
-* **Inventory targets**: sources and feeds for private inventory and [!UICONTROL On Demand] inventory
-
-* **Site targets:** site categories, targeted (but not excluded) sites/apps. Not available for keywords.<!-- Clarify this: I don't see a place to specify keywords -->
-
-<!-- Not until Phase 2:  * **Audience targets:** audiences and segments -->
-
-* **Daypart targets:** daypart intervals
-
-* **Topic targets:** topics
-
-* **ads.txt targets:** (When you opt out of ads.txt) ads.txt sellers only, ads.txt direct sellers, and ads.txt sellers plus sites without ads.txt. <!-- ???  Clarify how this will work. -->
+not duped here
 
 ## Maximum Number of Bid Multipliers by Target Type {#bid-multiplier-limits-by-target}
 
-You can set bid multipliers (with values other than 1.00) for a limited number of targets. For example, you can set bid multipliers for up to 20 country targets. The maximum number of targets for each target type that can have bid multipliers are listed below.
-
-| Category | Parameter | Maximum Number |
-| -------- | --------- | ----- |
-| Geo | Country | 20 |
-| Geo | State | 100 |
-| Geo | City | 100 |
-| Geo | Metro | 100 |
-| Geo | Postal codes | 100 |
-| Inventory | Sources | 100 |
-| Inventory | Feeds | 100 |
-| Sites | Site Category | 100 |
-| Sites | Sites/Apps | 100 |
-| Audience | Segments | 500 |
-| Audience | Topics | 100 |
-| Brand Safety | Ads.txt | N/A |
+not duped here
 
 <!--
 
@@ -128,4 +105,3 @@ You can set bid multipliers (with values other than 1.00) for a limited number o
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
  -->
- 
