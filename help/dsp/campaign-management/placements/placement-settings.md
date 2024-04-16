@@ -310,7 +310,7 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
 
 * *[!UICONTROL Legacy IDs (Cookies, MAIDS, CTV)]*: (The default) Targets users based on their cookies, mobile advertising IDs, or connected TV (CTV) IDs. IDs are selected based on the browser, in-app, or CTV inventory. 
 
-* *[!UICONTROL Universal ID Beta]*: Targets user privacy-focused IDs. The available options are determined by the selected geographical targets in the [!UICONTROL Geo-Targeting] section. Use with [segments for which DSP converts your PII to universal IDs](/help/dsp/audiences/sources/source-about.md). <!-- **Important:** Make sure that the necessary JavaScript conversion-tracking tag is deployed on your webpages XXX. -->
+* *[!UICONTROL Universal ID Beta]*: Targets user privacy-focused IDs. The available options are determined by the selected geographical targets in the [!UICONTROL Geo-Targeting] section. Use with [segments for which DSP converts your PII to universal IDs](/help/dsp/audiences/sources/source-about.md).
 
   * *[!UICONTROL ID5]*: Targets [!DNL ID5] IDs created probabilistically using their email addresses.<!-- What countries/geos are these available for? Everywhere?--> ID5 IDs are available for no fee.
 
@@ -324,7 +324,7 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
   
 **[!UICONTROL Cross Device Targeting]:** (Available when the [campaign is configured for people-based cross-device targeting](/help/dsp/campaign-management/campaigns/campaign-settings.md), you target legacy IDs only (not universal IDs), and you select at least one segment or audience. Allows you to extend your targeting across all of a person's known devices (per the device graph specified in the campaign settings), even devices that aren't in the specified segments. Fees may apply depending on the graph specified for the campaign. Device graph data is available only in North America.
 
-**[!UICONTROL Placement Cap]:** (Optional) The number of times a unique device or person (depending on the specified [!UICONTROL Cross Device Level] for the campaign) is served ads from the placement. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
+**[!UICONTROL Placement Cap]:** (Optional) The number of times a unique device, universal ID, or person (depending on the specified [!UICONTROL Cross Device Level] for the campaign and the placement's [!UICONTROL Targeting] setting) can be served ads from the placement. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
 
 >[!NOTE]
 >
