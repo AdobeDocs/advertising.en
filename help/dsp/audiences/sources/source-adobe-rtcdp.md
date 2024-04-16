@@ -45,7 +45,7 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
    
    For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
-Segments are refreshed every 24 hours. However, segment counts from Real-Time CDP expire after 30 days to ensure privacy compliance, so refresh the audiences by re-pushing them from Real-Time CDP every 30 days or less.<!-- Clarify how this works and the timing, and re-word accordingly.-->
+Segments are refreshed every 24 hours.<!-- However, segment counts [???? the counts, or inclusion in a segment ???] from Real-Time CDP expire after 30 days to ensure privacy compliance, so refresh the audiences by re-pushing them from Real-Time CDP every 30 days or less.[!!!! Clarify how this works and the timing, and re-word accordingly.]-->
 
 >[!MORELIKETHIS]
 >
