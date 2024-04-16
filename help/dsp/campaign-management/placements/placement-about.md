@@ -6,7 +6,7 @@ exl-id: 903ba200-6bb3-4c31-b7a9-03ada3de5451
 ---
 # About Placement Management in Advertising DSP
 
-A placement includes targeting parameters for one or more ads of the same ad type. You can create a placement for a single campaign or package, and then assign ads to it. Each campaign or placement can include multiple placements, with a specified ad rotation. By default, ads are rotated evenly.
+A placement includes targeting parameters for one or more ads of the same ad type. You can create a placement for a single campaign or package, and then assign ads to it. Each campaign or placement can include multiple placements, with a specified ad rotation. By default, ads are rotated evenly. You can separately configure bid multipliers for various placement target types.
 
 Once you assign an active placement to an active package or campaign, then all active, approved ads in the placement are eligible to run based on the placement targeting parameters.
 
@@ -41,6 +41,7 @@ For each placement, you can open a detailed view ([the [!UICONTROL Inspector]](/
 >[!MORELIKETHIS]
 >
 >* [Create a Placement](placement-create.md)
+>* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
 >* [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
