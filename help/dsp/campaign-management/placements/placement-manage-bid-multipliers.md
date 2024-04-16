@@ -5,51 +5,13 @@ feature: DSP Placements
 ---
 # Manage Bid Multipliers for Placements
 
-You can change the bid multipliers for your existing placement targets using this feature.
+You can change the bid multipliers for your existing placement targets using this feature. You can manage the bid multipliers for one placement at a time.<!-- remove that line once we can edit multiple -->
 
 To change the selected targets for your placements, see "[Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)."
 
-## Manage the Bid Multipliers for One or More Placements
-
-For all selected placements, you can either manually edit values or upload a spreadsheet with values.
-
-1. In the main menu, click **[!UICONTROL Campaigns]**.
-
-1. Click the name of the campaign.
-
-1. In the submenu, click **[!UICONTROL Placements]**.
-
-1. Select the check box next to each placement whose bid multipliers you want to manage.
-
-1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Bid Multiplier]**.
-
-1. Adjust the bid multipliers for eligible target manually or by uploading a CSV file with target values:
-
-   *  To manually adjust the bid multiplier values, move to each target-specific tab ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], [!UICONTROL Brand Safety]<!--verify all-->) and edit the existing values for the placement targets.
-
-     The same changes will be made to all of the selected placements.
-
-   * To upload a CSV file with bid multiplier values that will overwrite the existing values:
-
-     1. Click **[!UICONTROL CSV Edit]** in the upper right.
-
-     1. Either a) click **[!UICONTROL Download Template]** and edit the bid multiplier values or b) edit a previously-downloaded template. Save the edited file to your device or network.
-
-     1.  Either a) drag and drop the edited file into the box or b) click inside the box to select the file from your device or network. 
-
-    1. Click **[!UICONTROL Upload]**.
-
-   By default, the bid multiplier for a target is 1.00, which means the bid isn't adjusted for that target. Values can range from 0.10 to 10.00. For example, a bid modifier of 0.5 decreases a USD 6 bid to USD 3 (0.5 x 6). You can set bid multipliers (with values other than 1.00) for a [limited number of targets](#bid-multiplier-limits-by-target).
-   
-   When an auction qualifies for multiple bid modifiers, all of the applicable bid modifiers are multiplied.
-   
-   Bid modifiers never increase the bid to more than the maximum bid.
-
-1. Click **[!UICONTROL Save]**.
-
-## Upload a Spreadsheet to Manage the Bid Multipliers for a Single Placement<!-- Is this still going to exist independently, or will you just do this via the "Bid Multiplier" option in the main context menu for placements? If both options, then reword headings for distinction -->
-
-Changes in the uploaded file overwrite the existing bid multiplier values.<!-- what if you delete a row? -->
+<!--
+## Manage the Bid Multipliers for a Single Placement
+-->
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -57,39 +19,31 @@ Changes in the uploaded file overwrite the existing bid multiplier values.<!-- w
 
 1. In the submenu, click **[!UICONTROL Placements]**.
 
-1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Upload Bid Multiplier Excel Sheet]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Bid Multiplier]**.
 
-1. <!-- Verify the rest of these steps. -->
+1. Move to each [target-specific tab](#bid-multiplier-by-target) ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], and [!UICONTROL Brand Safety]) and edit the existing values for the placement targets. Most target categories list sub-categories on the left. Click a sub-category to manage bid multipliers for that sub-category, when it's applicable.
 
-1. Either a) click **[!UICONTROL Download Template]** and edit the bid multiplier values or b) edit an previously-downloaded template. Save the edited file to your device or network.
-
-   By default, the bid multiplier for a target is 1.00, which means the bid isn't adjusted for that target. Values can range from 0.10 to 10.00. For example, a bid modifier of 0.5 decreases a USD 6 bid to USD 3 (0.5 x 6). You can set bid multipliers (with values other than 1.00) for a [limited number of targets](#bid-multiplier-limits-by-target).
+   By default, the bid multiplier for a target is 1.00, which means the bid isn't adjusted for that target. Values can range from 0.10 to 10.00. For example, a bid modifier of 0.5 decreases a USD 6 bid to USD 3 (0.5 x 6). Bid modifiers never increase the bid to more than the maximum bid.
    
    When an auction qualifies for multiple bid modifiers, all of the applicable bid modifiers are multiplied.
    
-   Bid modifiers never increase the bid to more than the maximum bid.
+   You can set bid multipliers (with values other than 1.00) for a [limited number of targets](#bid-multiplier-limits-by-target).
 
-1.  Either a) drag and drop the edited file into the box or b) click inside the box to select the file from your device or network. 
-
-1. Click **[!UICONTROL Upload]**.
-
-1. Click **[!UICONTROL Save]**.<!-- Verify this step -->
+1. In the upper right, click **[!UICONTROL Save]**.
 
 ## Target Types Eligible for Bid Multipliers {#bid-multiplier-by-target}
 
-* **Geo targets**: countries, states, cities, DMAs, and postal codes
+You can configure bid modifiers only for included targets, not excluded targets.
 
-* **Inventory targets**: sources and feeds for private inventory and [!UICONTROL On Demand] inventory
+* **Geo targets**: geography (countries, states, and cities),  postal codes, and DMAs
 
-* **Site targets:** site categories, targeted (but not excluded) sites/apps. Not available for keywords.<!-- Clarify this: I don't see a place to specify keywords -->
+* **Inventory targets**: sources and feeds for public inventory and [!UICONTROL On Demand] inventory
 
-<!-- Not until Phase 2:  * **Audience targets:** audiences and segments -->
+* **Site targets:** targeted (but not excluded) sites/apps, site categories
 
-* **Daypart targets:** daypart intervals
+* **Audience targets:** segments, dayparts, and topics
 
-* **Topic targets:** topics
-
-* **ads.txt targets:** (When you opt out of ads.txt) ads.txt sellers only, ads.txt direct sellers, and ads.txt sellers plus sites without ads.txt. <!-- ???  Clarify how this will work. -->
+* **ads.txt targets:** (When you opt out of ads.txt) ads.txt sellers only, ads.txt direct sellers, and ads.txt sellers plus sites without ads.txt.
 
 ## Maximum Number of Bid Multipliers by Target Type {#bid-multiplier-limits-by-target}
 
