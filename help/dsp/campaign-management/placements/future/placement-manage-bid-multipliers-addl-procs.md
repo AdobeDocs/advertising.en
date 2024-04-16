@@ -119,9 +119,13 @@ You can set bid multipliers (with values other than 1.00) for a limited number o
 | Audience | Topics | 100 |
 | Brand Safety | Ads.txt | N/A |
 
+<!--
+
 >[!MORELIKETHIS]
 >
 >* [About Placement Management](placement-about.md)
 >* [Edit a Placement](placement-edit.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
+ -->
+ 
