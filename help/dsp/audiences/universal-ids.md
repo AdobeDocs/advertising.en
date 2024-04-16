@@ -5,13 +5,11 @@ feature: DSP Audiences
 ---
 # Support for Activating Universal IDs
 
-<!-- Title and description? -->
-
 DSP supports people-based, universal IDs for cookieless, single-device (not cross-device) targeting across digital formats supported by DSP.
 
 * You can manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. See "[Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)."
 
-* DSP can ingest your first-party segments comprised of hashed email IDs<!-- or universal IDs --> built within your customer data platform (CDP) and convert them to universal IDs. For more information about the supported customer data platforms, supported universal ID types and their available features, and the related workflows, see "[About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)."
+* DSP can ingest your first-party segments comprised of hashed email IDs built within your customer data platform (CDP) and convert them to universal IDs. For more information about the supported customer data platforms, supported universal ID types and their available features, and the related workflows, see "[About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)."
 
 * You can create custom segments that track users associated with ID5 universal IDs who are exposed to ads from desktop and mobile devices and who visit specific webpages. ID5 creates an ID by stitching together user signals (hashed email address) with various browser signals (such as IP address and timestamp). For instructions, see "[Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)."
 
