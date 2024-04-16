@@ -6,11 +6,9 @@ exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
 ---
 # Convert User IDs from [!DNL Tealium] to Universal IDs
 
-<!-- Add the prerequisite for Analyics users converting data to RampIDs and ID5 IDs? -->
-
 Use the DSP integration with the [!DNL Tealium] customer data platform to convert your organization's first-party hashed email addresses to universal IDs for targeted advertising. The process uses the [!DNL Amazon Web Services] (AWS) firehose connector. Follow these steps to share data from Tealium with DSP:
 
-1. (To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs; advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) [Set up tracking to enable [!DNL Analytics] measurement](#analytics-tracking).
+1. (To convert email addresses to [!DNL RampIDs]<!-- or [!DNL ID5] IDs -->; advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) [Set up tracking to enable [!DNL Analytics] measurement](#analytics-tracking).
 
 1. [Create an audience source in DSP](#source-create).
 
@@ -35,20 +33,6 @@ To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs, you must do the 
 1. Register with the universal ID partner and deploy universal ID-specific code on your webpages to match conversions from the IDs on desktop and mobile web browsers (but not mobile apps) to view-throughs:
    
    * **For [!DNL RampIDs]:** You must deploy an additional JavaScript tag on your webpages to match conversions from the IDs on desktop and mobile web browsers (but not mobile apps) to view-throughs. Contact your Adobe Account Team, who will give you instructions to register for a [!DNL LiveRamp] [!DNL LaunchPad] tag from [!DNL LiveRamp] Authentication Traffic Solutions. Registration is free, but you must sign an agreement. Once you register, your Adobe Account Team will generate and provide a unique tag for your organization to implement on your webpages.
-      
-   <!-- * **For [!DNL ID5] IDs:** Contact your Adobe Account Team, who will give you instructions for signing a free agreement with [!DNL ID5]. Once you sign the agreement, a member of ID5’s technical team will provide your partner ID, which you must share with your Adobe Account Team. You then must specify the partner ID above your existing Adobe Advertising JavaScript tracking tag on your web pages.
-
-     ```
-     window.1d5PartnerId=<your partner ID> 
-     <script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
-     <script>
-         if("undefined" != typeof AdCloudEvent) 
-          AdCloudEvent('IMS ORG Id','rsid');
-     </script>
-   ```
-   -->
-
-     <!-- You can verify calls using the network tab of a browser developer tool:  Each call is initiated to the domain `lasteventf-tm.everesttech.net` and contains the parameter `_les_id5` with an encrypted ID5 ID as its value -->
 
 ## Step 2: Create an audience source in DSP {#source-create}
 
@@ -153,6 +137,8 @@ You can have only one connector per segment and one segment per connector.
 After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
 
 The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue.
+
+Segments are refreshed every 24 hours.
    
 For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
