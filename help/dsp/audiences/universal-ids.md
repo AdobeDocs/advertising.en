@@ -88,9 +88,9 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 >[!MORELIKETHIS]
 >
+>* [Create an Audience Source to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-create.md)
 >* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
->* [Create an Audience Source to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-create.md)
 >* [Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)
 >* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
