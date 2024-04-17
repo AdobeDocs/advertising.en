@@ -60,7 +60,7 @@ You can target your placements to all of the following types of audiences.
 
 * All of your imported first-party data segments, including segments that were translated to universal IDs.
 
-  Additional fees are charged for impressions delivered to universal IDs. See "[About First-Party Audience Sources](source-about.md)" for rates.
+  Additional fees are charged for impressions delivered to universal IDs. See "[About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)" for rates.
 
 * All of your imported custom third-party data segments.
 
