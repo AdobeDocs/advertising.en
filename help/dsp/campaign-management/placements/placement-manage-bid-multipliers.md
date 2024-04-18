@@ -2,6 +2,7 @@
 title: Manage Bid Multipliers for Placements
 description: Learn how to create and edit bid multipliers for specified placement targets.
 feature: DSP Placements
+exl-id: fbd44960-c9df-4713-94b7-13bcdb7e2568
 ---
 # Manage Bid Multipliers for Placements
 
