@@ -20,7 +20,7 @@ For Adobe Advertising conversion tracking, which is applied when the campaign se
 >* The tracking template at the most granular level overrides the values at all higher levels. For example, if both the account settings and the keyword settings include a value, then the keyword value is applied.
 >* If you update a tracking template at the ad, sitelink, or keyword level, then the relevant ads are resubmitted for review. You can update your tracking templates at the account, campaign, or ad group levels without resubmitting your ads for approval.
 
-## Tracking Template field for Microsoft Advertising entities {#tracking-template-microsoft}
+## Tracking Template field for [!DNL Microsoft Advertising] entities {#tracking-template-microsoft}
 
 <!-- Search CRUD and bulk edit of Microsoft entity settings -->
 

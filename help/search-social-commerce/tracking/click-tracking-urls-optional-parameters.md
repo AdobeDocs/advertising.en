@@ -6,7 +6,7 @@ feature: Search Tracking
 ---
 # Optional tracking parameters for click-tracking URLs
 
-*Google Ads, Microsoft Advertising, and Yahoo! Japan accounts only*
+*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan], and [!DNL Yandex] accounts only*
 
 Instead of using only the standard tracking parameters for a final URL or destination URL, you may add more parameters to track specific data for an ad network account. You can add add any combination of the following parameters in the account settings or the campaign settings:
 
@@ -41,7 +41,7 @@ All of the following parameters must be specified as a key-value pair; you can i
 | <code>{custom_code}</code> | To insert data from the "Custom URL Param" column in an uploaded bulksheet file into the tracking URL. {custom_code} may be used only at the end of the value of one or more key-value pairs in the tracking URL. Examples:  <code>a={custom_code}</code>; <code>a={ef_campaignid}{custom_code}</code>; <code>a={ef_campaignid}{custom_code}&b={custom_code}</code><br><br><b>Note:</b> To insert the custom value from the bulksheet file into the tracking URL, upload the bulksheet file using the "Generate Tracking URLs" option. For more information about using bulksheet files, see "[About managing campaign data using bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md)." |
 | <code>{ef_uniqueid}</code> | To insert the unique ID created by Adobe Advertising. Added automatically when the tracking method is "EF Redirect." |
 | <code>{ef_userid}</code> | To insert the unique user ID that Adobe Advertising assigns to the advertiser. |
-| <code>{ef_sid}</code> | To insert the numeric ID that Search, Social, & Commerce assigns to the ad network: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft&reg; Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL Yahoo! Japan Ads], <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (deprecated), or <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (deprecated). |
+| <code>{ef_sid}</code> | To insert the numeric ID that Search, Social, & Commerce assigns to the ad network: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft®&reg; Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL Yahoo! Japan Ads], <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (deprecated), or <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (deprecated). |
 | <code>{ef_searchengine}</code> | To insert the ad network name. |
 | <code>{ef_campaign}</code> | To insert the campaign name. |
 | <code>{ef_campaignid}</code> | To insert the campaign ID. <b>Note:</b> The ID for a new campaign isn't created until the campaign is posted to the ad network. If the account uses the "[!UICONTROL EF Redirect]" and "AutoUpload" options, then Adobe Advertising automatically inserts the campaign ID in the relevant destination URLs or final URLs the next day. If the account doesn't use the "[!UICONTROL EF Redirect]" and [!UICONTROL Auto Upload]" options and you want to insert the campaign ID in the relevant destination URLs or final URLs, you must create the campaign; download a bulksheet file for the new campaign, using the option to "Generate Tracking URLs;" and then post the file to the ad network. |
@@ -49,26 +49,22 @@ All of the following parameters must be specified as a key-value pair; you can i
 | <code>{ef_adgroupid}</code> | To insert the ad group ID. <b>Note:</b> The ID for a new ad group isn't created until the ad group is posted to the ad network. If the account uses the "[!UICONTROL EF Redirect]" and "AutoUpload" options, then Adobe Advertising automatically inserts the ad group ID in the relevant destination URLs or final URLs the next day. If the account doesn't use the[!UICONTROL EF Redirect]" and [!UICONTROL Auto Upload]" options and you want to insert the ad group ID in the relevant destination URLs or final URLs, then you must create the ad group; download a bulksheet file for the new ad group, using the option to "Generate Tracking URLs;" and then post the file to the ad network. |
 | <code>{ef_keyword}</code> | To insert the keyword. |
 | <code>{ef_keywordid}</code> | To insert the keyword ID. <b>Note:</b> The ID for a new keyword isn't created until the keyword is posted to the ad network. If the account uses the "[!UICONTROL EF Redirect]" and [!UICONTROL Auto Upload]" options, then Adobe Advertising automatically inserts the keyword ID in the relevant destination URLs or final URLs the next day. If the account doesn't use the "[!UICONTROL EF Redirect]" and [!UICONTROL Auto Upload]" options and you want to insert the keyword ID in the relevant destination URLs or final URLs, then you must create the keyword; download a bulksheet file for the new keyword, using the option to "Generate Tracking URLs;" and then post the file to the ad network. |
-| <code>{ef_matchtype}</code> | To insert the keyword match type as "Broad," "Exact,"or "Phrase." Included automatically for Google Ads and Microsoft Advertising with the "[!UICONTROL EF Redirect]" tracking method. |
+| <code>{ef_matchtype}</code> | To insert the keyword match type as "Broad," "Exact,"or "Phrase." Included automatically for [!DNL Google Ads] and [!DNL Microsoft® Advertising] with the "[!UICONTROL EF Redirect]" tracking method. |
 | <code>{ef_adid}</code> | To insert the ad ID. <b>Note:</b> The ID for a new ad isn't created until the ad is posted to the ad network. If the account uses the "[!UICONTROL EF Redirect]" and [!UICONTROL Auto Upload]" options, then Adobe Advertising automatically inserts the ad ID in the relevant destination URLs or final URLs the next day. If the account doesn't use the "[!UICONTROL EF Redirect]" and [!UICONTROL Auto Upload]" options and you want to insert the ad ID in the relevant destination URLs or final URLs, then you must create the ad; download a bulksheet file for the new ad, using the option to "Generate Tracking URLs;" and then post the file to the ad network. |
 
-## Google Ads dynamic tracking parameters
+## [!DNL Google Ads] dynamic tracking parameters
 
 See [https://support.google.com/google-ads/answer/2375447](https://support.google.com/google-ads/answer/2375447).
 
-## Microsoft Advertising dynamic tracking parameters
+## [!DNL Microsoft® Advertising] dynamic tracking parameters
 
 See [https://help.bingads.microsoft.com/#apex/3/en/51091/2](https://help.bingads.microsoft.com/#apex/3/en/51091/2).
-
-## Yahoo Native dynamic tracking parameters
-
-See [https://developer.yahoo.com/nativeandsearch/guide/resources/dynamic-parameters](https://developer.yahoo.com/nativeandsearch/guide/resources/dynamic-parameters).
 
 ## Yahoo! Japan Ads dynamic tracking parameters
 
 See [https://ads-help.yahoo-net.jp/s/article/H000044463?language=en_US](https://ads-help.yahoo-net.jp/s/article/H000044463?language=en_US).
 
-## Yandex dynamic tracking parameters
+## [!DNL Yandex] dynamic tracking parameters
 
 See [https://yandex.com/support/direct/statistics/url-tags.html](https://yandex.com/support/direct/statistics/url-tags.html).
 

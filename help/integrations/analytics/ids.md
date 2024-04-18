@@ -57,7 +57,7 @@ where:
 * `gclid` is the [!DNL Google Click ID] (GCLID).
 * `s` is the network type ("s" for search).
 
-#### Microsoft Advertising search ads
+#### [!DNL Microsoft Advertising] search ads
 
 ```
 {msclkid}:G:s
