@@ -39,13 +39,15 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
 
    For instructions for activating the DSP destination connection, selecting segments, and accessing control permissions, see "[Adobe Advertising Cloud DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)."
 
+   The source email addresses must be hashed using the SHA-256 algorithm.
+
 1. After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
 
-   The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue.
+   The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue. For more information about how the segment counts can vary, see "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ide-data-variances)."
    
    For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
-Segments are refreshed every 24 hours.<!-- However, segment counts [???? the counts, or inclusion in a segment ???] from Real-Time CDP expire after 30 days to ensure privacy compliance, so refresh the audiences by re-pushing them from Real-Time CDP every 30 days or less.[!!!! Clarify how this works and the timing, and re-word accordingly.]-->
+Segments are refreshed every 24 hours. However, inclusion in a segment expires after 30 days to ensure privacy compliance, so refresh the audiences by re-pushing them from Real-Time CDP every 30 days or less.
 
 >[!MORELIKETHIS]
 >
