@@ -20,16 +20,19 @@ You can collect your own first-party audience data by creating and implementing 
 
   1. Complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
 
-  1. Add the following parameter to your webpages right before the [JavaScript code required for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)
+  1. Add the following parameter to your webpages before or within the the [JavaScript code required for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) &mdash;  anywhere before the last event service is initialized.
 
-     `window.id5PartnerId=Your_ID5_PartnerID`
+     `window.id5PartnerId=Your_ID5_PartnerID;`
      
      Example:
 
      ```
-     window.id5PartnerId=1234567890
      <script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
-     ...
+     <script>
+       window.id5PartnerId=Your_ID5_PartnerID;
+            if("undefined" != typeof AdCloudEvent)
+                AdCloudEvent('IMS ORG Id','rsid');
+     </script>
      ```
 
 ## Create and Implement a Custom Segment
