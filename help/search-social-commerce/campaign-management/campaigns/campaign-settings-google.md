@@ -250,7 +250,7 @@ by country. If you don't select any, all are targeted.
 
 **[!UICONTROL Final URL]:** The final URL for all ads created from the asset group. <!-- For campaigns created within Search, Social, & Commerce, final URL expansion is automatically enabled for the campaign, and Google Ads replaces this value with a more relevant landing page based on the user's search query and intent, and also customizes the headline based on the landing page content. You can disable final URL expansion, or exclude specific URLs from expansion, from within the [!DNL Google Ads] editor. -->
 
-**[!UICONTROL Images]:** Up to 15 images for the ad, including the following sizes: 1) at least three square images, 2) at least three landscape images, and 3) at least one portrait image. See the [[!DNL Google Ads] image specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Images]:** Up to 15 images for the ad, including the following sizes: 1) at least three square images, 2) at least three landscape images, and 3) at least one portrait image. See the [[!DNL Google Ads] image specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To upload images:
 
@@ -272,7 +272,7 @@ by country. If you don't select any, all are targeted.
 
 * To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
 
-**[!UICONTROL Logos]:** At least one square (1:1) logo and one landscape (4:1) logo. You can include up to five of each size. See the [[!DNL Google Ads] logo specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Logos]:** At least one square (1:1) logo and one landscape (4:1) logo. You can include up to five of each size. See the [[!DNL Google Ads] logo specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To upload images:
 
@@ -294,7 +294,7 @@ by country. If you don't select any, all are targeted.
 
 * To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
 
-**[!UICONTROL Videos]:** (Optional) At least one, and up to five, [!DNL YouTube] videos that are at least 10 seconds long. You can either enter URLs or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Videos]:** (Optional) At least one, and up to five, [!DNL YouTube] videos that are at least 10 seconds long. You can either enter URLs or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To enter URLs:
 
@@ -306,7 +306,7 @@ by country. If you don't select any, all are targeted.
   
 **[!UICONTROL Headlines]:** At least three, and up to five, short headlines with a maximum of 30 characters each. At least one headline must be at least 15 characters or less. If the campaign-level option to enable final URL expansion is set within [!DNL Google Ads], then [!DNL Google Ads] replaces this value with a custom headline based on the landing page content.
 
- You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+ You can either enter text or select assets from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To enter text:
 
@@ -316,7 +316,7 @@ by country. If you don't select any, all are targeted.
 
 * To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
 
-**[!UICONTROL Long Headlines]:** At least one, and up to five, long headlines with a maximum of 90 characters each. You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Long Headlines]:** At least one, and up to five, long headlines with a maximum of 90 characters each. You can either enter text or select assets from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To enter text:
 
@@ -326,7 +326,7 @@ by country. If you don't select any, all are targeted.
 
 * To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
 
-**[!UICONTROL Descriptions]:** At least two, and up to four, descriptions with a maximum of 90 characters each. At least one description must be at least 30 characters or less. You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Descriptions]:** At least two, and up to four, descriptions with a maximum of 90 characters each. At least one description must be at least 30 characters or less. You can either enter text or select assets from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To enter text:
 
