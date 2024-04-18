@@ -26,21 +26,33 @@ Use macros for [!DNL Flashtalking] display and video ads for the following types
 
 Within the [!DNL Flashtalking] ad tag settings, append the following macro to the end of the click-through URL in the `Clicktag` field:
 
-```html
-?[ftqs:[AdobeAMO]]
+```
+[ftqs:[AdobeAMO]]
 ```
 
-Example:  `https://www.adobe.com/products/photoshop?[ftqs:[AdobeAMO]]`
+It it's the first or only query string after the base URL, then separate it from the base URL with a `?`. If the base URL will include multiple query strings, then begin the first string with a `?` and each subsequent string with a `&`.
+
+Examples:
+  
+`https://www.adobe.com/products/photoshop?[ftqs:[AdobeAMO]]`
+
+`https://www.adobe.com/products/photoshop?cid=email&[ftqs:[AdobeAMO]]`
 
 ## Video Ad Tags
 
 Within the [!DNL Flashtalking] ad tag settings, append the following macro to the end of the click-through URL in the `Clicktag` field:
 
-```html
-?[%EL:param['AdobeAMO']%]&s_kwcid=[%EL:param['s_kwcid']%]
+```
+[%EL:param['AdobeAMO']%]&s_kwcid=[%EL:param['s_kwcid']%]
 ```
 
-Example:  `https://www.adobe.com/products/photoshop?[%EL:param['AdobeAMO']%]&s_kwcid=[%EL:param['s_kwcid']%]`
+It it's the first or only query string after the base URL, then separate it from the base URL with a `?`. If the base URL will include multiple query strings, then begin the first string with a `?` and each subsequent string with a `&`.
+
+Examples:
+
+`https://www.adobe.com/products/photoshop?[%EL:param['AdobeAMO']%]&s_kwcid=[%EL:param['s_kwcid']%]`
+
+`https://www.adobe.com/products/photoshop?cid=email&[%EL:param['AdobeAMO']%]&s_kwcid=[%EL:param['s_kwcid']%]`
 
 >[!MORELIKETHIS]
 >
