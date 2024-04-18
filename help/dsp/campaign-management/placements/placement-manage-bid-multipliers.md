@@ -43,7 +43,7 @@ You can configure bid modifiers only for included targets, not excluded targets.
 
 * **Audience targets:** segments, dayparts, and topics
 
-* **ads.txt targets:** (When you opt out of ads.txt) ads.txt sellers only, ads.txt direct sellers, and ads.txt sellers plus sites without ads.txt.
+* **ads.txt targets:** (When you opt out of ads.txt, which allows you to buy inventory from all sellers) ads.txt sellers only, ads.txt direct sellers, and ads.txt sellers plus sites without ads.txt <!-- bid multipliers for the different subsets of inventory -->
 
 ## Maximum Number of Bid Multipliers by Target Type {#bid-multiplier-limits-by-target}
 
