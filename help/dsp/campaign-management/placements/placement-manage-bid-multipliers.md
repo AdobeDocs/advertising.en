@@ -9,7 +9,7 @@ You can change the bid multipliers for your existing placement targets using thi
 
 To change the selected targets for your placements, see "[Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)."
 
-<!--  
+<!-- 
 ## Manage the Bid Multipliers for a Single Placement
 -->
 
