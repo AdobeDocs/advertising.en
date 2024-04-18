@@ -54,25 +54,15 @@ See "[Placement Settings](/help/dsp/campaign-management/placements/placement-set
 
 Use the following best practices for [!DNL RampID]-based segments and ID5-based segments, for which Adobe Analytics measurement is available.
 
-<!-- revisit -->
+* About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, then contact your Adobe Account Team.
 
-* About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, then contact your Adobe Account Team. <!-- What can be causes of data variances, and how much variance can be expected? -->
+  See "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ide-data-variances)" for more information about how the segment counts can vary.
 
 * Don't change your existing packages and placements. However, if you don't have incremental budget to test universal IDs, then reduce the original budgets to fund the tests.
 
 * Copy your original packages and placements, adjust the budgets based on the size of the test, change the audiences to use [!DNL RampID]-based segments (for authenticated users) or ID5-based segments (for unauthenticated users), and verify that the new packages and placements spend their full budgets.
 
   * To compare the performance of universal ID-based segments with the performance of placements targeting other audience identifiers, such as cookies or mobile advertising IDs, create a campaign with a separate universal ID-based placement and a legacy ID-based placement.
-
-    Use the following configuration:
-
-    * The recommended campaign budget is USD 10,000. Split the budget evenly between the universal ID-based placement (test group) and the legacy ID-based placement (test group).
-
-    * The recommended audience size is 25,000 universal IDs.
-
-    * Run the placements for at least three weeks.
-
-    * Use the following ad types: display, video, CTV, universal video, and audio
 
     Getting the best performance shouldn't be the primary comparison. Instead, determine which IDs are scaling well, which might inform your optimization and budget allocations later. The long-term goal is to make up for lost impressions and site traffic when cookies are deprecated.
 
@@ -85,6 +75,16 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
     >Frequency capping applies to an individual ID. When a user has multiple ID types, you might be reaching that user more than you had expected.
 
 * Remember that the reach for authenticated audience segments is naturally smaller than the reach for cookie-based segments, and that using additional targeting options further decreases your reach. Be judicious about using granular targeting, especially by joining multiple targets with AND statements.
+
+## Causes for Data Variances Between Email IDs and Universal IDs {#universal-ide-data-variances}
+
+There are two reasons for variance for hashed email IDs translated to [!DNL RampIDs]: 
+
+* When multiple email IDs belong to the same person or profile, the DSP segment count can be lower than the profile count within your customer data platform. For example, in Adobe Photoshop, you can create a company account and a personal account using separate email IDs. But if both accounts belong to the same segment, then the profiles map to one email ID and correspondingly to one [!DNL RampID]. 
+
+* A [!DNL RampID] can be upgraded to a new value. If [!DNL LiveRamp] doesn't recognize an email ID or can't map it to an existing [!DNL RampID] in its database, then it assigns a new [!DNL RampID] to the email ID. In the future, when they can map the email ID to another [!DNL RampID] or can gather more information about the same email ID, they upgrade the [!DNL RampID] to a new value. [!DNL LiveRamp] refers to this action as upgrading from a "derived" [!DNL RampID] to a "maintained" [!DNL RampID]. However, DSP doesn't get mappings between derived and maintained [!DNL RampIDs] and therefore can't remove the previous version of the RampID from the DSP segment. In this case, the segment count can be more than the profile count.
+
+  Example: I log in to the [!DNL Adobe] website and visit the Photoshop page. If [!DNL LiveRamp] doesn't have any existing information about me, then they assign me a derived [!DNL RampID], say D123. Fifteen days later, I visit the same page, but [!DNL LiveRamp] has upgraded my [!DNL RampID] during those 15 days and has reassigned my [!DNL RampID] to M123. Even though the customer data platform's segment "Photoshop Enthusiast" has only one email ID for me, the DSP segment has two RampIDs: D123 and M123. 
 
 >[!MORELIKETHIS]
 >
