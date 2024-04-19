@@ -6,6 +6,8 @@ exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
 ---
 # Manually Import Authenticated Segments from [!DNL LiveRamp]
 
+*Beta feature*
+
 You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. You can use imported segments for placement targeting. For first-party segments, fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered. 
 
 <!--Is this first step relevant for this process?
@@ -14,7 +16,7 @@ You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!
 
    1. Complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
    
-   1. Deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match onsite events to ad impressions. Contact your Adobe Account Team to get the tag and instructions for where to implement it.
+   1. [Maybe just add a param to existing tag] Deploy a second JavaScript tag for [!DNL RampIDs] on your webpages to match onsite events to ad impressions. Contact your Adobe Account Team to get the tag and instructions for where to implement it.
 
  -->
 

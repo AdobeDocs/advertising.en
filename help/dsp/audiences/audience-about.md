@@ -16,7 +16,7 @@ In DSP, you can create and manage audience segments and audience sets, which you
 
       For more information about Adobe Advertising support for CCPA opt-out-of-sale requests, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
-* [Obtain and use universal IDs for cookieless targeting](/help/dsp/audiences/universal-ids.md):
+* (Beta feature) [Obtain and use universal IDs for cookieless targeting](/help/dsp/audiences/universal-ids.md):
 
   * Manually send your authenticated [!DNL LiveRamp] [!DNL RampID] segments directly to DSP.
 
