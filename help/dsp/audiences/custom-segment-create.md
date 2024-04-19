@@ -14,6 +14,8 @@ You can collect your own first-party audience data by creating and implementing 
 
 ## Prerequisites for Segments to Track ID5 IDs
 
+*Beta feature* 
+
 * Before you generate a segment to track users associated with ID5 IDs, you must sign an agreement with [!DNL ID5] and get your organization's partner ID. Contact your Adobe Account Team for instructions.
 
 * For measurement in Adobe Analytics, you must:
