@@ -122,7 +122,7 @@ the campaign's products are sold. Because products are associated with target co
 ## [!UICONTROL Campaign Targeting]
 
 **[!UICONTROL Languages]:** (Search and display networks only) One or more target languages for ads in the campaign.
-
+ 
 [!DNL Google Ads] determines a user's language from the user's [!DNL Google] language setting or the language of the search query, the current page, or recently viewed pages on the [!DNL Google Display Network].
 
 **[!UICONTROL Location Targets]:** Specific user geographical locations to include or exclude as targets. By default, all locations are targeted. You can include and exclude users in any combination of locations. Exclusions always override inclusions.
