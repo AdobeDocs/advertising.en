@@ -25,7 +25,7 @@ the campaign may contain:
 
 * *[!UICONTROL Audience Video]:* (Beta feature) Shows standard video ads on the audience network.
 
-* *[!UICONTROL Performance Max]:* (Beta feature) Shows multiple ad types across all networks using [!DNL Microsoft Advertising] smart bidding. Within the campaign settings, you must specify one or more asset groups, which include images, logos, headlines, descriptions, an optional call to action, and audience signals. The ad network automatically combines the assets to serve ads based on the channel.
+* *[!UICONTROL Performance Max]:* (Beta feature) Shows multiple ad types across all networks using [!DNL Microsoft® Advertising] smart bidding. Within the campaign settings, you must specify one or more asset groups, which include images, logos, headlines, descriptions, an optional call to action, and audience signals. The ad network automatically combines the assets to serve ads based on the channel.
 
 ## [!UICONTROL Campaign Details]
 
@@ -63,15 +63,15 @@ the campaign may contain:
 
   When you add a campaign with eCPC to an optimized Search, Social, & Commerce portfolio, Search, Social, & Commerce optimizes the base bids and &mdash; when the "[!UICONTROL Auto adjust campaign budget limits]" option is enabled &mdash; the campaign budget. The ad network optimizes all bid adjustments and may change the Search, Social, & Commerce-generated bids at the time of the user query based on proprietary data and insights. **Caution:** Use eCPC campaigns in portfolios only when the total conversions tracked on the ad network align with the portfolio objective.
 
-* *[!UICONTROL Manual CPC]*: (Shopping campaigns for brands; [!DNL Microsoft Store Ads] campaigns; deprecated by [!DNL Microsoft® Advertising] in 2021 for other campaign types) Uses the cost-per-click (CPC) model. For some ad types, you can optionally allow the ad network to change bids for the campaign:
+* *[!UICONTROL Manual CPC]*: (Shopping campaigns for brands; [!DNL Microsoft® Store Ads] campaigns; deprecated by [!DNL Microsoft® Advertising] in 2021 for other campaign types) Uses the cost-per-click (CPC) model. For some ad types, you can optionally allow the ad network to change bids for the campaign:
 
-  * **[!UICONTROL Enable Enhanced CPC]** (disabled by default): This is the same as using the "[!UICONTROL Enhanced CPC]" option.
+  * **[!UICONTROL Enable Enhanced CPC]** (disabled by default): This option is the same as using the "[!UICONTROL Enhanced CPC]" option.
 
-* *[!UICONTROL Manual CPA]:* ([!DNL Microsoft Store Ads] campaigns) Uses the cost per acquisition (CPA) model.
+* *[!UICONTROL Manual CPA]:* ([!DNL Microsoft® Store Ads] campaigns) Uses the cost per acquisition (CPA) model.
 
 * *[!UICONTROL Manual CPM]* (Audience campaigns and audience video campaigns only) Uses the cost-per-thousand-impressions (CPM) model, for which you specify what you want to spend per 1,000 viewed impressions. Campaigns with this bid strategy aren't optimized when they're included in portfolios.
 
-* *[!UICONTROL Maximize Clicks]:* (Search and shopping campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to maximize clicks. Optionally, enter a **[!UICONTROL Max CPC]** (cost per click) to ensure that the ad network doesn't pay more than a specific amount for each click. **Caution:** When you add a campaign with this strategy to a portfolio, bids are driven by click weight, not by the portfolio objective.
+* *[!UICONTROL Maximize Clicks]:* (Search and shopping campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to maximize clicks. Optionally, enter a **[!UICONTROL Max CPC]** (cost per click) to ensure that the ad network doesn't pay more than a specific amount for each click. **Caution:** When you add a campaign with this strategy to a portfolio, the click weight (not the portfolio objective) drives bids.
 
 * *[!UICONTROL Maximize Conversion Value]:* (Search and shopping/smart shopping networks, performance max campaigns) The ad network &mdash; not Search, Social, & Commerce  &mdash; optimizes bids to maximize conversion value. Optionally enter a **[!UICONTROL Target Return on Ad Spend]** (ROAS) as a percent. **Note:** Use this option for campaigns in hybrid portfolios but not standard portfolios.
 
@@ -83,7 +83,7 @@ the campaign may contain:
 
 * *[!UICONTROL Target Impression Share]:* (Campaigns on the search network) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to achieve a target impression share and ad position. Optionally, enter a **[!UICONTROL Target Impression Share]** as a percent, the **[!UICONTROL Target Ad Position]**, and a **[!UICONTROL Max CPC]** (cost per click). **Note:** This option isn't supported in hybrid portfolios.
 
-* *[!UICONTROL Target Return on Ad Spend]:*  (Campaigns on the search and shopping networks) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on your **[!UICONTROL Target ROAS]** (return on ad spend), specified as a percentage. Optionally, enter a **[!UICONTROL Max CPC]** (cost per click) to ensure that the ad network doesn't pay more than a specific amount for each click. **Note:** Use this option for campaigns in hybrid portfolios (but not standard portfolios) with any spend strategy except [!UICONTROL Weekly] or [!UICONTROL Google Target ROAS].
+* *[!UICONTROL Target Return on Ad Spend]:* (Campaigns on the search and shopping networks) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on your **[!UICONTROL Target ROAS]** (return on ad spend), specified as a percentage. Optionally, enter a **[!UICONTROL Max CPC]** (cost per click) to ensure that the ad network doesn't pay more than a specific amount for each click. **Note:** Use this option for campaigns in hybrid portfolios (but not standard portfolios) with any spend strategy except [!UICONTROL Weekly] or [!UICONTROL Google Target ROAS].
 
   Average position and CPC bid data aren't available for campaigns with this bid strategy.
 
@@ -112,7 +112,7 @@ Once you link the campaign to a store and save the settings, you can't change th
 
 ## [!UICONTROL Campaign Targeting]
 
-**[!UICONTROL Languages]:** (Performance max campaigns only) The language of the ad, which should match the language of the sites on which your ad will appear. [!DNL Microsoft Advertising] determines a user's language from various signals, including the user's query, the publisher's country, and the user's language setting.
+**[!UICONTROL Languages]:** (Performance max campaigns only) The language of the ad, which should match the language of the sites on which your ad can appear. [!DNL Microsoft® Advertising] determines a user's language from various signals, including the user's query, the publisher's country, and the user's language setting.
 
 <!-- **[!UICONTROL Location Targets]:** -->
 
@@ -202,7 +202,7 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 **[!UICONTROL Final URL]:** The final URL for all ads created from the asset group.
 
-**[!UICONTROL Images]:** Up to 20 images for the ad, including at least one square image and one landscape image. See the [[!DNL Microsoft Advertising] image guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
+**[!UICONTROL Images]:** Up to 20 images for the ad, including at least one square image and one landscape image. See the [[!DNL Microsoft® Advertising] image guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To upload images:
 
@@ -224,7 +224,7 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 * To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
 
-**[!UICONTROL Logos]:** At least one logo. You can include up to five. See the [[!DNL Microsoft Advertising] asset guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
+**[!UICONTROL Logos]:** At least one logo. You can include up to five. See the [[!DNL Microsoft® Advertising] asset guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To upload images:
 
@@ -280,7 +280,7 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 **[!UICONTROL Business Name]:** The business name, with a maximum of 25 characters. It can't contain scripts, HTML, or other markup language.
 
-**[!UICONTROL Audience Signal]:** (Optional) [!DNL Microsoft Advertising] audiences to use as audience signals for the campaign. [!DNL Microsoft Advertising] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
+**[!UICONTROL Audience Signal]:** (Optional) [!DNL Microsoft® Advertising] audiences to use as audience signals for the campaign. [!DNL Microsoft® Advertising] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
 
 >[!NOTE]
 >Audience signals are different from [ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
