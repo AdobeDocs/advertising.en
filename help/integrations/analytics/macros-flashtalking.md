@@ -9,7 +9,7 @@ exl-id: ce81824c-60bf-487c-8358-d18fcb3cc95f
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
 *Applicable to Advertising DSP only*
- 
+
 If you use ad tags from [!DNL Flashtalking] for your Advertising DSP ads, append Analytics for Advertising parameters to your landing page URLs. The parameters record AMO ID (`s_kwcid`) and `ef_id` query string parameters in the landing page URL, allowing Adobe Advertising to send click data for the ads to Adobe Analytics.
 
 Use macros for [!DNL Flashtalking] display and video ads for the following types of [!DNL Analytics for Advertising] implementations:
