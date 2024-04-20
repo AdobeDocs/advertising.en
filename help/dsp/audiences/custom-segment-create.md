@@ -24,7 +24,7 @@ You can collect your own first-party audience data by creating and implementing 
 
   1. Add the following parameter to your webpages before or within the the [JavaScript code required for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) &mdash;  anywhere before the last event service is initialized.
 
-     `window.id5PartnerId=Your_ID5_PartnerID;`
+     ```window.id5PartnerId=Your_ID5_PartnerID;```
      
      Example:
 
