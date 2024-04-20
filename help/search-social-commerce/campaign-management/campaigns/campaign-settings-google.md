@@ -25,7 +25,7 @@ the campaign may contain:
   
   * Only required settings are available. For optional settings, log in to the [!DNL Google Ads] editor.
   
-  * Links to [!DNL Google Merchant Center] product feeds aren’t supported.
+  * Links to [!DNL Google Merchant Center] product feeds aren't supported.
   
   * Support for listing groups isn't available. To manage and view data for listing groups, log in to the [!DNL Google Ads] editor.
 
@@ -244,7 +244,7 @@ by country. If you don't select any, all are targeted.
 
 ## [!UICONTROL Asset Groups] (per asset group)
 
-**[!UICONTROL Asset Group Name]:** The name of the asset group. Links to [!DNL Google Merchant Center] product feeds aren’t supported.
+**[!UICONTROL Asset Group Name]:** The name of the asset group. Links to [!DNL Google Merchant Center] product feeds aren't supported.
 
 **[!UICONTROL Asset Group Status]:** The status of the asset group: *[!UICONTROL Active]* or *[!UICONTROL Paused]*.
 
@@ -340,7 +340,7 @@ by country. If you don't select any, all are targeted.
 
 **[!UICONTROL Business Name]:** The business name, with a maximum of 25 characters.
 
-**[!UICONTROL Audience Signal]:** (Optional) [!DNL Google Ads] audiences to use as audience signals for the campaign. [!DNL Google Ads] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
+**[!UICONTROL Audience Signal]:** (Optional) [!DNL Google Ads] audiences to use as audience signals for the campaign. [!DNL Google Ads] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren't specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
 
 >[!NOTE]
 >Audience signals are different from [campaign-level and ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
@@ -362,3 +362,4 @@ To create a custom conversion goal, click **[!UICONTROL + Add custom goal]**, en
 >[!MORELIKETHIS]
 >
 >* [Manage campaigns](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+

@@ -59,3 +59,4 @@ Examples:
 >* [Overview of [!DNL Analytics for Advertising]](overview.md)
 >* [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
 >* [Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)
+
