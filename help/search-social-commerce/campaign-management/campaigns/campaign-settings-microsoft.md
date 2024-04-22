@@ -5,7 +5,7 @@ exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
 ---
 # [!DNL Microsoft® Advertising] campaign settings
-
+ 
 ## \[Campaign Creation screen\]
 
 **[!UICONTROL Campaign Type]:** (Available during campaign creation only) Where to place ads, and which ad types
