@@ -6,7 +6,7 @@ feature: Search Introduction
 ---
 # Supported inventory
 
-Following are the supported ad networks, campaign types, and ad types, and the functionality available for each ad type. 
+Following are the supported ad networks, campaign types, and ad types, and the functionality available for each ad type.
 
 >[!TIP]
 >
