@@ -53,7 +53,7 @@ the campaign may contain:
 
 **[!UICONTROL Bid strategy]:** The bid strategy for the campaign:
 
-* *[!UICONTROL Cost per Sale]:* (Shopping campaigns only) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on the **[!UICONTROL Target CPS]** (cost per sale). You pay only when a click on your product ad results in a sale within 24 hours. **Note:** Don't include campaigns with this bid strategy in portfolios. Search, Social, & Commerce optimization isn’t available for campaigns with this bid strategy.
+* *[!UICONTROL Cost per Sale]:* (Shopping campaigns only) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on the [!UICONTROL Target CPS] (cost per sale). You pay only when a click on your product ad results in a sale within 24 hours. **Note:** Don't include campaigns with this bid strategy in portfolios. Search, Social, & Commerce optimization isn’t available for campaigns with this bid strategy.
 
   Once you save a shopping campaign for brands with this bid strategy, you can't change the bid strategy. For other shopping campaign types, this strategy is available only for new campaigns.
 
