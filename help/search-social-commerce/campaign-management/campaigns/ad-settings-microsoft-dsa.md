@@ -14,9 +14,9 @@ Expanded dynamic search ads (eDSAs) are available only in dynamic ad groups in c
 
 <!-- **[!UICONTROL Display Path 1]**, **[!UICONTROL Display Path 2]:** -->
 
-**[!UICONTROL Description Line 2]:** (Optional) A second line for the ad. The maximum length is 90 single-byte characters or 45 double-byte characters.
-
 {{$include /help/_includes/display-path1-2.md}}
+
+**[!UICONTROL Description Line 2]:** (Optional) A second line for the ad. The maximum length is 90 single-byte characters or 45 double-byte characters.
 
 <!-- **[!UICONTROL Status]:** -->
 

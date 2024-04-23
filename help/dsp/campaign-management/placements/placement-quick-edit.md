@@ -27,6 +27,7 @@ You can edit the placement name, status, maximum bid, and budget without opening
 >* [Create a Placement](placement-create.md)
 >* [Edit a Placement](placement-edit.md)
 >* [Duplicate a Placement](placement-duplicate.md)
+>* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
 >* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
 >* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [View the Change Log for a Placement](placement-change-log.md)

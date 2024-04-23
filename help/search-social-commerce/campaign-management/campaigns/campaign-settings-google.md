@@ -25,7 +25,7 @@ the campaign may contain:
   
   * Only required settings are available. For optional settings, log in to the [!DNL Google Ads] editor.
   
-  * Links to [!DNL Google Merchant Center] product feeds aren’t supported.
+  * Links to [!DNL Google Merchant Center] product feeds aren't supported.
   
   * Support for listing groups isn't available. To manage and view data for listing groups, log in to the [!DNL Google Ads] editor.
 
@@ -68,7 +68,7 @@ your ads on the ad network's search partner networks. By default, this option is
 
 * *[!UICONTROL Enhanced CPC]:* (Not available for performance max or existing, read-only [!DNL Gmail] campaigns) Uses the ad network's enhanced cost-per-click (eCPC) model, which allows the ad network to automatically change the cost-per-click (CPC) bid for each auction in an attempt to maximize conversions, using conversion(s) specified within the ad network (not in Search, Social, & Commerce), while trying to keep your average CPC below your maximum CPC. 
 
-When you add a campaign with eCPC to an optimized Search, Social, & Commerce portfolio, Search, Social, & Commerce optimizes the base bids and &mdash; when the "[!UICONTROL Auto adjust campaign budget limits]" option is enabled &mdash; the campaign budget. The ad network optimizes all bid adjustments and may change the Search, Social, & Commerce-generated bids at the time of the user query based on proprietary data and insights. **Caution:** Use eCPC campaigns in portfolios only when the total conversions tracked on the ad network align with the portfolio objective. <!-- Note to self: Within the ad network UI, you specify conversion goals either a) all conversion actions you've set to be included in "Conversions" at the account level or b) one or more individual conversions to use for optimization -->
+When you add a campaign with eCPC to an optimized Search, Social, & Commerce portfolio, Search, Social, & Commerce optimizes the base bids and &mdash; when the "[!UICONTROL Auto adjust campaign budget limits]" option is enabled &mdash; the campaign budget. The ad network optimizes all bid adjustments and may change the Search, Social, & Commerce-generated bids at the time of the user query based on proprietary data and insights. **Caution:** Use eCPC campaigns in portfolios only when the total conversions tracked on the ad network align with the portfolio objective. <!-- Note to self: Within the ad network UI, you specify conversion goals either a) all conversion actions you've set to be included in "Conversions" at the account level or b) one or more individual conversions to use for optimization --> 
 
 * *[!UICONTROL Manual CPC]* (the default): (Not available for performance max campaigns) Uses the cost-per-click (CPC) model. You can optionally allow the ad network to change bids for the campaign:
 
@@ -244,13 +244,13 @@ by country. If you don't select any, all are targeted.
 
 ## [!UICONTROL Asset Groups] (per asset group)
 
-**[!UICONTROL Asset Group Name]:** The name of the asset group. Links to [!DNL Google Merchant Center] product feeds aren’t supported.
+**[!UICONTROL Asset Group Name]:** The name of the asset group. Links to [!DNL Google Merchant Center] product feeds aren't supported.
 
 **[!UICONTROL Asset Group Status]:** The status of the asset group: *[!UICONTROL Active]* or *[!UICONTROL Paused]*.
 
 **[!UICONTROL Final URL]:** The final URL for all ads created from the asset group. <!-- For campaigns created within Search, Social, & Commerce, final URL expansion is automatically enabled for the campaign, and Google Ads replaces this value with a more relevant landing page based on the user's search query and intent, and also customizes the headline based on the landing page content. You can disable final URL expansion, or exclude specific URLs from expansion, from within the [!DNL Google Ads] editor. -->
 
-**[!UICONTROL Images]:** Up to 15 images for the ad, including the following sizes: 1) at least three square images, 2) at least three landscape images, and 3) at least one portrait image. See the [[!DNL Google Ads] image specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Images]:** Up to 15 images for the ad, including the following sizes: 1) at least three square images, 2) at least three landscape images, and 3) at least one portrait image. See the [[!DNL Google Ads] image specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To upload images:
 
@@ -272,7 +272,7 @@ by country. If you don't select any, all are targeted.
 
 * To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
 
-**[!UICONTROL Logos]:** At least one square (1:1) logo and one landscape (4:1) logo. You can include up to five of each size. See the [[!DNL Google Ads] logo specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Logos]:** At least one square (1:1) logo and one landscape (4:1) logo. You can include up to five of each size. See the [[!DNL Google Ads] logo specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To upload images:
 
@@ -294,7 +294,7 @@ by country. If you don't select any, all are targeted.
 
 * To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
 
-**[!UICONTROL Videos]:** (Optional) At least one, and up to five, [!DNL YouTube] videos that are at least 10 seconds long. You can either enter URLs or select them from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Videos]:** (Optional) At least one, and up to five, [!DNL YouTube] videos that are at least 10 seconds long. You can either enter URLs or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To enter URLs:
 
@@ -306,7 +306,7 @@ by country. If you don't select any, all are targeted.
   
 **[!UICONTROL Headlines]:** At least three, and up to five, short headlines with a maximum of 30 characters each. At least one headline must be at least 15 characters or less. If the campaign-level option to enable final URL expansion is set within [!DNL Google Ads], then [!DNL Google Ads] replaces this value with a custom headline based on the landing page content.
 
- You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+ You can either enter text or select assets from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To enter text:
 
@@ -316,7 +316,7 @@ by country. If you don't select any, all are targeted.
 
 * To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
 
-**[!UICONTROL Long Headlines]:** At least one, and up to five, long headlines with a maximum of 90 characters each. You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Long Headlines]:** At least one, and up to five, long headlines with a maximum of 90 characters each. You can either enter text or select assets from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To enter text:
 
@@ -326,7 +326,7 @@ by country. If you don't select any, all are targeted.
 
 * To select assets from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the assets.
 
-**[!UICONTROL Descriptions]:** At least two, and up to four, descriptions with a maximum of 90 characters each. At least one description must be at least 30 characters or less. You can either enter text or select assets from your [!UICONTROL Asset Library] -- but not both in the same operation.
+**[!UICONTROL Descriptions]:** At least two, and up to four, descriptions with a maximum of 90 characters each. At least one description must be at least 30 characters or less. You can either enter text or select assets from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To enter text:
 
@@ -340,7 +340,7 @@ by country. If you don't select any, all are targeted.
 
 **[!UICONTROL Business Name]:** The business name, with a maximum of 25 characters.
 
-**[!UICONTROL Audience Signal]:** (Optional) [!DNL Google Ads] audiences to use as audience signals for the campaign. [!DNL Google Ads] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
+**[!UICONTROL Audience Signal]:** (Optional) [!DNL Google Ads] audiences to use as audience signals for the campaign. [!DNL Google Ads] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren't specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
 
 >[!NOTE]
 >Audience signals are different from [campaign-level and ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
@@ -362,3 +362,4 @@ To create a custom conversion goal, click **[!UICONTROL + Add custom goal]**, en
 >[!MORELIKETHIS]
 >
 >* [Manage campaigns](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+
