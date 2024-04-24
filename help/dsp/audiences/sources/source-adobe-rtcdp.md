@@ -17,22 +17,6 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
    1. Register with the universal ID partner and deploy universal ID-specific code on your webpages to match conversions from the IDs on desktop and mobile web browsers (but not mobile apps) to view-throughs:
    
       * **For [!DNL RampIDs]:** You must deploy an additional JavaScript tag on your webpages to match conversions from the IDs on desktop and mobile web browsers (but not mobile apps) to view-throughs. Contact your Adobe Account Team, who will give you instructions to register for a [!DNL LiveRamp] [!DNL LaunchPad] tag from [!DNL LiveRamp] Authentication Traffic Solutions. Registration is free, but you must sign an agreement. Once you register, your Adobe Account Team will generate and provide a unique tag for your organization to implement on your webpages.
-      
-      <!-- * **For [!DNL ID5] IDs:** Contact your Adobe Account Team, who will give you instructions for signing a free agreement with [!DNL ID5]. Once you sign the agreement, a member of ID5’s technical team will provide your partner ID, which you must share with your Adobe Account Team. You then must specify the partner ID before or within your existing [Adobe Advertising JavaScript tracking tag](/help/integrations/analytics/javascript.md) (anywhere before initializing the last event service) on your webpages. -->
-<!--
-
-      ```
-      <script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
-     <script>
-       window.id5PartnerId=Your_ID5_PartnerID;
-            if("undefined" != typeof AdCloudEvent)
-                AdCloudEvent('IMS ORG Id','rsid');
-     </script>
-      ```
-      
-        <!-- You can verify calls using the network tab of a browser developer tool:  Each call is initiated to the domain `lasteventf-tm.everesttech.net` and contains the parameter `_les_id5` with an encrypted ID5 ID as its value -->
-
-      -->
 
 1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account. You can choose to convert your user identifiers to any of the [available universal ID formats](source-about.md).
 
