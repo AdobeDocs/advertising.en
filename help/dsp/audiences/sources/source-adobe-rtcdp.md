@@ -20,6 +20,7 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
       
       <!-- * **For [!DNL ID5] IDs:** Contact your Adobe Account Team, who will give you instructions for signing a free agreement with [!DNL ID5]. Once you sign the agreement, a member of ID5’s technical team will provide your partner ID, which you must share with your Adobe Account Team. You then must specify the partner ID before or within your existing [Adobe Advertising JavaScript tracking tag](/help/integrations/analytics/javascript.md) (anywhere before initializing the last event service) on your webpages. -->
 <!--
+
       ```
       <script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
      <script>
