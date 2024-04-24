@@ -20,6 +20,8 @@ View the recommended actions, and an explanation of why the actions would be ben
 
 1. In the upper right, select the ad network and the account.
 
+   For [!DNL Microsoft® Advertising] accounts, the [!UICONTROL Recommendations] for the account are listed by default.
+
 1. (Optional) Filter the recommendations or insights by category and type.
 
 1. In the [!UICONTROL Actions] column for the recommendation or insight row, click **[!UICONTROL View]**.
