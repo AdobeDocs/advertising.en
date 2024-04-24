@@ -14,6 +14,8 @@ exl-id: 8a9d99b1-c90b-4a1c-9516-85edc9024a7c
 
 1. In the upper right, select the ad network and the account.
 
+1. ([!DNL Microsoft® Advertising] accounts) To view insights for the account, click **[!UICONTROL Insights]** above the data table.
+
 1. View the recommended actions:
 
    * ([!DNL Google Ads] accounts) In the [!UICONTROL Actions] column for the row, click **[!UICONTROL View]**. If the recommendation has sub-recommendations, then click **[!UICONTROL View]** next to the sub-recommendation. 
