@@ -58,7 +58,7 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 * About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, then contact your Adobe Account Team.
 
-  See "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ide-data-variances)" for more information about how the segment counts can vary.
+  See "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)" for more information about how the segment counts can vary.
 
 * Don't change your existing packages and placements. However, if you don't have incremental budget to test universal IDs, then reduce the original budgets to fund the tests.
 
@@ -78,7 +78,7 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 * Remember that the reach for authenticated audience segments is naturally smaller than the reach for cookie-based segments, and that using additional targeting options further decreases your reach. Be judicious about using granular targeting, especially by joining multiple targets with AND statements.
 
-## Causes for Data Variances Between Email IDs and Universal IDs {#universal-ide-data-variances}
+## Causes for Data Variances Between Email IDs and Universal IDs {#universal-ids-data-variances}
 
 There are two reasons for variance for hashed email IDs translated to [!DNL RampIDs]: 
 
