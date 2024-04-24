@@ -10,7 +10,7 @@ exl-id: 8a9d99b1-c90b-4a1c-9516-85edc9024a7c
 
 *Beta feature for [!DNL Microsoft® Advertising] accounts*
 
-# View your publisher recommendations
+## View your publisher recommendations
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
@@ -22,7 +22,7 @@ exl-id: 8a9d99b1-c90b-4a1c-9516-85edc9024a7c
 
    You can optionally [apply or dismiss](recommendation-apply-dismiss.md) the ad network's recommendations.
 
-# View your [!DNL Microsoft® Advertising] performance insights
+## View your [!DNL Microsoft® Advertising] performance insights
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
