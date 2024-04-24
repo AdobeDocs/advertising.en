@@ -10,7 +10,7 @@ The [conversion](/help/search-social-commerce/glossary.md#c-d) metrics that Adob
 
 * In Search, Social, & Commerce, you can use your conversion metrics to create objectives, which are used to optimize portfolios. In addition, data for the conversion metrics can be displayed in columns in campaign and portfolio management views and in reports.
 
-* In Advertising DSP, you can use conversion metrics to [create custom goals](/help/dsp/optimization/custom-goal-create.md), which are used to optimize packages.
+* In Advertising DSP, you can use conversion metrics to create [custom goals](/help/dsp/optimization/custom-goal.md), which are used to optimize packages.
 
 By default, none of an advertiser's conversion metrics &mdash; except for conversions tracked by [!DNL Google Ads], [!DNL Google Analytics], and [!DNL Microsoft® Advertising] universal event tracking tags &mdash; are available for campaign and portfolio management views and reports. They are available only when you specifically make them available and include a display name, which is the name that is shown. When you make a conversion metric available, you can either use the metric name exactly as it is spelled in the retrieved data or change the name that's shown in column headings for readability.
 

@@ -57,6 +57,7 @@ index: yes
     + [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)
     + [Quickly Edit Key Placement Settings](/help/dsp/campaign-management/placements/placement-quick-edit.md)
     + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
+    + [Manage Bid Multipliers for Placements](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md)
     + [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
     + [Edit the Ad Schedules for Placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
     + [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
@@ -107,24 +108,11 @@ index: yes
   + [How [!DNL DSP] Optimizes Your Campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md)
   + [Placement-level Pre-bid Filters and How to Use Them](/help/dsp/optimization/optimization-pre-bid-filters.md)
-  + Custom Goals {#custom-goals}
-    + [About Custom Goals](/help/dsp/optimization/custom-goal-about.md)
-    + [Create a Custom Goal](/help/dsp/optimization/custom-goal-create.md)
-    + [Best Practices for Building Custom Goals](/help/dsp/optimization/custom-goal-best-practices.md)
+  + [Custom Goals](/help/dsp/optimization/custom-goal.md)
   + [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
   + [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
 + Audiences {#audiences}
   + [About Audience Management](/help/dsp/audiences/audience-about.md)
-  + Segments {#segments}
-    + [Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)
-    + [!UICONTROL CCPA Opt-out-of-Sale] Segments {#ccpa-opt-out-of-sale-segments}
-      + [About [!UICONTROL CCPA Opt-out-of-Sale] Segments](/help/dsp/audiences/ccpa-opt-out-about.md)
-      + [Create and Implement a [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
-      + [Retrieve [!UICONTROL Consumer Opt-Out-of-Sale] Reports](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
-    + [Edit Segment Information](/help/dsp/audiences/segment-edit.md)
-    + [Share or Stop Sharing a Segment](/help/dsp/audiences/segment-share.md)
-    + [View Tracking Pixels for a Segment](/help/dsp/audiences/segment-view-pixels.md)
-    + [Delete a Segment](/help/dsp/audiences/segment-delete.md)
   + Audiences {#reusable-audiences}
     + [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md)
     + [Duplicate a Reusable Audience](/help/dsp/audiences/reusable-audience-duplicate.md)
@@ -136,6 +124,16 @@ index: yes
     + [Delete a Reusable Audience](/help/dsp/audiences/reusable-audience-delete.md)
     + [Audience Settings](/help/dsp/audiences/audience-settings.md)
     + [Syntax for Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
+  + Segments {#segments}
+    + [Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)
+    + [!UICONTROL CCPA Opt-out-of-Sale] Segments {#ccpa-opt-out-of-sale-segments}
+      + [About [!UICONTROL CCPA Opt-out-of-Sale] Segments](/help/dsp/audiences/ccpa-opt-out-about.md)
+      + [Create and Implement a [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
+      + [Retrieve [!UICONTROL Consumer Opt-Out-of-Sale] Reports](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+    + [Edit Segment Information](/help/dsp/audiences/segment-edit.md)
+    + [Share or Stop Sharing a Segment](/help/dsp/audiences/segment-share.md)
+    + [View Tracking Pixels for a Segment](/help/dsp/audiences/segment-view-pixels.md)
+    + [Delete a Segment](/help/dsp/audiences/segment-delete.md)
   + Sources {#sources}
     + [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
     + Workflows by Customer Data Platform {#sources-workflows}
