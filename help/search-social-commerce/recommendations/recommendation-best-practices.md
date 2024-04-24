@@ -1,10 +1,10 @@
 ---
-title: Best practices for using publisher recommendations and insights with portfolios
+title: Best practices for using publisher recommendations with portfolios
 description: Learn the best practices for using [!DNL Google Ads] recommendations with your Search, Social, & Commerce portfolios.
 exl-id: 2ed14f8a-da35-4341-86b8-776973faee66
 feature: Search Recommendations
 ---
-# Best practices for using publisher recommendations and insights with portfolios
+# Best practices for using publisher recommendations with portfolios
 
 <!-- Add info for MS once we have it ..." 
 
@@ -28,5 +28,5 @@ feature: Search Recommendations
 >
 >* [About publisher recommendations and insights support](recommendation-support.md)
 >* [View your publisher recommendations and performance insights](recommendation-view.md)
->* [Apply or dismiss a publisher recommendation or performance insight](recommendation-apply-dismiss.md)
->* [View the publisher recommendations or insights log for an account](recommendation-view-log.md)
+>* [Apply or dismiss a publisher recommendation](recommendation-apply-dismiss.md)
+>* [View the publisher recommendations log for an account](recommendation-view-log.md)

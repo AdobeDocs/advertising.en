@@ -1,20 +1,20 @@
 ---
-title: Apply or dismiss a publisher recommendation or performance insight
-description: Learn how to view, apply, or dismiss a publisher recommendation or performance insight.
+title: Apply or dismiss a publisher recommendation
+description: Learn how to view, apply, or dismiss a publisher recommendation.
 exl-id: 794df5d5-fc7c-45f7-8a26-460b0a8f56b7
 feature: Search Recommendations
 ---
-# Apply or dismiss a publisher recommendation or performance insight
+# Apply or dismiss a publisher recommendation
 
 *[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts*
 
 *Beta feature for [!DNL Microsoft® Advertising] accounts*
 
-View the recommended actions, and an explanation of why the actions would be beneficial, for a publisher recommendation or performance insight. You can then apply the recommendation or insight when it aligns with your business goals, and dismiss a recommendation when it doesn't.
+View the recommended actions, and an explanation of why the actions would be beneficial, for a publisher recommendation. You can then apply the recommendation when it aligns with your business goals, and dismiss a recommendation when it doesn't.
 
 >[!NOTE]
 >
->While recommendations and performance insights help you improve campaign performance, some may not align with your broader goals. As a result, it's best to consult with your Adobe Account Team before implementing any recommendation.
+>While recommendations help you improve campaign performance, some may not align with your broader goals. As a result, it's best to consult with your Adobe Account Team before implementing any recommendation.
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
@@ -22,7 +22,7 @@ View the recommended actions, and an explanation of why the actions would be ben
 
    For [!DNL Microsoft® Advertising] accounts, the [!UICONTROL Recommendations] for the account are listed by default.
 
-1. (Optional) Filter the recommendations or insights by category and type.
+1. (Optional) Filter the recommendations by category and type.
 
 1. In the [!UICONTROL Actions] column for the recommendation or insight row, click **[!UICONTROL View]**.
 
@@ -40,5 +40,5 @@ View the recommended actions, and an explanation of why the actions would be ben
 >
 >* [About publisher recommendations and insights support](recommendation-support.md)
 >* [View your publisher recommendations and performance insights](recommendation-view.md)
->* [View the publisher recommendations or insights log for an account](recommendation-view-log.md)
->* [Best practices for using publisher recommendations and insights with portfolios](recommendation-best-practices.md)
+>* [View the publisher recommendations log for an account](recommendation-view-log.md)
+>* [Best practices for using publisher recommendations with portfolios](recommendation-best-practices.md)

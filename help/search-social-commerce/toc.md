@@ -368,9 +368,9 @@ index: yes
   + Recommendations and publisher insights {#recommendations}
     + [About publisher recommendations and insights support](/help/search-social-commerce/recommendations/recommendation-support.md)
     + [View your publisher recommendations and performance insights](/help/search-social-commerce/recommendations/recommendation-view.md)
-    + [Apply or dismiss a publisher recommendation or performance insight](/help/search-social-commerce/recommendations/recommendation-apply-dismiss.md)
-    + [View the publisher recommendations or insights log for an account](/help/search-social-commerce/recommendations/recommendation-view-log.md)
-    + [Best practices for using publisher recommendations and insights with portfolios](/help/search-social-commerce/recommendations/recommendation-best-practices.md)
+    + [Apply or dismiss a publisher recommendation](/help/search-social-commerce/recommendations/recommendation-apply-dismiss.md)
+    + [View the publisher recommendations log for an account](/help/search-social-commerce/recommendations/recommendation-view-log.md)
+    + [Best practices for using publisher recommendations with portfolios](/help/search-social-commerce/recommendations/recommendation-best-practices.md)
 + Tools {#tools}
   + [Change your password](/help/search-social-commerce/tools/password-change.md)
   + Tools to create and decode tracking tags{#tracking}

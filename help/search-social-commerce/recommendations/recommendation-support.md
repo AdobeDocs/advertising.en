@@ -10,27 +10,27 @@ feature: Search Recommendations
 
 *Beta feature for [!DNL Microsoft® Advertising] accounts*
 
-[!DNL Google Ads] recommendations and [!DNL Microsoft® Advertising] performance insights are suggestions from the ad network to help improve the performance and efficiency of your campaigns:
+[!DNL Google Ads] and [!DNL Microsoft® Advertising] recommendations and insights are suggestions from the ad network to help improve the performance and efficiency of your campaigns:
 
 * Each [!DNL Google Ads] recommendation provides customized suggestions about different performance aspects of a campaign &mdash; from adding an asset to increasing the budget &mdash; based on your account's performance history, your campaign settings, and trends across [!DNL Google Ads].
 
-* Each [!DNL Microsoft® Advertising] performance insight alerts you to a significant fluctuation in a manager account, advertiser account, or campaign; identifies the possible causes, and suggests actions to optimize performance.
+* Each [!DNL Microsoft® Advertising] performance insight and recommendation suggests changes to optimize campaign performance based on machine learning algorithms and best practices.
 
 ## The [!UICONTROL Recommendations & Publisher Insights] view
 
 Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights], you can:
 
-* See at a glance all supported recommendations or performance insights that haven't been acted on for an account. Information for each entry includes the recommendation/insight details and the entities affected. Predicted increases to metrics are highlighted in green.
+* See at a glance all supported recommendations that haven't been acted on for an account. Information for each entry includes the recommendation type, the [!DNL Adobe] recommendation, the affected metrics, the affected entity, and a link to more details. Predicted increases to metrics are highlighted in green.
 
   ![Recommendations UI](/help/search-social-commerce/assets/recommendations-ui.png "Recommendations UI")
 
   The data is available in real time when you open the view. To refresh the data, click ![Refresh](/help/search-social-commerce/assets/refresh.png "Refresh") on the bottom left of the page.
 
-* View details about a recommendation or insight, and directly apply or dismiss the recommendation or insight.
+* For [Microsoft® Advertising] accounts, see at a glance each performance insight generated in the last 30 days for a [Microsoft® Advertising] account. Insights provide similar information to recommendations but in a different format. Each insight includes the date, a description of the issue, the impacted entity, the root cause (which may include links to more details), and the suggested action with a link to open the Microsoft® Advertising editor, from which you can act on the specific insight.
 
-* For [Microsoft® Advertising] accounts, view each insight, including the root cause, and open the [!DNL Microsoft® Advertising] editor, from which you can act on a specific insight.
+* View details about a recommendation, and directly apply or dismiss the recommendation.
   
-* View a log of each recommendation or insight that was applied for the account, including the affected entities, who applied the recommendation or insight, and the time stamp.
+* View a log of each recommendation that was applied for the account, including the affected entities, who applied the recommendation, and the time stamp.
 
 >[!NOTE]
 >
@@ -72,7 +72,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Search partners opt in] | Expand reach with [!DNL Google] search partners |
 | | [!UICONTROL Use broad match keyword] | Use broad match for conversion-based campaigns with fully automated conversion-based bidding |
 
-## Supported insight types for [!DNL Microsoft Advertising]
+## Supported recommendation types for [!DNL Microsoft Advertising]
 
 | Recommendation Category | Recommendation Type | Description |
 | --- | --- | --- |
@@ -83,6 +83,6 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 >[!MORELIKETHIS]
 >
 >* [View your publisher recommendations and performance insights](recommendation-view.md)
->* [Apply or dismiss a publisher recommendation or performance insight](recommendation-apply-dismiss.md)
->* [View the publisher recommendations or insights log for an account](recommendation-view-log.md)
->* [Best practices for using publisher recommendations and insights with portfolios](recommendation-best-practices.md)
+>* [Apply or dismiss a publisher recommendation](recommendation-apply-dismiss.md)
+>* [View the publisher recommendations log for an account](recommendation-view-log.md)
+>* [Best practices for using publisher recommendations with portfolios](recommendation-best-practices.md)
