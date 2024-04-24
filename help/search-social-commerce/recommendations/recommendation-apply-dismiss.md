@@ -5,7 +5,7 @@ exl-id: 794df5d5-fc7c-45f7-8a26-460b0a8f56b7
 feature: Search Recommendations
 ---
 # Apply or dismiss a publisher recommendation
-
+ 
 *[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts*
 
 *Beta feature for [!DNL Microsoft® Advertising] accounts*

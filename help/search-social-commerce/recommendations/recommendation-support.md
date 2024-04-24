@@ -10,7 +10,7 @@ feature: Search Recommendations
 
 *Beta feature for [!DNL Microsoft® Advertising] accounts*
 
-[!DNL Google Ads] and [!DNL Microsoft® Advertising] recommendations and insights are suggestions from the ad network to help improve the performance and efficiency of your campaigns:
+[!DNL Google Ads] and [!DNL Microsoft® Advertising] recommendations and insights are suggestions from the ad network to help improve the performance and efficiency of your campaigns: 
 
 * Each [!DNL Google Ads] recommendation provides customized suggestions about different performance aspects of a campaign &mdash; from adding an asset to increasing the budget &mdash; based on your account's performance history, your campaign settings, and trends across [!DNL Google Ads].
 
