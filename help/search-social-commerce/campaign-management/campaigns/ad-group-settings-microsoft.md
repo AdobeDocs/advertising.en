@@ -54,6 +54,14 @@ feature: Search Campaign Management
 
 For [!DNL Microsoft® Advertising] ad groups in the audience network, bid modifiers for location targets aren't optimized in standard portfolios with the "[!UICONTROL Auto-optimize Bid Adjustment Values]" setting.
 
+**[!UICONTROL Genre]:** (Ad groups in [!UICONTROL Audience CTV Video] campaigns; available in US, CA, BR, MX, UK, DE, ES, FR, IT, AU, MY, and TH<!-- Should that go in the campaign sub-type description instead, or is this applicable for this feature only? -->) The target genres, which determine the shows and channels on which your ads appear:
+
+* *[!UICONTROL All genres]:* (The default) Targets all genres.
+
+* *[!UICONTROL Select From Below List]:* Targets selected genres. Select from the list of all available genres.
+
+Connected TV (CTV) ad placement depends on your video quality and bid amount. See the [technical requirements for CTV ads](https://help.ads.microsoft.com/#apex/ads/en/60102/0/#TechnicalRequirements).
+
 <!-- **[!UICONTROL Devices]:** -->
 
 {{$include /help/_includes/devices.md}}
