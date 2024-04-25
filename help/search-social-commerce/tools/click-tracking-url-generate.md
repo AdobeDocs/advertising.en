@@ -42,7 +42,7 @@ For information about when you must manually generate and implement a click-trac
 
           The file can include up to 10,000 lines.
          
-        * ([!DNL Google Merchant Center] product groups and [Microsoft® Advertising] product ads) `product name <tab> ** <tab> landing_page`
+        * ([!DNL Google Merchant Center] product groups and [DNL Microsoft® Advertising] product ads) `product name <tab> ** <tab> landing_page`
 
           where `product name` is the product name and `landing_page` is a valid landing page URL or base URL.
 
