@@ -357,7 +357,9 @@ To create a custom conversion goal, click **[!UICONTROL + Add custom goal]**, en
 
 >[!TIP]
 >
->If the campaign is part of a hybrid portfolio, then use the same conversion goals as the portfolio's objective. Using different conversion goals may impact portfolio performance.
+>If the campaign is part of a hybrid portfolio, then use only conversion goals that are included in the portfolio's objective for the campaign. Including additional conversion goals may impact portfolio performance.
+>
+>The objective may include conversion goals or other conversions that aren't included for the campaign, but the campaign can't include conversion goals that aren't included in the objective.
 
 >[!MORELIKETHIS]
 >
