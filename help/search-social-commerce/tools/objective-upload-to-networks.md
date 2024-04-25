@@ -10,7 +10,7 @@ feature: Search Tools
 
 *Advertisers enabled for hybrid optimization only*
 
-If your advertiser account is configured to use hybrid optimization, then Adobe Advertising can optionally upload the objectives for the account's portfolios to [!DNL Google Ads] and [!DNL Microsoft® Advertising] as conversions so you can use them for hybrid optimization.
+If your advertiser account is configured to use hybrid optimization, then Adobe Advertising can optionally upload the objectives for the account's portfolios to [!DNL Google Ads] and [!DNL Microsoft® Advertising] so you can use them for hybrid optimization. Within the ad network, your uploaded objectives are available as conversion actions for account-level and campaign-level custom conversion goals.
 
 Enabling this option automatically triggers an upload for objectives in portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable objective. The conversion represents all weighted conversion metrics in the objective. Each conversion has one of the following names:
 
@@ -25,6 +25,8 @@ Enabling this option automatically triggers an upload for objectives in portfoli
   Your Adobe Account Team will work with you to migrate your existing conversion action names within the ad network before the old format is deprecated. During the migration period, both the old and new format uploads will run in parallel. Modelling and optimization aren't affected because the new conversion actions will appear initially with "secondary" (not optimized) status and with 90 days of backfill data.
 
 Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone. Uploads to [!DNL Microsoft® Advertising] occur daily at 09:00 in the advertiser's time zone.
+
+[!IMPORTANT] Each campaign in a hybrid portfolio must use the same conversion goals as the portfolio's objective. Using different conversion goals may impact portfolio performance.
 
 <!-- Note to self: Conversions tracked by Google Ads and by the Microsoft Advertising universal event tracking (UET) tag aren't re-uploaded to the ad networks. -->
 
