@@ -28,7 +28,9 @@ Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone.
 
 <!-- Note to self: Conversions tracked by Google Ads and by the Microsoft Advertising universal event tracking (UET) tag aren't re-uploaded to the ad networks. -->
 
-[!IMPORTANT] Each campaign in a hybrid portfolio must use the same conversion goals as the portfolio's objective. Using different conversion goals may impact portfolio performance.
+>[!IMPORTANT]
+>
+>Objectives for hybrid portfolios may include conversion goals from multiple ad networks and other types of conversion metrics, but the individual campaigns in the portfolio can't include conversion goals that aren't included in the portfolio's objective. Using additional conversion goals may impact portfolio performance.
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]**.
 
