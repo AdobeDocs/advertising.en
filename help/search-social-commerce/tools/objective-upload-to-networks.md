@@ -26,13 +26,17 @@ Enabling this option automatically triggers an upload for objectives in portfoli
 
 Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone. Uploads to [!DNL Microsoft® Advertising] occur daily at 09:00 in the advertiser's time zone.
 
-<!-- Note to self: Conversions tracked by Google Ads and by the Microsoft Advertising universal event tracking (UET) tag aren't re-uploaded to the ad networks. -->
+>[!IMPORTANT]
+>
+>Conversions tracked by Google Ads and by the Microsoft Advertising universal event tracking (UET) tag aren't re-uploaded to the ad networks. To include them as goals for a campaign, add them to the campaign goals within the ad network's editor.
 
 <!--
 >[!IMPORTANT]
 >
 >Objectives for hybrid portfolios may include conversion goals from multiple ad networks and other types of conversion metrics. However, the individual campaigns in the portfolio can't include conversion goals that aren't included in the portfolio's objective; using additional conversion goals may impact portfolio performance.
 -->
+
+<!--I don't think Google-tracked metrics and pure feed metrics are uploaded, but can they be included in the portfolio (and just be ignored)? And conversions from events triggered on other ad networks are ignored? -->
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]**.
 
