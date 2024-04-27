@@ -28,7 +28,7 @@ Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone.
 
 >[!IMPORTANT]
 >
->Conversions tracked by Google Ads and by the Microsoft Advertising universal event tracking (UET) tag aren't re-uploaded to the ad networks. To include them as goals for a campaign, add them to the campaign goals within the ad network's editor.
+>Conversions tracked by Google Ads and by the Microsoft Advertising universal event tracking (UET) tag aren't re-uploaded to the ad networks. If you include them within an objective, add them to the campaign goals within the ad network's editor.
 
 <!--
 >[!IMPORTANT]
