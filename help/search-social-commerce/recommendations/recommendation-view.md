@@ -4,29 +4,39 @@ description: Learn how to view the [!DNL Google Ads] recommendations and [!DNL M
 feature: Search Recommendations
 exl-id: 8a9d99b1-c90b-4a1c-9516-85edc9024a7c
 ---
-# View your publisher recommendations and performance insights
+# View your publisher recommendations and performance insights 
 
 *[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts*
 
 *Beta feature for [!DNL Microsoft® Advertising] accounts*
+ 
+## View your publisher recommendations
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
 1. In the upper right, select the ad network and the account.
 
-1. View the recommended actions:
+   For [!DNL Microsoft® Advertising] accounts, the [!UICONTROL Recommendations] for the account are listed by default.
 
-   * ([!DNL Google Ads] accounts) In the [!UICONTROL Actions] column for the row, click **[!UICONTROL View]**. If the recommendation has sub-recommendations, then click **[!UICONTROL View]** next to the sub-recommendation. 
+1. In the [!UICONTROL Actions] column for the row, click **[!UICONTROL View]**. If the recommendation has sub-recommendations, then click **[!UICONTROL View]** next to the sub-recommendation. 
 
-     You can optionally [apply or dismiss](google-recommendation-apply-dismiss.md) the ad network's recommendations.
+   You can optionally [apply or dismiss](recommendation-apply-dismiss.md) the ad network's recommendations.
 
-   * ([!DNL Microsoft® Advertising] accounts) When the [!UICONTROL Actions] column for the row includes an action, click **[!UICONTROL Click here]** to open the [!DNL Microsoft® Advertising] editor, from which you can act on the insight.
+## View your [!DNL Microsoft® Advertising] performance insights
 
-     If you aren't logged in to the [!DNL Microsoft® Advertising] editor, you're first directed to the login screen.
+1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
+
+1. In the upper right, select the ad network and the account.
+
+1. Click **[!UICONTROL Insights]** above the data table.
+
+1. When the [!UICONTROL Actions] column for the row includes an action, you can optionally click **[!UICONTROL Click here]** to open the [!DNL Microsoft® Advertising] editor, from which you can act on the insight.
+
+   If you aren't logged in to the [!DNL Microsoft® Advertising] editor, you're first directed to the login screen.
 
 >[!MORELIKETHIS]
 >
 >* [About publisher recommendations and insights support](recommendation-support.md)
->* [Apply or dismiss a [!DNL Google Ads] recommendation](google-recommendation-apply-dismiss.md)
->* [View the recommendations log for a [!DNL Google Ads] account](google-recommendation-view-log.md)
->* [Best practices for using publisher recommendations and insights with portfolios](recommendation-best-practices.md)
+>* [Apply or dismiss a publisher recommendation](recommendation-apply-dismiss.md)
+>* [View the publisher recommendations log for an account](recommendation-view-log.md)
+>* [Best practices for using publisher recommendations with portfolios](recommendation-best-practices.md)
