@@ -10,13 +10,33 @@ feature: Search Tools
 
 *Advertisers enabled for hybrid optimization only*
 
-If your advertiser account is configured to use hybrid optimization, then Adobe Advertising can optionally upload the objectives for the account's portfolios to [!DNL Google Ads] and [!DNL Microsoft® Advertising] as conversions so you can use them for hybrid optimization.
+Search, Social, & Commerce can upload the objectives for an advertiser account's portfolios to [!DNL Google Ads] and [!DNL Microsoft® Advertising] so you can use them for hybrid optimization. Your uploaded objectives are available as conversion actions for account-level and campaign-level custom conversion goals.
 
-Enabling this option automatically triggers an upload for portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable portfolio-and-objective combination. Each conversion has the name `ACS_OBJ_SID_<portfolio_id>_<se_acctid/conversion_manager_se_acctid>`, where `<portfolio_id>` is the numeric portfolio ID and `<se_acctid/conversion_manager_se_acctid>` is the numeric ID for the ad network account or manager account. The conversion represents all weighted conversion metrics in the objective.
+Enabling this option automatically triggers an upload for objectives in portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable objective. The conversion represents all weighted conversion metrics in the objective. Each conversion has one of the following names:
+
+* `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>`
+
+  where `<network_ID>` is the numeric ID that Search, Social, & Commerce uses for the ad network, `<objective_id>` is the numeric objective ID, and `<network_account_ID>` is the numeric ID for the ad network account or manager account.
+
+* (Old format that will be deprecated in the future) `ACS_OBJ_SID_<portfolio_id>_<se_acctid/conversion_manager_se_acctid>`
+
+  where `<portfolio_id>` is the numeric portfolio ID and `<se_acctid/conversion_manager_se_acctid>` is the numeric ID for the ad network account or manager account.
+
+  Your Adobe Account Team will work with you to migrate your existing conversion action names within the ad network before the old format is deprecated. During the migration period, both the old and new format uploads will run in parallel. Modelling and optimization aren't affected because the new conversion actions will appear initially with "secondary" (not optimized) status and with 90 days of backfill data.
 
 Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone. Uploads to [!DNL Microsoft® Advertising] occur daily at 09:00 in the advertiser's time zone.
 
-<!-- Note to self: Conversions tracked by Google Ads and by the Microsoft Advertising universal event tracking (UET) tag aren't re-uploaded to the ad networks. -->
+>[!IMPORTANT]
+>
+>Conversions tracked by Google Ads and by the Microsoft Advertising universal event tracking (UET) tag aren't re-uploaded to the ad networks. If you include them within an objective, add them to the campaign goals within the ad network's editor.
+
+<!--
+>[!IMPORTANT]
+>
+>Objectives for hybrid portfolios may include conversion goals from multiple ad networks and other types of conversion metrics. However, the individual campaigns in the portfolio can't include conversion goals that aren't included in the portfolio's objective; using additional conversion goals may impact portfolio performance.
+-->
+
+<!-- Can conversions from events triggered on other ad networks be included in the portfolio (and just be ignored)? -->
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]**.
 
@@ -27,6 +47,8 @@ Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone.
 1. Click **[!UICONTROL Save]**.
 
 1. (If your conversions are tracked at a manager account level) [Add credentials for your manager account](/help/search-social-commerce/admin/manager-accounts.md) at **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**.
+
+After the daily upload is completed, you can verify that the conversion actions appear in the ad network.
 
 >[!MORELIKETHIS]
 >
