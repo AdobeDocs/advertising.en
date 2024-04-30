@@ -1,6 +1,6 @@
 ---
 title: Attach Ads to Placements
-description: Learn how to attach an ads to placements.
+description: Learn how to attach ads to placements.
 feature: DSP Ads
 exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 ---
@@ -82,6 +82,24 @@ Use the [!UICONTROL Ad Tools] view to attach ads to placements, attach third-par
    
       * Above the right and left tables, search for specific text strings in the ad names and pixel names.
    
+   1. (If no third-party tracking pixels exist for the campaign) Create a pixel:
+
+      1. In the right table, click **[!UICONTROL Create pixel]**.
+
+      1. Specify the settings:
+
+         **[!UICONTROL Integration Event]:** The event that triggers the pixel to fire, such as *[!UICONTROL Impression]* or *[!UICONTROL Click-through]*.
+         
+         **[!UICONTROL Pixel Type]:** Whether the pixel is an *[!UICONTROL IMG URL]* (1x1 pixel image file), *[!UICONTROL HTML]*, or *[!UICONTROL JavaScript URL]*.
+         
+         **[!UICONTROL Pixel URL or Code]:** The URL of the pixel image, in the appropriate format for the specified Pixel Type.
+         
+         **[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
+         
+         **[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, or *[!UICONTROL IAS]*.
+
+      1. Click **[!UICONTROL Save]**.
+
    1. In the left table, select the check box next to each ad for which you want to attach third-party tracking pixels.
 
    1. In the right table, select the check box next to each third-party tracking pixel you want to attach to the selected ads.
@@ -91,7 +109,6 @@ Use the [!UICONTROL Ad Tools] view to attach ads to placements, attach third-par
    1. In the bottom right, click **[!UICONTROL Attach]**.
 
 1. (Optional) To return to the campaign detail views, click ![Return to folder](/help/dsp/assets/breadcrumb-return.png "Return to folder") to the left of [!UICONTROL Ad Tools] and select the campaign name.
-<!-- (Optional) On the [!UICONTROL Pixel] tab, specify any third-party tracking pixels you want to attach to the ad. -->
 
 ## Detach Third-Party Tracking Pixels from Ads in a Placement {#detach-pixels-ads}
      
