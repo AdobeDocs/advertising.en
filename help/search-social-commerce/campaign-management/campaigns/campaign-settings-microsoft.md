@@ -293,7 +293,7 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 ## [!UICONTROL Conversion Goals]
 
-**[!UICONTROL Conversion Goal]:** Whether to *[!UICONTROL Use account conversion goals for this campaign]* (the default) or *[!UICONTROL Use campaign specific conversion goals]*. If you choose to specify conversion goals for the campaign, then select the goals from the list of all available goals. **Note:** Goals are synchronized daily, so goals created in the previous 24 hours may not be listed. To update the list, [manually synchronize the ad network data](/help/search-social-commerce/campaign-management/campaigns/sync-network.md). 
+**[!UICONTROL Conversion Goal]:** Whether to *[!UICONTROL Use account conversion goals for this campaign]* (the default) or *[!UICONTROL Use campaign specific conversion goals]*. If you choose to specify conversion goals for the campaign, then select the goals from the list of all available goals. **Note:** Goals are synchronized daily, so goals created in the previous 24 hours may not be listed. To update the list, [manually synchronize the ad network data](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
 
 >[!TIP]
 >
