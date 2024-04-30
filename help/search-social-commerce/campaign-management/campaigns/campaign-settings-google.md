@@ -353,7 +353,7 @@ by country. If you don't select any, all are targeted.
 
 Goals are synchronized daily, so existing goals created in the previous 24 hours may not be listed. To update the list, [manually synchronize the ad network data](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
 
-To create a custom conversion goal, click **[!UICONTROL + Add custom goal]**, enter the custom goal name, select the [conversion actions](https://support.google.com/google-ads/answer/6032150) to include in the custom goal, and then click **[!UICONTROL Save]**. **Note:** Each campaign can have only one custom goal.
+To create a custom conversion goal, click **[!UICONTROL + Add custom goal]**, enter the custom goal name, select the [conversion actions](https://support.google.com/google-ads/answer/6032150) to include in the custom goal, and then click **[!UICONTROL Save]**. **Note:** Each campaign can have only one custom goal. 
 
 >[!TIP]
 >
