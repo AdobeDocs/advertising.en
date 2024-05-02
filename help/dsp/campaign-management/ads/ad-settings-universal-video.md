@@ -64,7 +64,7 @@ The following settings apply to each pixel that you create or edit.
 
 **[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
 
-**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
+**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, or *[!UICONTROL IAS]*.
 
 >[!MORELIKETHIS]
 >
