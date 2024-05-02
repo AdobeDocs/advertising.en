@@ -303,6 +303,7 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 
 * To select an existing audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Excluded Audiences], and then select the audience.
 * To create an audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Excluded Audiences], and then select **+ Create Audience**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
+* To select specific audience segments, click **[!UICONTROL Select segments for this placement only]**. Select the segment logic; for instructions, see Step 6 in "[Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md)." When you're done, click **Save**.
 
 **[!UICONTROL Cross Device Targeting]:** (Available when you select at least one segment or audience and the [campaign is configured for people-based cross-device targeting](/help/dsp/campaign-management/campaigns/campaign-settings.md). Allows you to extend your targeting across all of a person's known devices (per the device graph specified in the campaign settings), even devices that aren't in the specified segments. Fees may apply depending on the graph specified for the campaign. Device graph data is available only in North America.
 
