@@ -48,13 +48,13 @@ The following settings apply to each pixel that you create or edit.
 
 **[!UICONTROL Integration Event]:** The event that triggers the pixel to fire. For this ad type, use pixels that fires on the *[!UICONTROL Impression]* or *[!UICONTROL Click-through]*.
 
-**[!UICONTROL Pixel Type]:** Whether the pixel is an *[!UICONTROL IMG UR]L* (1x1 pixel image file), *[!UICONTROL HTML]*, or *[!UICONTROL JavaScript URL]*.
+**[!UICONTROL Pixel Type]:** Whether the pixel is an *[!UICONTROL IMG URL]* (1x1 pixel image file), *[!UICONTROL HTML]*, or *[!UICONTROL JavaScript URL]*.
 
 **[!UICONTROL Pixel URL or Code]:** The URL of the pixel image, in the appropriate format for the specified Pixel Type.
 
 **[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
 
-**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
+**[!UICONTROL Pixel Provider]:** The pixel provider:*[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, or *[!UICONTROL IAS]*..
 
 >[!MORELIKETHIS]
 >
