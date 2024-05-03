@@ -5,7 +5,7 @@ feature: DSP Ads
 ---
 # Review Ad Settings Using Spreadsheets
 
-You can download the settings for your ads.<!-- Clarify once I can get this to work: Do these include all ads in the campaign? And does it include all possible settings, or just a subset?  -->
+You can download the settings for all ads in a campaign.<!-- Clarify once I can get this to work: Do these include all ads in the campaign, only active ads in live or pending campaigns, or what? And does it include all possible settings, or just a subset?  -->
 
 >[!TIP]
 >
