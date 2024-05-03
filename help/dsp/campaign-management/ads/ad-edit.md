@@ -6,6 +6,10 @@ exl-id: 149eeb61-b4d1-4c88-8dcd-ad11e135a486
 ---
 # Edit an Ad
 
+>[!TIP]
+>
+>To change the third-party tracking pixels for multiple ads at once, see "[Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)."
+
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
 1. Click the name of the campaign.
