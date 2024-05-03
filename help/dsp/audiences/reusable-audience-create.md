@@ -14,7 +14,7 @@ You can save and manage reusable audiences, which are groups of audience segment
 
 1. Above the data table, click **[!UICONTROL Create]**.
 
-1. Enter a unique [!UICONTROL Audience Name].
+1. Enter a unique **[!UICONTROL Audience Name]**.
 
 1. (Optional) Deselect the option to **[!UICONTROL Share with all advertisers in my account]**.
 
