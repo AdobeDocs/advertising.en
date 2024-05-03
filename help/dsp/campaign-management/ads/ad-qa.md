@@ -37,5 +37,5 @@ You can download the settings for all ads in a campaign in XLSX (Excel spreadshe
 >[!MORELIKETHIS]
 >
 >* [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
->* [Ad Settings](/help/dsp/campaign-management/ads/placeadment-settings.md)
+>* [Ad Settings](/help/dsp/campaign-management/ads/ad-settings.md)
 >* [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
