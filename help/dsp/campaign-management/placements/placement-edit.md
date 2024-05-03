@@ -8,6 +8,10 @@ exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
 
 You can edit the settings for a single placement or for multiple placements at once.
 
+>[!NOTE]
+>
+>You can also download the settings for one or more placements, or for all placements in a campaign, in XLSX (Excel spreadsheet) format;make changes to a subset of fields; and upload them back to DSP all at once. See "[Review and Correct Placement Settings Using Spreadsheets](placement-qa.md)."
+
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
 ## Quickly Edit Key Placement Settings {#placement-quick-edit}
