@@ -67,6 +67,6 @@ All settings from the original placements are duplicated except:
 >
 >* [About Placement Management](placement-about.md)
 >* [Create a Placement](placement-create.md)
->* [Edit a Placement](placement-edit.md)
+>* [Edit Placements](placement-edit.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)

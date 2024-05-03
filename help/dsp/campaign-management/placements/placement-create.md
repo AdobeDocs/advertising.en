@@ -129,7 +129,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 >[!MORELIKETHIS]
 >
 >* [About Placement Management](placement-about.md)
->* [Edit a Placement](placement-edit.md)
+>* [Edit Placements](placement-edit.md)
 >* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
 >* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
 >* [Pause or Activate a Placement](placement-pause-activate.md)

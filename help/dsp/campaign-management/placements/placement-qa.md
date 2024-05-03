@@ -1,10 +1,10 @@
 ---
-title: Review and Correct Placement Settings Using Spreadsheets
+title: Review and Edit Placement Settings Using Spreadsheets
 description: Learn how to review and edit key placement settings using spreadsheets.
 feature: DSP Placements
 exl-id: 2de4407d-eb3b-44ff-893c-9fdf6921d4b3
 ---
-# Review and Correct Placement Settings Using Spreadsheets
+# Review and Edit Placement Settings Using Spreadsheets
 
 You can download the settings for one or more placements, or for all placements in a campaign, in XLSX (Excel spreadsheet) format for review. Use this feature to quickly review such details as:
 
@@ -16,7 +16,7 @@ You can then make changes to select fields and upload them back to DSP all at on
 
 >[!TIP]
 >
->To make more extensive changes to placement settings, use the [bulk edit feature](/help/dsp/campaign-management/placements/placement-edit.md).
+>To edit more fields for one or more placements, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
 
 ## Download Settings for All Placements in a Campaign
 
@@ -187,5 +187,5 @@ You can then make changes to select fields and upload them back to DSP all at on
 
 >[!MORELIKETHIS]
 >
->* [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)
+>* [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

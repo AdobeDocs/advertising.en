@@ -14,7 +14,7 @@ See if any of these procedures are implemented; may need to be edited and/or re-
 
 You can change the bid multipliers for your existing placement targets using this feature.
 
-To change the selected targets for your placements, see "[Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)."
+To change the selected targets for your placements, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
 
 ## Manage the Bid Multipliers for One or More Placements
 
@@ -101,7 +101,7 @@ not duped here
 >[!MORELIKETHIS]
 >
 >* [About Placement Management](placement-about.md)
->* [Edit a Placement](placement-edit.md)
+>* [Edit Placements](placement-edit.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
  -->

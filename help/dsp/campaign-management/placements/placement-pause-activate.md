@@ -25,5 +25,5 @@ Pause a live placement, or activate a paused placement when it's within the conf
 >[!MORELIKETHIS]
 >
 >* [Archive or Unarchive a Placement](placement-archive-unarchive.md)
->* [Edit a Placement](placement-edit.md)
+>* [Edit Placements](placement-edit.md)
 >* [View the Change Log for a Placement](placement-change-log.md)

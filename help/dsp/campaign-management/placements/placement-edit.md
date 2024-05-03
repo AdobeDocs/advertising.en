@@ -1,10 +1,10 @@
 ---
-title: Edit a Placement
+title: Edit Placements
 description: Learn how to edit a placement.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
 ---
-# Edit a Placement
+# Edit Placements
 
 You can edit the settings for a single placement or for multiple placements at once.
 
@@ -12,7 +12,7 @@ You can edit the settings for a single placement or for multiple placements at o
 
 >[!NOTE]
 >
->You can also download the settings for one or more placements, or for all placements in a campaign, in XLSX (Excel spreadsheet) format; make changes to a limited subset of key fields; and upload them back to DSP all at once. See "[Review and Correct Placement Settings Using Spreadsheets](placement-qa.md)."
+>You can also download the settings for one or more placements, or for all placements in a campaign, in XLSX (Excel spreadsheet) format; make changes to a limited subset of key fields; and upload them back to DSP all at once. See "[Review and Edit Placement Settings Using Spreadsheets](placement-qa.md)."
 
 ## Quickly Edit Key Placement Settings {#placement-quick-edit}
 
@@ -86,7 +86,7 @@ Use this option only when you want to apply the same changes to all selected pla
 >[!MORELIKETHIS]
 >
 >* [About Placement Management](placement-about.md)
->* [Review and Correct Placement Settings Using Spreadsheets](placement-qa.md)
+>* [Review and Edit Placement Settings Using Spreadsheets](placement-qa.md)
 >* [Create a Placement](placement-create.md)
 >* [Duplicate a Placement](placement-duplicate.md)
 >* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
