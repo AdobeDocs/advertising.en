@@ -9,10 +9,7 @@ exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
 # What's new
  
 The following features are new or recently changed.
-<!--
-|  | Ads, Pixels |  |  | 
--->
->
+
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
 | 2 May 2024  | Ads, Pixels | You can download the settings for all ads in a campaign in XLSX (Excel spreadsheet) format for review from the [!UICONTROL Ad Tools] view. | See "[Review Ad Settings Using Spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)." |
