@@ -12,7 +12,7 @@ The placement forecast tool shows the forecasted number of impressions, spend, a
 
 >[!NOTE]
 >
->* Postal codes aren't considered in placement forecast calculations. 
+>* Postal codes aren't considered in placement forecast calculations.
 >* No forecast is generated for placements with only programmatic guaranteed (PG) targeting because availability and spending are deterministic. 
 
 ## Information in the Forecast
