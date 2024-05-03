@@ -30,7 +30,7 @@ exl-id: 149eeb61-b4d1-4c88-8dcd-ad11e135a486
 
    >[!NOTE]
    >
-   >Your ad will only be served if both DSP and the SSP have approved the creative. Each SSP has its own approval requirements and process.
+   >Your ad can be served only if both DSP and the SSP have approved the creative. Each SSP has its own approval requirements and process.
 
 >[!MORELIKETHIS]
 >
