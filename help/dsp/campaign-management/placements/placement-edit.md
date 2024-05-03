@@ -10,7 +10,7 @@ You can edit the settings for a single placement or for multiple placements at o
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
-# Quickly Edit Key Placement Settings {#placement-quick-edit}
+## Quickly Edit Key Placement Settings {#placement-quick-edit}
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
