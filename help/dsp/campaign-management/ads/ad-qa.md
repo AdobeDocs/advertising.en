@@ -1,11 +1,11 @@
 ---
-title: Review Ad Settings Using Spreadsheets
-description: Learn how to review ad settings using spreadsheets.
+title: Review Ad Details Using Spreadsheets
+description: Learn how to review ad details, including the ad settings and associated placements, using spreadsheets.
 feature: DSP Ads
 ---
-# Review Ad Settings Using Spreadsheets
+# Review Ad Details Using Spreadsheets
 
-You can download the settings for all ads in a campaign in XLSX (Excel spreadsheet) format for review.<!-- Clarify once I can get this to work: Do these include all ads in the campaign, only active ads in live or pending campaigns, or what? And does it include all possible settings, or just a subset?  -->
+You can download details about all ads in a campaign in XLSX (Excel spreadsheet) format for review. The details include the ad settings and associate placements.<!-- Clarify once I can get this to work: Do these include all ads in the campaign, only active ads in live or pending campaigns, or what? -->
 
 >[!NOTE]
 >

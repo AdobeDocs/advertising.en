@@ -71,7 +71,7 @@ index: yes
     + [Create a Single Ad](/help/dsp/campaign-management/ads/ad-create.md)
     + [Create Multiple Third-Party Ads](/help/dsp/campaign-management/ads/ad-create-multiple.md)
     + [Create Ads with [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
-    + [Review Ad Settings Using Spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
+    + [Review Ad Details Using Spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
     + [Attach Ads to Placements](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
