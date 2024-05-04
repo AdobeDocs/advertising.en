@@ -7,9 +7,9 @@ feature: DSP Ads
 
 You can download the settings for all ads in a campaign in XLSX (Excel spreadsheet) format for review.<!-- Clarify once I can get this to work: Do these include all ads in the campaign, only active ads in live or pending campaigns, or what? And does it include all possible settings, or just a subset?  -->
 
->[!TIP]
+>[!NOTE]
 >
->*To edit your ad settings, use the [bulk edit feature](/help/dsp/campaign-management/ads/ad-edit.md).
+>*To edit your ad settings, see [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md).
 >*To change the third-party tracking pixels for multiple ads at once or to attach ads to placements, see "[Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)."
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
