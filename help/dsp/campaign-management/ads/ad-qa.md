@@ -6,7 +6,7 @@ exl-id: a223d4e1-2264-49fa-8579-817e7ea6ea56
 ---
 # Review Ad Details Using Spreadsheets
 
-You can download details about all ads in a campaign in XLSX (Excel spreadsheet) format for review. The details include the ad settings and associated placements.<!-- Clarify once I can get this to work: Do these include all ads in the campaign, only active ads in live or pending campaigns, or what? -->
+You can download details about all ads in a campaign in XLSX (Excel spreadsheet) format for review. The details include the ad settings and associated placements.<!-- Do these include all ads in the campaign, only active ads in live or pending campaigns, or what? -->
 
 >[!NOTE]
 >
