@@ -13,9 +13,9 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 * You can manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. See "[Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)."
 
-* DSP can ingest your first-party segments comprised of hashed email IDs built within your customer data platform (CDP) and convert them to universal IDs. For more information about the supported customer data platforms, supported universal ID types and their available features, and the related workflows, see "[About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)."
+* DSP can ingest your first-party segments comprised of hashed email IDs built within your customer data platform (CDP) and convert them to [!DNL LiveRamp] [!DNL RampIDs] and [!DNL Unified ID 2.0 (UID2.0)] IDs. For more information about the supported customer data platforms, the available features for each supported universal ID type, and the related workflows, see "[About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)."
 
-* You can create custom segments that track users associated with ID5 universal IDs who are exposed to ads from desktop and mobile devices and who visit specific webpages. ID5 creates an ID by stitching together user signals (hashed email address) with various browser signals (such as IP address and timestamp). For instructions, see "[Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)."
+* You can create custom segments that track users associated with ID5 universal IDs who are exposed to ads from desktop and mobile devices and who visit specific webpages. ID5 uses a probabilistic model to assign an ID derived from various user signals and browser signals. For instructions, see "[Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)."
 
 * Third-party segments from [!DNL Eyeota] and some other vendors may automatically include ID5 IDs, in addition to users tracked by cookies or device IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
 
@@ -34,7 +34,11 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 ## How to Target an Universal ID Audience in Your Placements
 
-When you create a placement, do the following:
+>[!NOTE]
+>
+>You can't change the targeted ID types in a live placement. If necessary, you can duplicate a live placement and change the targeted ID types in the new placement.
+
+In a new, scheduled, or paused placement, do the following:
 
 * In the [!UICONTROL Geo-Targeting] section, specify the geographical areas to target. Each universal ID partner allows user targeting only in specific geographical areas, and only eligible ID types are available in the [!UICONTROL Targeting] settings.
 
