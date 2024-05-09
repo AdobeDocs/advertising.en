@@ -15,7 +15,7 @@ role: User, Admin
 
 >[!NOTE]
 >
->If you select *[!UICONTROL Other]*, then the advertiser won't be able to access DSP [!DNL On Demand Inventory].
+>If you select *[!UICONTROL Other]*, then the advertiser can't access DSP [!DNL On Demand Inventory].
 
 **[!UICONTROL Advertiser URL]:** The advertiser's homepage or main website URL (beginning with `http://` or `https://`).
 

@@ -114,7 +114,7 @@ The lookback window for [!DNL Marketing Channels] can be customized. In Adobe Ad
 
 Adobe Advertising reports capture only paid media trafficked through Adobe Advertising (paid search for [!DNL Advertising Search, Social, & Commerce] ads, and display for Advertising DSP ads), whereas [!DNL Marketing Channels] reports can track all digital channels. This can lead to a discrepancy in the channel for which a conversion is attributed.
 
-For example, paid search and natural search channels often have a symbiotic relationship, in which each channel assists the other. The [!DNL Marketing Channels] report will attribute some conversions to natural search that Adobe Advertising won't because it doesn't track natural search.
+For example, paid search and natural search channels often have a symbiotic relationship, in which each channel assists the other. The [!DNL Marketing Channels] report attributes some conversions to natural search that Adobe Advertising doesn't because it doesn't track natural search.
 
 Consider also a customer who views a display ad, clicks a paid search ad, clicks inside an email message, and then places a 30 USD order. Even if Adobe Advertising and [!DNL Marketing Channels] both use the last touch attribution model, the conversion would still be attributed differently to each. Adobe Advertising doesn't have access to the [!UICONTROL Email] channel, so it would credit paid search for the conversion. [!DNL Marketing Channels], however, has access to all three channels, so it would credit [!UICONTROL Email] for the conversion.
 

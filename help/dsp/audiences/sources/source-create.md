@@ -34,7 +34,7 @@ For additional steps required to ingest segments from specific customer data pla
 
 >[!NOTE]
 >
->After you create a source for your customer data platform, you'll need to complete additional steps. See the [activation workflow for [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md)<!-- the [activation workflow for [!DNL ActionIQ]](source-actioniq.md), --> and the [activation workflow for [!DNL Tealium]](source-tealium.md).
+>After you create a source for your customer data platform, you must complete additional steps. See the [activation workflow for [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md)<!-- the [activation workflow for [!DNL ActionIQ]](source-actioniq.md), --> and the [activation workflow for [!DNL Tealium]](source-tealium.md).
 
 >[!MORELIKETHIS]
 >

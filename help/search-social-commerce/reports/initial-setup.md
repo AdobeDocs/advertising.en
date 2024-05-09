@@ -12,7 +12,7 @@ New users should perform the following initial setup tasks:
   
   Transactions properties aren't available for reports unless you specifically make them available.
   
-  If you later begin to track a new conversion metric, then you'll need to repeat this task.
+  If you later begin to track a new conversion metric, then you must repeat this task.
 
 * (Optional) Automate report generation:
    
