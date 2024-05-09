@@ -54,8 +54,8 @@ index: yes
   + Placements {#placements}
     + [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
     + [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
-    + [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)
-    + [Quickly Edit Key Placement Settings](/help/dsp/campaign-management/placements/placement-quick-edit.md)
+    + [Review and Edit Placement Settings Using Spreadsheets](/help/dsp/campaign-management/placements/placement-qa.md)
+    + [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
     + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Manage Bid Multipliers for Placements](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md)
     + [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
@@ -71,6 +71,7 @@ index: yes
     + [Create a Single Ad](/help/dsp/campaign-management/ads/ad-create.md)
     + [Create Multiple Third-Party Ads](/help/dsp/campaign-management/ads/ad-create-multiple.md)
     + [Create Ads with [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
+    + [Review Ad Details Using Spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
     + [Attach Ads to Placements](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
@@ -95,11 +96,6 @@ index: yes
     + [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
     + [View Alerts](/help/dsp/campaign-management/reports/campaign-alerts.md)
     + [Manage Your Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
-  + Correct Placement Settings Using Spreadsheets {#qa-spreadsheet}
-      + [About Correcting Placement Settings Using Spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
-      + [Download Placement Settings in a Spreadsheet](/help/dsp/campaign-management/qa/qa-sheet-download.md)
-      + [Upload Placement Settings in a Spreadsheet](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
-      + [Columns in Downloaded/Uploaded Spreadsheets](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
   + [DSP Macros](/help/dsp/campaign-management/macros.md)
   + [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
   + [FAQs About Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
