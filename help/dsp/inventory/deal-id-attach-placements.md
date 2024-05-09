@@ -26,7 +26,7 @@ You can also [attach ads to placements](/help/dsp/campaign-management/ads/ad-att
 
        1. Select the advertiser, campaign, and ad type. Optionally select an ad status by which to filter the ads.
 
-       1. From the list of available ads, select the check box next to each ad that will be used for the deal.
+       1. From the list of available ads, select the check box next to each ad to use for the deal.
 
        1. Click **[!UICONTROL Apply]**.
 
@@ -40,7 +40,7 @@ You can also [attach ads to placements](/help/dsp/campaign-management/ads/ad-att
 
        1. Click **[!UICONTROL Create placement]**.
 
-The placement will begin running after the publisher activates your PG deal ID.
+The placement begins running after the publisher activates your PG deal ID.
 
 >[!NOTE]
 >

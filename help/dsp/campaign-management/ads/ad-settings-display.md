@@ -30,7 +30,7 @@ The following settings are for standard display ads.
 
 **[!UICONTROL Certified Vendors]:** (Third-party expandable banner ads only) The certified vendor for which the ad is available: *[!UICONTROL DCM]* ([!DNL Google DoubleClick for Advertisers]), *[!UICONTROL Flashtalking]*, *[!UICONTROL Sizmek]*, or *[!UICONTROL Jivox]*.
 
-**[!UICONTROL Display Code]:** (Third-party ads only) The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters will be replaced with actual values.
+**[!UICONTROL Display Code]:** (Third-party ads only) The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters are replaced with actual values.
 
 **[!UICONTROL Final Display Code]:** (Third-party ads only) The URL for the third-party creative asset, with the necessary [Advertising DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
@@ -38,7 +38,7 @@ The following settings are for standard display ads.
 
 >[!IMPORTANT]
 >
-> The ad size declared in the width and height fields will be matched with incoming bid requests. You may experience delivery issues if the ad's dimensions don't match the declared ad size.
+> The ad size declared in the width and height fields are matched with incoming bid requests. You may experience delivery issues if the ad's dimensions don't match the declared ad size.
 
 ### [!UICONTROL Pixel]
 

@@ -16,7 +16,7 @@ You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or a
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. Click the name of the campaign in which the ad will be included.
+1. Click the name of the campaign in which to include the ad.
 
 1. Above the data table, click **[!UICONTROL Create]**. In the Ad Types section of the menu, click **[!UICONTROL Bulk upload ads]**.
 

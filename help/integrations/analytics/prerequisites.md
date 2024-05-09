@@ -32,7 +32,7 @@ Review the following information before you integrate Adobe Advertising with Ado
 
 Provide the Adobe Advertising implementation team with the following:
 
-* The [!DNL Analytics] report suite ID that will be used for reporting on paid media activity and for feeding site activity for optimization and reporting in Adobe Advertising
+* The [!DNL Analytics] report suite ID to use for reporting on paid media activity and for feeding site activity for optimization and reporting in Adobe Advertising
 * The company's Experience Cloud Organization ID (Org ID).
 
 You can find both of these IDs on the [Summary tab of the Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).

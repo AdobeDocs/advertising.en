@@ -28,7 +28,7 @@ exl-id: 8a443543-ebb1-4273-a007-afef07d32d8c
 
     A placement's entire spend history is attached to the placement and moves with it from package to package.
 
-    When you remove a placement from a package, the package no longer has any history of the placement's spend. The package budget will become (package budget - removed placement budget) / time interval remaining in flight. The package budget is then allocated to the placements remaining in the package.
+    When you remove a placement from a package, the package no longer has any history of the placement's spend. The package budget becomes (package budget - removed placement budget) / time interval remaining in flight. The package budget is then allocated to the placements remaining in the package.
 
     Similarly, if you add the same placement to a different package, DSP considers the placement's spend history when it allocates budget for all placements in the new package.
 

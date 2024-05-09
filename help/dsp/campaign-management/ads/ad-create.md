@@ -16,7 +16,7 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. Click the name of the campaign in which the ad will be included.
+1. Click the name of the campaign in which to include the ad.
 
 1. Above the data table, click **[!UICONTROL Create]**. In the [!UICONTROL Ad Types] section of the menu, click the [ad type](ad-about.md#ad-types).
 

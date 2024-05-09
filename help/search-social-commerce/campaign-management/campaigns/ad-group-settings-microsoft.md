@@ -108,7 +108,7 @@ Connected TV (CTV) ad placement depends on your video quality and bid amount. Se
 
 {{$include /help/_includes/custom-parameters.md}}
 
-**[!UICONTROL Adgroup Frequency Cap Settings]:** (Optional) The number of times a customer will be served ads from the ad group. Enter a value and select the time unit (*[!UICONTROL Hour]*, *[!UICONTROL Day]*, or *[!UICONTROL Week]*).
+**[!UICONTROL Adgroup Frequency Cap Settings]:** (Optional) The number of times a customer can be served ads from the ad group. Enter a value and select the time unit (*[!UICONTROL Hour]*, *[!UICONTROL Day]*, or *[!UICONTROL Week]*).
 
 ## [!UICONTROL Negative Keywords]
 

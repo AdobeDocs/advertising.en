@@ -32,7 +32,7 @@ exl-id: 45e8da8c-d6a2-4c42-8932-4cf551f6f899
 
 **\[Ad Source\]**: (Read-only) *[!UICONTROL 3rd party]*.
 
-**[!UICONTROL Display Code]:** The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters will be replaced with actual values.
+**[!UICONTROL Display Code]:** The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters are replaced with actual values.
 
 **[!UICONTROL Final Display Code]:** The URL for the third-party creative asset, with the necessary [Advertising DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 

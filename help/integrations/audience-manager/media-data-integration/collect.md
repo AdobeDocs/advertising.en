@@ -110,7 +110,7 @@ Once the event tags are implemented, data will flow into the Audience Manager da
 
 ### Create an [!DNL Amazon S3] Bucket and Data Source
 
-Once your data is on the Audience Manager servers, you must create an [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) bucket, and then a data source, to which all pixel data will be sent. Contact your Audience Manager consultant or [Customer Care](https://experienceleague.adobe.com/docs/audience-manager/user-guide/help-and-legal/help-legal-contact.html) if you need support. 
+Once your data is on the Audience Manager servers, you must create an [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) bucket, and then a data source, to which all pixel data is sent. Contact your Audience Manager consultant or [Customer Care](https://experienceleague.adobe.com/docs/audience-manager/user-guide/help-and-legal/help-legal-contact.html) if you need support. 
 
 ### Create Audience Manager Traits and Segments
 

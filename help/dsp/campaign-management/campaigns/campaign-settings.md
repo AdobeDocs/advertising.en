@@ -80,7 +80,7 @@ To estimate taxes to withhold:
 
     This option is also available to all advertisers, without any fees, for frequency management and attribution measurement.
 
-**[!UICONTROL Frequency Cap]:** (Optional) The number of times a unique device or person (depending on the specified [!UICONTROL Cross Device Level]) will be served ads from the campaign. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
+**[!UICONTROL Frequency Cap]:** (Optional) The number of times a unique device or person (depending on the specified [!UICONTROL Cross Device Level]) may be served ads from the campaign. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
 
 >[!NOTE]
 >

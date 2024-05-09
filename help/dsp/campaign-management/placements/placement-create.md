@@ -12,7 +12,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. Click the name of the campaign in which the placement will be included.
+1. Click the name of the campaign in which to include the placement.
 
 1. Above the data table, click **[!UICONTROL Create]**. In the [!UICONTROL Placement Types] section of the menu, click the placement type.
 

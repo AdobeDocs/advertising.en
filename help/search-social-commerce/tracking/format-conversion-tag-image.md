@@ -22,7 +22,7 @@ where:
 
 * `<ef-userid>` is a unique, numeric user ID that Search, Social, & Commerce assigns to the advertiser.
 
-* `<propertyname>` is the conversion that will be tracked. For example, if you're tracking a conversion called "registration," then the tag would include the parameter `ev_registration=<registration>`, and you would need to pass the actual revenue for each transaction (such as `ev_registration=1`). When multiple properties are tracked, they're joined by an ampersand (`&`), such as `ev_registration=<registration>&ev_sale=<sale>` (for example, `ev_registration=1&ev_sale=12.99`). **Note:**  The property name may not include special characters.
+* `<propertyname>` is the conversion to track. For example, if you're tracking a conversion called "registration," then the tag would include the parameter `ev_registration=<registration>`, and you would need to pass the actual revenue for each transaction (such as `ev_registration=1`). When multiple properties are tracked, they're joined by an ampersand (`&`), such as `ev_registration=<registration>&ev_sale=<sale>` (for example, `ev_registration=1&ev_sale=12.99`). **Note:**  The property name may not include special characters.
 
 * `<transid>` is a unique transaction ID (such as an actual order ID) that the advertiser generates and passes to identify a transaction. It's included only when the "[!UICONTROL Include unique transaction IDs]" option is selected.
 

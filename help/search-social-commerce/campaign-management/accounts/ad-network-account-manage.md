@@ -205,7 +205,7 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 
 **[!UICONTROL Application ID]:** ([!DNL Yandex] accounts only) The developer token to use for the account. The same token is used for all [!DNL Yandex] accounts.
 
-**[!UICONTROL Purse Campaign ID]:** ([!DNL Yandex] accounts with the Shared Account setting disabled only; optional) The numeric ID for the campaign that will be used to pay for all ad campaigns in the account.
+**[!UICONTROL Purse Campaign ID]:** ([!DNL Yandex] accounts with the Shared Account setting disabled only; optional) The numeric ID for the campaign used to pay for all ad campaigns in the account.
 
 **[!UICONTROL Finance Token]:** ([!DNL Yandex] accounts with the Shared Account setting disabled only; optional) The developer token to use for finance-related API calls, such as for reallocating money from the wallet between the advertiser's campaigns as necessary for portfolio optimization.
 

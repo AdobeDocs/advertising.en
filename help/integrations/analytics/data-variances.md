@@ -52,7 +52,7 @@ In the following example, suppose a visitor was served an ad on Day 1, performed
 
 ![Example of a view-through conversion attributed in [!DNL Analytics] but not Adobe Advertising](/help/integrations/assets/a4adc-viewthrough-example.png)
 
-A further cause of discrepancies is that, in Adobe Advertising, you can assign view-through conversions a custom *view-through weight* that is relative to the weight attributed to a click-based conversion. The default view-through weight is 40%, which means that a view-through conversion is counted as 40% of the value of a click-based conversion. [!DNL Analytics] provides no such weighting of view-through conversions. So, for example, a 100 USD revenue order captured in [!DNL Analytics] will be discounted to 40 USD in Adobe Advertising if you're using the default view-through weight &mdash; a difference of 60 USD.
+A further cause of discrepancies is that, in Adobe Advertising, you can assign view-through conversions a custom *view-through weight* that is relative to the weight attributed to a click-based conversion. The default view-through weight is 40%, which means that a view-through conversion is counted as 40% of the value of a click-based conversion. [!DNL Analytics] provides no such weighting of view-through conversions. So, for example, a 100 USD revenue order captured in [!DNL Analytics] is discounted to 40 USD in Adobe Advertising if you're using the default view-through weight &mdash; a difference of 60 USD.
 
 Consider these differences when comparing view-through conversions between Adobe Advertising and [!DNL Analytics] reports.
 
@@ -90,7 +90,7 @@ If you're logged into [!DNL Search, Social, & Commerce], you can find a list
 
 #### Event Date Attribution in Adobe Advertising
 
-In Adobe Advertising, you can report conversion data either by the associated click date/event date (the date of the click or impression event) or by the transaction date (conversion date). The concept of click/event date reporting doesn't exist in [!DNL Analytics]; all conversions tracked in [!DNL Analytics] are reported by transaction date. As a result, the same conversion may be reported with different dates in Adobe Advertising and [!DNL Analytics]. For example, consider a user who clicks an ad on January 1 and converts on January 5. If you're viewing the conversion data by event date in Adobe Advertising, then the conversion will be reported on January 1, when the click occurred. In [!DNL Analytics], the same conversion would be reported on January 5.
+In Adobe Advertising, you can report conversion data either by the associated click date/event date (the date of the click or impression event) or by the transaction date (conversion date). The concept of click/event date reporting doesn't exist in [!DNL Analytics]; all conversions tracked in [!DNL Analytics] are reported by transaction date. As a result, the same conversion may be reported with different dates in Adobe Advertising and [!DNL Analytics]. For example, consider a user who clicks an ad on January 1 and converts on January 5. If you're viewing the conversion data by event date in Adobe Advertising, then the conversion is reported on January 1, when the click occurred. In [!DNL Analytics], the same conversion is reported on January 5.
 
 ![Example of a conversion attributed to different dates](/help/integrations/assets/a4adc-conversions-based-on.png)
 
@@ -234,7 +234,7 @@ For example, if you view the [!UICONTROL Adobe Advertising Clicks] and [!UICONTR
 
 ![Example of Adobe Advertising metrics in a report using an Adobe Advertising dimension](/help/integrations/assets/a4adc-traffic-supported-dimension.png)
 
-However, if you view the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] metrics by an on-page dimension (such as Page), for which which Adobe Advertising doesn't provide data, then the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] for each page will be zero (0).
+However, if you view the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] metrics by an on-page dimension (such as Page), for which which Adobe Advertising doesn't provide data, then the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] for each page are zero (0).
 
 ![Example of Adobe Advertising metrics in a report using an unsupported dimension](/help/integrations/assets/a4adc-traffic-unsupported-dimension.png)
 

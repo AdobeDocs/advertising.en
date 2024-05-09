@@ -12,7 +12,7 @@ exl-id: 2fa1143b-6e83-4729-91cd-7a5da357509e
 
 **[!UICONTROL URL]**: The VAST tag URL.
 
-**[!UICONTROL Title]**: A name for the file, which will be used in the [!UICONTROL Ads] view and reports.
+**[!UICONTROL Title]**: A name for the file, which is used in the [!UICONTROL Ads] view and reports.
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ This field may or may not be displayed, depending on the account permissions.
 
 **[!UICONTROL Final VAST Tag]:** (Ads using VAST tags only) The URL for the third-party ad source with the necessary [Advertising DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
-**[!UICONTROL Select Rate]:** (Users with permission only) A pre-negotiated rate billed through Adobe, or one of the rates that you've negotiated and will be billed for through the vendor. To add a rate, contact your Adobe Account Team.
+**[!UICONTROL Select Rate]:** (Users with permission only) A pre-negotiated rate billed through Adobe, or one of the rates that you've negotiated and is billed through the vendor. To add a rate, contact your Adobe Account Team.
 
 ### [!UICONTROL Pixel]
 

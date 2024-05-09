@@ -34,7 +34,7 @@ For all selected placements, you can either manually edit values or upload a spr
 
    *  To manually adjust the bid multiplier values, move to each target-specific tab ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], and[!UICONTROL Brand Safety]) and edit the existing values for the placement targets.
 
-     The same changes will be made to all of the selected placements.
+     The same changes apply to all of the selected placements.
 
    * To upload a CSV file with bid multiplier values that will overwrite the existing values:
 

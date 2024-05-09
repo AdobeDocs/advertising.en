@@ -16,7 +16,7 @@ Package optimization goals operate at two levels:
 
    >[!NOTE]
    >
-   >The economic value can be heavily weighted based on how well a placement is spending. If a placement is behind its spend goal, then it will be allowed to buy lower-quality auctions. If a placement is easily meeting its spend goal, then it will focus on higher quality auctions.
+   >The economic value can be heavily weighted based on how well a placement is spending. If a placement is behind its spend goal, then it's allowed to buy lower-quality auctions. If a placement is easily meeting its spend goal, then the focus shifts to higher quality auctions.
 
 ## Package Optimization
 
@@ -42,9 +42,9 @@ This optimization mode works well if:
 
 #### Pacing logic {#pacing-logic-performance}
 
-* If spending is on pace, bidding will become more selective, so that you'll only bid on auctions predicted to have high performance rates.
+* If spending is on pace, bidding becomes more selective, so that you'll only bid on auctions predicted to have high performance rates.
 
-* If spending is behind pace, bidding will become less selective, so that you'll bid on auctions predicted to have lower performance rates in order to catch up to the pacing goal.
+* If spending is behind pace, bidding becomes less selective, so that you'll bid on auctions predicted to have lower performance rates in order to catch up to the pacing goal.
 
 #### Clearing Price/Bid Shading {#clearing-price-performance}
 
