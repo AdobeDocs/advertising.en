@@ -66,7 +66,7 @@ Example:
 >
 >*  `{TargetId}` represents the ID of a) either the keyword or b) the keyword and remarketing list (audience) that triggered the ad (for example, "kwd-123:aud-456" for both a keyword and a remarketing list or "kwd-123" for keyword only).
 >
->* (Optional) Instead of entering tracking templates at the account, campaign, ad group, or product group level, you can add the tracking URL to the product data within the [!DNL Microsoft Merchant Center] account. To do so, include the tracking URL, together with the value in the "`link`" or "`mobile_link`" field, as appropriate, in a custom column "[bingads_redirect](https://help.bingads.microsoft.com/#apex/3/en/51084/0)" within the product feed. The value in the "`bingads_redirect`" field will replace the values in the "`link`" and "`mobile_link`" fields. URLs generated using this method don't include any tracking parameters specified in the Search, Social, & Commerce account or campaign settings.
+>* (Optional) Instead of entering tracking templates at the account, campaign, ad group, or product group level, you can add the tracking URL to the product data within the [!DNL Microsoft Merchant Center] account. To do so, include the tracking URL, together with the value in the "`link`" or "`mobile_link`" field, as appropriate, in a custom column "[bingads_redirect](https://help.bingads.microsoft.com/#apex/3/en/51084/0)" within the product feed. The value in the "`bingads_redirect`" field replaces the values in the "`link`" and "`mobile_link`" fields. URLs generated using this method don't include any tracking parameters specified in the Search, Social, & Commerce account or campaign settings.
 
 ## Landing page suffix (final URL suffix) formats
 

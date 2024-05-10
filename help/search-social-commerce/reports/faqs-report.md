@@ -47,7 +47,7 @@ You can see which conversions resulted from a click on a [!DNL Google Ads] ad ex
 When the row includes data for content-enabled search campaigns, display campaigns, or social campaigns &mdash; which don't include keywords &mdash; the [!UICONTROL Keyword] column shows the applicable ad group name instead.
 +++
 
-+++Because of seasonal or market changes, my reports show atypical data. Will this affect bids once the conditions change?
++++Because of seasonal or market changes, my reports show atypical data. Does this affect bids once the conditions change?
 The optimization capability builds its revenue models for each bid unit daily to ensure that it identifies and immediately responds to trends, and the models incorporate long-term historical data to help predict seasonal performance. The portfolio's revenue model half-life setting<!-- add link to glossary? --> also determines how heavily recent revenue data is weighted. The best practice is to lower the half-life during a period of atypical performance but increase it after the revenue model is adjusted. If you have questions about whether adjusting the half-life is necessary, contact your Adobe Account Team.
 
 If you don't want the data for the period to affect future bids at all, then you can choose to exclude those dates from the model. Contact your Adobe Account Team to exclude the dates.
@@ -200,7 +200,7 @@ The report may not include conversion metrics for which conversions occurred.
 
 1. If the file was sent, then [contact Customer Care](/help/search-social-commerce/get-help.md).
    
-   Customer Care will check if the file was received and parsed. If the file was processed without errors, then they will check for orphan transactions.
+   Customer Care will check if the file was received and parsed. If the file was processed without errors, then they check for orphan transactions.
 +++
   
 +++Some advanced reports don't include conversion data provided by an advertiser feed. 

@@ -14,7 +14,7 @@ FTP access to reports requires access to a specified FTP account, and you must s
 
 * Contact your Adobe Account Team to set up an FTP account for report access.
   
-  The team will provide you with your username and password.
+  The team provides you with your username and password.
 
 ## Set up report templates for FTP delivery
 

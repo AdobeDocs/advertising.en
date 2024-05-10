@@ -6,7 +6,7 @@ exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
 ---
 # Custom Goals
 
-Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal that will help achieve the overall optimization goal. You can create custom goals as *objectives* in [!DNL Advertising Search, Social, & Commerce].
+Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal to help achieve the overall optimization goal. You can create custom goals as *objectives* in [!DNL Advertising Search, Social, & Commerce].
 
 <!-- update image or omit it
 
@@ -98,7 +98,7 @@ If your campaign goal is the lowest cost per acquisition (CPA) and it requires o
 
 There are two scenarios in which you would use multiple metrics in a custom goal:
 
-* Your campaign goal has multiple success events. For example, maybe you’re advertising for more than one on-site action (PDF Download, Contact Us, and Email Sign up), and all are actions contribute to your CPA goal. If the objective includes the three separate metrics, each with non-mobile and mobile weights of one (1), the [!DNL Adobe Sensei] algorithm will treat each of the metrics and user device types with equal importance. If the different metrics and device types have varying costs or importance, then you adjust their relative weights accordingly.
+* Your campaign goal has multiple success events. For example, maybe you’re advertising for more than one on-site action (PDF Download, Contact Us, and Email Sign up), and all are actions contribute to your CPA goal. If the objective includes the three separate metrics, each with non-mobile and mobile weights of one (1), then the [!DNL Adobe Sensei] algorithm treats each of the metrics and user device types with equal importance. If the different metrics and device types have varying costs or importance, then you adjust their relative weights accordingly.
 
 <!-- update image or delete it and adjust the wording above
 

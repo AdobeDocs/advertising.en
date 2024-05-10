@@ -116,10 +116,10 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 **[!UICONTROL Destination Type]:** Choose one of the following destination types:
 
-* *[!UICONTROL S3]:* To send the completed report to one or more [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL sFTP]:* To send the completed report to one or more SFTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL FTP]:* To send the completed report to one or more FTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL FTP SSL] (Currently in Beta):* To send the completed report to one or more FTP SSL locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL S3]:* To send the completed report to one or more [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) locations, which you must specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL sFTP]:* To send the completed report to one or more SFTP locations, which you must specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL FTP]:* To send the completed report to one or more FTP locations, which you must specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL FTP SSL] (Currently in Beta):* To send the completed report to one or more FTP SSL locations, which you must specify in the **[!UICONTROL Destination Name]** field.
 * *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors.
 
 >[!NOTE]

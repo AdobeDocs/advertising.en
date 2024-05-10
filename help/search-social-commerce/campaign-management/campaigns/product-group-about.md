@@ -42,7 +42,7 @@ You can create and edit product groups, and delete product groups and their chil
  
   >[!CAUTION]
   >
-  >([!DNL Microsoft® Advertising]) Use this option only when you don't include Search, Social, & Commerce tracking URLs in a custom column within the product feed. If you do both, the URLs will include two redirects and will cause broken links.
+  >([!DNL Microsoft® Advertising]) Use this option only when you don't include Search, Social, & Commerce tracking URLs in a custom column within the product feed. If you do both, the URLs will include two redirects and cause broken links.
 
 * ([!DNL Microsoft® Advertising] only) Add the tracking URL to the product data within the [!DNL Microsoft® Merchant Center] account. To do so, include the tracking URL, together with the value in the `link` or `mobile_link` field, as appropriate, in a custom column called [`bingads_redirect`](https://help.ads.microsoft.com/#apex/3/en/51084/0) within the product feed. URLs generated using this method don't include any tracking parameters specified in the account or campaign settings within Search, Social, & Commerce.
 

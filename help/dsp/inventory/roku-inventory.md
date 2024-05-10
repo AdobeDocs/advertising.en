@@ -22,7 +22,7 @@ You can either a) set up private deal IDs directly with [!DNL Roku] and then ent
 >
 >[!DNL Roku] inventory isn't available in open marketplaces and exchanges.
 
-* For your private deals, [set up information about the deal IDs in DSP](/help/dsp/inventory/deal-id-create.md) and then target “[!UICONTROL Roku Network – Audience]” and “[!UICONTROL The Roku Channel – Audience]” within [!DNL Roku] placements.<!-- Or do you target the deal ID?? I see those strings for Roku On Demand inventory. Clarify if all Roku private deals will show up as one or the other of these in Roku Private inventory in Roku placement settings. -->
+* For your private deals, [set up information about the deal IDs in DSP](/help/dsp/inventory/deal-id-create.md) and then target “[!UICONTROL Roku Network – Audience]” and “[!UICONTROL The Roku Channel – Audience]” within [!DNL Roku] placements.<!-- Or do you target the deal ID?? I see those strings for Roku On Demand inventory. Clarify if all Roku private deals show up as one or the other of these in Roku Private inventory in Roku placement settings. -->
 
 * You can [subscribe to the following [!DNL Roku] inventory within the [!DNL On Demand] Gallery](/help/dsp/inventory/on-demand-inventory-subscribe.md), and then target any of the approved deals within [!DNL Roku] placements:
 

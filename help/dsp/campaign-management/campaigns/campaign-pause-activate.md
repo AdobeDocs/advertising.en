@@ -8,7 +8,7 @@ exl-id: ed199864-8532-411b-b8ea-443ee1c149a2
 
 Pause a live campaign or activate a paused campaign when it's within the configured flight schedule. 
 
-All placements paused prior to pausing a campaign will remain paused upon campaign activation. 
+All placements that are paused prior to pausing a campaign remain paused upon campaign activation. 
 
 ## Pause a Campaign
 

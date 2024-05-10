@@ -16,7 +16,7 @@ The top of each page includes the main menu and other task- and information-base
 
 ## [!UICONTROL Search] menus
 
-Under the [!UICONTROL Search] option, you'll see the following submenus. The available options are determined by your role:
+The [!UICONTROL Search] option includes the following submenus. The available options are determined by your role:
 
 * **[!UICONTROL Campaigns]** &mdash; This menu includes options to view and manage information about the ad accounts and campaigns that you are managing or tracking. Depending on the ad network and your role, you may be to create and edit accounts and campaigns and their components. You can also manage label classifications, which you can assign to various account components.
 

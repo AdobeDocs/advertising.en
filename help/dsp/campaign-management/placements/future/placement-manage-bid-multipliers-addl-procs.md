@@ -40,7 +40,7 @@ For all selected placements, you can either manually edit values or upload a spr
 
      >[!NOTE]
      >
-     >If you leave a field empty, then all values for that target type are deleted.<!-- Verify and re-word if needed. I'm not sure if you'll be able to have multiple data rows (one per placement) or if there will be only one data row applicable for all. -->
+     >If you leave a field empty, then all values for that target type are deleted.<!-- Verify and re-word if needed. I'm not sure if you'll be able to have multiple data rows (one per placement) or if there only one data row is applicable for all. -->
 
      1. Click **[!UICONTROL CSV Edit]** in the upper right.
 

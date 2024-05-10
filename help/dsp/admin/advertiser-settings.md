@@ -33,19 +33,19 @@ Advertisers with additional Adobe Experience Cloud products can share data acros
 
 (Optional) Additional Experience Cloud products linked to the DSP account. The products must be associated with the same Experience Cloud organization ID provided in the [!UICONTROL Adobe IMS IDs] section.
 
-**[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Advertisers with [!DNL Advertising Search, Social, & Commerce] or who use Adobe Advertising conversion pixels) A [!DNL Search, Social, & Commerce] account with which DSP will exchange attribution data.
+**[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Advertisers with [!DNL Advertising Search, Social, & Commerce] or who use Adobe Advertising conversion pixels) A [!DNL Search, Social, & Commerce] account with which DSP exchanges attribution data.
 
-**[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Advertisers with Adobe Analytics; optional; applicable only to data collected using Adobe Advertising conversion tracking tags that include an [!DNL EF Redirect] and token only) One or more [!DNL Analytics] report suites to which DSP will send data it collects from publishers and supply-side partners. Analytics will also send the data it collects from the client's site to DSP.
+**[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Advertisers with Adobe Analytics; optional; applicable only to data collected using Adobe Advertising conversion tracking tags that include an [!DNL EF Redirect] and token only) One or more [!DNL Analytics] report suites to which DSP sends data it collects from publishers and supply-side partners. Analytics also sends the data it collects from the client's site to DSP.
 
 For the data to appear in the report suites, the appropriate [!DNL Search, Social, & Commerce] advertiser-level setting must be enabled. In addition, the advertiser's [!DNL Analytics] account must be configured to receive data from Adobe Advertising.
 
 >[!WARNING]
 >
->If you remove a previously linked report suite, DSP will no longer exchange data with that suite. Expect to see data fluctuations.
+>If you remove a previously linked report suite, DSP no longer exchanges data with that suite. Expect to see data fluctuations.
 
 For more information about the integration with [!DNL Analytics], see "[Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)."
 
-**[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Advertisers with Adobe Audience Manager or Adobe Analytics; optional) An Audience Manager or [!DNL Analytics] account from which DSP will pull in segment metadata, hierarchy data, and unique audience data for all of the advertiser's Adobe audiences. This includes data for:
+**[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Advertisers with Adobe Audience Manager or Adobe Analytics; optional) An Audience Manager or [!DNL Analytics] account from which DSP pulls in segment metadata, hierarchy data, and unique audience data for all of the advertiser's Adobe audiences. This includes data for:
 
 * Audience Manager segments
 * [!DNL Analytics] segments that are published to Adobe Experience Cloud
@@ -104,15 +104,15 @@ Types of sites to block based on fraudulent traffic and suspicious activities me
 
 **[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** By default, blocks all 100% invalid traffic, including traffic on hijacked devices, for new placements. Additional fees may apply.
 
-**[!UICONTROL Also block sites with]:** (Optional) An additional level of fraud and invalid traffic that will cause DSP to block ads by default:  *[!UICONTROL None]* (the default, which doesn't block additional traffic), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]*, or *[!UICONTROL >25% Average Fraud/IVT levels]*. Additional fees may apply.
+**[!UICONTROL Also block sites with]:** (Optional) An additional level of fraud and invalid traffic that causes DSP to block ads by default:  *[!UICONTROL None]* (the default, which doesn't block additional traffic), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]*, or *[!UICONTROL >25% Average Fraud/IVT levels]*. Additional fees may apply.
 
 ##### [!UICONTROL Peer 39] {#peer-39-fraud}
 
-**[!UICONTROL Block sites that are]:** (Optional) One or more types of fraud that will cause DSP to block ads by default: *[!UICONTROL Fraud]* (which blocks all sites with fraud), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]*, and/or *[!UICONTROL Fraud: Zero Ads]*. Additional fees may apply.
+**[!UICONTROL Block sites that are]:** (Optional) One or more types of fraud that cause DSP to block ads by default: *[!UICONTROL Fraud]* (which blocks all sites with fraud), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]*, and/or *[!UICONTROL Fraud: Zero Ads]*. Additional fees may apply.
 
 ##### [!UICONTROL Integral Ad Science] {#ias-fraud}
 
-**[!UICONTROL Block sites that are]:** (Optional) A type of suspicious website or app activity that will cause DSP to block ads by default: *[!UICONTROL None]* (the default, which doesn't block ads based on suspicious activity), *[!UICONTROL Suspicious Activity - High Risk]*, or *[!UICONTROL Suspicious Activity - High or Moderate Risk]*. Additional fees may apply.
+**[!UICONTROL Block sites that are]:** (Optional) A type of suspicious website or app activity that causes DSP to block ads by default: *[!UICONTROL None]* (the default, which doesn't block ads based on suspicious activity), *[!UICONTROL Suspicious Activity - High Risk]*, or *[!UICONTROL Suspicious Activity - High or Moderate Risk]*. Additional fees may apply.
 
 #### [!UICONTROL Ads.text]
 

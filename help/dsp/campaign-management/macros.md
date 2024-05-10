@@ -87,7 +87,7 @@ For additional macros available specifically for [ [!DNL Analytics for Advertisi
 
 When you add macros to your code, make sure you use the exact syntax of the macro. When validating the macros, DSP checks that the macro exactly matches one of the valid macros.
 
-Errors are generated if characters are missing from the beginning or end of the macro name. For example, you will see an error message if:
+Errors are generated if characters are missing from the beginning or end of the macro name. For example, an error message is shown if:
 
 * You forget one or more of the characters at the beginning of the macro name, such as `${`. If you don’t include the full syntax, the entry isn’t recognized as a valid macro.
 * The macro doesn’t end with a valid set of characters, such as `}`.

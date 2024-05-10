@@ -24,7 +24,7 @@ The file name must include the date and be consistent. For example, if you use t
 
 ## File transfer protocol
 
-Send the file via the SFTP transfer protocol, using Port 22. You'll need to provide your public key information.  Your Adobe Account Team or the implementation team will provide you the server location along with the credentials required for your system to transfer the files.
+Send the file via the SFTP transfer protocol, using Port 22. You'll need to provide your public key information.  Your Adobe Account Team or the implementation team provides you the server location along with the credentials required for your system to transfer the files.
 
 >[!TIP]
 >

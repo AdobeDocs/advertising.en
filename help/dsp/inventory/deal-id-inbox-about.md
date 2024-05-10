@@ -29,11 +29,11 @@ DSP automatically refreshes all deal details daily at 4:30 a.m. EST. It also ref
 <!-- MC: I'm not sure where I got the following. Is this currently true? -->
 >[!NOTE]
 >
->For programmatic guaranteed deals through [!DNL Google Authorized Buyers], you must deliver on at least 90% of your budget or your account will lose access to [!DNL Google] deals in the [!UICONTROL Deal ID inbox].
+>For programmatic guaranteed deals through [!DNL Google Authorized Buyers], you must deliver on at least 90% of your budget or your account loses access to [!DNL Google] deals in the [!UICONTROL Deal ID inbox].
 
 ## Implementing the [!UICONTROL Deal ID Inbox]
 
-To receive your deals in the [!UICONTROL Deal ID inbox], your SSP accounts must map your organization's DSP account to your SSP account. DSP will share the organization's account names with the relevant SSPs. Contact your Adobe Account Team for instructions.
+To receive your deals in the [!UICONTROL Deal ID inbox], your SSP accounts must map your organization's DSP account to your SSP account. DSP can share the organization's account names with the relevant SSPs. Contact your Adobe Account Team for instructions.
 
 During deal negotiations, tell the publisher to send the deal to your buyer instead of to the parent DSP account. The deal identifier may be a name or an ID, depending on the SSP.
 
@@ -41,7 +41,7 @@ During deal negotiations, tell the publisher to send the deal to your buyer inst
 
 * **Review deals** to verify that the SSP has sent the correct publisher, flight dates, CPM, and other deal details. If the publisher has made a mistake, contact them outside of DSP so they can correct and resend the deal.
 
-* **Accept deals** after reviewing, and they will no longer appear in the [!UICONTROL Deal ID inbox]. Accepted deals are listed in [!UICONTROL Inventory] > [!UICONTROL Deals] and are ready to target within advertisers’ placements.
+* **Accept deals** after reviewing, and they no longer appear in the [!UICONTROL Deal ID inbox]. Accepted deals are listed in [!UICONTROL Inventory] > [!UICONTROL Deals] and are ready to target within advertisers’ placements.
 
 * **Ignore deals** that aren't needed or are unsolicited. Ignored deals are moved to the [!UICONTROL Ignored Deals] tab within the [!UICONTROL Deal ID inbox], which serves as an archive. DSP doesn't alert SSPs and publishers when you ignore a deal.
 

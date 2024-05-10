@@ -8,7 +8,7 @@ feature: Search Campaign Management
 
 *[!DNL Microsoft Advertising] accounts only*
 
-You can create a [!DNL Microsoft Advertising] dynamic remarketing audience when you use the search engine's JavaScript conversion- and audience-tracking tag on your webpages. Each audience is created using a specified tag that's included in the webpages whose users will comprise the audience. You can create multiple audiences with the same tracking tag. You can also change the name and data source for existing audiences, or delete existing audiences.
+You can create a [!DNL Microsoft Advertising] dynamic remarketing audience when you use the search engine's JavaScript conversion- and audience-tracking tag on your webpages. Each audience is created using a specified tag that's included in the webpages whose users comprise the audience. You can create multiple audiences with the same tracking tag. You can also change the name and data source for existing audiences, or delete existing audiences.
 
 Dynamic remarketing audiences have the Audience Type "[!UICONTROL Dynamic Remarketing] \<Visitor Type\>" (such as "Dynamic Remarketing Past Buyers").
 
@@ -36,7 +36,7 @@ For more information about dynamic remarketing and how to implement the required
    
    1. Enter the **[!UICONTROL Audience Name]**.
    
-   1. From a list of all available tags for the search engine account, select the name of the [!DNL Microsoft Advertising] UET tag that's included in the webpages whose users will comprise the audience.
+   1. From a list of all available tags for the search engine account, select the name of the [!DNL Microsoft Advertising] UET tag that's included in the webpages whose users comprise the audience.
    
    1. Select the visitor type for the audience, which is based on visitor actions on the relevant webpages: *[!UICONTROL General Visitors]*, *[!UICONTROL Product Searchers]*, *[!UICONTROL Product Viewers]*, *[!UICONTROL Past Buyers]*, or *[!UICONTROL Shopping Cart Abandoners]*.
    
@@ -66,7 +66,7 @@ You can change the name and data source for a [!DNL Microsoft Advertising] dynam
 
    1. (Optional) Change the **[!UICONTROL Audience Name]**.
 
-   1. (Optional) From a list of all available tags for the ad network account, change the name of the [!DNL Microsoft Advertising] UET tag that's included in the webpages whose users will comprise the audience.
+   1. (Optional) From a list of all available tags for the ad network account, change the name of the [!DNL Microsoft Advertising] UET tag that's included in the webpages whose users comprise the audience.
 
    1. (Optional) Change the visitor type for the audience, which is based on visitor actions on the relevant webpages: *[!UICONTROL General Visitors]*, *[!UICONTROL Product Searchers]*, *[!UICONTROL Product Viewers]*, *[!UICONTROL Past Buyers]*, or *[!UICONTROL Shopping Cart Abandoners]*.
 

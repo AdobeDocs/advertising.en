@@ -56,7 +56,7 @@ feature: Search Advertising Insights
 
 4. Click **[!UICONTROL Generate Insight]**.
 
-   You'll receive notification when the job is completed or fails based on your [configured notification settings](/help/search-social-commerce/notifications/notification-edit.md) for [!UICONTROL Advertising Insights].
+   You receive notification when the job is completed or fails based on your [configured notification settings](/help/search-social-commerce/notifications/notification-edit.md) for [!UICONTROL Advertising Insights].
 
 >[!MORELIKETHIS]
 >

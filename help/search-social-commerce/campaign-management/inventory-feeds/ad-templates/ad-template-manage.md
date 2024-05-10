@@ -80,7 +80,7 @@ Create separate templates for text and expanded/extended text ads, responsive se
            >[!NOTE]
            >
            >* If the [!UICONTROL Prefill] option is selected, then the alternate fields are pre-filled with the original fields, and you can edit them as needed.
-           >* Only the ad copy fields that exceed the maximum length are replaced with the alternate value. For example, if only an original headline or title is too long, then the generated ad variation uses the alternate headline or title and the original descriptions(s). Therefore make sure that the alternate ad copy will make sense when combined with the original ad copy.
+           >* Only the ad copy fields that exceed the maximum length are replaced with the alternate value. For example, if only an original headline or title is too long, then the generated ad variation uses the alternate headline or title and the original descriptions(s). Therefore make sure that the alternate ad copy makes sense when combined with the original ad copy.
            >* If the original ad copy meets the search engine's length requirements, then the alternate ad copy is discarded.
            >* You can specify up to four alternates for each ad copy field.
 
@@ -97,7 +97,7 @@ Create separate templates for text and expanded/extended text ads, responsive se
              >[!NOTE]
              >
              >* If the [!UICONTROL Prefill] option is selected, then the alternate fields are pre-filled with the original fields, and you can edit them as needed.
-             >* Only the ad copy fields that exceed the maximum length are replaced with the alternate value. For example, if only an original headline or title is too long, then the generated ad variation uses the alternate headline or title and the original descriptions(s). Therefore make sure that the alternate ad copy will make sense when combined with the original ad copy.
+             >* Only the ad copy fields that exceed the maximum length are replaced with the alternate value. For example, if only an original headline or title is too long, then the generated ad variation uses the alternate headline or title and the original descriptions(s). Therefore make sure that the alternate ad copy makes sense when combined with the original ad copy.
              >* If the original ad copy meets the search engine's length requirements, then the alternate ad copy is discarded.
              >* You can specify up to four alternates for each ad copy field.
 

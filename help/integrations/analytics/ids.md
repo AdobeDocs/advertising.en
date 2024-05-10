@@ -44,7 +44,7 @@ The EF ID is a unique token that Adobe Advertising uses to associate activity wi
 
 >[!NOTE]
 >
->EF IDs are case-sensitive. If an [!DNL Analytics] implementation forces URL tracking to lowercase, then Adobe Advertising will not recognize the EF ID. This will impact Adobe Advertising bidding and reporting but has no impact on Adobe Advertising reporting within [!DNL Analytics].
+>EF IDs are case-sensitive. If an [!DNL Analytics] implementation forces URL tracking to lowercase, then Adobe Advertising doesn't recognize the EF ID. This impacts Adobe Advertising bidding and reporting but has no impact on Adobe Advertising reporting within [!DNL Analytics].
 
 #### [!DNL Google Ads] search ads
 

@@ -22,7 +22,7 @@ Enabling this option automatically triggers an upload for objectives in portfoli
 
   where `<portfolio_id>` is the numeric portfolio ID and `<se_acctid/conversion_manager_se_acctid>` is the numeric ID for the ad network account or manager account.
 
-  Your Adobe Account Team will work with you to migrate your existing conversion action names within the ad network before the old format is deprecated. During the migration period, both the old and new format uploads will run in parallel. Modelling and optimization aren't affected because the new conversion actions will appear initially with "secondary" (not optimized) status and with 90 days of backfill data.
+  Your Adobe Account Team will work with you to migrate your existing conversion action names within the ad network before the old format is deprecated. During the migration period, both the old and new format uploads will run in parallel. Modelling and optimization aren't affected because the new conversion actions initially appear with "secondary" (not optimized) status and with 90 days of backfill data.
 
 Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone. Uploads to [!DNL Microsoft® Advertising] occur daily at 09:00 in the advertiser's time zone.
 

@@ -76,7 +76,7 @@ Contact your Adobe Account Team for the latest supported ad environments in each
 
 ## Things to Know Before You Implement
 
-* The Adobe Advertising implementation team will set up the integration.
+* The Adobe Advertising implementation team sets up the integration.
 
 * No additional costs are billed for this integration, nor do server calls result in additional [!DNL Analytics] or Adobe Advertising fees.
 

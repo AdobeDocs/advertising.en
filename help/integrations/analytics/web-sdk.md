@@ -36,7 +36,7 @@ In the [!DNL Analytics for Advertising] [!DNL Last Event Service] tag you use on
 
 ## Step 2: Use [!DNL Web SDK] to Send the [!DNL StitchID] as XDM Data for [!DNL Analytics]
 
-Insert the following property within your [!DNL Web SDK] `sendEvent` command to send the [!DNL StitchID] to [!DNL Experience Edge] as [!DNL Experience Data Model] (XDM) data for [!DNL Analytics].<!-- The library will send the StitchID to [!DNL Experience Edge] as `[_adcloud.advertisingStitchID](https://github.com/adobe/xdm/blob/master/docs/reference/adobe/experience/adcloud/stitch.schema.md)`. --> [!DNL Analytics] will use the value as an `SDID`.
+Insert the following property within your [!DNL Web SDK] `sendEvent` command to send the [!DNL StitchID] to [!DNL Experience Edge] as [!DNL Experience Data Model] (XDM) data for [!DNL Analytics].<!-- The library sends the StitchID to [!DNL Experience Edge] as `[_adcloud.advertisingStitchID](https://github.com/adobe/xdm/blob/master/docs/reference/adobe/experience/adcloud/stitch.schema.md)`. --> [!DNL Analytics] uses the value as an `SDID`.
 
 **Property to add:**
 

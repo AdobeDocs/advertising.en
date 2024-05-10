@@ -297,7 +297,7 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 >[!TIP]
 >
->For hybrid portfolios for which you upload objectives to the ad network, the best practice is to use campaign-level goals that match the conversion goals in the portfolio's objective. However, if the campaign goals include conversions tracked by the [!DNL Microsoft Advertising] universal event tracking (UET) tag, then add them within the [!DNL Microsoft Advertising] editor because they won't be re-uploaded to the ad network with the objective. In addition, within the [!DNL Microsoft Advertising] editor, remove the campaign's conversion actions as account default goals by deselecting "include in conversions."
+>For hybrid portfolios for which you upload objectives to the ad network, the best practice is to use campaign-level goals that match the conversion goals in the portfolio's objective. However, if the campaign goals include conversions tracked by the [!DNL Microsoft Advertising] universal event tracking (UET) tag, then add them within the [!DNL Microsoft Advertising] editor because they aren't re-uploaded to the ad network with the objective. In addition, within the [!DNL Microsoft Advertising] editor, remove the campaign's conversion actions as account default goals by deselecting "include in conversions."
 
 <!-- Check on this:
 >If the campaign is part of a hybrid portfolio, then use only conversion goals that are included in the portfolio's objective for the campaign. Including additional conversion goals may impact portfolio performance.

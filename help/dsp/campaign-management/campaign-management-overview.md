@@ -13,7 +13,7 @@ DSP campaigns have the following hierarchy:
     * Placement(s)
       * Ad(s)
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
-In Advertising DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
+In Advertising DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package includes placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
 
 ## [!UICONTROL Campaigns]

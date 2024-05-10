@@ -92,7 +92,7 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
     | Analytics Report Suite | The value after `/b/ss/` | | `_les_rsid` |
     | Experience Cloud Visitor ID | mid |  | `_les_mid` |
 
-    If the ID values match, then the JavaScript implementation is confirmed. Adobe Advertising will send the [!DNL Analytics] server any click-through or view-through tracking details if they exist.
+    If the ID values match, then the JavaScript implementation is confirmed. Adobe Advertising sends the [!DNL Analytics] server any click-through or view-through tracking details if they exist.
 
 #### How to Confirm the Code with [!DNL Adobe Experience Cloud Debugger]
 

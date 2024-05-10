@@ -18,7 +18,7 @@ In most campaign data views, you can customize the data that appears within the 
 
   * Browse or search for campaigns by portfolio or portfolio group, and filter by the status of the entity and the status of the portfolio group, portfolio, and campaign. Click any portfolio group, portfolio, or campaign in the panel to load data for the portfolio group, portfolio, or campaign within the current entity view.
 
-  * Access, edit, and reset your default views; and access, edit, and delete your custom views. Clicking any view name will load the appropriate view.
+  * Access, edit, and reset your default views; and access, edit, and delete your custom views. Clicking any view name loads the appropriate view.
 
 * Apply filters on any available data columns to change the data that is displayed on the current tab. You can create filters from the column headings or from a button on the toolbar. Filters are maintained when you open child entities. For example, if you view campaigns with \> 100 clicks and then open an ad group within that campaign, only ad groups with \> 100 clicks are shown.
 

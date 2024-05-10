@@ -228,9 +228,9 @@ The data fields in the feed file may have a maximum of 25 characters and may con
 
   * Two numbers can be embedded with a forward slash. For example, 4/1 and 0.95/0.45 are valid.
 
-**[!UICONTROL Param 2] \[[!DNL Microsoft® Advertising] templates\]:** ([!DNL Microsoft® Advertising] templates only) The string to use as the substitution value in an ad if the title, text, display URL, or final URL contains the `{Param2}` dynamic substitution string. The maximum length is 70 characters, but be aware of the maximum length of the ad element in which you use it (for example, an ad title may include up to 25 characters).
+**[!UICONTROL Param 2] \[[!DNL Microsoft® Advertising] templates\]:** ([!DNL Microsoft® Advertising] templates only) The string to use as the substitution value in an ad if the title, text, display URL, or final URL contains the `{Param2}` dynamic substitution string. The maximum length is 70 characters, but be aware of the maximum length of the ad elements in which you use it (for example, an ad title may include up to 25 characters).
 
-**[!UICONTROL Param 3]:** ([!DNL Microsoft® Advertising] templates only) The string to use as the substitution value in an ad if the title, text, display URL, or final URL contains the `{Param3}` dynamic substitution string. The maximum length is 70 characters, but be aware of the maximum length of the ad element in which you use it (for example, an ad title may include up to 25 characters).
+**[!UICONTROL Param 3]:** ([!DNL Microsoft® Advertising] templates only) The string to use as the substitution value in an ad if the title, text, display URL, or final URL contains the `{Param3}` dynamic substitution string. The maximum length is 70 characters, but be aware of the maximum length of the ad elements in which you use it (for example, an ad title may include up to 25 characters).
 
 **[!UICONTROL Initial Bid (&lt;Match Type or Ad Type&gt;)]:** The initial bid for each keyword with the specified match type or ad type.
 

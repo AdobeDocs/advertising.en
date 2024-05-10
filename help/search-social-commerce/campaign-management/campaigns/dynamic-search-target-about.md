@@ -8,7 +8,7 @@ feature: Search Campaign Management
 
 *[!DNL Google Ads] accounts only*
 
-Dynamic search targets define whether the ad network will use all or a subset of the pages in your website to target your dynamic search ads. Configure dynamic search targets at the ad group level; they apply to all dynamic search ads in the same ad group.
+Dynamic search targets define whether the ad network uses all or a subset of the pages in your website to target your dynamic search ads. Configure dynamic search targets at the ad group level; they apply to all dynamic search ads in the same ad group.
 
 Depending on your campaign settings, dynamic search targets may be required or optional:
 

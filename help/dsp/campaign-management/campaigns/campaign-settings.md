@@ -84,7 +84,7 @@ To estimate taxes to withhold:
 
 >[!NOTE]
 >
-> You can set frequency caps at the campaign, package, and placement levels. DSP will respect the strictest frequency cap in the campaign hierarchy.
+> You can set frequency caps at the campaign, package, and placement levels. DSP respects the strictest frequency cap in the campaign hierarchy.
 
 **[!UICONTROL Packages]:** The [packages](/help/dsp/campaign-management/packages/package-about.md) to include in the campaign. Select existing packages and/or create packages to include. If you create packages, see descriptions about the [package settings](/help/dsp/campaign-management/packages/package-settings.md) for more information.
 
@@ -120,7 +120,7 @@ To estimate taxes to withhold:
 
 * **[!UICONTROL Target Age]:** The age range to target. Use the left and right sliders to reduce the range as needed.
 
-* **[!UICONTROL Target Country]:** (Optional) A country to target. [!DNL Nielsen] will measure impressions served in supported countries only.
+* **[!UICONTROL Target Country]:** (Optional) A country to target. [!DNL Nielsen] measures impressions served in supported countries only.
 
 **[!UICONTROL comScore vCE]:** (Optional) Enables [!DNL Comscore validated Campaign Essentials (vCE)] measurement and reporting of audience verification, using the specified settings. Additional fees apply.
 
@@ -128,7 +128,7 @@ To estimate taxes to withhold:
 
 * **[!UICONTROL Target Age]:** The age range to target. Use the left and right sliders to reduce the range as needed.
 
-* **[!UICONTROL Target Country]:** (Optional) A country to target. [!DNL Comscore] will measure impressions served in supported countries only.
+* **[!UICONTROL Target Country]:** (Optional) A country to target. [!DNL Comscore] measures impressions served in supported countries only.
 
 ### [!UICONTROL 1st Party Metrics]
 

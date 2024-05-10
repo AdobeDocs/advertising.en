@@ -141,8 +141,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL Delivery Method] | Required to create a campaign. |
 | [!UICONTROL Channel Type] | Required to create a campaign. |
 | [!UICONTROL Networks] | Required to create a campaign. |
-| [!UICONTROL DSA Domain Name] | Required to create a campaign on the search network that will have dynamic search ads. |
-| [!UICONTROL DSA Domain Language] | Required to create a campaign on the search network that will have dynamic search ads. |
+| [!UICONTROL DSA Domain Name] | Required to create a campaign with dynamic search ads on the search network. |
+| [!UICONTROL DSA Domain Language] | Required to create a campaign with dynamic search ads on the search network. |
 | [!UICONTROL Campaign Priority] | Required to create a shopping campaign. |
 | [!UICONTROL Merchant ID] | Required to create a shopping campaign. |
 | [!UICONTROL Sales Country] | Required to create a shopping campaign. |
@@ -404,7 +404,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL Sitelink Status] | Required only to delete a sitelink. |
 | [!UICONTROL Campaign ID] | Optional |
 | [!UICONTROL Ad Group ID] | Optional |
-| [!UICONTROL Sitelink ID] | Required only when you change or delete the sitelink, unless the row includes a) sufficient property columns to identify the sitelink or b) an "[!UICONTROL AMO ID]." However, if you include neither [!UICONTROL Sitelink ID] nor [!UICONTROL AMO ID]  and the property columns match multiple sitelinks, then the status for only one of the sitelinks will changes.<br><br><b>Note:</b> If you edit sitelink property columns except [!UICONTROL Status] for an existing sitelink, and you don't include either the [!UICONTROL Sitelink ID] nor [!UICONTROL AMO ID], then a new sitelink is created, and the existing sitelink isn't changed. |
+| [!UICONTROL Sitelink ID] | Required only when you change or delete the sitelink, unless the row includes a) sufficient property columns to identify the sitelink or b) an "[!UICONTROL AMO ID]." However, if you include neither [!UICONTROL Sitelink ID] nor [!UICONTROL AMO ID]  and the property columns match multiple sitelinks, then the status for only one of the sitelinks changes.<br><br><b>Note:</b> If you edit sitelink property columns except [!UICONTROL Status] for an existing sitelink, and you don't include either the [!UICONTROL Sitelink ID] nor [!UICONTROL AMO ID], then a new sitelink is created, and the existing sitelink isn't changed. |
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Location target 

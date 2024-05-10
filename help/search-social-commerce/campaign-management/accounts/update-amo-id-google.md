@@ -46,7 +46,7 @@ All new [!DNL Google Ads] accounts automatically use the current AMO ID format.
 
    >[!NOTE]
    >
-   >All click-throughs that occurred before the migration will still report conversion data based on the old format.
+   >All click-throughs that occurred before the migration still report conversion data based on the old format.
 
 1. After you begin the migration, update the Landing Page Suffix settings (called "final URL suffix" in some ad networks) as necessary:
 

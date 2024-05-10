@@ -16,7 +16,7 @@ Retrieved bulksheet files, and any error files that are created during posting, 
 
 1. Contact your Adobe Account Team to set up an FTP account for uploading bulksheet files.
 
-   Your Adobe Account Team will provide you with the FTP location and your username and password.
+   Your Adobe Account Team provides you with the FTP location and your username and password.
 
 1. (Optional) To receive email notifications about bulksheet files processed from your FTP account, ask your Adobe Account Team.
 

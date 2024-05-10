@@ -18,7 +18,7 @@ You can save and manage reusable audiences, which are groups of audience segment
 
 1. (Optional) Deselect the option to **[!UICONTROL Share with all advertisers in my account]**.
 
-   When you share an audience, the audience becomes available as a target or exclusion to all advertisers within the account. However, the individual segments in the audience are available only to users to which the segments are shared. For example, if you share an audience containing Adobe Analytics segments with an advertiser who is not mapped to the same [!DNL Analytics] account, then the segment will not preview in that audience for that advertiser. Only the segments available to that advertiser will preview in the audience.
+   When you share an audience, the audience becomes available as a target or exclusion to all advertisers within the account. However, the individual segments in the audience are available only to users to which the segments are shared. For example, if you share an audience containing Adobe Analytics segments with an advertiser who isn't mapped to the same [!DNL Analytics] account, then the segment isn't previewed in that audience for that advertiser. Only the segments available to that advertiser are previewed in the audience.
 
 1. Click **[!UICONTROL Save]**.
 

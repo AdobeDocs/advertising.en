@@ -41,15 +41,15 @@ All of the following ad types are available in DSP. For full specifications for 
 
 When you create an ad, DSP reviews it for sensitive categories, click URL functionality, and preview rendering.
 
-Initially, you'll see a red dot in the [!UICONTROL Status] column. The review process normally takes 24-48 hours. A broken ad, however, may have a pending status for longer than 48 hours so you have time to fix errors before the ad is rejected. Rejected ads include a reason for the rejection.
+Initially, the ad's [!UICONTROL Status] column displays a red dot. The review process normally takes 24-48 hours. A broken ad, however, may have a pending status for longer than 48 hours so you have time to fix errors before the ad is rejected. Rejected ads include a reason for the rejection.
 
-When DSP approves an ad, you'll see a green dot in the Status column.
+When DSP approves an ad, the ad's Status column displays a green dot.
 
 ![approval indicator in [!UICONTROL Status] column](/help/dsp/assets/ad-approval-status.png)
 
 >[!NOTE]
 >
->Your ad will only be served if both DSP and the SSP have approved the creative. Each SSP has its own approval requirements and process.
+>Your ad can be served only if both DSP and the SSP have approved the creative. Each SSP has its own approval requirements and process.
 
 >[!MORELIKETHIS]
 >

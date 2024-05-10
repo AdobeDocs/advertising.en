@@ -40,7 +40,7 @@ To access [!DNL Adobe] audiences in DSP or [!DNL Creative], you must import the 
 
 ### Steps to Import Audiences to DSP
 
-The [!DNL Adobe] account and data operations teams will perform the following steps.
+The [!DNL Adobe] account and data operations teams perform the following steps.
 
 1. The Adobe Account Team should configure the advertiser-level setting "[!UICONTROL Adobe Analytics Cloud]."
 
@@ -68,7 +68,7 @@ The API automatically:
 
 ### Steps to Import Audiences to [!DNL Search, Social, & Commerce]
 
-[!DNL Adobe] personnel will perform most or all of the following steps.
+[!DNL Adobe] personnel perform most or all of the following steps.
 
 1. The Adobe Account Team should submit a request to the data operations team to set up an integration between [!DNL Search, Social, & Commerce] and Audience Manager. Include the names of the Audience Manager segments that you want to export to [!DNL Search, Social, & Commerce]. 
 
@@ -86,11 +86,11 @@ The API automatically:
 
 1. Within [!DNL Search, Social, & Commerce], either the [!DNL Search, Social, & Commerce] implementation team or a user with the direct access client manager role should initiate the import from [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Audience Manager Setup].
 
-    You'll need to enter the organization's Experience Cloud [!DNL Organization ID] ([!DNL IMS org ID]). The ID must be the same as the one used for the organization's Audience Manager account.
+    You must enter the organization's Experience Cloud [!DNL Organization ID] ([!DNL IMS org ID]). The ID must be the same as the one used for the organization's Audience Manager account.
 
 ### What Changes Result in Audience Manager?
 
-The organization will see two [!DNL Search, Social, & Commerce] destinations in Audience Manager:
+Two [!DNL Search, Social, & Commerce] destinations become available for the organization in Audience Manager:
 
 * **[!UICONTROL Adobe Media Optimizer (HTTP)]**
 * **[!UICONTROL Adobe Media Optimizer Batch Destination])**

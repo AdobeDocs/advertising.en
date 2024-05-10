@@ -26,7 +26,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 
       Some fields have default values that you can override.
 
-      If the package to which the placement is assigned has package-level pacing, then your goals and pacing settings will reflect the package settings.
+      If the package to which the placement is assigned has package-level pacing, then your goals and pacing settings reflect the package settings.
 
    1. (Optional) In the [!UICONTROL Geo-Targeting] section, narrow down the locations that are included or excluded.
 
@@ -82,7 +82,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 
         1. (Optional) For each additional ad you want to create for the placement, click **[!UICONTROL Attach Another Ad]**, and then repeat Steps 1-3.
 
-        1. If you won't attach any existing ads, click **[!UICONTROL I'm done for now]**.
+        1. If you aren't going to attach any existing ads, click **[!UICONTROL I'm done for now]**.
 
        * To attach existing ads in the campaign:
 

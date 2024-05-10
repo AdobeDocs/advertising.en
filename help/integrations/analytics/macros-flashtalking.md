@@ -30,7 +30,7 @@ Within the [!DNL Flashtalking] ad tag settings, append the following macro to th
 [ftqs:[AdobeAMO]]
 ```
 
-If it's the first or only query string after the base URL, then separate it from the base URL with a `?`. If the base URL will include multiple query strings, then begin the first string with a `?` and each subsequent string with a `&`.
+If it's the first or only query string after the base URL, then separate it from the base URL with a `?`. If the base URL includes multiple query strings, then begin the first string with a `?` and each subsequent string with a `&`.
 
 Examples:
   
@@ -46,7 +46,7 @@ Within the [!DNL Flashtalking] ad tag settings, append the following macro to th
 [%EL:param['AdobeAMO']%]&s_kwcid=[%EL:param['s_kwcid']%]
 ```
 
-If it's the first or only query string after the base URL, then separate it from the base URL with a `?`. If the base URL will include multiple query strings, then begin the first string with a `?` and each subsequent string with a `&`.
+If it's the first or only query string after the base URL, then separate it from the base URL with a `?`. If the base URL includes multiple query strings, then begin the first string with a `?` and each subsequent string with a `&`.
 
 Examples:
 

@@ -28,7 +28,7 @@ You can duplicate an ad within the same campaign.
 
    >[!NOTE]
    >
-   >Your ad will only be served if both DSP and the SSP have approved the creative. Each SSP has its own approval requirements and process.
+   >Your ad can be served only if both DSP and the SSP have approved the creative. Each SSP has its own approval requirements and process.
 
 >[!MORELIKETHIS]
 >
