@@ -1,12 +1,12 @@
 ---
-title: '[!DNL Microsoft® Advertising] responsive ad settings'
-description: Reference the settings for [!DNL Microsoft® Advertising] responsive ads.
+title: '[!DNL Microsoft Advertising] responsive ad settings'
+description: Reference the settings for [!DNL Microsoft Advertising] responsive ads.
 exl-id: 29404500-d929-4683-be71-150ea8ab805d
 feature: Search Campaign Management
 ---
-# [!DNL Microsoft® Advertising] responsive (audience) ad settings
+# [!DNL Microsoft Advertising] responsive (audience) ad settings
 
-The responsive ad format is available for image-based, video-based, and connected TV video-based audience ads on the [!DNL Microsoft® Audience Network]. The ad network dynamically assembles responsive ads using the most effective combinations of ad elements.
+The responsive ad format is available for image-based, video-based, and connected TV video-based audience ads on the [!DNL Microsoft Audience Network]. The ad network dynamically assembles responsive ads using the most effective combinations of ad elements.
 
 ## [!UICONTROL Ad Settings] (for video ads) and [!UICONTROL Audience CTV Video Ad Details]
 
@@ -22,7 +22,7 @@ The responsive ad format is available for image-based, video-based, and connecte
 
 **[!UICONTROL Images]:** Up to 15 JPEG or PNG images for the ad. Include at least one image with a 1.91:1 aspect ratio. See the permitted aspect rations and dimensions for [audience ad images](https://help.ads.microsoft.com/#apex/ads/en/56912/0).
 
-For audience ads, [!DNL Microsoft® Advertising] automatically crops this image for all possible aspect ratios.
+For audience ads, [!DNL Microsoft Advertising] automatically crops this image for all possible aspect ratios.
 
 <!-- Instructions -->
 
@@ -50,7 +50,7 @@ For audience ads, [!DNL Microsoft® Advertising] automatically crops this image 
 >
 >* [About ads](ad-about.md)
 >* [Manage ads](ad-manage.md)
->* [[!DNL Microsoft® Advertising] expanded dynamic search ad settings](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft® Advertising] multimedia ad settings](ad-settings-microsoft-multimedia.md)
->* [[!DNL Microsoft® Advertising] product ad settings](ad-settings-microsoft-product.md)
->* [[!DNL Microsoft® Advertising] responsive search ad settings](ad-settings-microsoft-rsa.md)
+>* [[!DNL Microsoft Advertising] expanded dynamic search ad settings](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising] multimedia ad settings](ad-settings-microsoft-multimedia.md)
+>* [[!DNL Microsoft Advertising] product ad settings](ad-settings-microsoft-product.md)
+>* [[!DNL Microsoft Advertising] responsive search ad settings](ad-settings-microsoft-rsa.md)

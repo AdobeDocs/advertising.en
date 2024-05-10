@@ -321,17 +321,17 @@ When you generate both reports by portfolio, the data is different if you genera
 +++Report output includes a mix of date ranges.
 You may see different date ranges if the feed aggregates data using any data aggregation level other than "[!UICONTROL Daily]."
 
-To resolve the issue, update the spreadsheet feed to include data aggregated daily. This task includes updating the report template, generating a report using the template, creating a custom [!DNL Microsoft® Excel] template using the report, and then updating the feed settings to include the new Excel template. For more information, see "[Edit spreadsheet report feed settings](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md)."
+To resolve the issue, update the spreadsheet feed to include data aggregated daily. This task includes updating the report template, generating a report using the template, creating a custom [!DNL Microsoft Excel] template using the report, and then updating the feed settings to include the new Excel template. For more information, see "[Edit spreadsheet report feed settings](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md)."
 +++
   
 +++A spreadsheet feed results in an Internal Error.
-This error may happen if you change the columns in the report template but don't update the [!DNL Microsoft® Excel] template accordingly.
+This error may happen if you change the columns in the report template but don't update the [!DNL Microsoft Excel] template accordingly.
 
 To resolve the issue, update the spreadsheet feed to include the new columns. This task includes updating the report template, generating a report using the template, creating a custom [!DNL Excel] template using the report, and then updating the feed settings to include the new Excel template. For more information, see "[Edit spreadsheet report feed settings](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md)."
 +++
   
 +++When I try to open a spreadsheet feed in [!DNL Excel], [!DNL Excel] reports an "unreadable content" error, and data is removed from the recovered content.
-When the [!DNL Microsoft® Excel] template doesn't sort data by start date in ascending order, the spreadsheet feed may include blank rows. In particular, [!DNL Excel] reports the error "Excel found unreadable content in '<*report name*>.xlsx.' Do you want to recover the contents of the workbook? If you trust the source of this workbook, click yes." If you click "Yes," you get the following message: "Removed Records: Cell information from /xl/worksheets/sheet1.xml part," and the spreadsheet feed includes blank rows.
+When the [!DNL Microsoft Excel] template doesn't sort data by start date in ascending order, the spreadsheet feed may include blank rows. In particular, [!DNL Excel] reports the error "Excel found unreadable content in '<*report name*>.xlsx.' Do you want to recover the contents of the workbook? If you trust the source of this workbook, click yes." If you click "Yes," you get the following message: "Removed Records: Cell information from /xl/worksheets/sheet1.xml part," and the spreadsheet feed includes blank rows.
 
 To resolve the issue, edit the [!DNL Excel] template associated with the feed to sort data by [!DNL Start date in Ascending (Oldest to Newest) order], and then upload the updated template via the spreadsheet feed settings. For more information, see "[Edit spreadsheet report feeds](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md)."
 +++

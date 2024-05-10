@@ -63,7 +63,7 @@ The planner generates forecasts based on the latest observed data, so the foreca
 
 +++Can I save the planner forecast output?
 
-Yes, you can export a forecast into a [!DNL Microsoft® Excel] spreadsheet by clicking **[!UICONTROL ...]** > **[!UICONTROL Export]** in the upper right. The spreadsheet captures the information displayed in the reach budget curve using two data columns: [!UICONTROL Budget] and [!UICONTROL Reach].
+Yes, you can export a forecast into a [!DNL Microsoft Excel] spreadsheet by clicking **[!UICONTROL ...]** > **[!UICONTROL Export]** in the upper right. The spreadsheet captures the information displayed in the reach budget curve using two data columns: [!UICONTROL Budget] and [!UICONTROL Reach].
 
 >[!MORELIKETHIS]
 >

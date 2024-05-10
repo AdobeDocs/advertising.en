@@ -8,7 +8,7 @@ feature: Search Recommendations
 
 <!-- Add info for MS once we have it ..." 
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts*
  
 -->
 

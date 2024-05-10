@@ -6,9 +6,9 @@ feature: Search Campaign Management
 ---
 # Associate shared sitelinks with accounts, campaigns, and ad groups 
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] only*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] only*
 
-You can create ad extensions by assigning sitelinks from your [!DNL Sitelinks] library to account entities, for use on the search network only. For [!DNL Google Ads] accounts, you can assign sitelinks to accounts or to campaigns and ad groups on the search network. For [!DNL Microsoft® Advertising] accounts, you can assign sitelinks to campaigns on the search network (and to accounts and ad groups from within the [!DNL Microsoft® Advertising] ad manager).
+You can create ad extensions by assigning sitelinks from your [!DNL Sitelinks] library to account entities, for use on the search network only. For [!DNL Google Ads] accounts, you can assign sitelinks to accounts or to campaigns and ad groups on the search network. For [!DNL Microsoft Advertising] accounts, you can assign sitelinks to campaigns on the search network (and to accounts and ad groups from within the [!DNL Microsoft Advertising] ad manager).
 
 You must have at least six active sitelinks for both desktop and mobile for your sitelinks to appear with ads. You can assign up to 20 sitelinks per account, campaign or ad group.
 

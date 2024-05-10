@@ -8,7 +8,7 @@ feature: Search Reports
 
 *For basic reports and model accuracy reports only*
 
-You can change which report template, [!DNL Microsoft® Excel] template, and other parameters  are used for a spreadsheet feed.
+You can change which report template, [!DNL Microsoft Excel] template, and other parameters  are used for a spreadsheet feed.
 
 >[!NOTE]
 >

@@ -6,7 +6,7 @@ exl-id: 8fdbfdf8-502a-47e0-a0a0-8722726280e9
 ---
 # [!UICONTROL MSA Ad Extension Detail Report]
 
-*[!DNL Microsoft® Advertising] accounts only*
+*[!DNL Microsoft Advertising] accounts only*
 
 This report shows the impressions, clicks, spend, and average cost per click for individual ad extension elements (such as each link in a sitelink extension). Use this report to see the effectiveness of your ad extension elements.
 

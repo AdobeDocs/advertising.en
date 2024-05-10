@@ -1,15 +1,15 @@
 ---
 title: Configure A/B Tests for Adobe Advertising Search, Social, & Commerce Ads in Adobe Target
-description: Learn how to set up an A/B test in [!DNL Target] for your [!DNL Google Ads] and [!DNL Microsoft® Advertising] ads in Search, Social, & Commerce.
+description: Learn how to set up an A/B test in [!DNL Target] for your [!DNL Google Ads] and [!DNL Microsoft Advertising] ads in Search, Social, & Commerce.
 exl-id: 564c7d61-beec-40cf-ac68-83d1e87e3008
 ---
 # Configure A/B Tests in Adobe Target for Advertising Search, Social, & Commerce Ads
 
 *Advertisers with Advertising Search, Social, & Commerce only*
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts only*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
-Adobe Advertising and Adobe Target make it easy to set up landing page experience A/B tests for digital advertising traffic [!DNL Google Ads] and [!DNL Microsoft® Advertising] to:
+Adobe Advertising and Adobe Target make it easy to set up landing page experience A/B tests for digital advertising traffic [!DNL Google Ads] and [!DNL Microsoft Advertising] to:
 
 * Improve conversion rates (CVR) and acquisition efficiency measures (such as CPA, CPL, and CAC).
 

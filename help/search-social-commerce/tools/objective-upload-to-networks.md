@@ -1,16 +1,16 @@
 ---
 title: Enable uploading of objectives to ad networks
-description: Learn how to upload objectives for your hybrid portfolios to [!DNL Google Ads] and [!DNL Microsoft® Advertising].
+description: Learn how to upload objectives for your hybrid portfolios to [!DNL Google Ads] and [!DNL Microsoft Advertising].
 exl-id: 09ab0b7a-b6ea-45ad-a82c-2c40d518d2e7
 feature: Search Tools
 ---
 # Enable uploading of objectives to ad networks
 
-*Advertisers with [!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts only*
+*Advertisers with [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
 *Advertisers enabled for hybrid optimization only*
 
-Search, Social, & Commerce can upload the objectives for an advertiser account's portfolios to [!DNL Google Ads] and [!DNL Microsoft® Advertising] so you can use them for hybrid optimization. Your uploaded objectives are available as conversion actions for account-level and campaign-level custom conversion goals.
+Search, Social, & Commerce can upload the objectives for an advertiser account's portfolios to [!DNL Google Ads] and [!DNL Microsoft Advertising] so you can use them for hybrid optimization. Your uploaded objectives are available as conversion actions for account-level and campaign-level custom conversion goals.
 
 Enabling this option automatically triggers an upload for objectives in portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable objective. The conversion represents all weighted conversion metrics in the objective. Each conversion has one of the following names:
 
@@ -24,7 +24,7 @@ Enabling this option automatically triggers an upload for objectives in portfoli
 
   Your Adobe Account Team will work with you to migrate your existing conversion action names within the ad network before the old format is deprecated. During the migration period, both the old and new format uploads will run in parallel. Modelling and optimization aren't affected because the new conversion actions initially appear with "secondary" (not optimized) status and with 90 days of backfill data.
 
-Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone. Uploads to [!DNL Microsoft® Advertising] occur daily at 09:00 in the advertiser's time zone.
+Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone. Uploads to [!DNL Microsoft Advertising] occur daily at 09:00 in the advertiser's time zone.
 
 >[!IMPORTANT]
 >

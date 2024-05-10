@@ -18,7 +18,7 @@ exl-id: 80dab57a-e56d-4a77-a1d5-c3e705f54fb9
 
     Once you save the plan, the forecasted output is shown.
 
-1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft® Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
+1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
 
 >[!MORELIKETHIS]
 >

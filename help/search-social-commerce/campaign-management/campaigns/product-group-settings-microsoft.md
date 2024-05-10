@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Microsoft® Advertising] product group settings'
-description: Reference the settings for [!DNL Microsoft® Advertising] shopping product groups.
+title: '[!DNL Microsoft Advertising] product group settings'
+description: Reference the settings for [!DNL Microsoft Advertising] shopping product groups.
 exl-id: ea3a4137-1396-430f-9d6c-8e1e1f1f52c2
 feature: Search Campaign Management
 ---
-# [!DNL Microsoft® Advertising] product group settings
+# [!DNL Microsoft Advertising] product group settings
 
 ## "All Product" product groups
 
@@ -46,4 +46,4 @@ This template overrides templates at higher levels and is used only for units wi
 >* [About shopping product groups](product-group-about.md)
 >* [Manage shopping product groups](product-group-manage.md)
 >* [Shopping campaign product filters](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md)
->* [Implement [!DNL Microsoft® Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)
+>* [Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)

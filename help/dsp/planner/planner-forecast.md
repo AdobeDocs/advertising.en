@@ -12,7 +12,7 @@ You can regenerate the forecast for a connected TV reach plan based on the lates
 
 1. Hold the cursor over the plan row and click **[!UICONTROL Forecast]**.
 
-1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft® Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
+1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
 
 >[!MORELIKETHIS]
 >

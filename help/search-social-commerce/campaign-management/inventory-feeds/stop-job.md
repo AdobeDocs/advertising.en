@@ -6,7 +6,7 @@ feature: Search Inventory Feeds
 ---
 # Stop a posting job for inventory feed data
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
 You can stop posting campaign data generated from a feed in the following ways.
 

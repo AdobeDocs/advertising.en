@@ -6,7 +6,7 @@ feature: Search Campaign Management
 ---
 # Create negative keywords
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], and existing [!DNL Baidu] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], and existing [!DNL Baidu] accounts only*
 
 You can create negative keywords for a search ad group or campaign that targets the search or display/native network. Negative keywords don't trigger ads.
 
@@ -24,7 +24,7 @@ You can create negative keywords for a search ad group or campaign that targets 
 
 1. Enter the negative keywords. Use the following syntax, without a minus sign (`-`):
 
-   * Negative broad match: `keyword` (not supported by [!DNL Microsoft® Advertising])
+   * Negative broad match: `keyword` (not supported by [!DNL Microsoft Advertising])
    
    * Negative phrase match: `"keyword"`
    
@@ -32,7 +32,7 @@ You can create negative keywords for a search ad group or campaign that targets 
 
    Separate multiple values with commas, or enter them on separate lines. You can enter or paste up to 2000 negative keywords in one operation. See also the following requirements and restrictions:
    
-   * Maximum character lengths: [!DNL Baidu]: 30 single-byte or 15 double-byte; [!DNL Microsoft® Advertising]: 100 single-byte or 50 double-byte; [!DNL Google Ads] and [!DNL Yahoo! Japan Ads]: 80 single-byte or 40 double-byte.
+   * Maximum character lengths: [!DNL Baidu]: 30 single-byte or 15 double-byte; [!DNL Microsoft Advertising]: 100 single-byte or 50 double-byte; [!DNL Google Ads] and [!DNL Yahoo! Japan Ads]: 80 single-byte or 40 double-byte.
    
    * [!DNL Baidu] allows only one match type per keyword per ad group. For example, Ad Group 1 can't include both `"keyword"` and `[keyword]`.
    

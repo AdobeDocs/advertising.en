@@ -6,15 +6,15 @@ feature: Search Recommendations
 ---
 # About publisher recommendations and insights support
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts*
 
-*Beta feature for [!DNL Microsoft® Advertising] accounts*
+*Beta feature for [!DNL Microsoft Advertising] accounts*
 
-[!DNL Google Ads] and [!DNL Microsoft® Advertising] recommendations and insights are suggestions from the ad network to help improve the performance and efficiency of your campaigns: 
+[!DNL Google Ads] and [!DNL Microsoft Advertising] recommendations and insights are suggestions from the ad network to help improve the performance and efficiency of your campaigns: 
 
 * Each [!DNL Google Ads] recommendation provides customized suggestions about different performance aspects of a campaign &mdash; from adding an asset to increasing the budget &mdash; based on your account's performance history, your campaign settings, and trends across [!DNL Google Ads].
 
-* Each [!DNL Microsoft® Advertising] performance insight and recommendation suggests changes to optimize campaign performance based on machine learning algorithms and best practices.
+* Each [!DNL Microsoft Advertising] performance insight and recommendation suggests changes to optimize campaign performance based on machine learning algorithms and best practices.
 
 ## The [!UICONTROL Recommendations & Publisher Insights] view
 
@@ -26,7 +26,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
   The data is available in real time when you open the view. To refresh the data, click ![Refresh](/help/search-social-commerce/assets/refresh.png "Refresh") on the bottom left of the page.
 
-* For [!DNL Microsoft® Advertising] accounts, see at a glance each performance insight generated in the last 30 days for a [!DNL Microsoft® Advertising] account. Insights provide similar information to recommendations but in a different format. Each insight includes the date, a description of the issue, the impacted entity, the root cause (which may include links to more details), and the suggested action with a link to open the [!DNL Microsoft® Advertising] editor, from which you can act on the specific insight. 
+* For [!DNL Microsoft Advertising] accounts, see at a glance each performance insight generated in the last 30 days for a [!DNL Microsoft Advertising] account. Insights provide similar information to recommendations but in a different format. Each insight includes the date, a description of the issue, the impacted entity, the root cause (which may include links to more details), and the suggested action with a link to open the [!DNL Microsoft Advertising] editor, from which you can act on the specific insight. 
 
 * View details about a recommendation, and directly apply or dismiss the recommendation.
   

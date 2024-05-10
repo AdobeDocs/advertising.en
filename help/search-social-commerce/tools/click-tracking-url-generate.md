@@ -34,7 +34,7 @@ For information about when you must manually generate and implement a click-trac
           
           Example: http://www.example.com/travel.html
         
-        * ([!DNL Microsoft® Advertising] sitelinks) `sitelink <tab> ** <tab> landing_page`
+        * ([!DNL Microsoft Advertising] sitelinks) `sitelink <tab> ** <tab> landing_page`
           
           where `sitelink` is the sitelink name and `landing_page` is a valid landing page URL or base URL.
 
@@ -42,7 +42,7 @@ For information about when you must manually generate and implement a click-trac
 
           The file can include up to 10,000 lines.
          
-        * ([!DNL Google Merchant Center] product groups and [!DNL Microsoft® Advertising] product ads) `product name <tab> ** <tab> landing_page`
+        * ([!DNL Google Merchant Center] product groups and [!DNL Microsoft Advertising] product ads) `product name <tab> ** <tab> landing_page`
 
           where `product name` is the product name and `landing_page` is a valid landing page URL or base URL.
 
@@ -58,13 +58,13 @@ For information about when you must manually generate and implement a click-trac
 
           Example: http://www.example.com/travel.html
 
-        * ([!DNL Microsoft® Advertising] sitelinks) `sitelink**landing_page`
+        * ([!DNL Microsoft Advertising] sitelinks) `sitelink**landing_page`
 
           where `sitelink` is the sitelink name and `landing_page` is a valid landing page URL or base URL.
 
           Example: `Careers**http://www.example.com/careers.html`
       
-        * ([!DNL Google Merchant Center] product groups and [!DNL Microsoft® Advertising] product ads) `product name**landing_page`
+        * ([!DNL Google Merchant Center] product groups and [!DNL Microsoft Advertising] product ads) `product name**landing_page`
 
           where `product name` is the product name and `landing_page` is a valid landing page URL or base URL.
 
@@ -76,7 +76,7 @@ For information about when you must manually generate and implement a click-trac
 
 For accounts with destination URLs, enter the values in the appropriate [!UICONTROL Base URL] fields.
 
-For accounts with final URLs, enter the on-screen value in the appropriate [!UICONTROL Tracking Template] field. You must add a parameter for the final URL after the `&url=` parameter (such as `{lpurl}`). For [!DNL Yahoo! Japan Ads] accounts, use the parameter `{lpurl}`. For a list of [!DNL Google Ads] and [!DNL Microsoft® Advertising] parameters to indicate final URLs in tracking templates, see the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348) (see the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters") and the [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799/2).
+For accounts with final URLs, enter the on-screen value in the appropriate [!UICONTROL Tracking Template] field. You must add a parameter for the final URL after the `&url=` parameter (such as `{lpurl}`). For [!DNL Yahoo! Japan Ads] accounts, use the parameter `{lpurl}`. For a list of [!DNL Google Ads] and [!DNL Microsoft Advertising] parameters to indicate final URLs in tracking templates, see the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348) (see the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters") and the [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799/2).
 
 >[!MORELIKETHIS]
 >

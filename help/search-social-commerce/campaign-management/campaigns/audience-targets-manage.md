@@ -1,14 +1,14 @@
 ---
 title: Manage audience targets for campaigns and ad groups
-description: Learn how to configure and manage audience targets for your [!DNL Google Ads] and [!DNL Microsoft® Advertising] campaigns and ad groups.
+description: Learn how to configure and manage audience targets for your [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns and ad groups.
 exl-id: 9a496d15-082d-44e1-a0a3-71356e24b932
 feature: Search Campaign Management
 ---
-# Manage audience targets for your [!DNL Google Ads] and [!DNL Microsoft® Advertising] campaigns and ad groups
+# Manage audience targets for your [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns and ad groups
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] only*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] only*
 
-[!DNL Google Ads] campaigns and ad groups, and [!DNL Microsoft® Advertising] ad groups, can target specific audiences from the same ad network. The ad network determines how large an audience must be to be targetable.
+[!DNL Google Ads] campaigns and ad groups, and [!DNL Microsoft Advertising] ad groups, can target specific audiences from the same ad network. The ad network determines how large an audience must be to be targetable.
 
 >[!NOTE]
 >

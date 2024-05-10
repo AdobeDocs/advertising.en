@@ -1,12 +1,12 @@
 ---
 title: Create and upload assets
-description: Learn how to create reusable image, video, and text assets and upload them to your [!DNL Google Ads] and [!DNL Microsoft® Advertising] account-level asset libraries.
+description: Learn how to create reusable image, video, and text assets and upload them to your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries.
 feature: Search Campaign Management
 exl-id: dd6fc5bf-3e3e-4e8f-b20b-37b9311fcf9f
 ---
 # Create and upload assets
 
-*For [!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts only*
+*For [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
 *Open beta feature*
 

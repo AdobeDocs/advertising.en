@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Microsoft® Ads] shopping ad template settings for inventory feeds'
-description: Reference the settings for [!DNL Microsoft® Ads] shopping ad templates for inventory feeds.
+title: '[!DNL Microsoft Ads] shopping ad template settings for inventory feeds'
+description: Reference the settings for [!DNL Microsoft Ads] shopping ad templates for inventory feeds.
 exl-id: a0dd6542-0516-406a-b8c5-2e102ec7ab3d
 feature: Search Inventory Feeds
 ---
-# [!DNL Microsoft® Ads] shopping ad template settings for inventory feeds
+# [!DNL Microsoft Ads] shopping ad template settings for inventory feeds
 
 Use shopping ad templates to configure shopping ads.
 
@@ -55,7 +55,7 @@ Use shopping ad templates to configure shopping ads.
 
 * For Adobe Advertising conversion tracking, which is applied when the campaign settings include &quot;[!UICONTROL EF Redirect]&quot; and &quot;[!UICONTROL Auto Upload],&quot; do one of the following":
 
-  * (Recommended) Use the [tracking template format for Microsoft® shopping campaigns](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md). If the entire account is dedicated to shopping ads, you can instead define a tracking template at the account level.
+  * (Recommended) Use the [tracking template format for Microsoft shopping campaigns](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md). If the entire account is dedicated to shopping ads, you can instead define a tracking template at the account level.
   
   * If you instead include a value for each product in the feed using the "[!DNL bingads_redirect]" column (using the [correct format](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md)), then enter the parameter `{lpurl}`. You can optionally add third-party redirects and tracking to the `{lpurl}` parameter.
 

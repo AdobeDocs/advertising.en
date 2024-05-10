@@ -8,13 +8,13 @@ feature: Search Notifications
 
 *Beta Feature*
 
-You can enable notifications within Search, Social, & Commerce, where they appear according to the browser's notification conventions. On devices using [!DNL Microsoft® Windows], notifications are displayed in the bottom right of the screen (system tray). On [!DNL Apple Mac] devices, notifications are displayed in the right menu.
+You can enable notifications within Search, Social, & Commerce, where they appear according to the browser's notification conventions. On devices using [!DNL Microsoft Windows], notifications are displayed in the bottom right of the screen (system tray). On [!DNL Apple Mac] devices, notifications are displayed in the right menu.
 
 Push notifications are available in the following browsers:
 
 * [!DNL Google Chrome] 40 and higher
 
-* [!DNL Microsoft® Edge] 17 and higher
+* [!DNL Microsoft Edge] 17 and higher
 
 * [!DNL Mozilla Firefox] 44 and higher
 
@@ -30,9 +30,9 @@ You can disable push notifications according to the browser's standard procedure
 
 4. Configure the browser to allow notifications from [!UICONTROL Notification Center] at`https://alert-center-ui-na.efrontier.com`.
 
-   Default notification settings vary by browser, and you may either a) be automatically presented with the option to allow notifications from [!UICONTROL Notification Center] or b) need to manually manage the notification settings. For example, in [!DNL Microsoft® Edge], you can allow notifications from [!UICONTROL Notification Center] from the browser toolbar. See instructions in the browser's help.
+   Default notification settings vary by browser, and you may either a) be automatically presented with the option to allow notifications from [!UICONTROL Notification Center] or b) need to manually manage the notification settings. For example, in [!DNL Microsoft Edge], you can allow notifications from [!UICONTROL Notification Center] from the browser toolbar. See instructions in the browser's help.
    
-   ![Where to manage notification settings in Microsoft Edge](/help/search-social-commerce/assets/notifications-blocked-dialog.png "Where to manage notification settings in Microsoft® Edge")
+   ![Where to manage notification settings in Microsoft Edge](/help/search-social-commerce/assets/notifications-blocked-dialog.png "Where to manage notification settings in Microsoft Edge")
 
 5. In your [notification settings](notification-edit.md), enable [!UICONTROL Web] notifications for the alert types you want to be pushed.
 

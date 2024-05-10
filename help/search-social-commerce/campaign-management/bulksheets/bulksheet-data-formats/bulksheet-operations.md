@@ -32,7 +32,7 @@ The following rules apply to working with campaign components and their properti
 
     * ([!UICONTROL Google Ads] only) [!UICONTROL Description Line 1], [!UICONTROL Description Line 2]
     
-    * ([!DNL Google Ads] and [!DNL Microsoft® Advertising] only) [!UICONTROL Product Scope Filter], [!UICONTROL Base URL/Final URL], [!UICONTROL Tracking Template]
+    * ([!DNL Google Ads] and [!DNL Microsoft Advertising] only) [!UICONTROL Product Scope Filter], [!UICONTROL Base URL/Final URL], [!UICONTROL Tracking Template]
 
 >[!NOTE]
 >

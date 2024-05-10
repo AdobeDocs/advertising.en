@@ -6,7 +6,7 @@ feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL Bing Ads Geo Report]
 
-*[!DNL Microsoft® Advertising] accounts only*
+*[!DNL Microsoft Advertising] accounts only*
 
 The [!UICONTROL Bing Ads Geo Report] includes cost, click, impression, and (optionally) derived metric data by country/region/metro code/city combinations for each ad group in one or more accounts. By default, the data includes one row for each country/region/metro code/city combination that received at least one impression or click for each applicable ad group for each time unit in the specified date range. The rows are in ascending order by campaign name and then by country, region, metro code, city, and then ad group, by default. The report does not include conversion data tracked by [!DNL Microsoft Advertising] nor [!DNL Adobe].
 

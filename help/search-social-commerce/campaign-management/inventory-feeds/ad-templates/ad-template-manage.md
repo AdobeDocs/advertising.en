@@ -6,11 +6,11 @@ feature: Search Inventory Feeds
 ---
 # Manage ad templates for inventory feeds
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
-Before or after you upload data, you can create search-engine specific ad templates through which your data can be processed. You can create templates for text ads and expanded/extended text ads, [!DNL Google Ads] and [!DNL Microsoft® Advertising] responsive search ads, and for [!DNL Google Ads] and [!DNL Microsoft® Advertising] shopping ads.
+Before or after you upload data, you can create search-engine specific ad templates through which your data can be processed. You can create templates for text ads and expanded/extended text ads, [!DNL Google Ads] and [!DNL Microsoft Advertising] responsive search ads, and for [!DNL Google Ads] and [!DNL Microsoft Advertising] shopping ads.
 
-You can associate each template with one feed file, [!DNL Google Merchant Center] account, or [!DNL Microsoft® Merchant Center] account, and you can associate multiple templates with the same feed file or account. An ad template can include variables, which are substituted with actual data columns from an uploaded file or an account. In most cases, the variables also can include [a modifier group](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) you set up in Search, Social, & Commerce to create multiple ads, keywords, campaigns, or ad groups for each applicable row in the data file. The template options allow you to either create new account structure (campaigns, ad groups, keywords) for the ads or map the ads to the existing account structure.
+You can associate each template with one feed file, [!DNL Google Merchant Center] account, or [!DNL Microsoft Merchant Center] account, and you can associate multiple templates with the same feed file or account. An ad template can include variables, which are substituted with actual data columns from an uploaded file or an account. In most cases, the variables also can include [a modifier group](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) you set up in Search, Social, & Commerce to create multiple ads, keywords, campaigns, or ad groups for each applicable row in the data file. The template options allow you to either create new account structure (campaigns, ad groups, keywords) for the ads or map the ads to the existing account structure.
 
 In addition to creating new templates from scratch, you can optionally create new templates by cloning existing ones and edit existing templates.
 
@@ -20,7 +20,7 @@ Any template can be activated, paused, or deleted. Feed data can be automaticall
 
 ## Create, clone, or edit a feed template
 
-Create separate templates for text and expanded/extended text ads, responsive search ads, [!DNL Google Ads] shopping ads, and [!DNL Microsoft® Advertising] shopping ads.
+Create separate templates for text and expanded/extended text ads, responsive search ads, [!DNL Google Ads] shopping ads, and [!DNL Microsoft Advertising] shopping ads.
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
 
@@ -36,7 +36,7 @@ Create separate templates for text and expanded/extended text ads, responsive se
    
    * (To edit an existing template) Next to the template name, click ![View/edit settings](/help/search-social-commerce/assets/settings.png "View/edit settings").
 
-1. Specify the settings for the [text ad template](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-text-rsa.md), [[!DNL Google Ads] shopping ad template](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md), or [[!DNL Microsoft® Advertising] shopping ad template](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md):
+1. Specify the settings for the [text ad template](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-text-rsa.md), [[!DNL Google Ads] shopping ad template](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md), or [[!DNL Microsoft Advertising] shopping ad template](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md):
 
    1. At the top of the template settings window, specify the template name and the applicable account.
 
@@ -152,5 +152,5 @@ You can activate any paused data feed template or pause any active data feed tem
 >* [About automating ad management using inventory feeds](../inventory-feeds-about.md)
 >* [Text ad and responsive search ad template settings](template-text-rsa.md)
 >* [[!DNL Google Ads] shopping ad template settings](template-google-shopping.md)
->* [[!DNL Microsoft® Advertising] shopping ad template settings](template-microsoft-shopping.md)
+>* [[!DNL Microsoft Advertising] shopping ad template settings](template-microsoft-shopping.md)
 >* [Propagate feed data through templates](../feed-data-propagate.md)

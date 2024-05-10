@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Microsoft® Advertising] multimedia ad settings'
-description: Reference the settings for [!DNL Microsoft® Advertising] multimedia ads.
+title: '[!DNL Microsoft Advertising] multimedia ad settings'
+description: Reference the settings for [!DNL Microsoft Advertising] multimedia ads.
 exl-id: 920ecb8d-e179-4946-be60-64f00bbabb70
 feature: Search Campaign Management
 ---
-# [!DNL Microsoft® Advertising] multimedia ad settings
+# [!DNL Microsoft Advertising] multimedia ad settings
 
 Multimedia ads are available on the search network. The ad network dynamically assembles multimedia ads using the most effective combinations of ad elements.
 
@@ -48,7 +48,7 @@ See the permitted aspect rations and dimensions for [multimedia ads](https://hel
 >
 >* [About ads](ad-about.md)
 >* [Manage ads](ad-manage.md)
->* [[!DNL Microsoft® Advertising] expanded dynamic search ad settings](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft® Advertising] product ad settings](ad-settings-microsoft-product.md)
->* [[!DNL Microsoft® Advertising] responsive (audience) ad settings](ad-settings-microsoft-responsive.md)
->* [[!DNL Microsoft® Advertising] responsive search ad settings](ad-settings-microsoft-rsa.md)
+>* [[!DNL Microsoft Advertising] expanded dynamic search ad settings](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising] product ad settings](ad-settings-microsoft-product.md)
+>* [[!DNL Microsoft Advertising] responsive (audience) ad settings](ad-settings-microsoft-responsive.md)
+>* [[!DNL Microsoft Advertising] responsive search ad settings](ad-settings-microsoft-rsa.md)

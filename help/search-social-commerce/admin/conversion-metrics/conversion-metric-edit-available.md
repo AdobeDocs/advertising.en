@@ -6,7 +6,7 @@ exl-id: de3d288a-5fec-4479-92cf-7754390e21bb
 ---
 # Change the conversion metrics available in management views and reports
 
-When Adobe Advertising tracks a [conversion](/help/search-social-commerce/glossary.md#c-d) metric for an advertiser, it's initially excluded from portfolio objectives, reports, and management views. To make a conversion metric visible, you must explicitly make it available, and then optionally change the default display name, which is the name that's shown. The only exception is that conversions tracked by [!DNL Google Ads], [!DNL Google Analytics], and [!DNL Microsoft® Advertising] universal event tracking tags are automatically available and visible.
+When Adobe Advertising tracks a [conversion](/help/search-social-commerce/glossary.md#c-d) metric for an advertiser, it's initially excluded from portfolio objectives, reports, and management views. To make a conversion metric visible, you must explicitly make it available, and then optionally change the default display name, which is the name that's shown. The only exception is that conversions tracked by [!DNL Google Ads], [!DNL Google Analytics], and [!DNL Microsoft Advertising] universal event tracking tags are automatically available and visible.
 
 Similarly, you can hide a conversion metric from portfolio objectives, reports, and management views. When you hide a conversion metric that previously was visible, it's removed from any derived metrics that contain the conversion metric.
 
@@ -44,7 +44,7 @@ From the list of conversion metrics that are available, each user with access to
 
 >[!NOTE]
 >
->If Adobe Advertising collects data for new conversion metrics, then the new metrics &mdash; except for conversions tracked by [!DNL Google Ads], [!DNL Google Analytics], and [!DNL Microsoft® Advertising] universal event tracking tags &mdash; are automatically excluded from management views and reports until you include them. New conversions tracked by [!DNL Google Ads], [!DNL Google Analytics], and [!DNL Microsoft® Advertising] universal event tracking tags are always automatically available.
+>If Adobe Advertising collects data for new conversion metrics, then the new metrics &mdash; except for conversions tracked by [!DNL Google Ads], [!DNL Google Analytics], and [!DNL Microsoft Advertising] universal event tracking tags &mdash; are automatically excluded from management views and reports until you include them. New conversions tracked by [!DNL Google Ads], [!DNL Google Analytics], and [!DNL Microsoft Advertising] universal event tracking tags are always automatically available.
 
 >[!MORELIKETHIS]
 >

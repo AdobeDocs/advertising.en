@@ -18,7 +18,7 @@ Editing the plan settings generates a new forecast.
 
     Once you save the plan, the forecasted output is shown.
 
-1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft® Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
+1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
 
 >[!MORELIKETHIS]
 >

@@ -8,7 +8,7 @@ feature: Search Reports
 
 *For basic reports and model accuracy reports only*
 
-You can view any generated spreadsheet feed or save it to a file. Spreadsheet feed files are in[!DNL Microsoft® Excel] XLSX format.
+You can view any generated spreadsheet feed or save it to a file. Spreadsheet feed files are in[!DNL Microsoft Excel] XLSX format.
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Spreadsheet Feeds]**.
 

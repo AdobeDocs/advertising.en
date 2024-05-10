@@ -1,28 +1,28 @@
 ---
 title: Manage customer match audiences using customer data lists
-description: Learn how to create and edit [!DNL Google Ads] and [!DNL Microsoft® Advertising] customer match audiences from your customer data lists.
+description: Learn how to create and edit [!DNL Google Ads] and [!DNL Microsoft Advertising] customer match audiences from your customer data lists.
 exl-id: 594a7ee0-4ac9-4970-b53e-d4624fd7b70c
 feature: Search Campaign Management
 ---
-# Manage [!DNL Google Ads] and [!DNL Microsoft® Advertising] customer match audiences using customer data lists
+# Manage [!DNL Google Ads] and [!DNL Microsoft Advertising] customer match audiences using customer data lists
 
-You can create [!DNL Google Ads] and [!DNL Microsoft® Advertising] customer match audiences from your customer data lists. You can also update any [!DNL Google Ads] or [!DNL Microsoft® Advertising] customer match audience except for [!DNL Google Ads] audiences created from an [!DNL Adobe] audience.
+You can create [!DNL Google Ads] and [!DNL Microsoft Advertising] customer match audiences from your customer data lists. You can also update any [!DNL Google Ads] or [!DNL Microsoft Advertising] customer match audience except for [!DNL Google Ads] audiences created from an [!DNL Adobe] audience.
 
 ## Create a customer match audience from a customer data list
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts that are eligible for customer match only*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts that are eligible for customer match only*
 
-You can create a [!DNL Google Ads] or [!DNL Microsoft® Advertising] customer data-based list from a data file that you generate from your customer relationship management (CRM) system.
+You can create a [!DNL Google Ads] or [!DNL Microsoft Advertising] customer data-based list from a data file that you generate from your customer relationship management (CRM) system.
 
-For [!DNL Microsoft® Advertising] accounts, the file can include email addresses. For [!DNL Google Ads] accounts, the file can include email addresses, mailing addresses, or telephone numbers; user IDs; or mobile device IDs from your CRM.
+For [!DNL Microsoft Advertising] accounts, the file can include email addresses. For [!DNL Google Ads] accounts, the file can include email addresses, mailing addresses, or telephone numbers; user IDs; or mobile device IDs from your CRM.
 
 >[!NOTE]
 >
->Search, Social, & Commerce doesn't store any of the customer data you upload or from the [!DNL Adobe] segments used to create or edit a [!DNL Google Ads] or [!DNL Microsoft® Advertising] audience.
+>Search, Social, & Commerce doesn't store any of the customer data you upload or from the [!DNL Adobe] segments used to create or edit a [!DNL Google Ads] or [!DNL Microsoft Advertising] audience.
 
 1. Generate a file with the customer data in the required format.
 
-   First and last names, email addresses, and telephone numbers must be hashed using the SHA-256 algorithm. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> For [!DNL Google Ads] audiences, see the [!DNL Google Ads] documentation on "[Formatting guidelines for uploading hashed data](https://support.google.com/google-ads/answer/7476159)" for a list of permitted contact information fields and requirements. For [!DNL Microsoft® Advertising] audiences, see the [!DNL Microsoft® Advertising] documentation on [preparing customer match lists](https://help.ads.microsoft.com/#apex/ads/en/56921. You can optionally download a [!DNL Microsoft® Excel] template for contact information.
+   First and last names, email addresses, and telephone numbers must be hashed using the SHA-256 algorithm. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> For [!DNL Google Ads] audiences, see the [!DNL Google Ads] documentation on "[Formatting guidelines for uploading hashed data](https://support.google.com/google-ads/answer/7476159)" for a list of permitted contact information fields and requirements. For [!DNL Microsoft Advertising] audiences, see the [!DNL Microsoft Advertising] documentation on [preparing customer match lists](https://help.ads.microsoft.com/#apex/ads/en/56921. You can optionally download a [!DNL Microsoft Excel] template for contact information.
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Audiences] > [!UICONTROL Library]**.
 
@@ -79,13 +79,13 @@ For [!DNL Microsoft® Advertising] accounts, the file can include email addresse
 
 ## Edit a Customer Match Audience Using a Customer Data List
 
-You can update any [!DNL Google Ads] or [!DNL Microsoft® Advertising] customer match audience except for [!DNL Google Ads] audiences created from an [!DNL Adobe] audience. You can upload data to add, to delete, or to replace all existing data for the audience.
+You can update any [!DNL Google Ads] or [!DNL Microsoft Advertising] customer match audience except for [!DNL Google Ads] audiences created from an [!DNL Adobe] audience. You can upload data to add, to delete, or to replace all existing data for the audience.
 
 The data must be the same type as the original customer list (email addresses, mailing addresses, telephone numbers, user IDs, or mobile device IDs for a specific app on a specific mobile operating system). 
 
 1. Generate a file with the customer data in the required format for the existing data type.
 
-  First and last names, email addresses, and telephone numbers must be hashed using the SHA-256 algorithm. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> For [!DNL Google Ads] audiences, see the [!DNL Google Ads] documentation on "[Formatting guidelines for uploading hashed data](https://support.google.com/google-ads/answer/7476159)" for a list of permitted contact information fields and requirements. For [!DNL Microsoft® Advertising] audiences, see the [!DNL Microsoft® Advertising] documentation on [preparing customer match lists](https://help.ads.microsoft.com/#apex/ads/en/56921. You can optionally download a [!DNL Microsoft® Excel] template for contact information.
+  First and last names, email addresses, and telephone numbers must be hashed using the SHA-256 algorithm. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> For [!DNL Google Ads] audiences, see the [!DNL Google Ads] documentation on "[Formatting guidelines for uploading hashed data](https://support.google.com/google-ads/answer/7476159)" for a list of permitted contact information fields and requirements. For [!DNL Microsoft Advertising] audiences, see the [!DNL Microsoft Advertising] documentation on [preparing customer match lists](https://help.ads.microsoft.com/#apex/ads/en/56921. You can optionally download a [!DNL Microsoft Excel] template for contact information.
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Audiences] > [!UICONTROL Library]**.
 

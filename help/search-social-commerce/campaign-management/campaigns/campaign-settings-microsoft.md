@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Microsoft® Advertising] campaign settings'
-description: Reference the settings for [!DNL Microsoft® Advertising] campaigns.
+title: '[!DNL Microsoft Advertising] campaign settings'
+description: Reference the settings for [!DNL Microsoft Advertising] campaigns.
 exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
 ---
-# [!DNL Microsoft® Advertising] campaign settings
+# [!DNL Microsoft Advertising] campaign settings
  
 ## \[Campaign Creation screen\]
 
@@ -13,19 +13,19 @@ the campaign may contain:
 
 * *[!UICONTROL Search]:* Shows text ads on the search network.
 
-* *[!UICONTROL Shopping Network]:* Shows product ads &mdash; for your products in your [!DNL Microsoft® Merchant Center] product catalog &mdash; on the shopping network.
+* *[!UICONTROL Shopping Network]:* Shows product ads &mdash; for your products in your [!DNL Microsoft Merchant Center] product catalog &mdash; on the shopping network.
 
-* *[!UICONTROL Audience]:* Shows native/display ads on the [!DNL Microsoft® Audience Network]. You can either a) automatically generate feed-based ads by linking the campaign to a merchant center store in the [!UICONTROL Shopping Settings] section or b) create responsive ads with text assets and uploaded images. Both options require you to create ad groups with user targeting.
+* *[!UICONTROL Audience]:* Shows native/display ads on the [!DNL Microsoft Audience Network]. You can either a) automatically generate feed-based ads by linking the campaign to a merchant center store in the [!UICONTROL Shopping Settings] section or b) create responsive ads with text assets and uploaded images. Both options require you to create ad groups with user targeting.
 
-* *[!UICONTROL Shopping Campaigns for Brands]:* (Beta feature) Promotes your products through linked retailers across the search and audience networks. You can create child ad groups and product groups (apps to promote), and optional product ads for the campaign; [!DNL Microsoft® Advertising] automatically creates ads for the product groups. For shopping campaigns for brands, use the bid strategy [!UICONTROL Manual CPC]; for shopping promotions for brands, use the bid strategy [!UICONTROL Cost per Sale].
+* *[!UICONTROL Shopping Campaigns for Brands]:* (Beta feature) Promotes your products through linked retailers across the search and audience networks. You can create child ad groups and product groups (apps to promote), and optional product ads for the campaign; [!DNL Microsoft Advertising] automatically creates ads for the product groups. For shopping campaigns for brands, use the bid strategy [!UICONTROL Manual CPC]; for shopping promotions for brands, use the bid strategy [!UICONTROL Cost per Sale].
 
-* *[!UICONTROL Microsoft® Store Ads Campaign]:* (Beta feature) Promotes your apps and games that are available in the [!DNL Microsoft® Store]. You can create child ad groups, product groups, and optional product ads for the campaign; [!DNL Microsoft® Advertising] automatically creates ads for the product groups.
+* *[!UICONTROL Microsoft Store Ads Campaign]:* (Beta feature) Promotes your apps and games that are available in the [!DNL Microsoft Store]. You can create child ad groups, product groups, and optional product ads for the campaign; [!DNL Microsoft Advertising] automatically creates ads for the product groups.
 
 * *[!UICONTROL Audience CTV Video]:* (Beta feature) Shows connected TV (CTV) video ads on the audience network.
 
 * *[!UICONTROL Audience Video]:* (Beta feature) Shows standard video ads on the audience network.
 
-* *[!UICONTROL Performance Max]:* (Beta feature) Shows multiple ad types across all networks using [!DNL Microsoft® Advertising] smart bidding. Within the campaign settings, you must specify one or more asset groups, which include images, logos, headlines, descriptions, an optional call to action, and audience signals. The ad network automatically combines the assets to serve ads based on the channel.
+* *[!UICONTROL Performance Max]:* (Beta feature) Shows multiple ad types across all networks using [!DNL Microsoft Advertising] smart bidding. Within the campaign settings, you must specify one or more asset groups, which include images, logos, headlines, descriptions, an optional call to action, and audience signals. The ad network automatically combines the assets to serve ads based on the channel.
 
 ## [!UICONTROL Campaign Details]
 
@@ -63,11 +63,11 @@ the campaign may contain:
 
   When you add a campaign with eCPC to an optimized Search, Social, & Commerce portfolio, Search, Social, & Commerce optimizes the base bids and &mdash; when the "[!UICONTROL Auto adjust campaign budget limits]" option is enabled &mdash; the campaign budget. The ad network optimizes all bid adjustments and may change the Search, Social, & Commerce-generated bids at the time of the user query based on proprietary data and insights. **Caution:** Use eCPC campaigns in portfolios only when the total conversions tracked on the ad network align with the portfolio objective.
 
-* *[!UICONTROL Manual CPC]*: (Shopping campaigns for brands; [!DNL Microsoft® Store Ads] campaigns; deprecated by [!DNL Microsoft® Advertising] in 2021 for other campaign types) Uses the cost-per-click (CPC) model. For some ad types, you can optionally allow the ad network to change bids for the campaign:
+* *[!UICONTROL Manual CPC]*: (Shopping campaigns for brands; [!DNL Microsoft Store Ads] campaigns; deprecated by [!DNL Microsoft Advertising] in 2021 for other campaign types) Uses the cost-per-click (CPC) model. For some ad types, you can optionally allow the ad network to change bids for the campaign:
 
   * **[!UICONTROL Enable Enhanced CPC]** (disabled by default): This option is the same as using the "[!UICONTROL Enhanced CPC]" option.
 
-* *[!UICONTROL Manual CPA]:* ([!DNL Microsoft® Store Ads] campaigns) Uses the cost per acquisition (CPA) model.
+* *[!UICONTROL Manual CPA]:* ([!DNL Microsoft Store Ads] campaigns) Uses the cost per acquisition (CPA) model.
 
 * *[!UICONTROL Manual CPM]* (Audience campaigns and audience video campaigns only) Uses the cost-per-thousand-impressions (CPM) model, for which you specify what you want to spend per 1,000 viewed impressions. Campaigns with this bid strategy aren't optimized when they're included in portfolios.
 
@@ -94,7 +94,7 @@ the campaign's products are sold. Because products are associated with target co
 
 <!-- **[!UICONTROL Campaign Priority]:** -->
 
-**[!UICONTROL Link with Microsoft® Merchant Center]:** (Audience campaigns only; optional) Links the campaign with a specific merchant center store for automated feed-based ads rather than responsive ads. When you select this option, specify the [!UICONTROL Merchant ID] and [!UICONTROL Products]. You need to create ad groups for the campaign, but you don't need to create ads.
+**[!UICONTROL Link with Microsoft Merchant Center]:** (Audience campaigns only; optional) Links the campaign with a specific merchant center store for automated feed-based ads rather than responsive ads. When you select this option, specify the [!UICONTROL Merchant ID] and [!UICONTROL Products]. You need to create ad groups for the campaign, but you don't need to create ads.
 
 Once you link the campaign to a store and save the settings, you can't change this option.
 
@@ -112,7 +112,7 @@ Once you link the campaign to a store and save the settings, you can't change th
 
 ## [!UICONTROL Campaign Targeting]
 
-**[!UICONTROL Languages]:** (Performance max campaigns only) The language of the ad, which should match the language of the sites on which your ad can appear. [!DNL Microsoft® Advertising] determines a user's language from various signals, including the user's query, the publisher's country, and the user's language setting.
+**[!UICONTROL Languages]:** (Performance max campaigns only) The language of the ad, which should match the language of the sites on which your ad can appear. [!DNL Microsoft Advertising] determines a user's language from various signals, including the user's query, the publisher's country, and the user's language setting.
 
 <!-- **[!UICONTROL Location Targets]:** -->
 
@@ -160,7 +160,7 @@ Once you link the campaign to a store and save the settings, you can't change th
 
 **[!UICONTROL Negative Websites]:** (Campaigns on the display/native network only; optional) Sites on the display network on which you don't want your ads to be displayed. Enter a valid URL, such as www.example.com. To specify multiple strings, separate them with commas or enter them on separate lines.
 
-For information about availability, see Microsoft® Advertising help to "[Prevent ads from appearing on specific websites](https://help.ads.microsoft.com/#apex/bae/en/14061/0)."
+For information about availability, see Microsoft Advertising help to "[Prevent ads from appearing on specific websites](https://help.ads.microsoft.com/#apex/bae/en/14061/0)."
 
 ## [!UICONTROL Campaign Tracking]
 
@@ -202,7 +202,7 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 **[!UICONTROL Final URL]:** The final URL for all ads created from the asset group.
 
-**[!UICONTROL Images]:** Up to 20 images for the ad, including at least one square image and one landscape image. See the [[!DNL Microsoft® Advertising] image guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
+**[!UICONTROL Images]:** Up to 20 images for the ad, including at least one square image and one landscape image. See the [[!DNL Microsoft Advertising] image guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To upload images:
 
@@ -224,7 +224,7 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 * To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
 
-**[!UICONTROL Logos]:** At least one logo. You can include up to five. See the [[!DNL Microsoft® Advertising] asset guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
+**[!UICONTROL Logos]:** At least one logo. You can include up to five. See the [[!DNL Microsoft Advertising] asset guidelines](https://help.ads.microsoft.com/#apex/ads/en/60204/0). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To upload images:
 
@@ -280,7 +280,7 @@ For information about availability, see Microsoft® Advertising help to "[Preven
 
 **[!UICONTROL Business Name]:** The business name, with a maximum of 25 characters. It can't contain scripts, HTML, or other markup language.
 
-**[!UICONTROL Audience Signal]:** (Optional) [!DNL Microsoft® Advertising] audiences to use as audience signals for the campaign. [!DNL Microsoft® Advertising] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
+**[!UICONTROL Audience Signal]:** (Optional) [!DNL Microsoft Advertising] audiences to use as audience signals for the campaign. [!DNL Microsoft Advertising] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
 
 >[!NOTE]
 >Audience signals are different from [ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
