@@ -42,9 +42,9 @@ You can also delete audience exclusions.
       
       1. Do any of the following:
 
-         * Specify each ad group exclusion by clicking the circle next to it so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+         * Specify each ad group exclusion by clicking the adjacent circle so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
          
-         * Specify each campaign exclusion by clicking the circle next to it so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+         * Specify each campaign exclusion by clicking the adjacent circle so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
 
 1. Click **[!UICONTROL Post]**.
 

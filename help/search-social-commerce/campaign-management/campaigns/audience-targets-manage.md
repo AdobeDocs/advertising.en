@@ -38,7 +38,7 @@ You can configure audience targets, edit the bid modifiers for audience targets,
       
       1. (Optional) To filter a campaign list or ad group list by a text string included in the name, click ![Filter](/help/search-social-commerce/assets/filter.png "Filter") , either enter or paste the text string into the input field, and then press the **[!UICONTROL Enter]** key.
       
-      1. Specify each campaign and ad group target for the specified ad network by clicking the empty circle next to it so that a blue checkmark (![Select](/help/search-social-commerce/assets/include.png "Select")) appears.
+      1. Specify each campaign and ad group target for the specified ad network by clicking the adjacent empty circle so that a blue checkmark (![Select](/help/search-social-commerce/assets/include.png "Select")) appears.
       
       You can't configure a target for both a parent campaign and a child ad group (which automatically uses the target).
 

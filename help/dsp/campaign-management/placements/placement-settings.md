@@ -252,7 +252,7 @@ Outstream ads usually appear over the content as a pop-up or stuffed into conten
       1. Click **[!UICONTROL Search]**.
       1. Enter a keyword, select a site tier, and/or select a site category.
       1. In the search results, select the sites to exclude:
-         * To exclude an individual site, select the check box next to it.
+         * To exclude an individual site, select the adjacent check box.
          * (When more than 50 results are available) To exclude the first 50 results, click **[!UICONTROL Exclude these 50]**. To exclude all search results, click **[!UICONTROL Exclude these \<*NN*\>]**.
    * To enter domain names:
       1. Click **[!UICONTROL Paste]**.
@@ -283,7 +283,7 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
       1. Click **[!UICONTROL Search]**.
       1. Enter a keyword, select a site tier, and/or select a site category.
       1. In the search results, select the sites to include:
-         * To exclude an individual site, select the check box next to it.
+         * To exclude an individual site, select the adjacent check box.
          * (When more than 50 results are available) To include the first 50 results, click **[!UICONTROL Include these 50]**. To include all search results, click **[!UICONTROL Include these \<*NN*\>]**.
    * To enter domain names:
       1. click **[!UICONTROL Paste]**.

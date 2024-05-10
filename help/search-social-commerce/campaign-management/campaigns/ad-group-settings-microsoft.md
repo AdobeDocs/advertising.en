@@ -70,33 +70,33 @@ Connected TV (CTV) ad placement depends on your video quality and bid amount. Se
 
 * To target all values, don't select any values.
 
-* To include a value, click the circle next to it once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each gender targeted.
+* To include a value, click the adjacent circle once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each gender targeted.
 
-* To exclude a value, click the circle next to it twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+* To exclude a value, click the adjacent circle twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
 
 **[!UICONTROL Age]:** (Audience ad groups; optional) Specific age categories to include or exclude as targets: *[!UICONTROL 18-24]*, *[!UICONTROL 25-34]*, *[!UICONTROL 35-49]*, *[!UICONTROL 50-64]*, *[!UICONTROL 65+]*, and *[!UICONTROL Unknown]*. By default, all ages are targeted. Exclusions always override inclusions.
 
 * To target all values, don't select any values.
 
-* To include a value, click the circle next to it once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each age targeted.
+* To include a value, click the adjacent circle once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each age targeted.
 
-* To exclude a value, click the circle next to it twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+* To exclude a value, click the adjacent circle twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
 
 **[!UICONTROL Industry]:** (Audience ad groups; optional) Specific industries to include or exclude as targets. By default, all industries are targeted. Exclusions always override inclusions.
 
 * To target all values, don't select any values.
 
-* To include a value, click the circle next to it once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each industry targeted.
+* To include a value, click the adjacent circle once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each industry targeted.
 
-* To exclude a value, click the circle next to it twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+* To exclude a value, click the adjacent circle twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
 
 **[!UICONTROL Job Function Targets]:** (Audience ad groups; optional) Specific job functions to include or exclude as targets. By default, all job functions are targeted. Exclusions always override inclusions.
 
 * To target all values, don't select any values.
 
-* To include a value, click the circle next to it once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each job functions targeted.
+* To include a value, click the adjacent circle once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each job functions targeted.
 
-* To exclude a value, click the circle next to it twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+* To exclude a value, click the adjacent circle twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
 
 ## [!UICONTROL URL Options]
 

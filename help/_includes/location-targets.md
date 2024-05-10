@@ -6,9 +6,9 @@
 
 * To target all locations, don't select any locations.
 
-* To include a location and its child locations, click the circle next to it once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each location targeted.
+* To include a location and its child locations, click the adjacent circle once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each location targeted.
 
-* To exclude a location, click the circle next to it twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+* To exclude a location, click the adjacent circle twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
 
 * To expand a location into its subcomponents (such as the states, prefectures, regions, or cities), click the location name.
 

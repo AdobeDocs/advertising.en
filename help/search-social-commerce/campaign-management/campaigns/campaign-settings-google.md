@@ -133,9 +133,9 @@ the campaign's products are sold. Because products are associated with target co
 
   * (Countries, states, metropolitan regions, or cities) Click **[!UICONTROL Location Target]** (![Location Target](/help/search-social-commerce/assets/location-target.png "Location Target")) and locate the locations to include and exclude:
 
-    * To include a location and its child locations, click the circle next to it once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears.
+    * To include a location and its child locations, click the adjacent circle once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears.
     
-    * To exclude a location, click the circle next to it twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+    * To exclude a location, click the adjacent circle twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
     
     * To expand a location into its subcomponents (such as the states, metropolitan regions, or cities in the U.S.), click the location name.
     

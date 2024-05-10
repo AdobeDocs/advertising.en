@@ -101,7 +101,7 @@ Create separate templates for text and expanded/extended text ads, responsive se
              >* If the original ad copy meets the search engine's length requirements, then the alternate ad copy is discarded.
              >* You can specify up to four alternates for each ad copy field.
 
-        * To remove an ad variation, click **[!UICONTROL Remove ETA Variation]** (for expanded/extended text ads) or **[!UICONTROL Remove RSA Variation]** (for responsive search ads) next to it, as applicable.
+        * To remove an ad variation, click **[!UICONTROL Remove ETA Variation]** (for expanded/extended text ads) or **[!UICONTROL Remove RSA Variation]** (for responsive search ads) next to the ad variation, as applicable.
 
    1. (Shopping templates only) Click the **[!UICONTROL Product Groups]** tab, and then specify information about the product groups that you want to target.
    
