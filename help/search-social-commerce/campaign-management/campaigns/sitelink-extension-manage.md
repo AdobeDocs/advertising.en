@@ -52,7 +52,7 @@ You can edit one shared sitelink at a time.
 
 ## Shared sitelink settings {#shared-sitelink-settings}
 
-For additional policies and reasons for sitelink disapproval, see the [[!DNL Google Ads]](https://support.google.com/adspolicy/answer/1054210) and [[!DNL Microsoft Advertising]](https://about.ads.microsoft.com/en-us/resources/policies/ad-extensions-policies) sitelink extension requirements.
+For additional policies and reasons for sitelink disapproval, see the [[!DNL Google Ads]](https://support.google.com/adspolicy/answer/1054210) and [[!DNL Microsoft Advertising]](https://help.ads.microsoft.com/#apex/ads/en/ext60206) sitelink extension requirements.
 
 ### [!UICONTROL Sitelink]
 
