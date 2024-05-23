@@ -22,9 +22,11 @@ This feature works with your existing placement targets. To change the selected 
 
 1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Bid Multiplier]**.
 
-1. Adjust the bid multipliers for eligible target manually or by uploading a CSV file with target values:
+1. Adjust the bid multipliers for eligible targets:
 
-   *  To manually adjust the bid multiplier values, move to each [target-specific tab](#bid-multiplier-by-target) ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], and [!UICONTROL Brand Safety]) and edit the existing values for the placement targets. Most target categories list sub-categories on the left. Click a sub-category to manage bid multipliers for that sub-category, when it's applicable.
+   * To manually adjust the bid multiplier values, move to each [target-specific tab](#bid-multiplier-by-target) ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], and [!UICONTROL Brand Safety]) and edit the existing values for the placement targets.
+   
+     Most target categories list sub-categories on the left. Click a sub-category to manage bid multipliers for that sub-category, as applicable.
 
    * To upload a CSV file with bid multiplier values to overwrite the existing values:
 
