@@ -21,11 +21,19 @@ feature: DSP Placements
    
      Most target categories list sub-categories on the left. Click a sub-category to manage bid multipliers for that sub-category, as applicable.
 
-   * To upload a CSV file with bid multiplier values to overwrite the existing values:
+   * To upload a CSV file with bid multiplier values to overwrite all existing values:
 
      1. Click **[!UICONTROL CSV File Edit]** in the upper right.
 
-     1. Either a) click **[!UICONTROL Download Template]** and enter the targets using the same syntax visible in the user interface and the corresponding bid multiplier values or b) edit a previously-downloaded template with the same information. Save the edited file to your device or network.
+     1. Either a) click **[!UICONTROL Download Template]** and edit the file or b) edit a previously-downloaded template. Save the edited file to your device or network.
+
+        Downloaded templates include one sheet for each target type (such as Country, Sources, and Site Category). Only existing bid multipliers with values other than 1.0 are included.
+        
+        * To add a bid multiplier for an existing target, enter the target using the same syntax visible in the user interface and the corresponding bid multiplier value.
+        
+        * To remove a bid modifier, set the bid multiplier value to 1.0 or delete all information for the row.
+
+        ![Example row in a bid multiplier spreadsheet file](/help/dsp/assets/bid-multiplier-spreadsheet.png "Example row in a bid multiplier spreadsheet file")
 
      1.  Click **[!UICONTROL Next]** to move to the [!UICONTROL Upload File] section and either a) drag and drop the edited file into the box or b) click inside the box to select the file from your device or network.
 
@@ -53,11 +61,19 @@ feature: DSP Placements
 
      The same changes apply to all of the selected placements.
 
-   * To upload a CSV file with bid multiplier values that will overwrite the existing values:
+* To upload a CSV file with bid multiplier values to overwrite all existing values:
 
-     >[!NOTE]
-     >
-     >If you leave a field empty, then all values for that target type are deleted.<!-- Verify and re-word if needed. I'm not sure if you'll be able to have multiple data rows (one per placement) or if there only one data row is applicable for all. -->
+     1. Click **[!UICONTROL CSV File Edit]** in the upper right.
+
+     1. Either a) click **[!UICONTROL Download Template]** and edit the file or b) edit a previously-downloaded template. Save the edited file to your device or network.
+
+        Downloaded templates include one sheet for each target type (such as Country, Sources, and Site Category). Only existing bid multipliers with values other than 1.0 are included.
+        
+        * To add a bid multiplier for an existing target, enter the target using the same syntax visible in the user interface and the corresponding bid multiplier value.
+        
+        * To remove a bid modifier, set the bid multiplier value to 1.0 or delete all information for the row.
+
+        ![Example row in a bid multiplier spreadsheet file](/help/dsp/assets/bid-multiplier-spreadsheet.png "Example row in a bid multiplier spreadsheet file")
 
      1. Click **[!UICONTROL CSV Edit]** in the upper right.
 
