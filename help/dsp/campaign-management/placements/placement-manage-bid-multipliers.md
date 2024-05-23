@@ -1,18 +1,18 @@
 ---
 title: Manage Bid Multipliers for Placements
-description: Learn how to create and edit bid multipliers for specified placement targets.
+description: Learn how to create and edit bid multipliers for your placement targets.
 feature: DSP Placements
 exl-id: fbd44960-c9df-4713-94b7-13bcdb7e2568
 ---
 # Manage Bid Multipliers for Placements
 
-You can change the bid multipliers for your existing placement targets using this feature. You can manage the bid multipliers for one placement at a time.<!-- remove that line once we can edit multiple -->
+You can create and manage bid multipliers, by which a bid is multiplied to increase or decrease the bid, for your existing placement targets of [eligible target types](#bid-multiplier-by-target). You can either manually edit bid multiplier values or upload a spreadsheet with values.
 
-To change the selected targets for your placements, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
+By default, the bid multiplier for a target is 1.00, which means that the bid isn't adjusted for that target. Values can range from 0.10 to 10.00. For example, a bid modifier of 0.5 decreases a USD 6 bid to USD 3 (0.5 x 6). When an auction qualifies for multiple bid modifiers, all of the applicable bid modifiers are multiplied. Bid modifiers never increase the bid to more than the maximum bid.
 
-<!-- 
-## Manage the Bid Multipliers for a Single Placement
--->
+You can set bid multipliers (with values other than 1.00) for a [limited number of targets](#bid-multiplier-limits-by-target).
+
+This feature works with your existing placement targets. To change the selected targets for your placements, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -22,15 +22,19 @@ To change the selected targets for your placements, see "[Edit Placements](/help
 
 1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Bid Multiplier]**.
 
-1. Move to each [target-specific tab](#bid-multiplier-by-target) ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], and [!UICONTROL Brand Safety]) and edit the existing values for the placement targets. Most target categories list sub-categories on the left. Click a sub-category to manage bid multipliers for that sub-category, when it's applicable.
+1. Adjust the bid multipliers for eligible target manually or by uploading a CSV file with target values:
 
-   By default, the bid multiplier for a target is 1.00, which means the bid isn't adjusted for that target. Values can range from 0.10 to 10.00. For example, a bid modifier of 0.5 decreases a USD 6 bid to USD 3 (0.5 x 6). Bid modifiers never increase the bid to more than the maximum bid.
-   
-   When an auction qualifies for multiple bid modifiers, all of the applicable bid modifiers are multiplied.
-   
-   You can set bid multipliers (with values other than 1.00) for a [limited number of targets](#bid-multiplier-limits-by-target).
+   *  To manually adjust the bid multiplier values, move to each [target-specific tab](#bid-multiplier-by-target) ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], and [!UICONTROL Brand Safety]) and edit the existing values for the placement targets. Most target categories list sub-categories on the left. Click a sub-category to manage bid multipliers for that sub-category, when it's applicable.
 
-1. In the upper right, click **[!UICONTROL Save]**.
+   * To upload a CSV file with bid multiplier values to overwrite the existing values:
+
+     1. Click **[!UICONTROL CSV File Edit]** in the upper right.
+
+     1. Either a) click **[!UICONTROL Download Template]** and enter the targets using the same syntax visible in the user interface and the corresponding bid multiplier values or b) edit a previously-downloaded template with the same information. Save the edited file to your device or network.
+
+     1.  Click **[!UICONTROL Next]** to move to the [!UICONTROL Upload File] section and either a) drag and drop the edited file into the box or b) click inside the box to select the file from your device or network.
+
+     1. Verify the uploaded data in the [!UICONTROL Review & Submit] section, and then click **[!UICONTROL Save]**.
 
 ## Target Types Eligible for Bid Multipliers {#bid-multiplier-by-target}
 
