@@ -10,9 +10,9 @@ exl-id: 3b67ab72-d7bb-45a0-b5ba-e4b811b7d2b3
 
 1. Hold the cursor over the segment row and click **[!UICONTROL Get Pixel]**.
 
-   The page view tracking tag, which tracks desktop and mobile visitors to a webpage, is labeled "[!UICONTROL Desktop or mobile websites]."
+   The page view tracking tag, which tracks desktop and mobile visitors to a webpage, is labeled "[!UICONTROL Desktop or mobile websites]." Add it to the pages whose views you want to track.
 
-   (Custom segments only) The impression tracking tag, which tracks users exposed to an ad unit on desktop, mobile, or CTV devices, is labeled "[!UICONTROL Desktop or mobile ads]."
+   (Custom segments only) The impression tracking tag, which tracks users exposed to an ad unit on desktop, mobile, or CTV devices, is labeled "[!UICONTROL Desktop or mobile ads]." Add it to the ads whose views you want to track; you can optionally add the tag to a placement to attach it by default to all ads associated with the placement.
 
 1. (As needed) Copy the relevant tag(s) and provide the tags to the advertiser or website contact for deployment.
 
