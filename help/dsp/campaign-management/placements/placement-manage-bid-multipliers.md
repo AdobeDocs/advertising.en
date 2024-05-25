@@ -34,7 +34,7 @@ This feature works with your existing placement targets. To change the selected 
 
      1. Either a) click **[!UICONTROL Download Template]** and edit the file or b) edit a previously-downloaded template. Save the edited file to your device or network.
 
-        Downloaded spreadsheets include one sheet for each target type (such as Country, Sources, and Site Category). Only existing bid multipliers with values < 1.0 or > 1.0 are included.
+        Downloaded spreadsheets include one sheet for each target type (such as Country, Sources, and Site Category). Only existing bid multipliers with values < 1.0 or > 1.0 are included. 
         
         * To add a bid multiplier for an existing target, enter the target using the same syntax visible in the user interface and the corresponding bid multiplier value.
         
