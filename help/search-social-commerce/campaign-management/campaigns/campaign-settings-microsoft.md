@@ -63,7 +63,7 @@ the campaign may contain:
 
   When you add a campaign with eCPC to an optimized Search, Social, & Commerce portfolio, Search, Social, & Commerce optimizes the base bids and &mdash; when the "[!UICONTROL Auto adjust campaign budget limits]" option is enabled &mdash; the campaign budget. The ad network optimizes all bid adjustments and may change the Search, Social, & Commerce-generated bids at the time of the user query based on proprietary data and insights. **Caution:** Use eCPC campaigns in portfolios only when the total conversions tracked on the ad network align with the portfolio objective.
 
-* *[!UICONTROL Manual CPC]*: (Shopping campaigns for brands; [!DNL Microsoft Store Ads] campaigns; deprecated by [!DNL Microsoft Advertising] in 2021 for other campaign types) Uses the cost-per-click (CPC) model. For some ad types, you can optionally allow the ad network to change bids for the campaign:
+* *[!UICONTROL Manual CPC]*: (Shopping campaigns for brands; [!DNL Microsoft Store Ads] campaigns; deprecated for other campaign types) Uses the cost-per-click (CPC) model. For some ad types, you can optionally allow the ad network to change bids for the campaign:
 
   * **[!UICONTROL Enable Enhanced CPC]** (disabled by default): This option is the same as using the "[!UICONTROL Enhanced CPC]" option.
 
