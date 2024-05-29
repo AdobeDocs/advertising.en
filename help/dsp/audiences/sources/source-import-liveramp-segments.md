@@ -8,7 +8,9 @@ exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
 
 *Beta feature*
 
-You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. You can use imported segments for placement targeting. For first-party segments, fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered. 
+You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. You can use imported segments for placement targeting. For first-party segments, fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered.
+
+The segment mapping and uploading for each import job may take up to seven days. 
 
 <!--Is this first step relevant for this process?
 
