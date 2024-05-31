@@ -20,7 +20,7 @@ You can collect your own first-party audience data by creating and implementing 
 
 * For measurement in Adobe Analytics, you must:
 
-  1. Complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md).
+  1. Complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md), and make sure that the [AMO ID and EF ID](/help/integrations/analytics/ids.md) are being populated in your tracking URLs.
 
   1. Add the following parameter to your webpages before or within the the [JavaScript code required for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) &mdash;  anywhere before the last event service is initialized.
 
