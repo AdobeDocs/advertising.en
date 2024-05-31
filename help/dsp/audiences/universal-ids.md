@@ -30,6 +30,10 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 * **[!DNL Analytics] reports:** Advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) who have implemented all required steps can see view-through conversions by universal ID type in [!DNL Analytics].
 
+  [!IMPORTANT]
+  >
+  >For proper attribution, make sure that the clickthrough URLs for your ads include both the [EF ID and the AMO ID](/help/integrations/analytics/ids.md)).
+
 * **Segment details:** For all segment types, the segment details include the audience size by universal ID type and by the device type tracked by cookies or device IDs.
 
 ## How to Target an Universal ID Audience in Your Placements
@@ -74,7 +78,7 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
   * To compare total browser reach, target universal ID-based segments and legacy ID-based segments in the same placement. Use the same campaign settings as the previous use case, except that you don't need to split the campaign budget.
   
-    Bidding preference is given to universal IDs, but legacy IDs will receive bids when universal IDs aren't available. Make sure to compare reach in different browsers (including Chrome, Safari, and Mozilla).
+    Bidding preference is given to universal IDs, but legacy IDs receive bids when universal IDs aren't available. Make sure to compare reach in different browsers (including Chrome, Safari, and Mozilla).
  
     >[!NOTE]
     >
