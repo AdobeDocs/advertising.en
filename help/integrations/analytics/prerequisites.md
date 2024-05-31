@@ -18,9 +18,6 @@ Review the following information before you integrate Adobe Advertising with Ado
 * Any version of Adobe Analytics (including [!DNL Prime], [!DNL Premium], or [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` version 2.1 or higher
 * (Advertising DSP customers) An [Advertising DSP JavaScript snippet](javascript.md) deployed in your webpages to track view-through visits.
-* The AMO ID parameter in the tracking URLs for your ads.
-
-  The parameter is added automatically to tracking URLs in some circumstances, but you may need to add it manually. In "Adobe Advertising IDs Used by [!DNL Analytics]/help/integrations/analytics/ids.md," see "[Ways to Implement the AMO ID](/help/integrations/analytics/ids.md#amo-id-implement)."
 
 >[!TIP]
 >
