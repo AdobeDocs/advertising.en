@@ -75,6 +75,20 @@ You can collect your own first-party audience data by creating and implementing 
 
             1. Copy the page view tracking tag, which is labeled "[!UICONTROL Desktop or mobile websites]."
 
+            1. (Tags for segments that track [!DNL ID5] IDs) In the copied tag, replace `ID5_PARTNER_ID` with the partner ID that [!DNL ID5] assigned to your organization.
+            
+               For example, if your ID5 partner ID is `abcde` and the generated segment tag is
+               
+               ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=ID5_PARTNER_ID"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
+               
+               then replace `ID5_PARTNER_ID` with `abcde` within the tag to get the following:
+               
+               ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=abcde"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
+               
+               Your organization received the partner ID when it signed an agreement with [!DNL ID5]. If you don't know your partner ID, contact your Adobe Account Team.
+               
+               This step isn't necessary for tags to track [!DNL ID5] IDs for users exposed to an ad unit on desktop or mobile devices.
+
             1. Provide the tag to the advertiser or website contact for deployment.
 
                The advertiser's IT department or other group may need to schedule, or be informed about, the tag deployment.
@@ -82,22 +96,8 @@ You can collect your own first-party audience data by creating and implementing 
         * To track users exposed to an ad unit on desktop or mobile devices:
 
             1. Copy the impression tracking tag, which is labeled "[!UICONTROL Desktop or mobile ads]."
-
-   1. (Tags for segments that track [!DNL ID5] IDs for desktop and mobile visitors to a webpage) In the copied tag, replace `ID5_PARTNER_ID` with the partner ID that [!DNL ID5] assigned to your organization.
-
-     For example, if your ID5 partner ID is `abcde` and the generated segment tag is
-
-      ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=ID5_PARTNER_ID"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
-
-      then replace `ID5_PARTNER_ID` with `abcde` within the tag to get the following:
-
-      ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=abcde"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
-   
-      Your organization received the partner ID when it signed an agreement with [!DNL ID5]. If you don't know your partner ID, contact your Adobe Account Team.
-
-      This step isn't necessary for tags to track [!DNL ID5] IDs for users exposed to an ad unit on desktop or mobile devices.
-
-1. Add the tag to either the [!UICONTROL Pixel] tab for each relevant ad or to the [!UICONTROL Event Pixels] section of the [[!UICONTROL Tracking] settings for each relevant placement](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
+            
+            1. Add the tag to either the [!UICONTROL Pixel] tab for each relevant ad or to the [!UICONTROL Event Pixels] section of the [[!UICONTROL Tracking] settings for each relevant placement](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
 Once a tracking tag is implemented, you can use the segment in the audience targets or exclusions for any placement.
 
