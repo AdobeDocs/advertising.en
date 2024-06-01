@@ -20,7 +20,7 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
 
 1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account. You can choose to convert your user identifiers to any of the [available universal ID formats](source-about.md).
 
-   The source settings will include an auto-generated source key, wich you'll use in the next step.
+   The source settings will include an auto-generated source key, which you'll use in the next step.
 
 1. In Adobe Experience Platform, configure an Advertising DSP destination connection using the [!UICONTROL Source Key] that was generated in the DSP source settings.
 
