@@ -82,7 +82,11 @@ You can target your placements to all of the following types of audiences.
 
 ## Audience Size Data
 
-In Audiences > All Audiences and in the Audience Targeting section of placement settings, you can see detailed audience size data:
+In Audiences > All Audiences and in the Audience Targeting section of placement settings, you can filter each segment list by size range, including the total range and separate ranges for specific device types or universal ID types.
+
+![filter by audience size](/help/dsp/assets/audience-size-filter.png)
+
+You can also see detailed audience size data:
 
 * The total and active deduplicated audience size across all selected segments and saved audiences is displayed, and you can view details by device type (browser, mobile, or connected TV).
 
