@@ -82,15 +82,19 @@ You can target your placements to all of the following types of audiences.
 
 ## Audience Size Data
 
-Within saved audience settings and placement settings, you can see detailed audience size data:
+In Audiences > All Audiences and in the Audience Targeting section of placement settings, you can see detailed audience size data:
 
 * The total and active deduplicated audience size across all selected segments and saved audiences is displayed, and you can view details by device type (browser, mobile, or connected TV).
 
    ![the combined audience size](/help/dsp/assets/audience-size.png)
 
-* For individual segments and saved audiences, the total audience size and CPM (when applicable) are displayed next to the segment name. You can view more details about the segment, including the size by browser, mobile, connected TV, and universal ID type partner. For saved audiences, the total size is the deduplicated total.
+* For individual segments, the total audience size and CPM (when applicable) are displayed next to the segment name.
 
    ![the individual segment size](/help/dsp/assets/audience-size-segment.png)
+
+* You can view more details about an individual segment or saved audience, including the size by browser, mobile, connected TV, and universal ID type partner. For saved audiences, the total size is the deduplicated total.
+
+   ![the individual segment or saved audience details](/help/dsp/assets/audience-size-segment-details.png)
 
 ## The Audiences Views
 
