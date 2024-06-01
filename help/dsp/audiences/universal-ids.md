@@ -44,19 +44,25 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 In a new, scheduled, or paused placement, do the following:
 
-* In the [!UICONTROL Geo-Targeting] section, specify the geographical areas to target. Each universal ID partner allows user targeting only in specific geographical areas, and only eligible ID types are available in the [!UICONTROL Targeting] settings.
+1. In the [!UICONTROL Geo-Targeting] section, specify the geographical areas to target. Each universal ID partner allows user targeting only in specific geographical areas, and only eligible ID types are available in the [!UICONTROL Targeting] settings.
 
-* In the [!UICONTROL Audience Targeting] section, do the following:
+1. In the [!UICONTROL Audience Targeting] section, do the following:
 
-  * In the [!UICONTROL Included Audiences] setting, select the segment for which user data was converted to universal IDs.
+   1. In the [!UICONTROL Included Audiences] setting, select the segment for which user data was converted to universal IDs.
 
-    You can include additional segments if you want.
+      You can include additional segments if you want.
 
-  * In the [!UICONTROL Targeting] setting, select the universal ID type to target.
+   1. In the [!UICONTROL Targeting] settings:
   
-    The setting includes the options "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," which may include the sub-options "[!UICONTROL ID5]," "[!UICONTROL RampID]," and "[!UICONTROL Unified ID2.0]." The actual sub-options are determined by the selected geographical targets.
-    
-    You can select both "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," but you can select only one type of universal ID per placement. When you select both legacy IDs and universal IDs, bidding preference is given to universal IDs. 
+      1. Select the universal ID type to target.
+      
+         The setting includes the options "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," which may include the sub-options "[!UICONTROL ID5]," "[!UICONTROL RampID]," and "[!UICONTROL Unified ID2.0]." The actual sub-options are determined by the selected geographical targets.
+         
+         You can select both "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," but you can select only one type of universal ID per placement. When you select both legacy IDs and universal IDs, bidding preference is given to universal IDs.
+
+      1. (If necessary) Accept the terms of service agreement for using universal IDs.
+      
+         Before you can convert data to a new ID type, a user in the DSP account must accept the terms of service agreement. The terms must be accepted only once per ID type, per account.
 
 See "[Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)."
 
