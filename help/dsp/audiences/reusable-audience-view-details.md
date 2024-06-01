@@ -10,7 +10,7 @@ exl-id: b7ef5af5-0b82-474b-b769-135f80ba5460
 
 1. Hold the cursor over the audience row and click **[!UICONTROL View Details]**.
 
-1. (Optional) To see the number of active or total audience members by device type, click ![Device breakdown](/help/dsp/assets/device-breakdown.png) next to the **[!UICONTROL Active]** or **[!UICONTROL Total]** audience size.
+1. (Optional) To see the number of active or total audience members by device type (for cookie-based IDs) and by universal ID type, click ![Device breakdown](/help/dsp/assets/device-breakdown.png) next to the **[!UICONTROL Active]** or **[!UICONTROL Total]** audience size.
 
 1. (Optional) To edit the audience settings, click **[!UICONTROL Edit Audience]** and [edit the audience name and configuration](reusable-audience-edit.md).
 
