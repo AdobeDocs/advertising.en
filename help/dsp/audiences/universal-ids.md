@@ -30,7 +30,7 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 * **[!DNL Analytics] reports:** Advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) who have implemented all required steps can see view-through conversions by universal ID type in [!DNL Analytics].
 
-  [!IMPORTANT]
+  >[!IMPORTANT]
   >
   >For proper attribution, make sure that the clickthrough URLs for your ads include both the [EF ID and the AMO ID](/help/integrations/analytics/ids.md)).
 
