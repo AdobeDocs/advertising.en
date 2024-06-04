@@ -1,18 +1,102 @@
 ---
-title: Columns in Downloaded/Uploaded Spreadsheets
-description: Reference the placement setting columns in downloaded and uploaded spreadsheets.
+title: Review and Edit Placement Settings Using Spreadsheets
+description: Learn how to review and edit key placement settings using spreadsheets.
 feature: DSP Placements
-exl-id: 698c0d86-cb2e-4d76-89c7-5584b6cdb542
+exl-id: 2de4407d-eb3b-44ff-893c-9fdf6921d4b3
 ---
-# Placement Setting Columns in Downloaded/Uploaded Spreadsheets
+# Review and Edit Placement Settings Using Spreadsheets
 
-<!-- see notes within the table about descriptions that need to be edited -->
+You can download the settings for one or more placements, or for all placements in a campaign, in XLSX (Excel spreadsheet) format for review. Use this feature to quickly review such details as:
+
+* Which audiences the campaign targets.
+* When the placements start delivering, and when they stop.
+* Which ads are attached to the placements.
+
+You can then make changes to select fields and upload them back to DSP all at once. Editable fields include the placement names, statuses, bids, budgets, pacing strategies, and frequency caps.
+
+>[!TIP]
+>
+>To edit more fields for one or more placements, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
+
+## Download Settings for All Placements in a Campaign
+
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+
+1. Do either of the following:
+
+   * Next to the campaign name, click **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
+
+   * Click the campaign name to view the campaign details. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
+
+    A notification message indicates when the file is available to download.
+
+1. Do either of the following:
+
+    * In the notification message, click **[!UICONTROL Download].**
+
+    * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
+
+    The file is saved to the browser's Downloads folder. See "[Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+
+## Download Settings for One or More Placements
+
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+
+1. Click the name of the campaign.
+
+1. In the submenu, click **[!UICONTROL Placements]**.
+
+1.  Select the check box next to each placement whose settings you want to download.
+
+1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Download Edit in Excel Sheet]**.
+
+  The file is automatically saved to the browser's Download folder. See "[Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+
+## Upload Settings for All Placements in a Campaign
+
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+
+1. Do either of the following:
+
+   * Next to the campaign name, click **[!UICONTROL ...]** > **[!UICONTROL Upload Excel QA sheet]**.
+
+   * Click the campaign name to view the campaign details. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Excel QA sheet]**.
+
+1. In the [!UICONTROL Edit in Excel] dialog:
+
+    1. Either drag and drop a file into the box, or click inside the box to select a file from your device or network.
+
+    1. Click **[!UICONTROL Upload]**.
+
+1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
+
+## Upload Settings for One or More Placements
+
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+
+1. Click the name of the campaign.
+
+1. In the submenu, click **[!UICONTROL Placements]**.
+
+1.  Select the check box next to each placement whose settings you want to upload.
+
+1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Upload Edit in Excel Sheet]**.
+
+1. In the [!UICONTROL Edit in Excel] dialog:
+
+    1. Either drag and drop a file into the box, or click inside the box to select a file from your device or network.
+
+    1. Click **[!UICONTROL Upload]**.
+
+1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
+
+## Placement Setting Columns in Downloaded/Uploaded Spreadsheets{#qa-sheet-columns}
 
 >[!TIP]
 >
 > In a downloaded spreadsheet, all editable columns are highlighted in blue.
 
-## Campaign-level Spreadsheets
+### Campaign-level Spreadsheets
 
 | Section | Column | Description | Editable? |
 |---------|--------|-------------|-----------|
@@ -81,7 +165,7 @@ exl-id: 698c0d86-cb2e-4d76-89c7-5584b6cdb542
 | [!UICONTROL Ads] | [!UICONTROL Ad Names] | The names of any ads attached to the placement, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Ads] | [!UICONTROL Attached Ad ID] | The unique DSP-generated Ad IDs of any ads attached to the placement, separated by semi-colons. To download a list of ad names and associated Ad IDs from the [!UICONTROL Ads] view, create a custom view that includes the [!UICONTROL Ad ID] metric, and then [export the data](/help/dsp/campaign-management/reports/campaign-export-data.md). | Yes |
 
-## Placement-level Spreadsheets
+### Placement-level Spreadsheets
 
 | Column | Description | Editable? |
 |--------|-------------|-----------|
@@ -103,7 +187,5 @@ exl-id: 698c0d86-cb2e-4d76-89c7-5584b6cdb542
 
 >[!MORELIKETHIS]
 >
->* [About Correcting Placement Settings Using Spreadsheets](qa-about.md)
->* [Download Placement Settings in a Spreadsheet](qa-sheet-download.md)
->* [Upload Placement Settings in a Spreadsheet](qa-sheet-upload.md)
+>* [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

@@ -1,14 +1,14 @@
 ---
 title: About audiences
-description: Learn about options to track, create, and manage [!DNL Google Ads] and [!DNL Microsoft® Advertising] audiences.
+description: Learn about options to track, create, and manage [!DNL Google Ads] and [!DNL Microsoft Advertising] audiences.
 exl-id: f85cbc82-ddbc-4ecd-a17b-b4cb4808cfbc
 feature: Search Campaign Management
 ---
-# About managing [!DNL Google Ads] and [!DNL Microsoft® Advertising] audiences in Search, Social, & Commerce
+# About managing [!DNL Google Ads] and [!DNL Microsoft Advertising] audiences in Search, Social, & Commerce
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] only*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] only*
 
-The Audiences Library lists all of your [!DNL Google Ads] customer data-based, in-market, and similar audiences and your [!DNL Microsoft® Advertising] remarketing and dynamic remarketing, custom, customer match, in-market, and similar audiences. You can use any of the [!DNL Google Ads] audiences as [!DNL Google Ads] campaign-level and ad group-level targets and exclusions, and you can use any of the [!DNL Microsoft® Advertising] audiences as [!DNL Microsoft® Advertising] campaign-level and ad group-level targets and (dynamic remarketing audiences only) exclusions. You can add or edit a bid adjustment for any audience target.
+The Audiences Library lists all of your [!DNL Google Ads] customer data-based, in-market, and similar audiences and your [!DNL Microsoft Advertising] remarketing and dynamic remarketing, custom, customer match, in-market, and similar audiences. You can use any of the [!DNL Google Ads] audiences as [!DNL Google Ads] campaign-level and ad group-level targets and exclusions, and you can use any of the [!DNL Microsoft Advertising] audiences as [!DNL Microsoft Advertising] campaign-level and ad group-level targets and (dynamic remarketing audiences only) exclusions. You can add or edit a bid adjustment for any audience target.
 
 You can also create and manage audiences using segments or email lists from your existing Adobe Experience Cloud audiences and from various kinds of customer data from your customer relationship management (CRM) system:
 
@@ -24,9 +24,9 @@ You can also create and manage audiences using segments or email lists from your
 
 * **Adobe Campaign email lists:** Your Adobe Account Team can help you set up a workflow to create and update a [!DNL Google Ads] customer match audience from an email list within [!DNL Campaign].
 
-* **Customer data lists:** Advertisers with [!DNL Google Ads] or [!DNL Microsoft® Advertising] accounts that are eligible for customer match can create and update an ad network-specific customer data-based audience <!-- or dynamic remarketing audience -- included in customer data-based audience, at least for [!DNL Google Ads]?--> by uploading a CSV file with primary identifiers.
+* **Customer data lists:** Advertisers with [!DNL Google Ads] or [!DNL Microsoft Advertising] accounts that are eligible for customer match can create and update an ad network-specific customer data-based audience <!-- or dynamic remarketing audience -- included in customer data-based audience, at least for [!DNL Google Ads]?--> by uploading a CSV file with primary identifiers.
 
-* **Dynamic remarketing lists:** Advertisers with [!DNL Microsoft® Advertising] accounts can create and manage dynamic remarketing audiences, which you can use to retarget potential customers who have recently interacted with your products in one of multiple ways (such as product viewers or past buyers). Dynamic remarketing audiences require you to use the ad network's JavaScript conversion- and audience-tracking tag on your webpages. Use dynamic remarketing lists with shopping campaigns on the search and audience networks to retarget audiences with product ads, as well as with search campaigns to retarget audiences with text ads and dynamic search ads. <!--[For [!DNL Google Ads], these are technically included in a customer data-based audience, so word this all carefully when we add support for them.]-->
+* **Dynamic remarketing lists:** Advertisers with [!DNL Microsoft Advertising] accounts can create and manage dynamic remarketing audiences, which you can use to retarget potential customers who have recently interacted with your products in one of multiple ways (such as product viewers or past buyers). Dynamic remarketing audiences require you to use the ad network's JavaScript conversion- and audience-tracking tag on your webpages. Use dynamic remarketing lists with shopping campaigns on the search and audience networks to retarget audiences with product ads, as well as with search campaigns to retarget audiences with text ads and dynamic search ads. <!--[For [!DNL Google Ads], these are technically included in a customer data-based audience, so word this all carefully when we add support for them.]-->
 
   >[!NOTE]
   >
@@ -34,7 +34,7 @@ You can also create and manage audiences using segments or email lists from your
 
 >[!NOTE]
 >
->Search, Social, & Commerce doesn't store any of the customer data you upload or from the [!DNL Adobe] segments used to create or edit a [!DNL Google Ads] or [!DNL Microsoft® Advertising] audience.
+>Search, Social, & Commerce doesn't store any of the customer data you upload or from the [!DNL Adobe] segments used to create or edit a [!DNL Google Ads] or [!DNL Microsoft Advertising] audience.
 
 >[!MORELIKETHIS]
 >

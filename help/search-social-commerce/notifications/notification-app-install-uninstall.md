@@ -8,11 +8,11 @@ feature: Search Notifications
 
 *Beta Feature*
 
-You can receive and manage notifications outside of your browser by installing a [!UICONTROL Notification Center] web application. The application looks the same, and has the same functionality, as [!UICONTROL Notification Center] within Search, Social, & Commerce. The application is available for [!DNL Google Chrome] 40 and higher or [!DNL Microsoft® Edge] 17 and higher.
+You can receive and manage notifications outside of your browser by installing a [!UICONTROL Notification Center] web application. The application looks the same, and has the same functionality, as [!UICONTROL Notification Center] within Search, Social, & Commerce. The application is available for [!DNL Google Chrome] 40 and higher or [!DNL Microsoft Edge] 17 and higher.
 
 Once you install the [!UICONTROL Notification Center] application, it's automatically enabled in the browser's applications manager, and it loads as a separate window whose layout is dynamically arranged based on the window size. You can open and close the application from the browser's applications manager or pin it to the operating system's taskbar or dock. The application is automatically updated.
 
-![Notification Center icon in Microsoft® Windows taskbar](/help/search-social-commerce/assets/windows-taskbar.png "Notification Center icon in Microsoft® Windows taskbar")
+![Notification Center icon in Microsoft Windows taskbar](/help/search-social-commerce/assets/windows-taskbar.png "Notification Center icon in Microsoft Windows taskbar")
 
 You can disable or uninstall the application from the browser's applications manager. For additional information about managing web applications, see the browser's help.
 
@@ -26,7 +26,7 @@ You can disable or uninstall the application from the browser's applications man
 
 1. In the Install App? message, click **[!UICONTROL Install]**.
 
-## Install the [!UICONTROL Notification Center] web application for [!DNL Microsoft® Edge]
+## Install the [!UICONTROL Notification Center] web application for [!DNL Microsoft Edge]
 
 * From within Search, Social, & Commerce:
 
@@ -48,7 +48,7 @@ You can disable or uninstall the application from the browser's applications man
 
 * In [!DNL Chrome], go to `chrome://apps`, right-click **[!UICONTROL notification-center]**, and then click **[!UICONTROL Remove from Chrome]**.
 
-## Uninstall the [!UICONTROL Notification Center] web application for [!DNL Microsoft® Edge]
+## Uninstall the [!UICONTROL Notification Center] web application for [!DNL Microsoft Edge]
 
 1. In the [!DNL Edge] browser toolbar, click **...** > **[!UICONTROL Apps]** > **[!UICONTROL Manage apps]**. Alternately, go to `edge://apps`.
 

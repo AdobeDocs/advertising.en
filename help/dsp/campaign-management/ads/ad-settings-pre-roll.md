@@ -62,7 +62,7 @@ This is the same as the **[!UICONTROL Height]** field.
 
 ### [!UICONTROL Pixel]
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad.
+All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad. **Tip:** To edit the third-party tracking pixels for multiple ads in a placement at once using the [!UICONTROL Ad Tools] view, see "[Attach Third-Party Tracking Pixels to Ads in a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md#attach-pixels-ads)."
 
 The following settings apply to each pixel that you create or edit.
 
@@ -74,7 +74,7 @@ The following settings apply to each pixel that you create or edit.
 
 **[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
 
-**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
+**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, or *[!UICONTROL IAS]*.
 
 >[!MORELIKETHIS]
 >

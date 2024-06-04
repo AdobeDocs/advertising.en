@@ -32,7 +32,7 @@ exl-id: 45e8da8c-d6a2-4c42-8932-4cf551f6f899
 
 **\[Ad Source\]**: (Read-only) *[!UICONTROL 3rd party]*.
 
-**[!UICONTROL Display Code]:** The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters will be replaced with actual values.
+**[!UICONTROL Display Code]:** The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters are replaced with actual values.
 
 **[!UICONTROL Final Display Code]:** The URL for the third-party creative asset, with the necessary [Advertising DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
@@ -76,7 +76,7 @@ This is the same as the **[!UICONTROL Height]** field.
 
 ### [!UICONTROL Pixel]
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad.
+All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad. **Tip:** To edit the third-party tracking pixels for multiple ads in a placement at once using the [!UICONTROL Ad Tools] view, see "[Attach Third-Party Tracking Pixels to Ads in a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md#attach-pixels-ads)."
 
 The following settings apply to each pixel that you create or edit.
 
@@ -88,7 +88,7 @@ The following settings apply to each pixel that you create or edit.
 
 **[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
 
-**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
+**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, or *[!UICONTROL IAS]*.
 
 ### [!UICONTROL Sharing]
 

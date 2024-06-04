@@ -6,17 +6,17 @@ feature: Search Inventory Feeds
 ---
 # About automating ad management using inventory feeds
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
-The [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)] view for advanced campaign management allows you to automatically create and update ad network account structure and deliver dynamic ads based on data about your product or service inventory. You can upload new files with product data daily or as often as you like, or link directly to a [!DNL Google] or [!DNL Microsoft®] merchant center account. Use the feature to:
+The [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)] view for advanced campaign management allows you to automatically create and update ad network account structure and deliver dynamic ads based on data about your product or service inventory. You can upload new files with product data daily or as often as you like, or link directly to a [!DNL Google] or [!DNL Microsoft] merchant center account. Use the feature to:
 
 * Build new campaigns from ordered data sources.
 
-* Dynamically update text and responsive search ads, [!DNL Google Ads] shopping ads, or [!DNL Microsoft® Advertising] shopping ads whenever new data is processed, using dynamic variables for changeable data elements (such as the price or quantity). Each time you change the data, the existing ads are deleted and new ones are created.
+* Dynamically update text and responsive search ads, [!DNL Google Ads] shopping ads, or [!DNL Microsoft Advertising] shopping ads whenever new data is processed, using dynamic variables for changeable data elements (such as the price or quantity). Each time you change the data, the existing ads are deleted and new ones are created.
 
 * Automatically pause or remove ad groups, keywords, and ads when stock dips below a specific level, according to a specified end date, or when an existing component is omitted from feed data.
 
-To set up your ads, create inventory feed templates containing variables (placeholders), and then substitute the variables with actual data columns from an uploaded file or a [Google or Microsoft® merchant center account that is synced](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md). The variables can also include modifier groups you set up in a file or individual rows in the file to create multiple ads, keywords, campaigns, or ad groups for each applicable row in the data file. For example, if you use a modifier group variable in an ad headline, and the modifier group includes two modifiers ("for cheap," and "at a discount"), then two separate ads are created for each product &mdash; one for each modifier. For [!DNL Google Ads] and [!DNL Microsoft® Advertising] dynamic search ads, you can also include values for ad customizers.
+To set up your ads, create inventory feed templates containing variables (placeholders), and then substitute the variables with actual data columns from an uploaded file or a [Google or Microsoft merchant center account that is synced](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md). The variables can also include modifier groups you set up in a file or individual rows in the file to create multiple ads, keywords, campaigns, or ad groups for each applicable row in the data file. For example, if you use a modifier group variable in an ad headline, and the modifier group includes two modifiers ("for cheap," and "at a discount"), then two separate ads are created for each product &mdash; one for each modifier. For [!DNL Google Ads] and [!DNL Microsoft Advertising] dynamic search ads, you can also include values for ad customizers.
 
 | [!UICONTROL Ad Variation] Section of Template | Modifiers in Search, Social, & Commerce | Feed Contents | Resulting Ads |
 |----|----|----|----|
@@ -29,7 +29,7 @@ Once you generate the ads, you can optionally review them and then post them to 
 
 ## Workflow for managing campaign data using inventory feeds
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
 Initially, test at least one feed file or account, and then you can fully automate the process or continue to control it at each step:
 
@@ -43,7 +43,7 @@ Initially, test at least one feed file or account, and then you can fully automa
 
    If you're using FTP, don't automatically post data to the ad networks initially. After you verify the output from your first file and are satisfied with the results, you can change the settings.
 
-1. Upload a data file to the FTP directory, [manually upload a data file](feed-files-manage.md) in the [!UICONTROL Advanced (ACM) view], or [enable access to a Google or Microsoft® merchant center account](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md). 
+1. Upload a data file to the FTP directory, [manually upload a data file](feed-files-manage.md) in the [!UICONTROL Advanced (ACM) view], or [enable access to a Google or Microsoft merchant center account](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md). 
 
   To manually upload files, you can wait until you create a template that uses the data file.
 

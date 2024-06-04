@@ -7,7 +7,7 @@ feature: Search Inventory Feeds
 # Text ad and responsive search ad template settings for inventory feeds
 
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
 >[!NOTE]
 >
@@ -64,7 +64,7 @@ When no match is found, all data for the campaign is ignored. If multiple campai
 
 * To embed the final URL:
 
-  * ([!DNL Google Ads] and [!DNL Microsoft® Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft® Advertising] only) [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799/2) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
+  * ([!DNL Google Ads] and [!DNL Microsoft Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft Advertising] only) [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799/2) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
   * ([!DNL Yahoo! Japan Ads] only) Use the parameter `!{unescapedurl}` to indicate the landing page URL.
 
@@ -136,7 +136,7 @@ For third-party redirects and tracking, enter a value. To indicate the landing p
 
 * For Yahoo! Japan Ads accounts, use the parameter {lpurl}.
 
-* For parameters available for Microsoft® Advertising and Google Ads accounts, see the [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
+* For parameters available for Microsoft Advertising and Google Ads accounts, see the [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
 This value overrides the account- and campaign-level settings, but tracking templates at more granular levels (with keyword as the most granular) override this value.
 
@@ -160,7 +160,7 @@ This value overrides the account- and campaign-level settings, but tracking temp
 
 To insert a column name or modifier group as a dynamic parameter, click in the input field, and then click a column name in the column list or a [modifier name](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) in the Modifiers list. To specify multiple keywords or multiple match types for the same keyword, enter them on separate lines. To specify the keyword match type, use the following match type syntax around the column name:
 
-* For [!DNL Google Ads], [!DNL Microsoft® Advertising], and [!DNL Yahoo! Japan Ads] templates:
+* For [!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Yahoo! Japan Ads] templates:
 
   * For dynamic parameters: Broad Match = `[keyword]`, Broad Match Modifier for the first term in the [!UICONTROL Keyword] column (such as +blue suede shoes) = `+[keyword]`, Broad Match Modifier for each term in the Keyword column (such as +blue +suede +shoes) = `+[keyword]+`, Phrase Match = `"[keyword]"`, Exact Match = `[[keyword]]`
 
@@ -200,7 +200,7 @@ If you use a [!DNL Google Merchant Center] feed and include this value in the &q
 
 * To indicate the landing page URL:
 
-  * ([!DNL Google Ads] and [!DNL Microsoft® Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft® Advertising] only) [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
+  * ([!DNL Google Ads] and [!DNL Microsoft Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft Advertising] only) [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
   
   * ([!DNL Yahoo! Japan Ads] only) Use the parameter `!{lpurl}` to indicate the landing page URL.
 
@@ -228,15 +228,15 @@ The data fields in the feed file may have a maximum of 25 characters and may con
 
   * Two numbers can be embedded with a forward slash. For example, 4/1 and 0.95/0.45 are valid.
 
-**[!UICONTROL Param 2] \[[!DNL Microsoft® Advertising] templates\]:** ([!DNL Microsoft® Advertising] templates only) The string to use as the substitution value in an ad if the title, text, display URL, or final URL contains the `{Param2}` dynamic substitution string. The maximum length is 70 characters, but be aware of the maximum length of the ad element in which you use it (for example, an ad title may include up to 25 characters).
+**[!UICONTROL Param 2] \[[!DNL Microsoft Advertising] templates\]:** ([!DNL Microsoft Advertising] templates only) The string to use as the substitution value in an ad if the title, text, display URL, or final URL contains the `{Param2}` dynamic substitution string. The maximum length is 70 characters, but be aware of the maximum length of the ad elements in which you use it (for example, an ad title may include up to 25 characters).
 
-**[!UICONTROL Param 3]:** ([!DNL Microsoft® Advertising] templates only) The string to use as the substitution value in an ad if the title, text, display URL, or final URL contains the `{Param3}` dynamic substitution string. The maximum length is 70 characters, but be aware of the maximum length of the ad element in which you use it (for example, an ad title may include up to 25 characters).
+**[!UICONTROL Param 3]:** ([!DNL Microsoft Advertising] templates only) The string to use as the substitution value in an ad if the title, text, display URL, or final URL contains the `{Param3}` dynamic substitution string. The maximum length is 70 characters, but be aware of the maximum length of the ad elements in which you use it (for example, an ad title may include up to 25 characters).
 
 **[!UICONTROL Initial Bid (&lt;Match Type or Ad Type&gt;)]:** The initial bid for each keyword with the specified match type or ad type.
 
 ## [!UICONTROL Ads]
 
-**[!UICONTROL Ad Type]:** ([!DNL Google Ads] and [!DNL Microsoft® Advertising] campaigns only) The type of ads: *[!UICONTROL Expanded Search Ads]* or *[!UICONTROL Responsive Search Ads]*.
+**[!UICONTROL Ad Type]:** ([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns only) The type of ads: *[!UICONTROL Expanded Search Ads]* or *[!UICONTROL Responsive Search Ads]*.
 
 **[!UICONTROL Prefill]:** (Optional) Prefills all alternate ad copy fields with text from the original ad copy fields.
 
@@ -252,7 +252,7 @@ At least one title must be available for each position. If you pin multiple titl
 
 {{inventory-feed-template-insert-ad-customizer}}
 
-**[!UICONTROL Ad Title]:** (Existing Microsoft® Advertising standard text ads only; read-only) The title, or first line, of an ad. Microsoft® Advertising has deprecated the creation and editing of standard text ads.
+**[!UICONTROL Ad Title]:** (Existing Microsoft Advertising standard text ads only; read-only) The title, or first line, of an ad. Microsoft Advertising has deprecated the creation and editing of standard text ads.
 
 **[!UICONTROL Headline 1]**, **[!UICONTROL Headline 2]:** ([!DNL Google Ads] and [!DNL Yahoo! Japan Ads] expanded/extended text ad templates only) The headline of an ad. The maximum length for each line (after any dynamic parameters are replaced) is 30 characters or 15 double-byte characters.
 
@@ -264,13 +264,13 @@ At least one title must be available for each position. If you pin multiple titl
 
 **[!UICONTROL Title]:** ([!DNL Yandex] only) The title, or first line, of an ad. The maximum is 33 characters.
 
-**[!UICONTROL Title Part 1]**, **[!UICONTROL Title Part 2]:** (Microsoft® Advertising expanded text ads only) The headline of an ad. The maximum length for each line (after any dynamic parameters are replaced) is 30 characters or 15 double-byte characters.
+**[!UICONTROL Title Part 1]**, **[!UICONTROL Title Part 2]:** (Microsoft Advertising expanded text ads only) The headline of an ad. The maximum length for each line (after any dynamic parameters are replaced) is 30 characters or 15 double-byte characters.
 
 <!-- using a snippet for the note instead of an include because this is used multiple times on the page, which ExL doesn't support for includes -->
 
 {{inventory-feed-template-insert-dynamic-parameter}}
 
-**[!UICONTROL Ad Text]:** (Microsoft® Advertising expanded text ads only) The body of an ad. The maximum length (after any dynamic parameters are replaced) is 80 characters or 40 double-byte characters (such as Chinese, Japanese, and Korean).
+**[!UICONTROL Ad Text]:** (Microsoft Advertising expanded text ads only) The body of an ad. The maximum length (after any dynamic parameters are replaced) is 80 characters or 40 double-byte characters (such as Chinese, Japanese, and Korean).
 
 ### [!UICONTROL Descriptions]
 
@@ -306,11 +306,11 @@ For responsive search ads, insert an ad customizer using the following formats, 
 
 * [!DNL Google Ads]: `{CUSTOMIZER.AdCustomizerName:Default text}`, such as `{CUSTOMIZER.Discount:10%}`
 
-* [!DNL Microsoft® Advertising]: `{CUSTOMIZER.Attribute name:Default text}`, such as `{CUSTOMIZER.Discount:10%}`
+* [!DNL Microsoft Advertising]: `{CUSTOMIZER.Attribute name:Default text}`, such as `{CUSTOMIZER.Discount:10%}`
 
-**[!UICONTROL Display URL]:** (Existing [!DNL Microsoft® Advertising] and [!DNL Yahoo! Japan Ads] standard text ads only; read-only) The URL displayed in an ad.
+**[!UICONTROL Display URL]:** (Existing [!DNL Microsoft Advertising] and [!DNL Yahoo! Japan Ads] standard text ads only; read-only) The URL displayed in an ad.
 
-[!DNL Microsoft® Advertising] and [!DNL Yahoo! Japan Ads] have deprecated the creation and editing of standard text ads.
+[!DNL Microsoft Advertising] and [!DNL Yahoo! Japan Ads] have deprecated the creation and editing of standard text ads.
 
 **[!UICONTROL Base URL]:** (Accounts with destination URLs only) The page to which users are taken. It can include third-party redirection and tracking code. If you use the Adobe Advertising conversion tracking service, and the campaign settings include using the [!UICONTROL EF Redirect] and adding tracking at the ad level, then Search, Social, & Commerce automatically adds its own redirection and tracking code to the ad.
 
@@ -333,7 +333,7 @@ For third-party redirects and tracking, enter a value. To indicate the landing p
 
 * For Yahoo! Japan Ads accounts, use the parameter {lpurl}.
 
-* For parameters available for Microsoft® Advertising and Google Ads accounts, see the [[!DNL Microsoft® Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
+* For parameters available for Microsoft Advertising and Google Ads accounts, see the [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
 **\[Alternate ad fields below the original ad fields\]:** (Optional) An alternate set of ad copy for an ad, which may be used if any of the lines in the original ad copy exceed the maximum length allowed once any dynamic parameters are filled in with data during propagation.
 

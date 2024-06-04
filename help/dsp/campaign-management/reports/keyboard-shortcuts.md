@@ -29,5 +29,5 @@ Within placement settings, use keyboard shortcuts to quickly navigate<!-- and to
 >[!MORELIKETHIS]
 >
 >* [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
->* [Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)
+>* [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

@@ -6,7 +6,7 @@ feature: Search Tracking
 ---
 # Optional tracking parameters for click-tracking URLs
 
-*Google Ads, Microsoft Advertising, and Yahoo! Japan accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan], and [!DNL Yandex] accounts only*
 
 Instead of using only the standard tracking parameters for a final URL or destination URL, you may add more parameters to track specific data for an ad network account. You can add add any combination of the following parameters in the account settings or the campaign settings:
 
@@ -49,26 +49,22 @@ All of the following parameters must be specified as a key-value pair; you can i
 | <code>{ef_adgroupid}</code> | To insert the ad group ID. <b>Note:</b> The ID for a new ad group isn't created until the ad group is posted to the ad network. If the account uses the "[!UICONTROL EF Redirect]" and "AutoUpload" options, then Adobe Advertising automatically inserts the ad group ID in the relevant destination URLs or final URLs the next day. If the account doesn't use the[!UICONTROL EF Redirect]" and [!UICONTROL Auto Upload]" options and you want to insert the ad group ID in the relevant destination URLs or final URLs, then you must create the ad group; download a bulksheet file for the new ad group, using the option to "Generate Tracking URLs;" and then post the file to the ad network. |
 | <code>{ef_keyword}</code> | To insert the keyword. |
 | <code>{ef_keywordid}</code> | To insert the keyword ID. <b>Note:</b> The ID for a new keyword isn't created until the keyword is posted to the ad network. If the account uses the "[!UICONTROL EF Redirect]" and [!UICONTROL Auto Upload]" options, then Adobe Advertising automatically inserts the keyword ID in the relevant destination URLs or final URLs the next day. If the account doesn't use the "[!UICONTROL EF Redirect]" and [!UICONTROL Auto Upload]" options and you want to insert the keyword ID in the relevant destination URLs or final URLs, then you must create the keyword; download a bulksheet file for the new keyword, using the option to "Generate Tracking URLs;" and then post the file to the ad network. |
-| <code>{ef_matchtype}</code> | To insert the keyword match type as "Broad," "Exact,"or "Phrase." Included automatically for Google Ads and Microsoft Advertising with the "[!UICONTROL EF Redirect]" tracking method. |
+| <code>{ef_matchtype}</code> | To insert the keyword match type as "Broad," "Exact,"or "Phrase." Included automatically for [!DNL Google Ads] and [!DNL Microsoft Advertising] with the "[!UICONTROL EF Redirect]" tracking method. |
 | <code>{ef_adid}</code> | To insert the ad ID. <b>Note:</b> The ID for a new ad isn't created until the ad is posted to the ad network. If the account uses the "[!UICONTROL EF Redirect]" and [!UICONTROL Auto Upload]" options, then Adobe Advertising automatically inserts the ad ID in the relevant destination URLs or final URLs the next day. If the account doesn't use the "[!UICONTROL EF Redirect]" and [!UICONTROL Auto Upload]" options and you want to insert the ad ID in the relevant destination URLs or final URLs, then you must create the ad; download a bulksheet file for the new ad, using the option to "Generate Tracking URLs;" and then post the file to the ad network. |
 
-## Google Ads dynamic tracking parameters
+## [!DNL Google Ads] dynamic tracking parameters
 
 See [https://support.google.com/google-ads/answer/2375447](https://support.google.com/google-ads/answer/2375447).
 
-## Microsoft Advertising dynamic tracking parameters
+## [!DNL Microsoft Advertising] dynamic tracking parameters
 
 See [https://help.bingads.microsoft.com/#apex/3/en/51091/2](https://help.bingads.microsoft.com/#apex/3/en/51091/2).
-
-## Yahoo Native dynamic tracking parameters
-
-See [https://developer.yahoo.com/nativeandsearch/guide/resources/dynamic-parameters](https://developer.yahoo.com/nativeandsearch/guide/resources/dynamic-parameters).
 
 ## Yahoo! Japan Ads dynamic tracking parameters
 
 See [https://ads-help.yahoo-net.jp/s/article/H000044463?language=en_US](https://ads-help.yahoo-net.jp/s/article/H000044463?language=en_US).
 
-## Yandex dynamic tracking parameters
+## [!DNL Yandex] dynamic tracking parameters
 
 See [https://yandex.com/support/direct/statistics/url-tags.html](https://yandex.com/support/direct/statistics/url-tags.html).
 

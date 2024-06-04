@@ -1,12 +1,12 @@
 ---
 title: Manage audience exclusions for campaigns and ad groups
-description: Learn how to configure and manage audience exclusions for your [!DNL Google Ads] and [!DNL Microsoft® Advertising] campaigns and ad groups.
+description: Learn how to configure and manage audience exclusions for your [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns and ad groups.
 exl-id: 8bebc1fe-aad8-40f2-9dca-e4065a0c4990
 feature: Search Campaign Management
 ---
-# Manage audience exclusions for your [!DNL Google Ads] and [!DNL Microsoft® Advertising] campaigns and ad groups
+# Manage audience exclusions for your [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns and ad groups
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] only*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] only*
 
 You can exclude specific audiences as targets for specific ad groups and campaigns. Excluding an audience ensures that those people don't receive ads in the specified ad groups and campaigns.
 
@@ -42,9 +42,9 @@ You can also delete audience exclusions.
       
       1. Do any of the following:
 
-         * Specify each ad group exclusion by clicking the circle next to it so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+         * Specify each ad group exclusion by clicking the adjacent circle so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
          
-         * Specify each campaign exclusion by clicking the circle next to it so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+         * Specify each campaign exclusion by clicking the adjacent circle so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
 
 1. Click **[!UICONTROL Post]**.
 

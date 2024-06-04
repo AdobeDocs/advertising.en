@@ -9,7 +9,7 @@ You can open online help from any page within the user interface. If the online 
 
 ## Open online help
 
-* To view a description of a term with a help icon (![Help icon](/help/search-social-commerce/assets/help-field.png  "Help icon") ) next to it, hold your cursor over the help icon until you are finished, or click inside the help pop-up to scroll through the content.
+* To view a description of a term with an adjacent help icon (![Help icon](/help/search-social-commerce/assets/help-field.png "Help icon") ), hold your cursor over the help icon until you are finished, or click inside the help pop-up to scroll through the content.
 
   To open links within a help topic, you may need to configure your browser settings to allow pop-ups from the Search, Social, & Commerce site you use (such as https://enterprise-na.efrontier.com for North American users or https://enterprise-intl.efrontier.com for all other users).
 

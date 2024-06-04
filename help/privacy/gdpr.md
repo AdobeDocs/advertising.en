@@ -31,15 +31,15 @@ Adobe Experience Platform provides the ability for businesses to complete the fo
 
 ## Required Setup to Send Requests for Adobe Advertising
 
-To make requests to access and delete data for Adobe Advertising, you'll need to:
+To make requests to access and delete data for Adobe Advertising, you must:
 
 1. Deploy a JavaScript library to retrieve and remove your data subject cookies. The same library, `AdobePrivacy.js`, is used for all Adobe Experience Cloud solutions.
 
    >[!IMPORTANT]
    >
-   >Requests to some Adobe Experience Cloud solutions don't require the JavaScript library, but requests to Adobe Advertising require it.
+   >Requests to some Experience Cloud solutions don't require the JavaScript library, but requests to Adobe Advertising require it.
 
-   You should deploy the library on the webpage from which your data subject s can submit access and delete requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: `gsurferID`) so that you can submit these identities as part of access and delete requests via the Adobe Experience Platform Privacy Service API.
+   You should deploy the library on the webpage from which your data subjects can submit access and delete requests, such as your company's privacy portal. The library helps you retrieve [!DNL Adobe] cookies (namespace ID: `gsurferID`) so that you can submit these identities as part of access and delete requests via the Adobe Experience Platform Privacy Service API.
 
    When the data subject asks to delete personal data, the library also deletes the data subject's cookie from the data subject's browser.
 
@@ -49,7 +49,7 @@ To make requests to access and delete data for Adobe Advertising, you'll need to
 
 1. Identify your Experience Cloud organization ID and make sure it's linked to your Adobe Advertising accounts.
 
-   An Experience Cloud organization ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Experience Cloud customers have been assigned an organization ID. If your marketing team or internal Adobe system administrator doesn't know your organization ID, or isn't sure if it's been provisioned, contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the organization ID to submit requests to the Privacy API using the `imsOrgID` namespace.
+   An Experience Cloud organization ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Experience Cloud customers have been assigned an organization ID. If your marketing team or internal [!DNL Adobe] system administrator doesn't know your organization ID, or isn't sure if it's been provisioned, then contact Adobe Customer Care at gdprsupport@adobe.com. You'll need the organization ID to submit requests to the Privacy API using the `imsOrgID` namespace.
 
    >[!IMPORTANT]
    >
@@ -57,7 +57,7 @@ To make requests to access and delete data for Adobe Advertising, you'll need to
 
 1. Use either the [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (for automated requests) or the [Privacy Service UI](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (for ad-hoc requests) to submit access and delete requests to Adobe Advertising on behalf of the data subjects, and to check the status of existing requests.
 
-   For advertisers who have a mobile app to interact with data subjects and launch campaigns with DSP, you'll need to download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow data controllers to set opt-out status flags, retrieve the data subject's device ID (namespace ID: deviceID), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
+   For advertisers who have a mobile app to interact with data subjects and launch campaigns with DSP, you must download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow data controllers to set opt-out status flags, retrieve the data subject's device ID (namespace ID: `deviceID`), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
 
    When you submit a data subject's access request, the Privacy Service API returns a data subject's information based on the specified cookie or device ID, which you then must return to the data subject.
 
@@ -67,14 +67,14 @@ To make requests to access and delete data for Adobe Advertising, you'll need to
    >
    >If your company has multiple Experience Cloud organization IDs, then you must send separate API requests for each. You can, however make one API request to multiple Adobe Advertising sub-solutions ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
 
-All of these steps are necessary for Adobe Advertising. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the items you'll need, see "[Privacy Service overview](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html)" and "[Privacy Service API guide](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/overview.html)."
+All of these steps are necessary for Adobe Advertising. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the necessary items, see "[Privacy Service overview](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html)."
 
 ## Required Field Values in Adobe Advertising JSON Requests
 
-``"company context": 
+`"company context":`
 
 * `"namespace": **imsOrgID**`
-* `"value":` <*your IMS Org ID value*>
+* `"value":` <*your Experience Cloud organization ID*>
 
 `"users":`
 
@@ -88,7 +88,7 @@ All of these steps are necessary for Adobe Advertising. For more information abo
 
     * `"value":` <*the actual data subject’s cookie ID value as retrieved from `AdobePrivacy.js`*>
 
-* `"include": **adCloud**` (which is the Adobe product that applies to the request)
+* `"include": **adCloud**` (which is the [!DNL Adobe] product that applies to the request)
 
 * `"regulation": **gdpr**` (which is the privacy regulation that applies to the request)
 
@@ -120,7 +120,6 @@ All of these steps are necessary for Adobe Advertising. For more information abo
       "adCloud"
    ],
     "regulation":"gdpr"
-}
 }
 ```
 

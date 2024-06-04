@@ -6,7 +6,7 @@ feature: Search Campaign Management
 ---
 # Delete ad extension associations with campaigns and ad groups
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] only*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] only*
 
 You can delete campaign- and ad group-level associations with any location, phone, and sitelink extension.
 

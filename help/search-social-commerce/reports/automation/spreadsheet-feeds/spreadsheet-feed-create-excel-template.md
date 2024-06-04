@@ -8,7 +8,7 @@ feature: Search Reports
 
 *For basic reports and model accuracy reports only*
 
-To create spreadsheet feeds, you must first create specially formatted [!DNL Microsoft® Excel] spreadsheet templates using regular report templates. You optionally can customize the [!DNL Excel] spreadsheet to include additional columns and graphs.
+To create spreadsheet feeds, you must first create specially formatted [!DNL Microsoft Excel] spreadsheet templates using regular report templates. You optionally can customize the [!DNL Excel] spreadsheet to include additional columns and graphs.
 
 1. In **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**, generate the desired report type using a [!UICONTROL Date Aggregation] unit of "[!UICONTROL Daily]" and with all other data parameters you want, saving the report as a template.
 

@@ -30,19 +30,19 @@ The following settings are for standard display ads.
 
 **[!UICONTROL Certified Vendors]:** (Third-party expandable banner ads only) The certified vendor for which the ad is available: *[!UICONTROL DCM]* ([!DNL Google DoubleClick for Advertisers]), *[!UICONTROL Flashtalking]*, *[!UICONTROL Sizmek]*, or *[!UICONTROL Jivox]*.
 
-**[!UICONTROL Display Code]:** (Third-party ads only) The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters will be replaced with actual values.
+**[!UICONTROL Display Code]:** (Third-party ads only) The URL of the third-party creative asset. Any [timestamp] and [[timestamp]] parameters are replaced with actual values.
 
 **[!UICONTROL Final Display Code]:** (Third-party ads only) The URL for the third-party creative asset, with the necessary [Advertising DSP tracking macros](/help/dsp/campaign-management/macros.md) inserted, if applicable.
 
-**[!UICONTROL Ad Size]:** The width and height of the ad. It must be a [supported standard display ad size](ad-specs.md). You can manually enter the ad size before you upload the ad or enter a [!UICONTROL Display Code]. If you don't enter the ad size, the dimensions of the uploaded ad or ad tag are automatically entered as read-only. Note that the Display ad will not save if the dimensions are not within Standard Display as sizes - e.g. 301x250 instead of 300x250 ad size.
+**[!UICONTROL Ad Size]:** The width and height of the ad. It must be a [supported standard display ad size](ad-specs.md). You can manually enter the ad size before you upload the ad or enter a [!UICONTROL Display Code]. If you don't enter the ad size, the dimensions of the uploaded ad or ad tag are automatically entered as read-only.
 
 >[!IMPORTANT]
 >
-> The ad size declared in the width and height fields will be matched with incoming bid requests. You may experience delivery issues if the ad's dimensions don't match the declared ad size.
+> The ad size declared in the width and height fields are matched with incoming bid requests. You may experience delivery issues if the ad's dimensions don't match the declared ad size.
 
 ### [!UICONTROL Pixel]
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad.
+All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad. **Tip:** To edit the third-party tracking pixels for multiple ads in a placement at once using the [!UICONTROL Ad Tools] view, see "[Attach Third-Party Tracking Pixels to Ads in a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md#attach-pixels-ads)."
 
 The following settings apply to each pixel that you create or edit.
 
@@ -54,7 +54,7 @@ The following settings apply to each pixel that you create or edit.
 
 **[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
 
-**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, or *[!UICONTROL Comscore]*.
+**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, or *[!UICONTROL IAS]*.
 
 >[!MORELIKETHIS]
 >

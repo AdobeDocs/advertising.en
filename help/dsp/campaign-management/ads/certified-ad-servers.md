@@ -37,7 +37,7 @@ exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
 | [!DNL Innovid] | X | X | | X | |
 | [!DNL Inskin] | | | X | | High impact skins (including Cavai conversational ads) must be served out of a 180x150 display deal ID across the Inskin inventory network. |
 | [!DNL Jivox] | | X | | | |
-| [!DNL Kargo] | | X | | X | 320x50 Anchor, BYOC, Hover, Breakout, Breakaway, and Sidekick; 300x250 Outstream, HighRise; Standard Desktop Display (specific ad plugin IDs aren't required); Video Anchor (VAST only); CTV via [!DNL Pubmatic]</br></br>Contact your Adobe Account Team for assistance in setting up ad units. |
+| [!DNL Kargo] | | X | | X | 320x50 Anchor, BYOC, Hover, Breakout, Breakaway, Runway, and Sidekick; 300x250 Outstream, HighRise; Standard Desktop Display (specific ad plugin IDs aren't required); Video Anchor (VAST only); CTV via [!DNL Pubmatic]</br></br>Contact your Adobe Account Team for assistance in setting up ad units. |
 | [!DNL Linkstorm] | | | X | | |
 | [!DNL mCanvas] | | | X | | |
 | [!DNL Medialets] | | X | | | |
@@ -46,7 +46,7 @@ exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
 | [!DNL PLAYGROUND XYZ] | | | X | | |
 | [!DNL Pubmatic] | | | | X | VAST Only |
 | [!DNL RevJet] | | | | X | VAST Only |
-| [!DNL Seedtag] | | X | | | |
+| [!DNL Seedtag] | | X | X | | |
 | [!DNL Sizmek] | X | X | | X | OLV and CTV</br></br>To make the tags render in the UI, wrap the tag with `<a>` tags (at the beginning and the end). See sample tag below:</br></br>`<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>` |
 | [!DNL Spaceback] | | X | | | |
 | [!DNL Spirable] | | X | | | |

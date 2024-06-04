@@ -16,11 +16,11 @@ DSP can optimize your performance-focused campaigns. See the following best prac
 
 ## Step 1 - Define Your Goal
 
-It's important to understand the goal of the campaign, such as to achieve the highest possible ROAS or the lowest possible CPA. Performance campaigns have [optimization goals](/help/dsp/optimization/optimization-goals.md) that end with "[!UICONTROL - Custom Goal]" (such as "[!UICONTROL Highest ROAS - Custom Goal]"). For each package in the campaign, you'll specify the optimization goal accordingly.
+It's important to understand the goal of the campaign, such as to achieve the highest possible ROAS or the lowest possible CPA. Performance campaigns have the [optimization goals](/help/dsp/optimization/optimization-goals.md) "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]." For each package in the campaign, specify the optimization goal accordingly.
 
 ![optimization goal](/help/dsp/assets/optimization-goals.png)
 
-You also need to determine the success event(s) that will lead to the overall goal and create custom goals accordingly. For each package, you'll specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using [!DNL Adobe Sensei]. For more information about creating custom goals, see the [Best Practices for Building a Custom Goal](custom-goal-best-practices.md).
+You also need to determine the success event(s) that lead to the overall goal and create custom goals accordingly. For each package, specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using [!DNL Adobe Sensei]. For more information about creating custom goals, see the [Best Practices for Building a Custom Goal](custom-goal.md#custom-goal-best-practices).
 
 ![custom goals](/help/dsp/assets/objective-goals.png)
 
@@ -63,13 +63,13 @@ Also, use the following settings.
 
 * **Pacing & Capping:** To select a CPA or ROAS optimization goal, the package must use package-level pacing. This ensures that all placements within the package are optimized to distribute spend based on performance and scale to the selected goals.
 
-* **Flight Dates:** (Prospecting packages) When your campaign runs for longer than 25 days, use the [!UICONTROL Activate Custom Flighting] feature. First, set a custom flight for the first 10 days at approximately 75% of the necessary daily budget to reduce spending during the *learning phase*. Then set a second custom flight for the remainder of the budget.
+* **Flight Dates:** (Prospecting packages) When your campaign runs for longer than 25 days, use the [!UICONTROL Activate Custom Flighting] feature. First, set a custom flight for the first 10 days at approximately 75% of the necessary daily budget to reduce spending during the *learning phase*. Then set a second custom flight for the remainder of the budget.
 
-  For example, if you have $100,000 to spend in 30 days, then set the budget for Flight 1 (Days 1-10) to $25,000 (75% x $100,000/30 days = $2,500 per day). Use the remaining budget of $75,000 for Flight 2 (Days 11–30).
+  For example, if you have $100,000 to spend in 30 days, then set the budget for Flight 1 (Days 1-10) to $25,000 (75% x $100,000/30 days = $2,500 per day). Use the remaining budget of $75,000 for Flight 2 (Days 11-30).
 
-* **Budget:** DSP will always try to allocate 100% of the package budget evenly between all placements in a package. If a placement has low spend or no spend, we recommend budget capping the placement to allow more of the budget to allocate to placements with scale. Allow 24-48 hours for budget changes to calibrate.
+* **Budget:** DSP always tries to allocate 100% of the package budget evenly between all placements in a package. If a placement has low spend or no spend, we recommend budget capping the placement to allow more of the budget to allocate to placements with scale. Allow 24-48 hours for budget changes to calibrate.
 
-* **Optimization Goals:** Use one of the two performance optimization goals, *[!UICONTROL Highest ROAS]* or *[!UICONTROL Lowest CPA]*, depending on the package goal. These goals auto-optimize the package towards the Highest ROAS or Lowest CPA placements, respectively.
+* **Optimization Goals:** Use one of the two performance optimization goals, *[!UICONTROL Highest Return on Ad Spend]* or *[!UICONTROL Lowest Cost per Acquisition]*, depending on the package goal. These goals auto-optimize the package towards the Highest ROAS or Lowest CPA placements, respectively.
 
 * **Custom Goals:**
   * If a new package has the same goal as an existing package, you can optionally link the existing package so that the algorithm can use the existing machine learning data.
@@ -91,15 +91,15 @@ The following are the recommended placement settings for performance campaigns.
 
 ### Goals
 
-You'll configure CPA or ROAS optimization at the package level (see Step 3 - Create Packages), but you can add additional placement-level settings.
+You must configure CPA or ROAS optimization at the package level (see Step 3 - Create Packages), but you can add additional placement-level settings.
 
 * **Max Bid:**
   * For prospecting placements, use a low maximum bid ($5).
   * For retargeting placements, use a high maximum bid ($12).
 
-* **Pre-bid Filters:** Minimize, or ideally avoid, setting aggressive pre-bid filters, which prevent the placement from achieving scale. Best practices include the following:
+* **Pre-bid Filters:** Minimize, or ideally avoid, setting aggressive pre-bid filters, which prevent the placement from achieving scale. Best practices include the following:
 
-  * Use one (1) pre-bid filter per placement. Multiple pre-bid filters will require that both are met, which reduces scale.
+  * Use one (1) pre-bid filter per placement. Using multiple pre-bid filters requires that both are met, which reduces scale.
 
   * Consider setting less strict pre-bid filters in cases where additional targeting (such as audience, geo, and site targeting) is applied.
 
@@ -126,7 +126,7 @@ To maximize scale, use [!UICONTROL Public] (Open Exchange) and [!UICONTROL On De
 
 >[!NOTE]
 >
->Your ads will perform best if a user can be reached by only one placement. Significant overlap in users across placements can cause competition, which yields a cycle of continually increasing bids, driving up the cost per user. Therefore, if you include multiple audiences, make sure they don't consist of overlapping users/audience members.
+>Your ads perform best if a user can be reached by only one placement. Significant overlap in users across placements can cause competition, which yields a cycle of continually increasing bids, driving up the cost per user. Therefore, if you include multiple audiences, make sure they don't consist of overlapping users/audience members.
 >
 > You can avoid overlapping audiences by creating your audiences in tiers so that you can suppress the higher, more inclusive tiers from placements as needed.
 
@@ -141,12 +141,12 @@ To maximize scale, use [!UICONTROL Public] (Open Exchange) and [!UICONTROL On De
 
 ### Brand Safety and Media Quality
 
-Using contextual filtering, pre-bid fraud blocking, and/or [!UICONTROL Ads.txt] filtering will limit the scale of your placements, but use them if needed.
+Using contextual filtering, pre-bid fraud blocking, and/or [!UICONTROL Ads.txt] filtering limits the scale of your placements, but use them if needed.
 
 ## Step 5 - Use the Right Creative Assets
 
-* The best practice is to include as many unique ad sizes as possible to maximize reach. The universal display template allows you to upload any standard display ad size.
-* Make sure all placements contain *at least* all of the primary display ad sizes (300x250, 728x90, 160x600, 300x600, 320x50, and 300x50).
+* The best practice is to include as many unique ad sizes as possible to maximize reach. The universal display template allows you to upload any standard display ad size.
+* Make sure all placements contain *at least* all of the primary display ad sizes (300x250, 728x90, 160x600, 300x600, 320x50, and 300x50).
 * Update creatives frequently to prevent creative fatigue.
 
 >[!MORELIKETHIS]

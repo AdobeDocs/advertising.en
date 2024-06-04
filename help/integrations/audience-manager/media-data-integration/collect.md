@@ -49,7 +49,7 @@ Where:
 
 * `[Audience Manager customer domain]` is the domain name that will send impression or click events to [!DNL Adobe].
 
-* `[source id]` is the ID for the [data source](#set-up-data-source) in which you will track DSP impression and click data.
+* `[source id]` is the ID for the [data source](#set-up-data-source) in which you track DSP impression and click data.
 
 * `[redirect URL]` is the double-encoded redirect URL. If you’re using an online encoding tool, such as www.urlencoder.org, then run the string through the encoder and re-encode the result.
 
@@ -106,15 +106,15 @@ Within the ad server, insert the click event pixel (with the encoded URL appende
 
 ## Step 3: Post-Implementation Tasks
 
-Once the event tags are implemented, data will flow into the Audience Manager data collection servers. Complete the following tasks before you can use the data in reports.
+Once the event tags are implemented, data flows into the Audience Manager data collection servers. Complete the following tasks before you can use the data in reports.
 
 ### Create an [!DNL Amazon S3] Bucket and Data Source
 
-Once your data is on the Audience Manager servers, you must create an [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) bucket, and then a data source, to which all pixel data will be sent. Contact your Audience Manager consultant or [Customer Care](https://experienceleague.adobe.com/docs/audience-manager/user-guide/help-and-legal/help-legal-contact.html) if you need support. 
+Once your data is on the Audience Manager servers, you must create an [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) bucket, and then a data source, to which all pixel data is sent. Contact your Audience Manager consultant or [Customer Care](https://experienceleague.adobe.com/docs/audience-manager/user-guide/help-and-legal/help-legal-contact.html) if you need support. 
 
 ### Create Audience Manager Traits and Segments
 
-Your event data will flow into Audience Manager as [unused signals](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/unused-signals.html). Manually create [rule-based traits](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) from the ingested data, and then create [segments](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html) using those traits, before you can use the data in reports.
+Your event data flows into Audience Manager as [unused signals](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/unused-signals.html). Manually create [rule-based traits](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) from the ingested data, and then create [segments](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html) using those traits, before you can use the data in reports.
 
 Example trait that populates user-level data for users exposed to a specific creative in DSP:
 

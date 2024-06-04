@@ -14,7 +14,7 @@ See "[Overview of [!DNL Analytics for Advertising]](https://experienceleague.ado
 
 >[!PREREQUISITES]
 >
-> Time zones in the Search, Social, & Commerce advertiser account, the [!DNL Analytics] report suites, and the ad network accounts must match. If they don't match, data variances will exist across systems.
+> Time zones in the Search, Social, & Commerce advertiser account, the [!DNL Analytics] report suites, and the ad network accounts must match. If they don't match, data variances occur across the systems.
 
 ## Implementation overview 
 

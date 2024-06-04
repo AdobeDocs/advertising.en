@@ -32,11 +32,11 @@ The existing keyword or ad is deleted and another one is created when:
 
 * ([!DNL Baidu], [!DNL Google Ads], and [!DNL Yandex]) You edit a keyword name.
 
-* ([!DNL Google Ads], [!DNL Microsoft® Advertising], and [!DNL Yandex]) You change a keyword's match type.
+* ([!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Yandex]) You change a keyword's match type.
 
 * You move a keyword between ad groups.
 
-* ([!DNL Google Ads] dynamic search ads, [!DNL Microsoft® Advertising] expanded text ads, and all ad types on other supported ad networks) You edit ad copy (headline/title or description) or an ad image.
+* ([!DNL Google Ads] dynamic search ads, [!DNL Microsoft Advertising] expanded text ads, and all ad types on other supported ad networks) You edit ad copy (headline/title or description) or an ad image.
 
 * You move an ad between ad groups.
 
@@ -109,13 +109,13 @@ See the next FAQ about [parallel tracking support](#parallel-tracking) for more 
 
 +++
 
-+++([!DNL Google Ads] and [!DNL Microsoft® Advertising]) Does Search, Social, & Commerce support parallel tracking for ads in [!DNL Google Ads] or [!DNL Microsoft® Advertising]? {#parallel-tracking}
++++([!DNL Google Ads] and [!DNL Microsoft Advertising]) Does Search, Social, & Commerce support parallel tracking for ads in [!DNL Google Ads] or [!DNL Microsoft Advertising]? {#parallel-tracking}
 
 Parallel tracking sends customers directly from your ad to your final URL, which may include appended parameters from a final URL suffix, or "landing page suffix." Your tracking template URL (with additional parameters for click measurement) is loaded separately in the background; as a result, your landing page is loaded more quickly.
 
-Search, Social, & Commerce supports parallel tracking for search and shopping campaigns using the ad network's click identifier (`msclkid` for [!DNL Microsoft® Advertising]; `gclid` for [!DNL Google Ads]). Use an [account-level](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md#account-settings) or [campaign-level](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) [!UICONTROL Landing Page Suffix] (called "[!DNL final URL suffix]" in the ad networks), which is appended to landing page URLs to track clicks on child ads from browsers that support parallel tracking. See the [required suffix formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and [required suffix formats for [!DNL Microsoft® Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+Search, Social, & Commerce supports parallel tracking for search and shopping campaigns using the ad network's click identifier (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for [!DNL Google Ads]). Use an [account-level](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md#account-settings) or [campaign-level](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) [!UICONTROL Landing Page Suffix] (called "[!DNL final URL suffix]" in the ad networks), which is appended to landing page URLs to track clicks on child ads from browsers that support parallel tracking. See the [required suffix formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and [required suffix formats for [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 
-When a user views your ad on a browser that doesn't support parallel tracking, the ad network uses sequential tracking instead: customers are first sent to your tracking template URL, which may redirect customers to intermediate tracking servers before redirecting them to the final URL (which may include additional parameters in a landing page suffix). All tracking templates for an ad network account should include the same click identifier parameter that you use in the [!UICONTROL Landing Page Suffix]. See the [tracking template formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and the [tracking template formats for [!DNL Microsoft® Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+When a user views your ad on a browser that doesn't support parallel tracking, the ad network uses sequential tracking instead: customers are first sent to your tracking template URL, which may redirect customers to intermediate tracking servers before redirecting them to the final URL (which may include additional parameters in a landing page suffix). All tracking templates for an ad network account should include the same click identifier parameter that you use in the [!UICONTROL Landing Page Suffix]. See the [tracking template formats for [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) and the [tracking template formats for [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 +++
 
 +++Why do tracking URLs for my ads include "`&EV_HASH={<hash>}`?"

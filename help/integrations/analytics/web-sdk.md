@@ -10,7 +10,7 @@ exl-id: 764724a2-536a-43b9-955d-28d6146db29a
 
 If your organization uses the legacy Adobe Analytics `visitorAPI.js` library for data collection, you can optionally switch to using the [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) library (`alloy.js`), which allows you to interact with the various Experience Cloud services through the [!DNL Edge Network].
 
-The [!DNL Analytics for Advertising] [!DNL Last Event Service] JavaScript library, as-is, records view-through and click-through events and stitches them to the associated conversions using a supplemental ID (`SDID`). The [!DNL Web SDK] library, however, doesn't supply a [!DNL stitch ID]. To use the [!DNL Web SDK] for [!DNL Analytics for Advertising], you'll need to modify 1) the [!DNL Last Event Service] tag you use on your webpages and 2) your [!DNL Web SDK] `sendEvent` commands accordingly.
+The [!DNL Analytics for Advertising] [!DNL Last Event Service] JavaScript library, as-is, records view-through and click-through events and stitches them to the associated conversions using a supplemental ID (`SDID`). The [!DNL Web SDK] library, however, doesn't supply a [!DNL stitch ID]. To use the [!DNL Web SDK] for [!DNL Analytics for Advertising], you must modify 1) the [!DNL Last Event Service] tag you use on your webpages and 2) your [!DNL Web SDK] `sendEvent` commands accordingly.
 
 ## Step 1:  Edit Your [!DNL Last Event Service] Tag to Generate a `[!DNL StitchID]`
 
@@ -36,7 +36,7 @@ In the [!DNL Analytics for Advertising] [!DNL Last Event Service] tag you use on
 
 ## Step 2: Use [!DNL Web SDK] to Send the [!DNL StitchID] as XDM Data for [!DNL Analytics]
 
-Insert the following property within your [!DNL Web SDK] `sendEvent` command to send the [!DNL StitchID] to [!DNL Experience Edge] as [!DNL Experience Data Model] (XDM) data for [!DNL Analytics].<!-- The library will send the StitchID to [!DNL Experience Edge] as `[_adcloud.advertisingStitchID](https://github.com/adobe/xdm/blob/master/docs/reference/adobe/experience/adcloud/stitch.schema.md)`. --> [!DNL Analytics] will use the value as an `SDID`.
+Insert the following property within your [!DNL Web SDK] `sendEvent` command to send the [!DNL StitchID] to [!DNL Experience Edge] as [!DNL Experience Data Model] (XDM) data for [!DNL Analytics].<!-- The library sends the StitchID to [!DNL Experience Edge] as `[_adcloud.advertisingStitchID](https://github.com/adobe/xdm/blob/master/docs/reference/adobe/experience/adcloud/stitch.schema.md)`. --> [!DNL Analytics] uses the value as an `SDID`.
 
 **Property to add:**
 

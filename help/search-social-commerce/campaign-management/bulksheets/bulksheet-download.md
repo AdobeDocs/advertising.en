@@ -51,7 +51,7 @@ When the task begins, the window displays a notification but remains open so you
 
 ## Bulksheet rows by ad network {#bulksheet-rows-by-ad-network}
 
-| Bulksheet Row | [!DNL Baidu] | [!DNL Google Ads] | [!DNL Microsoft® Advertising] | [!DNL Naver] | [!DNL Pinterest] | [!DNL Yahoo! Display Network] | [!DNL Yahoo! Japan Ads] | [!DNL Yahoo Native] | Yandex | Notes |
+| Bulksheet Row | [!DNL Baidu] | [!DNL Google Ads] | [!DNL Microsoft Advertising] | [!DNL Naver] | [!DNL Pinterest] | [!DNL Yahoo! Display Network] | [!DNL Yahoo! Japan Ads] | [!DNL Yahoo Native] | Yandex | Notes |
 |----|----|----|----|-------|----|----|----|----|----|----|
 | [!UICONTROL Campaign] | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | &mdash; |
 | [!UICONTROL Adgroup] | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | &mdash; |

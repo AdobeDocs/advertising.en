@@ -32,7 +32,7 @@ means (in plain English)
 
 >[!NOTE]
 >
->In placement settings, you can use saved audiences either as audiences to explicitly target or as separate audiences to exclude from targeting. Make sure your segment logic reflects the purpose for which you will be using the audience.
+>In placement settings, you can use saved audiences either as audiences to explicitly target or as separate audiences to exclude from targeting. Make sure your segment logic reflects the purpose for using the audience.
 
 >[!MORELIKETHIS]
 >

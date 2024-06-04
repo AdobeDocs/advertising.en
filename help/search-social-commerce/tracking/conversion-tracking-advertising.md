@@ -23,7 +23,7 @@ For more information about the differences between the tag types, see "[FAQs abo
 >[!NOTE]
 >
 >* This feature doesn't add image tags or JavaScript tags to the advertiser's webpages. The tags must be added according to the advertiser's normal procedure for updating webpages.
->* Make sure to consider how long it will take to implement the tags. Depending on the company's policies, implementation may take weeks or even months.
+>* Make sure to consider how long it takes to implement the tags. Depending on the company's policies, implementation may take weeks or even months.
 
 ## Features of the Adobe Advertising conversion-tracking tags
 

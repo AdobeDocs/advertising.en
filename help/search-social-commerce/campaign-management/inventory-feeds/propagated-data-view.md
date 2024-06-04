@@ -6,7 +6,7 @@ feature: Search Inventory Feeds
 ---
 # View data generated from feeds
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
 When you propagate feed data without simultaneously posting it to the ad network, you can preview the data in one of the following ways. You later can optionally [post data](propagated-data-post.md) from either location to the relevant ad networks.
 

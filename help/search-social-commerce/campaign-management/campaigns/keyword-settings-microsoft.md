@@ -29,9 +29,9 @@ You can enter or paste up to 2000 keywords. Separate multiple keywords with comm
 
 ## Placeholders
 
-**[!UICONTROL Param2]:** The string to use as the substitution value if the keyword's base URL or the ad's title, description, or base URL contains [the `{Param2}` dynamic substitution string](https://help.bingads.microsoft.com/#apex/3/en/53079/0). The maximum length is 70 characters, but be aware of the maximum length of the ad element in which you use it (for example, Title 1 and Title 2 combined may be a maximum of 76 characters).
+**[!UICONTROL Param2]:** The string to use as the substitution value if the keyword's base URL or the ad's title, description, or base URL contains [the `{Param2}` dynamic substitution string](https://help.bingads.microsoft.com/#apex/3/en/53079/0). The maximum length is 70 characters, but be aware of the maximum length of the ad elements in which you use it (for example, Title 1 and Title 2 combined may be a maximum of 76 characters).
 
-**[!UICONTROL Param3]:** The string to use as the substitution value if the keyword's base URL or the ad's title, description, or base URL contains [the `{Param3}` dynamic substitution string](https://help.bingads.microsoft.com/#apex/3/en/53079/0). The maximum length is 70 characters, but be aware of the maximum length of the ad element in which you use it (for example, Title 1 and Title 2 combined may be a maximum of 76 characters).
+**[!UICONTROL Param3]:** The string to use as the substitution value if the keyword's base URL or the ad's title, description, or base URL contains [the `{Param3}` dynamic substitution string](https://help.bingads.microsoft.com/#apex/3/en/53079/0). The maximum length is 70 characters, but be aware of the maximum length of the ad elements in which you use it (for example, Title 1 and Title 2 combined may be a maximum of 76 characters).
 
 ## URL Options
 

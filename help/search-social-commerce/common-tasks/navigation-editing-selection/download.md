@@ -8,7 +8,7 @@ feature: Search Common Tasks
 
 You can download data from the [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views except for the [!UICONTROL Keywords] - [!UICONTROL Keyword Negatives], [!UICONTROL Placements] - [!UICONTROL Placement Negatives], [!UICONTROL Audiences], and [!UICONTROL Extensions] views. You can download either:
 
-* A report in [!DNL XLSM] (macro-enabled [!DNL Microsoft® Excel] spreadsheet) format. If you select specific rows in the view, then the report includes one row for each selected row. If you don't select any rows, then one row is created for each row in the view.
+* A report in [!DNL XLSM] (macro-enabled [!DNL Microsoft Excel] spreadsheet) format. If you select specific rows in the view, then the report includes one row for each selected row. If you don't select any rows, then one row is created for each row in the view.
 
 * A bulksheet file in TXT format that includes all relevant child entities. If you select rows for entities on multiple ad networks, then one file is created for each relevant ad network. If you don't select any rows, then one file is created for each ad network represented in the view. Bulksheet files generated for different ad networks include different data columns.
 

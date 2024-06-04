@@ -28,7 +28,7 @@ Assign at least two callouts per campaign or ad group for your ads to be eligibl
      
       * (Optional) To filter a campaign list or ad group list by a text string included in the name, click ![Filter](/help/search-social-commerce/assets/filter.png "Filter"), either enter or paste the text string into the input field, and then press the **Enter** key.
      
-      * To select an entity, click the circle next to it (![Select](/help/search-social-commerce/assets/include.png "Select")).
+      * To select an entity, click the adjacent circle (![Select](/help/search-social-commerce/assets/include.png "Select")).
 
    1. Click **[!UICONTROL Post]**.
 

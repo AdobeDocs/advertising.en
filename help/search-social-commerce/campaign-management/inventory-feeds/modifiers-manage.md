@@ -6,7 +6,7 @@ feature: Search Inventory Feeds
 ---
 # Managing modifiers
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
 Modifiers are adjectives or adverbs that can be added to or removed from a sentence without changing the basic sentence structure. You can create groups of modifiers to use as variables in various data fields in feed data templates. By including modifiers in account structure (campaign and ad group) fields, keywords, base URLs, and ads, you create one value for each associated modifier value. For example, if you use a modifier group variable in an ad headline, and the modifier group includes three modifiers ("cheap," "discount," and "affordable"), then three separate ads are created for each data row in the data feed &mdash; one for each modifier. Similarly, if you include a modifier group with multiple values in the base URL for an ad group, then one set of keywords is created for each of the resulting base URLs.
 

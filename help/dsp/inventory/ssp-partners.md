@@ -24,8 +24,8 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL DailyMotion]||[!DNL TubeMogul] or Adobe Advertising|No|US + EMEA|USD, EUR|x|x|x|x|x|||
 |[!DNL EMX Digital]|[!DNL Cadent]|Adobe Advertising|No|US/CA|USD|x|x|x|x|x|||
 |[!DNL FreeWheel] (formerly [!DNL StickyAds])|[!DNL Comcast]|[!DNL TubeMogul] or Adobe Advertising|Yes|Global|USD, EUR, AUD, GBP|x|x|x|||||
-|[!DNL Google Authorized Buyers] (formerly [!DNL Google AdX])|[!DNL Google]|Adobe NA - 44912714<br>Adobe EU - 94893418<br>Adobe APAC - 89185975|Yes|Global|USD, BRL|x|x|x|x|x||x|
-|[!DNL GumGum]||Adobe Advertising |No|US/CA|USD|x|x||x|x|||
+|[!DNL Google Authorized Buyers] (formerly [!DNL Google AdX])|[!DNL Google]|Adobe NA - 44912714<br>Adobe APAC and EU - 89185975|Yes|Global|USD, BRL|x|x|x|x|x||x|
+|[!DNL GumGum]||Adobe Advertising |No|Global |USD|x|x||x|x|||
 |[!DNL Index]|[!DNL Index]|[!DNL Adobe Display]<br>[!DNL Adobe Video]|No|Global|USD|x|x|x|x|x| | |
 |[!DNL Magnite (Streaming) CTV]|[!DNL Magnite] (formerly [!DNL Telaria] and [!DNL Tremor])|[!DNL TubeMogul] or Adobe Advertising|Yes|Global|AUD, USD|x|x|x|||||
 |[!DNL Magnite DV+]|[!DNL Magnite] (formerly [!DNL Telaria] and [!DNL Tremor])|[!DNL TubeMogul] or Adobe Advertising|Yes|Global|USD|x|x|x|x|x||x|
@@ -48,3 +48,4 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 >[!MORELIKETHIS]
 >
 >* [Overview of Inventory Features](inventory-overview.md)
+

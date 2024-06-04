@@ -101,10 +101,10 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
     * The first row is the call to the JavaScript library and is titled `last-event-tag-latest.min.js`.
     * The second row is the call sending the request to Adobe Advertising. It begins as follows: `_les_imsOrgId=[your_imsOrgId_here]&_les_url=[your_encoded_url]`
 
-       If you don't see the call to Adobe Advertising, then it might not be the first page view of your visit. For testing purposes, you can remove the cookie so that the next call will be the first page view for the corresponding visit:
+       If you don't see the call to Adobe Advertising, then it might not be the first page view of your visit. For testing purposes, you can remove the cookie so that the next call is the first page view for the corresponding visit:
 
     1. On the Application tab, find the `adcloud` cookie, and verify that the cookie contains `_les_v` (last visit) with a value of `y` and a UTC epoch timestamp that expires in 30 minutes.
-        1. Delete the `ad cloud` cookie and refresh the page.
+        1. Delete the `adcloud` cookie and refresh the page.
 
 1. (Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code) Filter on `/b/ss` to see the Analytics hit.
 
@@ -114,7 +114,7 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
 
     ![Filtering on `/interact`](/help/integrations/assets/a4adc-code-validation-filter-interact.png)
 
-1. Compare the ID values between the two hits. All of the values will be in query string parameters except for the report suite ID in the Analytics hit, which is the URL path immediately after `/b/ss/`.
+1. Compare the ID values between the two hits. All of the values should be in query string parameters except for the report suite ID in the Analytics hit, which is the URL path immediately after `/b/ss/`.
 
     | ID | Analytics Parameter | Edge Network | Adobe Advertising Parameter |
     | --- | --- | --- | --- |
@@ -124,7 +124,7 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
     | Analytics Report Suite | The value after `/b/ss/` | | `_les_rsid` |
     | Experience Cloud Visitor ID | mid |  | `_les_mid` |
 
-    If the ID values match, then the JavaScript implementation is confirmed. Adobe Advertising will send the [!DNL Analytics] server any click-through or view-through tracking details if they exist.
+    If the ID values match, then the JavaScript implementation is confirmed. Adobe Advertising sends the [!DNL Analytics] server any click-through or view-through tracking details if they exist.
 
 #### How to Confirm the Code with [!DNL Adobe Experience Cloud Debugger]
 

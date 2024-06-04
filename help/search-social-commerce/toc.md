@@ -7,7 +7,7 @@ index: yes
 ---
 # Advertising Search, Social, & Commerce Guide {#search-social-commerce}
 
-<!-- When we  use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link won't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md)-->
+<!-- When we  use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link doesn't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md) -->
 
 + [What's new](home.md)
 + [About this guide](help-about.md)
@@ -157,8 +157,8 @@ index: yes
       + Product groups {#product-groups}
         + [About product groups](/help/search-social-commerce/campaign-management/campaigns/product-group-about.md)
         + [Manage product groups](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md)
-        + [Google Ads product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-google.md)
-        + [Microsoft Advertising product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md)
+        + [[!DNL Google Ads] product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-google.md)
+        + [[!DNL Microsoft Advertising] product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md)
         + [Shopping campaign product filters](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md)
       + Placements {#placements}
         + [About placements](/help/search-social-commerce/campaign-management/campaigns/placement-about.md)
@@ -368,9 +368,9 @@ index: yes
   + Recommendations and publisher insights {#recommendations}
     + [About publisher recommendations and insights support](/help/search-social-commerce/recommendations/recommendation-support.md)
     + [View your publisher recommendations and performance insights](/help/search-social-commerce/recommendations/recommendation-view.md)
-    + [Apply or dismiss a [!DNL Google Ads] recommendation](/help/search-social-commerce/recommendations/google-recommendation-apply-dismiss.md)
-    + [View the recommendations log for a [!DNL Google Ads] account](/help/search-social-commerce/recommendations/google-recommendation-view-log.md)
-    + [Best practices for using publisher recommendations and insights with portfolios](/help/search-social-commerce/recommendations/recommendation-best-practices.md)
+    + [Apply or dismiss a publisher recommendation](/help/search-social-commerce/recommendations/recommendation-apply-dismiss.md)
+    + [View the publisher recommendations log for an account](/help/search-social-commerce/recommendations/recommendation-view-log.md)
+    + [Best practices for using publisher recommendations with portfolios](/help/search-social-commerce/recommendations/recommendation-best-practices.md)
 + Tools {#tools}
   + [Change your password](/help/search-social-commerce/tools/password-change.md)
   + Tools to create and decode tracking tags{#tracking}

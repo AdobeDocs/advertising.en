@@ -20,7 +20,7 @@ Your Search, Social, & Commerce implementation team sets up click tracking by up
 
 The tracking parameters enable Adobe Advertising to track clicks at an individual keyword level (search campaigns) or ad variation level (search campaigns with content or site targeting, display campaigns, and social campaigns). Each time a user views a display/content ad or clicks one of your ads, the ad network sends the event to the Adobe Advertising pixel servers using a click-tracking tag associated with the keyword or ad. For clicks:
   
-* For Google Ads and Microsoft Advertising ads on browsers that support parallel tracking, the ad network sends the click to your website first and then to the Adobe Advertising pixel servers, which then place a cookie on the user’s computer, if one doesn't already exist.
+* For [!DNL Google Ads] and [!DNL Microsoft Advertising] ads on browsers that support parallel tracking, the ad network sends the click to your website first and then to the Adobe Advertising pixel servers, which then place a cookie on the user’s computer, if one doesn't already exist.
   
 * In all other cases, the ad network sends the click directly to the Adobe Advertising pixel servers. The pixel server places a cookie on the user’s computer (if one doesn't already exist) and then redirects the user to the relevant URL on your website. The overall experience for the end user is the same as it would be without a redirect.
 

@@ -6,9 +6,9 @@ exl-id: da2b85e9-5e78-4a1c-9268-8686f025e80c
 ---
 # The [!UICONTROL MSA Network Performance Report]
 
-*[!DNL Microsoft® Advertising] accounts only*
+*[!DNL Microsoft Advertising] accounts only*
 
-This report shows campaign-level performance (cost, clicks, impressions, and [!DNL Microsoft® Advertising]-tracked revenue) by ad distribution (search or audience) for specified [!DNL Microsoft® Advertising] accounts.
+This report shows campaign-level performance (cost, clicks, impressions, and [!DNL Microsoft Advertising]-tracked revenue) by ad distribution (search or audience) for specified [!DNL Microsoft Advertising] accounts.
 
 When you run a report with only metric columns and no dimensions, then the generated report contains two duplicate rows: one with aggregated data and the other with all metrics.
 

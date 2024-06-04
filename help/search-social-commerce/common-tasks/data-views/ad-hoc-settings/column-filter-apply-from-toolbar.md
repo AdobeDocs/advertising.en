@@ -28,7 +28,7 @@ You can apply as many filters as you want to a view. All filters are joined usin
           
           Depending on the data type, available operators may include *[!UICONTROL greater than]*, *[!UICONTROL less than]*, *[!UICONTROL equals]*, *[!UICONTROL contains]*, *[!UICONTROL doesn't contain]*, *[!UICONTROL starts with]*, *[!UICONTROL ends with]*, *[!UICONTROL no value]*, *[!UICONTROL has value]*, *[!UICONTROL before]*, *[!UICONTROL after]*, or *[!UICONTROL no date].* 
           
-          **Note:** Text values aren't case-sensitive. For example, if you filter by campaigns with "loan" in the name, then the results will include "Consumer Loans" and "loan applications."
+          **Note:** Text values aren't case-sensitive. For example, if you filter by campaigns with "loan" in the name, then the results include "Consumer Loans" and "loan applications."
 
         * ([!UICONTROL Ad Groups], [!UICONTROL Keywords], [!UICONTROL Product Groups], [!UICONTROL Placements], and [!UICONTROL Auto Targets] views only; optional) Change the setting to "[!UICONTROL Include rows with performance data only]." 
         

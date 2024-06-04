@@ -10,7 +10,7 @@ Most specialty reports consist only of data collected by the ad networks. The [!
 
 >[!NOTE]
 >
->For most specialty reports, data is pulled for the previous day at 23:00 (11:00 p.m.) each day. For example, at 23:00 on June 18, it will pull data for June 17. If you run the report on June 19 at 09:00 &mdash; before data for June 18 is pulled &mdash; then the report includes data through June 17 at 23:00. This data synch applies to all [!DNL Google Ads] specialty reports and to the [!UICONTROL Bing Ads Geo Report] and [!UICONTROL Bing Ads Search Query Report].
+>For most specialty reports, data is pulled for the previous day at 23:00 (11:00 p.m.) each day. For example, at 23:00 on June 18, it pulls data for June 17. If you run the report on June 19 at 09:00 &mdash; before data for June 18 is pulled &mdash; then the report includes data through June 17 at 23:00. This data synch applies to all [!DNL Google Ads] specialty reports and to the [!UICONTROL Bing Ads Geo Report] and [!UICONTROL Bing Ads Search Query Report].
 
 ## Types of Specialty Reports
 

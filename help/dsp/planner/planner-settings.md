@@ -6,8 +6,6 @@ exl-id: 65edd6f5-557c-44d1-a0ed-8cd26d8a2f6e
 ---
 # Settings for Connected TV Reach Plans
 
-*Beta feature*
-
 | Parameter | Description | Required? |
 | --- | --- | --- |
 | Name | The name to identify your plan. | Yes |

@@ -12,7 +12,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. Click the name of the campaign in which the placement will be included.
+1. Click the name of the campaign in which to include the placement.
 
 1. Above the data table, click **[!UICONTROL Create]**. In the [!UICONTROL Placement Types] section of the menu, click the placement type.
 
@@ -26,7 +26,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 
       Some fields have default values that you can override.
 
-      If the package to which the placement is assigned has package-level pacing, then your goals and pacing settings will reflect the package settings.
+      If the package to which the placement is assigned has package-level pacing, then your goals and pacing settings reflect the package settings.
 
    1. (Optional) In the [!UICONTROL Geo-Targeting] section, narrow down the locations that are included or excluded.
 
@@ -82,7 +82,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 
         1. (Optional) For each additional ad you want to create for the placement, click **[!UICONTROL Attach Another Ad]**, and then repeat Steps 1-3.
 
-        1. If you won't attach any existing ads, click **[!UICONTROL I'm done for now]**.
+        1. If you aren't going to attach any existing ads, click **[!UICONTROL I'm done for now]**.
 
        * To attach existing ads in the campaign:
 
@@ -129,7 +129,8 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 >[!MORELIKETHIS]
 >
 >* [About Placement Management](placement-about.md)
->* [Edit a Placement](placement-edit.md)
+>* [Edit Placements](placement-edit.md)
+>* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
 >* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
 >* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [View the Change Log for a Placement](placement-change-log.md)

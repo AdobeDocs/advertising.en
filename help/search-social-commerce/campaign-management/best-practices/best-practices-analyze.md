@@ -8,7 +8,7 @@ feature: Search Best Practices
 
 Advanced reports can help you make strategic decisions about the keywords and match types you include in your search campaigns, and the geographical and site targets for all types of campaigns. However, use caution in choosing keywords, geographical targets, and websites to exclude from your campaigns:
 
-* When a search term hasn't resulted in conversions, add it as a negative keyword only when you are sure it will never lead to conversions. If it results in a few conversions, then add it as an exact match keyword instead to retain potential traffic.
+* When a search term hasn't resulted in conversions, add it as a negative keyword only when you are sure that it will never lead to conversions. If it results in a few conversions, then add it as an exact match keyword instead to retain potential traffic.
 
 * Sudden market trends may influence user behavior in different geographical areas. If your campaigns target specific areas, then market changes can potentially make the excluded areas profitable, and you might miss revenue opportunities if you continue to exclude them.
 

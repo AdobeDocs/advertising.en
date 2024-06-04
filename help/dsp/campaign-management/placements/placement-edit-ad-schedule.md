@@ -54,25 +54,25 @@ You can change the scheduled flight dates and ad rotation for the ads attached t
 
 1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Ad schedule]**.
 
-    1. Do any of the following:
+1. Do any of the following:
 
-        * To add a flight, click **[!UICONTROL Add Flight]**, and then specify the start date and end date.
+   * To add a flight, click **[!UICONTROL Add Flight]**, and then specify the start date and end date.
 
-        * To add an existing flight to an ad, click **[!UICONTROL +]** in the ad row for the flight column.
+   * To add an existing flight to an ad, click **[!UICONTROL +]** in the ad row for the flight column.
 
-        * To remove an existing flight from an ad, click **[!UICONTROL x]** in the ad row for the flight column.
+   * To remove an existing flight from an ad, click **[!UICONTROL x]** in the ad row for the flight column.
 
-        * (When multiple ads have the same flight) To rotate the ads unevenly, click **[!UICONTROL Even Rotation]** in the flight information, and then enter the relative weight by which to rotate each ad, as a percentage.
+      * (When multiple ads have the same flight) To rotate the ads unevenly, click **[!UICONTROL Even Rotation]** in the flight information, and then enter the relative weight by which to rotate each ad, as a percentage.
 
-            The total weights must equal 100.
+        The total weights must equal 100.
 
-    1. In the upper right, click **[!UICONTROL Continue]**.
+1. In the upper right, click **[!UICONTROL Continue]**.
 
-    1. Review the flight details, and then click **[!UICONTROL Save & Finish]**.
+1. Review the flight details, and then click **[!UICONTROL Save & Finish]**.
 
 >[!MORELIKETHIS]
 >
 >* [About Placement Management](placement-about.md)
->* [Edit a Placement](placement-edit.md)
+>* [Edit Placements](placement-edit.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)

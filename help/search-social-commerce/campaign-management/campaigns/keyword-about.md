@@ -6,7 +6,7 @@ feature: Search Campaign Management
 ---
 # About keywords
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
 
 A keyword is a word or phrase associated with an ad. Keyword settings include the keyword match type, the maximum bids to be used when your ad is triggered by the keyword, and (some ad networks) optional tracking parameters. Keyword-level settings override the ad group or campaign settings.
 

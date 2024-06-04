@@ -12,7 +12,7 @@ You can edit the placement name, status, maximum bid, and budget without opening
 
 >[!TIP]
 >
-> To edit any placement setting, see "[Edit a Placement](/help/dsp/campaign-management/placements/placement-edit.md)."
+> To edit any placement setting, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
@@ -25,8 +25,9 @@ You can edit the placement name, status, maximum bid, and budget without opening
 >
 >* [About Placement Management](placement-about.md)
 >* [Create a Placement](placement-create.md)
->* [Edit a Placement](placement-edit.md)
+>* [Edit Placements](placement-edit.md)
 >* [Duplicate a Placement](placement-duplicate.md)
+>* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
 >* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
 >* [Pause or Activate a Placement](placement-pause-activate.md)
 >* [View the Change Log for a Placement](placement-change-log.md)

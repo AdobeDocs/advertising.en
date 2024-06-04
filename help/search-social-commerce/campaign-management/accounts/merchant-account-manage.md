@@ -120,7 +120,7 @@ When you disable a merchant account, Search, Social, & Commerce doesn't log in t
 
 **[!UICONTROL Confirm Password]:** The password for the account. 
 
-**[!UICONTROL EF Account Type]:** Whether Search, Social, & Commerce will access the account:
+**[!UICONTROL EF Account Type]:** Whether Search, Social, & Commerce  accesses the account:
 
 * *[!UICONTROL Enabled]* (the default): Search, Social, & Commerce can log in to the account to retrieve product data.
 

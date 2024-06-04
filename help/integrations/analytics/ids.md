@@ -44,7 +44,7 @@ The EF ID is a unique token that Adobe Advertising uses to associate activity wi
 
 >[!NOTE]
 >
->EF IDs are case-sensitive. If an [!DNL Analytics] implementation forces URL tracking to lowercase, then Adobe Advertising will not recognize the EF ID. This will impact Adobe Advertising bidding and reporting but has no impact on Adobe Advertising reporting within [!DNL Analytics].
+>EF IDs are case-sensitive. If an [!DNL Analytics] implementation forces URL tracking to lowercase, then Adobe Advertising doesn't recognize the EF ID. This impacts Adobe Advertising bidding and reporting but has no impact on Adobe Advertising reporting within [!DNL Analytics].
 
 #### [!DNL Google Ads] search ads
 
@@ -57,7 +57,7 @@ where:
 * `gclid` is the [!DNL Google Click ID] (GCLID).
 * `s` is the network type ("s" for search).
 
-#### Microsoft Advertising search ads
+#### [!DNL Microsoft Advertising] search ads
 
 ```
 {msclkid}:G:s
@@ -110,9 +110,9 @@ The parameter is added to your tracking URLs in one of the following ways:
 
   * Search, Social, & Commerce customers:
 
-    * For [!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts with the [!UICONTROL Auto Upload] setting enabled for the account or campaign, the pixel server automatically appends the s_kwcid parameter to your landing page suffixes when an end user clicks an ad with the Adobe Advertising pixel.
+    * For [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts with the [!UICONTROL Auto Upload] setting enabled for the account or campaign, the pixel server automatically appends the s_kwcid parameter to your landing page suffixes when an end user clicks an ad with the Adobe Advertising pixel.
     
-    * For other ad networks, or [!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts with the [!UICONTROL Auto Upload] setting disabled, manually add the parameter to your [account-level append parameters](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"}, which append it to your base URLs.
+    * For other ad networks, or [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts with the [!UICONTROL Auto Upload] setting disabled, manually add the parameter to your [account-level append parameters](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"}, which append it to your base URLs.
 
 * When the server-side insertion feature isn't implemented:
 
@@ -124,7 +124,7 @@ The parameter is added to your tracking URLs in one of the following ways:
 
   * Search, Social, & Commerce customers:
   
-    * For ([!DNL Google Ads] and [!DNL Microsoft® Advertising]) ads, manually add the AMO ID parameter to your landing page suffixes, ideally at the [account level](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} unless different tracking for individual account components is necessary.
+    * For ([!DNL Google Ads] and [!DNL Microsoft Advertising]) ads, manually add the AMO ID parameter to your landing page suffixes, ideally at the [account level](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} unless different tracking for individual account components is necessary.
 
     * For ads on all other ad networks, manually add the AMO ID parameter to your [account-level append parameters](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"}, which append it to your base URLs.
 

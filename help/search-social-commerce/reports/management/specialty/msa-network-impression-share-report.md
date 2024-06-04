@@ -6,9 +6,9 @@ exl-id: 274f7bac-5eea-4e21-bcdb-ebf6250c4959
 ---
 # The [!UICONTROL MSA Network Impression Share Report]
 
-*[!DNL Microsoft® Advertising] accounts only*
+*[!DNL Microsoft Advertising] accounts only*
 
-This report shows campaign-level impression share metrics and basic traffic metrics (cost, clicks, impressions) by ad distribution (search or audience) and network (such as [!DNL Microsoft] sites and select traffic or audience) for specified [!DNL Microsoft® Advertising] accounts.
+This report shows campaign-level impression share metrics and basic traffic metrics (cost, clicks, impressions) by ad distribution (search or audience) and network (such as [!DNL Microsoft] sites and select traffic or audience) for specified [!DNL Microsoft Advertising] accounts.
 
 When you run a report with only metric columns and no dimensions, then the generated report contains two duplicate rows: one with aggregated data and the other with all metrics.
 

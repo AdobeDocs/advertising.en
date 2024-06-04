@@ -28,9 +28,9 @@ You can override the package-level setting at the [placement level](/help/dsp/ca
 
 **[!UICONTROL Pacing & Capping]:** (Read-only for existing packages) At which level to pace and cap placements in the package:
 
-* **[!UICONTROL Package level pacing]:** This pacing strategy operates by pacing and capping all included placements as a *group*. This strategy ensures that all placements within a given package are optimized holistically, distributing spend based on performance and scale to selected key performance indicators (KPIs).
+* **[!UICONTROL Package level pacing]:** This pacing strategy operates by pacing and capping all included placements as a *group*. This strategy ensures that all placements within a given package are optimized holistically, distributing spend based on performance and scale to selected key performance indicators (KPIs).
 
-* **[!UICONTROL Placement level pacing]:**  This pacing strategy operates by pacing and capping all included placements *individually*. The best practice is to use this strategy only to execute guaranteed private marketplace deals.
+* **[!UICONTROL Placement level pacing]:**  This pacing strategy operates by pacing and capping all included placements *individually*. The best practice is to use this strategy only to execute guaranteed private marketplace deals.
 
 **[!UICONTROL Flight Dates]:** The package's start date and end date.
 
@@ -49,7 +49,11 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 
 **[!UICONTROL Optimization Goal]:** (Packages with package-level pacing only) The optimization goal for the package. See descriptions of each optimization goal at [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md).
 
-**[!UICONTROL Custom Goals]:** (Packages with custom optimization goals only) The [custom goal](/help/dsp/optimization/custom-goal-about.md) for the package. For more information about the best practices for custom goals and campaigns that use them, see  [Best Practices for Building a Custom Goal](/help/dsp/optimization/custom-goal-best-practices.md) and [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md).
+**[!UICONTROL Custom Goal for Model Learning]:** (Packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) A [custom goal](/help/dsp/optimization/custom-goal.md) that includes the revenue or conversion events used to calculate the CPA or ROAS metric. The custom goal can optionally include additional weighted upper-funnel events (such as page visits and shopping cart additions) to be used in addition to the CPA or ROAS metric for package optimization. For more information about the best practices for custom goals and campaigns that use them, see [Best Practices for Building a Custom Goal](/help/dsp/optimization/custom-goal.md#custom-goal-best-practices) and [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md).
+
+**[!UICONTROL Consider Only Click Conversions for Model Learning]:** (Optional; packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) Tells the optimization model to learn only from click-based conversions. Otherwise, the optimization model learns from both click- and impression-based conversions.
+
+**[!UICONTROL Conversion Metric]:** (Optional; packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) The final conversion event (such as signups) or revenue event/sale amount (such as purchases and purchase values) to use for computing the return on ad spend or the cost per acquisition. Select from a list of all primary events ("goal metrics") mapped to the selected custom goal. If the list is empty, then edit the custom goal to include at least one of the underlying events as a goal metric. 
 
 **[!UICONTROL Package Goal Type]:** (Packages with custom optimization goals only) The purpose of the package. This setting helps determine how to optimize the package:
 

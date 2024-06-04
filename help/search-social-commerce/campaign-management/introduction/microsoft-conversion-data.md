@@ -1,14 +1,14 @@
 ---
 title: '[!DNL Microsoft Advertising] conversion data'
-description: Learn about the types of [!DNL Microsoft Advertising]-tracked conversion data available in in Search, Social, & Commerce.
+description: Learn about the types of [!DNL Microsoft Advertising]-tracked conversion data available in Search, Social, & Commerce.
 feature: Search Campaign Management, Conversions
 exl-id: 0ebc70a0-1fb7-48db-b45d-7409e8bb6f64
 ---
 # [!DNL Microsoft Advertising] conversion data in Search, Social, & Commerce
 
-Search, Social, & Commerce automatically syncs all conversions tracked by your [Microsoft Advertising universal event tracking (UET) tags](https://about.ads.microsoft.com/solutions/tools/universal-event-tracking) for for website conversions, including view-through conversions, for reporting and optimization.
+Search, Social, & Commerce automatically syncs all conversions tracked by your [[!DNL Microsoft Advertising] universal event tracking (UET) tags](https://about.ads.microsoft.com/solutions/tools/universal-event-tracking) for website conversions, including view-through conversions, for reporting and optimization.
 
-All of the metrics are automatically available in your campaign management views and basic reports, and are also available to use in portfolio objectives for optimization of Microsoft Advertising campaigns.
+All metrics are automatically available in your campaign management views and basic reports, and are also available to use in portfolio objectives for optimization of [!DNL Microsoft Advertising] campaigns.
 
 ## Available conversion data
 

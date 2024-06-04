@@ -6,9 +6,9 @@ feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL AdWords and Bing Audience Target Report]
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts only*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
-The [!UICONTROL AdWords and Bing Audience Target Report] includes cost, click, impression, and (optionally) derived metric data by audience target ([!DNL Google Ads] customer data-based, in-market, and similar audiences and your [!DNL Microsoft® Advertising] remarketing, custom, customer match, similar, and in-market audiences ) for one or more ad groups or campaigns. By default, the data includes one row for each audience that received at least one impression or click for each applicable ad group for each time unit in the specified date range. The rows are in ascending order by ad group name and then by audience by default. The report includes conversion data tracked by [!DNL Adobe] for remarketing list targets only.
+The [!UICONTROL AdWords and Bing Audience Target Report] includes cost, click, impression, and (optionally) derived metric data by audience target ([!DNL Google Ads] customer data-based, in-market, and similar audiences and your [!DNL Microsoft Advertising] remarketing, custom, customer match, similar, and in-market audiences ) for one or more ad groups or campaigns. By default, the data includes one row for each audience that received at least one impression or click for each applicable ad group for each time unit in the specified date range. The rows are in ascending order by ad group name and then by audience by default. The report includes conversion data tracked by [!DNL Adobe] for remarketing list targets only.
 
 You can view data for up to the previous year.
 

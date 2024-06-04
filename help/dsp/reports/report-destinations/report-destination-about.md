@@ -27,7 +27,7 @@ You can create new destinations, and edit and delete existing destinations, from
 
 >[!NOTE]
 >
->Updating the credentials for your existing report destinations won't interrupt report delivery, as long as the credentials are valid.
+>Updating the credentials for your existing report destinations doesn't interrupt report delivery as long as the credentials are valid.
 
 ![Report Destinations](/help/dsp/assets/report-destinations.png)
 

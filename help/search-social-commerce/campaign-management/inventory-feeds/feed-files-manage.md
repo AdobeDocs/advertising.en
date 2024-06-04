@@ -6,7 +6,7 @@ feature: Search Inventory Feeds
 ---
 # Manage inventory data feed files
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
 If you submit your own feed data, then you must upload files containing your product data to dynamically create campaign structure, ads, and keywords, based on your product data. You can then associate them with ad network-specific ad templates and process the data through the templates, eventually posting the data to the relevant ad networks. You can associate multiple templates with a feed file, but each template can be associated with only one feed file.
 

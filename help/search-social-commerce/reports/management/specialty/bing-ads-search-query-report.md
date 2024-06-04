@@ -6,7 +6,7 @@ feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL Bing Ads Search Query Report]
 
-*[!DNL Microsoft® Advertising] accounts only*
+*[!DNL Microsoft Advertising] accounts only*
 
 The [!UICONTROL Bing Ads Search Query Report] includes cost, click, impression, and (optionally) derived metric data for user search query terms for one or more ad groups. By default, the data includes one row for each search term that resulted in impressions or clicks for each applicable ad group for each time unit in the specified date range. The rows are in ascending order by ad group name and then by search term by default. The report doesn't include the keyword to which the search term was matched, nor any conversion data tracked by [!DNL Adobe].
 

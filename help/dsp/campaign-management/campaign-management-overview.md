@@ -13,7 +13,7 @@ DSP campaigns have the following hierarchy:
     * Placement(s)
       * Ad(s)
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
-In Advertising DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
+In Advertising DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package includes placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
 
 ## [!UICONTROL Campaigns]
@@ -36,7 +36,7 @@ A [placement](/help/dsp/campaign-management/placements/placement-about.md) store
 
 [Ads](/help/dsp/campaign-management/ads/ad-about.md) include creative assets and tracking URLs. You can upload third-party ad serving tags individually or in bulk by using partner tag sheets or the bulk tag template. You can also manually create native display ads for DSP to serve.
 
-Once your ads are set up, you'll need to attach each ad to a placement. You can attach a single ad to one or more placements.
+Once your ads are set up, you must attach each ad to a placement to begin running the ad. You can attach a single ad to one or more placements.
 
 All active, approved ads in an active placement in an active campaign are eligible to run based on the placement targeting parameters.
 

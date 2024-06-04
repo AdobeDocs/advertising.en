@@ -12,9 +12,9 @@ In shopping campaigns, your product groups &mdash; not keywords &mdash; determin
 
 You configure product groups at the ad group level to determine which products in your merchant center accounts appear in the shopping ads for the ad group. Even if the ad group doesn't include ad entities, the ad network still displays ads for the products.
 
-When the same product is included in more than one campaign, the ad network first uses the campaign priority to determine which campaign (and associated bid) is eligible for the ad auction. When all of the campaigns have the same priority, the campaign with the highest bid is eligible.
+When the same product is included in more than one campaign, the ad network first uses the campaign priority to determine which campaign (and associated bid) is eligible for the ad auction. When all campaigns have the same priority, the campaign with the highest bid is eligible.
 
-For more information about [!DNL Google] shopping campaigns and ads, see "[Implement [!DNL Google Ads] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md)" and the [Google Ads documentation](https://support.google.com/google-ads/answer/3455481?visit_id=638205553638977410-2592024034&rd=1). For more information about Microsoft shopping campaigns, see "[Implement [!DNL Microsoft® Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)" and the [Microsoft Advertising documentation](https://help.bingads.microsoft.com/#apex/3/en/50903/1-500).
+For more information about [!DNL Google] shopping campaigns and ads, see "[Implement [!DNL Google Ads] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md)" and the [Google Ads documentation](https://support.google.com/google-ads/answer/3455481?visit_id=638205553638977410-2592024034&rd=1). For more information about [!DNL Microsoft] shopping campaigns, see "[Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)" and the [[!DNL Microsoft Advertising] documentation](https://help.bingads.microsoft.com/#apex/3/en/50903/1-500).
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ You can create and edit product groups, and delete product groups and their chil
  
   >[!CAUTION]
   >
-  >([!DNL Microsoft Advertising]) Use this option only when you don't include Search, Social, & Commerce tracking URLs in a custom column within the product feed. If you do both, the URLs will include two redirects and will cause broken links.
+  >([!DNL Microsoft Advertising]) Use this option only when you don't include Search, Social, & Commerce tracking URLs in a custom column within the product feed. If you do both, the URLs will include two redirects and cause broken links.
 
 * ([!DNL Microsoft Advertising] only) Add the tracking URL to the product data within the [!DNL Microsoft Merchant Center] account. To do so, include the tracking URL, together with the value in the `link` or `mobile_link` field, as appropriate, in a custom column called [`bingads_redirect`](https://help.ads.microsoft.com/#apex/3/en/51084/0) within the product feed. URLs generated using this method don't include any tracking parameters specified in the account or campaign settings within Search, Social, & Commerce.
 
@@ -54,4 +54,4 @@ You can view data about product groups in [the [!UICONTROL Product Group Report]
 >* [[!DNL Google Ads] product group settings](product-group-settings-google.md)
 >* [Implement [!DNL Google Ads] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md)
 >* [[!DNL Microsoft Advertising] product group settings](product-group-settings-microsoft.md)
->* [Implement [!DNL Microsoft® Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)
+>* [Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)

@@ -108,18 +108,18 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 **[!UICONTROL Conversion Reporting Based On]:**  How to report conversion data:
 
-* *[!UICONTROL Conversion Timestamp]:* (The default) Conversions will be associated with the conversion date.
+* *[!UICONTROL Conversion Timestamp]:* (The default) Conversions are associated with the conversion date.
 
-* *[!UICONTROL Event Timestamp]:* Conversions will be reported based on the date of the impression or click that caused the conversion, as determined by the specified [!UICONTROL Attribution Rule Settings].
+* *[!UICONTROL Event Timestamp]:* Conversions are reported based on the date of the impression or click that caused the conversion, as determined by the specified [!UICONTROL Attribution Rule Settings].
 
 ## [!UICONTROL Add Report Destinations] Section
 
 **[!UICONTROL Destination Type]:** Choose one of the following destination types:
 
-* *[!UICONTROL S3]:* To send the completed report to one or more [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL sFTP]:* To send the completed report to one or more SFTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL FTP]:* To send the completed report to one or more FTP locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL FTP SSL] (Currently in Beta):* To send the completed report to one or more FTP SSL locations, which you'll specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL S3]:* To send the completed report to one or more [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) locations, which you must specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL sFTP]:* To send the completed report to one or more SFTP locations, which you must specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL FTP]:* To send the completed report to one or more FTP locations, which you must specify in the **[!UICONTROL Destination Name]** field.
+* *[!UICONTROL FTP SSL] (Currently in Beta):* To send the completed report to one or more FTP SSL locations, which you must specify in the **[!UICONTROL Destination Name]** field.
 * *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors.
 
 >[!NOTE]
@@ -128,7 +128,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 **[!UICONTROL Email]:** (Email destination type only) For each address, enter the address and click **+**.
 
-**[!UICONTROL Destination Name]:** (S3, FTP, sFTP, and FTP SSL destination types only) The names of the report destinations to which the custom report will be sent.
+**[!UICONTROL Destination Name]:** (S3, FTP, sFTP, and FTP SSL destination types only) The names of the report destinations to which the custom report is sent.
 
 * To specify an existing destination, select a destination name from the list. You can select multiple destination names separately.
 

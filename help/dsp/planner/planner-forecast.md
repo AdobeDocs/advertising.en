@@ -6,15 +6,13 @@ exl-id: ec3de39c-c2b3-4004-8d86-eb6479608121
 ---
 # Regenerate the Forecast for a Connected TV Reach Plan
 
-*Beta feature*
-
 You can regenerate the forecast for a connected TV reach plan based on the latest observed data.
 
 1. In the main menu, click **[!UICONTROL Planner]**.
 
 1. Hold the cursor over the plan row and click **[!UICONTROL Forecast]**.
 
-1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft® Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
+1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
 
 >[!MORELIKETHIS]
 >

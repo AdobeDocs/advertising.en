@@ -10,11 +10,11 @@ exl-id: 8a443543-ebb1-4273-a007-afef07d32d8c
 
 ## Latency of Setting Changes
 
-* When you change a placement or package setting, when will the change take effect?
+* When you change a placement or package setting, when does the change take effect?
 
     Settings changes usually take effect immediately but may take up to 12 hours.
 
-    If it's the final day of delivery, make changes early in the day so DSP has plenty of time to recalibrate the package based on the changes. For example, if you change from even pacing to frontload pacing, DSP needs to reassess how it will distribute spend throughout the remainder of the flight. Don't make that kind of change if you only have one hour left to deliver on the final day of the flight.
+    If it's the final day of delivery, make changes early in the day so DSP has plenty of time to recalibrate the package based on the changes. For example, if you change from even pacing to frontload pacing, DSP needs to reassess how to distribute spend throughout the remainder of the flight. Don't make that kind of change if you only have one hour left to deliver on the final day of the flight.
 
 ## Budget Updates Mid-Flight
 
@@ -28,7 +28,7 @@ exl-id: 8a443543-ebb1-4273-a007-afef07d32d8c
 
     A placement's entire spend history is attached to the placement and moves with it from package to package.
 
-    When you remove a placement from a package, the package no longer has any history of the placement's spend. The package budget will become (package budget - removed placement budget) / time interval remaining in flight. The package budget is then allocated to the placements remaining in the package.
+    When you remove a placement from a package, the package no longer has any history of the placement's spend. The package budget becomes (package budget - removed placement budget) / time interval remaining in flight. The package budget is then allocated to the placements remaining in the package.
 
     Similarly, if you add the same placement to a different package, DSP considers the placement's spend history when it allocates budget for all placements in the new package.
 

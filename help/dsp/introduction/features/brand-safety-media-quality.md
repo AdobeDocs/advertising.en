@@ -72,7 +72,7 @@ DSP maintains a globally blocked sites list of sites deemed unsafe to run ads on
 
 As part of our Brand Safety initiative to root out activities that defraud advertisers, all sites are screened using the measures in the chart blocked sites list. All sites that don't pass the brand safety checks are added to the globally blocked sites list. Because DSP manages this list dynamically, sites may move on or off the list at any time, based on the latest brand safety analysis.
 
-When you include a site on the globally blocked sites list as a placement target, the site is flagged with a red exclamation point (!). This indicates that ads will not run on the flagged site.
+When you include a site on the globally blocked sites list as a placement target, the site is flagged with a red exclamation point (!). This indicates that ads don't run on the flagged site.
 
 >[!NOTE]
 >

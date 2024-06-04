@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Microsoft® Advertising] responsive search ad settings'
-description: Reference the settings for [!DNL Microsoft® Advertising] responsive search ads.
+title: '[!DNL Microsoft Advertising] responsive search ad settings'
+description: Reference the settings for [!DNL Microsoft Advertising] responsive search ads.
 exl-id: 470008e1-7c7d-49a6-b542-fe384c473c97
 feature: Search Campaign Management
 ---
-# [!DNL Microsoft® Advertising] responsive search ad settings
+# [!DNL Microsoft Advertising] responsive search ad settings
 
 The responsive search ad format is available for ads on the search network. The ad network dynamically assembles responsive search ads using the most effective combinations of ad elements.
 
@@ -45,7 +45,7 @@ The responsive search ad format is available for ads on the search network. The 
 >
 >* [About ads](ad-about.md)
 >* [Manage ads](ad-manage.md)
->* [[!DNL Microsoft® Advertising] expanded dynamic search ad settings](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft® Advertising] multimedia ad settings](ad-settings-microsoft-multimedia.md)
->* [[!DNL Microsoft® Advertising] product ad settings](ad-settings-microsoft-product.md)
->* [[!DNL Microsoft® Advertising] responsive (audience) ad settings](ad-settings-microsoft-responsive.md)
+>* [[!DNL Microsoft Advertising] expanded dynamic search ad settings](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising] multimedia ad settings](ad-settings-microsoft-multimedia.md)
+>* [[!DNL Microsoft Advertising] product ad settings](ad-settings-microsoft-product.md)
+>* [[!DNL Microsoft Advertising] responsive (audience) ad settings](ad-settings-microsoft-responsive.md)

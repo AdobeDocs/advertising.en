@@ -122,7 +122,7 @@ To estimate taxes to withhold:
 
 * **[!UICONTROL Target Age]:** The age range to target. Use the left and right sliders to reduce the range as needed.
 
-* **[!UICONTROL Target Country]:** (Optional) A country to target. [!DNL Nielsen] will measure impressions served in supported countries only.
+* **[!UICONTROL Target Country]:** (Optional) A country to target. [!DNL Nielsen] measures impressions served in supported countries only.
 
 **[!UICONTROL comScore vCE]:** (Optional) Enables [!DNL Comscore validated Campaign Essentials (vCE)] measurement and reporting of audience verification, using the specified settings. Additional fees apply.
 
@@ -130,7 +130,7 @@ To estimate taxes to withhold:
 
 * **[!UICONTROL Target Age]:** The age range to target. Use the left and right sliders to reduce the range as needed.
 
-* **[!UICONTROL Target Country]:** (Optional) A country to target. [!DNL Comscore] will measure impressions served in supported countries only.
+* **[!UICONTROL Target Country]:** (Optional) A country to target. [!DNL Comscore] measures impressions served in supported countries only.
 
 ### [!UICONTROL 1st Party Metrics]
 

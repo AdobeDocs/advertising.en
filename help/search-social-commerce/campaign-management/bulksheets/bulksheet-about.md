@@ -18,7 +18,7 @@ All bulksheets, landing page validation error files, and other error files are a
 
 ## Functionality by Ad Network
 
-* **Download, upload, and post:**  [!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft® Advertising], and [!DNL Yandex] accounts
+* **Download, upload, and post:**  [!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Yandex] accounts
 
 * **Download and upload only:** [!DNL Naver] accounts
 
@@ -42,7 +42,7 @@ The standard steps in using bulksheets for synchronized accounts are as follows:
 
 1. When you need to add data or make corrections:
 
-   1. [Export the file](bulksheet-export.md) to your desktop and edit it in [!DNL Microsoft® Excel].
+   1. [Export the file](bulksheet-export.md) to your desktop and edit it in [!DNL Microsoft Excel].
    
    1. [Manually upload the edited file](bulksheet-upload.md) to Search, Social, & Commerce, or [upload the file to a specified FTP account](bulksheet-ftp-account.md) for automatic posting.
 

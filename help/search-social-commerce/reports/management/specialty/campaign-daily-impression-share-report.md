@@ -6,7 +6,7 @@ feature: Search Reports, Search Specialty Reports
 ---
 # [!UICONTROL Campaign Daily Impression Share Report]
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts only*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
 The [!UICONTROL Campaign Daily Impression Share Report] includes daily impression share metrics by device type for one or more campaigns. By default, the data includes one row for each campaign that received at least one impression or click for each day in the specified date range, and the rows are in ascending order by date. The report can optionally include data tracked by [!DNL Adobe] and derived metrics.
 

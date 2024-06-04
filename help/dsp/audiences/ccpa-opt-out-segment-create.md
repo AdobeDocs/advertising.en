@@ -8,7 +8,7 @@ exl-id: 0623c52e-02ea-4e06-bc54-8abb7a87765a
 
 You can create a segment to track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). Users remain in CCPA opt-out-of-sale segments indefinitely.
 
-Once the segment pixel tag is implemented, Adobe Advertising will begin to collect a pool of IDs on the advertiser’s behalf.
+Once the segment pixel tag is implemented, Adobe Advertising begins to collect a pool of IDs on the advertiser’s behalf.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Once the segment pixel tag is implemented, Adobe Advertising will begin to colle
 
         The advertiser's IT department or other group may need to schedule, or be informed about, the tag deployment.
 
-        Once the pixel is implemented, Adobe Advertising will begin to collect a pool of IDs on the advertiser’s behalf.
+        Once the pixel is implemented, Adobe Advertising begins to collect a pool of IDs on the advertiser’s behalf.
 
         Although implementation choice and logic is up to the advertiser, here’s an example of how an advertiser could fire the pixel:
 

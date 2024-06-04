@@ -40,9 +40,9 @@ People-based frequency management allows you to specify frequency caps at the pe
 
    Once you save a campaign, you can't change its [!UICONTROL Cross Device Level] setting.
 
-* **Packages:**  You can optionally set additional frequency caps at the package level. DSP will respect the strictest frequency cap in the campaign hierarchy.
+* **Packages:**  You can optionally set additional frequency caps at the package level. DSP respects the strictest frequency cap in the campaign hierarchy.
 
-* **Placements:** You can optionally set additional frequency caps at the placement level. DSP will respect the strictest frequency cap in the campaign hierarchy.
+* **Placements:** You can optionally set additional frequency caps at the placement level. DSP respects the strictest frequency cap in the campaign hierarchy.
 
 ## People-Based Targeting
 
@@ -92,17 +92,17 @@ When a device graph is enabled for attribution measurement, the [!UICONTROL Conv
 
 #### How to Interpret the Conversion Report
 
-If you sort the percentage of total conversions that are cross-device ([!UICONTROL (xd)]/[!UICONTROL (tl)]) from high to low, you'll understand what is driving above-average cross-device conversions. You can use this to inform your creative or targeting strategy to match messaging and channel investment to user behavior.
+Sort the percentage of total conversions that are cross-device ([!UICONTROL (xd)]/[!UICONTROL (tl)]) from high to low to understand what is driving above-average cross-device conversions. You can use this to inform your creative or targeting strategy to match messaging and channel investment to user behavior.
 
-* Packages – See which packages drive the most total conversions, and which ones have a high percentage of cross-device conversions. This can help you understand where to focus spend.
+* Packages &mdash; See which packages drive the most total conversions, and which ones have a high percentage of cross-device conversions. This can help you understand where to focus spend.
 
-* Placements – Compare placement performance and attribution (for example, a mobile web ad may drive conversions on desktop). Without a device graph for attribution, you may miss a mobile web placement’s impact on desktop conversions, or it may be buried if the majority of your users convert on desktop and not mobile web.
+* Placements &mdash; Compare placement performance and attribution (for example, a mobile web ad may drive conversions on desktop). Without a device graph for attribution, you may miss a mobile web placement’s impact on desktop conversions, or it may be buried if the majority of your users convert on desktop and not mobile web.
 
-* Ads – Discover which ads drive higher conversions, and quantify their value and impact across both web browsers and mobile app environments.
+* Ads &mdash; Discover which ads drive higher conversions, and quantify their value and impact across both web browsers and mobile app environments.
 
-* Sites – Optimize across sites rather than manually excluding sites completely. If a website drives cross-device conversions, then you can see on which devices this behavior occurs.
+* Sites &mdash; Optimize across sites rather than manually excluding sites completely. If a website drives cross-device conversions, then you can see on which devices this behavior occurs.
 
-* Deals – Improve manual optimization by verifying which inventory deals deliver cross-device conversions, and then deciding if you should expand your targeting to include more devices and channels in those deals.
+* Deals &mdash; Improve manual optimization by verifying which inventory deals deliver cross-device conversions, and then deciding if you should expand your targeting to include more devices and channels in those deals.
 
 >[!MORELIKETHIS]
 >

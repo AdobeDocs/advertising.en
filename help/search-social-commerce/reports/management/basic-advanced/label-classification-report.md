@@ -12,8 +12,8 @@ You can view data for the previous 36 months.
 
 >[!NOTE]
 >
->* Reporting by ad-level label classifications isn't available for [!DNL Microsoft® Advertising] dynamic search ad (DSA) campaigns.
->* More than one label classification may apply to the same entity, so the total for each metric may be higher than the actual total for the entity. For example, say a keyword "suede shoes" has two label values, "suede" and "footwear," and the keyword received 100 clicks. The Clicks column would show "100" for each of those label values, so the total for both rows will be "200."
+>* Reporting by ad-level label classifications isn't available for [!DNL Microsoft Advertising] dynamic search ad (DSA) campaigns.
+>* More than one label classification may apply to the same entity, so the total for each metric may be higher than the actual total for the entity. For example, say a keyword "suede shoes" has two label values, "suede" and "footwear," and the keyword received 100 clicks. The Clicks column would show "100" for each of those label values, so the total for both rows would be "200."
 * Any changes you make to label classifications and the child label values for an entity are visible in about one hour.
 
 ## Default columns

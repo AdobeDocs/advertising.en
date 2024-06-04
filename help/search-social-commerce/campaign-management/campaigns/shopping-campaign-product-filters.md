@@ -22,11 +22,11 @@ See also the [!DNL Google Ads] help "[Manage a shopping campaign with product gr
 >[!MORELIKETHIS]
 >
 >* [Implement [!DNL Google Ads] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md)
->* [Implement [!DNL Microsoft Advertising Ads] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)
+>* [Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)
 >* [About shopping product groups](product-group-about.md)
 >* [Manage shopping product groups](product-group-manage.md)
 >* [[!DNL Google Ads] product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-google.md)
->* [[!DNL Microsoft® Advertising] product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md)
+>* [[!DNL Microsoft Advertising] product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md)
 >* [[!DNL Google Ads] shopping ad template settings for inventory feeds](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md)
 >* [[!DNL Microsoft Advertising] shopping ad template settings for inventory feeds](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md)
 >* [Required data for [!DNL Google Ads] bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md)

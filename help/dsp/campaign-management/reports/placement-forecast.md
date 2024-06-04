@@ -12,7 +12,8 @@ The placement forecast tool shows the forecasted number of impressions, spend, a
 
 >[!NOTE]
 >
->* No forecast is generated for placements with only programmatic guaranteed (PG) targeting because availability and spending are deterministic.  
+>* Postal codes aren't considered in placement forecast calculations.
+>* No forecast is generated for placements with only programmatic guaranteed (PG) targeting because availability and spending are deterministic. 
 
 ## Information in the Forecast
 
@@ -56,7 +57,7 @@ The forecast includes the following information:
 
   * The placement uses a new ad type for the campaign.
 
-    A placement is usually a collection of multiple ad templates as defined by supply-side platforms. So, even if the placement has existed for a long time, the underlying ad template can be new, and the forecasting tool will be unable to forecast.
+    A placement is usually a collection of multiple ad templates as defined by supply-side platforms. So, even if the placement has existed for a long time, if the underlying ad template is new, then the forecasting tool cannot create a forecast.
 
 ## Open the Placement Forecast Report
 

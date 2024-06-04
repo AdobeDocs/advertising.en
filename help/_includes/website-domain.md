@@ -1,6 +1,6 @@
 # Website Domain field in GGL and MS search campaign settings
 
-**[!UICONTROL Website Domain]:** (Search network only; applicable to expanded dynamic search ads only) The root domain (such as example.com) or subdomain (such as shoes.example.com) of the website whose content the ad network will use to target your dynamic search ads.
+**[!UICONTROL Website Domain]:** (Search network only; applicable to expanded dynamic search ads only) The root domain (such as example.com) or subdomain (such as shoes.example.com) of the website whose content the ad network should use to target your dynamic search ads.
 
 **Notes:**
 

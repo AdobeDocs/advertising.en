@@ -8,7 +8,7 @@ exl-id: 28b5e00b-a695-46f1-abbf-7bbd78f05411
 
 You can track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), by [creating and implementing a CCPA opt-out-of-sale segment](ccpa-opt-out-segment-create.md). Users remain in CCPA opt-out-of-sale segments indefinitely.
 
-Once the segment pixel tag is implemented, Adobe Advertising will begin to collect a pool of IDs on the advertiser’s behalf.
+Once the segment pixel tag is implemented, Adobe Advertising begins to collect a pool of IDs on the advertiser’s behalf.
 
 ## Consumer Opt-Out-of-Sale Reports
 

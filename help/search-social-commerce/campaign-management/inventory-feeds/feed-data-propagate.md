@@ -6,9 +6,9 @@ feature: Search Inventory Feeds
 ---
 # Propagate inventory feed data through templates
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
-After you create an ad network-specific feed template and associate a feed file or a [!DNL Google] or [!DNL Microsoft®] merchant center account with it, you can dynamically create ads by propagating the feed data through the template according to the [feed data settings](feed-settings-manage.md). During propagation, the column names in the template are replaced with data values in the feed, and the generated campaigns and their components have the default settings unless the template specifies otherwise. Depending on the template options, Search, Social, & Commerce either creates new account structure (campaigns, ad groups, keywords) for the ads or maps the ads to the existing account structure.
+After you create an ad network-specific feed template and associate a feed file or a [!DNL Google] or [!DNL Microsoft] merchant center account with it, you can dynamically create ads by propagating the feed data through the template according to the [feed data settings](feed-settings-manage.md). During propagation, the column names in the template are replaced with data values in the feed, and the generated campaigns and their components have the default settings unless the template specifies otherwise. Depending on the template options, Search, Social, & Commerce either creates new account structure (campaigns, ad groups, keywords) for the ads or maps the ads to the existing account structure.
 
 When new feed data contains new data values for an item, or the template has changed, existing ads are deleted and new ones are created. If the only change is the designation of [!DNL Google Ads] Param 1 and Param 2, then only those values are updated. Duplicate ads (the same ad copy and landing page) are never created.
 

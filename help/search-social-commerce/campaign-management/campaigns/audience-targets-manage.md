@@ -1,14 +1,14 @@
 ---
 title: Manage audience targets for campaigns and ad groups
-description: Learn how to configure and manage audience targets for your [!DNL Google Ads] and [!DNL Microsoft® Advertising] campaigns and ad groups.
+description: Learn how to configure and manage audience targets for your [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns and ad groups.
 exl-id: 9a496d15-082d-44e1-a0a3-71356e24b932
 feature: Search Campaign Management
 ---
-# Manage audience targets for your [!DNL Google Ads] and [!DNL Microsoft® Advertising] campaigns and ad groups
+# Manage audience targets for your [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns and ad groups
 
-*[!DNL Google Ads] and [!DNL Microsoft® Advertising] only*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] only*
 
-[!DNL Google Ads] campaigns and ad groups, and [!DNL Microsoft® Advertising] ad groups, can target specific audiences from the same ad network. The ad network determines how large an audience must be to be targetable.
+[!DNL Google Ads] campaigns and ad groups, and [!DNL Microsoft Advertising] ad groups, can target specific audiences from the same ad network. The ad network determines how large an audience must be to be targetable.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ You can configure audience targets, edit the bid modifiers for audience targets,
       
       1. (Optional) To filter a campaign list or ad group list by a text string included in the name, click ![Filter](/help/search-social-commerce/assets/filter.png "Filter") , either enter or paste the text string into the input field, and then press the **[!UICONTROL Enter]** key.
       
-      1. Specify each campaign and ad group target for the specified ad network by clicking the empty circle next to it so that a blue checkmark (![Select](/help/search-social-commerce/assets/include.png "Select")) appears.
+      1. Specify each campaign and ad group target for the specified ad network by clicking the adjacent empty circle so that a blue checkmark (![Select](/help/search-social-commerce/assets/include.png "Select")) appears.
       
       You can't configure a target for both a parent campaign and a child ad group (which automatically uses the target).
 

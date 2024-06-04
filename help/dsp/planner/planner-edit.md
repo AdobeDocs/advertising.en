@@ -6,8 +6,6 @@ exl-id: 675a09d1-9548-416d-bfa6-a6242149b255
 ---
 # Edit a Connected TV Reach Plan
 
-*Beta feature*
-
 Editing the plan settings generates a new forecast.
 
 1. In the main menu, click **[!UICONTROL Planner]**.
@@ -20,7 +18,7 @@ Editing the plan settings generates a new forecast.
 
     Once you save the plan, the forecasted output is shown.
 
-1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft® Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
+1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
 
 >[!MORELIKETHIS]
 >

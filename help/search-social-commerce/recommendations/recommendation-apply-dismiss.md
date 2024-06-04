@@ -1,12 +1,16 @@
 ---
-title: Apply or dismiss a [!DNL Google Ads] recommendation
-description: Learn how to view a [!DNL Google Ads] recommendation and how to apply or dismiss the recommendation.
+title: Apply or dismiss a publisher recommendation
+description: Learn how to view, apply, or dismiss a publisher recommendation.
 exl-id: 794df5d5-fc7c-45f7-8a26-460b0a8f56b7
 feature: Search Recommendations
 ---
-# Apply or dismiss a [!DNL Google Ads] recommendation
+# Apply or dismiss a publisher recommendation
+ 
+*[!DNL Google Ads] and [!DNL Microsoft&reg; Advertising] accounts*
 
-View the recommended actions, and an explanation of why the actions would be beneficial, for a [!DNL Google Ads] recommendation. You can then apply the recommendation when it aligns with your business goals, and dismiss a recommendation when it doesn't.
+*Beta feature for [!DNL Microsoft&reg; Advertising] accounts*
+
+View the recommended actions, and an explanation of why the actions would be beneficial, for a publisher recommendation. You can then apply the recommendation when it aligns with your business goals, and dismiss a recommendation when it doesn't.
 
 >[!NOTE]
 >
@@ -16,9 +20,11 @@ View the recommended actions, and an explanation of why the actions would be ben
 
 1. In the upper right, select the ad network and the account.
 
+   For [!DNL Microsoft&reg; Advertising] accounts, the [!UICONTROL Recommendations] for the account are listed by default.
+
 1. (Optional) Filter the recommendations by category and type.
 
-1. In the [!UICONTROL Actions] column for the recommendation row, click **[!UICONTROL View]**.
+1. In the [!UICONTROL Actions] column for the recommendation or insight row, click **[!UICONTROL View]**.
 
 1. (Recommendations with sub-recommendations) Click **[!UICONTROL View]** next to the sub-recommendation. 
 
@@ -34,5 +40,6 @@ View the recommended actions, and an explanation of why the actions would be ben
 >
 >* [About publisher recommendations and insights support](recommendation-support.md)
 >* [View your publisher recommendations and performance insights](recommendation-view.md)
->* [View the recommendations log for a [!DNL Google Ads] account](google-recommendation-view-log.md)
->* [Best practices for using publisher recommendations and insights with portfolios](recommendation-best-practices.md)
+>* [View the publisher recommendations log for an account](recommendation-view-log.md)
+>* [Best practices for using publisher recommendations with portfolios](recommendation-best-practices.md)
+

@@ -6,7 +6,7 @@ exl-id: c60e58e7-ab16-49bd-9acf-e5b858755493
 ---
 # Optimization
 
-When you set up a programmatic campaign, one of the key items to consider is the campaign goal and how you will translate it into measurable KPIs. This translation will define how you configure the campaign's optimization goals.
+When you set up a programmatic campaign, one of the key items to consider is the campaign goal and how to translate it into measurable KPIs. This translation defines how you should configure the campaign's optimization goals.
 
 Advertising DSP optimizes for the metrics you care about most in two phases. First, it shifts spend to the placements or tactics that are performing the best, according to the package's optimization goal. Second, it adjusts auction bids in real time to reflect the moment-in-time economic value that balances a) the need to deliver your budget in full with b) your chosen KPIs. Together, these optimization phases ensure that your budget is spent efficiently to achieve your campaign goals.
 

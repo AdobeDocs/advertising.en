@@ -20,7 +20,7 @@ feature: Search Campaign Management
 
 **[!UICONTROL Display URL]:** The URL displayed in an ad. The maximum length is 35 single-byte characters.
 
-**[!UICONTROL Mobile Preferred]:** (Optional) Allows the network to try to display the ad or ad extension to mobile device users rather than desktop or tablet users. By default, the option isn't enabled, and the ad will appear on any device type.
+**[!UICONTROL Mobile Preferred]:** (Optional) Allows the network to try to display the ad or ad extension to mobile device users rather than desktop or tablet users. By default, the option isn't enabled, and the ad can appear on any device type.
 
 >[!NOTE]
 >

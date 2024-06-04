@@ -54,6 +54,14 @@ feature: Search Campaign Management
 
 For [!DNL Microsoft Advertising] ad groups in the audience network, bid modifiers for location targets aren't optimized in standard portfolios with the "[!UICONTROL Auto-optimize Bid Adjustment Values]" setting.
 
+**[!UICONTROL Genre]:** (Ad groups in [!UICONTROL Audience CTV Video] campaigns; available in US, CA, BR, MX, UK, DE, ES, FR, IT, AU, MY, and TH<!-- Should that go in the campaign sub-type description instead, or is this applicable for this feature only? -->) The target genres, which determine the shows and channels on which your ads appear:
+
+* *[!UICONTROL All genres]:* (The default) Targets all genres.
+
+* *[!UICONTROL Select From Below List]:* Targets selected genres. Select from the list of all available genres.
+
+Connected TV (CTV) ad placement depends on your video quality and bid amount. See the [technical requirements for CTV ads](https://help.ads.microsoft.com/#apex/ads/en/60102/0/#TechnicalRequirements).
+
 <!-- **[!UICONTROL Devices]:** -->
 
 {{$include /help/_includes/devices.md}}
@@ -62,33 +70,33 @@ For [!DNL Microsoft Advertising] ad groups in the audience network, bid modifier
 
 * To target all values, don't select any values.
 
-* To include a value, click the circle next to it once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each gender targeted.
+* To include a value, click the adjacent circle once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each gender targeted.
 
-* To exclude a value, click the circle next to it twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+* To exclude a value, click the adjacent circle twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
 
 **[!UICONTROL Age]:** (Audience ad groups; optional) Specific age categories to include or exclude as targets: *[!UICONTROL 18-24]*, *[!UICONTROL 25-34]*, *[!UICONTROL 35-49]*, *[!UICONTROL 50-64]*, *[!UICONTROL 65+]*, and *[!UICONTROL Unknown]*. By default, all ages are targeted. Exclusions always override inclusions.
 
 * To target all values, don't select any values.
 
-* To include a value, click the circle next to it once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each age targeted.
+* To include a value, click the adjacent circle once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each age targeted.
 
-* To exclude a value, click the circle next to it twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+* To exclude a value, click the adjacent circle twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
 
 **[!UICONTROL Industry]:** (Audience ad groups; optional) Specific industries to include or exclude as targets. By default, all industries are targeted. Exclusions always override inclusions.
 
 * To target all values, don't select any values.
 
-* To include a value, click the circle next to it once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each industry targeted.
+* To include a value, click the adjacent circle once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each industry targeted.
 
-* To exclude a value, click the circle next to it twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+* To exclude a value, click the adjacent circle twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
 
 **[!UICONTROL Job Function Targets]:** (Audience ad groups; optional) Specific job functions to include or exclude as targets. By default, all job functions are targeted. Exclusions always override inclusions.
 
 * To target all values, don't select any values.
 
-* To include a value, click the circle next to it once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each job functions targeted.
+* To include a value, click the adjacent circle once so that a blue checkmark (![Include](/help/search-social-commerce/assets/include.png "Include")) appears. You can optionally increase or decrease bids by a specified percentage for each job functions targeted.
 
-* To exclude a value, click the circle next to it twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
+* To exclude a value, click the adjacent circle twice so that a red checkmark (![Exclude](/help/search-social-commerce/assets/exclude.png "Exclude")) appears.
 
 ## [!UICONTROL URL Options]
 
@@ -100,7 +108,7 @@ For [!DNL Microsoft Advertising] ad groups in the audience network, bid modifier
 
 {{$include /help/_includes/custom-parameters.md}}
 
-**[!UICONTROL Adgroup Frequency Cap Settings]:** (Optional) The number of times a customer will be served ads from the ad group. Enter a value and select the time unit (*[!UICONTROL Hour]*, *[!UICONTROL Day]*, or *[!UICONTROL Week]*).
+**[!UICONTROL Adgroup Frequency Cap Settings]:** (Optional) The number of times a customer can be served ads from the ad group. Enter a value and select the time unit (*[!UICONTROL Hour]*, *[!UICONTROL Day]*, or *[!UICONTROL Week]*).
 
 ## [!UICONTROL Negative Keywords]
 
@@ -116,7 +124,7 @@ For [!DNL Microsoft Advertising] ad groups in the audience network, bid modifier
 
 **[!UICONTROL Negative Websites]:** (Campaigns on the display/native network only; optional) Sites on the display network on which you don't want your ads to be displayed. Enter a valid URL, such as www.example.com. To specify multiple strings, separate them with commas or enter them on separate lines.
 
-For information about availability, see Microsoft Advertising help on "[Prevent ads from appearing on specific websites](https://help.ads.microsoft.com/#apex/bae/en/14061/0)."
+For information about availability, see [!DNL Microsoft Advertising] help to "[Prevent ads from appearing on specific websites](https://help.ads.microsoft.com/#apex/bae/en/14061/0)."
 
 >[!MORELIKETHIS]
 >

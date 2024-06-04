@@ -6,8 +6,6 @@ exl-id: 80dab57a-e56d-4a77-a1d5-c3e705f54fb9
 ---
 # Duplicate a Connected TV Reach Plan
 
-*Beta feature*
-
 1. In the main menu, click **[!UICONTROL Planner]**.
 
 1. 1. Hold the cursor over the plan row and click **[!UICONTROL More]** > **[!UICONTROL Duplicate]**.
@@ -20,7 +18,7 @@ exl-id: 80dab57a-e56d-4a77-a1d5-c3e705f54fb9
 
     Once you save the plan, the forecasted output is shown.
 
-1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft® Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
+1. (Optional) To export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft Excel] spreadsheet**, click **[!UICONTROL ...]** in the upper right, and then click **[!UICONTROL Export]**. 
 
 >[!MORELIKETHIS]
 >
