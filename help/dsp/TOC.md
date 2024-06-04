@@ -110,7 +110,7 @@ index: yes
 + Audiences {#audiences}
   + [About Audience Management](/help/dsp/audiences/audience-about.md)
   + [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
-  + Audiences {#reusable-audiences}
+  + Reusable Audiences {#reusable-audiences}
     + [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md)
     + [Duplicate a Reusable Audience](/help/dsp/audiences/reusable-audience-duplicate.md)
     + [Edit a Reusable Audience](/help/dsp/audiences/reusable-audience-edit.md)
