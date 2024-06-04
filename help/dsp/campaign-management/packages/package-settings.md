@@ -71,7 +71,7 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 >
 >This field is only a benchmark and isn't used for decisioning.
 
-**[!UICONTROL Frequency Cap]:** (Packages with package-level pacing only) The number of times a unique device or person (depending on the specified [!UICONTROL Cross Device Level] for the campaign) can be served ads from the package. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
+**[!UICONTROL Frequency Cap]:** (Packages with package-level pacing only) The number of times a unique device, universal ID, or person (depending on the specified [!UICONTROL Cross Device Level] for the campaign and the placement's [!UICONTROL Targeting] setting) can be served ads from the package. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
 
 >[!NOTE]
 >

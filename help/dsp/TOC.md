@@ -109,7 +109,8 @@ index: yes
   + [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
 + Audiences {#audiences}
   + [About Audience Management](/help/dsp/audiences/audience-about.md)
-  + Audiences {#reusable-audiences}
+  + [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
+  + Reusable Audiences {#reusable-audiences}
     + [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md)
     + [Duplicate a Reusable Audience](/help/dsp/audiences/reusable-audience-duplicate.md)
     + [Edit a Reusable Audience](/help/dsp/audiences/reusable-audience-edit.md)
@@ -131,14 +132,13 @@ index: yes
     + [View Tracking Pixels for a Segment](/help/dsp/audiences/segment-view-pixels.md)
     + [Delete a Segment](/help/dsp/audiences/segment-delete.md)
   + Sources {#sources}
-    + [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
+    + [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
     + Workflows by Customer Data Platform {#sources-workflows}
-      + [!DNL Adobe Real-Time CDP] {#sources-adobe-rt-cdp}
-        + [Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
-        + [Activate Authenticated Segments from Universal ID Partners](/help/dsp/audiences/sources/source-universal-id.md)
-      + [Workflow for Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
-    + [Create an Audience Source to Activate First-Party Audiences](/help/dsp/audiences/sources/source-create.md)
+      + [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+      + [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
+    + [Create an Audience Source to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-create.md)
     + [Audience Source Settings](/help/dsp/audiences/sources/source-settings.md)
+  + [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
   + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)
 + Inventory {#inventory}
   + [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)

@@ -30,6 +30,10 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 * **[!DNL Analytics] reports:** Advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) who have implemented all required steps can see view-through conversions by universal ID type in [!DNL Analytics].
 
+  >[!IMPORTANT]
+  >
+  >For proper conversion attribution, make sure that the clickthrough URLs for your ads include both the [EF ID and the AMO ID](/help/integrations/analytics/ids.md).
+
 * **Segment details:** For all segment types, the segment details include the audience size by universal ID type and by the device type tracked by cookies or device IDs.
 
 ## How to Target an Universal ID Audience in Your Placements
@@ -40,19 +44,25 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 In a new, scheduled, or paused placement, do the following:
 
-* In the [!UICONTROL Geo-Targeting] section, specify the geographical areas to target. Each universal ID partner allows user targeting only in specific geographical areas, and only eligible ID types are available in the [!UICONTROL Targeting] settings.
+1. In the [!UICONTROL Geo-Targeting] section, specify the geographical areas to target. Each universal ID partner allows user targeting only in specific geographical areas, and only eligible ID types are available in the [!UICONTROL Targeting] settings.
 
-* In the [!UICONTROL Audience Targeting] section, do the following:
+1. In the [!UICONTROL Audience Targeting] section, do the following:
 
-  * In the [!UICONTROL Included Audiences] setting, select the segment for which user data was converted to universal IDs.
+   1. In the [!UICONTROL Included Audiences] setting, select the segment for which user data was converted to universal IDs.
 
-    You can include additional segments if you want.
+      You can include additional segments if you want.
 
-  * In the [!UICONTROL Targeting] setting, select the universal ID type to target.
+   1. In the [!UICONTROL Targeting] settings:
   
-    The setting includes the options "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," which may include the sub-options "[!UICONTROL ID5]," "[!UICONTROL RampID]," and "[!UICONTROL Unified ID2.0]." The actual sub-options are determined by the selected geographical targets.
-    
-    You can select both "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," but you can select only one type of universal ID per placement. When you select both legacy IDs and universal IDs, bidding preference is given to universal IDs. 
+      1. Select the universal ID type to target.
+      
+         The setting includes the options "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," which may include the sub-options "[!UICONTROL ID5]," "[!UICONTROL RampID]," and "[!UICONTROL Unified ID2.0]." The actual sub-options are determined by the selected geographical targets.
+         
+         You can select both "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," but you can select only one type of universal ID per placement. When you select both legacy IDs and universal IDs, bidding preference is given to universal IDs.
+
+      1. (If necessary) Accept the terms of service agreement for using universal IDs.
+      
+         Before you can convert data to a new ID type, a user in the DSP account must accept the terms of service agreement. The terms must be accepted only once per ID type, per account.
 
 See "[Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)."
 
@@ -69,6 +79,8 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 * Copy your original packages and placements, adjust the budgets based on the size of the test, change the audiences to use [!DNL RampID]-based segments (for authenticated users) or ID5-based segments (for unauthenticated users), and verify that the new packages and placements spend their full budgets.
 
   * To compare the performance of universal ID-based segments with the performance of placements targeting other audience identifiers, such as cookies or mobile advertising IDs, create a campaign with a separate universal ID-based placement and a legacy ID-based placement.
+
+    For a full retargeting test, target both RampIDs for authenticated users and ID5s for unauthenticated users.
 
     Getting the best performance shouldn't be the primary comparison. Instead, determine which IDs are scaling well, which might inform your optimization and budget allocations later. The long-term goal is to make up for lost impressions and site traffic when cookies are deprecated.
 
@@ -90,7 +102,21 @@ There are two reasons for variance for hashed email IDs translated to [!DNL Ramp
 
 * A [!DNL RampID] can be upgraded to a new value. If [!DNL LiveRamp] doesn't recognize an email ID or can't map it to an existing [!DNL RampID] in its database, then it assigns a new [!DNL RampID] to the email ID. In the future, when they can map the email ID to another [!DNL RampID] or can gather more information about the same email ID, they upgrade the [!DNL RampID] to a new value. [!DNL LiveRamp] refers to this action as upgrading from a "derived" [!DNL RampID] to a "maintained" [!DNL RampID]. However, DSP doesn't get mappings between derived and maintained [!DNL RampIDs] and therefore can't remove the previous version of the RampID from the DSP segment. In this case, the segment count can be more than the profile count.
 
-  Example: A user logs in to the [!DNL Adobe] website and visit the Photoshop page. If [!DNL LiveRamp] doesn't have any existing information about the email ID, then they assign it a derived [!DNL RampID], say D123. Fifteen days later, the user visits the same page, but [!DNL LiveRamp] has upgraded the [!DNL RampID] during those 15 days and has reassigned the [!DNL RampID] to M123. Even though the customer data platform's segment "Photoshop Enthusiast" has only one email ID for the user, the DSP segment has two RampIDs: D123 and M123. 
+  Example: A user logs in to the [!DNL Adobe] website and visit the Photoshop page. If [!DNL LiveRamp] doesn't have any existing information about the email ID, then they assign it a derived [!DNL RampID], say D123. Fifteen days later, the user visits the same page, but [!DNL LiveRamp] has upgraded the [!DNL RampID] during those 15 days and has reassigned the [!DNL RampID] to M123. Even though the customer data platform's segment "Photoshop Enthusiast" has only one email ID for the user, the DSP segment has two RampIDs: D123 and M123.
+
+## Troubleshooting
+
+If you're not seeing user counts, or your audience sizes are low, then check the following:
+
+* If you use [!DNL Flashtalking] or [!DNL Google Campaign Manager 360] ads, then make sure that your ads' clickthrough URLs are appended with the correct macros. See the macros for [[!DNL Flashtalking] ads](/help/integrations/analytics/macros-flashtalking.md) and [[!DNL Google Campaign Manager 360] ads](/help/integrations/analytics/macros-google-campaign-manager.md).
+
+* Make sure that the correct, universal ID partner-specific code is implemented on your website to match on-site events and ad exposures. Work with your [!DNL LiveRamp] or [!DNL ID5] representative as needed.
+
+* (For [!DNL RampIDs] and [!DNL UID 2.0] IDs) Make sure that your [DSP data source is configured correctly](/help/dsp/audiences/sources/source-settings.md), and that user counts are populated for the generated audience segments.
+
+* If your reach is less than you expect, check that the audience segment logic isn't too granular.
+
+If you can't resolve the issue, then contact your Adobe Account Team.
 
 >[!MORELIKETHIS]
 >

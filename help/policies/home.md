@@ -9,6 +9,7 @@ product: advertising cloud
 
 Learn about policies and guidelines for Advertising DSP and Advertising Search:
 
-* [Ads Requirements Policy](/help/policies/ad-requirements-policy.md)
-* [Acceptable Health Segment Guidelines](/help/policies/health-segment-guidelines.md)
-* [DSP Data Usage Guidelines](/help/policies/data-usage-guidelines.md)
++ [Ads Requirements Policy](/help/policies/ad-requirements-policy.md)
++ [Universal ID Requirements Policy](/help/policies/universal-id-policy.md)
++ [Acceptable Health Segment Guidelines](/help/policies/health-segment-guidelines.md)
++ [[!DNL DSP] Data Usage Guidelines](/help/policies/data-usage-guidelines.md)

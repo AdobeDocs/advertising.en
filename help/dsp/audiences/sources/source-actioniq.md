@@ -1,11 +1,13 @@
 ---
-title: "Workflow for Using the DSP Integration with [!DNL ActionIQ]"
+title: "Convert User IDs from [!DNL ActionIQ] to Universal IDs"
 description: "Learn how to enable DSP to ingest your [!DNL ActionIQ] first-party segments."
 feature: DSP Audiences
 ---
-# Workflow for Using the DSP Integration with [!DNL ActionIQ]
+# Convert User IDs from [!DNL ActionIQ] to Universal IDs
 
-You can share your organization's first-party data from the [!DNL ActionIQ] customer data platform using ........... <!-- fill in -->
+*Beta feature*
+
+Use the DSP integration with the [!DNL ActionIQ] customer data platform to convert your hashed email addresses to universal IDs for targeted advertising.
 
 There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 
@@ -15,15 +17,25 @@ There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 
 ## Step 1: Create an audience source in DSP {#source-create}
 
-* [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account, and share the source code key with the [!DNL Tealium] user.
+1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account, specifying the [universal ID formats](source-about.md) to which you want to convert your user identifiers.
+
+1. After you create the audience source, share the source code key with the [!DNL ActionIQ] user.
+
+1. After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
+
+   The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue. For more information about how the segment counts can vary, see "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
+   
+   For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
+
+Segments are refreshed every 24 hours.
 
 ## Step 2: 
 
 >[!MORELIKETHIS]
 >
->* [About Activating Authenticated Segments from Audience Sources](/help/dsp/audiences/sources/source-about.md)
->* [Create an Audience Source to Activate First-Party Audiences](source-create.md)
+>* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
+>* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
 >* [Audience Source Settings](source-settings.md)
->* [Workflow for Using the DSP Integration with [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
->* [Workflow for Using the DSP Integration with [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
+>* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+>* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)

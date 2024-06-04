@@ -72,7 +72,7 @@ To estimate taxes to withhold:
 >
 >* You can also configure these values in the account's fee settings.<!--[fee settings](/help/dsp/admin/tax-withholdings.md). -->
 
-**[!UICONTROL Cross Device Level]:** (Read-only for existing campaigns created since 22 June 2020; not available for campaigns created before 22 June 2020) The level at which DSP will target ads and apply frequency caps: *Same Device* to target a device or *People* to target a person across all of their known devices.
+**[!UICONTROL Cross Device Level]:** (Read-only for existing campaigns created since 22 June 2020; not available for campaigns created before 22 June 2020) The level at which DSP targets ads and applies frequency caps: *Same Device* to target a device or *People* to target a person across all of their known devices. **Note:** Cross-device support isn't available for placements that target universal IDs.
 
 **[!UICONTROL Device Graph]:** (Read-only for existing campaigns; campaigns with people-based cross-device targeting only) The device graph to use for cross-device targeting and frequency management:
 
@@ -80,7 +80,9 @@ To estimate taxes to withhold:
 
     This option is also available to all advertisers, without any fees, for frequency management and attribution measurement.
 
-**[!UICONTROL Frequency Cap]:** (Optional) The number of times a unique device or person (depending on the specified [!UICONTROL Cross Device Level]) may be served ads from the campaign. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
+    Cross-device support applies only for placements that target legacy IDs but not for placements that target universal IDs (including [!DNL LiveRamps]). Targeting, frequency management, and attribution for universal IDs is applied at the ID level only.
+
+**[!UICONTROL Frequency Cap]:** (Optional) The number of times a unique device, universal ID, or person (depending on the specified [!UICONTROL Cross Device Level] and the placement's [!UICONTROL Targeting] setting) can be served ads from the campaign. Options include *[!UICONTROL Unlimited]* or a specific amount per day, week, or month.
 
 >[!NOTE]
 >
