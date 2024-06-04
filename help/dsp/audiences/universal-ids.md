@@ -2,6 +2,7 @@
 title: Support for Activating Universal IDs
 description: Learn about support to import your universal ID segments, create custom segments to track universal IDs, and convert other user identifiers in your first-party segments to universal IDs for cookieless targeting.
 feature: DSP Audiences
+exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
 ---
 # Support for Activating Universal IDs
 
