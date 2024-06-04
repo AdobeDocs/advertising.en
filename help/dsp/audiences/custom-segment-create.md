@@ -16,13 +16,13 @@ You can collect your own first-party audience data by creating and implementing 
 
 *Beta feature* 
 
-* Before you generate a segment to track users associated with ID5 IDs, you must sign an agreement with [!DNL ID5] and get your organization's partner ID. Contact your Adobe Account Team for instructions.
+* Before you generate a segment to track users associated with ID5 IDs, sign an agreement with [!DNL ID5] and get your organization's partner ID. Contact your Adobe Account Team for instructions.
 
 * For measurement in Adobe Analytics, you must:
 
   1. Complete all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md), and make sure that the [AMO ID and EF ID](/help/integrations/analytics/ids.md) are being populated in your tracking URLs.
 
-  1. Add the following parameter to your webpages before or within the the [JavaScript code required for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) &mdash;  anywhere before the last event service is initialized.
+  1. Add the following parameter to your webpages before or within the the [JavaScript code required for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) &mdash; anywhere before the last event service is initialized.
 
      ```window.id5PartnerId=Your_ID5_PartnerID;```
      
@@ -36,6 +36,8 @@ You can collect your own first-party audience data by creating and implementing 
                 AdCloudEvent('IMS ORG Id','rsid');
      </script>
      ```
+
+   1. Use any browser debugging tool to verify that each call is initiated to the domain `lasteventf-tm.everesttech.net` and contains the parameter `_les_id5` with an encrypted ID5 ID as its value.
 
 ## Create and Implement a Custom Segment
 
