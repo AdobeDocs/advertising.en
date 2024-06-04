@@ -45,3 +45,7 @@ Segments are refreshed every 24 hours. However, inclusion in a segment expires a
 >* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
+
+<!--
+>* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
+-->

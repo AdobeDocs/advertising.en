@@ -89,3 +89,7 @@ You can share your organization's first-party data from the [!DNL Tealium] custo
 >* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+
+<!--
+>* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
+-->

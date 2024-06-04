@@ -40,7 +40,7 @@ To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs, you must do the 
 
 1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account. You can choose to convert your user identifiers to any of the [available universal ID formats](source-about.md).
 
-   The source settings will include an auto-generated source key, wich you'll use to prepare the segment-mapping data.
+   The source settings will include an auto-generated source key, which you'll use to prepare the segment-mapping data.
 
 1. After you create the audience source, share the source code key with the [!DNL Tealium] user.
 
@@ -151,3 +151,7 @@ For troubleshooting support, contact your Adobe Account Team or `adcloud-support
 >* [Audience Source Settings](source-settings.md)
 >* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
+
+<!--
+>* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
+-->

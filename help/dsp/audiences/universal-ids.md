@@ -127,3 +127,7 @@ If you can't resolve the issue, then contact your Adobe Account Team.
 >* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+
+<!--
+>* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
+-->
