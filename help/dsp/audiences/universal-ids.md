@@ -32,7 +32,7 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
   >[!IMPORTANT]
   >
-  >For proper attribution, make sure that the clickthrough URLs for your ads include both the [EF ID and the AMO ID](/help/integrations/analytics/ids.md)).
+  >For proper conversion attribution, make sure that the clickthrough URLs for your ads include both the [EF ID and the AMO ID](/help/integrations/analytics/ids.md).
 
 * **Segment details:** For all segment types, the segment details include the audience size by universal ID type and by the device type tracked by cookies or device IDs.
 
