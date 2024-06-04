@@ -72,7 +72,7 @@ In addition, you can view the following data within the placement settings:
 
 * [A (detail view [!UICONTROL Inspector])](placement-details-view.md), which shows all targeted sites, ads, frequency data, and deals for a placement.
 
-* A [placement forecast report](/help/dsp/campaign-management/reports/placement-forecast.md)
+* A [placement forecast report](/help/dsp/campaign-management/reports/placement-forecast.md).
  
 * [Placement diagnostic reports](/help/dsp/campaign-management/reports/placement-diagnostics.md).
 
