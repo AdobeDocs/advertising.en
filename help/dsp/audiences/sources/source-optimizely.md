@@ -45,11 +45,11 @@ The advertiser must prepare and push the data within [!DNL Optimizely Data Platf
 
 1. Push the segment to DSP, including the following fields:
 
-**[Are they using the Data Platform web services, another type of API, or a UI? Add a link to instructions. And where will they input these fields?]**  <!-- Are they using the Data Platform web services or what? Add a link to instructions. And where will they input these fields?  -->
+   **[Are they using the Data Platform web services, another type of API, or a UI? Add a link to instructions. And where will they input these fields?]**  <!-- Are they using the Data Platform web services or what? Add a link to instructions. And where will they input these fields?  -->
 
-   **Source Key:** This is the source key created in [Step 2](#source-create).
+   * **Source Key:** This is the source key created in [Step 2](#source-create).
    
-   **Account Code:** This is the alphanumeric DSP Account Code, which you can find within DSP at [!UICONTROL Settings] > [!UICONTROL Account].
+   * **Account Code:** This is the alphanumeric DSP Account Code, which you can find within DSP at [!UICONTROL Settings] > [!UICONTROL Account].
 
 ## Step 4: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
