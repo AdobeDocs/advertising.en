@@ -80,6 +80,8 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
   * To compare the performance of universal ID-based segments with the performance of placements targeting other audience identifiers, such as cookies or mobile advertising IDs, create a campaign with a separate universal ID-based placement and a legacy ID-based placement.
 
+    For a full retargeting test, target both RampIDs for authenticated users and ID5s for unauthenticated users.
+
     Getting the best performance shouldn't be the primary comparison. Instead, determine which IDs are scaling well, which might inform your optimization and budget allocations later. The long-term goal is to make up for lost impressions and site traffic when cookies are deprecated.
 
   * To compare total browser reach, target universal ID-based segments and legacy ID-based segments in the same placement. Use the same campaign settings as the previous use case, except that you don't need to split the campaign budget.
@@ -100,7 +102,21 @@ There are two reasons for variance for hashed email IDs translated to [!DNL Ramp
 
 * A [!DNL RampID] can be upgraded to a new value. If [!DNL LiveRamp] doesn't recognize an email ID or can't map it to an existing [!DNL RampID] in its database, then it assigns a new [!DNL RampID] to the email ID. In the future, when they can map the email ID to another [!DNL RampID] or can gather more information about the same email ID, they upgrade the [!DNL RampID] to a new value. [!DNL LiveRamp] refers to this action as upgrading from a "derived" [!DNL RampID] to a "maintained" [!DNL RampID]. However, DSP doesn't get mappings between derived and maintained [!DNL RampIDs] and therefore can't remove the previous version of the RampID from the DSP segment. In this case, the segment count can be more than the profile count.
 
-  Example: A user logs in to the [!DNL Adobe] website and visit the Photoshop page. If [!DNL LiveRamp] doesn't have any existing information about the email ID, then they assign it a derived [!DNL RampID], say D123. Fifteen days later, the user visits the same page, but [!DNL LiveRamp] has upgraded the [!DNL RampID] during those 15 days and has reassigned the [!DNL RampID] to M123. Even though the customer data platform's segment "Photoshop Enthusiast" has only one email ID for the user, the DSP segment has two RampIDs: D123 and M123. 
+  Example: A user logs in to the [!DNL Adobe] website and visit the Photoshop page. If [!DNL LiveRamp] doesn't have any existing information about the email ID, then they assign it a derived [!DNL RampID], say D123. Fifteen days later, the user visits the same page, but [!DNL LiveRamp] has upgraded the [!DNL RampID] during those 15 days and has reassigned the [!DNL RampID] to M123. Even though the customer data platform's segment "Photoshop Enthusiast" has only one email ID for the user, the DSP segment has two RampIDs: D123 and M123.
+
+## Troubleshooting
+
+If you're not seeing user counts, or your audience sizes are low, then check the following:
+
+* If you use [!DNL Flashtalking] or [!DNL Google Campaign Manager 360] ads, then make sure that your ads' clickthrough URLs are appended with the correct macros. See the macros for [[!DNL Flashtalking] ads](/help/integrations/analytics/macros-flashtalking.md) and [[!DNL Google Campaign Manager 360] ads](/help/integrations/analytics/macros-google-campaign-manager.md).
+
+* Make sure that the correct, universal ID partner-specific code is implemented on your website to match on-site events and ad exposures. Work with your [!DNL LiveRamp] or [!DNL ID5] representative as needed.
+
+* (For [!DNL RampIDs] and [!DNL UID 2.0] IDs) Make sure that your [DSP data source is configured correctly](/help/dsp/audiences/sources/source-settings.md), and that user counts are populated for the generated audience segments.
+
+* If your reach is less than you expect, check that the audience segment logic isn't too granular.
+
+If you can't resolve the issue, then contact your Adobe Account Team.
 
 >[!MORELIKETHIS]
 >
