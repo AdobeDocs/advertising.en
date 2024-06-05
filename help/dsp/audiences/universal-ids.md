@@ -97,13 +97,17 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 ## Causes for Data Variances Between Email IDs and Universal IDs {#universal-ids-data-variances}
 
-There are two reasons for variance for hashed email IDs translated to [!DNL RampIDs]: 
+* Hashed email IDs translated to ID5 IDs:
 
-* When multiple profiles use the same email ID, the DSP segment count can be lower than the profile count within your customer data platform. For example, in Adobe Photoshop, you can create a company account and a personal account using a single email ID. But if both profiles belong to the same segment, then the profiles map to one email ID and correspondingly to one [!DNL RampID]. 
+  The probabilistic model has an error variance of +/- 5%. This means that it can overestimate or underestimate the audience count by 5%.
 
-* A [!DNL RampID] can be upgraded to a new value. If [!DNL LiveRamp] doesn't recognize an email ID or can't map it to an existing [!DNL RampID] in its database, then it assigns a new [!DNL RampID] to the email ID. In the future, when they can map the email ID to another [!DNL RampID] or can gather more information about the same email ID, they upgrade the [!DNL RampID] to a new value. [!DNL LiveRamp] refers to this action as upgrading from a "derived" [!DNL RampID] to a "maintained" [!DNL RampID]. However, DSP doesn't get mappings between derived and maintained [!DNL RampIDs] and therefore can't remove the previous version of the RampID from the DSP segment. In this case, the segment count can be more than the profile count.
+* Hashed email IDs translated to [!DNL RampIDs]: 
 
-  Example: A user logs in to the [!DNL Adobe] website and visits the Photoshop page. If [!DNL LiveRamp] doesn't have any existing information about the email ID, then they assign it a derived [!DNL RampID], say D123. Fifteen days later, the user visits the same page, but [!DNL LiveRamp] has upgraded the [!DNL RampID] during those 15 days and has reassigned the [!DNL RampID] to M123. Even though the customer data platform's segment "Photoshop Enthusiast" has only one email ID for the user, the DSP segment has two RampIDs: D123 and M123.
+  * When multiple profiles use the same email ID, the DSP segment count can be lower than the profile count within your customer data platform. For example, in Adobe Photoshop, you can create a company account and a personal account using a single email ID. But if both profiles belong to the same segment, then the profiles map to one email ID and correspondingly to one [!DNL RampID]. 
+
+  * A [!DNL RampID] can be upgraded to a new value. If [!DNL LiveRamp] doesn't recognize an email ID or can't map it to an existing [!DNL RampID] in its database, then it assigns a new [!DNL RampID] to the email ID. In the future, when they can map the email ID to another [!DNL RampID] or can gather more information about the same email ID, they upgrade the [!DNL RampID] to a new value. [!DNL LiveRamp] refers to this action as upgrading from a "derived" [!DNL RampID] to a "maintained" [!DNL RampID]. However, DSP doesn't get mappings between derived and maintained [!DNL RampIDs] and therefore can't remove the previous version of the RampID from the DSP segment. In this case, the segment count can be more than the profile count.
+
+    Example: A user logs in to the [!DNL Adobe] website and visits the Photoshop page. If [!DNL LiveRamp] doesn't have any existing information about the email ID, then they assign it a derived [!DNL RampID], say D123. Fifteen days later, the user visits the same page, but [!DNL LiveRamp] has upgraded the [!DNL RampID] during those 15 days and has reassigned the [!DNL RampID] to M123. Even though the customer data platform's segment "Photoshop Enthusiast" has only one email ID for the user, the DSP segment has two RampIDs: D123 and M123.
 
 ## Troubleshooting
 
