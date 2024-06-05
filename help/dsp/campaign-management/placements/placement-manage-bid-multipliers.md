@@ -6,9 +6,13 @@ exl-id: fbd44960-c9df-4713-94b7-13bcdb7e2568
 ---
 # Manage Bid Multipliers for Placements
 
-You can create and manage bid multipliers, by which a bid is multiplied to increase or decrease the bid, for your existing placement targets of [eligible target types](#bid-multiplier-by-target). You can either manually edit bid multiplier values for one placement or upload a spreadsheet with values for one or more placements.
+You can create and manage bid multipliers, by which an algorithmically computed bid is multiplied to increase or decrease the bid, for your existing placement targets of [eligible target types](#bid-multiplier-by-target). You can either manually edit bid multiplier values for one placement or upload a spreadsheet with values for one or more placements.
 
-By default, the bid multiplier for a target is 1.00, which means that the bid isn't adjusted for that target. Values can range from 0.10 to 10.00. For example, a bid modifier of 0.5 decreases a USD 6 bid to USD 3 (0.5 x 6). When an auction qualifies for multiple bid modifiers, all of the applicable bid modifiers are multiplied. Bid modifiers never increase the bid to more than the maximum bid.
+By default, the bid multiplier for a target is 1.00, which means that the bid isn't adjusted for that target. Values can range from 0.10 to 10.00. For example, a bid multiplier of 0.5 decreases a USD 6 bid to USD 3 (0.5 x 6). When an auction qualifies for multiple bid modifiers, all of the applicable bid multipliers are multiplied. For example, if California has a bid multiplier of 2 and San Francisco has a bid multiplier of 3, then the final bid multiplier for ads that run in San Francisco is 6.
+
+>[!NOTE]
+>
+>Bid multipliers never increase the bid to more than the maximum bid.
 
 You can set bid multipliers (with values other than 1.00) for a [limited number of targets](#bid-multiplier-limits-by-target).
 
@@ -36,7 +40,7 @@ You can either manually edit values or upload a spreadsheet for a single placeme
 
      1. Click **[!UICONTROL CSV File Edit]** in the upper right.
 
-     1. Either a) click **[!UICONTROL Download Template]** and edit the file or b) edit a previously-downloaded template. Save the edited file to your device or network.
+     1. Either a) click **[!UICONTROL Download Template]** and edit the file or b) edit a previously downloaded template. Save the edited file to your device or network.
 
         Downloaded spreadsheets include one sheet for each target type (such as Country, Sources, and Site Category). Only existing bid multipliers with values < 1.0 or > 1.0 are included.
         
@@ -66,7 +70,7 @@ Upload a spreadsheet to apply the same values to all selected placements.
 
 1. Upload a CSV file with bid multiplier values to overwrite all existing values for all selected placements.
 
-   1. Either a) click **[!UICONTROL Download Template]** and edit the file or b) edit a previously-downloaded template. Save the edited file to your device or network.
+   1. Either a) click **[!UICONTROL Download Template]** and edit the file or b) edit a previously downloaded template. Save the edited file to your device or network.
    
       Downloaded spreadsheets include one sheet for each target type (such as Country, Sources, and Site Category). Only existing bid multipliers with values < 1.0 or > 1.0 are included.
         
@@ -84,7 +88,7 @@ Upload a spreadsheet to apply the same values to all selected placements.
 
 You can configure bid modifiers only for included targets, not excluded targets.
 
-* **Geo targets**: geography (countries, states, and cities),  postal codes, and DMAs
+* **Geo targets**: geography (countries, states, and cities), postal codes, and DMAs
 
 * **Inventory targets**: sources and feeds for public inventory and [!UICONTROL On Demand] inventory
 
