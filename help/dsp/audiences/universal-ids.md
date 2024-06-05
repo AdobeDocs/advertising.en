@@ -20,11 +20,6 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 * Third-party segments from [!DNL Eyeota] and some other vendors may automatically include ID5 IDs, in addition to users tracked by cookies or device IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
 
-<!-- Make above statement more generic when other ID types are available 
-
-* Some third-party segment vendors have started including universal IDs in their segments, and you can use them in saved audiences and as placement targets without any extra steps or extra fees.
--->
-
 ## Reporting by Universal ID Type
 
 * **Custom reports:** Cost, impression, click, conversion, and frequency data by universal ID type is available in custom reports.
