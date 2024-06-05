@@ -6,7 +6,7 @@ exl-id: fbd44960-c9df-4713-94b7-13bcdb7e2568
 ---
 # Manage Bid Multipliers for Placements
 
-You can create and manage bid multipliers, by which an algorithmically computed bid is multiplied to increase or decrease the bid, for your existing placement targets of [eligible target types](#bid-multiplier-by-target). You can either manually edit bid multiplier values for one placement or upload a spreadsheet with values for one or more placements.
+You can create and manage bid multipliers, by which an algorithmically computed bid is multiplied to increase or decrease the bid, for your existing placement targets of [eligible target types](#bid-multiplier-by-target). You can either manually edit bid multiplier values for one placement or upload a spreadsheet with values for one or more placements. 
 
 By default, the bid multiplier for a target is 1.00, which means that the bid isn't adjusted for that target. Values can range from 0.10 to 10.00. For example, a bid multiplier of 0.5 decreases a USD 6 bid to USD 3 (0.5 x 6). When an auction qualifies for multiple bid modifiers, all of the applicable bid multipliers are multiplied. For example, if California has a bid multiplier of 2 and San Francisco has a bid multiplier of 3, then the final bid multiplier for ads that run in San Francisco is 6.
 
