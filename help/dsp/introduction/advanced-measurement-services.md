@@ -19,14 +19,26 @@ The following measurement solution packages are available to validate the succes
 
 * **Household-Based Reach, Frequency, and Conversions**
 
-     Understand total campaign reach at a household level, as well as the contribution of the individual screens. Reporting options include:
+     Understand the total campaign reach at a household level, as well as the contribution of the individual screens. Reporting options include:
+
+     * Cross-ID Household Reach, Frequency, & Conversion (Cookieless)
+     
+       * Quantify unique/incremental reach, overlap, and conversions at a household level by cookieless ID type (RampID, ID5) across multiple environments, including connected TV (CTV) and digital (desktop, mobile, native, and audio).
+       
+       * Prove the effectiveness of testing cookieless IDs in finding incremental reach relative to cookie-based segments.
 
      * Average Time to Conversion
+
      * Frequency to Conversion
-     * Connected TV (CTV) Reporting
+
+     * CTV Reporting
+
      * CTV App Incrementality
+
      * Cross-Screen Reporting (Digital & CTV)
+
      * Cross-Screen Plus Reporting (Digital, CTV, and TV)
+
      * Digital In-Segment Reach and Frequency
 
 * **People-Based Reach and Conversions**
@@ -36,6 +48,11 @@ The following measurement solution packages are available to validate the succes
   * **Cross-ID People-Based Reach**
 
       Quantify the unique reach and overlap between cookies and RampIDs, as well as the cost per metric by ID type. Prove the effectiveness of testing RampIDs in finding incremental reach relative to cookie-based segments across multiple digital environments, such as desktop, mobile, native, and audio.
+
+* **Halo Effect on Search Reporting**
+
+  Quantify the impact of CTV and digital ad exposures on driving search clicks, search conversions, and ROAS at the household level across CTV app, search keyword, search engine, and custom audience and tactic levels.
+
 
 * **[!DNL Dynata] Panel-Based Surveys**
 
@@ -73,7 +90,7 @@ The following measurement solution packages are available to validate the succes
 
   * Cross-Screen Reach, Frequency, and Conversion Measurement
 
-     Any client looking to understand reach/incremental reach and cost-based efficiencies and/or conversion metrics across multiple digital tactics relative to Linear TV investment
+     Any client looking to understand reach/incremental reach and cost-based efficiencies and/or conversion metrics across multiple digital tactics relative to linear TV investment
 
   * Dynata Panel-Based Surveys
 
