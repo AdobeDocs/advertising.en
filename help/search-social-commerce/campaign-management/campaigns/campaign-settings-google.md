@@ -4,7 +4,7 @@ description: Reference the settings for [!DNL Google Ads] campaigns.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
 ---
-# [!DNL Google Ads] campaign settings
+# [!DNL Google Ads] campaign settings 
 
 ## \[Campaign Creation screen\]
 
@@ -19,7 +19,7 @@ the campaign may contain:
 
 * *[!UICONTROL Display Network Only]:* Shows ads on the display network. For each ad group, you must specify placements and can optionally specify keywords.
 
-* *[!UICONTROL Performance Max]:* (Beta feature) Shows and optimizes conversions for your ads across channels using [!DNL Google Ads] smart bidding. Within the campaign settings, you must specify one or more asset groups, which include images, logos, headlines, descriptions, optional videos, and audience signals. [!DNL Google Ads] automatically combines the assets to serve ads based on the channel (such as [!DNL YouTube], [!DNL Gmail], or [!DNL Search]).
+* *[!UICONTROL Performance Max]:* Shows and optimizes conversions for your ads across channels using [!DNL Google Ads] smart bidding. Within the campaign settings, you must specify one or more asset groups, which include images, logos, headlines, descriptions, optional videos, and audience signals. [!DNL Google Ads] automatically combines the assets to serve ads based on the channel (such as [!DNL YouTube], [!DNL Gmail], or [!DNL Search]).
 
   **Notes:**
   
