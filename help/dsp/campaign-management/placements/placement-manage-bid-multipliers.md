@@ -6,13 +6,17 @@ exl-id: fbd44960-c9df-4713-94b7-13bcdb7e2568
 ---
 # Manage Bid Multipliers for Placements
 
-You can create and manage bid multipliers, by which a bid is multiplied to increase or decrease the bid, for your existing placement targets of [eligible target types](#bid-multiplier-by-target). You can either manually edit bid multiplier values or upload a spreadsheet with values.
+You can create and manage bid multipliers, by which a bid is multiplied to increase or decrease the bid, for your existing placement targets of [eligible target types](#bid-multiplier-by-target). You can either manually edit bid multiplier values for one placement or upload a spreadsheet with values for one or more placements.
 
 By default, the bid multiplier for a target is 1.00, which means that the bid isn't adjusted for that target. Values can range from 0.10 to 10.00. For example, a bid modifier of 0.5 decreases a USD 6 bid to USD 3 (0.5 x 6). When an auction qualifies for multiple bid modifiers, all of the applicable bid modifiers are multiplied. Bid modifiers never increase the bid to more than the maximum bid.
 
 You can set bid multipliers (with values other than 1.00) for a [limited number of targets](#bid-multiplier-limits-by-target).
 
 This feature works with your existing placement targets. To change the selected targets for your placements, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
+
+## Manage the Bid Multipliers for a Single Placement
+
+You can either manually edit values or upload a spreadsheet for a single placement.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -45,6 +49,36 @@ This feature works with your existing placement targets. To change the selected 
      1.  Click **[!UICONTROL Next]** to move to the [!UICONTROL Upload File] section and either a) drag and drop the edited file into the box or b) click inside the box to select the file from your device or network.
 
      1. Verify the uploaded data in the [!UICONTROL Review & Submit] section, and then click **[!UICONTROL Save]**.
+
+## Upload Bid Multipliers for One or More Placements
+
+Upload a spreadsheet to apply the same values to all selected placements.
+
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+
+1. Click the name of the campaign.
+
+1. In the submenu, click **[!UICONTROL Placements]**.
+
+1. Select the check box next to each placement whose bid multipliers you want to manage.
+
+1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bid Multiplier Excel Sheet]**.
+
+1. Upload a CSV file with bid multiplier values to overwrite all existing values for all selected placements.
+
+   1. Either a) click **[!UICONTROL Download Template]** and edit the file or b) edit a previously-downloaded template. Save the edited file to your device or network.
+   
+      Downloaded spreadsheets include one sheet for each target type (such as Country, Sources, and Site Category). Only existing bid multipliers with values < 1.0 or > 1.0 are included.
+        
+      * To add a bid multiplier for an existing target, enter the target using the same syntax visible in the user interface and the corresponding bid multiplier value.
+        
+      * To remove a bid modifier, set the bid multiplier value to 1.0 or delete all information for the row.
+
+      ![Example row in a bid multiplier spreadsheet file](/help/dsp/assets/bid-multiplier-spreadsheet.png "Example row in a bid multiplier spreadsheet file")
+
+   1.  Click **[!UICONTROL Next]** to move to the [!UICONTROL Upload File] section and either a) drag and drop the edited file into the box or b) click inside the box to select the file from your device or network.
+   
+   1. Verify the uploaded data in the [!UICONTROL Review & Submit] section, and then click **[!UICONTROL Save]**.
 
 ## Target Types Eligible for Bid Multipliers {#bid-multiplier-by-target}
 
