@@ -17,7 +17,7 @@ There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 
 ## Step 1: Create an audience source in DSP {#source-create}
 
-1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account, specifying the [universal ID formats](source-about.md) to which you want to convert your user identifiers.
+1. [Create an audience source](source-manage.md) to import audiences to your DSP account or an advertiser account, specifying the [universal ID formats](source-about.md) to which you want to convert your user identifiers.
 
 1. After you create the audience source, share the source code key with the [!DNL ActionIQ] user.
 
