@@ -37,7 +37,7 @@ The segment mapping and uploading for each import job may take up to seven days.
 >[!MORELIKETHIS]
 >
 >* [About First-Party Audience Sources](source-about.md)
->* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
+>* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
 >* [Audience Source Settings](source-settings.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)

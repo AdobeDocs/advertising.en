@@ -136,7 +136,7 @@ index: yes
     + Workflows by Customer Data Platform {#sources-workflows}
       + [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
       + [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
-    + [Create an Audience Source to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-create.md)
+    + [Manage Audience Sources to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-manage.md)
     + [Audience Source Settings](/help/dsp/audiences/sources/source-settings.md)
   + [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
   + [Available Third-party Data Providers](/help/dsp/audiences/third-party-data-providers.md)

@@ -120,7 +120,7 @@ If you can't resolve the issue, then contact your Adobe Account Team.
 
 >[!MORELIKETHIS]
 >
->* [Create an Audience Source to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-create.md)
+>* [Manage Audience Sources to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-manage.md)
 >* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
 >* [Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)

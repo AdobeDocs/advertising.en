@@ -38,7 +38,7 @@ Segments are refreshed every 24 hours. However, inclusion in a segment expires a
 
 >[!MORELIKETHIS]
 >
->* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
+>* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
 >* [Audience Source Settings](source-settings.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Destinations catalog overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
