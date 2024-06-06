@@ -38,39 +38,39 @@ To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs, you must do the 
 
 ## Step 2: Create an audience source in DSP {#source-create}
 
-1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account. You can choose to convert your user identifiers to any of the [available universal ID formats](source-about.md).
+1. [Create an audience source](source-manage.md) to import audiences to your DSP account or an advertiser account. You can choose to convert your user identifiers to any of the [available universal ID formats](source-about.md).
 
-   The source settings will include an auto-generated source key, wich you'll use to prepare the segment-mapping data.
+   The source settings will include an auto-generated source key, which you'll use to prepare the segment-mapping data.
 
 1. After you create the audience source, share the source code key with the [!DNL Tealium] user.
 
 ## Step 3: Prepare and share segment-mapping data {#map-data}
 
-1. The advertiser must prepare and share segment-mapping data:
+The advertiser must prepare and share segment-mapping data.
 
-   1. The advertiser must prepare the data within [!DNL Tealium]:
+1. The advertiser must prepare the data within [!DNL Tealium]:
    
-      1. Hash the email IDs for the advertiser's audience using the SHA-256 algorithm.
+   1. Hash the email IDs for the advertiser's audience using the SHA-256 algorithm.
 
-      1. Map the column containing hashed email IDs to the attribute of the type of Visitor ID.
+   1. Map the column containing hashed email IDs to the attribute of the type of Visitor ID.
 
-      1. Create the audience with the `Tealium_visitor_id` attribute. Apply the right enrichment to trigger the audience. See the [[!DNL Tealium] documentation on visitor ID attributes](https://docs.tealium.com/server-side/visitor-stitching/visitor-id-attribute/).
+   1. Create the audience with the `Tealium_visitor_id` attribute. Apply the right enrichment to trigger the audience. See the [[!DNL Tealium] documentation on visitor ID attributes](https://docs.tealium.com/server-side/visitor-stitching/visitor-id-attribute/).
    
-   1. The advertiser must give segment-mapping data to the Adobe Account Team to create the segments in DSP. Use the following column names and values in a comma-separated values file:
+1. The advertiser must give segment-mapping data to the Adobe Account Team to create the segments in DSP. Use the following column names and values in a comma-separated values file:
 
-      * **External Segment Key:** The external segment key, which you'll later specify in the action settings for the connector in [!DNL Tealium]. The recommended naming convention is "`<DSP source key>_<Tealium segment name>`," such as "57bf424dc10_coffee-drinkers." For the DSP source key, use the [!UICONTROL Source Key] from the DSP audience source settings.
-      
-      * **Segment Name:** The segment name.
-      
-      * **Segment Description:** The purpose or rule of the segment, or both.
-      
-      * **Parent ID:** Keep blank
-      
-      * **Video CPM:** 0
-
-      * **Display CPM:** 0
-
-      * **Segment Window:** The segment time-to-live.
+   * **External Segment Key:** The external segment key, which you'll later specify in the action settings for the connector in [!DNL Tealium]. The recommended naming convention is "`<DSP source key>_<Tealium segment name>`," such as "57bf424dc10_coffee-drinkers." For the DSP source key, use the [!UICONTROL Source Key] from the DSP audience source settings.
+   
+   * **Segment Name:** The segment name.
+   
+   * **Segment Description:** The purpose or rule of the segment, or both.
+   
+   * **Parent ID:** Keep blank
+   
+   * **Video CPM:** 0
+   
+   * **Display CPM:** 0
+   
+   * **Segment Window:** The segment time-to-live.
 
 ## Step 4: Create connectors in [!DNL Tealium] to share segment data {#tealium-connector}
 
@@ -141,13 +141,12 @@ After you complete all steps, verify in your audience library (which is availabl
 The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue. For more information about how the segment counts can vary, see "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
 
 Segments are refreshed every 24 hours. However, inclusion in a segment expires after 30 days to ensure privacy compliance, so refresh the audiences by re-pushing them from [!DNL Tealium] every 30 days or less.
-   
+
 For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]
 >
 >* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
->* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
->* [Audience Source Settings](source-settings.md)
->* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+>* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
+>* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
