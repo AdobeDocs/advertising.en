@@ -148,7 +148,6 @@ For troubleshooting support, contact your Adobe Account Team or `adcloud-support
 >
 >* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
 >* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
->* [Audience Source Settings](source-settings.md)
 >* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
 
