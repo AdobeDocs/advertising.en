@@ -26,13 +26,13 @@ You can create one source for each combination of universal ID partner and data 
 
 1. Click **[!UICONTROL Add Source]**.
 
-1. In the [!UICONTROL Select a Type] menu, select your customer data platform:
+1. In the [!UICONTROL Select a Type] menu, select your [customer data platform](source-about.md):
 
-   * *[!UICONTROL RT-CDP]*: [The [!DNL Adobe Real-Time Customer Data Platform]](source-about.md).
+   * *[!UICONTROL RT-CDP]*: The [!DNL Adobe Real-Time Customer Data Platform].
 
-   * *[!UICONTROL ActionIQ]*: The [[!DNL ActionIQ] customer data platform](source-about.md).
+   * *[!UICONTROL ActionIQ]*: The [!DNL ActionIQ] customer data platform.
 
-   * *[!UICONTROL Tealium CDP]*: (Configured users only) The [[!DNL Tealium] customer data platform](source-about.md).
+   * *[!UICONTROL Tealium CDP]*: (Configured users only) The [!DNL Tealium] customer data platform.
 
 1. Specify the [!UICONTROL Data Visibility Level]: *[!UICONTROL Advertiser]* or *[!UICONTROL Account]*.
 
