@@ -38,7 +38,7 @@ You can create one source for each combination of universal ID partner and data 
 
 1. Specify the [!UICONTROL Data Visibility Level]: *[!UICONTROL Advertiser]* or *[!UICONTROL Account]*.
 
-1. Enter the remaining [source settings](source-settings.md).
+1. Enter the remaining [source settings](#source-settings).
 
    Keep a copy of the [!UICONTROL Source Key] that is generated. You'll need the value later.
 
@@ -63,7 +63,7 @@ All changes to universal IDs translated from the source are applied after you sa
 
 1. Hold the cursor over the source row and click **[!UICONTROL Edit]**.
 
-1. Change the [IDs selected for the source](source-settings.md).
+1. Change the [IDs selected for the source](#source-settings).
 
 1. Click **[!UICONTROL Save]**.
 
@@ -95,7 +95,7 @@ You can view details about changes to an audience source record and optionally a
 
 1. (Optional) To open the log in a larger detail screen, hold the cursor over the source row and click **[!UICONTROL View Details]**.
 
-## Audience Source Settings
+## Audience Source Settings {#source-settings}
 
 **[!UICONTROL Data Visibility Level]:** Whether the segments are available to a single advertiser with access to the account (*[!UICONTROL Advertiser]*) or to all advertisers with access to the account *[!UICONTROL Account]*.
 

@@ -112,7 +112,7 @@ If you're not seeing user counts, or your audience sizes are low, then check the
 
 * Make sure that the correct, universal ID partner-specific code is implemented on your website to match on-site events and ad exposures. Work with your [!DNL LiveRamp] or [!DNL ID5] representative as needed.
 
-* (For [!DNL RampIDs] and [!DNL UID 2.0] IDs) Make sure that your [DSP data source is configured correctly](/help/dsp/audiences/sources/source-settings.md), and that user counts are populated for the generated audience segments.
+* (For [!DNL RampIDs] and [!DNL UID 2.0] IDs) Make sure that your [DSP data source is configured correctly](/help/dsp/audiences/sources/source-manage.md#source-settings), and that user counts are populated for the generated audience segments.
 
 * If your reach is less than you expect, check that the audience segment logic isn't too granular.
 
