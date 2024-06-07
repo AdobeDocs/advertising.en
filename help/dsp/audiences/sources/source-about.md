@@ -84,8 +84,11 @@ You can share your organization's first-party data from the [!DNL Tealium] custo
 >
 >* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
->* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
->* [Audience Source Settings](source-settings.md)
+>* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
 >* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+
+<!--
+>* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
+-->

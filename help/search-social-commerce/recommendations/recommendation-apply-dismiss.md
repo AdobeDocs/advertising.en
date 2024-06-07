@@ -6,9 +6,9 @@ feature: Search Recommendations
 ---
 # Apply or dismiss a publisher recommendation
  
-*[!DNL Google Ads] and [!DNL Microsoft&reg; Advertising] accounts*
+*[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts*
 
-*Beta feature for [!DNL Microsoft&reg; Advertising] accounts*
+*Beta feature for [!DNL Microsoft Advertising] accounts*
 
 View the recommended actions, and an explanation of why the actions would be beneficial, for a publisher recommendation. You can then apply the recommendation when it aligns with your business goals, and dismiss a recommendation when it doesn't.
 
@@ -20,7 +20,7 @@ View the recommended actions, and an explanation of why the actions would be ben
 
 1. In the upper right, select the ad network and the account.
 
-   For [!DNL Microsoft&reg; Advertising] accounts, the [!UICONTROL Recommendations] for the account are listed by default.
+   For [!DNL Microsoft Advertising] accounts, the [!UICONTROL Recommendations] for the account are listed by default.
 
 1. (Optional) Filter the recommendations by category and type.
 
