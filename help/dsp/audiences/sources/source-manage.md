@@ -32,6 +32,10 @@ You can create one source for each combination of universal ID partner and data 
 
    * *[!UICONTROL ActionIQ]*: The [!DNL ActionIQ] customer data platform.
 
+   * *[!UICONTROL Amperity]*: The [!DNL Amperity] customer data platform.
+
+   * *[!UICONTROL Optimizely]*: The [!DNL Optimizely]: The [!DNL Amperity] customer data platform.
+
    * *[!UICONTROL Tealium CDP]*: (Configured users only) The [!DNL Tealium] customer data platform.
 
 1. Specify the [!UICONTROL Data Visibility Level]: *[!UICONTROL Advertiser]* or *[!UICONTROL Account]*.
@@ -125,6 +129,7 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 >[!MORELIKETHIS]
 >
 >* [About First-Party Audience Sources](source-about.md)
->* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
->* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Convert User IDs from [!DNL Amperity] to Universal IDs](/help/dsp/audiences/sources/source-amperity.md)
+>* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
+>* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
