@@ -74,7 +74,15 @@ To enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segme
 
 ### [!DNL ActionIQ]
 
-You can share your organization's first-party data from the [!DNL Action IQ] customer data platform with DSP to convert your hashed email addresses to universal IDs for targeted advertising in DSP. This integration requires customization. Contact your Adobe Account Team for more information.
+You can share your organization's first-party data from the [!DNL ActionIQ] customer data platform with DSP to convert your hashed email addresses to universal IDs for targeted advertising in DSP. This integration requires customization. Contact your Adobe Account Team for more information.
+
+### [!DNL Amperity]
+
+You can share your organization's first-party data from the [!DNL Amperity] customer data platform with DSP to convert your hashed email addresses to universal IDs for targeted advertising in DSP. For more information, see "[Convert User IDs from [!DNL Amperity] to Universal IDs](/help/dsp/audiences/sources/source-amperity.md)."
+
+### [!DNL Optimizely]
+
+You can share your organization's first-party data from the [!DNL Optimizely] customer data platform with DSP to convert your hashed email addresses to universal IDs for targeted advertising in DSP. For more information, see "[Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)."
 
 ### [!DNL Tealium]
 
@@ -83,12 +91,10 @@ You can share your organization's first-party data from the [!DNL Tealium] custo
 >[!MORELIKETHIS]
 >
 >* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+>* [Convert User IDs from [!DNL Amperity] to Universal IDs](/help/dsp/audiences/sources/source-amperity.md)
+>* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
 >* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
 >* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
 >* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
-
-<!--
->* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
--->
