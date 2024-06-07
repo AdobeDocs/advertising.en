@@ -48,7 +48,7 @@ You can create one source for each combination of universal ID partner and data 
 
 >[!NOTE]
 >
->After you create a source for your customer data platform, you'll need to complete additional steps. See the [workflow for importing audiences from [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md)<!-- the [activation workflow for [!DNL ActionIQ]](source-actioniq.md), --> and the [workflow for importing audiences from [!DNL Tealium]](source-tealium.md).
+>After you create a source for your customer data platform, you'll need to complete additional steps to import your audience. See the [workflow for [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md)<!-- the [workflow for [!DNL ActionIQ]](source-actioniq.md), --> the [workflow for [!DNL Amperity]](source-amperity.md), the [workflow for [!DNL Optimizely]](source-optimizely.md), and the [workflow for [!DNL Tealium]](source-tealium.md).
 
 ## Change the ID Types for an Audience Source
 
@@ -129,6 +129,8 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 >[!MORELIKETHIS]
 >
 >* [About First-Party Audience Sources](source-about.md)
+>* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
+>* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [Convert User IDs from [!DNL Amperity] to Universal IDs](/help/dsp/audiences/sources/source-amperity.md)
 >* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
 >* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
