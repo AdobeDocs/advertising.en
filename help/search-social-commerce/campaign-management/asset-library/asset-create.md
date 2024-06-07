@@ -8,8 +8,6 @@ exl-id: dd6fc5bf-3e3e-4e8f-b20b-37b9311fcf9f
 
 *For [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
-*Open beta feature*
-
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Asset Library]**.
 
 1. In the upper right, select the ad network and the account.

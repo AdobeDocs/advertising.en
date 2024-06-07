@@ -10,8 +10,6 @@ exl-id: b1484114-21cb-4aba-9f23-d9d8ce0559dd
 
 *For [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
-*Open beta feature*
-
 In [!UICONTROL Campaigns] > [!UICONTROL Asset Library], you can create reusable image, video, and (for [!DNL Google Ads] only) text assets and upload them to your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries.
 
 When you create or edit performance max campaigns in Advertising Search, you can select from all existing assets in your ad network-specific asset library (including the assets you've uploaded from here) for images, logos, and videos. You can also upload new assets.

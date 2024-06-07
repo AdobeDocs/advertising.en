@@ -7,8 +7,6 @@ exl-id: 8a9d99b1-c90b-4a1c-9516-85edc9024a7c
 # View your publisher recommendations and performance insights 
 
 *[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts*
-
-*Beta feature for [!DNL Microsoft Advertising] accounts*
  
 ## View your publisher recommendations
 

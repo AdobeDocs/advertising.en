@@ -8,8 +8,6 @@ feature: Search Recommendations
  
 *[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts*
 
-*Beta feature for [!DNL Microsoft Advertising] accounts*
-
 View the recommended actions, and an explanation of why the actions would be beneficial, for a publisher recommendation. You can then apply the recommendation when it aligns with your business goals, and dismiss a recommendation when it doesn't.
 
 >[!NOTE]
