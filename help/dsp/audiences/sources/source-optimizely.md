@@ -11,7 +11,7 @@ Use the DSP integration with the [!DNL Optimizely] customer data platform to con
 
 1. [Create an audience source in DSP](#source-create).
 
-1. [Prepare and push the segment data in [!DNL Optimizely Data Platform]](#push-data).
+1. [Prepare and push the segment data](#push-data).
 
 1. [Compare the number of universal IDs with the number of hashed email addresses](#compare-id-count).
 
@@ -39,17 +39,19 @@ To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs, you must do the 
 
 ## Step 3: Prepare and push the segment data {#push-data}
 
-The advertiser must prepare and push the data within [!DNL Optimizely Data Platform].  **[Are they using the Optimizely Data Platform?]**  <!-- Data Platform? -->
+The advertiser must prepare and push the data with the help of their [!DNL Optimizely] representative.
 
-1. Hash the email IDs for the advertiser's audience using the SHA-256 algorithm.
+1. Within [!DNL Optimizely Data Platform], hash the email IDs for the advertiser's audience using the SHA-256 algorithm.
 
-1. Push the segment to DSP, including the following fields:
-
-   **[Are they using the Data Platform web services, another type of API, or a UI? Add a link to instructions. And where will they input these fields?]**  <!-- Are they using the Data Platform web services or what? Add a link to instructions. And where will they input these fields?  -->
+1. Contact the advertiser's [!DNL Optimizely] representative to push the segment to DSP. Give them the following information:
 
    * **Source Key:** This is the source key created in [Step 2](#source-create).
    
    * **Account Code:** This is the alphanumeric DSP Account Code, which you can find within DSP at [!UICONTROL Settings] > [!UICONTROL Account].
+
+<!--
+Are they using the Data Platform web services, another type of API, or a UI? Add a link to instructions, including how to designate DSP as the destination. And where will they input the DSP-specific fields?]
+-->
 
 ## Step 4: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
