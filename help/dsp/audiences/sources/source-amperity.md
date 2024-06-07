@@ -17,7 +17,7 @@ Use the DSP integration with the [!DNL Amperity] customer data platform to conve
 
 1. [Compare the number of universal IDs with the number of hashed email addresses](#compare-id-count).
 
-The segments should be available in DSP within 24 hours and are refreshed every 24 hours. **[True, or different expectations for Amperity?]**
+The segments should be available in DSP within 24 hours and are refreshed every 24 hours.
 
 ## Step 1: Set up tracking for [!DNL Analytics] measurement {#analytics-tracking}
 
