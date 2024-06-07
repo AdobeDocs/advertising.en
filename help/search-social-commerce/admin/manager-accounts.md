@@ -6,8 +6,6 @@ feature: Search Admin
 ---
 # Manage credentials for ad network manager accounts
 
-*Beta Feature*
-
 *[!DNL Google Ads] accounts only*
 
 Provide the credentials for your [!DNL Google Ads] manager accounts to which you want Search, Social, & Commerce to upload cross-account conversions. Use this feature if you want to a) upload [!DNL Adobe]-tracked, cross-account conversion metrics to a [!DNL Google Ads] manager account or b) upload portfolio objectives that include cross-account conversions to [!DNL Google Ads] for hybrid optimization.

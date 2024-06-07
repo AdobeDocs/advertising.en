@@ -6,7 +6,7 @@ feature: Search Inventory Feeds
 ---
 # Post campaign data generated from feeds to ad networks
 
-*[!DNL Google Ads], [!DNL Microsoft&reg; Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
 You can post campaign data generated from a feed as you propagate the data through the associated templates or as a separate process. Once you post data, any existing propagated data is removed from the [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], and [!UICONTROL Ads] lists.
 

@@ -18,7 +18,7 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
    
       * **For [!DNL RampIDs]:** You must deploy an additional JavaScript tag on your webpages to match conversions from the IDs on desktop and mobile web browsers (but not mobile apps) to view-throughs. Contact your Adobe Account Team, who will give you instructions to register for a [!DNL LiveRamp] [!DNL LaunchPad] tag from [!DNL LiveRamp] Authentication Traffic Solutions. Registration is free, but you must sign an agreement. Once you register, your Adobe Account Team will generate and provide a unique tag for your organization to implement on your webpages.
 
-1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account. You can choose to convert your user identifiers to any of the [available universal ID formats](source-about.md).
+1. [Create an audience source](source-manage.md) to import audiences to your DSP account or an advertiser account. You can choose to convert your user identifiers to any of the [available universal ID formats](source-about.md).
 
    The source settings will include an auto-generated source key, which you'll use in the next step.
 
@@ -38,10 +38,13 @@ Segments are refreshed every 24 hours. However, inclusion in a segment expires a
 
 >[!MORELIKETHIS]
 >
->* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
->* [Audience Source Settings](source-settings.md)
+>* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Destinations catalog overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
 >* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
+
+<!--
+>* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
+-->

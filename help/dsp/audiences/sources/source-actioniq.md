@@ -17,7 +17,7 @@ There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 
 ## Step 1: Create an audience source in DSP {#source-create}
 
-1. [Create an audience source](source-create.md) to import audiences to your DSP account or an advertiser account, specifying the [universal ID formats](source-about.md) to which you want to convert your user identifiers.
+1. [Create an audience source](source-manage.md) to import audiences to your DSP account or an advertiser account, specifying the [universal ID formats](source-about.md) to which you want to convert your user identifiers.
 
 1. After you create the audience source, share the source code key with the [!DNL ActionIQ] user.
 
@@ -34,8 +34,11 @@ Segments are refreshed every 24 hours.
 >[!MORELIKETHIS]
 >
 >* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
->* [Create an Audience Source to Activate Universal ID Audiences](source-create.md)
->* [Audience Source Settings](source-settings.md)
+>* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
 >* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
+
+<!--
+>* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
+-->
