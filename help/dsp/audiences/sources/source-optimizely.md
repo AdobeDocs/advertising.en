@@ -43,7 +43,7 @@ The advertiser must prepare and push the data with the help of their [!DNL Optim
 
 1. Within [!DNL Optimizely Data Platform], hash the email IDs for the advertiser's audience using the SHA-256 algorithm.
 
-1. Contact the advertiser's [!DNL Optimizely] representative to push the segment to DSP. Give them the following information:
+1. Contact the advertiser's [!DNL Optimizely] representative for instructions to push the segment to DSP. Include the following information when you push the segment:
 
    * **Source Key:** This is the source key created in [Step 2](#source-create).
    
