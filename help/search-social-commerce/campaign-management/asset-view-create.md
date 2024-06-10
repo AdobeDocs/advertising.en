@@ -1,12 +1,18 @@
 ---
-title: Create and upload assets
-description: Learn how to create reusable image, video, and text assets and upload them to your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries.
+title: View and create ad assets from your [!UICONTROL Asset Library]
+description: Learn how to view and create reusable image, video, and text assets for your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries.
 feature: Search Campaign Management
 exl-id: dd6fc5bf-3e3e-4e8f-b20b-37b9311fcf9f
 ---
-# Create and upload assets
+# View and create ad assets from your [!UICONTROL Asset Library]
 
 *For [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
+
+In [!UICONTROL Campaigns] > [!UICONTROL Asset Library], you can view all reusable image, video, and (for [!DNL Google Ads] only) text assets in your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries. You can also create new assets for an ad network account and upload them to the ad network.
+
+You can use any of the assets for your performance max campaigns.
+
+## Create and upload assets
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Asset Library]**.
 
@@ -54,4 +60,5 @@ exl-id: dd6fc5bf-3e3e-4e8f-b20b-37b9311fcf9f
 
 >[!MORELIKETHIS]
 >
->* [About the [!UICONTROL Asset Library]](asset-library-about.md)
+>* [[!DNL Google Ads] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
+>* [[!DNL Microsoft Advertising] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)
