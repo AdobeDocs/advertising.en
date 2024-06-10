@@ -36,35 +36,49 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 ## Supported recommendation types for [!DNL Google Ads]
 
+<!--
+
+-- Add to "Bidding and budget" section of table
+
+| | [!UICONTROL Forecasting set Target CPA] | Set a target CPA for campaigns without one before a seasonal event that's forecasted to increase traffic |
+
+| | [!UICONTROL Set Target CPA] | Set a target CPA for campaigns without one |
+
+| | [!UICONTROL Set ROAS Target] | Set a target ROAS for campaigns without one |
+
+-->
+
 | Recommendation Category | Recommendation Type | Description |
 | --- | --- | --- |
 | [!UICONTROL Ads and extensions] (now called "[!DNL Ads and assets]" in [!DNL Google Ads]) | [!UICONTROL Call extension] | Add call extensions to a campaign |
 | | [!UICONTROL Callout extension] | Add callout extensions to a campaign |
 | | [!UICONTROL Optimize ad rotation] | Use optimized ad rotations |
-| | [!UICONTROL Responsive search ad] | Add new responsive search ad |
+| | [!UICONTROL Responsive search ad] | Add a new responsive search ad |
 | | [!UICONTROL Responsive search ad asset] | Add responsive search ad assets to an ad |
 | | [!UICONTROL Responsive search improve ad strength] | Suggestions to improve ad strength for a responsive search ad |
 | | [!UICONTROL Sitelink extension] | Add sitelink extensions to a campaign |
-| | [!UICONTROL Text ad] | Add ad suggestions |
-| [!UICONTROL Automated campaigns] | [!UICONTROL DSA to performance max migration] | Migrate dynamic search ads to performance max campaigns. |
-| | [!UICONTROL Dynamic image extension opt in] | Enable dynamic image extensions for the account, which allows [!DNL Google Ads] machine learning to automatically append the most relevant images from your ad's landing page to your ad. |
-| | [!UICONTROL Improve performance max ad strength] | Improve the asset group strength of a performance max campaign so that it has an "Excellent" rating. |
-| | [!UICONTROL Performance max opt in] |Opt in to performance max campaigns.  |
+| | [!UICONTROL Text ad] | Add a new text ad |
+| [!UICONTROL Automated campaigns] | [!UICONTROL DSA to performance max migration] | Migrate dynamic search ads to performance max campaigns |
+| | [!UICONTROL Dynamic image extension opt in] | Enable dynamic image extensions for the account, which allows [!DNL Google Ads] machine learning to automatically append the most relevant images from your ad's landing page to your ad |
+| | [!UICONTROL Improve performance max ad strength] | Improve the asset group strength of a performance max campaign to an "Excellent" rating |
+| | [!UICONTROL Performance max final URL opt in] | Turn on final URL expansion for your performance max campaigns  |
+| | [!UICONTROL Performance max opt in] | Opt in to performance max campaigns  |
 | | [!UICONTROL Upgrade local campaign to performance max] | Upgrade a legacy local campaign to a performance max campaign |
 | | [!UICONTROL Upgrade smart shopping campaign to performance max] | Upgrade a legacy smart shopping campaign to a performance max campaign |
-| [!UICONTROL Bidding and budget] | [!UICONTROL Campaign budget] | Fix campaigns limited by budget |
+| [!UICONTROL Bidding and budget] | [!UICONTROL Campaign budget] | Recommended budget for a campaign that's currently limited by budget |
 | | [!UICONTROL Enhanced CPC opt in] | Bid with [!UICONTROL Enhanced CPC] |
-| | [!UICONTROL Forecasting campaign budget] | Fix campaigns that are expected to become limited by budget in the future |
-| | [!UICONTROL Forecasting set Target ROAS] | Raise the budget before a seasonal event that is forecasted to increase traffic, and change the bidding strategy from [!UICONTROL Maximize Conversion Value] to [!UICONTROL Target ROAS]  |
+| | [!UICONTROL Forecasting campaign budget] | Recommended budget for a campaign that's expected to become limited by budget in the future |
+| | [!UICONTROL Forecasting set Target ROAS] | Raise the budget before a seasonal event that's forecasted to increase traffic, and change the bidding strategy from [!UICONTROL Maximize Conversion Value] to [!UICONTROL Target ROAS]  |
 | | [!UICONTROL Marginal ROI campaign budget] | Adjust campaign budget to increase ROI |
-| | [!UICONTROL Maximize clicks opt in] | Bid with [!UICONTROL Maximize Clicks] |
-| | [!UICONTROL Maximize conversions opt in] | Bid with [!UICONTROL Maximize Conversions] |
-| | [!UICONTROL Move unused budget] | Move unused to constrained budgets |
+| | [!UICONTROL Maximize clicks opt in] | Change to the [!UICONTROL Maximize Clicks] bidding strategy |
+| | [!UICONTROL Maximize conversion value opt in] | Change to the Maximize Conversion Value bidding strategy |
+| | [!UICONTROL Maximize conversions opt in] | Change to the [!UICONTROL Maximize Conversions] bidding strategy |
+| | [!UICONTROL Move unused budget] | Move unused budget to a constrained budget |
 | | [!UICONTROL Raise Target CPA bid too low] | Raise the [!UICONTROL Target CPA] by a recommended amount when it's too low and there are few or no conversions |
-| | [!UICONTROL Target CPA opt in] | Bid with [!UICONTROL Target CPA] |
-| | [!UICONTROL Target CPA raising] | Raise the [!UICONTROL Target CPA] based on [!DNL Google Ads] predictions, which are calculated from past conversions. |
-| | [!UICONTROL Target ROAS lowering] | Lower the [!UICONTROL Target ROAS] based on [!DNL Google Ads] predictions, which are calculated from past conversions. |
-| | [!UICONTROL Target ROAS opt in] | Bid with [!UICONTROL Target ROAS] |
+| | [!UICONTROL Target CPA opt in] | Change to the [!UICONTROL Target CPA] bidding strategy |
+| | [!UICONTROL Target CPA raising] | Raise the [!UICONTROL Target CPA] based on [!DNL Google Ads] predictions, which are calculated from past conversions |
+| | [!UICONTROL Target ROAS lowering] | Lower the [!UICONTROL Target ROAS] based on [!DNL Google Ads] predictions, which are calculated from past conversions |
+| | [!UICONTROL Target ROAS opt in] | Change to the [!UICONTROL Target ROAS] bidding strategy |
 | [!UICONTROL Keywords and targeting] | [!UICONTROL Display expansion opt in] | Expand reach by updating a campaign to use display expansion |
 | | [!UICONTROL Keyword] | Add new keywords |
 | | [!UICONTROL Search partners opt in] | Expand reach with [!DNL Google] search partners |
@@ -74,7 +88,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 | Recommendation Category | Recommendation Type | Description |
 | --- | --- | --- |
-| [!UICONTROL Ads and extensions]  | [!UICONTROL Responsive search ad] | Add new responsive search ad |
+| [!UICONTROL Ads and extensions]  | [!UICONTROL Responsive search ad] | Add a new responsive search ad |
 | [!UICONTROL Bidding and budgets]  | [!UICONTROL Campaign budget] | Fix campaigns limited by budget |
 | [!UICONTROL Keywords and targeting]  | [!UICONTROL Keyword] | Add new keywords from all sources |
 
