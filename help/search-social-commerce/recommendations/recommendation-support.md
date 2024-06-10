@@ -36,18 +36,6 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 ## Supported recommendation types for [!DNL Google Ads]
 
-<!--
-
--- Add to "Bidding and budget" section of table
-
-| | [!UICONTROL Forecasting set Target CPA] | Set a target CPA for campaigns without one before a seasonal event that's forecasted to increase traffic |
-
-| | [!UICONTROL Set Target CPA] | Set a target CPA for campaigns without one |
-
-| | [!UICONTROL Set ROAS Target] | Set a target ROAS for campaigns without one |
-
--->
-
 | Recommendation Category | Recommendation Type | Description |
 | --- | --- | --- |
 | [!UICONTROL Ads and extensions] (now called "[!DNL Ads and assets]" in [!DNL Google Ads]) | [!UICONTROL Call extension] | Add call extensions to a campaign |
@@ -68,6 +56,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | [!UICONTROL Bidding and budget] | [!UICONTROL Campaign budget] | Recommended budget for a campaign that's currently limited by budget |
 | | [!UICONTROL Enhanced CPC opt in] | Bid with [!UICONTROL Enhanced CPC] |
 | | [!UICONTROL Forecasting campaign budget] | Recommended budget for a campaign that's expected to become limited by budget in the future |
+| | [!UICONTROL Forecasting set Target CPA] | Set a target CPA for campaigns without one before a seasonal event that's forecasted to increase traffic |
 | | [!UICONTROL Forecasting set Target ROAS] | Raise the budget before a seasonal event that's forecasted to increase traffic, and change the bidding strategy from [!UICONTROL Maximize Conversion Value] to [!UICONTROL Target ROAS]  |
 | | [!UICONTROL Marginal ROI campaign budget] | Adjust campaign budget to increase ROI |
 | | [!UICONTROL Maximize clicks opt in] | Change to the [!UICONTROL Maximize Clicks] bidding strategy |
@@ -75,6 +64,8 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Maximize conversions opt in] | Change to the [!UICONTROL Maximize Conversions] bidding strategy |
 | | [!UICONTROL Move unused budget] | Move unused budget to a constrained budget |
 | | [!UICONTROL Raise Target CPA bid too low] | Raise the [!UICONTROL Target CPA] by a recommended amount when it's too low and there are few or no conversions |
+| | [!UICONTROL Set Target CPA] | Set a target CPA for campaigns without one |
+| | [!UICONTROL Set Target ROAS] | Set a target ROAS for campaigns without one |
 | | [!UICONTROL Target CPA opt in] | Change to the [!UICONTROL Target CPA] bidding strategy |
 | | [!UICONTROL Target CPA raising] | Raise the [!UICONTROL Target CPA] based on [!DNL Google Ads] predictions, which are calculated from past conversions |
 | | [!UICONTROL Target ROAS lowering] | Lower the [!UICONTROL Target ROAS] based on [!DNL Google Ads] predictions, which are calculated from past conversions |
