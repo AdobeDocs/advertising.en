@@ -17,8 +17,6 @@ Use the DSP integration with the [!DNL Amperity] customer data platform to conve
 
 1. [Compare the number of universal IDs with the number of hashed email addresses](#compare-id-count).
 
-The segments should be available in DSP within 24 hours and are refreshed every 24 hours.
-
 ## Step 1: Set up tracking for [!DNL Analytics] measurement {#analytics-tracking}
 
 *Advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md))*
@@ -63,17 +61,17 @@ The advertiser must prepare and share segment-mapping data.
    
 ## Step 4: Request a data push from [!DNL Amperity] to DSP {#push-data}
 
-After the segment is mapped within DSP, the advertiser must work with their [!DNL Amperity] representative to distribute the segment data to DSP.  
+1. After the segment is mapped within DSP, the advertiser must work with their [!DNL Amperity] representative to distribute the segment data to DSP.
 
-The advertiser must then confirm with the Adobe Account Team that the segment data was received.
+1. The advertiser must then confirm with the Adobe Account Team that the segment data was received.
+
+The segments should be available in DSP within 24 hours and are refreshed as configured for the advertiser. Regardless of how frequently the segment is refreshed, inclusion in a segment expires after 30 days to ensure privacy compliance, so refresh the audiences by re-pushing them from [!DNL Amperity] every 30 days or less.
 
 ## Step 5: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
 After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is available and is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
 
 The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue. For more information about how the segment counts can vary, see "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
-
-Segments are refreshed every 24 hours. However, inclusion in a segment expires after 30 days to ensure privacy compliance, so refresh the audiences by re-pushing them from [!DNL Amperity] every 30 days or less.
 
 For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
