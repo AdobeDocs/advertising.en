@@ -106,7 +106,7 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 ## Troubleshooting
 
-If you're not seeing user counts, or your audience sizes are low, then check the following:
+If you don't see user counts, or if your audience sizes are low, then check the following:
 
 * If you use [!DNL Flashtalking] or [!DNL Google Campaign Manager 360] ads, then make sure that your ads' clickthrough URLs are appended with the correct macros. See the macros for [[!DNL Flashtalking] ads](/help/integrations/analytics/macros-flashtalking.md) and [[!DNL Google Campaign Manager 360] ads](/help/integrations/analytics/macros-google-campaign-manager.md).
 
