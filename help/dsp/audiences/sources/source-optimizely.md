@@ -5,6 +5,8 @@ feature: DSP Audiences
 ---
 # Convert User IDs from [!DNL Optimizely] to Universal IDs
 
+*Beta feature*
+
 Use the DSP integration with the [!DNL Optimizely] customer data platform to convert your organization's first-party hashed email addresses to universal IDs for targeted advertising.
 
 1. (To convert email addresses to [!DNL RampIDs]<!-- or [!DNL ID5] IDs -->; advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) [Set up tracking to enable [!DNL Analytics] measurement](#analytics-tracking).
