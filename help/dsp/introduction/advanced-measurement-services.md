@@ -23,9 +23,9 @@ The following measurement solution packages are available to validate the succes
 
      * Cross-ID Household Reach, Frequency, & Conversion (Cookieless)
      
-       <!-- * Quantify unique/incremental reach, overlap, and conversions at a household level by cookieless ID type (RampID, ID5) across multiple environments, including connected TV (CTV) and digital (desktop, mobile, native, and audio). -->
+       <!-- Hide for now * Quantify unique/incremental reach, overlap, and conversions at a household level by cookieless ID type (RampID, ID5) across multiple environments, including connected TV (CTV) and digital (desktop, mobile, native, and audio). -->
        
-       <!-- * Prove the effectiveness of testing cookieless IDs in finding incremental reach relative to cookie-based segments. -->
+       <!-- Hide for now * Prove the effectiveness of testing cookieless IDs in finding incremental reach relative to cookie-based segments. -->
 
      * Average Time to Conversion
 
@@ -45,7 +45,7 @@ The following measurement solution packages are available to validate the succes
 
      Understand how audiences and tactics overlap at a person level, including exposures across multiple digital environments, such as desktop, mobile, native, and audio.
 
-  <!-- * **Cross-ID People-Based Reach**
+  <!-- Hide for now * **Cross-ID People-Based Reach**
 
       Quantify the unique reach and overlap between cookies and RampIDs, as well as the cost per metric by ID type. Prove the effectiveness of testing RampIDs in finding incremental reach relative to cookie-based segments across multiple digital environments, such as desktop, mobile, native, and audio. -->
 
