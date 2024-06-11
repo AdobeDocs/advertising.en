@@ -38,13 +38,9 @@ Segments are refreshed every 24 hours. However, inclusion in a segment expires a
 
 >[!MORELIKETHIS]
 >
+>* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
 >* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Destinations catalog overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
->* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
->* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
+>* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
-
-<!--
->* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
--->

@@ -1,17 +1,19 @@
 ---
-title: Convert User IDs from [!DNL Optimizely] to Universal IDs
-description: Learn how to enable DSP to ingest your [!DNL Optimizely] first-party segments.
+title: Convert User IDs from [!DNL Amperity] to Universal IDs
+description: Learn how to enable DSP to ingest your [!DNL Amperity] first-party segments.
 feature: DSP Audiences
 ---
-# Convert User IDs from [!DNL Optimizely] to Universal IDs
+# Convert User IDs from [!DNL Amperity] to Universal IDs
 
-Use the DSP integration with the [!DNL Optimizely] customer data platform to convert your organization's first-party hashed email addresses to universal IDs for targeted advertising.
+Use the DSP integration with the [!DNL Amperity] customer data platform to convert your organization's first-party hashed email addresses to universal IDs for targeted advertising.
 
 1. (To convert email addresses to [!DNL RampIDs]<!-- or [!DNL ID5] IDs -->; advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) [Set up tracking to enable [!DNL Analytics] measurement](#analytics-tracking).
 
 1. [Create an audience source in DSP](#source-create).
 
-1. [Prepare and push the segment data](#push-data).
+1. [Prepare and share segment-mapping data](#map-data).
+
+1. [Request a data push from [!DNL Amperity] to DSP](#push-data).
 
 1. [Compare the number of universal IDs with the number of hashed email addresses](#compare-id-count).
 
@@ -33,33 +35,44 @@ To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs, you must do the 
 
    The source settings will include an auto-generated source key, which you'll use to push the segment data.
 
-1. After you create the audience source, share the source code key with the [!DNL Optimizely] user.
+1. After you create the audience source, share the source code key with the [!DNL Amperity] user.
 
-## Step 3: Prepare and push the segment data {#push-data}
+## Step 3: Prepare and share segment-mapping data {#map-data}
 
-The advertiser must prepare and push the data with the help of their [!DNL Optimizely] representative.
+The advertiser must prepare and share segment-mapping data.
 
-1. Within [!DNL Optimizely Data Platform], hash the email IDs for the advertiser's audience using the SHA-256 algorithm.
+1. Within [!DNL Amperity], hash the email IDs for the audience using the SHA-256 algorithm.
 
-1. Contact the advertiser's [!DNL Optimizely] representative for instructions to push the segment to DSP. Include the following information when you push the segment:
+1. The advertiser must give segment-mapping data to the Adobe Account Team to create the segments in DSP. Use the following column names and values in a comma-separated values file:
 
-   * **Source Key:** This is the source key created in [Step 2](#source-create).
+   * **External Segment Key:** The [!DNL Amperity] segment key associated with the segment.
    
-   * **Account Code:** This is the alphanumeric DSP Account Code, which you can find within DSP at [!UICONTROL Settings] > [!UICONTROL Account].
+   * **Segment Name:** The segment name.
+      
+   * **Segment Description:** The purpose or rule of the segment, or both.
+      
+   * **Parent ID:** Keep blank
+      
+   * **Video CPM:** 0
+   
+   * **Display CPM:** 0
 
-The segments should be available in DSP within 24 hours and 
-are refreshed as configured for the advertiser. Regardless of how frequently the segment is refreshed, inclusion in a segment expires after 30 days to ensure privacy compliance, so refresh the audiences by re-pushing them from [!DNL Optimizely] every 30 days or less.
+   * **Segment Window:** The segment time-to-live.
+   
+## Step 4: Request a data push from [!DNL Amperity] to DSP {#push-data}
 
-<!--
-Are they using the Data Platform web services, another type of API, or a UI? Add a link to instructions, including how to designate DSP as the destination. And where will they input the DSP-specific fields?]
--->
+1. After the segment is mapped within DSP, the advertiser must work with their [!DNL Amperity] representative to distribute the segment data to DSP.
 
-## Step 4: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
+1. The advertiser must then confirm with the Adobe Account Team that the segment data was received.
+
+The segments should be available in DSP within 24 hours and are refreshed as configured for the advertiser. Regardless of how frequently the segment is refreshed, inclusion in a segment expires after 30 days to ensure privacy compliance, so refresh the audiences by re-pushing them from [!DNL Amperity] every 30 days or less.
+
+## Step 5: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
 After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is available and is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
 
 The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue. For more information about how the segment counts can vary, see "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
-   
+
 For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]

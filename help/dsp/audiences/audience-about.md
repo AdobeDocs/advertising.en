@@ -143,6 +143,7 @@ The translated segments are available to include in reusable audiences and in pl
 >* [Create and Implement a Custom Segment](custom-segment-create.md)
 >* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
+>* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
 >* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [Available Third-party Data Providers](third-party-data-providers.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)

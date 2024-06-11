@@ -120,14 +120,9 @@ If you can't resolve the issue, then contact your Adobe Account Team.
 
 >[!MORELIKETHIS]
 >
+>* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
 >* [Manage Audience Sources to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-manage.md)
->* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
->* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
 >* [Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)
 >* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [About Audience Management](/help/dsp/audiences/audience-about.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
-
-<!--
->* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
--->
