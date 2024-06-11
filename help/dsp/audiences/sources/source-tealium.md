@@ -22,8 +22,6 @@ Use the DSP integration with the [!DNL Tealium] customer data platform to conver
 
 1. [Compare the number of universal IDs with the number of hashed email addresses](#compare-id-count).
 
-The segments should be available in DSP within 24 hours and are refreshed every 24 hours.
-
 ## Step 1: Set up tracking for [!DNL Analytics] measurement {#analytics-tracking}
 
 *Advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md))*
@@ -136,7 +134,7 @@ You can have only one connector per segment and one segment per connector.
 
 ## Step 6: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
-After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
+After you complete all steps, the segments should be available in DSP within 24 hours. Verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
 
 The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue. For more information about how the segment counts can vary, see "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
 
