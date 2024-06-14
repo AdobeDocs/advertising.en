@@ -138,7 +138,7 @@ After you complete all steps, the segments should be available in DSP within 24 
 
 The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue. For more information about how the segment counts can vary, see "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
 
-Segments are refreshed every 24 hours. However, inclusion in a segment expires after 30 days to ensure privacy compliance, so refresh the audiences by re-pushing them from [!DNL Tealium] every 30 days or less.
+Segments are refreshed every 24 hours. However, inclusion in a segment expires after 30 days by default or after a customer-specified expiration period. Refresh your segments by re-pushing them from [!DNL Tealium] prior to the expiration. To request a custom segment expiration, contact your Adobe Account Team.
 
 For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
