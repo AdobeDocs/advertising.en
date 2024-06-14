@@ -34,7 +34,7 @@ You can create one source for each combination of universal ID partner and data 
 
    * *[!UICONTROL Amperity]*: The [!DNL Amperity] customer data platform.
 
-   * *[!UICONTROL Optimizely]*: The [!DNL Optimizely]: The [!DNL Amperity] customer data platform.
+   * *[!UICONTROL Optimizely]*: The [!DNL Optimizely] customer data platform.
 
    * *[!UICONTROL Tealium CDP]*: (Configured users only) The [!DNL Tealium] customer data platform.
 
