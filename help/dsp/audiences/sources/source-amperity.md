@@ -67,7 +67,7 @@ The advertiser must prepare and share segment-mapping data.
 
 1. The advertiser must then confirm with the Adobe Account Team that the segment data was received.
 
-The segments should be available in DSP within 24 hours and are refreshed as configured for the advertiser. Regardless of how frequently the segment is refreshed, inclusion in a segment expires after 30 days to ensure privacy compliance, so refresh the audiences by re-pushing them from [!DNL Amperity] every 30 days or less.
+The segments should be available in DSP within 24 hours and are refreshed as configured for the advertiser within [!DNL Amperity]. Regardless of how frequently the segment is refreshed, inclusion in a segment expires after 30 days by default or after a customer-specified expiration period. Refresh your segments by re-pushing them from [!DNL Amperity] prior to the expiration. To request a custom segment expiration, contact your Adobe Account Team.
 
 ## Step 5: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
