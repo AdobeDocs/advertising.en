@@ -340,7 +340,7 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
    * To manually select an interval, click inside a cell and optionally drag to select the interval.
 1. Click **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Optional; available to advertisers configured with [!DNL Comscore] and [!DNL Grapeshot] segments) Specific segment names or IDs from [!DNL Comscore] and [!DNL Grapeshot] to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your Adobe Account Team.
+**[!UICONTROL Topic Targeting]:** (Optional; available to advertisers configured with [!DNL Proximic by Comscore] and [!DNL Grapeshot] segments) Specific segment names or IDs from [!DNL Proximic by Comscore] and [!DNL Grapeshot] to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your Adobe Account Team.
 
 To specify topic targeting:
 
@@ -355,7 +355,7 @@ To specify topic targeting:
 >
 >* Topic targeting limits the inventory on which the placement can bid, so use topic targeting for only a small percentage of your overall buy.
 >
->* Set up any negative targeting within the segment on [!DNL Comscore] or [!DNL Grapeshot].
+>* Set up any negative targeting within the segment on [!DNL Proximic by Comscore] or [!DNL Grapeshot].
 
 **[!UICONTROL Device Targeting]:** (Optional) Specific device information, including device types, manufacturers, operating systems, browsers, and connectivity types, to include and exclude as targets. To specify device targeting:
 
