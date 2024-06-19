@@ -116,21 +116,27 @@ To estimate taxes to withhold:
 
 #### Audience Verification
 
-**[!UICONTROL Nielsen]:** (Optional) Enables [!DNL Nielsen] measurement and reporting of audience verification, using the specified settings. Additional fees apply.
-
-* **[!UICONTROL Target Gender]:** The gender to target: *[!UICONTROL Both]* (the default), *[!UICONTROL Male]*, or *[!UICONTROL Female]*
-
-* **[!UICONTROL Target Age]:** The age range to target. Use the left and right sliders to reduce the range as needed.
-
-* **[!UICONTROL Target Country]:** (Optional) A country to target. [!DNL Nielsen] measures impressions served in supported countries only.
-
-**[!UICONTROL comScore vCE]:** (Optional) Enables [!DNL Comscore validated Campaign Essentials (vCE)] measurement and reporting of audience verification, using the specified settings. Additional fees apply.
+**[!UICONTROL comScore Campaign Ratings]:** (Optional) Enables [!DNL Comscore validated Campaign Ratings measurement and reporting of audience verification, using the specified settings. Additional fees apply.
 
 * **[!UICONTROL Target Gender]:** The gender to target: *[!UICONTROL Both]* (the default), *[!UICONTROL Male]*, or *[!UICONTROL Female]*
 
 * **[!UICONTROL Target Age]:** The age range to target. Use the left and right sliders to reduce the range as needed.
 
 * **[!UICONTROL Target Country]:** (Optional) A country to target. [!DNL Comscore] measures impressions served in supported countries only.
+
+### [!UICONTROL Attention Measurement]
+
+**[!UICONTROL Adelaide]:** Enables tracking for the placement-level [!UICONTROL Attention Score] metric (the weighted average number of attention units across impressions) from [!DNL Adelaide]. Metrics are available for all placement types except for [!DNL Roku] connected TV, VPAID-only pre-roll, and audio that's not a podcast. DSP automatically attaches a JavaScript tag to all associated creatives, and [!DNL Adelaide] tracks the exposure data and sends it to DSP daily. You can use the date to manually optimize your spending towards placement tactics with better attention scores.
+
+The [!UICONTROL Attention Score] field is available in the [!UICONTROL Metrics] section of reports; within the [!UICONTROL Campaigns], [!UICONTROL Packages], and [!UICONTROL Placements] views; and on the [!UICONTROL Sites], [!UICONTROL Ads], and [!UICONTROL Inventory] tabs of the [placement details view](/help/dsp/campaign-management/reports/placement-details-view.md).
+
+Using [!DNL Adelaide] segments for measurement incurs a CPM fee for each impression delivered from ads with [!DNL Adelaide] measurement tags. This fee is separate from fees for [placement-level attention targeting](/help/dsp/campaign-management/placements/placement-settings.md).
+
+<!--
+Example JavaScript tag:
+
+`<script src="https://www.example.com/aam?asid=0123456789&ad=${TM_AD_ID_NUM}&adv=${TM_ADVERTISER_ID}&ca=${TM_CAMPAIGN_ID_NUM}&df=${NS_PLATFORM_ID}&dt=${NS_DEVICE_GROUPING}&pl=${TM_PLACEMENT_ID_NUM}&ra=${TM_RANDOM}&st=${TM_SITE_URL_URLENC}"></script>`
+-->
 
 ### [!UICONTROL 1st Party Metrics]
 
