@@ -213,7 +213,7 @@ Outstream ads usually appear over the content as a pop-up or stuffed into conten
 
 **[!UICONTROL Traffic type]:** The types of traffic to target. Options include **[!UICONTROL Websites]** and **[!UICONTROL Apps]**.
 
-**[!UICONTROL Site tier]:** (Available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) The quality of the sites to target. Tiers 1-3 are all brand safe and have been vetted and approved by the DSP mapping team.
+**[!UICONTROL Site tier]:** (Available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) The quality of the sites to target. Tiers 1-3 are all brand safe and have been approved by the DSP mapping team.
 
 * *[!UICONTROL Tier 1]:* Premium sites and applications that are nationally recognizable.
 
@@ -340,7 +340,7 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
    * To manually select an interval, click inside a cell and optionally drag to select the interval.
 1. Click **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Optional; available to advertisers configured with [!DNL Proximic by Comscore] and [!DNL Grapeshot] segments) Specific segment names or IDs from [!DNL Proximic by Comscore] and [!DNL Grapeshot] to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your Adobe Account Team.
+**[!UICONTROL Topic Targeting]:** (Optional; available to advertisers configured with [!DNL Proximic by Comscore] and [!DNL Oracle Data Cloud] segments) Specific segment names or IDs from [!DNL Proximic by Comscore] and [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]) to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your Adobe Account Team.
 
 To specify topic targeting:
 
@@ -355,7 +355,7 @@ To specify topic targeting:
 >
 >* Topic targeting limits the inventory on which the placement can bid, so use topic targeting for only a small percentage of your overall buy.
 >
->* Set up any negative targeting within the segment on [!DNL Proximic by Comscore] or [!DNL Grapeshot].
+>* Set up any negative targeting within the segment on [!DNL Proximic by Comscore] or [!DNL Oracle Data Cloud].
 
 **[!UICONTROL Device Targeting]:** (Optional) Specific device information, including device types, manufacturers, operating systems, browsers, and connectivity types, to include and exclude as targets. To specify device targeting:
 
@@ -429,6 +429,8 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
 * *[!UICONTROL Ads.txt sellers + sites without ads.txt]*: To prioritize buying inventory from a domain's authorized direct sellers and resellers.
 * *[!UICONTROL Ads.txt sellers only]*: To buy inventory only from a domain's authorized direct sellers and resellers.
 * *[!UICONTROL Ads.txt sellers only]*: To buy inventory only from a domain's authorized direct sellers.
+
+**[!UICONTROL Attention Targeting]:** (Display, video, mobile, and standard connected TV placements) Targets [!DNL Adelaide] pre-bid segments with a specific attention level (high, medium, or low) based on the specified site, format, and ad size. The segments are updated weekly. **Note:** Using [!DNL Adelaide] segments for targeting incurs a CPM fee for each impression delivered with [!DNL Adelaide] attention targeting; this fee is separate from fees for [attention measurement](/help/dsp/campaign-management/campaigns/campaign-settings.md). For interactive pre-roll placements, you're charged only for VAST impressions.
 
 **[!UICONTROL DoubleVerify Authentic Brand Safety]:** (Advertisers configured with the [!UICONTROL DoubleVerify Authentic Brand Safety] option) Enables [!DNL DoubleVerify Authentic Brand Safety], which blocks impressions post-bid using the custom brand safety rules configured for the specified segment ID. DSP bills your account for usage for the segment ID specified in the advertiser settings.
 
