@@ -116,7 +116,7 @@ To estimate taxes to withhold:
 
 #### Audience Verification
 
-**[!UICONTROL comScore Campaign Ratings]:** (Optional) Enables [!DNL Comscore validated Campaign Ratings measurement and reporting of audience verification, using the specified settings. Additional fees apply.
+**[!UICONTROL comScore Campaign Ratings]:** (Optional) Enables [!DNL Comscore] validated [!DNL Campaign Ratings] measurement and reporting of audience verification, using the specified settings. Additional fees apply.
 
 * **[!UICONTROL Target Gender]:** The gender to target: *[!UICONTROL Both]* (the default), *[!UICONTROL Male]*, or *[!UICONTROL Female]*
 
