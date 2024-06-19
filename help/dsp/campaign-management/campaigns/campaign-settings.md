@@ -124,9 +124,9 @@ To estimate taxes to withhold:
 
 * **[!UICONTROL Target Country]:** (Optional) A country to target. [!DNL Comscore] measures impressions served in supported countries only.
 
-### [!UICONTROL Attention Measurement]
+### [!UICONTROL Attention Measurement]{#attention-measurement}
 
-**[!UICONTROL Adelaide]:** Enables tracking for the placement-level [!UICONTROL Attention Score] metric (the weighted average number of attention units across impressions) from [!DNL Adelaide]. Metrics are available for all placement types except for [!DNL Roku] connected TV, VPAID-only pre-roll, and audio that's not a podcast. DSP automatically attaches a JavaScript tag to all associated creatives, and [!DNL Adelaide] tracks the exposure data and sends it to DSP daily. You can use the date to manually optimize your spending towards placement tactics with better attention scores.
+**[!UICONTROL Adelaide]:** Enables tracking for the placement-level [!UICONTROL Attention Score] metric (the weighted average number of [!DNL Adelaide] "[!DNL Attention Units]" across impressions). Metrics are available for all placement types except for [!DNL Roku] connected TV, VPAID-only pre-roll, and audio that's not a podcast. DSP automatically attaches a JavaScript tag to all associated creatives, and [!DNL Adelaide] tracks the exposure data and sends it to DSP daily. You can use the date to manually optimize your spending towards placement tactics with better attention scores.
 
 The [!UICONTROL Attention Score] field is available in the [!UICONTROL Metrics] section of reports; within the [!UICONTROL Campaigns], [!UICONTROL Packages], and [!UICONTROL Placements] views; and on the [!UICONTROL Sites], [!UICONTROL Ads], and [!UICONTROL Inventory] tabs of the [placement details view](/help/dsp/campaign-management/reports/placement-details-view.md).
 
