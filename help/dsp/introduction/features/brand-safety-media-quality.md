@@ -110,11 +110,21 @@ You can set default viewability filters for each advertiser<!-- [default pre-vie
 
 ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Oracle Advertising logo](/help/dsp/assets/oracle-advertising-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png)
 
+### Attention Targeting and Measurement
+
+[!DNL Adobe's] partnership with [!DNL Adelaide] provides advertisers with support for the Adelaide metric "[!DNL Attention Units]," which measures media quality based on eye-tracking, exposure, and outcome data.
+
+[Placement-level pre-bid attention targeting](/help/dsp/campaign-management/placements/placement-settings.md) allows advertisers to target specific attention levels to improve customer engagement.
+
+In addition, advertisers can enable [tracking for the placement-level [!UICONTROL Attention Score] metric](/help/dsp/campaign-management/campaigns/campaign-settings.md#attention-measurement) (the weighted average number of [!DNL Attention Units] across impressions) for any campaign to understand which placement tactics produce the best business outcomes.
+
+Additional fees apply for each separate feature.
+
 ### Topic Targeting
 
-DSP topic targeting allows you to target or block keyword lists by leveraging our industry-leading contextual partners [!DNL Comscore] and [!DNL Oracle Data Cloud] ([!DNL Grapeshot]). Topic targeting helps you to ensure your ads are always served in an environment that aligns with your brand, whether that includes blocking harmful content or ensuring spend in a context that ensures a greater outcome.
+DSP topic targeting allows you to target or block keyword lists by leveraging our industry-leading contextual partners [!DNL Comscore] and [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]). Topic targeting helps you to ensure your ads are always served in an environment that aligns with your brand, whether that includes blocking harmful content or ensuring spend in a context that ensures a greater outcome.
 
-Topic targeting requires you to create custom topic segments directly with [!DNL Comscore] or [!DNL Grapeshot] (using [!DNL Oracle Data Cloud]). Once these are created in the partner platform, you can [target or exclude a segment ID in the [!UICONTROL Audience Targeting] section for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply for this feature.
+Topic targeting requires you to create custom topic segments directly with the partner platform. Once the segments are created, you can [target or exclude a segment ID in the [!UICONTROL Audience Targeting] section for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply for this feature.
 
 To create custom topic segments:
 

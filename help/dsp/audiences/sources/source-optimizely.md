@@ -2,6 +2,7 @@
 title: Convert User IDs from [!DNL Optimizely] to Universal IDs
 description: Learn how to enable DSP to ingest your [!DNL Optimizely] first-party segments.
 feature: DSP Audiences
+exl-id: 2c48a874-132a-4e5c-ba24-0e7ab80ac2d4
 ---
 # Convert User IDs from [!DNL Optimizely] to Universal IDs
 

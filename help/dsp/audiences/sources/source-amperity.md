@@ -2,6 +2,7 @@
 title: Convert User IDs from [!DNL Amperity] to Universal IDs
 description: Learn how to enable DSP to ingest your [!DNL Amperity] first-party segments.
 feature: DSP Audiences
+exl-id: c751709a-5ad2-43fa-ba3a-fc7a9683da3f
 ---
 # Convert User IDs from [!DNL Amperity] to Universal IDs
 
