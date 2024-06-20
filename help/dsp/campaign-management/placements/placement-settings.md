@@ -355,7 +355,7 @@ To specify topic targeting:
 >
 >* Topic targeting limits the inventory on which the placement can bid, so use topic targeting for only a small percentage of your overall buy.
 >
->* Set up any negative targeting within the segment on [!DNL Proximic by Comscore] or [!DNL Oracle Data Cloud].
+>* Set up any negative targeting within the segment on [!DNL Proximic by Comscore] or [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]).
 
 **[!UICONTROL Device Targeting]:** (Optional) Specific device information, including device types, manufacturers, operating systems, browsers, and connectivity types, to include and exclude as targets. To specify device targeting:
 
