@@ -4,7 +4,7 @@ description: Expected Data Variances Between [!DNL Analytics] and Adobe Advertis
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
 ---
-# Expected data Variances Between [!DNL Analytics] and Adobe Advertising
+# Expected Data Variances Between [!DNL Analytics] and Adobe Advertising
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
