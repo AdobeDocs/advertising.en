@@ -184,8 +184,9 @@ If the instances-to-clicks ratio is below 85%, check the following:
   Also, in [!DNL Analytics], you can see if the EF IF and AMO ID are appended consistently using a "[!DNL s_kwcid] to [!DNL ef-id]" calculated metric, which is calculated as follows: **Question: Are these metrics actually called AMO ID and EF ID or s_kwcid and ef-id in Analytics?**
   
   ```
-  [!DNL s_kwcid] to [!DNL ef-id] = ([!UICONTROL s_kwcid] / ef-id)
+  [!DNL s_kwcid] to [!DNL ef-id] = ([!UICONTROL s_kwcid] / [!DNL ef-id])
   ```
+  
   <!-- Are these metrics actually called AMO ID and EF ID or s_kwcid and ef-id in Analytics? -->
 
   A value greater that 100% indicates that more EF IDs are missing than AMO IDs.
