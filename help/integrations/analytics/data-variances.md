@@ -4,7 +4,7 @@ description: Expected Data Variances Between [!DNL Analytics] and Adobe Advertis
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
 ---
-# Expected Data Variances Between [!DNL Analytics] and Adobe Advertising
+# Expected data Variances Between [!DNL Analytics] and Adobe Advertising
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
@@ -48,7 +48,7 @@ In Adobe Advertising, attribution is based on clicks and impressions, and you ca
 
 Typically, the majority of view-through conversions occur quickly enough that both systems attribute credit. However, some conversions may occur outside the Adobe Advertising impression lookback window but within the [!DNL Analytics] lookback window; such conversions are attributed to the view-through in [!DNL Analytics] but not to the impression in Adobe Advertising.
 
-In the following example, suppose a visitor was served an ad on Day 1, performed a view-through visit (that is, visited the ad's landing page without previously clicking the ad) on Day 2, and converted on Day 45. In this case, Adobe Advertising would track the user from Days 1–14 (using a 14-day lookback), [!DNL Analytics] would track the user from Days 2–61 (using a 60-day lookback), and the conversion on Day 45 would be attributed to the ad within [!DNL Analytics] but not within Adobe Advertising.
+In the following example, suppose a visitor was served an ad on Day 1, performed a view-through visit (that is, visited the ad's landing page without previously clicking the ad) on Day 2, and converted on Day 45. In this case, Adobe Advertising would track the user from Days 1-14 (using a 14-day lookback), [!DNL Analytics] would track the user from Days 2-61 (using a 60-day lookback), and the conversion on Day 45 would be attributed to the ad within [!DNL Analytics] but not within Adobe Advertising.
 
 ![Example of a view-through conversion attributed in [!DNL Analytics] but not Adobe Advertising](/help/integrations/assets/a4adc-viewthrough-example.png)
 
@@ -154,12 +154,12 @@ In [!DNL Analytics], one of the easiest ways to validate [!DNL Analytics for Adv
 Clicks to [!UICONTROL AMO ID Instances] = ([!UICONTROL AMO ID Instances] / Adobe Advertising Clicks)
 ```
 
-[!UICONTROL AMO ID Instances] represents the number of times that [AMO IDs](ids.md) are tracked on the site. Each time an ad is clicked, an AMO ID (`s_kwcid`) parameter is added to the landing page URL. The number of [!UICONTROL AMO ID Instances], therefore, is analogous to the number of clicks and can be validated against actual ad clicks. We typically see an 80% match rate for [!DNL Search, Social, & Commerce] and a 30% match rate for [!DNL DSP] traffic (when filtered to include only click-through [!UICONTROL AMO ID Instances]). The difference in expectations between search and display can be explained by the expected traffic behavior. Search captures intent, and, as such, users usually intend to click on the search results from their query. Users who see a display or online video ad, however, are more likely to click the ad unintentionally and then either bounce from the site or abandon the new window that loads before the page activity is tracked.
+[!UICONTROL AMO ID Instances] represents the number of times that [AMO IDs](ids.md) are tracked on the site. Each time an ad is clicked, an AMO ID (`s_kwcid`) parameter is added to the landing page URL. The number of [!UICONTROL AMO ID Instances], therefore, is analogous to the number of clicks and can be validated against actual ad clicks. We typically see an 85% match rate for [!DNL Search, Social, & Commerce] and a 30% match rate for [!DNL DSP] traffic (when filtered to include only click-through [!UICONTROL AMO ID Instances]). The difference in expectations between search and display can be explained by the expected traffic behavior. Search captures intent, and, as such, users usually intend to click on the search results from their query. Users who see a display or online video ad, however, are more likely to click the ad unintentionally and then either bounce from the site or abandon the new window that loads before the page activity is tracked.
 
 In Adobe Advertising reports, you can similarly compare clicks to instances using the "[!UICONTROL ef_id_instances]" metric instead of [!UICONTROL AMO ID Instances]:
 
 ```
-Clicks to [EF ID Instances = (ef_id_instances / Clicks)
+Clicks to EF ID Instances = (ef_id_instances / Clicks)
 ```
 
 While you should expect a high match rate between the AMO ID and the EF ID, don't expect 100% parity because AMO ID and EF ID fundamentally track different data, and this difference can lead to slight differences in the total [!UICONTROL AMO ID Instances] and [!UICONTROL EF ID Instances]. If the total [!UICONTROL AMO ID Instances] in [!DNL Analytics] differ from [!UICONTROL EF ID Instances] in Adobe Advertising by more than 1%, however, contact your Adobe Account Team for assistance.
@@ -169,6 +169,36 @@ For more information about the AMO ID and EF ID, see [Adobe Advertising IDs Used
 The following is an example of a workspace to track clicks to instances.
 
 ![Example of a workspace to track clicks to instances](/help/integrations/assets/a4adc-clicks-to-instances-example.png)
+
+### Troubleshooting Disparities Between Clicks and Instances
+
+<!-- The example above is for for clicks-to-instances, but this talks about instances-to-clicks. Which is more relevant? Can we make these both the same; if so, what are the valid %s to mention? -->
+**Question: The example above is for for clicks-to-instances, but this talks about instances-to-clicks. Which is more relevant? Can we make these both reference the same ratio; if so, what are the valid %s to mention in each place?**
+
+If the instances-to-clicks ratio is below 85%, check the following:
+
+* Are you missing click tracking for the account or at any sublevel, or do you have duplicate click tracking (for example, at both the account and campaign levels)?
+
+  In Search, Social, & Commerce, [download a bulksheet](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md) for the account to check the tracking URLs.
+
+  Also, in [!DNL Analytics], you can see if the EF IF and AMO ID are appended consistently using a "[!DNL s_kwcid] to [!DNL ef-id]" calculated metric, which is calculated as follows: **Question: Are these metrics actually called AMO ID and EF ID or s_kwcid and ef-id in Analytics?**
+  
+  ```
+  [!DNL s_kwcid] to [!DNL ef-id] = ([!UICONTROL s_kwcid] / ef-id)
+  ```
+  <!-- Are these metrics actually called AMO ID and EF ID or s_kwcid and ef-id in Analytics? -->
+
+  A value greater that 100% indicates that more EF IDs are missing than AMO IDs.
+
+* Does the landing page have a loading problem so that the AMO ID and EF ID (s_kwcid) aren't captured?
+
+* Is the landing page URL redirected so that the AMO ID and EF ID are lost?
+
+* Do all landing pages use the configured report suite?
+
+>[!NOTE]
+>
+>In theory, it's possible that one instance has multiple clicks. Make sure to check for clicks on different devices (such as desktop, mobile, and tablet).
 
 ## Comparing Data Sets in [!DNL Analytics for Advertising] Versus in Adobe Advertising
 
