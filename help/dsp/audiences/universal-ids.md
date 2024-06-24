@@ -18,7 +18,7 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 * You can create custom segments that track users associated with ID5 universal IDs who are exposed to ads from desktop and mobile devices and who visit specific webpages. ID5 uses a probabilistic model to assign an ID derived from various user signals and browser signals. For instructions, see "[Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)."
 
-* Third-party segments from [!DNL Eyeota] and some other vendors may automatically include ID5 IDs, in addition to users tracked by cookies or device IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
+* Third-party segments from some vendors may automatically include universal IDs in addition to users tracked by cookies or device IDs. For example, segments from [!DNL Eyeota] may automatically include ID5 IDs, and segments from [!DNL Lotame] may include UID2.0 IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
 
 ## Reporting by Universal ID Type
 
