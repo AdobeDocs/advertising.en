@@ -30,7 +30,7 @@ exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
 | [!DNL Eyereturn] | | X | | | |
 | [!DNL Flashtalking] | X | X | | X | |
 | [!DNL Frequency] | X | | | | |
-| [!DNL Gum Gum] | | | X | | |
+| [!DNL Gum Gum] | | | X | | In-Slot Hangtime: 21x21, In-Slot Hangtime Mobile Video: 22x22, In-Slot Hangtime Desktop: 24x24, In-Slot Hoverboard: 25x25, In-Slot Velocity: 26x26, Super Skin: 29x29, In-Screen Expandable Corner: 20x20 |
 | [!DNL HUMAN] (Formerly [!DNL White Ops]) | X | X | | X | |
 | [!DNL IAS] | X | X | | X | |
 | [!DNL IBM] | | X | | X | |
