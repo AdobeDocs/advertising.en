@@ -24,13 +24,19 @@ For more information, see the Portfolios chapter in the Optimization Guide, whic
 
 Search, Social, & Commerce provides comprehensive campaign management, optimization, tracking, and reporting across your ad networks. In the ad management views, you can:
 
-* Sync your ad accounts for supported ad networks; set up and manage many campaign types manually, using bulksheets, and automatically using inventory data feeds; and optionally group your campaigns and ad sets into different types of portfolios for optimization.
+* **Campaign management:**  Sync your ad accounts for supported ad networks, and then set up and manage many campaign types manually, using bulksheets, and automatically using inventory data feeds.
 
-* Set up access to other ad campaigns for which you want to only track and report. This may include uploading campaign data and metrics.
+* **Optimization:** Group your campaigns and ad sets into different types of portfolios for optimization. Use portfolio simulations to predict the impact of changes to the spending strategy and other portfolio settings.
 
-* Monitor and analyze the performance of your portfolios and any other campaigns that you're tracking via performance data views and detailed, customizable reports. For portfolios, prescriptive insights also provide visual, actionable data that you can use to improve performance.
+* **Campaign tracking:** Set up access to other ad campaigns for which you want to only track and report. This may include uploading campaign data and metrics.
 
-* For optimal visibility into the performance data that matters to you, you can configure the various performance data views based on your needs and preferences. You may also automate report production using report templates and spreadsheet feeds. You can include conversion metrics from Adobe Analytics, [!DNL Google Ads], [!DNL Google Analytics], and your other first-party enterprise feeds in data views and reports.
+* **Reporting:** Monitor and analyze the performance of your portfolios and any other campaigns that you're tracking via performance data views and detailed, customizable reports. You can include conversion metrics from Adobe Analytics, [!DNL Google Ads], [!DNL Google Analytics], and your other first-party enterprise feeds in data views and reports.
+
+  * Configure the various performance data views for optimal visibility into the performance data that matters to you.
+
+  * Automate report production using report templates and spreadsheet feeds.
+
+  * For portfolios, prescriptive insights also provide visual, actionable data that you can use to improve performance. 
 
 See "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)" for more information about support for different ad networks and ad types.
 
