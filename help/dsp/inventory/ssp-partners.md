@@ -25,7 +25,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL EMX Digital]|[!DNL Cadent]|Adobe Advertising|No|US/CA|USD|x|x|x|x|x|||
 |[!DNL FreeWheel] (formerly [!DNL StickyAds])|[!DNL Comcast]|[!DNL TubeMogul] or Adobe Advertising|Yes|Global|USD, EUR, AUD, GBP|x|x|x|||||
 |[!DNL Google Authorized Buyers] (formerly [!DNL Google AdX])|[!DNL Google]|Adobe NA - 44912714<br>Adobe APAC and EU - 89185975|Yes|Global|USD, BRL|x|x|x|x|x||x|
-|[!DNL GumGum]||Adobe Advertising |No|Global |USD|x|x||x|x|| In-Slot Hangtime: 21x21, In-Slot Hangtime Mobile Video: 22x22, In-Slot Hangtime Desktop: 24x24, In-Slot Hoverboard: 25x25, In-Slot Velocity: 26x26, Super Skin: 29x29, In-Screen Expandable Corner: 20x20 |
+|[!DNL GumGum]||Adobe Advertising |No|Global |USD|x|x||x|x|| |
 |[!DNL Index]|[!DNL Index]|[!DNL Adobe Display]<br>[!DNL Adobe Video]|No|Global|USD|x|x|x|x|x| | |
 |[!DNL Magnite (Streaming) CTV]|[!DNL Magnite] (formerly [!DNL Telaria] and [!DNL Tremor])|[!DNL TubeMogul] or Adobe Advertising|Yes|Global|AUD, USD|x|x|x|||||
 |[!DNL Magnite DV+]|[!DNL Magnite] (formerly [!DNL Telaria] and [!DNL Tremor])|[!DNL TubeMogul] or Adobe Advertising|Yes|Global|USD|x|x|x|x|x||x|
