@@ -30,7 +30,7 @@ DSP doesn't charge you to send these signals to Audience Manager. However, you p
 
 ## How the Data is Tracked
 
-The Audience Manager impression and click event pixels are cookie-based. The pixels don't capture events that occur in cookie-less environments, such as mobile apps.<!-- Verify if this is still correct. -->
+The Audience Manager impression and click event pixels are cookie-based. The pixels don't capture events that occur in environments without cookies, such as mobile apps and connected TV (CTV).<!-- 6/24: CTV inventory isn't clickable, and impression tracking would be lost when we convert users from IP to cookies. -->
 
 ### Impression-Tracking Pixels
 
