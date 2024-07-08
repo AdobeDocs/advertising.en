@@ -70,6 +70,7 @@ The [!DNL Analytics for Advertising] JavaScript uses these settings to determine
 * Display
 * Video
 * Online Video
+* Connected TV
 * Native
 
 Contact your Adobe Account Team for the latest supported ad environments in each channel.  
@@ -89,8 +90,6 @@ Contact your Adobe Account Team for the latest supported ad environments in each
 * [!DNL Analytics for Advertising] conversion tracking in Adobe Analytics uses a configurable tracking lookback window (60 days by default). Adobe Advertising reports reflect site conversions and engagement through the end of this tracking lookback window.
 
 * All ad types are supported. However, not all ad environments are supported.
-
-    For example, connected TV (CTV) ads aren't tracked because no clicks occur in CTV and no conversions can occur on the same device. However, if the ad is viewed within a desktop environment, then some view-through site entry data may be tracked.
 
 * [!DNL Analytics] conversions are currently tracked and attributed only to a visitor on the same device.
 
