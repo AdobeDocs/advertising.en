@@ -40,9 +40,9 @@ To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs, you must do the 
 
 ## Step 3: Prepare and push the segment data {#push-data}
 
-The advertiser must prepare and push the data with the help of their [!DNL Optimizely] representative.
+The advertiser must prepare and push the data using the [!DNL Optimizely Data Platform]. For any questions about the process, contact your [!DNL Optimizely] representative.
 
-1. Within [!DNL Optimizely Data Platform], hash the email IDs for the advertiser's audience using the SHA-256 algorithm.
+1. Within [!DNL Optimizely Data Platform], hash the email IDs for the audience using the SHA-256 algorithm.
 
 1. Follow's [[!DNL Optimizely's] instructions to push the segment to DSP](https://support.optimizely.com/hc/en-us/articles/27974930963981-Integrate-Adobe-Ads). Include the following information to enable the integration:
 
