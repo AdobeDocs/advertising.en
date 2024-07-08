@@ -98,7 +98,7 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 * Hashed email IDs translated to [!DNL RampIDs]: 
 
-  * When multiple profiles use the same email ID, the DSP segment count can be lower than the profile count within your customer data platform. For example, in Adobe Photoshop, you can create a company account and a personal account using a single email ID. But if both profiles belong to the same segment, then the profiles map to one email ID and correspondingly to one [!DNL RampID]. 
+  * When multiple profiles use the same email ID, the DSP segment count can be lower than the profile count within your customer data platform. For example, in Adobe Photoshop, you can create a company account and a personal account using a single email ID. But if both profiles belong to the same person, then the profiles map to one email ID and correspondingly to one [!DNL RampID]. 
 
   * A [!DNL RampID] can be upgraded to a new value. If [!DNL LiveRamp] doesn't recognize an email ID or can't map it to an existing [!DNL RampID] in its database, then it assigns a new [!DNL RampID] to the email ID. In the future, when they can map the email ID to another [!DNL RampID] or can gather more information about the same email ID, they upgrade the [!DNL RampID] to a new value. [!DNL LiveRamp] refers to this action as upgrading from a "derived" [!DNL RampID] to a "maintained" [!DNL RampID]. However, DSP doesn't get mappings between derived and maintained [!DNL RampIDs] and therefore can't remove the previous version of the RampID from the DSP segment. In this case, the segment count can be more than the profile count.
 
@@ -115,6 +115,8 @@ If you don't see user counts, or if your audience sizes are low, then check the 
 * (For [!DNL RampIDs] and [!DNL UID 2.0] IDs) Make sure that your [DSP data source is configured correctly](/help/dsp/audiences/sources/source-manage.md#source-settings), and that user counts are populated for the generated audience segments.
 
 * If your reach is less than you expect, check that the audience segment logic isn't too granular.
+
+* Make sure that your campaign, package, and placement settings are correct.<!-- wording-->
 
 If you can't resolve the issue, then contact your Adobe Account Team.
 
