@@ -48,7 +48,23 @@ Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone.
 
 1. (If your conversions are tracked at a manager account level) [Add credentials for your manager account](/help/search-social-commerce/admin/manager-accounts.md) at **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**.
 
-After the daily upload is completed, you can verify that the conversion actions appear in the ad network.
+1. Verify that each objective &mdash; named `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>` &mdash; appears within two days on the ad network.
+
+   In the [!DNL Google Ads] editor, look up your [conversion actions](https://support.google.com/google-ads/answer/11461796). In the [!DNL Microsoft Advertising] editor, look up your [conversion goals](https://help.ads.microsoft.com/#apex/ads/en/56709).
+   
+   If necessary, update the date range to include the upload date.
+
+## Troubleshooting missing objectives
+
+If the objective &mdash; named `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>` &mdash; for one of your portfolios doesn't appear on the ad network, then check the following:
+
+* ([!DNL Google Ads]) Check if the conversions should be uploaded to the account or manager level. If they should be uploaded at the manager level:
+
+  * Check if the credentials for the [!DNL Google Ads] manager account is provided at **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**. If necessary, [add the credentials for the manager account](/help/search-social-commerce/admin/manager-accounts.md).
+  
+  * Check if the ad network account already includes the same metric name. If it does, then rename the metric so that the correct manager-level property can be created.
+
+* Check that the portfolio's "hybrid" option is selected and that the objective has valid revenue.
 
 >[!MORELIKETHIS]
 >
