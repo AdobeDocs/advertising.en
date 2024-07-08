@@ -50,7 +50,7 @@ feature: Search Introduction
 
 **cost model:** (Advertisers with portfolios) Search, Social, & Commerce technology that predicts cost volume, the bid required to win each position or placement, and the CPC (search) or CPM (display) for each bid unit using historical data and mathematical forecasting techniques.
 
-**cost model coverage:** (Advertisers with portfolios) The number and/or percentage of bid units that have received at least one impression in the last seven days so that the optimization capability can build cost models. Not all bid units have cost models; the ones that do count toward the cost model coverage.
+**cost model coverage:** (Advertisers with portfolios) The number and/or percentage of bid units in CPC or eCPC campaigns that have received at least one impression in the last seven days so that the optimization capability can build cost models. Not all bid units have cost models; the bid units with cost models count toward the cost model coverage.
 
 **cost model half-life:** (Advertisers with portfolios) The number of days before the current date for which the cost data is considered more recent and therefore more relevant for cost models.
 
