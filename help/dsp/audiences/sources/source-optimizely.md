@@ -44,18 +44,13 @@ The advertiser must prepare and push the data with the help of their [!DNL Optim
 
 1. Within [!DNL Optimizely Data Platform], hash the email IDs for the advertiser's audience using the SHA-256 algorithm.
 
-1. Contact the advertiser's [!DNL Optimizely] representative for instructions to push the segment to DSP. Include the following information when you push the segment:
+1. Follow's [[!DNL Optimizely's] instructions to push the segment to DSP](https://support.optimizely.com/hc/en-us/articles/27974930963981-Integrate-Adobe-Ads). Include the following information to enable the integration:
 
    * **Source Key:** This is the source key created in [Step 2](#source-create).
    
    * **Account Code:** This is the alphanumeric DSP Account Code, which you can find within DSP at [!UICONTROL Settings] > [!UICONTROL Account].
 
-The segments should be available in DSP within 24 hours and 
-are refreshed as configured for the advertiser. Regardless of how frequently the segment is refreshed, inclusion in a segment expires after 30 days by default or after a customer-specified expiration period. Refresh your segments by re-pushing them from [!DNL Optimizely] prior to the expiration. To request a custom segment expiration, contact your Adobe Account Team.
-
-<!--
-Are they using the Data Platform web services, another type of API, or a UI? Add a link to instructions, including how to designate DSP as the destination. And where will they input the DSP-specific fields?]
--->
+The segments should be available in DSP within 24 hours and are refreshed as configured for the advertiser. Regardless of how frequently the segment is refreshed, inclusion in a segment expires after 30 days by default or after a customer-specified expiration period. Refresh your segments by re-pushing them from [!DNL Optimizely] prior to the expiration. To request a custom segment expiration, contact your Adobe Account Team.
 
 ## Step 4: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
