@@ -8,7 +8,7 @@ exl-id: e7a1aa80-d7f0-4a4e-96b1-6b362a32106e
 
 Advertising DSP provides features for advertising on [!DNL Roku].
 
-## The DSP and [!DNL Roku] Partnership
+## Audience Matching
 
 The [!DNL Roku] and DSP partnership matches your [!DNL DSP] audiences to [!DNL Roku] IDs for 1:1 deterministic audience targeting on [!DNL Roku] inventory.
 
@@ -20,12 +20,12 @@ You can either a) set up private deal IDs directly with [!DNL Roku] and then ent
 >
 >[!DNL Roku] inventory isn't available in open marketplaces and exchanges.
 
-* For your private deals, [set up information about the deal IDs in DSP](/help/dsp/inventory/deal-id-create.md) and then target “[!UICONTROL Roku Network – Audience]” and “[!UICONTROL The Roku Channel – Audience]” within [!DNL Roku] placements.<!-- Or do you target the deal ID?? I see those strings for Roku On Demand inventory. Clarify if all Roku private deals show up as one or the other of these in Roku Private inventory in Roku placement settings. -->
+* For your private deals, [set up information about the deal IDs in DSP](/help/dsp/inventory/deal-id-create.md) and then target “[!UICONTROL Roku Network - Audience]” and “[!UICONTROL The Roku Channel - Audience]” within [!DNL Roku] placements.<!-- Or do you target the deal ID?? I see those strings for Roku On Demand inventory. Clarify if all Roku private deals show up as one or the other of these in Roku Private inventory in Roku placement settings. -->
 
 * You can [subscribe to the following [!DNL Roku] inventory within the [!DNL On Demand] Gallery](/help/dsp/inventory/on-demand-inventory-subscribe.md), and then target any of the approved deals within [!DNL Roku] placements:
 
-    * “[!UICONTROL Roku Network – Audience]” for inventory across the [!DNL Roku] ecosystem with premium content partners, such as [!DNL The CW], [!DNL ABC], and [!DNL ESPN].
-    * “[!UICONTROL The Roku Channel – Audience]” for [!DNL Roku] owned-and-operated (O&O) app content.
+    * “[!UICONTROL Roku Network - Audience]” for inventory across the [!DNL Roku] ecosystem with premium content partners, such as [!DNL The CW], [!DNL ABC], and [!DNL ESPN].
+    * “[!UICONTROL The Roku Channel - Audience]” for [!DNL Roku] owned-and-operated (O&O) app content.
 
 ### Advantages of Customizing Private Marketplaces with [!DNL Roku]
 
