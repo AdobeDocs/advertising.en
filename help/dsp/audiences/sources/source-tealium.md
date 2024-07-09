@@ -134,9 +134,11 @@ You can have only one connector per segment and one segment per connector.
 
 ## Step 6: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
-After you complete all steps, the segments should be available in DSP within 24 hours. Verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
+The segments should be available in DSP within 24 hours. After DSP receives the segment data, the audience count should be visible within nine (9) hours.
 
-The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue. For more information about how the segment counts can vary, see "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
+Verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating, and compare the number of universal IDs with the number of original hashed email addresses.
+
+The translation rate of hashed email addresses to universal IDs should be greater than 90%; the translation rate for [!DNL RampIDs] in particular should be 95% if all hashed email addresses are unique. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to at least 95 [!DNL RampIDs] or more than 90 other types of universal IDs. A lower translation rate is an issue. For more information about how the segment counts can vary, see "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
 
 Segments are refreshed every 24 hours. However, inclusion in a segment expires after 30 days by default or after a customer-specified expiration period. Refresh your segments by re-pushing them from [!DNL Tealium] prior to the expiration. To request a custom segment expiration, contact your Adobe Account Team.
 
