@@ -74,11 +74,15 @@ The segments will be refreshed as configured for the advertiser within [!DNL Amp
 
 ## Step 5: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
-After DSP receives the segment data, the audience count should be visible within nine (9) hours. In your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) compare the number of universal IDs with the number of original hashed email addresses.
+After DSP receives the segment data, the audience count should be visible within nine (9) hours.
 
-For information about acceptable ID translation rates and why the segment counts can vary, see "[Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
+In your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) compare the number of universal IDs with the number of original hashed email addresses. For information about acceptable ID translation rates and why the segment counts can vary, see "[Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
 
-For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
+## Troubleshooting
+
+To troubleshoot translation rate and user count issues, see "[Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)."
+
+To troubleshooting issues with the conversion procedure, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]
 >

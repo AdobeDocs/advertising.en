@@ -21,19 +21,21 @@ There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:
 
 1. After you create the audience source, share the source code key with the [!DNL ActionIQ] user.
 
-1. <!-- ActionIQ-specific step(s) -->
+## Step 2: 
+
+## Step 3:
 
 1. Verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating, and compare the number of universal IDs with the number of original hashed email addresses.
    
-   The segments should be available in DSP within 24 hours. After DSP receives the segment data, the audience count should be visible within nine (9) hours.
-   
-   For information about acceptable ID translation rates and why the segment counts can vary, see "[Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
-   
-   For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
+   The segments should be available in DSP within 24 hours. After DSP receives the segment data, the audience count should be visible within nine (9) hours. For information about acceptable ID translation rates and why the segment counts can vary, see "[Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
 
 Segments are refreshed every 24 hours.
 
-## Step 2: 
+## Troubleshooting
+
+To troubleshoot translation rate and user count issues, see "[Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)."
+
+To troubleshooting issues with the conversion procedure, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]
 >
