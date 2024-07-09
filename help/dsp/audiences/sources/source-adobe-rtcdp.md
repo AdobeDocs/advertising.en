@@ -32,7 +32,7 @@ Use the DSP integration with [the [!DNL Adobe Real-Time Customer Data Platform (
 
    The segments should be available in DSP within 24 hours. After DSP receives the segment data, the audience count should be visible within nine (9) hours.
    
-   The translation rate of hashed email addresses to universal IDs should be greater than 90%; the translation rate for [!DNL RampIDs] in particular should be 95% if all hashed email addresses are unique. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to at least 95 [!DNL RampIDs] or more than 90 other types of universal IDs. A lower translation rate is an issue. For more information about how the segment counts can vary, see "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
+   For information about acceptable ID translation rates and why the segment counts can vary, see "[Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
    
    For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
