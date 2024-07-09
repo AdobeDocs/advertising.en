@@ -116,8 +116,6 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 For existing packages without the "[!UICONTROL Automatically rollover remaining flight budget to next flight]" option enabled, you can optionally enter a value in the [!UICONTROL Rollover] column for any flight to add potential unspent budget to the next flight. The projected value in the [!UICONTROL Adjusted Goal (Goal + Rollover)] column is changed accordingly.<!-- clarify usage -->
 
 >[!MORELIKETHIS]
-
-For e
 >
 >* [About Package Management](package-about.md)
 >* [Create a Package](package-create.md)
