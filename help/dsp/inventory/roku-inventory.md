@@ -6,13 +6,11 @@ exl-id: e7a1aa80-d7f0-4a4e-96b1-6b362a32106e
 ---
 # Using [!DNL Roku] Inventory
 
-Advertising DSP provides unique features for advertising on [!DNL Roku].
+Advertising DSP provides features for advertising on [!DNL Roku].
 
 ## The DSP and [!DNL Roku] Partnership
 
-Roku and DSP have a unique partnership that matches your [!DNL DSP] audiences to [!DNL Roku] IDs for 1:1 deterministic audience targeting on [!DNL Roku] inventory.
-
-Outside of Roku’s own DSP (OneView), Advertising DSP has sole access to these targeting capabilities. Advertising DSP is also the only DSP with permission to measure [!DNL Roku] supply next to all other connected TV (CTV) inventory. Because [!DNL Roku] doesn't share all standard RTB and impression pixel signals, no other DSP can target or measure across Roku-sold CTV supply.
+The [!DNL Roku] and DSP partnership matches your [!DNL DSP] audiences to [!DNL Roku] IDs for 1:1 deterministic audience targeting on [!DNL Roku] inventory.
 
 ## [!DNL Roku] Inventory Options
 
@@ -47,7 +45,7 @@ Private deals allow you to customize the deal parameters according to your needs
 
 In DSP campaigns, [create [!DNL Roku]-specific placements](/help/dsp/campaign-management/placements/placement-create.md) using the placement type "[!UICONTROL Connected TV (Roku)]." Include [!DNL Roku] placements in [!DNL Roku]-specific packages with defined goals.
 
-Each [!DNL Roku] placement must target at least one [!DNL Roku] deal or source. To use DSP’s unique audience matching with [!DNL Roku], include one or more one audience segments that can be matched against the [!DNL Roku] (opted-in) deterministic dataset.
+Each [!DNL Roku] placement must target at least one [!DNL Roku] deal or source. To use DSP’s audience matching with [!DNL Roku], include one or more one audience segments that can be matched against the [!DNL Roku] (opted-in) deterministic dataset.
 
 ### [!DNL Roku]-Approved Third-Party Tracking Vendors
 
