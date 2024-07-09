@@ -107,9 +107,9 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 
 ## [!UICONTROL Flighting]
 
-(Packages with package-level pacing and with "[!UICONTROL Activate Custom Flighting]" enabled) Custom flight periods within the overall [!UICONTROL Flight Dates] specified in the [!UICONTROL Goals & Budget] section.
+(Packages with package-level pacing) The package's flight periods, including any custom flight periods within the overall [!UICONTROL Flight Dates] for the package. You can configure custom flights only when the [!UICONTROL Activate Custom Flighting] option is enabled in the [!UICONTROL Goals & Budget] section.
 
-For each flight, enter the start date, end date, and the target spend goal. To add another flight, click **[!UICONTROL Add Flight]**.
+**[DNL Flight N]:** (Available only when the [!UICONTROL Activate Custom Flighting] option is enabled) For each flight, specify the start date, end date, and the target spend goal. To add another flight, click **[!UICONTROL Add Flight]**.
 
 For existing packages, you can optionally enter a value in the [!UICONTROL Rollover] column for any flight to add potential unspent budget to the next flight. The projected value in the [!UICONTROL Adjusted Goal (Goal + Rollover)] column is changed accordingly.<!-- clarify usage -->
 
