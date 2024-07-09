@@ -32,14 +32,14 @@ You can override the package-level setting at the [placement level](/help/dsp/ca
 
 * **[!UICONTROL Placement level pacing]:**  This pacing strategy operates by pacing and capping all included placements *individually*. The best practice is to use this strategy only to execute guaranteed private marketplace deals.
 
-**[!UICONTROL Flight Dates]:** The package's start date and end date.
-
-To optionally create non-even pacing flights for the package, select *[!UICONTROL *Activate Custom Flighting]** and set up the custom flights in the [!UICONTROL Flighting] section below. Once you enable custom flighting and save the package, you can't disable custom flighting.
+**[!UICONTROL Flight Dates]:** The package's overall start date and end date. The flight dates must be included within the campaign flight dates.
 
 >[!NOTE]
 >
->* The flight dates must be included within the campaign flight dates. In addition, the flight dates for all placements that are assigned to this package must be included within these dates.
+>* The flight dates for all placements that are assigned to this package must be included within these dates.
 > * You can't edit the package start date when custom flighting is activated.
+
+**[!UICONTROL *Activate Custom Flighting]:** Allows you to create non-even pacing flights for the package in the [!UICONTROL Flighting] section below. Once you enable custom flighting and save the package, you can't disable custom flighting nor edit the package start date.
 
 **[!UICONTROL Budget]:** (Packages with package-level pacing only) The gross budget cap and the budget interval.
 
@@ -108,6 +108,7 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 ## [!UICONTROL Flighting]
 
 (Packages with package-level pacing) The package's flight periods, including any custom flight periods within the overall [!UICONTROL Flight Dates] for the package. You can configure custom flights only when the [!UICONTROL Activate Custom Flighting] option is enabled in the [!UICONTROL Goals & Budget] section.
+
 
 **[!UICONTROL Automatically rollover remaining flight budget to next flight]:** (Available only when the [!UICONTROL Activate Custom Flighting] option is enabled) Automatically adds any remaining budget from the previous flight to the existing budget for the next flight.
 
