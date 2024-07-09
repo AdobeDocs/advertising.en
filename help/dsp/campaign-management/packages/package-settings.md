@@ -107,7 +107,7 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 
 ## [!UICONTROL Flighting]
 
-(Packages with package-level pacing and with "[!UICONTROL Activate Custom Flighting]" enabled) Custom flight periods within the overall [!UICONTROL Flight Dates] specified in the [!UICONTROL Goals & Budget] section.
+(Packages with package-level pacing and with the [!UICONTROL Activate Custom Flighting] option enabled) Custom flight periods within the overall [!UICONTROL Flight Dates] specified in the [!UICONTROL Goals & Budget] section.
 
 **[!UICONTROL Automatically rollover remaining flight budget to next flight]:** (Available only when the [!UICONTROL Activate Custom Flighting] option is enabled) Automatically adds any remaining budget from the previous flight to the existing budget for the next flight.
 
