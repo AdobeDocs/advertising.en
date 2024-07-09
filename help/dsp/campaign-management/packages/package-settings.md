@@ -114,8 +114,6 @@ For each flight, enter the start date, end date, and the target spend goal. To a
 For existing packages, you can optionally enter a value in the [!UICONTROL Rollover] column for any flight to add potential unspent budget to the next flight. The projected value in the [!UICONTROL Adjusted Goal (Goal + Rollover)] column is changed accordingly.<!-- clarify usage -->
 
 >[!MORELIKETHIS]
-
-For e
 >
 >* [About Package Management](package-about.md)
 >* [Create a Package](package-create.md)
