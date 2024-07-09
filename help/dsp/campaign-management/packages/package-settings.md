@@ -14,13 +14,13 @@ exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
 
 **[!UICONTROL 3rd Party Billed Fees]:** (Optional) A static third-party fee to be tracked as a non-billable cost:
 
+* **[!UICONTROL CPM]:** The cost per 1000 impressions (CPM).
+
+* **[!UICONTROL Description]:** A description of the CPM fee.
+
 >[!NOTE]
 >
 >Billable fees are reflected in the [!UICONTROL Net CPM] metric.
->
-* **[!UICONTROL CPM]:** The cost per 1000 impressions (CPM).
-
-* **[!UICONTROL CPM Description]:** A description of the CPM fee.
 
 You can override the package-level setting at the [placement level](/help/dsp/campaign-management/placements/placement-settings.md).
 
@@ -39,7 +39,7 @@ You can override the package-level setting at the [placement level](/help/dsp/ca
 >* The flight dates for all placements that are assigned to this package must be included within these dates.
 > * You can't edit the package start date when custom flighting is activated.
 
-**[!UICONTROL Activate Custom Flighting]:** Allows you to create non-even pacing flights for the package in the [!UICONTROL Flighting] section below. Once you enable custom flighting and save the package, you can't disable custom flighting nor edit the package start date.
+**[!UICONTROL *Activate Custom Flighting]:** Allows you to create non-even pacing flights for the package in the [!UICONTROL Flighting] section below. Once you enable custom flighting and save the package, you can't disable custom flighting nor edit the package start date.
 
 **[!UICONTROL Budget]:** (Packages with package-level pacing only) The gross budget cap and the budget interval.
 
