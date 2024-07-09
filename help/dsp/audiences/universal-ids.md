@@ -96,7 +96,9 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
   The probabilistic model has an error variance of +/- 5%. This means that it can overestimate or underestimate the audience count by 5%.
 
-* Hashed email IDs translated to [!DNL RampIDs]: 
+* Hashed email IDs translated to [!DNL RampIDs]:
+
+  The translation rate of hashed email addresses to [!DNL RampIDs] should be 95% if all hashed email addresses are unique. For translation rates lower than 70%, contact your Adobe Account Team for further investigation.
 
   * When multiple profiles use the same email ID, the DSP segment count can be lower than the profile count within your customer data platform. For example, in Adobe Photoshop, you can create a company account and a personal account using a single email ID. But if both profiles belong to the same person, then the profiles map to one email ID and correspondingly to one [!DNL RampID]. 
 
