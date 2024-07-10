@@ -13,11 +13,13 @@ Custom goals define the success events that an advertiser requires to meet its b
 ![custom goals](/help/dsp/assets/objective-goals.png)
  -->
 
-Each custom goal consists of one or more conversion metrics and the relative weights of those metrics. The available conversion metrics include all metrics tracked using the Adobe Advertising conversion pixel and through Adobe Analytics.
+Each custom goal (objective) consists of one or more conversion metrics and the relative weights of those metrics. The available conversion metrics include all metrics tracked using the Adobe Advertising conversion pixel and through Adobe Analytics.
 
 For example, suppose that three conversion metrics are relevant to a specific package in one of your campaigns: "PDF Download" valued at 20 USD, "Email Signup" valued at 30 USD, and "Order Confirmation" valued at 40 USD. If you want to give weight according to the one-time monetary value of the customer action, then the relative weights of the metrics would be 1, 1.5, and 2.
 
 Once you [create a custom goal](#custom-goal-create), you can [assign it to a package](/help/dsp/campaign-management/packages/package-settings.md) for reporting and algorithmic optimization using Adobe Sensei.
+
+Weight recommendations are automatically generated for DSP-attributed metrics in objectives, and can apply all weight recommendations with one click. All weight changes to objectives prefixed with "ADSP_" are applied algorithmically in DSP within two days. For more information weight recommendations, see the Optimization Guide chapter on "(Beta) New Objectives," which is available from within Search, Social, & Commerce. 
 
 ## Create a Custom Goal {#custom-goal-create}
 
@@ -45,7 +47,9 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
 
     1. Enter the objective settings, including the associated metrics and their relative numeric weights for non-mobile devices and mobile devices, and then save the objective.
     
-       At least one metric must have the metric type *[!UICONTROL Goal]*.
+       For objectives used for Advertising DSP packages, the objective name must be prefixed with "ADSP_"  such as "ADSP_Registrations." The prefix isn’t case-sensitive.
+       
+       Also, include only metrics that are attributed to DSP, not any metrics attributed to Search, Social, & Commerce or to any other ad network. At least one metric must have the metric type *[!UICONTROL Goal]*.
        
        >[!NOTE]
        >
