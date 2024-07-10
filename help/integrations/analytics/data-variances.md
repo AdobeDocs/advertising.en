@@ -148,10 +148,10 @@ The [!DNL Paid Search Detection] reports allow you to identify natural search tr
 
 For your integration, you should validate your click-through data to make sure that all pages on your site are properly tracking click-throughs.
 
-In [!DNL Analytics], one of the easiest ways to validate [!DNL Analytics for Advertising] tracking is to compare instances to clicks using an "AMO ID Instances to Adobe Advertising Clicks" calculated metric, which is calculated as follows:
+In [!DNL Analytics], one of the easiest ways to validate [!DNL Analytics for Advertising] tracking is to compare instances to clicks using an "AMO ID Instances to Clicks" calculated metric, which is calculated as follows:
 
 ```
-AMO ID Instances to Adobe Advertising Clicks = ([!UICONTROL AMO ID Instances] / [!UICONTROL Adobe Advertising Clicks])
+AMO ID Instances to Clicks = ([!UICONTROL AMO ID Instances] / [!UICONTROL Adobe Advertising Clicks])
 ```
 
 [!UICONTROL AMO ID Instances] represents the number of times that [AMO IDs](ids.md) are tracked on the site. Each time an ad is clicked, an AMO ID (`s_kwcid`) parameter is added to the landing page URL. The number of [!UICONTROL AMO ID Instances], therefore, is analogous to the number of clicks and can be validated against actual ad clicks. We typically see an 85% match rate for [!DNL Search, Social, & Commerce] and a 30% match rate for [!DNL DSP] traffic (when filtered to include only click-through [!UICONTROL AMO ID Instances]). The difference in expectations between search and display can be explained by the expected traffic behavior. Search captures intent, and, as such, users usually intend to click on the search results from their query. Users who see a display or online video ad, however, are more likely to click the ad unintentionally and then either bounce from the site or abandon the new window that loads before the page activity is tracked.
@@ -159,7 +159,7 @@ AMO ID Instances to Adobe Advertising Clicks = ([!UICONTROL AMO ID Instances] / 
 In Adobe Advertising reports, you can similarly compare instances to clicks using the "[!UICONTROL EF ID Instances]" metric instead of [!UICONTROL AMO ID Instances]:
 
 ```
-EF ID Instances to Adobe Advertising Clicks = ([!UICONTROL EF ID Instances] / [!UICONTROL Adobe Advertising Clicks])
+EF ID Instances to Clicks = ([!UICONTROL EF ID Instances] / [!UICONTROL Adobe Advertising Clicks])
 ```
 
 While you should expect a high match rate between the AMO ID and the EF ID, don't expect 100% parity because AMO ID and EF ID fundamentally track different data, and this difference can lead to slight differences in the total [!UICONTROL AMO ID Instances] and [!UICONTROL EF ID Instances]. If the total [!UICONTROL AMO ID Instances] in [!DNL Analytics] differ from [!UICONTROL EF ID Instances] in Adobe Advertising by more than 1%, however, contact your Adobe Account Team for assistance.
@@ -175,7 +175,7 @@ The following is an example of a workspace to track clicks to instances.
 
 ### Troubleshooting Disparities Between Clicks and Instances
 
-If the [!UICONTROL EF ID Instances]-to-[!UICONTROL Adobe Advertising Clicks] ratio is below 85%, then check the following:
+If the [!UICONTROL EF ID Instances]-to-Clicks ratio is below 85%, then check the following:
 
 * Are you missing click tracking for the account or at any sublevel, or do you have duplicate click tracking (for example, at both the account and campaign levels)?
 
