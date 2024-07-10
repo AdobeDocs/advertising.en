@@ -13,7 +13,7 @@ Custom goals define the success events that an advertiser requires to meet its b
 ![custom goals](/help/dsp/assets/objective-goals.png)
  -->
 
-Each custom goal (objective) consists of one or more conversion metrics and the relative weights of those metrics. The available conversion metrics include all metrics tracked using the Adobe Advertising conversion pixel and through Adobe Analytics.
+Each custom goal (objective) consists of one or more conversion metrics and the relative weights of those metrics. Only non-mobile weights are considered for DSP custom goals. The available conversion metrics include all metrics tracked using the Adobe Advertising conversion pixel and through Adobe Analytics.
 
 For example, suppose that three conversion metrics are relevant to a specific package in one of your campaigns: "PDF Download" valued at 20 USD, "Email Signup" valued at 30 USD, and "Order Confirmation" valued at 40 USD. If you want to give weight according to the one-time monetary value of the customer action, then the relative weights of the metrics would be 1, 1.5, and 2.
 
@@ -45,11 +45,15 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
 
     1. In the toolbar, click ![Create](/help/dsp/assets/create-search-ui.png "Create").
 
-    1. Enter the objective settings, including the associated metrics and their relative numeric weights for non-mobile devices and mobile devices, and then save the objective.
+    1. Enter the objective settings, including the associated metrics and their relative numeric weights for non-mobile devices, and then save the objective. Consider the following:
     
-       For objectives used for Advertising DSP packages, the objective name must be prefixed with "ADSP_"  such as "ADSP_Registrations." The prefix isn’t case-sensitive.
+      * For objectives used for Advertising DSP packages, the objective name must be prefixed with "ADSP_"  such as "ADSP_Registrations." The prefix isn’t case-sensitive.
        
-       Also, include only metrics that are attributed to DSP, not any metrics attributed to Search, Social, & Commerce or to any other ad network. At least one metric must have the metric type *[!UICONTROL Goal]*.
+      * Include only metrics that are attributed to DSP. Any metrics attributed to Search, Social, & Commerce or to any other ad network are ignored.
+      
+      * At least one metric must have the metric type *[!UICONTROL Goal]*.
+      
+      * DSP uses the non-mobile weights for all ads. Any mobile weights specified are ignored.
        
        >[!NOTE]
        >
