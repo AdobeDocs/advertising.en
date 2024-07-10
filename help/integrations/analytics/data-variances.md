@@ -26,13 +26,13 @@ If a reporting lookback window or attribution model is modified in one product a
 
 * **Example of discrepancies caused by different lookback windows:**
 
-     Suppose Adobe Advertising has a 60-day click lookback window and [!DNL Analytics] has a 30-day lookback window. And suppose that a user comes to the site through an Adobe Advertising-tracked ad, leaves, and then returns on day 45 and converts. Adobe Advertising attributes the conversion to the initial visit because the conversion occurred within the 60-day lookback window. [!DNL Analytics], however, can't attribute the conversion to the initial visit because the conversion occurred after the 30-day lookback window had expired. In this example, Adobe Advertising reports a higher number of conversions than [!DNL Analytics] does.
+     Suppose that Adobe Advertising has a 60-day click lookback window and [!DNL Analytics] has a 30-day lookback window. And suppose that a user comes to the site through an Adobe Advertising-tracked ad, leaves, and then returns on day 45 and converts. Adobe Advertising attributes the conversion to the initial visit because the conversion occurred within the 60-day lookback window. [!DNL Analytics], however, can't attribute the conversion to the initial visit because the conversion occurred after the 30-day lookback window expired. In this example, Adobe Advertising reports a higher number of conversions than [!DNL Analytics] does.
 
      ![Example of a conversion attributed in Adobe Advertising but not [!DNL Analytics]](/help/integrations/assets/a4adc-lookback-example.png)
 
 * **Example of discrepancies caused by different attribution models:**
 
-     Suppose a user interacts with three different Adobe Advertising ads before converting, with revenue as the conversion type. If an Adobe Advertising report uses an even distribution model for attribution, then it attributes the revenue evenly across all ads. If [!DNL Analytics] uses the last touch attribution model, however, then it attributes the revenue to the last ad. In the following example, Adobe Advertising attributes an even 10 USD of the 30 USD of revenue captured to each of the three ads, whereas [!DNL Analytics] attributes all 30 USD of revenue to the last ad seen by the user. When you compare reports from Adobe Advertising and [!DNL Analytics], you can expect to see the impact of the difference in attribution.
+     Suppose that a user interacts with three different Adobe Advertising ads before converting, with revenue as the conversion type. If an Adobe Advertising report uses an even distribution model for attribution, then it attributes the revenue evenly across all ads. If [!DNL Analytics] uses the last touch attribution model, however, then it attributes the revenue to the last ad. In the following example, Adobe Advertising attributes an even 10 USD of the 30 USD of revenue captured to each of the three ads, whereas [!DNL Analytics] attributes all 30 USD of revenue to the last ad seen by the user. When you compare reports from Adobe Advertising and [!DNL Analytics], you can expect to see the impact of the difference in attribution.
 
      ![Different revenue attributed to Adobe Advertising and [!DNL Analytics] based on different attribution models](/help/integrations/assets/a4adc-attribution-example.png)
 
@@ -44,11 +44,11 @@ These same concepts apply to any other like channels that use different lookback
 
 #### Different Lookback Windows for View-Through Tracking {#impression-lookback}
 
-In Adobe Advertising, attribution is based on clicks and impressions, and you can configure different lookback windows for clicks and for impressions. In [!DNL Analytics], however, attribution is based on click-throughs and view-throughs, and you don't have the option to set different attribution windows for click-throughs and view-throughs; tracking for each starts at the initial site visit. An impression can occur the same day or multiple days before a view-through occurs, and this can impact where the attribution window starts in each system.
+In Adobe Advertising, attribution is based on clicks and impressions, and you can configure different lookback windows for clicks and for impressions. In [!DNL Analytics], however, attribution is based on click-throughs and view-throughs, and you don't have the option to set different attribution windows for click-throughs and view-throughs; tracking for each starts at the initial site visit. An impression can occur the same day or multiple days before a view-through occurs, and the timing can impact where the attribution window starts in each system.
 
 Typically, the majority of view-through conversions occur quickly enough that both systems attribute credit. However, some conversions may occur outside the Adobe Advertising impression lookback window but within the [!DNL Analytics] lookback window; such conversions are attributed to the view-through in [!DNL Analytics] but not to the impression in Adobe Advertising.
 
-In the following example, suppose a visitor was served an ad on Day 1, performed a view-through visit (that is, visited the ad's landing page without previously clicking the ad) on Day 2, and converted on Day 45. In this case, Adobe Advertising would track the user from Days 1–14 (using a 14-day lookback), [!DNL Analytics] would track the user from Days 2–61 (using a 60-day lookback), and the conversion on Day 45 would be attributed to the ad within [!DNL Analytics] but not within Adobe Advertising.
+In the following example, suppose that a visitor was served an ad on Day 1, performed a view-through visit (that is, visited the ad's landing page without previously clicking the ad) on Day 2, and converted on Day 45. In this case, Adobe Advertising would track the user from Days 1-14 (using a 14-day lookback), [!DNL Analytics] would track the user from Days 2-61 (using a 60-day lookback), and the conversion on Day 45 would be attributed to the ad within [!DNL Analytics] but not within Adobe Advertising.
 
 ![Example of a view-through conversion attributed in [!DNL Analytics] but not Adobe Advertising](/help/integrations/assets/a4adc-viewthrough-example.png)
 
@@ -76,7 +76,7 @@ Consider these differences when comparing view-through conversions between Adobe
 >
 >For linear allocation, [!DNL Analytics] attributes success events equally across all [!DNL eVar] values within a single visit, so use linear allocation with an [!DNL eVar] expiration of "Visit." For advertising, however, the use of linear attribution leads to allocation that is not truly linear and to less-than-ideal reporting. For example, if a visitor interacts with three ads before converting in three separate visits, only the ad seen in the last visit is attributed to the conversion, not all three ads.
 >
->In addition, switching conversion allocation to or from "Linear" prevents historical data from displaying, which can can lead to misstated data in reports. For example, linear allocation might divide revenue across a number of different [!DNL eVar] values. If you change allocation to "Most Recent," then 100% of that revenue becomes associated with the most recent single value. This association can lead you to incorrect conclusions.
+>In addition, switching conversion allocation to or from "Linear" prevents historical data from displaying, which can lead to misstated data in reports. For example, linear allocation might divide revenue across a number of different [!DNL eVar] values. If you change allocation to "Most Recent," then 100% of that revenue becomes associated with the most recent single value. This association can lead you to incorrect conclusions.
 >
 >To prevent confusion, [!DNL Analytics] makes historical data unavailable in the reporting interface. You can view the historical data if you change the [!DNL eVar] back to the initial allocation setting, although you should not change [!DNL eVar] allocation settings simply to access historical data. Adobe recommends using a new [!DNL eVar] when you want to apply a new allocation setting for data that's already being recorded, rather than changing allocation settings for an [!DNL eVar] that already has a significant amount of historical data.
 
@@ -148,31 +148,60 @@ The [!DNL Paid Search Detection] reports allow you to identify natural search tr
 
 For your integration, you should validate your click-through data to make sure that all pages on your site are properly tracking click-throughs.
 
-In [!DNL Analytics], one of the easiest ways to validate [!DNL Analytics for Advertising] tracking is to compare clicks to instances using a "Clicks to [!UICONTROL AMO ID Instances]" calculated metric, which is calculated as follows:
+In [!DNL Analytics], one of the easiest ways to validate [!DNL Analytics for Advertising] tracking is to compare instances to clicks using an "AMO ID Instances to Adobe Advertising Clicks" calculated metric, which is calculated as follows:
 
 ```
-Clicks to [!UICONTROL AMO ID Instances] = ([!UICONTROL AMO ID Instances] / Adobe Advertising Clicks)
+AMO ID Instances to Adobe Advertising Clicks = ([!UICONTROL AMO ID Instances] / [!UICONTROL Adobe Advertising Clicks])
 ```
 
-[!UICONTROL AMO ID Instances] represents the number of times that [AMO IDs](ids.md) are tracked on the site. Each time an ad is clicked, an AMO ID (`s_kwcid`) parameter is added to the landing page URL. The number of [!UICONTROL AMO ID Instances], therefore, is analogous to the number of clicks and can be validated against actual ad clicks. We typically see an 80% match rate for [!DNL Search, Social, & Commerce] and a 30% match rate for [!DNL DSP] traffic (when filtered to include only click-through [!UICONTROL AMO ID Instances]). The difference in expectations between search and display can be explained by the expected traffic behavior. Search captures intent, and, as such, users usually intend to click on the search results from their query. Users who see a display or online video ad, however, are more likely to click the ad unintentionally and then either bounce from the site or abandon the new window that loads before the page activity is tracked.
+[!UICONTROL AMO ID Instances] represents the number of times that [AMO IDs](ids.md) are tracked on the site. Each time an ad is clicked, an AMO ID (`s_kwcid`) parameter is added to the landing page URL. The number of [!UICONTROL AMO ID Instances], therefore, is analogous to the number of clicks and can be validated against actual ad clicks. We typically see an 85% match rate for [!DNL Search, Social, & Commerce] and a 30% match rate for [!DNL DSP] traffic (when filtered to include only click-through [!UICONTROL AMO ID Instances]). The difference in expectations between search and display can be explained by the expected traffic behavior. Search captures intent, and, as such, users usually intend to click on the search results from their query. Users who see a display or online video ad, however, are more likely to click the ad unintentionally and then either bounce from the site or abandon the new window that loads before the page activity is tracked.
 
-In Adobe Advertising reports, you can similarly compare clicks to instances using the "[!UICONTROL ef_id_instances]" metric instead of [!UICONTROL AMO ID Instances]:
+In Adobe Advertising reports, you can similarly compare instances to clicks using the "[!UICONTROL EF ID Instances]" metric instead of [!UICONTROL AMO ID Instances]:
 
 ```
-Clicks to [EF ID Instances = (ef_id_instances / Clicks)
+EF ID Instances to Adobe Advertising Clicks = ([!UICONTROL EF ID Instances] / [!UICONTROL Adobe Advertising Clicks])
 ```
 
 While you should expect a high match rate between the AMO ID and the EF ID, don't expect 100% parity because AMO ID and EF ID fundamentally track different data, and this difference can lead to slight differences in the total [!UICONTROL AMO ID Instances] and [!UICONTROL EF ID Instances]. If the total [!UICONTROL AMO ID Instances] in [!DNL Analytics] differ from [!UICONTROL EF ID Instances] in Adobe Advertising by more than 1%, however, contact your Adobe Account Team for assistance.
 
 For more information about the AMO ID and EF ID, see [Adobe Advertising IDs Used by Analytics](ids.md).
 
+<!--  Need to create a new report to show tracking instances to clicks, instead of clicks to instances as shown, and replace this screenshot.
+
 The following is an example of a workspace to track clicks to instances.
 
-![Example of a workspace to track clicks to instances](/help/integrations/assets/a4adc-clicks-to-instances-example.png)
+![Example of a workspace to track clicks to instances to clicks](/help/integrations/assets/a4adc-clicks-to-instances-example.png)
+-->
+
+### Troubleshooting Disparities Between Clicks and Instances
+
+If the [!UICONTROL EF ID Instances]-to-[!UICONTROL Adobe Advertising Clicks] ratio is below 85%, then check the following:
+
+* Are you missing click tracking for the account or at any sublevel, or do you have duplicate click tracking (for example, at both the account and campaign levels)?
+
+  In Search, Social, & Commerce, [download a bulksheet](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md) for the account to check the tracking URLs.
+
+  Also, in [!DNL Analytics], you can see if the AMO ID and EF IF are appended consistently using an "[!DNL AMO ID] to [!DNL EF ID]" calculated metric, which is calculated as follows:
+  
+  ```
+  [!DNL AMO ID] to [!DNL EF ID] = ([!UICONTROL AMO ID] / [!DNL EF ID])
+  ```
+
+  A value greater that 100% indicates that more EF IDs are missing than AMO IDs.
+
+* Does the landing page have a loading problem so that the AMO ID and EF ID aren't captured?
+
+* Is the landing page URL redirected so that the AMO ID and EF ID are lost?
+
+* Do all landing pages use the configured report suite?
+
+>[!NOTE]
+>
+>In theory, it's possible that one instance has multiple clicks. Make sure to check for clicks on different devices (such as desktop, mobile, and tablet).
 
 ## Comparing Data Sets in [!DNL Analytics for Advertising] Versus in Adobe Advertising
 
-The [AMO ID](ids.md) (s_kwcid query string parameter) is used for reporting in [!DNL Analytics], and the [EF ID](ids.md) is used for reporting in Adobe Advertising. Because they're distinct values, it's possible for one value to be corrupted or not added to the landing page.
+The [AMO ID](ids.md) (s_kwcid query string parameter) is used for reporting in [!DNL Analytics], and the [EF ID](ids.md) (ef_id query string parameter) is used for reporting in Adobe Advertising. Because they're distinct values, it's possible for one value to be corrupted or not added to the landing page.
 
 For example, suppose we have the following landing page:
 
@@ -202,7 +231,7 @@ They seem analogous, but clicks and visits represent different data:
 
 * **Click:** [!DNL DSP] or the search engine records a click when a visitor clicks an ad on a publisher’s website.
 
-* **Visit:** [!DNL Analytics] defines a [visit](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html) as a series of page views by a user, ending according to to one of several criteria, such as 30 minutes of inactivity.
+* **Visit:** [!DNL Analytics] defines a [visit](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html) as a series of page views by a user, ending according to one of several criteria, such as 30 minutes of inactivity.
 
 By definition, a click can lead to multiple visits.
 
@@ -234,7 +263,7 @@ For example, if you view the [!UICONTROL Adobe Advertising Clicks] and [!UICONTR
 
 ![Example of Adobe Advertising metrics in a report using an Adobe Advertising dimension](/help/integrations/assets/a4adc-traffic-supported-dimension.png)
 
-However, if you view the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] metrics by an on-page dimension (such as Page), for which which Adobe Advertising doesn't provide data, then the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] for each page are zero (0).
+However, if you view the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] metrics by an on-page dimension (such as Page), for which Adobe Advertising doesn't provide data, then the [!UICONTROL Adobe Advertising Clicks] and [!UICONTROL Adobe Advertising Cost] for each page are zero (0).
 
 ![Example of Adobe Advertising metrics in a report using an unsupported dimension](/help/integrations/assets/a4adc-traffic-unsupported-dimension.png)
 
