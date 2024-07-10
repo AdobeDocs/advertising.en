@@ -14,7 +14,13 @@ feature: Search Introduction
 
 **[AMO ID](/help/integrations/analytics/ids.md#amo-id):** A tracking code that allows Adobe Advertising to share data about campaigns with Adobe Analytics. It begins with `s_kwcid=`.
 
-**bid unit:** A Search, Social, & Commerce term for a unit on which bids are placed. For most campaigns on most networks, this is a keyword and its match type for a search or content campaign, a unit-level product group (the lowest level of subdivision) for a shopping campaign, or a dynamic search target for a dynamic search ad campaign. When the same keyword and match type combination, the same product group, or the same dynamic search target occurs within multiple ad groups in a single campaign, all instances are considered the same bid unit and thus have the same bid.
+**bid unit:** A Search, Social, & Commerce term for a unit on which bids are placed.
+
+* For CPC campaigns, this is a keyword and its match type for a search or content campaign, a unit-level product group (the lowest level of subdivision) for a shopping campaign, or a dynamic search target for a dynamic search ad campaign. When the same keyword and match type combination, the same product group, or the same dynamic search target occurs within multiple ad groups in a single campaign, all instances are considered the same bid unit and thus have the same bid.
+
+* For campaigns with the [!DNL Maximize Clicks], [!DNL Maximize Conversion Value], [!DNL Maximize Conversions], [!DNL Target Cost Per Acquisition], or [!DNL Target Return on Ad Spend] spend strategies, each campaign is a bid unit.
+
+* For campaigns on [!DNL Yahoo! Display Network], which doesn't use keywords, all ads within an ad group have the same bid and are considered the same bid unit.
 
 **bid unit constraint:** See "constraint."
 
@@ -44,7 +50,7 @@ feature: Search Introduction
 
 **cost model:** (Advertisers with portfolios) Search, Social, & Commerce technology that predicts cost volume, the bid required to win each position or placement, and the CPC (search) or CPM (display) for each bid unit using historical data and mathematical forecasting techniques.
 
-**cost model coverage:** (Advertisers with portfolios) The number and/or percentage of bid units that have received at least one impression in the last seven days so that the optimization capability can build cost models. Not all bid units have cost models; the ones that do count toward the cost model coverage.
+**cost model coverage:** (Advertisers with portfolios) The number and/or percentage of bid units in CPC or eCPC campaigns that have received at least one impression in the last seven days so that the optimization capability can build cost models. Not all bid units have cost models; the bid units with cost models count toward the cost model coverage.
 
 **cost model half-life:** (Advertisers with portfolios) The number of days before the current date for which the cost data is considered more recent and therefore more relevant for cost models.
 

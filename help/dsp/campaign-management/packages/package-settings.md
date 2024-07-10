@@ -14,13 +14,13 @@ exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
 
 **[!UICONTROL 3rd Party Billed Fees]:** (Optional) A static third-party fee to be tracked as a non-billable cost:
 
+* **[!UICONTROL CPM]:** The cost per 1000 impressions (CPM).
+
+* **[!UICONTROL Description]:** A description of the CPM fee.
+
 >[!NOTE]
 >
 >Billable fees are reflected in the [!UICONTROL Net CPM] metric.
->
-* **[!UICONTROL CPM]:** The cost per 1000 impressions (CPM).
-
-* **[!UICONTROL CPM Description]:** A description of the CPM fee.
 
 You can override the package-level setting at the [placement level](/help/dsp/campaign-management/placements/placement-settings.md).
 
@@ -32,14 +32,14 @@ You can override the package-level setting at the [placement level](/help/dsp/ca
 
 * **[!UICONTROL Placement level pacing]:**  This pacing strategy operates by pacing and capping all included placements *individually*. The best practice is to use this strategy only to execute guaranteed private marketplace deals.
 
-**[!UICONTROL Flight Dates]:** The package's start date and end date.
-
-To optionally create non-even pacing flights for the package, select *[!UICONTROL *Activate Custom Flighting]** and set up the custom flights in the [!UICONTROL Flighting] section below. Once you enable custom flighting and save the package, you can't disable custom flighting.
+**[!UICONTROL Flight Dates]:** The package's overall start date and end date. The flight dates must be included within the campaign flight dates.
 
 >[!NOTE]
 >
->* The flight dates must be included within the campaign flight dates. In addition, the flight dates for all placements that are assigned to this package must be included within these dates.
+>* The flight dates for all placements that are assigned to this package must be included within these dates.
 > * You can't edit the package start date when custom flighting is activated.
+
+**[!UICONTROL *Activate Custom Flighting]:** Allows you to create non-even pacing flights for the package in the [!UICONTROL Flighting] section below. Once you enable custom flighting and save the package, you can't disable custom flighting nor edit the package start date.
 
 **[!UICONTROL Budget]:** (Packages with package-level pacing only) The gross budget cap and the budget interval.
 
@@ -107,9 +107,11 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 
 ## [!UICONTROL Flighting]
 
-(Packages with package-level pacing and with "[!UICONTROL Activate Custom Flighting]" enabled) Custom flight periods within the overall [!UICONTROL Flight Dates] specified in the [!UICONTROL Goals & Budget] section.
+(Packages with package-level pacing) The package's flight periods, including any custom flight periods within the overall [!UICONTROL Flight Dates] for the package. You can configure custom flights only when the [!UICONTROL Activate Custom Flighting] option is enabled in the [!UICONTROL Goals & Budget] section.
 
-For each flight, enter the start date, end date, and the target number of impressions. To add another flight, click **[!UICONTROL Add Flight]**.
+**[!DNL Flight N]:** (Available only when the [!UICONTROL Activate Custom Flighting] option is enabled) For each flight, specify the start date, end date, and the target spend goal. To add another flight, click **[!UICONTROL Add Flight]**.
+
+For existing packages, you can optionally enter a value in the [!UICONTROL Rollover] column for any flight to add potential unspent budget to the next flight. The projected value in the [!UICONTROL Adjusted Goal (Goal + Rollover)] column is changed accordingly.<!-- clarify usage -->
 
 >[!MORELIKETHIS]
 >

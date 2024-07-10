@@ -18,7 +18,7 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 * You can create custom segments that track users associated with ID5 universal IDs who are exposed to ads from desktop and mobile devices and who visit specific webpages. ID5 uses a probabilistic model to assign an ID derived from various user signals and browser signals. For instructions, see "[Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)."
 
-* Third-party segments from [!DNL Eyeota] and some other vendors may automatically include ID5 IDs, in addition to users tracked by cookies or device IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
+* Third-party segments from some vendors may automatically include universal IDs in addition to users tracked by cookies or device IDs. For example, segments from [!DNL Eyeota] may automatically include ID5 IDs, and segments from [!DNL Lotame] may include UID2.0 IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
 
 ## Reporting by Universal ID Type
 
@@ -68,7 +68,7 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 * About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, then contact your Adobe Account Team.
 
-  See "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)" for more information about how the segment counts can vary.
+  See "[Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)" for more information about how the segment counts can vary.
 
 * Don't change your existing packages and placements. However, if you don't have any incremental budget to test universal IDs, then reduce the original budgets to fund the tests.
 
@@ -90,15 +90,23 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 * Remember that the reach for authenticated audience segments is naturally smaller than the reach for cookie-based segments, and that using additional targeting options further decreases your reach. Be judicious about using granular targeting, especially by joining multiple targets with AND statements.
 
-## Causes for Data Variances Between Email IDs and Universal IDs {#universal-ids-data-variances}
+## Data Variances Between Email IDs and Universal IDs {#universal-ids-data-variances}
+
+### Acceptable levels of variance
+
+The translation rate of hashed email addresses to universal IDs should be greater than 90%; the translation rate for [!DNL RampIDs] in particular should be 95% if all hashed email addresses are unique. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to at least 95 [!DNL RampIDs] or more than 90 other types of universal IDs. A lower translation rate may indicate an issue. See "[Causes of variance](#universal-ids-data-variances-causes" for possible explanations.
+
+For [!DNL RampIDs], contact your Adobe Account Team for further investigation if translation rates are lower than 70%.
+
+### Causes of variance {#universal-ids-data-variances-causes}
 
 * Hashed email IDs translated to ID5 IDs:
 
   The probabilistic model has an error variance of +/- 5%. This means that it can overestimate or underestimate the audience count by 5%.
 
-* Hashed email IDs translated to [!DNL RampIDs]: 
+* Hashed email IDs translated to [!DNL RampIDs]:
 
-  * When multiple profiles use the same email ID, the DSP segment count can be lower than the profile count within your customer data platform. For example, in Adobe Photoshop, you can create a company account and a personal account using a single email ID. But if both profiles belong to the same segment, then the profiles map to one email ID and correspondingly to one [!DNL RampID]. 
+  * When multiple profiles use the same email ID, the DSP segment count can be lower than the profile count within your customer data platform. For example, in Adobe Photoshop, you can create a company account and a personal account using a single email ID. But if both profiles belong to the same person, then the profiles map to one email ID and correspondingly to one [!DNL RampID]. 
 
   * A [!DNL RampID] can be upgraded to a new value. If [!DNL LiveRamp] doesn't recognize an email ID or can't map it to an existing [!DNL RampID] in its database, then it assigns a new [!DNL RampID] to the email ID. In the future, when they can map the email ID to another [!DNL RampID] or can gather more information about the same email ID, they upgrade the [!DNL RampID] to a new value. [!DNL LiveRamp] refers to this action as upgrading from a "derived" [!DNL RampID] to a "maintained" [!DNL RampID]. However, DSP doesn't get mappings between derived and maintained [!DNL RampIDs] and therefore can't remove the previous version of the RampID from the DSP segment. In this case, the segment count can be more than the profile count.
 
@@ -115,6 +123,8 @@ If you don't see user counts, or if your audience sizes are low, then check the 
 * (For [!DNL RampIDs] and [!DNL UID 2.0] IDs) Make sure that your [DSP data source is configured correctly](/help/dsp/audiences/sources/source-manage.md#source-settings), and that user counts are populated for the generated audience segments.
 
 * If your reach is less than you expect, check that the audience segment logic isn't too granular.
+
+* Make sure that your campaign, package, and placement settings are correct.<!-- wording-->
 
 If you can't resolve the issue, then contact your Adobe Account Team.
 

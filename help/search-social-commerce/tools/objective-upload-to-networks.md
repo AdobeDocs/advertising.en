@@ -12,7 +12,9 @@ feature: Search Tools
 
 Search, Social, & Commerce can upload the objectives for an advertiser account's portfolios to [!DNL Google Ads] and [!DNL Microsoft Advertising] so you can use them for hybrid optimization. Your uploaded objectives are available as conversion actions for account-level and campaign-level custom conversion goals.
 
-Enabling this option automatically triggers an upload for objectives in portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable objective. The conversion represents all weighted conversion metrics in the objective. Each conversion has one of the following names:
+Enabling this option automatically triggers an upload for objectives in portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable objective. The conversion represents all weighted conversion metrics in the objective at the EF ID (click ID) level. For [!DNL Google Ads] clicks, the EF ID is the [!DNL Google Ads] `gclid`; for [!DNL Microsoft Advertising] clicks, the EF ID is the [!DNL Microsoft Advertising] `msclkid`. Because of this click ID, conversion data can be mapped to the specific keyword and click time.
+
+Each uplpaded conversion has one of the following names:
 
 * `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>`
 
@@ -28,15 +30,7 @@ Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone.
 
 >[!IMPORTANT]
 >
->Conversions tracked by Google Ads and by the Microsoft Advertising universal event tracking (UET) tag aren't re-uploaded to the ad networks. If you include them within an objective, add them to the campaign goals within the ad network's editor.
-
-<!--
->[!IMPORTANT]
->
->Objectives for hybrid portfolios may include conversion goals from multiple ad networks and other types of conversion metrics. However, the individual campaigns in the portfolio can't include conversion goals that aren't included in the portfolio's objective; using additional conversion goals may impact portfolio performance.
--->
-
-<!-- Can conversions from events triggered on other ad networks be included in the portfolio (and just be ignored)? -->
+>Conversions tracked by Google Ads and by the Microsoft Advertising universal event tracking (UET) tag aren't re-uploaded to the ad networks. If you include them within an objective, you must add them to the campaign goals within the ad network's editor.
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]**.
 
@@ -48,7 +42,40 @@ Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone.
 
 1. (If your conversions are tracked at a manager account level) [Add credentials for your manager account](/help/search-social-commerce/admin/manager-accounts.md) at **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**.
 
-After the daily upload is completed, you can verify that the conversion actions appear in the ad network.
+1. Verify that each objective &mdash; named `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>` &mdash; appears within two days on the ad network.
+
+   In the [!DNL Google Ads] editor, look up your [conversion actions](https://support.google.com/google-ads/answer/11461796). In the [!DNL Microsoft Advertising] editor, look up your [conversion goals](https://help.ads.microsoft.com/#apex/ads/en/56709).
+   
+   If necessary, update the date range to include the upload date.
+
+## How the weighted objective is calculated
+
+The weighted objective that's passed to the ad network is the sum of all metric values collected, with the exception of conversions tracked by [!DNL Google Ads] or by the [!DNL Microsoft Advertising] universal event tracking (UET) tag.
+
+For example, say the objective's goal metric is Cart Additions with a weight of 25, and your assist metrics include GGL_Lead and Revenue with weights of 1 and Downloads with a weight of 0.5.
+
+![Example of a weighted objective](/help/search-social-commerce/assets/objective-example.png "Example of a weighted objective")
+ 
+Suppose a keyword resulted in the following actions for the portfolio:
+
+* 10 Cart Additions
+* $500 in Revenue
+* 50 Downloads
+* 5 GGL_Lead
+
+GGL_Lead isn't included in the calculation/upload because it's a Google Ads-tracked metric. Therefore the weighted objective value is calculated as ((10 x 25) + (500 x 1) + (50 x 0.5)) = 775.
+
+## Troubleshooting missing objectives
+
+If the objective &mdash; named `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>` &mdash; for one of your portfolios doesn't appear on the ad network, then check the following:
+
+* ([!DNL Google Ads]) Check if the conversions should be uploaded to the account or manager level. If they should be uploaded at the manager level:
+
+  * Check if the credentials for the [!DNL Google Ads] manager account is provided at **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**. If necessary, [add the credentials for the manager account](/help/search-social-commerce/admin/manager-accounts.md).
+  
+  * Check if the ad network account already includes the same metric name. If it does, then rename the metric so that the correct manager-level property can be created.
+
+* Check that the portfolio's "hybrid" option is selected and that the objective has valid revenue.
 
 >[!MORELIKETHIS]
 >

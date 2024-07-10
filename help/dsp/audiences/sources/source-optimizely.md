@@ -40,30 +40,29 @@ To convert email addresses to [!DNL RampIDs] or [!DNL ID5] IDs, you must do the 
 
 ## Step 3: Prepare and push the segment data {#push-data}
 
-The advertiser must prepare and push the data with the help of their [!DNL Optimizely] representative.
+The advertiser must prepare and push the data using the [!DNL Optimizely Data Platform]. For any questions about the process, contact your [!DNL Optimizely] representative.
 
-1. Within [!DNL Optimizely Data Platform], hash the email IDs for the advertiser's audience using the SHA-256 algorithm.
+1. Within [!DNL Optimizely Data Platform], hash the email IDs for the audience using the SHA-256 algorithm.
 
-1. Contact the advertiser's [!DNL Optimizely] representative for instructions to push the segment to DSP. Include the following information when you push the segment:
+1. Follow's [[!DNL Optimizely's] instructions to push the segment to DSP](https://support.optimizely.com/hc/en-us/articles/27974930963981-Integrate-Adobe-Ads). Include the following information to enable the integration:
 
    * **Source Key:** This is the source key created in [Step 2](#source-create).
    
    * **Account Code:** This is the alphanumeric DSP Account Code, which you can find within DSP at [!UICONTROL Settings] > [!UICONTROL Account].
 
-The segments should be available in DSP within 24 hours and 
-are refreshed as configured for the advertiser. Regardless of how frequently the segment is refreshed, inclusion in a segment expires after 30 days by default or after a customer-specified expiration period. Refresh your segments by re-pushing them from [!DNL Optimizely] prior to the expiration. To request a custom segment expiration, contact your Adobe Account Team.
-
-<!--
-Are they using the Data Platform web services, another type of API, or a UI? Add a link to instructions, including how to designate DSP as the destination. And where will they input the DSP-specific fields?]
--->
+The segments will be refreshed as configured for the advertiser. Regardless of how frequently the segment is refreshed, inclusion in a segment expires after 30 days by default or after a customer-specified expiration period. Refresh your segments by re-pushing them from [!DNL Optimizely] prior to the expiration. To request a custom segment expiration, contact your Adobe Account Team.
 
 ## Step 4: Compare the number of universal IDs with the number of hashed email addresses {#compare-id-count}
 
-After you complete all steps, verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is available and is populating within 24 hours. Compare the number of universal IDs with the number of original hashed email addresses.
+The segments should be available in DSP within 24 hours. After DSP receives the segment data, the audience count should be visible within nine (9) hours.
 
-The translation rate of hashed email addresses to universal IDs should be greater than 90%. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to more than 90 universal IDs. A translation rate of 90% or less is an issue. For more information about how the segment counts can vary, see "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
-   
-For troubleshooting support, contact your Adobe Account Team or `adcloud-support@adobe.com`.
+Verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is available and is populating, and compare the number of universal IDs with the number of original hashed email addresses. For information about acceptable ID translation rates and why the segment counts can vary, see "[Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
+
+## Troubleshooting
+
+To troubleshoot translation rate and user count issues, see "[Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)."
+
+To troubleshooting issues with the conversion procedure, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]
 >

@@ -57,7 +57,7 @@ the campaign may contain:
 
   Once you save a shopping campaign for brands with this bid strategy, you can't change the bid strategy. For other shopping campaign types, this strategy is available only for new campaigns.
 
-* *[!UICONTROL CPV]* (Audience CTV video campaigns only) Uses the cost-per-view (CPV) model. <!-- Campaigns with this bid strategy aren't optimized when they're included in portfolios. -->
+* *[!UICONTROL CPV]* (Audience CTV video campaigns only) Uses the cost-per-view (CPV) model. Search, Social, & Commerce doesn't provide optimization for campaigns with this bid strategy that are included in portfolios.
 
 * *[!UICONTROL Enhanced CPC]:* (Campaigns on the audience, search, and shopping networks) Uses the ad network's enhanced cost-per-click (eCPC) model, which allows the ad network to automatically change the cost-per-click (CPC) bid for each auction in an attempt to maximize conversions, using conversions specified within the ad network (not in Search, Social, & Commerce), while trying to keep your average CPC below your maximum CPC. 
 
@@ -297,13 +297,9 @@ For information about availability, see Microsoft Advertising help to "[Prevent 
 
 >[!TIP]
 >
->For hybrid portfolios for which you upload objectives to the ad network, the best practice is to use campaign-level goals that match the conversion goals in the portfolio's objective. However, if the campaign goals include conversions tracked by the [!DNL Microsoft Advertising] universal event tracking (UET) tag, then add them within the [!DNL Microsoft Advertising] editor because they aren't re-uploaded to the ad network with the objective. In addition, within the [!DNL Microsoft Advertising] editor, remove the campaign's conversion actions as account default goals by deselecting "include in conversions."
-
-<!-- Check on this:
->If the campaign is part of a hybrid portfolio, then use only conversion goals that are included in the portfolio's objective for the campaign. Including additional conversion goals may impact portfolio performance.
+>If the campaign is part of a hybrid portfolio, the best practice is to use campaign-level goals that match the conversion goals in the portfolio's objective; including additional conversion goals may impact portfolio performance. 
 >
->The objective may include conversion goals or other conversions that aren't included for the campaign, but the campaign can't include conversion goals that aren't included in the objective.
--->
+> However, for campaigns in hybrid portfolios for which you [upload objectives to the ad network](/help/search-social-commerce/tools/objective-upload-to-networks.md), do the following within the ad network's editor instead of here: a) add the uploaded Search, Social, & Commerce portfolio objective metric (which begins with "O_ACS_OBJ") as a conversion goal for the campaign, and b) add any campaign goals that include conversions tracked by the [!DNL Microsoft Advertising] universal event tracking (UET) tag because ad network-tracked metrics aren't uploaded to the ad network with the objective.
 
 >[!MORELIKETHIS]
 >

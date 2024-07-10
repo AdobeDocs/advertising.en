@@ -24,7 +24,7 @@ You can set up shopping campaigns by using [inventory feed templates](/help/sear
 
 1. [Create an ad group](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) within the campaign, and set the default bid for all ads.
 
-  You can override the default bid for individual product groups.
+   You can override the default bid for individual product groups.
 
 1. Create product groups for the ad group:
 
