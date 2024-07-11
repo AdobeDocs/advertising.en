@@ -111,7 +111,7 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 
 **[!UICONTROL Automatically rollover remaining flight budget to next flight]:** (Available only when the [!UICONTROL Activate Custom Flighting] option is enabled) Automatically adds any remaining budget from the previous flight to the existing budget for the next flight.
 
-In the [!UICONTROL Packages] view and the [!DNL [Package Name] > Flights] view, the [!UICONTROL Interval Goal] field, which shows the current flight goal, includes any rollover budget.
+In the [!UICONTROL Packages] view and the [!DNL Package Name] > [!UICONTROL Flights] view, the [!UICONTROL Interval Goal] field, which shows the current flight goal, includes any rollover budget.
 
 **[!DNL Flight N]:** (Available only when the [!UICONTROL Activate Custom Flighting] option is enabled) For each flight, specify the start date, end date, and the target spend goal. To add another flight, click **[!UICONTROL Add Flight]**.
 
