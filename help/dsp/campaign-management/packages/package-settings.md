@@ -39,7 +39,7 @@ You can override the package-level setting at the [placement level](/help/dsp/ca
 >* The flight dates for all placements that are assigned to this package must be included within these dates.
 > * You can't edit the package start date when custom flighting is activated.
 
-**[!UICONTROL *Activate Custom Flighting]:** Allows you to create non-even pacing flights for the package in the [!UICONTROL Flighting] section below. Once you enable custom flighting and save the package, you can't disable custom flighting nor edit the package start date.
+**[!UICONTROL Activate Custom Flighting]:** Allows you to create non-even pacing flights for the package in the [!UICONTROL Flighting] section below. Once you enable custom flighting and save the package, you can't disable custom flighting nor edit the package start date.
 
 **[!UICONTROL Budget]:** (Packages with package-level pacing only) The gross budget cap and the budget interval.
 
