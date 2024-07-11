@@ -6,14 +6,14 @@ exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
 ---
 # Custom Goals
 
-Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal to help achieve the overall optimization goal. You can create custom goals as *objectives* in [!DNL Advertising Search, Social, & Commerce].
+Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal to help achieve the overall optimization goal. You can create custom goals as *objectives* in [!DNL Advertising Search, Social, & Commerce]. The name of each objective for DSP must be prefixed with "ADSP_".
 
 <!-- update image or omit it
 
 ![custom goals](/help/dsp/assets/objective-goals.png)
  -->
 
-Each custom goal (objective) consists of one or more conversion metrics and the relative weights of those metrics. Only non-mobile weights are considered for DSP custom goals. The available conversion metrics include all metrics tracked using the Adobe Advertising conversion pixel and through Adobe Analytics.
+Each custom goal (objective) consists of one or more conversion metrics and the relative weights of those metrics. The available conversion metrics include all metrics tracked using the Adobe Advertising conversion pixel and through Adobe Analytics. Only non-mobile weights are considered for DSP custom goals, but they're used for all ad types.
 
 For example, suppose that three conversion metrics are relevant to a specific package in one of your campaigns: "PDF Download" valued at 20 USD, "Email Signup" valued at 30 USD, and "Order Confirmation" valued at 40 USD. If you want to give weight according to the one-time monetary value of the customer action, then the relative weights of the metrics would be 1, 1.5, and 2.
 
