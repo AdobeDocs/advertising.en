@@ -13,11 +13,13 @@ Custom goals define the success events that an advertiser requires to meet its b
 ![custom goals](/help/dsp/assets/objective-goals.png)
  -->
 
-Each custom goal consists of one or more conversion metrics and the relative weights of those metrics. The available conversion metrics include all metrics tracked using the Adobe Advertising conversion pixel and through Adobe Analytics.
+Each custom goal (objective) consists of one or more conversion metrics and the relative weights of those metrics. Only non-mobile weights are considered for DSP custom goals. The available conversion metrics include all metrics tracked using the Adobe Advertising conversion pixel and through Adobe Analytics.
 
 For example, suppose that three conversion metrics are relevant to a specific package in one of your campaigns: "PDF Download" valued at 20 USD, "Email Signup" valued at 30 USD, and "Order Confirmation" valued at 40 USD. If you want to give weight according to the one-time monetary value of the customer action, then the relative weights of the metrics would be 1, 1.5, and 2.
 
 Once you [create a custom goal](#custom-goal-create), you can [assign it to a package](/help/dsp/campaign-management/packages/package-settings.md) for reporting and algorithmic optimization using Adobe Sensei.
+
+Weight recommendations are automatically generated for DSP-attributed metrics in objectives, and can apply all weight recommendations with one click. All weight changes to objectives prefixed with "ADSP_" are applied algorithmically in DSP within two days. For more information weight recommendations, see the Optimization Guide chapter on "(Beta) New Objectives," which is available from within Search, Social, & Commerce. 
 
 ## Create a Custom Goal {#custom-goal-create}
 
@@ -43,15 +45,21 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
 
     1. In the toolbar, click ![Create](/help/dsp/assets/create-search-ui.png "Create").
 
-    1. Enter the objective settings, including the associated metrics and their relative numeric weights for non-mobile devices and mobile devices, and then save the objective.
+    1. Enter the objective settings, including the associated metrics and their relative numeric weights for non-mobile devices, and then save the objective. Consider the following:
     
-       At least one metric must have the metric type *[!UICONTROL Goal]*.
+       * For objectives used for Advertising DSP packages, the objective name must be prefixed with "ADSP_"  such as "ADSP_Registrations." The prefix isn’t case-sensitive.
+       
+       * Include only metrics that are attributed to DSP. Any metrics attributed to Search, Social, & Commerce or to any other ad network are ignored.
+       
+       * At least one metric must have the metric type *[!UICONTROL Goal]*.
+       
+       * DSP uses the non-mobile weights for all ads. Any mobile weights specified are ignored.
        
        >[!NOTE]
        >
        >* [!DNL Analytics] custom events follow this naming convention: `custom_event_[*event #*]_[*Analytics report suite ID*]`. Example: `custom_event_16_examplersid`
        >* [!DNL Analytics] dimensions and segments aren't available for Adobe Advertising optimization.
-
+       
        >[!TIP]
        >
        >For optimum performance, the combined metrics in the custom goal (objective) must total at least ten conversions per day. When they don't, the best practice is to add additional supporting conversion metrics, such as product pages or application starts, to the objective. See [Best Practices for Building a Custom Goal](#custom-goal-best-practices) for guidelines.
