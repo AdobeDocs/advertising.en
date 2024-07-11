@@ -14,7 +14,7 @@ Search, Social, & Commerce can upload the objectives for an advertiser account's
 
 Enabling this option automatically triggers an upload for objectives in portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable objective. The conversion represents all weighted conversion metrics in the objective at the EF ID (click ID) level. For [!DNL Google Ads] clicks, the EF ID is the [!DNL Google Ads] `gclid`; for [!DNL Microsoft Advertising] clicks, the EF ID is the [!DNL Microsoft Advertising] `msclkid`. Because of this click ID, conversion data can be mapped to the specific keyword and click time.
 
-Each uplpaded conversion has one of the following names:
+Each uploaded conversion has one of the following names:
 
 * `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>`
 
@@ -50,7 +50,7 @@ Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone.
 
 ## How the weighted objective is calculated
 
-The weighted objective that's passed to the ad network is the sum of all metric values collected, with the exception of conversions tracked by [!DNL Google Ads] or by the [!DNL Microsoft Advertising] universal event tracking (UET) tag.
+The weighted objective that's passed to the ad network is the sum of all metric values collected, with the exception of conversions tracked by [!DNL Google Ads] or by the [!DNL Microsoft Advertising] universal event tracking (UET) tag. The value is calculated using the attribution method set up for the advertiser’s Search, Social, & Commerce account.
 
 For example, say the objective's goal metric is Cart Additions with a weight of 25, and your assist metrics include GGL_Lead and Revenue with weights of 1 and Downloads with a weight of 0.5.
 
@@ -64,6 +64,12 @@ Suppose a keyword resulted in the following actions for the portfolio:
 * 5 GGL_Lead
 
 GGL_Lead isn't included in the calculation/upload because it's a Google Ads-tracked metric. Therefore the weighted objective value is calculated as ((10 x 25) + (500 x 1) + (50 x 0.5)) = 775.
+
+>[!TIP]
+>
+>You can view data for Adobe Advertising weighted revenue within the ad network's reports. As a best practice, compare the weighted revenue to the [!DNL Google Ads] "All conv. (by conv. time)" metric or the [!DNL Microsoft Advertising] metric "All conv. revenue," segmented to the O_ACS_OBJ* metric.<!--clarify -->
+
+ithin the ad network's editor
 
 ## Troubleshooting missing objectives
 

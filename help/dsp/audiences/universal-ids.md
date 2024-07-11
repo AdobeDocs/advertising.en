@@ -68,7 +68,7 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 * About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, then contact your Adobe Account Team.
 
-  See "[Causes for Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)" for more information about how the segment counts can vary.
+  See "[Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)" for more information about how the segment counts can vary.
 
 * Don't change your existing packages and placements. However, if you don't have any incremental budget to test universal IDs, then reduce the original budgets to fund the tests.
 
@@ -90,13 +90,21 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 * Remember that the reach for authenticated audience segments is naturally smaller than the reach for cookie-based segments, and that using additional targeting options further decreases your reach. Be judicious about using granular targeting, especially by joining multiple targets with AND statements.
 
-## Causes for Data Variances Between Email IDs and Universal IDs {#universal-ids-data-variances}
+## Data Variances Between Email IDs and Universal IDs {#universal-ids-data-variances}
+
+### Acceptable levels of variance
+
+The translation rate of hashed email addresses to universal IDs should be greater than 90%; the translation rate for [!DNL RampIDs] in particular should be 95% if all hashed email addresses are unique. For example, if you send 100 hashed email addresses from your customer data platform, they should be translated to at least 95 [!DNL RampIDs] or more than 90 other types of universal IDs. A lower translation rate may indicate an issue. See "[Causes of variance](#universal-ids-data-variances-causes" for possible explanations.
+
+For [!DNL RampIDs], contact your Adobe Account Team for further investigation if translation rates are lower than 70%.
+
+### Causes of variance {#universal-ids-data-variances-causes}
 
 * Hashed email IDs translated to ID5 IDs:
 
   The probabilistic model has an error variance of +/- 5%. This means that it can overestimate or underestimate the audience count by 5%.
 
-* Hashed email IDs translated to [!DNL RampIDs]: 
+* Hashed email IDs translated to [!DNL RampIDs]:
 
   * When multiple profiles use the same email ID, the DSP segment count can be lower than the profile count within your customer data platform. For example, in Adobe Photoshop, you can create a company account and a personal account using a single email ID. But if both profiles belong to the same person, then the profiles map to one email ID and correspondingly to one [!DNL RampID]. 
 
