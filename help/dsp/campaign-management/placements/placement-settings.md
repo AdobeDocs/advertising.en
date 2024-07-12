@@ -342,6 +342,8 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
 
 **[!UICONTROL Topic Targeting]:** (Optional; available to advertisers configured with [!DNL Proximic by Comscore] and [!DNL Oracle Data Cloud] segments) Specific segment names or IDs from [!DNL Proximic by Comscore] and [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]) to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your Adobe Account Team.
 
+**Note:** [!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]).
+
 To specify topic targeting:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
