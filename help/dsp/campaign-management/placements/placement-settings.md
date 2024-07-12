@@ -342,6 +342,8 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
 
 **[!UICONTROL Topic Targeting]:** (Optional; available to advertisers configured with [!DNL Proximic by Comscore] and [!DNL Oracle Data Cloud] segments) Specific segment names or IDs from [!DNL Proximic by Comscore] and [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]) to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your Adobe Account Team.
 
+**Note:** [!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]).
+
 To specify topic targeting:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
@@ -420,6 +422,14 @@ To specify topic targeting:
 * [!UICONTROL Integral Ad Science]:
 
    * **[!UICONTROL Block sites that are]:** (Optional) A type of suspicious website or app activity that causes DSP to block ads by default: *[!UICONTROL None]* (the default, which doesn't block ads based on suspicious activity), *[!UICONTROL Suspicious Activity - High Risk]*, or *[!UICONTROL Suspicious Activity - High or Moderate Risk]*. Additional fees may apply.
+
+**[!UICONTROL Pre-bid viewability]:**
+
+Which pre-bid viewability filters by [!DNL DoubleVerify], [!DNL Oracle Advertising] ([!DNL Moat]), and [!DNL Integral Ad Science] to apply for the placement. The advertiser-level defaults are selected for new placements, but you can change the settings. Additional fees may apply.
+
+>[!NOTE]
+>
+>[!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL MOAT].
 
 **[!UICONTROL Ads.txt filtering]:**
 

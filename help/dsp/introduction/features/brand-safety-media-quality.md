@@ -106,6 +106,10 @@ For more information on functionality, contact your preferred vendor directly, o
 
 Pre-bid viewability filters powered by our industry-leading partners [!DNL DoubleVerify], [!DNL Oracle Advertising] ([!DNL Moat]), and [!DNL Integral Ad Science] allow advertisers to ensure their campaigns meet their desired viewability performance goals across video and display inventory.
 
+>[!NOTE]
+>
+>[!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL MOAT].
+
 You can set default viewability filters for each advertiser<!-- [default pre-viewability filters for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
 
 ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Oracle Advertising logo](/help/dsp/assets/oracle-advertising-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png)
@@ -124,13 +128,13 @@ Additional fees apply for each separate feature.
 
 DSP topic targeting allows you to target or block keyword lists by leveraging our industry-leading contextual partners [!DNL Comscore] and [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]). Topic targeting helps you to ensure your ads are always served in an environment that aligns with your brand, whether that includes blocking harmful content or ensuring spend in a context that ensures a greater outcome.
 
+>[!NOTE]
+>
+>[!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]).
+
 Topic targeting requires you to create custom topic segments directly with the partner platform. Once the segments are created, you can [target or exclude a segment ID in the [!UICONTROL Audience Targeting] section for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply for this feature.
 
-To create custom topic segments:
-
-* To create a [!DNL Comscore] account and create custom segments, you can request a login for [!DNL Activation Segment Manager] at [https://agents.comscore.com](https://agents.comscore.com). See the [[!DNL Comscore] help center](https://comscoreactivation.zendesk.com/hc/) for full instructions for setting up custom segments. Fees for custom segments are visible in [!DNL Segment Manager] as you create them.
-
-* To get started with [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] or your Adobe Account Team.
+To create a [!DNL Comscore] account and create custom topic segments, you can request a login for [!DNL Activation Segment Manager] at [https://agents.comscore.com](https://agents.comscore.com). See the [[!DNL Comscore] help center](https://comscoreactivation.zendesk.com/hc/) for full instructions for setting up custom segments. Fees for custom segments are visible in [!DNL Segment Manager] as you create them.
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
