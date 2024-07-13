@@ -126,25 +126,25 @@ Optional pre-bid viewability filters by [!DNL DoubleVerify], [!DNL Oracle Advert
 
 ###### Video
 
-** **[UICONTROL Include URL's whose average video viewability rate is]**. With this option, select the criteria.
+** **[!UICONTROL Include URL's whose average video viewability rate is]**. With this option, select the criteria.
 
-** **[UICONTROL Impressions with Insufficient IAB Viewability Data]**
+** **[!UICONTROL Impressions with Insufficient IAB Viewability Data]**
 
-** **[UICONTROL Include URL's whose average completion & fully viewable rate is]**. With this option, select the criteria.
+** **[!UICONTROL Include URL's whose average completion & fully viewable rate is]**. With this option, select the criteria.
 
-** **[UICONTROL Include URL's whose average player size composition is]**. With this option, select the criteria.
+** **[!UICONTROL Include URL's whose average player size composition is]**. With this option, select the criteria.
 
-** **[UICONTROL Impressions with Insufficient Player Size Statistics]**
+** **[!UICONTROL Impressions with Insufficient Player Size Statistics]**
 
 ###### Display
 
-** **[UICONTROL Only target URL's or Apps that have historically achieved a display viewability rate of]**. With this option, select the criteria.
+** **[!UICONTROL Only target URL's or Apps that have historically achieved a display viewability rate of]**. With this option, select the criteria.
 
-* **[UICONTROL Impressions with Insufficient IAB Viewability Performance Data]**
+* **[!UICONTROL Impressions with Insufficient IAB Viewability Performance Data]**
 
-* **[UICONTROL Include Apps and URL's whose average entire creative (100% of pixels) viewable duration is]**. With this option, select the criteria.
+* **[!UICONTROL Include Apps and URL's whose average entire creative (100% of pixels) viewable duration is]**. With this option, select the criteria.
 
-* **[UICONTROL Impressions with Insufficient BXD Performance Data]**
+* **[!UICONTROL Impressions with Insufficient BXD Performance Data]**
 
 ##### [!UICONTROL Integral Ad Science] {#ias-viewability}
 
