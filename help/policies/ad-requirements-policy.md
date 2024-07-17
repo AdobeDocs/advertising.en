@@ -6,7 +6,7 @@ exl-id: 217cce8e-3bb3-407a-a05e-7fff2978eac8
 ---
 # Adobe Advertising Ad Requirements Policy
 
-*Last updated: July 17, 2024<!-- (except for formatting changes unrelated to content)-->*
+*Policy last updated: July 17, 2024<!-- (except for formatting changes unrelated to content)-->*
 
 *For Adobe Advertising DSP and Adobe Advertising Search, Social, & Commerce*
 
