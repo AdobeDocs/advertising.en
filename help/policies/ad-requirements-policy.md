@@ -6,13 +6,13 @@ exl-id: 217cce8e-3bb3-407a-a05e-7fff2978eac8
 ---
 # Adobe Advertising Ad Requirements Policy
 
-*Last updated: July 12, 2021 (except for updated product names and URL of this page)*
+*Last updated: July 17, 2024<!-- (except for formatting changes unrelated to content)-->*
 
 *For Adobe Advertising DSP and Adobe Advertising Search, Social, & Commerce*
 
-This Ads Requirements Policy (“Policy”) sets forth the requirements for Ads distributed via Adobe’s On-demand Services for Adobe Advertising (“Services”). This Policy is incorporated by reference into the Agreement between Adobe and the Customer (“you”) using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
+This Ads Requirements Policy (“Policy”) sets forth the requirements for Ads distributed via [!DNL Adobe’s] On-demand Services for Adobe Advertising (“Services”). This Policy is incorporated by reference into the Agreement between [!DNL Adobe] and the Customer (“you”) using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
 
-Adobe reserves the right to determine, in its sole judgment, whether an Ad, or the website(s) to which the Ad re-directs or links, violates the requirements of this Policy, in which event Adobe may reject such Ad and/or terminate or suspend access to the Services on that basis.
+[!DNL Adobe] reserves the right to determine, in its sole judgment, whether an Ad, or the website(s) to which the Ad re-directs or links, violates the requirements of this Policy, in which event [!DNL Adobe] may reject such Ad and/or terminate or suspend access to the Services on that basis.
 
 In addition to the requirements set forth below and in the Agreement, you must comply with the requirements imposed by each media source on which you place your Ads as well as those imposed by any supply side platform (SSP) or other platform used to deliver any of your Ads. It is your responsibility to understand and comply with the policies of the publishers and platforms through which you deliver Ads.
 
@@ -20,21 +20,21 @@ In addition to the requirements set forth below and in the Agreement, you must c
 
 ### Creative Requirements
 
-All Ads transmitted, stored, displayed, distributed, or otherwise made available by you via the On-demand Services must be consistent with the advertising specifications contained in the Adobe Advertising Ad Specs, as may be revised by Adobe from time to time.
+All Ads transmitted, stored, displayed, distributed, or otherwise made available by you via the On-demand Services must be consistent with the advertising specifications contained in the Adobe Advertising Ad Specs, as may be revised by [!DNL Adobe] from time to time.
 
 ### Prohibited Ads
 
 You must ensure that your Ads and the website(s) to which an Ad links or re-directs do not contain or promote any of the following:
 
-* **Illegal content**. Ads may not contain illegal content or promote, encourage, or facilitate illegal activities, products, or services. This includes, but is not limited to, content, products, activities or services that involve use of illicit drugs or drug paraphernalia (whether illegal at state or federal level) or violate securities laws. For purposes of this Policy, Ads regarding content, products, activities, or services that relate to marijuana or hemp or derivatives of these substances, such as cannabidiol (CBD), are prohibited, with the following sole exceptions: (1) hemp-derived CBD products (but no other CBD or THC products) in the U.S.; and (2) cannabis products in the Permitted Canadian Provinces, both subject to (a) previously entering into the applicable Adobe Rider, (b) compliance with Adobe due diligence requirements, and (c) as permitted by Media Suppliers and applicable laws. “Permitted Canadian Provinces” means the provinces of Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, and Saskatchewan.
+* **Illegal content**. Ads may not contain illegal content or promote, encourage, or facilitate illegal activities, products, or services. This includes, but is not limited to, content, products, activities or services that involve use of illicit drugs or drug paraphernalia  or violate securities laws. For purposes of this Policy, Ads regarding content, products, activities, or services that relate to licensed cannabis or hemp or derivatives of these substances, such as cannabidiol (CBD) products, are not prohibited, but are subject to restrictions (See “Restricted Ads, Cannabis; Hemp).
 
 * **Infringement upon of the rights or contracts of another**. Ads may not violate or infringe the rights or contract of another or promote any product or service that engages in those activities. This includes infringement of intellectual property rights and violations of privacy, publicity, or other personal or proprietary rights, including the promotion of file-sharing services that are used primarily to infringe copyrights.
 
 * **Violence or dangerous activities**. Ads may not promote or depict violent or dangerous activities or materials, including content that is shocking, sensational, gory, obscene, or that promotes or depicts physical injury, harm or abuse, weapons (including weapon modification or accessories), ammunition, fireworks or other explosive materials.
 
-* **False or misleading ads**. Ads may not contain content that is false, misleading, or deceptive. This includes Ads setting unrealistic expectations for users, hiding the true destination that users will be directed to after clicking on an Ad, redirecting or linking to a site that misrepresents itself as another service,  mimicking system alerts or warnings (such as from any operating system or mobile application), or appearing confusingly similar to another product or application. Any offers of “free” or discounted products or services must contain clear and accurate disclosures of any terms, conditions, or other requirements to claim such offers consistent with requirements under law. Any claims made must be accurate and truthful.
+* **False or misleading ads**. Ads may not contain content that is false, misleading, or deceptive. This includes Ads setting unrealistic expectations for users, hiding the true destination that users will be directed to after clicking on an Ad, redirecting or linking to a site that misrepresents itself as another service, mimicking system alerts or warnings (such as from any operating system or mobile application), or appearing confusingly similar to another product or application. Any offers of “free” or discounted products or services must contain clear and accurate disclosures of any terms, conditions, or other requirements to claim such offers consistent with requirements under law. Any claims made must be accurate and truthful.
 
-* **Harmful Ads.** Ads may not contain or promote viruses, spyware, or malware, or link to websites containing such software or products. This includes promoting hacking software, cheating services and other offerings that are designed to perform unauthorized actions. Additionally, Ads may not contain content that is harassing, threatening, derogatory, defamatory, discriminatory, offensive, or otherwise objectionable.
+* **Harmful Ads**. Ads may not contain or promote viruses, spyware, or malware, or link to websites containing such software or products. This includes promoting hacking software, cheating services and other offerings that are designed to perform unauthorized actions. Additionally, Ads may not contain content that is harassing, threatening, derogatory, defamatory, discriminatory, offensive, or otherwise objectionable.
 
 * **Counterfeit or fake products**. Ads may not promote or depict counterfeit or fake products, including fake documents, such as passports or official paperwork.
 
@@ -46,7 +46,7 @@ You must ensure that your Ads and the website(s) to which an Ad links or re-dire
 
 * **Tobacco**. Ads may not offer or promote the sale or use of tobacco products or paraphernalia, including electronic cigarettes.
 
-* **Profanity and vulgar or obscene language.** Ads may not contain profanity or vulgar or obscene language. Ads also may not include language intending to accomplish the same effect but which obscures the profanity. 
+* **Profanity and vulgar or obscene language.** Ads may not contain profanity or vulgar or obscene language. Ads also may not include language intending to accomplish the same effect but which obscures the profanity.
 
 * **Hateful Ads**. Ads may not promote or relate to hateful speech or religious intolerance and may not disparage an individual or group on the basis of their race or ethnic origin, religion, disability, medical or genetic condition, age, nationality or national origin, veteran status, refugee status, immigration status, sexual orientation, gender, gender identity, or other characteristic that is associated with systemic discrimination or marginalization.
 
@@ -66,7 +66,11 @@ Ads containing content in the below categories are permitted with specific restr
 
 * **Alcohol**. Ads that advertise or promote alcoholic beverages and alcohol companies are only permitted if in compliance with applicable laws and self-regulatory rules. For instance, alcohol Ads may not target minors and can only run in countries that allow ads for alcohol. However, in no event may any Ads glamorize or depict excessive alcohol consumption.
 
+* **Cannabis**. Ads that advertise or promote state-legal cannabis companies or cannabis in the Permitted Canadian Provinces are only permitted if in compliance with applicable state or Canadian laws, respectively, subject to (a) previously entering into the applicable [!DNL Adobe Rider], (b) compliance with [!DNL Adobe] due diligence requirements, and (c) as permitted by Media Suppliers and applicable laws. Ads for state-legal cannabis may may not offer or promote specific products for sale, and must be geo-targeted to the appropriate state. All permitted cannabis ads may not (1) be appealing to minors, or (2) glamorize or depict cannabis consumption. “Permitted Canadian Provinces” means the provinces of Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, and Yukon.  
+
 * **Gambling**. Ads containing gambling-related content, including by promoting casinos, lotteries, and other games of chance (whether online or offline) may only be promoted in in accordance with applicable laws. However, no Ads may glamorize or depict excessive gambling behaviors or misrepresent the odds or risks of gambling.
+
+* **Hemp**. Ads for hemp and hemp-derived products must comply with all applicable state and federal laws, subject to (a) previously entering into the applicable [!DNL Adobe Rider], (b) compliance with [!DNL Adobe] due diligence requirements, and (c) as permitted by Media Suppliers and applicable laws. Ads for hemp and hemp-derived products may not (1) make health-related claims, (2) target vulnerable populations, including minors, or (3) glamorize or depict smoking, or (4) suggest that such products have similar intoxicating effects to cannabis.
 
 * **Pharmaceutical Ads**. Ads promoting prescription and over-the-counter drugs must comply with applicable federal and local laws, regulations, and guidelines.
 
@@ -80,7 +84,9 @@ Ads containing content in the below categories are permitted with specific restr
 
 Ads may not use personal data to intentionally target users under the age of 16. In addition to the Prohibited Ads and Restricted Ads listed above, Ads may not knowingly market or advertise the following products or services to users under the age of 18:
 
+
 * Alcoholic beverages and related accessories
+* Cannabis or hemp products
 * Projectile, BB, or pellet guns/devices
 * Handgun safety certificates
 * Aerosol paint or etching cream capable of defacing property
@@ -96,9 +102,11 @@ The Services may not be used to target ads to users or exclude users from being 
 
 * **Prohibited Targeting**. Ads may not be targeted to or directed at an audience based on any of the following factors, whether known or inferred:
 
+
+
    * Religious or similar beliefs or affiliations
-   * Race, color or ethnic origin
-   * Sexual history, interests or orientation
+   * Race, color, or ethnic origin
+   * Sexual history, interests, or orientation
    * Transgender identification
    * Genetic or biometric information
    * Negative financial status (such as credit score), or criminal record, history, or convictions
