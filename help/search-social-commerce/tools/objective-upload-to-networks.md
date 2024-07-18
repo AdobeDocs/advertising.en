@@ -14,17 +14,11 @@ Search, Social, & Commerce can upload the objectives for an advertiser account's
 
 Enabling this option automatically triggers an upload for objectives in portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable objective. The conversion represents all weighted conversion metrics in the objective at the EF ID (click ID) level. For [!DNL Google Ads] clicks, the EF ID is the [!DNL Google Ads] `gclid`; for [!DNL Microsoft Advertising] clicks, the EF ID is the [!DNL Microsoft Advertising] `msclkid`. Because of this click ID, conversion data can be mapped to the specific keyword and click time.
 
-Each uploaded conversion has one of the following names:
+Each uploaded conversion has the following name:
 
-* `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>`
+`O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>`
 
-  where `<network_ID>` is the numeric ID that Search, Social, & Commerce uses for the ad network, `<objective_id>` is the numeric objective ID, and `<network_account_ID>` is the numeric ID for the ad network account or manager account.
-
-* (Old format that will be deprecated in the future) `ACS_OBJ_SID_<portfolio_id>_<se_acctid/conversion_manager_se_acctid>`
-
-  where `<portfolio_id>` is the numeric portfolio ID and `<se_acctid/conversion_manager_se_acctid>` is the numeric ID for the ad network account or manager account.
-
-  Your Adobe Account Team will work with you to migrate your existing conversion action names within the ad network before the old format is deprecated. During the migration period, both the old and new format uploads will run in parallel. Modelling and optimization aren't affected because the new conversion actions initially appear with "secondary" (not optimized) status and with 90 days of backfill data.
+where `<network_ID>` is the numeric ID that Search, Social, & Commerce uses for the ad network, `<objective_id>` is the numeric objective ID, and `<network_account_ID>` is the numeric ID for the ad network account or manager account.
 
 Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone. Uploads to [!DNL Microsoft Advertising] occur daily at 09:00 in the advertiser's time zone.
 
@@ -68,8 +62,6 @@ GGL_Lead isn't included in the calculation/upload because it's a Google Ads-trac
 >[!TIP]
 >
 >You can view data for Adobe Advertising weighted revenue within the ad network's reports. As a best practice, compare the weighted revenue to the [!DNL Google Ads] "All conv. (by conv. time)" metric or the [!DNL Microsoft Advertising] metric "All conv. revenue," segmented to the O_ACS_OBJ* metric.<!--clarify -->
-
-ithin the ad network's editor
 
 ## Troubleshooting missing objectives
 
