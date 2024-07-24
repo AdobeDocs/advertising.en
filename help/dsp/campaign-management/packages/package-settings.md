@@ -115,7 +115,7 @@ In the [!UICONTROL Packages] view and the [!DNL Package Name] > [!UICONTROL Flig
 
 **[!DNL Flight N]:** (Available only when the [!UICONTROL Activate Custom Flighting] option is enabled) For each flight, specify the start date, end date, and the target spend goal. To add another flight, click **[!UICONTROL Add Flight]**.
 
-For existing packages without the "[!UICONTROL Automatically rollover remaining flight budget to next flight]" option enabled, you can optionally enter a value in the [!UICONTROL Rollover] column for any flight to add potential unspent budget to the next flight. The projected value in the [!UICONTROL Adjusted Goal (Goal + Rollover)] column is changed accordingly.<!-- clarify usage -->
+For existing packages without the "[!UICONTROL Automatically rollover remaining flight budget to next flight]" option enabled, you can optionally reopen the settings to enter a value in the **[!UICONTROL Rollover]** column for any flight to add potential unspent budget to the next flight.
 
 >[!MORELIKETHIS]
 >
