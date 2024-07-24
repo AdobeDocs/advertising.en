@@ -29,16 +29,17 @@ The rest of the AMO ID can be ignored.
 
 | [!UICONTROL AMO ID] | Channel | Rule Logic |
 |--------|---------|--------------------|
-| AL! (prefix) | [!UICONTROL Paid Search] | Starts With |
-| AC! (prefix) | [!UICONTROL DSP] | Starts With |
+| !ctv (suffix) | [!UICONTROL DSP Connected TV View-through] | Ends With |
+| !d! (body) | [!UICONTROL Display Network] | Contains |
 | !g! (body) | [!UICONTROL Google Search] | Contains |
 | !s! (body) | [!UICONTROL Search Partner] | Contains |
-| !d! (body) | [!UICONTROL Display Network] | Contains |
 | !u! (body) | [!UICONTROL Smart Shopping Campaign] | Contains |
 | !ytv! (body) | [!UICONTROL YouTube Video Ad] | Contains |
 | !yts! (body) | [!UICONTROL YouTube Search Ad] | Contains |
 | !vp! (body) | [!UICONTROL Google Video Partners] | Contains |
 | !vt (suffix) | [!UICONTROL DSP View-through] | Ends With |
+| AL! (prefix) | [!UICONTROL Paid Search] | Starts With |
+| AC! (prefix) | [!UICONTROL DSP] | Starts With |
 
 ### Examples of Processing Rules That Use the AMO ID
 
