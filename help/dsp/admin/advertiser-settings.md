@@ -114,6 +114,46 @@ Types of sites to block based on fraudulent traffic and suspicious activities me
 
 **[!UICONTROL Block sites that are]:** (Optional) A type of suspicious website or app activity that causes DSP to block ads by default: *[!UICONTROL None]* (the default, which doesn't block ads based on suspicious activity), *[!UICONTROL Suspicious Activity - High Risk]*, or *[!UICONTROL Suspicious Activity - High or Moderate Risk]*. Additional fees may apply.
 
+#### [!UICONTROL Pre-Bid Viewability]
+
+Optional pre-bid viewability filters by [!DNL DoubleVerify], [!DNL Oracle Advertising] ([!DNL Moat]), and [!DNL Integral Ad Science] to apply to placements. The advertiser-level defaults are selected for new placements. You can override the advertiser-level settings at the [placement level](/help/dsp/campaign-management/placements/placement-settings.md).
+
+>[!NOTE]
+>
+>[!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL MOAT].
+
+##### [!UICONTROL DoubleVerify] {#doubleverify-viewability}
+
+###### Video
+
+** **[!UICONTROL Include URL's whose average video viewability rate is]**. With this option, select the criteria.
+
+** **[!UICONTROL Impressions with Insufficient IAB Viewability Data]**
+
+** **[!UICONTROL Include URL's whose average completion & fully viewable rate is]**. With this option, select the criteria.
+
+** **[!UICONTROL Include URL's whose average player size composition is]**. With this option, select the criteria.
+
+** **[!UICONTROL Impressions with Insufficient Player Size Statistics]**
+
+###### Display
+
+** **[!UICONTROL Only target URL's or Apps that have historically achieved a display viewability rate of]**. With this option, select the criteria.
+
+* **[!UICONTROL Impressions with Insufficient IAB Viewability Performance Data]**
+
+* **[!UICONTROL Include Apps and URL's whose average entire creative (100% of pixels) viewable duration is]**. With this option, select the criteria.
+
+* **[!UICONTROL Impressions with Insufficient BXD Performance Data]**
+
+##### [!UICONTROL Integral Ad Science] {#ias-viewability}
+
+An optional **[!UICONTROL Video Viewability Targets]** filter and an optional **[!UICONTROL Display Viewability Targets]** filter. Additional fees may apply.
+
+##### [!UICONTROL Moat] {#moat-viewability}
+
+An optional **[!UICONTROL Video Viewability Standard]** filter and an optional **[!UICONTROL Display Viewability Standard]** filter. Additional fees may apply.
+
 #### [!UICONTROL Ads.text]
 
 **[!UICONTROL Ads.txt Filtering]:** By default, which level of [[!DNL Ads.txt] pre-bid filtering](https://iabtechlab.com/ads-txt-about/) to use by leveraging each publisher's [!DNL Authorized Digital Sellers] list:
