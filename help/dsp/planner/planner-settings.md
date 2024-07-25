@@ -16,8 +16,9 @@ exl-id: 65edd6f5-557c-44d1-a0ed-8cd26d8a2f6e
 | Goal Value | The goal value for the forecast. For more accurate forecast results, use a value > 5000 USD. | Yes | 
 | Max Bid | The maximum amount to pay for 1000 impressions. If the [!UICONTROL Connected TV] media type is selected, enter a value of at least 10 USD. | Yes |
 | Frequency Cap | The number of times a unique household should be served ads.<br><br>When you implement a plan and must create multiple placements, apply the frequency cap setting at the package level, not the placement level, to ensure proper delivery. | Yes |
-| Geo-Targeting | Locations to include or exclude as targets. | Yes |
+| Geo-Targeting | Locations to include or exclude as targets. Options include countries, cities, states, designated market areas (DMAs), and postal codes (which you can either a) paste as comma-separated values for a specified country or b) search for by country and city). | Yes |
 | Inventory Targeting | Inventory sources to include or exclude as targets. Select at least one feed or source. | Yes |
+| Site/App Targeting | Websites and apps to include or exclude as targets. Enter one URL per line, and then click **[!UICONTROL Include All]** or **[!UICONTROL Exclude All]** below the input field. | No |
 | Audience Targeting | Audiences to include or exclude as targets. | No |
 | Ad Duration | The duration of ads to consider for the plan. | No |
 
