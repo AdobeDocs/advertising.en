@@ -35,7 +35,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL All Return on Ad Spend] | ([!UICONTROL MSA Ad Extension] reports) The total revenue divided by spend, expressed as a percentage. |
 | [!UICONTROL All Revenue Per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The revenue per conversion. |
 | [!UICONTROL Asset] | ([!UICONTROL RSA Asset Report]) The asset. |
-| [!UICONTROL Asset ID] | ([!UICONTROL RSA Asset Report]) The unique ID that identifies an existing asset. |
+| [!UICONTROL Asset ID] | ([!UICONTROL RSA Asset Report]) The numeric ID that Search, Social, & Commerce assigns to the asset. |
 | [!UICONTROL Asset Performance Label] | ([!UICONTROL RSA Asset Report]) The [[!DNL Google Ads] performance rating](https://support.google.com/google-ads/answer/9564897) for the asset. |
 | [!UICONTROL Asset Status] | ([!UICONTROL RSA Asset Report]) The asset status: *[!UICONTROL Enabled]* or *[!UICONTROL Enabled]* (removed). |
 | [!UICONTROL Asset Type] | ([!UICONTROL RSA Asset Report]) The asset type: *[!UICONTROL Creative Title]* or *[!UICONTROL Description]*. |
