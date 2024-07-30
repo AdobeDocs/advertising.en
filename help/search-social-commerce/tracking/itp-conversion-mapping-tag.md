@@ -73,7 +73,7 @@ To use the conversion mapping tag:
     
     * you replace `{AMO User ID}` with the unique user ID for your Search, Social, & Commerce account. 
 
-If you don't know the value of your organization ID or your Search, Social, & Commerce user ID, then ask your Adobe Account Manager.
+If you don't know the value of your organization ID or your Search, Social, & Commerce user ID, then ask your Adobe Account Team.
 
 ### Examples
 
