@@ -6,6 +6,8 @@ exl-id: 65edd6f5-557c-44d1-a0ed-8cd26d8a2f6e
 ---
 # Settings for Connected TV Reach Plans
 
+<!-- Move out of table for consistency at some point. -->
+
 | Parameter | Description | Required? |
 | --- | --- | --- |
 | [!UICONTROL Name] | The name to identify your plan. | Yes |
