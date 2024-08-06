@@ -22,7 +22,7 @@ Platform,Acct Name,Campaign Name,Campaign Budget,Delivery Method,Mobile Bid Adju
 
 >[!TIP]
 >
->The following table is wide. If necessary, use the scrollbar at the bottom of the table to view the full contents. You can also optionally temporarily hide the table of contents or the right pane by clicking ![Hide left pane](/help/search-social-commerce/assets/hide-left-pane.png "Hide left pane") at the top of the left pane or ![Hide right pane](/help/search-social-commerce/assets/hide-right-pane.png "Hide right pane") at the top of the right pane.
+>The following table is wide. To expand your viewing area, you can temporarily hide the table of contents and the right pane by clicking ![Hide left pane](/help/dsp/assets/hide-left-pane.png "Hide left pane") at the top of the left pane and ![Hide right pane](/help/dsp/assets/hide-right-pane.png "Hide right pane") at the top of the right pane. You can also use the scrollbar at the bottom of the table to view the full contents.
 
 | Field | Campaign | Ad Group | Keyword | Text Ad | Campaign Location Target | Description |
 |----|----|----|----|----|----|----|
