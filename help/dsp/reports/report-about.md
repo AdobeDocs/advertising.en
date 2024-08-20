@@ -9,15 +9,14 @@ exl-id: 321062f3-754b-4379-9587-003862c4221b
 Custom reports allow you to customize the content and delivery of your report data using the campaign dimensions (such as the advertiser, placement, sites, or geos) and the metrics that matter most to you. You can either:
 
 * Completely configure campaign performance reports at a granular level.
-
 * Choose from pre-configured report templates, and optionally customize them further.
 
-You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone according to specified criteria (such as every 15 days or on the 1st of each month). Once a report is generated, you can download it from [!UICONTROL Reports] > [!UICONTROL Custom Reports] or from linked [report destinations](/help/dsp/reports/report-destinations/report-destination-about.md) of the following types:
+You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone. Once a report is generated, it's delivered to each specified email recipient or to linked [report destinations](/help/dsp/reports/report-destinations/report-destination-about.md) of the following types:
 
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
-* FTP SSL <!-- (in beta) -->
 * SFTP
+* FTP SSL (in beta)
 
 >[!NOTE]
 >
@@ -82,7 +81,6 @@ Your account settings at [!UICONTROL Settings] > [!UICONTROL Account] indicate a
 >[!MORELIKETHIS]
 >
 >* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Download a Custom Report](/help/dsp/reports/report-download.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 >* [FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)
 >* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)

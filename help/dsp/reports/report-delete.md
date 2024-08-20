@@ -6,11 +6,9 @@ exl-id: e3cebb69-bab6-4f41-94fd-b4471f9bbdb9
 ---
 # Delete a Custom Report
 
-1. In the main menu, click **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]**.
-
-1. Next to the report name, click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
-
-1. In the confirmation message, click **[!UICONTROL Delete]**.
+1. In the main menu, click **[!UICONTROL Reports]**.
+1. In the [!UICONTROL Options] column for the report row, click **[!UICONTROL options]** > **[!UICONTROL Delete]**.
+1. In the confirmation message, click **[!UICONTROL OK]**.
 
 >[!MORELIKETHIS]
 >
