@@ -22,7 +22,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Ad Extension Number] | ([!UICONTROL MSA Ad Extension] reports) The version attribute for the ad extension. |
 | [!UICONTROL Ad Extension Type] | ([!UICONTROL MSA Ad Extension] reports) The type of ad extension. |
 | [!UICONTROL Ad Group] | The ad group. |
-| [!UICONTROL Ad Group ID] | The numeric ID that Search, Social, & Commerce assigns to the ad group. |
+| [!UICONTROL Ad Group ID] | The unique ID that identifies an existing ad group. |
 | [!UICONTROL Ad Group Name] | The ad group. |
 | [!UICONTROL Ad Group Status] | The ad group status: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, or *[!UICONTROL Deleted]*. |
 | [!UICONTROL Ad Title] | ([!UICONTROL MSA Ad Extension] reports) The ad title. |
@@ -35,7 +35,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL All Return on Ad Spend] | ([!UICONTROL MSA Ad Extension] reports) The total revenue divided by spend, expressed as a percentage. |
 | [!UICONTROL All Revenue Per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The revenue per conversion. |
 | [!UICONTROL Asset] | ([!UICONTROL RSA Asset Report]) The asset. |
-| [!UICONTROL Asset ID] | ([!UICONTROL RSA Asset Report]) The numeric ID that Search, Social, & Commerce assigns to the asset. |
+| [!UICONTROL Asset ID] | ([!UICONTROL RSA Asset Report]) The unique ID that identifies an existing asset. |
 | [!UICONTROL Asset Performance Label] | ([!UICONTROL RSA Asset Report]) The [[!DNL Google Ads] performance rating](https://support.google.com/google-ads/answer/9564897) for the asset. |
 | [!UICONTROL Asset Status] | ([!UICONTROL RSA Asset Report]) The asset status: *[!UICONTROL Enabled]* or *[!UICONTROL Enabled]* (removed). |
 | [!UICONTROL Asset Type] | ([!UICONTROL RSA Asset Report]) The asset type: *[!UICONTROL Creative Title]* or *[!UICONTROL Description]*. |
@@ -100,7 +100,7 @@ feature: Search Reports, Search Specialty Reports
 |[!UICONTROL Impression Share Percent] | The impressions you’ve received divided by the estimated number of impressions that you were eligible to receive. |
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
 | [!UICONTROL Keyword] | The keyword.<br><br><b>Note:</b> If the report includes data from ad groups in content-enabled search campaigns, then this column includes the applicable ad group names such "(adgroup content) Your Ad Group Name." For a site-targeted placement in a search campaign, this column doesn't have a value. |
-| [!UICONTROL Keyword ID] | The numeric ID that Search, Social, & Commerce assigns to the keyword. |
+| [!UICONTROL Keyword ID] | The unique ID that identifies an existing keyword. |
 | [!UICONTROL Keyword Extension ID] | ([!UICONTROL MSA Ad Extension by Keyword Report]) The numeric ID that the ad network assigns to the ad extension. |
 | [!UICONTROL Keyword Extension Number] | ([!UICONTROL MSA Ad Extension by Keyword Report]) The version attribute for the ad extension. |
 | [!UICONTROL Keyword Extension Type] | ([!UICONTROL MSA Ad Extension by Keyword Report]) The ad extension type. |

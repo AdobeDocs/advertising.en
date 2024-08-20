@@ -6,7 +6,13 @@ feature: Search Campaign Management
 ---
 # Manage ad network accounts
 
+<!-- Probably need to change the page title. If I update the filename, get B. to create a redirect to the new URL. -->
+
 Following are instructions for creating and editing ad network account details, refreshing the [!DNL oAuth] token for an account, and disabling accounts.
+
+<!-- Move out info about Naver?  Then change to the following:  Following are instructions for creating and editing account details for an ad network account that Search, Social, & Commerce will sync using the ad network's API; refreshing the [!DNL oAuth] token for an account; and disabling accounts. -->
+
+<!-- Also update Description metadata to "Learn how to set up and manage account details for an ad network account synced via the ad network API." -->
 
 For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
 
@@ -237,7 +243,7 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 
 {{$include /help/_includes/append-parameters.md}}
 
-* **S_kwcid Format** - (Existing [!DNL Google Ads] accounts for advertisers with an Adobe Advertising-Adobe Analytics integration and for which the AMO ID (s_kwcid) hasn't already been migrated)
+* **S_kwcid Format:** (Existing [!DNL Google Ads] accounts for advertisers with an Adobe Advertising-Adobe Analytics integration and for which the AMO ID (s_kwcid) hasn't already been migrated)
 
 This account uses the legacy format for the AMO ID tracking code, which allows Adobe Advertising to share data about the account with Adobe Analytics. The [latest format](/help/integrations/analytics/ids.md#amo-id-formats) includes parameters for campaign ID and ad group ID, which are necessary to accurately report at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns and drafts and experiments campaigns in Analytics:
 
@@ -247,9 +253,9 @@ If this account needs to report at the campaign and ad group levels, then click 
   
 For full instructions, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)."
 
-**Report Suite Names** - (For EF Redirect with token only; advertisers with an Adobe Advertising-Adobe Analytics integration; optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks. 
+**Report Suite Names:** (For EF Redirect with token only; advertisers with an Adobe Advertising-Adobe Analytics integration; optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks. 
 
-For the data to appear in the report suites, either (a) the server-side AMO ID feature must be configured for the account or (b) the advertiser-level setting to "[!UICONTROL Enable tracking for SAINT feeds]" must be enabled. In addition, the advertiser's Analytics account must be configured to receive data from Search, Social, & Commerce. For more information, contact your Adobe Account Manager.
+For the data to appear in the report suites, either (a) the server-side AMO ID feature must be configured for the account or (b) the advertiser-level setting to "[!UICONTROL Enable tracking for SAINT feeds]" must be enabled. In addition, the advertiser's Analytics account must be configured to receive data from Search, Social, & Commerce. For more information, contact your Adobe Account Team.
 
 >[!MORELIKETHIS]
 >

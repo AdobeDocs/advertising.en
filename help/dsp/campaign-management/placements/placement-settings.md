@@ -359,7 +359,7 @@ To specify topic targeting:
 >
 >* Set up any negative targeting within the segment on [!DNL Proximic by Comscore] or [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]).
 
-**[!UICONTROL Device Targeting]:** (Optional) Specific device information, including device types, manufacturers, operating systems, browsers, and connectivity types, to include and exclude as targets. To specify device targeting:
+**[!UICONTROL Device Targeting]:** (Optional) Specific device information, including device types, manufacturers, operating systems, browsers, and connectivity types, to include and exclude as targets. The types vary by placement type. To specify device targeting:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Specify the device details to include and exclude:

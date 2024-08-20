@@ -22,7 +22,7 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Active Campaigns] | The number of active campaigns. |
 | [!UICONTROL Active Keywords] | The number of active keywords. |
 | [!UICONTROL Ad Group] | The ad group. |
-| [!UICONTROL Ad Group ID] | The numeric ID that Search, Social, & Commerce assigns to the ad group. |
+| [!UICONTROL Ad Group ID] | The unique ID that identifies an existing ad group. |
 | [!UICONTROL Ad Group Status] | The ad group status: <i>[!UICONTROL Active]</i>, <i>[!UICONTROL Paused]</i>, or <i>[!UICONTROL Deleted]</i>. |
 | [!UICONTROL Ad Group Type] | The ad group type, such as <i>[!UICONTROL Audience]</i> (for audience campaigns only), <i>[!UICONTROL Discovery]</i> (for discovery campaigns only), <i>[!UICONTROL Display]</i> (for display campaigns only), <i>[!UICONTROL Search Dynamic]</i> (for dynamic search ads only), <i>[!UICONTROL Search Standard]</i> (for responsive search ads and existing expanded text ads only), <i>[!UICONTROL Shopping Showcase]</i>, <i>[!UICONTROL Shopping Product]</i> (for standard shopping campaigns only), or <i>[!UICONTROL Shopping Smart]</i> (for smart shopping campaigns). For some campaign types, a single campaign can include multiple ad types. |
 | [!UICONTROL Ad Groups] | The number of ad groups to which the label value is assigned. |
@@ -112,7 +112,7 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Interactions] | (Video ads) The number of times people watched your ad. |
 | [!UICONTROL Is_Click_Objectives] | ([!UICONTROL Portfolio Report]) <i>true</i> when the portfolio contains campaigns with the [!UICONTROL Maximize Clicks] bid strategy, and <i>false</i> otherwise. |
 | [!UICONTROL Keyword] | The keyword.<br><br><b>Note:</b> If the report includes data from ad groups in content-enabled search campaigns, then this column includes the applicable ad group names such "(adgroup content) Your Ad Group Name." For a site-targeted placement in a search campaign, this column doesn't have a value. |
-| [!UICONTROL Keyword ID] | The numeric ID that Search, Social, & Commerce assigns to the keyword. |
+| [!UICONTROL Keyword ID] | The unique ID that identifies an existing keyword. |
 | [!UICONTROL Keyword Status] | The status of the keyword to which the search term was matched: <i>[!UICONTROL Active]</i>, <i>[!UICONTROL Paused]</i>, <i>[!UICONTROL Deleted]</i>, or <i>[!UICONTROL Disapproved]</i>. |
 | [!UICONTROL Label Classification] | ([!UICONTROL Label Classification Report] and [!UICONTROL Label Value Report]) The label classification. |
 | [!UICONTROL Label Value] | ([!UICONTROL Label Classification Report] and [!UICONTROL Label Value Report]) A value for the label classification. |

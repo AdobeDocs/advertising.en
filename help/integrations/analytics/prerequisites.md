@@ -89,7 +89,7 @@ Contact your Adobe Account Team for the latest supported ad environments in each
 
 * [!DNL Analytics for Advertising] conversion tracking in Adobe Analytics uses a configurable tracking lookback window (60 days by default). Adobe Advertising reports reflect site conversions and engagement through the end of this tracking lookback window.
 
-* All ad types are supported. However, not all ad environments are supported.
+* All ad types are supported. <!--Clarify what this might include. It used to include CTV, but not anymore: However, not all ad environments are supported. -->
 
 * [!DNL Analytics] conversions are currently tracked and attributed only to a visitor on the same device.
 

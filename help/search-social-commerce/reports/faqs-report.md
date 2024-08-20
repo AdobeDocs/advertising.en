@@ -117,7 +117,8 @@ The following are common reasons for a lack of click data.
 | Cause | Detection/Analysis | Resolution |
 |---|---|---|
 | The process that retrieves click data from the ad account failed. | There is no systematic way to detect this issue, but you may notice that a campaign shows no cost or click information even though the ad account spent money. | Contact your Adobe Account Team.<br><br>If the data is missing for more than 24 hours, then exclude those dates from the cost forecasts until the data is retrieved. Your Adobe Account Team can exclude the dates. |
-| A billing issue between the advertiser and ad network prevents the ad account from spending. | There is no systematic way to detect this issue, but you may notice that a campaign shows no cost or click information. | If you know that an ad account wasn't able to spend because of a billing issue, then exclude those dates from the cost forecasts. Your Adobe Account Team can exclude the dates. |  
+| A billing issue between the advertiser and ad network prevents the ad account from spending. | There is no systematic way to detect this issue, but you may notice that a campaign shows no cost or click information. | If you know that an ad account wasn't able to spend because of a billing issue, then exclude those dates from the cost forecasts. Your Adobe Account Team can exclude the dates. |
+
 +++
   
 +++Performance data is different from data in the ad network editor.
@@ -215,13 +216,13 @@ The [!UICONTROL Geo Distribution Report] and [!UICONTROL Domain Referral Report]
   
 * Search, Social, & Commerce disregards revenue when the cookie is expired or deleted, but the advertiser may consider it valid revenue.
 
-* The traffic to the advertiser’s page came from a bookmark or organic search instead of from an ad.
+* The traffic to the advertiser's page came from a bookmark or organic search instead of from an ad.
 
 * The conversion tracking tag isn't implemented correctly on all applicable webpages or was edited.
 
 *Possible solution or work-around:*
 
-1. Go to **[!UICONTROL Insights & Reports] > [!UICONTROL Reports]** and generate a [!UICONTROL Transaction Report]. Compare the transactions that Search, Social, & Commerce received with the advertiser’s data.
+1. Go to **[!UICONTROL Insights & Reports] > [!UICONTROL Reports]** and generate a [!UICONTROL Transaction Report]. Compare the transactions that Search, Social, & Commerce received with the advertiser's data.
 
 1. If some transactions are incorrect or are missing, then make sure that the relevant conversion tracking tag is implemented on all applicable webpages and wasn't edited unless your Adobe Account Team advised you to do so. A tag might be missing or changed if the website was recently updated.
    
@@ -241,13 +242,13 @@ See the possible causes and solutions for pixel implementations above.
 
 * Search, Social, & Commerce disregards revenue when the cookie expires or is deleted, but the advertiser may consider it valid revenue.
 
-* The traffic to the advertiser’s page came from a bookmark or organic search instead of from an ad.
+* The traffic to the advertiser's page came from a bookmark or organic search instead of from an ad.
 
 * An offline conversion was reported before an online transaction occurred with the same transaction ID. The online transaction must occur first.
 
 *Possible solution or work-around:*
 
-1. Go to **[!UICONTROL Insights & Reports] > [!UICONTROL Reports]** and generate a [!UICONTROL Transaction Report]. Compare the transactions that Search, Social, & Commerce received with the advertiser’s feed data.
+1. Go to **[!UICONTROL Insights & Reports] > [!UICONTROL Reports]** and generate a [!UICONTROL Transaction Report]. Compare the transactions that Search, Social, & Commerce received with the advertiser's feed data.
 
 1. If a transaction in the feed file is missing from the report, then check if an online transaction with the same transaction ID (tracked via the pixel) occurred before the offline conversion.
 
@@ -261,7 +262,7 @@ See the possible causes and solutions for pixel implementations above.
 
 * Search, Social, & Commerce disregards revenue when the cookie is expired or deleted, but the advertiser may consider it valid revenue.
 
-* The traffic to the advertiser’s page came from a bookmark or organic search instead of from an ad.
+* The traffic to the advertiser's page came from a bookmark or organic search instead of from an ad.
 
 * There are [orphan transactions](/help/search-social-commerce/glossary.md#o-p), so Search, Social, & Commerce isn't counting all of the revenue that it should.
 
@@ -277,7 +278,7 @@ See the possible causes and solutions for pixel implementations above.
 
 *Possible solution or work-around:*
 
-1. Go to **[!UICONTROL Insights] & [!UICONTROL Reports > Reports]** and generate a [!UICONTROL Transaction Report]. Compare the transactions that Search, Social, & Commerce received with the advertiser’s data.
+1. Go to **[!UICONTROL Insights] & [!UICONTROL Reports > Reports]** and generate a [!UICONTROL Transaction Report]. Compare the transactions that Search, Social, & Commerce received with the advertiser's data.
 
 1. If some transactions are incorrect or are missing, then make sure that a) the feed file contains all required transaction IDs and no duplicate tracking IDs and b) the transaction IDs are unique and correct.
 
@@ -305,7 +306,7 @@ The [!UICONTROL Portfolio Report] shows data for only the campaigns assigned to 
 +++
   
 +++Ad-level data isn't available for [!DNL Google Ads] dynamic search ad (DSA), performance max, smart shopping, and [!DNL YouTube] campaigns.
-The ad networks don't provide the identifier necessary to attribute revenue to an individual ad for those campaigns. Consequently, ad-level performance data isn’t available for those campaign types in the [!UICONTROL Ads] view or in the [!UICONTROL Ad Variation Report]. Expect discrepancies between the total ad-level data for a campaign and the total data for the campaign.
+The ad networks don't provide the identifier necessary to attribute revenue to an individual ad for those campaigns. Consequently, ad-level performance data isn't available for those campaign types in the [!UICONTROL Ads] view or in the [!UICONTROL Ad Variation Report]. Expect discrepancies between the total ad-level data for a campaign and the total data for the campaign.
 +++
   
 +++In the [!UICONTROL Transaction Report], how do I know which conversion metric is from a data feed or is tracked by the Adobe Advertising tracking pixel?
