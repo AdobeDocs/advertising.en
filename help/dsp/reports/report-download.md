@@ -5,7 +5,7 @@ feature: DSP Custom Reports
 ---
 # Download a Custom Report
 
-You can download any completed report instance from the last four months, which has with the [status](reprot-about.md#custom-report-status) "[!UICONTROL Ready to Download]."<!-- or "Completed" ?-->
+You can download any completed report instance from the last four months, which has with the [status](report-about.md#custom-report-status) "[!UICONTROL Ready to Download]."<!-- or "Completed" ?-->
 
 1. In the main menu, click **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]**.
 
@@ -19,7 +19,7 @@ You can download any completed report instance from the last four months, which 
 
      When a report runs multiple times on the same day, the report instances for that day are listed in chronological order, with the most recent instance on top.
      
-     Failed report jobs are indicated with an error icon [error indicator](/help/assets/indicator-critical.png "error indicator") and can't be downloaded.
+     Failed report jobs are indicated with an error icon [error indicator](/help/dsp/assets/indicator-critical.png "error indicator") and can't be downloaded.
 
    <!-- Not sure if this is implemented
    Even the failed runs are listed here with failure icon and a tooltip which points to experience league documentation for troubleshooting/fixing a failed report.
