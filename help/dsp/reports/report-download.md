@@ -13,13 +13,13 @@ You can download any completed report instance from the last four months, which 
 
    * To download the latest instance of the report, click **[!UICONTROL Download]**.
    
-   * (Recurring reports) Click ![the Down arrow](/help/dsp/assets/chevron-down.png "the Down arrow") next to [!UICONTROL Download], and then click the completion date for the report you want to download. Downloadable report instances are indicated with a download icon [download icon] (/help/assets/indicator-downloadable.png "download icon")
+   * (Recurring reports) Click ![the Down arrow](/help/dsp/assets/chevron-down.png "the Down arrow") next to [!UICONTROL Download], and then click the completion date for the report you want to download. Downloadable report instances are indicated with a download icon (![download icon](/help/assets/indicator-downloadable.png "download icon")).
    
      When many instances are available, click **[!UICONTROL Load More]** at the bottom of the list if necessary.
 
      When a report runs multiple times on the same day, the report instances for that day are listed in chronological order, with the most recent instance on top.
      
-     Failed report jobs are indicated with an error icon [error indicator](/help/dsp/assets/indicator-critical.png "error indicator") and can't be downloaded.
+     Failed report jobs are indicated with an error icon (![error indicator](/help/dsp/assets/indicator-critical.png "error indicator")) and can't be downloaded.
 
    <!-- Not sure if this is implemented
    Even the failed runs are listed here with failure icon and a tooltip which points to experience league documentation for troubleshooting/fixing a failed report.
