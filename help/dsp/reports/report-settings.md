@@ -6,23 +6,55 @@ exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
 ---
 # Custom Report Settings
 
-**[!UICONTROL Name]** The report name. The maximum length is 180 characters.
+**[!UICONTROL Name]** The report name. The maximum length is 180 characters. 
 
 **[!UICONTROL Report Type]** The type of report: *[!UICONTROL Custom]* (which includes most available options), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, or *[!UICONTROL Household Conversions]*.
 
-## [!UICONTROL Apply Filters] Section
+## [!UICONTROL Report range] Section
+
+This section determines the data that's included in the report. To set up dates for the report schedule, see the "[!UICONTROL Report run schedule]" section.
 
 **[!UICONTROL Timezone]:** The timezone for reporting.
 
 **[!UICONTROL Observe Daylight Savings Time]:** Considers Daylight Saving Time in the reported times.
 
-**\[Date Range\]:** The date range for which to generate data. The number of days available varies by report and by the selected dimensions. Choose one:
+**Range:** The date range for which to generate data. The number of days available varies by report and by the selected dimensions. Choose one:
 
-* **[!UICONTROL Previous N days]:** Includes data for a specific number of days before today.
-
-* **[!UICONTROL Custom]:** Includes data between specific beginning and end dates. To report data through the previous day, select **[!UICONTROL Present]**.
+* **[!UICONTROL Last Calendar Week]:** Includes data for the previous calendar week.
 
 * **[!UICONTROL Last Calendar Month]:** Includes data for the previous calendar month.
+
+* **[!UICONTROL Custom Range]:** Includes data between specific beginning and end dates. To report data through the previous day, select **[!UICONTROL Present]**.
+
+## [!UICONTROL Report run schedule] Section
+
+This section determines the dates on which the report is run. To set up the dates for which to include report data, see the "[!UICONTROL Report range]" section.
+
+**\[Schedule\]:** When to generate the report:
+
+* *[!UICONTROL Immediately]*: Immediately adds the report to the report queue.
+
+  >[!NOTE]
+  >
+  >You can also [run a custom report at any time](report-run-now.md) from the [!UICONTROL Reports] view.
+
+* *[!UICONTROL On] \<Date\>:* Runs the report on a specified date for completion by 09:00 in the account's timezone.
+
+* *[!UICONTROL Recurring]:* Runs the report according to a schedule during a specified time period.
+
+  * **\[Schedule\]:** How often to run the report: 
+  
+    * *Daily* to run the report every N number of days. For example, to run the report every two weeks (14 days), select this option and enter **14**.
+  
+    * *Weekly* to run the report on specified days of the week. For example, to run the report every Monday and Friday, select this option and select the check boxes next to **Monday** and **Friday**.
+
+    * *Monthly* to run the report on a specific numeric day of the month, from 1 to 30. For example, the run the report on the first day of every month, select this option and enter **1**.
+
+  * **From**: The first date on which the report can be run. Depending on the specified schedule, the first report instance may occur after this date.
+  
+  * **Until**: The report expiration date, which can be up to four calendar months away.<!-- Not sure that this old info is currently relevant: Before a report expires, all specified email recipients receive an email alert seven days and one day before the expiration date. To keep the report longer, change the expiration date in the report settings.-->
+
+## [!UICONTROL Apply Filters] Section
 
 **[!UICONTROL Add Filters]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report. The  available filters vary by report type and may include: *[!UICONTROL Account]*\*, *[!UICONTROL Ad Type]*, *[!UICONTROL Ads]*, *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Country]*, * *[!UICONTROL Package]*, *[!UICONTROL Placement]*, *[!UICONTROL Video]*, and *[!UICONTROL Video Duration]*.
 
@@ -114,17 +146,23 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 ## [!UICONTROL Add Report Destinations] Section
 
-**[!UICONTROL Destination Type]:** Choose one of the following destination types:
-
-* *[!UICONTROL S3]:* To send the completed report to one or more [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) locations, which you must specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL sFTP]:* To send the completed report to one or more SFTP locations, which you must specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL FTP]:* To send the completed report to one or more FTP locations, which you must specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL FTP SSL] (Currently in Beta):* To send the completed report to one or more FTP SSL locations, which you must specify in the **[!UICONTROL Destination Name]** field.
-* *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors.
+**[!UICONTROL Destination Type]:** Where to deliver the completed reports and error notifications. You can't change the destination type once you save the report.
 
 >[!NOTE]
 >
-> You can't change the destination type once you save the report. 
+>You can always download completed reports from the [!UICONTROL Reports] > [!UICONTROL Custom Reports] view.
+
+* *[!UICONTROL None]:* To not deliver any reports or notifications.
+
+* *[!UICONTROL S3]:* To send the completed report to one or more [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) locations, which you must select in the **[!UICONTROL Destination Name]** field.
+
+* *[!UICONTROL sFTP]:* To send the completed report to one or more SFTP locations, which you must select in the **[!UICONTROL Destination Name]** field.
+
+* *[!UICONTROL FTP]:* To send the completed report to one or more FTP locations, which you must select in the **[!UICONTROL Destination Name]** field.
+
+* *[!UICONTROL FTP SSL] (Currently in Beta):* To send the completed report to one or more FTP SSL locations, which you must select in the **[!UICONTROL Destination Name]** field.
+
+* *[!UICONTROL Email]:* To specify email address(es) to which to send completed reports or notifications if the report is canceled because of errors.
 
 **[!UICONTROL Email]:** (Email destination type only) For each address, enter the address and click **+**.
 
@@ -142,26 +180,13 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
       The new destination is now available from the list of existing destinations, and you can optionally add it to the report.
 
-**[!UICONTROL Frequency]:** (For each [!UICONTROL Destination Name]) How often to send the report to the destination: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, or *[!UICONTROL Monthly]*.
-
-**[!UICONTROL Start Day]:** (For each [!UICONTROL Destination Name] with a [!UICONTROL Frequency] of *[!UICONTROL Weekly]* or *[!UICONTROL Monthly]*) Which day to generate the report. For weekly reports, select the day of the week. For monthly reports, select the numeric day of the month.
-
-## [!UICONTROL Save Report] Section
-
-**[!UICONTROL When to Generate]:** When to generate the report: *[!UICONTROL On Schedule]* or *[!UICONTROL Run Now]*. Scheduled reports are delivered by 09:00 in the account's timezone.
-
-**[!UICONTROL End Date]:** The report expiration date, which can be up to four months away. Before a report expires, all specified email recipients receive an email alert seven days and one day before the expiration date. To keep the report longer, change the expiration date in the report settings.
-
->[!NOTE]
->
->You can [run a custom report at any time](report-run-now.md) from the [!UICONTROL Reports] view.
-
 >[!MORELIKETHIS]
 >
 >* [About Custom Reports](/help/dsp/reports/report-about.md)
 >* [Create a Custom Report](/help/dsp/reports/report-create.md)
 >* [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
 >* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
+>* [Download a Custom Report](/help/dsp/reports/report-download.md)
 >* [Run a Custom Report](/help/dsp/reports/report-run-now.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 >* [About Report Destinations](/help/dsp/reports/report-destinations/report-destination-about.md)

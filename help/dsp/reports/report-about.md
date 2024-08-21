@@ -9,14 +9,15 @@ exl-id: 321062f3-754b-4379-9587-003862c4221b
 Custom reports allow you to customize the content and delivery of your report data using the campaign dimensions (such as the advertiser, placement, sites, or geos) and the metrics that matter most to you. You can either:
 
 * Completely configure campaign performance reports at a granular level.
+
 * Choose from pre-configured report templates, and optionally customize them further.
 
-You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone. Once a report is generated, it's delivered to each specified email recipient or to linked [report destinations](/help/dsp/reports/report-destinations/report-destination-about.md) of the following types:
+You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone according to specified criteria (such as every 15 days or on the 1st of each month). Once a report is generated, you can download it from [!UICONTROL Reports] > [!UICONTROL Custom Reports] or from linked [report destinations](/help/dsp/reports/report-destinations/report-destination-about.md) of the following types:
 
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
+* FTP SSL <!-- (in beta) -->
 * SFTP
-* FTP SSL (in beta)
 
 >[!NOTE]
 >
@@ -78,9 +79,24 @@ Once the feature is enabled for your organization, you can [filter](report-setti
 
 Your account settings at [!UICONTROL Settings] > [!UICONTROL Account] indicate a) the other accounts whose data is available to your account and b) the other accounts that can access your account's data.
 
+## Report Statuses {#custom-report-status}
+
+* **[!UICONTROL Yet to start]:** The report has never been run.
+
+* **[!UICONTROL Report generating]:** The report is currently being created.
+
+* **[!UICONTROL Ready to download]:** <!--(Recurring reports only)--> One or more instances of the report is available to download.
+
+* **[!UICONTROL Failed]:** The report job failed.<!-- any indication of what happened anywhere? -->
+
+* **[!UICONTROL Completed]:** For non-recurring reports, the report is completed. For recurring reports, all report instances are completed.
+
+* **[!UICONTROL Archived]:** The report is archived and can't be run. <!-- implemented? Not a way to archive as of 8/19/24. As of 8-20, this doesn't include deleted reports, which are just gone.  -->
+
 >[!MORELIKETHIS]
 >
 >* [Create a Custom Report](/help/dsp/reports/report-create.md)
+>* [Download a Custom Report](/help/dsp/reports/report-download.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 >* [FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)
 >* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
