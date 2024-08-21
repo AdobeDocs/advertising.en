@@ -13,7 +13,7 @@ You can download any completed report instance from the last four months, which 
 
    * To download the latest instance of the report, click **[!UICONTROL Download]**.
    
-   * (Recurring reports) Click ![the Down arrow](/help/dsp/assets/chevron-down.png "the Down arrow") next to [!UICONTROL Download], and then click the completion date for the report you want to download. Downloadable report instances are indicated with a download icon (![download icon](/help/assets/indicator-downloadable.png "download icon")).
+   * (Recurring reports) Click ![the Down arrow](/help/dsp/assets/chevron-down.png "the Down arrow") next to [!UICONTROL Download], and then click the completion date for the report you want to download. Downloadable report instances are indicated with a download icon (![download icon](/help/dsp/assets/indicator-downloadable.png "download icon")).
    
      When many instances are available, click **[!UICONTROL Load More]** at the bottom of the list if necessary.
 
