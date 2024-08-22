@@ -79,19 +79,25 @@ Once the feature is enabled for your organization, you can [filter](report-setti
 
 Your account settings at [!UICONTROL Settings] > [!UICONTROL Account] indicate a) the other accounts whose data is available to your account and b) the other accounts that can access your account's data.
 
+## The [!UICONTROL Custom Reports] View
+
+[!UICONTROL Reports] > [!UICONTROL Custom Reports] lists your existing reports, including reports that were generated, those that are scheduled for future generation, and those that failed. The “[!UICONTROL Report Run]" column shows dates on which the report was triggered beginning on 22 August 2024. By default, all unarchived reports created by the user are listed, with the most recent on top. You can further filter the list by status, whether the report is recurring or one-time, the report type, the destination type, and the report creator. 
+
+You can create new custom reports, edit existing reports or duplicate them to create new reports, run reports immediately, download any report instance from the last four months, and delete reports. 
+
 ## Report Statuses {#custom-report-status}
 
 * **[!UICONTROL Yet to start]:** The report has never been run.
 
 * **[!UICONTROL Report generating]:** The report is currently being created.
 
-* **[!UICONTROL Ready to download]:** <!--(Recurring reports only)--> One or more instances of the report is available to download.
+* **[!UICONTROL Ready to download]:** (Recurring reports only) One or more instances of the report is available to download, and more report instances are scheduled.
 
-* **[!UICONTROL Failed]:** The report job failed.<!-- any indication of what happened anywhere? -->
+* **[!UICONTROL Failed]:** The report job failed. To see why individual report instances failed for a report tow, click ![the Down arrow](/help/dsp/assets/chevron-down.png "the Down arrow") next to [!UICONTROL Download]. Failed report jobs are indicated with an error icon (![error indicator](/help/dsp/assets/indicator-critical.png "error indicator")). Hold the cursor over the error icon for a description of the error.
 
-* **[!UICONTROL Completed]:** For non-recurring reports, the report is completed. For recurring reports, all report instances are completed.
+* **[!UICONTROL Completed]:** For non-recurring reports, the report is completed. For recurring reports, all report instances are completed. You can download all reports completed in the last four months.
 
-* **[!UICONTROL Archived]:** The report is archived and can't be run. <!-- implemented? Not a way to archive as of 8/19/24. As of 8-20, this doesn't include deleted reports, which are just gone.  -->
+* **[!UICONTROL Archived]:** The report is archived and can't be run. This status is set when report generation fails multiple times for a report. Currently, you can't set this status from the user interface.
 
 >[!MORELIKETHIS]
 >
