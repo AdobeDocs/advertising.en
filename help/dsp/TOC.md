@@ -44,6 +44,7 @@ index: yes
   + Packages {#packages}
     + [About Package Management](/help/dsp/campaign-management/packages/package-about.md)
     + [Create a Package](/help/dsp/campaign-management/packages/package-create.md)
+    + [Review and Edit Package Settings Using Spreadsheets](/help/dsp/campaign-management/packages/package-qa.md)
     + [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md)
     + [Duplicate a Package](/help/dsp/campaign-management/packages/package-duplicate.md)
     + [Attach a Placement to a Package](/help/dsp/campaign-management/packages/package-attach-placement.md)
