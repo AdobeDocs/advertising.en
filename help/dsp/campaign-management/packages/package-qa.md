@@ -51,6 +51,8 @@ You can download the settings for one or more packages in XLSX (Excel spreadshee
 >
 > In a downloaded spreadsheet, all editable columns are highlighted in blue.
 
+### [!UICONTROL Package] Tab
+
 | Section | Column | Description | Editable? |
 |---------|--------|-------------|-----------|
 | [!UICONTROL Basic details] | [!UICONTROL Package ID] | The numeric ID of the package. | &mdash; |
@@ -87,6 +89,17 @@ You can download the settings for one or more packages in XLSX (Excel spreadshee
 | [!UICONTROL Custom Flights] | [!UICONTROL Activate Custom Flights] | Whether or not to create non-even pacing flights for the package*T* (true) or *F* (false). Once you enable custom flighting and save the package, you can't disable custom flighting nor edit the package start date. | &mdash; |
 | [!UICONTROL Custom Flights] | [!UICONTROL Automatic Budget Rollover] | (Available only when the [!UICONTROL Activate Custom Flighting] option is enabled) Whether or not to automatically add any remaining budget from the previous flight to the existing budget for the next flight: *T* (true) or *F* (false). | Yes |
 | [!UICONTROL Error] | [!UICONTROL Error] | Any relevant errors. | &mdash; |
+
+### [!UICONTROL Package_Flights] Tab
+
+| Section | Column | Description | Editable? |
+|---------|--------|-------------|-----------|
+| [!UICONTROL Flight Details] | [!UICONTROL Package ID] | The numeric ID of the package. | &mdash; |
+| [!UICONTROL Flight details] | [!UICONTROL Flight ID] | The numeric ID of the flight. | &mdash; |
+| [!UICONTROL Flight details] | [!UICONTROL Flight Start Date] |The first date of the flight. | &mdash; |
+| [!UICONTROL Flight details] | [!UICONTROL Flight End Date] | The final date of the flight. | &mdash; |
+| [!UICONTROL Flight details] | [!UICONTROL Flight Budget] | The target spend goal for the flight. | &mdash; |
+| [!UICONTROL Flight details] | [!UICONTROL Rollover] | (Existing packages without the "[!UICONTROL Automatically rollover remaining flight budget to next flight]" option enabled) An amount of potentially unspent budget to add to the next flight. | &mdash; |
 
 >[!MORELIKETHIS]
 >
