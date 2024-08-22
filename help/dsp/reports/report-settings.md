@@ -52,7 +52,7 @@ This section determines the dates on which the report is run. To set up the date
 
   * **From**: The first date on which the report can be run. Depending on the specified schedule, the first report instance may occur after this date.
   
-  * **Until**: The report expiration date, which can be up to four calendar months away.<!-- Not sure that this old info is currently relevant: Before a report expires, all specified email recipients receive an email alert seven days and one day before the expiration date. To keep the report longer, change the expiration date in the report settings.-->
+  * **Until**: The report expiration date, which can be up to four calendar months away. Before a report expires, all specified email destinations receive an email alert seven days and one day before the expiration date. To keep the report longer, change this date.
 
 ## [!UICONTROL Apply Filters] Section
 
