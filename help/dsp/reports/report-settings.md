@@ -6,11 +6,11 @@ exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
 ---
 # Custom Report Settings
 
-**[!UICONTROL Name]** The report name. The maximum length is 180 characters.
+**[!UICONTROL Name]:** The report name. The maximum length is 180 characters.
 
-**[!UICONTROL Report Type]** The type of report: *[!UICONTROL Custom]* (which includes most available options), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, or *[!UICONTROL Household Conversions]*.
+**[!UICONTROL Report Type]:** The type of report: *[!UICONTROL Custom]* (which includes most available options), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, or *[!UICONTROL Household Conversions]*.
 
-## [!UICONTROL Report range] Section
+## [!UICONTROL Report Range] Section
 
 This section determines the data that's included in the report. To set up dates for the report schedule, see the "[!UICONTROL Report run schedule]" section.
 
@@ -26,7 +26,7 @@ This section determines the data that's included in the report. To set up dates 
 
 * **[!UICONTROL Custom Range]:** Includes data between specific beginning and end dates. To report data through the previous day, select **[!UICONTROL Present]**.
 
-## [!UICONTROL Report run schedule] Section
+## [!UICONTROL Report Run schedule] Section
 
 This section determines the dates on which the report is run. To set up the dates for which to include report data, see the "[!UICONTROL Report range]" section.
 
