@@ -5,7 +5,7 @@ feature: DSP Packages
 ---
 # Review and Edit Package Settings Using Spreadsheets
 
-You can download the settings for one or more packages in XLSX (Microsoft Excel spreadsheet) format for review. The spreadsheet includes a separate tab with flight information. You can then make changes to select fields in both tabs and upload the data back to DSP all at once. Editable fields include most settings that are normally editable.
+You can download the settings for one or more packages in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. The spreadsheet includes a separate tab with flight information. You can then make changes to select fields in both tabs and upload the data back to DSP all at once. Editable fields include most settings that are normally editable.
 
 >[!TIP]
 >
