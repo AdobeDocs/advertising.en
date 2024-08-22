@@ -5,7 +5,7 @@ feature: DSP Packages
 ---
 # Review and Edit Package Settings Using Spreadsheets
 
-You can download the settings for one or more packages in XLSX (Excel spreadsheet) format for review. You can then make changes to select fields and upload them back to DSP all at once. Editable fields include most settings except for the package ID, pacing level, the basis for pacing, linked packages for optimization learning carryover, and whether or not to activate custom flighting.
+You can download the settings for one or more packages in XLSX (Microsoft Excel spreadsheet) format for review. The spreadsheet includes a separate tab with flight information. You can then make changes to select fields in both tabs and upload the data back to DSP all at once. Editable fields include most settings that are normally editable.
 
 >[!TIP]
 >
