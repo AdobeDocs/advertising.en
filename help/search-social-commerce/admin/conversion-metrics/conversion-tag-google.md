@@ -58,7 +58,7 @@ Once you add the tags to your website and they begin firing, [!DNL Google Ads] r
 
 **[!UICONTROL View Through Conversion Window]:** The maximum number of days after a user views your ads for which view-through conversions are recorded. For search, display, and shopping campaigns, the window can be from 1-90 days. Select a number or select **[!UICONTROL Custom]** and enter a number.
 
-**[!UICONTROL Attribution Model]:** [How much credit each ad interaction gets](https://support.google.com/google-ads/answer/6259715?sjid=8211249329930775138): *[!UICONTROL Data driven]*, *[!UICONTROL Last click]*, *[!UICONTROL First click]*, *[!UICONTROL Linear]*, *[!UICONTROL Time decay]*, or *[!UICONTROL Position based]*.
+**[!UICONTROL Attribution Model]:** [How much credit each ad interaction gets](https://support.google.com/google-ads/answer/6259715?sjid=8211249329930775138): *[!UICONTROL Data driven]* or *[!UICONTROL Last click]*. **Note:** Conversion actions that previously used the now-unsupported *[!UICONTROL First click]*, *[!UICONTROL Linear]*, *[!UICONTROL Time decay]*, or *[!UICONTROL Position based]* models now use the *[!UICONTROL Data driven]* model.
 
 >[!MORELIKETHIS]
 >
