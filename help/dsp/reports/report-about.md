@@ -9,14 +9,15 @@ exl-id: 321062f3-754b-4379-9587-003862c4221b
 Custom reports allow you to customize the content and delivery of your report data using the campaign dimensions (such as the advertiser, placement, sites, or geos) and the metrics that matter most to you. You can either:
 
 * Completely configure campaign performance reports at a granular level.
+
 * Choose from pre-configured report templates, and optionally customize them further.
 
-You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone. Once a report is generated, it's delivered to each specified email recipient or to linked [report destinations](/help/dsp/reports/report-destinations/report-destination-about.md) of the following types:
+You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone according to specified criteria (such as every 15 days or on the 1st of each month). Once a report is generated, you can download it from [!UICONTROL Reports] > [!UICONTROL Custom Reports] or from linked [report destinations](/help/dsp/reports/report-destinations/report-destination-about.md) of the following types:
 
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
+* FTP SSL <!-- (in beta) -->
 * SFTP
-* FTP SSL (in beta)
 
 >[!NOTE]
 >
@@ -78,9 +79,30 @@ Once the feature is enabled for your organization, you can [filter](report-setti
 
 Your account settings at [!UICONTROL Settings] > [!UICONTROL Account] indicate a) the other accounts whose data is available to your account and b) the other accounts that can access your account's data.
 
+## The [!UICONTROL Custom Reports] View
+
+[!UICONTROL Reports] > [!UICONTROL Custom Reports] lists your existing reports, including reports that were generated, those that are scheduled for future generation, and those that failed. The “[!UICONTROL Report Run]" column shows dates on which the report was triggered beginning on 22 August 2024. By default, all unarchived reports created by the user are listed, with the most recent on top. You can further filter the list by status, whether the report is recurring or one-time, the report type, the destination type, and the report creator. 
+
+You can create new custom reports, edit existing reports or duplicate them to create new reports, run reports immediately, download any report instance from the last four months, and delete reports. 
+
+## Report Statuses {#custom-report-status}
+
+* **[!UICONTROL Yet to start]:** The report has never been run.
+
+* **[!UICONTROL Report generating]:** The report is currently being created.
+
+* **[!UICONTROL Ready to download]:** (Recurring reports only) One or more instances of the report is available to download, and more report instances are scheduled.
+
+* **[!UICONTROL Failed]:** The report job failed. To see why individual report instances failed for a report tow, click ![the Down arrow](/help/dsp/assets/chevron-down.png "the Down arrow") next to [!UICONTROL Download]. Failed report jobs are indicated with an error icon (![error indicator](/help/dsp/assets/indicator-critical.png "error indicator")). Hold the cursor over the error icon for a description of the error.
+
+* **[!UICONTROL Completed]:** For non-recurring reports, the report is completed. For recurring reports, all report instances are completed. You can download all reports completed in the last four months.
+
+* **[!UICONTROL Archived]:** The report is archived and can't be run. This status is set when report generation fails multiple times for a report. Currently, you can't set this status from the user interface.
+
 >[!MORELIKETHIS]
 >
 >* [Create a Custom Report](/help/dsp/reports/report-create.md)
+>* [Download a Custom Report](/help/dsp/reports/report-download.md)
 >* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 >* [FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)
 >* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)

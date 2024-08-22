@@ -194,6 +194,7 @@ index: yes
   + [Edit a Custom Report](/help/dsp/reports/report-edit.md)
   + [Delete a Custom Report](/help/dsp/reports/report-delete.md)
   + [Run a Custom Report](/help/dsp/reports/report-run-now.md)
+  + [Download a Custom Report](/help/dsp/reports/report-download.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings.md)
   + [Available Report Columns](/help/dsp/reports/report-columns.md)
   + [FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)
