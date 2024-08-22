@@ -36,7 +36,7 @@ Once you add the tags to your website and they begin firing, [!DNL Google Ads] r
 
 **[!UICONTROL Select an Account]:** The applicable Google Ads account.
 
-**[!UICONTROL Type of Conversion]:** The type of conversion to track: *[!UICONTROL Click on a webpage element]*, *[!UICONTROL Calls to a phone number on your website]*, or *[!UICONTROL Clicks to your number on your mobile website]*.
+**[!UICONTROL Type of Conversion]:** The type of conversion to track: *[!UICONTROL Click on a webpage element]*, *[!UICONTROL Calls to a phone number on your website]*, *[!UICONTROL Clicks to your number on your mobile website]*, or *[!UICONTROL Import conversion]*.
 
 **[!UICONTROL Conversion Name]:** A unique name for the conversion metric.
 
