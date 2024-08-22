@@ -36,7 +36,7 @@ You can then make changes to select fields and upload them back to DSP all at on
 
     * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
 
-    The file is saved to the browser's Downloads folder. See "[Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+    The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
 
 ## Download Settings for One or More Placements
 
@@ -50,7 +50,7 @@ You can then make changes to select fields and upload them back to DSP all at on
 
 1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Download Edit in Excel Sheet]**.
 
-  The file is automatically saved to the browser's Download folder. See "[Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+  The file is automatically saved to the browser's Download folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
 
 ## Upload Settings for All Placements in a Campaign
 
