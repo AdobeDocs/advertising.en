@@ -100,9 +100,9 @@ For [!DNL RampIDs], contact your Adobe Account Team for further investigation if
 
 ### Causes of variance {#universal-ids-data-variances-causes}
 
-* Hashed email IDs translated to ID5 IDs:
+* All segments:
 
-  The probabilistic model has an error variance of +/- 5%. This means that it can overestimate or underestimate the audience count by 5%.
+  The segment-to-device count uses a probabilistic model, which has an error variance of +/- 5%. This means that it can overestimate or underestimate the audience count by 5%.
 
 * Hashed email IDs translated to [!DNL RampIDs]:
 
