@@ -343,7 +343,7 @@ by country. If you don't select any, all are targeted.
 
 **[!UICONTROL Primary Status]:** (Read-only field for existing asset groups in performance max campaigns) Why the asset group is or is not serving at full capacity. It takes into account the asset group status as well as other signals, such as policy and quality approvals. Values may include *ELIGIBLE,* *LIMITED,* *NOT_ELIGIBLE,* *PAUSED,* *PENDING,* *REMOVED,* *UNKNOWN,* or *UNSPECIFIED.*
 
-**[!UICONTROL Primary Status Reasons]:** (Read-only field for existing asset groups in performance max campaigns) Additional details about the asset group's primary status. Values may include *ASSET_GROUP_DISAPPROVED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAIGN_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *UNKNOWN,* or *UNSPECIFIED.*
+**[!UICONTROL Primary Status Reason]:** (Read-only field for existing asset groups in performance max campaigns) Additional details about the asset group's primary status. Values may include *ASSET_GROUP_DISAPPROVED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAIGN_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *UNKNOWN,* or *UNSPECIFIED.*
 
 ## [!UICONTROL Conversion Goals]
 
