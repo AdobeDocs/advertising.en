@@ -66,7 +66,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Conversion Rate] | The number of conversions divided by the total number of clicks. |
 | [!UICONTROL Conversion Type] | The user-defined conversion type that was tracked on the advertiser's website. |
 | [!UICONTROL Conversions] | ([!UICONTROL MSA Ad Extension] and [!UICONTROL Google Asset Group Performance] reports) The value of conversions for the specified period. For the [!UICONTROL MSA Ad Extension], this is the number of clicks that resulted in a sale or another measure of success. |
-| [!UICONTROL Conversions from Interactions Rate] | ([!UICONTROL Google Asset Group Performance Report]) The number of conversions from interactions divided by the number of ad interactions, such as clicks for text ads or views for video ads). This only includes conversion actions which include_in_conversions_metric attribute is set to true. If you use conversion-based bidding, your bid strategies will optimize for these conversions. |
+| [!UICONTROL Conversions from Interactions Rate] | ([!UICONTROL Google Asset Group Performance Report]) The number of conversions from ad interactions divided by the number of ad interactions. This value considers only conversion actions for which the `include_in_conversions_metric` attribute is set to `true`. |
 | [!UICONTROL Conversions Qualified] | ([!UICONTROL MSA Ad Extension] reports) The number of conversions. |
 | [!UICONTROL Cost] | The total cost for ads during the specified date range. |
 | [!UICONTROL Cost Per Assist] | ([!UICONTROL MSA Ad Extension] reports) The total cost per assist. | 
