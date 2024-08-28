@@ -224,7 +224,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 ### Product (shopping) ad fields
 
-For more information about creating shopping ads, see "[Implement [!DNL Microsoft Advertising] shopping campaigns](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-campaign-types/microsoft-shopping-campaigns.html)."
+For more information about creating shopping ads, see "[Implement [!DNL Microsoft Advertising] shopping campaigns](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-workflows/microsoft-shopping-campaigns.html)."
 
 For this ad type, use the "[!UICONTROL Creative (except RSA)]" row in the [!UICONTROL Download Bulksheet] dialog.
 

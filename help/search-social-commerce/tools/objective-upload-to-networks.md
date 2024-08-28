@@ -78,4 +78,4 @@ If the objective &mdash; named `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_a
 >[!MORELIKETHIS]
 >
 >* [About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
->* [Upload conversion metrics to [!DNL Google Ads]](conversion-metrics-upload-to-google.md)
+>* [Upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads]](conversion-metrics-upload-to-google.md)

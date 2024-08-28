@@ -227,11 +227,12 @@ index: yes
         + [Post campaign data generated from feeds to ad networks](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-post.md)
         + [Stop a posting job for inventory feed data](/help/search-social-commerce/campaign-management/inventory-feeds/stop-job.md)
         + [Statuses of data generated from feeds](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-status.md)
-    + Implementing campaigns and ads with unique workflows{#special-campaign-types}
-      + [Implement [!DNL Google Ads] dynamic search ads](/help/search-social-commerce/campaign-management/special-campaign-types/google-dynamic-search-ads.md)
-      + [Implement [!DNL Google Ads] performance max campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/google-performance-max-campaigns.md)
-      + [Implement [!DNL Google Ads] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md)
-      + [Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)
+    + Implementing campaigns, ads, and conversions with unique workflows{#special-workflows}
+      + [Implement [!DNL Google Ads] enhanced conversions for leads](/help/search-social-commerce/campaign-management/special-workflows/google-enhanced-conversions-leads.md)
+      + [Implement [!DNL Google Ads] dynamic search ads](/help/search-social-commerce/campaign-management/special-workflows/google-dynamic-search-ads.md)
+      + [Implement [!DNL Google Ads] performance max campaigns](/help/search-social-commerce/campaign-management/special-workflows/google-performance-max-campaigns.md)
+      + [Implement [!DNL Google Ads] shopping campaigns](/help/search-social-commerce/campaign-management/special-workflows/google-shopping-campaigns.md)
+      + [Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md)
     + [Manually synchronize ad network data](/help/search-social-commerce/campaign-management/campaigns/sync-network.md)
   + [Assign campaigns to a portfolio](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md)
   + [Remove campaigns from a portfolio](/help/search-social-commerce/campaign-management/campaign-remove-from-portfolio.md)
@@ -303,6 +304,7 @@ index: yes
           + [The [!UICONTROL Bing Ads Geo Report]](/help/search-social-commerce/reports/management/specialty/bing-ads-geo-report.md)
           + [The [!UICONTROL Bing Ads Search Query Report]](/help/search-social-commerce/reports/management/specialty/bing-ads-search-query-report.md)
           + [The [!UICONTROL Campaign Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/campaign-daily-impression-share-report.md)
+          + [The [!UICONTROL Google Asset Group Performance Report]](/help/search-social-commerce/reports/management/specialty/google-asset-group-performance-report.md)
           + [The [!UICONTROL Keyword Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/keyword-daily-impression-share-report.md)
           + [The [!UICONTROL RSA Asset Report]](/help/search-social-commerce/reports/management/specialty/rsa-asset-report.md)
           + [The [!UICONTROL MSA Ad Extension by Ad Report]](/help/search-social-commerce/reports/management/specialty/msa-ad-extension-detail-report.md)
@@ -377,7 +379,7 @@ index: yes
       + [Decode a click-tracking URL](/help/search-social-commerce/tools/click-tracking-url-decode.md)
       + [Generate an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
   + Uploading conversion data to ad networks {#upload-ad-networks}
-    + [Upload conversion metrics to [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
+    + [Upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
     + [Enable uploading of objectives to ad networks](/help/search-social-commerce/tools/objective-upload-to-networks.md)
   + Uploading metrics for [!DNL Naver] tracking-only accounts {#generic-tracking}
     + [Upload traffic and conversion metrics for [!DNL Naver] tracking-only accounts](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-upload-metrics.md)
@@ -402,7 +404,10 @@ index: yes
     + [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
     + [Change the conversion metrics available in management views and reports](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md)
     + [Change the display name for a conversion metric](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md)
-    + Managing Conversion Tags {#conversion-tags}
+    + Managing ad network-specific conversion tags and conversion actions {#network-conversions}
       + [Create a conversion tag for [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md)
+      + Managing conversion actions {#conversion-actions}
+        + [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)
+        + [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md)
 + [Get help](get-help.md)
 + [Glossary](glossary.md)
