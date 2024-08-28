@@ -29,7 +29,7 @@ All uploaded data is synced in real-time to [!DNL Google Ads].
 
 ### Data above the table
 
-`Parameters:TimeZone=insert_timezone`		
+`Parameters:TimeZone=insert_timezone`
 
 Enter the account's timezone either in this location or in the "[!UICONTROL Conversion Time]" column for each row. Use either a) the [supported timezone ID format](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) or b) the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York).
 
@@ -42,8 +42,8 @@ Enter the account's timezone either in this location or in the "[!UICONTROL Conv
 | Conversion Time | (Required) The time the conversion event occurred in a [supported time format](https://support.google.com/google-ads/answer/7014069#prepare_data). If you don't include the account's timezone ID in the `Parameters:TimeZone=insert_timezone` line above the data table, then include the timezone for each row using either a) the [supported timezone ID format](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) or b) the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York).|
 | Conversion Value | (Required) The numeric conversion value. |
 | Conversion Currency | The currency code for the conversion event. |
-| Ad User Data | (Applicable for data pertaining to users in the European Economic Area (EEA) or United Kingdom (UK)) Indicates if user consent was given for sending user data to [!DNL Google] for ad personalization purposes. Values may include `Granted`, `Denied`, or <null> (which is sent to [!DNL Google Ads] as `Unspecified`). **Note:** [!DNL Google Ads] doesn't currently enforce consent for enhanced conversions for leads, but it may do so in the future. |
-| Ad Personalization | (Applicable for data pertaining to users in the European Economic Area (EEA) or United Kingdom (UK)) Indicates if user consent was given for sending user data to [!DNL Google] for advertising purposes. Values may include `Granted`, `Denied`, or <null> (which is sent to [!DNL Google Ads] as `Unspecified`). **Note:** [!DNL Google Ads] doesn't currently enforce consent for enhanced conversions for leads, but it may do so in the future. |
+| Ad User Data | (Applicable for data pertaining to users in the European Economic Area (EEA) or United Kingdom (UK)) Indicates if user consent was given for sending user data to [!DNL Google] for ad personalization purposes. Values may include `Granted`, `Denied`, or \[null\] (which is sent to [!DNL Google Ads] as `Unspecified`). **Note:** [!DNL Google Ads] doesn't currently enforce consent for enhanced conversions for leads, but it may do so in the future. |
+| Ad Personalization | (Applicable for data pertaining to users in the European Economic Area (EEA) or United Kingdom (UK)) Indicates if user consent was given for sending user data to [!DNL Google] for advertising purposes. Values may include `Granted`, `Denied`, or \[null\] (which is sent to [!DNL Google Ads] as `Unspecified`). **Note:** [!DNL Google Ads] doesn't currently enforce consent for enhanced conversions for leads, but it may do so in the future. |
 
 >[!MORELIKETHIS]
 >
