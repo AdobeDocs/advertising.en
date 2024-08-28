@@ -39,7 +39,7 @@ When you generate reports, you can choose how to attribute conversion data in a 
 Depending on the attribution rule you specify for the report, data for each report type is available for the following dates.
 
 | Report Group | Report | Dates for Which Data Is Available |
-|---|---|---|
+| --- | --- | --- |
 | [!UICONTROL Basic Reports] | [!UICONTROL Campaign Hourly Report] | Beginning on 15 May 2021.<br><br><b>Exception:</b> Prominence metrics data is available beginning on 8 September 2022. |
 | | All other [!UICONTROL Basic Reports] | The previous 36 months.<br><br><b>Exception:</b> Prominence metrics data is available beginning on 8 September 2022. |
 | [!UICONTROL Advanced Reports] | [!UICONTROL Transaction Report] | The previous 45 days. |
