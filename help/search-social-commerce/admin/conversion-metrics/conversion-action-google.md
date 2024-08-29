@@ -7,7 +7,7 @@ feature: Conversions
 
 *[!DNL Google Ads] accounts only*
 
-You can create conversion actions for [!DNL Google Ads] enhanced conversions for leads to be tracked for individual [!DNL Google Ads] accounts, not tracked at a manager account level.
+You can create conversion actions for [!DNL Google Ads] enhanced conversions for leads to be tracked for individual [!DNL Google Ads] accounts, not conversions tracked at a manager account level.
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**, which opens the **[!UICONTROL Summary]** tab.
 
