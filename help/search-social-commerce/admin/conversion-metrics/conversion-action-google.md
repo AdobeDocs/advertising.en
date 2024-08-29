@@ -19,7 +19,7 @@ You can create conversion actions for [!DNL Google Ads] enhanced conversions for
 
    1. Click **[!UICONTROL Next]**.
 
-   1. Specify the [conversion action options](#conversion-action-settings-conversion-action-settings-google).
+   1. Specify the conversion action options.
 
    1. Click **[!UICONTROL Generate]**.
 
