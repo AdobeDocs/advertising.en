@@ -9,9 +9,7 @@ feature: Conversions
 
 <!-- Tweak metadata title/description and heading -->
 
-You can upload your first-party, offline conversion data to map to your existing [!DNL Google Ads] enhanced conversions for leads. Use enhanced conversions for leads in environments in which click IDs are unavailable, such as to track telephone or email sales that result from website leads.
-
-All uploaded data is synced in real-time to [!DNL Google Ads].
+You can upload your first-party, offline conversion data to map to your existing [!DNL Google Ads] enhanced conversions for leads. All uploaded data is synced in real-time to [!DNL Google Ads].
 
 ## Upload data for [!DNL Google Ads] enhanced conversions for leads
 
@@ -36,6 +34,7 @@ Enter the account's timezone either in this location or in the "[!UICONTROL Conv
 ### Table columns and values
 
 | Column | Description |
+| ------ | ----------- |
 | Email | The user's email address. Each row must include either an Email value or a Phone Number value. |
 | Phone Number | The user's telephone number. It must include a country code, and it may contain dashes and other symbols. Each row must include either an Email value or a Phone Number value. |
 | Conversion Name | (Required) The name of the conversion action. |
