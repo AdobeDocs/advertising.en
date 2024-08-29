@@ -28,13 +28,13 @@ To use this feature, complete the following steps. The steps to create conversio
 
 1. Create a conversion action for the enhanced conversion for leads within either [Search, Social, & Commerce](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md) or [Google Ads](https://support.google.com/google-ads/answer/12216226).
 
- For the **Type of Conversion,** select *Import Conversion* or *Import.*
+   For the **Type of Conversion,** select *Import Conversion* or *Import.*
 
 1. As often as needed, upload first-party data, including hashed email addresses or telephone numbers, to attribute to the conversion for a specified account. You can complete this step from within either [Search, Social, & Commerce](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md) or using [!DNL Google Data Manager].   
    
-   * Within Search, Social, & Commerce, you can download a template in [!DNL Microsoft Excel] format and upload an [!DNL Excel] file containing the conversion data. The template includes columns to indicate if user consent was given for uploading data to [!DNL Google] for advertising purposes and for ad personalization purposes.
+   * Within Search, Social, & Commerce, you can download a template in [!DNL Microsoft Excel] format, enter your conversion data and save the file locally, and then upload the edited file. The template includes columns to indicate if user consent was given for uploading data to [!DNL Google] for advertising purposes and for ad personalization purposes.
    
-   All uploaded data is synced in real-time to [!DNL Google Ads].
+     All uploaded data is synced in real-time to [!DNL Google Ads].
 
    * For more information about uploading data using [!DNL Google Data Manager], see "[About Data manager](https://support.google.com/google-ads/answer/14639041)."
 
