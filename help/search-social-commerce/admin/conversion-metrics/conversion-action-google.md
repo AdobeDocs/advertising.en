@@ -15,7 +15,7 @@ You can create conversion actions for [!DNL Google Ads] enhanced conversions for
 
 1. Specify the [conversion action settings](#conversion-action-settings-google).
 
-   1. Select the account, and then select the conversion type.
+   1. Select the account, and then select the conversion type: *[!UICONTROL Import conversion]*.
 
    1. Click **[!UICONTROL Next]**.
 
@@ -39,7 +39,7 @@ Once you create the conversion action and implement a conversion tracking tag, y
 
 **[!UICONTROL Select an Account]:** The applicable Google Ads account.
 
-**[!UICONTROL Type of Conversion]:** The type of conversion to track: Select *[!UICONTROL Import conversion]*. All other types are used to create tracking tags for other types of conversions.
+**[!UICONTROL Type of Conversion]:** The type of conversion to track: Select *[!UICONTROL Import conversion]*. All other types are used to create conversion tracking tags (not conversion actions) for other types of conversions.
 
 **[!UICONTROL Conversion Name]:** A unique name for the conversion action.
 
