@@ -31,7 +31,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL All Conversion Rate] | ([!UICONTROL MSA Ad Extension] reports) The conversion rate as a percentage. |
 | [!UICONTROL All Conversions] | ([!UICONTROL MSA Ad Extension] reports) The number of conversions. |
 | [!UICONTROL All Conversions Qualified] | ([!UICONTROL MSA Ad Extension] reports) The number of conversions. |
-| [!UICONTROL All Cost Per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The cost per conversion. <!-- How is this -- and the other fields -- different than regular metrics, such as "Cost Per Conversion?" --> |
+| [!UICONTROL All Cost Per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The cost per conversion. |
 | [!UICONTROL All Return on Ad Spend] | ([!UICONTROL MSA Ad Extension] reports) The total revenue divided by spend, expressed as a percentage. |
 | [!UICONTROL All Revenue Per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The revenue per conversion. |
 | [!UICONTROL Asset] | ([!UICONTROL RSA Asset Report]) The asset. |
@@ -140,7 +140,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Revenue per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The total revenue per conversion. |
 | [!UICONTROL SE Account Name] | The account name on the ad network. |
 | [!UICONTROL SE Creative ID] | The ad ID assigned by the network. |
-| [!UICONTROL SE_TERM_ID] | (AdWords Search Query Report) The search term ID assigned by the ad network.<!--??? what is this? --> |
+| [!UICONTROL SE_TERM_ID] | (AdWords Search Query Report) The search term ID assigned by the ad network. |
 | [!UICONTROL Search (Abs. Top) IS] | ([!DNL Google Ads] and [!DNL Microsoft Advertising]; [!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]) The impressions you’ve received in the absolute top location (the first ad above the organic search results) divided by the estimated number of impressions that you were eligible to receive in the top location. Percentages under 10% are indicated as "`<10%`" or "`0.0999`." |
 | [!UICONTROL Search (Top) IS] | ([!DNL Google Ads] and [!DNL Microsoft Advertising]; [!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]) The impressions you’ve received in the top locations (above the organic search results) divided by the estimated number of impressions that you were eligible to receive in the top locations. Percentages under 10% are indicated as "`<10%`" or "`0.0999`." |
 | [!UICONTROL Search Engine] | The ad network. |
