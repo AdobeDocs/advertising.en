@@ -9,7 +9,7 @@ feature: Conversions
 
 <!-- Tweak metadata title/description and heading -->
 
-You can upload your first-party, offline conversion data to map to your existing [!DNL Google Ads] enhanced conversions for leads. All uploaded data is synced in real-time to [!DNL Google Ads].
+You can upload your first-party, offline conversion data &mdash; including hashed email addresses and telephone numbers &mdash; to map to your existing [[!DNL Google Ads] enhanced conversions for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md). All uploaded data is synced in real-time to [!DNL Google Ads].
 
 ## Upload data for [!DNL Google Ads] enhanced conversions for leads
 
@@ -35,8 +35,8 @@ Enter the account's timezone either in this location or in the "[!UICONTROL Conv
 
 | Column | Description |
 | ------ | ----------- |
-| Email | The user's email address. Each row must include either an Email value or a Phone Number value. |
-| Phone Number | The user's telephone number. It must include a country code, and it may contain dashes and other symbols. Each row must include either an Email value or a Phone Number value. |
+| Email | The user's email address, which must be hashed using the SHA-256 algorithm. Each row must include either an Email value or a Phone Number value. |
+| Phone Number | The user's telephone number, which must be hashed using the SHA-256 algorithm. It must include a country code, and it may contain dashes and other symbols. Each row must include either an Email value or a Phone Number value. |
 | Conversion Name | (Required) The name of the conversion action. |
 | Conversion Time | (Required) The time the conversion event occurred in a [supported time format](https://support.google.com/google-ads/answer/7014069#prepare_data). If you don't include the account's timezone ID in the `Parameters:TimeZone=insert_timezone` line above the data table, then include the timezone for each row using either a) the [supported timezone ID format](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) or b) the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York).|
 | Conversion Value | (Required) The numeric conversion value. |
