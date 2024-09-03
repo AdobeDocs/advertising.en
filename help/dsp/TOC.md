@@ -44,6 +44,7 @@ index: yes
   + Packages {#packages}
     + [About Package Management](/help/dsp/campaign-management/packages/package-about.md)
     + [Create a Package](/help/dsp/campaign-management/packages/package-create.md)
+    + [Review and Edit Package Settings Using Spreadsheets](/help/dsp/campaign-management/packages/package-qa.md)
     + [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md)
     + [Duplicate a Package](/help/dsp/campaign-management/packages/package-duplicate.md)
     + [Attach a Placement to a Package](/help/dsp/campaign-management/packages/package-attach-placement.md)
@@ -193,6 +194,7 @@ index: yes
   + [Edit a Custom Report](/help/dsp/reports/report-edit.md)
   + [Delete a Custom Report](/help/dsp/reports/report-delete.md)
   + [Run a Custom Report](/help/dsp/reports/report-run-now.md)
+  + [Download a Custom Report](/help/dsp/reports/report-download.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings.md)
   + [Available Report Columns](/help/dsp/reports/report-columns.md)
   + [FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)
