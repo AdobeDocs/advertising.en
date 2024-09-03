@@ -39,15 +39,16 @@ When you generate reports, you can choose how to attribute conversion data in a 
 Depending on the attribution rule you specify for the report, data for each report type is available for the following dates.
 
 | Report Group | Report | Dates for Which Data Is Available |
-|---|---|---|
+| --- | --- | --- |
 | [!UICONTROL Basic Reports] | [!UICONTROL Campaign Hourly Report] | Beginning on 15 May 2021.<br><br><b>Exception:</b> Prominence metrics data is available beginning on 8 September 2022. |
 | | All other [!UICONTROL Basic Reports] | The previous 36 months.<br><br><b>Exception:</b> Prominence metrics data is available beginning on 8 September 2022. |
 | [!UICONTROL Advanced Reports] | [!UICONTROL Transaction Report] | The previous 45 days. |
 | | [!UICONTROL Domain Referral Report], [!UICONTROL Geo Distribution Report] | The previous two (2) months plus the current month. |
 | [!UICONTROL Assist Reports] | All | The previous 18 months. |
 | [!UICONTROL Specialty Reports] | [!UICONTROL AdWords Audience Target Report] | The previous year.|
-| | [!UICONTROL RSA Assets Report] | Beginning on 10 August 2022. |
+| | [!UICONTROL Google Asset Group Performance Report] | No limitations |
 | | [!UICONTROL MSA Ad Extension by Ad Report], [!UICONTROL MSA Ad Extension by Keyword Report], [!UICONTROL MSA Ad Extension Detail Report], [!UICONTROL MSA Network Impression Share Report], [!UICONTROL MSA Network Performance Report] | The last 180 days. |
+| | [!UICONTROL RSA Assets Report] | Beginning on 10 August 2022. |
 | | All other [!UICONTROL Specialty Reports] | The previous two (2) months. |
 | [!UICONTROL Model Accuracy Reports] | [!UICONTROL Forecast Accuracy Report] | The previous 18 months. |
 | [!UICONTROL Change History Report] | &mdash; | The previous 31 days. |
