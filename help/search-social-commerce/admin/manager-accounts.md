@@ -53,5 +53,5 @@ Once you add credentials for a manager account, the account settings show the as
 >[!MORELIKETHIS]
 >
 >* [Enable uploading of objectives to ad networks](/help/search-social-commerce/tools/objective-upload-to-networks.md)
->* [Upload conversion metrics to [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md) 
+>* [Upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md) 
 >* [Edit your notification settings](/help/search-social-commerce/notifications/notification-edit.md)

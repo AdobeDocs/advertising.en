@@ -10,7 +10,7 @@ You can create conversion tags for new conversions to be tracked for individual 
 
 To generate conversion tags for existing conversions, use the ad network's editor.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
+1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**, which opens to the **[!UICONTROL Summary]** tab.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 
@@ -36,7 +36,7 @@ Once you add the tags to your website and they begin firing, [!DNL Google Ads] r
 
 **[!UICONTROL Select an Account]:** The applicable Google Ads account.
 
-**[!UICONTROL Type of Conversion]:** The type of conversion to track: *[!UICONTROL Click on a webpage element]*, *[!UICONTROL Calls to a phone number on your website]*, or *[!UICONTROL Clicks to your number on your mobile website]*.
+**[!UICONTROL Type of Conversion]:** The type of conversion to track: *[!UICONTROL Click on a webpage element]*, *[!UICONTROL Calls to a phone number on your website]*, or *[!UICONTROL Clicks to your number on your mobile website]*. **Note:** *[!UICONTROL Import conversion]* is used for a different purpose; see "[Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)."
 
 **[!UICONTROL Conversion Name]:** A unique name for the conversion metric.
 
@@ -62,4 +62,5 @@ Once you add the tags to your website and they begin firing, [!DNL Google Ads] r
 
 >[!MORELIKETHIS]
 >
+>* [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md)
 >* [[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)

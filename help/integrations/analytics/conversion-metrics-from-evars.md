@@ -14,7 +14,7 @@ You can use success event metrics to optimize DSP packages and Search, Social, &
 
 Most of the following tasks must be performed by an [!DNL Analytics] administrator or other user. If you need assistance, contact (DSP users) the DSP technical support team at `adcloud_support@adobe.com` or (Search, Social, & Commerce users) your Adobe Account Team.
 
-1. In [!DNL Analytics], [create a placeholder success event](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/success-events/success-event.html?lang=en).
+1. In [!DNL Analytics], [create a placeholder success event](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/success-event).
 
    Use the following additional parameters:
    
@@ -54,7 +54,7 @@ Most of the following tasks must be performed by an [!DNL Analytics] administrat
 
 After the metric is available, you can use it to create an objective, which you can then assign to a Search, Social, & Commerce portfolio or use as a [custom goal](/help/dsp/optimization/custom-goal.md) for a DSP package.
 
-For more information about creating objectives, see the Optimization Guide chapter on "Objectives," which is available from within Search, Social, & Commerce.
+see the Optimization Guide chapter on "Objectives," which is available from within Search, Social, & Commerce
 
 >[!MORELIKETHIS]
 >
