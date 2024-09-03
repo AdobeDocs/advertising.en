@@ -38,7 +38,7 @@ You can create and manage supported ad types for ad groups within a synchronized
 
    You can control which products are shown with your [!DNL Microsoft Advertising] shopping ads by setting up separate product groups for the ad group, from the [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Product Groups] view.
 
-   For more information about the workflow for product/shopping ads, see "[Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)."  For additional information about product ads, see the [Microsoft Advertising documentation](https://help.ads.microsoft.com/#apex/3/en/51082).
+   For more information about the workflow for product/shopping ads, see "[Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md)."  For additional information about product ads, see the [Microsoft Advertising documentation](https://help.ads.microsoft.com/#apex/3/en/51082).
 
 * Responsive search ads for [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns on the search network. The ad network dynamically assembles text-based responsive search ads from a set of ad titles and descriptions, favoring combinations that perform well together. The ad includes up to three headlines, two descriptions, and a customizable URL from the base URL and optional path1 and path2 fields. You can optionally pin ad titles and descriptions to specific positions. 
 

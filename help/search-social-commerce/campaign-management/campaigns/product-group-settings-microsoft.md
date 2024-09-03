@@ -46,4 +46,4 @@ This template overrides templates at higher levels and is used only for units wi
 >* [About shopping product groups](product-group-about.md)
 >* [Manage shopping product groups](product-group-manage.md)
 >* [Shopping campaign product filters](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md)
->* [Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)
+>* [Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md)

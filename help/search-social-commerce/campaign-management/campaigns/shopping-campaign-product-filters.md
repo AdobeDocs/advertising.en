@@ -21,8 +21,8 @@ See also the [!DNL Google Ads] help "[Manage a shopping campaign with product gr
 
 >[!MORELIKETHIS]
 >
->* [Implement [!DNL Google Ads] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md)
->* [Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)
+>* [Implement [!DNL Google Ads] shopping campaigns](/help/search-social-commerce/campaign-management/special-workflows/google-shopping-campaigns.md)
+>* [Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md)
 >* [About shopping product groups](product-group-about.md)
 >* [Manage shopping product groups](product-group-manage.md)
 >* [[!DNL Google Ads] product group settings](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-google.md)
