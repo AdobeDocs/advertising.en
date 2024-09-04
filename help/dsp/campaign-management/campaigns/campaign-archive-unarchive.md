@@ -6,7 +6,7 @@ exl-id: 3b1fac7b-1c3e-417e-b6f6-142aa48b1135
 ---
 # Archive or Unarchive a Campaign
 
-Hide a campaign that isn't being used by archiving it. The only action you can take on an archived campaign is to unarchive it. Archived campaigns aren't shown by default but are still available for reporting.
+Archive a campaign that isn't being used to pause all spend and archive all associated entities. The only action you can take on an archived campaign is to unarchive it. Archived campaigns aren't shown by default but are still available for reporting.
 
 You can unarchive a campaign to restore its previous status at any time.
 
