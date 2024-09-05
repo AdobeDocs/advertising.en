@@ -2,6 +2,7 @@
 title: Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads
 description: Learn how to create a [!DNL Google Ads] conversion action for an enhanced conversion for leads.
 feature: Conversions
+exl-id: faf4a6de-e82f-4afd-bda5-2602fb45aee5
 ---
 # Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads
 

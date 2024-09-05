@@ -1,7 +1,8 @@
 ---
 title: Implement [!DNL Google Ads] enhanced conversions for leads
 description: Learn about the workflow for setting up [!DNL Google Ads] enhanced conversions for leads.
-feature: Search Campaign Management, Conversions 
+feature: Search Campaign Management, Conversions
+exl-id: b708c9f2-2962-45d9-8780-4e96ef2ae8f7
 ---
 # Implement [!DNL Google Ads] enhanced conversions for leads
 

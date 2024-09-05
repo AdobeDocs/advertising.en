@@ -2,6 +2,7 @@
 title: Upload offline conversion data for enhanced conversions
 description: Learn how to upload first-party, offline conversion data to map to [!DNL Google Ads] enhanced conversions for leads.
 feature: Conversions
+exl-id: 5c5dfbb8-3b17-4973-8012-fc7f0e97e33b
 ---
 # Upload offline conversion data for enhanced conversions
 

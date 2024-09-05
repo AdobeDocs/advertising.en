@@ -2,6 +2,7 @@
 title: Review and Edit Package Settings Using Spreadsheets
 description: Learn how to review and edit key package settings using spreadsheets.
 feature: DSP Packages
+exl-id: bf52de27-db48-40e2-bb55-a2c27a1924ad
 ---
 # Review and Edit Package Settings Using Spreadsheets
 
