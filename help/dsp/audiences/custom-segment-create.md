@@ -37,6 +37,8 @@ You can collect your own first-party audience data by creating and implementing 
      </script>
      ```
 
+     See "[Format of JavaScript conversion tracking tags version 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)" and "[Format of JavaScript conversion tracking tags version 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)" for the full tag format.
+
    1. Use any browser debugging tool to verify that each call is initiated to the domain `lasteventf-tm.everesttech.net` and contains the parameter `_les_id5` with an encrypted ID5 ID as its value.
 
 ## Create and Implement a Custom Segment
