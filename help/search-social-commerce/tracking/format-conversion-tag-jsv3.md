@@ -27,6 +27,7 @@ The following format is for sites that use HTTPS. For sites that use HTTP, the U
                         , allow3rdPartyPixels: 1});
               EF.main();
         };
+        window.id5PartnerId=<Your_ID5_PartnerID>
         window.EF = window.EF || {};
         if (window.EF.main) {
             f();
@@ -48,6 +49,8 @@ The following format is for sites that use HTTPS. For sites that use HTTP, the U
 where:
 
 * `<ef-userid>` is a unique, numeric user ID that Search, Social, & Commerce assigns to the advertiser.
+
+* `<Your_ID5_PartnerID>` is the organization's ID5 partner ID, which the organization receives after signing an agreement with [!DNL ID5]. Include this variable only when the organization uses DSP and has [custom segments that track users associated with ID5 universal IDs](/help/dsp/audiences/universal-ids.md).
 
 * `<propertyname>` is the conversion to track. For example, if you're tracking a conversion called "registration," then the tag would include the parameter `ev_registration=<registration>`, and you would need to pass the actual revenue for each transaction (such as `ev_registration=1`). When multiple properties are tracked, they're joined by an ampersand (`&`), such as `ev_registration=<registration>&ev_sale=<sale>` (for example, `ev_registration=1&ev_sale=12.99`). **Note:**  The property name may not include special characters.
 
