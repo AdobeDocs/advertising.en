@@ -24,14 +24,14 @@ You can collect your own first-party audience data by creating and implementing 
 
   1. Add the following parameter to your webpages before or within the the [JavaScript code required for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) &mdash; anywhere before the last event service is initialized.
 
-     ```window.id5PartnerId=Your_ID5_PartnerID;```
+     ```window.id5PartnerId=ID5_PartnerID;```
      
      Example:
 
      ```
      <script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
      <script>
-       window.id5PartnerId=Your_ID5_PartnerID;
+       window.id5PartnerId=ID5_PartnerID;
             if("undefined" != typeof AdCloudEvent)
                 AdCloudEvent('IMS ORG Id','rsid');
      </script>
