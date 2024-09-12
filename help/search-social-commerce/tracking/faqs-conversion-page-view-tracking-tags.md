@@ -12,7 +12,7 @@ The following apply to Adobe Advertising conversion tracking tags and page view 
 | ---- | ---- | ---- | ---- | ---- |
 | Can be used on the same webpage as another JS version | &mdash; | &mdash; | &mdash; | n/a |
 | Allows the use of multiple tags with the same advertiser user IDs on the same webpage | Yes | Yes | Yes | &mdash; |
-| Allows the use of multiple tags with different advertiser user IDs on the same webpage | Yes | Yes | No | No |
+| Allows the use of multiple tags with different advertiser user IDs on the same webpage | Yes | Yes | &mdash; | &mdash; |
 | Used by the Adobe Advertising extension for Adobe Experience Platform, and compatible with other tags generated using Experience Platform | Yes | Yes | &mdash; | &mdash; |
 | Allows all conversions that originate from [!DNL Apple Safari] and [!DNL Mozilla Firefox] to be tracked when used with the Adobe Advertising JavaScript conversion mapping tag | Yes | Yes | Yes | &mdash; |
 
