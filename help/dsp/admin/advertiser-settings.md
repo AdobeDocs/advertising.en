@@ -116,11 +116,7 @@ Types of sites to block based on fraudulent traffic and suspicious activities me
 
 #### [!UICONTROL Pre-Bid Viewability]
 
-Optional pre-bid viewability filters by [!DNL DoubleVerify], [!DNL Oracle Advertising] ([!DNL Moat]), and [!DNL Integral Ad Science] to apply to placements. The advertiser-level defaults are selected for new placements. You can override the advertiser-level settings at the [placement level](/help/dsp/campaign-management/placements/placement-settings.md).
-
->[!NOTE]
->
->[!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL MOAT].
+Optional pre-bid viewability filters by [!DNL DoubleVerify] and [!DNL Integral Ad Science] to apply to placements. The advertiser-level defaults are selected for new placements. You can override the advertiser-level settings at the [placement level](/help/dsp/campaign-management/placements/placement-settings.md).
 
 ##### [!UICONTROL DoubleVerify] {#doubleverify-viewability}
 
@@ -149,10 +145,6 @@ Optional pre-bid viewability filters by [!DNL DoubleVerify], [!DNL Oracle Advert
 ##### [!UICONTROL Integral Ad Science] {#ias-viewability}
 
 An optional **[!UICONTROL Video Viewability Targets]** filter and an optional **[!UICONTROL Display Viewability Targets]** filter. Additional fees may apply.
-
-##### [!UICONTROL Moat] {#moat-viewability}
-
-An optional **[!UICONTROL Video Viewability Standard]** filter and an optional **[!UICONTROL Display Viewability Standard]** filter. Additional fees may apply.
 
 #### [!UICONTROL Ads.text]
 

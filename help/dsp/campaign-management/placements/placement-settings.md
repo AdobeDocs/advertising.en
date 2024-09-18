@@ -340,15 +340,13 @@ When you select both legacy IDs and universal IDs, bidding preference is given t
    * To manually select an interval, click inside a cell and optionally drag to select the interval.
 1. Click **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Optional; available to advertisers configured with [!DNL Proximic by Comscore] and [!DNL Oracle Data Cloud] segments) Specific segment names or IDs from [!DNL Proximic by Comscore] and [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]) to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your Adobe Account Team.
-
-**Note:** [!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]).
+**[!UICONTROL Topic Targeting]:** (Optional; available to advertisers configured with [!DNL Proximic by Comscore] segments) Specific segment names or IDs from [!DNL Proximic by Comscore] to include as targets. Additional fees may apply for this feature. To activate this feature and set up topic segments, contact your Adobe Account Team.
 
 To specify topic targeting:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Specify the segments to target:
-   1. In the left column, select the partner (*[!UICONTROL Comscore]* or *[!UICONTROL Grapeshot]*).
+   1. In the left column, select the partner: (*[!UICONTROL Comscore]*.
    1. In the input field, enter the segment names or segment IDs.
 1. (Optional) To download a CSV file with the topic information to your browser's Downloads location, click **[!UICONTROL Export]**.
 1. Click **[!UICONTROL Save]**.
@@ -357,7 +355,7 @@ To specify topic targeting:
 >
 >* Topic targeting limits the inventory on which the placement can bid, so use topic targeting for only a small percentage of your overall buy.
 >
->* Set up any negative targeting within the segment on [!DNL Proximic by Comscore] or [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]).
+>* Set up any negative targeting within the segment on [!DNL Proximic by Comscore].
 
 **[!UICONTROL Device Targeting]:** (Optional) Specific device information, including device types, manufacturers, operating systems, browsers, and connectivity types, to include and exclude as targets. The types vary by placement type. To specify device targeting:
 
@@ -425,11 +423,7 @@ To specify topic targeting:
 
 **[!UICONTROL Pre-bid viewability]:**
 
-Which pre-bid viewability filters by [!DNL DoubleVerify], [!DNL Oracle Advertising] ([!DNL Moat]), and [!DNL Integral Ad Science] to apply for the placement. The advertiser-level defaults are selected for new placements, but you can change the settings. Additional fees may apply.
-
->[!NOTE]
->
->[!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL MOAT].
+Which pre-bid viewability filters by [!DNL DoubleVerify], and [!DNL Integral Ad Science] to apply for the placement. The advertiser-level defaults are selected for new placements, but you can change the settings. Additional fees may apply.
 
 **[!UICONTROL Ads.txt filtering]:**
 

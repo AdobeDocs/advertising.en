@@ -13,7 +13,6 @@ Data categories and segments for the following third-party data providers are av
 The fee for using each segment is shown next to the segment name in placement settings and saved audience settings.
 
 * [!DNL Adsquare]
-* [!DNL Audiences by Oracle (BlueKai)] (to be sunset 30 September 2024)
 * [!DNL digitalAudience]
 * [!DNL DLX Mobile]
 * [!DNL eXelate] ([!DNL Nielsen])

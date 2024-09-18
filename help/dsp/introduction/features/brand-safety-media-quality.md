@@ -12,7 +12,7 @@ Advertising DSP provides a suite of brand protection features to ensure that eac
 
 Our Fraud Surveillance team works closely with industry leading partners, such as the [!DNL Interactive Advertising Bureau], [!DNL Trust and Accountability Group] [!DNL (TAG)], and [!DNL WhiteOps], to carefully curate the inventory on our platform. Through proactive management of our supply, DSP ensures that all advertisers across the platform are protected from non-human traffic (bots, crawlers, datacenter traffic, and fraud) and deliver only in brand-safe contexts.
 
-In addition to providing central quality management, we believe in empowering advertisers to design the controls that align with their brand. DSP offers integrations with [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud], and [!DNL Peer39], ensuring that each advertiser can choose their desired level of fraud protection, contextual filtering, and keyword targeting.
+In addition to providing central quality management, we believe in empowering advertisers to design the controls that align with their brand. DSP offers integrations with [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39], ensuring that each advertiser can choose their desired level of fraud protection, contextual filtering, and keyword targeting.
 
 ## Quality Initiatives
 
@@ -104,15 +104,11 @@ For more information on functionality, contact your preferred vendor directly, o
 
 ### Pre-Bid Viewability {#pre-bid-viewability}
 
-Pre-bid viewability filters powered by our industry-leading partners [!DNL DoubleVerify], [!DNL Oracle Advertising] ([!DNL Moat]), and [!DNL Integral Ad Science] allow advertisers to ensure their campaigns meet their desired viewability performance goals across video and display inventory.
-
->[!NOTE]
->
->[!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL MOAT].
+Pre-bid viewability filters powered by our industry-leading partners [!DNL DoubleVerify] and [!DNL Integral Ad Science] allow advertisers to ensure their campaigns meet their desired viewability performance goals across video and display inventory.
 
 You can set default viewability filters for each advertiser<!-- [default pre-viewability filters for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [customize the settings for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply when you use this feature.
 
-![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Oracle Advertising logo](/help/dsp/assets/oracle-advertising-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png)
+![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png)
 
 ### Attention Targeting and Measurement
 
@@ -126,17 +122,13 @@ Additional fees apply for each separate feature.
 
 ### Topic Targeting
 
-DSP topic targeting allows you to target or block keyword lists by leveraging our industry-leading contextual partners [!DNL Comscore] and [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]). Topic targeting helps you to ensure your ads are always served in an environment that aligns with your brand, whether that includes blocking harmful content or ensuring spend in a context that ensures a greater outcome.
-
->[!NOTE]
->
->[!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL Oracle Data Cloud] (formerly [!DNL Grapeshot]).
+DSP topic targeting allows you to target or block keyword lists by leveraging our industry-leading contextual partner [!DNL Comscore]. Topic targeting helps you to ensure your ads are always served in an environment that aligns with your brand, whether that includes blocking harmful content or ensuring spend in a context that ensures a greater outcome.
 
 Topic targeting requires you to create custom topic segments directly with the partner platform. Once the segments are created, you can [target or exclude a segment ID in the [!UICONTROL Audience Targeting] section for each placement](/help/dsp/campaign-management/placements/placement-settings.md). Additional fees may apply for this feature.
 
 To create a [!DNL Comscore] account and create custom topic segments, you can request a login for [!DNL Activation Segment Manager] at [https://agents.comscore.com](https://agents.comscore.com). See the [[!DNL Comscore] help center](https://comscoreactivation.zendesk.com/hc/) for full instructions for setting up custom segments. Fees for custom segments are visible in [!DNL Segment Manager] as you create them.
 
-![Comscore logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot logo](/help/dsp/assets/oracle-grapeshot-logo.png)
+![Comscore logo](/help/dsp/assets/comscore-logo.png)
 
 ### [!DNL DoubleVerify Authentic Brand Safety]
 
