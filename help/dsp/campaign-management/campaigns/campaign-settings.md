@@ -112,8 +112,6 @@ To estimate taxes to withhold:
 
 * **[!UICONTROL IAS Team ID]:** (Advertisers with their own [!DNL IAS] accounts; optional) The team ID for the organization's [!DNL IAS] account, which [!DNL IAS] will bill directly for usage. <!-- verify -->
 
-**[!UICONTROL MOAT]:** (Optional) Enables [!DNL MOAT] measurement and reporting of viewability, fraud, brand safety, and audience verification. Additional fees apply. **Note:** [!DNL Oracle] will sunset its advertising business by 30 September 2024, including all services from [!DNL MOAT].
-
 #### Audience Verification
 
 **[!UICONTROL Comscore Campaign Ratings]:** (Optional) Enables [!DNL Comscore] validated [!DNL Campaign Ratings] measurement and reporting of audience verification, using the specified settings. Additional fees apply.
