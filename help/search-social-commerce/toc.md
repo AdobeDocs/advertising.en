@@ -44,7 +44,7 @@ index: yes
         + [Apply data filters from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md)
         + [Edit column filters](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md)
         + [Remove a column filter](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-remove.md)
-  + Managing custom metrics {#custom-metrics}
+  + Manage custom metrics {#custom-metrics}
     + [About custom metrics](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-about.md)
     + [Create a custom metric](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-create.md)
     + [Edit a custom metric](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-edit.md)
