@@ -103,7 +103,7 @@ The following instructions highlight information pertaining to the DSP use case.
 
        >[!NOTE]
        >
-       >You can use multiple URLs to test view-through site entry. For more information, see "[Multipage Activity](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html)." You can easily identify top entries by page URL by creating a [Site Entry report](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-cloud-site-entry-reports.html) in Analytics.
+       >You can use multiple URLs to test view-through site entry. For more information, see "[Multipage Activity](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html)." You can easily identify top entries by page URL by creating a [Site Entry report](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/integrations/adobe-advertising-dsp/create-advertising-cloud-site-entry-reports) in Analytics.
 
    1. In the **[!UICONTROL Goal]** field, enter the success metric for the test.
 
