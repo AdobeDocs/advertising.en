@@ -54,7 +54,7 @@ Most of the following tasks must be performed by an [!DNL Analytics] administrat
 
 After the metric is available, you can use it to create an objective, which you can then assign to a Search, Social, & Commerce portfolio or use as a [custom goal](/help/dsp/optimization/custom-goal.md) for a DSP package.
 
-see the Optimization Guide chapter on "Objectives," which is available from within Search, Social, & Commerce
+For more information about creating objectives, see the Optimization Guide chapter on "Objectives," which is available from within Search, Social, & Commerce
 
 >[!MORELIKETHIS]
 >
