@@ -6,7 +6,7 @@ exl-id: 15d17a03-526b-4dc2-883a-131d750fca24
 ---
 # Resend a Pending User Invitation
 
-Administrator users can resend an invitation to a user with a pending invitation for the organization account.
+Administrator users can resend an invitation to a user with a pending invitation for the organization account. The invitation link expires in 24 hours.
 
 1. Do either of the following:
 
