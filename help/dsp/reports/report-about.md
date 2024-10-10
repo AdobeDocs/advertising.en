@@ -70,6 +70,33 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
     * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)" for more information. Data isn't available for placements that target universal IDs.
     
     * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)" for more information. Data isn't available for placements that target universal IDs.
+<!--    
+    * **[!UICONTROL Path to Conversion]:** Use this report to see the sequence of interaction points in the same household that lead to each selected conversion (in sequence) in the specified data range.<!-- what relation is the look-back window to the report date range? --> Up to the 10 most recent interaction points are included. The path rows are ordered by the number of conversions. 
+
+   
+    * **[!UICONTROL Path Length]:** Use this report to see the number of conversions driven by path length (interaction points) 
+Data to be only shown for a Max Path Length of 10.
+Conversions to grouped for all paths > 10 interaction points. 
+IMPORTANT NOTE : Look at details of Path construction in F1.4
+
+Columns
+Path Length
+% Conversion #1
+% Conversion #2
+...
+
+    
+    * **[!UICONTROL Time to Conversion]:** Use this report to see the number of conversions driven by time taken from last interaction (ad exposure or click) to conversion in days
+Max Time Duration for which data is shown = Min (Look-back setting, 30 days) 
+Conversions to grouped for time duration > Max Time Duration 
+For e.g. 30+, 14+ etc.  
+
+Columns
+Time Taken (in days)
+% Conversion #1 
+% Conversion #2
+...
+-->
 
 ## Cross-Account Reporting {#cross-account-reporting}
 
