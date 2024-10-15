@@ -160,5 +160,6 @@ You can upload settings for your packages, including the placements and ads asso
 
 >[!MORELIKETHIS]
 >
+>* [Review and Edit Campaign Component Settings Using Spreadsheets](/help/dsp/campaign-management/campaign-components-review-edit.md)
 >* [Edit Packages](/help/dsp/campaign-management/packages/package-edit.md)
 >* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)

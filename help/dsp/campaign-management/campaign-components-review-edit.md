@@ -146,5 +146,5 @@ Upload settings for packages, placements, and ads in a single campaign all at on
 
 >[!MORELIKETHIS]
 >
->* [Review and Edit Package Settings Using Spreadsheets](/help/dsp/campaign-management/placements/package-qa.md)
+>* [Review and Edit Package Settings Using Spreadsheets](/help/dsp/campaign-management/packages/package-qa.md)
 >* [Review and Edit Placement Settings Using Spreadsheets](/help/dsp/campaign-management/placements/placement-qa.md)

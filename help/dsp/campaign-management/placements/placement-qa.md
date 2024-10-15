@@ -192,5 +192,6 @@ You can upload settings for your placements, and for the ads and packages associ
 
 >[!MORELIKETHIS]
 >
+>* [Review and Edit Campaign Component Settings Using Spreadsheets](/help/dsp/campaign-management/campaign-components-review-edit.md)
 >* [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
