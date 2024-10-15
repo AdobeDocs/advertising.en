@@ -40,6 +40,7 @@ index: yes
     + [Archive or Unarchive a Campaign](/help/dsp/campaign-management/campaigns/campaign-archive-unarchive.md)
     + [View the Change Log for a Campaign](/help/dsp/campaign-management/campaigns/campaign-change-log.md)
     + [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+    + [Review and Edit Campaign Component Settings Using Spreadsheets](/help/dsp/campaign-management/campaign-components-review-edit.md)
     + [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
   + Packages {#packages}
     + [About Package Management](/help/dsp/campaign-management/packages/package-about.md)
