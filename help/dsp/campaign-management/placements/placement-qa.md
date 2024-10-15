@@ -12,25 +12,27 @@ You can download the settings for one or more placements, or for all placements 
 * When the placements start delivering, and when they stop.
 * Which ads are attached to the placements.
 
-You can then make changes to select fields and upload them back to DSP all at once. Editable fields include the placement names, statuses, bids, budgets, pacing strategies, and frequency caps.
+To update multiple settings at once, you can do either of the following:
+
+* Make changes to select fields, save the file, and upload the edited file back to DSP.
+
+* To make changes to additional placements and to the settings for any package, download a blank template file that includes tabs for each type of campaign component, enter or paste new or updated settings into the template file, and then upload the populated template to make the changes. For instructions, see "[XXXXXXXXXXXXXXX]()."
+
+Editable fields include the placement names, statuses, bids, budgets, pacing strategies, and frequency caps.
 
 >[!TIP]
 >
->To edit more fields for one or more placements, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
+>To quickly edit more fields for one or more placements, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
 
 ## Download Settings for All Placements in a Campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. Do either of the following:
-
-   * Next to the campaign name, click **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
-
-   * Click the campaign name to view the campaign details. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
+1. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Setup Excel]**.
 
     A notification message indicates when the file is available to download.
 
-1. Do either of the following:
+1. To download the file, do either of the following:
 
     * In the notification message, click **[!UICONTROL Download].**
 
@@ -50,25 +52,48 @@ You can then make changes to select fields and upload them back to DSP all at on
 
 1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Download Edit in Excel Sheet]**.
 
-  The file is automatically saved to the browser's Download folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+    A notification message indicates when the file is available to download.
 
-## Upload Settings for All Placements in a Campaign
+1. To download the file, do either of the following:
 
-1. In the main menu, click **[!UICONTROL Campaigns]**.
+    * In the notification message, click **[!UICONTROL Download].**
 
-1. Do either of the following:
+    * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
 
-   * Next to the campaign name, click **[!UICONTROL ...]** > **[!UICONTROL Upload Excel QA sheet]**.
+    The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
 
-   * Click the campaign name to view the campaign details. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Excel QA sheet]**.
+## Download a Settings Template {#download-template}
 
-1. In the [!UICONTROL Edit in Excel] dialog:
+Download a blank template file that includes tabs for each type of campaign component. You can later add rows to any tab on the template and [upload the edited file](##upload-package-settings) to make changes. 
+
+1. Click the name of the campaign.
+
+1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Setup Excel]**.
+
+   The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+
+## Upload Placement Settings {#upload-placement-settings}
+
+You can upload settings for your placements, and for the ads and packages associated with the placements, in a populated template file, but not in an edited settings file.
+
+1. [Download a settings template](#download-template), enter or paste package, placement, and/or ad settings on the relevant tabs of the template, and then save the file to your device or network.
+
+   Editable fields include most settings that are normally editable. See the available settings below.
+
+1. Click the name of the campaign.
+
+1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Setup Excel]**.
+
+1. In the [!UICONTROL Upload Setup Excel] dialog:
 
     1. Either drag and drop a file into the box, or click inside the box to select a file from your device or network.
 
     1. Click **[!UICONTROL Upload]**.
 
 1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
+
+
+<!-- EDIT AND ADD BACK LATER
 
 ## Upload Settings for One or More Placements
 
@@ -89,6 +114,8 @@ You can then make changes to select fields and upload them back to DSP all at on
     1. Click **[!UICONTROL Upload]**.
 
 1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
+
+-->
 
 ## Placement Setting Columns in Downloaded/Uploaded Spreadsheets{#qa-sheet-columns}
 
