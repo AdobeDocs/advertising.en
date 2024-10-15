@@ -16,7 +16,7 @@ To update multiple settings at once, you can do either of the following:
 
 * Make changes to select fields, save the file, and upload the edited file back to DSP.
 
-* To make changes to additional placements and to the settings for any package, download a blank template file that includes tabs for each type of campaign component, enter or paste new or updated settings into the template file, and then upload the populated template to make the changes. For instructions, see "[XXXXXXXXXXXXXXX]()."
+* To make changes to additional placements and to the settings for any package, download a blank template file that includes tabs for each type of campaign component, enter or paste new or updated settings into the template file, and then upload the populated template to make the changes. For instructions, see "[Review and Edit Campaign Component Settings Using Spreadsheets](/help/dsp/campaign-management/campaign-components-review-edit.md)."
 
 Editable fields include the placement names, statuses, bids, budgets, pacing strategies, and frequency caps.
 
@@ -62,6 +62,9 @@ Editable fields include the placement names, statuses, bids, budgets, pacing str
 
     The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
 
+
+<!-- I don't think I need this here
+
 ## Download a Settings Template {#download-template}
 
 Download a blank template file that includes tabs for each type of campaign component. You can later add rows to any tab on the template and [upload the edited file](##upload-package-settings) to make changes. 
@@ -72,13 +75,13 @@ Download a blank template file that includes tabs for each type of campaign comp
 
    The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
 
+-->
+
 ## Upload Placement Settings {#upload-placement-settings}
 
-You can upload settings for your placements, and for the ads and packages associated with the placements, in a populated template file, but not in an edited settings file.
+You can upload settings for your placements, and for the ads and packages associated with the placements, in a setup file.
 
-1. [Download a settings template](#download-template), enter or paste package, placement, and/or ad settings on the relevant tabs of the template, and then save the file to your device or network.
-
-   Editable fields include most settings that are normally editable. See the available settings below.
+1. In the main menu, click **[!UICONTROL Campaigns]**.
 
 1. Click the name of the campaign.
 
@@ -91,31 +94,6 @@ You can upload settings for your placements, and for the ads and packages associ
     1. Click **[!UICONTROL Upload]**.
 
 1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
-
-
-<!-- EDIT AND ADD BACK LATER
-
-## Upload Settings for One or More Placements
-
-1. In the main menu, click **[!UICONTROL Campaigns]**.
-
-1. Click the name of the campaign.
-
-1. In the submenu, click **[!UICONTROL Placements]**.
-
-1.  Select the check box next to each placement whose settings you want to upload.
-
-1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Upload Edit in Excel Sheet]**.
-
-1. In the [!UICONTROL Edit in Excel] dialog:
-
-    1. Either drag and drop a file into the box, or click inside the box to select a file from your device or network.
-
-    1. Click **[!UICONTROL Upload]**.
-
-1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
-
--->
 
 ## Placement Setting Columns in Downloaded/Uploaded Spreadsheets{#qa-sheet-columns}
 
