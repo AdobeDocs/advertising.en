@@ -1,6 +1,6 @@
 ---
 title: Review and Edit Ad Details Using Spreadsheets
-description: Learn how to review ad settings and associated placements, and to upload changes to ads and pixels, using spreadsheets.
+description: Learn how to review ad settings using spreadsheets.
 feature: DSP Ads
 exl-id: a223d4e1-2264-49fa-8579-817e7ea6ea56
 ---
