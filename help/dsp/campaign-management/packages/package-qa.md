@@ -6,13 +6,51 @@ exl-id: bf52de27-db48-40e2-bb55-a2c27a1924ad
 ---
 # Review and Edit Package Settings Using Spreadsheets
 
-You can download the settings for one or more packages in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. The spreadsheet includes a separate tab with flight information. You can then make changes to select fields in both tabs and upload the data back to DSP all at once. Editable fields include most settings that are normally editable.
+You can download the settings for one or more packages in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. The spreadsheet includes a separate tab with flight information.
+
+To update multiple settings at once, you can do either of the following:
+
+* Make changes to select fields, save the file, and upload the edited file back to DSP.
+
+* To make changes to additional packages, and to settings for any placement or ad, download a blank template file that includes tabs for each type of campaign component, enter or paste new or updated settings into the template file, and then upload the populated template to make the changes. For instructions, see "[XXXXXXXXXXXXXXX]()."
+
+Editable fields include most settings that are normally editable.
 
 >[!TIP]
 >
->To edit more fields for one or more packages, see "[Edit Packages](/help/dsp/campaign-management/packages/package-edit.md)."
+>To quickly edit more fields for one or more packages, see "[Edit Packages](/help/dsp/campaign-management/packages/package-edit.md)."
+
+## Download Settings for All Packages in a Campaign
+
+When you download settings for all packages in a campaign, the spreadsheet includes separate tabs for the package settings and for the flight information. You can optionally include settings for the placements and ads that are associated with the packages; additional tabs are included for placement and ad settings.
+
+1. In the main menu, click **[!UICONTROL Campaigns]**.
+
+1. Click the name of the campaign.
+
+1. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download QA Excel]**.
+
+1. In the [!UICONTROL QA Excel Download] dialog box, deselect any campaign components whose settings you want to exclude from the downloaded file, and then click **[!UICONTROL Download]**.
+
+  By default, settings for all placements and ads associated with the packages are selected.
+  
+  A notification message indicates when the file is available to download.
+  
+1. To download the file, do either of the following:
+  
+   * In the notification message, click **[!UICONTROL Download].**
+   
+   * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
+   
+     The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+
+>[!NOTE]
+>
+>You can't edit and re-upload campaign-level QA files. To make changes to the campaign component settings in these files, download a separate settings template file (setup file), enter or paste rows from the QA file into the template and save the file, and then upload the populated template file.
 
 ## Download Settings for One or More Packages
+
+When you download settings for specific packages, the spreadsheet includes separate tabs for the package settings and for the flight information.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -20,11 +58,49 @@ You can download the settings for one or more packages in XLSX ([!DNL Microsoft 
 
 1. In the submenu, click **[!UICONTROL Packages]**.
 
-1.  Select the check box next to each package whose settings you want to download.
+1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Setup Excel]**.
 
-1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Download Edit in Excel Sheet]**.
+   A notification message indicates when the file is available to download.
 
-  The file is automatically saved to the browser's Download folder. See "[Package Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns-packages)" for a list of the included columns.
+1. To download the file, do either of the following:
+
+   * In the notification message, click **[!UICONTROL Download].**
+   
+   * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
+   
+     The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+
+## Download a Settings Template {#download-template}
+
+Download a blank template file that includes tabs for each type of campaign component. You can later add rows to any tab on the template and [upload the edited file](##upload-package-settings) to make changes. 
+
+1. Click the name of the campaign.
+
+1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Setup Excel]**.
+
+   The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+
+## Upload Package Settings {#upload-package-settings}
+
+You can upload settings for your packages, including the placements and ads associated with the packages, in a populated template file, but not in an edited settings file.
+
+1. [Download a settings template](#download-template), enter or paste package, placement, and/or ad settings on the relevant tabs of the template, and then save the file to your device or network.
+
+   Editable fields include most settings that are normally editable. See the available settings below.
+
+1. Click the name of the campaign.
+
+1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Setup Excel]**.
+
+1. In the [!UICONTROL Upload Setup Excel] dialog:
+
+    1. Either drag and drop a file into the box, or click inside the box to select a file from your device or network.
+
+    1. Click **[!UICONTROL Upload]**.
+
+1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
+
+<!--  EDIT AND ADD BACK LATER
 
 ## Upload Settings for One or More Packages
 
@@ -45,6 +121,8 @@ You can download the settings for one or more packages in XLSX ([!DNL Microsoft 
     1. Click **[!UICONTROL Upload]**.
 
 1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
+
+-->
 
 ## Package Setting Columns in Downloaded/Uploaded Spreadsheets{#qa-sheet-columns-packages}
 
@@ -91,7 +169,7 @@ You can download the settings for one or more packages in XLSX ([!DNL Microsoft 
 | [!UICONTROL Custom Flights] | [!UICONTROL Automatic Budget Rollover] | (Available only when the [!UICONTROL Activate Custom Flighting] option is enabled) Whether or not to automatically add any remaining budget from the previous flight to the existing budget for the next flight: *T* (true) or *F* (false). | Yes |
 | [!UICONTROL Error] | [!UICONTROL Error] | Any relevant errors. | &mdash; |
 
-### [!UICONTROL Package_Flights] Tab
+### [!UICONTROL Package_Flights] Tab {#qa-sheet-columns-package-flights}
 
 | Section | Column | Description | Editable? |
 |---------|--------|-------------|-----------|
