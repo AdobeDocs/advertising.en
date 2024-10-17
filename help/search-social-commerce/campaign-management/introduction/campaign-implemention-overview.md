@@ -62,7 +62,7 @@ This page includes information about all account types, including how to set up 
 
 1. (Advertisers with Adobe Analytics) [Integrate Adobe Advertising and Analytics](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html) so that they can exchange data.
 
-1. (To allow Search, Social, & Commerce to optimize bids and/or campaign budgets; [supported campaign types](/help/search-social-commerce/introduction/supported-inventory.md) only) [Assign the campaign to a portfolio](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md).
+1. (To allow Search, Social, & Commerce to optimize bids, campaign budgets, and/or campaign bid strategy targets; [supported campaign types](/help/search-social-commerce/introduction/supported-inventory.md) only) [Assign the campaign to a portfolio](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md).
 
    If the portfolio isn't already launched (optimizing bids and/or budgets), then let the optimization capability gather enough data that it can build cost and revenue models so you can establish the baseline performance for the portfolio before you launch it.
 

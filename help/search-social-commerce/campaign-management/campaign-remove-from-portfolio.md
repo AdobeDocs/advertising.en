@@ -6,7 +6,7 @@ feature: Search Campaign Management
 ---
 # Remove campaigns from a portfolio
 
-When you remove a campaign from a portfolio, Search, Social, & Commerce can't optimize bids and budgets for the keywords and ads in that campaign.
+When you remove a campaign from a portfolio, Search, Social, & Commerce can't optimize bids, campaign budgets, and bid strategy targets for that campaign.
 
 The action is logged in the portfolio's change history.
 

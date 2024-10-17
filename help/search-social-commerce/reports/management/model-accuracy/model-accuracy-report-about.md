@@ -6,7 +6,7 @@ feature: Search Reports, Search Model Accuracy Reports
 ---
 # About model accuracy reports
 
-Model accuracy reports indicate the accuracy of the cost and revenue models that are used to optimize bids, budgets, and targets for a portfolio, as appropriate for the optimization type.
+Model accuracy reports indicate the accuracy of the cost and revenue models that are used to optimize bids, campaign budgets, and bid strategy targets for a portfolio, as appropriate for the optimization type and campaign bid strategy.
 
 Inaccuracies can indicate performance issues, and you may need to adjust portfolio settings as a result. For more information about troubleshooting forecast inaccuracies, see "FAQs About Portfolios" in the Portfolios section of the Optimization Guide, which is available from within Search, Social, & Commerce.<!-- verify convention for referencing Optimization Guide here -->
 
