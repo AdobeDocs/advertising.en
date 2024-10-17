@@ -46,7 +46,7 @@ feature: Search Introduction
 
 **conversion tracking:** Conversion tracking uses cookies to track a) clicks on an advertiser's ads on the ad networks and b) the resulting transactions on the advertiser's website.
 
-**cost accuracy:** (Advertisers with portfolios) The actual spend for a portfolio divided by the forecasted spend.
+**cost accuracy:** (Advertisers with portfolios) The actual spend for a portfolio divided by the forecasted spend. [Model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the cost models that are used for optimization.
 
 **cost model:** (Advertisers with portfolios) Search, Social, & Commerce technology that predicts cost volume, the bid required to win each position or placement, and the CPC (search) or CPM (display) for each bid unit using historical data and mathematical forecasting techniques.
 
@@ -84,6 +84,9 @@ feature: Search Introduction
 
 ## G-H {#g-h}
 
+**half-life:** The time required for a quantity to decrease to half of its initial value. For each portfolio, you can specify half-lives to indicate how long data is relevant for cost models and revenue models. 
+See "cost model half-life" and "revenue model half-life."
+
 ## I-J {#i-j}
 
 **impression:** A single display of an ad on a webpage, mobile app, or other delivery medium. A user doesn't have to view or click the ad for it to count as an impression.
@@ -114,13 +117,15 @@ feature: Search Introduction
 
 **minimum bid:** 1) The minimum amount to pay per impression or per 1000 impressions. 2) For search keywords, the minimum bid required for a given keyword based on its quality score. The minimum bid is usually the least amount you can pay per click in order for your keyword to show ads.
 
+**model accuracy:** (Advertisers with portfolios) The percentage of accuracy of the cost models and revenue models that are used for optimizing bids, budgets, and targets for a portfolio. See "cost model," "cost accuracy," "revenue model," and "revenue accuracy."  [Model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the cost and revenue models.
+
 ## O-P {#o-p}
 
-**objective:** (Advertisers with portfolios) A goal which a client sets to meet its business objective for a specific portfolio or a display campaign, such as to maximize profits or to meet a specific sales target. An objective consists of the conversion metrics to be tracked and optimized for the portfolio, and the relative weights of those metrics.
+**objective:** (Advertisers with portfolios) A goal which a client sets to meet its business objective for a specific portfolio or a display campaign, such as to maximize profits or to meet a specific sales target. An objective consists of the conversion metrics to be tracked and optimized for the portfolio, and the relative weights of those metrics. The total weighted conversions for the portfolio are calculated are referred to as the "objective value."
 
 **objective value:** (Advertisers with portfolios) The total weighted conversions as calculated according to the portfolio's current objective, including:
 
-* all conversions, taking into account a) the weights assigned to each conversion in the portfolio's objective function and, when applicable, b) the view-through weight for display view-throughs.
+* all conversions, taking into account a) the weights assigned to each conversion in the portfolio's objective and, when applicable, b) the view-through weight for display view-throughs.
 
 * all clicks, which the optimization capability considers a single conversion and is weighted according to the click value for the objective.
 
@@ -152,7 +157,7 @@ This has the same value as the legacy column "Weighted Revenue."
 
 **return on investment:** (ROI) Revenue minus costs.
 
-**revenue accuracy:** (Advertisers with portfolios) The actual revenue for a portfolio divided by the forecasted revenue.
+**revenue accuracy:** (Advertisers with portfolios) The actual revenue for a portfolio divided by the forecasted revenue. [Model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the revenue models that are used for optimization.
 
 **revenue model:** (Advertisers with portfolios) Search, Social, & Commerce technology that predicts the conversion rate and estimated return for each bid unit, based on the click data (search and social) or impression data (display) and the advertiser's conversion data.
 
@@ -189,6 +194,8 @@ This has the same value as the legacy column "Weighted Revenue."
 **view-through weight:** (Display and social campaigns only) An advertiser-level setting that specifies the weight to attribute to a view-through conversion relative to the weight attributed to a click-based conversion, as a percentage.
 
 ## W-X {#w-x}
+
+**weighted objective:** See "objective."
 
 **weighted revenue:** See "objective value."
 
