@@ -71,7 +71,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
     
     * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)" for more information. Data isn't available for placements that target universal IDs.
 <!--    
-    * **[!UICONTROL Path to Conversion]:** Use this report to see the sequence of interaction points in the same household that lead to each selected conversion (in sequence) in the specified data range.<!-- what relation is the look-back window to the report date range? --> Up to the 10 most recent interaction points are included. The path rows are ordered by the number of conversions. 
+    * **[!UICONTROL Path to Conversion]:** Use this report to see the sequence of interaction points in the same household that lead to each selected conversion in the specified data range.<!-- what relation is the look-back window to the report date range? --> Up to the 10 most recent interaction points are included. The path rows are ordered by the number of conversions. 
 
    
     * **[!UICONTROL Path Length]:** Use this report to see the number of conversions driven by path length (interaction points) 
