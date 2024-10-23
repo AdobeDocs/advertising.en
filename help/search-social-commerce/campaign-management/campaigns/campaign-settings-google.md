@@ -374,4 +374,3 @@ To create a custom conversion goal, click **[!UICONTROL + Add custom goal]**, en
 >[!MORELIKETHIS]
 >
 >* [Manage campaigns](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
-
