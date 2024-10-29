@@ -8,7 +8,7 @@ exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
 
 **[!UICONTROL Name]:** The report name. The maximum length is 180 characters.
 
-**[!UICONTROL Report Type]:** The type of report: *[!UICONTROL Custom]* (which includes most available options), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, or *[!UICONTROL Household Conversions]*.
+**[!UICONTROL Report Type]:** The type of report: *[!UICONTROL Custom]* (which includes most available options), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, *[!UICONTROL Household Conversions]*, *[!UICONTROL Path to Conversions Beta]*, *[!UICONTROL Path Length Beta]*, or *[!UICONTROL Time to Conversion Beta]*.
 
 ## [!UICONTROL Report Range] Section
 
@@ -56,9 +56,7 @@ This section determines the dates on which the report is run. To set up the date
 
 ## [!UICONTROL Apply Filters] Section
 
-**[!UICONTROL Add Filters]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report. The  available filters vary by report type and may include: *[!UICONTROL Account]*\*, *[!UICONTROL Ad Type]*, *[!UICONTROL Ads]*, *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Country]*, * *[!UICONTROL Package]*, *[!UICONTROL Placement]*, *[!UICONTROL Video]*, and *[!UICONTROL Video Duration]*.
-
-\* *[!UICONTROL Account]* is available for the following report types only when your organization is configured for [cross-account reporting](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], and [!UICONTROL Conversion]. Contact your Adobe Account Team for more information about cross-account reporting.
+**[!UICONTROL Filter by]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report. The  available filters vary by report type and may include: *[!UICONTROL Account]*\*, *[!UICONTROL Ad Type]*, *[!UICONTROL Ads]*, *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Country]*, * *[!UICONTROL Package]*, *[!UICONTROL Placement]*, *[!UICONTROL Video]*, and *[!UICONTROL Video Duration]*.
 
 To apply one or more filters, do the following:
 
@@ -66,17 +64,20 @@ To apply one or more filters, do the following:
 * (Optional) Add additional criteria to the filter.
 * (Optional) Add additional filters, each with one or more criteria.
 
-**[!UICONTROL Include data from Adobe Advertising SSC]:** Includes ads in Advertising Search, Social, & Commerce in the report results.
+\* *[!UICONTROL Account]* is available for the following report types only when your organization is configured for [cross-account reporting](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], and [!UICONTROL Conversion]. Contact your Adobe Account Team for more information about cross-account reporting.
+
+**[!UICONTROL Include data from Adobe Advertising SSC]:** (Path to Conversion, Path Length, and Time to Conversion reports only) Includes data for clicks on search ads from Advertising Search, Social, & Commerce.
 
 ## [!UICONTROL Build Your Report] Section
 
-**[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. The available columns vary by report, and all unavailable metrics are disabled. The available data categories include:
+**[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. The available columns vary by report, and all unavailable metrics are disabled. The available data categories may include:
 
 * [!UICONTROL Dimensions]
 
   >[!NOTE]
   >
-  > The [!UICONTROL Household Reach & Frequency] report can include only one dimension.
+  > The [!UICONTROL Household Reach & Frequency] and [!UICONTROL Path to Conversion] reports can include only one dimension.
+  > The [!UICONTROL Path Length] and [!UICONTROL Time to Conversion] reports don't include dimensions.
 
 * [!UICONTROL Metrics]
 
@@ -130,7 +131,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
  See also "[How Attribution Rules Are Calculated for Adobe Advertising](/help/search-social-commerce/reports/attribution-rules.md)."
 
-* **Lookback:** ([!UICONTROL Household Conversion] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns; advertisers with Adobe Advertising conversion tracking only) Within the report, the maximum number of days after an impression event in which a conversion event can be attributed to it. The default is *[!UICONTROL 30 days]*, and the maximum is 92 days.
+* **Lookback:** ([!UICONTROL Household Conversion] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns, and [!UICONTROL Path to Conversion], [!UICONTROL Path Length], or [!UICONTROL Time to Conversion] reports with [!UICONTROL Conversion Metrics] columns only; advertisers with Adobe Advertising conversion tracking only) Within the report, the maximum number of days after an impression event <!-- VERIFY THIS:  or click event for [!UICONTROL Path to Conversion], [!UICONTROL Path Length], or [!UICONTROL Time to Conversion] reports --> in which a conversion event can be attributed to it. The default is *[!UICONTROL 30 days]*, and the maximum is 92 days.
 
 **[!UICONTROL Paths as Columns]:**  (All [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], and [!UICONTROL Site] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns) Which types of conversions to report when prior events occurred on the same device. You can include up to three types. For each selected type, a separate column is included for each conversion metric and is appended with the specified suffix ([!UICONTROL (tl)], [!UICONTROL (ct)], or [!UICONTROL (vt)]):
 
