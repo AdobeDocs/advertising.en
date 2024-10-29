@@ -1,25 +1,27 @@
 ---
-title: Review and Edit Campaign Component Settings Using Spreadsheets
-description: Learn how to review and edit key package, placement, and ad settings using spreadsheets.
+title: Review and Edit Campaign Component Settings Using Bulksheets
+description: Learn how to review and edit key package, placement, and ad settings in bulk using spreadsheets.
 feature: DSP Placements
 ---
-# Review and Edit Campaign Component Settings Using Spreadsheets
+# Review and Edit Campaign Component Settings Using Bulksheets
+
+<!-- Update headers as needed once the original download become editable and we call everything bulksheets. -->
 
 You can download the settings for the packages, placements, and ads in a single campaign in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. By default, the downloaded file includes separate tabs for package settings, package flight information, placement settings, and placement ad schedules. You can optionally exclude the settings for some campaign component types.
 
-To update multiple settings at once, you can download a blank template file that includes tabs for each type of campaign component, enter or paste new or updated settings into the template file, and then upload the populated template to make the changes. Editable fields include most settings that are normally editable.
+To update multiple settings at once, upload a valid bulksheet file with the changes. To create the bulksheet, you can download a blank bulksheet template that includes tabs for each type of campaign component, enter or paste new or updated settings into the template file, and then save the file to upload it. Editable fields include most settings that are normally editable.
 
 >[!NOTE]
 >
->You can also download and edit the settings for only specific packages and specific placements. See "[Review and Edit Package Settings Using Spreadsheets](/help/dsp/campaign-management/packages/package-qa.md)" and "[Review and Edit Placement Settings Using Spreadsheets](/help/dsp/campaign-management/placements/placement-qa.md)."
+>You can also download and edit the settings for only specific packages and specific placements. See "[Review and Edit Package Settings Using Bulksheets](/help/dsp/campaign-management/packages/package-qa.md)" and "[Review and Edit Placement Settings Using Bulksheets](/help/dsp/campaign-management/placements/placement-qa.md)."
 
 ## Download Settings for the Packages, Placements, and Ads in a Campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download QA Excel]**.
+1. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download QA sheet]**.
 
-1. In the [!UICONTROL QA Excel Download] dialog box, deselect any campaign components whose settings you want to exclude from the downloaded file, and then click **[!UICONTROL Download]**.
+1. In the [!UICONTROL QA Sheet Download] dialog box, deselect any campaign components whose settings you want to exclude from the downloaded file, and then click **[!UICONTROL Download]**.
 
   By default, settings for all campaign components are selected.
   
@@ -35,23 +37,25 @@ To update multiple settings at once, you can download a blank template file that
 
 >[!NOTE]
 >
->You can't edit and re-upload campaign-level QA files. To make changes to the campaign component settings in these files, [download a separate settings template file (setup file)](#download-template), enter or paste rows from the QA file into the template and save the file, and then [upload the populated template file](#upload-settings-campaign-components).
+>You can't edit and re-upload campaign-level QA files. To make changes to the campaign component settings in these files, [download a separate settings template file (setup file)](#download-template), enter or paste rows from the QA file into the template and save the file, and then [upload the populated template file](#upload-bulksheet-campaign-components).
 
-## Download a Settings Template for a Campaign {#download-template}
+## Download a Bulksheet Template for a Campaign {#download-template}
 
-Download a blank template file that includes tabs for each type of campaign component. You can later add rows to any tab on the template and [upload the edited file](##upload-settings-campaign-components) to make changes to the campaign components. 
+Download a blank bulksheet template that includes tabs for each type of campaign component. You can later add rows to any tab on the template and [upload the edited file](##upload-bulksheet-campaign-components) to make changes to the campaign components. 
 
 1. Click the name of the campaign.
 
-1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Setup Excel]**.
+1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
+
+1. In the [!UICONTROL Upload Bulksheet] dialog, click **[!UICONTROL Bulksheet Template].**
 
    The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
 
-## Upload Package, Placement, and Ad Settings for a Campaign{#upload-settings-campaign-components}
+## Upload a Bulksheet with Package, Placement, and Ad Settings for a Campaign{#upload-bulksheet-campaign-components}
 
-Upload settings for packages, placements, and ads in a single campaign all at once in a populated template file (setup file).
+Upload settings for packages, placements, and ads in a single campaign all at once in a populated bulksheet.
 
-1. [Download a settings template](#download-template), enter or paste package, placement, and/or ad settings on the relevant tabs of the template, and then save the file to your device or network.
+1. [Download a bulksheet template](#download-template) if needed, enter or paste package, placement, and/or ad settings on the relevant tabs of a bulksheet template, and then save the file to your device or network.
 
    See the available settings below.
 
@@ -59,9 +63,9 @@ Upload settings for packages, placements, and ads in a single campaign all at on
 
 1. Click the name of the campaign.
 
-1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Setup Excel]**.
+1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
 
-1. In the [!UICONTROL Upload Setup Excel] dialog:
+1. In the [!UICONTROL Upload Bulksheet] dialog:
 
     1. Either drag and drop a file into the box, or click inside the box to select a file from your device or network.
 
@@ -146,5 +150,5 @@ Upload settings for packages, placements, and ads in a single campaign all at on
 
 >[!MORELIKETHIS]
 >
->* [Review and Edit Package Settings Using Spreadsheets](/help/dsp/campaign-management/packages/package-qa.md)
->* [Review and Edit Placement Settings Using Spreadsheets](/help/dsp/campaign-management/placements/placement-qa.md)
+>* [Review and Edit Package Settings Using Bulksheets](/help/dsp/campaign-management/packages/package-qa.md)
+>* [Review and Edit Placement Settings Using Bulksheets](/help/dsp/campaign-management/placements/placement-qa.md)

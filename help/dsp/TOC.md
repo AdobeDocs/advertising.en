@@ -40,12 +40,12 @@ index: yes
     + [Archive or Unarchive a Campaign](/help/dsp/campaign-management/campaigns/campaign-archive-unarchive.md)
     + [View the Change Log for a Campaign](/help/dsp/campaign-management/campaigns/campaign-change-log.md)
     + [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
-    + [Review and Edit Campaign Component Settings Using Spreadsheets](/help/dsp/campaign-management/campaign-components-review-edit.md)
+    + [Review and Edit Campaign Component Settings Using Bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)
     + [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
   + Packages {#packages}
     + [About Package Management](/help/dsp/campaign-management/packages/package-about.md)
     + [Create a Package](/help/dsp/campaign-management/packages/package-create.md)
-    + [Review and Edit Package Settings Using Spreadsheets](/help/dsp/campaign-management/packages/package-qa.md)
+    + [Review and Edit Package Settings Using Bulksheets](/help/dsp/campaign-management/packages/package-qa.md)
     + [Edit a Package](/help/dsp/campaign-management/packages/package-edit.md)
     + [Duplicate a Package](/help/dsp/campaign-management/packages/package-duplicate.md)
     + [Attach a Placement to a Package](/help/dsp/campaign-management/packages/package-attach-placement.md)
@@ -56,7 +56,7 @@ index: yes
   + Placements {#placements}
     + [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
     + [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
-    + [Review and Edit Placement Settings Using Spreadsheets](/help/dsp/campaign-management/placements/placement-qa.md)
+    + [Review and Edit Placement Settings Using Bulksheets](/help/dsp/campaign-management/placements/placement-qa.md)
     + [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
     + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Manage Bid Multipliers for Placements](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md)

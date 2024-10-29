@@ -1,10 +1,10 @@
 ---
-title: Review and Edit Placement Settings Using Spreadsheets
-description: Learn how to review and edit key placement settings using spreadsheets.
+title: Review and Edit Placement Settings Using Bulksheets
+description: Learn how to review and edit key placement settings in bulk using spreadsheets.
 feature: DSP Placements
 exl-id: 2de4407d-eb3b-44ff-893c-9fdf6921d4b3
 ---
-# Review and Edit Placement Settings Using Spreadsheets
+# Review and Edit Placement Settings Using Bulksheets
 
 You can download the settings for one or more placements, or for all placements in a campaign, in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. Use this feature to quickly review such details as:
 
@@ -14,9 +14,9 @@ You can download the settings for one or more placements, or for all placements 
 
 To update multiple settings at once, you can do either of the following:
 
-* Make changes to select fields, save the file, and upload the edited file back to DSP.
+* Make changes to select fields, save the file, and upload the edited bulksheet file back to DSP.
 
-* To make changes to additional placements and to the settings for any package, download a blank template file that includes tabs for each type of campaign component, enter or paste new or updated settings into the template file, and then upload the populated template to make the changes. For instructions, see "[Review and Edit Campaign Component Settings Using Spreadsheets](/help/dsp/campaign-management/campaign-components-review-edit.md)."
+* To make changes to additional placements and to the settings for any package, download a blank bulksheet template that includes tabs for each type of campaign component, enter or paste new or updated settings into the template file, and then upload the file to make the changes. For instructions, see "[Review and Edit Campaign Component Settings Using Bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)."
 
 Editable fields include the placement names, statuses, bids, budgets, pacing strategies, and frequency caps.
 
@@ -50,11 +50,11 @@ Editable fields include the placement names, statuses, bids, budgets, pacing str
 
 1.  Select the check box next to each placement whose settings you want to download.
 
-1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Download Edit in Excel Sheet]**.
+1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]**.
 
-    A notification message indicates when the file is available to download.
+    A notification message indicates when the bulksheet file is available to download.
 
-1. To download the file, do either of the following:
+1. To download the bulksheet, do either of the following:
 
     * In the notification message, click **[!UICONTROL Download].**
 
@@ -65,29 +65,29 @@ Editable fields include the placement names, statuses, bids, budgets, pacing str
 
 <!-- I don't think I need this here
 
-## Download a Settings Template {#download-template}
+## Download a Bulksheet Template {#download-template}
 
-Download a blank template file that includes tabs for each type of campaign component. You can later add rows to any tab on the template and [upload the edited file](##upload-package-settings) to make changes. 
+Download a blank bulksheet template that includes tabs for each type of campaign component. You can later add rows to any tab on the template and [upload the edited file](##upload-bulksheet-package) to make changes. 
 
 1. Click the name of the campaign.
 
-1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Setup Excel]**.
+1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]**.
 
    The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
 
 -->
 
-## Upload Placement Settings {#upload-placement-settings}
+## Upload a Bulksheet with Placement Settings {#upload-bulksheet-placement}
 
-You can upload settings for your placements, and for the ads and packages associated with the placements, in a setup file.
+You can upload settings for your placements, and for the ads and packages associated with the placements, in a bulksheet file.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
 1. Click the name of the campaign.
 
-1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Setup Excel]**.
+1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
 
-1. In the [!UICONTROL Upload Setup Excel] dialog:
+1. In the [!UICONTROL Upload Bulksheet] dialog:
 
     1. Either drag and drop a file into the box, or click inside the box to select a file from your device or network.
 
@@ -170,7 +170,7 @@ You can upload settings for your placements, and for the ads and packages associ
 | [!UICONTROL Ads] | [!UICONTROL Ad Names] | The names of any ads attached to the placement, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Ads] | [!UICONTROL Attached Ad ID] | The unique DSP-generated Ad IDs of any ads attached to the placement, separated by semi-colons. To download a list of ad names and associated Ad IDs from the [!UICONTROL Ads] view, create a custom view that includes the [!UICONTROL Ad ID] metric, and then [export the data](/help/dsp/campaign-management/reports/campaign-export-data.md). | Yes |
 
-### Placement-level Spreadsheets
+### Placement-level Bulksheets
 
 | Column | Description | Editable? |
 |--------|-------------|-----------|
@@ -192,6 +192,6 @@ You can upload settings for your placements, and for the ads and packages associ
 
 >[!MORELIKETHIS]
 >
->* [Review and Edit Campaign Component Settings Using Spreadsheets](/help/dsp/campaign-management/campaign-components-review-edit.md)
+>* [Review and Edit Campaign Component Settings Using Bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)
 >* [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
