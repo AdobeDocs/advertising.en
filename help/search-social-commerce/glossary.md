@@ -117,7 +117,7 @@ See "cost model half-life" and "revenue model half-life."
 
 **minimum bid:** 1) The minimum amount to pay per impression or per 1000 impressions. 2) For search keywords, the minimum bid required for a given keyword based on its quality score. The minimum bid is usually the least amount you can pay per click in order for your keyword to show ads.
 
-**model accuracy:** (Advertisers with portfolios) The percentage of accuracy of the cost models and revenue models that are used for optimizing bids, campaign budgets, and bid strategy targets for a portfolio. See "cost model," "cost accuracy," "revenue model," and "revenue accuracy."  [Model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the cost and revenue models.
+**model accuracy:** (Advertisers with portfolios) The percentage of accuracy of the cost models and revenue models that are used for optimizing bids, campaign budgets, and bid strategy targets for a portfolio. See "cost model," "cost accuracy," "revenue model," and "revenue accuracy."
 
 ## O-P {#o-p}
 
@@ -157,7 +157,7 @@ This has the same value as the legacy column "Weighted Revenue."
 
 **return on investment:** (ROI) Revenue minus costs.
 
-**revenue accuracy:** (Advertisers with portfolios) The actual revenue for a portfolio divided by the forecasted revenue. [Model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the revenue models that are used for optimization.
+**revenue accuracy:** (Advertisers with portfolios) The actual revenue for a portfolio divided by the forecasted revenue. [Model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the revenue models that are used for optimization, and the [[!UICONTROL Model Accuracy]insight](/help/search-social-commerce/advertising-insights/insight-about.md) includes more details, in addition to recommendations to improve model accuracy.
 
 **revenue model:** (Advertisers with portfolios) Search, Social, & Commerce technology that predicts the conversion rate and estimated return for each bid unit, based on the click data (search and social) or impression data (display) and the advertiser's conversion data.
 
