@@ -58,6 +58,8 @@ Diagnostic reports can help you diagnose issues with placement setup and pacing 
 
         1. In the upper right, click **[!UICONTROL Non Bids]**.
 
+        1. (Optional) To filter the placement by a specific private deal target, select the deal. <!-- Admin users only: Optionally filter the deal by one or more regions ([!UICONTROL US-EAST], [!UICONTROL US-WEST]) [!UICONTROL EU-WEST], [!UICONTROL HKG]) by selecting the regions. -->
+
         1. (Optional) To change the date range, click in the date field and select a different date or date range.
 
 <!-- Later, add link to >* Definitions for NBRs (Reading No Bid Reports (NBRs)) -->

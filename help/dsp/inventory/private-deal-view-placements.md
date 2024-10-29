@@ -16,6 +16,8 @@ You can open a list of all placements and ads associated with a private deal. Yo
 
 1. (Optional) Do any of the following:
 
+   * To see the reasons that a placement hasn't been able to bid on the private deal, hold the cursor over the placement row and click **[!UICONTROL Non bid reasons]**.
+
    * To edit the settings for a placement, hold the cursor over the placement row and click **[!UICONTROL Edit]**. [Edit the placement settings](/help/dsp/campaign-management/placements/placement-settings.md), and then click **[!UICONTROL Update placement]**.
 
    * To remove the deal from a placement's inventory targets, hold the cursor over the placement row and click **[!UICONTROL More]** > **[!UICONTROL Detach Placement]**. In the confirmation message, click **[!UICONTROL Yes]**.
@@ -29,3 +31,4 @@ You can open a list of all placements and ads associated with a private deal. Yo
 >* [About Private Inventory](private-inventory-about.md)
 >* [Specify Placements and Ads for a Deal ID](deal-id-attach-placements.md)
 >* [View a Detailed Report for a Deal](deal-view-report.md)
+>* [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
