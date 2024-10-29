@@ -66,6 +66,8 @@ To apply one or more filters, do the following:
 * (Optional) Add additional criteria to the filter.
 * (Optional) Add additional filters, each with one or more criteria.
 
+**[!UICONTROL Include data from Adobe Advertising SSC]:** Includes ads in Advertising Search, Social, & Commerce in the report results.
+
 ## [!UICONTROL Build Your Report] Section
 
 **[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. The available columns vary by report, and all unavailable metrics are disabled. The available data categories include:
