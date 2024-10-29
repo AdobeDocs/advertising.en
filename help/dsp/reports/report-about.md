@@ -12,7 +12,7 @@ Custom reports allow you to customize the content and delivery of your report da
 
 * Choose from pre-configured report templates, and optionally customize them further.
 
-You can generate reports once, or schedule them to be generated daily, weekly, or monthly at 03:00 in the specified time zone according to specified criteria (such as every 15 days or on the 1st of each month). Once a report is generated, you can download it from [!UICONTROL Reports] > [!UICONTROL Custom Reports] or from linked [report destinations](/help/dsp/reports/report-destinations/report-destination-about.md) of the following types:
+You can generate reports once, or schedule them daily, weekly, or monthly at 03:00 in the specified time zone according to specified criteria (such as every 15 days or on the 1st of each month). Once a report is generated, you can download it from [!UICONTROL Reports] > [!UICONTROL Custom Reports] or from linked [report destinations](/help/dsp/reports/report-destinations/report-destination-about.md) of the following types:
 
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
@@ -25,7 +25,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
 ## Available Report Types
 
-* **[!UICONTROL Custom]:** This report is a blank template you can use to create your own custom report using most dimensions and metrics. [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], and [!UICONTROL Site] reports are variations of this template with pre-selected columns and dimensions for their respective use cases.
+* **[!UICONTROL Custom]:** This report is a blank template that you can use to create your own custom report using most dimensions and metrics. [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], and [!UICONTROL Site] reports are variations of this template with pre-selected columns and dimensions for their respective use cases.
 
 * Pre-configured Report Templates
 
@@ -43,15 +43,15 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
 
        >[!NOTE]
        >
-       >* Data is available after March 1, 2019.
+       >* Data is available after 1 March 1 2019.
        >* Frequency is estimated based on a sampling of data.
        >* For some inventory, publishers don't pass along a device identifier, which prevents frequency tracking. This report includes only impressions for which a device identifier was available.
 
-    * **[!UICONTROL Frequency (by App/Site)]:** Use this report to understand how many unique users were reached by app or by site. You can also see how many unique users were reached via only a particular app or site ("distinct unique users").
+    * **[!UICONTROL Frequency (by App/Site)]:** Use this report to understand how many unique users your ads reached by app or by site. You can also see how many unique users your ads reaced reached via only a particular app or site ("distinct unique users").
 
        >[!NOTE]
        >
-       >* Data is available after November 15, 2018.
+       >* Data is available after 15 November 15 2018.
        >* For some private inventory, publishers don't pass along a device identifier, which prevents frequency tracking.
 
     * **[!UICONTROL Geo]**: Use this pre-populated template to see key metrics by geographic dimensions.
@@ -63,7 +63,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
        >[!NOTE]
        >
        >* This report is intended to show how different targeted segments perform. It uses segment membership data. When an impression is served to a person or device belonging to two or more targeted segments, this report includes one row for each segment. For this reason, totals in this report may not match actual delivery.
-       >* Conversion metrics and custom goal data for segments is available after August 2, 2019. All other data for segments is available beginning after June 1, 2018.
+       >* Conversion metrics and custom goal data for segments are available after 2 August 2019. All other data for segments is available beginning after 1 June 1 2018.
 
     * **[!UICONTROL Site]:** By default, includes standard metrics, total media net spend, and total billable net spend by site.
 
@@ -71,7 +71,7 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
     
     * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)" for more information. Data isn't available for placements that target universal IDs.
   
-    * **[!UICONTROL Path to Conversion Beta]:** (Beta feature) Use this report to see the sequence of interaction points in the same household that lead to each of the selected conversion metrics in the specified data range, using a specified lookback period between the first interaction and a conversion. The report can include one dimension:
+    * **[!UICONTROL Path to Conversion Beta]:** (Beta feature) Use this report to identify how to optimize budgets and personalize ads based on top-performing ad interaction sequences. The report shows the sequence of interaction points in the same household that lead to each of the selected conversion metrics in the specified data range. The report uses a specified lookback period between the first interaction and a conversion and can include one dimension:
     
       * [!UICONTROL Channel Assist Type]: Shows how the following  marketing channels have assisted the conversion process: [!UICONTROL Audio Impression], [!UICONTROL CTV Impression], [!UICONTROL Display Click], [!UICONTROL Display Impression], [!UICONTROL Native Click], [!UICONTROL Native Impression], [!UICONTROL Search Click], [!UICONTROL Video Click], or [!UICONTROL Video Impression].
       
@@ -79,17 +79,17 @@ You can generate reports once, or schedule them to be generated daily, weekly, o
       
       *  [!UICONTROL Ad ID] or [!UICONTROL Ad Name] shows which DSP ads have resulted in conversions.
       
-      * [!UICONTROL Ad ID & Paid Keyword (SSC)]  or [!UICONTROL Ad Name & Paid Keyword (SSC)] shows which Search, Social, & Commerce keywords have resulted in conversions.
+      * [!UICONTROL Ad ID & Paid Keyword (SSC)] or [!UICONTROL Ad Name & Paid Keyword (SSC)] shows which Search, Social, & Commerce keywords have resulted in conversions.
     
       Columns in the report include "[!UICONTROL Event #1]" through "[!UICONTROL Event #10],""[!UICONTROL Path Length]," "% \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 2\>," and so on.
       
       Up to the 10 most recent interaction points are included. The path rows are ordered by the number of conversions.
   
-    * **[!UICONTROL Path Length Beta]:** (Beta feature) Use this report to see the number of conversions by path length (interaction points), such as how many conversions occurred after users had only one ad interaction, two ad interactions, and so on. The report can include data for multiple conversion metrics and uses a specified lookback period between the first interaction and a conversion. Columns in the report include "[!UICONTROL Path Length]," "[!UICONTROL Number of] \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 1\>," \<Conversion Metric Name 2\>," "% \<Conversion Metric Name 2\>," and so on.
+    * **[!UICONTROL Path Length Beta]:** (Beta feature) Use this report to manage ad frequency based on the number of user interaction points required for conversions. The report shows the number of conversions by path length (interaction points), such as how many conversions occurred after users had only one ad interaction, two ad interactions, and so on. The report can include data for multiple conversion metrics and uses a specified lookback period between the first interaction and a conversion. Columns in the report include "[!UICONTROL Path Length]," "[!UICONTROL Number of] \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 1\>," \<Conversion Metric Name 2\>," "% \<Conversion Metric Name 2\>," and so on.
     
       Data is shown for each path length of up to 10; data for path lengths greater than 10 are grouped together.
     
-    * **[!UICONTROL Time to Conversion Beta]:** (Beta feature) Use this report to see the number of conversions by the length of time in days from the last interaction (ad exposure or click) to conversion. The report can include data for multiple conversion metrics and uses a specified lookback period between the first interaction and a conversion. Columns in the report include "[!UICONTROL Time Taken (in days)]," "[!UICONTROL Number of] \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 1\>," \<Conversion Metric Name 2\>," "% \<Conversion Metric Name 2\>," and so on. Conversions that take longer than the lookback period are grouped together in one row (for example, if the report uses a 30-day lookback period, then all conversions that take longer than 30 days to occur are grouped together in a row with a "[!UICONTROL Time Taken (in days)]" value of "30+").
+    * **[!UICONTROL Time to Conversion Beta]:** (Beta feature) Use this report to determine the optimal attribution lookback window and identify new opportunities for retargeting. The report shows the number of conversions by the length of time in days from the last interaction (ad exposure or click) to conversion. The report can include data for multiple conversion metrics and uses a specified lookback period between the first interaction and a conversion. Columns in the report include "[!UICONTROL Time Taken (in days)]," "[!UICONTROL Number of] \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 1\>," \<Conversion Metric Name 2\>," "% \<Conversion Metric Name 2\>," and so on. Conversions that take longer than the lookback period are grouped together in one row (for example, if the report uses a 30-day lookback period, then all conversions that take longer than 30 days to occur are grouped together in a row with a "[!UICONTROL Time Taken (in days)]" value of "30+").
 
 ## Cross-Account Reporting {#cross-account-reporting}
 
