@@ -6,7 +6,7 @@ exl-id: 95e88c9c-09f2-44f1-9d6c-3fe533963f9a
 ---
 # View the Placement Diagnostic Reports
 
-<!-- Does this really belong in the Campaign Management > Reports section or in the Placements section?  -->
+<!-- Does this really belong in the Campaign Management > Reports section or in the Placements section? -->
 
 Diagnostic reports can help you diagnose issues with placement setup and pacing once a campaign is live.
 

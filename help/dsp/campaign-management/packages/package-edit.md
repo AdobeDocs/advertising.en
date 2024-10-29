@@ -8,7 +8,7 @@ exl-id: 88fbbb46-0150-4ff7-838f-ea00aead529e
 
 >[!NOTE]
 >
->You can also download the settings for one or more packages in XLSX (Excel spreadsheet) format; make changes to most fields; and upload them back to DSP all at once. See "[Review and Edit Package Settings Using Bulksheets](package-qa.md)." 
+>You can also download the settings for one or more packages in XLSX (Excel spreadsheet) format; make changes to most fields; and upload them back to DSP all at once. See "[Review and Edit Package Settings Using Bulksheets](package-qa.md)."
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.

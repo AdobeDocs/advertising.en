@@ -55,7 +55,7 @@ index: yes
     + [Specify a date using the calendar](/help/search-social-commerce/common-tasks/navigation-editing-selection/calendar.md)
     + [Show and hide a trend chart](/help/search-social-commerce/common-tasks/navigation-editing-selection/trend-chard-show-hide.md)
     + [Refresh data in management views](/help/search-social-commerce/common-tasks/navigation-editing-selection/refresh.md)
-    + Downloading data in management views {#download-data-views}
+    + Download data in management views {#download-data-views}
       + [Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
       + [Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
 + Tracking {#tracking}

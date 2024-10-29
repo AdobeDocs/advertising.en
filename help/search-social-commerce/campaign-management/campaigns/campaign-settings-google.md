@@ -8,8 +8,7 @@ feature: Search Campaign Management
 
 ## \[Campaign Creation screen\]
 
-**[!UICONTROL Campaign Type]:** (Available during campaign creation only) Where to place ads, and which ad types
-the campaign may contain:
+**[!UICONTROL Campaign Type]:** (Available during campaign creation only) Where to place ads, and which ad types the campaign may contain:
 
 * *[!UICONTROL Search Network Only]:* Shows ads on the search network, which includes [!DNL Google] search results and, optionally, search partner sites. You must specify keywords for each ad group.
 

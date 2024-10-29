@@ -70,7 +70,7 @@ To apply one or more filters, do the following:
 
 ## [!UICONTROL Build Your Report] Section
 
-**[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. The available columns vary by report, and all unavailable metrics are disabled. The available data categories may include: 
+**[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. The available columns vary by report, and all unavailable metrics are disabled. The available data categories may include:
 
 * [!UICONTROL Dimensions]
 
