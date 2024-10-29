@@ -6,7 +6,7 @@ exl-id: 8003c053-eaa1-420d-853f-3c25643f4ef8
 ---
 # List the Placements and Ads for a Private Deal
 
-You can open a list of all placements and ads associated with a private deal. You can optionally open the settings for any of the placements or ads.
+You can open a list of all placements and ads associated with a private deal. You can optionally open the settings for any of the placements or ads. 
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 

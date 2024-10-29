@@ -8,7 +8,7 @@ exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
 ---
 # What's new
 
-The following features are new or recently changed.
+The following features are new or recently changed. 
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |

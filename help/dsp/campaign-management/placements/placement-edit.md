@@ -6,7 +6,7 @@ exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
 ---
 # Edit Placements
 
-You can edit the settings for a single placement or for multiple placements at once. Some settings can't be changed once the placement is live.
+You can edit the settings for a single placement or for multiple placements at once. Some settings can't be changed once the placement is live. 
 
 <!-- Some placements don't have these options. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 

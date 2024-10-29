@@ -7,7 +7,7 @@ feature: DSP Placements
 
 <!-- Update headers as needed once the original download become editable and we call everything bulksheets. -->
 
-You can download the settings for the packages, placements, and ads in a single campaign in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. By default, the downloaded file includes separate tabs for package settings, package flight information, placement settings, and placement ad schedules. You can optionally exclude the settings for some campaign component types.
+You can download the settings for the packages, placements, and ads in a single campaign in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. By default, the downloaded file includes separate tabs for package settings, package flight information, placement settings, and placement ad schedules. You can optionally exclude the settings for some campaign component types. 
 
 To update multiple settings at once, upload a valid bulksheet file with the changes. To create the bulksheet, you can download a blank bulksheet template that includes tabs for each type of campaign component, enter or paste new or updated settings into the template file, and then save the file to upload it. Editable fields include most settings that are normally editable.
 

@@ -6,7 +6,7 @@ feature: Search Reports
 ---
 # About reports
 
-Performance reports allow you to track and manage the performance of your portfolios, ad networks, and ad network account entities at as granular a level as you want. Most reports provide complete visibility into how the ads in each marketing channel contribute to the overall conversion rate.
+Performance reports allow you to track and manage the performance of your portfolios, ad networks, and ad network account entities at as granular a level as you want. Most reports provide complete visibility into how the ads in each marketing channel contribute to the overall conversion rate. 
 
 The data for a report is compiled dynamically each time you run the report. You can optionally generate a new report from an existing report. The available report parameters vary by report type. For most reports, you have the option to preview the first 50 lines instead of generating the entire report. When you generate a report, you can send a notification with download links to one or more email addresses when a report is completed, and the recipients can [manage the notifications in [!UICONTROL Notification Center]](/help/search-social-commerce/notifications/notification-about.md).
 

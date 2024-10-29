@@ -6,7 +6,7 @@ exl-id: bf52de27-db48-40e2-bb55-a2c27a1924ad
 ---
 # Review and Edit Package Settings Using Bulksheets
 
-You can download the settings for one or more packages in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. The spreadsheet includes a separate tab with flight information.
+You can download the settings for one or more packages in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. The spreadsheet includes a separate tab with flight information. 
 
 To update multiple settings at once, you can do either of the following:
 
