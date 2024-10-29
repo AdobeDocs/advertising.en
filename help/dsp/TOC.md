@@ -198,7 +198,7 @@ index: yes
   + [Download a Custom Report](/help/dsp/reports/report-download.md)
   + [Custom Report Settings](/help/dsp/reports/report-settings.md)
   + [Available Report Columns](/help/dsp/reports/report-columns.md)
-  + [FAQs About Household Reports](/help/dsp/reports/faq-household-report.md)
+  + [FAQs About Household Reports](/help/dsp/reports/faq-reports.md)
   + Report Destinations {#report-destinations}
     + [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
     + [Create a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)
