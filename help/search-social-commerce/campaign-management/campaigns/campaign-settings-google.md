@@ -190,6 +190,18 @@ by country. If you don't select any, all are targeted.
 
 {{$include /help/_includes/dsa-language.md}}
 
+## [!UICONTROL Customer Acquisition Goals]
+
+**[!UICONTROL Customer Acquisition]:** (Performance max and search campaigns only) How to allocate bids for new customer and existing customers:
+
+* *[!UICONTROL Bid equally for new and existing customers]*
+
+* *[!UICONTROL Bid higher for new customers than for existing customers]*
+
+  **Note:** To use this setting, you must first activate the new customer acquisition goal for the [!DNL Google Ads] account or, if applicable, for the manager account. The goal defines the eligible existing customer lists and the additional conversion value for new customers in the conversion settings. See Steps 1-2 in the [!DNL Google Ads] help "[Activate the new customer acquisition goal](https://support.google.com/google-ads/answer/14007601)."
+
+* *[!UICONTROL Only bid for new customers]*
+
 ## [!UICONTROL Negative Keywords]
 
 <!-- **[!UICONTROL Negative Keywords]:** -->
@@ -362,4 +374,3 @@ To create a custom conversion goal, click **[!UICONTROL + Add custom goal]**, en
 >[!MORELIKETHIS]
 >
 >* [Manage campaigns](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
-
