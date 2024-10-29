@@ -66,7 +66,7 @@ The following is the general workflow for implementing and using Search, Social,
    
       >[!NOTE]
       >
-      >Search, Social, & Commerce still tracks and reports data for campaigns that aren't assigned to portfolios, but it does't optimize bids for them.
+      >Search, Social, & Commerce still tracks and reports data for campaigns that aren't assigned to portfolios, but it doesn't provide optimization for them.
 
    1. After enough data is available to create a baseline, then the team can launch the portfolio &mdash; allowing Search, Social, & Commerce to optimize bids and/or budgets for the portfolio, based on the optimization type.
    

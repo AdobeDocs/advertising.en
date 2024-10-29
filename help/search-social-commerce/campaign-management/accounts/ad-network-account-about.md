@@ -14,7 +14,7 @@ Search, Social, & Commerce can track any of an advertiser's accounts on supporte
 
 *[!DNL Google Ads], [!DNL Microsoft Advertising] (formerly [!DNL Bing Ads]), [!DNL Yahoo! Display Network], [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts*
 
-Search, Social, & Commerce synchronizes (*syncs*) with supported ad network accounts so that you can track, report on, and visualize performance for your ads. For all ad networks except for [!DNL Yahoo! Display Network], you can optionally manage the campaigns for your account in Search, Social, & Commerce; [!DNL Yahoo! Display Network], campaigns are read-only. For all ad networks, you can allow the optimization capability to optimize bids on ads in managed accounts by adding them to portfolios.
+Search, Social, & Commerce synchronizes (*syncs*) with supported ad network accounts so that you can track, report on, and visualize performance for your ads. For all ad networks except for [!DNL Yahoo! Display Network], you can optionally manage the campaigns for your account in Search, Social, & Commerce; [!DNL Yahoo! Display Network], campaigns are read-only. For all ad networks, you can allow the optimization capability to optimize bids, campaign budgets, and campaign bid strategy targets for campaigns in managed accounts, by adding the campaigns to portfolios.
 
 To enable synchronizing of an account, the account record must contain the account access credentials and be enabled (active).
 

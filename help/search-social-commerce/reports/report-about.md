@@ -22,7 +22,7 @@ The following report categories are available from the [!UICONTROL Reports] view
 | [!UICONTROL Advanced Reports] | [Advanced reports](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md) provide additional insight into your advertising configuration, helping you to identify where you would benefit by changing your geographical targeting or network settings. They also can help you validate conversion data in the campaign and portfolio management views and reports against the advertiser's internal conversion tracking data. |
 | [!UICONTROL Assist Reports] | [Assist reports](/help/search-social-commerce/reports/management/assist/assist-report-about.md) provide insights into the conversion paths for all of an advertiser's keywords and ads. They use data captured through the Adobe Advertising conversion tracking service and can be generated only for advertisers with the service. |
 | [!UICONTROL Specialty Reports] | [Specialty reports](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md) consist of data collected by the ad networks (rather than by Adobe Advertising tracking). |
-| [!UICONTROL Model Accuracy Reports] | [Model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the cost and revenue models that are used to optimize bids. |
+| [!UICONTROL Model Accuracy Reports] | [Model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the cost and revenue models that are used to optimize bids, campaign budgets, and bid strategy targets for a portfolio. |
 
 ## Report automation
 
