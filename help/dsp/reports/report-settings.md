@@ -131,7 +131,11 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
  See also "[How Attribution Rules Are Calculated for Adobe Advertising](/help/search-social-commerce/reports/attribution-rules.md)."
 
-* **Lookback:** ([!UICONTROL Household Conversion] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns, and [!UICONTROL Path to Conversion], [!UICONTROL Path Length], or [!UICONTROL Time to Conversion] reports with [!UICONTROL Conversion Metrics] columns only; advertisers with Adobe Advertising conversion tracking only) Within the report, the maximum number of days after an impression event <!-- VERIFY THIS:  or click event for [!UICONTROL Path to Conversion], [!UICONTROL Path Length], or [!UICONTROL Time to Conversion] reports --> in which a conversion event can be attributed to it. The default is *[!UICONTROL 30 days]*, and the maximum is 92 days.
+* **Lookback:** ([!UICONTROL Household Conversion] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns, and [!UICONTROL Path to Conversion], [!UICONTROL Path Length], or [!UICONTROL Time to Conversion] reports with [!UICONTROL Conversion Metrics] columns only; advertisers with Adobe Advertising conversion tracking only) Within the report, the maximum number of days after an impression event or a click event (for [!UICONTROL Path to Conversion], [!UICONTROL Path Length], or [!UICONTROL Time to Conversion] reports) in which a conversion event can be attributed to it. The default is *[!UICONTROL 30 days]*, and the maximum is 92 days.
+
+  >[!TIP]
+  >
+  >If you use [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md), then use the same lookback window that you use in [!DNL Analytics].
 
 **[!UICONTROL Paths as Columns]:**  (All [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], and [!UICONTROL Site] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns) Which types of conversions to report when prior events occurred on the same device. You can include up to three types. For each selected type, a separate column is included for each conversion metric and is appended with the specified suffix ([!UICONTROL (tl)], [!UICONTROL (ct)], or [!UICONTROL (vt)]):
 
