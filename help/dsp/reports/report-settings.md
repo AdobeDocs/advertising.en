@@ -66,7 +66,7 @@ To apply one or more filters, do the following:
 
 \* *[!UICONTROL Account]* is available for the following report types only when your organization is configured for [cross-account reporting](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], and [!UICONTROL Conversion]. Contact your Adobe Account Team for more information about cross-account reporting.
 
-**[!UICONTROL Include data from Adobe Advertising SSC]:** (Path to Conversion, Path Length, and Time to Conversion reports only) Includes data for clicks on search ads from Advertising Search, Social, & Commerce.
+**[!UICONTROL Include data from Adobe Advertising SSC]:** (Path to Conversion, Path Length, and Time to Conversion reports only) Includes data for clicks on search ads from Advertising Search, Social, & Commerce. When you select this option, select the Search, Social, & Commerce campaigns to include.
 
 ## [!UICONTROL Build Your Report] Section
 
