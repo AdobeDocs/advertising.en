@@ -43,7 +43,7 @@ You can create, edit, and change the status of ads from the [!UICONTROL Campaign
 >[!NOTE]
 >
 >* The following ad types are *mutable*, which means that you can change the ad copy or image and retain the same ad ID: all [!DNL Google Ads] ad types except for dynamic search ads, and [!DNL Microsoft Advertising] expanded text ads.
->* All other supported ads are *non-mutable*, which means that changing the ad copy or image deletes the existing ad and creates a new one. Performance for the new ad may be volatile for a couple of weeks while Search, Social, & Commerce gathers enough data to optimize bids.
+>* All other supported ads are *non-mutable*, which means that changing the ad copy or image deletes the existing ad and creates a new one. Performance for the new ad may be volatile for a couple of weeks while Search, Social, & Commerce gathers enough data for optimization.
 >* You can't edit the content of a product ad, except for the promotion line for [!DNL Microsoft Advertising] product ads. You can, however, pause or delete an ad.
 
 >[!TIP]
