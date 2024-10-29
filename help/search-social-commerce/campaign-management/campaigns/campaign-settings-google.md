@@ -191,7 +191,7 @@ by country. If you don't select any, all are targeted.
 
 ## [!UICONTROL Customer Acquisition Goals]
 
-**[!UICONTROL Customer Acquisition]:** (Performance max and search campaigns only) How to allocate bids for new customer and existing customers:
+**[!UICONTROL Customer Acquisition]:** (Performance max and search campaigns only) How to allocate bids for new customers and existing customers:
 
 * *[!UICONTROL Bid equally for new and existing customers]*
 
