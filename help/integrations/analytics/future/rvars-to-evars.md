@@ -17,12 +17,44 @@ In 2025, your [!DNL Analytics for Advertising] integration will still require yo
 
 ## Copy your [!DNL rVars] into [!DNL rVars]
 
+>[!NOTE]
+>
+>Limitation
+Processing Rules can't change any Historical data. That means rVar would be copied to eVars for hits that comes after processing rule is set up.
+This step is manual and needs to be done for all rVar reportsuites that intends to be integrated with Adobe Advertising in future.
+
+1. Open Processing Rule component
+Login into Adobe Analytics UI
+From top Menu select "Admin" → "Report suites"
+Select Reportsuite for which you want to migrate rVar data to AEP/CJA
+Hover over "Edit Settings" → "General" → Click on "Processing Rules"
+This will open a page containing "Processing Rules", where we can add/remove/manage processing Rules.
+
+Processing Rule Set-Up
+Title - Suitable title "Copy AMO ID and EF ID to eVar"
+Add 2 Actions under section "Always Execute"
+"Overwrite value of" <new/unused eVar> With "amo.s_kwcid(Context Data)"
+"Overwrite value of" <new/unused eVar> With "amo.ef_id(Context Data)"
+Reason for rule - Provide some suitable reason i.e. "AMO ID and EF ID will be transported to AEP via Adobe Analytics Connector."
+
+Once everything is finalized - Click "Save"
+
+
+
+Processing Rule Validation
+Once above Processing Rule is set, Same data against "AMO ID" and "AMO EF ID" would be visible under two pairs of dimensions:
+
+AMO ID and AMO EF ID (as usual)
+new eVar setup in previous step. i.e. as per screenshot above: eVar142→AMOID and eVar143→EFID
 
 
 
 
 
 
+[Create processing rules](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/t-processing-rules)
+
+For more information about how processing rules are applied, see "[How processing rules work](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about)."
 
 
 
