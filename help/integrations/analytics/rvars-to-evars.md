@@ -47,7 +47,7 @@ This step is manual and must be completed for each report suite that tracks AMO 
 
    Once you save the processing rule, the data for the `AMO ID` and the `AMO EF ID` <!-- the existing reserved variables --> should be identical to the data for the two new eVars to which they are copied.
    
-   For example, if the new eVar `eVar142` is mapped to `amo.s_kwcid(Context Data)`, then the data for the `eVar142` and the 'AMO ID` should be identical.
+   For example, if the new eVar `eVar142` is mapped to `amo.s_kwcid(Context Data)`, then the data for the `eVar142` and the `AMO ID` should be identical.
 
 For more information about how processing rules are applied, see "[How processing rules work](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about)."
 
