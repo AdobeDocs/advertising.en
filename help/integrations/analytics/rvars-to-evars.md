@@ -3,81 +3,52 @@ title: XXX
 description: Learn XXX
 feature: Integration with Adobe Analytics
 ---
-# XXXXX Paid Media rVar Migration for Analytics Data Connector
+# Collect Historical Data for AMO IDs and EF IDs for Use in Adobe Customer Journey Analytics
 
-*Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
+*Advertisers with [!DNL Analytics for Advertising] and Adobe Customer Journey Analytics Only*
 
-If you use reserved variables ([!DNL rVars]) to capture the [EF ID and AMO ID](ids.md) for your [!DNL Analytics for Advertising] integration, then you can prepare for a future integration between Adobe Advertising and [Adobe Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-overview), which is Adobe’s next-generation [!DNL Analytics] solution, by copying your [!DNL rVars]<!-- , for which historical data isn't synced,--> into [!DNL eVars] as soon as possible. This will allow <!-- who --> to begin collecting historical data for your [!DNL rVars] as soon as you complete the task.
+If you use reserved variables to capture the [AMO ID and EF ID](ids.md) for your [!DNL Analytics for Advertising] integration, then you can prepare for a future integration between Adobe Advertising and [Adobe Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-overview), which is Adobe’s next-generation [!DNL analytics] solution, by copying your reserved variables for the AMO ID and the EF ID into [standard [!DNL eVars]](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/evar) as soon as possible. This will allow the collection of historical data for the AMO IDs and EF IDs as soon as you complete the task.
 
-## Why .....
+<!-- This will allow Adobe Experience Platform, which supplies data to Customer Journey Analytics, to begin collecting historical data for your [!DNL rVars] as soon as you complete the task. -->
 
-Customer Journey Analytics lets you sync data from Adobe Experience Platform into Adobe Analytics <!-- Leave out "Analytics? --> Analysis Workspace. Currently, [!DNL Analytics] <!-- or he [!DNL Analytics for Advertising] integration ? --> doesn't send historical data for [!DNL rVars] to Experience Platform, so historical data for [!DNL rVars] <!-- what exactly? --> isn't currently available within Customer Journey Analytics. Instead, XXXXXXXXXX <!-- what exactly? -->.
+## Why Do I Need to Collect Historical Data for Customer Journey Analytics?
 
-In 2025, your [!DNL Analytics for Advertising] integration will still require you to collect view-through data using [!DNL Analytics] tracking, but you'll be able to view your data in both [!DNL Analytics] (Analysis Workspace using data from [!DNL Analytics]) and Customer Journey Analytics (Analysis Workspace using data from Experience Platform). Once the feature is released, historical data for [!DNL rVars] will begin to collect for use in Customer Journey Analytics, but no data prior to the release date will exist. You can begin to collect data for your [!DNL rVars] sooner by creating a simple [[!DNL Analytics] processing rule](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules) <!-- Or a CJA processing rule? Or multiple rules? One rule per rVar, or one for all? -->to copy your [!DNL rVars] into [!DNL rVars] now. Once you create and implement<!-- implement? -->  the processing rule, you will begin to accrue historical data tracked by your [!DNL rVars].
+Customer Journey Analytics lets you sync data from Adobe Experience Platform into Adobe Analytics Analysis Workspace. Currently, the [!DNL Analytics Data Connector] to Experience Platform doesn't send data for reserved variables from [!DNL Analytics] to Experience Platform. As a result, data for AMO IDs and EF IDs that are captured by reserved variables isn't currently available within Customer Journey Analytics. <!-- Instead, XXXXXXXXXX what exactly? -->.<!-- Does the Analytics for Advertising implementation use the Analytics Data Connector in particular (why would it use anything?), and we're planning to implement the Web SDK to do it instead in the future? -->
 
-## Copy your [!DNL rVars] into [!DNL rVars]
+Adobe Advertising is planning a future implementation with Customer Journey Analytics. Once the implementation is released, your [!DNL Analytics for Advertising] integration will still require you to collect view-through data using [!DNL Analytics] tracking, but you'll be able to view your data in both 1\) [!DNL Analytics] (Analysis Workspace using data from [!DNL Analytics]) and 2\) Customer Journey Analytics (Analysis Workspace using data from Experience Platform) if your organization has both products. When the feature is released, Experience Platform will begin to collect data for your AMO ID and EF ID for use in Customer Journey Analytics, but no historical data prior to the release date will exist.
+
+However, you can begin to collect data for your AMO IDs and EF IDs <!-- [!DNL rVars] --> sooner by creating a simple [[!DNL Analytics] processing rule](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules) to copy your AMO IDs and EF IDs <!-- [!DNL rVars] --> into [!DNL eVars] now. Once you create the processing rule, you'll begin to accrue data for your AMO IDs and EF IDs <!-- [!DNL rVars] --> as soon as they track new events. The historical data will then be available within Customer Journey Analytics once the implementation is available.
 
 >[!NOTE]
 >
->Limitation
-Processing Rules can't change any Historical data. That means rVar would be copied to eVars for hits that comes after processing rule is set up.
-This step is manual and needs to be done for all rVar reportsuites that intends to be integrated with Adobe Advertising in future.
+>Processing rules are applied only to new data that's received. They don't work retroactively to collect past data.
 
-1. Open Processing Rule component
-Login into Adobe Analytics UI
-From top Menu select "Admin" → "Report suites"
-Select Reportsuite for which you want to migrate rVar data to AEP/CJA
-Hover over "Edit Settings" → "General" → Click on "Processing Rules"
-This will open a page containing "Processing Rules", where we can add/remove/manage processing Rules.
+## Copy Your Reserved Variables for AMO IDs and EF IDs into [!DNL eVars]
 
-Processing Rule Set-Up
-Title - Suitable title "Copy AMO ID and EF ID to eVar"
-Add 2 Actions under section "Always Execute"
-"Overwrite value of" <new/unused eVar> With "amo.s_kwcid(Context Data)"
-"Overwrite value of" <new/unused eVar> With "amo.ef_id(Context Data)"
-Reason for rule - Provide some suitable reason i.e. "AMO ID and EF ID will be transported to AEP via Adobe Analytics Connector."
+This step is manual and must be completed for each report suite that tracks AMO IDs and EF IDs <!-- [!DNL rVars] --> that you expect to integrate with Adobe Advertising in the future.
 
-Once everything is finalized - Click "Save"
+1. [Create a processing rule](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/t-processing-rules) with the following settings:
 
+   * Select the report suite for which you want to migrate AMO ID and EF ID <!-- [!DNL rVar] --> data to Experience Platform for use by Customer Journey Analytics.
 
+   * For the [!UICONTROL Rule Title], use a descriptive name, such as "Copy AMO ID and EF ID to eVars."
 
-Processing Rule Validation
-Once above Processing Rule is set, Same data against "AMO ID" and "AMO EF ID" would be visible under two pairs of dimensions:
+   * In the [!UICONTROL Always Execute] section, add two actions to create the new eVars:
+   
+     * For the `AMO ID`: ```Overwrite value of <new/unused eVar> with amo.s_kwcid(Context Data)```
 
-AMO ID and AMO EF ID (as usual)
-new eVar setup in previous step. i.e. as per screenshot above: eVar142→AMOID and eVar143→EFID
+     * For the `EF ID`: ```Overwrite value of <new/unused eVar> With amo.ef_id(Context Data)```
 
+   * For the [!UICONTROL Reason for rule], use a descriptive note, such as "AMO ID and EF ID will be transported to AEP via Adobe Analytics Connector."
 
+1. Validate the saved processing rule.
 
-
-
-
-[Create processing rules](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/t-processing-rules)
+   Once you save the processing rule, the data for the `AMO ID` and the `AMO EF ID` <!-- the existing reserved variables --> should be identical to the data for the two new eVars to which they are copied.
+   
+   For example, if the new eVar `eVar142` is mapped to `amo.s_kwcid(Context Data)`, then the data for the `eVar142` and the 'AMO ID` should be identical.
 
 For more information about how processing rules are applied, see "[How processing rules work](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about)."
 
-
-
-
-
-Sync Advertising data with CJA -- late 2024 to early 2025
--------------------------------------
-
-Engineering's draft playbook:  https://wiki.corp.adobe.com/display/EfficientFrontier/Paid+Media+rVar+Migration+for+Analytics+Data+Connector+-+Playbook
-Program Page:  https://wiki.corp.adobe.com/display/EfficientFrontier/CJA+Integration+Program+Page
-Other Info: https://wiki.corp.adobe.com/pages/viewpage.action?pageId=3151723471
-
-Release in late 2024 to early 2025, but clients can begin making rvar data available for it by creating an Analytics processing rule now to copy their rvars (for which historical data isn't synced) into evars.
-
-
-The [!DNL Analytics for Advertising] integration uses two variables ([!DNL eVars] or [!DNL rVars] \[reserved [!DNL eVars]]\) to capture the [EF ID and AMO ID](ids.md).
-
-FOR MARY TO DO once we remove from UI:
-
-1. Create new topic.
-2. Add info to A4A overview, and add cross-refs to other A4A topics.
-3. Make sure that intro topic, and maybe https://experienceleague.adobe.com/en/docs/advertising, mention near the start that an A4A implementation is required for viewing advertising data in CJA as well as in Analytics.
-4. Update "What's New" to include info.
-
-
-
+>[!MORELIKETHIS]
+>
+>* [Overview of [!DNL Analytics for Advertising]](overview.md)
