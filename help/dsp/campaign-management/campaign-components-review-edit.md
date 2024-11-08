@@ -2,6 +2,7 @@
 title: Review and Edit Campaign Component Settings Using Bulksheets
 description: Learn how to review and edit key package, placement, and ad settings in bulk using spreadsheets.
 feature: DSP Placements
+exl-id: 1ec8362a-d37b-4fd7-becd-3a5b4f0c9504
 ---
 # Review and Edit Campaign Component Settings Using Bulksheets
 
