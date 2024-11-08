@@ -1,6 +1,6 @@
 ---
-title: XXX
-description: Learn XXX
+title: Collect Historical Data for AMO IDs and EF IDs for Use in Adobe Customer Journey Analytics
+description: Learn how to collect historical data for your reserved variables in Adobe Analytics for future use in Adobe Customer Journey Analytics
 feature: Integration with Adobe Analytics
 ---
 # Collect Historical Data for AMO IDs and EF IDs for Use in Adobe Customer Journey Analytics
