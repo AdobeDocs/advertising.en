@@ -9,6 +9,8 @@ feature: Integration with Adobe Analytics
 
 If you use reserved variables to capture the [AMO ID and EF ID](ids.md) for your [!DNL Analytics for Advertising] integration, then you can prepare for a future integration between Adobe Advertising and [Adobe Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-overview), which is Adobe’s next-generation [!DNL analytics] solution, by copying your reserved variables for the AMO ID and the EF ID into [standard [!DNL eVars]](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/evar) as soon as possible. This will allow the collection of historical data for the AMO IDs and EF IDs as soon as you complete the task.
 
+<!-- You can also do the same for any other reserved variables you use for your [!DNL Analytics for Advertising] implementation. -->
+
 <!-- This will allow Adobe Experience Platform, which supplies data to Customer Journey Analytics, to begin collecting historical data for your [!DNL rVars] as soon as you complete the task. -->
 
 ## Why Do I Need to Collect Historical Data for Customer Journey Analytics?
