@@ -80,7 +80,7 @@ Consider these differences when comparing view-through conversions between Adobe
 >
 >To prevent confusion, [!DNL Analytics] makes historical data unavailable in the reporting interface. You can view the historical data if you change the [!DNL eVar] back to the initial allocation setting, although you should not change [!DNL eVar] allocation settings simply to access historical data. Adobe recommends using a new [!DNL eVar] when you want to apply a new allocation setting for data that's already being recorded, rather than changing allocation settings for an [!DNL eVar] that already has a significant amount of historical data.
 
-See a list of [!DNL Analytics] attribution models and their definitions at [https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/models.html](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/models.html).
+See a list of [!DNL Analytics] attribution models and their definitions at [https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/attribution/models](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/attribution/models).
 
 If you're logged into [!DNL Search, Social, & Commerce], you can find a list 
 
