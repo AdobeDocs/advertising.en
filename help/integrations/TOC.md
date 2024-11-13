@@ -18,6 +18,7 @@ index: yes
         + [Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md)
         + [(DSP) JavaScript Code for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)
         + [Using the [!DNL Last Event Service] JavaScript Library with Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md)
+        + [Collect Historical Data for AMO IDs and EF IDs for Use in Adobe Customer Journey Analytics](/help/integrations/analytics/rvars-to-evars.md)
         + (DSP) Macros for Ad Tags {#macros}
           + [Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)
           + [Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)
