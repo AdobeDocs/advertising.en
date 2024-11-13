@@ -99,9 +99,9 @@ The ideal use case is to use both the [!UICONTROL Household] report and the [!DN
 
 ## Conversion Path Analysis Reports
 
-### How does the Path to Conversion report compare to reports created by [!DNL Advanced Measurement Services] and Adobe Analytics?
+### How does the Path to Conversion report compare to reports created by [!DNL Advanced Measurement Services] and Adobe Analytics Analysis Workspace?
 
-| | Path to Conversion Report | Advanced Measurement Services Halo Effect on Search Reporting | Adobe Analytics Workspace Reports |
+| | Path to Conversion Report | Advanced Measurement Services Halo Effect on Search Reporting | Reports in Analysis Workspace |
 | --- | --- | --- |---|
 | Customer Value | Generate a self-serve custom report to understand which paths of the ad journey led to more conversions to boost optimization | Understand the influence of connected TV (CTV) tactics on search clicks | Understand the influence of your holistic Adobe Advertising investment, alongside other marketing channels, on search clicks |
 | Household Level | Yes | Yes | No |

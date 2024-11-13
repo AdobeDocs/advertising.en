@@ -98,7 +98,7 @@ EF IDs are subject to the 500k unique identifier limit in Analysis Workspace. On
 
 The AMO ID tracks each unique ad combination at a less granular level and is used for [!DNL Analytics] data classification and ingestion of advertising metrics (such as impressions, clicks, and cost) from Adobe Advertising. The AMO ID is stored in an [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or rVar dimension (AMO ID) and is used exclusively for reporting in [!DNL Analytics].
 
-The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL the squid]."
+The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL squid]."
 
 ### Ways to Implement the AMO ID {#amo-id-implement}
 
