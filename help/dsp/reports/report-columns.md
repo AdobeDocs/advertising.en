@@ -131,9 +131,6 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPCV]|The average net cost per completed video view, calculated by <code>[!UICONTROL Net Spend] / [!UICONTROL 100% Completions]</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPM]|The average net cost per 1000 impressions, calculated by <code>[!UICONTROL Net Spend] / [!UICONTROL Impressions] x 1000</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Net CPV]|The average net cost per video view, calculated by <code>[!UICONTROL Net Spend] / [!UICONTROL Views]</code>.|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Data eCPM]|The average net data cost per 1000 impressions, calculated by <code>[!UICONTROL Net Spend (Data)] / [!UICONTROL Impressions] x 1000</code>.|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Media CPM]|The average net media cost per 1000 impressions, calculated by <code>[!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000</code>.|
-|[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Total Other eCPM]|The average net cost per 1000 impressions for other fees, calculated by <code>[!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL % bid at Max CPM]|The percentage of total bids that were bid at the Max CPM. |
 |[!UICONTROL Metric]|[!UICONTROL Performance]|[!UICONTROL Unique Users Bid On]| The number of distinct users for which DSP bid for the placement. |
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Billable Data Net Spend]|The total net cost of audience segment data fees billed through DSP.|
@@ -150,10 +147,13 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Non-Billable Other Net Spend]|The total cost of other service fees (third-party verification partners, ad serving, and so on) not billed through DSP.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Profit]|[!UICONTROL Gross Spend] - [!UICONTROL Net Spend]|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Billable Net Spend]|The sum of [!UICONTROL Billable Spend (Media)], [!UICONTROL Billable Spend (Data)], and [!UICONTROL Billable Spend (Other)].|
+|[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Data eCPM]|The average net data cost per 1000 impressions, calculated by <code>[!UICONTROL Net Spend (Data)] / [!UICONTROL Impressions] x 1000</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Data Net Spend]|The total net cost of audience segment data fees.|
+|[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Media CPM]|The average net media cost per 1000 impressions, calculated by <code>[!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Media Net Spend]|The total net cost of media, including tech fees.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Net Spend]|The sum of [!UICONTROL Net Spend (Media)], [!UICONTROL Net Spend (Data)], and [!UICONTROL Net Spend (Other)].|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Non-Billable Net Spend]|The sum of [!UICONTROL Non-billable Spend (Media)], [!UICONTROL Non-billable Spend (Data)], and [!UICONTROL Non-billable Spend (Other)].|
+|[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Other eCPM]|The average net cost per 1000 impressions for other fees, calculated by <code>[!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000</code>.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Other Net Spend]|The total net cost of other service fees (third-party verification partners, ad serving, and so on).|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Completion Rate]|The percentage of views that watched the ad in its entirety.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Completions]|The number of views that watched the ad in its entirety.|
