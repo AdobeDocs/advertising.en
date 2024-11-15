@@ -149,12 +149,12 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Non-Billable Media Fees]|The total net cost of non-billable media, including the tech fee, not billed through DSP. |
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Non-Billable Other Net Spend]|The total cost of other service fees (third-party verification partners, ad serving, and so on) not billed through DSP.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Profit]|[!UICONTROL Gross Spend] - [!UICONTROL Net Spend]|
+|[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Billable Net Spend]|The sum of [!UICONTROL Billable Spend (Media)], [!UICONTROL Billable Spend (Data)], and [!UICONTROL Billable Spend (Other)].|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Data Net Spend]|The total net cost of audience segment data fees.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Media Net Spend]|The total net cost of media, including tech fees.|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Net Spend]|The sum of [!UICONTROL Net Spend (Media)], [!UICONTROL Net Spend (Data)], and [!UICONTROL Net Spend (Other)].|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Non-Billable Net Spend]|The sum of [!UICONTROL Non-billable Spend (Media)], [!UICONTROL Non-billable Spend (Data)], and [!UICONTROL Non-billable Spend (Other)].|
 |[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Other Net Spend]|The total net cost of other service fees (third-party verification partners, ad serving, and so on).|
-|[!UICONTROL Metric]|[!UICONTROL Spend]|[!UICONTROL Total Billable Net Spend]|The sum of [!UICONTROL Billable Spend (Media)], [!UICONTROL Billable Spend (Data)], and [!UICONTROL Billable Spend (Other)].|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Completion Rate]|The percentage of views that watched the ad in its entirety.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Completions]|The number of views that watched the ad in its entirety.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Viewable Completion (%)]|The percentage of viewable impressions that watched the ad in its entirety.|
