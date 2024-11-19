@@ -10,7 +10,17 @@ exl-id: b708c9f2-2962-45d9-8780-4e96ef2ae8f7
 
 [[!DNL Google Ads] enhanced conversions for leads](https://support.google.com/google-ads/answer/9888656) allow you to map users to offline conversions using your first-party conversion data. Use enhanced conversions for leads in environments in which click IDs are unavailable, such as to track telephone or email sales that result from website leads.
 
-Within Search, Social, & Commerce, you can include your enhanced conversions for leads as metrics within reports and as weighted metrics within objectives for optimization. Search, Social, & Commerce syncs your existing enhanced conversions for leads daily at 05:00 in the advertiser's time zone.
+Within Search, Social, & Commerce, you can:
+
+* View your existing enhanced conversions for leads.
+
+  Search, Social, & Commerce syncs your existing enhanced conversions for leads daily at 05:00 in the advertiser's time zone.
+
+* Create enhanced conversions for leads.
+
+* Upload first-party, offline conversion data to map to your enhanced conversions for leads.
+
+* Include your enhanced conversions for leads as metrics within reports and as weighted metrics within objectives for optimization.
 
 To use this feature, complete the following steps. The steps to create conversion tracking tags and to create conversion actions can optionally be reversed.
 
