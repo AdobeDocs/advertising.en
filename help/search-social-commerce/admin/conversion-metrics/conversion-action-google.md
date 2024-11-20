@@ -95,7 +95,7 @@ Once you create the conversion action and implement a conversion tracking tag, y
 * *[!UICONTROL Don't use a value for this conversion action (Not recommended)]*
 
 
-**[!UICONTROL Scope]]:** Whether to apply the goal *[!UICONTROL On account]* or a *[!UICONTROL Across account]*.<!-- Look this up and clarify -->
+**[!UICONTROL Scope]:** Whether to apply the goal *[!UICONTROL On account]* or a *[!UICONTROL Across account]*.<!-- Look this up and clarify -->
 
 
 **[!UICONTROL Count]:** How many conversions to count per click or interaction: *[!UICONTROL All]* (for example, if one ad click results in three purchases, they will count as three conversions) or *[!UICONTROL Unique]* (for example, if one ad click results in three purchases, they will count as one conversion).<!-- Clarify wording -->
