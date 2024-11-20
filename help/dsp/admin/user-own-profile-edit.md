@@ -35,11 +35,11 @@ Your account profile includes your login credentials and other information. Some
 
       1. Click **[!UICONTROL Continue]**.
 
-   * To edit the default timezone for the user account:
+   * To edit the default time zone for the user account:
 
       1. Next to the existing **[!UICONTROL Default Timezone]**, click **[!UICONTROL Change]**.
 
-      1. Select the new timezone.
+      1. Select the new time zone.
 
       1. (Optional) To consider Daylight Saving Time in the reported times, select **[!UICONTROL Observe Daylight Savings Time]**.
 
