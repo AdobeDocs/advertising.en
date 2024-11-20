@@ -385,7 +385,11 @@ To specify topic targeting:
 
 ## [!UICONTROL Brand Safety and Media Quality]
 
-**[!UICONTROL Contextual filtering]:** Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] contextual filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
+**[!UICONTROL DoubleVerify ABS segment ID]:** ([!DNL DoubleVerify] customers only; placement types that support contextual filtering only<!-- Should I point out what they are -->; optional) A [!DNL DoubleVerify Authentic Brand Safety] segment ID associated with the organization's [!DNL DoubleVerify] account to use to the placement. Specifying an ID blocks impressions post-bid using the custom brand safety rules configured for the specified segment ID. DSP bills your account for usage for the segment ID.
+
+The ID must begin with "51" and consist of eight digits. By default, if a segment ID is specified in the advertiser account settings, then the advertiser-level ID is entered, but you can change the ID to use a different segment or delete the ID to disable the feature.
+
+**[!UICONTROL Brand Safety categories]:** Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] brand safety category filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
 
 * [!UICONTROL DoubleVerify]:
 
