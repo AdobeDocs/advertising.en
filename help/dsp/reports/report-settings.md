@@ -38,7 +38,7 @@ This section determines the dates on which the report is run. To set up the date
   >
   >You can also [run a custom report at any time](report-run-now.md) from the [!UICONTROL Reports] view.
 
-* *[!UICONTROL On] \<Date\>:* Runs the report on a specified date for completion by 09:00 in the account's timezone.
+* *[!UICONTROL On] \<Date\>:* Runs the report on a specified date for completion by 09:00 in the account's time zone.
 
 * *[!UICONTROL Recurring]:* Runs the report according to a schedule during a specified time period.
 
