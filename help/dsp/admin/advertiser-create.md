@@ -7,6 +7,8 @@ role: User, Admin
 
 *Not Available to Read-only Users*
 
+<!-- Not published -->
+
 Advertisers are available to all users in the organization account.
 
 1. In the main menu, click **[!UICONTROL Settings]** > **[!UICONTROL Advertisers]**.

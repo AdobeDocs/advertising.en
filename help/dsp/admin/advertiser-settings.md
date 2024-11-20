@@ -7,6 +7,8 @@ role: User, Admin
 
 *Not Available to Read-only Users*
 
+<!-- Not published -->
+
 ## [!UICONTROL General] Settings
 
 **[!UICONTROL Advertiser Name]:** The advertiser name.
@@ -160,11 +162,11 @@ You can override the advertiser-level setting at the [placement level](/help/dsp
 
 **[!UICONTROL Enable Site Safety Block]:** By default, enables a real-time, post-bid filter to ensure that ads serve on the sites that the advertiser is targeting. <!-- Can remove this: Users can enable or disable the feature for each placement. I don't see this option, but I should probably verify. If this can't be edited at placement level, then remove "By default." If it can, say that you can override at placement level. -->
 
-#### [!UICONTROL DoubleVerify Authentic Brand Safety]
+#### [!UICONTROL DoubleVerify Authentic Brand Suitability]
 
 **[!UICONTROL DoubleVerify Account]:** ([!DNL DoubleVerify] customers only; optional) The brand safety segment ID associated with the organization's [!DNL DoubleVerify] account.
 
-**[!UICONTROL Enable Authentic Brand Safety]:** (Optional) By default, enables [!DNL DoubleVerify] Authentic Brand Safety, which blocks impressions post-bid using the custom brand safety rules configured for the specified segment ID. DSP bills your account for usage for the segment ID.
+**[!UICONTROL Enable Authentic Brand Suitability]:** (Optional) By default, enables [!DNL DoubleVerify Authentic Brand Safety], which blocks impressions post-bid using the custom brand safety rules configured for the specified segment ID. DSP bills your account for usage for the segment ID.
 
 You can override the advertiser-level setting at the placement level.
 

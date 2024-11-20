@@ -209,11 +209,11 @@ To specify inventory targeting:
 
 Outstream ads usually appear over the content as a pop-up or stuffed into content (in the native experience), rather than as regular video ads in a video player.
 
-## [!UICONTROL Site Targeting]
+## [!UICONTROL Site and App Targeting]
 
 **[!UICONTROL Traffic type]:** The types of traffic to target. Options include **[!UICONTROL Websites]** and **[!UICONTROL Apps]**.
 
-**[!UICONTROL Site tier]:** (Available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) The quality of the sites to target. Tiers 1-3 are all brand safe and have been approved by the DSP mapping team.
+**[!UICONTROL Tier]:** (Available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) The quality of the traffic to target. Tiers 1-3 are all brand safe and have been approved by the DSP mapping team.
 
 * *[!UICONTROL Tier 1]:* Premium sites and applications that are nationally recognizable.
 
@@ -221,7 +221,7 @@ Outstream ads usually appear over the content as a pop-up or stuffed into conten
 
 * *[!UICONTROL Tier 3]:* Targets Tiers 1-2 plus legitimate and brand-safe sites and applications that cater to a niche audience. Use Tier 3 for reach or data targeting buys.
 
-* *[!UICONTROL All Sites]:* Targets Tiers 1-3 and new inventory that has not been screened or categorized, which you can use for reach.
+* *[!UICONTROL All Sites or Apps]:* Targets Tiers 1-3 and new inventory that has not been screened or categorized, which you can use for reach.
 
 >[!NOTE]
 >
@@ -231,7 +231,7 @@ Outstream ads usually appear over the content as a pop-up or stuffed into conten
 >
 >For performance campaigns, the best practice is to select *[!UICONTROL All Sites]*.
 
-**[!UICONTROL Site Categories]:** (Optional; available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Site categories within the selected site tiers to either include or exclude (but not both) as targets. Choose from vertical site lists that DSP has mapped based on subject:
+**[!UICONTROL Site or App Categories]:** (Optional; available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Site categories within the selected site tiers to either include or exclude (but not both) as targets. Choose from vertical site lists that DSP has mapped based on subject:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Specify the site categories to either include or exclude:
@@ -244,7 +244,7 @@ Outstream ads usually appear over the content as a pop-up or stuffed into conten
 1. (Optional) To download a CSV file with the targeting information to your browser's Downloads location, click **[!UICONTROL Export]**.
 1. Click **[!UICONTROL Save]**.
 
-**[!UICONTROL Exclude Sites]:** (Optional; available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sites to exclude. You can either search for and select sites, or enter or paste domain names:
+**[!UICONTROL Exclude Sites or Apps]:** (Optional; available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sites to exclude. You can either search for and select sites, or enter or paste domain names:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Specify the sites:
@@ -267,7 +267,7 @@ Outstream ads usually appear over the content as a pop-up or stuffed into conten
 
 **[!UICONTROL Language]:** (Optional) A single language to target.
 
-**[!UICONTROL Site List Preview]:** (Read-only) All targeted and blocked sites for the placement.
+**[!UICONTROL Site or App List Preview]:** (Read-only) All targeted and blocked sites for the placement.
 
 You can optionally export the list of targeted and blocked sites as a comma-separated values (CSV) file. To export the list, click **[!UICONTROL Export full site list]**, and then open or save the file according to your browser's normal procedure.
 
@@ -383,7 +383,7 @@ To specify topic targeting:
 1. (Optional) To download a CSV file with the ISP targeting information to your browser's Downloads location, click **[!UICONTROL Export]**.
 1. Click **[!UICONTROL Save]**.
 
-## [!UICONTROL Brand Safety and Media Targeting]
+## [!UICONTROL Brand Safety and Media Quality]
 
 **[!UICONTROL Contextual filtering]:** Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] contextual filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
 
