@@ -28,7 +28,7 @@ You can upload your first-party, offline conversion data &mdash; including hashe
 
 `Parameters:TimeZone=insert_timezone`
 
-Enter the account's timezone either in this location or in the "[!UICONTROL Conversion Time]" column for each row. Use either a) ([!DNL Google Ads only) the [supported timezone ID format ](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) or b) the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time).
+Enter the account's time zone either in this location or in the "[!UICONTROL Conversion Time]" column for each row. Use either a\) ([!DNL Google Ads only) the [supported time zone ID format](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) or b\) the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time).
 
 ### Table columns and values for [!DNL Google Ads]
 
@@ -37,7 +37,7 @@ Enter the account's timezone either in this location or in the "[!UICONTROL Conv
 | Email | The user's email address, which must be hashed using the SHA-256 algorithm. Each row must include either an Email value or a Phone Number value. |
 | Phone Number | The user's telephone number, which must be hashed using the SHA-256 algorithm. It must include a country code, and it may contain dashes and other symbols. Each row must include either an Email value or a Phone Number value. |
 | Conversion Name | (Required) The name of the conversion action. |
-| Conversion Time | (Required) The time the conversion event occurred in a [supported time format](https://support.google.com/google-ads/answer/7014069#prepare_data). If you don't include the account's timezone ID in the `Parameters:TimeZone=insert_timezone` line above the data table, then include the timezone for each row using either a) the [supported timezone ID format](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) or b) the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time).|
+| Conversion Time | (Required) The time the conversion event occurred in a [supported time format](https://support.google.com/google-ads/answer/7014069#prepare_data). If you don't include the account's time zone ID in the `Parameters:TimeZone=insert_timezone` line above the data table, then include the time zone for each row using either a\) the [supported time zone ID format](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) or b\) the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time).|
 | Conversion Value | (Required) The numeric conversion value. |
 | Conversion Currency | The currency code for the conversion event. |
 | Ad User Data | (Applicable for data pertaining to users in the European Economic Area (EEA) or United Kingdom (UK)) Indicates if user consent was given for sending user data to [!DNL Google] for ad personalization purposes. Values may include `Granted`, `Denied`, or \[null\] (which is sent to [!DNL Google Ads] as `Unspecified`). **Note:** [!DNL Google Ads] doesn't currently enforce consent for enhanced conversions for leads, but it may do so in the future. |
@@ -50,7 +50,7 @@ For more instructions for using the template, see [https://help.ads.microsoft.co
 | Column | Description |
 | ------ | ----------- |
 | Conversion Name | (Required) The name of the conversion action. |
-| Conversion Time | (Required) The time the conversion event occurred. If you don't include the account's timezone ID in the `Parameters:TimeZone=insert_timezone` line above the data table, then include the timezone for each row using the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time). For a list of time zones for various cities, see [https://learn.microsoft.com/en-us/advertising/guides/time-zones](https://learn.microsoft.com/en-us/advertising/guides/time-zones), but make sure that you use the format specified here instead of the format in the time zone list. |
+| Conversion Time | (Required) The time the conversion event occurred. If you don't include the account's time zone ID in the `Parameters:TimeZone=insert_timezone` line above the data table, then include the time zone for each row using the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time). For a list of time zones for various cities, see [https://learn.microsoft.com/en-us/advertising/guides/time-zones](https://learn.microsoft.com/en-us/advertising/guides/time-zones), but make sure that you use the format specified here instead of the format in the time zone list. |
 | Conversion Value | (Required) The numeric conversion value. |
 | Conversion Currency | The currency code for the conversion event. |
 | Microsoft Click ID | (Required for regular offline conversions) The associated unique [!DNL Microsoft] click identifier (MSCLKID). This field may be empty for enhanced offline conversions. |
