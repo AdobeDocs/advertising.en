@@ -28,7 +28,7 @@ You can upload your first-party, offline conversion data &mdash; including hashe
 
 `Parameters:TimeZone=insert_timezone`
 
-Enter the account's time zone either in this location or in the "[!UICONTROL Conversion Time]" column for each row. Use either a\) ([!DNL Google Ads only) the [supported time zone ID format](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) or b\) the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time).
+Enter the account's time zone either in this location or in the "[!UICONTROL Conversion Time]" column for each row. Use either a\) ([!DNL Google Ads only]) the [supported time zone ID format](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) or b\) the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time).
 
 ### Table columns and values for [!DNL Google Ads]
 
