@@ -53,12 +53,13 @@ For more instructions for using the template, see [https://help.ads.microsoft.co
 | Conversion Time | (Required) The time the conversion event occurred. If you don't include the account's time zone ID in the `Parameters:TimeZone=insert_timezone` line above the data table, then include the time zone for each row using the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time). For a list of time zones for various cities, see [https://learn.microsoft.com/en-us/advertising/guides/time-zones](https://learn.microsoft.com/en-us/advertising/guides/time-zones), but make sure that you use the format specified here instead of the format in the time zone list. |
 | Conversion Value | (Required) The numeric conversion value. |
 | Conversion Currency | The currency code for the conversion event. |
-| Microsoft Click ID | (Required for regular offline conversions) The associated unique [!DNL Microsoft] click identifier (MSCLKID). This field may be empty for enhanced offline conversions. |
-| Hashed Email Address | The user's email address, which must be hashed using the SHA-256 algorithm. For enhanced offline conversions, each row must include either a Hashed Email Address value or a Hashed Phone Number value. This field may be empty for regular offline conversions. |
-| Hashed Phone Number | The user's telephone number, which must be hashed using the SHA-256 algorithm. It must include a country code, and it may contain dashes and other symbols. For enhanced offline conversions, each row must include either a Hashed Email Address value or a Hashed Phone Number value. This field may be empty for regular offline conversions. |
+| Microsoft Click ID | The associated unique [!DNL Microsoft] click identifier (MSCLKID). This field may be empty for enhanced offline conversions. |
+| Hashed Email Address | The user's email address, which must be hashed using the SHA-256 algorithm. For enhanced offline conversions, each row must include either a Hashed Email Address value or a Hashed Phone Number value. |
+| Hashed Phone Number | The user's telephone number, which must be hashed using the SHA-256 algorithm. It must include a country code, and it may contain dashes and other symbols. For enhanced offline conversions, each row must include either a Hashed Email Address value or a Hashed Phone Number value. |
 
 >[!MORELIKETHIS]
 >
 >* [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)
 >* [Implement [!DNL Google Ads] enhanced conversions for leads](/help/search-social-commerce/campaign-management/special-workflows/google-enhanced-conversions-leads.md)
+>* [Implement [!DNL Microsoft Advertising] enhanced offline conversions](/help/search-social-commerce/campaign-management/special-workflows/microsoft-enhanced-conversions.md)
 >* [Upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
