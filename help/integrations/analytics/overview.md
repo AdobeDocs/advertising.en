@@ -64,7 +64,7 @@ Without requiring any additional pixels, [!DNL Analytics for Advertising] enable
 
 ### Site Conversion Metrics as Bid Signals
 
-You can use your standard events and custom events from [!DNL Analytics] to build weighted objectives in Adobe Advertising. Objectives inform bidding decisions for your [!DNL DSP] packages and Search portfolios.
+You can use your standard events and custom events from [!DNL Analytics] to build weighted objectives in Adobe Advertising. Objectives inform bidding decisions for your [!DNL DSP] packages and Search, Social, & Commerce portfolios.
 
 >[!NOTE]
 >
