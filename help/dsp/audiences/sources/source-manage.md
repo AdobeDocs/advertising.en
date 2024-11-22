@@ -28,7 +28,7 @@ You can create one source for each combination of universal ID partner and data 
 
 1. In the [!UICONTROL Select a Type] menu, select your [customer data platform](source-about.md):
 
-   * *[!UICONTROL RT-CDP]*: The [!DNL Adobe Real-Time Customer Data Platform].
+   * *[!UICONTROL RT-CDP]*: The [!DNL Adobe Real-Time CDP].
 
    * *[!UICONTROL ActionIQ]*: The [!DNL ActionIQ] customer data platform.
 
