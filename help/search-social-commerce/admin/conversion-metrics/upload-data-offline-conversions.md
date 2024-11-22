@@ -49,7 +49,7 @@ For more instructions for using the template, see [https://help.ads.microsoft.co
 
 | Column | Description |
 | ------ | ----------- |
-| Conversion Name | (Required) The name of the conversion action. |
+| Conversion Name | (Required) The name of the conversion goal. |
 | Conversion Time | (Required) The time the conversion event occurred. If you don't include the account's time zone ID in the `Parameters:TimeZone=insert_timezone` line above the data table, then include the time zone for each row using the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time). For a list of time zones for various cities, see [https://learn.microsoft.com/en-us/advertising/guides/time-zones](https://learn.microsoft.com/en-us/advertising/guides/time-zones), but make sure that you use the format specified here instead of the format in the time zone list. |
 | Conversion Value | (Required) The numeric conversion value. |
 | Conversion Currency | The currency code for the conversion event. |
@@ -59,7 +59,7 @@ For more instructions for using the template, see [https://help.ads.microsoft.co
 
 >[!MORELIKETHIS]
 >
->* [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)
 >* [Implement [!DNL Google Ads] enhanced conversions for leads](/help/search-social-commerce/campaign-management/special-workflows/google-enhanced-conversions-leads.md)
 >* [Implement [!DNL Microsoft Advertising] enhanced offline conversions](/help/search-social-commerce/campaign-management/special-workflows/microsoft-enhanced-conversions.md)
+>* ([!DNL Google Ads only])[Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)
 >* [Upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
