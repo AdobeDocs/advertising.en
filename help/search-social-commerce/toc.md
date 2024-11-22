@@ -405,9 +405,9 @@ index: yes
     + [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
     + [Change the conversion metrics available in management views and reports](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md)
     + [Change the display name for a conversion metric](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md)
-    + Managing ad network-specific conversion tags and conversion actions {#network-conversions}
+    + Managing ad network-specific conversion tags and conversion actions/goals {#network-conversions}
       + [Create a conversion tag for [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md)
-      + Managing conversion actions {#conversion-actions}
+      + Managing conversion actions and goals {#conversion-actions}
         + [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)
         + [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md)
 + [Get help](get-help.md)
