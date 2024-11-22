@@ -232,6 +232,7 @@ index: yes
       + [Implement [!DNL Google Ads] dynamic search ads](/help/search-social-commerce/campaign-management/special-workflows/google-dynamic-search-ads.md)
       + [Implement [!DNL Google Ads] performance max campaigns](/help/search-social-commerce/campaign-management/special-workflows/google-performance-max-campaigns.md)
       + [Implement [!DNL Google Ads] shopping campaigns](/help/search-social-commerce/campaign-management/special-workflows/google-shopping-campaigns.md)
+      + [Implement [!DNL Microsoft Advertising] enhanced conversions for offline conversions](/help/search-social-commerce/campaign-management/special-workflows/microsoft-enhanced-conversions.md)
       + [Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md)
     + [Manually synchronize ad network data](/help/search-social-commerce/campaign-management/campaigns/sync-network.md)
   + [Assign campaigns to a portfolio](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md)
