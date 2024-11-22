@@ -32,14 +32,13 @@ To use this feature, complete the following steps. The steps to create conversio
    
    1. Select whether to use a [!DNL Google] tag or [!DNL Google Tag Manager] to create the conversion tag.
 
-
-1. Configure and implement a [!DNL Google] tag for the conversion action.
+1. Configure and implement a tag to track the conversion action.
 
    For instructions, see the [!DNL Google Ads] help to create tags for enhanced conversions for leads [using a [!DNL Google] tag](https://support.google.com/google-ads/answer/11021502) or [using [!DNL Google Tag Manager]](https://support.google.com/google-ads/answer/11347292).
 
 1. Create a conversion action for the enhanced conversion for leads within either [Search, Social, & Commerce](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md) or [Google Ads](https://support.google.com/google-ads/answer/12216226).
 
-   For the **Type of Conversion,** select *Import Conversion* or *Import.*
+   If you create the conversion action within Search, Social, & Commerce, specify the **Type of Conversion** as *Import Conversion* or *Import.*
 
 1. As often as needed, upload first-party data, including hashed email addresses or telephone numbers, to attribute to the conversion for a specified account. You can complete this step from within either [Search, Social, & Commerce](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md) or using [!DNL Google Data Manager].   
    
