@@ -217,7 +217,11 @@ where:
 
 * Search campaigns:
 
-  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}`
+  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
+
+* Performance max campaigns
+  
+  `s_kwcid=AL!%(userid)d!{sid}!{AdId}!!!!{OrderItemId}!!{CampaignId}!{AdGroupId}`
 
 * Shopping campaigns (using [!DNL Microsoft Merchant Center]):
 
