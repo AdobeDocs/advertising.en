@@ -66,6 +66,8 @@ Without requiring any additional pixels, [!DNL Analytics for Advertising] enable
 
 You can use your standard events and custom events from [!DNL Analytics] to build weighted objectives in Adobe Advertising. Objectives inform bidding decisions for your [!DNL DSP] packages and Search, Social, & Commerce portfolios.
 
+For [!DNL Google Ads] and [!DNL Google Microsoft Advertising] campaigns in Search, Social, & Commerce hybrid portfolios, you can optionally upload the objectives &mdash; including any [!DNL Analytics] events in the objectives &mdash; directly to the ad networks, where they become available as conversion actions for account-level and campaign-level custom conversion goals.
+
 >[!NOTE]
 >
 > You can't map calculated metrics from [!DNL Analytics] into Adobe Advertising.
