@@ -18,11 +18,13 @@ The current format includes parameters for campaign ID and ad group ID:
 s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}
 ```
 
-You can change to the current format for any or all of your existing accounts, individually. If you don't have performance max campaigns or drafts and experiments campaigns, migrating then to the new format is optional.
+For an existing account that uses the legacy format, you can change to the current format. If you don't have performance max campaigns or drafts and experiments campaigns, migrating then to the new format is optional.
 
 All new [!DNL Google Ads] accounts automatically use the current AMO ID format.
 
 >[!NOTE]
+>
+>This option is available only for accounts that don't use the current format.
 >
 >After you migrate an account, all click, cost, and impression data are reported correctly after the change, but any click-throughs that occurred before the migration are still attributed to conversion data based on the old AMO ID format.
 
@@ -34,7 +36,7 @@ All new [!DNL Google Ads] accounts automatically use the current AMO ID format.
 
 1. Begin the migration:
 
-   1. Next to **[!UICONTROL S_KWCID FORMAT]** , click **[!UICONTROL LEGACY S_KWCID FORMAT]**.
+   1. Next to **[!UICONTROL S_KWCID FORMAT]** in the  [!UICONTROL Account Tracking] settings, click **[!UICONTROL LEGACY S_KWCID FORMAT]**.
 
    1. Click **[!UICONTROL Migrate to new s_kwcid format]**.
 
