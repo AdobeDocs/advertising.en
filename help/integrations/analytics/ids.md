@@ -215,23 +215,26 @@ where:
 
 ##### [!DNL Microsoft Advertising]
 
-* Search campaigns:
+* All campaign types:
 
-  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}`
-
-* Shopping campaigns (using [!DNL Microsoft Merchant Center]):
-
-  `s_kwcid=AL!{userid}!{sid}!{AdId}!{CriterionId}`
-
-* Audience network campaigns:
-
-  `s_kwcid=AL!{userid}!{sid}!{AdId}`
+  `s_kwcid=AL!{userid}!{sid}!{AdId}!!!!{OrderItemId}!!{CampaignId}!{AdGroupId}`
 
 where:
 
 * `{AdId}` is the ad network's unique numeric ID for the creative.
 * `{OrderItemId}` is the ad network's numeric ID for the keyword.
-* `{CriterionId}` is the ad network's numeric ID for the product group used with product ads.
+* `{CampaignId}` is the ad network's unique numeric ID for the campaign.
+* `{AdGroupId}` is the ad network's unique numeric ID for the ad group.
+
+>[!NOTE]
+>
+>All accounts with performance max campaigns were migrated to the above format. For accounts with other campaign types, your landing page suffixes will be migrated to use the new s_kwcid format by early 2025. In the meantime, the legacy formats, as follows, still work: 
+>* Search campaigns:
+>  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
+>* Shopping campaigns (using [!DNL Microsoft Merchant Center]):
+>  `s_kwcid=AL!{userid}!{sid}!{AdId}!{CriterionId}`
+>* Audience network campaigns:
+>  `s_kwcid=AL!{userid}!{sid}!{AdId}`
 
 ##### [!DNL Yahoo! Japan Ads]
 
