@@ -385,7 +385,7 @@ To specify topic targeting:
 
 ## [!UICONTROL Brand Safety and Media Quality]
 
-**[!UICONTROL DoubleVerify ABS segment ID]:** ([!DNL DoubleVerify] customers only; placement types that support contextual filtering only<!-- Should I point out what they are -->; optional) A [!DNL DoubleVerify Authentic Brand Safety] segment ID associated with the organization's [!DNL DoubleVerify] account to use to the placement. Specifying an ID blocks impressions post-bid using the custom brand safety rules configured for the specified segment ID. DSP bills your account for usage for the segment ID.
+**[!UICONTROL DoubleVerify ABS segment ID]:** (Optional; [!DNL DoubleVerify] customers only; available for desktop pre-roll, standard and click-to-play display, and native display and video placements only; not supported for [default programmatic guaranteed placements for deals](programmatic-guaranteed-about.md)) A [!DNL DoubleVerify Authentic Brand Safety] segment ID associated with the organization's [!DNL DoubleVerify] account to use for the placement. Specifying an ID blocks impressions post-bid using the custom brand safety rules configured for the specified segment ID. DSP bills your account for usage for the segment ID..
 
 The ID must begin with "51" and consist of eight digits. By default, if a segment ID is specified in the advertiser account settings, then the advertiser-level ID is entered, but you can change the ID to use a different segment or delete the ID to disable the feature.
 
