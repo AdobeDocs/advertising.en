@@ -227,5 +227,5 @@ index: yes
     + [About Alert Subscriptions](/help/dsp/admin/alerts-about.md)
     + [Manage Alert Subscriptions](/help/dsp/admin/alerts-manage.md)
 + [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-+ [Customer Support](https://helpx.adobe.com/contact/enterprise-support.ec.html)
++ [Customer Support](https://experienceleague.adobe.com/home?support-tab=home#support)
 + [Adobe Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

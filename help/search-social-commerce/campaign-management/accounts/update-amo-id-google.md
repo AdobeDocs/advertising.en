@@ -18,11 +18,13 @@ The current format includes parameters for campaign ID and ad group ID:
 s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}
 ```
 
-You can change to the current format for any or all of your existing accounts, individually. If you don't have performance max campaigns or drafts and experiments campaigns, migrating then to the new format is optional.
+For an existing account that uses the legacy format, you can change to the current format. If you don't have performance max campaigns or drafts and experiments campaigns, migrating then to the new format is optional.
 
 All new [!DNL Google Ads] accounts automatically use the current AMO ID format.
 
 >[!NOTE]
+>
+>This option is available only for accounts that don't use the current format.
 >
 >After you migrate an account, all click, cost, and impression data are reported correctly after the change, but any click-throughs that occurred before the migration are still attributed to conversion data based on the old AMO ID format.
 
@@ -34,7 +36,7 @@ All new [!DNL Google Ads] accounts automatically use the current AMO ID format.
 
 1. Begin the migration:
 
-   1. Next to **[!UICONTROL S_KWCID FORMAT]** , click **[!UICONTROL LEGACY S_KWCID FORMAT]**.
+   1. Next to **[!UICONTROL S_KWCID FORMAT]** in the  [!UICONTROL Account Tracking] settings, click **[!UICONTROL LEGACY S_KWCID FORMAT]**.
 
    1. Click **[!UICONTROL Migrate to new s_kwcid format]**.
 
@@ -52,7 +54,7 @@ All new [!DNL Google Ads] accounts automatically use the current AMO ID format.
 
    * When the [!UICONTROL Auto Upload]" feature is enabled in the tracking settings, Search, Social, & Commerce automatically updates the tracking code in the Landing Page Suffix for this account and its campaigns. You don't have to do anything.
 
-   * When the [!UICONTROL Auto Upload]" feature isn't enabled, and you don't use the [server-side AMO ID feature](/help/integrations/analytics/ids.md#amo-id-formats), then you must manually update the AMO ID parameter in the Landing Page Suffix settings. You can change account- and campaign-level suffixes manually in the account and campaign settings or by uploading changes in a bulksheet. To configure a suffix at the ad group level or lower, use the [!DNL Google Ads] editor.
+   * When the [!UICONTROL Auto Upload]" feature isn't enabled, and you don't use the [server-side AMO ID feature](/help/integrations/analytics/ids.md#amo-id-formats), then you must manually update the AMO ID parameter in the Landing Page Suffix settings. You can change account- and campaign-level suffixes manually in the [account settings](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md) and [campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) or by [uploading changes in a bulksheet](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-upload.md). To configure a suffix at the ad group level or lower, use the [!DNL Google Ads] editor.
    
    * If you include the AMO ID in the Base URL setting for any campaign component, then move it to the relevant Landing Page Suffix setting.
 
