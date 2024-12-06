@@ -2,6 +2,7 @@
 title: Implement [!DNL Microsoft Advertising] enhanced conversions for offline conversions
 description: Learn about the workflow for setting up [!DNL Microsoft Advertising] enhanced conversions for offline conversions.
 feature: Search Campaign Management, Conversions
+exl-id: 44937db7-9e80-4a5d-85c7-5bd5febc3b96
 ---
 # Implement [!DNL Microsoft Advertising] enhanced conversions for offline conversions
 
