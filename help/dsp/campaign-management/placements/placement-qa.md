@@ -103,6 +103,10 @@ You can upload settings for your placements, and for the ads and packages associ
 
 ### Campaign-level Spreadsheets
 
+<!-- 
+Check on Brand Safety - Contextual Filtering # with new DV feature/fct change.
+-->
+
 | Section | Column | Description | Editable? |
 |---------|--------|-------------|-----------|
 | [!UICONTROL Basic] | [!UICONTROL Placement ID] | The numeric ID of the placement. | &mdash; |
