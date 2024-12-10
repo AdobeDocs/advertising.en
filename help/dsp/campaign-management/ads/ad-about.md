@@ -13,7 +13,7 @@ DSP supports ad delivery via third-party ad serving tags (such as Google, Flasht
 <!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
 <!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
 
-Once your ads are set up, attach each ad to a placement, which includes the targeting parameters (such as geo, audience, device, and inventory targeting) that control how your campaign delivers. You can attach a single ad to one or multiple placements.
+Once your ads are set up, attach each ad to one or more placements, which include the targeting parameters (such as geo, audience, device, and inventory targeting) that control how your campaign delivers. You must attach an ad to a placement to begin running the ad.
 
 ## Available Ad Types {#ad-types}
 
