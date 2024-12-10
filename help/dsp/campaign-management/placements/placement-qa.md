@@ -194,6 +194,25 @@ Check on Brand Safety - Contextual Filtering # with new DV feature/fct change.
 | [!UICONTROL Secondary Frequency Cap Interval Value] | The number of weeks, days, hours, or minutes for which the [!UICONTROL Secondary Frequency Cap] applies. For example, if the secondary cap is three impressions per six hours, then the value here would be `6`. | Yes |
 | [!UICONTROL Attached Ad ID] | The unique DSP-generated Ad IDs of any ads attached to the placement, separated by semi-colons. To download a list of ad names and associated Ad IDs from the [!UICONTROL Ads] view, create a custom view that includes the [!UICONTROL Ad ID] metric, and then [export the data](/help/dsp/campaign-management/reports/campaign-export-data.md). | Yes |
 
+
+<!-- LOTS MORE THAN I HAD ORIGINALLY DOCUMENTED -- BELOW ARE THE LAST, BUT NOT ALL:
+
+Brand Safety - Contextual Filtering #								"		
+
+| Brand Safety | Brand Safety - Contextual Filtering # |  |  |
+| Brand Safety | Brand Safety - Pre-Bid Fraud blocking # |  |  |
+| Brand Safety | Brand Safety - Pre-Bid Viewability # |  |  |
+| Brand Safety | Site Safety Block |  |  |
+| Tracking | Tracking Pixels # |  |  |
+| Tracking | Conversion Pixels # |  |  |
+| Tracking | 3rd-party fees |  |  |
+| # of Ads Attached |  |  |
+| Ads |  Ad Names |  |  |
+| Ads | Attached Ad ID |  |  |
+| Environment | Environment |  |  |
+-->
+
+
 >[!MORELIKETHIS]
 >
 >* [Review and Edit Campaign Component Settings Using Bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)
