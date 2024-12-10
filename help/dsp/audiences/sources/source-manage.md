@@ -48,7 +48,7 @@ You can create one source for each combination of universal ID partner and data 
 
 >[!NOTE]
 >
->After you create a source for your customer data platform, you'll need to complete additional steps to import your audience. See the [workflow for [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md),<!-- the [workflow for [!DNL ActionIQ]](source-actioniq.md), --> the [workflow for [!DNL Amperity]](source-amperity.md), the [workflow for [!DNL Optimizely]](source-optimizely.md), and the [workflow for [!DNL Tealium]](source-tealium.md).
+>After you create a source for your customer data platform, you must complete additional steps to import your audience. See the [workflow for [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md),<!-- the [workflow for [!DNL ActionIQ]](source-actioniq.md), --> the [workflow for [!DNL Amperity]](source-amperity.md), the [workflow for [!DNL Optimizely]](source-optimizely.md), and the [workflow for [!DNL Tealium]](source-tealium.md).
 
 ## Change the ID Types for an Audience Source
 
