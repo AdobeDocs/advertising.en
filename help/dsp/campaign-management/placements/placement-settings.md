@@ -385,7 +385,15 @@ To specify topic targeting:
 
 ## [!UICONTROL Brand Safety and Media Quality]
 
+**[!UICONTROL DoubleVerify ABS segment ID]:** (Optional; [!DNL DoubleVerify] customers only; available for desktop pre-roll, standard and click-to-play display, and native display and video placements only; not supported for [default programmatic guaranteed placements for deals](/help/dsp/inventory/programmatic-guaranteed-about.md)) A [!DNL DoubleVerify Authentic Brand Safety] segment ID associated with the organization's [!DNL DoubleVerify] account to use for the placement. Specifying an ID blocks impressions post-bid using the custom brand safety rules configured for the specified segment ID. DSP bills your account for usage for the segment ID.
+
+The ID must begin with "51" and consist of eight digits. By default, if a segment ID is specified in the advertiser account settings, then the advertiser-level ID is entered, but you can change the ID to use a different segment or delete the ID to disable the feature.
+
 **[!UICONTROL Contextual filtering]:** Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] contextual filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
+
+<!-- Looks like we didn't rename this:
+**[!UICONTROL Brand Safety categories]:** Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] brand safety category filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
+-->
 
 * [!UICONTROL DoubleVerify]:
 
@@ -435,8 +443,6 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
 * *[!UICONTROL Ads.txt sellers only]*: To buy inventory only from a domain's authorized direct sellers.
 
 **[!UICONTROL Attention Targeting]:** (Display, video, mobile, and standard connected TV placements) Targets [!DNL Adelaide] pre-bid segments with a specific attention level (high, medium, or low) based on the specified site, format, and ad size. The segments are updated weekly. **Note:** Using [!DNL Adelaide] segments for targeting incurs a CPM fee for each impression delivered with [!DNL Adelaide] attention targeting; this fee is separate from fees for [attention measurement](/help/dsp/campaign-management/campaigns/campaign-settings.md). For interactive pre-roll placements, you're charged only for VAST impressions.
-
-**[!UICONTROL DoubleVerify Authentic Brand Safety]:** (Advertisers configured with the [!UICONTROL DoubleVerify Authentic Brand Safety] option) Enables [!DNL DoubleVerify Authentic Brand Safety], which blocks impressions post-bid using the custom brand safety rules configured for the specified segment ID. DSP bills your account for usage for the segment ID specified in the advertiser settings.
 
 ## [!UICONTROL Tracking] {#placement-tracking}
 
