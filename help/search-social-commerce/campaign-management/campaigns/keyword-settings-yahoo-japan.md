@@ -8,7 +8,7 @@ feature: Search Campaign Management
 
 ## [!UICONTROL Keyword Details]
 
-**[!UICONTROL Keywords]:** The keywords. The maximum length is 80 characters, including any [[!DNL Yahoo! Japan Ads] match type syntax](https://ads-help.yahoo.co.jp/yahooads/ss/articledetail?lan=en&aid=27) for keywords.
+**[!UICONTROL Keywords]:** The keywords. The maximum length is 80 characters, including any [[!DNL Yahoo! Japan Ads] match type syntax](https://ads-help.yahoo-net.jp/s/article/H000044997) for keywords.
 
 You can enter or paste up to 2000 keywords. Separate multiple keywords with commas, or enter them on separate lines.
 
