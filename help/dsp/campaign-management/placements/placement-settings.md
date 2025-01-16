@@ -442,7 +442,7 @@ Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filterin
 * *[!UICONTROL Ads.txt sellers only]*: To buy inventory only from a domain's authorized direct sellers and resellers.
 * *[!UICONTROL Ads.txt sellers only]*: To buy inventory only from a domain's authorized direct sellers.
 
-**[!UICONTROL Attention Targeting]:** (Display, video, mobile, and standard connected TV placements) Targets [!DNL Adelaide] pre-bid segments with a specific attention level (high, medium, or low) based on the specified site, format, and ad size. The segments are updated weekly. **Note:** Using [!DNL Adelaide] segments for targeting incurs a CPM fee for each impression delivered with [!DNL Adelaide] attention targeting; this fee is separate from fees for [attention measurement](/help/dsp/campaign-management/campaigns/campaign-settings.md). For interactive pre-roll placements, you're charged only for VAST impressions.
+**[!UICONTROL Attention Targeting]:** (Display, video, and standard connected TV placements) Targets [!DNL Adelaide] pre-bid segments with a specific attention level (high, medium, or low) based on the specified site, format, and ad size. The segments are updated weekly. **Note:** Using [!DNL Adelaide] segments for targeting incurs a CPM fee for each impression delivered with [!DNL Adelaide] attention targeting; this fee is separate from fees for [attention measurement](/help/dsp/campaign-management/campaigns/campaign-settings.md). For interactive pre-roll placements, you're charged only for VAST impressions.
 
 ## [!UICONTROL Tracking] {#placement-tracking}
 
