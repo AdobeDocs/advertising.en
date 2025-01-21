@@ -26,7 +26,7 @@ For campaigns with the "[!UICONTROL Auto Upload]" option, the sync operation als
 
 1. Select the check box next to each account or campaign that you want to sync. You can sync up to 50 campaigns at a time. If you sync more than five accounts at a time, the job is broken into batches of up to five accounts each.
 
-1. Click **![More](/help/search-social-commerce/assets/more.png "More")** in the toolbar, and then select **[!UICONTROL Sync]**.
+1. Click ![**More**](/help/search-social-commerce/assets/more.png "More") in the toolbar, and then select **[!UICONTROL Sync]**.
 
 You can follow the status of the sync job in the [!UICONTROL Workspace] view. The job may take
 an hour or more to appear.
