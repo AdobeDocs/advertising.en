@@ -175,6 +175,8 @@ This has the same value as the legacy column "Weighted Revenue."
 
 **`s_kwcid`:** See "AMO ID."
 
+**tracking template:** (Accounts with final URLs only) The tracking template or tracking URL, which specifies all off-landing domain redirects and tracking parameters and embeds the final/advanced URL in a parameter. For Adobe Advertising conversion tracking, which is applied when the campaign settings include "[!UICONTROL EF Redirect]" and "[!UICONTROL Auto Upload]," Search, Social, & Commerce automatically prefixes its own redirect and tracking code when you save the record.
+
 **tracking URL:** A tracking template or a destination URL with extra parameters added to track information about clicks on the ad. It may include a redirect URL to first send users to a tracking server before redirecting them to the advertiser's landing page.
 
 **transaction:** Any trackable event that occurs online or offline. Multiple transaction events may be tracked together as part of the same transaction or conversion; for example, an online request for information plus a resulting order by telephone might be considered components of a purchase. The terms "transaction" and "conversion" are often used interchangeably. A transaction is represented by a transaction ID, and it has one or more properties associated with it.
