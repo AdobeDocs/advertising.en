@@ -255,7 +255,7 @@ For full instructions, see "[Update the AMO ID tracking code for a [!DNL Google 
 
 **Report Suite Names:** (For EF Redirect with token only; advertisers with an Adobe Advertising-Adobe Analytics integration; optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks. 
 
-For the data to appear in the report suites, either (a) the server-side AMO ID feature must be configured for the account or (b) the advertiser-level setting to "[!UICONTROL Enable tracking for SAINT feeds]" must be enabled. In addition, the advertiser's Analytics account must be configured to receive data from Search, Social, & Commerce. For more information, contact your Adobe Account Team.
+For the data to appear in the report suites, either (a) the server-side AMO ID feature must be configured for the account or (b) the advertiser-level setting to "[!UICONTROL Enable Advertising reporting in Analytics]" must be enabled. In addition, the advertiser's Analytics account must be configured to receive data from Search, Social, & Commerce. For more information, contact your Adobe Account Team.
 
 >[!MORELIKETHIS]
 >

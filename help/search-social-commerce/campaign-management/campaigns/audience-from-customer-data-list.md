@@ -22,7 +22,7 @@ For [!DNL Microsoft Advertising] accounts, the file can include email addresses.
 
 1. Generate a file with the customer data in the required format.
 
-   First and last names, email addresses, and telephone numbers must be hashed using the SHA-256 algorithm. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> For [!DNL Google Ads] audiences, see the [!DNL Google Ads] documentation on "[Formatting guidelines for uploading hashed data](https://support.google.com/google-ads/answer/7476159)" for a list of permitted contact information fields and requirements. For [!DNL Microsoft Advertising] audiences, see the [!DNL Microsoft Advertising] documentation on [preparing customer match lists](https://help.ads.microsoft.com/#apex/ads/en/56921. You can optionally download a [!DNL Microsoft Excel] template for contact information.
+   First and last names, email addresses, and telephone numbers must be hashed using the SHA-256 algorithm. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> For [!DNL Google Ads] audiences, see the [!DNL Google Ads] documentation on "[Formatting guidelines for uploading hashed data](https://support.google.com/google-ads/answer/7476159)" for a list of permitted contact information fields and requirements. For [!DNL Microsoft Advertising] audiences, see the [!DNL Microsoft Advertising] documentation on [preparing customer match lists](https://help.ads.microsoft.com/#apex/ads/en/56921). You can optionally download a [!DNL Microsoft Excel] template for contact information.
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Audiences] > [!UICONTROL Library]**.
 
@@ -42,17 +42,17 @@ For [!DNL Microsoft Advertising] accounts, the file can include email addresses.
 
          The User IDs option is available only to [!DNL Google Ads] advertisers in the U.S. who are opted in for [user ID segments](https://support.google.com/google-ads/answer/9199250)
 
-      1. (Mobile device ID lists only) Select the **[!UICONTROL OS Type]** (*[!UICONTROL Android™]* or *[!UICONTROL iOS]*), and enter the **[!UICONTROL App ID]**.
+      1. (Mobile device ID lists only) Select the **[!UICONTROL OS Type]** (*[!UICONTROL Android&trade;]* or *[!UICONTROL iOS]*), and enter the **[!UICONTROL App ID]**.
       
          The App ID is a unique identifier that the mobile operating system uses to allow your application to connect to the Google Play or Apple App Store:
          
-         * ([!DNL Android™] apps) The [!DNL Android™] package name within [!DNL Google Play], identified by "`id=<package_name>`."
+         * ([!DNL Android&trade;] apps) The [!DNL Android&trade;] package name within [!DNL Google Play], identified by "`id=<package_name>`."
          
-           For example, in https://play.google.com/store/apps/details?id=com.example.game, the package name is com.example.game.
+           For example, in `https://play.google.com/store/apps/details?id=com.example.game`, the package name is com.example.game.
            
          * ([!DNL iOS] apps) The application ID within the [!DNL iTunes App Store], identified by "`<idNNNNNNNNN>`" at the end of the URL. It's also available in the [!DNL iOS Developer Console].
          
-           For example, in https://itunes.apple.com/us/app/id284882215, the ID is id284882215.
+           For example, in `https://itunes.apple.com/us/app/id284882215`, the ID is id284882215.
 
          Your development team has access to the [!UICONTROL App ID] for the relevant platform.
 
