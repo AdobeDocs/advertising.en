@@ -1,7 +1,7 @@
 ---
 title: Manage retargeting pixels
 description: Learn how to create and implement retargeting pixels to use as targets for ad experiences.
-feature: Creative x
+feature: Creative Pixels
 ---
 # Manage retargeting pixels
 
