@@ -27,7 +27,7 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
      
    * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**
 
-1. <!-- I see multiselect, but it's not actually working for me as of 2/3 so I don't know how exporting multiple tags works.-->Hold the cursor over the row for the applicable ad tag and click either ![Export ad tags](/help/creative/assets/export.jpg "Export ad tags") **[!UICONTROL Export ad tags]** or **[!UICONTROL ... More] > **[!UICONTROL Export ad tags]**.
+1. <!-- I see multiselect, but it's not actually working for me as of 2/3 so I don't know how exporting multiple tags works.-->Hold the cursor over the row for the applicable ad tag and click either ![Export ad tags](/help/creative/assets/export.png "Export ad tags") **[!UICONTROL Export ad tags]** or **[!UICONTROL ... More] > **[!UICONTROL Export ad tags]**.
 
 <!-- Tag Manager has only a list view, but no card view, as of 2/2. -->
 
@@ -51,7 +51,7 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
 1. Copy or download the tags:
 
-   * To copy a tag for a single ad size, expand the tag row, hold the cursor over the row, and then click ![Copy](/help/creative/assets/copy.jpg "Copy) **[!UICONTROL Copy]**.<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->
+   * To copy a tag for a single ad size, expand the tag row, hold the cursor over the row, and then click ![Copy](/help/creative/assets/copy.png "Copy) **[!UICONTROL Copy]**.<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->
    
    * To download all generated tags as a file to your browser's default download location, click ![Download tags](/help/creative/assets/download.png "Download tags").
    

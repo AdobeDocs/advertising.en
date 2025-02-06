@@ -19,6 +19,6 @@ You can allow other people without a login to [!DNL Creative] to preview an expe
    
    * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Preview]**.
 
-1. In the upper right of the preview, click ![Share](/help/creative/assets/share.jpg "Share").
+1. In the upper right of the preview, click ![Share](/help/creative/assets/share.png "Share").
 
 1. In the [!UICONTROL Share Demo URL] dialog, click **[!UICONTROL Copy]** to copy the URL to your clipboard so that you can share it with someone else.
