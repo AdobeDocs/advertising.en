@@ -51,7 +51,7 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
 1. Copy or download the tags:
 
-   * To copy a tag for a single ad size, expand the tag row, hold the cursor over the row, and then click ![Copy](/help/creative/assets/copy.png "Copy) **[!UICONTROL Copy]**.<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->
+   * To copy a tag for a single ad size, expand the tag row, hold the cursor over the row, and then click ![Copy](/help/creative/assets/copy.png "Copy") **[!UICONTROL Copy]**.<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->
    
    * To download all generated tags as a file to your browser's default download location, click ![Download tags](/help/creative/assets/download.png "Download tags").
    
