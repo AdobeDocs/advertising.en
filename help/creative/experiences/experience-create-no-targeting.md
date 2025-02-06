@@ -1,0 +1,36 @@
+---
+title: Create an experience without decision tree targeting
+description: Learn how to create an ad experience without targeting.
+feature: Creative Experiences
+---
+# Create an experience without decision tree targeting
+
+*Closed beta*
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
+
+1. Click **[!UICONTROL Create New Experience]**.
+
+1. Enter the [experience settings](experience-settings-no-targeting.md).
+
+1. Click **[!UICONTROL Create]**.
+
+1. (Optional) Continue to configure the experience:
+
+   * [Manually create an ad tag for an applicable creative size](experience-tag-create-manually.md).
+   
+   * [Assign creatives to an ad tag](experience-tag-assign-creatives.md).
+   
+   * [Customize the tracking URLs](experience-tracking-urls-no-targeting.md)
+   
+   * [Customize creative optimization and scheduling](experience-optimization-scheduling-no-targeting.md).
+
+>[!MORELIKETHIS]
+>
+>* [Settings for non-targeted experiences](experience-settings-no-targeting.md)
+>* [Edit an experience without decision tree targeting](experience-edit-no-targeting.md)
+>* [Manually create an ad tag for an applicable creative size](/help/creative/experiences/experience-tag-create-manually.md)
+>* [Assign creatives to an ad tag for experiences without targeting](experience-tag-assign-creatives.md)
+>* [Customize the tracking URLs for an experience without targeting](/help/creative/experiences/experience-tracking-urls-no-targeting.md)
+>* [Customize creative optimization and scheduling for an experience without targeting](/help/creative/experiences/experience-optimization-scheduling-no-targeting.md)
+>* [Export and implement an ad experience tag for a live experience](/help/creative/experiences/experience-tag-export.md)
