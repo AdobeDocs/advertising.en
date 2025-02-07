@@ -110,16 +110,16 @@ index: no
     + [Create an experience without targeting](/help/creative/experiences/experience-create-no-targeting.md)
     + [Edit an experience without targeting](/help/creative/experiences/experience-edit-no-targeting.md)
     + [Nontargeted experience settings](/help/creative/experiences/experience-settings-no-targeting.md)
-    + Creatives{#non-targeted-creatives}<!-- wording????? -->
+    + Creatives{#non-targeted-creatives}
       + [Manually create an ad tag for an applicable creative size](/help/creative/experiences/experience-tag-create-manually.md)
       + [Assign creatives to an ad tag for experiences without targeting](/help/creative/experiences/experience-tag-assign-creatives.md)
       + [Customize the tracking URLs for an experience without targeting](/help/creative/experiences/experience-tracking-urls-no-targeting.md)
       + [Customize creative optimization and scheduling for an experience without targeting](/help/creative/experiences/experience-optimization-scheduling-no-targeting.md)
   + [Clone an experience](/help/creative/experiences/experience-clone.md)
   + [Preview an experience](/help/creative/experiences/experience-preview.md)
+  + [Export and implement an ad experience tag for a live experience](/help/creative/experiences/experience-tag-export.md)
   + [Share a demo URL for an experience](/help/creative/experiences/experience-share-demo-url.md)
   + [Download all experiences in the view](/help/creative/experiences/experience-download-view.md)
-  + [Export and implement an ad experience tag for a live experience](/help/creative/experiences/experience-tag-export.md)
   + [Rename an ad tag](/help/creative/experiences/experience-tag-rename.md)
   + [Delete an experience](/help/creative/experiences/experience-delete.md)
 + [Retargeting pixels](/help/creative/pixels/retargeting-pixel-manage.md)
