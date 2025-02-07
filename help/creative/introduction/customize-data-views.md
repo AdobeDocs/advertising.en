@@ -2,6 +2,7 @@
 title: Customize your data views
 description: Learn how to customize the data within each of the available views.
 feature: Creative Introduction
+exl-id: 5255e0e4-a7f8-41d2-9b38-0e276dc1f3f0
 ---
 # Customize your data views
 

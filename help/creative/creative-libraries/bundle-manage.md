@@ -2,6 +2,7 @@
 title: Manage creative bundles
 description: Learn about xxxx.
 feature: Creative Bundles
+exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
 ---
 # Manage creative bundles
 

@@ -2,6 +2,7 @@
 title: Customize the tracking URLs for an experience without targeting
 description: Learn how to customize the tracking URLs for each creative in an experience without decision tree targeting.
 feature: Creative Experiences
+exl-id: 03a10285-c0df-4bc3-92c7-c1c2ea3f8129
 ---
 # Customize the tracking URLs for an experience without decision tree targeting
 

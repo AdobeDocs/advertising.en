@@ -2,6 +2,7 @@
 title: The decision tree layout
 description: Learn about the decision tree layout for experiences with targeting.
 feature: Creative Experiences
+exl-id: 1d997422-8177-4a6b-b56a-e1c742b96ad2
 ---
 # The decision tree layout for [!DNL Creative] experiences
 

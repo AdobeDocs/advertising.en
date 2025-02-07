@@ -2,6 +2,7 @@
 title: Attach a creative to creative bundles
 description: Learn how to attach a creative to a creative bundle.
 feature: Creative Standard Creatives, Creative Dynamic Creatives, Creative Bundles
+exl-id: 833c4102-8577-4ba1-be07-7e032cec94ca
 ---
 # Attach and detach creatives from creative bundles
 

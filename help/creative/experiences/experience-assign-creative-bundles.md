@@ -2,6 +2,7 @@
 title: Assign and unassign creative bundles to a final node in an experience
 description: Learn how to assign creatives to each target in your ad experiences.
 feature: Creative Experiences
+exl-id: 5449a760-6ade-41c0-9cab-bd92026b150b
 ---
 # Assign and unassign creative bundles to a final node in an experience
 

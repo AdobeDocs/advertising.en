@@ -2,6 +2,7 @@
 title: Duplicate creatives
 description: Learn how to duplicate creatives in a creative library.
 feature: Creative Standard Creatives, Creative Dynamic Creatives
+exl-id: ec6ce2f5-fe2e-4c95-b0d9-dc09f3ce55c4
 ---
 # Duplicate creatives
 

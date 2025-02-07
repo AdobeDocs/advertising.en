@@ -2,6 +2,7 @@
 title: Delete an experience
 description: Learn how to delete an unused experience.
 feature: Creative Experiences
+exl-id: 5658692f-4ae6-41d5-82d3-78ff5560b95f
 ---
 # Delete an experience
 
@@ -27,4 +28,3 @@ You can delete experiences that aren't [live](experience-about.md#experience-sta
 >
 >* [Create an experience with decision tree targeting](experience-create-targeting.md)
 >* [Create an experience without decision tree targeting](experience-create-no-targeting.md)
- 

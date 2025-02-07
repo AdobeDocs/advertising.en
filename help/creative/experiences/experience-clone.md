@@ -2,6 +2,7 @@
 title: Clone an experience
 description: Learn how to create an experience by cloning an existing experience.
 feature: Creative Experiences
+exl-id: 8c305732-f2ff-4a9d-80ad-e9e0f6484ba2
 ---
 # Clone an experience
 

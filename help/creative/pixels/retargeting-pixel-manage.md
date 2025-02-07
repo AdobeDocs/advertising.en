@@ -2,6 +2,7 @@
 title: Manage retargeting pixels
 description: Learn how to create and implement retargeting pixels to use as targets for ad experiences.
 feature: Creative Pixels
+exl-id: dcd13c5a-315d-4380-99f9-6dbab3e1e1be
 ---
 # Manage retargeting pixels
 

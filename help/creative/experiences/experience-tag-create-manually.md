@@ -2,6 +2,7 @@
 title: Manually create an ad tag for an applicable creative size
 description: Learn how to create an ad tag for a specific creative size.
 feature: Creative Experiences
+exl-id: 77dedfa2-33de-4a92-a58b-1a2b91842f0a
 ---
 # (Experiences without targeting) Manually create an ad tag for an applicable creative size
 

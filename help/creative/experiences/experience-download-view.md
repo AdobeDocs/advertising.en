@@ -1,7 +1,8 @@
 ---
 title: Download data from the [!UICONTROL Experiences] view
-description: Learn how to 
+description: Learn how to
 feature: Creative Experiences
+exl-id: 8362ac34-0de8-4bed-873d-dc20f39946bf
 ---
 # Download data from the [!UICONTROL Experiences] view
 

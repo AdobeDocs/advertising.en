@@ -2,6 +2,7 @@
 title: HTML5 creative specification
 description: Reference the HTML5 creative specification for Advertising Creative.
 feature: Creative Standard Creatives
+exl-id: 06d29442-d688-4fb8-ad6f-cba0a897fde0
 ---
 # HTML5 creative specification for Advertising Creative
 

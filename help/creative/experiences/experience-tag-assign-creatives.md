@@ -2,6 +2,7 @@
 title: Assign creatives to an ad tag for experiences without targeting
 description: Learn how to assign creatives to an ad tag for a specific creative size.
 feature: Creative Experiences
+exl-id: 864f10ef-75ca-4081-93d9-8540476b17f0
 ---
 # Assign creatives to an ad tag for experiences without targeting
 

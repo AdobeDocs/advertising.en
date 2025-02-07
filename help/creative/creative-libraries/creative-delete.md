@@ -2,6 +2,7 @@
 title: Delete creatives
 description: Learn how to delete creatives in a creative library.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
+exl-id: 5dc197dc-c4bb-489a-8395-b7c8efa47ea1
 ---
 # Delete creatives from a creative library
 

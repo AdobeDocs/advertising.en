@@ -2,6 +2,7 @@
 title: Settings for non-targeted experiences
 description: See descriptions of all settings for ad experiences without decision tree targeting.
 feature: Creative Experiences
+exl-id: aeeca035-8ae2-4173-827a-b8690d228549
 ---
 # Settings for non-targeted experiences
 

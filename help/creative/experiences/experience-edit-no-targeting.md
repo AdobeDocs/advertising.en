@@ -1,7 +1,8 @@
 ---
 title: Edit an experience without decision tree targeting
-description: Learn how to edit the settings for an ad experience without targeting. 
+description: Learn how to edit the settings for an ad experience without targeting.
 feature: Creative Experiences
+exl-id: 29f54944-72a0-405a-bc11-87ea03edc09a
 ---
 # Edit an experience without decision tree targeting
 

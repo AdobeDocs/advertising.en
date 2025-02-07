@@ -2,6 +2,7 @@
 title: Rename an ad tag
 description: Learn how to rename an ad tag for an experience.
 feature: Creative Experiences
+exl-id: 8c2fda31-2e4c-49ea-bcf2-f1bf564068b8
 ---
 # Rename an ad tag for an experience
 

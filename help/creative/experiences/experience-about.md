@@ -2,6 +2,7 @@
 title: About experiences in Advertising Creative
 description: Learn how to configure personalized ad experiences and optimize ad elements based on performance.
 feature: Creative Experiences
+exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
 ---
 # About experiences in Advertising Creative 2.0
 

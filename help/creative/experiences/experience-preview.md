@@ -2,6 +2,7 @@
 title: Preview an experience
 description: Learn how to preview the creatives in an ad experience.
 feature: Creative Experiences
+exl-id: 2ac8f580-7d3d-4de6-ba14-5d72b30188d7
 ---
 # Preview an experience
 

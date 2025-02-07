@@ -2,6 +2,7 @@
 title: Delete a target node or creative leaf node in an experience
 description: Learn how to delete a node within an experience.
 feature: Creative Experiences
+exl-id: a8973c9e-bd0a-4f62-8668-520495b2525d
 ---
 # Delete a target node or creative leaf node in an experience
 
