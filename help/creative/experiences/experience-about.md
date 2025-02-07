@@ -11,7 +11,7 @@ feature: Creative Experiences
 
 <!-- MORE -->
 
-[!DNL Advertising Creative 2.0] provides two different ad experience structures:
+[!DNL Advertising Creative 2.0] provides two different ad experience structures for ads in creative library<!-- can use a single library only -->:
 
 * **Experiences with decision tree targeting:** [!DNL Creative] allows you to configure personalized ad experiences throughout the customer journey using a decision tree model. You can customize all ad elements &mdash; images, headlines, offers, and landing pages &mdash; based on the target audience.
 

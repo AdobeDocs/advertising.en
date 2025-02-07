@@ -9,11 +9,11 @@ feature: Creative Experiences
 
 ## [!UICONTROL Experience basics] section
 
-**[!UICONTROL Advertiser]:** The advertiser that will bid on the creatives included in the experience.
+**[!UICONTROL Advertiser]:** (Read-only for existing experiences) The advertiser that will bid on the creatives included in the experience. Once you save the experience, you can't change the advertiser.
 
 **[!UICONTROL Experience Name]:** A unique name for the experience. **Tip:** Use a name that will be easy to find when you use the experience as an ad in Advertising DSP or other DSP.
 
-**[!UICONTROL Creative Library]:** The creative library to use for the experience.
+**[!UICONTROL Creative Library]:** (Read-only for existing experiences) A single creative library to use for the experience. Once you save the experience, you can't change the library.
 
 ## [!UICONTROL Default creatives] section
 
@@ -35,9 +35,9 @@ For experiences without decision tree targeting, you can override the default cr
 
 **[!UICONTROL Dynamic ads]:** (Read-only for existing experiences) Indicates the experience includes dynamic ads. **Note:** An experience can include either all standard ads or all dynamic ads.
 
-**[!UICONTROL Language Targeting]:** (Experiences with standard ads only; optional; read-only for existing experiences) Checks the user's browser language settings and displays a creative in the specified language when a creative in that language is available. When a creative in the browser-specified language isn't available, the [!UICONTROL Preferred language] setting is used instead. 
+**[!UICONTROL Language Targeting]:** (Experiences with standard ads only; optional; read-only for existing experiences) Checks the user's browser language settings and displays a creative in the specified language when a creative in that language is available. When a creative in the browser-specified language isn't available, the [!UICONTROL Preferred language] setting is used instead. Once you save the experience, you can't change this setting. 
 
-**[!UICONTROL Preferred language]:** (Experiences with standard ads only; read-only for existing experiences) The language for all ads created from the experience, except when [!UICONTROL Language Targeting] is enabled.
+**[!UICONTROL Preferred language]:** (Experiences with standard ads only; read-only for existing experiences) The language for all ads created from the experience, except when [!UICONTROL Language Targeting] is enabled. Once you save the experience, you can't change this setting.
 
 ## [!UICONTROL Advanced] section
 

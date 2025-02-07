@@ -9,11 +9,11 @@ feature: Creative Experiences
 
 ## [!UICONTROL Experience basics] section
 
-**[!UICONTROL Advertiser]:** The advertiser that will bid on the creative and target combinations included in the experience.
+**[!UICONTROL Advertiser]:** (Read-only for existing experiences) The advertiser that will bid on the creative and target combinations included in the experience. Once you save the experience, you can't change the advertiser.
 
 **[!UICONTROL Experience Name]:** A unique name for the experience. **Tip:** Use a name that will be easy to find when you use the experience as an ad in Advertising DSP or other DSP.
 
-**[!UICONTROL Creative Library]:** The creative library to use for the experience.
+**[!UICONTROL Creative Library]:** (Read-only for existing experiences) A single creative library to use for the experience. Once you save the experience, you can't change the library.
 
 ## [!UICONTROL Default creatives] section
 
@@ -31,24 +31,26 @@ For experiences with decision tree targeting, you can override the default creat
 
 ## [!UICONTROL Targeting] section
 
-**[!UICONTROL Targeting]:** (Read-only for existing experiences) Enables creative targeting using a decision tree and automatic tag creation.
+**[!UICONTROL Targeting]:** (Read-only for existing experiences) Enables creative targeting using a decision tree and automatic tag creation. Once you save the experience, you can't change this setting.
 
-**[!UICONTROL Dynamic ads]:** (Read-only for existing experiences) Indicates the experience includes dynamic ads. **Note:** An experience can include either all standard ads or all dynamic ads.
+**[!UICONTROL Dynamic ads]:** (Read-only for existing experiences) Indicates the experience includes dynamic ads. **Note:** An experience can include either all standard ads or all dynamic ads. Once you save the experience, you can't change this setting.
 
 **[!UICONTROL Language Targeting]:** (Experiences with standard ads only; optional; read-only for existing experiences) Checks the user's browser language settings and displays a creative in the specified language when a creative in that language is available. When a creative in the browser-specified language isn't available, the [!UICONTROL Preferred language] setting is used instead.
 
-**[!UICONTROL Preferred language]:** (Experiences with standard ads only; read-only for existing experiences) The language for all ads created from the experience, except when [!UICONTROL Language Targeting] is enabled.
+Once you save the experience, you can't change this setting.
+
+**[!UICONTROL Preferred language]:** (Experiences with standard ads only; read-only for existing experiences) The language for all ads created from the experience, except when [!UICONTROL Language Targeting] is enabled. Once you save the experience, you can't change this setting.
 
 ## [!UICONTROL Advanced] section
 
-**Data Pass:** (Optional) To target users based on specific key-value pairs that the DSP, publisher, or partner passes in real time on impression. You can specify up to five data pass keys (parameters). When you set up targeting within the decision tree, you can include one level of data pass target nodes and specify the values to target for each node. If you don't specify a key in this field, you can still specify one within the decision tree.<!-- May move this to just within the decision tree.  -->
+**Data Pass:** (Read-only for existing experiences; optional) To target users based on specific key-value pairs that the DSP, publisher, or partner passes in real time on impression. You can specify up to five data pass keys (parameters). When you set up targeting within the decision tree, you can include one level of data pass target nodes and specify the values to target for each node. If you don't specify a key in this field when you create the experience, you can still specify one within the decision tree.<!-- May move this to just within the decision tree.  -->
 
 Each key is appended as a macro in the ad experience
 tag, which you can generate to implement as an ad in your DSP.
 
 **Radius:** (Experiences with dynamic ads only; optional) A user radius to target. Select a radius from 0 miles to 200 miles.<!-- Affect within the decision tree? -->
 
-**RT Pixel:** (Optional) A [!UICONTROL Creative] retargeting pixel to potentially target. When you set up targeting within the decision tree, you can include one level of RT pixel target nodes and specify the pixel to target for each node as well as and the required values for the pixel's attributes that must be present in order to show the creatives in the assigned creative bundles. If you don't specify a pixel in this field, you can still specify one within the decision tree.<!-- May move this to just within the decision tree. -->
+**RT Pixel:** (Read-only for existing experiences; optional) A [!UICONTROL Creative] retargeting pixel to potentially target. When you set up targeting within the decision tree, you can include one level of RT pixel target nodes and specify the pixel to target for each node as well as and the required values for the pixel's attributes that must be present in order to show the creatives in the assigned creative bundles. If you don't specify a pixel in this field when you create the experience, you can still specify one within the decision tree.<!-- May move this to just within the decision tree. -->
 
 **Label:** <!-- should be "Labels" --> (Optional) Any [!DNL Creative]-specific labels to apply to the experience. You can filter experiences by label in the Experiences<!-- sic --> view.
 
