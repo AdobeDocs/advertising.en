@@ -17,8 +17,6 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 >* When you create an experience without decision tree targeting, you must [manually create an ad tag](experience-tag-create-manually.md) for each applicable creative size.
 >* Experience tags are dynamic. You don't need to update the tags if you edit an experience.
 
-## Export an ad tag for an experience with decision tree targeting
-
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
 
 1. Do one of the following:<!-- I see multiselect, but it's not actually working for me as of 2/3 so I don't know how exporting multiple tags works.-->
