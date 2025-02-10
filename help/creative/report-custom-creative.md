@@ -78,7 +78,7 @@ This section determines the dates on which the report is run. To set up the date
 
 ### [!UICONTROL Apply Filters] Section
 
-**[!UICONTROL Filter by]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report. The  available filters vary by report type and may include: *[!UICONTROL Advertiser]*, *[!UICONTROL Experience]*, *[!UICONTROL Creative Library]*, and *[!UICONTROL DSP]*<!-- Clarify what this is for -- not intuitively named -->.
+**[!UICONTROL Filter by]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report. The  available filters vary by report type and may include: *[!UICONTROL Advertiser]*, *[!UICONTROL Experience]*, *[!UICONTROL Creative Library]*, and *[!UICONTROL DSP]*<!-- Clarify what this is for, Advertising DSP or whatever DSP the ads were run from -- not intuitively named -->.
 
 To apply one or more filters, do the following:
 
