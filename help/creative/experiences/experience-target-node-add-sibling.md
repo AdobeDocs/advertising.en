@@ -2,6 +2,7 @@
 title: Add a sibling target node between nodes in an experience
 description: Learn how to add a sibling node to any node that has a target or is at the same level as a node with a target.
 feature: Creative Experiences
+exl-id: 915fd399-1c55-49af-94ed-cf49a4154a53
 ---
 # Add a sibling target node between nodes in an experience
 

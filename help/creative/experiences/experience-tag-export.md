@@ -2,6 +2,7 @@
 title: Export and implement an ad experience tag for a live experience
 description: Learn how to export an ad experience tag and optionally upload it to an Advertising DSP campaign.
 feature: Creative Experiences
+exl-id: 4ae05142-8319-4329-96d7-f87d77f02745
 ---
 # Export and implement an ad experience tag for a live experience
 

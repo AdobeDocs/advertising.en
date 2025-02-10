@@ -2,6 +2,7 @@
 title: Preview a creative
 description: Learn how to open a preview of a creative.
 feature: Creative Standard Creatives
+exl-id: 0d92ab29-0aa0-4d5f-abf5-a520f49ea60e
 ---
 # Preview a creative
 

@@ -2,6 +2,7 @@
 title: Available macros for tracking URLs
 description: Reference the macros you can add to your landing page URLs tracking URLs, and third-party creatives.
 feature: Creative Experiences, Creative Experiences
+exl-id: d0cbbb21-467d-4ed1-bc6e-ded1b045b98b
 ---
 # Available macros for tracking URLs
 
@@ -48,4 +49,4 @@ Some of the available macros, or their equivalents, are automatically included i
 >[!MORELIKETHIS]
 >
 >* 
->* 
+>*

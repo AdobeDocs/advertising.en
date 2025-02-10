@@ -2,6 +2,7 @@
 title: Add standard creatives to a creative library
 description: Learn how to add standard (non-dynamic) creatives to a creative library.
 feature: Creative Standard Creatives
+exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
 ---
 # Add standard creatives to a creative library
 

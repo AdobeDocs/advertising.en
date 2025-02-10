@@ -2,6 +2,7 @@
 title: Add a target node between nodes in an experience
 description: Learn how to add a target node between target bodes in an ad experience.
 feature: Creative Experiences
+exl-id: ac9211e5-c6ed-4185-bf9c-c2689f1b2775
 ---
 # Add a target node between nodes in an experience
 

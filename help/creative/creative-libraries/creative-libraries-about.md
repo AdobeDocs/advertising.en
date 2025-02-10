@@ -2,6 +2,7 @@
 title: About your creative libraries
 description: Learn about managing the creatives you'll use in your ad experiences.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
+exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
 ---
 # About your creative libraries
 

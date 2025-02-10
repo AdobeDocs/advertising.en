@@ -2,6 +2,7 @@
 title: Create an experience without decision tree targeting
 description: Learn how to create an ad experience without targeting.
 feature: Creative Experiences
+exl-id: 327b1df5-5663-4513-9238-f481370c8c38
 ---
 # Create an experience without decision tree targeting
 

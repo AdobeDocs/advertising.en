@@ -2,6 +2,7 @@
 title: Supported creative sizes
 description: Reference the supported creative sizes for ad experiences.
 feature: Creative Standard Creatives, Creative Dynamic Creatives
+exl-id: c8e90ba6-bff7-4161-86b8-c4b5b04fb4bf
 ---
 # Supported creative sizes
 

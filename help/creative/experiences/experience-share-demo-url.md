@@ -1,7 +1,8 @@
 ---
 title: Share a demo URL for an experience
-description: Learn how to share a demo URL of an experience. 
+description: Learn how to share a demo URL of an experience.
 feature: Creative Experiences
+exl-id: 0d523270-e6b2-4d7b-a39c-749f3cc94561
 ---
 # Share a demo URL for an experience
 

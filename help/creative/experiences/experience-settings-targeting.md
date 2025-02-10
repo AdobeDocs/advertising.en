@@ -2,6 +2,7 @@
 title: Targeted experience settings
 description: See descriptions of all settings for targeted ad experiences.
 feature: Creative Experiences
+exl-id: cb6fd855-6534-4eac-b34b-323073d186be
 ---
 # Targeted ad experience settings
 

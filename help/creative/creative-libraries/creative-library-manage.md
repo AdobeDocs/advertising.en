@@ -2,6 +2,7 @@
 title: Manage your creative libraries
 description: Learn how to create, rename, and delete your creative libraries.
 feature: Creative Libraries
+exl-id: d8b802c7-a6e9-4135-a4de-fb482c72d044
 ---
 # Manage your creative libraries
 

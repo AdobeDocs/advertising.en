@@ -2,6 +2,7 @@
 title: Download creatives
 description: Learn how to download a creative as a ZIP file.
 feature: Creative Standard Creatives
+exl-id: 6507d472-be25-4f20-a32e-ad73250d78d4
 ---
 # Download creatives
 

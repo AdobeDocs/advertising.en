@@ -2,6 +2,7 @@
 title: Creative settings
 description: Learn about xxxx.
 feature: Creative Standard Creatives
+exl-id: 8eb66310-4860-4ca0-9678-a9e33639c529
 ---
 # Creative settings
 

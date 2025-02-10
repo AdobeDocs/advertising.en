@@ -2,6 +2,7 @@
 title: Create an experience with decision tree targeting
 description: Learn how to create a targeted ad experience using a decision tree.
 feature: Creative Experiences
+exl-id: 825fd9af-ca7a-4b44-8e4b-1a6f34edac9e
 ---
 # Create an experience with decision tree targeting
 
