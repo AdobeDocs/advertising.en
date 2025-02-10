@@ -6,34 +6,7 @@ breadcrumb-title: Creative Guide
 hide: yes
 index: no
 ---
-
 # (Closed Beta) Advertising Creative 2.0 Guide {#creative}
-
-<!-- combine intro/common tasks into just a couple of top-level files? -->
-
-
-<!-- Add in once the pages are done:
-
-+ [What's new](/help/creative/home.md)
-+ Introduction {#creative-introduction}
-  + [About Adobe Advertising Creative](/help/creative/introduction/creative-about.md)
-  + [Overview of implementing Adobe Advertising Creative](/help/creative/introduction/implementation-overview.md)
-  + [How the user interface is organized](/help/creative/introduction/ui.md)
-
-  + Creatives {#creatives}
-    + Dynamic creatives {#dynamic-creatives}
-	    + [Add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md)
-	    + [Edit dynamic creatives](/help/creative/creative-libraries/creative-edit-dynamic.md)
-	    + [Dynamic creative settings](/help/creative/creative-libraries/creative-settings-dynamic.md)
-
-+ Ad experiences {#creative-experiences}
-  + Workflow
-  + Workflow
-
-+ Tracking pixels
-  + [Manage conversion pixels](/help/creative/pixels/conversion-pixel-manage.md)
-
--->
 
 + [What's new](/help/creative/home.md)
 + Introduction {#introduction}
