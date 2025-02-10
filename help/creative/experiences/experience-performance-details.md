@@ -2,6 +2,7 @@
 title: Experience-level performance reports
 description: Learn how to view experience-level performance reports.
 feature: Creative Experiences
+exl-id: 5e7c4c9d-b992-460a-9765-4276027f9a61
 ---
 # Experience-level performance reports
 
