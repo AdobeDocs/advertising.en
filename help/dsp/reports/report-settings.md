@@ -20,9 +20,9 @@ This section determines the data that's included in the report. To set up dates 
 
 **Range:** The date range for which to generate data. The number of days available varies by report and by the selected dimensions. Choose one:
 
-* **[!UICONTROL Last Calendar Week]:** Includes data for the previous calendar week.
+* **[!UICONTROL Previous Calendar Week]:** Includes data for the previous calendar week.
 
-* **[!UICONTROL Last Calendar Month]:** Includes data for the previous calendar month.
+* **[!UICONTROL Previous Calendar Month]:** Includes data for the previous calendar month.
 
 * **[!UICONTROL Custom Range]:** Includes data between specific beginning and end dates. To report data through the previous day, select **[!UICONTROL Present]**.
 

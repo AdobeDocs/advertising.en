@@ -20,11 +20,7 @@ index: no
   + [Overview of implementing Adobe Advertising Creative](/help/creative/introduction/implementation-overview.md)
   + [How the user interface is organized](/help/creative/introduction/ui.md)
 
-
   + Creatives {#creatives}
-    + Standard creatives {#standard-creatives}
-      + [Available flexible creative templates ](/help/creative/creative-libraries/flexible-html5-templates.md)
-
     + Dynamic creatives {#dynamic-creatives}
 	    + [Add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md)
 	    + [Edit dynamic creatives](/help/creative/creative-libraries/creative-edit-dynamic.md)
@@ -34,36 +30,9 @@ index: no
   + Workflow
   + Workflow
 
-  + Ad tags
-    + (Experiences without targeting) Create an ad tag [already listed above]
-    + [Export and implement an ad experience tag for a live experience](/help/creative/experiences/experience-tag-export.md)
-    + [Rename an ad tag](/help/creative/experiences/experience-tag-rename.md)
-
-
-  + [Delete an experience](/help/creative/experiences/experience-delete.md)
-  + Performance Reports {#reports}
-    + 
-
 + Tracking pixels
   + [Manage conversion pixels](/help/creative/pixels/conversion-pixel-manage.md)
 
-+ Custom Reports {#custom-reports}
-  + [About Custom Reports](/help/dsp/reports/report-about.md)
-  + [Create a Custom Report](/help/dsp/reports/report-create.md)
-  + [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
-  + [Edit a Custom Report](/help/dsp/reports/report-edit.md)
-  + [Delete a Custom Report](/help/dsp/reports/report-delete.md)
-  + [Run a Custom Report](/help/dsp/reports/report-run-now.md)
-  + [Download a Custom Report](/help/dsp/reports/report-download.md)
-  + [Custom Report Settings](/help/dsp/reports/report-settings.md)
-  + [Available Report Columns](/help/dsp/reports/report-columns.md)
-  + [FAQs About Household Reports](/help/dsp/reports/faq-reports.md)
-  + Report Destinations {#report-destinations}
-    + [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
-    + [Create a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)
-    + [Edit a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
-    + [Delete a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
-    + [[!UICONTROL Report Destination] Settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
 -->
 
 + [What's new](/help/creative/home.md)
@@ -122,8 +91,10 @@ index: no
   + [Download all experiences in the view](/help/creative/experiences/experience-download-view.md)
   + [Rename an ad tag](/help/creative/experiences/experience-tag-rename.md)
   + [Delete an experience](/help/creative/experiences/experience-delete.md)
++ Performance Reports {#reports}
+  + [Experience-level performance reports](/help/creative/experiences/experience-performance-details.md)
+  + [Custom Creative Report](/help/creative/report-custom-creative.md)
 + [Retargeting pixels](/help/creative/pixels/retargeting-pixel-manage.md)
-+ Custom Reports {#custom-reports}
 + [Available macros for tracking URLs](/help/creative/creative-macros.md)
 + [Customer support](https://experienceleague.adobe.com/home?support-tab=home#support)
 + [Adobe Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

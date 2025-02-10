@@ -32,6 +32,8 @@ You can create one or more ad tag for each creative size used for an experience.
 
 1. Click **[!UICONTROL Create]**.
 
+   You an expand the tag row to see the included creatives.
+
 >[!MORELIKETHIS]
 >
 >* [Assign creatives to an ad tag for experiences without targeting](experience-tag-assign-creatives.md)
