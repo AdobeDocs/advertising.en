@@ -5,6 +5,7 @@ user-guide-description: Learn about the major features, tasks, settings, and oth
 breadcrumb-title: Creative Guide
 hide: yes
 ---
+
 # (Closed Beta) Advertising Creative 2.0 Guide {#creative}
 
 + [What's new](/help/creative/home.md)
