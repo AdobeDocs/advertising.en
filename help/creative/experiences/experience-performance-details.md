@@ -18,16 +18,16 @@ The Report view includes the following data:
   * **Overall Performance** section:
    
    * **Overall Performance**: The total impressions; clicks; click-through rate (CTR); and view-through conversions and click-through conversions for a single conversion metric. <!-- Just one, or can you select multiple? And I don't see this as of 2/8:  You can optionally combine two metrics at a time into a single chart. -->
-
-<!--
+   
+     <!--
      ![Overall performance](/help/creative/assets/experience-report-overall-performance.png "Overall performance"){width="100" zoomable="yes"}
--->
+          -->
 
    * **Default Rate**: (Experiences with decision tree targeting only) The number of impressions resulting from targeted creatives, generic creatives without a target or targeted to "Everyone Else", and the default creative for the experience.
    
-<!--
-     ![Default rate](/help/creative/assets/experience-report-default-rate.png "Default rate"){width="100" zoomable="yes"}
--->
+     <!--
+     ![Default rate](/help/creative/assets/experience-report-default-rate.png "Default rate"){width="100" zoomable="yes"} 
+     -->
 
   * **Performance Breakdown** section: 
    
@@ -115,21 +115,21 @@ The Report view includes the following data:
 
 1. (On the [!UICONTROL Overview] tab):
 
-  * (Optional) In the [!UICONTROL Overall Regional Performance] section, hold the cursor over a point in the chart to see data for that point.
-
-  * (Optional) In the [!UICONTROL Regional Performance] section, do any of the following:
-  
-    * Click a metric name (such as [!UICONTROL Impressions]) to view that metric.
-    
-    * Select the region in the [!UICONTROL Region] menu.
-
-    * Hold the cursor over a country or state to see data for that region.
+   * (Optional) In the [!UICONTROL Overall Regional Performance] section, hold the cursor over a point in the chart to see data for that point.
+   
+   * (Optional) In the [!UICONTROL Regional Performance] section, do any of the following:
+   
+     * Click a metric name (such as [!UICONTROL Impressions]) to view that metric.
+     
+     * Select the region in the [!UICONTROL Region] menu.
+     
+     * Hold the cursor over a country or state to see data for that region.
 
    * (Optional) In the [!UICONTROL Device Performance] section, do any of the following:
-
-    * Hold the cursor over value for any device category to see data for that criteria.
-    
-    * Click the value for any device category to see a list of the top <!-- NN--> creatives served with that criteria.
+   
+     * Hold the cursor over value for any device category to see data for that criteria.
+     
+     * Click the value for any device category to see a list of the top <!-- NN--> creatives served with that criteria.
 
 1. (Optional) To view data by creative and by bundle or ad tag, click the **[!UICONTROL Creative Performance]** tab.
 

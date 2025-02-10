@@ -1,5 +1,5 @@
 ---
-title: [!UICONTROL Custom Creative Report]
+title: "[!UICONTROL Custom Creative Report]"
 description: Learn how to generate the cross-experience [!UICONTROL Custom Creative Report].
 feature: Creative Reporting
 ---
