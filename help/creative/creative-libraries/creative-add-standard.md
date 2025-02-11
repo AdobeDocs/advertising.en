@@ -170,7 +170,7 @@ Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size i
 
 1. Click **[!UICONTROL Create]**
 
-## Add a third-party creative to a creative library
+## Add a third-party creative to a creative library {#creative-add-third-party}
 
 [!DNL Creative] supports JavaScript tracking tags for creatives hosted on most third-party ad servers.
 
@@ -182,9 +182,9 @@ Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size i
 
 1. Click **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL 3rd Party]**.
 
-1. Specify the JavaScript tag and other settings for the creative in the [third-party creative settings].
+1. Specify the JavaScript tag and other settings for the creative in the [third-party creative settings](#creative-settings-third-party).
 
-   You can copy and paste any of the available macros into the JavaScript tag.
+   You can copy and paste any of the [available macros](/help/creative/creative-macros.md) into the JavaScript tag.
 
 1. Click **[!UICONTROL Create]**
 
@@ -192,6 +192,7 @@ Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size i
 >
 >* [Edit standard creatives](/help/creative/creative-libraries/creative-edit-standard.md)
 >* [Standard creative settings](/help/creative/creative-libraries/creative-settings-standard.md)
+>* [Available macros for tracking URLs](/help/creative/creative-macros.md)
 >* [Supported creative sizes](/help/creative/creative-libraries/creative-sizes.md)
 >* [Preview a creative](/help/creative/creative-libraries/creative-preview.md)
 >* [Attach and detach creatives from bundles](/help/creative/creative-libraries/creative-attach-detach-bundles.md)

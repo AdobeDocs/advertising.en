@@ -65,7 +65,7 @@ tag, which you can generate to implement as an ad in your DSP.
 
 **Impression Tracking URL:** (Optional) A third-party impression-tracking URL to append to the landing page URL for any ad created from the experience. You can include up to five URLs. To add an additional URL, click ![icon](/help/creative/assets/create.png) **[!UICONTROL Add More] and enter the URL.
 
-Once you enter a URL, all available macros and the data with which they're substituted are listed further down the page. To insert one of the macros in the URL, hold the cursor over the macro description and click ![Copy to clipboard](/help/creative/assets/copy-to-clipboard.png "Copy to clipboard"), and then paste the macro wherever you want it in the URL field.
+Once you enter a URL, all [available macros](/help/creative/creative-macros.md) and the data with which they're substituted are listed further down the page. To insert one of the macros in the URL, hold the cursor over the macro description and click ![Copy to clipboard](/help/creative/assets/copy-to-clipboard.png "Copy to clipboard"), and then paste the macro wherever you want it in the URL field.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Once you enter a URL, all available macros and the data with which they're subst
 
 **Click Tracking URL:** (Optional) (Optional) A third-party click-tracking URL to append to the landing page URL. You can include up to five URLs. To add an additional URL, click ![icon](/help/creative/assets/create.png) **[!UICONTROL Add More] and enter the URL.
 
-Once you enter a URL, all available macros and the data with which they're substituted are listed further down the page. To insert one of the macros in the URL, hold the cursor over the macro description and click ![Copy to clipboard](/help/creative/assets/copy-to-clipboard.png "Copy to clipboard"), and then paste the macro wherever you want it in the URL field.
+Once you enter a URL, all [available macros](/help/creative/creative-macros.md) and the data with which they're substituted are listed further down the page. To insert one of the macros in the URL, hold the cursor over the macro description and click ![Copy to clipboard](/help/creative/assets/copy-to-clipboard.png "Copy to clipboard"), and then paste the macro wherever you want it in the URL field.
 
 >[!NOTE]
 >
@@ -92,3 +92,4 @@ Once you enter a URL, all available macros and the data with which they're subst
 >
 >* [Create an experience with decision tree targeting](experience-create-targeting.md)
 >* [Edit an experience with decision tree targeting](experience-edit-targeting.md)
+>* [Available macros for tracking URLs](/help/creative/creative-macros.md)

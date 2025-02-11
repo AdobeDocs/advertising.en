@@ -62,7 +62,7 @@ When you later create an ad experience tag for a specific creative size, each ke
 
 **[!UICONTROL Impression Tracking URL]:** (Optional) A third-party impression-tracking URL to append to the landing page URL for any ad created from the experience. You can include up to five URLs. To add an additional URL, click ![icon](/help/creative/assets/create.png) **[!UICONTROL Add More] and enter the URL.
 
-Once you enter a URL, all available macros and the data with which they're substituted are listed further down the page. To insert one of the macros in the URL, hold the cursor over the macro description and click ![Copy to clipboard](/help/creative/assets/copy-to-clipboard.png "Copy to clipboard"), and then paste the macro wherever you want it in the URL field.
+Once you enter a URL, all [available macros](/help/creative/creative-macros.md) and the data with which they're substituted are listed further down the page. To insert one of the macros in the URL, hold the cursor over the macro description and click ![Copy to clipboard](/help/creative/assets/copy-to-clipboard.png "Copy to clipboard"), and then paste the macro wherever you want it in the URL field.
 
 >[!NOTE]
 >
@@ -72,7 +72,7 @@ Once you enter a URL, all available macros and the data with which they're subst
 
 **[!UICONTROL Click Tracking URL]:** (Optional) (Optional) A third-party click-tracking URL to append to the landing page URL. You can include up to five URLs. To add an additional URL, click ![icon](/help/creative/assets/create.png) **[!UICONTROL Add More]** and enter the URL.
 
-Once you enter a URL, all available macros and the data with which they're substituted are listed further down the page. To insert one of the macros in the URL, hold the cursor over the macro description and click ![Copy to clipboard](/help/creative/assets/copy-to-clipboard.png "Copy to clipboard"), and then paste the macro wherever you want it in the URL field.
+Once you enter a URL, all [available macros](/help/creative/creative-macros.md) and the data with which they're substituted are listed further down the page. To insert one of the macros in the URL, hold the cursor over the macro description and click ![Copy to clipboard](/help/creative/assets/copy-to-clipboard.png "Copy to clipboard"), and then paste the macro wherever you want it in the URL field.
 
 >[!NOTE]
 >
@@ -89,6 +89,7 @@ Once you enter a URL, all available macros and the data with which they're subst
 >
 >* [Create an experience without decision tree targeting](experience-create-no-targeting.md)
 >* [Edit an experience without decision tree targeting](experience-edit-no-targeting.md)
+>* [Available macros for tracking URLs](/help/creative/creative-macros.md)
 >* [Manually create an ad tag for an applicable creative size](experience-tag-create-manually.md)
 >* [Assign creatives to an ad tag for experiences without targeting](experience-tag-assign-creatives.md)
 >* [Customize the tracking URLs for an experience without targeting](experience-tracking-urls-no-targeting.md)

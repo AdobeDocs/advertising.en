@@ -48,5 +48,6 @@ Some of the available macros, or their equivalents, are automatically included i
 
 >[!MORELIKETHIS]
 >
->* 
+>* [Add standard creatives to a creative library](/help/creative/creative-libraries/creative-add-standard.md#creative-add-third-party)
+>* [Standard creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party)
 >*

@@ -168,7 +168,7 @@ When you include a creative in a bundle and assign the bundle to an experience, 
 
 **JavaScriptCode:** A JavaScript tag (and optionally an alternate tag for browsers that don't support JavaScript) that points to the creative on the third-party ad server. The script will vary by ad server. When you edit multiple creatives, the same value is applied to each selected creative.
 
-All available macros and the data with which they're substituted are listed below the input field. To insert one of the macros in the tag, hold the cursor over the macro description and click ![Copy to clipboard](/help/creative/assets/copy-to-clipboard.png "Copy to clipboard"), and then paste the image wherever you want it within the tag.
+All [available macros](/help/creative/creative-macros.md) and the data with which they're substituted are listed below the input field. To insert one of the macros in the tag, hold the cursor over the macro description and click ![Copy to clipboard](/help/creative/assets/copy-to-clipboard.png "Copy to clipboard"), and then paste the image wherever you want it within the tag.
 
 When you include this creative in an experience that you implement as an ad from a DSP, the DSP uses the information in this tag to display the ad and to track impressions and clicks on it, and then pushes the tag to the ad exchange. When the ad is displayed and clicked, the ad server, the DSP, and [!DNL Creative] will track the events.
 
@@ -196,3 +196,4 @@ u
 >
 >* [Add standard creatives to a creative library](/help/creative/creative-libraries/creative-add-standard.md)
 >* [Edit standard creatives](/help/creative/creative-libraries/creative-edit-standard.md)
+>* [Available macros for tracking URLs](/help/creative/creative-macros.md)
