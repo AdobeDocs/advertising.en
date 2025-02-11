@@ -73,7 +73,7 @@ Example pixel:
 
    If you add additional attributes manually, you must include URL encoding. 
 
-   For example, if you included the attributes "category," "color," and "size" and capture ID5 universal IDs, then the pixel tag will include the following parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` and `&id5pid=--Insert ID5_PARTNER_ID--`. To target users who select red sandals in size 10, for example, you would change the parameters in both the image tag and script tag to `&ut1=--sandals--&ut2=--red--&ut3=--10--`, and also enter your ID5 partner ID in the script tag, such as `&id5pid=--0123456789--`.<!-- Verify the final syntax -- should it be just:  &ut1=sandals&ut2=10&ut2=red ? -->
+   For example, if you included the attributes "category," "color," and "size" and capture ID5 universal IDs, then the pixel tag will include the following parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` and `&id5pid=--Insert ID5_PARTNER_ID--`. To target users who select red sandals in size 10, for example, you would change the parameters in both the image tag and script tag to `&ut1=sandals&ut2=red&ut3=10`, and also enter your ID5 partner ID in the script tag, such as `&id5pid=0123456789`.
 
    `<img src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--" />  <script src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&cro=F&id5Consent=T&id5pid=--0123456789--&lrConsent=T&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--"></script>`
 
