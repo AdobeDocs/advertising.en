@@ -11,8 +11,8 @@ hide: yes
 + [What's new](/help/creative/home.md)
 + Introduction {#introduction}
   + [Customize your data views](/help/creative/introduction/customize-data-views.md)
-  + [Support for Consumer Privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-  + [Policies and Guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+  + [Support for Consumer Privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+  + [Policies and Guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + Creative libraries {#creative-libraries}
   + [About your creative libraries](/help/creative/creative-libraries/creative-libraries-about.md)
   + [Supported creative sizes](/help/creative/creative-libraries/creative-sizes.md)
@@ -69,5 +69,5 @@ hide: yes
   + [Custom Creative Report](/help/creative/report-custom-creative.md)
 + [Retargeting pixels](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Available macros for tracking URLs](/help/creative/creative-macros.md)
-+ [Customer support](https://experienceleague.adobe.com/home?support-tab=home#support)
-+ [Adobe Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
++ [Customer support](https://experienceleague.adobe.com/home?support-tab=home#support){target="_blank"}
++ [Adobe Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html){target="_blank"}
