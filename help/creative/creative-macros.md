@@ -33,7 +33,7 @@ Some of the available macros, or their equivalents, are automatically included i
 -->
 
 | Macro | Description | Automatically in experience tags for Advertising DSP? |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | `${TM_CAMPAIGN_ID_NUM}` | Tracks and reports the campaign ID from the DSP | Yes |
 | `${TM_SITE_ID_NUM}` | Tracks and reports the site ID from the DSP | Yes |
 | `${TM_PLACEMENT_ID_NUM}` | Tracks and reports the placement ID from the DSP | Yes |
