@@ -25,9 +25,9 @@ When creative scheduling is disabled, the creative optimization settings apply t
 
 1. Select the creative rotation type:
 
-   * &ast;&ast; *Weighted* &ast;&ast; &mdash; Rotates the creatives in each bundle manually according to relative weights. Enter the weight for each bundle as a percentage. The weights for all bundles must add up to 100.
+   * *[!UICONTROL Weighted]:* Rotates the creatives in each bundle manually according to relative weights. Enter the weight for each bundle as a percentage. The weights for all bundles must add up to 100.
    
-   * &ast;&ast; *Algorithmic* &ast;&ast; &mdash; Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
+   * *[!UICONTROL Algorithmic]:* Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
    
      * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
 
@@ -51,9 +51,9 @@ When you use scheduling, you must schedule bundles through the duration of the e
 
    1. Select the creative rotation type:
 
-      * &ast;&ast; *Weighted* &ast;&ast; &mdash; Rotates the creatives in each bundle manually according to relative weights. Enter the weight for each bundle as a percentage. The weights for all selected bundles must add up to 100.
+      * *[!UICONTROL Weighted]:* Rotates the creatives in each bundle manually according to relative weights. Enter the weight for each bundle as a percentage. The weights for all selected bundles must add up to 100.
 
-      * &ast;&ast; *Algorithmic* &ast;&ast; &mdash; Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
+      * *[!UICONTROL Algorithmic]:* Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
 
         * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
 
@@ -67,9 +67,9 @@ When you use scheduling, you must schedule bundles through the duration of the e
 
    1. Select the creative rotation type:
 
-      * &ast;&ast; *Weighted* &ast;&ast; &mdash; Rotates the creatives in each bundle manually according to relative weights. Enter the weight for each bundle as a percentage. The weights for all selected bundles must add up to 100.
+      * *[!UICONTROL Weighted]:* Rotates the creatives in each bundle manually according to relative weights. Enter the weight for each bundle as a percentage. The weights for all selected bundles must add up to 100.
 
-      * &ast;&ast; *Algorithmic* &ast;&ast; &mdash; Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
+      * *[!UICONTROL Algorithmic]:* Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
 
         * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
 

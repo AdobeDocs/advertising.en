@@ -29,9 +29,9 @@ When creative scheduling is disabled, the creative optimization settings apply t
 
 1. Select the creative rotation type:
 
-   * &ast;&ast; *Weighted* &ast;&ast; &mdash; Rotates the creatives manually according to relative weights. Enter the weight for each creative as a percentage. The weights for all selected creatives must add up to 100.
+   * *[!UICONTROL Weighted]:* Rotates the creatives manually according to relative weights. Enter the weight for each creative as a percentage. The weights for all selected creatives must add up to 100.
    
-   * &ast;&ast; *Algorithmic* &ast;&ast; &mdash; Rotates the creatives algorithmically according to a specified optimization goal.
+   * *[!UICONTROL Algorithmic]:* Rotates the creatives algorithmically according to a specified optimization goal.
    
      * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
 
@@ -63,9 +63,9 @@ When you use scheduling, you must schedule creatives through the duration of the
 
    1. Select the creative rotation type:
 
-      * &ast;&ast; *Weighted* &ast;&ast; &mdash; Rotates the creatives manually according to relative weights. Enter the weight for each creative as a percentage. The weights for all selected creatives must add up to 100.
+      * *[!UICONTROL Weighted]:* Rotates the creatives manually according to relative weights. Enter the weight for each creative as a percentage. The weights for all selected creatives must add up to 100.
 
-      * &ast;&ast; *Algorithmic* &ast;&ast; &mdash; Rotates the creatives algorithmically according to a specified optimization goal.
+      * *[!UICONTROL Algorithmic]:* Rotates the creatives algorithmically according to a specified optimization goal.
 
         * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
 
@@ -79,9 +79,9 @@ When you use scheduling, you must schedule creatives through the duration of the
 
    1. Select the creative rotation type:
 
-      * &ast;&ast; *Weighted* &ast;&ast; &mdash; Rotates the creatives manually according to relative weights. Enter the weight for each creative as a percentage. The weights for all selected creatives must add up to 100.
+      * *[!UICONTROL Weighted]:* Rotates the creatives manually according to relative weights. Enter the weight for each creative as a percentage. The weights for all selected creatives must add up to 100.
 
-      * &ast;&ast; *Algorithmic* &ast;&ast; &mdash; Rotates the creatives algorithmically according to a specified optimization goal.
+      * *[!UICONTROL Algorithmic]:* Rotates the creatives algorithmically according to a specified optimization goal.
 
         * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
 
