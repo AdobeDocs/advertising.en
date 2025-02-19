@@ -36,6 +36,7 @@ hide: yes
     + [The decision tree layout](/help/creative/experiences/experience-decision-tree.md)
     + [Create an experience with targeting](/help/creative/experiences/experience-create-targeting.md)
     + [Edit an experience with targeting](/help/creative/experiences/experience-edit-targeting.md)
+    + [Targeted experience settings](/help/creative/experiences/experience-settings-targeting.md)
     + Subtasks for creating and editing experiences {#subtasks}
       + Target nodes {#nodes}
         + [Add a target node to the final level](/help/creative/experiences/experience-target-node-add-final.md)
@@ -47,12 +48,11 @@ hide: yes
         + [Assign and unassign creative bundles to a final node](/help/creative/experiences/experience-assign-creative-bundles.md)
         + [Customize the tracking URLs for creatives](/help/creative/experiences/experience-tracking-urls-targeting.md)
         + [Customize creative optimization and scheduling](/help/creative/experiences/experience-optimization-scheduling-targeting.md)
-    + [Targeted experience settings](/help/creative/experiences/experience-settings-targeting.md)
   + Experiences without targeting {#experience-nontargeted}
     + [Create an experience without targeting](/help/creative/experiences/experience-create-no-targeting.md)
     + [Edit an experience without targeting](/help/creative/experiences/experience-edit-no-targeting.md)
     + [Nontargeted experience settings](/help/creative/experiences/experience-settings-no-targeting.md)
-    + Creatives{#non-targeted-creatives}
+    + Ad tags and creatives{#non-targeted-creatives}
       + [Manually create an ad tag for an applicable creative size](/help/creative/experiences/experience-tag-create-manually.md)
       + [Assign creatives to an ad tag for experiences without targeting](/help/creative/experiences/experience-tag-assign-creatives.md)
       + [Customize the tracking URLs for an experience without targeting](/help/creative/experiences/experience-tracking-urls-no-targeting.md)
