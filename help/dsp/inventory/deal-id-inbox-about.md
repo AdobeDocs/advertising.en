@@ -27,6 +27,7 @@ For each deal, you can select one publisher and one media type (Desktop Video, M
 DSP automatically refreshes all deal details daily at 4:30 a.m. EST. It also refreshes all [!DNL FreeWheel] deals and updates existing deals from [!DNL Google] and [!DNL Magnite DV+] hourly. You can also manually refresh the deal details to populate new deals at any time.
 
 <!-- MC: I'm not sure where I got the following. Is this currently true? -->
+
 >[!NOTE]
 >
 >For programmatic guaranteed deals through [!DNL Google Authorized Buyers], you must deliver on at least 90% of your budget or your account loses access to [!DNL Google] deals in the [!UICONTROL Deal ID inbox].
