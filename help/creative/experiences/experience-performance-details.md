@@ -112,7 +112,7 @@ The Report view includes the following data:
 
    * (Optional) To change the conversions reported, click ![Settings](/help/creative/assets/settings.png) and select the conversion names in the **[!UICONTROL Conversions]** menu.<!-- Just one or multiple? Verify how these show up -- I need to see an advertiser with multiple conversions already set up -->
 
-     The available conversion columns include the conversions available in Advertising Search, Social, & Commerce, whether or not you are a Search, Social, & Commerce customer. This can include conversion and site engagement metrics synced from Adobe Analytics. <!--Analytics calculated metrics and advanced calculated metrics aren't available.--> For more information about including collected conversions in reports, see the Search, Social, & Commerce Guide topic “[About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)."
+     The available conversion columns include the conversions available in Advertising Search, Social, & Commerce, whether or not you are a Search, Social, & Commerce customer. This can include conversion and site engagement metrics synced from Adobe Analytics when the advertiser has [an [!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md). <!--Analytics calculated metrics and advanced calculated metrics aren't available.--> For more information about including collected conversions in reports, see the Search, Social, & Commerce Guide topic “[About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)."
 
 1. (On the [!UICONTROL Overview] tab):
 
