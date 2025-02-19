@@ -245,7 +245,7 @@ To apply one or more filters, do the following:
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Revenue]|The total revenue on served ads for a product.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Revenue]|The total revenue on served ads.|
 |[!UICONTROL Conversion Metrics]|[Grouped by advertiser in report settings]|[Advertiser-specific conversion]| The total for a specified advertiser-specific conversion metric or Adobe Analytics event.|
-|[!UICONTROL Custom Goals]|[Grouped by advertiser in report settings]|[Advertiser-specific custom goal]|The weighted sum of all conversions that are included in the specified [custom goal](/help/dsp/optimization/custom-goal.md).|
+|[!UICONTROL Custom Goals]|[Grouped by advertiser in report settings]|[Advertiser-specific custom goal]|The weighted sum of all conversions that are included in the specified [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).|
 
 {style="table-layout:auto"}
 
