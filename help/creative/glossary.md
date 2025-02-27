@@ -21,13 +21,11 @@ feature: Creative Introduction
 
 For example, to target one or more possible creatives to viewers who are female and are in Segment 1234, you would configure the data pass targets `gender=female` and `segment=1234` for the target node. The DSP that serves the impression populates the tag with the gender and segment information, and visitors who meet the specified requirements are shown one of the associated creatives.
 
-**engagement-through:** An ad engagement (such as watching a video or expanding an ad) that results in a conversion.
+**engagement-through:** An ad engagement (such as scrolling through a carousel ad or expanding an ad) that results in a conversion. This type of event is separate from clicking the ad to reach a landing page or an event on the landing page.
 
-<!-- or flexible html5 creative variation? -->
+<!-- or flexible html5 creative variation? Not sure we need to mention this since there's no place to view the different variations per se:
+
 **variation of a flexible HTML5 creative:** A derivation of a flexible HTML5 creative asset in your [!UICONTROL Creative Libraries], which is generated when you assign the creative to an experience and change any of the default attributes within the experience.
-
-<!-- Not sure if this will be implemented, and how:
-You can view all derived creatives, including not only the base creatives you've added but also each child creative derivation, in the card view in [!UICONTROL Creative] > [!UICONTROL Libraries]. In the toolbar, click __?__ , and then select Derived Creatives. [Clarify how to tell which have variations. I can't find any now.]
 -->
 
 **view-through:** An ad impression, or string of impressions, that results in a conversion without the user clicking an ad.
