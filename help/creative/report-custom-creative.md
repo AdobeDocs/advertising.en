@@ -192,54 +192,53 @@ To apply one or more filters, do the following:
 |[!UICONTROL Dimension]|[!UICONTROL Creative]|[!UICONTROL Parent Creative Type]| The type of parent creative (such as [!UICONTROL HTML5]).|
 |[!UICONTROL Dimension]|[!UICONTROL Click Events]|[!UICONTROL Ad Link]| .|
 |[!UICONTROL Dimension]|[!UICONTROL Click Events]|[!UICONTROL Click Type]| The click type.|
-|[!UICONTROL Dimension]|[!UICONTROL Click Events]|[!UICONTROL Direction]| 
+|[!UICONTROL Dimension]|[!UICONTROL Click Events]|[!UICONTROL Direction]| |
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Device Browser]|The browser in which the ad was shown (such as [!UICONTROL Chrome] or [!UICONTROL Firefox]).|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Device OS]|The operating system on which the ad was shown (such as [!UICONTROL Windows]).|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Device Type]|The type of device on which the ad was shown (such as [!UICONTROL Desktop]).|
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Ad ID]| The ID of the ad.|
-|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Creative ID]| The ID of the creative.|
-|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Placement Name]| The name  of the placement for which ads were run. |
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Buy ID]| The buy ID for the ad placement.|
+|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Creative ID]| The ID of the creative.|
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP ID]| The ID of the DSP on which ads were run.|
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Name]| The name of the DSP on which ads were run. |
-|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Site ID]| The ID of the site on which ads were run.|
-|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Site Name]| The name of the site on which ads were run. |
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Placement ID]| The ID of the placement for which ads were run.|
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Placement Name]| The name  of the placement for which ads were run. |
+|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Site ID]| The ID of the site on which ads were run.|
+|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Site Name]| The name of the site on which ads were run. |
+|[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Ad Tag Id]|The ID that [!UICONTROL Creative] assigned to the ad experience tag.|
 |[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Advertiser Name]| The name of the advertiser.|
+|[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Date/Time]|The date and time of the event.|
 |[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Experience ID]| The ID that [!UICONTROL Creative] assigned to the experience.|
 |[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Experience Name]| The name of the experience.|
 |[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Targeting Branch Value]| The target.|
 |[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Trafficking Line]| |
-|[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Date/Time]|The date and time of the event.|
-|[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Ad Tag Id]|The ID that [!UICONTROL Creative] assigned to the ad experience tag.|
 |[!UICONTROL Dimension]|[!UICONTROL Geo]|[!UICONTROL City]|The city to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geo]|[!UICONTROL Country Code]|The country code for the country to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geo]|[!UICONTROL DMA]|The Designated Market Area (DMA) to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geo]|[!UICONTROL State Code]|The state code for the state to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geo]|[!UICONTROL Zip Code]|The zip code to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Category ID]|(Dynamic ads) The target product category ID.|
-|[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Category ID]|(Dynamic ads) The target product category name.|
-|[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Product ID]|(Dynamic ads) The target product ID.|
-|[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Product ID]|(Dynamic ads) The target product name.|
+|[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Category Name]|(Dynamic ads) The target product category name.|
 |[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Creative Attribute 1]|(Dynamic ads) The first creative attribute.|
 |[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Creative Attribute 2]|(Dynamic ads) The second creative attribute.|
 |[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Creative Attribute 3]|(Dynamic ads) The third creative attribute.|
 |[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Creative Attribute 4]|(Dynamic ads) The fourth creative attribute.|
 |[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Creative Attribute 5]|(Dynamic ads) The fifth creative attribute.|
+|[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Product ID]|(Dynamic ads) The target product ID.|
+|[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Product Name]|(Dynamic ads) The target product name.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Matched Audience Segment ID]|The ID for the audience segment to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Pixel Segment ID]|The segment ID for an audience segment to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Pixel Segment Name]|The name of an audience segment to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Values]|The attributes for an audience segment to which the reported data is attributed.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Matched Audience Segment ID]|The ID for the audience segment to which the reported data is attributed.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Clicks]|The sum of all clicks on an ad.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL CTR]|The click-through rate, which is the percentage of clicks divided by ad impressions.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Engagements]|The number of interactions on a served ad.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Engagement Rate]|The percentage of impressions served that resulted in user engagements.|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Engagements]|The number of interactions on a served ad.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Impressions]|The total number of ad impressions.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Media Match Rate]| |
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Clicks]|The sum of all clicks on ads for a product.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Conversion]|The sum of all conversions on ads for a product.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Conversion Rate]|The percentage of on ads for a product that resulted in conversions.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Clicks]|The sum of all clicks on ads for a product.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product CTR]|The click-through rate for ads for a product, which is the percentage of clicks divided by ad impressions.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Impressions]|The total number of impressions for a product.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Revenue]|The total revenue on served ads for a product.|
