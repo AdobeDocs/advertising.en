@@ -202,7 +202,7 @@ To apply one or more filters, do the following:
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP ID]| The ID of the DSP on which ads were run.|
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Name]| The name of the DSP on which ads were run. |
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Placement ID]| The ID of the placement for which ads were run.|
-|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Placement Name]| The name  of the placement for which ads were run. |
+|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Placement Name]| The name of the placement for which ads were run. |
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Site ID]| The ID of the site on which ads were run.|
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Site Name]| The name of the site on which ads were run. |
 |[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Ad Tag Id]|The ID that [!UICONTROL Creative] assigned to the ad experience tag.|
@@ -238,13 +238,13 @@ To apply one or more filters, do the following:
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Media Match Rate]| |
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Clicks]|The sum of all clicks on ads for a product.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Conversion]|The sum of all conversions on ads for a product.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Conversion Rate]|The percentage of on ads for a product that resulted in conversions.|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Conversion Rate]|The percentage of ads for a product that resulted in conversions.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product CTR]|The click-through rate for ads for a product, which is the percentage of clicks divided by ad impressions.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Impressions]|The total number of impressions for a product.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Revenue]|The total revenue on served ads for a product.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Revenue]|The total revenue on served ads.|
 |[!UICONTROL Conversion Metrics]|[Grouped by advertiser in report settings]|[Advertiser-specific conversion]| The total for a specified advertiser-specific conversion metric or Adobe Analytics event.|
-|[!UICONTROL Custom Goals]|[Grouped by advertiser in report settings]|[Advertiser-specific custom goal]|The weighted sum of all conversions that are included in the specified [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).|
+|[!UICONTROL Custom Goals]|[Grouped by advertiser in report settings]|[Advertiser-specific custom goal]|(Advertisers with Advertising DSP) The weighted sum of all conversions that are included in the specified [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).|
 
 {style="table-layout:auto"}
 
