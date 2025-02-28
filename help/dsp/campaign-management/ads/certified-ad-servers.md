@@ -47,6 +47,7 @@ exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
 | [!DNL Pubmatic] | | | | X | VAST Only |
 | [!DNL RevJet] | | | | X | VAST Only |
 | [!DNL Seedtag] | | X | X | | |
+| [!DNL SeenThis] | | X | | | Display certification includes in-banner video tags |
 | [!DNL Sharethrough] | | | | | CTV, Native, and Outstream only |
 | [!DNL Sizmek] | X | X | | X | OLV and CTV</br></br>To make the tags render in the UI, wrap the tag with `<a>` tags (at the beginning and the end). See sample tag below:</br></br>`<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>` |
 | [!DNL Spaceback] | | X | | | |
