@@ -24,8 +24,8 @@ However, you can begin to collect data for your AMO IDs and EF IDs <!-- [!DNL rV
 
 >[!NOTE]
 >
->*Processing rules are applied only to new data that's received. They don't work retroactively to collect past data.
 >* As of 28 February 2025, this process tracks click-through data but not view-through data.
+>* Processing rules are applied only to new data that's received. They don't work retroactively to collect past data.
 
 ## Copy Your Reserved Variables for AMO IDs and EF IDs into [!DNL eVars]
 
