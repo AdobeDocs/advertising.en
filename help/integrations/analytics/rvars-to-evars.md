@@ -24,7 +24,8 @@ However, you can begin to collect data for your AMO IDs and EF IDs <!-- [!DNL rV
 
 >[!NOTE]
 >
->Processing rules are applied only to new data that's received. They don't work retroactively to collect past data.
+>*Processing rules are applied only to new data that's received. They don't work retroactively to collect past data.
+>* As of 28 February 2025, this process tracks click-through data but not view-through data.
 
 ## Copy Your Reserved Variables for AMO IDs and EF IDs into [!DNL eVars]
 
@@ -38,9 +39,9 @@ This step is manual and must be completed for each report suite that tracks AMO 
 
    * In the [!UICONTROL Always Execute] section, add two actions to create the new eVars:
    
-     * For the `AMO ID`: ```Overwrite value of <new/unused eVar> with amo.s_kwcid(Context Data)```
+     * For the `AMO ID`: ```Overwrite value of <new/unused eVar> with Query String Parameter - s_kwcid```
 
-     * For the `EF ID`: ```Overwrite value of <new/unused eVar> With amo.ef_id(Context Data)```
+     * For the `EF ID`: ```Overwrite value of <new/unused eVar> with Query String Parameter - ef_id```
 
    * For the [!UICONTROL Reason for rule], use a descriptive note, such as "AMO ID and EF ID will be transported to AEP via Adobe Analytics Connector."
 
