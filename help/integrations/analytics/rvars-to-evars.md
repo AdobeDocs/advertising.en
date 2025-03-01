@@ -55,7 +55,7 @@ This step is manual and must be completed for each report suite that tracks AMO 
        1. Select **Query String Parameter**.
        1. Enter `ef_id`.
 
-       Example: Overwrite the value of `rVar11` with Query String Parameter `ef_id`
+       Example: `Overwrite the value of rVar11 with Query String Parameter ef_id`
 
    * For the [!UICONTROL Reason for rule], use a descriptive note, such as "AMO ID and EF ID will be transported to AEP via Adobe Analytics Connector."
 
