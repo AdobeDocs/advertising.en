@@ -42,7 +42,7 @@ This step is manual and must be completed for each report suite that tracks AMO 
      * For the `AMO ID`:
      
        1. Select **Overwrite the value of**.
-       1. Select the *\<new/unused eVar\>*
+       1. Select *\<the new/unused eVar\>*
        1. Select **Query String Parameter**.
        1. Enter `s_kwcid`.
 
@@ -51,7 +51,7 @@ This step is manual and must be completed for each report suite that tracks AMO 
      * For the `EF ID`:
      
        1. Select **Overwrite the value of**.
-       1. Select the *\<new/unused eVar\>*
+       1. Select *\<the new/unused eVar\>*
        1. Select **Query String Parameter**.
        1. Enter `ef_id`.
 
