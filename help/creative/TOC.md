@@ -24,7 +24,7 @@ hide: yes
       + [Standard creative settings](/help/creative/creative-libraries/creative-settings-standard.md)
       + [HTML5 creative specification](/help/creative/creative-libraries/html5-creative-specification.md)
     + [Preview a creative](/help/creative/creative-libraries/creative-preview.md)
-    + [Attach and detach creatives from bundles](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
+    + [Attach creatives to bundles](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
     + [Duplicate creatives](/help/creative/creative-libraries/creative-duplicate.md)
     + [Download creatives](/help/creative/creative-libraries/creative-download.md)
     + [Delete creatives](/help/creative/creative-libraries/creative-delete.md)

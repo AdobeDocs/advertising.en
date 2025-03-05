@@ -19,7 +19,7 @@ exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
 | [!DNL ADventori] | | X | | | |
 | [!DNL Artsai] | | X | | X | |
 | [!DNL Atlas] | | | | X | |
-| [!DNL Big Ads] | | | X | | Cube (Desktop), Cube (Mobile), Cards (Desktop), Big Reveal (Desktop), Cine-Cube (Desktop), Cinematics (Desktop). Set up all of these ad types in DSP as 300x250. Certified only via [!DNL Magnite DV+]. |
+| [!DNL Big Ads] | | | X | | Cube (Desktop), Cube (Mobile), Cards (Desktop), Big Reveal (Desktop), Cine-Cube (Desktop), Cinematics (Desktop). Set up all these ad types in DSP as 300x250. Certified only via [!DNL Magnite DV+]. |
 | [!DNL Bonzai] | | | X | | |
 | [!DNL Contobox] | | | X | | |
 | [!DNL Conversant] | | X | | | |

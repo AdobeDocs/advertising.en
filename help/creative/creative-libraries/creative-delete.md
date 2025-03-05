@@ -8,7 +8,11 @@ exl-id: 5dc197dc-c4bb-489a-8395-b7c8efa47ea1
 
 *Closed beta*
 
-You can delete creatives that aren't in a bundle that's assigned to a live or draft experience.<!-- verify if we can have child creative variations anymore:  , and that doesn't have child creative variations in a bundle that's assigned to a live or draft experience  -->.<!-- Add an x-ref to experience statuses, or an about page??  --> <!-- add with an x-ref once this feature is added:  If a creative is assigned to a live experience, then remove it from the experience before you continue. -->
+You can delete
+
+* creatives that aren't in a bundle that's assigned to a [live or draft](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) [targeted experience](/help/creative/experiences/experience-about.md).
+
+* creatives that aren't assigned to an ad tag for a live or draft [non-targeted experience](/help/creative/experiences/experience-about.md).
 
 >[!NOTE]
 >

@@ -8,11 +8,11 @@ exl-id: 333ab2ea-293a-44e2-89e7-06782578318f
 
 *Closed beta*
 
-You can edit some settings for each type of standard creative. You can edit multiple creatives <!-- or creative variations --> of the same creative type (simple HTML5 with only one landing page, static HTML5 with multiple landing pages, flexible HTML5, image, or third-party<!-- , or dynamic -->) only.
+You can edit some settings for each type of standard creative. You can edit multiple creatives<!-- or creative variations --> of the same creative type (simple HTML5 with only one landing page, static HTML5 with multiple landing pages, flexible HTML5, image, or third-party<!-- , or dynamic -->) only.
 
 For flexible HTML5 and static HTML5 creatives, you can upload a new template file with a different layout but the same set of attribute names. For simple HTML5 creatives, you can edit any attributes or add images by uploading a new template with the new attributes or images. In all cases, the template must be a local file in ZIP format with a maximum of 2 MB.
 
-When you edit a creative <!-- or creative variation --> that's included in a bundle, your changes are automatically applied across all experiences that include the bundle, except that any custom landing pages and tracking URLs specified specified at the experience level remain applicable for the bundle attached to that experience.
+When you edit a creative<!-- or creative variation --> that's included in a bundle, your changes are automatically applied across all experiences that include the bundle, except that any custom landing pages and tracking URLs specified at the experience level remain applicable for the bundle that's attached to that experience.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
@@ -38,13 +38,13 @@ When you edit a creative <!-- or creative variation --> that's included in a bun
 
    When you edit multiple creatives at the same time:
   
-   * You can edit the settings for each creative at the same time or individually. By default, all of the creatives you chose are selected, and any settings you specify apply to all selected creatives. To edit settings for specific creatives, deselect each inapplicable creative before editing the fields; repeat for additional creatives if necessary.
+   * You can edit the settings for each creative at the same time or individually. By default, all creatives you chose are selected, and any settings you specify apply to all selected creatives. To edit settings for specific creatives, deselect each inapplicable creative before editing the fields; repeat for additional creatives if necessary.
   
    * Some settings are applied to all selected creatives.
 
    >[!NOTE]
    >
-   >* (Flexible HTML5 creatives only) You can edit attributes only for single creatives.<!-- Also, when you update the template for a parent creative with child variations, the variations are updated with any changes to the template layout, but the attribute values for the variation aren't changed. -->
+   >* (Flexible HTML5 creatives only) You can edit attributes only for single creatives.<!-- May never be implemented: Also, when you update the template for a parent creative with child variations, the variations are updated with any changes to the template layout, but the attribute values for the variation aren't changed. -->
    
 <!-- Not there as of 1/16/25. If we do add it, verify the applicable ad types:   
 1. (Flexible HTML5 [or third-party should be possible, but not so] creatives; optional) Once you've made your changes, click ![]() to preview the new creative. 
@@ -61,5 +61,3 @@ When you edit a creative <!-- or creative variation --> that's included in a bun
 >* [Add standard creatives to a creative library](creative-add-standard.md)
 >* [Standard creative settings](/help/creative/creative-libraries/creative-settings-standard.md)
 >* [Preview a creative](/help/creative/creative-libraries/creative-preview.md)
->* [Duplicate creatives](/help/creative/creative-libraries/creative-duplicate.md)
->* [Delete creatives](/help/creative/creative-libraries/creative-delete.md)

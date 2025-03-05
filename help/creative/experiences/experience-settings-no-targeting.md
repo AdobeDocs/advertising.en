@@ -20,7 +20,7 @@ exl-id: aeeca035-8ae2-4173-827a-b8690d228549
 
 **\[Default creatives specified\]:** The default image creatives to use when a browser can't display creatives assigned to the experience, such as when the browser isn't JavaScript-enabled or the ad server can't personalize the ad because of delays. Include one image creative per ad size for which the experience applies. Your choices determine the creative sizes that can be used for the experience. <!-- In the legacy product, you selected the ad sizes for the experience, and then selected default images for each of those ad sizes. -->
 
-For experiences without decision tree targeting, you can override the default creatives with creatives of the same size within [!UICONTROL Tag Manager].<!-- verify -->
+For experiences without decision tree targeting, you can override the default creatives with creatives of the same size within [!UICONTROL Tag Manager].
 
 * To add a default creative with different dimensions, click **[!UICONTROL + Add Sizes]**, select the check box next to each creative to add from the right pane, and then click **[!UICONTROL Add Creatives]**.
 

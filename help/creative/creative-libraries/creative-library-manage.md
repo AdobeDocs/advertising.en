@@ -8,7 +8,7 @@ exl-id: d8b802c7-a6e9-4135-a4de-fb482c72d044
 
 *Closed beta*
 
-You can create multiple creative libraries for each advertiser. You can later populate each library with [standard creatives](creative-add-standard.md) <!-- , dynamic creatives, --> and [creative bundles](bundle-manage.md). Your Adobe Account Team may also add dynamic creatives to your libraries.
+You can create multiple creative libraries for each advertiser. You can later populate each library with [standard creatives](creative-add-standard.md)<!-- , dynamic creatives, --> and [creative bundles](bundle-manage.md). Your Adobe Account Team may also add dynamic creatives to your libraries.
 
 ## Create a creative library
 
@@ -46,7 +46,7 @@ You can create multiple creative libraries for each advertiser. You can later po
 
 ## Delete creative libraries
 
-You can delete libraries with creatives and bundles that aren't assigned to a live experience.<!-- Add an x-ref?  --> Remove any creatives or bundles that are assigned to a live experience from the decision tree for the experience<!-- add x-ref --> before you continue.
+You can delete libraries with creatives and bundles that aren't assigned to a [live](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) experience. For a live targeted experience, [remove any creatives or bundles from the decision tree](/help/creative/experiences/experience-target-node-delete.md) for the experience before you continue.<!-- Not an option as of 3/4: > For an untargeted live experience, [remove any assigned creatives from the associated ad tag](/help/creative/experiences/experience-tag-assign-creatives.md) before you continue. -->
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
@@ -60,7 +60,7 @@ You can delete libraries with creatives and bundles that aren't assigned to a li
      
      * In table view, hold the cursor over the row and click **[!UICONTROL Delete]**.
 
-   * To delete one or more libraries, select the check box for each library you want to delete. In the bulk actions toolbar, click **[!UICONTROL Delete].
+   * To delete one or more libraries, select the check box for each library you want to delete. In the bulk actions toolbar, click **[!UICONTROL Delete]**.
    
      To select all rows, select the global check box in the upper left.
 

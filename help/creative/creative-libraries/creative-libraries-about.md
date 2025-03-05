@@ -1,6 +1,6 @@
 ---
 title: About your creative libraries
-description: Learn about managing the creatives you'll use in your ad experiences.
+description: Learn about managing the creatives for your ad experiences.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
 ---
@@ -8,17 +8,17 @@ exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
 
 *Closed beta feature*
 
-Your creative libraries allow you to manage all of the creatives you'll use in your ad experiences. You can create multiple libraries, each with a set of creatives and *creative bundles*, which are groups of creatives that you can add to an experience as one unit.
+Your creative libraries allow you to manage the creatives that you'll use in your ad experiences. You can create multiple libraries, each with a set of creatives and *creative bundles*, which are groups of creatives that you can add to an experience as one unit.
 
 Your libraries can include:
 
 * **Individual creatives:** You can include individual creatives directly within ad experiences that don't have defined user targets. You can also use your creatives to create bundles, which you can include in targeted [ad experiences](/help/creative/experiences/experience-about.md).
 
-  * **Standard creatives:** You can upload and manage creatives in [various formats](#creative-creative-formats). For each creative, you'll specify the default language for each ad with which you associate the creative, the default landing page that opens when a user clicks an ad that includes the creative, and optional labels to use as filters within various views within [!DNL Creative].
+  * **Standard creatives:** You can upload and manage creatives in [various formats](#creative-creative-formats). For each creative, you specify the default language for each ad with which you associate the creative, the default landing page that opens when a user clicks an ad that includes the creative, and optional labels to use as filters within various views within [!DNL Creative].
 
-  * **Dynamic creatives:** (Existing Adobe Advertising DCO customers only) Administrator users can create dynamically-generated creatives by mapping dynamic variables in an ad template to values in a feed file. All users can preview, duplicate, and delete existing dynamic ads.
+  * **Dynamic creatives:** (Existing Adobe Advertising DCO customers only) Administrator users can create dynamically generated creatives by mapping dynamic variables in an ad template to values in a feed file. All users can preview, duplicate, and delete existing dynamic ads.
 
-* **Creatives bundles:** Group creatives into bundles to use across multiple experiences with defined user targets. You can create *standard bundles* that consist of standard ads and *dynamic bundles* that consist of dynamically-generated ads. 
+* **Creatives bundles:** Group creatives into bundles to use across multiple experiences with defined user targets. You can create *standard bundles* that consist of standard ads and *dynamic bundles* that consist of dynamically generated ads. 
 
 ## Supported Creative Formats {#creative-creative-formats}
 
@@ -28,7 +28,7 @@ You can add and manage the following creative types in the [supported creative s
 
 >[!IMPORTANT]
 >
->Even if you intend to use HTMl5, Flexible HTML5, or third-party creatives for your ad experiences, you must also add image creatives for each creative size you will use.
+>Even if you intend to use HTML5, Flexible HTML5, or third-party creatives for your ad experiences, you must also add image creatives for each creative size you use.
 >
 >Each experience requires a default image creative for each creative size assigned to the experience. The default image creatives are used when a browser isn't JavaScript-enabled or when the ad server can't personalize the ad because of delays.
 
@@ -36,9 +36,9 @@ You can add and manage the following creative types in the [supported creative s
 
 Flexible HTML5 creatives are HTML5 creatives with all of their images and other attributes as standard HTML tags, which you can edit directly within [!DNL Creative], either within a creative library or within an individual experience (which creates a variation of the original creative). Flexible HTML5 creatives use the Interactive Advertising Bureau (IAB) Technology Laboratory's standard for an [ad portfolio](https://flexibleads.iabtechlab.com/), for which ad format sizes are flexible (rather than fixed) and are based on the ad’s aspect ratio and size range, and for which ads maintain their resolution across devices and publisher sites.
 
-You can <!-- either --> upload flexible HTML5 creatives as ZIP files<!-- or use one of the [provided templates](flexible-html5-templates.md) as a starting point -->. See the [specifications for flexible HTML5 creatives](html5-creative-specification.md).
+You can<!-- either --> upload flexible HTML5 creatives as ZIP files<!-- or use one of the [provided templates](flexible-html5-templates.md) as a starting point -->. See the [specifications for flexible HTML5 creatives](html5-creative-specification.md).
 
-<!-- Will flattening the view be possible in the MVP?
+<!-- Will flattening the view be possible later?
 The card view, by default, includes a card for each base flexible HTML5 creative you've uploaded, with the number of creative variations [Delete old description? : an indicator of how many variations of the creative exist]. You can optionally flatten the card view to include separate cards for each base creative and each derivation. The table view is always flattened.
 
 
@@ -56,7 +56,7 @@ You can upload simple or static HTML5 creatives, with all attributes and images 
 
 #### Image creatives
 
-You can include image creatives in GIF, JPEG, JPG,or PNG format. You can upload <!--LATER:   images from your Adobe Experience Manager accounts or --> images from your device or network.
+You can include image creatives in GIF, JPEG, JPG, or PNG format. You can upload<!--LATER:   images from your Adobe Experience Manager accounts or --> images from your device or network.
 
 Each ad experience requires a default image creative for each creative size assigned to the experience.
 
@@ -70,7 +70,7 @@ Enter JavaScript tracking tags for creatives hosted on third-party ad servers. T
 
 ### Format for Dynamic Ads
 
-Administrator users can create dynamically-generated creatives in static HTML5 and dynamic HTML5 format by mapping dynamic variables in an ad template to values in a feed file. This may include creatives from your legacy Adobe Advertising Dynamic Creative Optimization (DCO) experiences.
+Administrator users can dynamically generate creatives in static HTML5 and dynamic HTML5 format by mapping dynamic variables in an ad template to values in a feed file. Dynamic creatives may include creatives from your legacy Adobe Advertising Dynamic Creative Optimization (DCO) experiences.
 
 ## The [!UICONTROL Creative Libraries] views
 
@@ -78,7 +78,7 @@ See "[Customize your data views](/help/creative/introduction/customize-data-view
 
 ### The [!UICONTROL Creative Libraries] main view
 
-The [!UICONTROL Creative Libraries] main views shows all of your creative libraries. Data for each library includes the number of experiences to which the library's bundles are assigned, the number of bundles, the number of creatives, the number of creative sizes, the number of default language targets, the creation date, and the last modification date to any element of the library. The table mode also includes a column for the advertiser.
+The [!UICONTROL Creative Libraries] main view shows all of your creative libraries. Data for each library includes the number of experiences to which the library's bundles are assigned, the number of bundles, the number of creatives, the number of creative sizes, the number of default language targets, the creation date, and the last modification date to any element of the library. The table mode also includes a column for the advertiser.
 
 #### Available actions
 
@@ -122,7 +122,7 @@ add or remove labels, regenerate thumbnails for your creatives. When a creative 
 
 #### [!UICONTROL Dynamic Ads]
 
-The [!UICONTROL Dynamic Ads] tab shows all dynamic creatives that were created dynamically for your creative catalogs, except for any dynamic creatives that you [manually deleted](creative-delete.md) from the [!UICONTROL Dynamic Ads] tab. If you [manually duplicated](creative-duplicate.md) any dynamic creatives since a catalog was last processed, then the list of creatives for that catalog will also include the duplicate creatives.
+The [!UICONTROL Dynamic Ads] tab shows all dynamic creatives that were created dynamically for your creative catalogs, except for any dynamic creatives that you [manually deleted](creative-delete.md) from the [!UICONTROL Dynamic Ads] tab. If you [manually duplicated](creative-duplicate.md) any dynamic creatives since a catalog was last processed, then the list of creatives for that catalog also includes the duplicate creatives.
 
 Data for each creative includes the creative type, the creative size, the number of catalogs to which the creative belongs, and the creation date. The table mode also includes columns for the template through which the creative was generated and the offer count.
 

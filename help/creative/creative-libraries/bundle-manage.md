@@ -12,7 +12,7 @@ exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
 **I'll probably split this up into multiple pages since the creative-related topics are separate**
 -->
 
-Bundles are groups of creatives that you can add to an experience as one unit. After you create a bundle container, you can attach creatives to the bundle. Standard bundles can contain only standard ads, and dynamic bundles can contain only dynamic ads. You can override the landing pages, impression-tracking tags, and click-tracking tags for all creatives within a bundle assigned to an experience from within the experience decision tree without affecting the base creatives.
+Bundles are groups of creatives that you can add to an experience as one unit. After you create a bundle container, you can attach creatives to the bundle. Standard bundles can contain only standard ads, and dynamic bundles can contain only dynamic ads. You can override the landing pages, impression-tracking tags, and click-tracking tags for all creatives within a bundle that's assigned to an experience from within the experience decision tree, without affecting the base creatives.
 
 [!DNL Creative] rotates through the creatives in the bundle as specified for each experience to which the bundle is assigned. You can optionally allow [!DNL Creative] to optimize the ad elements for any experience based on performance using algorithmic ad rotation, which is powered by Adobe Sensei.
 
@@ -98,11 +98,13 @@ Changes to a bundle name are propagated across all associated experiences.
 
 ## Attach creatives to a bundle
 
-You can attach [existing standard creatives](/help/creative/creative-libraries/creative-libraries-about.md) to a standard bundle and attach existing dynamic creatives <!-- [existing dynamic creatives](creative-dynamic-manage.md) --> to a dynamic bundle. Attaching a creative to a bundle makes the creative available in all experiences to which the bundle is assigned. Each bundle can include only one of each \[creative size + language\] combination.
+You can attach [existing standard creatives](/help/creative/creative-libraries/creative-libraries-about.md) to a standard bundle and attach existing dynamic creatives<!-- [existing dynamic creatives](creative-dynamic-manage.md) --> to a dynamic bundle. Attaching a creative to a bundle makes the creative available in all experiences to which the bundle is assigned. Each bundle can include only one of each \[creative size + language\] combination.
 
+<!--
 >[!NOTE]
 >
 >You can also [attach creatives to bundles from the Standard Ads and Dynamic Ads views](creative-attach-detach-bundles.md).
+-->
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
@@ -213,7 +215,7 @@ The custom URL and tags are applied to a creative when the bundle is assigned to
 
 ## Delete bundles
 
-You can delete bundles that aren't assigned to a live experience.<!-- Add an x-ref?  --> If a bundle is assigned to a live experience, then remove the bundle from the decision tree for the experience<!-- add x-ref --> before you continue.
+You can delete bundles that aren't assigned to a [live](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) experience. If a bundle is assigned to a live experience, then [remove the bundle from the decision tree](/help/creative/experiences/experience-target-node-delete.md) for the experience before you continue.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
@@ -245,5 +247,6 @@ You can delete bundles that aren't assigned to a live experience.<!-- Add an x-r
 >[!MORELIKETHIS]
 >
 >* [Assign and unassign creative bundles to a final node in an experience](/help/creative/experiences/experience-assign-creative-bundles.md)
+>* [Add standard creatives to a creative library](/help/creative/creative-libraries/creative-add-standard.md)
 >* [Manage creative libraries](/help/creative/creative-libraries/creative-library-manage.md)
 >* [About your creative libraries](/help/creative/creative-libraries/creative-libraries-about.md)

@@ -100,7 +100,7 @@ The Report view includes the following data:
 
    The [!UICONTROL Overview] tab opens.
 
-1. (Optional) In the upper right toolbar, specify the date range, conversion attribution rule, and conversions reported within all of the performance reports:
+1. (Optional) In the upper right toolbar, specify the date range, conversion attribution rule, and conversions reported within all performance reports:
 
    * (Optional) To change the date range for the performance data, choose an option in the date menu:
    

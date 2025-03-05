@@ -8,11 +8,11 @@ exl-id: 8eb66310-4860-4ca0-9678-a9e33639c529
 
 *Closed beta*
 
-The setting vary by creative type.
+The settings vary by creative type.
 
 When you edit multiple creatives at the same time:
 
-* You can edit the settings for each creative at the same time or individually. By default, all of the creatives you chose are selected, and any settings you specify apply to all selected creatives. To edit settings for specific creatives, deselect each inapplicable creative before editing the fields; repeat for additional creatives if necessary.
+* You can edit the settings for each creative at the same time or individually. By default, all creatives you chose are selected, and any settings you specify apply to all selected creatives. To edit settings for specific creatives, deselect each inapplicable creative before editing the fields; repeat for additional creatives if necessary.
 
 * Some settings are applied to all selected creatives.
 
@@ -20,7 +20,7 @@ When you edit multiple creatives at the same time:
 
 ### Details tab
 
-**Creative Name:** The name of the creative. The template name or uploaded file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and use a name that will be easy to find when you include the creative in an experience.
+**Creative Name:** The name of the creative. The template name or uploaded file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and Use a name that will be easy to find when you include the creative in an experience.
 
 **Language:** The default language for each ad with which you associate the creatives. When you upload or edit multiple creatives, the same value is applied to each selected creative.
 
@@ -60,7 +60,7 @@ For information about attributes available in predefined templates, see "[Availa
 
 The flexible HTML5 template file for the creative.
 
-You can optionally replace the existing template with a new template that has a different layout but the same set of attribute names as the original template. The new template must be in ZIP format with a maximum of 2 MB. When the creative is in a bundle, all experiences that use the bundle will subsequently use the layout from the new template.
+You can optionally replace the existing template with a new template that has a different layout but the same set of attribute names as the original template. The new template must be in ZIP format with a maximum of 2 MB. When the creative is in a bundle, all experiences that use the bundle subsequently use the layout from the new template.
 
 When you update the template for a parent creative with child variations, the variations are updated with any changes to the template layout, but the attribute values for the variation aren't changed.
 
@@ -88,7 +88,7 @@ To replace the existing ad template:
 
 For new creatives, the following settings aren't on a named tab.
 
-**Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and use a name that will be easy to find when you include the creative in an experience.
+**Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and Use a name that will be easy to find when you include the creative in an experience.
 
 **Language:** The default language for each ad with which you associate the creatives. When you upload or edit multiple creatives, the same value is applied to each selected creative.
 
@@ -120,7 +120,7 @@ When you include a creative in a bundle and assign the bundle to an experience, 
 
 The HTML5 template file for the creative.
 
-You can optionally replace the existing template with a new template that has a different layout but the same set of attribute names as the original template. The new template must be in ZIP format with a maximum of 2 MB. When the creative is in a bundle, all experiences that use the bundle will subsequently use the layout from the new template.
+You can optionally replace the existing template with a new template that has a different layout but the same set of attribute names as the original template. The new template must be in ZIP format with a maximum of 2 MB. When the creative is in a bundle, all experiences that use the bundle subsequently use the layout from the new template.
 
 When you update the template for a parent creative with child variations, the variations are updated with any changes to the template layout, but the attribute values for the variation aren't changed.
 
@@ -146,13 +146,13 @@ To replace the existing ad template:
 
 **Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple images, you can edit the individual creative names. **Tip:** Use a name that will be easy to find when you include the creative in an experience.
 
-**Language:** The default language for each ad with which you associate the creatives. The same value applies to all selected images. <!-- VERIFY IF ANYTHING CAN HAPPEN AT THE BUNDLE LEVEL, and if the experience settings are at the experience level only:  When you include the creatives in an experience, you can optionally customize language preferences for the experience.
+**Language:** The default language for each ad with which you associate the creatives. The same value applies to all selected images. When you include the creatives in an experience, you can optionally customize language preferences for the experience.
 
 **Creative Size:** (Read-only) The dimensions of the uploaded images.
 
 **Landing Page URL:** The URL of the default landing page for each ad with which you associate the creatives. The landing page URL must be a valid URL beginning with http:// or https://. It may include third-party tracking parameters or [[!DNL Creative] macros](/help/creative/creative-macros.md) for your own use. The same value applies to all selected images.
 
-When you include a creative in a bundle and assign the bundle to an experience, you can optionally change the landing page URL, as well as add impression- and click-tracking URLs and JavaScript, for each creative in the bundle. <!-- NOT SURE APPLICABLE ANYMORE: to generate a variation of the base creative. -->
+When you include a creative in a bundle and then assign the bundle to an experience, you can optionally change the landing page URL, as well as add impression- and click-tracking URLs and JavaScript, for each creative in the bundle. <!-- NOT SURE APPLICABLE ANYMORE: to generate a variation of the base creative. -->
 
 **Label:** (Optional) Any labels to apply to all selected creatives. You can filter creatives by label in various views within [!DNL Creative].
 
@@ -166,11 +166,11 @@ When you include a creative in a bundle and assign the bundle to an experience, 
 
 ## Third-party creative settings {#creative-settings-third-party}
 
-**JavaScriptCode:** A JavaScript tag (and optionally an alternate tag for browsers that don't support JavaScript) that points to the creative on the third-party ad server. The script will vary by ad server. When you edit multiple creatives, the same value is applied to each selected creative.
+**JavaScriptCode:** A JavaScript tag (and optionally an alternate tag for browsers that don't support JavaScript) that points to the creative on the third-party ad server. The script can vary by ad server. When you edit multiple creatives, the same value is applied to each selected creative.
 
 All [available macros](/help/creative/creative-macros.md) and the data with which they're substituted are listed below the input field. To insert one of the macros in the tag, hold the cursor over the macro description and click ![Copy to clipboard](/help/creative/assets/copy-to-clipboard.png "Copy to clipboard"), and then paste the image wherever you want it within the tag.
 
-When you include this creative in an experience that you implement as an ad from a DSP, the DSP uses the information in this tag to display the ad and to track impressions and clicks on it, and then pushes the tag to the ad exchange. When the ad is displayed and clicked, the ad server, the DSP, and [!DNL Creative] will track the events.
+When you include this creative in an experience that you implement as an ad from a DSP, the DSP uses the information in this tag to display the ad and to track impressions and clicks on it. The DSP then pushes the tag to the ad exchange. When the ad is displayed and clicked, the ad server, the DSP, and [!DNL Creative] track the events.
 
 **[!UICONTROL Advertiser]:** (Read-only) The advertiser to which the library is available.
 
@@ -180,7 +180,7 @@ When you include this creative in an experience that you implement as an ad from
 u
 **Language:** The default language for each ad with which you associate the creatives.
 
-**Landing Page URL:** The landing page URL used to validate each ad with which you associate the creatives. The actual landing page for each ad is determined by the third-party ad server.
+**Landing Page URL:** The landing page URL used to validate each ad with which you associate the creatives. The third-party ad server determines the actual landing page for each ad.
 
 **Label:** (Optional) Any labels to apply to all selected creatives. You can filter creatives by label in various views within [!DNL Creative].
 

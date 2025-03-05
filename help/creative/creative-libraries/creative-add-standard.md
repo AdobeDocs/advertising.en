@@ -55,7 +55,7 @@ You can upload multiple flexible creative units. Flexible creatives must be in Z
 
 1. Specify the [flexible HTML5 ad settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5).
 
-   By default, all of the creatives you just uploaded are selected. Any settings with only one value apply to all selected creatives; for some settings, you can specify individual values. To enter settings for specific creatives, deselect the check box next to each inapplicable creative.
+   By default, all creatives you just uploaded are selected. Any settings with only one value apply to all selected creatives; for some settings, you can specify individual values. To enter settings for specific creatives, deselect the check box next to each inapplicable creative.
 
 1. Click **[!UICONTROL Create]**
 
@@ -98,7 +98,7 @@ For information about the attributes available in predefined templates, see "[Av
 
 ## Add an HTML5 creative to a creative library
 
-<!-- verify -->You can add multiple HTML5 creatives of a single type (simple or static) at a time.
+You can add multiple HTML5 creatives of a single type (simple or static) at a time.
 
 <!-- Add in when we add this feature back:
 You can optionally download a sample HTML5 creative as a ZIP file, edit the contents to build your own creative, and then add the edited file as a new creative.
@@ -116,7 +116,7 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
 1. Click **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL HTML5]**.
 
-<!-- Doesn't seem to be an option as of 11/27/24:
+<!-- Not an option as of 3/4:
 
 1. (Optional) To download a sample HTML5 creative as a ZIP file, click **Sample HTML5 Creatives**.
 
@@ -136,7 +136,7 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
 1. Specify the [HTML5 ad settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5).
 
-  By default, all of the creatives you just uploaded are selected. Any settings with only one value apply to all selected creatives; for some settings, you can specify individual values. To enter settings for specific creatives, deselect the check box next to each inapplicable creative.
+  By default, all creatives you just uploaded are selected. Any settings with only one value apply to all selected creatives; for some settings, you can specify individual values. To enter settings for specific creatives, deselect the check box next to each inapplicable creative.
 
 1. Click **[!UICONTROL Create]**
 
@@ -166,7 +166,7 @@ Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size i
 
 1. Specify the [image creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image).
 
-   By default, all of the creatives you just uploaded are selected, and any settings you specify apply to all selected creatives. Any settings with only one value apply to all selected creatives. To enter settings for specific creatives, deselect each inapplicable creative.
+   By default, all creatives you just uploaded are selected, and any settings you specify apply to all selected creatives. Any settings with only one value apply to all selected creatives. To enter settings for specific creatives, deselect each inapplicable creative.
 
 1. Click **[!UICONTROL Create]**
 
@@ -196,8 +196,5 @@ Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size i
 >* [Supported creative sizes](/help/creative/creative-libraries/creative-sizes.md)
 >* [Preview a creative](/help/creative/creative-libraries/creative-preview.md)
 >* [Attach and detach creatives from bundles](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
->* [Duplicate creatives](/help/creative/creative-libraries/creative-duplicate.md)
->* [Download creatives](/help/creative/creative-libraries/creative-download.md)
->* [Delete creatives](/help/creative/creative-libraries/creative-delete.md)
 >* [About your creative libraries](/help/creative/creative-libraries/creative-libraries-about.md)
 >* [Manage creative libraries](/help/creative/creative-libraries/creative-library-manage.md)

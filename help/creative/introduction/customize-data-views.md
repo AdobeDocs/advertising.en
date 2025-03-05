@@ -66,9 +66,9 @@ Refresh the pane to see any changes that other users have made.
 
 You can search for a specific string in the entity name. Use the search input field in the following views:
 
-* **[!UICONTROL Creative Libraries]:**  Search for a specific library name.
+* **[!UICONTROL Creative Libraries]:** Search for a specific library name.
 
-* **[!UICONTROL Experiences]:**  Search a specific experience name.
+* **[!UICONTROL Experiences]:** Search a specific experience name.
 
 ![Example search input field](/help/creative/assets/search-field.png "Example search input field")
 

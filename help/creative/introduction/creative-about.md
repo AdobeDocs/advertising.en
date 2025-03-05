@@ -13,7 +13,7 @@ As part of Adobe Advertising, Advertising Creative is a self-service platform fo
 
 ## Custom creative libraries of reusable creatives
 
-Your Creative Libraries allow you to manage all of the creatives you'll use in your ad experiences. You can create multiple libraries, each with individual creatives and creative groups (called *bundles*). You'll add creative bundles to your ad experiences.
+Your Creative Libraries allow you to manage the creatives you'll use in your ad experiences. You can create multiple libraries, each with individual creatives and creative groups (called *bundles*). You'll add creative bundles to your ad experiences.
 
 ## Rules-based experiences
 
@@ -34,7 +34,7 @@ You can optionally allow [!DNL Creative] to optimize the ad elements for any exp
 
 ## Retargeting pixels
 
-You can create retargeting pixels to use as targets for creatives within an ad experience, so that you show ads only to users with specified attributes who previously visited specific webpages.
+You can create retargeting pixels to use as targets for creatives within an ad experience. The targets show ads only to users with specified attributes who previously visited specific webpages.
 
 ## Impression, click, and conversion tracking
 

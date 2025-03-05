@@ -73,7 +73,7 @@ Example pixel:
 
    If you add additional attributes manually, you must include URL encoding. 
 
-   For example, if you included the attributes "category," "color," and "size" and capture ID5 universal IDs, then the pixel tag will include the following parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` and `&id5pid=--Insert ID5_PARTNER_ID--`. To target users who select red sandals in size 10, for example, you would change the parameters in both the image tag and script tag to `&ut1=sandals&ut2=red&ut3=10`, and also enter your ID5 partner ID in the script tag, such as `&id5pid=0123456789`.
+   For example, if you included the attributes "category," "color," and "size" and capture ID5 universal IDs, then the pixel tag includes the following parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` and `&id5pid=--Insert ID5_PARTNER_ID--`. To target users who select red sandals in size 10, for example, change the parameters in both the image tag and script tag to `&ut1=sandals&ut2=red&ut3=10`, and also enter your ID5 partner ID in the script tag, such as `&id5pid=0123456789`.
 
    `<img src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--" />  <script src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&cro=F&id5Consent=T&id5pid=--0123456789--&lrConsent=T&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--"></script>`
 
@@ -93,17 +93,17 @@ Example pixel:
 
 ## Retargeting pixel settings {#retargeting-pixel-settings}
 
-**[!UICONTROL Pixel Name]:** The name of the pixel. **Note:** The pixel tag will include the pixel ID (`pxId=<ID>`), not the pixel name.
+**[!UICONTROL Pixel Name]:** The name of the pixel. **Note:** The pixel tag includes the pixel ID (`pxId=<ID>`), not the pixel name.
 
 **[!UICONTROL Advertiser]:** (Read-only for existing pixels) The advertiser for which the pixel is tracked.
 
 **[!UICONTROL Attribute 1]:** An attribute to include in the pixel tag, such as "SKU," "category," "size," or other attributes of the page or the product displayed on the page. Specify a value for the attribute in the pixel tag before you insert it in the relevant webpages.
 
-When you target ad experiences to users exposed to the pixel, the targeting settings will specify the attribute values that must be present in order to show the creatives.
+When you target ad experiences to users exposed to the pixel, the targeting settings specify the attribute values that must be present to display the creatives.
 
 **[!UICONTROL Attribute 2]**, **[!UICONTROL Attribute 3]**, **[!UICONTROL Attribute 4]**, **[!UICONTROL Attribute 5]:** (Optional) Additional attributes to include in the pixel tag. Specify a value for each additional attribute in the pixel tag before you insert it in the relevant webpages.
 
-When you target ad experiences to users exposed to the pixel, the targeting settings will specify the attribute values that must be present in order to show the creatives.
+When you target ad experiences to users exposed to the pixel, the targeting settings specify the attribute values that must be present to display the creatives.
 
 **[!UICONTROL Advanced]** > **[!UICONTROL Universal IDs]:** (Beta feature; new pixels only; optional) Types of universal IDs for the pixel tag to track:
 

@@ -36,7 +36,7 @@ This document outlines the requirements and API support for HTML5 creatives with
 
 * All supporting assets that are needed to render the final creative must be either in the same folder as the HTML display file or in subfolders in the main folder.
 
-* Don't include any files in the creative that aren’t referenced for that creative.
+* Don't include any files in the creative that the creative doesn't reference.
 
 ### Inclusion of the Advertising Creative JavaScript file
 
@@ -76,11 +76,11 @@ var clickTag = “http://www.example.com”;
 
 ##### `amo.registerClick(clkVar, clkUrl)`
 
-Registers the click-through URLs and the associated parameter used to reference each URL (known as the `clickTag`). This informs the [!DNL Creative] ad server where to add click tracking. You can use this API to register up to five click tag variables, each with a corresponding landing page URL.
+Registers the click-through URLs and the associated parameter used to reference each URL (known as the `clickTag`). This API informs the [!DNL Creative] ad server where to add click tracking. You can use this API to register up to five click tag variables, each with a corresponding landing page URL.
 
 >[!NOTE]
 >
->The static URLs you include in the HTML5 creative are used for local testing purposes only and will be overwritten. When you upload an HTML5 creative, you'll define the default landing page for each `clickTag` variable. When you assign an uploaded HTML5 creative to an ad experience, you can optionally override the default landing page for each `clickTag` variable, and [!DNL Creative] adds click tracking to the URLs when you save the experience.
+>The static URLs you include in the HTML5 creative are used for local testing purposes only and will be overwritten. When you upload an HTML5 creative, you define the default landing page for each `clickTag` variable. When you assign an uploaded HTML5 creative to an ad experience, you can optionally override the default landing page for each `clickTag` variable, and [!DNL Creative] adds click tracking to the URLs when you save the experience.
 
 ###### Parameters
 
@@ -120,11 +120,11 @@ Call `amo.onAdClick()` in the `<body>` section of the main HTML file.
 
 ##### `amo.registerClick(clkVar, clkUrl)`
 
-Registers the click-through URLs and the associated parameter used to reference each URL (known as the `clickTag`). This informs the [!DNL Creative] ad server where to add click tracking. You can use this API to register up to five click tag variables, each with a corresponding landing page URL.
+Registers the click-through URLs and the associated parameter used to reference each URL (known as the `clickTag`). This API informs the [!DNL Creative] ad server where to add click tracking. You can use this API to register up to five click tag variables, each with a corresponding landing page URL.
 
 >[!NOTE]
 >
->The static URLs you include in the HTML5 creative are used for local testing purposes only and will be overwritten. When you upload an HTML5 creative, you'll define the default landing page for each `clickTag` variable. When you assign an uploaded HTML5 creative to an ad experience, you can optionally override the default landing page for each `clickTag` variable, and [!DNL Creative] adds click tracking to the URLs when you save the experience.
+>The static URLs you include in the HTML5 creative are used for local testing purposes only and will be overwritten. When you upload an HTML5 creative, you define the default landing page for each `clickTag` variable. When you assign an uploaded HTML5 creative to an ad experience, you can optionally override the default landing page for each `clickTag` variable, and [!DNL Creative] adds click tracking to the URLs when you save the experience.
 
 ###### Parameters
 
@@ -182,7 +182,7 @@ Call `amo.registerAttribute()` to register one creative attribute, type, and val
 
 ##### `amo.attributes`
 
-A JSON object to query the creative attribute variable names and values. The object keys will be the attribute names, and the values will be the values of those attributes.
+A JSON object to query the creative attribute variable names and values. The object keys are the attribute names, and the values are the values of those attributes.
 
 In local testing mode, the key-value pairs are the pairs registered by the `amo.registerAttribute` API. For production, the creative attribute variable names and values must be configured at the time of creative creation and trafficking.
 
