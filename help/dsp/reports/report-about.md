@@ -37,6 +37,10 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 
     * **[!UICONTROL Conversion]:** Use this report to understand how your campaigns are performing based on conversion metrics captured using Adobe Advertising conversion tracking. This report includes multi-touch attribution.
 
+    <!--
+    * **[!UICONTROL Custom Creative Report Beta]:** (Beta feature) Use this report to monitor performance across your Advertising Creative ad experiences.
+    -->
+
     * **[!UICONTROL Device]:** Use this pre-populated template to see key metrics by device-related dimensions.
 
     * **[!UICONTROL Frequency (by Impression)]:** Use this report to understand the distribution of impressions shown to unique viewers (for example, how many unique viewers saw one impression, two impressions, three impressions, and so on. Data is available by placement or campaign.
