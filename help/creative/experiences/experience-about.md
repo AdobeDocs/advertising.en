@@ -8,7 +8,7 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
 
 *Closed beta*
 
-<!-- Revisit Description metadata -->
+<!-- Revisit Description metadata  -->
 
 <!-- MORE -->
 
@@ -16,13 +16,23 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
 
 * **Experiences with decision tree targeting:** [!DNL Creative] allows you to configure personalized ad experiences throughout the customer journey using a decision tree model. You can customize all ad elements &mdash; images, headlines, offers, and landing pages &mdash; based on the target audience.
 
-  For example, you could specify the same creative bundle for people in Chicago and New York City who are in a specific Adobe Analytics audience segment but send people in Chicago who are in the same segment to different landing pages than New Yorkers. You could also specify a different bundle for people in the segment who live anywhere except Chicago and New York City, and a third bundle for other people who aren't in the segment.
+  For example, you could specify the same creative bundle for people in Chicago and New York City who are in a specific Adobe Analytics audience segment but send people in Chicago to different landing pages than New Yorkers. You could also specify a different bundle for people in the segment who live anywhere except Chicago and New York City, and a third bundle for other people who aren't in the segment.
 
-  Targeting options include viewers in your first-party audience segments from Adobe Audience Manager, Adobe Analytics, and Advertising Cloud DSP; viewers in specific geographical locations, including countries, states, DMAs within the United States, cities, and zip codes; viewers for which specific key-value pairs (data pass targets) are passed from the DSP, publisher, or partner; viewers with [!DNL Creative] retargeting pixels and specified attribute values; and viewers with specific device types, operating systems, and browsers.
+  Targeting options include:
 
-  You can assign creative bundles to each experience, optionally customizing optimization and scheduling for the creative bundles and changing the default landing pages and tracking URLs<!-- and any flexible attributes --> for individual creatives in each bundle.
+    * Your first-party audience segments from Adobe Audience Manager, Adobe Analytics, and Advertising Cloud DSP
+    
+    * Specific geographical locations, including countries, states, DMAs within the United States, cities, and zip codes
+    
+    * Viewers for which specific key-value pairs (data pass targets) are passed from the DSP, publisher, or partner
+    
+    * [!DNL Creative] retargeting pixels and specified attribute values
+    
+    * Specific device types, operating systems, and browsers
 
-* **Experiences without decision tree targeting:** [!DNL Creative] optimizes the ad elements for the ad experience without narrowing the audience.<!-- For first-party creatives, [!DNL Creative] serves the ads. --> You'll specify start and end dates and some default settings for each experience, but much of the workflow isn't directly within the experience. Instead of adding creatives directly to the experience, you create an ad tag for each ad size for the experience and then add creatives to it, configure creative optimization and scheduling, and customize the landing pages and tracking URLs, from within [!UICONTROL Tag Manager].
+  You can assign creative bundles to each experience. For each experience, you can customize optimization and scheduling for the creative bundles and change the default landing pages and tracking URLs<!-- and any flexible attributes --> for individual creatives in each bundle.
+
+* **Experiences without decision tree targeting:** [!DNL Creative] optimizes the ad elements for the ad experience without narrowing the audience.<!-- For first-party creatives, [!DNL Creative] serves the ads. --> For each experience, you specify start and end dates and some default settings, but much of the workflow isn't directly within the experience. Instead of adding creatives directly to the experience, you use [!UICONTROL Tag Manager] to create an ad tag for each ad size for the experience and then add creatives to it, configure creative optimization and scheduling, and customize the landing pages and tracking URLs.
 
 ## Ad optimization
 
@@ -31,7 +41,7 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
 
 ## Implementing and managing experiences
 
-Once you've created a live experience (with all required ad elements), you can [generate a JavaScript or iframe tag for the entire experience](experience-tag-export.md), which you can optionally upload as an ad to a campaign in Adobe Advertising DSP  or implement as an ad in a third-party DSP. [!DNL Creative] serves ads for the experience based on the targeting and ad rotation options as well as the available ad inventory.
+Once you created a live experience (with all required ad elements), you can [generate a JavaScript or iframe tag for the entire experience](experience-tag-export.md). You can upload the experience tag as an ad to a campaign in Adobe Advertising DSP or implement as an ad in a third-party DSP. [!DNL Creative] serves ads for the experience based on the targeting and ad rotation options as well as the available ad inventory.
 
 ## Performance data for your experiences
 
@@ -53,11 +63,11 @@ To monitor performance across your experiences, create a [!UICONTROL Custom Crea
 
 The status of an experience is set automatically, except for *deleted,* which you set manually.
 
-*Live:* The experience includes all required elements, so you can generate an experience tag to implement as an ad in a DSP. <!-- A live experience may be scheduled to start in the future -->
+*Live:* The experience includes all the required elements, so you can generate an experience tag to implement as an ad in a DSP. <!-- A live experience may be scheduled to start in the future -->
 
 *Draft:* All branches of the experience aren't assigned creatives, so the experience is incomplete, and you can't generate an experience tag.
 
-*Processing:* A previously-live experience has been edited but is now incomplete. You can't generate an experience tag for it. **Note:** If you already implemented an experience tag for the experience, then the previously-live version will still be served. If you later complete the experience &mdash; making it live again &mdash; then the new version will be served using the existing tag implementation.
+*Processing:* A previously-live experience was edited but is now incomplete. You can't generate an experience tag for it. **Note:** If you already implemented an experience tag for the experience, then the previously-live version can still be served. If you later complete the experience &mdash; making it live again &mdash; then the new version can be served using the existing tag implementation.
 
 *Deleted:* The experience was deleted from [!DNL Creative] and is no longer visible in the [!UICONTROL Experiences] views.
 

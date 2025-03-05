@@ -4,7 +4,7 @@ description: See all certified ad servers and ad units.
 feature: DSP Ads
 exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
 ---
-# Certified Ad Serving Partners
+# Certified Ad Serving Partners 
 
 | Ad Server | Audio | Display | High Impact Display | Video | Special Requirements and Notes |
 | --- | --- | --- | --- | --- | --- |

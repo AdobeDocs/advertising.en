@@ -8,7 +8,7 @@ exl-id: 833c4102-8577-4ba1-be07-7e032cec94ca
 
 *Closed beta*
 
-<!-- Edit all, including the metadata and title, plus the links within TOC and bundle-manage.md, once this feature is available. -->
+<!-- Edit all, including the metadata and title, plus the links within TOC and bundle-manage.md, once this feature is available.  -->
 
 You can attach standard creatives to standard bundles and dynamic creatives to dynamic bundles so that you can add them to [ad experiences](/help/creative/experiences/experience-about.md). Each bundle can include only one of each \[creative size + language\] combination.
 

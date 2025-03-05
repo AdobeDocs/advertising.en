@@ -154,7 +154,7 @@ Detaching a creative from the bundle doesn't delete the creative from the Creati
 
 ## Preview a creative in a bundle
 
-You can preview a creative as viewers will see it, with hyperlinks.
+You can preview a creative as viewers will see it, including hyperlinks.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
