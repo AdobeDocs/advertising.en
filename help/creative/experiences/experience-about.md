@@ -35,7 +35,7 @@ Once you've created a live experience (with all required ad elements), you can [
 
 ## Performance data for your experiences
 
-When you enable the [!UICONTROL Metrics] option in the [!UICONTROL Experiences] view, each experience card or row indicates the number of impressions and clicks that the experience received.
+When you enable the [!UICONTROL Metrics] option in the [!UICONTROL Creative] > [!UICONTROL Experiences] view, each experience card or row indicates the number of impressions and clicks that the experience received.
 
 ![Metrics option](/help/creative/assets/metrics-option.png "Metrics option")
 
@@ -43,11 +43,9 @@ When you enable the [!UICONTROL Metrics] option in the [!UICONTROL Experiences] 
 
 <!-- I don't see this as of 1/9; why only in the table view?   You can also add conversion columns in the table view. --> 
 
-You can view detailed performance data for any experience from the [!UICONTROL Creative] > [!UICONTROL Experiences] view. To monitor performance across your experiences, create a [!UICONTROL Custom Creative Report].
+You can [view detailed performance data for any experience](experience-performance-details.md) from the [!UICONTROL Experiences] view.
 
-<!--
-You can [view detailed performance data for any experience](experience-performance-details.md) from the Creative > Experiences view. To monitor performance across your experiences, [create custom reports](/help/dsp/reports/report-create.md).
--->
+To monitor performance across your experiences, create a [!UICONTROL Custom Creative Report](/help/creative/report-custom-creative.md).
 
 ## Experience statuses {#experience-statuses}
 
