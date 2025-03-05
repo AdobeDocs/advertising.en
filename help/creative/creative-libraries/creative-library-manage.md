@@ -8,7 +8,7 @@ exl-id: d8b802c7-a6e9-4135-a4de-fb482c72d044
 
 *Closed beta*
 
-You can create multiple creative libraries for each advertiser. You can later populate each library with [standard creatives](creative-add-standard.md)<!-- , dynamic creatives, --> and [creative bundles](bundle-manage.md). Your Adobe Account Team may also add dynamic creatives to your libraries.
+You can create multiple creative libraries for each advertiser. You can later populate each library with [standard creatives](creative-add-standard.md)<!-- , dynamic creatives, --> and [creative bundles](bundle-manage.md). Your Adobe Account Team may also add dynamic creatives to your libraries. 
 
 ## Create a creative library
 

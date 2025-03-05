@@ -9,7 +9,7 @@ exl-id: 6507d472-be25-4f20-a32e-ad73250d78d4
 *Standard creatives only*
 *Closed beta*
 
-Download all selected creatives to a file in ZIP format according to your browser's normal procedure.
+Download all selected creatives to a file in ZIP format according to your browser's normal procedure. 
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 

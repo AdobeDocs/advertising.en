@@ -8,7 +8,7 @@ exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
 
 *Closed beta*
 
-Add creatives to your [creative libraries](creative-library-manage.md) to use with [ad experiences](/help/creative/experiences/experience-about.md).
+Add creatives to your [creative libraries](creative-library-manage.md) to use with [ad experiences](/help/creative/experiences/experience-about.md). 
 
 >[!NOTE]
 >

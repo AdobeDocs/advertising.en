@@ -8,7 +8,7 @@ exl-id: 333ab2ea-293a-44e2-89e7-06782578318f
 
 *Closed beta*
 
-You can edit some settings for each type of standard creative. You can edit multiple creatives<!-- or creative variations --> of the same creative type (simple HTML5 with only one landing page, static HTML5 with multiple landing pages, flexible HTML5, image, or third-party<!-- , or dynamic -->) only.
+You can edit some settings for each type of standard creative. You can edit multiple creatives<!-- or creative variations --> of the same creative type (simple HTML5 with only one landing page, static HTML5 with multiple landing pages, flexible HTML5, image, or third-party<!-- , or dynamic -->) only. 
 
 For flexible HTML5 and static HTML5 creatives, you can upload a new template file with a different layout but the same set of attribute names. For simple HTML5 creatives, you can edit any attributes or add images by uploading a new template with the new attributes or images. In all cases, the template must be a local file in ZIP format with a maximum of 2 MB.
 
