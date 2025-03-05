@@ -9,7 +9,7 @@ exl-id: 0d92ab29-0aa0-4d5f-abf5-a520f49ea60e
 *Standard creatives only*
 *Closed beta*
 
-You can preview a creative as viewers will see it, with hyperlinks.
+You can preview a creative as viewers will see it, including hyperlinks.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 

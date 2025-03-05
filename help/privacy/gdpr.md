@@ -181,3 +181,5 @@ The following is an example of an access response for Adobe Advertising.
     }
 }
 ```
+
+<!-- Changed example from BlueKai (no longer supported) to Exelate -->

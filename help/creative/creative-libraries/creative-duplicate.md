@@ -8,7 +8,7 @@ exl-id: ec6ce2f5-fe2e-4c95-b0d9-dc09f3ce55c4
 
 *Closed beta*
 
-Duplicate creatives to add new creatives with the same settings to the same library. You can later rename the new creatives and edit the creative settings as needed.
+Duplicate creatives to add new creatives with the same settings to the same library. You can later rename the new creatives and edit the creative settings as needed. 
 
 >[!NOTE]
 >

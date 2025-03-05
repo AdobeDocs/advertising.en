@@ -20,7 +20,7 @@ When you edit multiple creatives at the same time:
 
 ### Details tab
 
-**Creative Name:** The name of the creative. The template name or uploaded file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and Use a name that will be easy to find when you include the creative in an experience.
+**Creative Name:** The name of the creative. The template name or uploaded file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and Use a name that you can easily find when you include the creative in an experience.
 
 **Language:** The default language for each ad with which you associate the creatives. When you upload or edit multiple creatives, the same value is applied to each selected creative.
 
@@ -88,7 +88,7 @@ To replace the existing ad template:
 
 For new creatives, the following settings aren't on a named tab.
 
-**Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and Use a name that will be easy to find when you include the creative in an experience.
+**Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and Use a name that you can easily find when you include the creative in an experience.
 
 **Language:** The default language for each ad with which you associate the creatives. When you upload or edit multiple creatives, the same value is applied to each selected creative.
 
@@ -144,7 +144,7 @@ To replace the existing ad template:
 
 ## Image creative settings {#creative-settings-image}
 
-**Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple images, you can edit the individual creative names. **Tip:** Use a name that will be easy to find when you include the creative in an experience.
+**Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple images, you can edit the individual creative names. **Tip:** Use a name that you can easily find when you include the creative in an experience.
 
 **Language:** The default language for each ad with which you associate the creatives. The same value applies to all selected images. When you include the creatives in an experience, you can optionally customize language preferences for the experience.
 
@@ -174,7 +174,7 @@ When you include this creative in an experience that you implement as an ad from
 
 **[!UICONTROL Advertiser]:** (Read-only) The advertiser to which the library is available.
 
-**Creative Name:** The name of the creative. **Tip:** Use a name that will be easy to find when you include the creative in an experience.
+**Creative Name:** The name of the creative. **Tip:** Use a name that you can easily find when you include the creative in an experience.
 
 **Creative Size:** (Read-only for existing ads) The dimensions of the creative. For new creatives, select from a list of standard ad sizes.
 u
