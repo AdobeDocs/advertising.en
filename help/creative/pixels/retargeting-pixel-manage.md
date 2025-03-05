@@ -24,7 +24,7 @@ Example pixel:
 
 >[!NOTE]
 >
-> * [!DNL Creative] currently supports universal IDs only for Advertising DSP. A future release will support universal IDs for third-party DSPs.<!-- Clarify this and reword as needed -->
+> * [!DNL Creative] currently supports universal IDs only for Advertising DSP. A future release will support universal IDs for third-party DSPs.<!-- Clarify this and reword as needed  -->
 >* You can also use your first-party audiences from Adobe Audience Manager and Adobe Analytics as [creative targets for your experiences](/help/creative/experiences/experience-settings-targeting.md).
 >* When you use an experience as an ad within an Advertising DSP placement, you can target the placement to all audiences available to you in DSP. You can also [create custom audience segment tags](/help/dsp/audiences/custom-segment-create.md) to track all visitors to specific landing pages and then use those segments as creative targets for a placement.
 >* Website visitors who have opted out of tracking for ad targeting do not receive ads with personalized creative content based on audience segment or re-targeting profile.

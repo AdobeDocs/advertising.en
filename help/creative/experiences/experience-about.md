@@ -8,7 +8,7 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
 
 *Closed beta*
 
-<!-- Revisit Description metadata -->
+<!-- Revisit Description metadata  -->
 
 <!-- MORE -->
 

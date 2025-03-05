@@ -6,7 +6,7 @@ exl-id: 06d29442-d688-4fb8-ad6f-cba0a897fde0
 ---
 # HTML5 creative specification for Advertising Creative
 
-This document outlines the requirements and API support for HTML5 creatives within [!DNL Creative]. The API allows the development of HTML5 creatives whose attributes can be configured at the time of creative delivery.
+This document outlines the requirements and API support for HTML5 creatives within [!DNL Creative]. The API supports the development of HTML5 creatives whose attributes can be configured at the time of creative delivery.
 
 ## Scope
 

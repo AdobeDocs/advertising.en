@@ -6,7 +6,7 @@ exl-id: c8e90ba6-bff7-4161-86b8-c4b5b04fb4bf
 ---
 # Supported creative sizes
 
-<!-- verify the description for 320x160 (I'm guessing mobile 2:1 rectangle?) and 930x180 (GGL says top banner)?) -->
+<!-- verify the description for 320x160 (I'm guessing mobile 2:1 rectangle?) and 930x180 (GGL says top banner)?)  -->
 
 The following creative sizes apply to all creative types.
 

@@ -11,7 +11,7 @@ exl-id: 0d25f665-b5f9-4d27-851a-2a456fe2cbf8
 
 *Closed beta*
 
-<!-- The following features are new or recently changed. -->
+<!-- The following features are new or recently changed.  -->
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
