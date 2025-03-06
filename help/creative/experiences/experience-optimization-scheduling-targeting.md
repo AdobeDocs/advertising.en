@@ -9,7 +9,7 @@ exl-id: 47d1a249-decd-4c3b-ac88-260488d5bcd2
 *Target nodes with existing creatives only*
 *Closed beta*
 
-By default, the creative rotation for an experience is determined algorithmically to optimize the overall click-through rate, and the creative optimization settings apply to all assigned bundles. You can customize the creative rotation to manually run the creatives in each bundle according to relative weights or to algorithmically optimize for a specified Advertising DSP custom goal. <!-- verify --> You can also schedule specific creative bundles to run during specified, sequential time periods and apply custom creative rotation settings for each schedule.
+By default, the creative rotation for an experience is determined algorithmically to optimize the overall click-through rate, and the creative optimization settings apply to all assigned bundles. You can customize the creative rotation to manually run the creatives in each bundle according to relative weights or to algorithmically optimize for a specified Advertising DSP custom goal. You can also schedule specific creative bundles to run during specified, sequential time periods and apply custom creative rotation settings for each schedule.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ When creative scheduling is disabled, the creative optimization settings apply t
    
    * *[!UICONTROL Algorithmic]:* Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
    
-     * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
+     * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
 
 1. Click **[!UICONTROL Save]**.
 
@@ -55,7 +55,7 @@ When you use scheduling, you must schedule bundles through the duration of the e
 
       * *[!UICONTROL Algorithmic]:* Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
 
-        * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
+        * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
 
 1. For each additional schedule:
 
@@ -71,7 +71,7 @@ When you use scheduling, you must schedule bundles through the duration of the e
 
       * *[!UICONTROL Algorithmic]:* Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
 
-        * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
+        * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
 
 1. Click **[!UICONTROL Save]**.
 
