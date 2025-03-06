@@ -42,7 +42,7 @@ exl-id: 825fd9af-ca7a-4b44-8e4b-1a6f34edac9e
 
         * [Assign and unassign creatives to a final node](experience-assign-creative-bundles.md).
         
-          If you don't assign at least one bundle to each final node, you can opt to use the default creatives for each unassigned node when you save the experience. To be published, the experience must be assigned either bundles or use the default creatives for all ads created from it.
+          If you don't assign at least one bundle to each final node, you can opt to use the default creatives for each unassigned node when you save the experience. To publish an experience, you must either assign bundles or use the default creatives for each final node.
 
         * [Customize the tracking URLs for creatives in the assigned bundles](experience-tracking-urls-targeting.md).
 

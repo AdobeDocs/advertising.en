@@ -54,7 +54,7 @@ exl-id: 8c5e8f9b-c405-41b2-98a9-da7c5debd3e1
      
        * [Assign and unassign creatives to a final node](experience-assign-creative-bundles.md).
        
-         If you don't assign at least one bundle to each final node, you can opt to use the default creatives for each unassigned node when you save the experience. To be published, the experience must be assigned either bundles or use the default creatives for all ads created from it.
+         If you don't assign at least one bundle to each final node, you can opt to use the default creatives for each unassigned node when you save the experience. To publish an experience, you must either assign bundles or use the default creatives for each final node.
        
        * [Customize the tracking URLs for creatives in the assigned bundles](experience-tracking-urls-targeting.md).
        
@@ -66,7 +66,7 @@ exl-id: 8c5e8f9b-c405-41b2-98a9-da7c5debd3e1
    
    * (If each node at the bottom-most level doesn't include at least one creative bundle) Do one of the following:
    
-     * To save the experience without all required creative bundles, click **[!UICONTROL Save as Draft]**.
+     * To save the experience without all the required creative bundles, click **[!UICONTROL Save as Draft]**.
      
        You can't create an ad tag for a [draft](experience-about.md#experience-statuses) experience.
 

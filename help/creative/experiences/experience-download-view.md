@@ -19,3 +19,6 @@ Each row in the file includes details about an experience, including the experie
 1. In the upper right toolbar, click ![Download](/help/creative/assets/download.png "Download").
 
      The file is saved to your browser's default Downloads folder.
+
+>[!MORELIKETHIS]
+>* [About experiences in Advertising Creative](/help/creative/experiences/experience-about.md)

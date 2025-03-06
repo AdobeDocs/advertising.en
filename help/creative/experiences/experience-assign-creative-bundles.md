@@ -15,9 +15,7 @@ For standard ad experiences, you can assign only standard creative bundles. For 
 
 >[!NOTE]
 >
->If you don't assign at least one creative bundle to each final node, you can opt to use the default creatives for each unassigned node when you [save the experience](experience-create-targeting.md). To be published, the experience must be assigned either bundles or use the default creatives for all ads created from it.
-
-<!-- The optimization and ad scheduling features and tracking URLs customization are in a different place now -- include here or in separate procedures? -->
+>If you don't assign at least one creative bundle to each final node, you can opt to use the default creatives for each unassigned node when you [save the experience](experience-create-targeting.md). To publish an experience, you must either assign bundles or use the default creatives for each final node.
 
 <!-- 1. [ways to get to the decision tree] -->
 
