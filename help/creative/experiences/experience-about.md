@@ -55,7 +55,7 @@ When you enable the [!UICONTROL Metrics] option in the [!UICONTROL Creative] > [
 
 You can [view detailed performance data for any experience](experience-performance-details.md) from the [!UICONTROL Experiences] view.
 
-To monitor performance across your experiences, create a [!UICONTROL Custom Creative Report](/help/creative/report-custom-creative.md).
+To monitor performance across your experiences, create a [Custom Creative Report](/help/creative/report-custom-creative.md).
 
 ## Experience statuses {#experience-statuses}
 
