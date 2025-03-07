@@ -9,11 +9,11 @@ exl-id: 3ff657d5-bad1-47f4-a3ec-9ea678fd3c9d
 *Experiences with decision tree targeting only*
 *Closed beta*
 
-When you add a target node to the bottom-most level in the experience &mdash; whether it's the root "All" node, a target-specific node, or an "Everything Else" node &mdash; you define the target directly without needing to create a sibling node. This creates the target node and an additional "Everything Else" node at the same level.
+When you add a target node to the bottom-most level in the experience &mdash; whether it's the root "All" node, a target-specific node, or an "Everything Else" node &mdash; you define the target directly and don't need to create a sibling node. Adding a bottom-level node creates the target node and an additional "Everything Else" node at the same level.
 
 >[!NOTE]
 >
->To insert a target node between existing levels of an decision tree, see "[Insert a target node between nodes in an experience](experience-target-node-add-inner.md)."
+>To insert a target node between existing levels of a decision tree, see "[Insert a target node between nodes in an experience](experience-target-node-add-inner.md)."
 
 <!-- 1. [ways to get to the decision tree] -->
 
@@ -27,7 +27,7 @@ When you add a target node to the bottom-most level in the experience &mdash; wh
      
      1. (Optional) To create multiple target nodes when multiple audiences are specified, select **[!UICONTROL Split targets to create nodes]**.
 
-        This creates a separate target node (with separate creative bundles) for each specified audience. If you don't split the targets, then the user must belong to all specified audiences.
+        This feature creates a separate target node (with separate creative bundles) for each specified audience. If you don't split the targets, then the user must belong to all specified audiences.
 
      1. Click **[!UICONTROL Apply]**.
 
@@ -39,7 +39,7 @@ When you add a target node to the bottom-most level in the experience &mdash; wh
      
      1. (Optional) To create multiple target nodes when multiple geographical targets are specified, select **[!UICONTROL Split targets to create nodes]**.
 
-        This creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all specified locations.
+        This feature creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all specified locations.
 
      1. Click **[!UICONTROL Apply]**.
 
@@ -47,7 +47,7 @@ When you add a target node to the bottom-most level in the experience &mdash; wh
    
     The key for the key-value pair is already set in the **[!UICONTROL Data Pass]** field in the [!UICONTROL Advanced] section of the [experience settings](experience-settings-targeting.md).
 
-   * For a retargeting pixel target, select **[!UICONTROL RT Pixel]**, select a single retargeting pixel to use and the required values for any of the pixel's attributes that must be present in order to show the creatives, and then click **[!UICONTROL Apply]**.
+   * For a retargeting pixel target, select **[!UICONTROL RT Pixel]**, select a single retargeting pixel to use and the values for any of the pixel's attributes that are required to show the creatives, and then click **[!UICONTROL Apply]**.
    
      The attributes for the retargeting pixel are configured in the [retargeting pixel settings](/help/creative/pixels/retargeting-pixel-manage.md).
 
@@ -57,7 +57,7 @@ When you add a target node to the bottom-most level in the experience &mdash; wh
      
      1. (Optional) To create multiple target nodes when multiple geographical targets are specified, select **[!UICONTROL Split targets to create nodes]**.
 
-        This creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all specified locations.
+        This feature creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all specified locations.
 
      1. Click **[!UICONTROL Apply]**.
 

@@ -40,7 +40,7 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
 1. Select the tag type: ** *JavaScript<!-- sic -->*  ** or ** *IFRAME* ** <!-- sic -->.
 
-1. In the [!UICONTROL Destinations] list, select where you will create ads for the experience.
+1. In the [!UICONTROL Destinations] list, select where you'll create ads for the experience.
 
    * *Adobe Advertising:* For ads you'll create in Advertising DSP.
 
@@ -64,7 +64,7 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
       1. Click **[!UICONTROL Next]** in the upper right or click **[!UICONTROL DSP link]** in the left menu.
 
-      1. Select the campaign for which the ad tag will become available.
+      1. Select the campaign to which you want to upload the ad tag.
 
       1. Click **[!UICONTROL Assign Tags]**.
 

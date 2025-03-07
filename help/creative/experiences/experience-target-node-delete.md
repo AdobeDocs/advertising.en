@@ -13,7 +13,7 @@ You can delete a target node, including all child targets and the creative bundl
 
 <!-- 1. [ways to get to the decision tree] -->
 
-1. Hold the cursor over the target node or creative creative leaf node click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
+1. Hold the cursor over the target node or creative leaf node click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
 
 1. In the confirmation message, click **[!UICONTROL Delete Node]**.
 

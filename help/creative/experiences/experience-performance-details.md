@@ -24,7 +24,7 @@ The Report view includes the following data:
      ![Overall performance](/help/creative/assets/experience-report-overall-performance.png "Overall performance"){width="100" zoomable="yes"}
           -->
 
-   * **Default Rate**: (Experiences with decision tree targeting only) The number of impressions resulting from targeted creatives, generic creatives without a target or targeted to "Everyone Else", and the default creative for the experience.
+   * **Default Rate**: (Experiences with decision tree targeting only) The number of impressions resulting from targeted creatives, generic creatives without a target or targeted to "Everyone Else," and the default creative for the experience.
    
      <!--
      ![Default rate](/help/creative/assets/experience-report-default-rate.png "Default rate"){width="100" zoomable="yes"} 
@@ -46,7 +46,7 @@ The Report view includes the following data:
       ![Regional performance](/help/creative/assets/experience-report-regional-performance.png "Regional performance"){width="100" zoomable="yes"}
       -->
 
-    * **Device Performance:** Individual metrics by device type, operating system, and browser. Optionally click the value for any device category to see a list of the top <!-- NN --> creatives served with that criteria.
+    * **Device Performance:** Individual metrics by device type, operating system, and browser. Optionally click the value for any device category to see a list of the top<!-- NN --> creatives served with that criteria.
     
       <!--    
       ![Device performance](/help/creative/assets/experience-report-device-performance.png "Device performance"){width="100" zoomable="yes"}
@@ -70,7 +70,7 @@ The Report view includes the following data:
 
      -->
    
-   * **Bundles/Tags** sub-tab:  The total number of impressions, clicks, and CTR for individual bundles (experiences with decision tree targeting) or ad tags (experiences without decision tree targeting) in the experience.
+   * **Bundles/Tags** sub-tab: The total number of impressions, clicks, and CTR for individual bundles (experiences with decision tree targeting) or ad tags (experiences without decision tree targeting) in the experience.
    
      <!--
    
@@ -106,13 +106,15 @@ The Report view includes the following data:
    
      * To specify a preset period, select the report: (*[!UICONTROL Last Month-to-date],* *[!UICONTROL Last 7 days],* *[!UICONTROL Last 30 days],* *[!UICONTROL Last 7 days],* *[!UICONTROL Last 30 days],* *[!UICONTROL Today],* or *[!UICONTROL Yesterday]*.
      
-     * To specify a custom date range, specify the start date and end date <!-- in the format MM/DD/YYYY or M/D/YYYY,--> or click ![calendar icon](/help/search-social-commerce/assets/calendar.png) next to a field and select a date.
+     * To specify a custom date range, specify the start date and end date<!-- in the format MM/DD/YYYY or M/D/YYYY,--> or click ![calendar icon](/help/search-social-commerce/assets/calendar.png) next to a field and select a date.
    
    * (Optional) To change the rule used to attribute conversion data in a series of events that lead to a conversion, click ![Settings](/help/creative/assets/settings.png) and change the **[!UICONTROL Attribution Rule]**.
 
-   * (Optional) To change the conversions reported, click ![Settings](/help/creative/assets/settings.png) and select the conversion names in the **[!UICONTROL Conversions]** menu.<!-- Just one or multiple? Verify how these show up -- I need to see an advertiser with multiple conversions already set up -->
+     For more information about attribution rules, see "[How attribution rules are calculated](/help/search-social-commerce/reports/attribution-rules.md)."
 
-     The available conversion columns include the conversions available in Advertising Search, Social, & Commerce, whether or not you are a Search, Social, & Commerce customer. This can include conversion and site engagement metrics synced from Adobe Analytics when the advertiser has [an [!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md). <!--Analytics calculated metrics and advanced calculated metrics aren't available.--> For more information about including collected conversions in reports, see the Search, Social, & Commerce Guide topic “[About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)."
+   * (Optional) To change the conversions reported, click ![Settings](/help/creative/assets/settings.png) and select the conversion names in the **[!UICONTROL Conversions]** menu.<!-- Just one or multiple? Verify how these show up -- I need to see an advertiser with multiple conversions already set up. As of 3/6, I see only "Select All." -->
+
+     The available conversion columns include the conversions available in Advertising Search, Social, & Commerce, whether or not you are a Search, Social, & Commerce customer. The list can include conversion and site engagement metrics synced from Adobe Analytics when the advertiser has [an [!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md). <!--Analytics calculated metrics and advanced calculated metrics aren't available.--> For more information about including collected conversions in reports, see the Search, Social, & Commerce Guide topic “[About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)."
 
 1. (On the [!UICONTROL Overview] tab):
 
@@ -128,9 +130,9 @@ The Report view includes the following data:
 
    * (Optional) In the [!UICONTROL Device Performance] section, do any of the following:
    
-     * Hold the cursor over value for any device category to see data for that criteria.
+     * Hold the cursor over the value for any device category to see data for that criteria.
      
-     * Click the value for any device category to see a list of the top <!-- NN--> creatives served with that criteria.
+     * Click the value for any device category to see a list of the top<!-- NN--> creatives served with that criteria.
 
 1. (Optional) To view data by creative and by bundle or ad tag, click the **[!UICONTROL Creative Performance]** tab.
 
@@ -142,7 +144,7 @@ The Report view includes the following data:
      
      * (Experiences with decision tree targeting only; optional) To break out the performance for each applied ad target, enable **[!UICONTROL Split targeting]**.
 
-1. To view data by by bundle (experiences with decision tree targeting) or ad tag (experiences without decision tree targeting), click the **[!UICONTROL Bundles]** subtab. You can do any of the following:
+1. To view data by bundle (experiences with decision tree targeting) or ad tag (experiences without decision tree targeting), click the **[!UICONTROL Bundles]** subtab. You can do any of the following:
 
    * (Optional) To switch between chart view and grid view, click ![Chart](/help/creative/assets/chart-view-button.png "Chart") and ![Grid](/help/creative/assets/table-view-button.png "Grid"), respectively.
    
@@ -157,3 +159,5 @@ The Report view includes the following data:
 >[!MORELIKETHIS]
 >
 >* [Custom Creative Report](/help/creative/report-custom-creative.md)
+>* [Download all experiences in the view](/help/creative/experiences/experience-download-view.md)
+>* [About experiences in Advertising Creative](/help/creative/experiences/experience-about.md)

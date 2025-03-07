@@ -9,13 +9,13 @@ exl-id: ac9211e5-c6ed-4185-bf9c-c2689f1b2775
 *Experiences with decision tree targeting only*
 *Closed beta*
 
-When you insert a target node between existing levels, the new target node retains all of the existing child targets and creatives, and the new node initially is called "All." You can optionally keep the new node without adding more specific targets.
+When you insert a target node between existing levels, the new target node retains all existing child targets and creatives, and the new node initially is called "All." You can optionally keep the new node without adding more specific targets.
 
-To define a specific target, add an additional sibling target node at the same level, specify the new target, and then assign creatives to just that target. This creates the new target node and moves all child targets and creatives that were previously assigned to "All" to a new "Everything Else" node at the same level. This way, the existing child branches aren't affected by the addition of the new target because only the new sibling node includes the new targeting information.
+To define a specific target, add an additional sibling target node at the same level, specify the new target, and then assign creatives to just that target. Adding a sibling target node creates the new target node and moves all child targets and creatives that were previously assigned to "All" to a new "Everything Else" node at the same level. This way, the addition of the new target doesn't affect the existing child branches because only the new sibling node includes the new targeting information.
 
 >[!NOTE]
 >
->To add a target node to the bottom level of an decision tree, see "[Add a target node to the final level in an experience](experience-target-node-add-final.md)."
+>To add a target node to the bottom level of a decision tree, see "[Add a target node to the final level in an experience](experience-target-node-add-final.md)."
 
 <!-- 1. [ways to get to the decision tree] -->
 
@@ -45,7 +45,7 @@ To define a specific target, add an additional sibling target node at the same l
        
        1. (Optional) To create multiple target nodes when multiple audiences are specified, select **[!UICONTROL Split targets to create nodes]**.
        
-          This creates a separate target node (with separate creative bundles) for each specified audience. If you don't split the targets, then the user must belong to all specified audiences.
+          This feature creates a separate target node (with separate creative bundles) for each specified audience. If you don't split the targets, then the user must belong to all specified audiences.
           
        1. Click **[!UICONTROL Apply]**.
 
@@ -57,7 +57,7 @@ To define a specific target, add an additional sibling target node at the same l
      
        1. (Optional) To create multiple target nodes when multiple geographical targets are specified, select **[!UICONTROL Split targets to create nodes]**.
        
-          This creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all specified locations.
+          This feature creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all specified locations.
 
        1. Click **[!UICONTROL Apply]**.
 
@@ -65,7 +65,7 @@ To define a specific target, add an additional sibling target node at the same l
      
        The key for the key-value pair is already set in the **[!UICONTROL Data Pass]** field in the [!UICONTROL Advanced] section of the [experience settings](experience-settings-targeting.md).
 
-     * For a retargeting pixel target, select a single retargeting pixel to use and the required values for any of the pixel's attributes that must be present in order to show the creatives, and then click **[!UICONTROL Apply]**.
+     * For a retargeting pixel target, select a single retargeting pixel to use and the values for any of the pixel's attributes that are required to show the creatives, and then click **[!UICONTROL Apply]**.
      
        The attributes for the retargeting pixel are configured in the [retargeting pixel settings](/help/creative/pixels/retargeting-pixel-manage.md).
 
@@ -75,7 +75,7 @@ To define a specific target, add an additional sibling target node at the same l
         
         1. (Optional) To create multiple target nodes when multiple geographical targets are specified, select **[!UICONTROL Split targets to create nodes]**.
         
-           This creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all specified locations.
+           This feature creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all specified locations.
 
         1. (Optional) To create multiple target nodes when multiple geographical targets are specified, select **[!UICONTROL Split targets to create nodes]**.
 
@@ -85,7 +85,7 @@ To define a specific target, add an additional sibling target node at the same l
 
    * (Optional) [Assign creatives](experience-assign-creative-bundles.md) to the new target node and to the "Everything Else" node.
 
-   * (Optional) [Add a sibling target node](experience-target-node-add-sibling.md) that will include a target of the specified type.
+   * (Optional) [Add a sibling target node](experience-target-node-add-sibling.md) of the specified target type.
    
    * (Optional) To save the experience:
    

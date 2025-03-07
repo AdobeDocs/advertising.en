@@ -8,7 +8,7 @@ exl-id: 03a10285-c0df-4bc3-92c7-c1c2ea3f8129
 
 *Closed beta*
 
-For experiences without decision tree targeting, you can create up to five custom impression-tracking URLs, five custom click-tracking URLs, and one custom landing page URL for each individual creative used for the ad experience tag from within [!UICONTROL Tag Manager].
+For experiences without decision tree targeting, you can create up to five custom impression-tracking URLs, five custom click-tracking URLs, and one custom landing page URL for each individual creative used for the ad experience tag. You can customize the tracking URLs from within [!UICONTROL Tag Manager].
 
 The custom URLs are used only for ads created from the ad experience tag and aren't saved in the base creative settings in [!UICONTROL Creative Libraries].
 
@@ -28,13 +28,13 @@ The custom URLs are used only for ads created from the ad experience tag and are
 
    1. Enter a unique **[!UICONTROL Tag name]** and select the **[!UICONTROL Tag size]**.
 
-      The available sizes are determined by the sizes of the default image creatives for the experience.
+      The sizes of the default image creatives for the experience determine the available sizes.
 
    1. Click **[!UICONTROL Create]**.
 
 1. Hold the cursor over the row for the applicable ad tag and click ![Edit tracking URLs](/help/creative/assets/edit-gray.png "Edit tracking URLs") **[!UICONTROL Tracking URLs]**. <!-- For targeted experiences, this is "EDIT Tracking URLs" --><!-- Tag Manager has only a list view, but no card view, as of 2/2. >
 
-   The [!UICONTROL Click Tracking URLs], [!UICONTROL Impression Tracking URLs], and [!UICONTROL Landing URLs] tabs list the names of all creatives in the applicable sizes in the assigned bundles. The applicable sizes are determined by the sizes of the default image creatives for the experience.<!-- There's no distinct "Creative Sizes" setting. -->
+   The [!UICONTROL Click Tracking URLs], [!UICONTROL Impression Tracking URLs], and [!UICONTROL Landing URLs] tabs list the names of all creatives in the applicable sizes in the assigned bundles. The sizes of the default image creatives for the experience determine the available sizes.<!-- There's no distinct "Creative Sizes" setting. -->
 
 1. On the **[!UICONTROL Click Tracking URLs]**, **[!UICONTROL Impression Tracking URLs]**, and **[!UICONTROL Landing URLs]** tabs, do the following for each creative as needed:
 
@@ -44,7 +44,7 @@ The custom URLs are used only for ads created from the ad experience tag and are
    
       * To add or edit a custom URL, enter the URL in the input field.
       
-      * To add another custom URL, click **[!UICONTROL +]** and enter the the URL in the input field.
+      * To add another custom URL, click **[!UICONTROL +]** and enter the URL in the input field.
 
       * To remove a custom URL, hold the cursor over the creative row and click ![Delete](/help/creative/assets/delete.png "Delete").
 

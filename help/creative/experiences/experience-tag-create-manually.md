@@ -27,13 +27,13 @@ You can create one or more ad tag for each creative size used for an experience.
 
 1. Enter a unique **[!UICONTROL Tag name]** and select the **[!UICONTROL Tag size]**.
 
-   The available creative sizes are determined by the sizes of the default image creatives for the experience.
+   The sizes of the default image creatives for the experience determine the available creative sizes.
 
    You can create multiple tags for the same creative size.<!-- What are the implications? -->
 
 1. Click **[!UICONTROL Create]**.
 
-   You an expand the tag row to see the included creatives.
+   You can expand the tag row to see the included creatives.
 
 >[!MORELIKETHIS]
 >
