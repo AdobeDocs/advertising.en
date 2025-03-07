@@ -88,11 +88,11 @@ All steps are necessary to receive support from Adobe Advertising. For more info
 
 * `"user IDs":`
 
-    * `"namespace": **411**` (which indicates the [!DNL adCloud] cookie space)
+    * `"namespace": **411**` (which indicates the [[!DNL AdCloud] cookie space](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix))
 
     * `"value":` <*the actual customer’s cookie ID value as retrieved from `AdobePrivacy.js`*>
 
-* `"include": **adCloud**` (which is the [!DNL Adobe] product that applies to the request)
+* `"include": **adCloud**` (which is the [[!DNL Adobe] product](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix) that applies to the request)
 
 * `"regulation": **ccpa**` (which is the privacy regulation that applies to the request)
 
