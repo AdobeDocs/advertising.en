@@ -34,7 +34,6 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL ShareThrough]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Global|USD|Display desktop and mobile<br><br>Native display<br><br>Video desktop, mobile, and CTV|
 |[!DNL SmartClip]||Adobe Advertising|&mdash;|EMEA|All Currencies|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL SmartStream]||Adobe Advertising|&mdash;|EMEA|EUR, USD|Video desktop and mobile|
-|[!DNL Sortable]|[!DNL Freestar]|Adobe Advertising|&mdash;|CA|USD|Display desktop and mobile|
 |[!DNL Taboola]||Adobe Advertising|&mdash;|US/CA|USD|Video desktop and mobile|
 |[!DNL Teads]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Outstream Video = Global<br>Display = NA + EMEA|USD|Display desktop and mobile<br><br>Video desktop and mobile|
 |[!DNL TripleLift]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Global|USD|Native display|
