@@ -16,11 +16,11 @@ You can export data for a triggered alert or data for the most recently triggere
 
 1. In the [!UICONTROL Export] column next to the template or report name, click the name of a format, and then open or save the file according to your browser's normal procedure:
    
-   * **[!UICONTROL XLS]** — For an [!DNL Excel] workbook with a single worksheet (XLS). The report includes one worksheet, labeled at the top with the parameters, with one row for each included component when data for the component is available. Rows with no data are omitted. Basic reports include a total for each numeric column.
+   * **[!UICONTROL XLS]:** For an [!DNL Excel] workbook with a single worksheet (XLS). The report includes one worksheet, labeled at the top with the parameters, with one row for each included component when data for the component is available. Rows with no data are omitted. Basic reports include a total for each numeric column.
    
-   * **[!UICONTROL TSV]** — For a TSV file. The report includes the parameters and one row for each included component.
+   * **[!UICONTROL TSV]:** For a TSV file. The report includes the parameters and one row for each included component.
    
-   * **[!UICONTROL CSV]** — For a CSV file. The report includes the parameters and one row for each included component.
+   * **[!UICONTROL CSV]:** For a CSV file. The report includes the parameters and one row for each included component.
 
 >[!MORELIKETHIS]
 >
