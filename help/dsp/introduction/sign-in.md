@@ -25,7 +25,7 @@ Your current DSP login will remain active until 26 June 2025 so that you can pre
 
    * Go to [advertising.adobe.com](advertising.adobe.com), and then click **[!UICONTROL Adobe Account Login]**.
    
-   * Go to [https://experience.adobe.com]( https://experience.adobe.com).
+   * Go to [https://experience.adobe.com](https://experience.adobe.com).
 
 1. Enter your credentials:
 
