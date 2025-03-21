@@ -229,7 +229,7 @@ where:
 >[!NOTE]
 >
 >For all accounts with performance max campaigns and the [!UICONTROL Auto Upload] tracking option, the landing page suffixes were migrated to the above format. For other campaign types with the [!UICONTROL Auto Upload] tracking option, your landing page suffixes will be migrated to use the above s_kwcid format by early 2025.
-> For accounts with campaigns without the [!UICONTROL Auto Upload] tracking option that weren’t already migrated to the new format, you must manually update each landing page suffix to include the above format.
+> For accounts with campaigns without the [!UICONTROL Auto Upload] tracking option that weren’t already migrated to the new format, manually update each landing page suffix to include the above format.
 >In the meantime, the legacy formats, as follows, still work: 
 >* Search campaigns:
 >  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
