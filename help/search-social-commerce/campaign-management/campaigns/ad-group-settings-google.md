@@ -26,7 +26,7 @@ feature: Search Campaign Management
 
 * *[!UICONTROL Use campaign setting]*(the default for new ad groups): Uses the existing campaign-level ad rotation setting. **Note:** The campaign-level setting isn't visible in Search, Social, & Commerce.
 
-If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CPA], [!UICONTROL Target ROAS], or [!UICONTROL Enhanced CPC]), then [!DNL Google Ads] automatically sets the option to "[!UICONTROL Optimize]."
+If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CPA], [!UICONTROL Target ROAS], then [!DNL Google Ads] automatically sets the option to "[!UICONTROL Optimize]."
 
 **[!UICONTROL Custom Bid Level]:** (Campaigns that target the display network only) How to bid: by *[!UICONTROL Ad Group]* (the default), *[!UICONTROL Age]*, *[!UICONTROL Gender]*, *[!UICONTROL Interest and List]* (Interests & Remarketing in Google Ads), *[!UICONTROL Keyword]*, *[!UICONTROL Placement]* (website), *[!UICONTROL Unknown]*, or *[!UICONTROL Vertical]*.
 
