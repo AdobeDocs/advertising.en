@@ -65,13 +65,11 @@ your ads on the ad network's search partner networks. By default, this option is
 
 **[!UICONTROL Bid strategy]:** The bid strategy for the campaign:
 
-* *[!UICONTROL Enhanced CPC]:* (Not available for performance max or existing, read-only [!DNL Gmail] campaigns) Uses the ad network's enhanced cost-per-click (eCPC) model, which allows the ad network to automatically change the cost-per-click (CPC) bid for each auction in an attempt to maximize conversions, using conversion(s) specified within the ad network (not in Search, Social, & Commerce), while trying to keep your average CPC below your maximum CPC. 
-
-When you add a campaign with eCPC to an optimized Search, Social, & Commerce portfolio, Search, Social, & Commerce optimizes the base bids and &mdash; when the "[!UICONTROL Auto adjust campaign budget limits]" option is enabled &mdash; the campaign budget. The ad network optimizes all bid adjustments and may change the Search, Social, & Commerce-generated bids at the time of the user query based on proprietary data and insights. **Caution:** Use eCPC campaigns in portfolios only when the total conversions tracked on the ad network align with the portfolio objective. <!-- Note to self: Within the ad network UI, you specify conversion goals either a) all conversion actions you've set to be included in "Conversions" at the account level or b) one or more individual conversions to use for optimization --> 
+* *[!UICONTROL Enhanced CPC]:* Deprecated. [!DNL Google Ads] began automatically changing existing [enhanced CPC bid strategies](https://support.google.com/google-ads/answer/2464964) to manual CPC on 15 March 2025.
 
 * *[!UICONTROL Manual CPC]* (the default): (Not available for performance max campaigns) Uses the cost-per-click (CPC) model. You can optionally allow the ad network to change bids for the campaign:
 
-  * **[!UICONTROL Enable Enhanced CPC]** (disabled by default): This is the same as using the "[!UICONTROL Enhanced CPC]" option.
+  * **[!UICONTROL Enable Enhanced CPC]** (disabled by default): This is the same as using the "[!UICONTROL Enhanced CPC]" option, which is deprecated. [!DNL Google Ads] began automatically changing existing [enhanced CPC bid strategies](https://support.google.com/google-ads/answer/2464964) to manual CPC on 15 March 2025.
 
 * *[!UICONTROL Maximize Clicks]:* (Search, display, and shopping campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to maximize clicks. Optionally, enter a **[!UICONTROL Max CPC]** (cost per click) to ensure that the ad network doesn't pay more than a specific amount for each click. **Caution:** When you add a campaign with this strategy to a portfolio, bids are driven by click weight, not by the portfolio objective.
 
