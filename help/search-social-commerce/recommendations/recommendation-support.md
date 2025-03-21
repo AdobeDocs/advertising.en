@@ -54,7 +54,6 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Upgrade local campaign to performance max] | Upgrade a legacy local campaign to a performance max campaign |
 | | [!UICONTROL Upgrade smart shopping campaign to performance max] | Upgrade a legacy smart shopping campaign to a performance max campaign |
 | [!UICONTROL Bidding and budget] | [!UICONTROL Campaign budget] | Recommended budget for a campaign that's currently limited by budget |
-| | [!UICONTROL Enhanced CPC opt in] | Bid with [!UICONTROL Enhanced CPC] |
 | | [!UICONTROL Forecasting campaign budget] | Recommended budget for a campaign that's expected to become limited by budget in the future |
 | | [!UICONTROL Forecasting set Target CPA] | Set a target CPA for campaigns without one before a seasonal event that's forecasted to increase traffic |
 | | [!UICONTROL Forecasting set Target ROAS] | Raise the budget before a seasonal event that's forecasted to increase traffic, and change the bidding strategy from [!UICONTROL Maximize Conversion Value] to [!UICONTROL Target ROAS]  |
