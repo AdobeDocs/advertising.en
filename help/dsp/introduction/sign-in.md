@@ -13,7 +13,7 @@ Adobe Advertising DSP is transitioning to the Adobe Identity Management Service 
 
 * You can stay logged in for 24 hours instead of logging in every hour.
 
-Your current DSP login will remain active until 26 June 2025 so that you can prepare for the change.
+Your current DSP credentials will remain active until 26 June 2025 so that you can prepare for the change.
 
 ## Use a legacy DSP login for authentication
 
