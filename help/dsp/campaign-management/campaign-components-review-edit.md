@@ -6,8 +6,6 @@ exl-id: 1ec8362a-d37b-4fd7-becd-3a5b4f0c9504
 ---
 # Review and Edit Campaign Component Settings Using Bulksheets
 
-<!-- Update headers as needed once the original download become editable and we call everything bulksheets. -->
-
 You can download the settings for the packages, placements, and ads in a single campaign in XLSX ([!DNL Microsoft Excel] spreadsheet) format to review and edit the settings. By default, the downloaded file, called a *bulksheet,* includes separate tabs for package settings, package flight information, placement settings, and placement ad schedules. You can optionally exclude the settings for some campaign component types.
 
 To update multiple settings at once, upload a valid bulksheet file with the changes. To create the bulksheet, edit a downloaded bulksheet with the existing settings. Editable fields include most settings that are normally editable.
