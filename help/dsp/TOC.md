@@ -17,6 +17,7 @@ index: yes
 -->
 
 + [What's New](/help/dsp/home.md)
++ [Sign in to Adobe Advertising DSP](/help/dsp/introduction/sign-in.md)
 + Introduction {#introduction}
   + [Introduction to Adobe Advertising DSP](/help/dsp/introduction/dsp-about.md)
   + Key Features {#features}
