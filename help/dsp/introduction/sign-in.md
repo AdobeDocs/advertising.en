@@ -2,6 +2,7 @@
 title: Sign in to DSP
 description: Learn how to sign in to DSP.
 feature: DSP Introduction
+exl-id: 1704cd75-81f8-4715-a177-69a03093ba1d
 ---
 # Sign in to Adobe Advertising DSP
 
