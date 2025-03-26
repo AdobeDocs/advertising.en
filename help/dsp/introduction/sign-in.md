@@ -47,7 +47,7 @@ For general sign-in issues, see also "[Solve Adobe account sign-in issues]https:
 
 #### Are there any prerequisites to enable a new [!DNL Adobe] IMS login? 
 
-To add a new login account, share the email address with your Adobe Account Team, who will add it to the user list for the IMS organization to which DSP has been provisioned. 
+To add a new login account, share the email address with your Adobe Account Team. The team will add your address to the user list for the IMS organization to which DSP has been provisioned. 
 
 In the meanwhile, the user can continue to use their legacy DSP credentials.
 
