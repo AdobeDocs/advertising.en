@@ -53,9 +53,7 @@ In the meanwhile, the user can continue to use their legacy DSP credentials.
 
 #### After signing in using an Adobe IMS account, I'm not redirected back to adobe.advertising.com.  
 
-Check with your IMS organization administrator that the email you are using was added to the IMS organization.  
-
-If the administrator confirms that you are added to the IMS organization, then ask your Adobe Account Team to provision your account to use DSP.  
+Check with your IMS organization administrator that the email you are using was added to the IMS organization. If the administrator confirms that you are added to the IMS organization, then ask your Adobe Account Team to provision your account to use DSP.  
 
 In the meanwhile, you can continue to use your legacy DSP credentials.
 
@@ -63,7 +61,7 @@ In the meanwhile, you can continue to use your legacy DSP credentials.
 
 1. Go to [experience.adobe.com](https://experience.adobe.com) and sign out.  
 
-Go to [advertising.adobe.com](https://advertising.adobe.com) and sign in with the correct email ID.  
+1. Go to [advertising.adobe.com](https://advertising.adobe.com) and sign in with the correct email ID.  
 
 #### My [!DNL Adobe] IMS account and DSP account are registered with different emails. How do I sign in using my [!DNL Adobe] IMS account? 
 
