@@ -39,9 +39,16 @@ To edit the ad details, see "[Review and Edit Campaign Component Settings Using 
    
    * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
    
-     The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+     The file is saved to the browser's Downloads folder.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
 >[!MORELIKETHIS]
 >
 >* [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
 >* [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+>* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Native Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
