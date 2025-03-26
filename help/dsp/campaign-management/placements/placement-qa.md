@@ -12,13 +12,7 @@ You can download the settings for one or more placements, or for all placements 
 * When the placements start delivering, and when they stop.
 * Which ads are attached to the placements.
 
-To update multiple settings at once, you can do either of the following:
-
-* Make changes to select fields, save the file, and upload the edited bulksheet file back to DSP.
-
-* To make changes to additional placements and to the settings for any package, download a blank bulksheet template that includes tabs for each type of campaign component, enter or paste new or updated settings into the template file, and then upload the file to make the changes. For instructions, see "[Review and Edit Campaign Component Settings Using Bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)."
-
-Editable fields include the placement names, statuses, bids, budgets, pacing strategies, and frequency caps.
+To update multiple settings at once, you can make changes to select fields, save the file, and upload the edited bulksheet file back to DSP. Editable fields include most editable settings.
 
 >[!TIP]
 >
@@ -28,9 +22,17 @@ Editable fields include the placement names, statuses, bids, budgets, pacing str
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Setup Excel]**.
+1. Do either of the following:
+  
+   * Next to the campaign, click **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]**.
+   
+   * Click the campaign name. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]**.
 
-    A notification message indicates when the file is available to download.
+1. In the [!UICONTROL Bulksheet Download] dialog box, deselect any campaign components whose settings you want to exclude from the downloaded file, and then click **[!UICONTROL Download]**.
+
+  By default, settings for all placements and ads associated with the packages are selected.
+  
+  A notification message indicates when the file is available to download.
 
 1. To download the file, do either of the following:
 
@@ -38,9 +40,9 @@ Editable fields include the placement names, statuses, bids, budgets, pacing str
 
     * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
 
-    The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+    The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Bulksheets](#qa-sheet-columns)" for a list of the included columns.
 
-## Download Settings for One or More Placements
+## Download Settings for Specific Placements
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -60,22 +62,7 @@ Editable fields include the placement names, statuses, bids, budgets, pacing str
 
     * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
 
-    The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
-
-
-<!-- I don't think I need this here
-
-## Download a Bulksheet Template {#download-template}
-
-Download a blank bulksheet template that includes tabs for each type of campaign component. You can later add rows to any tab on the template and [upload the edited file](##upload-bulksheet-package) to make changes. 
-
-1. Click the name of the campaign.
-
-1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]**.
-
-   The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
-
--->
+    The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Bulksheets](#qa-sheet-columns)" for a list of the included columns.
 
 ## Upload a Bulksheet with Placement Settings {#upload-bulksheet-placement}
 
@@ -83,9 +70,15 @@ You can upload settings for your placements, and for the ads and packages associ
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. Click the name of the campaign.
+1. Do any of the following:
+  
+   * Next to the parent campaign, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
+   
+   * Click the campaign name. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
 
-1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
+     You can do this from the [!UICONTROL Packages], [!UICONTROL Placements], or [!UICONTROL Ads] tab.
+   
+   * In the submenu, click **[!UICONTROL Placements]**, and select the check box for any placement. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
 
 1. In the [!UICONTROL Upload Bulksheet] dialog:
 
@@ -95,13 +88,13 @@ You can upload settings for your placements, and for the ads and packages associ
 
 1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
 
-## Placement Setting Columns in Downloaded/Uploaded Spreadsheets{#qa-sheet-columns}
+## Placement Setting Columns in Downloaded/Uploaded Bulksheets{#qa-sheet-columns}
 
 >[!TIP]
 >
-> In a downloaded spreadsheet, all editable columns are highlighted in blue.
+> In a downloaded bulksheet, all editable columns are highlighted in blue.
 
-### Campaign-level Spreadsheets
+### Campaign-level Bulksheets
 
 <!-- 
 Check on Brand Safety - Contextual Filtering # with new DV feature/fct change.
