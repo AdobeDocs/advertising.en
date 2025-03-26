@@ -17,15 +17,15 @@ Your current DSP credentials will remain active until 26 June 2025 so that you c
 
 ## Use a legacy DSP login for authentication
 
-* Go to [advertising.adobe.com](advertising.adobe.com), and sign in using your legacy DSP credentials.
+* Go to [advertising.adobe.com](https://advertising.adobe.com), and sign in using your legacy DSP credentials.
 
 ## Use an [!DNL Adobe ID] for authentication
 
 1. Open either of the following sign-in screens:
 
-   * Go to [advertising.adobe.com](advertising.adobe.com). Under "[!UICONTROL Sign in with the Adobe Experience Cloud account]," click **[!UICONTROL Continue]**.
+   * Go to [advertising.adobe.com](https://advertising.adobe.com). Under "[!UICONTROL Sign in with the Adobe Experience Cloud account]," click **[!UICONTROL Continue]**.
    
-   * Go to [https://experience.adobe.com](https://experience.adobe.com).
+   * Go to [experience.adobe.com](https://experience.adobe.com).
 
 1. Enter your credentials:
 
@@ -61,9 +61,9 @@ In the meanwhile, you can continue to use your legacy DSP credentials.
 
 #### I logged in using an incorrect email address, which signed me into [!DNL Adobe] but doesn't provide DSP access.  
 
-1. Go to [experience.adobe.com](experience.adobe.com) and sign out.  
+1. Go to [experience.adobe.com](https://experience.adobe.com) and sign out.  
 
-Go to [advertising.adobe.com](advertising.adobe.com) and sign in with the correct email ID.  
+Go to [advertising.adobe.com](https://advertising.adobe.com) and sign in with the correct email ID.  
 
 #### My [!DNL Adobe] IMS account and DSP account are registered with different emails. How do I sign in using my [!DNL Adobe] IMS account? 
 
