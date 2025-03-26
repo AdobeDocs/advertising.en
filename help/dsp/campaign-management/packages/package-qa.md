@@ -12,7 +12,7 @@ To update multiple settings at once, you can do either of the following:
 
 * Make changes to select fields, save the file, and upload the edited bulksheet file back to DSP.
 
-* To make changes to additional packages, placements, or ads in the campaign, download a bulksheet for the campaign, enter or paste updated settings into the file, and then upload the file to make the changes. For instructions, see "[Review and Edit Campaign Component Settings Using Bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)."
+* To make changes to additional packages, placements, or ads in the campaign, download a bulksheet for the campaign. Enter or paste updated settings into the file, and then upload the file to make the changes. For instructions, see "[Review and Edit Campaign Component Settings Using Bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)."
 
 Editable fields include most settings that are normally editable.
 
@@ -44,7 +44,9 @@ When you download settings for all packages in a campaign, the bulksheet include
    
    * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
    
-     The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Bulksheets](#qa-sheet-columns)" for a list of the included columns.
+     The file is saved to the browser's Downloads folder.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
+
+     To edit any of the settings, edit the file directly and then upload the changes. All editable columns are highlighted in blue.
 
 ## Download Settings for Specific Packages
 
@@ -70,6 +72,8 @@ When you download settings for specific packages, the bulksheet file includes se
    
      The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Bulksheets](#qa-sheet-columns)" for a list of the included columns.
 
+     To edit any of the settings, edit the file directly and then upload the changes. All editable columns are highlighted in blue. To use the correct format for a field, select and copy the value from the relevant package setting or placement setting. For some target settings, such as dayparting, custom goals, and conversion metrics, a copy option is available within the setting. 
+
 ## Upload a Bulksheet with Package Settings {#upload-bulksheet-package}
 
 You can upload settings for your packages, including the placements and ads associated with the packages, in a bulksheet file.
@@ -82,7 +86,7 @@ You can upload settings for your packages, including the placements and ads asso
    
    * Click the campaign name. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
 
-     You can do this from the [!UICONTROL Packages], [!UICONTROL Placements], or [!UICONTROL Ads] tab.
+     This option is available from the [!UICONTROL Packages], [!UICONTROL Placements], or [!UICONTROL Ads] tab.
    
    * In the submenu, click **[!UICONTROL Packages]**, and select the check box for any package. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
 
@@ -94,6 +98,9 @@ You can upload settings for your packages, including the placements and ads asso
 
 1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
 
+  When any setting update fails, you can download a bulksheet error file with color coding to show which settings (rows) were saved and which failed, with a reason for each failure. You can then address the issues within the same file and upload it again to process the corrected information.
+
+<!--
 ## Package Setting Columns in Downloaded/Uploaded Bulksheets{#qa-sheet-columns-packages}
 
 >[!TIP]
@@ -149,6 +156,7 @@ You can upload settings for your packages, including the placements and ads asso
 | [!UICONTROL Flight details] | [!UICONTROL Flight End Date] | The final date of the flight. | Yes |
 | [!UICONTROL Flight details] | [!UICONTROL Flight Budget] | The target spend goal for the flight. | Yes |
 | [!UICONTROL Flight details] | [!UICONTROL Rollover] | (Existing packages without the "[!UICONTROL Automatically rollover remaining flight budget to next flight]" option enabled) An amount of potentially unspent budget to add to the next flight. | Yes |
+-->
 
 >[!MORELIKETHIS]
 >
