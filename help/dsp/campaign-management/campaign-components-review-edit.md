@@ -36,17 +36,13 @@ To update multiple settings at once, upload a valid bulksheet file with the chan
    
    * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
    
-     The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+     The file is saved to the browser's Downloads folder.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
+
+     To edit any of the settings, edit the file directly and then upload the changes. All editable columns are highlighted in blue. To use the correct format for a field, select and copy the value from the relevant package setting or placement setting. For some target settings, such as dayparting, custom goals, and conversion metrics, a copy option is available within the setting. 
 
 ## Upload a Bulksheet with Package, Placement, and Ad Settings for a Campaign{#upload-bulksheet-campaign-components}
 
 Upload settings for packages, placements, and ads in a single campaign all at once in a populated bulksheet.
-
-1. [Download a bulksheet](##download-bulksheet-campaign) that contain settings for the campaign’s packages, placements, and ads, as needed.
-
-1. Open the downloaded bulksheet and enter or paste package, placement, and/or ad settings on the relevant tabs of a bulksheet template, and then save the file to your device or network.
-
-   See the available settings below.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -64,6 +60,10 @@ Upload settings for packages, placements, and ads in a single campaign all at on
 
 1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
 
+  When any setting update fails, you can download a bulksheet error file with color coding to show which settings (rows) were saved and which failed, with a reason for each failure. You can then address the issues within the same file and upload it again to process the corrected information.
+
+
+<!--
 ## Placement Setting Columns in Downloaded/Uploaded Spreadsheets{#qa-sheet-columns}
 
 >[!TIP]
@@ -131,15 +131,25 @@ Upload settings for packages, placements, and ads in a single campaign all at on
 | [!UICONTROL Brand Safety] | [!UICONTROL Brand Safety - Contextual Filtering #] | The number of brand safety filters applied, if any are specified, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Brand Safety] | [!UICONTROL Brand Safety - Pre-Bid Fraud blocking #] | The number of pre-bid fraud blocking filters applied, if any are specified, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Brand Safety] | [!UICONTROL Brand Safety - Pre-Bid Viewability #] | The number of pre-bid viewability filters applied, if any are specified, or *[!UICONTROL None]*. | &mdash; |
-| [!UICONTROL Brand Safety] | [!UICONTROL Site Safety Block] | Whether or not Site Safety Block is enabled: *[!UICONTROL ON]* or *[!UICONTROL OFF]*.<!-- Whether or not the advertiser-level setting Enable Site Safety Block is enabled: *ON* or *OFF*.I don’t see this option at the placement level. Should there be one? --> | &mdash; |
+| [!UICONTROL Brand Safety] | [!UICONTROL Site Safety Block] | Whether or not Site Safety Block is enabled: *[!UICONTROL ON]* or *[!UICONTROL OFF]*.[Whether or not the advertiser-level setting Enable Site Safety Block is enabled: *ON* or *OFF*.I don’t see this option at the placement level. Should there be one?] | &mdash; |
 | [!UICONTROL Tracking] | [!UICONTROL Tracking Pixels #] | The number of third-party  event-tracking pixels attached to the placement, or *[!UICONTROL None]*.| &mdash; |
 | [!UICONTROL Tracking] | [!UICONTROL Conversion Pixels #] | The number of conversion tracking pixels attached to the placement, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | A static, third-party fee rate to be tracked as a non-billable cost per 1000 impressions, if applicable. | &mdash; |
 | [!UICONTROL Ads] | [!UICONTROL # of Ads Attached] | The number of ads attached to the placement, if any are attached, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Ads] | [!UICONTROL Ad Names] | The names of any ads attached to the placement, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Ads] | [!UICONTROL Attached Ad ID] | The unique DSP-generated Ad IDs of any ads attached to the placement, separated by semi-colons. To download a list of ad names and associated Ad IDs from the [!UICONTROL Ads] view, create a custom view that includes the [!UICONTROL Ad ID] metric, and then [export the data](/help/dsp/campaign-management/reports/campaign-export-data.md). | Yes |
+-->
 
 >[!MORELIKETHIS]
 >
 >* [Review and Edit Package Settings Using Bulksheets](/help/dsp/campaign-management/packages/package-qa.md)
+>* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
 >* [Review and Edit Placement Settings Using Bulksheets](/help/dsp/campaign-management/placements/placement-qa.md)
+>* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Native Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
