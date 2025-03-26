@@ -23,7 +23,7 @@ Your current DSP credentials will remain active until 26 June 2025 so that you c
 
 1. Open either of the following sign-in screens:
 
-   * Go to [advertising.adobe.com](advertising.adobe.com), and then click **[!UICONTROL Adobe Account Login]**.
+   * Go to [advertising.adobe.com](advertising.adobe.com). Under "[!UICONTROL Sign in with the Adobe Experience Cloud account]," click **[!UICONTROL Continue]**.
    
    * Go to [https://experience.adobe.com](https://experience.adobe.com).
 
