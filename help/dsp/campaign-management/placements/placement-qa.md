@@ -12,13 +12,7 @@ You can download the settings for one or more placements, or for all placements 
 * When the placements start delivering, and when they stop.
 * Which ads are attached to the placements.
 
-To update multiple settings at once, you can do either of the following:
-
-* Make changes to select fields, save the file, and upload the edited bulksheet file back to DSP.
-
-* To make changes to additional placements and to the settings for any package, download a blank bulksheet template that includes tabs for each type of campaign component, enter or paste new or updated settings into the template file, and then upload the file to make the changes. For instructions, see "[Review and Edit Campaign Component Settings Using Bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)."
-
-Editable fields include the placement names, statuses, bids, budgets, pacing strategies, and frequency caps.
+To update multiple settings at once, you can make changes to select fields, save the file, and upload the edited bulksheet file back to DSP. Editable fields include most editable settings.
 
 >[!TIP]
 >
@@ -28,9 +22,17 @@ Editable fields include the placement names, statuses, bids, budgets, pacing str
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Setup Excel]**.
+1. Do either of the following:
+  
+   * Next to the campaign, click **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]**.
+   
+   * Click the campaign name. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]**.
 
-    A notification message indicates when the file is available to download.
+1. In the [!UICONTROL Bulksheet Download] dialog box, deselect any campaign components whose settings you want to exclude from the downloaded file, and then click **[!UICONTROL Download]**.
+
+  By default, settings for all placements and ads associated with the packages are selected.
+  
+  A notification message indicates when the file is available to download.
 
 1. To download the file, do either of the following:
 
@@ -38,9 +40,9 @@ Editable fields include the placement names, statuses, bids, budgets, pacing str
 
     * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
 
-    The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+    The file is saved to the browser's Downloads folder.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
-## Download Settings for One or More Placements
+## Download Settings for Specific Placements
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -60,22 +62,9 @@ Editable fields include the placement names, statuses, bids, budgets, pacing str
 
     * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
 
-    The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+    The file is saved to the browser's Downloads folder.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
-
-<!-- I don't think I need this here
-
-## Download a Bulksheet Template {#download-template}
-
-Download a blank bulksheet template that includes tabs for each type of campaign component. You can later add rows to any tab on the template and [upload the edited file](##upload-bulksheet-package) to make changes. 
-
-1. Click the name of the campaign.
-
-1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]**.
-
-   The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
-
--->
+    To edit any of the settings, edit the file directly and then upload the changes.  All editable columns are highlighted in blue. To use the correct format for a field, select and copy the value from the relevant package setting or placement setting. For some target settings, such as dayparting, custom goals, and conversion metrics, a copy option is available within the setting.
 
 ## Upload a Bulksheet with Placement Settings {#upload-bulksheet-placement}
 
@@ -83,9 +72,15 @@ You can upload settings for your placements, and for the ads and packages associ
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
-1. Click the name of the campaign.
+1. Do any of the following:
+  
+   * Next to the parent campaign, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
+   
+   * Click the campaign name. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
 
-1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
+     This option is available from the [!UICONTROL Packages], [!UICONTROL Placements], or [!UICONTROL Ads] tab.
+   
+   * In the submenu, click **[!UICONTROL Placements]**, and select the check box for any placement. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]**.
 
 1. In the [!UICONTROL Upload Bulksheet] dialog:
 
@@ -95,17 +90,16 @@ You can upload settings for your placements, and for the ads and packages associ
 
 1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
 
-## Placement Setting Columns in Downloaded/Uploaded Spreadsheets{#qa-sheet-columns}
+  When any setting update fails, you can download a bulksheet error file with color coding to show which settings (rows) were saved and which failed, with a reason for each failure. You can then address the issues within the same file and upload it again to process the corrected information.
+
+<!--
+## Placement Setting Columns in Downloaded/Uploaded Bulksheets{#qa-sheet-columns}
 
 >[!TIP]
 >
-> In a downloaded spreadsheet, all editable columns are highlighted in blue.
+> In a downloaded bulksheet, all editable columns are highlighted in blue.
 
-### Campaign-level Spreadsheets
-
-<!-- 
-Check on Brand Safety - Contextual Filtering # with new DV feature/fct change.
--->
+### [!UICONTROL Placements] Sheet
 
 | Section | Column | Description | Editable? |
 |---------|--------|-------------|-----------|
@@ -166,7 +160,7 @@ Check on Brand Safety - Contextual Filtering # with new DV feature/fct change.
 | [!UICONTROL Brand Safety] | [!UICONTROL Brand Safety - Contextual Filtering #] | The number of brand safety filters applied, if any are specified, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Brand Safety] | [!UICONTROL Brand Safety - Pre-Bid Fraud blocking #] | The number of pre-bid fraud blocking filters applied, if any are specified, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Brand Safety] | [!UICONTROL Brand Safety - Pre-Bid Viewability #] | The number of pre-bid viewability filters applied, if any are specified, or *[!UICONTROL None]*. | &mdash; |
-| [!UICONTROL Brand Safety] | [!UICONTROL Site Safety Block] | Whether or not Site Safety Block is enabled: *[!UICONTROL ON]* or *[!UICONTROL OFF]*.<!-- Whether or not the advertiser-level setting Enable Site Safety Block is enabled: *ON* or *OFF*.I don’t see this option at the placement level. Should there be one? --> | &mdash; |
+| [!UICONTROL Brand Safety] | [!UICONTROL Site Safety Block] | Whether or not Site Safety Block is enabled: *[!UICONTROL ON]* or *[!UICONTROL OFF]*.[Whether or not the advertiser-level setting Enable Site Safety Block is enabled: *ON* or *OFF*.I don’t see this option at the placement level. Should there be one?] | &mdash; |
 | [!UICONTROL Tracking] | [!UICONTROL Tracking Pixels #] | The number of third-party  event-tracking pixels attached to the placement, or *[!UICONTROL None]*.| &mdash; |
 | [!UICONTROL Tracking] | [!UICONTROL Conversion Pixels #] | The number of conversion tracking pixels attached to the placement, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | A static, third-party fee rate to be tracked as a non-billable cost per 1000 impressions, if applicable. | &mdash; |
@@ -174,30 +168,45 @@ Check on Brand Safety - Contextual Filtering # with new DV feature/fct change.
 | [!UICONTROL Ads] | [!UICONTROL Ad Names] | The names of any ads attached to the placement, or *[!UICONTROL None]*. | &mdash; |
 | [!UICONTROL Ads] | [!UICONTROL Attached Ad ID] | The unique DSP-generated Ad IDs of any ads attached to the placement, separated by semi-colons. To download a list of ad names and associated Ad IDs from the [!UICONTROL Ads] view, create a custom view that includes the [!UICONTROL Ad ID] metric, and then [export the data](/help/dsp/campaign-management/reports/campaign-export-data.md). | Yes |
 
-### Placement-level Bulksheets
+### [!UICONTROL Placement_AdSchedules] Sheet
 
-| Column | Description | Editable? |
-|--------|-------------|-----------|
 | [!UICONTROL Placement ID] | The numeric ID of the placement. | &mdash; |
-| [!UICONTROL Placement Name] | The name of the placement. | Yes |
-| [!UICONTROL Package Name] | The name of the parent package, when applicable. | &mdash; |
-| [!UICONTROL Start Date] | The start date of the placement. | &mdash; |
-| [!UICONTROL End Date] | The end date of the placement. | &mdash; |
-| [!UICONTROL Status] | The placement status: *[!UICONTROL active]* or *[!UICONTROL inactive]*. | &mdash; |
-| [!UICONTROL Max Bid] | The maximum bid for the placement. | Yes |
-| [!UICONTROL Budget] | The placement budget, if there is one. | Yes |
-| [!UICONTROL Budget Interval] | The budget interval: <i[!UICONTROL >Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*, or *[!UICONTROL All Time]*. | Yes |
-| [!UICONTROL Primary Frequency Cap] | The primary frequency cap for the placement during the specified [!UICONTROL Primary Frequency Cap Interval]. | Yes |
-| [!UICONTROL Primary Frequency Cap Interval] | The interval for the primary frequency cap: *[!UICONTROL Day]*, *[!UICONTROL Week]*, or *[!UICONTROL Month]*. | Yes |
-| [!UICONTROL Secondary Frequency Cap] | The secondary frequency cap for the placement during the specified [!UICONTROL Secondary Frequency Cap Interval] | Yes |
-| [!UICONTROL Secondary Frequency Cap Interval] | The type of interval for the secondary frequency cap: *[!UICONTROL Week]*, *[!UICONTROL Day]*, *[!UICONTROL Hour]*, or *[!UICONTROL Minute]*. The applicable number of weeks, days, hours, or minutes is indicated by the [!UICONTROL Secondary Frequency Cap Interval Value]. | Yes |
-| [!UICONTROL Secondary Frequency Cap Interval Value] | The number of weeks, days, hours, or minutes for which the [!UICONTROL Secondary Frequency Cap] applies. For example, if the secondary cap is three impressions per six hours, then the value here would be `6`. | Yes |
-| [!UICONTROL Attached Ad ID] | The unique DSP-generated Ad IDs of any ads attached to the placement, separated by semi-colons. To download a list of ad names and associated Ad IDs from the [!UICONTROL Ads] view, create a custom view that includes the [!UICONTROL Ad ID] metric, and then [export the data](/help/dsp/campaign-management/reports/campaign-export-data.md). | Yes |
+| [!UICONTROL Placement Name] | The name of the placement. | &mdash; |
+| [!UICONTROL Ad ID] | The numeric ID of the ad. | &mdash; |
+| [!UICONTROL Ad Name] | The name of the ad. | Yes |
+| [!UICONTROL Start Date] | The start date of the ad. | &mdash; |
+| [!UICONTROL End Date] | The end date of the ad. | &mdash; |
+| [!UICONTROL Adobe Ad Approval Status] | The status of the Advertising DSP approval process, such as *Approved* or *Incomplete*. | &mdash; |
+| [!UICONTROL Flight 1 Start Date] - [!UICONTROL Flight 12 Start Date] | The start date for a specific flight. | Yes |
+| [!UICONTROL Flight 1 End Date] - [!UICONTROL Flight 12 End Date] | The end date for a specific flight. | Yes |
+| [!UICONTROL Flight 1 Weight] - [!UICONTROL Flight 12 Weight] | How to rotate a specific ad for a specific flight:  *Even* to rotate the ad evenly, or a relative weight by which to rotate the ad, as a percentage (such as `40` for 40%); the total weights for all ads in the flight must equal 100. | Yes |
 
+### [!UICONTROL Placement_BidMultipliers] Sheet
+
+*Available in campaign-level bulksheets only*
+
+| Section | Column | Description | Editable? |
+|---------|--------|-------------|-----------|
+| [!UICONTROL Basic] | [!UICONTROL Placement ID] | The numeric ID of the placement. | &mdash; |
+| [!UICONTROL Basic] | [!UICONTROL Placement Name] | The name of the placement. | &mdash; |
+| [!UICONTROL Geo] | [!UICONTROL Country] | The bid multiplier and the name of the country, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Geo] | [!UICONTROL State] | The bid multiplier and the name of the state. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Geo] | [!UICONTROL City] | The bid multiplier and the name of the city, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Geo] | [!UICONTROL DMA] | (U.S. locations only) The bid multiplier and the designated market area, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Geo] | [!UICONTROL Postal code] | The bid multiplier and the postal code, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Inventory] | [!UICONTROL Public Inventory Source] | The bid multiplier and the public inventory source, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Inventory] | [!UICONTROL Public Inventory Feed] | The bid multiplier and the public inventory feed, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Inventory] | [!UICONTROL OnDemand Inventory Source] | The bid multiplier and the OnDemand inventory source, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Inventory] | [!UICONTROL OnDemand Inventory Feed] | The bid multiplier and the OnDemand inventory feed, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Sites/Apps] | [!UICONTROL Domains] | The bid multiplier and the domains, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Sites/Apps] | [!UICONTROL Category] | The bid multiplier and the site/app category, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Audience] | [!UICONTROL Daypart] | The bid multiplier and the daypart interval, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Audience] | [!UICONTROL Topics - Comscore] | The bid multiplier and the [!DNL Comscore] topics, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+| [!UICONTROL Brand Safety] | [!UICONTROL Ads.txt] | The bid multiplier and the level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filtering to use, separated with a comma. Each target is followed by a semi-colon (;). | &mdash; |
+
+-->
 
 <!-- LOTS MORE THAN I HAD ORIGINALLY DOCUMENTED -- BELOW ARE THE LAST, BUT NOT ALL:
-
-Brand Safety - Contextual Filtering #								"		
 
 | Brand Safety | Brand Safety - Contextual Filtering # |  |  |
 | Brand Safety | Brand Safety - Pre-Bid Fraud blocking # |  |  |
@@ -212,6 +221,9 @@ Brand Safety - Contextual Filtering #								"
 | Environment | Environment |  |  |
 -->
 
+<!-- 
+Check on Brand Safety - Contextual Filtering # with new DV feature/fct change.
+-->
 
 >[!MORELIKETHIS]
 >

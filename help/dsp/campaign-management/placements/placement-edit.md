@@ -12,7 +12,7 @@ You can edit the settings for a single placement or for multiple placements at o
 
 >[!NOTE]
 >
->You can also download the settings for one or more placements, or for all placements in a campaign, in XLSX (Excel spreadsheet) format; make changes to a limited subset of key fields; and upload them back to DSP all at once. See "[Review and Edit Placement Settings Using Bulksheets](placement-qa.md)."
+>You can also download the settings for one or more placements, or for all placements in a campaign, in XLSX (Excel spreadsheet) format; make changes to most fields; and upload them back to DSP all at once. See "[Review and Edit Placement Settings Using Bulksheets](placement-qa.md)."
 
 ## Quickly Edit Key Placement Settings {#placement-quick-edit}
 
@@ -43,7 +43,7 @@ You can edit the placement name, status, maximum bid, and budget without opening
 
 1. Click **[!UICONTROL Update placement]**.
 
-## Edit Multiple Placements {#edit-multiple-placements}
+## Make the Same Changes to Multiple Placements {#edit-multiple-placements}
 
 Use this option only when you want to apply the same changes to all selected placements.
 
