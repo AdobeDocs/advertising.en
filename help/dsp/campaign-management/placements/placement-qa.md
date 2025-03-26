@@ -208,7 +208,7 @@ You can upload settings for your placements, and for the ads and packages associ
 
 <!-- LOTS MORE THAN I HAD ORIGINALLY DOCUMENTED -- BELOW ARE THE LAST, BUT NOT ALL:
 
-Brand Safety - Contextual Filtering #								"		
+Brand Safety - Contextual Filtering #		
 
 | Brand Safety | Brand Safety - Contextual Filtering # |  |  |
 | Brand Safety | Brand Safety - Pre-Bid Fraud blocking # |  |  |
