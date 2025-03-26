@@ -43,7 +43,7 @@ For more information about the Experience Cloud interface, including managing yo
 
 ### Troubleshooting
 
-For general sign-in issues, see also "[Solve Adobe account sign-in issues]https://helpx.adobe.com/manage-account/kb/account-password-sign-help.linkfree.html)."
+For general sign-in issues, see also "[Solve Adobe account sign-in issues](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.linkfree.html)."
 
 #### Are there any prerequisites to enable a new [!DNL Adobe] IMS login? 
 
@@ -51,7 +51,7 @@ To add a new login account, share the email address with your Adobe Account Team
 
 In the meanwhile, the user can continue to use their legacy DSP credentials.
 
-#### After signing in using an Adobe IMS account, I'm not redirected back to the adobe.advertising.com login page.  
+#### After signing in using an Adobe IMS account, I'm not redirected back to adobe.advertising.com.  
 
 Check with your IMS organization administrator that the email you are using was added to the IMS organization.  
 
