@@ -51,7 +51,7 @@ To add a new login account, share the email address with your Adobe Account Team
 
 In the meanwhile, the user can continue to use their legacy DSP credentials.
 
-#### After signing in using an Adobe IMS account, I'm not redirected back to adobe.advertising.com.  
+#### After signing in using an Adobe IMS account, I'm redirected back to the adobe.advertising.com login page.  
 
 Check with your IMS organization administrator that the email you are using was added to the IMS organization. If the administrator confirms that you are added to the IMS organization, then ask your Adobe Account Team to provision your account to use DSP.  
 
