@@ -58,7 +58,7 @@ Check with your IMS organization administrator that the email you are using was 
 
 In the meanwhile, you can continue to use your legacy DSP credentials.
 
-#### I logged in using an incorrect email address, which signed me into [!DNL Adobe] but doesn't provide DSP access.  
+#### I signed in using an incorrect email address, which signed me into [!DNL Adobe] but doesn't provide DSP access.  
 
 1. Go to [experience.adobe.com](https://experience.adobe.com) and sign out.  
 
