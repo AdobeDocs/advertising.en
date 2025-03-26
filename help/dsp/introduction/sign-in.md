@@ -40,3 +40,31 @@ Your current DSP credentials will remain active until 26 June 2025 so that you c
    * If you have access to multiple IMS organizations, select the correct one.
    
 For more information about the Experience Cloud interface, including managing your user profile, see "[Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)."
+
+### Troubleshooting
+
+For general sign-in issues, see also "[Solve Adobe account sign-in issues]https://helpx.adobe.com/manage-account/kb/account-password-sign-help.linkfree.html)."
+
+#### Are there any prerequisites to enable a new [!DNL Adobe] IMS login? 
+
+To add a new login account, share the email address with your Adobe Account Team, who will add it to the user list for the IMS organization to which DSP has been provisioned. 
+
+In the meanwhile, the user can continue to use their legacy DSP credentials.
+
+#### After signing in using an Adobe IMS account, I'm not redirected back to the adobe.advertising.com login page.  
+
+Check with your IMS organization administrator that the email you are using was added to the IMS organization.  
+
+If the administrator confirms that you are added to the IMS organization, then ask your Adobe Account Team to provision your account to use DSP.  
+
+In the meanwhile, you can continue to use your legacy DSP credentials.
+
+#### I logged in using an incorrect email address, which signed me into [!DNL Adobe] but doesn't provide DSP access.  
+
+1. Go to [experience.adobe.com](experience.adobe.com) and sign out.  
+
+Go to [advertising.adobe.com](advertising.adobe.com) and sign in with the correct email ID.  
+
+#### My [!DNL Adobe] IMS account and DSP account are registered with different emails. How do I sign in using my [!DNL Adobe] IMS account? 
+
+Ask your Adobe Account Team to provision your existing [!DNL Adobe] IMS account to use DSP.
