@@ -158,7 +158,7 @@ The parameters vary by ad network, but the following parameters are common to al
 
 ##### [!DNL Baidu]
 
-`s_kwcid=AL!{userid}!{88}!{creative}!{placement}!{keywordid}`
+`s_kwcid=AL!{userid}!88!{creative}!{placement}!{keywordid}`
 
 where:
 
@@ -172,11 +172,11 @@ These including shopping campaigns using [!DNL Google Merchant Center].
 
 * Accounts that use the latest AMO ID format, which supports campaign- and ad group-level reporting for performance max campaigns and drafts and experiments campaigns:
 
-  `s_kwcid=AL!{userid}!{3}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
+  `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
 * All other accounts:
 
-  `s_kwcid=AL!{userid}!{3}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
+  `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
 
 where:
 
@@ -201,7 +201,7 @@ where:
 
 ##### [!DNL Meta]
 
-`s_kwcid=AL!{userid}!{45}!{{ad.id}}!{{campaign.id}}!{{adset.id}}`
+`s_kwcid=AL!{userid}!45!{{ad.id}}!{{campaign.id}}!{{adset.id}}`
 
 where:
 
@@ -217,7 +217,7 @@ where:
 
 * All campaign types:
 
-  `s_kwcid=AL!{userid}!{10}!{AdId}!!!!{OrderItemId}!!{CampaignId}!{AdGroupId}`
+  `s_kwcid=AL!{userid}!10!{AdId}!!!!{OrderItemId}!!{CampaignId}!{AdGroupId}`
 
 where:
 
@@ -231,15 +231,15 @@ where:
 > For accounts with campaigns without the [!UICONTROL Auto Upload] tracking option that weren’t already migrated to the new format, manually update each landing page suffix to include the above format.
 >In the meantime, the legacy formats, as follows, still work: 
 >* Search campaigns:
->  `s_kwcid=AL!{userid}!{10}!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
+>  `s_kwcid=AL!{userid}!10!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
 >* Shopping campaigns (using [!DNL Microsoft Merchant Center]):
->  `s_kwcid=AL!{userid}!{10}!{AdId}!{CriterionId}`
+>  `s_kwcid=AL!{userid}!10!{AdId}!{CriterionId}`
 >* Audience network campaigns:
->  `s_kwcid=AL!{userid}!{10}!{AdId}`
+>  `s_kwcid=AL!{userid}!10!{AdId}`
 
 ##### [!DNL Yahoo! Japan Ads]
 
-`s_kwcid=AL!{userid}!{94}!{creative}!{matchtype}!{network}!{keyword}`
+`s_kwcid=AL!{userid}!94!{creative}!{matchtype}!{network}!{keyword}`
 
 where:
 
@@ -250,7 +250,7 @@ where:
 
 ##### [!DNL Yandex]
 
-`s_kwcid=AL!{userid}!{90}!{ad_id}!{source_type}!!!{phrase_id}`
+`s_kwcid=AL!{userid}!90!{ad_id}!{source_type}!!!{phrase_id}`
 
 where:
 
