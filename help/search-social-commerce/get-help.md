@@ -29,7 +29,7 @@ For Search, Social, & Commerce product or account issues, do either of the follo
 
 * Contact your Adobe Account Team.
 
-* In the top menu, click ![Help](/help/search-social-commerce/assets/help-main-menu.png "Help") > **[!UICONTROL Provide Feedback]**, enter your message, and then click **[!UICONTROL Send Feedback]**. |
+* In the top menu, click ![Help](/help/search-social-commerce/assets/help-main-menu.png "Help") > **[!UICONTROL Provide Feedback]**, enter your message, and then click **[!UICONTROL Send Feedback]**.
 
 Provide detailed steps to reproduce the issue, any relevant data, and information about preliminary troubleshooting you've performed. If you're reporting the problem to your Adobe Account Team, also include the browser name and version.
 
