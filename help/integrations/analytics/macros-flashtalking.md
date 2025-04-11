@@ -7,18 +7,24 @@ exl-id: ce81824c-60bf-487c-8358-d18fcb3cc95f
 # Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
- 
+
+*Organizations without a direct partnership with [!DNL Flashtalking] only*
+
 *Applicable to Advertising DSP only*
 
-If you use ad tags from [!DNL Flashtalking] for your Advertising DSP ads, append Analytics for Advertising parameters to your landing page URLs. The parameters record AMO ID (`s_kwcid`) and `ef_id` query string parameters in the landing page URL, allowing Adobe Advertising to send click data for the ads to Adobe Analytics. 
+If you use ad tags from [!DNL Flashtalking] for your Advertising DSP ads, you must append tracking parameters to your landing page URLs. To use the Advertising DSP partnership with [!DNL Flashtalking], append Analytics for Advertising parameters to your landing page URLs. The parameters record AMO ID (`s_kwcid`) and `ef_id` query string parameters in the landing page URL, allowing Adobe Advertising to send click data for the ads to Adobe Analytics.
+
+>[!NOTE]
+>
+>If your organization has a direct partnership with [!DNL Flashtalking], then this procedure isn't necessary for you. Instead, log in to your [!DNL Flashtalking] account and follow the [!DNL Flashtalking] support documentation for accessing data-pass macros at `https://support.flashtalking.com%2Fhc%2Fen-us%2Farticles%2F4409808166419-Accessing-Data-Pass-Macros`.
 
 Use macros for [!DNL Flashtalking] display and video ads for the following types of [!DNL Analytics for Advertising] implementations:
 
 * **Advertisers with the [!DNL Adobe] [!DNL Analytics for Advertising] JavaScript code implemented on their websites**: The JavaScript code already records the AMO ID (`s_kwcid`) and `ef_id` query string parameters. However, using macros extends tracking to include click-based conversions when third-party cookies aren't supported. The best practice is to add the macros in the following sections to your ad tags to capture additional click-through data that isn't captured through the JavaScript code.
 
->[!NOTE]
->
->The JavaScript code is a solution for click tracking only while cookies are still available. Once cookies are discontinued, implementing the following macros will be necessary.
+  >[!NOTE]
+  >
+  >The JavaScript code is a solution for click tracking only while cookies are still available. Once cookies are discontinued, implementing the following macros will be necessary.
 
 * **Advertisers whose websites don't use the [!DNL Analytics for Advertising] JavaScript code and instead rely on [!DNL Analytics] server-side forwarding for click-through data only** (without any view-through data): The following macros are required to report on-site click activity driven from ads you buy through Adobe Advertising.
 
