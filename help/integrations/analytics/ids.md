@@ -118,7 +118,7 @@ The parameter is added to your tracking URLs in one of the following ways:
 
   * DSP customers: The [JavaScript code](javascript.md) automatically records click-throughs and view-throughs. When a browser doesn't support third-party cookies, you can still track click-based conversions for the following ad types:
 
-    * For [!DNL Flashtalking] ad tags, manually insert additional macros per "[Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)." **Note:** This procedure isn't necessary if your organization has a direct partnership with [!DNL Flashtalking] and you use data-pass macros instead per the [!DNL Flashtalking] support documentation at `https://support.flashtalking.com%2Fhc%2Fen-us%2Farticles%2F4409808166419-Accessing-Data-Pass-Macros`.
+    * For [!DNL Flashtalking] ad tags, manually insert additional macros per "[Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)." **Note:** This procedure isn't necessary if your organization has a direct partnership with [!DNL Flashtalking] and you use data-pass macros to collect click data per the [!DNL Flashtalking] support documentation at `https://support.flashtalking.com%2Fhc%2Fen-us%2Farticles%2F4409808166419-Accessing-Data-Pass-Macros`.
 
     * For [!DNL Google Campaign Manager 360] ad tags, manually insert additional macros per "[Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)."
 
