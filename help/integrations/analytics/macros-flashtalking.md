@@ -16,7 +16,7 @@ If you use ad tags from [!DNL Flashtalking] for your Advertising DSP ads, you mu
 
 >[!NOTE]
 >
->If your organization has a direct partnership with [!DNL Flashtalking], then this procedure isn't necessary for you. Instead, log in to your [!DNL Flashtalking] account and follow the [!DNL Flashtalking] support documentation to collect click data using data-pass macros at `https://support.flashtalking.com%2Fhc%2Fen-us%2Farticles%2F4409808166419-Accessing-Data-Pass-Macros`.
+>If your organization has a direct partnership with [!DNL Flashtalking], then this procedure isn't necessary for you. Instead, log in to your [!DNL Flashtalking] account and follow the [!DNL Flashtalking] support documentation to collect click data using data-pass macros at `https://support.flashtalking.com%2Fhc%2Fen-us%2Farticles%2F4409808166419-Accessing-Data-Pass-Macros`. 
 
 Use macros for [!DNL Flashtalking] display and video ads for the following types of [!DNL Analytics for Advertising] implementations:
 
