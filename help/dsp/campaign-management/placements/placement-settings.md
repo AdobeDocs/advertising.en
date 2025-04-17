@@ -209,6 +209,31 @@ To specify inventory targeting:
 
 Outstream ads usually appear over the content as a pop-up or stuffed into content (in the native experience), rather than as regular video ads in a video player.
 
+
+
+<!-- Verify where in the UI "Video targeting" and "Position targeting" appear -->
+
+
+**[!UICONTROL Video targeting]:**  Target (but not exclude) inventory by inventory attributes.<!--verify if can exclude any or all of these --> 
+
+* **[!UICONTROL Player size]:** Target (but not exclude) inventory by player size. The setting applies to preroll placements, mobile standard preroll placements, and universal video placements for desktop and mobile environments. By default, all sizes are targeted. To narrow down the targets, select specific target sizes and/or *Unknown*.
+
+* **[!UICONTROL Playback mode]:** Target (but not exclude) inventory by how playback is initiated. The setting applies to preroll placements, mobile standard preroll placements, and universal video placements for desktop and mobile environments. By default, all modes are targeted. To narrow down the targets, select specific target modes and/or *Unknown*.
+
+* **[!UICONTROL Skippability]:** Target (but not exclude) inventory according to whether or not it’s skippable. The setting applies to all VAST/VPAID placements, including preroll, mobile standard preroll, connected TV, and universal video placements. By default, all options are targeted. To narrow down the targets, select specific targets and/or *Unknown*.
+
+ **[!UICONTROL Position targeting]:** Target (but not exclude) inventory by ad position. The setting applies to all VAST/VPAID placements, including preroll, mobile standard preroll, connected TV, and universal video placements. By default, all positions are targeted. To narrow down the targets, select specific target positions and/or *Unknown*.<!--verify if can exclude -->
+
+
+
+
+
+
+
+
+
+
+
 ## [!UICONTROL Site and App Targeting]
 
 **[!UICONTROL Traffic type]:** The types of traffic to target. Options include **[!UICONTROL Websites]** and **[!UICONTROL Apps]**.
@@ -389,7 +414,7 @@ To specify topic targeting:
 
 The ID must begin with "51" and consist of eight digits. By default, if a segment ID is specified in the advertiser account settings, then the advertiser-level ID is entered, but you can change the ID to use a different segment or delete the ID to disable the feature.
 
-**[!UICONTROL Contextual filtering]:** Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] contextual filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
+**[!UICONTROL Contextual filtering]:** (Applicable for desktop and mobile web display, native, and video ads) Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] contextual filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
 
 <!-- Looks like we didn't rename this:
 **[!UICONTROL Brand Safety categories]:** Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] brand safety category filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
@@ -415,34 +440,30 @@ The ID must begin with "51" and consist of eight digits. By default, if a segmen
 
 **[!UICONTROL Pre-bid fraud blocking]:** Types of sites to block based on fraudulent traffic and suspicious activities measured through [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39]. The advertiser-level defaults are selected for new placements, but you can change the settings:
 
-* [!UICONTROL DoubleVerify]:
+* [!UICONTROL DoubleVerify]: (Applicable for desktop and mobile web display, native, video, and standard connected TV ads)  
 
    * **[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** By default, blocks all 100% invalid traffic, including traffic on hijacked devices, for new placements. Additional fees may apply.
 
    * **[!UICONTROL Also block sites with]:** (Optional) An additional level of fraud and invalid traffic that causes DSP to block ads by default:  *[!UICONTROL None]* (the default, which doesn't block additional traffic), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]*, or *[!UICONTROL >25% Average Fraud/IVT levels]*. Additional fees may apply.
 
-* [!UICONTROL Peer 39]:
+* [!UICONTROL Peer 39]: (Applicable for desktop and mobile web display, native, and video ads)
 
    * **[!UICONTROL Block sites that are]:** (Optional) One or more types of fraud that cause DSP to block ads by default: *[!UICONTROL Fraud]* (which blocks all sites with fraud), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]*, and/or *[!UICONTROL Fraud: Zero Ads]*. Additional fees may apply.
 
-* [!UICONTROL Integral Ad Science]:
+* [!UICONTROL Integral Ad Science]: (Applicable for desktop and mobile web display, native, and video ads)
 
    * **[!UICONTROL Block sites that are]:** (Optional) A type of suspicious website or app activity that causes DSP to block ads by default: *[!UICONTROL None]* (the default, which doesn't block ads based on suspicious activity), *[!UICONTROL Suspicious Activity - High Risk]*, or *[!UICONTROL Suspicious Activity - High or Moderate Risk]*. Additional fees may apply.
 
-**[!UICONTROL Pre-bid viewability]:**
+**[!UICONTROL Pre-bid viewability]:** (Applicable for desktop and mobile web display, native, and video ads) Which pre-bid viewability filters by [!DNL DoubleVerify], and [!DNL Integral Ad Science] to apply for the placement. The advertiser-level defaults are selected for new placements, but you can change the settings. Additional fees may apply.
 
-Which pre-bid viewability filters by [!DNL DoubleVerify], and [!DNL Integral Ad Science] to apply for the placement. The advertiser-level defaults are selected for new placements, but you can change the settings. Additional fees may apply.
-
-**[!UICONTROL Ads.txt filtering]:**
-
-Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filtering to use by applying each publisher's Authorized Digital Sellers list. The advertiser-level default is selected for new placements, but you can change the settings:
+**[!UICONTROL Ads.txt filtering]:** (Applicable for desktop and mobile web display, native, video, and audio ads) Which level of [Ads.txt](https://iabtechlab.com/ads-txt-about/) pre-bid filtering to use by applying each publisher's Authorized Digital Sellers list. The advertiser-level default is selected for new placements, but you can change the settings:
 
 * *[!UICONTROL Opt out of ads.txt (default)]*: To buy inventory from all sellers.
 * *[!UICONTROL Ads.txt sellers + sites without ads.txt]*: To prioritize buying inventory from a domain's authorized direct sellers and resellers.
 * *[!UICONTROL Ads.txt sellers only]*: To buy inventory only from a domain's authorized direct sellers and resellers.
 * *[!UICONTROL Ads.txt sellers only]*: To buy inventory only from a domain's authorized direct sellers.
 
-**[!UICONTROL Attention Targeting]:** (Display, video, and standard connected TV placements) Targets [!DNL Adelaide] pre-bid segments with a specific attention level (high, medium, or low) based on the specified site, format, and ad size. The segments are updated weekly. **Note:** Using [!DNL Adelaide] segments for targeting incurs a CPM fee for each impression delivered with [!DNL Adelaide] attention targeting; this fee is separate from fees for [attention measurement](/help/dsp/campaign-management/campaigns/campaign-settings.md). For interactive pre-roll placements, you're charged only for VAST impressions.
+**[!UICONTROL Attention Targeting]:** (Applicable for desktop and mobile web display, video, and standard connected TV ads) Targets [!DNL Adelaide] pre-bid segments with a specific attention level (high, medium, or low) based on the specified site, format, and ad size. The segments are updated weekly. **Note:** Using [!DNL Adelaide] segments for targeting incurs a CPM fee for each impression delivered with [!DNL Adelaide] attention targeting; this fee is separate from fees for [attention measurement](/help/dsp/campaign-management/campaigns/campaign-settings.md). For interactive pre-roll placements, you're charged only for VAST impressions.
 
 ## [!UICONTROL Tracking] {#placement-tracking}
 
