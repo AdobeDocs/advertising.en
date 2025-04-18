@@ -76,6 +76,8 @@ You can optionally configure default targets for the advertiser's new placements
 
 ### [!UICONTROL Media Quality]
 
+<!-- See placement settings for specs on applicable ad/device types -->
+
 #### [!UICONTROL Contextual Filtering]
 
 Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] contextual filters to apply. You can override the advertiser-level settings at the [placement level](/help/dsp/campaign-management/placements/placement-settings.md).
@@ -98,7 +100,7 @@ Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [
 
 **[!UICONTROL Alcohol Content]:** (Optional) The degree of alcohol content for which to block ads by default: *[!UICONTROL Do Not Block]* (the default), *[!UICONTROL Standard]*, or *[!UICONTROL Strict]*. Additional fees may apply.
 
-#### [!UICONTROL Pre-Bid Fraud Blocking]
+#### [!UICONTROL Pre-Bid Fraud Blocking] {#prebid-fraud-blocking}
 
 Types of sites to block based on fraudulent traffic and suspicious activities measured through [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39]. You can override the advertiser-level settings at the [placement level](/help/dsp/campaign-management/placements/placement-settings.md).
 
