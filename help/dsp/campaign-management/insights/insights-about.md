@@ -3,7 +3,7 @@ title: About Performance Insights
 description: Learn about performance insights for your campaigns.
 feature: DSP Packages, DSP Placements, DSP Ads
 ---
-# About Performance Insights<!-- Title?--?>
+# About Performance Insights
 
 *Beta feature*
 
@@ -17,9 +17,9 @@ For any insight, you can download a report, without the visualizations, in Micro
 
 The [!UICONTROL Home] tab provides key standard, performance, and viewability metrics across all of an advertiser's campaigns<!-- active only? -->. By default, cross-campaign data is shown. You can optionally configure filters to show data for a different advertiser or data for only specific campaigns<!-- active only? -->, packages<!-- active only? -->, custom goals, and placements<!-- active only? -->. The insights include:
 
-  * A trend chart for three customer-specified metrics (by default, [!UICONTROL Net Spend], [!UICONTROL Impressions], and [!UICONTROL Net CPM]).
+* A trend chart for three customer-specified metrics (by default, [!UICONTROL Net Spend], [!UICONTROL Impressions], and [!UICONTROL Net CPM]).
 
-  * A breakdown of the data for specific metrics by three customer-specified dimensions, such as by campaign, publisher, and media type. For each dimensional breakdown, you can choose a different metric.
+* A breakdown of the data for specific metrics by three customer-specified dimensions, such as by campaign, publisher, and media type. For each dimensional breakdown, you can choose a different metric.
 
 ## [!UICONTROL Household Reach] Tab
 
