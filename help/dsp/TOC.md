@@ -91,6 +91,8 @@ index: yes
       + [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
       + [Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
     + [Specifications for Supported Ad Types](/help/dsp/campaign-management/ads/ad-specs.md)
++ Cross-Campaign Performance Insights {#insights}
+  + [About Performance Insights](/help/dsp/campaign-management/insights/insights-about.md)
   + Performance Reports in Campaign Management Views {#campaign-reports}
     + [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
     + [Export Data from a Campaign Management View](/help/dsp/campaign-management/reports/campaign-export-data.md)
