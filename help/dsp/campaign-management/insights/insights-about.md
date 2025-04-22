@@ -2,6 +2,7 @@
 title: About Performance Insights
 description: Learn about performance insights for your campaigns.
 feature: DSP Packages, DSP Placements, DSP Ads
+exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
 ---
 # About Performance Insights
 
