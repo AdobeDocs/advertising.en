@@ -35,24 +35,40 @@ The [!UICONTROL Household Reach] tab provides household reach metrics across all
 
   * A <!-- ???? --> chart of the [!UICONTROL Cost per Reach] and [!UICONTROL Net Spend] by package, publisher, or site/app.
 
+## Open Performance Insights
+
+* (To open insights for all campaigns) In the main menu, click **[Insights BETA]**.
+
+* (To open insights for a specific campaign, package, or placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click  **[!UICONTROL ...]** > **[!UICONTROL Insights]**.
+
+## Apply Filters to a Tab
+
+1. In the toolbar at the top of the tab,
+click ![Filter button](/help/dsp/assets/filter.png).
+
+1. In the left column, select a dimension, and then select one or more values in the right column, as applicable.
+
+   You can select only one advertiser at a time.
+
+1. Click **[!UICONTROL Apply]**.
+
+1. (Optional) To narrow down the data further, select the entity type in the toolbar, and then select a specific entity value (a single campaign, package, or placement).
+
+## Change the Dimension Reported for an Insight
+
+* From the drop-down menu to the upper left of the insight, select the dimension.
+
+## Change the Metrics Reported for an Insight
+
+1. To the upper right of the insight, click ![Metric settings](/help/dsp/assets/metric-settings.png "Metric settings").
+
+1. Select the metrics, and then click **[!UICONTROL Apply]**.
+
 ## Download an Insight
 
-* Above the insight, click ![Download](/help/creative/assets/download.png "Download").
+* To the upper right of the insight, click ![Download](/help/creative/assets/download.png "Download").
 
   The file is saved to your browser's default Downloads folder.
-
-<!--
-## Apply Filters
-
-to whole tab, I think
-
-Filter icon + drop-down menu
--->
-
-<!--
-## Change the Metrics and Dimensions for an Insight
-
--->
 
 >[!MORELIKETHIS]
 >
