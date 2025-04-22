@@ -9,9 +9,19 @@ feature: DSP Packages, DSP Placements, DSP Ads
 
 <!-- Edit title and metadata as necessary -->
 
-High-level, performance insights with visualizations give you the information you need to efficiently optimize your campaigns and to discover new opportunities to scale performance.
+High-level, performance insights with visualizations give you the information you need to efficiently optimize your campaigns and to discover new opportunities to scale performance. You can view data across campaigns or drill down to a lower level.
 
-For any insight, you can download a report, without the visualizations, in Microsoft Excel spreadsheet (XLSX) format.
+Use performance insights to:
+
+* Track long-term trends for strategic planning and informed decision making.
+
+* Identify opportunities to achieve better outcomes.
+
+* Improve efficiency by reducing the time between getting raw data and attaining actionable insights.
+
+You can export all visualizations for a tab to a PDF file or download the data for a specific insight without visualizations in Microsoft Excel spreadsheet (XLSX) format.
+
+You can also [configure the view and save it as a custom view](/help/dsp/campaign-management/reports/campaign-data-views-manage.md), like you can for campaign management views.
 
 ## Types of Insights
 
@@ -29,13 +39,15 @@ The [!UICONTROL Household Reach] tab provides household reach metrics across all
 
 * A trend chart by day or by week for three customer-specified metrics (by default, [!UICONTROL Net Spend], [!UICONTROL Unique Reach], and [!UICONTROL Net CPM]).
 
-* A pie chart of the incremental household reach by [!UICONTROL Media Type], [!UICONTROL Device Type], or [!UICONTROL Inventory Type]. Incremental household reach is defined as a household reached exclusively through a single media, device, or inventory type.
+* A donut chart showing the incremental household reach by [!UICONTROL Media Type], [!UICONTROL Device Type], or [!UICONTROL Inventory Type]. Incremental household reach is defined as a household reached exclusively through a single media, device, or inventory type.
 
-* A bar chart showing the [!UICONTROL Unique Reach] by [!UICONTROL Media Type], [!UICONTROL Device Type], or [!UICONTROL Inventory Type]. **Note:** A household reached by multiple media, device, or inventory types is considered overlapping.
+* The incremental unique household reach vs. overlapping household reach by [!UICONTROL Media Type], [!UICONTROL Device Type], or [!UICONTROL Inventory Type].
+
+  Incremental household reach is defined as a household reached exclusively through a single media, device, or inventory type. A household reached by multiple media, device, or inventory types is considered overlapping.
   
-* A list of the top-spending campaigns, placements, packages, publishers, sites/apps, media types, inventory types, or device types. Metrics include [!UICONTROL Unique Reach], [!UICONTROL Net Spend], and [!UICONTROL Cost per Reach].
+* The top-performing campaigns, placements, packages, publishers, sites/apps, media types, inventory types, or device types by [!UICONTROL Unique Reach], [!UICONTROL Net Spend], and [!UICONTROL Cost per Reach].
 
-* A <!-- ???? --> chart of the [!UICONTROL Cost per Reach] and [!UICONTROL Net Spend] by package, publisher, or site/app.
+* The [!UICONTROL Cost per Reach] and [!UICONTROL Net Spend] by package, publisher, or site/app. Use this insight to see which packages, publishers, or sites/apps show the potential for significant incremental reach.
 
 ## Open Performance Insights
 
@@ -66,7 +78,13 @@ click ![Filter button](/help/dsp/assets/filter.png).
 
 1. Select the metrics, and then click **[!UICONTROL Apply]**.
 
-## Download an Insight
+## Export All Visualizations for a Tab to a PDF File
+
+* Above the tab, click **[!UICONTROL ...]** > **[!UICONTROL Export]**.
+
+  The file is saved to your browser's default Downloads folder.
+
+## Download a Specific Insight to an XLSX File
 
 * To the upper right of the insight, click ![Download](/help/creative/assets/download.png "Download").
 
