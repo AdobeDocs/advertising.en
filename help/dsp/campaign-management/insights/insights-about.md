@@ -22,7 +22,7 @@ Use performance insights to:
 
 You can export all visualizations for a tab to a PDF file or download the data for a specific insight without visualizations in Microsoft Excel spreadsheet (XLSX) format.
 
-You can also [configure the view and save it as a custom view](/help/dsp/campaign-management/reports/campaign-data-views-manage.md), like you can for campaign management views.
+You can also [change the date range, configure the view, and save a custom view](/help/dsp/campaign-management/reports/campaign-data-views-manage.md), like you can for campaign management views.
 
 ## Types of Insights
 
@@ -96,3 +96,4 @@ click ![Filter button](/help/dsp/assets/filter.png).
 >* [About Custom Reports](/help/dsp/reports/report-about.md)
 >* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [Manage Your Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
