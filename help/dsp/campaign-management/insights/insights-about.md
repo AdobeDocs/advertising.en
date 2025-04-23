@@ -52,7 +52,7 @@ The [!UICONTROL Household Reach] tab provides household reach metrics across all
 
 ## Open Performance Insights
 
-* (To open insights for all campaigns) In the main menu, click **[Insights BETA]**.
+* (To open insights for all campaigns) In the main menu, click **[UICONTROL Insights BETA]**.
 
 * (To open insights for a specific campaign, package, or placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Insights]**.
 
