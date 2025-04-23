@@ -1,7 +1,7 @@
 ---
 title: About Performance Insights
-description: Learn about performance insights for your campaigns.
-feature: DSP Packages, DSP Placements, DSP Ads
+description: Learn about performance insights with visualizations.
+feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
 ---
 # About Performance Insights
@@ -10,7 +10,7 @@ exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
 
 <!-- Edit title and metadata as necessary -->
 
-High-level, performance insights with visualizations give you the information you need to efficiently optimize your campaigns and to discover new opportunities to scale performance. You can view data across campaigns or drill down to a lower level.
+High-level performance insights with visualizations give you the information you need to efficiently optimize your campaigns and to discover new opportunities to scale performance. You can view data across campaigns or drill down to a lower level.
 
 Use performance insights to:
 
@@ -22,7 +22,7 @@ Use performance insights to:
 
 You can export all visualizations for a tab to a PDF file or download the data for a specific insight without visualizations in Microsoft Excel spreadsheet (XLSX) format.
 
-You can also [change the date range, configure the view, and save a custom view](/help/dsp/campaign-management/reports/campaign-data-views-manage.md), like you can for campaign management views.
+You can also [change the date range, configure the view, and save a custom view](/help/dsp/campaign-management/reports/campaign-data-views-manage.md) like you can for campaign management views.
 
 ## Types of Insights
 
@@ -44,7 +44,7 @@ The [!UICONTROL Household Reach] tab provides household reach metrics across all
 
 * The incremental unique household reach vs. overlapping household reach by [!UICONTROL Media Type], [!UICONTROL Device Type], or [!UICONTROL Inventory Type].
 
-  Incremental household reach is defined as a household reached exclusively through a single media, device, or inventory type. A household reached by multiple media, device, or inventory types is considered overlapping.
+  Incremental household reach is defined as a household reached exclusively through a single media, device, or inventory type. A household that's reached by multiple media, device, or inventory types is considered overlapping.
   
 * The top-performing campaigns, placements, packages, publishers, sites/apps, media types, inventory types, or device types by [!UICONTROL Unique Reach], [!UICONTROL Net Spend], and [!UICONTROL Cost per Reach].
 
@@ -54,7 +54,7 @@ The [!UICONTROL Household Reach] tab provides household reach metrics across all
 
 * (To open insights for all campaigns) In the main menu, click **[Insights BETA]**.
 
-* (To open insights for a specific campaign, package, or placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click  **[!UICONTROL ...]** > **[!UICONTROL Insights]**.
+* (To open insights for a specific campaign, package, or placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Insights]**.
 
 ## Apply Filters to a Tab
 
