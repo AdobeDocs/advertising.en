@@ -157,6 +157,10 @@ Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size i
    * Drag and drop files on your device or network into the box.
    
    * Click **[!UICONTROL select a file]** to locate the file on your device or network.
+<!--  Verify wording and workflow and add when available:
+
+   * Click **[!UICONTROL AEM Asset Library]** to locate a file in your Adobe Experience Manager library.
+-->
 
 1. Add or remove images:
 

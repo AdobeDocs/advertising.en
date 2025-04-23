@@ -56,7 +56,7 @@ You can upload simple or static HTML5 creatives, with all attributes and images 
 
 #### Image creatives
 
-You can include image creatives in GIF, JPEG, JPG, or PNG format. You can upload<!--LATER:   images from your Adobe Experience Manager accounts or --> images from your device or network.
+You can include image creatives in GIF, JPEG, JPG, or PNG format. You can upload images from your Adobe Experience Manager accounts or images from your device or network.
 
 Each ad experience requires a default image creative for each creative size assigned to the experience.
 
