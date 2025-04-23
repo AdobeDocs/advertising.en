@@ -10,7 +10,7 @@ exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
 
 <!-- Edit title and metadata as necessary -->
 
-High-level performance insights with visualizations give you the information you need to efficiently optimize your campaigns and to discover new opportunities to scale performance. You can view data across campaigns or drill down to a lower level.
+High-level performance insights with visualizations give you the information you need to efficiently optimize your campaigns and discover new opportunities to scale performance. You can view data across campaigns or drill down to a lower level.
 
 Use performance insights to:
 
@@ -40,11 +40,11 @@ The [!UICONTROL Household Reach] tab provides household reach metrics across all
 
 * A trend chart by day or by week for three customer-specified metrics (by default, [!UICONTROL Net Spend], [!UICONTROL Unique Reach], and [!UICONTROL Net CPM]).
 
-* A donut chart showing the incremental household reach by [!UICONTROL Media Type], [!UICONTROL Device Type], or [!UICONTROL Inventory Type]. Incremental household reach is defined as a household reached exclusively through a single media, device, or inventory type.
+* A donut chart showing the incremental household reach by [!UICONTROL Media Type], [!UICONTROL Device Type], or [!UICONTROL Inventory Type]. *Incremental household reach* is defined as a household reached exclusively through a single media, device, or inventory type.
 
 * The incremental unique household reach vs. overlapping household reach by [!UICONTROL Media Type], [!UICONTROL Device Type], or [!UICONTROL Inventory Type].
 
-  Incremental household reach is defined as a household reached exclusively through a single media, device, or inventory type. A household that's reached by multiple media, device, or inventory types is considered overlapping.
+  *Incremental household reach* is defined as a household reached exclusively through a single media, device, or inventory type. *Overlapping household reach* is defined as a household that's reached by multiple media, device, or inventory types.
   
 * The top-performing campaigns, placements, packages, publishers, sites/apps, media types, inventory types, or device types by [!UICONTROL Unique Reach], [!UICONTROL Net Spend], and [!UICONTROL Cost per Reach].
 
@@ -58,8 +58,7 @@ The [!UICONTROL Household Reach] tab provides household reach metrics across all
 
 ## Apply Filters to a Tab
 
-1. In the toolbar at the top of the tab,
-click ![Filter button](/help/dsp/assets/filter.png).
+1. In the toolbar at the top of the tab, click ![Filter button](/help/dsp/assets/filter.png).
 
 1. In the left column, select a dimension, and then select one or more values in the right column, as applicable.
 
