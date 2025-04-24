@@ -116,7 +116,7 @@ The system default settings vary by tab. For most tabs, the system default view 
 
    Views are sorted by applicable entity.
 
-1. Next to the view name, click ![Restore to default settings](/help/search-social-commerce/assets/revert.png "Restore to default settings").
+1. Next to the view name, click ![Restore to default settings](/help/search-social-commerce/assets/restore.png "Restore to default settings").
 
 ## Delete a custom view
 
