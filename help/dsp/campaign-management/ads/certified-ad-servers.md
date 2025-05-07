@@ -54,7 +54,7 @@ exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
 | [!DNL Spirable] | | X | | | |
 | [!DNL SUBLIME] | | | X | | |
 | [!DNL SundaySky] | | | | X | |
-| [!DNL Teads] | | X | | | No support is available for VPAID on Outstream inventory.|
+| [!DNL Teads] | | X | | | Includes native display. No support is available for VPAID on Outstream inventory.|
 | [!DNL Trueffect] | | X | | | |
 | [!DNL Undertone] | | | X | | Custom Page Grabber ad unit uploaded as 180x150 in DSP</br></br>When Index Exchange passes a 180x150 auction and DSP bids on the auction and serves an impression, the creative expands to a full-page display ad.</br></br>Initially certified for Page Grabber, Expandable Adhesion, and Screen Shift ad units. This needs to be recertified, with steps marked for processes. |
 | [!DNL Vox] | | | X | | [!DNL Athena] ad units |
