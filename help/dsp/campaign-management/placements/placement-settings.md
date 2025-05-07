@@ -205,9 +205,15 @@ To specify inventory targeting:
 >
 >If you subscribed to [!UICONTROL On Demand] inventory but can't locate the publishers or deals to target, then check the status of the deals. For more information about statuses, see [About [!DNL On Demand] Premium Inventory](/help/dsp/inventory/on-demand-inventory-about.md).
 
-**[!UICONTROL Exclude out-stream]:** (Video placements only) Excludes outstream traffic.
+**[!UICONTROL Video targeting]:**  Target (but not exclude) inventory by inventory attributes. When you target multiple values for the same video attribute, any of the selected attributes can be targeted (for example either \[Player size = large OR Player size = HD\]). When you target multiple attributes, each of the specified attributes must be present (for example, \[Duration = 30-60 min] AND \[Player size = large OR Player size = HD\]).
 
-Outstream ads usually appear over the content as a pop-up or stuffed into content (in the native experience), rather than as regular video ads in a video player.
+* **[!UICONTROL Player size]:** Target (but not exclude) inventory by player size. The setting applies to preroll placements, mobile standard preroll placements, and universal video placements for desktop and mobile environments. By default, all sizes are targeted. To narrow down the targets, select specific target sizes and/or *Unknown*.
+
+* **[!UICONTROL Playback mode]:** Target (but not exclude) inventory by how playback is initiated. The setting applies to preroll placements, mobile standard preroll placements, and universal video placements for desktop and mobile environments. By default, all modes are targeted. To narrow down the targets, select specific target modes and/or *Unknown*.
+
+* **[!UICONTROL Skippability]:** Target (but not exclude) inventory according to whether or not it’s skippable. The setting applies to all VAST/VPAID placements, including preroll, mobile standard preroll, connected TV, and universal video placements. By default, all options are targeted. To narrow down the targets, select specific targets and/or *Unknown*.
+
+**[!UICONTROL Position targeting]:** Target (but not exclude) inventory by ad position. The setting applies to all VAST/VPAID placements, including preroll, mobile standard preroll, connected TV, and universal video placements. By default, all positions are targeted. To narrow down the targets, select specific target positions and/or *Unknown*.
 
 ## [!UICONTROL Site and App Targeting]
 
