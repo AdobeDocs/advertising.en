@@ -152,11 +152,21 @@ Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size i
 
 1. Click **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Image]**.
 
-1. Specify the files in either of the following ways:
+1. Specify the images:
 
-   * Drag and drop files on your device or network into the box.
+   * For local image assets, do either of the following:
+
+     * Drag and drop files on your device or network into the box.
    
-   * Click **[!UICONTROL select a file]** to locate the file on your device or network.
+     * Click **[!UICONTROL select a file]** to locate files on your device or network.
+
+   * For images in your Adobe Experience Manager library, do the following:
+
+     1. Click **[!UICONTROL AEM Asset Library]**.
+
+     1. Sign in to your Experience Manager account.
+
+     1. Locate and select the files in your [!UICONTROL Assets] or [!UICONTROL Collections] views, and then click **[!UICONTROL Select]** in the upper right.
 
 1. Add or remove images:
 

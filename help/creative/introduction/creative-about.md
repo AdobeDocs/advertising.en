@@ -19,11 +19,21 @@ Your Creative Libraries allow you to manage the creatives you'll use in your ad 
 
 With [!DNL Creative], you can build out stories using a rules-based decision tree model &mdash; unfolding a choreographed string of ads that are customized in real time based on what you know about your audience, and that follow your customers even when they move to different websites<!-- verify if that's true without Adobe CDP -->. For example, the stories can change based on customer behavior, geography, demographics, retargeting, position in the customer journey, and more.
 
+<!-- Add when available:
+
+## [!DNL Adobe] content and data integrations
+
+[!DNL Creative] has direct integrations with Adobe Experience Manager, allowing you to easily upload the [!DNL Adobe] assets that your design team creates and use them for real-time storyboarding and editing of ad experiences.
+
+You also can use your first-party audience segments from Adobe Audience Manager and Adobe Analytics &mdash; as well as audience segments you create in Advertising Cloud DSP
+or retargeting pixels you create using [!DNL Creative] &mdash; as targets for specific creatives in an ad experience.
+-->
+
 ### Implementation of experiences as ads
 
 Once you create an experience, you can generate a JavaScript or iframe tag for the experience and implement the tag as a third-party ad in Advertising DSP or any other DSP.<!-- Add any more info about integration with DSP? -->
 
-<!-- Maybe add a subsection "Audience targeting options" with info about types of creative-level REtargeting and placement-level targeting within your DSP.  Need to clarify if any placement-level targeting might contradict/override creative-level targeting, or if they're completely different.
+<!-- Maybe add a subsection "Audience targeting options" with info about types of creative-level Retargeting and placement-level targeting within your DSP.  Need to clarify if any placement-level targeting might contradict/override creative-level targeting, or if they're completely different.
 
 Advertiser should be able to target all segments which are available in DSP for targeting
 -->
@@ -40,7 +50,7 @@ You can create retargeting pixels to use as targets for creatives within an ad e
 
 [!DNL Creative] automatically tracks all impressions and clicks for ads served from an experience. You can also optionally add third-party impression-tracking and click-tracking URLs to creatives in Creative Libraries, as well as custom tracking URLs in an experience.
 
-[!DNL Creative] also tracks conversions from served ads created from your ad experiences.<!-- Verify wording; anything important to add here? We do track them for all users, right? Or is it optoinal?  -->
+[!DNL Creative] also tracks conversions from served ads created from your ad experiences.<!-- Verify wording; anything important to add here? We do track them for all users, right? Or is it optional?  -->
 
 <!--
  [Don't need to mention] When an ad is served, the DSP that buys the ad first tracks the impression, and then passes the impression information to [!DNL Creative]. [!DNL Creative] first tracks a click on an ad, and it then passes the click information

@@ -429,7 +429,7 @@ The ID must begin with "51" and consist of eight digits. By default, if a segmen
 
 **[!UICONTROL Pre-bid fraud blocking]:** Types of sites to block based on fraudulent traffic and suspicious activities measured through [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39]. The advertiser-level defaults are selected for new placements, but you can change the settings:
 
-* [!UICONTROL DoubleVerify]: (Applicable for desktop and mobile web display, native, video, and standard connected TV ads)  
+* [!UICONTROL DoubleVerify]: (Applicable for desktop and mobile web display, native, video, and standard connected TV ads)
 
    * **[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** By default, blocks all 100% invalid traffic, including traffic on hijacked devices, for new placements. Additional fees may apply.
 

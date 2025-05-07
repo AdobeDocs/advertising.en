@@ -136,7 +136,6 @@ The following filters are available for your [!UICONTROL Campaigns], [!UICONTROL
     * [!UICONTROL Ad type]   
     * [!UICONTROL Creation date]
 
-
 ### Change the Date Range
 
 Change the date range used in all standard and custom views using the date range selector above any data table.
