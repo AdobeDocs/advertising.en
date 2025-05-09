@@ -16,7 +16,7 @@ If you use ad tags from [!DNL Flashtalking] for your Advertising DSP ads, you mu
 
 >[!NOTE]
 >
->If your organization has a direct partnership with [!DNL Flashtalking], then this procedure isn't necessary for you. Instead, log in to your [!DNL Flashtalking] account and follow the [!DNL Flashtalking] support documentation at [https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) to use data-pass macros to track the `s_kwcid` and `ef_id` tracking parameters.
+>If your organization has a direct partnership with [!DNL Flashtalking], then this procedure isn't necessary for you. Instead, sign in to your [!DNL Flashtalking] account and follow the [!DNL Flashtalking] support documentation at [https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) to use data-pass macros to track the `s_kwcid` and `ef_id` tracking parameters.
 
 Use macros for [!DNL Flashtalking] display and video ads for the following types of [!DNL Analytics for Advertising] implementations:
 

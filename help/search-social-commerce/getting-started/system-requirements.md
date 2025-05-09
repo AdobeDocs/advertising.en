@@ -26,7 +26,7 @@ You need the following software and account information.
 
 ## User name and password
 
-To log in, you need a user name and password. Your Adobe Account Team sets up your user account and creates your user name and password.
+To sign in, you need a user name and password. Your Adobe Account Team sets up your user account and creates your user name and password.
 
 ## Computer and browser settings
 

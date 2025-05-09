@@ -25,7 +25,7 @@ If you change the password for the email account used for a data source, or if t
        
           >[!TIP]
           >
-          >To make sure that only specific [!DNL Google Analytics] properties and views are available within Search, Social, & Commerce, log in using an email address that has access to only those properties and views.
+          >To make sure that only specific [!DNL Google Analytics] properties and views are available within Search, Social, & Commerce, sign in using an email address that has access to only those properties and views.
        
       1. Select the check box to authorize Search, Social, & Commerce to access metrics for the account.
      

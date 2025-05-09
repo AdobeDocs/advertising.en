@@ -14,5 +14,5 @@ feature: Search Getting Started
 
 >[!MORELIKETHIS]
 >
->* [Sign in](log-in.md)
+>* [Sign in](sign-in.md)
 >* [How the user interface is organized](user-interface.md)

@@ -36,17 +36,17 @@ The [!UICONTROL Search] option includes the following submenus. The available op
 
 * ![Alert notifications](/help/search-social-commerce/assets/notifications-panel.png "Alert Notifications") A panel listing your Search, Social, & Commerce notifications.
 
-  When you're [logged in through Adobe Experience Cloud](log-in.md), this panel shows your notifications from Experience Cloud.
+  When you're [signed in through Adobe Experience Cloud](sign-in.md), this panel shows your notifications from Experience Cloud.
 
 * ![Help menu](/help/search-social-commerce/assets/help-main-menu.png "Help menu") A help menu that includes links to documentation and other information.
 
 * ![Solution switcher](/help/search-social-commerce/assets/menu-icon.png "Solution switcher") A list of Adobe Experience Cloud solutions and services to which you can switch.
 
-* ![User profile](/help/search-social-commerce/assets/user-profile.png "User profile") A link to your profile, from which you can log out.
+* ![User profile](/help/search-social-commerce/assets/user-profile.png "User profile") A link to your profile, from which you can sign out.
 
-  When you're [logged in through Adobe Experience Cloud](log-in.md), you can also edit your Experience Cloud profile, including your Experience Cloud password and notification settings.
+  When you're [signed in through Adobe Experience Cloud](sign-in.md), you can also edit your Experience Cloud profile, including your Experience Cloud password and notification settings.
 
 >[!MORELIKETHIS]
 >
->* [Log in](log-in.md)
->* [Log out](log-out.md)
+>* [Sign in](sign-in.md)
+>* [Sign out](sign-out.md)

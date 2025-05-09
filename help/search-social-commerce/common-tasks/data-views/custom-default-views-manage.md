@@ -8,7 +8,7 @@ feature: Search Common Tasks, Search Custom Data Views
 
 Your default views and custom views allow you to customize the performance data that is displayed within the search campaign data views. View settings include the columns to include, filters, date range, conversion attribution settings, and other advanced settings &mdash; and you can either apply the settings temporarily or save them. (Exception: You can't save filters for default views.) Each default and regular custom view is applicable for a specific entity view (such as [!UICONTROL Campaigns]) and specific advertiser account only. Each universal custom view is applicable across entity views for a specific advertiser and therefore can't include property columns (such as entity name or status), which vary by entity type.
 
-Default views are displayed by default each time you log in. You can create additional custom views and apply them anytime. You optionally can share any custom view you create with all other users who can view the advertiser's data. In your view lists, each view that another person is sharing is italicized, such as "*Top-performing Campaigns*." Only the person who creates a custom view can delete it.
+Default views are displayed by default each time you sign in. You can create additional custom views and apply them anytime. You optionally can share any custom view you create with all other users who can view the advertiser's data. In your view lists, each view that another person is sharing is italicized, such as "*Top-performing Campaigns*." Only the person who creates a custom view can delete it.
 
 Each view is available as a shortcut in the [!UICONTROL Custom Views] section of the left panel.
 

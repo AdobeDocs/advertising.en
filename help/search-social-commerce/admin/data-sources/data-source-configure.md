@@ -33,7 +33,7 @@ To integrate metrics for multiple properties or for multiple views for a single 
 
          >[!TIP]
          >
-         >To make sure that only specific [!DNL Google Analytics] properties and views are available within Adobe Advertising, log in using an email address that has access to only those properties and views.
+         >To make sure that only specific [!DNL Google Analytics] properties and views are available within Adobe Advertising, sign in using an email address that has access to only those properties and views.
 
          >[!NOTE]
          >

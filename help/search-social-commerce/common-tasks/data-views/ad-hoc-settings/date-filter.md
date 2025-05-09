@@ -8,7 +8,7 @@ feature: Search Common Tasks, Search Custom Data Views
 
 The same global date range filter is applied to most of your campaign data views, across all of your advertisers, except for default and custom views for which you've saved specific date ranges. The system default date range for campaign management views is "Yesterday."
 
-Your date range settings are saved to a browser-specific cookie, so any changes to the date range filter are used for all of your advertisers each time you log in using the same browser application until you change the filter or delete the cookie. Each browser application you use stores date range filter settings in a different cookie.
+Your date range settings are saved to a browser-specific cookie, so any changes to the date range filter are used for all of your advertisers each time you sign in using the same browser application until you change the filter or delete the cookie. Each browser application you use stores date range filter settings in a different cookie.
 
 When you save a specific date range for a default view or custom view, that range is applied whenever you apply the view, regardless of the browser application you are using. 
 

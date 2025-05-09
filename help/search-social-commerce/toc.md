@@ -23,9 +23,9 @@ index: yes
 + Getting started {#getting-started}
   + [Implementation overview](/help/search-social-commerce/getting-started/implemention-overview.md)
   + [System requirements](/help/search-social-commerce/getting-started/system-requirements.md)
-  + [Log in](/help/search-social-commerce/getting-started/log-in.md)
+  + [Sign in](/help/search-social-commerce/getting-started/sign-in.md)
   + [How the user interface is organized](/help/search-social-commerce/getting-started/user-interface.md)
-  + [Log out](/help/search-social-commerce/getting-started/log-out.md)
+  + [Sign out](/help/search-social-commerce/getting-started/sign-out.md)
 + Common tasks {#common-tasks}
   + [View data for another advertiser](/help/search-social-commerce/common-tasks/change-advertiser.md)
   + [Edit settings directly within a row](/help/search-social-commerce/common-tasks/settings-edit-within-row.md)

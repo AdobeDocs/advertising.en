@@ -30,7 +30,7 @@ Your current DSP credentials will remain active until 26 June 2025 so that you c
 
 1. Enter your credentials:
 
-   * If you already use an [!DNL Adobe] account, then log in with your existing credentials.
+   * If you already use an [!DNL Adobe] account, then sign in with your existing credentials.
 
    * If you don't have an [!DNL Adobe] account, then look for an email inviting you to create an [!DNL Adobe] account. You'll receive one invitation for each of your DSP accounts. Follow the link in the email to set up your credentials. If you have multiple DSP accounts, follow the instructions to link them.
 

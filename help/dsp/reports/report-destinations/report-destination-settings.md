@@ -30,9 +30,9 @@ The details required for non-email report destinations vary by destination type.
 
 **[!UICONTROL Port]:** The port number to use on the server. The default is *[!UICONTROL 21]*.
 
-**[!UICONTROL Username]:** The user name to log in to the server.
+**[!UICONTROL Username]:** The user name to sign in to the server.
 
-**[!UICONTROL Password]:** The password to log in to the server.
+**[!UICONTROL Password]:** The password to sign in to the server.
 
 **[!UICONTROL Path (Optional)]:** The server path to which the files are uploaded.
 
@@ -44,9 +44,9 @@ The details required for non-email report destinations vary by destination type.
 
 **[!UICONTROL Port]:** The port number to use on the server. The default is *[!UICONTROL 21]*.
 
-**[!UICONTROL Username]:** The user name to log in to the server.
+**[!UICONTROL Username]:** The user name to sign in to the server.
 
-**[!UICONTROL Password]:** The password to log in to the server.
+**[!UICONTROL Password]:** The password to sign in to the server.
 
 **[!UICONTROL Path (Optional)]:** The server path to which the files are uploaded.
 
@@ -58,9 +58,9 @@ The details required for non-email report destinations vary by destination type.
 
 **[!UICONTROL Port]:** The port number to use on the server. The default is *[!UICONTROL 21]*.
 
-**[!UICONTROL Username]:** The user name to log in to the server.
+**[!UICONTROL Username]:** The user name to sign in to the server.
 
-**[!UICONTROL Password]:** The password to log in to the server.
+**[!UICONTROL Password]:** The password to sign in to the server.
 
 **[!UICONTROL Path (Optional)]:** The server path to which the files are uploaded.
 

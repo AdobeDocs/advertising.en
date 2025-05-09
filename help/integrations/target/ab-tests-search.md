@@ -38,7 +38,7 @@ See the following sections for the prerequisites, instructions to set up A/B tes
 
 The following instructions highlight information pertaining to the Search, Social, & Commerce use case.
 
-1. [Log in to Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
+1. [Sign in to Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
 1. [Create an A/B test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html):
 

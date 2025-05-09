@@ -24,12 +24,12 @@ You can sign in to Search, Social, & Commerce directly or from within Adobe Expe
 
 1. [Sign in to Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html#signin).
 
-1. In the top menu, select ![solution selector](/help/search-social-commerce/assets/menu-icon.png "solution selector").
+1. In the top menu, select ![Solution selector](/help/search-social-commerce/assets/menu-icon.png "Solution selector").
 
 1. In the submenu, select **[!UICONTROL Advertising Cloud]**.
 
 >[!MORELIKETHIS]
 >
->* [Sign out](log-out.md)
+>* [Sign out](sign-out.md)
 >* [Change your password](/help/search-social-commerce/tools/password-change.md)
 >* [How the user interface is organized](user-interface.md)

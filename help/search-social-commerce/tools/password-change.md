@@ -6,7 +6,7 @@ feature: Search Tools
 ---
 # Change your password
 
-Changing your password logs you out of the current session. To continue working, you must log in with the new password.
+Changing your password logs you out of the current session. To continue working, you must sign in with the new password.
 
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Change Password]**.
 
@@ -22,5 +22,5 @@ Changing your password logs you out of the current session. To continue working,
 
 >[!MORELIKETHIS]
 >
->* [Log in](/help/search-social-commerce/getting-started/log-in.md)
->* [Log out](/help/search-social-commerce/getting-started/log-out.md)
+>* [Sign in](/help/search-social-commerce/getting-started/sign-in.md)
+>* [Sign out](/help/search-social-commerce/getting-started/sign-out.md)
