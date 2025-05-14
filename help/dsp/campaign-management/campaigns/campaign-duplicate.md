@@ -55,7 +55,7 @@ All settings from the original placements are duplicated except:
 
 * Pause the new campaign until you're ready to activate it.
 
-* Consider the following, and edit the new campaign settings as needed:
+* Consider the following, and edit the new campaign as needed:
 
   * Does the account have enough funding to accommodate the new campaign budget?
 

@@ -72,7 +72,7 @@ All settings from the original placements are duplicated except:
 
 * Pause the new placements until you're ready to activate them.
 
-* Consider the following, and edit the new placement settings as needed:
+* Consider the following, and edit the new placements as needed:
 
   * Does the account have enough funding to accommodate the new placement budgets?
 
