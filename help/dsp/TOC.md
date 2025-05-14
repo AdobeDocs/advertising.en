@@ -59,7 +59,7 @@ index: yes
     + [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
     + [Review and Edit Placement Settings Using Bulksheets](/help/dsp/campaign-management/placements/placement-qa.md)
     + [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
-    + [Duplicate a Placement](/help/dsp/campaign-management/placements/placement-duplicate.md)
+    + [Duplicate Placements](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Manage Bid Multipliers for Placements](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md)
     + [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
     + [Edit the Ad Schedules for Placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
