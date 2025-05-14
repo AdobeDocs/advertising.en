@@ -37,6 +37,7 @@ See "[What's Not Duplicated](#campaign-not-duplicated)" for a list of placement 
 All settings from the original placements are duplicated except:
 
 * Experiment settings
+* Placement-level minimum budgets
 * (If you change the flight dates) Custom ad scheduling
 * (If you don't attach ads) Custom ad weighting and scheduling
 * Default placements for programmatic guaranteed (PG) deals and placements for [!UICONTROL Simple Ad Serving] deals
@@ -60,6 +61,8 @@ All settings from the original placements are duplicated except:
   * Does the account have enough funding to accommodate the new campaign budget?
 
   * Does the new campaign need a different budget than the previous campaign?
+  
+  * Are minimum budgets necessary for any of the placements?
 
   * Upload creatives, including any necessary custom ad weighting and scheduling, and attach them to the placements. 
 
