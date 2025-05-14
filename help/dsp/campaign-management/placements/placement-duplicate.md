@@ -68,7 +68,7 @@ All settings from the original placements are duplicated except:
 >[!TIP]
 >
 >* Use bulksheets to [make changes to multiple campaign components at once](/help/dsp/campaign-management/campaign-components-review-edit.md).
-* Use ad tag sheets to [upload multiple third-party ads](/help/dsp/campaign-management/ads/ad-create-multiple.md). 
+>* Use ad tag sheets to [upload multiple third-party ads](/help/dsp/campaign-management/ads/ad-create-multiple.md). 
 
 * Pause the new placements until you're ready to activate them.
 
