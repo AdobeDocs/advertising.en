@@ -152,7 +152,7 @@ Detaching a creative from the bundle doesn't delete the creative from the Creati
    
      To select all rows, select the global check box in the upper left.
 
-## Preview a creative in a bundle
+## Preview a single creative in a bundle
 
 You can preview a creative as viewers will see it, including hyperlinks.
 
@@ -180,6 +180,31 @@ You can preview a creative as viewers will see it, including hyperlinks.
 
    The file is downloaded according to your browser's normal procedure.
 
+## Preview all creatives in a bundle
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click the library name.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Select the bundle:
+
+   * In card view, click **[!UICONTROL ...]** next to the bundle name, and then click **[!UICONTROL Preview]**.
+   
+   * In table view, hold the cursor over the row and click **[!UICONTROL Preview]**.
+
+1. (Optional) To filter the creatives by language, select an option in the **[!UICONTROL Language]** list, and then click **[!UICONTROL Preview]** in the upper right of the preview.
+
+1. (Optional) To filter the creatives by size, select an option in the **[!UICONTROL Size]** list, and then click **[!UICONTROL Preview]** in the upper right of the preview.
+
+1. (Optional) To resize the images within the screen, select an option in the **[!UICONTROL Zoom]** list, from 10% to 100% of the image size.
+
+1. (Optional) To share a demo URL so that other people without a login to [!DNL Creative] can preview the creatives:
+
+   1. Click ![Share](/help/creative/assets/share.png "Share") in the upper right of the preview.
+   
+   1. In the [!UICONTROL Share Demo URL] dialog, click **[!UICONTROL Copy]** to copy the URL to your clipboard so that you can share it with someone else.
 
 <!-- Not there as of 1/22/25:
 
@@ -247,6 +272,7 @@ You can delete bundles that aren't assigned to a [live](/help/creative/experienc
 >[!MORELIKETHIS]
 >
 >* [Assign and unassign creative bundles to a final node in an experience](/help/creative/experiences/experience-assign-creative-bundles.md)
+>* [Preview a creative](/help/creative/creative-libraries/creative-preview.md)
 >* [Add standard creatives to a creative library](/help/creative/creative-libraries/creative-add-standard.md)
 >* [Manage creative libraries](/help/creative/creative-libraries/creative-library-manage.md)
 >* [About your creative libraries](/help/creative/creative-libraries/creative-libraries-about.md)
