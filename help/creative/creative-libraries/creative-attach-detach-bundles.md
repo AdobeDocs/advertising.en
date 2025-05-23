@@ -4,7 +4,7 @@ description: Learn how to attach a creative to a creative bundle.
 feature: Creative Standard Creatives, Creative Dynamic Creatives, Creative Bundles
 exl-id: 833c4102-8577-4ba1-be07-7e032cec94ca
 ---
-# Attach<!-- and detach --> creatives to creative bundles
+# Attach creatives to creative bundles
 
 *Closed beta*
 
@@ -20,7 +20,7 @@ You can also detach a creative from a bundle to remove the association between t
 >
 >You can<!-- also --> [attach creatives to bundles and detach creatives from bundles from the Bundles view](/help/creative/creative-libraries/bundle-manage.md).
 
-<!-- Hide header until second procedure is available:
+<!-- Hide header until second procedure is available (if we add that):
 
 ## Attach creatives to creative bundles
 
@@ -39,6 +39,8 @@ You can also detach a creative from a bundle to remove the association between t
    * In table view, hold the cursor over the row and click **[!UICONTROL Attach to Bundles]**.
 
    Each bundle that's eligible for the creative type is listed in the right frame. Bundles to which the creative is already attached are listed but not selectable.
+
+1. (Optional) Switch between the default table view and a card view of the available bundles by clicking ![Card view](/help/creative/assets/card-view-button.png "Card view") to open the card view or ![Table/list view](/help/creative/assets/table-view-button.png "Table view") to return to the table view.
 
 1. In the right frame, select the check box next to each bundle to which to attach the creative, and then click **[!UICONTROL Attach Creative to Bundle]**.
 
