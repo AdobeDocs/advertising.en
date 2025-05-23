@@ -16,16 +16,13 @@ Add creatives to your [creative libraries](creative-library-manage.md) to use wi
 
 ## Add flexible HTML ads to a creative library {#flexible-creative-add}
 
-<!-- Later:
 You can do either of the following: 
 
 * Upload your own flexible creatives in ZIP files.
 
-* Use any of the predefined flexible creative templates as a starting point for your own flexible creative.
+* Use any of the predefined flexible creative templates uploaded to your account as a starting point for your own flexible creative.
 
 ### Upload your own flexible creatives {#flexible-creative-upload}
-
--->
 
 You can upload multiple flexible creative units. Flexible creatives must be in ZIP format and can be up to 2 MB. For file requirements, see the [HTML5 creative specification](html5-creative-specification.md).
 
@@ -59,13 +56,15 @@ You can upload multiple flexible creative units. Flexible creatives must be in Z
 
 1. Click **[!UICONTROL Create]**
 
-<!-- In a later phase:
-
 ### Add flexible creatives using a template {#flexible-creative-use-template}
 
-You can use any of the [predefined flexible creative templates](flexible-html5-templates.md) included with [!DNL Creative] to build 160x600, 300x250, 300x600, or 728x90 ads. Once you select a template to use, you'll edit the click tags and attributes.<!-- Replace last sentence with this if we add the template download feature back:  You can either a\) select a template to use, and then edit the click tags and attributes; or b\) [download a template as a ZIP file](#download-flexible-creative-template), edit the contents offline to build your own creative, and then [upload the edited file as a new creative](flexible-creative-upload).>
+You can use any of the flexible creative templates uploaded to your account to build ads of a predefine size. Once you select a template to use, you'll edit the click tags and attributes.<!-- Replace last sentence with this if we add the template download feature back:  You can either a\) select a template to use, and then edit the click tags and attributes; or b\) [download a template as a ZIP file](#download-flexible-creative-template), edit the contents offline to build your own creative, and then [upload the edited file as a new creative](flexible-creative-upload).>
+
+<!-- Not currently an option:
+You can use any of the [predefined flexible creative templates](flexible-html5-templates.md) included with [!DNL Creative] to build 160x600, 300x250, 300x600, or 728x90 ads.
 
 For information about the attributes available in predefined templates, see "[Available flexible creative templates](#flexible-creative-templates-available)."
+-->
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
@@ -77,24 +76,28 @@ For information about the attributes available in predefined templates, see "[Av
 
 1. Click **[!UICONTROL Browse System Flexible Templates]**.
 
-
-
-[The following are old instructions; see how this works in the new UI]
-
+<!-- Not options as of 5/22/25:
 
 1. In the left panel, select the creative size to see all available templates for that size.
 
-1. Under the template name, click **[!UICONTROL Use This Creative]**.
+1. Select the template:
 
-1. Edit the [flexible HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5) to include your own click tags, images, and other attributes.
-
-   The maximum file size of the creative, once it's zipped, is 2 MB.[Will saving the creative zip it??]
-
-1. (Optional) Once you've made your changes, click []()[add image] to preview the new creative. 
-
-1. Click **[!UICONTROL Save]**.
-
+   * In card view, click **[!UICONTROL ...]** next to the template name, and then click **[!UICONTROL Use Selected]**.
+     
+   * In table view, hold the cursor over the row and click **[!UICONTROL Use Selected]**.
 -->
+
+1. (Optional) To preview the template, click **[!UICONTROL ...]** next to the template name, and then click **[!UICONTROL Preview]**.
+
+   You can optionally download the template
+
+1. Next to the template name, click **[!UICONTROL ...]** and then **[!UICONTROL Use Selected]**.
+
+1. Edit the [flexible HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5) to specify the language and include your own click tags, images, and other attributes.
+
+   The maximum file size of the creative, once it's zipped, is 2 MB.<!-- Still true? -->
+
+1. Click **[!UICONTROL Create]**.
 
 ## Add an HTML5 creative to a creative library
 
