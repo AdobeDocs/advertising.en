@@ -74,7 +74,6 @@ You can preview the creatives with a specific ad size that target viewers will s
    
    1. In the [!UICONTROL Share Demo URL] dialog, click **[!UICONTROL Copy]** to copy the URL to your clipboard so that you can share it with someone else.
 
-
 ## Preview creatives in an experience without decision tree targeting
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
@@ -91,11 +90,15 @@ You can preview the creatives with a specific ad size that target viewers will s
 
    By default, creatives of all sizes are listed.
 
-1. Click the name of an ad tag to expand the row and preview the creative.
+1. Click the name of an ad tag to expand the row and preview the creatives.
+
+1. (Optional) To go the landing page for a creative, click the creative.
+
+   <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
 
 1. (Optional) To copy a demo URL of the experience to share with other people without a login to [!DNL Creative]:
 
-   1. In the upper right of the preview, click ![Share](/help/creative/assets/share.png "Share").
+   1. In the upper right of the preview, click ![Share](/help/creative/assets/share2.png "Share").
    
    1. In the [!UICONTROL Share Demo URL] dialog, click **[!UICONTROL Copy]** to copy the URL to your clipboard so that you can share it with someone else.
 

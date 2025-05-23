@@ -176,6 +176,10 @@ You can preview a creative as viewers will see it, including hyperlinks.
 
 <!-- Not there as of 1/22/24:  1. (Flexible HTML5 creatives; optional) To show all frames for the creative, select **Show frames**. -->
 
+1. (Optional) To open the landing page for the creative, click the creative.
+
+   <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
+
 1. (Optional) To download the creative, click ![Download](/help/creative/assets/download.png "Download").
 
    The file is downloaded according to your browser's normal procedure.
@@ -199,6 +203,10 @@ You can preview a creative as viewers will see it, including hyperlinks.
 1. (Optional) To filter the creatives by size, select an option in the **[!UICONTROL Size]** list, and then click **[!UICONTROL Preview]** in the upper right of the preview.
 
 1. (Optional) To resize the images within the screen, select an option in the **[!UICONTROL Zoom]** list, from 10% to 100% of the image size.
+
+1. (Optional) To open the landing page for a creative, click the creative.
+
+   <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
 
 1. (Optional) To share a demo URL so that other people without a login to [!DNL Creative] can preview the creatives:
 

@@ -25,6 +25,10 @@ You can preview a creative as viewers will see it, including hyperlinks.
 
 1. (Flexible HTML5 creatives; optional) To scroll between the frames for the creative, click **\<** and **\>**.
 
+1. (Optional) To open the landing page for the creative, click the creative.
+
+   <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
+
 1. (Optional) To download the creative, click ![Download](/help/creative/assets/download.png "Download").
 
    The file is downloaded according to your browser's normal procedure.
