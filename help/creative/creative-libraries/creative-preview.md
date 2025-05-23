@@ -23,7 +23,7 @@ You can preview a creative as viewers will see it, including hyperlinks.
 
 1. (Optional) To resize the image within the screen, select an option in the **[!UICONTROL Zoom]** list, from 10% to 100% of the image size.
 
-<!-- Not there as of 1/22/24:  1. (Flexible HTML5 creatives; optional) To show all frames for the creative, select **Show frames**. -->
+1. (Flexible HTML5 creatives; optional) To scroll between the frames for the creative, click **\<** and **\>**.
 
 1. (Optional) To download the creative, click ![Download](/help/creative/assets/download.png "Download").
 
