@@ -178,7 +178,7 @@ You can preview a creative as viewers will see it, including hyperlinks.
 
 1. (Optional) To open the landing page for the creative, click the creative.
 
-   <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
+<!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
 
 1. (Optional) To download the creative, click ![Download](/help/creative/assets/download.png "Download").
 
@@ -206,7 +206,7 @@ You can preview a creative as viewers will see it, including hyperlinks.
 
 1. (Optional) To open the landing page for a creative, click the creative.
 
-   <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
+<!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
 
 1. (Optional) To share a demo URL so that other people without a login to [!DNL Creative] can preview the creatives:
 
