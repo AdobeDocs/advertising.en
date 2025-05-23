@@ -42,9 +42,11 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
 1. In the [!UICONTROL Destinations] list, select where you'll create ads for the experience.
 
+   * *Generic:* For ads you'll create in other DSPs. **Note:** You may need to manually include [additional macros](/help/creative/creative-macros.md) as necessary.
+
    * *Adobe Advertising:* For ads you'll create in Advertising DSP.
 
-   * *Generic:* For ads you'll create in other DSPs. **Note:** You may need to manually include additional macros as necessary.
+   * *Google DCM:* For ads you'll create in [!DNL Google Campaign Manager 360]. **Note:** You may need to manually include [additional macros](/help/creative/creative-macros.md) as necessary.
 
 1. Click **[!UICONTROL Generate tags]**.
 
