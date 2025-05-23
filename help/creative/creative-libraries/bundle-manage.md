@@ -100,11 +100,9 @@ Changes to a bundle name are propagated across all associated experiences.
 
 You can attach [existing standard creatives](/help/creative/creative-libraries/creative-libraries-about.md) to a standard bundle and attach existing dynamic creatives<!-- [existing dynamic creatives](creative-dynamic-manage.md) --> to a dynamic bundle. Attaching a creative to a bundle makes the creative available in all experiences to which the bundle is assigned. Each bundle can include only one of each \[creative size + language\] combination.
 
-<!--
 >[!NOTE]
 >
 >You can also [attach creatives to bundles from the Standard Ads and Dynamic Ads views](creative-attach-detach-bundles.md).
--->
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
@@ -121,6 +119,8 @@ You can attach [existing standard creatives](/help/creative/creative-libraries/c
    * In table view, hold the cursor over the row and click **[!UICONTROL Attach Creatives]**.
 
    Each creative that's eligible for the bundle type is listed in the right frame. Creatives that are already attached to the bundle are listed but not selectable.
+
+1. (Optional) Switch between the default table view and a card view of the available bundles by clicking ![Card view](/help/creative/assets/card-view-button.png "Card view") to open the card view or ![Table/list view](/help/creative/assets/table-view-button.png "Table view") to return to the table view.
 
 1. In the right frame, select the check box next to each creative to attach to the bundle, and then click **[!UICONTROL Attach Creative to Bundle]**.
 
