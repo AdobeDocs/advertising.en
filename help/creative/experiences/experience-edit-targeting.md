@@ -18,9 +18,15 @@ exl-id: 8c5e8f9b-c405-41b2-98a9-da7c5debd3e1
    
    * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Edit]**.
 
-1. Edit the [general experience settings](experience-settings-targeting.md).
+   The decision tree opens by default.
+   
+1. (Optional) Switch between the decision tree and the general settings as needed:
 
-1. (Optional) To edit the decision tree, click **[!UICONTROL Decision Tree]** in the upper right, and then do any of the following:
+   * To open the general settings from the decision tree, click **[!UICONTROL Experience Form]** in the upper right.
+
+   * To open the decision tree from the general settings, click **[!UICONTROL Decision Tree]** in the upper right.
+
+1. (Optional) To edit the decision tree, do any of the following:
 
    * ([Processing](experience-about.md#experience-statuses) experiences) Do one of the following:
    
@@ -59,6 +65,8 @@ exl-id: 8c5e8f9b-c405-41b2-98a9-da7c5debd3e1
        * [Customize the tracking URLs for creatives in the assigned bundles](experience-tracking-urls-targeting.md).
        
        * [Customize creative optimization and scheduling](experience-optimization-scheduling-targeting.md) for the assigned bundles.
+
+1. (Optional) Edit the [general experience settings](experience-settings-targeting.md).
 
 1. Click **[!UICONTROL Save]**, and then do the following.
 
