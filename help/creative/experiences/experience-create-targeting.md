@@ -48,6 +48,12 @@ exl-id: 825fd9af-ca7a-4b44-8e4b-1a6f34edac9e
 
         * [Customize creative optimization and scheduling](experience-optimization-scheduling-targeting.md) for the assigned bundles.
 
+1. (Optional) Switch between the decision tree and the general settings:
+
+   * To open the general settings from the decision tree, click **[!UICONTROL Experience Form]** in the upper right.
+
+   * To open the decision tree from the general settings, click **[!UICONTROL Decision Tree]** in the upper right.
+
 1. Click **[!UICONTROL Save]**, and then do the following.
 
    * (If each node at the bottom-most level includes at least one creative bundle) Click **[!UICONTROL OK]**.
