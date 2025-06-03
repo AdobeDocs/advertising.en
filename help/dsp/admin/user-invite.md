@@ -6,6 +6,8 @@ exl-id: 5aba8db8-a27b-44a0-88f3-ea49311f4d76
 ---
 # Invite a New User for Your Organization Account
 
+*Administrator users only*
+
 Administrator users can invite a new user for the account. Once the user accepts the invitation, they have access to all advertisers for the account. New users have read-only access by default.
 
 The invitation link expires in 24 hours. If the link expires, you can resend the invitation.
