@@ -28,7 +28,7 @@ You can disable push notifications according to the browser's standard procedure
 
 3. In the confirmation message, click **[!UICONTROL Enable]**.
 
-4. Configure the browser to allow notifications from [!UICONTROL Notification Center] at`https://alert-center-ui-na.efrontier.com`.
+4. Configure the browser to allow notifications from [!UICONTROL Notification Center] at `https://alert-center-ui-na.efrontier.com`.
 
    Default notification settings vary by browser, and you may either a) be automatically presented with the option to allow notifications from [!UICONTROL Notification Center] or b) need to manually manage the notification settings. For example, in [!DNL Microsoft Edge], you can allow notifications from [!UICONTROL Notification Center] from the browser toolbar. See instructions in the browser's help.
    
