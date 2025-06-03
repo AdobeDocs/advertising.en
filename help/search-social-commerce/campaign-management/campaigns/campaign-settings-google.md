@@ -364,7 +364,7 @@ To create a custom conversion goal, click **[!UICONTROL + Add custom goal]**, en
 
 >[!TIP]
 >
->If the campaign is part of a hybrid portfolio, the best practice is to use campaign-level goals that match the conversion goals in the portfolio's objective; including additional conversion goals may impact portfolio performance.
+>If the campaign is part of a hybrid portfolio, then the best practice is to use campaign-level goals that match the conversion goals in the portfolio's objective; including additional conversion goals may impact portfolio performance.
 >
 >However, for campaigns in hybrid portfolios for which you [upload objectives to the ad network](/help/search-social-commerce/tools/objective-upload-to-networks.md), do the following within the ad network's editor instead of here: a) add the uploaded Search, Social, & Commerce portfolio objective metric (which begins with "O_ACS_OBJ") as a conversion action for the campaign, and b) add any campaign goals that include [!DNL Google]-tracked conversions because ad network-tracked metrics aren't uploaded to the ad network with the objective.
 
