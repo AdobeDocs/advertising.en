@@ -64,7 +64,7 @@ You can delete libraries with creatives and bundles that aren't assigned to a [l
    
      To select all rows, select the global check box in the upper left.
 
-1. In the confirmation message, click **[!UICONTROL Delete].** <!--Verify wording -->
+1. In the confirmation message, click **[!UICONTROL Delete].**
 
 >[!MORELIKETHIS]
 >
