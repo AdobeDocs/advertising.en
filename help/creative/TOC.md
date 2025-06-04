@@ -69,5 +69,5 @@ hide: yes
   + [Custom Creative Report](/help/creative/report-custom-creative.md)
 + [Retargeting pixels](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Available macros for tracking URLs](/help/creative/creative-macros.md)
-+ [Customer support](https://experienceleague.adobe.com/home?support-tab=home#support){target="_blank"}
++ [Get help](/help/creative/get-help.md)
 + [Adobe Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html){target="_blank"}
