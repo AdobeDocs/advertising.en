@@ -2,6 +2,7 @@
 title: Get Help
 description: Learn how to view online help and community resources and how to get technical support.
 feature: DSP Introduction
+exl-id: 2e0226ea-bcd3-4a38-8907-d2e078c758d0
 ---
 # Get Help
 
