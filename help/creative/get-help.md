@@ -9,7 +9,7 @@ You can open online help from any page within the user interface. If the online 
 
 ## Open online help
 
-To open a full help set explaining how to use all features, click **[!UICONTROL Help]** in the main menu, and open the "[DNL Creative]" chapter. 
+To open a full help set explaining how to use all features, click **[!UICONTROL Help]** in the main menu, and open the "[!DNL Creative]" chapter. 
 
 <!--
 ## Ask the Adobe Advertising community
