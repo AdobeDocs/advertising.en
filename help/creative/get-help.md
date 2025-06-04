@@ -5,6 +5,8 @@ feature: Creative Introduction
 ---
 # Get help
 
+<!-- Can remove this page when we move this into DSP help -->
+
 You can open online help from any page within the user interface. If the online help doesn't answer your questions, contact us.
 
 ## Open online help
