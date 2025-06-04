@@ -27,7 +27,7 @@ When you add a target node to the bottom-most level in the experience &mdash; wh
      
      1. (Optional) To create multiple target nodes when multiple audiences are specified, select **[!UICONTROL Split targets to create nodes]**.
 
-        This feature creates a separate target node (with separate creative bundles) for each specified audience. If you don't split the targets, then the user must belong to all specified audiences.
+        This feature creates a separate target node (with separate creative bundles) for each specified audience. If you don't split the targets, then the user can belong to any of the specified audiences (a [!DNL Boolean] `OR` statement). **Note:** Unsplit *location* targets use (a [!DNL Boolean] `AND` statement) instead.
 
      1. Click **[!UICONTROL Apply]**.
 
@@ -39,7 +39,7 @@ When you add a target node to the bottom-most level in the experience &mdash; wh
      
      1. (Optional) To create multiple target nodes when multiple geographical targets are specified, select **[!UICONTROL Split targets to create nodes]**.
 
-        This feature creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all specified locations.
+        This feature creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all of the specified locations (a [!DNL Boolean] `AND` statement). **Note:** Unsplit *audience* targets use (a [!DNL Boolean] `OR` statement) instead.
 
      1. Click **[!UICONTROL Apply]**.
 
@@ -57,7 +57,7 @@ When you add a target node to the bottom-most level in the experience &mdash; wh
      
      1. (Optional) To create multiple target nodes when multiple geographical targets are specified, select **[!UICONTROL Split targets to create nodes]**.
 
-        This feature creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all specified locations.
+        This feature creates a separate target node (with separate creative bundles) for each specified geographical target. If you don't split the targets, then the user must belong to all of the specified locations (a [!DNL Boolean] `AND` statement). **Note:** Unsplit *audience* targets use (a [!DNL Boolean] `OR` statement) instead.
 
      1. Click **[!UICONTROL Apply]**.
 
