@@ -30,7 +30,7 @@ In an existing experience,
      
      1. (Optional) To create multiple target nodes when multiple audiences are specified, select **[!UICONTROL Split targets to create nodes]**.
 
-        This feature creates a separate target node (with separate creative bundles) for each specified audience. If you don't split the targets, then the user must belong to all of the specified audiences (a [!DNL Boolean] `AND` statement).
+        This feature creates a separate target node (with separate creative bundles) for each specified audience. If you don't split the targets, then the user must belong to all specified audiences (a [!DNL Boolean] `AND` statement).
 
      1. Click **[!UICONTROL Apply]**.
 
