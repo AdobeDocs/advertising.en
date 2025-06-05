@@ -2,6 +2,7 @@
 title: Get help
 description: Learn how to view online help and community resources and how to get technical support.
 feature: Creative Introduction
+exl-id: 88059f73-6da3-4deb-b4ef-fa8e8eaec569
 ---
 # Get help
 
