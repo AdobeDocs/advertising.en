@@ -104,6 +104,8 @@ You can attach [existing standard creatives](/help/creative/creative-libraries/c
 >
 >You can also [attach creatives to bundles from the Standard Ads and Dynamic Ads views](creative-attach-detach-bundles.md).
 
+### Attach creatives to a bundle from the Bundles list
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
@@ -123,6 +125,24 @@ You can attach [existing standard creatives](/help/creative/creative-libraries/c
 1. (Optional) Switch between the default table view and a card view of the available bundles by clicking ![Card view](/help/creative/assets/card-view-button.png "Card view") to open the card view or ![Table/list view](/help/creative/assets/table-view-button.png "Table view") to return to the table view.
 
 1. In the right frame, select the check box next to each creative to attach to the bundle, and then click **[!UICONTROL Attach Creative to Bundle]**.
+
+### Attach creatives to a bundle from the bundle's creative list 
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Click the library name.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Click the bundle card or row to view all creatives in the bundle.
+
+1. In the upper right, click **[!UICONTROL Attach Creatives]**.
+
+1. In the right panel, select the check box for each creative you want to attach.
+   
+1. Click **[!UICONTROL Attach Creatives to Bundle]**.
 
 ## Detach creatives from a bundle {#bundle-detach-creatives}
 
