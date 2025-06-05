@@ -2,6 +2,7 @@
 title: Configure [!DNL Creative] to access Adobe Experience Manager image assets
 description: Learn how to configure access to Experience Manager assets in [!DNL Creative].
 feature: Creative Libraries
+exl-id: dbf9a49b-c65e-42f7-8ca4-0dad62d8b03a
 ---
 # Configure [!DNL Creative] to access Adobe Experience Manager image assets
 
