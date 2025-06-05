@@ -7,7 +7,7 @@ feature: Creative Libraries
 
 *Closed beta*
 
-<!-- Is this relevant only to standard creatives? If so, then move into Standard Creatives chapter from where it is now -->
+<!-- Is this relevant only to standard creatives? If so, then move into Standard Creatives chapter instead of at the top, where it is now -->
 
 Before you can upload your existing Experience Manager image assets to your [!UICONTROL Creative Libraries], the advertiser account settings for your associated DSP account must specify the organization ID for the Experience Manager account. Contact your Adobe Account Team to configure this setting.
 
