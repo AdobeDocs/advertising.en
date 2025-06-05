@@ -46,9 +46,9 @@ In an existing experience,
 
      1. Click **[!UICONTROL Apply]**.
 
-   * For data pass targets, enter a single data pass value, and then click **[!UICONTROL Apply]**.
+   * For data pass targets, optionally customize the data pass key, enter a single data pass value, and then click **[!UICONTROL Apply]**.
    
-    The key for the key-value pair is already set in the **[!UICONTROL Data Pass]** field in the [!UICONTROL Advanced] section of the [experience settings](experience-settings-targeting.md), and you can't add additional keys.
+     A default value for the key in the key-value pair is already set in the **[!UICONTROL Data Pass]** field in the [!UICONTROL Advanced] section of the [experience settings](experience-settings-targeting.md). You can optionally can customize the key.
 
    * For retargeting pixel targets, select the retargeting pixel to use and the required values for any of the pixel's attributes that must be present to show the creatives. Then click **[!UICONTROL Apply]**.
    

@@ -43,6 +43,7 @@ exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
 | [!DNL Medialets] | | X | | | |
 | [!DNL Minute Media] | | X | | | Desktop Skin (970x250) |
 | [!DNL Moat] | X | X | | X | |
+| [!DNL Nova] | | X | | | |
 | [!DNL PLAYGROUND XYZ] | | | X | | |
 | [!DNL Pubmatic] | | | | X | VAST Only |
 | [!DNL RevJet] | | | | X | VAST Only |

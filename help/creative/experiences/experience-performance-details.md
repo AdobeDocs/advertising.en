@@ -152,9 +152,11 @@ The Report view includes the following data:
    
    * (Experiences with decision tree targeting only; optional) To break out the performance for each applied ad target, enable **[!UICONTROL Split targeting]**.
 
-1. (Optional) To download the data in a [!DNL Microsoft Excel] file in spreadsheet (XLSX) format, click ![Download](/help/creative/assets/download.png "Download") in the toolbar.
+## Download performance reports for an experience
 
-   The file is downloaded according to your browser's normal procedure.
+* In the toolbar at the top of the performance reports, click ![Download](/help/creative/assets/download.png "Download").
+
+  The file is downloaded in a [!DNL Microsoft Excel] file in spreadsheet (XLSX) format, according to your browser's normal procedure.
 
 >[!MORELIKETHIS]
 >

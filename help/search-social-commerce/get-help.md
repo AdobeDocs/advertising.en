@@ -1,6 +1,7 @@
 ---
 title: Get help
 description: Learn how to view online help and community resources and how to get technical support.
+feature: Search Introduction
 exl-id: d5b5b691-bb73-4acf-afcd-d66e444c1f6c
 ---
 # Get help
@@ -19,9 +20,11 @@ You can open online help from any page within the user interface. If the online 
 
   * ![Help](/help/search-social-commerce/assets/help-main-menu.png "Help") > **Search, Social, & Commerce Optimization Guide**.
 
+<!--
 ## Ask the Adobe Advertising community
 
 Look for answers to your questions in the [Adobe Advertising community forums](https://experienceleaguecommunities.adobe.com/t5/adobe-advertising/ct-p/adobe-advertising-cloud-community).
+-->
 
 ## Contact [!DNL Adobe]
 

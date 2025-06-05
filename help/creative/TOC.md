@@ -18,6 +18,7 @@ hide: yes
   + [Supported creative sizes](/help/creative/creative-libraries/creative-sizes.md)
   + [Manage creative libraries](/help/creative/creative-libraries/creative-library-manage.md)
   + Creatives {#creatives}
+    + [Configure [!DNL Creative] to access Adobe Experience Manager image assets](/help/creative/creative-libraries/aem-assets-configure.md)
     + Standard creatives {#standard-creatives}
       + [Add standard creatives to a creative library](/help/creative/creative-libraries/creative-add-standard.md)
       + [Edit standard creatives](/help/creative/creative-libraries/creative-edit-standard.md)
@@ -69,5 +70,5 @@ hide: yes
   + [Custom Creative Report](/help/creative/report-custom-creative.md)
 + [Retargeting pixels](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Available macros for tracking URLs](/help/creative/creative-macros.md)
-+ [Customer support](https://experienceleague.adobe.com/home?support-tab=home#support){target="_blank"}
++ [Get help](/help/creative/get-help.md)
 + [Adobe Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html){target="_blank"}

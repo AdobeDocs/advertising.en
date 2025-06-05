@@ -43,9 +43,9 @@ When you add a target node to the bottom-most level in the experience &mdash; wh
 
      1. Click **[!UICONTROL Apply]**.
 
-   * For a data pass target, select **[!UICONTROL Data Pass]**, enter a single data pass value, and then click **[!UICONTROL Apply]**.
+   * For a data pass target, select **[!UICONTROL Data Pass]**, optionally customize the data pass key, enter a single data pass value, and then click **[!UICONTROL Apply]**.
    
-    The key for the key-value pair is already set in the **[!UICONTROL Data Pass]** field in the [!UICONTROL Advanced] section of the [experience settings](experience-settings-targeting.md).
+    A default value for the key in the key-value pair is already set in the **[!UICONTROL Data Pass]** field in the [!UICONTROL Advanced] section of the [experience settings](experience-settings-targeting.md). You can optionally can customize the key.
 
    * For a retargeting pixel target, select **[!UICONTROL RT Pixel]**, select a single retargeting pixel to use and the values for any of the pixel's attributes that are required to show the creatives, and then click **[!UICONTROL Apply]**.
    
