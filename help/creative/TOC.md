@@ -18,7 +18,7 @@ hide: yes
   + [Supported creative sizes](/help/creative/creative-libraries/creative-sizes.md)
   + [Manage creative libraries](/help/creative/creative-libraries/creative-library-manage.md)
   + Creatives {#creatives}
-    + [Configure [!DNL Creative] to access Adobe Experience Manager image assets](/help/creative/creative-libraries/aem-assets-configure.md)
+    + [Configure access to Adobe Experience Manager image assets](/help/creative/creative-libraries/aem-assets-configure.md)
     + Standard creatives {#standard-creatives}
       + [Add standard creatives to a creative library](/help/creative/creative-libraries/creative-add-standard.md)
       + [Edit standard creatives](/help/creative/creative-libraries/creative-edit-standard.md)
