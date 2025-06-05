@@ -44,10 +44,9 @@ Once you save the experience, you can't change this setting.
 
 ## [!UICONTROL Advanced] section
 
-**Data Pass:** (Read-only for existing experiences; optional) To target users based on specific key-value pairs that the DSP, publisher, or partner passes in real time on impression. You can specify up to five data pass keys (parameters). When you set up targeting within the decision tree, you can include one level of data pass target nodes and specify the values to target for each node. If you don't specify a key in this field when you create the experience, you can still specify one within the decision tree.<!-- May move this to just within the decision tree.  -->
+**Data Pass:** (Read-only for existing experiences; optional) To target users based on specific key-value pairs that the DSP, publisher, or partner passes in real time on impression. You can specify up to five default data pass keys (parameters). When you set up targeting within the decision tree, you can include one level of data pass target nodes, optionally customize the keys, and specify the values to target for each node. If you don't specify any keys in this field when you create the experience, you can still specify them within the decision tree.
 
-Each key is appended as a macro in the ad experience
-tag, which you can generate to implement as an ad in your DSP.
+Each key is appended as a macro in the ad experience tag, which you can generate to implement as an ad in your DSP.
 
 **Radius:** (Experiences with dynamic ads only; optional) A radius from a United States zip code specified in the feed file to target; select a radius from 0 miles to 200 miles. The feed file used to create the dynamic ads for the experience must include a [!UICONTROL ZIP] column<!-- or a user-named column mapped to a ZIP column --> with a value for each product row in the file. For example, for a radius of 10 miles, an ad for a product available in 95110 can be displayed to users within 10 miles of 95110 (determined by the user's IP address).
 
