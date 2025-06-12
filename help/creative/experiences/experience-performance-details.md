@@ -16,7 +16,7 @@ The Report view includes the following data:
 
 * **Overview** tab: A performance overview across all conversion metrics for the entire experience, including:
 
-<!-- Currently, the only metric in the settings list at the top of this main tab is "Select All." And I don't see this as of 2/8:  You can optionally combine two metrics at a time into a single chart. -->
+  <!-- Currently, the only metric in the settings list at the top of this main tab is "Select All." And I don't see this as of 2/8:  You can optionally combine two metrics at a time into a single chart. -->
 
   * **Overall Performance** section:
   
