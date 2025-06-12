@@ -177,8 +177,6 @@ To apply one or more filters, do the following:
 
 ## Available Report Columns {#report-custom-creative-columns}
 
-<!-- Need to finish these definitions -->
-
 |Metric Type|Subtype|Column Name|Description|
 |-----------|-------|-----------|-----------|
 |[!UICONTROL Dimension]|[!UICONTROL Ad]|[!UICONTROL Ad Size]|The dimensions of the published ad.|
@@ -190,18 +188,14 @@ To apply one or more filters, do the following:
 |[!UICONTROL Dimension]|[!UICONTROL Creative]|[!UICONTROL Parent Creative ID]| The ID that [!UICONTROL Creative] assigned to the parent creative.|
 |[!UICONTROL Dimension]|[!UICONTROL Creative]|[!UICONTROL Parent Creative Name]| The name of the parent creative.|
 |[!UICONTROL Dimension]|[!UICONTROL Creative]|[!UICONTROL Parent Creative Type]| The type of parent creative (such as [!UICONTROL HTML5]).|
-|[!UICONTROL Dimension]|[!UICONTROL Click Events]|[!UICONTROL Ad Link]| .|
-|[!UICONTROL Dimension]|[!UICONTROL Click Events]|[!UICONTROL Click Type]| The click type.|
-|[!UICONTROL Dimension]|[!UICONTROL Click Events]|[!UICONTROL Direction]| |
+|[!UICONTROL Dimension]|[!UICONTROL Click Events]|[!UICONTROL Ad Link]| The landing page URL.|
+|[!UICONTROL Dimension]|[!UICONTROL Click Events]|[!UICONTROL Click Type]| The specific type of user interaction.|
+|[!UICONTROL Dimension]|[!UICONTROL Click Events]|[!UICONTROL Direction]| The directional flow or navigation path of the user's click interaction within the creative experience. |
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Device Browser]|The browser in which the ad was shown (such as [!UICONTROL Chrome] or [!UICONTROL Firefox]).|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Device OS]|The operating system on which the ad was shown (such as [!UICONTROL Windows]).|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Device Type]|The type of device on which the ad was shown (such as [!UICONTROL Desktop]).|
-|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Ad ID]| The ID of the ad.|
-|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Buy ID]| The buy ID for the ad placement.|
-|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Creative ID]| The ID of the creative.|
-|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP ID]| The ID of the DSP on which ads were run.|
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Name]| The name of the DSP on which ads were run. |
-|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Placement ID]| The ID of the placement for which ads were run.|
+|[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Placement ID]| The ID of the placement for which ads were run. |
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Placement Name]| The name of the placement for which ads were run. |
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Site ID]| The ID of the site on which ads were run.|
 |[!UICONTROL Dimension]|[!UICONTROL DSP]|[!UICONTROL DSP Site Name]| The name of the site on which ads were run. |
@@ -210,8 +204,8 @@ To apply one or more filters, do the following:
 |[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Date/Time]|The date and time of the event.|
 |[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Experience ID]| The ID that [!UICONTROL Creative] assigned to the experience.|
 |[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Experience Name]| The name of the experience.|
-|[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Targeting Branch Value]| The target.|
-|[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Trafficking Line]| |
+|[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Targeting Branch Value]| The specific path through the targeting decision tree that determined which creative experience variant was served to the user.|
+|[!UICONTROL Dimension]|[!UICONTROL Experiences]|[!UICONTROL Trafficking Line]| The name of the ad tag. |
 |[!UICONTROL Dimension]|[!UICONTROL Geo]|[!UICONTROL City]|The city to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geo]|[!UICONTROL Country Code]|The country code for the country to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geo]|[!UICONTROL DMA]|The Designated Market Area (DMA) to which the reported data is attributed.|
@@ -226,22 +220,22 @@ To apply one or more filters, do the following:
 |[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Creative Attribute 5]|(Dynamic ads) The fifth creative attribute.|
 |[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Product ID]|(Dynamic ads) The target product ID.|
 |[!UICONTROL Dimension]|[!UICONTROL Product]|[!UICONTROL Product Name]|(Dynamic ads) The target product name.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Matched Audience Segment ID]|The ID for the audience segment to which the reported data is attributed.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Pixel Segment ID]|The segment ID for an audience segment to which the reported data is attributed.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Pixel Segment Name]|The name of an audience segment to which the reported data is attributed.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Matched Audience Segment ID]|The IDs for up to five user segments that matched the ad theme.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Pixel Segment ID]|The ID for a retargeting pixel to which the reported data is attributed.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Pixel Segment Name]|The name of a retargeting pixel to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Values]|The attributes for an audience segment to which the reported data is attributed.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Clicks]|The sum of all clicks on an ad.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL CTR]|The click-through rate, which is the percentage of clicks divided by ad impressions.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Engagement Rate]|The percentage of impressions served that resulted in user engagements.|
 |[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Engagements]|The number of interactions on a served ad.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Impressions]|The total number of ad impressions.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Media Match Rate]| |
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Clicks]|The sum of all clicks on ads for a product.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Conversion]|The sum of all conversions on ads for a product.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Conversion Rate]|The percentage of ads for a product that resulted in conversions.|
-|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product CTR]|The click-through rate for ads for a product, which is the percentage of clicks divided by ad impressions.|
-|[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Impressions]|The total number of impressions for a product.|
-|[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Revenue]|The total revenue on served ads for a product.|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Media Match Rate]| The percentage of impressions with a retargeted cookie. |
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Clicks]|(Dynamic ads only) The sum of all clicks on ads for a product. When the product is null, this value is zero (0).|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Conversion]|(Dynamic ads only) The sum of all conversions on ads for a product. When the product is null, this value is zero (0).|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Conversion Rate]|(Dynamic ads only) The percentage of ads for a product that resulted in conversions. When the product is null, this value is zero (0).|
+|[!UICONTROL Metric]|[!UICONTROL Standard Metrics]|[!UICONTROL Product CTR]|(Dynamic ads only) The click-through rate for ads for a product, which is the percentage of clicks divided by ad impressions. When the product is null, this value is zero (0).|
+|[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Impressions]|(Dynamic ads only) The total number of impressions for a product. When the product is null, this value is zero (0).|
+|[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Product Revenue]|(Dynamic ads only) The total revenue on served ads for a product. When the product is null, this value is zero (0).|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Revenue]|The total revenue on served ads.|
 |[!UICONTROL Conversion Metrics]|[Grouped by advertiser in report settings]|[Advertiser-specific conversion]| The total for a specified advertiser-specific conversion metric or Adobe Analytics event.|
 |[!UICONTROL Custom Goals]|[Grouped by advertiser in report settings]|[Advertiser-specific custom goal]|(Advertisers with Advertising DSP) The weighted sum of all conversions that are included in the specified [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).|
