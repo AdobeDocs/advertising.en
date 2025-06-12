@@ -8,10 +8,6 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
 
 *Closed beta*
 
-<!-- Revisit Description metadata  -->
-
-<!-- MORE -->
-
 [!DNL Advertising Creative 2.0] provides two different ad experience structures for the ads in a creative library<!-- can use a single library only -->:
 
 * **Experiences with decision tree targeting:** [!DNL Creative] allows you to configure personalized ad experiences throughout the customer journey using a decision tree model. You can customize all ad elements &mdash; images, headlines, offers, and landing pages &mdash; based on the target audience.
@@ -30,9 +26,9 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
     
     * Specific device types, operating systems, and browsers
 
-  You can assign creative bundles to each experience. For each experience, you can customize optimization and scheduling for the creative bundles and change the default landing pages and tracking URLs<!-- and any flexible attributes --> for individual creatives in each bundle.
+  Once you create a target audience branch in the decision tree, you can pair the target audience with potential creatives by assigning creative bundles to the branch. For each experience, you can customize optimization and scheduling for the creative bundles and change the default landing pages and tracking URLs<!-- later: and any flexible attributes --> for individual creatives in each bundle.
 
-* **Experiences without decision tree targeting:** [!DNL Creative] optimizes the ad elements for the ad experience without narrowing the audience.<!-- For first-party creatives, [!DNL Creative] serves the ads. --> For each experience, you specify start and end dates and some default settings, but much of the workflow isn't directly within the experience. Instead of adding creatives directly to the experience, you use [!UICONTROL Tag Manager] to create an ad tag for each ad size for the experience and then add creatives to it, configure creative optimization and scheduling, and customize the landing pages and tracking URLs.
+* **Experiences without decision tree targeting:** [!DNL Creative] optimizes the ad elements for the ad experience without narrowing the audience. For each experience, you specify start and end dates and some default settings, but much of the workflow isn't directly within the experience. Instead of adding creatives directly to the experience, you use [!UICONTROL Tag Manager] to create an ad tag for each ad size for the experience and then add creatives to it, configure creative optimization and scheduling, and customize the landing pages and tracking URLs<!-- later: and any flexible attributes -->.
 
 ## Ad optimization
 
@@ -41,35 +37,34 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
 
 ## Implementing and managing experiences
 
-Once you created a live experience (with all required ad elements), you can [generate a JavaScript or iframe tag for the entire experience](experience-tag-export.md). You can upload the experience tag as an ad to a campaign in Adobe Advertising DSP or implement as an ad in a third-party DSP. [!DNL Creative] serves ads for the experience based on the targeting and ad rotation options as well as the available ad inventory.
+Once you create a live experience (with all required ad elements), you can [generate a JavaScript or iframe tag for the entire experience](experience-tag-export.md). You can upload the experience tag as an ad to a campaign in Adobe Advertising DSP or implement it as an ad in a third-party DSP. [!DNL Creative] serves first-party ads and triggers third-party ads for the experience based on the targeting and ad rotation options as well as the available ad inventory.
 
 ## Performance data for your experiences
 
-When you enable the [!UICONTROL Metrics] option in the [!UICONTROL Creative] > [!UICONTROL Experiences] view, each experience card or row indicates the number of impressions and clicks that the experience received.
+The following performance data is available:
 
-![Metrics option](/help/creative/assets/metrics-option.png "Metrics option")
+* When you enable the [!UICONTROL Metrics] option in the [!UICONTROL Creative] > [!UICONTROL Experiences] view, each experience card or row indicates the number of impressions and clicks that the experience received.
 
-<!-- insert screen shot of Metrics option?  If not, then add instructions elsewhere -->
+  ![Metrics option](/help/creative/assets/metrics-option.png "Metrics option")
 
-<!-- I don't see this as of 1/9; why only in the table view?   You can also add conversion columns in the table view. --> 
+  <!-- insert screen shot of Metrics option?  If not, then add instructions elsewhere -->
 
-You can [view detailed performance data for any experience](experience-performance-details.md) from the [!UICONTROL Experiences] view.
+  <!-- I don't see this as of 1/9; why only in the table view?   You can also add conversion columns in the table view. --> 
 
-To monitor performance across your experiences, create a [Custom Creative Report](/help/creative/report-custom-creative.md).
+* You can [view detailed performance data for any experience](experience-performance-details.md) from the [!UICONTROL Experiences] view.
+
+* To monitor performance across your experiences, create a [Custom Creative Report](/help/creative/report-custom-creative.md).
 
 ## Experience statuses {#experience-statuses}
 
-<!-- verify that these are all still the same -->
+The status of an experience is set automatically, except for *Deleted,* which you set manually.
 
-The status of an experience is set automatically, except for *deleted,* which you set manually.
-
-*Live:* The experience includes all the required elements, so you can generate an experience tag to implement as an ad in a DSP. <!-- A live experience may be scheduled to start in the future -->
-
-*Draft:* All branches of the experience aren't assigned creatives, so the experience is incomplete, and you can't generate an experience tag.
-
-*Processing:* A previously-live experience was edited but is now incomplete. You can't generate an experience tag for it. **Note:** If you already implemented an experience tag for the experience, then the previously-live version can still be served. If you later complete the experience &mdash; making it live again &mdash; then the new version can be served using the existing tag implementation.
-
-*Deleted:* The experience was deleted from [!DNL Creative] and is no longer visible in the [!UICONTROL Experiences] views.
+| Status | Description |
+| ------ | ----------- |
+| [!UICONTROL Live] | The experience includes all the required elements, so you can generate an experience tag to implement as an ad in a DSP. A live experience may be scheduled to start in the future. |
+| [!UICONTROL Draft] | All branches of the experience aren't assigned creatives, so the experience is incomplete, and you can't generate an experience tag. |
+| [!UICONTROL Processing] | A previously-live experience was edited but is now incomplete. You can't generate an experience tag for it. **Note:** If you already implemented an experience tag for the experience, then the previously-live version can still be served. If you later complete the experience &mdash; making it live again &mdash; then the new version can be served using the existing tag implementation. |
+| [!UICONTROL Deleted] | The experience was deleted from [!DNL Creative] and is no longer visible in the [!UICONTROL Experiences] views. | 
 
 >[!NOTE]
 >
@@ -79,17 +74,17 @@ The status of an experience is set automatically, except for *deleted,* which yo
 
 The [!UICONTROL Experiences] view shows all of your targeted and non-targeted experiences. You can see the experience names, status, start and end dates, number and dimensions of the assigned creatives or creative bundles, and whether the experience includes dynamic ads. When you enable the [!UICONTROL Metrics] option in the [!UICONTROL Experiences] view, each experience card or row indicates the number of impressions and clicks that the experience received.
 
-You can create and manage your experiences, including optimization and assigning creatives and creative bundles to your experiences. You can also create and rename ad experience tags, and export the tags in JavaScript and iframe formats for implementation on your DSPs. Advertisers with Advertising DSP can optionally upload tags directly to an Advertising DSP campaign as ads.
+You can create and manage your experiences, create and rename ad experience tags, and export the tags in JavaScript and iframe formats for implementation on your DSPs. Advertisers with Advertising DSP can optionally upload ad tags directly to an Advertising DSP campaign.
 
-<!--
 ### Available actions
+
+The following are key actions available. For a full list, see the table of contents for the Creatives > Experiences chapter.
 
 * [Download data within the view](experience-download-view.md)
 
-        + [Assign and unassign creative bundles to a final node](/help/creative/experiences/experience-assign-creative-bundles.md)
-* Experiences with decision tree targeting: [Create](/help/creative/experiences/experience-create-targeting.md) and [edit](/help/creative/experiences/experience-edit-targeting.md) experiences, [assign and unassign creative bundles](/help/creative/experiences/experience-assign-creative-bundles.md), [customize creative optimization and scheduling](/help/creative/experiences/experience-optimization-scheduling-targeting.md), and [customize the tracking URLs for creatives](/help/creative/experiences/experience-tracking-urls-targeting.md)
+* [Create](/help/creative/experiences/experience-create-targeting.md) and [edit](/help/creative/experiences/experience-edit-targeting.md) an experience with targeting
 
-* Experiences without decision tree targeting: [Create](experience-create-no-targeting.md) and [edit](/help/creative/experiences/experience-edit-no-targeting.md)
+* [Create](/help/creative/experiences/experience-create-no-targeting.md), [edit](/help/creative/experiences/experience-edit-no-targeting.md), and [manually create an ad tag](/help/creative/experiences/experience-tag-create-manually.md) for an experience without targeting
 
 * [Clone](experience-clone.md) an experience
 
@@ -97,15 +92,9 @@ You can create and manage your experiences, including optimization and assigning
 
 * [Share a demo URL](experience-share-demo-url.md) for an experience
 
-* [Export ad tags for an experience](experience-tag-export.md)
+* [Export ad tags for an experience](experience-tag-export.md), including optionally uploading ad tags directly to an Advertising DSP campaign
 
 * [Delete](experience-delete.md) an experience
-
--->
-
-<!-- You can add or remove labels for your experiences.-->
-
-<!-- Add links to workflows once they're done -->
 
 >[!MORELIKETHIS]
 >
