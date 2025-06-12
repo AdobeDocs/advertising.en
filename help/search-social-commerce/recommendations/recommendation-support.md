@@ -40,6 +40,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | --- | --- | --- |
 | [!UICONTROL Ads and extensions] (now called "[!DNL Ads and assets]" in [!DNL Google Ads]) | [!UICONTROL Call extension] | Add call extensions to a campaign |
 | | [!UICONTROL Callout extension] | Add callout extensions to a campaign |
+|  | [!UICONTROL Improve demand gen ad strength] | Suggestions to improve ad strength for a demand gen ad |
 | | [!UICONTROL Optimize ad rotation] | Use optimized ad rotations |
 | | [!UICONTROL Responsive search ad] | Add a new responsive search ad |
 | | [!UICONTROL Responsive search ad asset] | Add responsive search ad assets to an ad |
@@ -71,6 +72,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Target ROAS opt in] | Change to the [!UICONTROL Target ROAS] bidding strategy |
 | [!UICONTROL Keywords and targeting] | [!UICONTROL Display expansion opt in] | Expand reach by updating a campaign to use display expansion |
 | | [!UICONTROL Keyword] | Add new keywords |
+|  | [!UICONTROL Refresh customer match list] | Refresh your customer match lists to show personalized ads to recent customers |
 | | [!UICONTROL Search partners opt in] | Expand reach with [!DNL Google] search partners |
 | | [!UICONTROL Use broad match keyword] | Use broad match for conversion-based campaigns with fully automated conversion-based bidding |
 
