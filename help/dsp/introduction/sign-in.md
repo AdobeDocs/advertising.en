@@ -6,7 +6,7 @@ exl-id: 1704cd75-81f8-4715-a177-69a03093ba1d
 ---
 # Sign in to Adobe Advertising DSP
 
-Adobe Advertising DSP is transitioning to the Adobe Identity Management Service (IMS) for login authentication. IMS provides single sign-On (SSO) access to all [!DNL Adobe] products that support IMS, including Real-Time Customer Data Platform, Customer Journey Analytics, Target, and Analytics. With the change: 
+Adobe Advertising DSP is transitioning to the Adobe Identity Management Service (IMS) for login authentication. IMS provides single sign-on (SSO) access to all [!DNL Adobe] products that support IMS, including Real-Time Customer Data Platform, Customer Journey Analytics, Target, and Analytics. With the change: 
 
 * You can use one [!DNL Adobe ID] to sign in across [!DNL Adobe] products from either the Experience Cloud sign-in page or the legacy DSP sign-in page. Your [!DNL Adobe ID] provides user profile management. In a future release, you’ll be able to change the DSP account, IMS organization account, and [!DNL Adobe] product from the top menu.
 
