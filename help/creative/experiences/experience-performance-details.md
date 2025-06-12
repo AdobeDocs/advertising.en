@@ -14,11 +14,13 @@ You can view detailed performance data for any experience.
 
 The Report view includes the following data:
 
-* **Overview** tab: A performance overview for the entire experience, including:
+* **Overview** tab: A performance overview across all conversion metrics for the entire experience, including:
+
+<!-- Currently, the only metric in the settings list at the top of this main tab is "Select All." And I don't see this as of 2/8:  You can optionally combine two metrics at a time into a single chart. -->
 
   * **Overall Performance** section:
    
-   * **Overall Performance**: The total impressions; clicks; click-through rate (CTR); and view-through conversions and click-through conversions for a single conversion metric. <!-- Just one, or can you select multiple? And I don't see this as of 2/8:  You can optionally combine two metrics at a time into a single chart. -->
+   * **Overall Performance**: The total impressions; clicks; click-through rate (CTR); and view-through conversions and click-through conversions.
    
      <!--
      ![Overall performance](/help/creative/assets/experience-report-overall-performance.png "Overall performance"){width="100" zoomable="yes"}
@@ -33,15 +35,7 @@ The Report view includes the following data:
   * **Performance Breakdown** section: 
    
     * **Regional Performance:*: Individual metrics by geographical location.
-    
-      <!-- You can optionally do the following:
-    
-      * Click a metric name (such as [!UICONTROL Impressions]) to view that metric.
-
-      * Select the region in the **[!UICONTROL Region]** menu.
-      
-      -->
-      
+        
       <!--   
       ![Regional performance](/help/creative/assets/experience-report-regional-performance.png "Regional performance"){width="100" zoomable="yes"}
       -->
@@ -55,36 +49,8 @@ The Report view includes the following data:
 * **Creative Performance** tab*: A performance overview by creative and bundle or ad tag, including:
 
    * **Creatives** sub-tab: The total number of impressions, clicks, and CTR for each creative in the experience.<!-- No breakdown yet for the individual ad elements and/or the served ads. -->
-
-     <!--
-
-     * *Experiences with decision tree targeting:* The total number of impressions, clicks, and CTR for each creative. You can optionally do the following:
-     
-       * To break out the performance for each ad target, enable **[!UICONTROL Split targeting]**.
-
-       * To switch between the grid view and a trend chart, which includes the addition of view-through conversions and click-through conversions (using the conversions specified in the top toolbar), click ![Chart](/help/creative/assets/chart-view-button.png "Chart") and ![Grid](/help/creative/assets/table-view-button.png "Grid") above the report. [Find out about this:  ..., and total conversions for specified conversion metricsYour conversion metrics are combined into one Conversions column set unless you have made individual metric column sets available within Advertising Cloud Search.]
-
-     * *Experiences without decision tree targeting:* The total number of impressions, clicks, and click-through rate (CTR) for each creative. You can optionally do the following:
-
-       * To switch between the grid view and a trend chart, which includes the addition of view-through conversions and click-through conversions (using the conversions specified in the top toolbar), click ![Chart](/help/creative/assets/chart-view-button.png "Chart") and ![Grid](/help/creative/assets/table-view-button.png "Grid") above the report.
-
-     -->
-   
+  
    * **Bundles/Tags** sub-tab: The total number of impressions, clicks, and CTR for individual bundles (experiences with decision tree targeting) or ad tags (experiences without decision tree targeting) in the experience.
-   
-     <!--
-   
-     * *Experiences with decision tree targeting:* The total number of impressions, clicks, and CTR for each bundle. You can optionally do the following:
-     
-       * To break out the performance for each ad target, enable **[!UICONTROL Split targeting]**.
-
-       * To switch between the grid view and a trend chart, which includes the addition of view-through conversions  and click-through conversions (using on the conversions specified in the top toolbar), click ![Chart](/help/creative/assets/chart-view-button.png "Chart") and ![Grid](/help/creative/assets/table-view-button.png "Grid") above the report.
-
-     * *Experiences without decision tree targeting:* The total number of impressions, clicks, and click-through rate (CTR) for each ad tag. You can optionally do the following:
-
-       * To switch between the grid view and a trend chart, which includes the addition of view-through conversions and click-through conversions (using the conversions specified in the top toolbar), click ![Chart](/help/creative/assets/chart-view-button.png "Chart") and ![Grid](/help/creative/assets/table-view-button.png "Grid") above the report.
-
-     -->
 
 ## View performance reports for an experience
 
@@ -106,15 +72,15 @@ The Report view includes the following data:
    
      * To specify a preset period, select the report: (*[!UICONTROL Last Month-to-date],* *[!UICONTROL Last 7 days],* *[!UICONTROL Last 30 days],* *[!UICONTROL Last 7 days],* *[!UICONTROL Last 30 days],* *[!UICONTROL Today],* or *[!UICONTROL Yesterday]*.
      
-     * To specify a custom date range, specify the start date and end date<!-- in the format MM/DD/YYYY or M/D/YYYY,--> or click ![calendar icon](/help/search-social-commerce/assets/calendar.png) next to a field and select a date.
+     * To specify a custom date range, enter the start date and end date or click ![calendar icon](/help/search-social-commerce/assets/calendar.png) next to a field and select a date.
    
    * (Optional) To change the rule used to attribute conversion data in a series of events that lead to a conversion, click ![Settings](/help/creative/assets/settings.png) and change the **[!UICONTROL Attribution Rule]**.
 
      For more information about attribution rules, see "[How attribution rules are calculated](/help/search-social-commerce/reports/attribution-rules.md)."
 
-   * (Optional) To change the conversions reported, click ![Settings](/help/creative/assets/settings.png) and select the conversion names in the **[!UICONTROL Conversions]** menu.<!-- Just one or multiple? Verify how these show up -- I need to see an advertiser with multiple conversions already set up. As of 3/6, I see only "Select All." -->
+   * (Optional) To change the conversions reported, click ![Settings](/help/creative/assets/settings.png) and select the conversion names in the **[!UICONTROL Conversions]** menu. Currently, the only metric available is "Select All" to include all conversion metrics.
 
-     The available conversion columns include the conversions available in Advertising Search, Social, & Commerce, whether or not you are a Search, Social, & Commerce customer. The list can include conversion and site engagement metrics synced from Adobe Analytics when the advertiser has [an [!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md). <!--Analytics calculated metrics and advanced calculated metrics aren't available.--> For more information about including collected conversions in reports, see the Search, Social, & Commerce Guide topic “[About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)."
+     The available conversion columns include the conversions available in Advertising Search, Social, & Commerce, whether or not you are a Search, Social, & Commerce customer. The list can include conversion and site engagement metrics synced from Adobe Analytics when the advertiser has [an [!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md). [!DNL Analytics] calculated metrics and advanced calculated metrics aren't available. For more information about including collected conversions in reports, see the Search, Social, & Commerce Guide topic “[About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)."
 
 1. (On the [!UICONTROL Overview] tab):
 
