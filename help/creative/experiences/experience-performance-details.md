@@ -19,14 +19,14 @@ The Report view includes the following data:
 <!-- Currently, the only metric in the settings list at the top of this main tab is "Select All." And I don't see this as of 2/8:  You can optionally combine two metrics at a time into a single chart. -->
 
   * **Overall Performance** section:
-   
-   * **Overall Performance**: The total impressions; clicks; click-through rate (CTR); and view-through conversions and click-through conversions.
+  
+    * **Overall Performance**: The total impressions; clicks; click-through rate (CTR); and view-through conversions and click-through conversions.
    
      <!--
      ![Overall performance](/help/creative/assets/experience-report-overall-performance.png "Overall performance"){width="100" zoomable="yes"}
           -->
-
-   * **Default Rate**: (Experiences with decision tree targeting only) The number of impressions resulting from targeted creatives, generic creatives without a target or targeted to "Everyone Else," and the default creative for the experience.
+          
+    * **Default Rate**: (Experiences with decision tree targeting only) The number of impressions resulting from targeted creatives, generic creatives without a target or targeted to "Everyone Else," and the default creative for the experience.
    
      <!--
      ![Default rate](/help/creative/assets/experience-report-default-rate.png "Default rate"){width="100" zoomable="yes"} 
@@ -48,9 +48,9 @@ The Report view includes the following data:
 
 * **Creative Performance** tab*: A performance overview by creative and bundle or ad tag, including:
 
-   * **Creatives** sub-tab: The total number of impressions, clicks, and CTR for each creative in the experience.<!-- No breakdown yet for the individual ad elements and/or the served ads. -->
+  * **Creatives** sub-tab: The total number of impressions, clicks, and CTR for each creative in the experience.<!-- No breakdown yet for the individual ad elements and/or the served ads. -->
   
-   * **Bundles/Tags** sub-tab: The total number of impressions, clicks, and CTR for individual bundles (experiences with decision tree targeting) or ad tags (experiences without decision tree targeting) in the experience.
+  * **Bundles/Tags** sub-tab: The total number of impressions, clicks, and CTR for individual bundles (experiences with decision tree targeting) or ad tags (experiences without decision tree targeting) in the experience.
 
 ## View performance reports for an experience
 
