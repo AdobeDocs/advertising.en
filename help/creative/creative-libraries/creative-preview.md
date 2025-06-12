@@ -6,7 +6,6 @@ exl-id: 0d92ab29-0aa0-4d5f-abf5-a520f49ea60e
 ---
 # Preview a creative
 
-*Standard creatives only*
 *Closed beta*
 
 You can preview a creative as viewers will see it, including hyperlinks.
@@ -15,7 +14,7 @@ You can preview a creative as viewers will see it, including hyperlinks.
 
 1. Click the library name.
 
-1. On the **[!UICONTROL Creatives]** > **[!UICONTROL Standard Ads]** tab, select the creative:
+1. On the **[!UICONTROL Creatives]** > **[!UICONTROL Standard Ads]** tab or the **[!UICONTROL Creatives]** > **[!UICONTROL Dynamic Ads]** tab, select the creative:
 
    * In card view, click **[!UICONTROL ...]** next to the creative name, and then click **[!UICONTROL Preview]**.
    
