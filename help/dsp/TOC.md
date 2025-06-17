@@ -218,8 +218,8 @@ index: yes
   + [Regenerate the Forecast for a Connected TV Reach Plan](/help/dsp/planner/planner-forecast.md)
   + [Archive a Connected TV Reach Plan](/help/dsp/planner/planner-archive.md)
 + Resources {#resources}
-  + [Manage URL Lists](/help/dsp/resources/url-lists-manage.md)
-  + [Manage Private Deal Lists](/help/dsp/resources/lists-private-deals-manage.md)
+  + [Manage URL Lists](/help/dsp/resources/lists-url-manage.md)
+  + [Manage Deal Lists](/help/dsp/resources/lists-deal-manage.md)
 + Administration {#admin}
   + [Edit Your Profile](/help/dsp/admin/user-own-profile-edit.md)
   + Users {#users}
