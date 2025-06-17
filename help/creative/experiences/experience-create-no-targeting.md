@@ -8,6 +8,12 @@ exl-id: 327b1df5-5663-4513-9238-f481370c8c38
 
 *Closed beta*
 
+Create an ad experience without targeting. Each experience can use ads from a single creative library.
+
+>[!NOTE]
+>
+> Once you create a non-targeted experience, you can't later change it to a targeted experience, which uses a different workflow.
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
 
 1. Click **[!UICONTROL Create New Experience]**.
@@ -19,8 +25,12 @@ exl-id: 327b1df5-5663-4513-9238-f481370c8c38
 1. (Optional) Continue to configure the experience:
 
    * [Manually create an ad tag for an applicable creative size](experience-tag-create-manually.md).
+
+     [!DNL Creative] doesn't automatically create ad tags for non-targeted experiences.
    
    * [Assign creatives to an ad tag](experience-tag-assign-creatives.md).
+
+     Assign creatives to the ad tag, not within the experience settings.
    
    * [Customize the tracking URLs](experience-tracking-urls-no-targeting.md)
    
