@@ -9,7 +9,7 @@ exl-id: 864f10ef-75ca-4081-93d9-8540476b17f0
 *Experiences without decision tree targeting only*
 *Closed beta*
 
-You can assign creatives in applicable creative sizes to an ad tag used for an experience. For standard ad experiences, you can assign only standard creatives. For dynamic ad experiences, you can assign only dynamic creatives.<!-- Clarify what this does. It adds the image to the experience, but how does optimization work with multiple ad tags? -->
+You can assign creatives in applicable creative sizes to an ad tag used for an experience. You can use creatives from the creative library specified in the experience settings. For standard ad experiences, you can assign only standard creatives. For dynamic ad experiences, you can assign only dynamic creatives.<!-- Clarify what this does. It adds the image to the experience, but how does optimization work with multiple ad tags? -->
 
 You can later [customize the tracking URLs](experience-tracking-urls-no-targeting.md) and [Customize creative optimization and scheduling](experience-optimization-scheduling-no-targeting.md) for the creatives used for the ad tag. 
 
