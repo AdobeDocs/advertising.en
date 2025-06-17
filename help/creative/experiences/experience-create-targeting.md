@@ -8,6 +8,12 @@ exl-id: 825fd9af-ca7a-4b44-8e4b-1a6f34edac9e
 
 *Closed beta* 
 
+Create a targeted ad experience using a decision tree. Each experience uses ads from a single creative library.
+
+>[!NOTE]
+>
+> Once you create a targeted experience, you can't later change it to a non-targeted experience, which uses a different workflow.
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
 
 1. Click **[!UICONTROL Create New Experience]**.
