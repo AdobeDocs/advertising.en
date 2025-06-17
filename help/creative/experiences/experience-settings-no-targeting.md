@@ -32,7 +32,7 @@ For experiences without decision tree targeting, you can override the default cr
 
 ## [!UICONTROL Targeting] section
 
-**[!UICONTROL Targeting]:** (Read-only for existing experiences) Not applicable when you don't enable targeting using a decision tree; keep this option disabled.
+**[!UICONTROL Targeting]:** (Read-only for existing experiences) Not applicable when you don't enable targeting using a decision tree; keep this option disabled. **Note:** Once you save an experience without targeting, you can't add targeting later.
 
 **[!UICONTROL Dynamic ads]:** (Read-only for existing experiences) Indicates that the experience includes dynamic ads. **Note:** An experience can include either all standard ads or all dynamic ads.
 
