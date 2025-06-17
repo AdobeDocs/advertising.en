@@ -38,7 +38,7 @@ The Report view includes the following data:
       ![Regional performance](/help/creative/assets/experience-report-regional-performance.png "Regional performance"){width="100" zoomable="yes"}
       -->
 
-    * **Device Performance:** Individual metrics by device type, operating system, and browser. Optionally click the value for any device category to see a list of the top<!-- NN --> creatives served with that criteria.
+    * **Device Performance:** Individual metrics by device type, operating system, and browser. Optionally click the value for any device category to see a list of the top 10 creatives served with that criteria.
     
       <!--    
       ![Device performance](/help/creative/assets/experience-report-device-performance.png "Device performance"){width="100" zoomable="yes"}
