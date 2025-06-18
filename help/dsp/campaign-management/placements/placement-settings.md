@@ -201,7 +201,7 @@ To specify inventory targeting:
              * To include all inventory in a deal, click **[!UICONTROL Include all]** next to the deal name.
              * To include an individual inventory source, expand the deal name, and then click the check box next to the source name.
            * On the [!UICONTROL Deal Lists] tab, click the check box next to the deal list name.
-   1. (Optional) To download a CSV file with the targeting information to your browser's Downloads location, click **[!UICONTROL Save & Export]**.
+   1. (Optional) To download a CSV file with the targeting information to your browser's Downloads location, click **[!UICONTROL Export]**.
    1. Click **[!UICONTROL Save]**.
 
 >[!TIP]
@@ -253,30 +253,34 @@ To specify inventory targeting:
 1. (Optional) To download a CSV file with the targeting information to your browser's Downloads location, click **[!UICONTROL Export]**.
 1. Click **[!UICONTROL Save]**.
 
-**[!UICONTROL Exclude Sites or Apps]:** (Optional; available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sites to exclude. You can either search for and select sites, or enter or paste domain names:
+**[!UICONTROL Exclude Sites or Apps]:** (Optional; available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sites/apps and [URL lists](/help/dsp/resources/lists-url-manage.md) to exclude. From the [!UICONTROL Paste URL] tab, you can search for and select sites, or enter or paste domain names. From the [!UICONTROL URL Lists] tab, you can select URL lists.
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Specify the sites:
-   * To search for a site:
-      1. Click **[!UICONTROL Search]**.
-      1. Enter a keyword, select a site tier, and/or select a site category.
-      1. In the search results, select the sites to exclude:
-         * To exclude an individual site, select the adjacent check box.
-         * (When more than 50 results are available) To exclude the first 50 results, click **[!UICONTROL Exclude these 50]**. To exclude all search results, click **[!UICONTROL Exclude these \<*NN*\>]**.
-   * To enter domain names:
-      1. Click **[!UICONTROL Paste]**.
-      1. Enter one or more domain names on separate lines.
-      1. Click **[!UICONTROL Exclude All]**.
+   * From the [!UICONTROL Paste URL] tab:
+     * To search for a site:
+       1. Click **[!UICONTROL Search]**.
+       1. Enter a keyword, select a site tier, and/or select a site category.
+       1. In the search results, select the sites to exclude:
+          * To exclude an individual site, select the adjacent check box.
+          * (When more than 50 results are available) To exclude the first 50 results, click **[!UICONTROL Exclude these 50]**. To exclude all search results, click **[!UICONTROL Exclude these \<*NN*\>]**.
+     * To enter domain names:
+       1. Click **[!UICONTROL Paste]**.
+       1. Enter one or more domain names on separate lines.
+       1. Click **[!UICONTROL Exclude All]**.
+   * From the [!UICONTROL URL Lists] tab:
+     1. (Optional) Search for an URL list by entering all or part of the list name in the search field.
+     1. Select the check box next to each URL list to exclude.
 1. Click **[!UICONTROL Done]** when you're finished.
 
 >[!NOTE]
 >
 >* Account-level and advertiser-level blocked site lists are also applied, in addition to the DSP [globally blocked site list](/help/dsp/introduction/features/brand-safety-media-quality.md), which includes sites deemed unsafe for ads.
->* Blocked site lists always override targeted site lists. If a placement both excludes and includes the same target for an ad, then the target is excluded.
+>* Blocked site lists always override targeted sites and site lists. If a placement both excludes and includes the same target for an ad, then the target is excluded.
 
 **[!UICONTROL Language]:** (Optional) A single language to target.
 
-**[!UICONTROL Site or App List Preview]:** (Read-only) All targeted and blocked sites for the placement.
+**[!UICONTROL Site or app list preview]:** (Read-only) All targeted and blocked sites/apps for the placement, including sites/apps on account-level, advertiser-level, and DSP global blocked site lists.
 
 You can optionally export the list of targeted and blocked sites as a comma-separated values (CSV) file. To export the list, click **[!UICONTROL Export full site list]**, and then open or save the file according to your browser's normal procedure.
 
@@ -284,21 +288,30 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 
 **[!UICONTROL Paste list of targeted sites]:** Allows you to target specific sites only. When you enable this option, the other site targeting options are disabled.
 
-**[!UICONTROL Sites]:** (Available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL On]*) Sites to target. You can either search for and select sites, or enter or paste domain names:
+**[!UICONTROL Sites or Apps]:** (Available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL On]*) Sites to target. From the [!UICONTROL Paste URL] tab, you can search for and select sites, or enter or paste domain names. From the [!UICONTROL URL Lists] tab, you can select URL lists.
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Specify the sites:
-   * To search for a site:
-      1. Click **[!UICONTROL Search]**.
-      1. Enter a keyword, select a site tier, and/or select a site category.
-      1. In the search results, select the sites to include:
-         * To exclude an individual site, select the adjacent check box.
-         * (When more than 50 results are available) To include the first 50 results, click **[!UICONTROL Include these 50]**. To include all search results, click **[!UICONTROL Include these \<*NN*\>]**.
-   * To enter domain names:
-      1. click **[!UICONTROL Paste]**.
-      1. Enter one or more domain names on separate lines.
-      1. Click **[!UICONTROL Include All]**.
-1. Click **[!UICONTROL Done]**.
+   * From the [!UICONTROL Paste URL] tab:
+     * To search for a site:
+       1. Click **[!UICONTROL Search]**.
+       1. Enter a keyword, select a site tier, and/or select a site category.
+       1. In the search results, select the sites to include:
+          * To include an individual site, select the adjacent check box.
+          * (When more than 50 results are available) To include the first 50 results, click **[!UICONTROL Include these 50]**. To include all search results, click **[!UICONTROL Include these \<*NN*\>]**.
+     * To enter domain names:
+       1. Click **[!UICONTROL Paste]**.
+       1. Enter one or more domain names on separate lines.
+       1. Click **[!UICONTROL Include All]**.
+   * From the [!UICONTROL URL Lists] tab:
+     1. (Optional) Search for an URL list by entering all or part of the list name in the search field.
+     1. Select the check box next to each URL list to include.
+1. Click **[!UICONTROL Done]** when you're finished.
+
+>[!NOTE]
+>
+>* Account-level and advertiser-level blocked site lists are also applied, in addition to the DSP [globally blocked site list](/help/dsp/introduction/features/brand-safety-media-quality.md), which includes sites deemed unsafe for ads.
+>* Blocked site lists always override targeted sites and site lists. If a placement both excludes and includes the same target for an ad, then the target is excluded.You can either search for and select sites, or enter or paste domain names:
 
 ## [!UICONTROL Audience Targeting]
 
