@@ -64,5 +64,6 @@ In custom reports, you can now a) filter data by deal lists and deals and b) inc
 >[!MORELIKETHIS]
 >
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Custom Report Settings](/help/dsp/reports/report-settings.md)
 >* [Available Report Columns](/help/dsp/reports/report-columns.md)
 >* [About Private Inventory](/help/dsp/inventory/private-inventory-about.md)
