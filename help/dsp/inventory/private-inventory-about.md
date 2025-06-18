@@ -34,9 +34,14 @@ The "Deal Health" column indicates each private deal's health status: "Success,"
 
 You can customize how the existing deal data is presented by applying filters, customizing the visible columns and optionally saving custom views, sorting the columns, and viewing the data as charts.
 
+## The Deal Lists View
+
+In the [!UICONTROL Inventory] > [!UICONTROL Deal Lists] view, you can group your private deals into lists for easier placement targeting. 
+
 >[!MORELIKETHIS]
 >
 >* [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)
 >* [About the [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
 >* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
 >* [Manually Create Deal ID Details](deal-id-create.md)
+>* [Manage Deal Lists](/help/dsp/inventory/lists-deals-manage.md)

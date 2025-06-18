@@ -191,6 +191,7 @@ index: yes
     + [Edit [!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-edit.md)
     + [[!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-settings.md)
   + [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
+  + [Manage Deal Lists](/help/dsp/inventory/lists-deals-manage.md)
 + Custom Reports {#custom-reports}
   + [About Custom Reports](/help/dsp/reports/report-about.md)
   + [Create a Custom Report](/help/dsp/reports/report-create.md)
@@ -217,6 +218,8 @@ index: yes
   + [Export a Forecast for a Connected TV Reach Plan](/help/dsp/planner/planner-export.md)
   + [Regenerate the Forecast for a Connected TV Reach Plan](/help/dsp/planner/planner-forecast.md)
   + [Archive a Connected TV Reach Plan](/help/dsp/planner/planner-archive.md)
++ Resources {#resources}
+  + [Manage URL Lists](/help/dsp/resources/lists-url-manage.md)
 + Administration {#admin}
   + [Edit Your Profile](/help/dsp/admin/user-own-profile-edit.md)
   + Users {#users}

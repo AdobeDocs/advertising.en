@@ -6,6 +6,12 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 ---
 # Available Report Columns
 
+<!-- Add when added:
+
+|[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Deal List]|The name of a user-created deal list for which an ad was shown.|
+
+-->
+
 |Metric Type|Subtype|Column Name|Description|
 |-----------|-------|-----------|-----------|
 |[!UICONTROL Dimension]|[!UICONTROL Ad]|[!UICONTROL Ad External ID]|The ad ID assigned by the external ad server.|
