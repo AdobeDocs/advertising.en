@@ -6,6 +6,12 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 ---
 # Available Report Columns
 
+<!-- Add when added:
+
+|[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Deal List]|The name of a user-created deal list for which an ad was shown.|
+
+-->
+
 |Metric Type|Subtype|Column Name|Description|
 |-----------|-------|-----------|-----------|
 |[!UICONTROL Dimension]|[!UICONTROL Ad]|[!UICONTROL Ad External ID]|The ad ID assigned by the external ad server.|
@@ -36,7 +42,6 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Operating System Version]|The version of the operating system on which the ad was shown (such as [!UICONTROL Windows 10] or [!UICONTROL iOS Mojave])|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Operating System]|The operating system on which the ad was shown (such as [!UICONTROL Apple iOS] or [!UICONTROL Android]).|
 |[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Deal ID]|The unique identifier assigned to a deal through the external supply partner.|
-|[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Deal List]|The name of a user-created deal list for which an ad was shown.|
 |[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Feed Name]|The user-assigned name for the deal, as entered in DSP.|
 |[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Feed Source]|The supply-side partner providing the inventory. This is typically a publisher but can also be an SSP.|
 |[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Inventory Type]|The classification of the inventory: *[!UICONTROL Private],* *[!UICONTROL On Demand],* or *[!UICONTROL Public]*.|
