@@ -59,7 +59,9 @@ In custom reports, you can now a) filter data by deal lists and deals and b) inc
 
      1. Select the check box next to each deal to remove from the list.
 
-     1. Click **[!UICONTROL Remove from List**.<!-- Doesn't work as of 6/17, so I don't know if there will be a confirmation message. -->
+     1. Click **[!UICONTROL Remove from List]**.
+     
+     1. In the confirmation message, click **[!UICONTROL Remove]**.
 
 >[!MORELIKETHIS]
 >
