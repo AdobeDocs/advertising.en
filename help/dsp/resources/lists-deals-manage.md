@@ -1,92 +1,61 @@
 ---
 title: Manage Deal Lists
 description: Learn how to create and manage deal lists for placement targeting.
-feature: DSP Resources
+feature: DSP Inventory, DSP Placements
 ---
 # Manage Deal Lists
-
-<!-- Clarify the relevant roles -->
-
-<!-- !!!!!!!!!!!! Does that metatdata feature exist?  If not, get it added. -->
 
 <!-- Will later add fct for On-Demand deals, too, so keep title generic -- >
 
 <!-- Need to add info/links to this from placement settings, and private deal-related topics, especially "Specify Placements and Ads for a Private Deal" -->
 
-You can create and manage lists of private deals<!-- deal IDs? If yes, then edit wording throughout--> for placement targeting. Target or exclude specific private deal lists within placement settings. 
+You can create and manage lists of private deals for placement targeting. Target or exclude specific private deal lists within placement settings. 
 
-Custom reports also include the option to filter data by deal lists (and individual deals).
+Custom reports also include the option to filter data by deal lists (as well as by individual deals).
 
-## View an Deal List
+## View a Deal List
 
-1. In the main menu, click **[!UICONTROL Resources]** > **[!UICONTROL Deal Lists]**.
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deal Lists]**.
 
 1. Click the list name.
 
-1. (Optional) To export the selected list to an XLSX ([!DNL Microsoft Excel] spreadsheet) format, click **[!UICONTROL Export List]**.
+## Create a Deal List
 
-   The file is downloaded according to your browser's normal procedure.
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deal Lists]**.
 
-## Create an Deal List
+1. In the upper right, click **[!UICONTROL Create].**
 
-1. In the main menu, click **[!UICONTROL Resources]** > **[!UICONTROL Deal Lists]**.
+1. Click **[!UICONTROL Add Deals].**
 
-1. In the upper right, click **[!UICONTROL Create a new list].**
-
-<!-- Verify:
+1. (Option) Filter the list by publisher, SSP, or deal type (*[!UICONTROL Guaranteed]* or *[!UICONTROL Non-Guaranteed]*); or search the list by deal name or deal ID.
 
 1. Select the check box next to each deal to include in the list.
 
-1. Click **[!UICONTROL Add selected to list]**.
+1. Click **[!UICONTROL Add Selected Deals]**.
 
-1. Click **[!UICONTROL Save].**
+## Edit a Deal List
 
--->
-
-
-## Edit an Deal List
-
-1. In the main menu, click **[!UICONTROL Resources]** > **[!UICONTROL Deal Lists]**.
+1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deal Lists]**.
 
 1. Click the list name.
 
 1. Do any of the following:
 
-   * To add deals to the list:
+   * To add deals:
 
-     1. Click **[!UICONTROL Add to list]**.
-
+     1. Click **[!UICONTROL Add Deals].**
+     
+     1. (Option) Filter the list by publisher, SSP, or deal type (*[!UICONTROL Guaranteed]* or *[!UICONTROL Non-Guaranteed]*); or search the list by deal name or deal ID.
+     
      1. Select the check box next to each deal to include in the list.
+     
+     1. Click **[!UICONTROL Add Selected Deals]**.
 
-     1. Click **[!UICONTROL Add selected to list]**.
-
-   * To remove an deal from the list:
+   * To remove deals:
 
      1. Select the check box next to each deal to remove from the list.
 
-     1. Click **[!UICONTROL Remove from list**.<!-- Verify button label -->
-
-<!--
-1. Click **[!UICONTROL Save].**
--->
-
-
-<!-- Do we have this yet? If yes, confirm steps/buttons.
-
-## Delete an Deak List
-
-1. In the main menu, click **[!UICONTROL Resources]** > **[!UICONTROL Deal Lists]**.
-
-1. Select the check box next to the list name.
-
-1. Click **[!UICONTROL Delete]**.
-
-1. In the confirmation message, click **[!UICONTROL Delete]**.
--->
-
-<!-- any more related topics? -->
-
-
+     1. Click **[!UICONTROL Remove from List**.<!-- Doesn't work as of 6/17, so I don't know if there will be a confirmation message. -->
 
 >[!MORELIKETHIS]
 >
