@@ -11,7 +11,13 @@ feature: DSP Inventory, DSP Placements
 
 You can create and manage lists of private deals for placement targeting. Target or exclude specific private deal lists within placement settings. 
 
-In custom reports, you can now a) filter data by deal lists \(as well as by individual deals\) and b) include the [!UICONTROL Feed] dimensions "[!UICONTROL Deal list]" and "[!UICONTROL Deal]" in the [!UICONTROL Build Your Report] section.
+In custom reports, you can a) filter data by deal lists and b) include the [!UICONTROL Feed] dimension "[!UICONTROL Deal list]" in the [!UICONTROL Build Your Report] section.
+
+<!--
+What's New:  
+
+In custom reports, you can now a) filter data by deal lists and deals and b) include the [!UICONTROL Feed] dimensions "[!UICONTROL Deal list]" and "[!UICONTROL Deal]" in the [!UICONTROL Build Your Report] section.
+-->
 
 ## View a Deal List
 
@@ -60,5 +66,6 @@ In custom reports, you can now a) filter data by deal lists \(as well as by indi
 >[!MORELIKETHIS]
 >
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [About Private Inventory](/help/dsp/inventory/private-inventory-about.md)
 >* [Specify Placements and Ads for a Private Deal](/help/dsp/inventory/deal-id-attach-placements.md)
+>* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About Private Inventory](/help/dsp/inventory/private-inventory-about.md)
