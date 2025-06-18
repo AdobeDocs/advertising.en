@@ -109,7 +109,7 @@ You can create and manage lists of website and app URLs for placement targeting.
 
      1. Click **[!UICONTROL Add to list]**.<!-- PRD says "Import should give option to the user to overwrite or append to existing list." I don't see this.>
      
-       A notification message indicates when the task is completed.
+        A notification message indicates when the task is completed.
        
      1. To see the task status, including the number of URLs added and the number of failed values:
      
