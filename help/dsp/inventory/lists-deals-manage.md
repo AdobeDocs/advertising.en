@@ -11,7 +11,7 @@ feature: DSP Inventory, DSP Placements
 
 You can create and manage lists of private deals for placement targeting. Target or exclude specific private deal lists within placement settings. 
 
-Custom reports also include the option to filter data by deal lists (as well as by individual deals).
+In addition, custom reports now include a\) the option to filter data by deal lists \(as well as by individual deals\) and b\) the report columns "Deal List" and "Deal" in the Feed dimensions.
 
 ## View a Deal List
 
