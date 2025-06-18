@@ -14,7 +14,7 @@ Your libraries can include:
 
 * **Individual creatives:** You can include individual creatives directly within ad experiences that don't have defined user targets. You can also use your creatives to create bundles, which you can include in targeted [ad experiences](/help/creative/experiences/experience-about.md).
 
-  * **Standard creatives:** You can upload and manage creatives in [various formats](#creative-creative-formats). For each creative, you specify the default language for each ad with which you associate the creative, the default landing page that opens when a user clicks an ad that includes the creative, and optional labels to use as filters within various views within [!DNL Creative].
+  * **Standard creatives:** You can upload and manage creatives in [various formats](#creative-creative-formats). For each creative, you specify the default language for each ad with which you associate the creative and the default landing page that opens when a user clicks an ad that includes the creative. You can optionally specify labels to use as filters within various views within [!DNL Creative] and as column values in the [!UICONTROL Custom Creative Report] when you include using the [!UICONTROL Creative Label] dimension.
 
   * **Dynamic creatives:** (Existing Adobe Advertising DCO customers only) Administrator users can create dynamically generated creatives by mapping dynamic variables in an ad template to values in a feed file. All users can preview, duplicate, and delete existing dynamic ads.
 
@@ -84,6 +84,8 @@ See "[Customize your data views](/help/creative/introduction/customize-data-view
 
 The [!UICONTROL Creative Libraries] main view shows all of your creative libraries. Data for each library includes the number of experiences to which the library's bundles are assigned, the number of bundles, the number of creatives, the number of creative sizes, the number of default language targets, the creation date, and the last modification date to any element of the library. The table mode also includes a column for the advertiser.
 
+When you're in card mode, you can scroll through the images in a library with multiple creatives using the < and > buttons. 
+
 #### Available actions
 
 * Create new libraries
@@ -150,7 +152,7 @@ The ability to create and edit dynamic creatives is currently available only the
 
 ### The [!UICONTROL Creative Libraries] > [!UICONTROL Bundles] view
 
-The [!UICONTROL Bundles] view shows all of your standard and dynamic bundle containers. You can see the creative names, creative sizes, and languages for the creatives included in each bundle.
+The [!UICONTROL Bundles] view shows all of your standard and dynamic bundle containers. You can see the creative names, creative sizes, and languages for the creatives included in each bundle. When you're in card mode, you can scroll through the images in a bundle with multiple creatives using the < and > buttons.
 
 #### Available actions
 
