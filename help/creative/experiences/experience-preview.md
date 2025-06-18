@@ -98,7 +98,7 @@ You can preview the creatives with a specific ad size that target viewers will s
 
 1. (Optional) To copy a demo URL of the experience to share with other people without a login to [!DNL Creative]:
 
-   1. In the upper right of the preview, click ![Share](/help/creative/assets/share2.png "Share").
+   1. In the upper right of the preview, click ![Share](/help/creative/assets/share.png "Share").
    
    1. In the [!UICONTROL Share Demo URL] dialog, click **[!UICONTROL Copy]** to copy the URL to your clipboard so that you can share it with someone else.
 
