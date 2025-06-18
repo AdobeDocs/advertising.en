@@ -52,7 +52,7 @@ Each key is appended as a macro in the ad experience tag, which you can generate
 
 **RT Pixel:** (Read-only for existing experiences; optional) A [!UICONTROL Creative] retargeting pixel to potentially target. When you set up targeting within the decision tree, you can include one level of RT pixel target nodes. For each node, you'll specify the pixel to target and the values for the pixel's attributes that are required to show the creatives in the assigned creative bundles. If you don't specify a pixel in this field when you create the experience, you can still specify one within the decision tree.<!-- May move this to just within the decision tree. -->
 
-**Label:**<!-- should be "Labels" --> (Optional) Any [!DNL Creative]-specific labels to apply to the experience. You can filter experiences by label in the Experiences<!-- sic --> view.
+**Label:**<!-- should be "Labels" --> (Optional) Any [!DNL Creative]-specific labels to apply to the experience. You can filter experiences by label in the Experiences view and include the [!UICONTROL Experience Label] dimension in the [!UICONTROL Custom Creative Report].
 
 * To select existing labels, click ![Down](/help/creative/assets/chevron-down.png "Down"), and select the check box next to each label to apply.
 
