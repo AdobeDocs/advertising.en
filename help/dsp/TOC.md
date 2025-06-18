@@ -179,7 +179,6 @@ index: yes
           + [Check the Status of Ads for [!DNL FreeWheel] Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)
           + [Error Codes for FreeWheel Ad Submissions](/help/dsp/inventory/freewheel-error-codes.md)
     + [Edit Private Deal Settings](/help/dsp/inventory/deal-id-edit.md)
-    + [Manage Deal Lists](/help/dsp/inventory/lists-deals-manage.md)
     + [Specify Placements and Ads for a Private Deal](/help/dsp/inventory/deal-id-attach-placements.md)
     + [Edit the Accounts with Access to a Private Deal](/help/dsp/inventory/deal-id-share.md)
     + [Edit the Advertisers with Access to a Private Deal](/help/dsp/inventory/deal-id-edit-advertisers.md)
@@ -192,6 +191,7 @@ index: yes
     + [Edit [!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-edit.md)
     + [[!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-settings.md)
   + [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
+  + [Manage Deal Lists](/help/dsp/inventory/lists-deals-manage.md)
 + Custom Reports {#custom-reports}
   + [About Custom Reports](/help/dsp/reports/report-about.md)
   + [Create a Custom Report](/help/dsp/reports/report-create.md)
