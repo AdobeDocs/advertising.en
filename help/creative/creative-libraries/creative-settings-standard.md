@@ -34,7 +34,7 @@ When you edit multiple creatives at the same time:
 >When you include the creative in an experience, you can replace the default value for any of the click tags with a custom landing page URL to generate a derivation of the base creative.
 -->
 
-**Label:** (Optional) Any labels to apply to all selected creatives. You can filter creatives by label in various views within [!DNL Creative].
+**Label:** (Optional) Any labels to apply to all selected creatives. You can filter creatives by label in various views within [!DNL Creative] and include the [!UICONTROL Creative Label] dimension in the [!UICONTROL Custom Creative Report].
 
 * To select existing labels, click ![Down](/help/creative/assets/chevron-down.png "Down"), and select the check box next to each label to apply.
 
