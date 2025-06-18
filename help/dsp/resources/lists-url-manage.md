@@ -1,15 +1,13 @@
 ---
 title: Manage URL Lists
 description: Learn how to create and manage URL lists for placement targeting.
-feature: DSP Resources
+feature: DSP Placements
 ---
 # Manage URL Lists
 
-<!-- Clarify the relevant roles -->
+<!-- Need to add info/links to this from placement settings once lists are available for targeting/exclusion on the Sites tab (not there as of 6/17) -->
 
-<!-- Need to add info/links to this from placement settings -->
-
-You can create and manage lists of URLs for placement targeting. Target or exclude specific URL lists within placement settings.
+You can create and manage lists of website and app URLs for placement targeting. Target or exclude specific URL lists within placement settings.
 
 ## View an URL List
 
@@ -17,7 +15,7 @@ You can create and manage lists of URLs for placement targeting. Target or exclu
 
 1. Click the list name.
 
-1. (Optional) To export the selected list to an XLSX ([!DNL Microsoft Excel] spreadsheet) format, click **[!UICONTROL Export List]**.
+1. (Optional) To export the selected list to an XLSX ([!DNL Microsoft Excel] spreadsheet) format, click ![Export](/help/dsp/assets/export.png "Export") **[!UICONTROL Export]**.
 
    The file is downloaded according to your browser's normal procedure.
 
@@ -25,18 +23,61 @@ You can create and manage lists of URLs for placement targeting. Target or exclu
 
 1. In the main menu, click **[!UICONTROL Resources]** > **[!UICONTROL URL Lists]**.
 
-1. In the upper right, click **[!UICONTROL Create a new list].**
+1. In the upper right, click **[!UICONTROL Create].**
 
-<!-- Verify:
+1. Enter the **[!UICONTROL List name]**, and then click **[!UICONTROL Create].**
 
-1. Select the check box next to each URL to include in the list.
+1. Do any of the following:
 
-1. Click **[!UICONTROL Add selected to list]**.
+   * To manually enter or paste URLs to add:
 
-1. Click **[!UICONTROL Save].**
+     1. Click **[!UICONTROL Bulk Add URLs]** > **[!UICONTROL Copy/Paste URLs]**.
 
--->
+     1. Enter or paste up to 10,000 URLs, with each URL on a separate line.
 
+     1. Click **[!UICONTROL Validate]** to verify if the URLs are valid.
+
+        Any invalid URLs are identified. Only valid URLs are added if you continue.
+
+     1. Click **[!UICONTROL Add to list]**.
+
+   * To add URLs from a file:
+
+     1. Click **[!UICONTROL Bulk Add URLs]** > **[!UICONTROL Import File]**.
+
+     1. Drag and drop a local CSV file that contains the URLs, with each URL on a separate line.
+
+        The file doesn't need a column header row. Any rows with invalid values aren't added if you continue.
+
+     1. Click **[!UICONTROL Add to list]**.<!-- PRD says "Import should give option to the user to overwrite or append to existing list." I don't see this.>
+     
+       A notification message indicates when the task is completed.
+       
+     1. To see the task status, including the number of URLs added and the number of failed values:
+     
+        1. Click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
+        
+        1. (If any rows weren't added) To download an error file with the failed values, click **[!UICONTROL Download]** next to the job.
+        
+           The file is saved to the browser's Downloads folder.
+
+   * To remove specific URLs:
+
+     1. Click **[!UICONTROL Bulk Remove URLs]** > **[!UICONTROL Copy/Paste URLs]**.
+
+     1. Enter or paste up to 10,000 URLs, with each URL on a separate line.
+
+     1. Click **[!UICONTROL Validate]** to verify if the URLs are valid and are currently included in the list.
+
+     1. Click **[!UICONTROL Remove from list]**.
+
+   * To remove all URLs:
+
+     1.  Click **[!UICONTROL Bulk Remove URLs]** > **[!UICONTROL Copy/Paste URLs]**.
+
+     1. Click **[!UICONTROL Remove All URLs]**.
+     
+     1. Click **[!UICONTROL Remove]**.
 
 ## Edit an URL List
 
@@ -46,26 +87,67 @@ You can create and manage lists of URLs for placement targeting. Target or exclu
 
 1. Do any of the following:
 
-   * To add URLs to the list:
+   * To manually enter or paste URLs to add:
+
+     1. Click **[!UICONTROL Bulk Add URLs]** > **[!UICONTROL Copy/Paste URLs]**.
+
+     1. Enter or paste up to 10,000 URLs, with each URL on a separate line.
+
+     1. Click **[!UICONTROL Validate]** to verify if the URLs are valid.
+
+        Any invalid URLs are identified. Only valid URLs are added if you continue.
 
      1. Click **[!UICONTROL Add to list]**.
 
-     1. Select the check box next to each URL to include in the list.
+   * To add URLs from a file:
 
-     1. Click **[!UICONTROL Add selected to list]**.
+     1. Click **[!UICONTROL Bulk Add URLs]** > **[!UICONTROL Import File]**.
 
-   * To remove an URL from the list:
+     1. Drag and drop a local CSV file that contains the URLs, with each URL on a separate line.
 
-     1. Select the check box next to each deal to remove from the list.
+        The file doesn't need a column header row. Any rows with invalid values aren't added if you continue.
 
-     1. Click **[!UICONTROL Remove from list**.<!-- Verify button label -->
+     1. Click **[!UICONTROL Add to list]**.<!-- PRD says "Import should give option to the user to overwrite or append to existing list." I don't see this.>
+     
+       A notification message indicates when the task is completed.
+       
+     1. To see the task status, including the number of URLs added and the number of failed values:
+     
+        1. Click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
+        
+        1. (If any rows weren't added) To download an error file with the failed values, click **[!UICONTROL Download]** next to the job.
+        
+           The file is saved to the browser's Downloads folder.
 
-<!--
-1. Click **[!UICONTROL Save].**
--->
+   * To remove specific URLs:
 
+     1. Click **[!UICONTROL Bulk Remove URLs]** > **[!UICONTROL Copy/Paste URLs]**.
 
-<!-- Do we have this yet? If yes, confirm steps/buttons.
+     1. Enter or paste up to 10,000 URLs, with each URL on a separate line.
+
+     1. Click **[!UICONTROL Validate]** to verify if the URLs are valid and are currently included in the list.
+
+     1. Click **[!UICONTROL Remove from list]**.
+
+   * To remove all URLs:
+
+     1.  Click **[!UICONTROL Bulk Remove URLs]** > **[!UICONTROL Copy/Paste URLs]**.
+
+     1. Click **[!UICONTROL Remove All URLs]**.
+     
+     1. Click **[!UICONTROL Remove]**.
+
+## Export an URL List
+
+1. In the main menu, click **[!UICONTROL Resources]** > **[!UICONTROL URL Lists]**.
+
+1. Click the list name.
+
+1. Click ![Export](/help/dsp/assets/export.png "Export") **[!UICONTROL Export]**.
+
+   The file is downloaded in XLSX ([!DNL Microsoft Excel] spreadsheet) format according to your browser's normal procedure.
+
+<!-- Not available as of 6/17. If we add it, confirm all.
 
 ## Delete an URL List
 
