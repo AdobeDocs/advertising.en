@@ -5,9 +5,7 @@ feature: DSP Inventory, DSP Placements
 ---
 # Manage Deal Lists
 
-<!-- Will later add fct for On-Demand deals, too, so keep title generic -- >
-
-<!-- Need to add info/links to this from placement settings, and private deal-related topics, especially "Specify Placements and Ads for a Private Deal" -->
+<!-- Will later add fct for On-Demand deals, too, so keep title generic -->
 
 You can create and manage lists of private deals for placement targeting. Target or exclude specific private deal lists within placement settings. 
 
@@ -66,6 +64,5 @@ In custom reports, you can now a) filter data by deal lists and deals and b) inc
 >[!MORELIKETHIS]
 >
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [Specify Placements and Ads for a Private Deal](/help/dsp/inventory/deal-id-attach-placements.md)
 >* [Available Report Columns](/help/dsp/reports/report-columns.md)
 >* [About Private Inventory](/help/dsp/inventory/private-inventory-about.md)

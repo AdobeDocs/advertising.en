@@ -5,7 +5,7 @@ feature: DSP Placements
 ---
 # Manage URL Lists
 
-<!-- Need to add info/links to this from placement settings once lists are available for targeting/exclusion on the Sites tab (not there as of 6/17) -->
+<!-- Need to add info/link to this from placement settings once lists are available for targeting/exclusion on the Sites tab (not there as of 6/17) -->
 
 You can create and manage lists of website and app URLs for placement targeting. Target or exclude specific URL lists within placement settings.
 
@@ -146,21 +146,6 @@ You can create and manage lists of website and app URLs for placement targeting.
 1. Click ![Export](/help/dsp/assets/export.png "Export") **[!UICONTROL Export]**.
 
    The file is downloaded in XLSX ([!DNL Microsoft Excel] spreadsheet) format according to your browser's normal procedure.
-
-<!-- Not available as of 6/17. If we add it, confirm all.
-
-## Delete an URL List
-
-1. In the main menu, click **[!UICONTROL Resources]** > **[!UICONTROL URL Lists]**.
-
-1. Select the check box next to the list name.
-
-1. Click **[!UICONTROL Delete]**.
-
-1. In the confirmation message, click **[!UICONTROL Delete]**.
--->
-
-<!-- any more related topics? -->
 
 >[!MORELIKETHIS]
 >

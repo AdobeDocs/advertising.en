@@ -171,9 +171,9 @@ To specify locations:
 
     You can view the list by source or by feed. When you view the list by feed, you can search by feed name, feed key, or a selected characteristic tag.
 
-* [!UICONTROL Private] | [!UICONTROL Roku Private]: Your existing private deals (or existing private [!DNL Roku] deals for [!DNL Roku] placements) with publishers that you've set up in DSP. You can include, but not exclude, public inventory.
+* [!UICONTROL Private] | [!UICONTROL Roku Private]: Your existing private deals (or existing private [!DNL Roku] deals for [!DNL Roku] placements) with publishers that you've set up in DSP, and your existing [private deal lists](/help/dsp/inventory/lists-deals-manage.md). You can include, but not exclude, public inventory.
 
-    You can search the list by keyword, key, deal ID, or custom tag.
+    From the [!UICONTROL Deals] tab, you can search the list by keyword, key, deal ID, or custom tag. From the [!UICONTROL Deal Lists] tab, you can search the list by deal list name or deal list ID.
 
     * *[!UICONTROL Ensure Fixed or Floor Price for the bid]*: (Optional) Overrides the bid price algorithm to bid at least the fixed and floor prices for deals.
 
@@ -193,11 +193,14 @@ To specify inventory targeting:
       1. ([!UICONTROL Public] and [!UICONTROL On Demand] inventory) Click **[!UICONTROL View by Source]** or **[!UICONTROL View by Feed]** to change how the sources are listed.
       1. (When applicable) Filter the inventory as needed.
       1. Specify the sources to include and exclude:
-         * To include a [!UICONTROL Public] or [!UICONTROL On Demand] source, click **[!UICONTROL Include]** next to the source name.
-         * To include [!UICONTROL Private] sources:
-            * To include all inventory in a deal, click **[!UICONTROL Include all]** next to the deal name.
-            * To include an individual inventory source, expand the deal name, and then click the check box next to the source name.
-         * To exclude a [!UICONTROL Public] or [!UICONTROL On source], click **[!UICONTROL Exclude]** next to the source name.
+         * For [!UICONTROL Public] or [!UICONTROL On Demand] inventory:
+           * To include a source, click **[!UICONTROL Include]** next to the source name.
+           * To exclude a source, click **[!UICONTROL Exclude]** next to the source name.
+         * For [!UICONTROL Private] inventory:
+           * On the [!UICONTROL Deals] tab:
+             * To include all inventory in a deal, click **[!UICONTROL Include all]** next to the deal name.
+             * To include an individual inventory source, expand the deal name, and then click the check box next to the source name.
+           * On the [!UICONTROL Deal Lists] tab, click the check box next to the deal list name.
    1. (Optional) To download a CSV file with the targeting information to your browser's Downloads location, click **[!UICONTROL Save & Export]**.
    1. Click **[!UICONTROL Save]**.
 
