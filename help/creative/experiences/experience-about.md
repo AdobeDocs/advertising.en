@@ -88,7 +88,7 @@ The status of an experience is set automatically, except for *Deleted,* which yo
 
 ## The [!UICONTROL Experiences] view
 
-The [!UICONTROL Experiences] view shows all of your targeted and non-targeted experiences. You can see the experience names, status, start and end dates, number and dimensions of the assigned creatives or creative bundles, and whether the experience includes dynamic ads. When you enable the [!UICONTROL Metrics] option in the [!UICONTROL Experiences] view, each experience card or row indicates the number of impressions and clicks that the experience received.
+The [!UICONTROL Experiences] view shows all of your targeted and non-targeted experiences. You can see the experience names, status, start and end dates, number and dimensions of the assigned creatives or creative bundles, and whether the experience includes dynamic ads. When you enable the [!UICONTROL Metrics] option in the [!UICONTROL Experiences] view, each experience card or row indicates the number of impressions and clicks that the experience received. When you're in card mode, you can scroll through the creatives in an experience with multiple creatives using the < and > buttons.
 
 You can create and manage your experiences, create and rename ad experience tags, and export the tags in JavaScript and iframe formats for implementation on your DSPs. Advertisers with Advertising DSP can optionally upload ad tags directly to an Advertising DSP campaign.
 
