@@ -5,8 +5,6 @@ feature: DSP Placements
 ---
 # Manage URL Lists
 
-<!-- Need to add info/link to this from placement settings once lists are available for targeting/exclusion on the Sites tab (not there as of 6/17) -->
-
 You can create and manage lists of website and app URLs for placement targeting. Target or exclude specific URL lists within placement settings.
 
 ## View an URL List
@@ -47,11 +45,11 @@ You can create and manage lists of website and app URLs for placement targeting.
 
      1. Drag and drop a local CSV file that contains the URLs, with each URL on a separate line.
 
-        The file doesn't need a column header row. Any rows with invalid values aren't added if you continue.
+        The file should include only one data column, without a column header row. If you exported an existing list and edited the rows, remove the header row and the second and third columns before re-importing the file. Any rows with invalid values aren't added if you continue.
 
-     1. Click **[!UICONTROL Add to list]**.<!-- PRD says "Import should give option to the user to overwrite or append to existing list." I don't see this.>
+     1. Click **[!UICONTROL Add to list]**.
      
-        A notification message indicates when the task is completed.
+        A notification message indicates when the task is completed. Refresh the page to see the updated list.
        
      1. To see the task status, including the number of URLs added and the number of failed values:
      
@@ -61,15 +59,25 @@ You can create and manage lists of website and app URLs for placement targeting.
         
            The file is saved to the browser's Downloads folder.
 
-   * To remove specific URLs:
+   * To remove specific URLs, do either of the following:
 
-     1. Click **[!UICONTROL Bulk Remove URLs]** > **[!UICONTROL Copy/Paste URLs]**.
+      * To select URLs to remove:
+      
+        1. Select the check box next to each deal to remove from the list.
+        
+        1. Click **[!UICONTROL Remove from List]**.
+        
+        1. In the confirmation message, click **[!UICONTROL Remove]**.
 
-     1. Enter or paste up to 10,000 URLs, with each URL on a separate line.
-
-     1. Click **[!UICONTROL Validate]** to verify if the URLs are valid and are currently included in the list.
-
-     1. Click **[!UICONTROL Remove from list]**.
+     * To enter or paste URLs to remove:
+     
+       1. Click **[!UICONTROL Bulk Remove URLs]** > **[!UICONTROL Copy/Paste URLs]**.
+       
+       1. Enter or paste up to 10,000 URLs, with each URL on a separate line.
+       
+       1. Click **[!UICONTROL Validate]** to verify if the URLs are valid and are currently included in the list.
+       
+       1. Click **[!UICONTROL Remove from list]**.
 
    * To remove all URLs:
 
@@ -105,9 +113,9 @@ You can create and manage lists of website and app URLs for placement targeting.
 
      1. Drag and drop a local CSV file that contains the URLs, with each URL on a separate line.
 
-        The file doesn't need a column header row. Any rows with invalid values aren't added if you continue.
+        The file should include only one data column, without a column header row. If you exported an existing list and edited the rows, remove the header row and the second and third columns before re-importing the file. Any rows with invalid values aren't added if you continue.
 
-     1. Click **[!UICONTROL Add to list]**.<!-- PRD says "Import should give option to the user to overwrite or append to existing list." I don't see this.>
+     1. Click **[!UICONTROL Add to list]**.
      
         A notification message indicates when the task is completed.
        
@@ -119,15 +127,25 @@ You can create and manage lists of website and app URLs for placement targeting.
         
            The file is saved to the browser's Downloads folder.
 
-   * To remove specific URLs:
+   * To remove specific URLs, do either of the following:
 
-     1. Click **[!UICONTROL Bulk Remove URLs]** > **[!UICONTROL Copy/Paste URLs]**.
+      * To select URLs to remove:
+      
+        1. Select the check box next to each deal to remove from the list.
+        
+        1. Click **[!UICONTROL Remove from List]**.
+        
+        1. In the confirmation message, click **[!UICONTROL Remove]**.
 
-     1. Enter or paste up to 10,000 URLs, with each URL on a separate line.
-
-     1. Click **[!UICONTROL Validate]** to verify if the URLs are valid and are currently included in the list.
-
-     1. Click **[!UICONTROL Remove from list]**.
+     * To enter or paste URLs to remove:
+     
+       1. Click **[!UICONTROL Bulk Remove URLs]** > **[!UICONTROL Copy/Paste URLs]**.
+       
+       1. Enter or paste up to 10,000 URLs, with each URL on a separate line.
+       
+       1. Click **[!UICONTROL Validate]** to verify if the URLs are valid and are currently included in the list.
+       
+       1. Click **[!UICONTROL Remove from list]**.
 
    * To remove all URLs:
 
@@ -150,3 +168,5 @@ You can create and manage lists of website and app URLs for placement targeting.
 >[!MORELIKETHIS]
 >
 >* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [About Account-Level and Advertiser-Level Blocked Sites Lists](/help/dsp/admin/blocked-sites-list-about.md)
+>* [Edit an Account-Level or Advertiser-Level Blocked Sites List](/help/dsp/admin/blocked-sites-list-edit.md)
