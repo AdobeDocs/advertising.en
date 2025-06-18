@@ -1,11 +1,11 @@
 ---
 title: Manage Deal Lists
 description: Learn how to create and manage deal lists for placement targeting.
-feature: DSP Inventory, DSP Placements
+feature: DSP Private Inventory, DSP Deal IDs, DSP Placements
 ---
 # Manage Deal Lists
 
-<!-- Will later add fct for On-Demand deals, too, so keep title generic -->
+<!-- Will later add fct for On-Demand deals, too, so keep title generic. Later add "DSP On Demand Inventory to feature metadata -->
 
 You can create and manage lists of private deals for placement targeting. Target or exclude specific private deal lists within placement settings. 
 
