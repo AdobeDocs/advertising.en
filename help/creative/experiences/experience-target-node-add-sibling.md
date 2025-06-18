@@ -64,6 +64,16 @@ In an existing experience,
 
      1. Click **[!UICONTROL Apply]**.
 
+1. (Optional) Specify a custom branch name for a user-defined branch.
+
+   By default, user-defined branches are labeled with the applied targets.
+
+   You can't create a custom branch name for an "All" or "Everyone Else" branch. 
+
+   1. Hold the cursor over the target node and click **[!UICONTROL ...]** > **[!UICONTROL Edit Name]**.
+   
+   1. Enter the **[!UICONTROL Node Name]**, and then click **[!UICONTROL Save]**.
+
 1. Do any of the following:
 
    * (Optional) [Assign creatives](experience-assign-creative-bundles.md) to the new target node.
