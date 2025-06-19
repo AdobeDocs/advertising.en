@@ -163,7 +163,7 @@ Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size i
    
      * Click **[!UICONTROL select a file]** to locate files on your device or network.
 
-   * For images in an [Adobe Experience Manager library connected to your DSP account](/help/creative/creative-libraries/aem-assets-configure.md), do the following:
+   * For approved images in an [Adobe Experience Manager library connected to your DSP account](/help/creative/creative-libraries/aem-assets-configure.md), do the following:
 
      1. Click **[!UICONTROL AEM Asset Library]**.
 
