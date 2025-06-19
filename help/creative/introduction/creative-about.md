@@ -9,38 +9,37 @@ feature: Creative Introduction
 
 <!-- verify all and rewrite to include new stuff -->
 
-As part of Adobe Advertising, Advertising Creative is a self-service platform for automating real-time, personalized ad experiences and optionally optimizing your ads at the creative element level.
+As part of Adobe Advertising, Advertising Creative is a self-service platform for automating real-time, personalized ad experiences and optionally optimizing your ads at the creative element level.<!-- Verify --> You can implement the ad experiences as ads in any DSP, including Adobe Advertising DSP.
 
 ## Custom creative libraries of reusable creatives
 
-Your Creative Libraries allow you to manage the creatives you'll use in your ad experiences. You can create multiple libraries, each with individual creatives and creative groups (called *bundles*). You'll add creative bundles to your ad experiences.
+Your Creative Libraries allow you to manage the creatives you'll use in your ad experiences. You can create multiple libraries, each with individual creatives and creative groups (called *bundles*, which you'll attach to experiences).
 
-## Rules-based experiences
+### [!DNL Adobe] asset integrations
 
-With [!DNL Creative], you can build out stories using a rules-based decision tree model &mdash; unfolding a choreographed string of ads that are customized in real time based on what you know about your audience, and that follow your customers even when they move to different websites<!-- verify if that's true without Adobe CDP -->. For example, the stories can change based on customer behavior, geography, demographics, retargeting, position in the customer journey, and more.
+[!DNL Creative] is directly integrated with Adobe Experience Manager, allowing you to easily upload the [!DNL Adobe] image assets that your design team creates and approves, and then use them for real-time storyboarding and editing of ad experiences.
 
-<!-- Add when available:
+## Both rules-based and non-targeted experiences
 
-## [!DNL Adobe] content and data integrations
+* **Targeted, rules-based experiences:** Build out stories using a rules-based decision tree model &mdash; unfolding a choreographed string of ads that are customized in real time based on what you know about your audience. For example, the stories can change based on customer behavior, geography, demographics, retargeting, position in the customer journey, and more.
 
-[!DNL Creative] has direct integrations with Adobe Experience Manager, allowing you to easily upload the [!DNL Adobe] assets that your design team creates and use them for real-time storyboarding and editing of ad experiences.
+* **Non-targeted experiences:** Schedule and optimize ad elements without narrowing the audience.
 
-You also can use your first-party audience segments from Adobe Audience Manager and Adobe Analytics &mdash; as well as audience segments you create in Advertising Cloud DSP
-or retargeting pixels you create using [!DNL Creative] &mdash; as targets for specific creatives in an ad experience.
--->
+### [!DNL Adobe] data integrations
+
+You can use your first-party audience segments from Adobe Audience Manager and Adobe Analytics &mdash; as well as audience segments you create in Advertising Cloud DSP and retargeting pixels you create using [!DNL Creative] &mdash; as targets for specific creatives in an ad experience. <!-- Advertiser should be able to target all segments that are available in DSP for targeting -->
 
 ### Implementation of experiences as ads
 
-Once you create an experience, you can generate a JavaScript or iframe tag for the experience and implement the tag as a third-party ad in Advertising DSP or any other DSP.<!-- Add any more info about integration with DSP? -->
-
-<!-- Maybe add a subsection "Audience targeting options" with info about types of creative-level Retargeting and placement-level targeting within your DSP.  Need to clarify if any placement-level targeting might contradict/override creative-level targeting, or if they're completely different.
-
-Advertiser should be able to target all segments which are available in DSP for targeting
--->
+Once you create an experience, you can generate a JavaScript or iframe tag for the experience and implement the tag as a third-party standard display ad in an Advertising DSP campaign or in any other DSP.<!-- Will add video and other ad formats; not sure if they'll be available for both standard and dynamic ads. -->
 
 ### Optimization of ad elements
 
 You can optionally allow [!DNL Creative] to optimize the ad elements for any experience based on performance &mdash; whether or not you define specific audience targets &mdash; using optimized, weighted ad rotation, which is powered by Adobe Sensei.
+
+<!--
+[!DNL Creative] serves first-party ads and triggers third-party ads for the experience based on the specified targeting (when applicable), scheduling, ad rotation, and optimization goal options 
+-->
 
 ## Retargeting pixels
 
@@ -61,7 +60,7 @@ to the DSP.
 
 You can view detailed, experience-level performance reports within Creatives > Experiences.
 
-You can also create Custom Creative reports at Reports > Custom Reports to monitor experience-level performance across your experiences. If you use your [!DNL Creative] experiences as ads within DSP campaigns, then performance data for those ads is available in additional custom reports, just like data for your other DSP ads. <!-- Verify that [!DNL Creative] users have access to ALL other reports, and if I can completely duplicate the report help for both help sets. -->
+You can also create Custom Creative reports at Reports > Custom Reports to monitor experience-level performance across your experiences. If you use your [!DNL Creative] experiences as ads within DSP campaigns, then performance data for those ads is available in additional custom reports, just like data for your other DSP ads. <!-- Verify that [!DNL Creative] users have access to ALL other reports. -->
 
 You can optionally deliver your custom reports to specified [report destinations](/help/dsp/reports/report-destinations/report-destination-about.md).
 
