@@ -20,7 +20,7 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
     
     * Specific geographical locations, including countries, states, DMAs within the United States, cities, and zip codes
     
-    * Viewers for which specific key-value pairs (data pass targets) are passed from the DSP, publisher, or partner
+    * Viewers for which specific key-value pairs (data pass targets) are passed from the DSP, publisher, or partner (such as SKU=01234567890123 or Cart=empty)
     
     * [!DNL Creative] retargeting pixels and specified attribute values
     
@@ -32,12 +32,12 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
 
 >[!NOTE]
 >
-> Because the two types of experiences have different workflows, you can't change whether or not to use decision tree targeting once you save the experience. This means that you can't change a non-targeted experience to a targeted experience. Similarly, you can't change a targeted experience to a non-targeted experience.
+> Because the two types of experiences have different workflows, you can't change a non-targeted experience to a targeted experience nor a targeted experience to a non-targeted experience.
 
 ## Ad serving and optimization
 
 <!-- MORE -->
-<!--When multiple ad variants qualify for an impression-->
+<!-- When multiple ad variants qualify for an impression -->
 
 [!DNL Creative] serves first-party ads and triggers third-party ads for the experience based on the specified targeting (when applicable), scheduling, ad rotation, and optimization goal options as well as the available ad inventory.
 
@@ -55,6 +55,10 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
 
 Once you create a live experience (with all required ad elements), you can [generate a JavaScript or iframe tag for the entire experience](experience-tag-export.md). You can upload the experience tag as an ad to a campaign in Adobe Advertising DSP or implement it as an ad in a third-party DSP.
 
+>[!NOTE]
+>
+>Hierarchical targeting behavior may vary by DSP. Advertising DSP applies ad-level targeting on top of placement-level targeting.
+
 ## Performance data for your experiences
 
 The following performance data are available:
@@ -62,10 +66,6 @@ The following performance data are available:
 * When you enable the [!UICONTROL Metrics] option in the [!UICONTROL Creative] > [!UICONTROL Experiences] view, each experience card or row indicates the number of impressions and clicks that the experience received.
 
   ![Metrics option](/help/creative/assets/metrics-option.png "Metrics option")
-
-  <!-- insert screen shot of Metrics option?  If not, then add instructions elsewhere -->
-
-  <!-- I don't see this as of 1/9; why only in the table view?   You can also add conversion columns in the table view. --> 
 
 * You can [view detailed performance data for any experience](experience-performance-details.md) from the [!UICONTROL Experiences] view.
 

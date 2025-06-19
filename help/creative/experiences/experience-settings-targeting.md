@@ -44,7 +44,7 @@ Once you save the experience, you can't change this setting.
 
 ## [!UICONTROL Advanced] section
 
-**Data Pass:** (Read-only for existing experiences; optional) To target users based on specific key-value pairs that the DSP, publisher, or partner passes in real time on impression. You can specify up to five default data pass keys (parameters). When you set up targeting within the decision tree, you can include one level of data pass target nodes, optionally customize the keys, and specify the values to target for each node. If you don't specify any keys in this field when you create the experience, you can still specify them within the decision tree.
+**Data Pass:** (Read-only for existing experiences; optional) To target users based on specific key-value pairs that the DSP, publisher, or partner passes in real time on impression (such as SKU=01234567890123 or Cart=empty). You can specify up to five default data pass keys (parameters). When you set up targeting within the decision tree, you can include one level of data pass target nodes, optionally customize the keys, and specify the values to target for each node. If you don't specify any keys in this field when you create the experience, you can still specify them within the decision tree.
 
 Each key is appended as a macro in the ad experience tag, which you can generate to implement as an ad in your DSP.
 

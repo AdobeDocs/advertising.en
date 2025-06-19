@@ -17,6 +17,7 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 >* When you create an experience with decision tree targeting, [!DNL Creative] automatically creates an ad tag for each applicable creative size.
 >* When you create an experience without decision tree targeting, you must [manually create an ad tag](experience-tag-create-manually.md) for each applicable creative size.
 >* Experience tags are dynamic. You don't need to update the tags if you edit an experience.
+>* Make sure that the campaigns in which you'll implement an ad experience include targeting that's compatible with the experience. Hierarchical targeting behavior may vary by DSP. In Advertising DSP, ad-level targeting is applied after placement-level targeting and doesn't replace placement-level targeting. For example, if an Advertising DSP placement targets users in Australia and an ad targets users in Japan, then the ad will target the "Everyone Else" branch.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
 

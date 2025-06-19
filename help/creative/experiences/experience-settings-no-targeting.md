@@ -42,7 +42,7 @@ For experiences without decision tree targeting, you can override the default cr
 
 ## [!UICONTROL Advanced] section
 
-**Data Pass:** (Experiences with dynamic ads only; optional) To target users based on specific key-value pairs that the DSP, publisher, or partner passes in real time on impression. You can specify up to five data pass keys (parameters).<!-- May move this to just within the decision tree. -->
+**Data Pass:** (Experiences with dynamic ads only; optional) To target users based on specific key-value pairs that the DSP, publisher, or partner passes in real time on impression (such as SKU=01234567890123 or Cart=empty). You can specify up to five data pass keys (parameters).<!-- May move this to just within the decision tree. -->
 
 When you create an ad experience tag for a specific creative size, each key that's specified in this field is appended as a macro in the tag. Enter the value for each key-value pair within the tag before you implement the tag as an ad in your DSP.
 
