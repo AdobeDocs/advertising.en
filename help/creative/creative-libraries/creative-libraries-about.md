@@ -56,6 +56,28 @@ Enter JavaScript tracking tags for creatives hosted on third-party ad servers. T
 <SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"></SCRIPT> <NOSCRIPT> <A HREF="https://ad.doubleclick.net/ddm/jump/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp]?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"BORDER=0 WIDTH=300 HEIGHT=250 ALT="Advertisement"></A></NOSCRIPT>
 ```
 
+#### Video creatives
+
+XXXXXXXXXX.
+
+##### Video creative guidelines<!-- Need heading? -->
+
+<!-- table headings? Not technically a parameter or attribute of the file -->
+
+<!-- Use same formatting as in DSP's "Ad Specifications?" -->
+
+| Element | Required Values |
+| ------- | ----------------|
+| Bitrate | 15-30 Mbps |
+| Aspect Ratio | 16:9, 4:3 |
+| Frame Rate | 23.98 FPS<br><br>Additional frame rates may be accepted based on regional or publisher requirements |
+| Video Length | Maximum of 90 seconds |
+| File Size | Maximum of 512 MB |
+| File Types | .mov, .mp4, .webm |
+| Audio | Format: ACC (industry standard/MP4), Opus (WebM/AV1)<br><br>Bitrate: 16-512 kbps<br><br>Sample Rate: 44100-48000 Hz<br><br>Rate: 44.1kHz or 48 kHz |
+| Codecs | H.264 (industry standard), AV1, H.265 |
+| &mdash; | The uploaded file should be non-interlaced, mixed, and contain an audio track. There may be no sound, but an audio track must be included in the video file. |
+
 ### Format for Dynamic Ads
 
 Administrator users can dynamically generate creatives in static HTML5 and dynamic HTML5 format by mapping dynamic variables in an ad template to values in a feed file. Dynamic creatives may include creatives from your legacy Adobe Advertising Dynamic Creative Optimization (DCO) experiences.
