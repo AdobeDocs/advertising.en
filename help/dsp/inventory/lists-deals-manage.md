@@ -2,6 +2,7 @@
 title: Manage Deal Lists
 description: Learn how to create and manage deal lists for placement targeting.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Placements
+exl-id: 18a2c2d2-d84d-4347-93af-ca7489a1a8fb
 ---
 # Manage Deal Lists
 

@@ -2,6 +2,7 @@
 title: Manage URL Lists
 description: Learn how to create and manage URL lists for placement targeting.
 feature: DSP Placements
+exl-id: 57c715b3-9a13-4890-a3b8-03fa6adb44eb
 ---
 # Manage URL Lists
 
