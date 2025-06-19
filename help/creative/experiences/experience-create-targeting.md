@@ -74,7 +74,7 @@ Create a targeted ad experience using a decision tree. Each experience uses ads 
      
      * To continue editing the decision tree, click **[!UICONTROL Continue Edit]**.
 
-When the experience is live, [!DNL Creative] automatically creates an ad tag for each applicable creative size.
+When the experience is live, [!DNL Creative] automatically creates an ad tag for each applicable creative size. You can then [export the ad tag and implement it in a DSP](/help/creative/experiences/experience-tag-export.md).
 
 >[!MORELIKETHIS]
 >

@@ -26,6 +26,8 @@ Create an ad experience without targeting. Each experience can use ads from a si
 
    * [Manually create an ad tag for an applicable creative size](experience-tag-create-manually.md).
 
+     You can then [export the ad tag and implement it in a DSP](/help/creative/experiences/experience-tag-export.md).
+
      [!DNL Creative] doesn't automatically create ad tags for non-targeted experiences.
    
    * [Assign creatives to an ad tag](experience-tag-assign-creatives.md).
