@@ -36,23 +36,7 @@ You can add and manage the following creative types in the [supported creative s
 
 Flexible HTML5 creatives are HTML5 creatives with all of their images and other attributes as standard HTML tags, which you can edit directly within [!DNL Creative], either within a creative library or within an individual experience (which creates a variation of the original creative). In DSP, flexible HTML5 creatives are for a single specific ad size (in pixels). You can optionally change the default values of the attributes specified in a flexible HTML5 creative. Later, you can specify custom values for the attributes within a specific experience, which creates a variation of the parent creative.
 
-<!-- Removed:
-
-Flexible HTML5 creatives are HTML5 creatives with all of their images and other attributes as standard HTML tags, which you can edit directly within [!DNL Creative], either within a creative library or within an individual experience (which creates a variation of the original creative). Flexible HTML5 creatives use the Interactive Advertising Bureau (IAB) Technology Laboratory's standard for an [ad portfolio](https://flexibleads.iabtechlab.com/), for which ad format sizes are flexible (rather than fixed) and are based on the ad’s aspect ratio and size range, and for which ads maintain their resolution across devices and publisher sites. You can optionally change the default values of the attributes specified in a flexible HTML5 creative. Later, you can specify custom values for the attributes within a specific experience, which creates a variation of the parent creative.
-
--->
-
 You can either upload flexible HTML5 creatives as ZIP files or use one of the templates available to your account as a starting point. See the [specifications for flexible HTML5 creatives](html5-creative-specification.md).
-
-<!-- Will flattening the view be possible later?
-The card view, by default, includes a card for each base flexible HTML5 creative you've uploaded, with the number of creative variations [Delete old description? : an indicator of how many variations of the creative exist]. You can optionally flatten the card view to include separate cards for each base creative and each derivation. The table view is always flattened.
-
-
-[Example default card view for a flexible creative with variations]()[]add image]
-  
-[Example card for a flexible creative with one variation]() [add image]
-
- -->
 
 #### HTML5 creatives
 
@@ -88,15 +72,15 @@ When you're in card mode, you can scroll through the images in a library with mu
 
 #### Available actions
 
-* Create new libraries
+* [Create a new library](/help/creative/creative-libraries/creative-library-manage.md#create-a-creative-library)
 
 * For each creative library:
 
-  * Edit the library name
+  * [Edit a library name](/help/creative/creative-libraries/creative-library-manage.md#edit-the-name-of-a-creative-library)
 
-  * Open the library to view the creatives and bundles assigned to the library
+  * [Open a library to view the creatives and bundles assigned to the library](/help/creative/creative-libraries/creative-library-manage.md#open-a-creative-library)
 
-  * Delete the library
+  * [Delete libraries](/help/creative/creative-libraries/creative-library-manage.md#delete-creative-libraries)
 
 ### The [!UICONTROL Creative Libraries] > [!UICONTROL Creatives] views
 
@@ -119,12 +103,6 @@ The [!UICONTROL Standard Ads] tab shows all standard creatives that you've creat
 * [Download standard creatives](creative-download.md)
 
 * [Delete standard creatives](creative-delete.md)
-
-<!-- Add in as separate actions?
-
-add or remove labels, regenerate thumbnails for your creatives. When a creative has child creative variations, you can view the variations within the Card view.
-
--->
 
 #### [!UICONTROL Dynamic Ads]
 
