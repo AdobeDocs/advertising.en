@@ -36,7 +36,7 @@ Create a targeted ad experience using a decision tree. Each experience uses ads 
 
       * Targets:
       
-        * [Add a target node to the final level](experience-target-node-add-final.md) in an experience.
+        * [Add a target node to the final level](experience-target-node-add-final.md).
         
         * [Insert a target node between nodes](experience-target-node-add-inner.md).
         
