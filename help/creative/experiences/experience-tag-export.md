@@ -10,14 +10,14 @@ exl-id: 4ae05142-8319-4329-96d7-f87d77f02745
 
 Once an ad tag for a specific creative size is available for a [live](experience-about.md#experience-statuses) experience, you can generate and copy the tag in JavaScript and iframe formats for implementation on Advertising DSP or other DSPs. The tags for DSP include all macros required for DSP.
 
-Advertisers with Advertising DSP can optionally upload tags directly to an Advertising DSP campaign as ads.
+Advertisers with Advertising DSP can optionally upload tags directly to an Advertising DSP campaign as ads with the ad type "standard display."
 
 >[!NOTE]
 >
 >* When you create an experience with decision tree targeting, [!DNL Creative] automatically creates an ad tag for each applicable creative size.
 >* When you create an experience without decision tree targeting, you must [manually create an ad tag](experience-tag-create-manually.md) for each applicable creative size.
 >* Experience tags are dynamic. You don't need to update the tags if you edit an experience.
->* Make sure that the campaigns in which you'll implement an ad experience include targeting that's compatible with the experience. Hierarchical targeting behavior may vary by DSP. In Advertising DSP, ad-level targeting is applied after placement-level targeting and doesn't replace placement-level targeting. For example, if an Advertising DSP placement targets users in Australia and an ad targets users in Japan, then the ad will target the "Everyone Else" branch.
+>* Make sure that the campaigns in which you'll implement an ad experience include targeting that's compatible with the experience. Hierarchical targeting behavior may vary by DSP. In Advertising DSP, ad-level targeting is applied on top of (not instead of) placement-level targeting.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
 
@@ -75,7 +75,6 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
       1. In the [!UICONTROL Create ads] view, review the ad tags, select each tag for which you want to create an ad, and then click **[!UICONTROL Create]**.
       
-         The [!UICONTROL Ads] view now includes the new ads, which have the same names as the ad tags in [!DNL Creative]. You can [attach the ads to any placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) in the campaign.
 
 <!-- no way to get back to the Creative Tag Manager -- you have to click back through the main menu -->
 
