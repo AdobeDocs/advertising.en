@@ -27,7 +27,7 @@ Your Creative Libraries allow you to manage the creatives you'll use in your ad 
 
 ### [!DNL Adobe] data integrations
 
-You can use your first-party audience segments from Adobe Audience Manager and Adobe Analytics &mdash; as well as audience segments you create in Advertising Cloud DSP and retargeting pixels you create using [!DNL Creative] &mdash; as targets for specific creatives in an ad experience. <!-- Advertiser should be able to target all segments that are available in DSP for targeting -->
+You can use your first-party audience segments from Adobe Audience Manager and Adobe Analytics &mdash; as well as custom audience segments you create in Advertising DSP and retargeting pixels you create using [!DNL Creative] &mdash; as targets for specific creatives in an ad experience. <!-- Advertiser should be able to target all segments that are available in DSP for targeting -->
 
 ### Implementation of experiences as ads
 
