@@ -2,6 +2,7 @@
 title: About Adobe Advertising Creative
 description: Learn about [!DNL Creative].
 feature: Creative Introduction
+exl-id: 2cc12119-5924-4fcd-a54b-30f7887ae6a7
 ---
 # About Adobe Advertising Creative 2.0
 
