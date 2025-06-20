@@ -63,7 +63,7 @@ hide: yes
   + [Preview an experience](/help/creative/experiences/experience-preview.md)
   + [Export and implement an ad experience tag for a live experience](/help/creative/experiences/experience-tag-export.md)
   + [Share a demo URL for an experience](/help/creative/experiences/experience-share-demo-url.md)
-  + [Download all experiences in the view](/help/creative/experiences/experience-download-view.md)
+  + [Download data from the [!UICONTROL Experiences] view](/help/creative/experiences/experience-download-view.md)
   + [Rename an ad tag](/help/creative/experiences/experience-tag-rename.md)
   + [Delete an experience](/help/creative/experiences/experience-delete.md)
 + Performance reports {#reports}
