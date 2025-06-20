@@ -16,7 +16,7 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
 
   Targeting options include:
 
-    * Your first-party audience segments from Adobe Audience Manager, Adobe Analytics, and Advertising Cloud DSP
+    * Your first-party audience segments from Adobe Audience Manager, Adobe Analytics, and Advertising DSP; your custom segments from Advertising DSP; and third-party segments provided by Advertising DSP
     
     * Specific geographical locations, including countries, states, DMAs within the United States, cities, and zip codes
     
