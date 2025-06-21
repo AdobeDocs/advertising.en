@@ -6,15 +6,23 @@ feature: Search Getting Started
 ---
 # Sign in
 
+<!-- update with new info -->
+
+<!--
+
 You can sign in to Search, Social, & Commerce directly or from within Adobe Experience Cloud.
 
 ## Sign in directly
+
+ -->
 
 * Sign in to one of the following URLs:
 
   * Users in North America: [https://enterprise-na.efrontier.com](https://enterprise-na.efrontier.com)
   
   * Users in all other areas: [https://enterprise-intl.efrontier.com](https://enterprise-intl.efrontier.com)
+
+<!--
 
 ## Sign in from Adobe Experience Cloud
 
@@ -27,6 +35,8 @@ You can sign in to Search, Social, & Commerce directly or from within Adobe Expe
 1. In the top menu, select ![Solution selector](/help/search-social-commerce/assets/menu-icon.png "Solution selector").
 
 1. In the submenu, select **[!UICONTROL Advertising Cloud]**.
+
+-->
 
 >[!MORELIKETHIS]
 >

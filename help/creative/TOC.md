@@ -10,6 +10,7 @@ hide: yes
 
 + [What's new](/help/creative/home.md)
 + Introduction {#introduction}
+  + [About Adobe Advertising Creative](/help/creative/introduction/creative-about.md)
   + [Customize your data views](/help/creative/introduction/customize-data-views.md)
   + [Support for Consumer Privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
   + [Policies and Guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
@@ -62,7 +63,7 @@ hide: yes
   + [Preview an experience](/help/creative/experiences/experience-preview.md)
   + [Export and implement an ad experience tag for a live experience](/help/creative/experiences/experience-tag-export.md)
   + [Share a demo URL for an experience](/help/creative/experiences/experience-share-demo-url.md)
-  + [Download all experiences in the view](/help/creative/experiences/experience-download-view.md)
+  + [Download data from the [!UICONTROL Experiences] view](/help/creative/experiences/experience-download-view.md)
   + [Rename an ad tag](/help/creative/experiences/experience-tag-rename.md)
   + [Delete an experience](/help/creative/experiences/experience-delete.md)
 + Performance reports {#reports}
