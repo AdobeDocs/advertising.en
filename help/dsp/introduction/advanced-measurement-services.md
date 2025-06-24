@@ -5,7 +5,7 @@ exl-id: b179488f-d008-4744-8aa2-640d0b6db5ae
 ---
 # Advanced Measurement Solutions
 
-Advertisers often struggle to understand how their different media channels work together, where their next media dollar should be best spent, or how to quantify the impact of their online advertisements against core business objectives.  
+Advertisers often struggle to understand how their different media channels work together, where their next media dollar can be best spent, or how to quantify the impact of their online advertisements against core business objectives.  
 
 In a data-driven media landscape, attribution measurement provides a solution to this challenge. The Advanced Measurement & Strategy (AMS) team helps brand and agency partners measure how elements of their Adobe Advertising buys, in connection with their [!DNL Adobe] integrations, drive outcomes. With robust attribution measurement offerings, AMS can deploy curated targeting strategies using sophisticated measurement frameworks, making it easy for brands to connect their media dollars to real-world outcomes that drive their businesses. The team can help you to: 
 
