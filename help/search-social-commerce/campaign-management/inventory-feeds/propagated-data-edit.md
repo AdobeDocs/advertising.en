@@ -16,7 +16,7 @@ When you propagate feed data without simultaneously posting it to the ad network
 
   The campaign hierarchy views show only the data generated from the feed file, not the existing account components. After data for a component and all of its subcomponents is posted to the ad network, it's no longer listed in the campaign hierarchy.
   
-  1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+  1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
   
   1. (Optional) To show only campaign components created for a specific template:
   

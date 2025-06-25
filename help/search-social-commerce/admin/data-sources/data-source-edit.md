@@ -9,7 +9,7 @@ feature: Search Admin, Search Data Sources
 
 *Agency Administrators (base role), Adobe Account Managers, and Administrators Only*
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Data Source Setup]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Data Source Setup]**.
 
 1. Select the check box next to the data source that you want to edit.
 

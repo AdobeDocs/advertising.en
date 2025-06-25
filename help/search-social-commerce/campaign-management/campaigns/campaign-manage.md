@@ -19,7 +19,7 @@ Once you [make an ad network account accessible](/help/search-social-commerce/ca
 >* Before you create a campaign, [implement conversion tracking tags](/help/search-social-commerce/tracking/conversion-tracking-about.md) in the advertiser's webpages.
 >* To create a large number of campaigns at once, use the [copy and paste feature](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) or [campaign bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 
@@ -43,7 +43,7 @@ You can edit settings for individual campaigns. You can also edit some fields fo
 >
 >You can also edit data in bulk using the copy and paste feature or campaign bulksheets.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
 
 1. Do either of the following:
 
@@ -77,7 +77,7 @@ You can pause any active search campaign on a supported ad network to disable bi
 
 You also can delete any active or paused search campaign. Deleted campaigns are deleted from the ad network. They're still visible when you include them in the data filter, but you can't change them.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
 
 1. (Optional) Filter the list to include specific campaigns.
 

@@ -51,7 +51,7 @@ Generate the report for the selected conversion actions by day, and include data
 
 In Search, Social, & Commerce, use the view or report option to view conversions based on the click date (not the transaction date).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
 
 1. In the toolbar above the data table, click **[!UICONTROL Create Report]**, hold the cursor over **[!UICONTROL Basic Reports]**, and then click **[!UICONTROL Search Engine Account Report]**.
 

@@ -16,7 +16,7 @@ Daily uploads include the tracked `gclid` value, the conversion value defined us
 >
 >The uploads don't include conversion metrics uploaded to Adobe Advertising from feed files.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]**.
 
 1. Select the check box next to **[!UICONTROL Upload Conversions to Google Ads]**.
 
@@ -24,7 +24,7 @@ Daily uploads include the tracked `gclid` value, the conversion value defined us
 
 1. Click **[!UICONTROL Save]**.
 
-1. (If your conversions are tracked at a manager account level) [Add credentials for your manager account](/help/search-social-commerce/admin/manager-accounts.md) at **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**.
+1. (If your conversions are tracked at a manager account level) [Add credentials for your manager account](/help/search-social-commerce/admin/manager-accounts.md) at **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**.
 
 >[!MORELIKETHIS]
 >

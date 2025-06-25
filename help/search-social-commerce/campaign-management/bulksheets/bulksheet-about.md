@@ -70,7 +70,7 @@ Error files are automatically deleted after 30 days unless you delete them earli
 
 ## Information about each file
 
-All downloaded data files, uploaded files, and error files are available from [!UICONTROL Search] > [!UICONTROL Bulksheets].
+All downloaded data files, uploaded files, and error files are available from [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Bulksheets].
 
 Information for each file includes the current task status and the percent of the task that's completed, the date it was created, (when applicable) the date it was or will be posted to the specified ad network, the scheduled deletion date, and the login name of the user who initiated the task.
 

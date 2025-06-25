@@ -6,7 +6,7 @@ feature: Search Common Tasks
 ---
 # Select multiple rows
 
-You can select multiple rows in the [!UICONTROL Search] > [!UICONTROL Campaigns], [!UICONTROL Search > Label Classifications], and [!UICONTROL Optimization] > [!UICONTROL Constraints] views in the following ways:
+You can select multiple rows in the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns], [!UICONTROL Search > Label Classifications], and [!UICONTROL Optimization] > [!UICONTROL Constraints] views in the following ways:
 
 * Keyboard shortcuts:
 

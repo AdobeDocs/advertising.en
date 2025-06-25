@@ -42,7 +42,7 @@ Not all campaign types and ad networks are eligible for optimization; see a list
 
 ## (Legacy UI) Assign campaigns to a portfolio from the [!UICONTROL Campaigns] view
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
 
 1. Do either of the following:
 
@@ -80,7 +80,7 @@ Not all campaign types and ad networks are eligible for optimization; see a list
 
 ## (Legacy UI) Change the campaigns in a portfolio from the [!UICONTROL Portfolios] view
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Optimization] > [!UICONTROL Portfolios]**, and then locate the portfolio.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Portfolios]**, and then locate the portfolio.
 
    You can filter the portfolio list from the [!UICONTROL Portfolios] menu in the left panel by selecting a portfolio group or the [!UICONTROL Ungrouped Portfolios] node.
 

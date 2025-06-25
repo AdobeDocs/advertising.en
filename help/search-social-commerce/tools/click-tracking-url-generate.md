@@ -14,7 +14,7 @@ For information about when you must manually generate and implement a click-trac
 >
 >This feature doesn't implement the tracking template or destination URL in the relevant ad account.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Tracking URL]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Tracking URL]**.
 
 1. Select the ad network account from the list.
    

@@ -16,7 +16,7 @@ When you propagate data, you can optionally preview the generated data within a 
 
 ## Propagate feed files from the [!UICONTROL Templates] tab
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
 
 1. Select the check box next to the templates to propagate.
 
@@ -38,7 +38,7 @@ When you propagate data, you can optionally preview the generated data within a 
 
 ## Propagate feed files from the [!UICONTROL Feeds] list
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
 
 1. In the toolbar above the data table, click **[!UICONTROL Feeds]**.
 
@@ -66,7 +66,7 @@ When each propagation action is completed, a propagation summary is added to the
 
 ## View a propagation summary
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
 
 1. Click the **[!UICONTROL Propagations]** tab.
 
@@ -76,7 +76,7 @@ When each propagation action is completed, a propagation summary is added to the
 
 You can stop a propagation job for inventory feed data while the job is still queued.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
 
 1. In the "[!UICONTROL Last Prop. Status]" column next to the template name, click **[!UICONTROL Cancel]**.
 

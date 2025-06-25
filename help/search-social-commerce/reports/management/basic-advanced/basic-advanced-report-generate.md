@@ -6,7 +6,7 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 ---
 # Generate a basic report or advanced report
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
 
 1. In the toolbar above the data table, click **[!UICONTROL Create Report]**, hold the cursor over **[!UICONTROL Basic Reports]** or **[!UICONTROL Advanced Reports]**, and then click the [report type](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md).
 

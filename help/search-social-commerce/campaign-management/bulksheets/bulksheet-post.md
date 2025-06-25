@@ -13,7 +13,7 @@ Bulksheet files and error files are automatically deleted 30 days after they're 
 >[!NOTE]
 >You can also post a bulksheet file or error file when you upload the file.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
 
 1. Select the check box next to each file to post.
 

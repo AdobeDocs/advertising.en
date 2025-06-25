@@ -76,7 +76,7 @@ shoes<TAB>Clarks<TAB>20
 
 You can open or download any feed file that was uploaded manually or using FTP.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
 
 1. Locate the feed file:
 
@@ -95,7 +95,7 @@ You can open or download any feed file that was uploaded manually or using FTP.
 >[!NOTE]
 > If you associate a template with a manually uploaded file, but then you upload via FTP another file with the same name, file extension, and grammatical case, then the FTP file is used when you propagate the data through the template. For example, myfile.csv replaces myfile.csv, but Myfile.CSV doesn't.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
 
 1. In the toolbar above the data table, click **[!UICONTROL Feeds]**.
 
@@ -111,7 +111,7 @@ All fields in the file are validated. You can't post items with invalid field le
 
 When you replace a feed file &mdash; even if the new file has a different file name or extension &mdash; all existing template associations remain. The new file is used when you propagate data through all templates that were originally associated with the previous file.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
 
 1. Do either of the following:
 
@@ -135,7 +135,7 @@ All fields in the file are validated. You can't post items with invalid field le
 
 You can delete any feed file that's been uploaded manually or via FTP. When you delete a feed file, it's no longer associated with any templates.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
 
 1. In the toolbar above the data table, click **[!UICONTROL Feeds]**.
 

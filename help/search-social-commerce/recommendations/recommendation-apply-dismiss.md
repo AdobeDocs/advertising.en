@@ -14,7 +14,7 @@ View the recommended actions, and an explanation of why the actions would be ben
 >
 >While recommendations help you improve campaign performance, some may not align with your broader goals. As a result, it's best to consult with your Adobe Account Team before implementing any recommendation.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
 1. In the upper right, select the ad network and the account.
 

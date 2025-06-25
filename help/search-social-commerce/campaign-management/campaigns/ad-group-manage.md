@@ -18,7 +18,7 @@ You can create ad groups from within Search, Social, & Commerce for a [supported
 >
 >To add large amounts of ad group data at once, use the [copy and paste feature](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) or [campaign bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ad Groups]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ad Groups]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 
@@ -40,7 +40,7 @@ You can edit settings for individual ad groups. You can also edit some fields fo
 >
 >To edit large amounts of data at once, use the [copy and paste feature](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) or [bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ad Groups]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ad Groups]**.
 
 1. Do either of the following:
    
@@ -72,7 +72,7 @@ You can pause any active search ad group to disable bidding on it. You can later
 
 You also can delete any active or paused search ad group. Deleted ad groups are deleted from the ad network. They are still visible, but you can't change them.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ad Groups]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ad Groups]**.
 
 1. (Optional) Filter the list to include specific ad groups.
 

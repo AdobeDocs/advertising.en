@@ -6,7 +6,7 @@ feature: Search Reports, Search Specialty Reports
 ---
 # Generate a specialty report
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
 
 1. In the toolbar above the data table, click **[!UICONTROL Create Report]**, hold the cursor over **[!UICONTROL Specialty Reports]**, and then click the [report type](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md).
 

@@ -8,7 +8,7 @@ feature: Search Reports
 
 You can delete any report template available to you. When you delete a template that includes a schedule, that report isn't generated in the future.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
 
 1. Click the **[!UICONTROL Templates]** tab.
 

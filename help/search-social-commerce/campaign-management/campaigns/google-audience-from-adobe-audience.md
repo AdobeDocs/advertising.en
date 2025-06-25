@@ -40,7 +40,7 @@ Each new [!DNL Google] audience has the same name as the original [!DNL Adobe] a
      
    1. (If not already completed) An authorized user must configure the advertiser's account to [sync with the advertiser's organization account in Adobe Experience Cloud](/help/search-social-commerce/admin/sync-adobe-audiences.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Audiences] > [!UICONTROL Library]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Audiences] > [!UICONTROL Library]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 

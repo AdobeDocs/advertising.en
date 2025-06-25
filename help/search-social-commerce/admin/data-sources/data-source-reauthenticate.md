@@ -11,7 +11,7 @@ feature: Search Admin, Search Data Sources
 
 If you change the password for the email account used for a data source, or if the [!DNL OAuth] certificate for the account expires, then all open connections to the email account are closed, and you must reauthenticate to resume syncing data.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Data Source Setup]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Data Source Setup]**.
 
 1. Select the check box next to the data source that you want to reauthenticate.
 

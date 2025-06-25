@@ -12,7 +12,7 @@ feature: Search Reports
 >
 >Spreadsheet feeds are automatically refreshed at 08:00 each day in the local time zone.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Spreadsheet Feeds]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Spreadsheet Feeds]**.
 
 1. Select the check box next to each feed that you want to refresh.
 

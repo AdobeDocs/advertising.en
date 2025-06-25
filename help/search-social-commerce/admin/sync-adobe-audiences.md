@@ -22,7 +22,7 @@ To be eligible, the advertiser or agency must implement the [Adobe Experience Pl
 
 The initial sync takes about 24 hours. After that, data is synced in real time, with a one- to two- second delay.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Audience Manager Setup]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Audience Manager Setup]**.
 
 1. Enter the unique organization ID for the advertiser's Adobe Experience Cloud account, and then click **[!UICONTROL Submit]**.
 

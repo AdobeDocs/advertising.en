@@ -8,7 +8,7 @@ feature: Search Bulksheets
 
 You can download any generated or uploaded bulksheet file, including error files and landing page validation files, for 30 days. The files are automatically deleted 30 days after they're uploaded or generated.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
 
 1. (Optional) Above the bulksheet list, [add filters](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) to limit the files that are listed.
 

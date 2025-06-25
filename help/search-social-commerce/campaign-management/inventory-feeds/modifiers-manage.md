@@ -14,7 +14,7 @@ Each modifier group can include as many modifiers as you want. Each template can
 
 ## Create a modifier group
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
 
 1. In the toolbar above the data table, click **[!UICONTROL Modifiers]**.
 
@@ -30,7 +30,7 @@ Each modifier group can include as many modifiers as you want. Each template can
 
 ## Edit a Modifier Group
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
 
 1. In the toolbar above the data table, click **[!UICONTROL Modifiers]**.
 
@@ -50,7 +50,7 @@ Each modifier group can include as many modifiers as you want. Each template can
 >
 >When you delete a modifier group, remove all variables for that modifier group (denoted as `<modifier_group_name>`) from the fields of existing templates. If you try to propagate data through a template using variables for modifiers that don't exist, the job fail1.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
 
 1. In the toolbar above the data table, click **[!UICONTROL Modifiers]**.
 

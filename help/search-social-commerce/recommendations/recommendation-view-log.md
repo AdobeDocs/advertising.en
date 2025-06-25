@@ -12,7 +12,7 @@ You can view a log of each recommendation that was applied for a [!DNL Google Ad
 
 Dismissed recommendations aren't available from the ad network.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
 1. In the upper right, select the ad network and the account.
 

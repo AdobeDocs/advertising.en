@@ -8,7 +8,7 @@ exl-id: 7c9e2271-4127-4d43-aff8-5a2788bfe60f
 
 You can view a list of all [conversion](/help/search-social-commerce/glossary.md#c-d) metrics that Adobe Advertising has tracked for an advertiser. Each metric row includes the source of the metric.
 
-* In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
+* In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
 
 All conversion metrics that have been gathered for the advertiser, and any different display names assigned to them, are listed.
 

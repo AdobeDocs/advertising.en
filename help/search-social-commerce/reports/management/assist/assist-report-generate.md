@@ -8,7 +8,7 @@ feature: Search Reports, Search Assist Reports
 
 *Advertisers with Search, Social, & Commerce click tracking and with conversion tracking from Adobe Advertising, Adobe Analytics (with an [!DNL Analytics] integration), or provided in feeds using a token (`ef_id`) only*
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
 
 1. In the toolbar above the data table, click **[!UICONTROL Create Report]**, hold the cursor over **[!UICONTROL Assist Reports]**, and then click the report type.
 

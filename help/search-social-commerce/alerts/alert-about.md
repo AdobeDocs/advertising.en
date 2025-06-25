@@ -14,7 +14,7 @@ When an alert instance is triggered for an alert template:
 
 * The specified recipients receive an email notice. When the alert contains up to 1000 records, the email notice includes a [CSV](/help/search-social-commerce/glossary.md#c-d) file with the alert data, including data for all entities that triggered the alert.
 
-* The alert is listed in the [!UICONTROL Triggered Alerts] view in [!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]. A downloadable report is available for ten days after the alert is triggered. 
+* The alert is listed in the [!UICONTROL Triggered Alerts] view in [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]. A downloadable report is available for ten days after the alert is triggered. 
 
 * The alert is listed in the [!UICONTROL Notifications] center in the applicable entity view, which is available from the right toolbar. Notifications remain in the [!UICONTROL Notifications] center unless you delete them or mark them as read.
 

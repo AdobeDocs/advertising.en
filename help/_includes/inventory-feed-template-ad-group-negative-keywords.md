@@ -8,4 +8,4 @@
 * Negative phrase match: `"keyword"`
 * Negative exact match: `[keyword]`
 
-The customary syntax for phrase and exact match types is used in the bulksheet that's generated when you propagate feed data through the template. **Note:** You can't see the negative keywords in the [!UICONTROL Keywords] tab or in the [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+The customary syntax for phrase and exact match types is used in the bulksheet that's generated when you propagate feed data through the template. **Note:** You can't see the negative keywords in the [!UICONTROL Keywords] tab or in the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.

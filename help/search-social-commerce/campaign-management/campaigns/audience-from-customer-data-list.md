@@ -24,7 +24,7 @@ For [!DNL Microsoft Advertising] accounts, the file can include email addresses.
 
    First and last names, email addresses, and telephone numbers must be hashed using the SHA-256 algorithm. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> For [!DNL Google Ads] audiences, see the [!DNL Google Ads] documentation on "[Formatting guidelines for uploading hashed data](https://support.google.com/google-ads/answer/7476159)" for a list of permitted contact information fields and requirements. For [!DNL Microsoft Advertising] audiences, see the [!DNL Microsoft Advertising] documentation on [preparing customer match lists](https://help.ads.microsoft.com/#apex/ads/en/56921). You can optionally download a [!DNL Microsoft Excel] template for contact information.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Audiences] > [!UICONTROL Library]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Audiences] > [!UICONTROL Library]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 
@@ -87,7 +87,7 @@ The data must be the same type as the original customer list (email addresses, m
 
   First and last names, email addresses, and telephone numbers must be hashed using the SHA-256 algorithm. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> For [!DNL Google Ads] audiences, see the [!DNL Google Ads] documentation on "[Formatting guidelines for uploading hashed data](https://support.google.com/google-ads/answer/7476159)" for a list of permitted contact information fields and requirements. For [!DNL Microsoft Advertising] audiences, see the [!DNL Microsoft Advertising] documentation on [preparing customer match lists](https://help.ads.microsoft.com/#apex/ads/en/56921. You can optionally download a [!DNL Microsoft Excel] template for contact information.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Audiences] > [!UICONTROL Library]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Audiences] > [!UICONTROL Library]**.
 
 1. Select the check box next to the audience to edit.
 

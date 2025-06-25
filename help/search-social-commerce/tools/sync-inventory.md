@@ -14,7 +14,7 @@ You can enable and disable synchronization of [!DNL Google Ads] [!DNL YouTube] c
 
 These campaigns types are billed the same as other types of campaigns. Contact your Adobe Account Team for more details.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Inventory Selection]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Inventory Selection]**.
 
 1. Select the check box next to an option to enable synchronization, or clear a check box to disable synchronization.
    

@@ -12,7 +12,7 @@ You can manually delete bulksheet files, landing page validation error files, an
 >
 >If you posted a bulksheet but received errors, don't delete the error file until all errors are resolved.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
 
 1. Select the check box next to each file to delete.
 

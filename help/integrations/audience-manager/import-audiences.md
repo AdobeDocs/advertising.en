@@ -84,7 +84,7 @@ The API automatically:
 
        The [!UICONTROL Manually map segments] option allows you to manually map the segments to sync with the batch destination (`[!UICONTROL Adobe Media Optimizer Batch Destination]`). No segments need to be manually mapped to the HTTP destination.
 
-1. Within [!DNL Search, Social, & Commerce], either the [!DNL Search, Social, & Commerce] implementation team or a user with the direct access client manager role should initiate the import from [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Audience Manager Setup].
+1. Within [!DNL Search, Social, & Commerce], either the [!DNL Search, Social, & Commerce] implementation team or a user with the direct access client manager role should initiate the import from [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Audience Manager Setup].
 
     The organization's Experience Cloud [!DNL Organization ID] ([!DNL IMS org ID]) is required. The ID must be the same as the one used for the organization's Audience Manager account.
 
