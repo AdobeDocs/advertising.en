@@ -25,6 +25,7 @@ index: yes
   + [System requirements](/help/search-social-commerce/getting-started/system-requirements.md)
   + [Sign in](/help/search-social-commerce/getting-started/sign-in.md)
   + [How the user interface is organized](/help/search-social-commerce/getting-started/user-interface.md)
+  + [Switch between the new and legacy user interfaces](/help/search-social-commerce/getting-started/ui-switch.md)
   + [Sign out](/help/search-social-commerce/getting-started/sign-out.md)
 + Common tasks {#common-tasks}
   + [View data for another advertiser](/help/search-social-commerce/common-tasks/change-advertiser.md)
