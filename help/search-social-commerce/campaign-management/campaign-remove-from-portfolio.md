@@ -18,7 +18,7 @@ For more information about optimization, see the Optimization Guide, which is av
 
 1. In the toolbar above the data table, click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") **[!UICONTROL Edit]**.
 
-1. In the [portfolio settings](/help/search-social-commerce/beta-ui/manage/portfolios/portfolio-settings.md), go to the [!UICONTROL Assign Campaigns] section and change the campaign assignments.
+1. In the portfolio settings<!--[portfolio settings](/help/search-social-commerce/beta-ui/manage/portfolios/portfolio-settings.md)-->, go to the [!UICONTROL Assign Campaigns] section and change the campaign assignments.
 
 1. Click **[!UICONTROL Review and Save]**.
 
