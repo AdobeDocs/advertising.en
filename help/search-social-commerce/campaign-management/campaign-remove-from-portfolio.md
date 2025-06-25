@@ -12,6 +12,20 @@ The action is logged in the portfolio's change history.
 
 For more information about optimization, see the Optimization Guide, which is available from within Search, Social, & Commerce.
 
+## (New UI) Remove campaigns from a portfolio from the [!UICONTROL Manage] > [!UICONTROL Portfolios] view
+
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
+
+1. In the toolbar above the data table, click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") **[!UICONTROL Edit]**.
+
+1. In the [portfolio settings](/help/search-social-commerce/beta-ui/manage/portfolios/portfolio-settings.md), go to the [!UICONTROL Assign Campaigns] section and change the campaign assignments.
+
+1. Click **[!UICONTROL Review and Save]**.
+
+1. Review the settings and make changes as necessary, and then click **[!UICONTROL Save]**.
+
+## (Legacy UI) Remove campaigns from a portfolio from the [!UICONTROL Portfolios] view
+
 1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Optimization] > [!UICONTROL Portfolios]**, and then locate the portfolio.
 
    You can filter the portfolio list from the [!UICONTROL Portfolios] menu in the left panel by selecting a portfolio group or the [!UICONTROL Ungrouped Portfolios] node.
