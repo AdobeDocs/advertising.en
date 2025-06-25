@@ -2,6 +2,7 @@
 title: Switch between the new and legacy user interfaces
 description: Learn how to switch between the new and legacy user interfaces.
 feature: Search Introduction
+exl-id: 4dbdbaa1-6b06-42a2-86da-feb0183f3c9a
 ---
 # Switch between the new and legacy user interfaces
 
