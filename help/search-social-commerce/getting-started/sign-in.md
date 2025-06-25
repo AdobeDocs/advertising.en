@@ -40,6 +40,7 @@ You can sign in to Search, Social, & Commerce directly or from within Adobe Expe
 
 >[!MORELIKETHIS]
 >
+>* [Switch between the new and legacy user interfaces](ui-switch.md)
 >* [Sign out](sign-out.md)
 >* [Change your password](/help/search-social-commerce/tools/password-change.md)
 >* [How the user interface is organized](user-interface.md)
