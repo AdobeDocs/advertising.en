@@ -34,7 +34,7 @@ Not all campaign types and ad networks are eligible for optimization; see a list
 
 1. In the toolbar, click ![More Actions](/help/search-social-commerce/assets/more-actions.png "More Actions") **[!UICONTROL More Actions]** > ![Assign](/help/search-social-commerce/assets/assign.png "Assign") **[!UICONTROL Assign]** > **[!UICONTROL New Portfolio]**.
 
-1. In the [!UICONTROL Create Portfolio] screen, specify the [portfolio settings](/help/search-social-commerce/beta-ui/manage/portfolios/portfolio-settings.md).
+1. In the [!UICONTROL Create Portfolio] screen, specify the portfolio settings<!--[portfolio settings](/help/search-social-commerce/beta-ui/manage/portfolios/portfolio-settings.md)-->.
 
    The campaigns you selected previously are already assigned to the campaign. You can optionally edit the campaign list for the portfolio.
 
