@@ -1,0 +1,22 @@
+---
+title: Switch between the new and legacy user interfaces
+description: Learn how to switch between the new and legacy user interfaces.
+feature: Search Introduction
+---
+# Switch between the new and legacy user interfaces
+
+You can switch between the new user interface (UI), which includes the <!-- default --> beta optimization workflow, and the legacy UI, which includes the legacy optimization workflow and all additional features. The new UI opens by default when you log in.
+
+## Switch from the new UI to the legacy UI
+
+* In the upper right of the view, click **[!UICONTROL Switch to Old UI]**.
+
+## Switch from the legacy UI to the new UI
+
+* At the top of any page, click **[!UICONTROL Try the new UI Beta]**.
+
+<!--
+>[!MORELIKETHIS]
+>
+>* [How the user interface is organized](user-interface.md)
+-->
