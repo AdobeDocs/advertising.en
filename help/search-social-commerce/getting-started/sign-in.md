@@ -6,37 +6,53 @@ feature: Search Getting Started
 ---
 # Sign in
 
-<!-- update with new info -->
+Search, Social, & Commerce is transitioning to the Adobe Identity Management Service (IMS) for login authentication. IMS provides single sign-on (SSO) access to all [!DNL Adobe] products that support IMS, including Real-Time Customer Data Platform, Customer Journey Analytics, Target, and Analytics. With the change:
 
-<!--
+* You can use one [!DNL Adobe ID] to sign in across [!DNL Adobe] products from either the Experience Cloud sign-in page or the legacy Search, Social, & Commerce sign-in page. Your [!DNL Adobe ID] provides user profile management and the ability to switch to a different [!DNL Adobe] product from the top menu. In a future release, you’ll be able to change the Search, Social, & Commerce account and IMS organization account from the top menu.
 
-You can sign in to Search, Social, & Commerce directly or from within Adobe Experience Cloud.
+* Enterprise authentication is supported.
 
-## Sign in directly
+* You can stay logged in for 24 hours.
 
- -->
+Your current Search, Social, & Commerce credentials will remain active until 15 July 2025 so that you can prepare for the change.
 
-* Sign in to one of the following URLs:
+For more information about the Experience Cloud interface, including managing your user profile, see "[Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)."
 
-  * Users in North America: [https://enterprise-na.efrontier.com](https://enterprise-na.efrontier.com)
-  
-  * Users in all other areas: [https://enterprise-intl.efrontier.com](https://enterprise-intl.efrontier.com)
+## Sign in from the legacy Search, Social, & Commerce sign-in page
 
-<!--
+### Use a legacy Search, Social, & Commerce login for authentication
 
-## Sign in from Adobe Experience Cloud
+This option is available until 15 July 2025.
 
->[!NOTE]
->
->Your company must be provisioned in Adobe Experience Cloud, and you must have [linked your Experience Cloud account to a Search, Social, & Commerce account](https://experiencecloud.adobe.com/resources/help/en_US/mcloud/organizations.html).
+* Go to [enterprise-na.efrontier.com/](https://enterprise-na.efrontier.com/) or [enterprise-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), and sign in using your legacy Search, Social, & Commerce credentials.
 
-1. [Sign in to Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html#signin).
+  The legacy user interface opens by default.
 
-1. In the top menu, select ![Solution selector](/help/search-social-commerce/assets/menu-icon.png "Solution selector").
+## Use an [!DNL Adobe ID] for authentication
 
-1. In the submenu, select **[!UICONTROL Advertising Cloud]**.
+1. Go to [enterprise-na.efrontier.com/](https://enterprise-na.efrontier.com/) or [enterprise-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), and sign in using your [!DNL Adobe] ID.
 
--->
+  The new user interface opens by default.
+
+## Sign in from Adobe Experience Cloud using an [!DNL Adobe ID]
+
+<!-- Later, give them the new direct URL(s) to our UI so they don't have to select the product. -->
+
+1. Go to [experience.adobe.com](https://experience.adobe.com).
+
+1. Enter your [!DNL Adobe] ID credentials.
+
+1. Choose your organization:
+
+   * If prompted, select either **Personal Account" or **Company or School Account**.<!-- Will it necessarily be "Company or School Account?" -->
+
+   * If you have access to multiple IMS organizations, select the correct one.
+
+1. In the [!UICONTROL Quick Access] section of your home page, click **[!UICONTROL Advertising Search, Social, & Commerce]**.
+
+  ![Advertising Search, Social, & Commerce)](/help/search-social-commerce/assets/search-social-commerce-logo.png "Advertising Search, Social, & Commerce)")
+
+  The new user interface opens by default.
 
 >[!MORELIKETHIS]
 >
