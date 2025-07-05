@@ -24,15 +24,21 @@ For more information about the Experience Cloud interface, including managing yo
 
 This option is available until 15 July 2025.
 
-* Go to [enterprise-na.efrontier.com/](https://enterprise-na.efrontier.com/) or [enterprise-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), and sign in using your legacy Search, Social, & Commerce credentials.
+* Go to [enterprise-na.efrontier.com/](https://enterprise-na.efrontier.com/) or [enterprise-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), and sign in using your legacy Search, Social, & Commerce username and password.
 
   The legacy user interface opens by default.
 
 ## Use an [!DNL Adobe ID] for authentication
 
-1. Go to [enterprise-na.efrontier.com/](https://enterprise-na.efrontier.com/) or [enterprise-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), and sign in using your [!DNL Adobe] ID.
+1. Go to [enterprise-na.efrontier.com/](https://enterprise-na.efrontier.com/) or [enterprise-intl.efrontier.com/](https://enterprise-intl.efrontier.com/) and click **[!UICONTROL Sign in with SSO]**.
 
-  The new user interface opens by default.
+1. Enter your [!DNL Adobe] ID, and click **[!UICONTROL Continue]**.
+
+1. If prompted, select either **Personal Account" or **Company or School Account**.<!-- Will it necessarily be "Company or School Account?" -->
+
+   The new user interface opens by default.
+
+1. If you have access to multiple IMS organizations, select the correct organization in the upper right of the page.
 
 ## Sign in from Adobe Experience Cloud using an [!DNL Adobe ID]
 
@@ -40,19 +46,17 @@ This option is available until 15 July 2025.
 
 1. Go to [experience.adobe.com](https://experience.adobe.com).
 
-1. Enter your [!DNL Adobe] ID credentials.
+1. Enter your [!DNL Adobe] ID, and click **[!UICONTROL Continue]**..
 
-1. Choose your organization:
-
-   * If prompted, select either **Personal Account" or **Company or School Account**.<!-- Will it necessarily be "Company or School Account?" -->
-
-   * If you have access to multiple IMS organizations, select the correct one.
+1. If prompted, select either **Personal Account" or **Company or School Account**.<!-- Will it necessarily be "Company or School Account?" -->
 
 1. In the [!UICONTROL Quick Access] section of your home page, click **[!UICONTROL Advertising Search, Social, & Commerce]**.
 
   ![Advertising Search, Social, & Commerce)](/help/search-social-commerce/assets/search-social-commerce-logo.png "Advertising Search, Social, & Commerce)")
 
   The new user interface opens by default.
+
+1. If you have access to multiple IMS organizations, select the correct organization in the upper right of the page.
 
 >[!MORELIKETHIS]
 >
