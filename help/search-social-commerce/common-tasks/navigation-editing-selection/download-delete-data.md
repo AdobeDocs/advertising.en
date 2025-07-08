@@ -6,7 +6,7 @@ feature: Search Common Tasks
 ---
 # Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu
 
-<!-- Add info about new UI -->
+*Legacy user interface*
 
 >[!NOTE]
 >

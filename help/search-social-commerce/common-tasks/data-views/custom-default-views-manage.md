@@ -82,7 +82,7 @@ Custom views are applicable to the campaign management views only.
    >
    >Use a name that helps you to identify the tab and the information to which it applies (such as "Paused Campaigns" or "Top 50 Ads").
 
-## Edit a default or custom view
+## Edit a default or custom view {#view-edit}
 
 ### (New UI) Edit a default or custom view
 
@@ -126,7 +126,7 @@ Custom views are applicable to the campaign management views only.
 
    * To save the settings to a new, custom view, click **[!UICONTROL Save As]**. In the [!UICONTROL Enter New Custom View Name] window, enter the name of the new view, and then click **[!UICONTROL Save]**.
 
-## (New UI) Clone a default or custom view
+## (New UI) Clone a default or custom view {#view-clone}
 
 *Available in the [!UICONTROL Simulations], [!UICONTROL Portfolios], [!UICONTROL Campaigns], and [!UICONTROL Ad Groups] views*
 

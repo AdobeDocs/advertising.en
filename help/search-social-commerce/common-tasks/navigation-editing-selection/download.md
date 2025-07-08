@@ -6,7 +6,7 @@ feature: Search Common Tasks
 ---
 # Download data from a campaign management view
 
-<!-- Add info about new UI -->
+*Legacy user interface*
 
 You can download data from the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views except for the [!UICONTROL Keywords] - [!UICONTROL Keyword Negatives], [!UICONTROL Placements] - [!UICONTROL Placement Negatives], [!UICONTROL Audiences], and [!UICONTROL Extensions] views. You can download either:
 
