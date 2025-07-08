@@ -18,7 +18,9 @@ If you edit a custom metric that's included as a column in one of your default v
 
 1. Above the data table, do either of the following:
 
-   * Click ![View selector](/help/search-social-commerce/assets/view.png "View selector") \[The name of the default view or custom view\] to open the view settings. Example: ![Example view](/help/search-social-commerce/assets/view-selector-example.png "Example view")
+   * Click the name of the currently-applied view (![View](/help/search-social-commerce/assets/view.png "View")). Hold the cursor over the name of any editable view and click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") to open the view settings.
+
+     Your changes will become visible in all of your views.
    
    * Click ![Custom Columns](/help/search-social-commerce/assets/custom-columns-new.png "Custom Columns") to open the column configuration settings.
 
