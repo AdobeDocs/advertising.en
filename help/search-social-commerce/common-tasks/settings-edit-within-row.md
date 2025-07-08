@@ -6,7 +6,7 @@ feature: Search Common Tasks
 ---
 # Edit settings directly within a row
 
-*Legacy user interface*
+*Legacy user interface only*
 
 >[!NOTE]
 >

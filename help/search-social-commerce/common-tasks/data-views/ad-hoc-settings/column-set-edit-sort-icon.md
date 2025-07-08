@@ -6,7 +6,11 @@ feature: Search Common Tasks, Search Custom Data Views
 ---
 # Edit and sort the column set from the [!UICONTROL Custom Columns] icon
 
-You can change the visible columns in any of your views from the right toolbar. The changes are applied only until you leave the campaign management views or you view data for a different advertiser.
+<!-- The same in new UI and legacy CM views except for icon -->
+
+<!-- Doesn't include instructions for legacy Portfolios views; not available for Reports -->
+
+You can change the visible columns in any of your views from the right toolbar. The changes are applied only until you leave the applicable views or you view data for a different advertiser.
 
 >[!NOTE]
 >
@@ -14,9 +18,9 @@ You can change the visible columns in any of your views from the right toolbar. 
 >
 >You can save changes to the columns that are included for a specific advertiser by editing the default view or [creating a custom view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#create-custom-view).
 
-1. On the right of the toolbar, click ![Columns](/help/search-social-commerce/assets/custom-columns.png "Columns").
+1. On the right of the toolbar, click ![Custom Columns](/help/search-social-commerce/assets/custom-columns.png "Custom Columns") or ![Custom Columns](/help/search-social-commerce/assets/custom-columns-new.png "Custom Columns").
 
-1. (Optional) [Create a custom (derived) metric](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-create.md) to include as a column.
+1. (Optional) [Create a custom metric](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-create.md) to include as a column.
 
 1. Specify the columns to include in the view:
 
@@ -34,6 +38,10 @@ You can change the visible columns in any of your views from the right toolbar. 
 
    * Specify the column by which to sort the rows.
 
-   * (Optional) Move the slider to sort the values of the selected column in **[!UICONTROL Ascending]** or **[!UICONTROL Descending]** order.
+   * (Optional) Specify the sort order for the values of the selected column:
+   
+     * (New UI) Select **[!UICONTROL Ascending]** or **[!UICONTROL Descending]**.
+     
+     * (Legacy UI) Move the slider to **[!UICONTROL Ascending]** or **[!UICONTROL Descending]**.
 
 1. Click **[!UICONTROL Apply]**.

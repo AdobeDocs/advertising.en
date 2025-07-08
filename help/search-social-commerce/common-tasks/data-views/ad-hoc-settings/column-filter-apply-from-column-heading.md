@@ -6,6 +6,8 @@ feature: Search Common Tasks, Search Custom Data Views
 ---
 # Apply a data filter from a column heading menu
 
+<!-- The same in new UI and legacy CM views -->
+
 <!-- Doesn't include instructions for legacy Portfolios or Reports views -->
 
 You can apply as many filters as you want to a column, one at a time.<!-- True only for entity names, I think: All filters are joined using the AND operator. --> To add more than one filter at a time using all available metrics, see "[Apply data filters from the toolbar](column-filter-apply-from-toolbar.md)."

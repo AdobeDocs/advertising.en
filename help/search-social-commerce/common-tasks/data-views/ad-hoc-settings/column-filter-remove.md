@@ -6,6 +6,8 @@ feature: Search Common Tasks, Search Custom Data Views
 ---
 # Remove a column filter
 
+<!-- The same in new UI and legacy CM views -->
+
 >[!NOTE]
 >
 >You can also remove multiple filters in a filter set by [editing the filter set](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md).
