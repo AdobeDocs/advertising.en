@@ -6,6 +6,8 @@ feature: Search Common Tasks
 ---
 # Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu
 
+<!-- Add info about new UI -->
+
 >[!NOTE]
 >
 >Deleting a bulksheet file removes it from [!UICONTROL Downloads] list and also from the [!UICONTROL Bulksheets] view.

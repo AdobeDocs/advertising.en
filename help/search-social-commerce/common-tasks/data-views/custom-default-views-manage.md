@@ -8,17 +8,23 @@ feature: Search Common Tasks, Search Custom Data Views
 
 <!-- Doesn't include instructions for legacy Portfolios or Reports views -->
 
-Your default views and custom views allow you to customize the performance data that is displayed within the search campaign data views. View settings include the columns to include, filters, date range, conversion attribution settings, and other advanced settings &mdash; and you can either apply the settings temporarily or save them. (Exception: You can't save filters for default views.) Each default and regular custom view is applicable for a specific entity view (such as [!UICONTROL Campaigns]) and specific advertiser account only. Each universal custom view is applicable across entity views for a specific advertiser and therefore can't include property columns (such as entity name or status), which vary by entity type.
+Your default views and custom views allow you to customize the performance data that is displayed within the search campaign data views. View settings include the columns to include, filters, date range, conversion attribution settings, and other advanced settings &mdash; and you can either apply the settings temporarily or save them. (Exception: You can't save filters for default views.) Each default and regular custom view is applicable for a specific view (such as [!UICONTROL Portfolios] or [!UICONTROL Campaigns]) and specific advertiser account only. In the legacy user interface, each universal custom view is applicable across entity views for a specific advertiser and therefore can't include property columns (such as entity name or status), which vary by entity type.
 
-Default views are displayed by default each time you sign in. You can create additional custom views and apply them anytime. You optionally can share any custom view you create with all other users who can view the advertiser's data. In your view lists, each view that another person is sharing is italicized, such as "*Top-performing Campaigns*." Only the person who creates a custom view can delete it.
+Default views are displayed by default each time you sign in. You can create additional custom views and apply them anytime. You optionally can share any custom view you create with all other users who can view the advertiser's data.<!-- I no longer see this in the legacy CM views - why? --> In your view lists, each view that another person is sharing is italicized, such as "*Top-performing Campaigns*." Only the person who creates a custom view can delete it.
 
-Each view is available as a shortcut in the [!UICONTROL Custom Views] section of the left panel.
+In the legacy user interface, each view is available as a shortcut in the [!UICONTROL Custom Views] section of the left panel.
 
-<!--
-## (New UI) Apply a default or custom view
--->
+## Apply a default or custom view
 
-## (Legacy UI) Apply a default or custom view
+### (New UI) Apply a default or custom view to a management view
+
+1. Above the data table, click the name of the currently-applied view (![View](/help/search-social-commerce/assets/view.png "View")).
+
+1. As needed, click any of the tabs ([!UICONTROL All Views], [!UICONTROL Private], [!UICONTROL Shared by Me], and [!UICONTROL From Others]) to locate the view.
+
+1. Hold the cursor over the name of the view and click **[!UICONTROL Apply]**.
+
+### (Legacy UI) Apply a default or custom view to a campaign management view
 
 * (Default views) In the main menu, click **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live]** \> **\[entity type\]**.
 
@@ -37,6 +43,12 @@ Each view is available as a shortcut in the [!UICONTROL Custom Views] section of
      If the view is universal or applies to the current entity, then the data table is re-displayed according to the view configuration. If the view applies to a different entity, then data for the applicable entity is displayed according to the view configuration.
 
 ## Create a custom view {#create-custom-view}
+
+<!--
+## (New UI) Create a custom view from management views
+-->
+
+## (Legacy UI) Create a custom view from campaign management views
 
 Custom views are applicable to the campaign management views only.
 

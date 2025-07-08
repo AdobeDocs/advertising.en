@@ -5,8 +5,8 @@ exl-id: 35490f9f-adde-4538-9013-4cb37b7abfbd
 feature: Search Common Tasks
 ---
 # Select multiple rows
-
-You can select multiple rows in the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns], [!UICONTROL Search > Label Classifications], and [!UICONTROL Optimization] > [!UICONTROL Constraints] views in the following ways:
+i
+You can select multiple rows in the new user interface from the management views and in the legacy UI from [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns], [!UICONTROL Search > Label Classifications], and [!UICONTROL Optimization] > [!UICONTROL Constraints]:
 
 * Keyboard shortcuts:
 
@@ -16,11 +16,11 @@ You can select multiple rows in the [!UICONTROL Search, Social, & Commerce] > [!
 
 * Global check box (![Check box](/help/search-social-commerce/assets/check-box.png) "Check box") in the upper-left column heading:
 
-  * To select all rows on the current page &mdash; which may include some or all rows available with the applied filters, based on whether you're viewing 25 rows, 50 rows, 100 rows, 200 rows, or [!UICONTROL Continuous Scroll] &mdash; select the global check box.
+  * To select all rows on the current page &mdash; which may include some or all rows available with the applied filters, based on whether you're viewing 25 rows, 50 rows, 100 rows, 200 rows, or (legacy campaign management views only) [!UICONTROL Continuous Scroll] &mdash; select the global check box.
   
     When you select all rows on the page, you can de-select individual rows.
 
-  * To select all rows available with the applied filters, select the global check box, and then click **[!DNL Select all N records?]**, where *N* is the number of available records.
+  * (Legacy campaign management views only) To select all rows available with the applied filters, select the global check box, and then click **[!DNL Select all N records?]**, where *N* is the number of available records.
   
     When you select all rows available, you can't de-select individual rows.
 
