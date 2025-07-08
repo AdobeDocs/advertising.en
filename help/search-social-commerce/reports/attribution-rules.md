@@ -17,9 +17,9 @@ In reports, default and custom views for Advertising Search, Social, & Commerce 
 >[!NOTE]
 >
 >* Attribution rules apply to clicks on paid ads in any channel and to impressions on display and social ads. They don't apply to impressions for paid search ads, which can't be tracked at the event level.
->* Adobe Advertising always stores the following events for each Web surfer before a conversion:  a) the first paid click; b) up to 10 clicks for each channel (search, social, or display), including the first click; and c) up to 10 display impressions. <!-- But it can continue to attribute conversions to clicks and impressions for longer. -->
-* In Advertising DSP and Advertising Creative, cross-device definitions consider only the event path from the attribution rule selected.<!-- cross-device attribution via LiveRamp only -->
-* In reports and management views, the number of decimal places shown for a value depends on the currency, but Adobe Advertising stores more precise values.
+>* Adobe Advertising always stores the following events for each Web surfer before a conversion:  a) the first paid click; b) up to 10 clicks for each channel (search, social, or display), including the first click; and c) up to 10 display impressions.<!-- But it can continue to attribute conversions to clicks and impressions for longer. -->
+>* In Advertising DSP and Advertising Creative, cross-device definitions consider only the event path from the attribution rule selected.<!-- cross-device attribution via LiveRamp only -->
+>* In reports and management views, the number of decimal places shown for a value depends on the currency, but Adobe Advertising stores more precise values.
  
 ## Last Event (the default)
 
