@@ -6,6 +6,8 @@ feature: Search Common Tasks, Search Custom Data Views
 ---
 # About customizing data in campaign management views
 
+<!-- Add info about new UI -->
+
 In most campaign data views, you can customize the data that appears within the data table. You can customize the data in the following ways:
 
 * Edit the settings for your entire default view for a specific entity view (such as [!UICONTROL Campaigns]) to include a specific column order, filters, date range, attribution rule, and more &mdash; and either apply the settings temporarily or save them. You can also create additional custom views and apply any of your views anytime.
