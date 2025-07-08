@@ -6,6 +6,8 @@ feature: Search Common Tasks
 ---
 # Edit settings directly within a row
 
+*Legacy user interface*
+
 >[!NOTE]
 >
 >Not all ad account and portfolio settings can be edited within the row.
