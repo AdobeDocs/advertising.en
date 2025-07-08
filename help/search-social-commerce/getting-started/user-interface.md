@@ -50,3 +50,4 @@ The [!UICONTROL Search] option includes the following submenus. The available op
 >
 >* [Sign in](sign-in.md)
 >* [Sign out](sign-out.md)
+>* [Switch between the new UI and the legacy UI](ui-switch.md)
