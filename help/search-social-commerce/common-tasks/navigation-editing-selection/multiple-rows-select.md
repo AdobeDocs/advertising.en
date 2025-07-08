@@ -5,8 +5,8 @@ exl-id: 35490f9f-adde-4538-9013-4cb37b7abfbd
 feature: Search Common Tasks
 ---
 # Select multiple rows
-i
-You can select multiple rows in the new user interface from the management views and in the legacy UI from [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns], [!UICONTROL Search > Label Classifications], and [!UICONTROL Optimization] > [!UICONTROL Constraints]:
+
+You can select multiple rows in the new user interface from the management views and in the legacy user interface from [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns], [!UICONTROL Search > Label Classifications], and [!UICONTROL Optimization] > [!UICONTROL Constraints]:
 
 * Keyboard shortcuts:
 
