@@ -12,7 +12,23 @@ If you edit a custom metric that's included as a column in one of your default v
 >
 >Complex custom metrics take longer to calculate, and reports and views that include them &mdash; especially when they include separate columns for click-through and view-through conversions &mdash; take longer to be generated.
 
-## Edit a custom metric from a campaign management view
+## (New UI) Edit a custom metric from a management view
+
+*Available in the [!UICONTROL Simulations], [!UICONTROL Portfolios], [!UICONTROL Campaigns], and [!UICONTROL Ad Groups] views*
+
+1. Above the data table, do either of the following:
+
+   * Click ![View selector](/help/search-social-commerce/assets/view.png "View selector") \[The name of the default view or custom view\] to open the view settings. Example: ![Example view](/help/search-social-commerce/assets/view-selector-example.png "Example view")
+   
+   * Click ![Custom Columns](/help/search-social-commerce/assets/custom-columns-new.png "Custom Columns") to open the column configuration settings.
+
+1. Hold the cursor over the column name, and click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") next to the column name.
+
+1. Specify the [custom metric settings](custom-metric-settings.md).
+
+1. Click **[!UICONTROL Save]**.
+
+## (Legacy UI) Edit a custom metric from a campaign management view
 
 1. Above the data table, do either of the following:
 
@@ -26,7 +42,7 @@ If you edit a custom metric that's included as a column in one of your default v
 
 1. Click **[!UICONTROL Save]**.
 
-## Edit a custom metric from a report or report template form
+## (Legacy UI) Edit a custom metric from a report or report template form
 
 1. Within a report or report template form, go to the **[!UICONTROL Columns]** tab.
 
@@ -36,7 +52,7 @@ If you edit a custom metric that's included as a column in one of your default v
 
 1. Click **[!UICONTROL Submit]**.
 
-## Edit a custom metric from the [!UICONTROL Portfolios] views
+## (Legacy UI) Edit a custom metric from the [!UICONTROL Portfolios] views
 
 1. Above the data table, click ![Edit Selected View](/help/search-social-commerce/assets/view-settings.png "Edit Selected View").
 
