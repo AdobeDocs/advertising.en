@@ -156,7 +156,7 @@ The system default settings vary by management view. For most management views, 
 
   1. As needed, click any of the tabs ([!UICONTROL All Views], [!UICONTROL Private], [!UICONTROL Shared by Me], and [!UICONTROL From Others]) to locate the view.
 
-  1. Hold the cursor over the name of the view and click ![Revert](/help/search-social-commerce/assets/revert-new.md).
+  1. Hold the cursor over the name of the view and click ![Revert](/help/search-social-commerce/assets/revert-new.jpg).
 
 * From the legacy campaign management views: 
 
