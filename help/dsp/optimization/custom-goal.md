@@ -41,7 +41,7 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
 
 1. Create the custom goal as an *objective*:
 
-    1. In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Optimization] > [!UICONTROL New Objectives Beta]**.
+    1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Optimization] > [!UICONTROL New Objectives Beta]**.
 
     1. In the toolbar, click ![Create](/help/dsp/assets/create-search-ui.png "Create").
 

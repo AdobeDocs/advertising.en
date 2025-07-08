@@ -26,7 +26,7 @@ In the legacy user interface, each view is available as a shortcut in the [!UICO
 
 ### (Legacy UI) Apply a default or custom view to a campaign management view
 
-* (Default views) In the main menu, click **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live]** \> **\[entity type\]**.
+* (Default views) In the main menu, click **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live]** \> **\[entity type\]**.
 
 * (Custom views) From the left navigation panel:
 
@@ -46,6 +46,17 @@ In the legacy user interface, each view is available as a shortcut in the [!UICO
 
 <!--
 ## (New UI) Create a custom view from management views
+
+*Available in the [!UICONTROL Simulations], [!UICONTROL Portfolios], [!UICONTROL Campaigns], and [!UICONTROL Ad Groups] views*
+
+Custom views are specific to a single view (such as the [!UICONTROL Portfolios] view).
+
+1. Above the data table, click the name of the currently-applied view (![View](/help/search-social-commerce/assets/view.png "View")).
+
+2. Click **[!UICONTROL Create View]**.
+
+
+
 -->
 
 ## (Legacy UI) Create a custom view from campaign management views

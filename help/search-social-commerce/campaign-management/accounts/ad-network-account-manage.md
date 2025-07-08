@@ -27,7 +27,7 @@ To enable syncing or tracking of an account, you must create a corresponding acc
 >* Support isn't available for new [!DNL Baidu] accounts.
 >* To create an actual account on the ad network, go to the ad network's website.
 
-1. In the main menu, click **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 
@@ -67,7 +67,7 @@ If account credentials change, you want to change the default tracking parameter
 >
 >To edit an actual account on the ad network, go to the ad network's website.
 
-1. In the main menu, click **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
 
 1. Hold the cursor over the account name, click ![More](/help/search-social-commerce/assets/more-filters.png "More"), and then select **[!UICONTROL Edit]**.
 
@@ -93,7 +93,7 @@ Your Adobe Account Team will inform you if new features require a new token.
 
 1. (If you're logged in to another account for the same ad network in the same browser application) Log out of any account other than the advertiser's.
 
-1. In the main menu, click **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
 
 1. Hold the cursor over the account name, click ![More](/help/search-social-commerce/assets/more-filters.png "More"), and then select **[!UICONTROL Edit]**.
 
@@ -115,7 +115,7 @@ Your Adobe Account Team will inform you if new features require a new token.
 
 When you enable an ad network account, Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios.When you disable an ad network account, Search, Social, & Commerce stops all activity on the account. Data collected while the account was active is still stored, but the campaign management views and reports don't include data for the time period in which the account is disabled. You can later re-enable the account to resume activity with the account.
 
-1. In the main menu, click **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
 
 1. Do either of the following:
 

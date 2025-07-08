@@ -14,7 +14,7 @@ You can optionally subscribe to, or unsubscribe from, email and web notification
    
    * In the upper right of any page, click ![Notifications](/help/search-social-commerce/assets/notifications-panel.png "Notifications") to open the [!UICONTROL Notifications] panel. In the upper right, click ![Settings](/help/search-social-commerce/assets/settings-nc.png "Settings").
    
-   * In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]**. In the left menu, click ![Settings](/help/search-social-commerce/assets/settings-nc.png "Settings").
+   * In the main menu, click **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]**. In the left menu, click ![Settings](/help/search-social-commerce/assets/settings-nc.png "Settings").
 
 1. Change your settings for any [notification category](notification-about.md):
     
