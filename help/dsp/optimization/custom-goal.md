@@ -29,7 +29,7 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
 
 1. Make sure the metrics that you want to include in your goal have been tracked, are available in the product, and include a display name:
 
-    1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
+    1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
 
     1. Locate the metric, and make sure that **[!UICONTROL Show in UI and Reports]** is enabled for the metric.
 
@@ -41,7 +41,7 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
 
 1. Create the custom goal as an *objective*:
 
-    1. In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Optimization] > [!UICONTROL New Objectives Beta]**.
+    1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Optimization] > [!UICONTROL New Objectives Beta]**.
 
     1. In the toolbar, click ![Create](/help/dsp/assets/create-search-ui.png "Create").
 

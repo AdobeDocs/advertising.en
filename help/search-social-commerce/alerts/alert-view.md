@@ -12,7 +12,7 @@ If you want to edit the campaigns or campaign entities identified in an alert, y
 
 ## View alerts Within the [!UICONTROL Triggered Alerts] view
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**.
 
 1. In the submenu, click **[!UICONTROL Triggered Alerts]**.
 

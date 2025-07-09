@@ -20,7 +20,7 @@ For campaigns with the "[!UICONTROL Auto Upload]" option, the sync operation als
 >
 >Anytime you [create a bulksheet](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md), you can optionally sync with the ad network before the bulksheet is created.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns]**. In the submenu, select either **[!UICONTROL Accounts]** to sync all campaigns in specific accounts or **[!UICONTROL Campaigns]** to sync specific campaigns.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns]**. In the submenu, select either **[!UICONTROL Accounts]** to sync all campaigns in specific accounts or **[!UICONTROL Campaigns]** to sync specific campaigns.
 
 1. (Optional) Filter the list to include specific accounts or campaigns.
 

@@ -14,7 +14,7 @@ You can save multiple report templates for any type of performance report. You c
    
    * From the [!UICONTROL Templates] tab:
      
-     * In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
+     * In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
      
      * Click the **[!UICONTROL Templates]** tab.
      
@@ -26,7 +26,7 @@ You can save multiple report templates for any type of performance report. You c
 
 * To create a template based on an existing template:
   
-  1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
+  1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
   
   1. Click the **[!UICONTROL Templates]** tab.
   

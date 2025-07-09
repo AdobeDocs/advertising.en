@@ -18,7 +18,7 @@ You can see where a destination URL is actually sending a user by removing the S
 >
 >* You can decode as many URLs at a time as you want, but the performance depends on the browser you use.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Decode Tracking URLs]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Decode Tracking URLs]**.
 
 1. In the input field, enter each URL containing Search, Social, & Commerce tracking code.
 

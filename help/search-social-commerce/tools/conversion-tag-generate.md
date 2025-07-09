@@ -14,7 +14,7 @@ Create a separate conversion tag for each set of metrics that you want to track,
 >
 >This feature doesn't add image tags or [!DNL JavaScript] tags to the advertiser's webpages. The tags must be added according to the advertiser's normal procedure for updating webpages.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Tags]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Conversion Tags]**.
 
 1. Specify the [conversion tag settings](#conversion-tag-settings).
 

@@ -12,7 +12,7 @@ Create and manage account-level shared callout extensions for any [synchronized 
 
 ## Create a [!DNL Google Ads] shared callout
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Extensions] > [!UICONTROL Callout]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Extensions] > [!UICONTROL Callout]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 
@@ -28,7 +28,7 @@ Once you create a sitelink, you can [assign it to an account, campaign, or ad gr
 
 You can edit one shared callout at a time.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Extensions] > [!UICONTROL Callout]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Extensions] > [!UICONTROL Callout]**.
 
 1. Select the check box next to the callout to edit.
 
@@ -40,7 +40,7 @@ You can edit one shared callout at a time.
 
 ## Delete [!DNL Google Ads] shared callouts
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Extensions] > [!UICONTROL Callout]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Extensions] > [!UICONTROL Callout]**.
 
 1. Select the check box next to each shared callout you want to delete.
    

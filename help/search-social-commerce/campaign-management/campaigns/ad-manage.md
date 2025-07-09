@@ -20,7 +20,7 @@ You can create, edit, and change the status of ads from the [!UICONTROL Campaign
 >
 >To create many ads at once, use the [copy and paste feature](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) or [campaign bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ads]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ads]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 
@@ -50,7 +50,7 @@ You can create, edit, and change the status of ads from the [!UICONTROL Campaign
 >
 >To edit large amounts of data at once, use the [copy and paste feature](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) or [campaign bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ads]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ads]**.
 
 1. Do either of the following:
    
@@ -80,7 +80,7 @@ You can pause an active ad to disable bidding on it. You can later resume biddin
 
 You also can delete any active or paused search ad. Deleted ads are deleted from the ad network. They're still visible, but you can't change them.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ads]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Ads]**.
 
 1. (Optional) Filter the list to include specific ads.
 

@@ -14,7 +14,7 @@ You can use any of the assets for your performance max campaigns.
 
 ## Create and upload assets
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Asset Library]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Asset Library]**.
 
 1. In the upper right, select the ad network and the account.
 

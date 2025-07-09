@@ -62,7 +62,7 @@ You can track performance metrics across all of your campaigns and for any indiv
 
    For more information, contact your Adobe Account Team.
 
-All uploaded tracking data is available from [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] within the [!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], and [!UICONTROL Keywords] views. It's also available for reports in the [!UICONTROL Insights & Reports] view.
+All uploaded tracking data is available from [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] within the [!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], and [!UICONTROL Keywords] views. It's also available for reports in the [!UICONTROL Insights & Reports] view.
 
 >[!MORELIKETHIS]
 >

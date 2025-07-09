@@ -16,7 +16,7 @@ Label values are inherited by child entities, so don't enter values for child en
 >
 >Your keywords and ad copy for some ad networks and campaign types are [non-mutable](/help/search-social-commerce/campaign-management/faqs-campaigns.md), which means that editing them deletes the existing entity and creates a new one. When an existing entity is deleted in this way, the label classification isn't assigned to the new entity.
 
-1. Click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**, and then select the account component view.
+1. Click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**, and then select the account component view.
 
 1. Do either of the following:
    

@@ -12,7 +12,7 @@ You can view a report in the web browser, or open or save the report data as a [
 >
 >Adobe Account Team members and administrator users can view reports created by client and agency roles.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**, which opens to the **[!UICONTROL Latest Reports]** tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**, which opens to the **[!UICONTROL Latest Reports]** tab.
 
 1. Do either of the following:
 

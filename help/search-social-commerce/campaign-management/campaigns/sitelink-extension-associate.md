@@ -12,7 +12,7 @@ You can create ad extensions by assigning sitelinks from your [!DNL Sitelinks] l
 
 You must have at least six active sitelinks for both desktop and mobile for your sitelinks to appear with ads. You can assign up to 20 sitelinks per account, campaign or ad group.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Extensions] > [!UICONTROL Associations]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Extensions] > [!UICONTROL Associations]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create"), and then select **[!UICONTROL Sitelink]**.
 

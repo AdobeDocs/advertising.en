@@ -28,7 +28,7 @@ All new [!DNL Google Ads] accounts automatically use the current AMO ID format.
 >
 >After you migrate an account, all click, cost, and impression data are reported correctly after the change, but any click-throughs that occurred before the migration are still attributed to conversion data based on the old AMO ID format.
 
-1. In the main menu, click **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
 
 1. Hold the cursor over the account name, click ![arrow dropdown icon](/help/search-social-commerce/assets/arrow-dropdown-menu.png), and then select **[!UICONTROL Edit]**.
 

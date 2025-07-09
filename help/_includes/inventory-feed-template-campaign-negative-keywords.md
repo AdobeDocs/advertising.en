@@ -14,7 +14,7 @@ For each string, click **[!UICONTROL Add (Up to 3)]** and enter the following in
   * Negative phrase match: `"keyword"`
   * Negative exact match: `[keyword]`
 
-The customary syntax for phrase and exact match types is used in the bulksheet that's generated when you propagate feed data through the template. **Note:** You can't see the negative keywords in the [!UICONTROL Keywords] tab or in the [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+The customary syntax for phrase and exact match types is used in the bulksheet that's generated when you propagate feed data through the template. **Note:** You can't see the negative keywords in the [!UICONTROL Keywords] tab or in the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
 
 **[!UICONTROL All other campaigns: Apply these negatives]:** (All ad networks except [!DNL Yandex]; optional) Any static campaign-level negative keywords to add for campaigns whose name doesn't match a specified string. To specify multiple keywords or multiple match types for the same keyword, enter them on separate lines. Use the following syntax, without a minus sign:
 
@@ -22,4 +22,4 @@ The customary syntax for phrase and exact match types is used in the bulksheet t
 * Negative phrase match: `"keyword"`
 * Negative exact match: `[keyword]`
 
-The customary syntax for phrase and exact match types is used in the bulksheet that's generated when you propagate feed data through the template. **Note:** You can't see the negative keywords in the [!UICONTROL Keywords] tab or in the [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+The customary syntax for phrase and exact match types is used in the bulksheet that's generated when you propagate feed data through the template. **Note:** You can't see the negative keywords in the [!UICONTROL Keywords] tab or in the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.

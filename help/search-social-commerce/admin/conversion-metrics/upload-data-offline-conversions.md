@@ -12,7 +12,7 @@ You can upload your first-party, offline conversion data &mdash; including hashe
 
 ## Upload data for enhanced conversions
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**, and then click the **[!UICONTROL Upload]** tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Conversions]**, and then click the **[!UICONTROL Upload]** tab.
 
 1. Select the ad network, and then the account.
 

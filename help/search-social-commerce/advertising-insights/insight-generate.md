@@ -6,7 +6,7 @@ feature: Search Advertising Insights
 ---
 # Generate an [!DNL Advertising Insight]
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Advertising Insights]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Advertising Insights]**.
 
 2. Click the insight that you want to generate.
 

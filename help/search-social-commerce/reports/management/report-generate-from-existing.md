@@ -6,7 +6,7 @@ feature: Search Reports
 ---
 # Generate a report from an existing report
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**, which opens to the **[!UICONTROL Latest Reports]** tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**, which opens to the **[!UICONTROL Latest Reports]** tab.
 
 1. Click ![Create Similar button](/help/search-social-commerce/assets/create-similar.png "Create Similar button") next to the existing report.
 

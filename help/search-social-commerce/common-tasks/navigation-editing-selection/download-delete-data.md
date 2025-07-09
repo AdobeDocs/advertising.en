@@ -6,11 +6,13 @@ feature: Search Common Tasks
 ---
 # Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu
 
+*Legacy user interface*
+
 >[!NOTE]
 >
 >Deleting a bulksheet file removes it from [!UICONTROL Downloads] list and also from the [!UICONTROL Bulksheets] view.
 
-1. In the main menu, click [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns], and open any entity view.
+1. In the main menu, click [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns], and open any entity view.
 
 1. On the right of the toolbar, click ![Report Download](/help/search-social-commerce/assets/download.png "Report Download") to view the Downloads panel.
 

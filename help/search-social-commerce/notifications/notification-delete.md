@@ -16,7 +16,7 @@ feature: Search Notifications
 
 ## Delete a notification within [!UICONTROL Notification Center]
 
-1. (From within Search, Social, & Commerce) In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Notification Center Beta]**.
+1. (From within Search, Social, & Commerce) In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Notification Center Beta]**.
 
 1. (Optional) To filter your notifications by type, click *[!UICONTROL Notices]*, *[!UICONTROL Recommendations]*, *[!UICONTROL Warnings]*, or *[!UICONTROL Issues]*.
 

@@ -14,7 +14,7 @@ For synced campaigns, you can optionally sync with the ad network before downloa
 >
 >You can also [create a bulksheet file based on the visible columns in a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md).
 
-1. In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Campaigns]** > **[!UICONTROL Bulksheets]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Campaigns]** > **[!UICONTROL Bulksheets]**.
 
 1. In the toolbar, click **[!UICONTROL Download Bulksheet]**.
 

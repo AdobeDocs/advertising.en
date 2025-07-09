@@ -10,7 +10,7 @@ feature: Search Campaign Management
 
 You can delete campaign- and ad group-level associations with any location, phone, and sitelink extension.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Extensions] > [!UICONTROL Associations]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Extensions] > [!UICONTROL Associations]**.
 
 1. Select the check box next to each association that you want to delete.
 

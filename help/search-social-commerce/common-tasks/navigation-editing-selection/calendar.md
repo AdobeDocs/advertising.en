@@ -18,8 +18,10 @@ feature: Search Common Tasks
 
    * Click the date.
 
-   * (To move forward or back by one month) Click **`<`** or **`>`**, respectively.
+   * (Most views) To move forward or back by one month or one year, click **`<`** or **`>`**, respectively.
    
-   * (To select another month or year) Click the name of the month or the year, and then click the month or the year.
+   * (Legacy [!UICONTROL Portfolios] view) To select another month or year, click the name of the month or the year, and then click the month or the year.
    
-   (To highlight the current date) Click **[!UICONTROL Today]**.
+   * To highlight the current date, click **[!UICONTROL Today]**.
+
+1. Click **[!UICONTROL Apply]**.

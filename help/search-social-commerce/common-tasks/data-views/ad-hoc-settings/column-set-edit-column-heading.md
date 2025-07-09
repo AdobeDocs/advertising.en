@@ -6,6 +6,10 @@ feature: Search Common Tasks, Search Custom Data Views
 ---
 # Edit the column set from the column heading menu
 
+<!-- Doesn't include instructions for legacy Portfolios views; not available for Reports -->
+
+*Legacy user interface only*
+
 You can temporarily show and hide the columns included in any of your views from any column heading in the view. The changes are applied only until you leave the view or you view data for a different advertiser.
 
 >[!NOTE]

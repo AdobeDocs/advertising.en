@@ -10,7 +10,7 @@ You can create conversion tags for new conversions to be tracked for individual 
 
 To generate conversion tags for existing conversions, use the ad network's editor.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**, which opens to the **[!UICONTROL Summary]** tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Conversions]**, which opens to the **[!UICONTROL Summary]** tab.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 

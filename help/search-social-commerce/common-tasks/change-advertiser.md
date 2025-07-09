@@ -6,8 +6,16 @@ feature: Search Common Tasks
 ---
 # View data for another advertiser
 
-*Agency account manager, [!DNL Adobe] account manager, and administrator user roles only*
-
 *Users who manage multiple advertiser accounts only*
+
+## (New UI) View data for another advertiser
+
+* In the toolbar above the data table, select the advertiser.
+
+  ![Advertiser selector in toolbar](/help/search-social-commerce/assets/advertiser-selector.png "Advertiser selector in toolbar")
+
+## (Legacy UI) View data for another advertiser
+
+*Agency account manager, [!DNL Adobe] account manager, and administrator user roles only*
 
 * In the advertiser list in the upper right of any page, select the advertiser.

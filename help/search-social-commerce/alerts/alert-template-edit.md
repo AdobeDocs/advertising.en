@@ -6,7 +6,7 @@ feature: Search Alerts
 ---
 # Edit a custom alert template
 
-1.  In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**, which opens to the [!UICONTROL Alert Templates] view.
+1.  In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**, which opens to the [!UICONTROL Alert Templates] view.
 
 1.  (Optional) Filter the view to include row with specific names, data range to evaluate, or other criteria.
 

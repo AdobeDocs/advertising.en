@@ -10,7 +10,7 @@ exl-id: faf4a6de-e82f-4afd-bda5-2602fb45aee5
 
 You can create conversion actions for [!DNL Google Ads] enhanced conversions for leads to be tracked for individual [!DNL Google Ads] accounts, not conversions tracked at a manager account level.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**, which opens the **[!UICONTROL Summary]** tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Conversions]**, which opens the **[!UICONTROL Summary]** tab.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 

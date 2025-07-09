@@ -14,7 +14,7 @@ You can change which report template, [!DNL Microsoft Excel] template, and other
 >
 > If you edit the columns in the report template or use a new or updated report template, then you must update the [!DNL Excel] template accordingly and upload it again.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Spreadsheet Feeds]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Spreadsheet Feeds]**.
 
 1. (Optional) To update the report template or the [!DNL Excel] template used for the spreadsheet feed:
 

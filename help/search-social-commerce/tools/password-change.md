@@ -8,7 +8,7 @@ feature: Search Tools
 
 Changing your password logs you out of the current session. To continue working, you must sign in with the new password.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Change Password]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Change Password]**.
 
 1. Enter information in the fields, and then click **[!UICONTROL Submit]**.
 

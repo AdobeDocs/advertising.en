@@ -19,7 +19,7 @@ You can later download the file, correct the errors and upload the corrected fil
 >* This feature doesn't validate values in the Base URL/Final URL column.
 >* You can post bulksheet files while they are being validated, or even if errors are found.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
 
 1. Select the check box next to each file to validate.
 

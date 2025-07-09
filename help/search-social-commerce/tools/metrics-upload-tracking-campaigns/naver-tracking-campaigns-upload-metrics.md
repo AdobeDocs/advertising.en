@@ -12,7 +12,7 @@ You can upload a TSV, CSV, or TXT file of daily-aggregated traffic metrics and c
 
 Search, Social, & Commerce doesn't synchronize data with the ad network, nor place bids for the account.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Generic Tracking]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Generic Tracking]**.
 
 1. Select the ad network.
 

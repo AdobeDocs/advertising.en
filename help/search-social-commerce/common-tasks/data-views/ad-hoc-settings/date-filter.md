@@ -6,7 +6,9 @@ feature: Search Common Tasks, Search Custom Data Views
 ---
 # Filter data by date range
 
-The same global date range filter is applied to most of your campaign data views, across all of your advertisers, except for default and custom views for which you've saved specific date ranges. The system default date range for campaign management views is "Yesterday."
+<!-- The same in new UI and legacy CM views -->
+
+The same global date range filter is applied to most of your data views, across all of your advertisers, except for default and custom views for which you've saved specific date ranges. The system default date range for campaign management views is "Yesterday."
 
 Your date range settings are saved to a browser-specific cookie, so any changes to the date range filter are used for all of your advertisers each time you sign in using the same browser application until you change the filter or delete the cookie. Each browser application you use stores date range filter settings in a different cookie.
 
@@ -32,7 +34,7 @@ When you save a specific date range for a default view or custom view, that rang
 
 1. (Optional) Compare data for the specified date range with data for a second date range:
 
-   1. Move the **[!UICONTROL Comparison]** slider to *[!UICONTROL On]*.
+   1. Move the **[!UICONTROL Comparison]** slider to the "on" position.
 
       When you select this option, two additional columns are added for each regular data column. For example, instead of including just one column for "[!UICONTROL Impressions]," the table includes columns for "[!UICONTROL Impressions R1]," "[!UICONTROL Impressions R2]," and "[!UICONTROL Impressions Diff]."  If you export the data, then the same columns are spelled out as "[!UICONTROL Impressions Range 1]," "[!UICONTROL Impressions Range 2]," and "[!UICONTROL Impressions Difference]."
 

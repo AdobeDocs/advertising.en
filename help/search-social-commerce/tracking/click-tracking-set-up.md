@@ -22,7 +22,7 @@ For Search, Social, & Commerce to track clicks, the following elements must be c
 
 1. For each ad network account, do the following:
 
-   1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Accounts]**.
+   1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Accounts]**.
    
    1. Hold the cursor over the account name, click ![Menu icon](/help/search-social-commerce/assets/arrow-dropdown-menu.png "Menu icon"), and then select **[!UICONTROL Edit]**.
    
@@ -36,7 +36,7 @@ For Search, Social, & Commerce to track clicks, the following elements must be c
 
 1. For each campaign, do the following:
 
-   1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
+   1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
    
    1. Hold the cursor over the campaign name, click ![Menu icon](/help/search-social-commerce/assets/arrow-dropdown-menu.png "Menu icon"), and then select **[!UICONTROL Edit]**.
    

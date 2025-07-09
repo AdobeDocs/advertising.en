@@ -6,7 +6,25 @@ feature: Search Common Tasks, Search Custom Metrics
 ---
 # Create a custom metric
 
-## Create a custom metric from a campaign management view
+## (New UI) Create a custom metric from a management view
+
+*Available in the [!UICONTROL Simulations], [!UICONTROL Portfolios], [!UICONTROL Campaigns], and [!UICONTROL Ad Groups] views*
+
+1. Above the data table, do either of the following:
+
+   * Click the name of the currently-applied view (![View](/help/search-social-commerce/assets/view.png "View")). Hold the cursor over the name of any editable view and click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") to open the view settings.
+
+     The custom metric you create will become available in all of your views.
+   
+   * Click ![Custom Columns](/help/search-social-commerce/assets/custom-columns-new.png "Custom Columns") to open the column configuration settings.
+
+1. Below the column list that opens, click ![Create Custom Metric](/help/search-social-commerce/assets/add.png "Create Custom Metric") **[!UICONTROL Create Custom Metric]**.
+
+1. Specify the [custom metric settings](custom-metric-settings.md).
+
+1. Click **[!UICONTROL Create]**.
+
+## (Legacy UI) Create a custom metric from a campaign management view
 
 1. Above the data table, do either of the following:
 
@@ -14,13 +32,13 @@ feature: Search Common Tasks, Search Custom Metrics
    
    * Click ![Custom Columns](/help/search-social-commerce/assets/custom-columns.png "Custom Columns") to open the column configuration settings.
 
-1. Below the column list that opens, click ![Create New Custom Metric](/help/search-social-commerce/assets/add.png) **[!UICONTROL Create New Custom Metric]**.
+1. Below the column list that opens, click ![Create New Custom Metric](/help/search-social-commerce/assets/add.png "Create New Custom Metric") **[!UICONTROL Create New Custom Metric]**.
 
 1. Specify the [custom metric settings](custom-metric-settings.md).
 
 1. Click **[!UICONTROL Save]**.
 
-## Create a custom metric from a report or report template form
+## (Legacy UI) Create a custom metric from a report or report template form
 
 1. Within a report or report template form, go to the **[!UICONTROL Columns]** tab.
 
@@ -30,7 +48,7 @@ feature: Search Common Tasks, Search Custom Metrics
 
 1. Click **[!UICONTROL Submit]**.
 
-## Create a custom metric from the [!UICONTROL Portfolios] views
+## (Legacy UI) Create a custom metric from the [!UICONTROL Portfolios] views
 
 1. Above the data table, click ![Edit Selected View](/help/search-social-commerce/assets/view-settings.png "Edit Selected View").
 

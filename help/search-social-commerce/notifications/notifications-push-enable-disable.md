@@ -22,7 +22,7 @@ You can disable push notifications according to the browser's standard procedure
 
 ## Enable push notifications
 
-1. In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]**.
 
 2. In the bottom right, click ![Enable push notifications](/help/search-social-commerce/assets/notifications-push.png "Enable push notifications").
 

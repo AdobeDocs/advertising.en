@@ -14,7 +14,7 @@ Set up spreadsheet feeds using specially formatted [!DNL Excel] spreadsheet temp
 
 2. Create the spreadsheet feed:
    
-   1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Spreadsheet Feeds]**.
+   1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Spreadsheet Feeds]**.
    
    1. In the toolbar above the data table, click **[!UICONTROL Create]**.
    

@@ -6,7 +6,9 @@ feature: Search Common Tasks
 ---
 # Download data from a campaign management view
 
-You can download data from the [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views except for the [!UICONTROL Keywords] - [!UICONTROL Keyword Negatives], [!UICONTROL Placements] - [!UICONTROL Placement Negatives], [!UICONTROL Audiences], and [!UICONTROL Extensions] views. You can download either:
+*Legacy user interface*
+
+You can download data from the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views except for the [!UICONTROL Keywords] - [!UICONTROL Keyword Negatives], [!UICONTROL Placements] - [!UICONTROL Placement Negatives], [!UICONTROL Audiences], and [!UICONTROL Extensions] views. You can download either:
 
 * A report in [!DNL XLSM] (macro-enabled [!DNL Microsoft Excel] spreadsheet) format. If you select specific rows in the view, then the report includes one row for each selected row. If you don't select any rows, then one row is created for each row in the view.
 

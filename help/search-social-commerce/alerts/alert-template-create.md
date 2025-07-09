@@ -10,7 +10,7 @@ You can create an alert template for portfolios, campaigns, ad groups, keywords,
 
 ## Create an alert template from the [!UICONTROL Alert Templates] view
 
-1.  In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**, which opens to the [!UICONTROL Alert Templates] view.
+1.  In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**, which opens to the [!UICONTROL Alert Templates] view.
 
 1.  In the toolbar, click ![Create](/help/search-social-commerce/assets/add.png "Create"), and then select the entity type to be evaluated ([!UICONTROL Portfolio], [!UICONTROL Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Ad], or [!UICONTROL Product Group]).
 
@@ -26,9 +26,9 @@ You can create an alert template for portfolios, campaigns, ad groups, keywords,
 >
 >This option isn't available for portfolio-level alert templates.
 
-1.  Within the **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]** view, open the campaign management subview for the entity type to be evaluated ([!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], [!UICONTROL Ads], or [!UICONTROL Product Groups]).
+1.  Within the **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]** view, open the campaign management subview for the entity type to be evaluated ([!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], [!UICONTROL Ads], or [!UICONTROL Product Groups]).
     
-   For example, to create a keyword-level alert template, go to [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns], and then select [!UICONTROL Keywords].
+   For example, to create a keyword-level alert template, go to [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns], and then select [!UICONTROL Keywords].
 
 1.  On the right side of the toolbar above the data table, click ![Create Alert](/help/search-social-commerce/assets/add-alert.png "Create Alert").
 

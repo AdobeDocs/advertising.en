@@ -15,7 +15,7 @@ To integrate metrics for multiple properties or for multiple views for a single 
 
 1. [Perform all prerequisites to integrating the [!DNL Google Analytics] account](data-source-prerequisites.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Data Source Setup]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Data Source Setup]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 

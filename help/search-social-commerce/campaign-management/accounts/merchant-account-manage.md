@@ -24,7 +24,7 @@ To view product data and generate tracking templates for a merchant account, and
 >
 >To create an actual account on the merchant network, go to the network's website.
 
-1. In the main menu, click **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Products]**, which opens to the [!UICONTROL Accounts] tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Products]**, which opens to the [!UICONTROL Accounts] tab.
 
 1. In the toolbar above the data table, click **[!UICONTROL Create Account]**.
 
@@ -86,7 +86,7 @@ If account credentials change or you want to stop retrieving and using data for 
 
 When you disable a merchant account, Search, Social, & Commerce doesn't log in to the account and therefore doesn't retrieve updated product data. Data collected while the account was enabled is still stored, and existing ads created using product data aren't updated, paused, or deleted according to the feed template and feed data settings.
 
-1. In the main menu, click **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Products]** , which opens to the [!UICONTROL Accounts] tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Products]** , which opens to the [!UICONTROL Accounts] tab.
 
 1. Next to the account name, click ![View/edit settings](/help/search-social-commerce/assets/settings.png "View/edit settings").
 
