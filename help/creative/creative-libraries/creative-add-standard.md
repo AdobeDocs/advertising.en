@@ -203,10 +203,6 @@ Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size i
 
 1. Click **[!UICONTROL Create]**
 
-
-
-
-
 ## Add a video creative to a creative library
 
 See the [video creative specifications](/help/creative/creative-libraries/creative-libraries-about.md#creative-video-specs) and the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
@@ -227,15 +223,9 @@ See the [video creative specifications](/help/creative/creative-libraries/creati
 
 1. Specify the [video creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-video).
 
-   By default, all creatives you just uploaded are selected, and any settings you specify apply to all selected creatives. Any settings with only one value apply to all selected creatives. To enter settings for specific creatives, deselect each inapplicable creative.
+   By default, the creative you just uploaded is selected, and any settings you specify apply to the selected creative.<!-- By default, all creatives you just uploaded are selected, and any settings you specify apply to all selected creatives. Any settings with only one value apply to all selected creatives. To enter settings for specific creatives, deselect each inapplicable creative. -->
 
 1. Click **[!UICONTROL Create]**
-
-
-
-
-
-
 
 >[!MORELIKETHIS]
 >
