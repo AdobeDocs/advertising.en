@@ -12,7 +12,7 @@ You can stop posting campaign data generated from a feed in the following ways.
 
 * While data is still being propagated, stop the propagation job so no data is available to post:
 
-  1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+  1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
 
   1. In the "[!UICONTROL Last Prop. Status]" column next to the template name, click **[!UICONTROL Cancel]**.
 

@@ -26,7 +26,7 @@ In addition, [!DNL Google Ads] campaign-level performance metrics on the search 
 >
 >(Advertisers with portfolios) Expect the performance of new keyword and match type combinations to be volatile while Search, Social, & Commerce gathers data to create models for them.
 
-**Actions in the [!UICONTROL Search] > [!UICONTROL Campaigns] views, in the bulksheet posting process, and in the ad network's own editor:**
+**Actions in the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] views, in the bulksheet posting process, and in the ad network's own editor:**
 
 The existing keyword or ad is deleted and another one is created when:
 
@@ -93,7 +93,7 @@ In both cases, the base URLs with Search, Social, & Commerce tracking include th
 
 [!DNL Google Ads] campaign-level performance metrics on the search network for the current day are pulled at 08:00 and 16:00 in the advertiser's time zone.
 
-In the [!UICONTROL Campaigns] tab in both  the [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view and the [!UICONTROL Optimization] > [!UICONTROL Portfolios] view, when you report on [!UICONTROL Today] or a custom date range that includes the current day, the data includes the most recently synched data.
+In the [!UICONTROL Campaigns] tab in both  the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view and the [!UICONTROL Optimization] > [!UICONTROL Portfolios] view, when you report on [!UICONTROL Today] or a custom date range that includes the current day, the data includes the most recently synched data.
 
 >[!NOTE]
 >

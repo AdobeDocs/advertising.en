@@ -16,7 +16,7 @@ You can create negative keywords for a search ad group or campaign that targets 
 >[!TIP]
 >To create many negative keywords at once, use [campaign bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Keywords] > [!UICONTROL Negatives]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Keywords] > [!UICONTROL Negatives]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create"), and then click **[!UICONTROL Campaign]** to create campaign-level negative keywords or **[!UICONTROL Ad Group]** to create ad group-level negative keywords.
 

@@ -26,7 +26,7 @@ For a successful posting, all ad groups must be assigned to campaigns, all keywo
   >
   >If you didn't previously validate your landing pages and want to do so, then [propagate data and preview it](feed-data-propagate.md) from the [!UICONTROL Bulksheets] view instead of posting it to the ad network. You can then [validate the URLs](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-validate-landing-pages.md) before manually posting the file to the ad network.
 
-  1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+  1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
   
   1. Select the check box next to the template.
   
@@ -48,7 +48,7 @@ For a successful posting, all ad groups must be assigned to campaigns, all keywo
          
            To specify a date, use the format DD/MM/YYYY or D/M/YYYY or click ![Calendar](/help/search-social-commerce/assets/calendar.png "Calendar") to open the calendar and [select a date](/help/search-social-commerce/common-tasks/navigation-editing-selection/calendar.md). To change a time, enter the time in the 24-hour format HH/MM or H/M or select a time (in 30-minute intervals) from the list.
 
-       * **[!UICONTROL Preview in Bulksheet Management Area only, post later]:** Creates a bulk sheet file that's available from the [!UICONTROL Search] > [!UICONTROL Bulksheets] view. You can optionally post the file from there.
+       * **[!UICONTROL Preview in Bulksheet Management Area only, post later]:** Creates a bulk sheet file that's available from the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Bulksheets] view. You can optionally post the file from there.
        
          When the resulting bulksheet file is more than 2 MB, the file is in ZIP format. You don't need to unzip the file to post it.
 

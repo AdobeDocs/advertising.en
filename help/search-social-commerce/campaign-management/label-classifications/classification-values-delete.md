@@ -12,7 +12,7 @@ Deleting label classification values makes them unavailable for future use, and 
 >
 >To simply disassociate a classification value from an account component, see "[Remove classification values from campaign components](classification-values-remove.md)."
 
-1. Click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Label Classifications]**.
+1. Click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Label Classifications]**.
 
 1. In the submenu, select **[!UICONTROL Label Values]**.
 

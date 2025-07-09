@@ -8,7 +8,23 @@ feature: Search Common Tasks, Search Custom Metrics
 
 If the custom metric is included as a column in the current view, then deleting a column deletes it immediately. If it's included in another default view or custom view, or in a report template, then the column change is visible the next time you refresh the view or view the template, respectively.
 
-## Delete a custom metric from a campaign management view
+## (New UI) Delete a custom metric from a management view
+
+*Available in the [!UICONTROL Simulations], [!UICONTROL Portfolios], [!UICONTROL Campaigns], and [!UICONTROL Ad Groups] views*
+
+1. Above the data table, do either of the following:
+
+   * Click the name of the currently-applied view (![View](/help/search-social-commerce/assets/view.png "View")). Hold the cursor over the name of any editable view and click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") to open the view settings.
+
+     The custom metric will be deleted from all of your views.
+   
+   * Click ![Custom Columns](/help/search-social-commerce/assets/custom-columns-new.png "Custom Columns") to open the column configuration settings.
+
+1. Hold the cursor over the column name, and click ![Delete](/help/search-social-commerce/assets/delete-new.png "Delete") next to the column name.
+
+1. In the confirmation message, click **[!UICONTROL Confirm]**.
+
+## (Legacy UI) Delete a custom metric from a campaign management view
 
 1. Above the data table, do either of the following:
 
@@ -20,7 +36,7 @@ If the custom metric is included as a column in the current view, then deleting 
 
 1. In the confirmation message, click **[!UICONTROL OK]**.
 
-## Delete a custom metric from a report or report template form
+## (Legacy UI) Delete a custom metric from a report or report template form
 
 1. Within a report or report template form, go to the **[!UICONTROL Columns]** tab.
 
@@ -28,7 +44,7 @@ If the custom metric is included as a column in the current view, then deleting 
 
 1. In the confirmation message, click **[!UICONTROL Yes]**.
 
-## Delete a custom metric from the [!UICONTROL Portfolios] views
+## (Legacy UI) Delete a custom metric from the [!UICONTROL Portfolios] views
 
 1. Above the data table, click ![Edit Selected View](/help/search-social-commerce/assets/view-settings.png "Edit Selected View").
 

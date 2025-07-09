@@ -8,7 +8,7 @@ feature: Search Bulksheets
 
 You can upload bulksheet files, corrected landing page validation error files, and other corrected error files from your device or network for [supported ad networks](bulksheet-about.md#bulksheet-functionality-by-network). Any custom columns in the file are deleted when you upload the file.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
 
 1. In the toolbar above the data table, click **[!UICONTROL Upload Bulksheet]**.
 

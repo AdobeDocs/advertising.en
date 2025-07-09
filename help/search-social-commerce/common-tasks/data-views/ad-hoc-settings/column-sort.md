@@ -6,6 +6,8 @@ feature: Search Common Tasks, Search Custom Data Views
 ---
 # Re-sort a column
 
+<!-- The same in new UI and legacy CM views -->
+
 1. (When available) On the right side of the column heading, click ![Down arrow](/help/search-social-commerce/assets/arrow-down-expand.png "Down arrow").
 
 1. Select the sorting option:

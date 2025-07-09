@@ -14,7 +14,7 @@ You can't delete an existing display name.
 >
 >For [metrics from Google Analytics](/help/search-social-commerce/admin/data-sources/data-source-about.md), any manual changes to the display name are overwritten if you update or reauthenticate the integration. Similarly, any name changes within Google Analytics are ignored unless you [update](/help/search-social-commerce/admin/data-sources/data-source-edit.md) or [reauthenticate](/help/search-social-commerce/admin/data-sources/data-source-reauthenticate.md) the integration.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
 
 1. In the **[!UICONTROL Display Name]** column for the metric, click inside the cell.
 

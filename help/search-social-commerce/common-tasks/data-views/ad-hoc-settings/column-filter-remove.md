@@ -6,10 +6,16 @@ feature: Search Common Tasks, Search Custom Data Views
 ---
 # Remove a column filter
 
+<!-- The same in new UI and legacy CM views -->
+
 >[!NOTE]
 >
 >You can also remove multiple filters in a filter set by [editing the filter set](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md).
 
-1. (If necessary) In the filter set above the data table, click ![More](/help/search-social-commerce/assets/more-filters.png "More") to expand the filter set.
+* (When available) Above the data table, click **[!UICONTROL X]** in the filter definition.
 
-1. Above the data table, click **[!UICONTROL X]** in the filter definition.
+>[!MORELIKETHIS]
+>
+>* [Apply a data filter from a column heading menu](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
+>* [Apply data filters from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md)
+>* [Edit column filters](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md)

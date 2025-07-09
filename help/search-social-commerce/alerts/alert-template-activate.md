@@ -8,7 +8,7 @@ feature: Search Alerts
 
 You can activate paused alert templates.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**, which opens to the Alert Templates view.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**, which opens to the Alert Templates view.
 
 1. Do either of the following:
 

@@ -8,7 +8,7 @@ feature: Search Alerts
 
 You can delete only the alert templates that you created.
 
-1.  In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**, which opens to the Alert Templates view.
+1.  In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**, which opens to the Alert Templates view.
 
 1.  Select the check box next to each alert template that you want to delete.
 

@@ -32,7 +32,7 @@ Within an ad group, you can create up to seven levels of product groups (not inc
  
 ## The [!UICONTROL Product Groups] view
 
-You can create and edit product groups, and delete product groups and their child product groups, in the [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Product Groups] view.
+You can create and edit product groups, and delete product groups and their child product groups, in the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Product Groups] view.
 
 ## Tracking and performance data for shopping product groups
 

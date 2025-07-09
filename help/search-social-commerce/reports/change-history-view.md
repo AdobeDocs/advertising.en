@@ -10,7 +10,7 @@ The [!UICONTROL Change History] report includes a log of changes made to the adv
 
 You can sort and filter the data by any column.
 
-1. In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Change History]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Change History]**.
 
 1. (Optional) Change the data included in the report in any of the following ways:
     

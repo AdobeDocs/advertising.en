@@ -10,7 +10,7 @@ You can pause an active, biddable search keyword to disable bidding on it. You c
 
 You can also delete active or paused search keywords or negative keywords. Deleted keywords/negative keywords are deleted from the ad network. They're still visible, but you can't change them.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Keywords] > \[[!UICONTROL Keywords] \| [!UICONTROL Negatives]\]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Keywords] > \[[!UICONTROL Keywords] \| [!UICONTROL Negatives]\]**.
 
 1. (Optional) Filter the list to include specific keywords or negative keywords.
 

@@ -8,7 +8,7 @@ feature: Search Campaign Management
 
 *[!DNL Google Ads] and [!DNL Microsoft Advertising] shopping campaigns only*
 
-You can create and edit product groups, and delete product groups and their child product groups, in the [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Product Groups] view.
+You can create and edit product groups, and delete product groups and their child product groups, in the [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Product Groups] view.
 
 ## Create an "[!UICONTROL All Products]" product group
 
@@ -18,7 +18,7 @@ Before you can create product groups with specific attributes, you must first cr
 >
 >To create many account components at once, use [campaign bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live] > [!UICONTROL Product Groups]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live] > [!UICONTROL Product Groups]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 
@@ -40,7 +40,7 @@ Once you've create at least an all-inclusive "[!UICONTROL All Products]" group f
 >
 >To create many account components at once, use [campaign bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live] > [!UICONTROL Product Groups]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live] > [!UICONTROL Product Groups]**.
 
 1. (Optional) To view a product group and its child product group nodes in Tree View, hold the cursor over the product group name, click ![Menu icon](/help/search-social-commerce/assets/arrow-dropdown-menu.png "Menu icon"), and then select **[!UICONTROL Tree View]**.
 
@@ -54,7 +54,7 @@ Once you've create at least an all-inclusive "[!UICONTROL All Products]" group f
 
 You can edit the bid and tracking template for unit product group nodes (product groups without child product group nodes) that are included for an ad group. You can't edit any information for excluded unit product groups or for included or excluded sub-division nodes, which are product groups with child product group nodes.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live] > [!UICONTROL Product Groups]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live] > [!UICONTROL Product Groups]**.
 
 1. (Optional) To view a product group and its child product group nodes in Tree View, hold the cursor over the product group name, click ![Menu icon](/help/search-social-commerce/assets/arrow-dropdown-menu.png "Menu icon"), and then select **[!UICONTROL Tree View]**.
 
@@ -82,7 +82,7 @@ You can edit the bid and tracking template for unit product group nodes (product
 
 You can delete any product group &mdash; except an "Everything Else" group when other product groups exist at the same level &mdash; that is used to determine which products in your merchant center account are included in the shopping ads for the ad group. Deleting a product group deletes all child product groups.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live] > [!UICONTROL Product Groups]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live] > [!UICONTROL Product Groups]**.
 
 1. (Optional) Filter the list to include specific product groups.
 

@@ -6,7 +6,9 @@ feature: Search Common Tasks
 ---
 # Show and hide a trend chart
 
-You can view a trend chart for the data in the [!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords]-[!UICONTROL Keywords], [!UICONTROL Ads], and [!UICONTROL Product Groups] views.
+*Legacy user interface only*
+
+You can view a trend chart for the data in the [!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], [!UICONTROL Ads], and [!UICONTROL Product Groups] views.
 
 By default, the chart shows the number of clicks versus cost during the selected date range for accounts that use a specified currency. You can optionally change  the metrics to compare and &mdash; when you have accounts with multiple currencies &mdash; change the currency for which to include data.
 

@@ -8,7 +8,7 @@ feature: Search Bulksheets
 
 You can stop any bulksheet job, including posting a file, while it is still in process.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]**.
 
 1. Select the check box next to each task that you want to stop.
 

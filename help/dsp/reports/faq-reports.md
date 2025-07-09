@@ -77,13 +77,11 @@ Two types of attribution methods are supported:
 
 #### How does household conversion reporting differ from CTV view-through reporting in Adobe Analytics?
 
-CTV view-through data in [!DNL Analytics] is powered [!DNL Analytics] tracking, and the household conversion data uses data collected using Adobe Advertising conversion tracking. In addition, the DSP attribution logic in [!DNL Analytics] uses only the last event but household conversion reporting supports two different attribution methods: Unique and MTA.
+* In [!DNL Analytics], the [!DNL CTV View-Through Conversion] report shows the number of conversions for which a CTV impression was the last touchpoint before the conversion. In contrast, the DSP [!UICONTROL Household Conversions] report shows the number of unique households that were exposed to a CTV impression at any point within the defined lookback window prior to conversion.
 
-#### Can I view CTV view-through data in both [!DNL Analytics for Advertising] and in custom reports?
+* In [!DNL Analytics], attribution logic assigns conversions exclusively to the last touchpoint from Adobe Advertising. In contrast, the DSP [!UICONTROL Household Conversions] report supports additional attribution models, *[!UICONTROL Unique]* and *[!UICONTROL Multi-Touch Attribution (MTA)]*.
 
-Advertisers without [!DNL Analytics for Advertising] can use only the Household Conversion Report for household conversion reporting.
-
-If your organization has [!DNL Analytics for Advertising], use both types of reporting together. While CTV view-through reporting is suitable for broad channel analysis, site behavior, and so on, custom reports provide a granular view (with data broken down by media type, publishers, and so on) to indicate the factors driving conversion rates.
+* [!DNL Analytics] report data is particularly valuable to analyze by marketing channels, site engagement metrics, and so on. The DSP [!UICONTROL Household Conversions] report offers more granular insights by allowing conversion data to be split by various dimensions, such as media type and publisher.
 
 ### [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] Reports vs. Data from [!DNL Advanced Measurement Services]
 

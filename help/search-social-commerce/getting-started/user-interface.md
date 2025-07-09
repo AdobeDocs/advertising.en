@@ -12,7 +12,7 @@ The top of each page includes the main menu and other task- and information-base
 
 ## The main menu
 
-* **[!UICONTROL Search]** &mdash; To manage your ad network accounts within Search, Social, & Commerce, including those for which Search, Social, & Commerce is tracking but not bidding.
+* **[!UICONTROL Search, Social, & Commerce]** \> &mdash; To manage your ad network accounts within Search, Social, & Commerce, including those for which Search, Social, & Commerce is tracking but not bidding.
 
 ## [!UICONTROL Search] menus
 
@@ -50,3 +50,4 @@ The [!UICONTROL Search] option includes the following submenus. The available op
 >
 >* [Sign in](sign-in.md)
 >* [Sign out](sign-out.md)
+>* [Switch between the new UI and the legacy UI](ui-switch.md)

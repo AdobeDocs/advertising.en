@@ -10,7 +10,7 @@ feature: Search Inventory Feeds
 
 You can configure how to handle ad groups, keywords, and ads in feed data files, and how to process the data in FTP files specifically, via the feed settings.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**.
 
 1. In the toolbar above the data table, click **[!UICONTROL Settings]**.
 

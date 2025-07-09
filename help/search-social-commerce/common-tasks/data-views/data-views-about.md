@@ -6,13 +6,15 @@ feature: Search Common Tasks, Search Custom Data Views
 ---
 # About customizing data in campaign management views
 
+<!-- Add info about new UI -->
+
 In most campaign data views, you can customize the data that appears within the data table. You can customize the data in the following ways:
 
-* Edit the settings for your entire default view for a specific entity view (such as [!UICONTROL Campaigns]) to include a specific column order, filters, date range, attribution rule, and more &mdash; and either apply the settings temporarily or save them. You can also create additional custom views and apply any of your views anytime.
+* [Edit the settings for your entire default view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md##view-edit) for a specific entity view (such as [!UICONTROL Campaigns]) to include a specific column order, filters, date range, attribution rule, and more &mdash; and either apply the settings temporarily or save them. You can also [create additional custom views](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#create-custom-view), [clone existing views](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#view-clone) and [apply any of your views](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#apply-a-default-or-custom-view).
 
-* Change the columns and their sort order from the [!UICONTROL Columns] icon on the right side of the toolbar, or quickly change just the columns from any column heading in the view.
+* [Change the columns and their sort order](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md) from the [!UICONTROL Columns] icon on the right side of the toolbar, or quickly [change just the columns](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-column-heading.md) from any column heading in the view.
 
-* From the left navigation panel, you can:
+* (Legacy user interface only) [From the left navigation panel](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/filter-using-left-panel.md), you can:
 
   * Browse or search for entities by ad network, and filter by the status of the entity and the status of the account, campaign, and ad group or ad set. Click any entity or entity group in the panel to load a view of the child entities (for example, click a campaign name to view its child ad groups).
 
@@ -20,10 +22,10 @@ In most campaign data views, you can customize the data that appears within the 
 
   * Access, edit, and reset your default views; and access, edit, and delete your custom views. Clicking any view name loads the appropriate view.
 
-* Apply filters on any available data columns to change the data that is displayed on the current tab. You can create filters from the column headings or from a button on the toolbar. Filters are maintained when you open child entities. For example, if you view campaigns with \> 100 clicks and then open an ad group within that campaign, only ad groups with \> 100 clicks are shown.
+* Apply filters on any available data columns to change the data that is displayed on the current tab. You can create filters [from the column headings](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) or [from a button on the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md). For campaign management views, filters are maintained as applicable when you open child entities. For example, if you view campaigns with \> 100 clicks and then open an ad group within that campaign, only ad groups with \> 100 clicks are shown.
 
-* Change the date range used in all default and custom views for which you haven't saved specific date ranges.
+* [Change the date range](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/date-filter.md) used in all default and custom views for which you haven't saved specific date ranges.
 
-* Re-sort the data according to the values in a specific column.
+* [Re-sort the data](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-sort.md) according to the values in a specific column.
 
-* Control whether to display 25 rows, 50 rows, 100 rows, 200 rows, or [!UICONTROL Continuous Scroll] in the bottom right of any page.
+* Control whether to display 25 rows, 50 rows, 100 rows, (legacy user interface only) 200 rows, or (legacy user interface only) [!UICONTROL Continuous Scroll] at the bottom of any page.

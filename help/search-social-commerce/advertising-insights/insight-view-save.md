@@ -6,7 +6,7 @@ feature: Search Advertising Insights
 ---
 # View or save an [!DNL Advertising Insight]
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Advertising Insights]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Advertising Insights]**.
 
 2. In the left menu, click ![Reports](/help/search-social-commerce/assets/insight-reports.png "Reports").
 

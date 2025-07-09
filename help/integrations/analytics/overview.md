@@ -72,7 +72,7 @@ For [!DNL Google Ads] and [!DNL Google Microsoft Advertising] campaigns in Searc
 >
 > You can't map calculated metrics from [!DNL Analytics] into Adobe Advertising.
 
-Your Adobe Advertising team will help you to identify and map the events that are applicable to paid media performance into Adobe Advertising, where they are listed in [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions].
+Your Adobe Advertising team will help you to identify and map the events that are applicable to paid media performance into Adobe Advertising, where they are listed in [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Conversions].
 
 See "[Analytics Metrics in Adobe Advertising](analytics-data-in-advertising.md)" for a list of available metrics.
 

@@ -30,7 +30,7 @@ Not all campaign information is replicated, and you may need to add some informa
 
 See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500).
 
-1. In the Search, Social, & Commerce main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]**.
+1. In the Search, Social, & Commerce main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]**.
 
 1. Click **[!UICONTROL +Import]**.
 
@@ -58,7 +58,7 @@ See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsof
 
 See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]**.
 
 1. Select the check box next to the import job, and then click ![Edit](/help/search-social-commerce/assets/edit.png "Edit").
 
@@ -72,7 +72,7 @@ You can list all import jobs, including the source [!DNL Google Ads] account, th
 
 * Do either of the following:
   
-  * In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]**.
+  * In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]**.
     
     By default, the view opens to the [!UICONTROL List of Import Jobs] tab.
 
@@ -80,7 +80,7 @@ You can list all import jobs, including the source [!DNL Google Ads] account, th
 
 ## Run a campaign import job
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]**.
 
 1. Select the check box next to the import job.
 
@@ -90,7 +90,7 @@ You can list all import jobs, including the source [!DNL Google Ads] account, th
 
 You can list all completed or failed import jobs, including the start time, the source [!DNL Google Ads] account, the target [!DNL Microsoft Advertising] account, the user who created the job, the number of successful and failed operations, and any email addresses that received notifications for each job. You can view further details about the changes to the target [!DNL Microsoft Advertising] account that occurred for each job, including the number of items added, synced, deleted, and that produced errors for each entity level (such as campaign or keyword) in the account.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]**.
 
 1. Click the **[!UICONTROL Import Logs]** tab.
 

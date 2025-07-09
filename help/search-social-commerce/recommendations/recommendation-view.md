@@ -10,7 +10,7 @@ exl-id: 8a9d99b1-c90b-4a1c-9516-85edc9024a7c
  
 ## View your publisher recommendations
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
 1. In the upper right, select the ad network and the account.
 
@@ -22,7 +22,7 @@ exl-id: 8a9d99b1-c90b-4a1c-9516-85edc9024a7c
 
 ## View your [!DNL Microsoft Advertising] performance insights
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
 1. In the upper right, select the ad network and the account.
 

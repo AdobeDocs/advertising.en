@@ -12,7 +12,7 @@ Removing a classification value removes the association with the account compone
 >
 >To delete a value from a label classification, see "[Delete label classification values](classification-values-delete.md)."
 
-1. In **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**, select the entity view.
+1. In **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**, select the entity view.
 
 1. Do either of the following:
 

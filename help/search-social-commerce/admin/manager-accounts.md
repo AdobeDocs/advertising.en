@@ -18,7 +18,7 @@ Once you add credentials for a manager account, the account settings show the as
 
 ## To add credentials for a new manager account
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**.
 
 1. Select **[!UICONTROL Create new manager account]**.
 
@@ -34,7 +34,7 @@ Once you add credentials for a manager account, the account settings show the as
 
 ## To reauthenticate an existing manager account
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Manager Accounts]**.
 
 1. Select **[!UICONTROL Reauthenticate existing manager account]**.
 

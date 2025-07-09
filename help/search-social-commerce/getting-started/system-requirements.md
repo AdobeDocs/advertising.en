@@ -10,7 +10,21 @@ You need the following software and account information.
 
 ## Software
 
-* Any of the following browsers:
+* (New user interface) The latest version minus one of any of the following browsers:
+
+  * For the best experience:
+  
+    * [!DNL Google Chrome]
+
+    * [!DNL Microsoft Edge]
+
+  * [!DNL Apple Safari]
+ 
+  * [!DNL Mozilla Firefox]
+
+  * [!DNL Opera] 
+
+* (Legacy user interface) Any of the following browsers:
 
   * [!DNL Apple Safari] (including [!DNL Safari] for [!DNL iOS]) 10 or above
 

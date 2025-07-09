@@ -8,7 +8,7 @@ exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
 
 **[!UICONTROL Name]:** The report name. The maximum length is 180 characters.
 
-**[!UICONTROL Report Type]:** The type of report: *[!UICONTROL Custom]* (which includes most available options), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, *[!UICONTROL Household Conversions]*, *[!UICONTROL Path to Conversions Beta]*, *[!UICONTROL Path Length Beta]*, or *[!UICONTROL Time to Conversion Beta]*.
+**[!UICONTROL Report Type]:** The type of report: *[!UICONTROL Custom]* (which includes most available options), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, *[!UICONTROL Household Conversions]*, *[!UICONTROL]*, *[!UICONTROL Path Length]*, or *[!UICONTROL Time to Conversion]*.
 
 ## [!UICONTROL Report Range] Section
 
@@ -111,7 +111,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 **[!UICONTROL Attribution Rule Settings]:** The settings vary by report type:
 
-* **\[Attribution Type\]:** ([!UICONTROL Household Conversion] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns; advertisers with Adobe Advertising conversion tracking only) Within the report, how to attribute conversion data in a series of events that lead to a conversion:
+* **\[Attribution Type\]:** ([!UICONTROL Household Conversion] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns) Within the report, how to attribute conversion data in a series of events that lead to a conversion:
   
   * *[!UICONTROL Unique]:* (The default) Counts the number of times a dimension value (such as a device or placement) was on the path to conversion.
   

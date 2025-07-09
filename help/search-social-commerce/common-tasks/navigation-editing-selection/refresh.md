@@ -6,4 +6,6 @@ feature: Search Common Tasks
 ---
 # Refresh data in management views
 
-* At the bottom of the data table, click ![Refresh](/help/search-social-commerce/assets/refresh.png).
+* (New UI) In the toolbar above the data table, click ![Refresh](/help/search-social-commerce/assets/refresh-new.png).
+
+* (Legacy UI) At the bottom of the data table, click ![Refresh](/help/search-social-commerce/assets/refresh.png).

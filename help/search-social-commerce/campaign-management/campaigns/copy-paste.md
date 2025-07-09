@@ -16,7 +16,7 @@ You can use this feature to edit existing campaign objects (with ID fields) and 
 
 ## Copy data rows
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > \[[!UICONTROL Campaigns] \| [!UICONTROL Ad Groups] \| [!UICONTROL Keywords] \| [!UICONTROL Ads]\]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > \[[!UICONTROL Campaigns] \| [!UICONTROL Ad Groups] \| [!UICONTROL Keywords] \| [!UICONTROL Ads]\]**.
 
 1. Select the check box next to each row you want to copy.
 
@@ -52,7 +52,7 @@ You can use this feature to edit existing campaign objects (with ID fields) and 
 
 1. In [!DNL Excel] or other editor, copy the relevant tab-separated rows.
 
-1. In the Search, Social, & Commerce main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. Open the view in which to paste data (**[!UICONTROL Live] > \[[!UICONTROL Campaigns] \| [!UICONTROL Ad Groups] \| [!UICONTROL Keywords] \| [!UICONTROL Ads]\]**).
+1. In the Search, Social, & Commerce main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. Open the view in which to paste data (**[!UICONTROL Live] > \[[!UICONTROL Campaigns] \| [!UICONTROL Ad Groups] \| [!UICONTROL Keywords] \| [!UICONTROL Ads]\]**).
 
 1. In the toolbar above the data table, click ![More](/help/search-social-commerce/assets/more.png "More"), and then click **[!UICONTROL Paste]**.
 

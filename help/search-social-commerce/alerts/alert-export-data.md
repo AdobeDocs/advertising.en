@@ -10,9 +10,9 @@ You can export data for a triggered alert or data for the most recently triggere
 
 1. Do either of the following:
    
-   * (To export data for the most recently triggered alert for an alert template) In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**, which opens to the Alert Templates view.
+   * (To export data for the most recently triggered alert for an alert template) In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**, which opens to the Alert Templates view.
    
-   * (To export data for a specific triggered alert) In the main menu, click **[!UICONTROL Search] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**. In the submenu, click **[!UICONTROL Triggered Alerts]**.
+   * (To export data for a specific triggered alert) In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts]**. In the submenu, click **[!UICONTROL Triggered Alerts]**.
 
 1. In the [!UICONTROL Export] column next to the template or report name, click the name of a format, and then open or save the file according to your browser's normal procedure:
    

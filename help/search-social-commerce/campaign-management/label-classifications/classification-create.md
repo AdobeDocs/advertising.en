@@ -8,7 +8,7 @@ feature: Search Label Classifications
 
 Each advertiser can have up to 30 label classifications.
 
-1. Click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Label Classifications]**.
+1. Click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Label Classifications]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 

@@ -14,9 +14,35 @@ Not all campaign types and ad networks are eligible for optimization; see a list
 >
 >Each campaign can be assigned to only one portfolio. If you assign a campaign that's already associated with another portfolio to a new portfolio, then it's removed from the original portfolio.
 
-## Assign campaigns to a portfolio from the [!UICONTROL Campaigns] view
+## (New UI) Assign campaigns to an existing portfolio from the [!UICONTROL Manage] > [!UICONTROL Campaigns] view
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
+
+1. Select the check box next to each campaign to assign to a single portfolio.
+
+1. In the toolbar, click ![More Actions](/help/search-social-commerce/assets/more-actions.png "More Actions") **[!UICONTROL More Actions]** > ![Assign](/help/search-social-commerce/assets/assign.png "Assign") **[!UICONTROL Assign]** > **[!UICONTROL Existing Portfolio]** .
+
+1. Select the portfolio.
+
+1. Click **[!UICONTROL Assign Now]**.
+
+## (New UI) Assign campaigns to a new portfolio from the [!UICONTROL Manage] > [!UICONTROL Campaigns] view
+
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
+
+1. Select the check box next to each campaign for which you want to create the new portfolio.
+
+1. In the toolbar, click ![More Actions](/help/search-social-commerce/assets/more-actions.png "More Actions") **[!UICONTROL More Actions]** > ![Assign](/help/search-social-commerce/assets/assign.png "Assign") **[!UICONTROL Assign]** > **[!UICONTROL New Portfolio]**.
+
+1. In the [!UICONTROL Create Portfolio] screen, specify the portfolio settings<!--[portfolio settings](/help/search-social-commerce/beta-ui/manage/portfolios/portfolio-settings.md)-->.
+
+   The campaigns you selected previously are already assigned to the campaign. You can optionally edit the campaign list for the portfolio.
+
+1. Click **[!UICONTROL Review and Save]**.
+
+## (Legacy UI) Assign campaigns to a portfolio from the [!UICONTROL Campaigns] view
+
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Campaigns]**.
 
 1. Do either of the following:
 
@@ -52,9 +78,9 @@ Not all campaign types and ad networks are eligible for optimization; see a list
 
 1. Click **[!UICONTROL Save]**.
 
-## Change the campaigns in a portfolio from the [!UICONTROL Portfolios] view
+## (Legacy UI) Change the campaigns in a portfolio from the [!UICONTROL Portfolios] view
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Optimization] > [!UICONTROL Portfolios]**, and then locate the portfolio.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Portfolios]**, and then locate the portfolio.
 
    You can filter the portfolio list from the [!UICONTROL Portfolios] menu in the left panel by selecting a portfolio group or the [!UICONTROL Ungrouped Portfolios] node.
 

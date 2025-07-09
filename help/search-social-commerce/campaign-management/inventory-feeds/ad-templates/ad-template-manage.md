@@ -22,7 +22,7 @@ Any template can be activated, paused, or deleted. Feed data can be automaticall
 
 Create separate templates for text and expanded/extended text ads, responsive search ads, [!DNL Google Ads] shopping ads, and [!DNL Microsoft Advertising] shopping ads.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
 
 1. Do one of the following:
 
@@ -131,7 +131,7 @@ You can activate any paused data feed template or pause any active data feed tem
 >
 >You can manually propagate data through a paused template, but data isn't automatically propagated through it.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
 
 1. Select the check box next to each template whose status you want to change.
 
@@ -139,7 +139,7 @@ You can activate any paused data feed template or pause any active data feed tem
 
 ## Delete feed templates
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
 
 1. Select the check box next to each template that you want to delete.
 

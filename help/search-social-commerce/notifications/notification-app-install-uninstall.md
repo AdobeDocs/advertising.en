@@ -18,7 +18,7 @@ You can disable or uninstall the application from the browser's applications man
 
 ## Install the [!UICONTROL Notification Center] web application for [!DNL Google Chrome]
 
-1. In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]**.
 
 1. In the bottom right, click ![Install Notification Center web app](/help/search-social-commerce/assets/notifications-install-app.png "Install Notification Center web app").
 
@@ -30,7 +30,7 @@ You can disable or uninstall the application from the browser's applications man
 
 * From within Search, Social, & Commerce:
 
-   1. In the main menu, click **[!UICONTROL Search]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]**.
+   1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]**.
    
    1. In the bottom right, click ![Install Notification Center web app](/help/search-social-commerce/assets/notifications-install-app.png "Install Notification Center web app").
    

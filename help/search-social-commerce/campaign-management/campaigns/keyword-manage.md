@@ -16,7 +16,7 @@ You can create and edit keywords for search ad groups in [supported campaign typ
 >
 >To create many keywords at once, use the [copy and paste feature](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) or [campaign bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Keywords] > [!UICONTROL Keywords]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Keywords] > [!UICONTROL Keywords]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
 
@@ -44,7 +44,7 @@ The existing keyword is deleted and another one is created when:
 >
 >To edit larger amounts of keyword data at once, including keywords on different ad networks, use the [copy and paste feature](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) or [campaign bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Keywords] > [!UICONTROL Keywords]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Keywords] > [!UICONTROL Keywords]**.
 
 1. Select the check box next to each row to edit.
 

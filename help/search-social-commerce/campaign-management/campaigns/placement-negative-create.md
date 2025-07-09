@@ -16,7 +16,7 @@ You can create negative placements for a [!DNL Google Ads] ad group in a campaig
 >[!TIP]
 >To create many negative placements at once, use [campaign bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Placements] > [!UICONTROL Negatives]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Placements] > [!UICONTROL Negatives]**.
 
 1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create"), and then click **[!UICONTROL Campaign]** to create campaign-level negative placements or **[!UICONTROL Ad Group]** to create ad group-level negative placements.
 

@@ -12,7 +12,7 @@ Similarly, you can hide a conversion metric from portfolio objectives, reports, 
 
 From the list of conversion metrics that are available, each user with access to the advertiser's data can customize the metrics they see for management views and reports, including or omitting specific metrics as they choose.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Conversions]**.
 
    All conversion metrics that have been gathered for the advertiser, and any different names that have been specified for display, are listed.
 

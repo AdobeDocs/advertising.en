@@ -10,7 +10,7 @@ You can pause an active, biddable placement to disable bidding on it. You can la
 
 You also can delete an active or paused placement or a negative placement. Deleted placements/negative placements are deleted from the ad network. They're still visible, but you can't change them.
 
-1. In the main menu, click **[!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Placements] > \[[!UICONTROL Placements] \| [!UICONTROL Negatives]\]**.
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Placements] > \[[!UICONTROL Placements] \| [!UICONTROL Negatives]\]**.
 
 1. (Optional) Filter the list to include specific placements or negative placements.
 
