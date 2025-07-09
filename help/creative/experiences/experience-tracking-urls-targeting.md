@@ -15,7 +15,7 @@ The custom URLs are used only for ads created from the experience and aren't sav
 
 1. Hold the cursor over the creative bundle leaf/folder below the target node and click **[!UICONTROL ...]** > **[!UICONTROL Edit Tracking URLs]**.
 
-   The [!UICONTROL Click Tracking URLs], [!UICONTROL Impression Tracking URLs], and [!UICONTROL Landing URLs] tabs list the names of all creatives in the applicable sizes in the assigned bundles. The sizes of the default image creatives for the experience determine the available sizes.<!-- There's no distinct "Creative Sizes" setting. -->
+   The [!UICONTROL Click Tracking URLs], [!UICONTROL Impression Tracking URLs], and [!UICONTROL Landing URLs] tabs list the names of all creatives in the applicable sizes in the assigned bundles. The sizes of the default creatives for the experience determine the available sizes.<!-- There's no distinct "Creative Sizes" setting. -->
 
 1. On the **[!UICONTROL Click Tracking URLs]**, **[!UICONTROL Impression Tracking URLs]**, and **[!UICONTROL Landing URLs]** tabs, do the following for each creative as needed:
 

@@ -13,7 +13,7 @@ By default, the creative rotation for an experience is determined algorithmicall
 
 >[!NOTE]
 >
->These features aren't available for nodes that use the default image creatives instead of assigned creatives.
+>These features aren't available for nodes that use the default creatives instead of assigned creatives.
 
 ## Configure creative optimization without scheduling
 
@@ -29,7 +29,7 @@ When creative scheduling is disabled, the creative optimization settings apply t
    
    * *[!UICONTROL Algorithmic]:* Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
    
-     * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
+     * For the **[!UICONTROL Optimization Goal]**, select *[!UICONTROL Click Through Rate]*, (video experiences) *[!UICONTROL Completion Rate]*, or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
 
 1. Click **[!UICONTROL Save]**.
 
@@ -55,7 +55,7 @@ When you use scheduling, you must schedule bundles through the duration of the e
 
       * *[!UICONTROL Algorithmic]:* Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
 
-        * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
+        * For the **[!UICONTROL Optimization Goal]**, select *[!UICONTROL Click Through Rate]*, (video experiences) *[!UICONTROL Completion Rate]*, or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
 
 1. For each additional schedule:
 

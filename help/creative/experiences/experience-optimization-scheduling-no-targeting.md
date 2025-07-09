@@ -21,7 +21,7 @@ When creative scheduling is disabled, the creative optimization settings apply t
 
    * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Tag Manager]**.
      
-   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**
+   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
 1. Hold the cursor over the row for the applicable ad tag and click ![Ad Schedule](/help/creative/assets/edit-gray.png "Edit tracking URLs") **[!UICONTROL Ad Schedule]**. <!-- For targeted experiences, this is "Edit Schedules" --><!-- Tag Manager has only a list view, but no card view, as of 2/2. >
 
@@ -33,7 +33,7 @@ When creative scheduling is disabled, the creative optimization settings apply t
    
    * *[!UICONTROL Algorithmic]:* Rotates the creatives algorithmically according to a specified optimization goal.
    
-     * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
+     * For the **[!UICONTROL Optimization Goal]**, select *[!UICONTROL Click Through Rate]*, (video experiences) *[!UICONTROL Completion Rate]*, or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
 
 1. Click **[!UICONTROL Save]**.
 
@@ -49,7 +49,7 @@ When you use scheduling, you must schedule creatives through the duration of the
 
    * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Tag Manager]**.
      
-   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**
+   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
 1. Hold the cursor over the row for the applicable ad tag and click ![Ad Schedule](/help/creative/assets/edit-gray.png "Edit tracking URLs") **[!UICONTROL Ad Schedule]**. <!-- For targeted experiences, this is "Edit Schedules" --><!-- Tag Manager has only a list view, but no card view, as of 2/2. >
 
@@ -67,7 +67,7 @@ When you use scheduling, you must schedule creatives through the duration of the
 
       * *[!UICONTROL Algorithmic]:* Rotates the creatives algorithmically according to a specified optimization goal.
 
-        * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
+        * For the **[!UICONTROL Optimization Goal]**, select *[!UICONTROL Click Through Rate]*, (video experiences) *[!UICONTROL Completion Rate]*, or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
 
 1. For each additional schedule:
 

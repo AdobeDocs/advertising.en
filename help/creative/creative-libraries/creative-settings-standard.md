@@ -177,10 +177,32 @@ When you include this creative in an experience that you implement as an ad from
 **Creative Name:** The name of the creative. **Tip:** Use a name that you can easily find when you include the creative in an experience.
 
 **Creative Size:** (Read-only for existing ads) The dimensions of the creative. For new creatives, select from a list of standard ad sizes.
-u
+
 **Language:** The default language for each ad with which you associate the creatives.
 
 **Landing Page URL:** The landing page URL used to validate each ad with which you associate the creatives. The third-party ad server determines the actual landing page for each ad.
+
+**Label:** (Optional) Any labels to apply to all selected creatives. You can filter creatives by label in various views within [!DNL Creative].
+
+* To select existing labels, click ![Down](/help/creative/assets/chevron-down.png "Down"), and select the check box next to each label to apply.
+
+* To search for existing labels, begin entering a text string within the label name.
+
+* To create a new label to apply to the creatives, open the list, click **+ Add Label**, enter a new label name in the [!UICONTROL Label] field, and then click **Create**.
+
+* To remove a label, deselect the check box next to the label name.
+
+## Video creative settings {#creative-settings-video}
+
+**Creative asset name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple images, you can edit the individual creative names. **Tip:** Use a name that you can easily find when you include the creative in an experience.
+
+**Duration:** (Read-only) The duration of the video, which is filled in automatically.
+
+**Language:** The default language for each ad with which you associate the creatives. The same value applies to all selected images. When you include the creatives in an experience, you can optionally customize language preferences for the experience.
+
+**Landing Page URL:** The URL of the default landing page for each ad with which you associate the creatives. The landing page URL must be a valid URL beginning with http:// or https://. It may include third-party tracking parameters or [[!DNL Creative] macros](/help/creative/creative-macros.md) for your own use. The same value applies to all selected images.
+
+When you include a creative in a bundle and then assign the bundle to an experience, you can optionally change the landing page URL, as well as add impression- and click-tracking URLs and JavaScript, for each creative in the bundle. <!-- NOT SURE APPLICABLE ANYMORE: to generate a variation of the base creative. -->
 
 **Label:** (Optional) Any labels to apply to all selected creatives. You can filter creatives by label in various views within [!DNL Creative].
 

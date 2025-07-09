@@ -180,7 +180,7 @@ To apply one or more filters, do the following:
 |Metric Type|Subtype|Column Name|Description|
 |-----------|-------|-----------|-----------|
 |[!UICONTROL Dimension]|[!UICONTROL Ad]|[!UICONTROL Ad Size]|The dimensions of the published ad.|
-|[!UICONTROL Dimension]|[!UICONTROL Ad]|[!UICONTROL Is Default]|Whether the served ad was a default image ad for the experience.|
+|[!UICONTROL Dimension]|[!UICONTROL Ad]|[!UICONTROL Is Default]|Whether the served ad was a default image ad or video ad for the experience.|
 |[!UICONTROL Dimension]|[!UICONTROL Ad]|[!UICONTROL Rotation Type]| Whether ads were rotated according to relative weights (*Weighted*) or algorithmically (*Algorithmic*).|
 |[!UICONTROL Dimension]|[!UICONTROL Creative]|[!UICONTROL Creative ID]| The ID that [!UICONTROL Creative] assigned to the creative.|
 |[!UICONTROL Dimension]|[!UICONTROL Creative]|[!UICONTROL Creative Name]| The name of the creative.|

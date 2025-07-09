@@ -14,7 +14,7 @@ exl-id: 8c2fda31-2e4c-49ea-bcf2-f1bf564068b8
 
    * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Tag Manager]**.
      
-   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**
+   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
 1. Hold the cursor over the row for the applicable ad tag and click either ![Edit tag](/help/creative/assets/edit-gray.png "Edit tag") **[!UICONTROL Edit Tag]** or **[!UICONTROL ... More]** > ![Edit tag](/help/creative/assets/edit-gray.png "Edit tag") **[!UICONTROL Edit Tag]**. <!-- Tag Manager has only a list view, but no card view, as of 2/2. -->
 

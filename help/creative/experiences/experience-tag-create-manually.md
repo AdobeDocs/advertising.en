@@ -21,13 +21,13 @@ You can create one or more ad tag for each creative size used for an experience.
 
    * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Tag Manager]**.
      
-   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**
+   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
 1. In the upper right, click **[!UICONTROL Create Tag]**.
 
 1. Enter a unique **[!UICONTROL Tag name]** and select the **[!UICONTROL Tag size]**.
 
-   The sizes of the default image creatives for the experience determine the available creative sizes.
+   The sizes of the default creatives for the experience determine the available creative sizes.
 
    You can create multiple tags for the same creative size.<!-- What are the implications? -->
 
