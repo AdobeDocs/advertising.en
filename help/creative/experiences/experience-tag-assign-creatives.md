@@ -41,4 +41,5 @@ You can later [customize the tracking URLs](experience-tracking-urls-no-targetin
 >* [Manually create an ad tag for an applicable creative size](experience-tag-create-manually.md)
 >* [Customize the tracking URLs for the creatives](experience-tracking-urls-no-targeting.md).
 >* [Customize creative optimization and scheduling for the creatives](experience-optimization-scheduling-no-targeting.md)
+>* [Customize transcoding options for a video ad experience tag](experience-video-transcoding.md)
 >* [Export and implement an ad experience tag for a live experience](experience-tag-export.md)

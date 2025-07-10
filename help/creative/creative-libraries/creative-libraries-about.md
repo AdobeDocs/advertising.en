@@ -58,23 +58,35 @@ Enter JavaScript tracking tags for creatives hosted on third-party ad servers. T
 
 #### Video creatives {#creative-video-specs}
 
-You can upload video creatives from your device or network. See the following video creative specifications.
+You can upload video creatives from your device or network. Each standard video ad experience requires a default video creative for each creative size assigned to the experience. All video creatives are transcoded automatically by DSP as VAST 2.0 tags so you can preview them. In [!UICONTROL Tag Manager], you can can optionally [apply publisher-specific transcoding](experience-video-transcoding.md) to any video ad experience tag.
 
-Each standard video ad experience requires a default video creative for each creative size assigned to the experience.
+See the following video creative requirements.
 
-<!-- Use same formatting as in DSP's "Ad Specifications?" -->
+**File Type:** .mov, .mp4, .webm
 
-| Element | Required Values |
-| ------- | ----------------|
-| Bitrate | 15-30 Mbps |
-| Aspect Ratio | 16:9, 4:3 |
-| Frame Rate | 23.98 FPS<br><br>Additional frame rates may be accepted based on regional or publisher requirements |
-| Video Length | Maximum of 90 seconds |
-| File Size | Maximum of 512 MB |
-| File Types | .mov, .mp4, .webm |
-| Audio | Format: ACC (industry standard/MP4), Opus (WebM/AV1)<br><br>Bitrate: 16-512 kbps<br><br>Sample Rate: 44100-48000 Hz<br><br>Rate: 44.1kHz or 48 kHz |
-| Codecs | H.264 (industry standard), AV1, H.265 |
-| &mdash; | The uploaded file must be non-interlaced, mixed, and contain an audio track. There may be no sound, but an audio track must be included in the video file. |
+**File Size:** Maximum of 512 MB
+
+**Video Aspect Ratio:** 16:9, 4:3
+
+**Video Resolution:** 640x360 for 360p, 1280x720 for 720p, 1920x1080 for 1080p
+
+**Video Length:** Maximum of 90 seconds
+
+**Bitrate:** 600-1200 kbps for 360p, 1500-2500 kbps for 720p, 3000-5000+ kbps for 1080p
+
+**Video Frame Rate:** 23.98 FPS. Additional frame rates may be accepted based on regional or publisher requirements
+
+**Video Codec:** H.264 (industry standard), AV1, H.265 
+
+**Audio Format:**ACC (industry standard/MP4), Opus (WebM/AV1)
+
+**Audio Bitrate:**16-512 kbps
+
+**Audio Sample Rate:**44100-48000 Hz
+
+**Audio Rate:**44.1kHz or 48 kHz
+
+**Audio Other:** The uploaded file must be non-interlaced, mixed, and contain an audio track. There may be no sound, but an audio track must be included in the video file.
 
 ### Format for Dynamic Ads
 

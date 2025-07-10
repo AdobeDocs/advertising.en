@@ -25,4 +25,5 @@ exl-id: 8c2fda31-2e4c-49ea-bcf2-f1bf564068b8
 >[!MORELIKETHIS]
 >
 >* [(Experiences without targeting) Manually create an ad tag for an applicable creative size](experience-tag-create-manually.md)
+>* [Customize transcoding options for a video ad experience tag](experience-video-transcoding.md)
 >* [Export and implement an ad experience tag for a live experience](experience-tag-export.md)

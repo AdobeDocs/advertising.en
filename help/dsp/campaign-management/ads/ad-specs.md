@@ -16,7 +16,7 @@ Ads are delivered by default on desktop, mobile, and connected TV devices. Devic
 
 You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
 
-### Requirements for High-Definition Video Assets (Required)
+### Requirements for High-Definition Video Assets
 
 **Video Tag Type:** VPAID 2.0 JavaScript or VAST (CTV). All VPAID ad units must adhere to the [VPAID 2.0 specification](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) as defined by the Interactive Advertising Bureau (IAB).
 
@@ -78,7 +78,7 @@ Ads are delivered by default on desktop and mobile devices. Device targeting is 
 
 **HTML5:** Image file types: GIF, JPG/JPEG, PNG, SVG
 
-### Requirements for Image Assets (Required)
+### Requirements for Image Assets
 
 Universal Display is supported.
 
@@ -96,7 +96,7 @@ Desktop, Mobile, Tablet, Smart Speakers, and Connected TV
 
 You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
 
-### Requirements for Audio Assets (Required) 
+### Requirements for Audio Assets
 
 **File type:** MP3, OGG, AAC
 
