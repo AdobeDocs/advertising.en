@@ -78,13 +78,13 @@ See the following video creative requirements.
 
 **Video Codec:** H.264 (industry standard), AV1, H.265 
 
-**Audio Format:**ACC (industry standard/MP4), Opus (WebM/AV1)
+**Audio Format:** ACC (industry standard/MP4), Opus (WebM/AV1)
 
-**Audio Bitrate:**16-512 kbps
+**Audio Bitrate:** 16-512 kbps
 
-**Audio Sample Rate:**44100-48000 Hz
+**Audio Sample Rate:** 44100-48000 Hz
 
-**Audio Rate:**44.1kHz or 48 kHz
+**Audio Rate:** 44.1kHz or 48 kHz
 
 **Audio Other:** The uploaded file must be non-interlaced, mixed, and contain an audio track. There may be no sound, but an audio track must be included in the video file.
 
