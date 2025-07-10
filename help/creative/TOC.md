@@ -61,7 +61,7 @@ hide: yes
       + [Customize creative optimization and scheduling for an experience without targeting](/help/creative/experiences/experience-optimization-scheduling-no-targeting.md)
   + [Clone an experience](/help/creative/experiences/experience-clone.md)
   + [Preview an experience](/help/creative/experiences/experience-preview.md)
-  + [Customize transcoding options for a video ad experience tag](/help/creative/experiences/experience-video-transcoding.md)
+  + [Customize transcoding options for a video ad experience tag](/help/creative/experiences/experience-tag-video-transcoding.md)
   + [Export and implement an ad experience tag for a live experience](/help/creative/experiences/experience-tag-export.md)
   + [Share a demo URL for an experience](/help/creative/experiences/experience-share-demo-url.md)
   + [Download data from the [!UICONTROL Experiences] view](/help/creative/experiences/experience-download-view.md)

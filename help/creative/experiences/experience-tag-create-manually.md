@@ -35,13 +35,13 @@ You can create one or more ad tag for each creative size used for an experience.
 
    You can expand the tag row to see the included creatives.
 
-   For video ad experiences, video creatives are transcoded automatically by DSP as VAST 2.0 tags so you can preview them. You can optionally [apply publisher-specific transcoding](experience-video-transcoding.md).
+   For video ad experiences, video creatives are transcoded automatically by DSP as VAST 2.0 tags so you can preview them. You can optionally [apply publisher-specific transcoding](experience-tag-video-transcoding.md).
 
 >[!MORELIKETHIS]
 >
 >* [Assign creatives to an ad tag for experiences without targeting](experience-tag-assign-creatives.md)
 >* [Customize the tracking URLs for an experience without targeting](experience-tracking-urls-no-targeting.md)
 >* [Customize creative optimization and scheduling for an experience without targeting](experience-optimization-scheduling-no-targeting.md)
->* [Customize transcoding options for a video ad experience tag](experience-video-transcoding.md)
+>* [Customize transcoding options for a video ad experience tag](experience-tag-video-transcoding.md)
 >* [Export and implement an ad experience tag for a live experience](experience-tag-export.md)
 >* [Rename an ad tag](experience-tag-rename.md)
