@@ -2,6 +2,7 @@
 title: Customize transcoding options for a video ad experience tag
 description: Learn how to customize the transcoding options for a video ad tag.
 feature: Creative Experiences
+exl-id: 6100213c-2e7d-4e98-a3ab-045ca10e5174
 ---
 # Customize transcoding options for a video ad experience tag
 
@@ -22,4 +23,3 @@ You can customize the transcoding options for a video ad experience.
 1. In the list of **[!UICONTROL Publisher specific transcodes]**, select the type of transcoding.
 
 1. Click **[!UICONTROL Save Settings]**.
-
