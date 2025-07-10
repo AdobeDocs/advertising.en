@@ -23,7 +23,7 @@ You can later [customize the tracking URLs](experience-tracking-urls-no-targetin
 
    * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Tag Manager]**.
      
-   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**
+   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
 1. Hold the cursor over the row for the applicable ad tag and click **[!UICONTROL + Add Creatives]**. <!-- Tag Manager has only a list view, but no card view, as of 2/2. -->
 
@@ -41,4 +41,5 @@ You can later [customize the tracking URLs](experience-tracking-urls-no-targetin
 >* [Manually create an ad tag for an applicable creative size](experience-tag-create-manually.md)
 >* [Customize the tracking URLs for the creatives](experience-tracking-urls-no-targeting.md).
 >* [Customize creative optimization and scheduling for the creatives](experience-optimization-scheduling-no-targeting.md)
+>* [Customize transcoding options for a video ad experience tag](experience-tag-video-transcoding.md)
 >* [Export and implement an ad experience tag for a live experience](experience-tag-export.md)

@@ -18,7 +18,7 @@ Your libraries can include:
 
   * **Dynamic creatives:** (Existing Adobe Advertising DCO customers only) Administrator users can create dynamically generated creatives by mapping dynamic variables in an ad template to values in a feed file. All users can preview, duplicate, and delete existing dynamic ads.
 
-* **Creatives bundles:** Group creatives into bundles to use across multiple experiences with defined user targets. You can create *standard bundles* that consist of standard ads and *dynamic bundles* that consist of dynamically generated ads. 
+* **Creatives bundles:** Group creatives into bundles to use across multiple experiences with defined user targets. You can create *standard display bundles* that consist of standard display ads, *standard video bundles* that consist of standard video ads, and *dynamic display bundles* that consist of dynamically generated display ads. 
 
 ## Supported Creative Formats {#creative-creative-formats}
 
@@ -28,9 +28,9 @@ You can add and manage the following creative types in the [supported creative s
 
 >[!IMPORTANT]
 >
->Even if you intend to use HTML5, Flexible HTML5, or third-party creatives for your ad experiences, you must also add image creatives for each creative size you use.
->
->Each experience requires a default image creative for each creative size assigned to the experience. The default image creatives are used when a browser isn't JavaScript-enabled or when the ad server can't personalize the ad because of delays.
+>* Even if you intend to use HTML5, Flexible HTML5, or third-party creatives for your standard display ad experiences, you must also add image creatives for each creative size you use.
+>* Each standard display experience requires a default image creative for each creative size assigned to the experience. The default image creatives are used when a browser isn't JavaScript-enabled or when the ad server can't personalize the ad because of delays.
+>* Each standard video experience requires a default video creative for each creative size assigned to the experience.<!-- when is it used? -->
 
 #### Flexible HTML5
 
@@ -46,7 +46,7 @@ You can upload simple or static HTML5 creatives, with all attributes and images 
 
 You can include image creatives in GIF, JPEG, JPG, or PNG format. You can upload approved images from your Adobe Experience Manager accounts or images from your device or network.
 
-Each ad experience requires a default image creative for each creative size assigned to the experience.
+Each standard display ad experience requires a default image creative for each creative size assigned to the experience.
 
 #### Third-party creatives
 
@@ -55,6 +55,38 @@ Enter JavaScript tracking tags for creatives hosted on third-party ad servers. T
 ```
 <SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"></SCRIPT> <NOSCRIPT> <A HREF="https://ad.doubleclick.net/ddm/jump/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp]?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"BORDER=0 WIDTH=300 HEIGHT=250 ALT="Advertisement"></A></NOSCRIPT>
 ```
+
+#### Video creatives {#creative-video-specs}
+
+You can upload video creatives from your device or network. Each standard video ad experience requires a default video creative for each creative size assigned to the experience. All video creatives are transcoded automatically by DSP as VAST 2.0 tags so you can preview them. In [!UICONTROL Tag Manager], you can can optionally [apply publisher-specific transcoding](/help/creative/experiences/experience-tag-video-transcoding.md) to any video ad experience tag.
+
+See the following video creative requirements.
+
+**File Type:** .mov, .mp4, .webm
+
+**File Size:** Maximum of 512 MB
+
+**Video Aspect Ratio:** 16:9, 4:3
+
+**Video Resolution:** 640x360 for 360p, 1280x720 for 720p, 1920x1080 for 1080p
+
+**Video Length:** Maximum of 90 seconds
+
+**Bitrate:** 600-1200 kbps for 360p, 1500-2500 kbps for 720p, 3000-5000+ kbps for 1080p
+
+**Video Frame Rate:** 23.98 FPS. Additional frame rates may be accepted based on regional or publisher requirements
+
+**Video Codec:** H.264 (industry standard), AV1, H.265 
+
+**Audio Format:** ACC (industry standard/MP4), Opus (WebM/AV1)
+
+**Audio Bitrate:** 16-512 kbps
+
+**Audio Sample Rate:** 44100-48000 Hz
+
+**Audio Rate:** 44.1kHz or 48 kHz
+
+**Audio Other:** The uploaded file must be non-interlaced, mixed, and contain an audio track. There may be no sound, but an audio track must be included in the video file.
 
 ### Format for Dynamic Ads
 
@@ -96,7 +128,9 @@ The [!UICONTROL Standard Ads] tab shows all standard creatives that you've creat
 
 * [Preview a standard creative](creative-preview.md)
 
-* [Add standard creatives to standard bundles, and remove standard creatives from a standard bundle](creative-attach-detach-bundles.md)
+* [Add standard creatives to standard display bundles, and remove standard creatives from a standard display bundle](creative-attach-detach-bundles.md)
+
+* [Add video creatives to standard video bundles, and remove video creatives from a standard video bundle](creative-attach-detach-bundles.md)
 
 * [Duplicate standard creatives](creative-duplicate.md)
 
@@ -120,7 +154,7 @@ The ability to create and edit dynamic creatives is currently available only the
 
 * [Preview dynamic creatives](creative-preview.md)
 
-* [Add dynamic creatives to dynamic bundles, and remove dynamic creatives from a dynamic bundle](creative-attach-detach-bundles.md)
+* [Add dynamic creatives to dynamic display bundles, and remove dynamic creatives from a dynamic display bundle](creative-attach-detach-bundles.md)
 
 * [Duplicate dynamic creatives](creative-duplicate.md)
 
@@ -134,13 +168,15 @@ The [!UICONTROL Bundles] view shows all of your standard and dynamic bundle cont
 
 #### Available actions
 
-* Add standard and dynamic bundles to a library
+* Add standard display, standard video, and dynamic display bundles to a library
 
 * List and preview the creatives in a bundle
 
 * Edit a bundle name
 
-* Add standard creatives to standard bundles, and remove standard creatives from a standard bundle
+* Add standard display creatives to standard display bundles, and remove standard display creatives from a standard display bundle
+
+* Add standard video creatives to standard video bundles, and remove standard video creatives from a standard video bundle
 
 * Duplicate bundles
 

@@ -18,7 +18,7 @@ The custom URLs are used only for ads created from the ad experience tag and are
 
    * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Tag Manager]**.
      
-   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**
+   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
 1. (If a tag for the ad size doesn't exist) Create a tag for the applicable creative size.
 
@@ -28,13 +28,13 @@ The custom URLs are used only for ads created from the ad experience tag and are
 
    1. Enter a unique **[!UICONTROL Tag name]** and select the **[!UICONTROL Tag size]**.
 
-      The sizes of the default image creatives for the experience determine the available sizes.
+      The sizes of the default creatives for the experience determine the available sizes.
 
    1. Click **[!UICONTROL Create]**.
 
 1. Hold the cursor over the row for the applicable ad tag and click ![Edit tracking URLs](/help/creative/assets/edit-gray.png "Edit tracking URLs") **[!UICONTROL Tracking URLs]**. <!-- For targeted experiences, this is "EDIT Tracking URLs" --><!-- Tag Manager has only a list view, but no card view, as of 2/2. >
 
-   The [!UICONTROL Click Tracking URLs], [!UICONTROL Impression Tracking URLs], and [!UICONTROL Landing URLs] tabs list the names of all creatives in the applicable sizes in the assigned bundles. The sizes of the default image creatives for the experience determine the available sizes.<!-- There's no distinct "Creative Sizes" setting. -->
+   The [!UICONTROL Click Tracking URLs], [!UICONTROL Impression Tracking URLs], and [!UICONTROL Landing URLs] tabs list the names of all creatives in the applicable sizes in the assigned bundles. The sizes of the default creatives for the experience determine the available sizes.<!-- There's no distinct "Creative Sizes" setting. -->
 
 1. On the **[!UICONTROL Click Tracking URLs]**, **[!UICONTROL Impression Tracking URLs]**, and **[!UICONTROL Landing URLs]** tabs, do the following for each creative as needed:
 

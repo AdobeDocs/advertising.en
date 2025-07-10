@@ -25,9 +25,13 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
    * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Tag Manager]**.
      
-   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**
+   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
 1. Hold the cursor over the row for the applicable ad tag and click either ![Export ad tags](/help/creative/assets/export.png "Export ad tags") **[!UICONTROL Export ad tags]** or **[!UICONTROL ... More] > **[!UICONTROL Export ad tags]**.
+
+>[!NOTE]
+>
+>For standard video ad experiences, wait until the [!UICONTROL Tag Status] column shows "[!UICONTROL Ready]," which indicates that all videos in the experience have been transcoded. All video creatives are automatically transcoded by DSP, but you can optionally [apply publisher-specific transcoding](experience-tag-video-transcoding.md) to any video ad experience tag.
 
 <!-- Tag Manager has only a list view, but no card view, as of 2/2. -->
 
@@ -75,7 +79,6 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
       1. In the [!UICONTROL Create ads] view, review the ad tags, select each tag for which you want to create an ad, and then click **[!UICONTROL Create]**.
       
-
 <!-- no way to get back to the Creative Tag Manager -- you have to click back through the main menu -->
 
 <!-- Add this info, with descriptions:
@@ -93,3 +96,4 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 >* [Manually create an ad tag for an applicable creative size](experience-tag-create-manually.md)
 >* [Assign creatives to an ad tag for experiences without targeting](experience-tag-assign-creatives.md)
 >* [Rename an ad tag](experience-tag-rename.md)
+>* [Customize transcoding options for a video ad experience tag](experience-tag-video-transcoding.md)
