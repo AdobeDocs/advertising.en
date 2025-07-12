@@ -10,7 +10,7 @@ exl-id: 4ae05142-8319-4329-96d7-f87d77f02745
 
 Once an ad tag for a specific creative size is available for a [live](experience-about.md#experience-statuses) experience, you can generate and copy the tag in JavaScript and iframe formats for implementation on Advertising DSP or other DSPs. The tags for DSP include all macros required for DSP.
 
-Advertisers with Advertising DSP can optionally upload tags directly to an Advertising DSP campaign as ads with the ad type "standard display."
+Advertisers with Advertising DSP can optionally upload tags directly to an Advertising DSP campaign as ads with the ad type "standard display" or "universal video."
 
 >[!NOTE]
 >

@@ -16,7 +16,7 @@ Bundles are groups of creatives that you can add to an experience as one unit. A
 
 [!DNL Creative] rotates through the creatives in the bundle as specified for each experience to which the bundle is assigned. You can optionally allow [!DNL Creative] to optimize the ad elements for any experience based on performance using algorithmic ad rotation, which is powered by Adobe Sensei.
 
-To enable the optimization of ad elements across bundles in an ad experience, each bundle can include only one of each \[creative size + language\] combination. For example, if a bundle includes one 250x250 creative with a default language of "French," then you can't add a second 250x250 creative with a default language of "French." If you have multiple creatives of the same size in the same language, then add them separately to the experience.
+To enable the optimization of ad elements across bundles in an ad experience, each bundle can include only one of each \[creative size or duration + language\] combination. For example, if a bundle includes one 250x250 creative with a default language of "French," then you can't add a second 250x250 creative with a default language of "French." If you have multiple creatives of the same size in the same language, then add them separately to the experience.
 
 Creatives that are attached to bundles are still available as individual creatives. You can add a single creative to multiple bundles. If you edit any settings for a creative that's attached to a bundle, then the changes are propagated to the bundle. However, any custom landing pages, impression-tracking tags, and click-tracking tags configured for the creative within an experience are always used for the experience.
 
@@ -98,7 +98,7 @@ Changes to a bundle name are propagated across all associated experiences.
 
 ## Attach creatives to a bundle
 
-You can attach existing standard display creatives to a standard display bundle, standard video creatives to standard video bundles, and dynamic display creatives to a dynamic bundle. Attaching a creative to a bundle makes the creative available in all experiences to which the bundle is assigned. Each bundle can include only one of each \[creative size + language\] combination.
+You can attach existing standard display creatives to a standard display bundle, standard video creatives to standard video bundles, and dynamic display creatives to a dynamic bundle. Attaching a creative to a bundle makes the creative available in all experiences to which the bundle is assigned. Each bundle can include only one of each \[creative size or duration + language\] combination.
 
 >[!NOTE]
 >

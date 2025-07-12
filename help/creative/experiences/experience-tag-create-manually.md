@@ -9,11 +9,11 @@ exl-id: 77dedfa2-33de-4a92-a58b-1a2b91842f0a
 *Experiences without decision tree targeting only*
 *Closed beta*
 
-You can create one or more ad tag for each creative size used for an experience. You can later [assign creatives to the ad tag](experience-tag-assign-creatives.md).
+You can create one or more ad tag per language for each creative size or video duration used for an experience. You can later [assign creatives to the ad tag](experience-tag-assign-creatives.md).
 
 >[!NOTE]
 >
->For experiences with decision tree targeting, [!DNL Creative] automatically creates one tag for each applicable creative size.
+>For experiences with decision tree targeting, [!DNL Creative] automatically creates one tag per language for each applicable creative size or video duration.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
 
@@ -25,11 +25,11 @@ You can create one or more ad tag for each creative size used for an experience.
 
 1. In the upper right, click **[!UICONTROL Create Tag]**.
 
-1. Enter a unique **[!UICONTROL Tag name]** and select the **[!UICONTROL Tag size]**.
+1. Enter a unique **[!UICONTROL Tag name]** and select either (standard display ads) the **[!UICONTROL Tag size]** or (standard video ads) the **[!UICONTROL Duration]**.
 
-   The sizes of the default creatives for the experience determine the available creative sizes.
+   The sizes or duration of the default creatives for the experience determine the available creative sizes or video durations.
 
-   You can create multiple tags for the same creative size.<!-- What are the implications? -->
+   You can create multiple tags for the same creative size or duration.<!-- What are the implications? -->
 
 1. Click **[!UICONTROL Create]**.
 
