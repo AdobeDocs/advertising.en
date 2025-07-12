@@ -14,9 +14,9 @@ You can customize the transcoding options for a video ad experience to ensure fa
 
 1. Do one of the following:
 
- * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Tag Manager]**.
+   * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Tag Manager]**.
  
- * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
+   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
 1. Hold the cursor over the row for the applicable ad tag, click **[!UICONTROL More]**, and then click **[!UICONTROL Video Settings]**.
 
