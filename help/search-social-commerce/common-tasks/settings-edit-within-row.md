@@ -6,12 +6,30 @@ feature: Search Common Tasks
 ---
 # Edit settings directly within a row
 
-*Legacy user interface only*
-
 >[!NOTE]
 >
 >Not all ad account and portfolio settings can be edited within the row.
 
+## (New UI) Edit settings within a row
+
+1. Click inside the cell to make it active, or hold the cursor over the value and click [Edit](/help/search-social-commerce/assets/edit-new.png "Edit").
+
+1. Change the value.
+   
+1. Click **Apply**.
+
+<!--
+1. Change the value:
+
+   * (Options in a list) Select a new option from the list.
+   
+   * (Dates) Enter a new date, or click ![Calendar](/help/search-social-commerce/assets/calendar.png "Calendar") to open the calendar and [select a new date](/help/search-social-commerce/common-tasks/navigation-editing-selection/calendar.md).
+   
+   * (Free-form values) Enter a new value.
+-->
+
+## (Legacy UI) Edit settings within a row
+   
 1. Click inside the cell to make it active.
 
 1. Change the value:
