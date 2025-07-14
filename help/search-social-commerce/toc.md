@@ -346,7 +346,7 @@ index: yes
         + [Spreadsheet report feed settings](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-settings.md)
       + [FTP access to reports](/help/search-social-commerce/reports/automation/ftp-reports.md)
     + [How attribution rules are calculated](/help/search-social-commerce/reports/attribution-rules.md)
-    + [FAQs About Custom Reports](/help/search-social-commerce/reports/faqs-report.md)
+    + [FAQs About custom reports](/help/search-social-commerce/reports/faqs-report.md)
   + Notifications {#notifications}
     + [About notifications](/help/search-social-commerce/notifications/notification-about.md)
     + [View your notifications](/help/search-social-commerce/notifications/notification-view.md)

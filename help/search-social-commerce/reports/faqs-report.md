@@ -1,15 +1,15 @@
 ---
-title: FAQs About Custom Reports
+title: FAQs About custom reports
 description: Learn answers to common questions about performance reports, including troubleshooting data issues.
 exl-id: 1232efce-25eb-48d8-a3fb-f57711fa14e5
 feature: Search Reports
 ---
-# FAQs About Custom Reports
+# FAQs About custom reports
 
 ## General questions
 
 +++What if the date range for the report begins before report data is available?
-The report is generated, but it only includes data for the dates for which data is available. For more information about when data is available for each report type, see "[The Data Used for Reports](data-used-for-reports.md)."
+The report is generated, but it only includes data for the dates for which data is available. For more information about when data is available for each report type, see "[The data used for reports](data-used-for-reports.md)."
 +++
 
 +++What's the difference between click date- and transaction date-based reports?
