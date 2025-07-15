@@ -4,7 +4,7 @@ description: Learn how to download data from most campaign management views.
 exl-id: f549f03c-ed0b-4d7d-8d7e-91192c17e77e
 feature: Search Common Tasks
 ---
-# Download data from a campaign management view
+# (Legacy UI) Download data from a campaign management view
 
 *Legacy user interface*
 
@@ -17,6 +17,10 @@ You can download data from the [!UICONTROL Search, Social, & Commerce] > [!UICON
   If you generate data for multiple campaigns and the combined data consists of over 500,000 rows, then the data is further split by campaign into two or more files, as necessary, named `<bulksheet name>_1.txt`, `<bulksheet name>_2.txt`, and so on.
 
   Each bulksheet file in the [!UICONTROL Downloads] panel is also listed on the [!UICONTROL Bulksheets] view. When the file is created, you receive an email notification with a link from which you can download the file; depending on the amount of data being compiled, the notification may take several minutes or more. If, however, the file generation fails, then an error file is listed on the Bulksheets view, and you receive an email notification with a link to the error file. Deleting a bulksheet file from either the [!UICONTROL Download] panel or the [!UICONTROL Bulksheets] tab deletes it from both locations.
+
+>[!NOTE]
+>
+>See also help on downloading data in the new user interface from the "[[!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)", "[[!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)," and "[[!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)."
 
 1. (Optional) Select individual rows to include in the file.
 
@@ -36,4 +40,7 @@ You can download data from the [!UICONTROL Search, Social, & Commerce] > [!UICON
   
 >[!MORELIKETHIS]
 >
->[Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
+>* [(Legacy UI) Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
+>* [(New UI) Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
+>* [(New UI) Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
+>* [(New UI) Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)

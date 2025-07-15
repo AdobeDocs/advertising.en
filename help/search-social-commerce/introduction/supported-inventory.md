@@ -56,7 +56,7 @@ Following are the supported ad networks, campaign types, and ad types, and the f
 
 [^1]: For most ad networks and campaign types, when you enable the "[!UICONTROL EF Redirect]" and "[!UICONTROL Auto Upload]" tracking settings for an active campaign (either set at the campaign level or inherited from the account settings), Search, Social, & Commerce automatically creates and uploads tracking URLs for the ad group components to the ad network each time it synchronizes with it. Otherwise, you need to generate tracking URLs and add them to the account, campaign, or campaign component settings. See "[When and how to generate click-tracking URLs by ad network and object](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)."
 
-[^2]: See "Eligible portfolio types by campaign bid strategy" in the Optimization Guide, which is available from within Search, Social, & Commerce.
+[^2]: See "[Optimization support by bid strategy](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md#optimization-by-bid-strategy)."
 
 [^3]: Requires an integration with Adobe Analytics. See "[Overview of Analytics for Adobe Advertising](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html)."
 
