@@ -14,7 +14,7 @@ Search, Social, & Commerce is transitioning to the Adobe Identity Management Ser
 
 * You can stay logged in for 24 hours.
 
-Your current Search, Social, & Commerce credentials will remain active until 15 July 2025 so that you can prepare for the change.
+Your current Search, Social, & Commerce credentials will remain active until 21 July 2025 so that you can prepare for the change.
 
 For more information about the Experience Cloud interface, including managing your user profile, see "[Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)."
 
