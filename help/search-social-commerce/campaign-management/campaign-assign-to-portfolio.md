@@ -8,7 +8,7 @@ feature: Search Campaign Management
 
 Assigning a campaign to an optimized portfolio allows Search, Social, & Commerce to optimize bids, campaign budgets, and bid strategy targets for keywords and ads in the campaign. You can assign campaigns to a portfolio from the [!UICONTROL Campaigns] view, when you create the portfolio, or by editing a portfolio's settings.
 
-Not all campaign types and ad networks are eligible for optimization; see a list of [supported campaign types](/help/search-social-commerce/introduction/supported-inventory.md) that you can include in a portfolio. In addition, verify the optimization support for each campaign bid strategy by consulting "Eligible Portfolio Types by Campaign Bid Strategy" in the Optimization Guide chapter on "Portfolios," which is available from within Search, Social, & Commerce.<!-- verify convention for referencing Optimization Guide here -->
+Not all campaign types and ad networks are eligible for optimization; see a list of [supported campaign types](/help/search-social-commerce/introduction/supported-inventory.md) that you can include in a portfolio. In addition, verify the [optimization support for each campaign bid strategy](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md#optimization-by-bid-strategy).
 
 >[!NOTE]
 >
@@ -34,9 +34,11 @@ Not all campaign types and ad networks are eligible for optimization; see a list
 
 1. In the toolbar, click ![More Actions](/help/search-social-commerce/assets/more-actions.png "More Actions") **[!UICONTROL More Actions]** > ![Assign](/help/search-social-commerce/assets/assign.png "Assign") **[!UICONTROL Assign]** > **[!UICONTROL New Portfolio]**.
 
-1. In the [!UICONTROL Create Portfolio] screen, specify the portfolio settings<!--[portfolio settings](/help/search-social-commerce/beta-ui/manage/portfolios/portfolio-settings.md)-->.
+1. In the [!UICONTROL Create Portfolio] screen, specify the portfolio settings.
 
    The campaigns you selected previously are already assigned to the campaign. You can optionally edit the campaign list for the portfolio.
+
+   For more information about the portfolio settings, see the Optimization Guide, which is available from within Search, Social, & Commerce.
 
 1. Click **[!UICONTROL Review and Save]**.
 

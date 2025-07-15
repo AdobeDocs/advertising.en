@@ -59,6 +59,41 @@ index: yes
     + Download data in management views {#download-data-views}
       + [Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
       + [Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
++ (Beta) NEW USER INTERFACE {#new-ui}
+  + [View your performance dashboard](/help/search-social-commerce/new-ui/dashboard-view.md)
+  + Plan {#plan}
+    + Objectives {#objectives}
+      + [About objectives](/help/search-social-commerce/new-ui/plan/objectives/objective-about.md)
+      + [Create an objective](/help/search-social-commerce/new-ui/plan/objectives/objective-create.md)
+      + [Edit an objective](/help/search-social-commerce/new-ui/plan/objectives/objective-edit.md)
+      + [Delete an objective](/help/search-social-commerce/new-ui/plan/objectives/objective-delete.md)
+      + [Apply weight recommendations to an objective](/help/search-social-commerce/new-ui/plan/objectives/objective-apply-weight-recommendations.md)
+      + [Objective settings](/help/search-social-commerce/new-ui/plan/objectives/objective-settings.md)
+    + Simulations {#simulations}
+      + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
+      + [Run or rerun a custom simulation](/help/search-social-commerce/new-ui/plan/simulations/simulation-create.md)
+      + [Download simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-download.md)
+    + [Using the [!UICONTROL Spend Planner]](/help/search-social-commerce/new-ui/plan/spend-planner.md)
+  + Manage {#manage}
+    + Portfolios {#portfolios}
+      + [About portfolios](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md)
+      + [Create a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md)
+      + [Duplicate a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-duplicate.md)
+      + [Edit portfolio details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md)
+      + [Bulk edit portfolio settings using bulksheet files](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-bulksheets.md)
+      + [Portfolio settings](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-settings.md)
+      + [View portfolio performance details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-details.md)
+      + [Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
+    + Campaigns {#campaigns}
+      + [About the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-about.md)
+      + [Assign campaigns to a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio)
+      + [Remove campaigns from a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+      + [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
+      + [Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
+    + Ad Groups {#ad-groups}
+      + [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
+      + [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)    
+      + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
 + Tracking {#tracking}
   + [About tracking](/help/search-social-commerce/tracking/tracking-about.md)
   + Click tracking {#click-tracking}
@@ -346,7 +381,7 @@ index: yes
         + [Spreadsheet report feed settings](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-settings.md)
       + [FTP access to reports](/help/search-social-commerce/reports/automation/ftp-reports.md)
     + [How attribution rules are calculated](/help/search-social-commerce/reports/attribution-rules.md)
-    + [FAQs About custom reports](/help/search-social-commerce/reports/faqs-report.md)
+    + [FAQs About Custom Reports](/help/search-social-commerce/reports/faqs-report.md)
   + Notifications {#notifications}
     + [About notifications](/help/search-social-commerce/notifications/notification-about.md)
     + [View your notifications](/help/search-social-commerce/notifications/notification-view.md)
