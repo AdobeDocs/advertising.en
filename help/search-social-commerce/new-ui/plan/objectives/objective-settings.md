@@ -2,10 +2,11 @@
 title: Objective settings
 description: Learn where to find more information about objective settings.
 feature: Search Objectives, Search Optimization
+hide: yes
 ---
 # Objective settings
 
-For more information about the objective settings, see the help within the user interface or the Optimization Guide chapter on "New User Interface" > "Plan" > "Objectives," which is available from within Search, Social, & Commerce.
+For more information about the objective settings, see the help within the user interface or in the Optimization Guide, which is available from within Search, Social, & Commerce.
 
 >[!MORELIKETHIS]
 >

@@ -1,7 +1,8 @@
 ---
 title: (New UI) About the [!UICONTROL Campaigns] view
 description: Learn what you can do in the [!UICONTROL Campaigns] view.
-feature: Search Optimization
+feature: Search Optimization, Search Campaign Management
+hide: yes
 ---
 # (New UI) About the [!UICONTROL Campaigns] view
 

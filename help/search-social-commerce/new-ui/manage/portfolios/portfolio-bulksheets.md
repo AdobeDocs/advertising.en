@@ -2,6 +2,7 @@
 title: Bulk edit portfolio settings using bulksheet files
 description: Learn how to edit the settings for multiple portfolios using a bulksheet file.
 feature: Search Portfolios, Search Optimization
+hide: yes
 ---
 # Bulk edit portfolio settings using bulksheet files
 
@@ -43,7 +44,7 @@ Notifications are also added to Notification Center, and you can open the Notifi
 
 See the [!UICONTROL Instructions] tab on the downloaded bulksheet file.
 
-For explanations of the portfolio setting columns on the [!UICONTROL Portfolio Settings Edit] tab, see the Optimization Guide chapter "New User Interface" > "Manage" > "Portfolios," which is available from within Search, Social, & Commerce.
+For explanations of the portfolio setting columns on the [!UICONTROL Portfolio Settings Edit] tab, see the Optimization Guide, which is available from within Search, Social, & Commerce.
 
 <!--
 ## Data fields on the [!UICONTROL Portfolio Settings Edit] tab

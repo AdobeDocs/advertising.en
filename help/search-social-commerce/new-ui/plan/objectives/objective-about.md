@@ -2,6 +2,7 @@
 title: (New UI) About objectives
 description: Learn about objectives to meet your business goals.
 feature: Search Objectives, Search Optimization
+hide: yes
 ---
 # (New UI) About objectives
 

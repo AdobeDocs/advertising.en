@@ -2,6 +2,7 @@
 title: (New UI) View your performance dashboard
 description: Learn about data available in your performance dashboard.
 feature: Search Portfolios, Search Optimization
+hide: yes
 ---
 # (New UI) View your performance dashboard
 

@@ -2,12 +2,11 @@
 title: (New UI) Create a portfolio
 description: Learn how to create a portfolio.
 feature: Search Portfolios, Search Optimization
+hide: yes
 ---
 # (New UI) Create a portfolio
 
 *Beta feature*
-
-*Agency account manager, [!DNL Adobe] account manager, and administrator user roles only*
 
 >[!NOTE]
 >
@@ -19,7 +18,7 @@ feature: Search Portfolios, Search Optimization
 
 1. Specify the portfolio settings.
 
-   For more information about the portfolio settings, see the Optimization Guide chapter "New User Interface" > "Manage" > "Portfolios," which is available from within Search, Social, & Commerce.
+   For more information about the portfolio settings, see the Optimization Guide, which is available from within Search, Social, & Commerce.
 
 1. Click **[!UICONTROL Review and Save]**.
 

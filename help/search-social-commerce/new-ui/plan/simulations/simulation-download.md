@@ -1,13 +1,12 @@
 ---
 title: Download simulations
-description: Learn how to download simulations in XXX format.
+description: Learn how to download simulations in a spreadsheet file.
 feature: Search Optimization, Search Portfolios, Search Simulations
+hide: yes
 ---
 # Download simulations
 
 *Beta feature*
-
-*Agency account manager, [!DNL Adobe] account manager, and administrator user roles only*
 
 You can download the data for multiple simulations at a time to a file in ZIP format. The file includes one [!DNL Microsoft Excel] workbook (XLSX file) for each selected simulation.
 

@@ -2,6 +2,7 @@
 title: (New UI) About portfolios
 description: Learn about portfolios.
 feature: Search Portfolios, Search Optimization
+hide: yes
 ---
 # (New UI) About portfolios
 

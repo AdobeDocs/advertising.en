@@ -2,12 +2,11 @@
 title: About simulations
 description: Learn about portfolio simulations.
 feature: Search Optimization, Search Portfolios, Search Simulations
+hide: yes
 ---
 # About simulations
 
 *Beta feature*
-
-*Agency account manager, [!DNL Adobe] account manager, and administrator user roles only*
 
 Simulation reports show the estimated marginal cost-to-objective value, cost, number of clicks, and objective value that you can expect for a portfolio at various levels of spending (cost) and the corresponding daily budgets or other targets. You can optionally customize the view<!-- add link --> to see additional traffic metrics, simulation settings, and only a specific simulation type ([!UICONTROL Weekly] or [!UICONTROL Custom]).
 
@@ -43,7 +42,7 @@ The data table includes the progress of each simulation; a [!UICONTROL Target Mi
 
 * [Download weekly and custom simulations](simulation-download.md) as [!DNL Microsoft Excel] workbooks in ZIP files.
 
-* Using the [!UICONTROL Spend Planner] button, open the legacy Spend Recommendation tool, which helps you to identify the optimal spend distribution across portfolios. For more information about spend recommendations, see the "Spend Recommendations" chapter in the Optimization Guide, which is available from within Search, Social, & Commerce.<!-- verify convention for referencing Optimization Guide here -->
+* Using the [!UICONTROL Spend Planner] button, open the legacy Spend Recommendation tool, which helps you to identify the optimal spend distribution across portfolios.
 
 ## Best practices
 

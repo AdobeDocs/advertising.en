@@ -2,6 +2,7 @@
 title: (New UI) Manage data view reports from the [!UICONTROL Portfolios] view
 description: Learn how to generate, download, and delete reports that contain the data rows for one or more portfolios in the [!UICONTROL Portfolios] view.
 feature: Search Portfolios, Search Optimization
+hide: yes
 ---
 # (New UI) Manage data view reports from the [!UICONTROL Portfolios] view
 

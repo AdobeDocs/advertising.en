@@ -2,12 +2,11 @@
 title: (New UI) Duplicate a portfolio
 description: Learn how to create a portfolio by duplicating an existing portfolio.
 feature: Search Portfolios, Search Optimization
+hide: yes
 ---
 # (New UI) Duplicate a portfolio
 
 *Beta feature*
-
-*Agency account manager, [!DNL Adobe] account manager, and administrator user roles only*
 
 Duplicate a portfolio to create a new portfolio with the same settings. You can optionally change the default name for the new portfolio and edit the portfolio settings as needed. 
 
@@ -21,7 +20,7 @@ Duplicate a portfolio to create a new portfolio with the same settings. You can 
 
    By default, the new portfolio name is `*<original portfolio name>*_Copy`, such as "Power-Tools_Copy".
 
-   For more information about the portfolio settings, see the Optimization Guide chapter "New User Interface" > "Manage" > "Portfolios," which is available from within Search, Social, & Commerce.
+   For more information about the portfolio settings, see the Optimization Guide, which is available from within Search, Social, & Commerce.
 
 1. Click **[!UICONTROL Review and Save]**.
 

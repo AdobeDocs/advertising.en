@@ -2,12 +2,11 @@
 title: Run or rerun a custom simulation
 description: Learn how to run or rerun a custom simulation for a portfolio.
 feature: Search Optimization, Search Portfolios, Search Simulations
+hide: yes
 ---
 # Run or rerun a custom simulation
 
 *Beta feature*
-
-*Agency account manager, [!DNL Adobe] account manager, and administrator user roles only*
 
 You can generate a custom simulation for an [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portfolio. You also can either change the parameters of an existing simulation and regenerate the simulation or rerun an existing simulation with the existing parameters.
 
@@ -97,7 +96,7 @@ You can rerun simulations that aren't currently queued.
 
 ## Custom simulation settings {#custom-simulation-settings}
 
-For more information about the custom simulation settings, see the Optimization Guide chapter on "Portfolios" > "Viewing Portfolio-level Reports" > "Simulation Reports," which is available from within Search, Social, & Commerce.
+For more information about the custom simulation settings, see the Optimization Guide, which is available from within Search, Social, & Commerce.
 
 >[!MORELIKETHIS]
 >

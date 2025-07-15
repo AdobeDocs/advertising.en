@@ -2,6 +2,7 @@
 title: (New UI) Delete an objective
 description: Learn how to delete an objective.
 feature: Search Objectives, Search Optimization
+hide: yes
 ---
 # (New UI) Delete an objective
 

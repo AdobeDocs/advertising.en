@@ -2,6 +2,7 @@
 title: (New UI) Create an objective
 description: Learn how to create an objective.
 feature: Search Objectives, Search Optimization
+hide: yes
 ---
 # (New UI) Create an objective
 
@@ -17,7 +18,7 @@ feature: Search Objectives, Search Optimization
 
 1. Enter the objective settings.
 
-  For instructions, see the help within the user interface or the Optimization Guide chapter on "New User Interface" > "Plan" > "Objectives," which is available from within Search, Social, & Commerce.
+  For instructions, see the help within the user interface or in the Optimization Guide, which is available from within Search, Social, & Commerce.
 
 1. At the bottom of the settings, click **[!UICONTROL Save]**.
 

@@ -9,8 +9,6 @@ feature:
 
 *Beta feature*
 
-*Agency account manager, [!DNL Adobe] account manager, and administrator user roles only*
-
 Note: Custom (and weekly) simulation files are automatically deleted when 30 more
 recent simulations have been generated.<!-- Verify, and if this applies only to custom simulations -->
 

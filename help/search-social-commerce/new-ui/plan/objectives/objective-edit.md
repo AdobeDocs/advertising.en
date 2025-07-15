@@ -2,6 +2,7 @@
 title: (New UI) Edit an objective
 description: Learn how to edit an objective.
 feature: Search Objectives, Search Optimization
+hide: yes
 ---
 # (New UI) Edit an objective
 
@@ -13,7 +14,7 @@ feature: Search Objectives, Search Optimization
 
 1. Change any of the objective settings.
 
-   For instructions, see the help within the user interface or the Optimization Guide chapter on "New User Interface" > "Plan" > "Objectives," which is available from within Search, Social, & Commerce.
+   For instructions, see the help within the user interface or in the Optimization Guide, which is available from within Search, Social, & Commerce.
 
 1. Save the data:
 

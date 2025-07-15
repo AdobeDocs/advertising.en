@@ -2,12 +2,11 @@
 title: (New UI) Edit a portfolio
 description: Learn how to edit portfolio settings.
 feature: Search Portfolios, Search Optimization
+hide: yes
 ---
 # (New UI) Edit a portfolio
 
 *Beta feature*
-
-*Agency account manager, [!DNL Adobe] account manager, and administrator user roles only*
 
 >[!NOTE]
 >
@@ -21,7 +20,7 @@ feature: Search Portfolios, Search Optimization
 
 1. Edit the portfolio settings.
 
-   For more information about the portfolio settings, see the Optimization Guide chapter "New User Interface" > "Manage" > "Portfolios," which is available from within Search, Social, & Commerce.
+   For more information about the portfolio settings, see the Optimization Guide, which is available from within Search, Social, & Commerce.
 
 1. Click **[!UICONTROL Review and Save]**.
 

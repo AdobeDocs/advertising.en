@@ -2,6 +2,7 @@
 title: Manage constraint assignments for campaigns
 description: Learn how to assign constraints to campaigns.
 feature: Search Optimization, Search Campaign Management
+hide: yes
 ---
 # (New UI) Manage constraint assignments for campaigns
 
