@@ -13,9 +13,9 @@ The [!UICONTROL Manage] > [!UICONTROL Ad Groups] view lists all ad groups in you
 
 * [Assign constraints to ad groups, and unassign constraints from ad groups](/help/search-social-commerce/new-ui/manage/ad groups/ad-group-constraint-assignments-manage.md)
 
-* [Download data from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad groups/ad-group-view-download.md)
+* [Download data from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad groups/ad-group-view-report.md)
 
 >[!MORELIKETHIS]
 >
 >* [Manage constraint assignments for ad groups](ad-group-constraint-assignments-manage.md)
->* [Download data from the [!UICONTROL Ad Groups] view](ad-group-view-download.md)
+>* [Download data from the [!UICONTROL Ad Groups] view](ad-group-view-report.md)
