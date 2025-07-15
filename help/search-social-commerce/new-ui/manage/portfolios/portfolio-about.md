@@ -54,11 +54,13 @@ The [!UICONTROL Portfolios] view lists your existing portfolios, with customizab
 
 <!-- Update with any new options -->
 
+<!-- within row:
+* [Rename a portfolio](portfolio-rename.md)
+-->
+
 * [Create a portfolio](portfolio-create.md)
 
 * [Duplicate a portfolio](portfolio-duplicate.md)
-
-* [Rename a portfolio](portfolio-rename.md)
 
 * [Edit portfolio settings](portfolio-edit.md)
 
