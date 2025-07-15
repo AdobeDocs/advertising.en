@@ -1,6 +1,6 @@
 ---
-title: 
-description: 
+title: About simulations
+description: Learn about portfolio simulations.
 feature: Search Optimization, Search Portfolios, Search Simulations
 ---
 # About simulations
