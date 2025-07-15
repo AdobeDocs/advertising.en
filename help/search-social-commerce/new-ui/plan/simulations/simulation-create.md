@@ -9,7 +9,7 @@ feature: Search Optimization, Search Portfolios, Search Simulations
 
 *Agency account manager, [!DNL Adobe] account manager, and administrator user roles only*
 
-You can generate a custom simulation for an [optimized or active](/help/search-social-commerce/optimization/manage/portfolios/portfolio-about.md) portfolio. You also can either change the parameters of an existing simulation and regenerate the simulation or rerun an existing simulation with the existing parameters.
+You can generate a custom simulation for an [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portfolio. You also can either change the parameters of an existing simulation and regenerate the simulation or rerun an existing simulation with the existing parameters.
 
 [!UICONTROL Admin] and [!UICONTROL Account Manager] users can see simulations created by other users. All other users can see only the custom simulations they create.
 
@@ -103,4 +103,3 @@ For more information about the custom simulation settings, see the Optimization 
 >
 >* [About simulations](simulation-about.md)
 >* [Download simulations](simulation-download.md)
->* [Rerun simulations](simulation-rerun.md)

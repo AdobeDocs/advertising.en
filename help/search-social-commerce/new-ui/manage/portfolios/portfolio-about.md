@@ -56,6 +56,10 @@ The [!UICONTROL Portfolios] view lists your existing portfolios, with customizab
 
 <!-- within row:
 * [Rename a portfolio](portfolio-rename.md)
+
+* [View the constraints for a portfolio](portfolio-view-constraint.md)
+
+* [View the change history for a portfolio](portfolio-view-change-history.md)
 -->
 
 * [Create a portfolio](portfolio-create.md)
@@ -66,13 +70,9 @@ The [!UICONTROL Portfolios] view lists your existing portfolios, with customizab
 
 * [Bulk edit portfolio settings using bulksheet files](portfolio-bulksheets.md)
 
-* [View portfolio performance details](portfolio-view-details.md)
+* [View portfolio performance details](portfolio-details.md)
 
-* [View the constraints for a portfolio](portfolio-view-constraint.md)
-
-* [View the change history for a portfolio](portfolio-view-change-history.md)
-
-* [Download data in the [!UICONTROL Portfolios] view](portfolio-data-download.md) 
+* [Download data in the [!UICONTROL Portfolios] view](portfolio-view-report.md) 
 
 >[!MORELIKETHIS]
 >

@@ -57,6 +57,6 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 
 >[!MORELIKETHIS]
 >
->* [About the [!UICONTROL Campaigns view]](campaign-about.md)
+>* [About the [!UICONTROL Campaigns view]](campaign-view-about.md)
 >* [(Legacy UI) Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
 >* [(Legacy UI) Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)

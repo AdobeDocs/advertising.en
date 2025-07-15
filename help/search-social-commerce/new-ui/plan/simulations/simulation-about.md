@@ -17,11 +17,11 @@ When the portfolio has a daily budget, you can optionally change the portfolio's
 
 ## Types of simulations
 
-* **Automated weekly simulations:** Simulation reports are run automatically each week using the current portfolio settings. Automated weekly simulations are available only for periods in which the portfolio is [optimized or active](/help/search-social-commerce/optimization/manage/portfolios/portfolio-about.md).
+* **Automated weekly simulations:** Simulation reports are run automatically each week using the current portfolio settings. Automated weekly simulations are available only for periods in which the portfolio is [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md).
 
   Each downloaded weekly simulation consists of one workbook. Each workbook includes the target for each of 20 step levels and the projected cost, clicks, weighted revenue (objective value), and conversion metrics included in the objective, based on the corresponding target. For the first 20 data rows, constraints weren't applied; for the remaining data rows, constraints were applied.
 
-* **Custom, user-generated simulations:** You can create a custom simulation report for a single [optimized or active](/help/search-social-commerce/optimization/manage/portfolios/portfolio-about.md) portfolio using the current portfolio settings or using custom portfolio settings to see the results that those settings would produce without actually changing them. For example, you could create a custom simulation to see the effect of using a different spending strategy or learning budget<!-- Not available yet:  , or without considering active constraints on bid units in the portfolio-->. You can view estimated performance at the portfolio, campaign, bid unit, and device levels. Custom simulations inherit the constraints spending setting from the portfolio.
+* **Custom, user-generated simulations:** You can create a custom simulation report for a single [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portfolio using the current portfolio settings or using custom portfolio settings to see the results that those settings would produce without actually changing them. For example, you could create a custom simulation to see the effect of using a different spending strategy or learning budget<!-- Not available yet:  , or without considering active constraints on bid units in the portfolio-->. You can view estimated performance at the portfolio, campaign, bid unit, and device levels. Custom simulations inherit the constraints spending setting from the portfolio.
 
   >[!NOTE]
   >

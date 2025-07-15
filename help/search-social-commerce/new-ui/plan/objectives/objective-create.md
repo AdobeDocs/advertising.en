@@ -9,7 +9,7 @@ feature: Search Objectives, Search Optimization
 
 >[!NOTE]
 >
->You can associate an objective with a portfolio when you [create the portfolio](/help/search-social-commerce/new-ui/optimization/manage/portfolios/portfolio-create.md) or by later [modifying the portfolio settings](/help/search-social-commerce/new-ui/optimization/manage/portfolios/portfolio-edit.md). You can use the same objective for multiple portfolios.
+>You can associate an objective with a portfolio when you [create the portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md) or by later [modifying the portfolio settings](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md). You can use the same objective for multiple portfolios.
 
 1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Objectives]**.
 

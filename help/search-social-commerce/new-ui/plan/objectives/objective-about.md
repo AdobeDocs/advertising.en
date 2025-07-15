@@ -24,7 +24,7 @@ For each metric in the objective, you can:
 * Apply weight recommendations to the metrics.
 
 >[!NOTE]
->* (Search, Social, & Commerce) You can associate an objective with a portfolio when you [create the portfolio](/help/search-social-commerce/new-ui/optimization/manage/portfolios/portfolio-create.md) or by later [modifying the portfolio settings](/help/search-social-commerce/new-ui/optimization/manage/portfolios/portfolio-edit.md).
+>* (Search, Social, & Commerce) You can associate an objective with a portfolio when you [create the portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md) or by later [modifying the portfolio settings](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md).
 >* (Advertisers with DSP accounts that are linked to Search, Social, & Commerce accounts) In Advertising DSP, you can select an objective as a [custom optimization goal](/help/dsp/campaign-management/packages/package-settings.md) for a package with package-level pacing.
 >* You can use the same objective for multiple Search, Social, & Commerce portfolios and/or multiple DSP packages.
 >* The metrics for each objective in the [!UICONTROL Objectives] view don't include data from DSP.
@@ -39,11 +39,11 @@ You can include any of the following in your objectives:
 
 * (Advertisers with [!DNL Adobe Analytics for Advertising]) [Conversion and site engagement metrics synced from Adobe Analytics](/help/integrations/analytics/overview.md).
 
-  In Search, Social, & Commerce, the following [site engagement metrics](/help/integrations/analytics/data/analytics-data-in-advertising.md#site-engagement-metrics) are automatically factored into the portfolio bidding algorithms: `timespent_secs_1stvisit`, `timespent_secs_total`, `pageviews_1stvisit`, `pageviews_total`, and `bounces`.
+  In Search, Social, & Commerce, the following [site engagement metrics](/help/integrations/analytics/analytics-data-in-advertising.md) are automatically factored into the portfolio bidding algorithms: `timespent_secs_1stvisit`, `timespent_secs_total`, `pageviews_1stvisit`, `pageviews_total`, and `bounces`.
 
 * [!DNL Google] metrics:<!-- Search only, or might DSP-only clients also have these? -->
 
-  * [[!DNL Google Ads]-tracked conversions](/help/campaign-management/campaign-management-intro/google-conversion-data.html) from synced [!DNL Google Ads] accounts.
+  * [[!DNL Google Ads]-tracked conversions](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md) from synced [!DNL Google Ads] accounts.
 
   * (Advertisers with [[!DNL Google Analytics] integrations](/help/search-social-commerce/admin/data-sources/data-source-about.md)) Page views, Sessions, Bounce Rate (calculated as bounces/sessions), and Session Duration.
 
@@ -51,7 +51,7 @@ You can include any of the following in your objectives:
  
 ## Option to upload objectives to the ad networks
 
-You can optionally [upload the objectives for the account's portfolios to [!DNL Google Ads] and/or [!DNL Microsoft Advertising] as conversions](/help/search-social-commerce/tools/upload-ad-networks/objective-upload-to-networks.md) so that you can use them for campaign- or ad group-level optimization. When you enable the option, Search, Social, & Commerce passes the weighted revenue data at the EF ID (click ID) level to the ad network daily. It omits any ad network-tracked metrics.
+You can optionally [upload the objectives for the account's portfolios to [!DNL Google Ads] and/or [!DNL Microsoft Advertising] as conversions](/help/search-social-commerce/tools/objective-upload-to-networks.md) so that you can use them for campaign- or ad group-level optimization. When you enable the option, Search, Social, & Commerce passes the weighted revenue data at the EF ID (click ID) level to the ad network daily. It omits any ad network-tracked metrics.
 
 >[!MORELIKETHIS]
 >
