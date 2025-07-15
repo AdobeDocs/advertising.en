@@ -12,7 +12,7 @@ Following are the supported ad networks, campaign types, and ad types, and the f
 >
 >The following table is wide. To expand your viewing area, you can temporarily hide the table of contents and the right pane by clicking ![Hide left pane](/help/dsp/assets/hide-left-pane.png "Hide left pane") at the top of the left pane and ![Hide right pane](/help/dsp/assets/hide-right-pane.png "Hide right pane") at the top of the right pane. You can also use the scrollbar at the bottom of the table to view the full contents.
 
-| Source | Network | Campaign Type | Ad Type | Sync and View | Create/Edit | Track[^1] | Optimize | Report[^2] | Adobe Analytics Support[^3] |
+| Source | Network | Campaign Type | Ad Type | Sync and View | Create/Edit | Track[^1] | Optimize[^2] | Report | Adobe Analytics Support[^3] |
 |----|----|----|----|----|----|----|----|----|----|
 | [!DNL Baidu]: *Support only for existing accounts in Search, Social, & Commerce* | Search network | Manual | Text ad | Automatic sync via API | Create/edit using [campaign management views](/help/search-social-commerce/campaign-management/campaigns/campaign-management-options.md) and [bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) | Yes | Campaigns with Manual CPC bid strategy only | Ad-level data | [!DNL Analytics] data to Search, Social, & Commerce<br><br>Ad-level data from Search, Social, & Commerce to | [!DNL Analytics] |
 | [!DNL Google Ads] | All [!DNL Google] feeds | Demand gen | Demand Gen carousel ad (multi-image ad)<br><br>Demand Gen image ad<br><br>Demand Gen product ad<br><br>Demand Gen video ad | Automatic sync via API | No create/edit options | Yes | Carousel and image ads only; hybrid portfolios only<br><br>Bids and bid strategy targets are set at the campaign level, along with campaign budgets, as applicable for the optimization type. | Ad-level data | Ad-level data to Search, Social, & Commerce [using the upgraded AMO ID tracking code](/help/integrations/analytics/ids.md#amo-id-formats)[^4]<br><br>Ad-level data from Search, Social, & Commerce to | [!DNL Analytics] |
@@ -56,7 +56,7 @@ Following are the supported ad networks, campaign types, and ad types, and the f
 
 [^1]: For most ad networks and campaign types, when you enable the "[!UICONTROL EF Redirect]" and "[!UICONTROL Auto Upload]" tracking settings for an active campaign (either set at the campaign level or inherited from the account settings), Search, Social, & Commerce automatically creates and uploads tracking URLs for the ad group components to the ad network each time it synchronizes with it. Otherwise, you need to generate tracking URLs and add them to the account, campaign, or campaign component settings. See "[When and how to generate click-tracking URLs by ad network and object](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)."
 
-[^2]: See "[Optimization support by bid strategy](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md#optimization-by-bid-strategy)."
+[^2]: For more information, see "[Optimization support by bid strategy](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md#optimization-by-bid-strategy)."
 
 [^3]: Requires an integration with Adobe Analytics. See "[Overview of Analytics for Adobe Advertising](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html)."
 
