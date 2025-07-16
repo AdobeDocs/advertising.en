@@ -3,6 +3,7 @@ title: (New UI) Manage data view reports from the [!UICONTROL Campaigns] view
 description: Learn how to generate, download, and delete reports that contain the data rows for one or more campaigns in the [!UICONTROL Campaigns] view in a report.
 feature: Search Optimization, Search Campaign Management
 hide: yes
+exl-id: c82dc210-1bd4-466c-8a0e-96b59a80da93
 ---
 # (New UI) Manage data view reports from the [!UICONTROL Campaigns] view
 

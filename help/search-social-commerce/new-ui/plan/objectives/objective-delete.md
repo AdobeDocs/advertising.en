@@ -3,6 +3,7 @@ title: (New UI) Delete an objective
 description: Learn how to delete an objective.
 feature: Search Objectives, Search Optimization
 hide: yes
+exl-id: 27dfe063-3b62-41b9-bc09-a069cfd7dc59
 ---
 # (New UI) Delete an objective
 

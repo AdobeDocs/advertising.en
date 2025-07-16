@@ -3,6 +3,7 @@ title: Manage constraint assignments for campaigns
 description: Learn how to assign constraints to campaigns.
 feature: Search Optimization, Search Campaign Management
 hide: yes
+exl-id: d886a228-24d7-4d8e-b68a-76e56b4304ed
 ---
 # (New UI) Manage constraint assignments for campaigns
 
@@ -82,4 +83,3 @@ You can assign a single constraint to one or more campaigns.
 >[!MORELIKETHIS]
 >
 >* [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
-

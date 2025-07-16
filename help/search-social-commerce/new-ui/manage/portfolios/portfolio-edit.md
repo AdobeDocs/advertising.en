@@ -3,6 +3,7 @@ title: (New UI) Edit a portfolio
 description: Learn how to edit portfolio settings.
 feature: Search Portfolios, Search Optimization
 hide: yes
+exl-id: c1be8634-47f6-465e-a6c9-88cbb3456592
 ---
 # (New UI) Edit a portfolio
 

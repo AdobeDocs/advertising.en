@@ -3,6 +3,7 @@ title: (New UI) Manage data view reports from the [!UICONTROL Ad Groups] view
 description: Learn how to generate, download, and delete reports that contain the data rows for one or more ad groups in the [!UICONTROL Ad Groups] view.
 feature: Search Optimization, Search Campaign Management
 hide: yes
+exl-id: 330bfda2-f46f-428e-b17c-efbe749b19ab
 ---
 # (New UI) Manage data view reports from the [!UICONTROL Ad Groups] view
 

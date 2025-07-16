@@ -3,6 +3,7 @@ title: (New UI) View your performance dashboard
 description: Learn about data available in your performance dashboard.
 feature: Search Portfolios, Search Optimization
 hide: yes
+exl-id: ef79f52b-cc97-4f36-8a44-50ffd3377c8b
 ---
 # (New UI) View your performance dashboard
 
@@ -51,4 +52,3 @@ Your [!UICONTROL Dashboard] includes the following visual reports:
   * Change the metric reported ([!UICONTROL Cost] \[selected by default\], [!UICONTROL Clicks], or [!UICONTROL Objective Value]).
   
   * To open the [!UICONTROL Portfolios] view, click **[!UICONTROL View More]** in the bottom right of the chart. <!-- This currently lists all portfolios, not a filtered view of the portfolios in the report -->
-  

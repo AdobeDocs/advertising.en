@@ -3,6 +3,7 @@ title: (New UI) About portfolios
 description: Learn about portfolios.
 feature: Search Portfolios, Search Optimization
 hide: yes
+exl-id: 8d023c22-a1dd-4608-8c72-0a61f055e7e5
 ---
 # (New UI) About portfolios
 

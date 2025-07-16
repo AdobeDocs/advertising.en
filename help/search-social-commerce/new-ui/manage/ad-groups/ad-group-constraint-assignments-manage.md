@@ -3,6 +3,7 @@ title: Manage constraint assignments for ad groups
 description: Learn how to assign constraints to ad groups.
 feature: Search Optimization, Search Campaign Management
 hide: yes
+exl-id: c9960b5a-4b6c-4ef0-8501-5478af2c40da
 ---
 # (New UI) Manage constraint assignments for ad groups
 

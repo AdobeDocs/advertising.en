@@ -3,6 +3,7 @@ title: (New UI) View View portfolio performance details
 description: Learn how to view portfolio performance details, including actual and predicted metrics at the portfolio level and for each assigned campaign.
 feature: Search Portfolios, Search Optimization
 hide: yes
+exl-id: b5178856-1b0e-45cf-a351-6f31c0b0ec76
 ---
 # (New UI) View portfolio performance details
 

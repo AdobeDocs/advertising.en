@@ -3,6 +3,7 @@ title: About simulations
 description: Learn about portfolio simulations.
 feature: Search Optimization, Search Portfolios, Search Simulations
 hide: yes
+exl-id: 2fbefee2-f8f7-4b3d-a039-e1ca0236c61a
 ---
 # About simulations
 

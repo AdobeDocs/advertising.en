@@ -3,6 +3,7 @@ title: (New UI) Edit an objective
 description: Learn how to edit an objective.
 feature: Search Objectives, Search Optimization
 hide: yes
+exl-id: b2363781-d767-4a4a-9137-17834088721e
 ---
 # (New UI) Edit an objective
 

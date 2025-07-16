@@ -3,6 +3,7 @@ title: Run or rerun a custom simulation
 description: Learn how to run or rerun a custom simulation for a portfolio.
 feature: Search Optimization, Search Portfolios, Search Simulations
 hide: yes
+exl-id: 0ee62d04-fdc4-445c-90fb-71d5a40a9ed0
 ---
 # Run or rerun a custom simulation
 

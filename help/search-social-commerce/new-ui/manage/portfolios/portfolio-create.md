@@ -3,6 +3,7 @@ title: (New UI) Create a portfolio
 description: Learn how to create a portfolio.
 feature: Search Portfolios, Search Optimization
 hide: yes
+exl-id: f7fe6138-8335-407a-88fd-f0ace27c93ee
 ---
 # (New UI) Create a portfolio
 

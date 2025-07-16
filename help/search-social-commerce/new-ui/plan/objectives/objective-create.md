@@ -3,6 +3,7 @@ title: (New UI) Create an objective
 description: Learn how to create an objective.
 feature: Search Objectives, Search Optimization
 hide: yes
+exl-id: 21516197-d005-4703-8735-c789107dc3c4
 ---
 # (New UI) Create an objective
 

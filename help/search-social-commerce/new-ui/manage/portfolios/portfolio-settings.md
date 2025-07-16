@@ -3,6 +3,7 @@ title: (New UI) Portfolio settings
 description: Learn where to find more information about portfolio settings.
 feature: Search Portfolios, Search Optimization
 hide: yes
+exl-id: 787aa4f2-775f-4d7a-aabc-cce2851e8ea7
 ---
 # (New UI) Portfolio settings
 

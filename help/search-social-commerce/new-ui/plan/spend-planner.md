@@ -2,6 +2,7 @@
 title: Using the [!UICONTROL Spend Planner]
 description: Learn how to use the [!UICONTROL Spend Planner] to identify the optimal spend distribution across portfolios.
 feature: Search Optimization, Search Portfolios, Search Simulations
+exl-id: 966b8968-68b6-4385-9efb-e639a6729362
 ---
 # Using the [!UICONTROL Spend Planner]
 
