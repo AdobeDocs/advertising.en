@@ -8,7 +8,7 @@ exl-id: 4ae05142-8319-4329-96d7-f87d77f02745
 
 *Closed beta*
 
-Once an ad tag for a specific creative size is available for a [live](experience-about.md#experience-statuses) experience, you can generate and copy the tag in JavaScript and iframe formats for implementation on Advertising DSP or other DSPs. The tags for DSP include all macros required for DSP.
+Once an ad tag for a specific creative size is available for a [live](experience-about.md#experience-statuses) experience, you can generate and copy the tag in JavaScript, iframe, and video formats for implementation on Advertising DSP or other DSPs. The tags for DSP include all macros required for DSP.
 
 Advertisers with Advertising DSP can optionally upload tags directly to an Advertising DSP campaign as ads with the ad type "standard display" or "universal video."
 
@@ -43,7 +43,11 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
 1. Click **[!UICONTROL Next]** in the upper right or click **[!UICONTROL Generate ad tags]** in the left menu.
 
-1. Select the tag type: ** *JavaScript<!-- sic -->*  ** or ** *IFRAME* ** <!-- sic -->.
+1. Select the tag type:
+
+   * (Non-video experiences) ** *JavaScript<!-- sic -->*  ** or ** *IFRAME* ** <!-- sic -->.
+
+   * (Video experiences) ** *Video* **.
 
 1. In the [!UICONTROL Destinations] list, select where you'll create ads for the experience.
 
