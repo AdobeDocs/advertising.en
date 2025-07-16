@@ -30,7 +30,7 @@ You can add and manage the following creative types in the [supported creative s
 >
 >* Even if you intend to use HTML5, Flexible HTML5, or third-party creatives for your standard display ad experiences, you must also add image creatives for each creative size you use.
 >* Each standard display experience requires a default image creative for each creative size assigned to the experience. The default image creatives are used when a browser isn't JavaScript-enabled or when the ad server can't personalize the ad because of delays.
->* Each standard video experience requires a default video creative for each creative size assigned to the experience.<!-- when is it used? -->
+>* Each standard video experience requires a default video creative for each creative duration assigned to the experience.<!-- when is it used? -->
 
 #### Flexible HTML5
 
@@ -58,7 +58,7 @@ Enter JavaScript tracking tags for creatives hosted on third-party ad servers. T
 
 #### Video creatives {#creative-video-specs}
 
-You can upload first-party video creatives for web, mobile, or connected TV from your device or network. Each standard video ad experience requires a default video creative for each creative size assigned to the experience. All video creatives are transcoded automatically by DSP as VAST 2.0 tags so you can preview them. In [!UICONTROL Tag Manager], you can can optionally [apply publisher-specific transcoding](/help/creative/experiences/experience-tag-video-transcoding.md) to any video ad experience tag.
+You can upload first-party video creatives for web, mobile, or connected TV from your device or network. Each standard video ad experience requires a default video creative for each creative duration assigned to the experience. All video creatives are transcoded automatically by DSP as VAST 2.0 tags so you can preview them. In [!UICONTROL Tag Manager], you can can optionally [apply publisher-specific transcoding](/help/creative/experiences/experience-tag-video-transcoding.md) to any video ad experience tag.
 
 See the following video creative requirements.
 
