@@ -20,11 +20,21 @@ You can preview a creative as viewers will see it, including hyperlinks.
    
    * In table view, hold the cursor over the row and click **[!UICONTROL Preview]**.
 
-1. (Optional) To resize the image within the screen, select an option in the **[!UICONTROL Zoom]** list, from 10% to 100% of the image size.
+1. (Optional when available) To resize the image within the screen, select an option in the **[!UICONTROL Zoom]** list, from 10% to 100% of the image size.
 
 1. (Flexible HTML5 creatives; optional) To scroll between the frames for the creative, click **\<** and **\>**.
 
-1. (Optional) To open the landing page for the creative, click the creative.
+1. (Video creatives; optional) Do any of the following using the controls under the creative:
+
+   * Play or stop the video.
+
+   * Mute or unmute the sound.
+
+   * Open the video in full-screen mode and exit full-screen mode.
+
+   * From [!UICONTROL More Options], download the video, change the playback speed, or change to picture-in-picture.
+
+1. (Optional; non-video creatives) To open the landing page for the creative, click the creative.
 
    <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
 
