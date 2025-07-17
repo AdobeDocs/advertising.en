@@ -20,7 +20,7 @@ You can customize the transcoding options for a video ad experience to ensure fa
 
 1. Hold the cursor over the row for the applicable ad tag, click **[!UICONTROL More]**, and then click **[!UICONTROL Video Settings]**.
 
-1. In the list of **[!UICONTROL Publisher specific transcodes]**, select the type of transcoding.
+1. In the list of **[!UICONTROL Publisher-specific transcodes]**, select the DSP whose transcoding you want to apply.
 
 1. Click **[!UICONTROL Save Settings]**.
 

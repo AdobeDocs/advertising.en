@@ -9,7 +9,7 @@ exl-id: 77dedfa2-33de-4a92-a58b-1a2b91842f0a
 *Experiences without decision tree targeting only*
 *Closed beta*
 
-You can create one or more ad tag per language for each creative size or video duration used for an experience. You can later [assign creatives to the ad tag](experience-tag-assign-creatives.md).
+You can create one or more ad tag per language for each creative size (non-video creatives) or video duration used for an experience. You can later [assign creatives to the ad tag](experience-tag-assign-creatives.md).
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ You can create one or more ad tag per language for each creative size or video d
 
    You can expand the tag row to see the included creatives.
 
-   For video ad experiences, video creatives are transcoded automatically by DSP as VAST 2.0 tags so you can preview them. You can optionally [apply publisher-specific transcoding](experience-tag-video-transcoding.md).
+   For video ad experiences, video creatives are transcoded automatically using Adobe Advertising DSP encoding as VAST 2.0 tags so you can preview them. You can optionally [apply transcoding for other DSPs](experience-tag-video-transcoding.md).
 
 >[!MORELIKETHIS]
 >

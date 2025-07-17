@@ -8,14 +8,14 @@ exl-id: 4ae05142-8319-4329-96d7-f87d77f02745
 
 *Closed beta*
 
-Once an ad tag for a specific creative size is available for a [live](experience-about.md#experience-statuses) experience, you can generate and copy the tag in JavaScript, iframe, and video formats for implementation on Advertising DSP or other DSPs. The tags for DSP include all macros required for DSP.
+Once an ad tag for a specific creative size or video duration is available for a [live](experience-about.md#experience-statuses) experience, you can generate and copy the tag in JavaScript, iframe, and video formats for implementation on Advertising DSP or other DSPs. The tags for DSP include all macros required for DSP.
 
 Advertisers with Advertising DSP can optionally upload tags directly to an Advertising DSP campaign as ads with the ad type "standard display" or "universal video."
 
 >[!NOTE]
 >
->* When you create an experience with decision tree targeting, [!DNL Creative] automatically creates an ad tag for each applicable creative size.
->* When you create an experience without decision tree targeting, you must [manually create an ad tag](experience-tag-create-manually.md) for each applicable creative size.
+>* When you create an experience with decision tree targeting, [!DNL Creative] automatically creates an ad tag for each applicable creative size (non-video creatives) or video duration (video creatives).
+>* When you create an experience without decision tree targeting, you must [manually create an ad tag](experience-tag-create-manually.md) for each applicable creative size (non-video creatives) or video duration (video creatives).
 >* Experience tags are dynamic. You don't need to update the tags if you edit an experience.
 >* Make sure that the campaigns in which you'll implement an ad experience include targeting that's compatible with the experience. Hierarchical targeting behavior may vary by DSP. In Advertising DSP, ad-level targeting is applied on top of (not instead of) placement-level targeting.
 
@@ -61,7 +61,7 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
 1. Copy or download the tags:
 
-   * To copy a tag for a single ad size, expand the tag row, hold the cursor over the row, and then click ![Copy](/help/creative/assets/copy.png "Copy") **[!UICONTROL Copy]**.<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->
+   * To copy a tag for a single ad size (non-video ads) or duration (video ads), expand the tag row, hold the cursor over the row, and then click ![Copy](/help/creative/assets/copy.png "Copy") **[!UICONTROL Copy]**.<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->
    
    * To download all generated tags as a file to your browser's default download location, click ![Download tags](/help/creative/assets/download.png "Download tags").
    
