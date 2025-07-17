@@ -15,7 +15,9 @@ exl-id: f7fe6138-8335-407a-88fd-f0ace27c93ee
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
 
-1. In the toolbar above the data table, click ![Add](/help/search-social-commerce/assets/add-new.png "Add").
+1. In the toolbar above the data table, click **[!UICONTROL Create Portfolio]** or ![Add](/help/search-social-commerce/assets/add-new.png "Add").
+
+   The button shown depends on your browser width.
 
 1. Specify the portfolio settings.
 

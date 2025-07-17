@@ -15,7 +15,9 @@ exl-id: 21516197-d005-4703-8735-c789107dc3c4
 
 1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Objectives]**.
 
-1. In the upper right, click ![Add](/help/search-social-commerce/assets/add-new.png "Add").
+1. In the upper right, click **[!UICONTROL Create Objective]** or ![Add](/help/search-social-commerce/assets/add-new.png "Add").
+
+   The button shown depends on your browser width. 
 
 1. Enter the objective settings.
 
