@@ -31,7 +31,7 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
 >[!NOTE]
 >
->For standard video ad experiences, wait until the [!UICONTROL Tag Status] column shows "[!UICONTROL Ready]," which indicates that all videos in the experience have been transcoded. All video creatives are automatically transcoded by DSP, but you can optionally [apply publisher-specific transcoding](experience-tag-video-transcoding.md) to any video ad experience tag.
+>For standard video ad experiences, wait until the [!UICONTROL Tag Status] column shows "[!UICONTROL Ready]," which indicates that all videos in the experience have been transcoded. All video creatives are automatically transcoded by DSP, but you can optionally [apply transcoding for a different DSP](experience-tag-video-transcoding.md) to any video ad experience tag.
 
 <!-- Tag Manager has only a list view, but no card view, as of 2/2. -->
 

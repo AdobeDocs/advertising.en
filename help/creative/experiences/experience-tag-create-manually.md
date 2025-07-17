@@ -35,7 +35,7 @@ You can create one or more ad tag per language for each creative size (non-video
 
    You can expand the tag row to see the included creatives.
 
-   For video ad experiences, video creatives are transcoded automatically using Adobe Advertising DSP encoding as VAST 2.0 tags so you can preview them. You can optionally [apply transcoding for other DSPs](experience-tag-video-transcoding.md).
+   For video ad experiences, video creatives are transcoded automatically using Adobe Advertising DSP encoding as VAST 2.0 tags so you can preview them. You can optionally [apply transcoding for a different DSP](experience-tag-video-transcoding.md).
 
 >[!MORELIKETHIS]
 >

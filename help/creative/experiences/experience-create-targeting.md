@@ -77,7 +77,7 @@ Create a targeted ad experience using a decision tree. Each experience uses ads 
 
 When the experience is live, [!DNL Creative] automatically creates one ad tag for each applicable creative size or video duration. You can then [export an ad tag and implement it in a DSP](/help/creative/experiences/experience-tag-export.md).
 
-For video ad experiences, video creatives are transcoded automatically by DSP as VAST 2.0 tags so you can preview them. You can optionally [apply publisher-specific transcoding](experience-tag-video-transcoding.md) to any video ad experience tag.
+For video ad experiences, video creatives are transcoded automatically by Adobe Advertising DSP as VAST 2.0 tags so you can preview them. You can optionally [apply transcoding for a different DSP](experience-tag-video-transcoding.md) to any video ad experience tag.
 
 >[!MORELIKETHIS]
 >

@@ -58,7 +58,7 @@ Enter JavaScript tracking tags for creatives hosted on third-party ad servers. T
 
 #### Video creatives {#creative-video-specs}
 
-You can upload first-party video creatives for web, mobile, or connected TV from your device or network. Each standard video ad experience requires a default video creative for each creative duration assigned to the experience. All video creatives are transcoded automatically by DSP as VAST 2.0 tags so you can preview them. In [!UICONTROL Tag Manager], you can can optionally [apply publisher-specific transcoding](/help/creative/experiences/experience-tag-video-transcoding.md) to any video ad experience tag.
+You can upload first-party video creatives for web, mobile, or connected TV from your device or network. Each standard video ad experience requires a default video creative for each creative duration assigned to the experience. All video creatives are transcoded automatically by DSP as VAST 2.0 tags so you can preview them. In [!UICONTROL Tag Manager], you can can optionally [apply DSP-specific transcoding](/help/creative/experiences/experience-tag-video-transcoding.md) to any video ad experience tag.
 
 See the following video creative requirements. **Note:** If you'll upload video experiences to Advertising DSP, then see also DSP's [Requirements for High-Definition Video Assets](https://experienceleague.adobe.com/en/docs/advertising/dsp/campaign-management/ads/ad-specs#requirements-for-high-definition-video-assets), which may be more limited.
 
