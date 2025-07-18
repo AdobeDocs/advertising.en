@@ -14,6 +14,8 @@ Information about specific groups of tasks and other information are available i
 
 * "Common tasks" explains how to configure the various performance data views based on your information needs and preferences, how to manage custom metrics, how to manage label classifications and bidding constraints, and how to perform other common tasks.
 
+* "New UI" explains tasks you can perform in the new user interface:  how to manage objectives, run simulations, manage portfolios, assign and remove campaigns from portfolios, and assign or remove constraints to campaigns and ad groups. See "Note" below.
+
 * "Tracking" explains how to set up click and conversion tracking for your ads and keywords.
 
 * "Campaign management" explains how to set up and manage campaign components for your ad network accounts.
@@ -26,4 +28,4 @@ Information about specific groups of tasks and other information are available i
 
 >[!NOTE]
 >
->Help on optimization, including using portfolios for bidding, is available from the [!UICONTROL Help] menu (![Help menu](/help/search-social-commerce/assets/help-main-menu.png "Help menu")) in the upper right of any page within Search, Social, & Commerce.
+>Additional help on optimization, including using portfolios for bidding in the legacy user interface, is available from the [!UICONTROL Help] menu (![Help menu](/help/search-social-commerce/assets/help-main-menu.png "Help menu")) in the upper right of any page within Search, Social, & Commerce.
