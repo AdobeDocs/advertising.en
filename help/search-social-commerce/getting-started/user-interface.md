@@ -28,7 +28,7 @@ Your role determines the available options:<!-- add link when available -->
 
   * **[!UICONTROL Objectives]** Opens a new [!UICONTROL Objectives] view, from which you can view all of your existing objectives and create, edit, and delete objectives. The objective settings are the same as the settings in the legacy user interface at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL New Objectives Beta].
   
-  * **[!UICONTROL Simulations]** Opens a new [[!UICONTROL Simulations] view](/help/search-social-commerce/new-ui/optimization/plan/simulations/simulation-about.md), from which you can view all of your user-created custom simulations and automatically generated weekly simulations; generate new custom simulations; and rerun existing simulations. The [!UICONTROL Spend Planner] button opens the legacy [!UICONTROL Spend Recommendation] tool at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation]. 
+  * **[!UICONTROL Simulations]** Opens a new [[!UICONTROL Simulations] view](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md), from which you can view all of your user-created custom simulations and automatically generated weekly simulations; generate new custom simulations; and rerun existing simulations. The [!UICONTROL Spend Planner] button opens the legacy [!UICONTROL Spend Recommendation] tool at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation]. 
 
 * **[!UICONTROL Manage]** submenu:
 
