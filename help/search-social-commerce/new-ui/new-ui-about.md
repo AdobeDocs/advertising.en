@@ -19,3 +19,4 @@ For more information about how the new UI is organized, see "[How the user inter
 >
 >* [How the user interface is organized](/help/search-social-commerce/getting-started/user-interface.md)
 >* [Switch between the new and legacy user interfaces](/help/search-social-commerce/getting-started/ui-switch.md)
+>* Chapter on "Common Tasks" for information about managing custom and default views, viewing data for another advertiser, applying data filters, and other navigation and data-related tasks across the new and legacy user interfaces
