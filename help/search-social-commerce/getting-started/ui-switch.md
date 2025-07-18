@@ -22,8 +22,6 @@ You can switch between the new user interface (UI), which includes the <!-- defa
 
  -->
 
-<!--
 >[!MORELIKETHIS]
 >
 >* [How the user interface is organized](user-interface.md)
--->
