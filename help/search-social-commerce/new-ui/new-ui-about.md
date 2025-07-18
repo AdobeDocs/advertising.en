@@ -2,6 +2,7 @@
 title: About the new user interface
 description: Learn about the new user interface.
 feature: Search Introduction
+exl-id: 27fcc1c2-fe69-4bdc-9786-c48b28da1560
 ---
 # About the new user interface
 
