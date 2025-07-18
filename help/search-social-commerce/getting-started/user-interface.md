@@ -10,7 +10,7 @@ feature: Search Getting Started
 
 *Beta feature*
 
-![User interface](/help/search-social-commerce/assets/new-ui.png "User interface")
+![User interface](/help/search-social-commerce/assets/ui-new.png "User interface")
 
 Each page includes the main menu and other task- and information-based menus.
 
