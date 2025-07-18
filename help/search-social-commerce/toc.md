@@ -60,6 +60,7 @@ index: yes
       + [Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
       + [Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
 + (Beta) NEW USER INTERFACE {#new-ui}
+  + [About the new user interface](/help/search-social-commerce/new-ui/new-ui-about.md)
   + [View your performance dashboard](/help/search-social-commerce/new-ui/dashboard-view.md)
   + Plan {#plan}
     + Objectives {#objectives}
