@@ -14,13 +14,7 @@ You can switch between the new user interface (UI), which includes the <!-- defa
 
 ## Switch from the legacy UI to the new UI
 
-* At the top of any page, click **[!UICONTROL Try the new UI Beta]**.
-
-<!-- CHANGING ICON/location/wording WITH GA :
-
-* In the upper right of any page, click **[!UICONTROL Switch to New UI]**.
-
- -->
+* At the top of any page, click **[!UICONTROL Switch to New UI]**.
 
 >[!MORELIKETHIS]
 >
