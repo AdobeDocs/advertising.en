@@ -36,7 +36,7 @@ Your current DSP credentials will remain active until 15 July 2025 so that you c
 
 1. Choose your organization:
 
-   * If prompted, select either **Personal Account" or **Company or School Account**.
+   * If prompted, select either **[!UICONTROL Personal Account]" or **[!UICONTROL Company or School Account]**.
 
    * If you have access to multiple IMS organizations, select the correct one.
    
