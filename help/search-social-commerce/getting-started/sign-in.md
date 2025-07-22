@@ -22,7 +22,7 @@ For more information about the Experience Cloud interface, including managing yo
 
 ### Use a legacy Search, Social, & Commerce login for authentication
 
-This option is available until 15 July 2025.
+This option is available for a short time so that you can prepare for the change.
 
 * Go to [enterprise-na.efrontier.com/](https://enterprise-na.efrontier.com/) or [enterprise-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), and sign in using your legacy Search, Social, & Commerce username and password.
 
