@@ -34,7 +34,7 @@ This option is available until 15 July 2025.
 
 1. Enter your [!DNL Adobe] ID, and click **[!UICONTROL Continue]**.
 
-1. If prompted, select either **Personal Account" or **Company or School Account**.<!-- Will it necessarily be "Company or School Account?" -->
+1. If prompted, select either **[!UICONTROL Personal Account]" or **[!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
 
    The new user interface opens by default.
 
@@ -48,7 +48,7 @@ This option is available until 15 July 2025.
 
 1. Enter your [!DNL Adobe] ID, and click **[!UICONTROL Continue]**..
 
-1. If prompted, select either **Personal Account" or **Company or School Account**.<!-- Will it necessarily be "Company or School Account?" -->
+1. If prompted, select either **[!UICONTROL Personal Account]" or **[!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
 
 1. In the [!UICONTROL Quick Access] section of your home page, click **[!UICONTROL Advertising Search, Social, & Commerce]**.
 
