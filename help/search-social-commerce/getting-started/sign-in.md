@@ -6,7 +6,7 @@ feature: Search Getting Started
 ---
 # Sign in
 
-Search, Social, & Commerce is transitioning to the Adobe Identity Management Service (IMS) for login authentication. IMS provides single sign-on (SSO) access to all [!DNL Adobe] products that support IMS, including Real-Time Customer Data Platform, Customer Journey Analytics, Target, and Analytics. With the change:
+Search, Social, & Commerce is transitioning to the Adobe Identity Management Service (IMS) for login authentication. IMS provides single sign-on (SSO) access using federated IDs to all [!DNL Adobe] products that support IMS, including Real-Time Customer Data Platform, Customer Journey Analytics, Target, and Analytics. With the change:
 
 * You can use one [!DNL Adobe ID] to sign in across [!DNL Adobe] products from either the Experience Cloud sign-in page or the legacy Search, Social, & Commerce sign-in page. Your [!DNL Adobe ID] provides user profile management and the ability to switch to a different [!DNL Adobe] product from the top menu. In a future release, you’ll be able to change the Search, Social, & Commerce account and IMS organization account from the top menu.
 
@@ -14,7 +14,7 @@ Search, Social, & Commerce is transitioning to the Adobe Identity Management Ser
 
 * You can stay logged in for 24 hours.
 
-Your current Search, Social, & Commerce credentials will remain active until 21 July 2025 so that you can prepare for the change.
+Your current Search, Social, & Commerce credentials will remain active for a short time so that you can prepare for the change.
 
 For more information about the Experience Cloud interface, including managing your user profile, see "[Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)."
 
