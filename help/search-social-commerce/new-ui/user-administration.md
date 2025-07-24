@@ -129,7 +129,7 @@ The new user interface for Search, Social & Commerce has the following default p
 
    Custom profiles are in addition to the four default product profiles that are already available.
 
-   Each product profile for an organization must have a unique name. If your organization uses multiple Search, Social, & Commerce instances (for example, Acme_US and Acme_JP), then you can't duplicate a product profile name in multiple instances. **Best practice:** Use the naming convention "<Name>_<Instance>," such as "Simulations_Only_JP."
+   Each product profile for an organization must have a unique name. If your organization uses multiple Search, Social, & Commerce instances (for example, Acme_US and Acme_JP), then you can't duplicate a product profile name in multiple instances. **Best practice:** Use the naming convention `<Name>_<Instance>,` such as "Simulations_Only_JP."
 
 1. [Assign each user or user group to the relevant product profile](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html) manually or in bulk.
 
