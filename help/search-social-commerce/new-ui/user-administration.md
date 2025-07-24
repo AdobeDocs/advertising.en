@@ -5,22 +5,21 @@ feature: Search Introduction
 ---
 # (New UI) User administration for Search, Social & Commerce
 
-
-
-For more information about user administration using Adobe Admin Console, see "[Adobe Enterprise & Teams Administration Guide](https://helpx.adobe.com/enterprise/admin-guide.html)."
-
+Some users can manage access to the new Search, Social, & Commerce user interface using the Adobe Admin Console, which is the central location for managing all Adobe entitlements and user management. Users are categorized as either end users or administrators. Your Adobe Account Team will notify you if you're an administrator. If you're an administrator, see the following sections to identify your permissions and workflows for managing users.<!-- How can you see what your user role is, or will your Adobe Account Team tell you? -->
 
 ## Relevant types of administrators
 
 Admin Console provides multiple types of administrators, but only the following administrator types and permissions are relevant for Search, Social, & Commerce.
 
-**System admin:** Super user for the organization. A system admin can perform all administrative tasks in Admin Console for the organization and can delegate administrative functionality to other users (product admins, product profile administrators, and user group administrators.<!-- OR ONLY PRODUCT ADMINS FOR US?  Verify and add more -->
+**System admin:** Super user for the organization. A system admin can perform all administrative tasks in Admin Console for the organization and can delegate administrative functionality to other users (product admins).<!--, product profile administrators, and user group administrators.  -- I think it's ONLY PRODUCT ADMINS FOR US?  Verify. -->
 
-**Product admin:** Manages access to a specific [!DNL Adobe] product (such as Search, Social, & Commerce) and their users’ entitlements to that product. Product admins can create product profiles for the product, create (but not remove) users and user groups, add or remove users and user groups from product profiles, and add or remove other product admins from the product.
+**Product admin:** Manages access to a specific [!DNL Adobe] product (such as Search, Social, & Commerce) and their users' entitlements to that product. Product admins can create product profiles for the product, create (but not remove) users and user groups, add or remove users and user groups from product profiles, and add or remove other product admins from the product.
 
-**Product profile admin:** Manages assigned product profiles for individual products. A product profile admin can add (but not remove) users and user groups to the organization; add or remove users and user groups from product profiles; and assign or revoke permissions from product profiles. <!-- I don't think this is applicable: and manage the product roles for product profiles. -->
+<!--
+**Product profile admin:** Manages assigned product profiles for individual products. A product profile admin can add (but not remove) users and user groups to the organization; add or remove users and user groups from product profiles; and assign or revoke permissions from product profiles. [I don't think this is applicable: and manage the product roles for product profiles.]
 
 **User group admin:** Manages assigned user groups and their access rights. A user group admin can add or remove users from groups and add or remove user group admins from groups.
+-->
 
 ## Default product profiles
 
@@ -36,11 +35,11 @@ The new user interface for Search, Social & Commerce has the following default p
 
   * Portfolio Groups: Full access
 
-  * Portfolios: Create/edit access to portfolio settings for Objectives, Campaigns, and Spend Management, and read-only access to the remaining portfolio settings.
+  * Portfolios: Create/edit access to portfolio settings for Objectives, Campaigns, and Spend Management; read-only access to the remaining portfolio settings.
 
-  * Campaigns: Read-only access to campaign settings (no create, edit, or delete features are available), but full access to constraint and portfolio assignments<!-- Is that the correct wording? -->
+  * Campaigns: Read-only access to campaign settings (no create, edit, or delete features are available); full access to constraint and portfolio assignments<!-- Is that the correct wording? -->
 
-  * Ad Groups: Read-only access to ad group settings (no create, edit, or delete features are available), but full access to constraint and portfolio assignments<!-- Is that the correct wording? -->
+  * Ad Groups: Read-only access to ad group settings (no create, edit, or delete features are available); full access to constraint and portfolio assignments<!-- Is that the correct wording? -->
 
   This access level is preferred for users who are still learning to use Search, Social, & Commerce.
 
@@ -54,9 +53,9 @@ The new user interface for Search, Social & Commerce has the following default p
 
   * Portfolios: Full access
 
-  * Campaigns: Read-only access to the campaign list (no campaign creation, editing, or deleting features are available yet), but full access to constraint and portfolio assignments<!-- Is that the correct wording? -->
+  * Campaigns: Read-only access to the campaign list (no campaign creation, editing, or deleting features are available yet); full access to constraint and portfolio assignments<!-- Is that the correct wording? -->
 
-  * Ad Groups: Read-only access to the ad group list (no campaign creation, editing, or deleting features are available yet), but full access to constraint and portfolio assignments<!-- Is that the correct wording? -->
+  * Ad Groups: Read-only access to the ad group list (no campaign creation, editing, or deleting features are available yet); full access to constraint and portfolio assignments<!-- Is that the correct wording? -->
 
   This access level is recommended for expert users of Search, Social, & Commerce.
 
@@ -74,18 +73,17 @@ The new user interface for Search, Social & Commerce has the following default p
 
   * Ad Groups: Read-only access
 
-* **Admin:** This profile grants full access to all functionality available and allows users to create new client instances. Do not assign this right to anyone without proper business justification.
+* **Admin:** This profile grants full access to all functionality available and allows users to create new client instances. Don't assign this right to anyone unless you have a proper business justification.
 
-
+<!-- Do I need to include this? If so, adjust wording as needed
 
 ## Product-specific instances
-<!-- Verify; adjust wording as needed -->
 
+ -->
 
+## Tasks for administrators
 
-
-
-## Sign in to Adobe Admin Console and open it to Search, Social, & Commerce
+### Sign in to Adobe Admin Console and open it to Search, Social, & Commerce
 
 >[!PREREQUISITES]
 >
@@ -105,7 +103,7 @@ The new user interface for Search, Social & Commerce has the following default p
 
    The product page opens by default to the [!UICONTROL Product profiles] tab for Search, Social, & Commerce. Additional tabs include [!UICONTROL Users] and [!UICONTROL Product Admins].
 
-## Workflow for system administrators
+### Workflow for system administrators
 
 1. [Sign in to Adobe Admin Console and open it to Search, Social, & Commerce](#open-admin-console).
 
@@ -113,9 +111,7 @@ The new user interface for Search, Social & Commerce has the following default p
 
 <!-- what else? -->
 
-
-
-## Workflow for product administrators
+### Workflow for product administrators
 
 1. [Sign in to Adobe Admin Console and open it to Search, Social, & Commerce](#open-admin-console).
 
@@ -139,6 +135,6 @@ The new user interface for Search, Social & Commerce has the following default p
 
 ## Complete user administration guide and additional links
 
-The [Adobe Enterprise & Teams: Admin guide](https://helpx.adobe.com/enterprise/admin-guide.html), including the [Admin Console overview](https://helpx.adobe.com/enterprise/using/admin-console.html)
+* For more information about user administration using Adobe Admin Console, see "[Adobe Enterprise & Teams Administration Guide](https://helpx.adobe.com/enterprise/admin-guide.html)," including the [Admin Console overview](https://helpx.adobe.com/enterprise/using/admin-console.html)
 
-Admin Console: [https://adminconsole.adobe.com](https://adminconsole.adobe.com)
+* Admin Console: [https://adminconsole.adobe.com](https://adminconsole.adobe.com)
