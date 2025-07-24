@@ -135,6 +135,6 @@ The new user interface for Search, Social & Commerce has the following default p
 
 ## Complete user administration guide and additional links
 
-* For more information about user administration using Adobe Admin Console, see "[Adobe Enterprise & Teams Administration Guide](https://helpx.adobe.com/enterprise/admin-guide.html)," including the [Admin Console overview](https://helpx.adobe.com/enterprise/using/admin-console.html)
+* For more information about user administration using Adobe Admin Console, see "[Adobe Enterprise & Teams Administration Guide](https://helpx.adobe.com/enterprise/admin-guide.html)," including the [Admin Console overview](https://helpx.adobe.com/enterprise/using/admin-console.html).
 
 * Admin Console: [https://adminconsole.adobe.com](https://adminconsole.adobe.com)
