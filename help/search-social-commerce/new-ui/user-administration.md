@@ -89,7 +89,7 @@ The new user interface for Search, Social & Commerce has the following default p
 >
 >You must have administrator access<!-- which kind? Product administrator, system administrator, but I'm sure also product profile administrator or user group administrator (that might be an internal group -- check) --> to Search, Social, & Commerce. 
 
-1.	Go to https://adminconsole.adobe.com/enterprise/.
+1. Go to https://adminconsole.adobe.com/enterprise/.
 
 1. (If you're not signed in to Experience Cloud) Sign in to Experience Cloud:
 
@@ -97,9 +97,9 @@ The new user interface for Search, Social & Commerce has the following default p
 
    1. Select either **[!UICONTROL Personal Account]" or **[!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
 
-   1.	Select the applicable Experience Cloud organization. 
+   1. Select the applicable Experience Cloud organization. 
    
-   1.	Under Product & Services, click "[!UICONTROL Adobe Advertising, Search, Social, & Commerce &mdash; Org Name]."
+   1. Under Product & Services, click "[!UICONTROL Adobe Advertising, Search, Social, & Commerce &mdash; Org Name]."
 
    The product page opens by default to the [!UICONTROL Product profiles] tab for Search, Social, & Commerce. Additional tabs include [!UICONTROL Users] and [!UICONTROL Product Admins].
 
