@@ -18,9 +18,9 @@ Adobe Advertising distinguishes between a click-through or view-through entry to
 
 * A view-through entry is captured when a user visits the site after viewing an ad but not clicking it. [!DNL Analytics] records a view-through if two conditions are met:
 
-    * The visitor has no click-throughs for a [!DNL DSP] or [!DNL Search, Social, & Commerce] ad during the [click lookback window](#lookback-a4adc).
+    * The visitor has no click-throughs for a [!DNL DSP] or [!DNL Search, Social, & Commerce] ad during the [click lookback window](/help/integrations/analytics/prerequisites.md#lookback-a4adc).
 
-    * The visitor has seen at least one [!DNL DSP] ad during the [impression lookback window](#lookback-a4adc). The last impression is passed as the view-through.
+    * The visitor has seen at least one [!DNL DSP] ad during the [impression lookback window](/help/integrations/analytics/prerequisites.md#lookback-a4adc). The last impression is passed as the view-through.
 
 * A click-through entry is captured when a site visitor clicks an ad before entering the site. [!DNL Analytics] captures a click-through when either of the following conditions occurs:
 
