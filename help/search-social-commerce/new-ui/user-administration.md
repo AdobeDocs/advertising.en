@@ -2,6 +2,7 @@
 title: (New UI) User administration
 description: Learn how to manage user access.
 feature: Search Introduction
+exl-id: bfc43692-cfb6-468f-90df-a808a21a0c23
 ---
 # (New UI) User administration for Search, Social & Commerce
 
