@@ -95,6 +95,7 @@ index: yes
       + [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
       + [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)    
       + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
+  + [User administration](/help/search-social-commerce/new-ui/user-administration.md)
 + Tracking {#tracking}
   + [About tracking](/help/search-social-commerce/tracking/tracking-about.md)
   + Click tracking {#click-tracking}
