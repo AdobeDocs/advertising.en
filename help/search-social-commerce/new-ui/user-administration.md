@@ -31,7 +31,7 @@ The new user interface for Search, Social & Commerce has the following default p
 
   * [!UICONTROL Objectives]: Full access
 
-  * [!UICONTROL Simulations: Full access
+  * [!UICONTROL Simulations]: Full access
   
   * [!UICONTROL Portfolio Groups]: Full access
 
