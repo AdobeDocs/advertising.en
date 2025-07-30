@@ -63,6 +63,16 @@ The dates for the package (when applicable) or campaign are auto-populated by de
 
 **[!UICONTROL Max Bid]:** The maximum to pay for 1000 impressions.
 
+**[!UICONTROL Min Bid]:** (For private and [!DNL On-Demand] deals only) The minimum bid based on inventory type. Select an option:
+
+* *[!UICONTROL None]*: No minimum bid for any inventory type. If the computed bid is less than the fixed/floor price of the targeted deals, then DSP doesn't bid. This may affect scale.
+
+* *[!UICONTROL Fixed/floor price for Private deals only]*: DSP bids at least the fixed/floor price for the targeted private deals, even if the algorithmically-computed bid is less. This may impact performance.
+
+* *[!UICONTROL Fixed/floor price for On-demand deals only]*: DSP bids at least the fixed/floor price for the targeted [!DNL On-Demand] deals, even if the algorithmically-computed bid is less. This may impact performance.
+
+* *[!UICONTROL Fixed/floor price for both Private and On-demand deals]*: DSP bids at least the fixed/floor price for the targeted private and [!DNL On-Demand] deals, even if the algorithmically-computed bid is less. This may impact performance.
+
 **[!UICONTROL Placement Pre-bid Filters]:** Up to five KPI thresholds (such as a minimum viewability metric or click-through rate) that must be met for bidding to occur. You can use pre-bid filters as optimization tactics, but understand that each rule may limit the opportunities on which this placement can bid. To add or edit filters:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
@@ -175,13 +185,9 @@ To specify locations:
 
     From the [!UICONTROL Deals] tab, you can search the list by keyword, key, deal ID, or custom tag. From the [!UICONTROL Deal Lists] tab, you can search the list by deal list name or deal list ID.
 
-    * *[!UICONTROL Ensure Fixed or Floor Price for the bid]*: (Optional) Overrides the bid price algorithm to bid at least the fixed and floor prices for deals.
-
 * [!UICONTROL On Demand] | [!UICONTROL Roku On Demand]: All [premium, non-guaranteed [!UICONTROL On Demand] inventory](/help/dsp/inventory/on-demand-inventory-about.md) (or [!UICONTROL On Demand] [!DNL Roku] deals for [!DNL Roku] placements) to which you've subscribed in [!DNL DSP]. You can include and exclude [!UICONTROL On Demand] inventory.
 
     You can view the list by source or by feed. When you view the list by feed, you can search by feed name, feed key, or a selected publisher region, category tag, or characteristic tag.
-
-    * *[!UICONTROL Ensure Fixed or Floor Price for the bid]*: (Optional) Overrides the bid price algorithm to bid at least the fixed and floor prices for deals.
 
 To specify inventory targeting:
 
