@@ -45,7 +45,7 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
 
 1. Select the tag type:
 
-   * (Non-video experiences) ** *JavaScript<!-- sic -->*  ** or ** *IFRAME* ** <!-- sic -->.
+   * (Non-video experiences) ** *JavaScript*  ** or ** *Iframe* **.
 
    * (Video experiences) ** *Video* **.
 
