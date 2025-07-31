@@ -6,6 +6,10 @@ feature: Search Tools
 ---
 # Change your password
 
+>[!NOTE]
+>
+>This feature is applicable only to your legacy Search, Social, & Commerce account. Most users are now using an [!DNL Adobe] ID instead.<!-- Replace this with a new topic with the new info. pointing to ?where? [Not the correct place!!! https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#manage-your-user-profile] -->
+
 Changing your password logs you out of the current session. To continue working, you must sign in with the new password.
 
 1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Change Password]**.
