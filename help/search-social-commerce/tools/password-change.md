@@ -6,9 +6,11 @@ feature: Search Tools
 ---
 # Change your password
 
+<!-- Replace this with just a link to the DX page once we remove the legacy option? -->
+
 >[!NOTE]
 >
->This feature is applicable only to your legacy Search, Social, & Commerce account. Most users are now using an [!DNL Adobe] ID instead.<!-- Replace this with a new topic with the new info. pointing to ?where? [Not the correct place!!! https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#manage-your-user-profile] -->
+>This feature is applicable only to your legacy Search, Social, & Commerce login credentials. Most users now use an [!DNL Adobe] ID for authentication instead. To change the password for your [!DNL Adobe] ID, see "[Reset or change your Adobe password](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html)."
 
 Changing your password logs you out of the current session. To continue working, you must sign in with the new password.
 
