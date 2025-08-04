@@ -16,7 +16,7 @@ Each ad experience can include one ad type (standard display, standard video, or
 
   Targeting options include:
 
-    * Your first-party audience segments from Adobe Audience Manager, Adobe Analytics, and Advertising DSP; your custom segments from Advertising DSP; and third-party segments provided by Advertising DSP
+    * Your audience segments from Adobe Audience Manager, Adobe Analytics, and Advertising DSP; any other first-party segments imported for the account; your custom segments from Advertising DSP; third-party segments provided by Advertising DSP; and any existing Advertising DSP audiences built in Audience Library 
     
     * Specific geographical locations, including countries, states, DMAs within the United States, cities, and zip codes
     

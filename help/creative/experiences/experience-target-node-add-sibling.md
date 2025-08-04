@@ -24,14 +24,16 @@ In an existing experience,
 
 1. Specify the targets:
 
-   * For Adobe Audience targets, do the following:
+   * For audience targets, do the following:
    
-     1. Click **[!UICONTROL Click to Browse]** to open your [!UICONTROL Audience Targeting] options, open the **[!UICONTROL Adobe Segments]** tab, specify one or more of the advertiser's [!DNL Adobe] audience targets, and then click **[!UICONTROL Save]**.
+     1. Click **[!UICONTROL Click to Browse]** to open your [!UICONTROL Audience Targeting] options and specify one or more of the advertiser's audiences to target.
      
-     1. (Optional) To create multiple target nodes when multiple audiences are specified, select **[!UICONTROL Split targets to create nodes]**.
+     1. In the right column, select whether to *[!UICONTROL Include any]* (the default) or *[!UICONTROL Include all]* of the specified targets for the node.
+     
+       This option determines whether the user must belong to at least one of the specified audiences (a [!DNL Boolean] `OR` statement) or to all specified audiences (a [!DNL Boolean] `AND` statement) to qualify for an impression.
 
-        This feature creates a separate target node (with separate creative bundles) for each specified audience. If you don't split the targets, then the user must belong to all specified audiences (a [!DNL Boolean] `AND` statement).
-
+     1. Click **[!UICONTROL Create]**.
+     
      1. Click **[!UICONTROL Apply]**.
 
    * For geographical targets, do the following:

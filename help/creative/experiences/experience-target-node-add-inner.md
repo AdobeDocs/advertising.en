@@ -27,7 +27,7 @@ To define a specific target, add an additional sibling target node at the same l
    
      1. Select the target type, and then click **[!UICONTROL Apply]**:
      
-        * For Adobe Audience targets, select **[!UICONTROL Adobe Audience]**.
+        * For audience targets, select **[!UICONTROL Audience]**.
         
         * For geographical targets, select a single geographical category (such as [!UICONTROL Geo: Country]).
         
@@ -39,14 +39,16 @@ To define a specific target, add an additional sibling target node at the same l
 
    * If sibling nodes already exist, then do the following:
    
-     * For Adobe Audience targets, do the following:
-     
-       1. Click **[!UICONTROL Click to Browse]** to open your [!UICONTROL Audience Targeting] options, open the **[!UICONTROL Adobe Segments]** tab, specify one or more of the advertiser's [!DNL Adobe] audience targets, and then click **[!UICONTROL Create]**<!-- Why not "Save" like for the other node types/use cases? -->.
+     * For audience targets, do the following:
+   
+       1. Click **[!UICONTROL Click to Browse]** to open your [!UICONTROL Audience Targeting] options and specify one or more of the advertiser's audiences to target.
        
-       1. (Optional) To create multiple target nodes when multiple audiences are specified, select **[!UICONTROL Split targets to create nodes]**.
+       1. In the right column, select whether to *[!UICONTROL Include any]* (the default) or *[!UICONTROL Include all]* of the specified targets for the node.
        
-          This feature creates a separate target node (with separate creative bundles) for each specified audience. If you don't split the targets, then the user must belong to all specified audiences (a [!DNL Boolean] `AND` statement).
-          
+         This option determines whether the user must belong to at least one of the specified audiences (a [!DNL Boolean] `OR` statement) or to all specified audiences (a [!DNL Boolean] `AND` statement) to qualify for an impression.
+       
+       1. Click **[!UICONTROL Create]**.
+       
        1. Click **[!UICONTROL Apply]**.
 
      * For geographical targets, do the following:
