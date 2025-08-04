@@ -21,13 +21,31 @@ When you add a target node to the bottom-most level in the experience &mdash; wh
 
 1. Specify the targets:
 
-   * For audience targets, select **[!UICONTROL Audience]**, and then do the following:
-   
-     1. Click **[!UICONTROL Click to Browse]** to open your [!UICONTROL Audience Targeting] options and specify one or more of the advertiser's audiences to target.
-     
-     1. In the right column, select whether to *[!UICONTROL Include any]* (the default) or *[!UICONTROL Include all]* of the specified targets for the node.
-     
-       This option determines whether the user must belong to at least one of the specified audiences (a [!DNL Boolean] `OR` statement) or to all specified audiences (a [!DNL Boolean] `AND` statement) to qualify for an impression.
+   * For audience targets, select **[!UICONTROL Audience]**, click **[!UICONTROL Click to Browse]** to open your [!UICONTROL Audience Targeting] options, and then do the following:
+
+     * To add the first segment, locate the segment in the left panel, and select the check box next to the segment name.
+
+     * To add a segment to an existing segment group:
+
+        1. Click the segment group in the right panel.
+
+        1. (Optional) Change the group logic to *[!UICONTROL Include Any]*, *[!UICONTROL Include All]*, or *[!UICONTROL Exclude All]*, as needed.
+
+           *[!UICONTROL Exclude All]* isn't available to the first segment group. For an audience that includes only exclusions, build this audience as *[!UICONTROL Include Any]* and then exclude that audience when you add it to a placement within your DSP.
+
+        1. Locate the new segment in the left panel, and select the check box next to the segment name.
+
+           The segment group is automatically updated with the new segment.
+
+     * To add a new segment group:
+
+       1. Click **[!UICONTROL + New Group]** in the right panel.
+
+         1. (Optional) Change the logic between the previous group and the new group to *[!UICONTROL And]* or *[!UICONTROL Or]*, as needed.
+
+         1. Locate the segments for the new group in the left panel, and select the check boxes next to the segment names.
+
+         1. (Optional) Change the group logic to *[!UICONTROL Include Any]*, *[!UICONTROL Include All]*, or *[!UICONTROL Exclude All]*, as needed.
 
      1. Click **[!UICONTROL Create]**.
      
