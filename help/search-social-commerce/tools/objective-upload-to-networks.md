@@ -20,7 +20,7 @@ Each uploaded conversion has the following name:
 
 where `<network_ID>` is the numeric ID that Search, Social, & Commerce uses for the ad network, `<objective_id>` is the numeric objective ID, and `<network_account_ID>` is the numeric ID for the ad network account or manager account.
 
-Uploads to [!DNL Google Ads] occur daily at 06:00 in the advertiser's time zone. Uploads to [!DNL Microsoft Advertising] occur daily at 09:00 in the advertiser's time zone.
+For most advertisers, uploads to [!DNL Google Ads] occur hourly; for advertisers with large accounts or custom configurations, uploads occur at least three times daily. Uploads to [!DNL Microsoft Advertising] occur daily at 09:00 in the advertiser's time zone.
 
 >[!IMPORTANT]
 >
