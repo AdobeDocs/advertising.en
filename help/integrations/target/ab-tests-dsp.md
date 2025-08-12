@@ -17,7 +17,7 @@ Adobe Advertising and Adobe Target make it even easier for marketers to deliver 
 
 See the following sections for the prerequisites and for instructions to set up click-through and view-through tracking, implement signal sharing between DSP and [!DNL Target] and set up an A/B test activity, and set up [!DNL Analytics] Analysis Workspace to view the test data.
 
-If you have additional questions, contact adcloud_support@adobe.com.
+If you have additional questions, contact your Adobe Account Team.
 
 ## Prerequisites
 
