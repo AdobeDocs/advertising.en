@@ -12,7 +12,7 @@ You can use success event metrics to optimize DSP packages and Search, Social, &
 
 ![Usage example](/help/integrations/assets/a4adc-conversion-evar-example.jpg "Usage example")
 
-Most of the following tasks must be performed by an [!DNL Analytics] administrator or other user. If you need assistance, contact (DSP users) the DSP technical support team at `adcloud_support@adobe.com` or (Search, Social, & Commerce users) your Adobe Account Team.
+Most of the following tasks must be performed by an [!DNL Analytics] administrator or other user. If you need assistance, contact your Adobe Account Team.
 
 1. In [!DNL Analytics], [create a placeholder success event](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/success-event).
 
