@@ -102,6 +102,8 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
 
 ## Change the Metrics Reported for an Insight
 
+For conversion metrics, support is available for both Adobe Advertising-tracked and Adobe Analytics-tracked conversions.
+
 1. To the upper right of the insight, click ![Metric settings](/help/dsp/assets/metric-settings.png "Metric settings").
 
 1. Select the metrics, and then click **[!UICONTROL Apply]**.
