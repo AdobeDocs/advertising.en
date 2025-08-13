@@ -1,14 +1,12 @@
 ---
-title: About Performance Insights
+title: About Insights
 description: Learn about performance insights with visualizations.
 feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
 ---
-# About Performance Insights
+# About Insights
 
 *Beta feature*
-
-<!-- Edit title and metadata as necessary -->
 
 High-level performance insights with visualizations give you the information you need to efficiently optimize your campaigns and discover new opportunities to scale performance. You can view data across campaigns for a specified advertiser or drill down to a lower level.
 
@@ -70,7 +68,7 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
 
 * **[!UICONTROL Top Performers]:** A table of the campaigns, packages, placements, publishers, sites/apps, media types, and inventory types that drive performance for three customer-specified metrics (by default, [!UICONTROL Net Spend], [!UICONTROL CPA], and [!UICONTROL Conversions]). The top performer is listed first.
 
-* **[!UICONTROL Performance Analysis]:** A scatter chart showing the [!UICONTROL CPA] and [!UICONTROL Net Spend] by package, publisher, or site/app. Use this insight to see which packages, publishers, or sites/apps show the potential for significant incremental reach.
+* **[!UICONTROL Performance Analysis]:** The [!UICONTROL CPA] and [!UICONTROL Net Spend] by package, publisher, or site/app. Use this insight to see which packages, publishers, or sites/apps show the potential for significant incremental reach.
 
   The size of each bubble indicates the incremental reach score, with larger bubbles indicating a higher incremental reach on average. To see the full entity name and key metrics for any bubble, hold the cursor over the bubble.
 
