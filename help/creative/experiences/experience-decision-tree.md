@@ -6,8 +6,6 @@ exl-id: 1d997422-8177-4a6b-b56a-e1c742b96ad2
 ---
 # The decision tree layout for [!DNL Creative] experiences
 
-*Closed beta*
-
 When you enable the "[!UICONTROL Targeting]" option for an experience, you set up the experience using a decision tree.
 
 Initially, each decision tree begins with the root level, "All." You can add one or more target nodes, and then assign creative bundles to the final nodes in each branch of the decision tree. By default, the decision tree is displayed vertically, but you can optionally view the tree horizontally instead.

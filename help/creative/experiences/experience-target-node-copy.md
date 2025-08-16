@@ -7,7 +7,6 @@ exl-id: b3705689-57b6-41ce-9e00-2358bd195c93
 # Copy child nodes to another target node at the same level
 
 *Experiences with decision tree targeting only*
-*Closed beta*
 
 You can copy all child nodes of a parent target node (including all child targets and the creative bundles assigned to them) to another target node at the same level. You can copy the nodes by either a) adding the copied nodes to the existing framework or b) completely replacing the existing framework. <!-- Give the main use case or an example to explain. -->
 

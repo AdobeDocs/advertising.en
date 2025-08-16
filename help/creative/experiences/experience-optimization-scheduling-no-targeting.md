@@ -7,7 +7,6 @@ exl-id: 9398df69-6a48-4b72-8c5c-a79341bf3b8a
 # Customize creative optimization and scheduling for an experience without decision tree targeting
 
 *Experiences with existing creatives only*
-*Closed beta*
 
 By default, the creative rotation for an ad experience tag is determined algorithmically to optimize the overall click-through rate, and the creative optimization settings apply to all assigned creatives. You can customize the creative rotation to manually run the creatives according to relative weights or to algorithmically optimize for a specified Advertising DSP custom goal. You can also schedule specific creatives to run during specified, sequential time periods and apply custom creative rotation settings for each schedule.
 

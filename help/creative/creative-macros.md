@@ -6,8 +6,6 @@ exl-id: d0cbbb21-467d-4ed1-bc6e-ded1b045b98b
 ---
 # Available macros for tracking URLs
 
-*Closed beta*
-
 <!-- More feature metadata???  -->
 
 You can include any of the following macros in your third-party creatives, in third-party tracking URLs for your experiences, and in landing page URLs for your own use.

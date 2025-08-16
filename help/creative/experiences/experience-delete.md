@@ -6,8 +6,6 @@ exl-id: 5658692f-4ae6-41d5-82d3-78ff5560b95f
 ---
 # Delete an experience
 
-*Closed beta*
-
 <!-- No multiselect for experiences as of 1/30 -->
 
 You can delete experiences that aren't [live](experience-about.md#experience-statuses). Deleted experiences are still available for reporting. <!-- Verify -->

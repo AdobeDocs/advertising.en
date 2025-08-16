@@ -6,8 +6,6 @@ exl-id: aeeca035-8ae2-4173-827a-b8690d228549
 ---
 # Settings for non-targeted experiences
 
-*Closed beta*
-
 ## [!UICONTROL Experience basics] section
 
 **[!UICONTROL Ad Type]:** (Read-only for existing experiences) The type of ads included in the experience: *[!UICONTROL Standard Display]*, *[!UICONTROL Dynamic Display]*, or *[!UICONTROL Video]*. Once you save the experience, you can't change the ad type.

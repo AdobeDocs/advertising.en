@@ -6,8 +6,6 @@ exl-id: 5255e0e4-a7f8-41d2-9b38-0e276dc1f3f0
 ---
 # Customize your data views
 
-*Closed beta*
-
 ## View data for another advertiser
 
 * In your [!UICONTROL Creative Libraries] and [!UICONTROL Experiences] views, select the advertiser in the advertiser list in the upper right.

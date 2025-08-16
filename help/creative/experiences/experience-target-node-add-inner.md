@@ -7,7 +7,6 @@ exl-id: ac9211e5-c6ed-4185-bf9c-c2689f1b2775
 # Add a target node between nodes in an experience
 
 *Experiences with decision tree targeting only*
-*Closed beta*
 
 When you insert a target node between existing levels, the new target node retains all existing child targets and creatives, and the new node initially is called "All." You can optionally keep the new node without adding more specific targets.
 

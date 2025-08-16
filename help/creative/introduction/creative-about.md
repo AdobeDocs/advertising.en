@@ -6,8 +6,6 @@ exl-id: 2cc12119-5924-4fcd-a54b-30f7887ae6a7
 ---
 # About Adobe Advertising Creative 2.0
 
-*Closed beta*
-
 <!-- verify all and rewrite to include new stuff -->
 
 As part of Adobe Advertising, Advertising Creative is a self-service platform for automating real-time, personalized ad experiences and optionally optimizing your ads at the creative element level.<!-- Verify --> You can implement the ad experiences as ads in any DSP, including Adobe Advertising DSP.

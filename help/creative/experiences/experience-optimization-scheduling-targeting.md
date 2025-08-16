@@ -7,7 +7,6 @@ exl-id: 47d1a249-decd-4c3b-ac88-260488d5bcd2
 # Customize creative optimization and scheduling for an experience with decision tree targeting
 
 *Target nodes with existing creatives only*
-*Closed beta*
 
 By default, the creative rotation for an experience is determined algorithmically to optimize the overall click-through rate, and the creative optimization settings apply to all assigned bundles. You can customize the creative rotation to manually run the creatives in each bundle according to relative weights or to algorithmically optimize for a specified Advertising DSP custom goal. You can also schedule specific creative bundles to run during specified, sequential time periods and apply custom creative rotation settings for each schedule.
 

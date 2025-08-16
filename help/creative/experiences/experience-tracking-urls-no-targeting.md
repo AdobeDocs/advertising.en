@@ -6,8 +6,6 @@ exl-id: 03a10285-c0df-4bc3-92c7-c1c2ea3f8129
 ---
 # Customize the tracking URLs for an experience without decision tree targeting
 
-*Closed beta*
-
 For experiences without decision tree targeting, you can create up to five custom impression-tracking URLs, five custom click-tracking URLs, and one custom landing page URL for each individual creative used for the ad experience tag. You can customize the tracking URLs from within [!UICONTROL Tag Manager].
 
 The custom URLs are used only for ads created from the ad experience tag and aren't saved in the base creative settings in [!UICONTROL Creative Libraries].

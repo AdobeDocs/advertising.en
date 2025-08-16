@@ -7,7 +7,6 @@ exl-id: 77dedfa2-33de-4a92-a58b-1a2b91842f0a
 # (Experiences without targeting) Manually create an ad tag for an applicable creative size
 
 *Experiences without decision tree targeting only*
-*Closed beta*
 
 You can create one or more ad tag per language for each creative size (non-video creatives) or video duration used for an experience. You can later [assign creatives to the ad tag](experience-tag-assign-creatives.md).
 

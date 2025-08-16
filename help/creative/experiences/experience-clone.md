@@ -8,8 +8,6 @@ exl-id: 8c305732-f2ff-4a9d-80ad-e9e0f6484ba2
 
 <!-- "Duplicate" like for creatives and bundles? If we change this, change text throughout -->
 
-*Closed beta*
-
 Create an experience by cloning an existing experience. The new experience is named `<original name> (copy) # 1` (or the next number in the sequence). For example, if you make two clones of "Test experience," then the clones are named "Test experience (copy) # 1" and "Test experience (copy) # 2."
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.

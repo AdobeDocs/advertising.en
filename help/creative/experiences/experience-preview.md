@@ -6,8 +6,6 @@ exl-id: 2ac8f580-7d3d-4de6-ba14-5d72b30188d7
 ---
 # Preview an experience
 
-*Closed beta*
-
 You can preview the creatives with a specific ad size that target viewers will see for an experience, including all hyperlinks. For experiences with decision tree targeting, you can preview a single creative, the creatives for a particular branch (target type), or all creatives in the experience. For experiences without decision tree targeting, you can preview a single creative. <!-- verify -->
 
 * When you preview all creatives for the experience or a particular branch, all applicable creatives are shown.

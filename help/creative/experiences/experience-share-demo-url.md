@@ -6,8 +6,6 @@ exl-id: 0d523270-e6b2-4d7b-a39c-749f3cc94561
 ---
 # Share a demo URL for an experience
 
-*Closed beta*
-
 You can allow other people without a login to [!DNL Creative] to preview an experience by sharing a demo URL.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.

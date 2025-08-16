@@ -7,7 +7,6 @@ exl-id: 5449a760-6ade-41c0-9cab-bd92026b150b
 # Assign and unassign creative bundles to a final node in an experience
 
 *Experiences with decision tree targeting only*
-*Closed beta*
 
 You can assign creative bundles to a target node at the bottom-most level in an experience decision tree. For experiences for which you haven't configured targets, the bottom-most level is under "All."
 

@@ -7,7 +7,6 @@ exl-id: ba3b15b4-116e-4caa-8ce1-4d2e488a6362
 # Customize the tracking URLs for creatives in an experience with decision tree targeting
 
 *Target nodes with existing creatives only*
-*Closed beta*
 
 For experiences with decision tree targeting, you can create up to five custom impression-tracking URLs, five custom click-tracking URLs, and one custom landing page URL for each individual creative used for the experience. You can customize the tracking URLs from within the decision tree.
 

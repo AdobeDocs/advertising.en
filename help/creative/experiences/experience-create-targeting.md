@@ -6,8 +6,6 @@ exl-id: 825fd9af-ca7a-4b44-8e4b-1a6f34edac9e
 ---
 # Create an experience with decision tree targeting
 
-*Closed beta* 
-
 Create a targeted ad experience using a decision tree. Each experience uses ads from a single creative library.
 
 >[!NOTE]

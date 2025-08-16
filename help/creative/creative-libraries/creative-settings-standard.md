@@ -6,8 +6,6 @@ exl-id: 8eb66310-4860-4ca0-9678-a9e33639c529
 ---
 # Creative settings
 
-*Closed beta*
-
 The settings vary by creative type.
 
 When you edit multiple creatives at the same time:

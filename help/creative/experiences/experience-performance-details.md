@@ -6,8 +6,6 @@ exl-id: 5e7c4c9d-b992-460a-9765-4276027f9a61
 ---
 # Experience-level performance reports
 
-*Closed beta*
-
 You can view detailed performance data for any experience.
 
 ## Data in experience-level performance reports

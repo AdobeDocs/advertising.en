@@ -7,15 +7,12 @@ exl-id: 915fd399-1c55-49af-94ed-cf49a4154a53
 # Add a sibling target node between nodes in an experience
 
 *Experiences with decision tree targeting only*
-*Closed beta*
 
 You can add a sibling node to any node that has a target or is at the same level as a node with a target.
 
 <!-- 1. Open the decision tree:
 
-
 In a new experience
-
 
 In an existing experience,
  -->

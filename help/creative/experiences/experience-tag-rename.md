@@ -6,8 +6,6 @@ exl-id: 8c2fda31-2e4c-49ea-bcf2-f1bf564068b8
 ---
 # Rename an ad tag for an experience
 
-*Closed beta*
-
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
 
 1. Do one of the following:

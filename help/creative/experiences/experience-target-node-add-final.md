@@ -7,7 +7,6 @@ exl-id: 3ff657d5-bad1-47f4-a3ec-9ea678fd3c9d
 # Add a target node to the final level in an experience
 
 *Experiences with decision tree targeting only*
-*Closed beta*
 
 When you add a target node to the bottom-most level in the experience &mdash; whether it's the root "All" node, a target-specific node, or an "Everything Else" node &mdash; you define the target directly and don't need to create a sibling node. Adding a bottom-level node creates the target node and an additional "Everything Else" node at the same level.
 

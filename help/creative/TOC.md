@@ -6,7 +6,7 @@ breadcrumb-title: Creative Guide
 hide: yes
 ---
 
-# (Closed Beta) Advertising Creative 2.0 Guide {#creative}
+# Advertising Creative 2.0 Guide {#creative}
 
 + [What's new](/help/creative/home.md)
 + Introduction {#introduction}

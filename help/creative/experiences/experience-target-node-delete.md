@@ -7,7 +7,6 @@ exl-id: a8973c9e-bd0a-4f62-8668-520495b2525d
 # Delete a target node or creative leaf node in an experience
 
 *Experiences with decision tree targeting only*
-*Closed beta*
 
 You can delete a target node, including all child targets and the creative bundles assigned to them. You can also delete a creative leaf node.
 

@@ -6,8 +6,6 @@ exl-id: 6100213c-2e7d-4e98-a3ab-045ca10e5174
 ---
 # Customize transcoding options for a video ad experience tag
 
-*Closed beta*
-
 You can customize the transcoding options for a video ad experience to ensure fast playback and quality control across publishers.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.

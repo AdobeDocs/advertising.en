@@ -6,8 +6,6 @@ exl-id: 327b1df5-5663-4513-9238-f481370c8c38
 ---
 # Create an experience without decision tree targeting
 
-*Closed beta*
-
 Create an ad experience without targeting. Each experience can use ads from a single creative library.
 
 >[!NOTE]

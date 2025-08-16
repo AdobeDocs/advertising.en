@@ -6,8 +6,6 @@ exl-id: dcd13c5a-315d-4380-99f9-6dbab3e1e1be
 ---
 # Manage retargeting pixels
 
-*Closed beta*
-
 <!-- Note to self: These aren't segments -- we don't create a pool of users. -->
 
 You can create a retargeting pixel to identify visitors to an advertiser's landing pages or conversion pages using user cookies or universal IDs and to capture specific attributes that the pages are tracking for those visitors. The pixel tracks the most recent event that the visitor performs on the page. Once you create the pixel, you can generate a pixel tag to insert in the relevant webpages to begin tracking visitors.<!-- Note to self: surfer id=cookie or universal ID -->

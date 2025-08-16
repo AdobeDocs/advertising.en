@@ -6,8 +6,6 @@ exl-id: 8c5e8f9b-c405-41b2-98a9-da7c5debd3e1
 ---
 # Edit an experience with decision tree targeting
 
-*Closed beta*
-
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific experiences.

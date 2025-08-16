@@ -6,8 +6,6 @@ exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
 ---
 # Manage creative bundles
 
-*Closed beta*
-
 <!--
 **I'll probably split this up into multiple pages since the creative-related topics are separate**
 -->
