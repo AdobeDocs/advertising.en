@@ -103,7 +103,7 @@ When you target ad experiences to users exposed to the pixel, the targeting sett
 
 When you target ad experiences to users exposed to the pixel, the targeting settings specify the attribute values that must be present to display the creatives.
 
-**[!UICONTROL Advanced]** > **[!UICONTROL Universal IDs]:** (Beta feature; new pixels only; optional) Types of universal IDs for the pixel tag to track:
+**[!UICONTROL Advanced]** > **[!UICONTROL Universal IDs]:** (New pixels only; optional) Types of universal IDs for the pixel tag to track:
 
 * *[!UICONTROL ID5]:* The pixel tag tracks [!DNL ID5] IDs. No fees are incurred for impressions delivered to universal IDs.
 
