@@ -6,8 +6,6 @@ exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
 ---
 # About your creative libraries
 
-*Closed beta feature*
-
 Your creative libraries allow you to manage the creatives that you'll use in your ad experiences. You can create multiple libraries, each with a set of creatives and *creative bundles*, which are groups of creatives that you can add to an experience as one unit. 
 
 Your libraries can include:
