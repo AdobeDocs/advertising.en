@@ -6,6 +6,8 @@ exl-id: 13687d9d-6283-40ac-86a2-bb88b9fdfcc3
 ---
 # [!UICONTROL Custom Creative Report]
 
+*Beta feature*
+
 The [!UICONTROL Custom Creative Report] allows you to customize the content and delivery of report data for all of your ad experiences.
 
 You can generate reports once, or schedule them daily, weekly, or monthly at 03:00 in the specified time zone according to specified criteria (such as every 15 days or on the 1st of each month). Once a report is generated, you can download it from [!UICONTROL Reports] > [!UICONTROL Custom Reports] or from linked [report destinations](/help/dsp/reports/report-destinations/report-destination-about.md) of the following types:
