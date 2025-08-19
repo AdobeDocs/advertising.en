@@ -16,11 +16,11 @@ You can also select an attribution rule in the following places to apply the rul
 
 * DSP
 
-  * Custom reports with multi-touch attribution
+  * Custom reports
 
 * Search, Social, & Commerce
 
-  * Custom reports
+  * Reports
   
   * Default and custom views
   
