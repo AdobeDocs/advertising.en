@@ -2,7 +2,7 @@
 title: How attribution rules are calculated
 description: Learn how Adobe Advertising calculates each type of attribution rule.
 exl-id: 15beeadd-bb65-4efe-8c4f-34c4a48cc775
-feature: Search Reports
+feature: Search Reports, DSP Custom Reports
 ---
 # How attribution rules are calculated for Adobe Advertising
 
@@ -12,7 +12,19 @@ feature: Search Reports
 
 The advertiser-level attribution rule is used to attribute conversion data &mdash; potentially across multiple ad channels &mdash; in a series of events that lead to a conversion.
 
-In reports, default and custom views for Advertising Search, Social, & Commerce (Search, Social, & Commerce), and (some user roles) portfolio-level simulations for Search, Social, & Commerce, the selected rule is used only for the view, report, or simulation data. The various attribution rules are applied as follows.
+You can also select an attribution rule in the following places to apply the rule only to the resulting data:
+
+* DSP
+
+  * Custom reports with multi-touch attribution
+
+* Search, Social, & Commerce
+
+  * Custom reports
+  
+  * Default and custom views
+  
+  * (Some user roles) Portfolio-level simulations.
 
 >[!NOTE]
 >
