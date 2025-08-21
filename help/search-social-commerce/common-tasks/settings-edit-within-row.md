@@ -12,21 +12,14 @@ feature: Search Common Tasks
 
 ## (New UI) Edit settings within a row
 
-1. Click inside the cell to make it active, or hold the cursor over the value and click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit").
+1. Click inside the cell to make it active, or hold the cursor over the value.
 
-1. Change the value.
-   
-1. Click **Apply**.
-
-<!--
 1. Change the value:
 
    * (Options in a list) Select a new option from the list.
-   
-   * (Dates) Enter a new date, or click ![Calendar](/help/search-social-commerce/assets/calendar.png "Calendar") to open the calendar and [select a new date](/help/search-social-commerce/common-tasks/navigation-editing-selection/calendar.md).
-   
-   * (Free-form values) Enter a new value.
--->
+  
+   * (Free-form values) Click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit"), change the value, and then click **Apply**.
+
 
 ## (Legacy UI) Edit settings within a row
    
