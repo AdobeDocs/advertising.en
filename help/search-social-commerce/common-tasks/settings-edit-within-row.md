@@ -12,7 +12,7 @@ feature: Search Common Tasks
 
 ## (New UI) Edit settings within a row
 
-1. Click inside the cell to make it active, or hold the cursor over the value and click [Edit](/help/search-social-commerce/assets/edit-new.png "Edit").
+1. Click inside the cell to make it active, or hold the cursor over the value and click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit").
 
 1. Change the value.
    
