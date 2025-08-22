@@ -2,6 +2,7 @@
 title: Overview of the integration between Adobe Advertising and Adobe Customer Journey Analytics
 description: Learn about options to integrate Adobe Advertising with Adobe Customer Journey Analytics.
 feature: Integration with Adobe Customer Journey Analytics
+exl-id: 57636259-f91a-404f-b972-994af67098b1
 ---
 # Overview of the integration between Adobe Advertising with Customer Journey Analytics
 
