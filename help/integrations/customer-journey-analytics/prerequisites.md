@@ -16,3 +16,6 @@ Review the following information before you integrate Adobe Advertising with Ado
   * Adobe Customer Journey Analytics<!-- any specific version? -->
   * [All other prerequisites for [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md).
 
+>[!MORELIKETHIS]
+>
+>* [Overview](overview.md)
