@@ -10,7 +10,7 @@ exl-id: 57636259-f91a-404f-b972-994af67098b1
 
 *Advertisers with Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
 
-Adobe Advertising is integrated with Adobe Customer Journey Analytics for bi-directional data sharing and reporting. You have two options for setting up the integration:
+Adobe Advertising is integrated with Adobe Customer Journey Analytics for bi-directional data sharing and reporting. You have two options for setting up the integration: 
 
 * Advertisers with both [!DNL Analytics for Advertising] and Customer Journey Analytics have the same functionality that they have through [!DNL Analytics for Advertising], with the addition of visualizations in Customer Journey Analytics.
 
