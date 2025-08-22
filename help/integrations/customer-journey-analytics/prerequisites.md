@@ -19,3 +19,4 @@ Review the following information before you integrate Adobe Advertising with Ado
 >[!MORELIKETHIS]
 >
 >* [Overview](overview.md)
+>* (Adobe Analytics users) [Collect Historical Data for AMO IDs and EF IDs for Use in Adobe Customer Journey Analytics](/help/integrations/analytics/rvars-to-evars.md).
