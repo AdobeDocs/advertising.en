@@ -43,4 +43,7 @@ index: yes
 + Integration with Adobe Target {#target}
   + [Configure A/B Tests in Adobe Target for DSP Ads](/help/integrations/target/ab-tests-dsp.md)
   + [Configure A/B Tests in Adobe Target for Search, Social, & Commerce Ads](/help/integrations/target/ab-tests-search.md)
++ Integration with Adobe Customer Journey Analytics
+  + [Overview](/help/integrations/customer-journey-analytics/overview.md)
+  + [Prerequisites](/help/integrations/customer-journey-analytics/prerequisites.md)
 + [Videos Tutorials About Adobe Advertising Integrations](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
