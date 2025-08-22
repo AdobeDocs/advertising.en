@@ -44,3 +44,4 @@ Contact your Adobe Account Team, who will complete the initial configuration nec
 >[!MORELIKETHIS]
 >
 >* [Prerequisites](prerequisites.md)
+>* (Adobe Analytics users) [Collect Historical Data for AMO IDs and EF IDs for Use in Adobe Customer Journey Analytics](/help/integrations/analytics/rvars-to-evars.md).
