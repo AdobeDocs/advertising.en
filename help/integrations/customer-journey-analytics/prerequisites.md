@@ -2,6 +2,7 @@
 title: Prerequisites for integrating Adobe Advertising with Customer Journey Analytics
 description: Prerequisites for integrating Adobe Advertising with Customer Journey Analytics
 feature: Integration with Adobe Customer Journey Analytics
+exl-id: 4bd14178-5003-4da6-9034-d070c57f0e9b
 ---
 # Prerequisites for integrating Adobe Advertising with Customer Journey Analytics
 
