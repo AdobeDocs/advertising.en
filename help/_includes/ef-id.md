@@ -4,7 +4,7 @@
 
 The EF ID is a unique token that Adobe Advertising uses to associate activity with an online click or ad exposure. The EF ID is stored in [an [!DNL Analytics] [!DNL eVar]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or [!DNL rVar] (reserved [!DNL eVar]) dimension (Adobe Advertising EF ID) and tracks each ad click or exposure at the individual browser or device level. EF IDs act primarily as keys for sending [!DNL Analytics] data to Adobe Advertising for reporting and bid optimization within Adobe Advertising.
 
-### EF ID Format
+### EF ID Formats {#ef-id-formats}
 
 >[!NOTE]
 >
