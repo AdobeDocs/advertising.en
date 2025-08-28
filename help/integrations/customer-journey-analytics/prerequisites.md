@@ -14,7 +14,7 @@ exl-id: 4bd14178-5003-4da6-9034-d070c57f0e9b
 
   * [All other prerequisites for [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md). 
 
-* Advertisers with Customer Journey Analytics but not [!DNL Analytics for Advertising]:
+* (Beta feature) Advertisers with Customer Journey Analytics but not [!DNL Analytics for Advertising]:
 
   * Adobe Experience Platform Web SDK library: `alloy.js`
     
