@@ -8,10 +8,6 @@ exl-id: 4bd14178-5003-4da6-9034-d070c57f0e9b
 
 *Advertisers with Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
 
-Review the following information before you integrate Adobe Advertising with Adobe Customer Journey Analytics.
-
-## Requirements for reporting Adobe Advertising data in Customer Journey Analytics
-
 * Advertisers with both [!DNL Analytics for Advertising] and Customer Journey Analytics:
 
   * Adobe Customer Journey Analytics<!-- any specific version? -->
