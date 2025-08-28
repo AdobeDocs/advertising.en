@@ -1,4 +1,4 @@
-# Adobe Advertising AMO IDs {#amo-id}
+# Adobe Advertising AMO IDs
 
 ## Adobe Advertising AMO IDs {#amo-id}
 
