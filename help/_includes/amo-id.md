@@ -28,7 +28,7 @@ The parameter is added to your tracking URLs in one of the following ways:
 
 * When the server-side insertion feature isn't implemented:
 
-  * DSP customers: The [JavaScript code](javascript.md) automatically records click-throughs and view-throughs. When a browser doesn't support third-party cookies, you can still track click-based conversions for the following ad types:
+  * DSP customers: The [JavaScript code](/help/integrations/analytics/javascript.md) automatically records click-throughs and view-throughs. When a browser doesn't support third-party cookies, you can still track click-based conversions for the following ad types:
 
     * For [!DNL Flashtalking] ad tags, manually insert additional macros per "[Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)." **Note:** This procedure isn't necessary if your organization has a direct partnership with [!DNL Flashtalking] and you use data-pass macros to track the `s_kwcid` and `ef_id` tracking parameters per the [!DNL Flashtalking] support documentation at [https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros).
 
