@@ -34,7 +34,7 @@ Adobe Advertising is integrated with Adobe Customer Journey Analytics for bi-dir
 
   * Attribution data from Customer Journey Analytics in Adobe Advertising, where it can be used for optimization and reporting
 
-  **Note:** No organic data is available yet.<!-- Does that belong somewhere up above? -->
+  **Note:** No organic data is available yet.
 
   In this use case, use Web SDK to track site events (using cookies, hashed IP addresses, or universal IDs) and attribute the site events to paid media activity in [!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Meta], and Adobe DSP. You'll also use Adobe Experience Platform for data collection.
 
