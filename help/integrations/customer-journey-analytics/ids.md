@@ -2,6 +2,7 @@
 title: Adobe Advertising IDs Used by Customer Journey Analytics
 description: Adobe Advertising IDs Used by Customer Journey Analytics
 feature: Integration with Adobe Customer Journey Analytics
+exl-id: af60dcb4-4d1a-4097-ac30-688bd8b9f644
 ---
 # Adobe Advertising IDs Used by [!DNL Customer Journey Analytics]
 
