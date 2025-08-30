@@ -14,9 +14,9 @@ You can preview the creatives with a specific ad size that target viewers will s
 
   * For algorithmic ad rotation, the creative is selected based on the optimization goal.
 
+  * For scheduled ad rotation, the first creative in the schedule is shown. You can keep refreshing the preview to continue through the sequence.
+  
   * For weighted ad rotation, the creative is selected based on the specified weights (such as an 80% chance that Creative A is shown and a 20% chance that Creative B is shown) each time.
-
-  * For scheduled ad rotation, the first creative in the schedule is shown. You can keep refreshing the preview to continue through the sequence.<!-- Refresh isn't there as of 2/3 -->
 
 ## Preview creatives in an experience with decision tree targeting
 
