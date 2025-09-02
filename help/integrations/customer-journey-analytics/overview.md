@@ -47,4 +47,6 @@ Contact your Adobe Account Team, who will complete the initial configuration nec
 >[!MORELIKETHIS]
 >
 >* [Prerequisites](prerequisites.md)
+>* [Adobe Advertising IDs Used by [!DNL Customer Journey Analytics]](ids.md)
+>* [Adobe Advertising metrics and dimensions in Customer Journey Analytics](advertising-data-in-cja.md)
 >* (Adobe Analytics users) [Collect Historical Data for AMO IDs and EF IDs for Use in Adobe Customer Journey Analytics](/help/integrations/analytics/rvars-to-evars.md).
