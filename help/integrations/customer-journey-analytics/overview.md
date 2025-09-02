@@ -18,7 +18,7 @@ Adobe Advertising is integrated with Adobe Customer Journey Analytics for bi-dir
 
   * Campaign performance data from Adobe Advertising in Customer Journey Analytics
 
-  * Site activity and conversions tracked by [!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Meta] in Customer Journey Analytics
+  * Site activity and conversions tracked by [!DNL Google Ads] and [!DNL Microsoft Advertising] in Customer Journey Analytics, updated daily
 
   * Attribution data from [!DNL Analytics] in Adobe Advertising, where it can be used for optimization and reporting
 
@@ -30,11 +30,9 @@ Adobe Advertising is integrated with Adobe Customer Journey Analytics for bi-dir
 
     **Note:** Data from [!DNL Apple] and [!DNL Tiktok] isn't available.
 
-  * Site activity and conversions tracked by [!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Meta] in Customer Journey Analytics
+  * Site activity and conversions tracked by [!DNL Google Ads] and [!DNL Microsoft Advertising] in Customer Journey Analytics
 
   * Attribution data from Customer Journey Analytics in Adobe Advertising, where it can be used for optimization and reporting
-
-  **Note:** No organic data is available yet.
 
   In this use case, use Web SDK to track site events (using cookies, hashed IP addresses, or universal IDs) and attribute the site events to paid media activity in [!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Meta], and Adobe DSP. You'll also use Adobe Experience Platform for data collection.
 
