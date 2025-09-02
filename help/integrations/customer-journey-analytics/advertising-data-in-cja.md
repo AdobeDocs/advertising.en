@@ -88,4 +88,3 @@ feature: Integration with Adobe Customer Journey Analytics
 >* [Overview](overview.md)
 >* [Prerequisites](prerequisites.md)
 >* [Adobe Advertising IDs Used by [!DNL Customer Journey Analytics]](ids.md)
->* [Set up data collection, data transfer, and reporting](set-up.md)
