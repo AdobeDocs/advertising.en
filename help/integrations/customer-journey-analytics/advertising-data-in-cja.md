@@ -7,10 +7,7 @@ feature: Integration with Adobe Customer Journey Analytics
 
 *Advertisers with an Adobe Advertising-Customer Journey Analytics Integration Only*
 
->[!NOTE]
->
->* Adobe Advertising passes traffic metrics and dimensions to [!DNL Customer Journey Analytics] daily.
->* [!DNL Web SDK] captures Adobe Advertising click-throughs and view-throughs in real time and passes them to Customer Journey Analytics.
+Adobe Advertising passes traffic metrics and dimensions to [!DNL Customer Journey Analytics] daily. [!DNL Web SDK] captures Adobe Advertising click-throughs and view-throughs in real time and passes them to Customer Journey Analytics.
 
 ## Adobe Advertising traffic metrics
 
@@ -18,7 +15,6 @@ feature: Integration with Adobe Customer Journey Analytics
 
 >[!NOTE]
 >
->* 
 >* "XDM Field Name" is the field name in Adobe Experience Platform.
 >* "XDM Field Display Name" indicates the display name within Customer Journey Analytics.
 
