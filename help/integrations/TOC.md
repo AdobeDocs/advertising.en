@@ -46,5 +46,6 @@ index: yes
 + Integration with Adobe Customer Journey Analytics {#customer-journey-analytics}
   + [Overview](/help/integrations/customer-journey-analytics/overview.md)
   + [Prerequisites](/help/integrations/customer-journey-analytics/prerequisites.md)
-  + [Adobe Advertising IDs Used by [!DNL Customer Journey Analytics]](/help/integrations/customer-journey-analytics/ids.md)
+  + [Adobe Advertising IDs Used by Customer Journey Analytics](/help/integrations/customer-journey-analytics/ids.md)
+  + [Adobe Advertising metrics and dimensions in Customer Journey Analytics](/help/integrations/customer-journey-analytics/advertising-data-in-cja.md)
 + [Videos Tutorials About Adobe Advertising Integrations](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
