@@ -10,6 +10,8 @@ exl-id: af60dcb4-4d1a-4097-ac30-688bd8b9f644
 
 *Applicable to Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
 
+*Beta feature*
+
 Adobe Advertising uses two IDs for on-site performance tracking:  the *EF ID* and the *AMO ID*.
 
 <!-- Rewrite for CJA:
