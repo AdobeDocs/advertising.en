@@ -15,10 +15,11 @@ Adobe Advertising passes traffic metrics and dimensions to [!DNL Customer Journe
 
 <!-- Verify column names -->
 
->[!NOTE]
->
->* "XDM Field Name" is the field name in Adobe Experience Platform.
->* "XDM Field Display Name" indicates the display name within Customer Journey Analytics.
+In the following table:
+
+* "XDM Field Name" is the field name in Adobe Experience Platform.
+
+* "XDM Field Display Name" indicates the display name within Customer Journey Analytics.
 
 | Adobe Advertising Field Name | XDM Field Name | XDM Field Display Name | Source |
 |------------------------------|----------------|------------------------|--------|
@@ -53,10 +54,11 @@ Adobe Advertising passes traffic metrics and dimensions to [!DNL Customer Journe
 
 ## Adobe Advertising dimensions
 
->[!NOTE]
->
->* "XDM Field" is the field name in Adobe Experience Platform.
->* "XDM Field Display Name" indicates the display name within Customer Journey Analytics.
+In the following table:
+
+* "XDM Field Name" is the field name in Adobe Experience Platform.
+
+* "XDM Field Display Name" indicates the display name within Customer Journey Analytics.
 
 | Adobe Advertising Field Name | XDM Field Name | XDM Field Display Name | Source |
 |------------------------------|----------------|------------------------|--------|
