@@ -21,4 +21,6 @@ exl-id: 4bd14178-5003-4da6-9034-d070c57f0e9b
 >[!MORELIKETHIS]
 >
 >* [Overview](overview.md)
+>* [Adobe Advertising IDs Used by [!DNL Customer Journey Analytics]](ids.md)
+>* [Adobe Advertising metrics and dimensions in Customer Journey Analytics](advertising-data-in-cja.md)
 >* (Adobe Analytics users) [Collect Historical Data for AMO IDs and EF IDs for Use in Adobe Customer Journey Analytics](/help/integrations/analytics/rvars-to-evars.md).
