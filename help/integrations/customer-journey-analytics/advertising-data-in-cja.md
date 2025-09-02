@@ -7,6 +7,8 @@ feature: Integration with Adobe Customer Journey Analytics
 
 *Advertisers with an Adobe Advertising-Customer Journey Analytics Integration Only*
 
+*Beta feature*
+
 Adobe Advertising passes traffic metrics and dimensions to [!DNL Customer Journey Analytics] daily. [!DNL Web SDK] captures Adobe Advertising click-throughs and view-throughs in real time and passes them to Customer Journey Analytics.
 
 ## Adobe Advertising traffic metrics
