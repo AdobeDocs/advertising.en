@@ -4,11 +4,13 @@ description: Adobe Advertising IDs Used by Customer Journey Analytics
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: af60dcb4-4d1a-4097-ac30-688bd8b9f644
 ---
-# Adobe Advertising IDs Used by [!DNL Customer Journey Analytics]
+# Adobe Advertising IDs Used by Customer Journey Analytics
 
 *Advertisers with an Adobe Advertising-Adobe Customer Journey Analytics Integration Only*
 
 *Applicable to Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
+
+*Beta feature*
 
 Adobe Advertising uses two IDs for on-site performance tracking:  the *EF ID* and the *AMO ID*.
 
@@ -57,3 +59,10 @@ In Analytics reports, you can find AMO ID data by searching for the [!UICONTROL 
 For any reporting or auditing within [!DNL Analytics], the best practice is to use the AMO ID along with its corresponding instance. For more information, see "[Click-Through Data Validation for [!DNL Analytics for Advertising]](data-variances.md#data-validation)" in "Expected Data Variances Between [!DNL Analytics] and Adobe Advertising."
 
 -->
+
+>[!MORELIKETHIS]
+>
+>* [Overview](overview.md)
+>* [Prerequisites](prerequisites.md)
+>* [Set up data collection, data transfer, and reporting](set-up.md)
+>* [Adobe Advertising metrics and dimensions in Customer Journey Analytics](advertising-data-in-cja.md)
