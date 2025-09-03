@@ -41,7 +41,7 @@ Each ad experience can include one ad type (standard display, standard video, or
 
 * **Scheduling:** (Optional) Schedule specific creatives to run during specified, sequential time periods.
 
-* **Ad rotation:** Rotate the creatives either manually according to relative weights or algorithmically according to the specified optimization goal.
+* **Ad rotation:** Rotate the creatives algorithmically according to the specified optimization goal; according to a specified bundle sequence; or according to relative weights.
 
 * **Optimization goal:** Optimize ad elements for either the best click-through rate or an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md)
 
