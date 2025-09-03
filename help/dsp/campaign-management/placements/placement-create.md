@@ -48,6 +48,8 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 
          For [!DNL Roku] placements, you can leverage [DSP’s unique audience matching with [!DNL Roku]](/help/dsp/inventory/roku-inventory.md) by including one or more one audience segments that can be matched against the [!DNL Roku] (opted-in) deterministic dataset.
 
+         First-party RampID segments that aren't attached to an active, scheduled, or paused placement are paused. The segment is noted in the segment list as "Auto paused."
+
       1. (For campaigns with people-level cross-device targeting; optional) When the placement targets one or more specific audiences, enable people-based cross-device targeting for the placement.
 
          People-based cross-device targeting is provided by [!DNL LiveRamp] using U.S. data only. The service is available to all advertisers at $0.35 CPM for impressions that are delivered by using the [!DNL LiveRamp] device graph (that is, for devices not found within the targeted audience segments).

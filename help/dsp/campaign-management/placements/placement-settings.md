@@ -327,6 +327,10 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 * To create an audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Included Audiences], and then select **[!UICONTROL + Create Audience]**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
 * To select specific audience segments, click **[!UICONTROL Select segments for this placement only]**. Select the segment logic; for instructions, see Step 6 in "[Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md)." When you're done, click **Save**.
 
+>[!NOTE]
+>
+>First-party RampID segments that aren't attached to an active, scheduled, or paused placement are paused. The segment is noted in the segment list as "Auto paused."
+
 **[!UICONTROL Excluded Audiences]:** Any audiences to exclude for the placement, including audiences with [third-party segments, first-party segments, Adobe segments, custom segments, and saved audiences](/help/dsp/audiences/audience-settings.md). The total and active deduplicated audience size across all excluded audiences is also displayed. You can select an existing audience or create a new audience that you can reuse later:
 
 * To select an existing audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Excluded Audiences], and then select the audience.

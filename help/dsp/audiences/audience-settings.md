@@ -14,6 +14,10 @@ exl-id: ea69ed6e-2d68-4ac5-8465-2ee7d798ae1d
 
 (Optional) Any first-party segments imported and/or custom segments imported for the account, to include in the audience configuration.
 
+>[!NOTE]
+>
+>(Advertisers for whom DSP converts hashed email IDs to LiveRamp RampID segments) First-party RampID segments that aren't attached to an active, scheduled, or paused placement are now paused. The segment is noted in the segment list as "Auto paused."
+
 ## Adobe Segments
 
 (Optional) Any [!DNL Adobe Real-Time CDP], Adobe Analytics, or Adobe Audience Manager segments to include in the audience configuration.

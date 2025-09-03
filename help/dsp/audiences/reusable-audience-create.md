@@ -10,6 +10,10 @@ exl-id: 5f4a0abb-c285-4452-a6c3-a91d5281df9b
 
 You can save and manage reusable audiences, which are groups of audience segments and even other saved audiences, which you can use as targets or exclusions for multiple placements.
 
+>[!NOTE]
+>
+>(Advertisers for whom DSP converts hashed email IDs to LiveRamp RampID segments) First-party RampID segments that aren't attached to an active, scheduled, or paused placement are paused. The segment is noted in the segment list as "Auto paused."
+
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**.
 
 1. Above the data table, click **[!UICONTROL Create]**.

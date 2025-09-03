@@ -8,6 +8,10 @@ exl-id: 4de6b9a4-2907-474d-92bf-83686a1f0b31
 
 When you edit an audience that is used in any placements or other reusable audiences, the changes are immediately applied to those placements and audiences.<!-- verify -->
 
+>[!NOTE]
+>
+>(Advertisers for whom DSP converts hashed email IDs to LiveRamp RampID segments) First-party RampID segments that aren't attached to an active, scheduled, or paused placement are paused. The segment is noted in the segment list as "Auto paused."
+
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 
 1. Hold the cursor over the audience row and click **[!UICONTROL Edit]**.
