@@ -7,7 +7,7 @@ solution: Advertising
 index: no
 exl-id: 0d25f665-b5f9-4d27-851a-2a456fe2cbf8
 ---
-# What's new in [!DNL Creative] 2.0?
+# What's new in [!DNL Creative] 2.0
 
 The following features are new or recently changed.
 
