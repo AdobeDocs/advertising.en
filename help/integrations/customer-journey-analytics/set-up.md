@@ -5,6 +5,8 @@ feature: Integration with Adobe Customer Journey Analytics
 ---
 # Set up data collection, data transfer, and reporting
 
+*Beta feature*
+
 The following tasks are required to view Advertising Cloud data in Customer Journey Analytics.
 
 <!--
