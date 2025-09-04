@@ -33,7 +33,7 @@ The following tasks are required to set up data collection in Experience Platfor
 
       * In the [!UICONTROL Schema Details], select **[!UICONTROL Experience Event]** as the base class for the schema to capture site events. Name your schema and click **[!UICONTROL Finish]**.
       
-      * In the left panel, add the field group `Adobe Advertising Cloud ExperienceEvent Full Extension` to add fields specific to Adobe Advertising.<!-- Add link once published --> At a minimum, include the conversionDetails object with the `trackingCode` and `trackingIdentities` properties, which include the [AMO ID and EF ID](ids.html). The other fields are optional.
+      * In the left panel, add the field group `Adobe Advertising Cloud ExperienceEvent Full Extension` to add fields specific to Adobe Advertising.<!-- Add link once published --> At a minimum, include the conversionDetails object with the `trackingCode` and `trackingIdentities` properties, which include the [AMO ID and EF ID](ids.md). The other fields are optional.
       
       * (Optional) Add additional field groups as needed to connect additional data fields to Adobe Advertising data.
 
