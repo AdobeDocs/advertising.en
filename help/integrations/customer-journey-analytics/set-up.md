@@ -42,7 +42,7 @@ The following tasks are required to set up data collection in Experience Platfor
    1. [Create a dataset](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/create) based on the schema to store and manage the collection of event data. 
 
       * Choose the option to **[!UICONTROL Create dataset from schema]** and select your schema.
-   
+      
         Adobe Advertising creates additional datasets for the related summary metrics data (such as conversion values) and lookup data (dimensions/classification metadata, such as Adobe Advertising campaign name) based on your event dataset. Data for the datasets is populated in Experience Platform daily.
 
    1. [Create a datastream](https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/configure) for the schema. 
@@ -117,15 +117,91 @@ The following tasks are required to set up data collection in Experience Platfor
 
 ## Create a connection to your Experience Platform datasets in Customer Journey Analytics {#dataset-connection}
 
-Follow these steps to pull Adobe Advertising data from your Experience Platform datasets into Customer Journey Analytics. Your organization's site administrator for Customer Journey Analytics  can perform these tasks.
+Follow these steps to pull Adobe Advertising data from your Experience Platform datasets into Customer Journey Analytics. Your organization's site administrator for Customer Journey Analytics can perform these tasks.
 
-*Coming soon*
+1. In Customer Journey Analytics, [create a connection](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/create-connection) that includes your Experience Platform datasets and schema.
+
+   **Note:** Currently, you must send data for all DSP and Search, Social, & Commerce accounts to a single Experience Platform instance and sandbox.
+   
+   * Add your Experience Platform event (metrics) dataset, summary (metrics) dataset, and dimensions (classifications/metadata) dataset.
+
+     Your team created the event dataset, and Adobe Advertising created the summary and dimensions datasets based on your event dataset.
+     
+     You can optionally include additional datasets as needed.
+
+   * Map the dimensions dataset to the events dataset:
+
+     1. Open the settings for the dimension dataset.
+     
+        The heading on the settings page is "[!UICONTROL Lookup Dataset]," which indicates that you can join your dimensions dataset with one of your metric-specific datasets.
+   
+     1. In the [!UICONTROL Adobe Advertising Dimensions] section, map the dimensions dataset to the events dataset:
+      
+        1. For the [!UICONTROL Key] field, select the field to use as the key for the dimensions dataset: `Adobe Advertising ID` (which is same as the `trackingCode` field in the schema).
+      
+        1. For the [!UICONTROL Matching key] field, select the field to use as the matching key for the events dataset. The available field names include the dataset name in parentheses. For example, if you're mapping your dimensions dataset to your events dataset, select `Tracking Code (Event datasets)`.
+        
+        Later, you'll also map the events dataset to the summary dataset when you set up your data view(#cja-data-views).
+
+1. After a couple of hours, verify that the data is available in Customer Journey Analytics.
+
+   1. In Customer Journey Analytics, go to **[!UICONTROL Connections]** and select your connection.
+
+   1. In the list of data sets displayed, verify that the "[!UICONTROL Number of Records]" report shows that data was added.
 
 ## Set up data views in Customer Journey Analytics {#cja-data-views}
 
 In Customer Journey Analytics, create one or more data views to define the metrics and dimensions for reporting. A web analyst can perform these tasks.
 
-*Coming soon*
+1. In Customer Journey Analytics, [create a data view](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/create-dataview).
+
+1. Configure the view to include the following information.
+
+   * If you have an Adobe Analytics account, use the [!UICONTROL Time Zone] for your [!DNL Analytics] account in the [!UICONTROL Calendar] section of the [!UICONTROL Configure] tab.
+   
+   * On the [!UICONTROL Components] tab:
+   
+     * Add your dimensions, events, and summary datasets.
+     
+     * Choose metrics from your events (metrics) dataset and your dimensions (classifications/metadata) dataset to include in the data view.
+     
+       You already joined these two datasets in the connection that you created in the [last procedure](#dataset-connection).
+     
+     * Join the events dataset to the summary dataset, which isn't yet joined to anything:
+     
+       * For each dimension with summary data that you want to be available in Customer Journey Analytics, [create a derived field](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+
+         For example, to view summary data for campaigns, create a derived field for the dimension `Adobe Advertising Campaign`.
+         
+         You'll link the two datasets using the matching key `trackingCode` (which is the schema field for the Adobe Advertising ID).
+       
+         * In the [!UICONTROL Lookup] section of the derived rule builder:
+         
+           * For the **[!UICONTROL Value]** field, select "[!UICONTROL Tracking Code]" from the metrics summary dataset.
+
+           * For the **[!UICONTROL Lookup dataset]** field, select the dimensions dataset (such as "Adobe Advertising Classification").
+
+           * For the **[!UICONTROL Matching Key]** field, select "[!UICONTROL Tracking Code]" from the classification dataset.
+
+           * For the **[!UICONTROL Values to return]** field, select the dimension (such as "[!UICONTROL Adobe Advertising Campaign]")" from the classification dataset.
+         
+         The derived field name is appended with "(DF)", such as `Adobe Advertising Campaign(DF)`. 
+         
+       * For each derived field:
+       
+         * In the [!UICONTROL Included components] section, add the derived field.
+         
+           Two names are now listed for the same dimension (for example, "Adobe Advertising Campaign(DF)"(the derived field) and "Adobe Advertising Campaign" (the field in the summary dataset)).
+
+         * Select the dimension in the summary dataset (such as "Adobe Advertising Campaign") and edit the settings for the dataset.
+
+           The settings open on the right.
+
+           * In the the Summary Data Group section, select the option to **[!UICONTROL Create grouping]**.
+
+           * For the **[!UICONTROL Dimension]** field, select the derived field (which is appended with "(DF)," such as "Adobe Advertising Campaign(DF)").
+         
+           * Select the option to **[!UICONTROL Hide in reporting]**, which hides the derived field name in Workspace.
 
 ## Set up reports and visualizations in Customer Journey Analytics Workspace {#cja-reports}
 
