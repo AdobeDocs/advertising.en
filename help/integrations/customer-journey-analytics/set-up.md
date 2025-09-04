@@ -57,7 +57,7 @@ The following tasks are required to set up data collection in Experience Platfor
    
      Each datastream can insert data into only one dataset.
 
-### Send your organization's website data to your Experience Platform datastream:
+### Send your organization's website data to your Experience Platform datastream
 
 1. Use Experience Platform [tags](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home) (formerly known as [!DNL Launch]) to generate a JavaScript tag to send your organization's website data to the datastream.
    
