@@ -12,7 +12,7 @@ feature: Search Introduction
 
 **ad variation:** Any ad within an ad group or ad strategy.
 
-**[AMO ID](/help/integrations/analytics/ids.md#amo-id):** A tracking code that allows Adobe Advertising to share data about campaigns with Adobe Analytics. It begins with `s_kwcid=`.
+**[AMO ID](/help/integrations/analytics/ids.md#amo-id):** A tracking code that allows Adobe Advertising to share data about campaigns with Adobe Analytics and Adobe Customer Journey Analytics. It begins with `s_kwcid=`.
 
 **bid unit:** A Search, Social, & Commerce term for a unit on which bids are placed.
 

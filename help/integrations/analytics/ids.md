@@ -36,9 +36,13 @@ Adobe Advertising distinguishes between a click-through or view-through entry to
 
 *Figure 2: Adobe Advertising click URL-based [!DNL Analytics] integration*
 
-<!-- ## Adobe Advertising EF IDs -->
+## Adobe Advertising EF IDs
 
 {{$include /help/_includes/ef-id.md}}
+
+### EF ID Formats {#ef-id-formats}
+
+{{$include /help/_includes/ef-id-formats.md}}
 
 ### The EF ID Dimension in [!DNL Analytics]
 
@@ -46,7 +50,11 @@ In [!DNL Analytics] reports, you can find EF ID data by searching for the [!UICO
 
 EF IDs are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title “[!UICONTROL Low Traffic].” Because of the possibility of missing reporting fidelity, the EF IDs are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
 
-<!-- ## Adobe Advertising AMO IDs {#amo-id} -->
+## Adobe Advertising AMO IDs {#amo-id}
+
+{{$include /help/_includes/amo-id.md}}
+
+## AMO ID formats {#amo-id-formats}
 
 {{$include /help/_includes/amo-id.md}}
 

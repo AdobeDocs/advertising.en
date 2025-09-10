@@ -42,11 +42,19 @@ Adobe Advertising distinguishes between a click-through or view-through entry to
 
 -->
 
-<!-- ## Adobe Advertising EF IDs -->
+## Adobe Advertising EF IDs
 
 {{$include /help/_includes/ef-id.md}}
 
-<!-- ## Adobe Advertising AMO IDs {#amo-id} -->
+### EF ID Formats {#ef-id-formats}
+
+{{$include /help/_includes/ef-id-formats.md}}
+
+## Adobe Advertising AMO IDs {#amo-id}
+
+{{$include /help/_includes/amo-id.md}}
+
+## AMO ID formats {#amo-id-formats}
 
 {{$include /help/_includes/amo-id.md}}
 
