@@ -46,7 +46,7 @@ In [!DNL Analytics] reports, you can find EF ID data by searching for the [!UICO
 
 EF IDs are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title “[!UICONTROL Low Traffic].” Because of the possibility of missing reporting fidelity, the EF IDs are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
 
-<!-- ## ## Adobe Advertising AMO IDs {#amo-id} -->
+<!-- ## Adobe Advertising AMO IDs {#amo-id} -->
 
 {{$include /help/_includes/amo-id.md}}
 
