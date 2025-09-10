@@ -54,10 +54,6 @@ Adobe Advertising distinguishes between a click-through or view-through entry to
 
 {{$include /help/_includes/amo-id.md}}
 
-## AMO ID formats {#amo-id-formats}
-
-{{$include /help/_includes/amo-id.md}}
-
 <!-- rewrite for CJA:
 
 ### AMO ID Dimension in [!DNL Customer Journey Analytics]

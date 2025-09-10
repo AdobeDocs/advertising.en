@@ -1,4 +1,4 @@
-# Adobe Advertising EF IDs
+# EF ID formats
 
 >[!NOTE]
 >
