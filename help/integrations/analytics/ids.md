@@ -38,7 +38,11 @@ Adobe Advertising distinguishes between a click-through or view-through entry to
 
 ## Adobe Advertising EF IDs
 
-{{$include /help/_includes/ef-id.md}}
+The EF ID is a unique token that Adobe Advertising uses to associate activity with an online click or ad exposure at the individual browser or device level. EF IDs act primarily as keys for sending [!DNL Analytics] data and Customer Journey Analytics data to Adobe Advertising for reporting and bid optimization within Adobe Advertising.
+
+For [!DNL Analytics], the EF ID is stored in [an [!DNL Analytics] [!DNL eVar]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or [!DNL rVar] (reserved [!DNL eVar]) dimension (Adobe Advertising EF ID).
+
+For Customer Journey Analytics, the EF ID is stored in the `trackingIdentities` property of the `conversionDetails` object, which is part of the [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension].
 
 ### EF ID Formats {#ef-id-formats}
 
@@ -94,7 +98,7 @@ In [!DNL Analytics] reports, you can find EF ID data by searching for the [!UICO
 
 EF IDs are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title “[!UICONTROL Low Traffic].” Because of the possibility of missing reporting fidelity, the EF IDs are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
 
-## Adobe Advertising AMO IDs {#amo-id}
+<!-- ## Adobe Advertising AMO IDs {#amo-id} -->
 
 {{$include /help/_includes/amo-id.md}}
 
