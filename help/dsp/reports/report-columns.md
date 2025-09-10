@@ -25,6 +25,15 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Campaign]|[!UICONTROL Campaign ID]|The unique identifier for the campaign in DSP.|
 |[!UICONTROL Dimension]|[!UICONTROL Campaign]|[!UICONTROL Campaign Name]|The name of the campaign as assigned by the user.|
 |[!UICONTROL Dimension]|[!UICONTROL Campaign]|[!UICONTROL Campaign Start Date]|The first date for the campaign.|
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Title]| The content title. |
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Series]| The content series. |
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Genre]| The content genre. |
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL ProdQ]| The production quality, as defined by the [IAB Technology Laboratory](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Values can `Unknown`, `Professionally Produced`, `Prosumer`, or `User Generated`.|
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Context]| The type of content, as defined by the [IAB Technology Laboratory](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Values can include `Video,` `Game`, `Music`, `Application`, `Text`, `Other`, or `Unknown`. |
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Content Rating]| The content rating, such as PG or R. |
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Livestream]| Whether the ad appeared in a livestream: `Not Live` or `Live`. |
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Content Length (in seconds)]| The length of the content in seconds; typically used for video or audio. |
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Language (as per ISO 639)]| The language of the content using ISO-639-1-alpha-2. |
 |[!UICONTROL Dimension]|[!UICONTROL Date/Time]|[!UICONTROL Day (YYYY-MM-DD)]|The year, month, and day.|
 |[!UICONTROL Dimension]|[!UICONTROL Date/Time]|Day [!UICONTROL of Week]|The specific day, such as [!UICONTROL Monday] or [!UICONTROL Tuesday].|
 |[!UICONTROL Dimension]|[!UICONTROL Date/Time]|[!UICONTROL Hour (YYYY-MM-DD HH)]|The year, month, day, and hour.|
