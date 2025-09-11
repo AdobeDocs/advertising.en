@@ -25,7 +25,7 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Campaign]|[!UICONTROL Campaign ID]|The unique identifier for the campaign in DSP.|
 |[!UICONTROL Dimension]|[!UICONTROL Campaign]|[!UICONTROL Campaign Name]|The name of the campaign as assigned by the user.|
 |[!UICONTROL Dimension]|[!UICONTROL Campaign]|[!UICONTROL Campaign Start Date]|The first date for the campaign.|
-|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Title]| The content title. |
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Title]| The content/film title. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Series]| The content series. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Genre]| The content genre. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL ProdQ]| The production quality, as defined by the [IAB Technology Laboratory](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Values can `Unknown`, `Professionally Produced`, `Prosumer`, or `User Generated`.|
