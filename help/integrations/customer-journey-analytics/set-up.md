@@ -69,7 +69,7 @@ The following tasks are required to set up data collection in Experience Platfor
      
      Don't use the Adobe Advertising extension.
 
-   * Create a custom Web SDK build:
+   * Create a [custom Web SDK build](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/web-sdk-extension-configuration#custom-build):
    
      * In the [!UICONTROL Custom build components] section, enable the **Advertising** component.
      
@@ -95,7 +95,7 @@ The following tasks are required to set up data collection in Experience Platfor
         
    * (Optional) [Create rules](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/rules) as needed to determine when Web SDK should send data to the Edge Network.
    
-     * For `sendEvent` actions, use the [!UICONTROL Advertising] setting to define how advertising data is used for attribution measurement. This setting is helpful when the rule includes a sequence of multiple actions and is available only when you've selected the "[!UICONTROL Advertising]" component for the custom build component. Options include:
+     * For `[sendEvent](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/action-types#send-event)` actions, use the [!UICONTROL Advertising] setting to define how advertising data is used for attribution measurement. This setting is helpful when the rule includes a sequence of multiple actions and is available only when you've selected the "[!UICONTROL Advertising]" component for the custom build component. Options include:
      
        *Automatic:* Allows advertising data to be used for measuring ad attribution on the current `sendEvent` action based on data in the cache. In this case, the ad exposure event fires when it gets the chance, and it may not be available for the current event. For example, if you fire a purchase checkout event and no ad exposure data is available in the cache, then the checkout event isn’t attributed to the ad exposure.
        
