@@ -1,22 +1,14 @@
 ---
 title: Manage Deal Lists
 description: Learn how to create and manage deal lists for placement targeting.
-feature: DSP Private Inventory, DSP Deal IDs, DSP Placements
+feature: DSP Private Inventory, DSP On Demand Inventory, DSP Deal IDs, DSP Placements
 exl-id: 18a2c2d2-d84d-4347-93af-ca7489a1a8fb
 ---
 # Manage Deal Lists
 
-<!-- Will later add fct for On-Demand deals, too, so keep title generic. Later add "DSP On Demand Inventory to feature metadata -->
-
-You can create and manage lists of private deals for placement targeting. Target or exclude specific private deal lists within placement settings. 
+You can create and manage lists of private deals and [!DNL On Demand] deals for placement targeting. Target or exclude specific private deal lists within placement settings. 
 
 In custom reports, you can a) filter data by deal lists and b) include the [!UICONTROL Feed] dimension "[!UICONTROL Deal list]" in the [!UICONTROL Build Your Report] section.
-
-<!--
-What's New:  
-
-In custom reports, you can now a) filter data by deal lists and deals and b) include the [!UICONTROL Feed] dimensions "[!UICONTROL Deal list]" and "[!UICONTROL Deal]" in the [!UICONTROL Build Your Report] section.
--->
 
 ## View a Deal List
 
@@ -30,9 +22,15 @@ In custom reports, you can now a) filter data by deal lists and deals and b) inc
 
 1. In the upper right, click **[!UICONTROL Create].**
 
+1. Enter the **[!UICONTROL List name]** and select the **[!UICONTROL Inventory Type]** (*[!UICONTROL Private]* or *[!UICONTROL On Demand]*).
+
 1. Click **[!UICONTROL Add Deals].**
 
-1. (Option) Filter the list by publisher, SSP, or deal type (*[!UICONTROL Guaranteed]* or *[!UICONTROL Non-Guaranteed]*); or search the list by deal name or deal ID.
+1. (Optional) Filter or search for deals:
+
+   * For private deals, filter the list by publisher, SSP, or deal type (*[!UICONTROL Guaranteed]* or *[!UICONTROL Non-Guaranteed]*); or search the list by deal name or deal ID.
+
+   * For [!UICONTROL On Demand] deals, filter the list by publisher, region, or media type or search the list by deal name.
 
 1. Select the check box next to each deal to include in the list.
 
