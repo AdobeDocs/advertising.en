@@ -8,7 +8,9 @@ exl-id: 18a2c2d2-d84d-4347-93af-ca7489a1a8fb
 
 You can create and manage lists of private deals and [!DNL On Demand] deals for placement targeting. Target or exclude specific private deal lists within placement settings. 
 
-In custom reports, you can a) filter data by deal lists and b) include the [!UICONTROL Feed] dimension "[!UICONTROL Deal list]" in the [!UICONTROL Build Your Report] section.
+<!-- Later:
+In custom reports, you can a) filter data by deal lists and deals and b) include the [!UICONTROL Feed] dimensions "[!UICONTROL Deal list]" and "[!UICONTROL Deal]" in the [!UICONTROL Build Your Report] section
+-->
 
 ## View a Deal List
 
