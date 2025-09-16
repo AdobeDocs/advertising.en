@@ -52,15 +52,7 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 
         1. Click the name of the parent package.
 
-1. Hold the cursor over the placement row, click **[!UICONTROL More]**, and then click an option:
-
-    * To view all sites that the placement targets, click **[!UICONTROL Sites]**.
-
-    * To view all ads in the placement, click **[!UICONTROL Ads]**.
-
-    * To view frequency data for the placement, click **[!UICONTROL Frequency]**.
-
-    * To view all deals that the placement targets, click **[!UICONTROL Inventory]**.
+1. Hold the cursor over the placement row, click **[!UICONTROL ...]** > **[!UICONTROL Insights]** > **[!UICONTROL Inspector]**.
 
 1. (Optional) [Change the column view](campaign-data-views-manage.md#column-view-change) as needed to view the required metrics.
 

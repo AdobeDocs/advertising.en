@@ -6,12 +6,12 @@ exl-id: ddfae530-1dc6-4470-9910-ae13abcbaa8b
 ---
 # View a Detailed Report for a Placement
 
-The <!--legacy --> placement-level report includes an overview and sections on [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications], and [!UICONTROL Ads] data.
+The legacy placement-level report includes an overview and sections on [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications], and [!UICONTROL Ads] data.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Placements]**.
-1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL View report]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Insights]** > **[!UICONTROL Legacy report]**.
 
 >[!MORELIKETHIS]
 >

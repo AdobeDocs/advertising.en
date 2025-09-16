@@ -17,7 +17,7 @@ You can edit the placement name, status, maximum bid, and budget without opening
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Placements]**.
-1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Quick Edit]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Edit]** > **[!UICONTROL Quick Edit]**.
 1. Edit any of the available [placement settings](placement-settings.md):  **[!UICONTROL Placement Name]**, **[!UICONTROL Status]**, **[!UICONTROL Max Bid]**, and **[!UICONTROL Budget]**.
 1. Click **[!UICONTROL Apply]**.
 
@@ -29,7 +29,7 @@ You can edit the placement name, status, maximum bid, and budget without opening
 >* [Duplicate a Placement](placement-duplicate.md)
 >* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
 >* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
->* [Pause or Activate a Placement](placement-pause-activate.md)
+>* [Deactivate or Activate a Placement](placement-pause-activate.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
 >* [Video: How to Edit Placements Using Bulk Edit Tools](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)

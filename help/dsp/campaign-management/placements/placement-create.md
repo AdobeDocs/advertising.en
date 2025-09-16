@@ -46,7 +46,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 
       1. Narrow down the audience. This includes selecting audience segments to target within the placement.
 
-         For [!DNL Roku] placements, you can leverage [DSP’s unique audience matching with [!DNL Roku]](/help/dsp/inventory/roku-inventory.md) by including one or more one audience segments that can be matched against the [!DNL Roku] (opted-in) deterministic dataset.
+         For [!DNL Roku] placements, you can leverage [DSP's unique audience matching with [!DNL Roku]](/help/dsp/inventory/roku-inventory.md) by including one or more one audience segments that can be matched against the [!DNL Roku] (opted-in) deterministic dataset.
 
          First-party RampID segments that aren't attached to an active, scheduled, or paused placement are paused. The segment is noted in the segment list as "Auto paused."
 
@@ -86,7 +86,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 
         1. If you aren't going to attach any existing ads, click **[!UICONTROL I'm done for now]**.
 
-       * To attach existing ads in the campaign:
+      * To attach existing ads in the campaign:
 
         1. Click **[!UICONTROL Select an Ad]**.
 
@@ -108,7 +108,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 
                1. Next to the ad name, click **[!UICONTROL Select]**.
 
-         1. (Optional) To override the default flight period and ad rotation for specific ads in the placement:
+        1. (Optional) To override the default flight period and ad rotation for specific ads in the placement:
 
             1. Click **[!UICONTROL Custom Schedule Ads]**.
 
@@ -134,7 +134,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 >* [Edit Placements](placement-edit.md)
 >* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
 >* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
->* [Pause or Activate a Placement](placement-pause-activate.md)
+>* [Deactivate or Activate a Placement](placement-pause-activate.md)
 >* [View the Change Log for a Placement](placement-change-log.md)
 >* [Placement Settings](placement-settings.md)
 >* [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)

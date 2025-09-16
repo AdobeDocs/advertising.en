@@ -65,7 +65,7 @@ index: yes
     + [Edit the Ad Schedules for Placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
     + [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
     + [View the Change Log for a Placement](/help/dsp/campaign-management/placements/placement-change-log.md)
-    + [Pause or Activate a Placement](/help/dsp/campaign-management/placements/placement-pause-activate.md)
+    + [Deactivate or Activate a Placement](/help/dsp/campaign-management/placements/placement-pause-activate.md)
     + [Archive or Unarchive a Placement](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
     + [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
   + Ads {#ads}

@@ -34,6 +34,6 @@ You can unarchive a placement to restore its previous status at any time.
 
 >[!MORELIKETHIS]
 >
->* [Pause or Activate a Placement](placement-pause-activate.md)
+>* [Deactivate or Activate a Placement](placement-pause-activate.md)
 >* [Edit Placements](placement-edit.md)
 >* [View the Change Log for a Placement](placement-change-log.md)

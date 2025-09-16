@@ -22,7 +22,7 @@ Use the [!UICONTROL Ad Tools] view to attach ads to placements, attach third-par
 
    * (From the [!UICONTROL Packages] , [!UICONTROL Placements], or [!UICONTROL Ads] view) In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
 
-   * (From the [!UICONTROL Placements] view) Next to the placement name, click **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
+   * (From the [!UICONTROL Placements] view) Next to the placement name, click **[!UICONTROL ...]** > **[!UICONTROL Ads]** > **[!UICONTROL Attach Ads].**
 
    * (From the [!UICONTROL Ads] view) Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
 

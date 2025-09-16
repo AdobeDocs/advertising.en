@@ -84,6 +84,8 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
 
 * (To open insights for a specific campaign, package, or placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Insights]**.
 
+* (To open insights for a specific placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Insights]** > **[!UICONTROL Performance insights]** .
+
 ## Apply Filters to a Tab
 
 1. In the toolbar at the top of the tab, click ![Filter button](/help/dsp/assets/filter.png).
