@@ -78,6 +78,7 @@ index: yes
   + Manage {#manage}
     + Portfolios {#portfolios}
       + [About portfolios](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md)
+      + [Manage portfolio groups](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-group-manage.md)
       + [Create a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md)
       + [Duplicate a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-duplicate.md)
       + [Edit portfolio details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md)
@@ -85,7 +86,6 @@ index: yes
       + [Portfolio settings](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-settings.md)
       + [View portfolio performance details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-details.md)
       + [Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
-      + [Manage portfolio groups](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-group-manage.md)
     + Campaigns {#campaigns}
       + [About the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-about.md)
       + [Assign campaigns to a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio)
