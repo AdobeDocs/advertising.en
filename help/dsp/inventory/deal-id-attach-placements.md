@@ -10,7 +10,7 @@ For non-guaranteed deals, you can specify the deal as an inventory target for ne
 
 For programmatic guaranteed (PG) deals, you can create placements with specified ads from the [!UICONTROL Deals] view.
 
-You can also [attach ads to placements](/help/dsp/campaign-management/ads/ad-attach-detach-placement.md) associated with PG and non-guaranteed deals at any time.
+You can also [attach ads to placements](/help/dsp/campaign-management/ads/ad-attach-placement.md) associated with PG and non-guaranteed deals at any time.
 
 ## Specify a Non-Guaranteed Deal as an Inventory Target for a Placement
 

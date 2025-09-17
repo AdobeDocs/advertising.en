@@ -61,7 +61,7 @@ index: yes
     + [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
     + [Duplicate Placements](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Manage Bid Multipliers for Placements](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md)
-    + [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-detach-placement.md)
+    + [Attach and Remove Ads from Placements](/help/dsp/campaign-management/ads/ad-attach-placement.md)
     + [Attach and Remove Pixels from Ads](/help/dsp/campaign-management/ads/ad-pixel-attach-detach.md)
     + [Edit the Ad Schedules for Placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
     + [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
@@ -78,7 +78,7 @@ index: yes
     + [Review Ad Details Using Spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
-    + [Attach Ads to Placements](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+    + [Attach and Remove Ads from Placements](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
     + [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
     + [View a Detailed Report for an Ad](/help/dsp/campaign-management/ads/ad-view-report.md)
     + [Pause or Activate an Ad](/help/dsp/campaign-management/ads/ad-pause-activate.md)
