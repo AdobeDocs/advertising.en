@@ -32,8 +32,6 @@ Your role determines the available options:<!-- add link when available -->
 
 * **[!UICONTROL Manage]** submenu:
 
-<!--  * **[!UICONTROL Portfolio Groups]:** Exits the new UI site and opens the legacy [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Portfolios] view > [!UICONTROL Portfolio Groups] tab. -->
-
   * **[!UICONTROL Portfolios]:** Opens a new [!UICONTROL Portfolios] view that lists all portfolios for the advertiser. You can manage your portfolios from this view. You can open a list of assigned constraints and view performance and composition details for any portfolio.
 
     The portfolio settings include tabs to assign the objective and campaigns, manage spend, manage constraints, and control optimization. Only users with the "expert optimization" role or higher can edit the settings on the [!UICONTROL Control Optimization] tab.
