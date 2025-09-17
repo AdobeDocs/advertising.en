@@ -61,7 +61,7 @@ index: yes
     + [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
     + [Duplicate Placements](/help/dsp/campaign-management/placements/placement-duplicate.md)
     + [Manage Bid Multipliers for Placements](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md)
-    + [Attach and Remove Ads from Placements](/help/dsp/campaign-management/ads/ad-attach-placement.md)
+    + [Attach and Remove Ads from Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
     + [Attach and Remove Pixels from Ads](/help/dsp/campaign-management/ads/ad-pixel-attach-detach.md)
     + [Edit the Ad Schedules for Placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
     + [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)

@@ -106,7 +106,7 @@ You can attach and detach third-party tracking pixels from ads.
 >[!MORELIKETHIS]
 >
 >* [About Ad Management](ad-about.md)
->* [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-placement.md)
+>* [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
 >* [Create a Single Ad](ad-create.md)
 >* [Create Multiple Third-party Ads](ad-create-multiple.md)
 >* [Edit an Ad](ad-edit.md)
