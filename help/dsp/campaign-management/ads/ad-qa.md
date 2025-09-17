@@ -15,7 +15,7 @@ To edit the ad details, see "[Review and Edit Campaign Component Settings Using 
 >[!NOTE]
 >
 >*To edit individual ad settings, see also "[Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)."
->*To change the third-party tracking pixels for multiple ads at once or to attach ads to placements, see also "[Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)."
+>*To change the third-party tracking pixels for multiple ads at once or to attach ads to placements, see also "[Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-detach-placement.md)."
 
 ## Download Details for All Ads in a Campaign
 
@@ -44,7 +44,7 @@ To edit the ad details, see "[Review and Edit Campaign Component Settings Using 
 >[!MORELIKETHIS]
 >
 >* [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
->* [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+>* [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-detach-placement.md)
 >* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
 >* [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
 >* [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)

@@ -34,7 +34,7 @@ Create universal video placements and ads similarly to how you create other type
 
    See "[Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)" for more information.
 
-1. [Attach the new universal video ads](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) to the universal video placement.
+1. [Attach the new universal video ads](/help/dsp/campaign-management/ads/ad-attach-detach-placement.md) to the universal video placement.
 
 ## Why are some optimization goals and packages unavailable when the Connected TV environment is selected for a universal video placement?
 

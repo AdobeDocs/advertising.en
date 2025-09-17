@@ -11,7 +11,7 @@ The legacy placement-level report includes an overview and sections on [!UICONTR
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Placements]**.
-1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Insights]** > **[!UICONTROL Legacy report]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Analyse]** > **[!UICONTROL Legacy report]**.
 
 >[!MORELIKETHIS]
 >

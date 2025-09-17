@@ -24,7 +24,7 @@ To update multiple settings at once, you can make changes to select fields, save
 
 1. Do either of the following:
   
-   * Next to the campaign, click **[!UICONTROL ...]** > **[!UICONTROL Edit]** > **[!UICONTROL Download Bulksheet]**.
+   * Next to the campaign, click **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]**.
    
    * Click the campaign name. In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]**.
 

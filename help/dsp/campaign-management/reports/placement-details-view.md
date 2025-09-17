@@ -18,7 +18,7 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 
 * **[!UICONTROL Ads]:** All of the ads in the placement.
 
-   The [!UICONTROL Ads] tab includes search and filter features, the same standard and custom column view options that are available on the main page, and quick action buttons in each row, such as [!UICONTROL Pause] (so you can quickly pause an ad).
+   The [!UICONTROL Ads] tab includes search and filter features, the same standard and custom column view options that are available on the main page, and quick action buttons in each row, such as [!UICONTROL View Ad Approvals].
 
 * **[!UICONTROL Frequency]:** Data for each ad frequency level for the placement, including:
     * the ad frequency level (such as "1" for all instances in which users saw an ad one time)
@@ -30,7 +30,7 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 
     The [!UICONTROL Inventory] tab enables quick troubleshooting by showing performance statistics, such as [!UICONTROL Auctions], [!UICONTROL Bids], and [!UICONTROL Win Rate]. The tab includes search and filter features, the same standard and custom column view options that are available on the main page, and quick action buttons in each row, including [!UICONTROL Edit], [!UICONTROL View Report], and [[!UICONTROL Auction Insights] for further troubleshooting](/help/dsp/inventory/private-deal-auction-insights.md).
 
-## Open the [!UICONTROL Placement Inspector]
+## Open the [!UICONTROL Placement Inspector] {#inspector-open}
 
 1. Open the placements view for the parent campaign or package:
 
@@ -52,13 +52,21 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 
         1. Click the name of the parent package.
 
-1. Hold the cursor over the placement row, click **[!UICONTROL ...]** > **[!UICONTROL Insights]** > **[!UICONTROL Inspector]**.
+1. Hold the cursor over the placement row, click **[!UICONTROL ...]** > **[!UICONTROL Analyse]** > **[!UICONTROL Inspector]**.
 
 1. (Optional) [Change the column view](campaign-data-views-manage.md#column-view-change) as needed to view the required metrics.
 
 1. (Optional) To export the data on any tab, click ![More](/help/search-social-commerce/assets/more.png "More") in the upper right, and then click **[!UICONTROL Export]**.
 
    The data is saved to your browser's default download folder as a report in XLSM format.
+
+## Remove an Ad from a Placement from the [!UICONTROL Placement Inspector] {#remove-ads-placement-inspector}
+
+1. [Open the [!UICONTROL Placement Inspector]](#inspector-open).
+
+1. Click the **[!UICONTROL Ads]** tab.
+
+1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Detach]**.
 
 ## Troubleshooting Inventory
 
