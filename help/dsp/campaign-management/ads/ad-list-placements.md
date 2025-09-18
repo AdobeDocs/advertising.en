@@ -8,8 +8,6 @@ exl-id: e7c6ce90-b1c9-4ed4-a7db-9e279de15520
 
 View a list of placements associated with an ad to see performance data by placement and edit the placement settings if needed.
 
-See also "[View Ads Attached to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md#view-ads-campaign)." 
-
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Ads]**.
