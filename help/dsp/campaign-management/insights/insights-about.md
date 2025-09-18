@@ -84,7 +84,7 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
 
 * (To open insights for a specific campaign, package, or placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Insights]**.
 
-* (To open insights for a specific placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Analyse]** > **[!UICONTROL Insights]** .
+* (To open insights for a specific placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Analyze]** > **[!UICONTROL Insights]** .
 
 ## Apply Filters to a Tab
 

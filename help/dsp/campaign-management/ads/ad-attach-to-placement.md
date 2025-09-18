@@ -92,7 +92,7 @@ You can attach and remove ads from placements.
 
 1. Click the **[!UICONTROL Placements]** tab.
 
-1. Hold the cursor over the placement row, click **[!UICONTROL ...]** > **[!UICONTROL Analyse]** > **[!UICONTROL Inspector]**.
+1. Hold the cursor over the placement row, click **[!UICONTROL ...]** > **[!UICONTROL Analyze]** > **[!UICONTROL Inspector]**.
 
 1. Click the **[!UICONTROL Ads]** tab.
 

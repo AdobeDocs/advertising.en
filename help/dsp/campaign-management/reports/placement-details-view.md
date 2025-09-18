@@ -52,7 +52,7 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 
         1. Click the name of the parent package.
 
-1. Hold the cursor over the placement row, click **[!UICONTROL ...]** > **[!UICONTROL Analyse]** > **[!UICONTROL Inspector]**.
+1. Hold the cursor over the placement row, click **[!UICONTROL ...]** > **[!UICONTROL Analyze]** > **[!UICONTROL Inspector]**.
 
 1. (Optional) [Change the column view](campaign-data-views-manage.md#column-view-change) as needed to view the required metrics.
 
