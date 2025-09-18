@@ -109,7 +109,7 @@ Tools > Generic Tracking
 Tools > Inventory Selection
 Import Campaigns
 
-Admin > Data Source Setup
+Tools > Admin > Data Source Setup
 -->
 
 ### Collapse the main menu
