@@ -28,7 +28,7 @@ You can either manually edit values or upload a spreadsheet for a single placeme
 
 1. In the submenu, click **[!UICONTROL Placements]**.
 
-1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Bid Multiplier]**.
+1. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Edit]** > **[!UICONTROL Bid Multiplier]**.
 
 1. Adjust the bid multipliers for eligible targets:
 
@@ -50,7 +50,7 @@ You can either manually edit values or upload a spreadsheet for a single placeme
 
         ![Example row in a bid multiplier spreadsheet file](/help/dsp/assets/bid-multiplier-spreadsheet.png "Example row in a bid multiplier spreadsheet file")
 
-     1.  Click **[!UICONTROL Next]** to move to the [!UICONTROL Upload File] section and either a) drag and drop the edited file into the box or b) click inside the box to select the file from your device or network.
+     1. Click **[!UICONTROL Next]** to move to the [!UICONTROL Upload File] section and either a) drag and drop the edited file into the box or b) click inside the box to select the file from your device or network.
 
      1. Verify the uploaded data in the [!UICONTROL Review & Submit] section, and then click **[!UICONTROL Save]**.
 
@@ -80,7 +80,7 @@ Upload a spreadsheet to apply the same values to all selected placements.
 
       ![Example row in a bid multiplier spreadsheet file](/help/dsp/assets/bid-multiplier-spreadsheet.png "Example row in a bid multiplier spreadsheet file")
 
-   1.  Click **[!UICONTROL Next]** to move to the [!UICONTROL Upload File] section and either a) drag and drop the edited file into the box or b) click inside the box to select the file from your device or network.
+   1. Click **[!UICONTROL Next]** to move to the [!UICONTROL Upload File] section and either a) drag and drop the edited file into the box or b) click inside the box to select the file from your device or network.
    
    1. Verify the uploaded data in the [!UICONTROL Review & Submit] section, and then click **[!UICONTROL Save]**.
 
