@@ -96,7 +96,7 @@ You can attach and remove ads from placements.
 
 1. Click the **[!UICONTROL Ads]** tab.
 
-1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Detach]**.
+1. Next to the ad name, click **[!UICONTROL ...]** > **[!UICONTROL Detach]**.
 
 >[!MORELIKETHIS]
 >
