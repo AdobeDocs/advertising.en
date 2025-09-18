@@ -3,7 +3,6 @@ role: User
 user-guide-title: Advertising Creative Guide
 user-guide-description: Learn about the major features, tasks, settings, and other resources required to use Advertising Creative.
 breadcrumb-title: Creative Guide
-hide: yes
 ---
 
 # Advertising Creative 2.0 Guide {#creative}
