@@ -12,13 +12,13 @@ feature: Search Common Tasks
 
 ## (New UI) Edit settings within a row
 
-1. Click inside the cell to make it active, or hold the cursor over the value.
+1. Hold the cursor over the row and select the value. Depending on the column, you may need to click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") or **[!UICONTROL ...]** > ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") next to the value. To rename an entity name, click the name and select **[!UICONTROL Rename]**.
 
 1. Change the value:
 
    * (Options in a list) Select a new option from the list.
   
-   * (Free-form values) Click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit"), change the value, and then click **Apply**.
+   * (Free-form values) Change the value(s), and then click **Apply**.
 
 
 ## (Legacy UI) Edit settings within a row
