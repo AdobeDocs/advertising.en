@@ -78,6 +78,7 @@ index: yes
   + Manage {#manage}
     + Portfolios {#portfolios}
       + [About portfolios](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md)
+      + [Manage portfolio groups](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-group-manage.md)
       + [Create a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md)
       + [Duplicate a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-duplicate.md)
       + [Edit portfolio details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md)
