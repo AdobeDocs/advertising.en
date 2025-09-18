@@ -11,7 +11,7 @@ exl-id: 27dfe063-3b62-41b9-bc09-a069cfd7dc59
 
 You can delete an objective that's not assigned to a portfolio.
 
-1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Objectives]**.
+1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
 
 1. Select the check box next to the objective. In the toolbar above the data table, click ![Delete](/help/search-social-commerce/assets/delete-new.png "Delete") **[!UICONTROL Delete]**.
 
