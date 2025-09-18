@@ -13,7 +13,7 @@ You can manage your ad campaigns collectively using portfolios (similar to inves
 
 Some user roles can create and configure portfolios. Depending on the portfolio type, the portfolio settings may include the portfolio objective, the assigned campaigns, the spending strategy, any portfolio-level bidding constraints, and the modeling and optimization parameters. When you are ready for Search, Social, & Commerce to begin optimization for a portfolio, change the status to "optimized."
 
-You can optionally group portfolios into portfolio groups so you can view composite click and revenue data for the entire group. Create portfolio groups from the [legacy UI](/help/search-social-commerce/getting-started/ui-switch.md).
+You can optionally group portfolios into [portfolio groups](portfolio-group-manage.md) so that you can view composite data for the entire group.
 
 Depending on your role, you may be able to generate performance simulations, which use predictive modeling to identify your optimal spend point and detailed forecast accuracy reports.<!-- Mention this now? In addition, all users can use the Spend Recommendation Tool to identify the optimal budget distribution across portfolios. -->
 
@@ -23,7 +23,7 @@ Campaigns are eligible for optimization based on the campaign or ad group bid st
 
 >[!NOTE]
 >
->"Smart bidding" and "automated bidding" often are used interchangeably, but they’re not the same thing. Smart bidding refers only to [!DNL Google Ads] and [!DNL Microsoft Advertising] automated bidding strategies that use auction-time bidding, which means that the ad network optimizes for conversions or conversion values at the time of each auction.
+>"Smart bidding" and "automated bidding" often are used interchangeably, but they're not the same thing. Smart bidding refers only to [!DNL Google Ads] and [!DNL Microsoft Advertising] automated bidding strategies that use auction-time bidding, which means that the ad network optimizes for conversions or conversion values at the time of each auction.
 
 <!-- Add "Frequency of Bidding (or other actions, like adjusting campaign budget or bid adjustment values?) -->
 
