@@ -32,7 +32,7 @@ In custom reports, you can a) filter data by deal lists and deals and b) include
 
    * For private deals, filter the list by publisher, SSP, or deal type (*[!UICONTROL Guaranteed]* or *[!UICONTROL Non-Guaranteed]*); or search the list by deal name or deal ID.
 
-   * For [!UICONTROL On Demand] deals, filter the list by publisher, region, or media type or search the list by deal name.
+   * For [!UICONTROL On Demand] deals, filter the list by publisher, region, or media type or search the list by deal name. The list includes only the [!DNL On Demand] deals to which you're subscribed.
 
 1. Select the check box next to each deal to include in the list.
 
