@@ -2,6 +2,7 @@
 title: Attach and Remove Pixels from Ads
 description: Learn how to attach and remove third-party tracking pixels from ads.
 feature: DSP Ads
+exl-id: 7b386a58-5300-49cf-9de8-4ce982a5181d
 ---
 # Attach and Remove Pixels from Ads
 
@@ -113,4 +114,3 @@ You can attach and detach third-party tracking pixels from ads.
 >* [List the Placements Associated with an Ad](ad-list-placements.md)
 >* [Edit the Ad Schedules for Placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
 >* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
-

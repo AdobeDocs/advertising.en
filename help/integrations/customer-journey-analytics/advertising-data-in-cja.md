@@ -2,6 +2,7 @@
 title: Adobe Advertising metrics and dimensions in Customer Journey Analytics
 description: Reference the Adobe Advertising metrics and dimensions that are available in Customer Journey Analytics.
 feature: Integration with Adobe Customer Journey Analytics
+exl-id: 97c89e03-ab15-4906-96fc-6bb77ea0cd7c
 ---
 # Adobe Advertising metrics and dimensions in Customer Journey Analytics
 
