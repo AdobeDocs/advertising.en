@@ -16,19 +16,37 @@ Each page includes the main menu and other task- and information-based menus.
 
 ## The main menu
 
-The new user interface features a new main menu on the left, which organizes tasks by work stage (Plan, Manage, Review, Set Up). Additional submenus and options from the legacy user interface will be added later.
+The new user interface features a new main menu on the left, which organizes tasks by work stage. Additional submenus and options from the legacy user interface will be added later.
 
 ### Main menu options
 
 Your role determines the available options:<!-- add link when available -->
 
-* **[!UICONTROL Dashboard]** Opens a configurable [!UICONTROL Dashboard] view with performance visualizations for all of your portfolios.
+* **[!UICONTROL Dashboard]** submenu:
+
+  * **[!UICONTROL Overview]** Opens a configurable [!UICONTROL Dashboard] view with performance visualizations for all of your portfolios.
+
+  * **[!UICONTROL Recommendations]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights] view.
+
+* **[!UICONTROL Alerts & Notifications]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts] view.
+
+* **[!UICONTROL Goals]** submenu:
+
+  * **[!UICONTROL Objectives]** Opens a new [!UICONTROL Objectives] view, from which you can view all of your existing objectives and create, edit, and delete objectives.
+  
+  * **[!UICONTROL Conversions]** Exits the new site and opens the legacy [!UICONTROL Admin] > [!UICONTROL Conversions] view.
+
+  * **[!UICONTROL Conversion Value Rules]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules] view.
+
+  * **[!UICONTROL Constraints]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Constraints] view.
 
 * **[!UICONTROL Plan]** submenu:
-
-  * **[!UICONTROL Objectives]** Opens a new [!UICONTROL Objectives] view, from which you can view all of your existing objectives and create, edit, and delete objectives. The objective settings are the same as the settings in the legacy user interface at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL New Objectives Beta].
   
-  * **[!UICONTROL Simulations]** Opens a new [[!UICONTROL Simulations] view](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md), from which you can view all of your user-created custom simulations and automatically generated weekly simulations; generate new custom simulations; and rerun existing simulations. The [!UICONTROL Spend Planner] button opens the legacy [!UICONTROL Spend Recommendation] tool at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation]. 
+  * **[!UICONTROL Simulations]** Opens a new [[!UICONTROL Simulations] view](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md), from which you can view all of your user-created custom simulations and automatically generated weekly simulations; generate new custom simulations; and rerun existing simulations. The [!UICONTROL Spend Planner] button opens the legacy [!UICONTROL Spend Recommendation] tool at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation].
+
+  * **[!UICONTROL Spend Planner]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] view.
+
+  * **[!UICONTROL Label Classification]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Label Classifications] view.
 
 * **[!UICONTROL Manage]** submenu:
 
@@ -40,27 +58,59 @@ Your role determines the available options:<!-- add link when available -->
   
     To create, edit, and delete campaigns, return to the legacy user interface by clicking **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in the main menu or clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-* **[!UICONTROL Ad Groups]:** Opens a new [!UICONTROL Ad Groups] view, which shows all ad groups for the advertiser. You can manage constraint assignments for selected ad groups. You can also download a report of the data table contents.
+  * **[!UICONTROL Ad Groups]:** Opens a new [!UICONTROL Ad Groups] view, which shows all ad groups for the advertiser. You can manage constraint assignments for selected ad groups. You can also download a report of the data table contents.
   
-  To create, edit, and delete campaigns, return to the legacy user interface by clicking **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in the main menu or clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+    To create, edit, and delete campaigns, return to the legacy user interface by clicking **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in the main menu or clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-* **[!UICONTROL Review]** submenu:
+  * **[!UICONTROL Ads]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+
+* **[!UICONTROL Reports]** submenu:
 
   * **[!UICONTROL Insights]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Insights] view.
 
-  * **[!UICONTROL Reports]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Reports] view.
-
-  * **[!UICONTROL Recommendations]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights] view.
+  * **[!UICONTROL Scheduled Reports]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Reports] view.
 
   * **[!UICONTROL Spreadsheet Feeds]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Spreadsheets] view.
 
   * **[!UICONTROL History Logs]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Change History] view.
 
+* **[!UICONTROL Target]** submenu:
+
+  * **[!UICONTROL Audience]**: Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view.
+
+  * **[!UICONTROL Keywords]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+
+  * **[!UICONTROL Placements]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+
+* **[!UICONTROL Assets]** submenu:
+
+  * **[!UICONTROL Auto Targets]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+
+  * **[!UICONTROL Creatives]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+
+  * **[!UICONTROL Extensions]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+
+  * **[!UICONTROL Shopping]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.<!-- Should this go to Campaigns > Products? -->
+
 * **[!UICONTROL Set Up]** submenu:
 
   * **[!UICONTROL Accounts]**: Exits the new site and open the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
 
-  * **[!UICONTROL Audiences]**: Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view.
+<!-- What's happenening to these?
+
+Campaigns > ACM
+Campaigns > Bulksheets
+Campaigns > Asset Library
+
+Insights > Notification Center (doesn't open from Dashboard > Alerts & Notifications)
+
+Tools > Conversion Upload Setup
+Tools > Generic Tracking
+Tools > Inventory Selection
+Import Campaigns
+
+Tools > Admin > Data Source Setup
+-->
 
 ### Collapse the main menu
 
