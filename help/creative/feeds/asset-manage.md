@@ -14,7 +14,7 @@ You can upload either a\) a ZIP file containing a Microsoft Excel spreadsheet (X
 >[!NOTE]
 >
 >* If you have multiple images, create a single ZIP to upload them. Advertising Creative will automatically unzip the file making each image available.
->* For the best results (!-- why?--), include 20 or fewer images per ZIP file.
+>* For the best results (!-- why -- check w/Product?--), include 20 or fewer images per ZIP file.
 
 -->
 

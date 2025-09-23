@@ -13,13 +13,13 @@ feature: Creative Dynamic Creatives
 
    1. Upload the assets.
 
-      You need to upload both spreadsheet files and image assets to create a feed template, but you can subsequently upload a new spreadsheet file without image assets.<!-- verify this, and what you even do with the image files -- I don't see a mapping of images to a XLSX file. And is it possible to include actual images -- not just paths/links ot images -- in a spreadsheet? -->
+      You need to upload both spreadsheet files and image assets to create a feed template, but you can subsequently upload a new spreadsheet file without image assets.<!-- Usually do the file types (xls and image) separately. Vverify this, and what you even do with the image files -- I don't see a mapping of images to a XLSX file -- any image in the assets is used for the xls referece. And is it possible to include actual images -- not just paths/links ot images -- in a spreadsheet? --><!-- xls can include links to AEM assets -- need to --><!-- jpg, jpeg, png -->
    
    1. Create a feed template to map the fields in your asset file (spreadsheet) to fields in the Advertising Creative backend.<!-- clarify this. And does this mean that we have a finite set of supported fields? If so, then I need to doc them. -->
 
    1. <!-- What is this, and when/how do you use it? And is it specifically for Advertising DSP users?--> Upload mappings of site IDs or placement IDs.
 
-   1. Create a catalog from a specified asset file and a specified feed template, and process the catalog.<!-- Is it processed automatically when you create the catalog, or do you have to manually do it? -->
+   1. Create a catalog from a specified asset file and a specified feed template, and <!-- manually -->process the catalog.
 
       You can track the status of catalog processing jobs<!-- only this type of job? --> on the [!UICONTROL Creative] > [!UICONTROL Feeds] > [!UICONTROL Job Status] tab.
 

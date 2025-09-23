@@ -5,7 +5,7 @@ feature: Creative Dynamic Creatives
 ---
 # Manage feed templates files
 
-<!-- I have a "Retail" feed template that was created by rkarthik@adobe. Are these templates typically created by some admin, not the user  (or maybe they were in the past)?  -->
+<!-- I have a "Retail" feed template that was created by rkarthik@adobe. Adk product :  Are these templates typically created by some admin, not the user  (or maybe they were in the past)?  -->
 
 You can use a feed template with multiple ad templates.
 
@@ -75,7 +75,7 @@ You can use a feed template with multiple ad templates.
 
 ### [!UICONTROL Field Mapping] settings
 
-Map each field in the asset file to a field on the Advertising Creative backend.<!-- What's the purpose of this? What is displayed where in the UI and published ads? --> You must include at least one asset file field that is marked as "[!UICONTROL Is Unique]". To add a field mapping, click **[!UICONTROL +]**. To remove the last field mapping, click **[!UICONTROL +]**.
+Map each field in the asset file to a field on the Advertising Creative backend.<!-- Check w/product: What is displayed where in the UI/reports and published ads? --> You must include at least one asset file field that is marked as "[!UICONTROL Is Unique]". To add a field mapping, click **[!UICONTROL +]**. To remove the last field mapping, click **[!UICONTROL +]**.
 
 **[!UICONTROL Field Name]:** The field in the asset file.
 
