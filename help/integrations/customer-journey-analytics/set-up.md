@@ -1,7 +1,8 @@
 ---
-title: Set up data collection, data transfer, and reporting  
+title: Set up data collection, data transfer, and reporting
 description: Learn how to set up data collection, data transfer, and reporting.
 feature: Integration with Adobe Customer Journey Analytics
+exl-id: a955e2b0-ea1b-4b5c-937b-f8c66603cd36
 ---
 # Set up data collection, data transfer, and reporting
 
