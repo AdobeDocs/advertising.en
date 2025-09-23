@@ -14,7 +14,7 @@ Your libraries can include:
 
   * **Standard creatives:** You can upload and manage creatives in [various formats](#creative-creative-formats). For each creative, you specify the default language for each ad with which you associate the creative and the default landing page that opens when a user clicks an ad that includes the creative. You can optionally specify labels to use as filters within various views within [!DNL Creative] and as column values in the [!UICONTROL Custom Creative Report] when you include using the [!UICONTROL Creative Label] dimension.
 
-  * **Dynamic creatives:** (Existing Adobe Advertising DCO customers only) Administrator users can create dynamically generated creatives by mapping dynamic variables in an ad template to values in a feed file. All users can preview, duplicate, and delete existing dynamic ads.
+  * **Dynamic creatives:** You can create dynamically generated creatives by mapping dynamic variables in an ad template to values in a feed file. All users can preview, duplicate, and delete existing dynamic ads.
 
 * **Creatives bundles:** Group creatives into bundles to use across multiple experiences with defined user targets. You can create *standard display bundles* that consist of standard display ads, *standard video bundles* that consist of standard video ads, and *dynamic display bundles* that consist of dynamically generated display ads. 
 
@@ -88,7 +88,7 @@ See the following video creative requirements. **Note:** If you'll upload video 
 
 ### Format for Dynamic Ads
 
-Administrator users can dynamically generate creatives in static HTML5 and dynamic HTML5 format by mapping dynamic variables in an ad template to values in a feed file. Dynamic creatives may include creatives from your legacy Adobe Advertising Dynamic Creative Optimization (DCO) experiences.
+You can dynamically generate creatives in static HTML5 and dynamic HTML5 format by mapping dynamic variables in an ad template to values in a feed file. Dynamic creatives may include creatives from your legacy Adobe Advertising Dynamic Creative Optimization (DCO) experiences.
 
 ## The [!UICONTROL Creative Libraries] views
 
