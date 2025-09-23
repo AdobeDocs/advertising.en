@@ -3,6 +3,7 @@ title: (New UI) Manage portfolio groups
 description: Learn how to group portfolios.
 feature: Search Portfolios, Search Optimization
 hide: yes
+exl-id: c1c011bd-f0e4-48aa-8376-1eed57e4e018
 ---
 # (New UI) Manage portfolio groups
 

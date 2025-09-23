@@ -28,7 +28,7 @@ exl-id: 2fa1143b-6e83-4729-91cd-7a5da357509e
 
 >[!TIP]
 >
-> Use a name that will be easy to find when you attach the ad to a placement, in the [!UICONTROL Ads] view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 30sec Audio”).
+> Use a name that will be easy to find when you attach the ad to a placement, in the [!UICONTROL Ads] view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 30sec Audio").
 
 **[!UICONTROL Ad Duration]:** The length of the audio file. It's automatically set as either [!UICONTROL 15] or [!UICONTROL 30], depending on the selected ad unit.
 
@@ -42,7 +42,7 @@ This field may or may not be displayed, depending on the account permissions.
 
 ### [!UICONTROL Pixel]
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad. **Tip:** To edit the third-party tracking pixels for multiple ads in a placement at once using the [!UICONTROL Ad Tools] view, see "[Attach Third-Party Tracking Pixels to Ads in a Placement](/help/dsp/campaign-management/ads/ad-attach-to-placement.md#attach-pixels-ads)."
+All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad. **Tip:** To edit the third-party tracking pixels for multiple ads in a placement at once using the [!UICONTROL Ad Tools] view, see "[Attach Third-Party Tracking Pixels to Ads in a Placement](/help/dsp/campaign-management/ads/ad-pixel-attach-detach.md#attach-pixels-ads)."
 
 The following settings apply to each pixel that you create or edit.
 
