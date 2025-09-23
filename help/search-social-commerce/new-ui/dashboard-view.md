@@ -19,6 +19,10 @@ Your [!UICONTROL Dashboard] includes the following visual reports:
 
 * **Spend Distribution:** The spend distribution by ad network.
 
+## View your performance dashboard
+
+* In the main menu, click **[!UICONTROL Dashboard] > [!UICONTROL Overview]**.
+
 ## Customize your performance dashboard
 
 * (Optional) Change the applicable portfolios for all reports:

@@ -64,12 +64,12 @@ index: yes
   + [View your performance dashboard](/help/search-social-commerce/new-ui/dashboard-view.md)
   + Plan {#plan}
     + Objectives {#objectives}
-      + [About objectives](/help/search-social-commerce/new-ui/plan/objectives/objective-about.md)
-      + [Create an objective](/help/search-social-commerce/new-ui/plan/objectives/objective-create.md)
-      + [Edit an objective](/help/search-social-commerce/new-ui/plan/objectives/objective-edit.md)
-      + [Delete an objective](/help/search-social-commerce/new-ui/plan/objectives/objective-delete.md)
-      + [Apply weight recommendations to an objective](/help/search-social-commerce/new-ui/plan/objectives/objective-apply-weight-recommendations.md)
-      + [Objective settings](/help/search-social-commerce/new-ui/plan/objectives/objective-settings.md)
+      + [About objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-about.md)
+      + [Create an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-create.md)
+      + [Edit an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-edit.md)
+      + [Delete an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-delete.md)
+      + [Apply weight recommendations to an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-apply-weight-recommendations.md)
+      + [Objective settings](/help/search-social-commerce/new-ui/goals/objectives/objective-settings.md)
     + Simulations {#simulations}
       + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
       + [Run or rerun a custom simulation](/help/search-social-commerce/new-ui/plan/simulations/simulation-create.md)

@@ -9,7 +9,7 @@ exl-id: b2363781-d767-4a4a-9137-17834088721e
 
 *Beta feature*
 
-1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Objectives]**.
+1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
 
 1. Select the check box next to the objective. In the toolbar above the data table, click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") **[!UICONTROL Edit]**.
 
