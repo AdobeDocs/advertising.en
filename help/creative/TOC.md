@@ -73,6 +73,10 @@ breadcrumb-title: Creative Guide
   + [Delete an experience](/help/creative/experiences/experience-delete.md)
 + Feeds {#feeds}
   + [Manage asset files](/help/creative/feeds/asset-manage.md)
+  + [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
+  + [Manage catalogs](/help/creative/feeds/catalog-manage.md)
+  + [Track the status of catalog processing jobs](/help/creative/feeds/job-status-track.md)
++ [Manage dynamic ad templates](/help/creative/ad-templates/ad-template-manage.md)
 + Performance reports {#reports}
   + [Experience-level performance reports](/help/creative/experiences/experience-performance-details.md)
   + [Custom Creative Report](/help/creative/report-custom-creative.md)
