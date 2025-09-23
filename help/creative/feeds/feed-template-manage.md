@@ -7,6 +7,8 @@ feature: Creative Dynamic Creatives
 
 <!-- I have a "Retail" feed template that was created by rkarthik@adobe. Adk product :  Are these templates typically created by some admin, not the user  (or maybe they were in the past)?  -->
 
+<!-- We have a finite set of supported fields on the backend. I need to include that info in an appendix. -->
+
 You can use a feed template with multiple ad templates.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Feeds]**.

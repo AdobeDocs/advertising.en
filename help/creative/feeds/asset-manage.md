@@ -9,6 +9,11 @@ feature: Creative Dynamic Creatives
 
 You can upload either a\) a ZIP file containing a Microsoft Excel spreadsheet (XLSX) and/or image files in the location that's specified in the spreadsheet<!-- verify --> or b\) just a Microsoft Excel spreadsheet (XLSX).<!-- I don't think you should upload just plain image files without a spreadsheet, should you? I was able to, but I'm not sure that I can do anything with the image file. Although maybe you might want to update just images, or just other fields in the spreadsheet? I need to clarify this. -->
 
+
+
+
+For dynamic HTML5 ads, upload both a spreadsheet file and the image assets referenced in the spreadsheet (except for Adobe Experience Manager asset references) to create a feed template. For static HTML5 ads, upload only a single image asset per ad. You can upload spreadsheet files and image assets separately or together in a ZIP file.<!-- Verify if you can include both file types in one ZIP file, or only one or the other? Vverify this, and what you even do with the image files -- I don't see a mapping of images to a XLSX file -- any image in the assets is used for the xls referece. And is it possible to include actual images -- not just paths/links ot images -- in a spreadsheet? --><!-- xls can include links to AEM assets -- need to --><!-- jpg, jpeg, png -->
+
 <!-- From Michelle's doc:
 
 >[!NOTE]
