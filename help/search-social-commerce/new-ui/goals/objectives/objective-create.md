@@ -13,7 +13,7 @@ exl-id: 21516197-d005-4703-8735-c789107dc3c4
 >
 >You can associate an objective with a portfolio when you [create the portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md) or by later [modifying the portfolio settings](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md). You can use the same objective for multiple portfolios.
 
-1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Objectives]**.
+1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
 
 1. In the upper right, click **[!UICONTROL Create Objective]** or ![Add](/help/search-social-commerce/assets/add-new.png "Add").
 

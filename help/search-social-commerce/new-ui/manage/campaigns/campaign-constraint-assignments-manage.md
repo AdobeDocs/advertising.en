@@ -28,7 +28,7 @@ You can assign a single constraint to one or more campaigns.
 
 1. Select the check box next to each campaign to which you'll assign a single constraint.
 
-1. In the toolbar, click ![More Actions](/help/search-social-commerce/assets/more-actions.png "More Actions") **[!UICONTROL More Actions]** > ![Assign](/help/search-social-commerce/assets/assign.png "Assign") **[!UICONTROL Assign]** > **[!UICONTROL Constraint]**.
+1. In the bulk actions toolbar, click **+ [!UICONTROL Assign]** > **[!UICONTROL Constraint]**.
 
 1. Select the constraint.
 
@@ -60,7 +60,7 @@ You can assign a single constraint to one or more campaigns.
 
 1. Select the check box next to each campaign from which you'll unassign constraints.
 
-1. In the toolbar, click ![More Actions](/help/search-social-commerce/assets/more-actions.png "More Actions") **[!UICONTROL More Actions]** > ![Assign](/help/search-social-commerce/assets/unassign.png "Unassign") **[!UICONTROL Unassign]** > **[!UICONTROL Constraint]**.
+1. In the bulk actions toolbar, click **- [!UICONTROL Unassign]** > **[!UICONTROL Constraint]**.
 
 1. Click **[!UICONTROL Confirm]**.
 

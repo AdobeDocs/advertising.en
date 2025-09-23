@@ -13,7 +13,7 @@ A portfolio bulksheet is a file that contains portfolio settings in a specific f
 
 * A read-only [!UICONTROL Instructions] worksheet with information about editing the fields.
 
-* A [!UICONTROL Portfolio Settings Edit] tab, with one row per included portfolio. You can optionally edit the fields as needed, save the file locally, and subsequently [upload the edited file](#portfolio-bulksheet-upload) to Search, Social, & Commerce.
+* A [!UICONTROL Portfolio Settings Edit] tab, with one row per included portfolio. You can optionally edit the fields as needed, save the file locally, and subsequently [upload the edited file](#portfolio-bulksheet-upload) to Search, Social, & Commerce. The editable fields are highlighted in color.
 
 ## Download a bulksheet file with portfolio settings
 

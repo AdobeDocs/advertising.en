@@ -20,7 +20,7 @@ Not all campaign types and ad networks are eligible for optimization; see a list
 
 1. Select the check box next to each campaign to assign to a single portfolio.
 
-1. In the toolbar, click ![More Actions](/help/search-social-commerce/assets/more-actions.png "More Actions") **[!UICONTROL More Actions]** > ![Assign](/help/search-social-commerce/assets/assign.png "Assign") **[!UICONTROL Assign]** > **[!UICONTROL Existing Portfolio]** .
+1. In the bulk actions toolbar, click **+ [!UICONTROL Assign]** > **[!UICONTROL Existing Portfolio]** .
 
 1. Select the portfolio.
 
@@ -32,7 +32,7 @@ Not all campaign types and ad networks are eligible for optimization; see a list
 
 1. Select the check box next to each campaign for which you want to create the new portfolio.
 
-1. In the toolbar, click ![More Actions](/help/search-social-commerce/assets/more-actions.png "More Actions") **[!UICONTROL More Actions]** > ![Assign](/help/search-social-commerce/assets/assign.png "Assign") **[!UICONTROL Assign]** > **[!UICONTROL New Portfolio]**.
+1. In the bulk actions toolbar, click **+ [!UICONTROL Assign]** > **[!UICONTROL New Portfolio]**.
 
 1. In the [!UICONTROL Create Portfolio] screen, specify the portfolio settings.
 

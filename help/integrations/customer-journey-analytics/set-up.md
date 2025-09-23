@@ -82,31 +82,13 @@ The following tasks are required to set up data collection in Experience Platfor
      
        * In the [!UICONTROL Datastreams] settings, select the datastream to use for each of your web environments (production, staging, development).
        
-       * (Organizations with Adobe Advertising DSP only) In the [!UICONTROL Adobe Advertising] settings:
-
-         * Enable the **[!UICONTROL Adobe Advertising DSP]** setting to enable view-through tracking.
-         
-         * Specify the advertisers for which to enable view-through tracking.
-         
-         * (Optional) Enter your organization's ID5 partner ID to collect IDs.
-         
-         * (Optional) Enter the path for your organization's [!DNL LiveRamp RampID] JavaScript code (ats.js) to collect IDs.
+       * (Organizations with Adobe Advertising DSP only) In the [[!UICONTROL Adobe Advertising] settings](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/web-sdk-extension-configuration#general), enable **[!UICONTROL Adobe Advertising DSP]** to permit view-through tracking and specify the advertisers for which to enable view-through tracking. You can optionally collect IDs from universal IDs.
          
        * Save the build.
         
    * (Optional) [Create rules](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/rules) as needed to determine when Web SDK should send data to the Edge Network.
    
-     * For `[sendEvent](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/action-types#send-event)` actions, use the [!UICONTROL Advertising] setting to define how advertising data is used for attribution measurement. This setting is helpful when the rule includes a sequence of multiple actions and is available only when you've selected the "[!UICONTROL Advertising]" component for the custom build component. Options include:
-     
-       *Automatic:* Allows advertising data to be used for measuring ad attribution on the current `sendEvent` action based on data in the cache. In this case, the ad exposure event fires when it gets the chance, and it may not be available for the current event. For example, if you fire a purchase checkout event and no ad exposure data is available in the cache, then the checkout event isn’t attributed to the ad exposure.
-       
-       *Wait:* Delays the execution of the call until the advertising data is successfully retrieved from the server and resolved, which ensures accurate attribution measurement. For example, you might want to wait for the ad exposure event to resolve before you fire a purchase checkout event. **Note:** Resolving IDs may take a few seconds depending on the browser and ID type. Use this option if the current `sendEvent` action can accommodate a few seconds of delay.
-       
-       *Disabled:* (The default) Excludes advertising data from the request that you're firing, making it unavailable for attribution or related tracking.
-       
-       *Provide a data element:* Use a data element to include or exclude advertising data during page load. Resolved values for the data element can include `automatic`, `wait`, and `disabled`. See the next step.
-       
-     If you don't use a rule to configure a `sendEvent` action, then advertising data is sent as a separate Advertisement enrichment event. 
+     * For `[sendEvent](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/action-types#send-event)` actions, use the [[!UICONTROL Advertising] setting](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/action-types#advertising) to define how advertising data is used for attribution measurement. This setting is helpful when the rule includes a sequence of multiple actions and is available only when you've selected the "[!UICONTROL Advertising]" component for the custom build component.
    
    * Create [data elements](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/data-elements) as needed to map variables on your website to the structure of the XDM schema you created previously.
 
