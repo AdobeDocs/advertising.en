@@ -28,7 +28,7 @@ Your role determines the available options:<!-- add link when available -->
 
   * **[!UICONTROL Recommendations]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights] view.
 
-* **[!UICONTROL Alerts & Notifications]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts] view.
+  * **[!UICONTROL Alerts & Notifications]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts] view.
 
 * **[!UICONTROL Goals]** submenu:
 
