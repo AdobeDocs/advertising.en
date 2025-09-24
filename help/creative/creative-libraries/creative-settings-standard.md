@@ -1,10 +1,10 @@
 ---
-title: Creative settings
-description: Learn about xxxx.
+title: Standard creative settings
+description: Reference the settings for standard creatives.
 feature: Creative Standard Creatives
 exl-id: 8eb66310-4860-4ca0-9678-a9e33639c529
 ---
-# Creative settings
+# Standard creative settings
 
 The settings vary by creative type.
 

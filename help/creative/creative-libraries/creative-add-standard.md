@@ -6,7 +6,7 @@ exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
 ---
 # Add standard creatives to a creative library
 
-Add creatives to your [creative libraries](creative-library-manage.md) to use with [ad experiences](/help/creative/experiences/experience-about.md). 
+Add standard creatives to your [creative libraries](creative-library-manage.md) to use with standard [ad experiences](/help/creative/experiences/experience-about.md). 
 
 >[!NOTE]
 >
@@ -28,9 +28,7 @@ You can upload multiple flexible creative units. Flexible creatives must be in Z
 
 1. Click the library name.
 
-1. On the **[!UICONTROL Creatives]** tab, click the **[!UICONTROL Standard Ads]** subtab.
-
-1. Click **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Flexible]**.
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Flexible]**.
 
 1. Click **[!UICONTROL Upload New]**.
 
@@ -68,22 +66,9 @@ For information about the attributes available in predefined templates, see "[Av
 
 1. Click the library name.
 
-1. On the **[!UICONTROL Creatives]** tab, click the **[!UICONTROL Standard Ads]** subtab.
-
-1. Click **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Flexible]**.
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Flexible]**.
 
 1. Click **[!UICONTROL Browse System Flexible Templates]**.
-
-<!-- Not options as of 5/22/25:
-
-1. In the left panel, select the creative size to see all available templates for that size.
-
-1. Select the template:
-
-   * In card view, click **[!UICONTROL ...]** next to the template name, and then click **[!UICONTROL Use Selected]**.
-     
-   * In table view, hold the cursor over the row and click **[!UICONTROL Use Selected]**.
--->
 
 1. (Optional) To preview the template, click **[!UICONTROL ...]** next to the template name, and then click **[!UICONTROL Preview]**.
 
@@ -96,6 +81,17 @@ For information about the attributes available in predefined templates, see "[Av
    The maximum file size of the creative, once it's zipped, is 2 MB.<!-- Still true? -->
 
 1. Click **[!UICONTROL Create]**.
+
+<!-- Not options as of 5/22/25:
+
+1. In the left panel, select the creative size to see all available templates for that size.
+
+1. Select the template:
+
+   * In card view, click **[!UICONTROL ...]** next to the template name, and then click **[!UICONTROL Use Selected]**.
+     
+   * In table view, hold the cursor over the row and click **[!UICONTROL Use Selected]**.
+-->
 
 ## Add an HTML5 creative to a creative library
 
@@ -113,9 +109,7 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
 1. Click the library name.
 
-1. On the **[!UICONTROL Creatives]** tab, click the **[!UICONTROL Standard Ads]** subtab.
-
-1. Click **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL HTML5]**.
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL HTML5]**.
 
 <!-- Not an option as of 3/4:
 
@@ -149,9 +143,7 @@ Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size i
 
 1. Click the library name.
 
-1. On the **[!UICONTROL Creatives]** tab, click the **[!UICONTROL Standard Ads]** subtab.
-
-1. Click **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Image]**.
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Image]**.
 
 1. Specify the images:
 
@@ -191,9 +183,7 @@ Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size i
 
 1. Click the library name.
 
-1. On the **[!UICONTROL Creatives]** tab, click the **[!UICONTROL Standard Ads]** subtab.
-
-1. Click **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL 3rd Party]**.
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL 3rd Party]**.
 
 1. Specify the JavaScript tag and other settings for the creative in the [third-party creative settings](#creative-settings-third-party).
 
@@ -209,9 +199,7 @@ See the [video creative specifications](/help/creative/creative-libraries/creati
 
 1. Click the library name.
 
-1. On the **[!UICONTROL Creatives]** tab, click the **[!UICONTROL Standard Ads]** subtab.
-
-1. Click **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Video]**.
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Video]**.
 
 1. Specify the video files in either of the following ways:
 

@@ -11,6 +11,7 @@ breadcrumb-title: Creative Guide
 + Introduction {#introduction}
   + [About Adobe Advertising Creative](/help/creative/introduction/creative-about.md)
   + [Customize your data views](/help/creative/introduction/customize-data-views.md)
+  + [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
   + [Support for Consumer Privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
   + [Policies and Guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + Creative libraries {#creative-libraries}
@@ -24,6 +25,10 @@ breadcrumb-title: Creative Guide
       + [Edit standard creatives](/help/creative/creative-libraries/creative-edit-standard.md)
       + [Standard creative settings](/help/creative/creative-libraries/creative-settings-standard.md)
       + [HTML5 creative specification](/help/creative/creative-libraries/html5-creative-specification.md)
+    + Dynamic creatives {#dynamic-creatives}
+      + [Add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md)
+      + [Edit dynamic creatives](/help/creative/creative-libraries/creative-edit-dynamic.md)
+      + [Dynamic creative settings](/help/creative/creative-libraries/creative-settings-dynamic.md)
     + [Preview a creative](/help/creative/creative-libraries/creative-preview.md)
     + [Attach creatives to bundles](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
     + [Duplicate creatives](/help/creative/creative-libraries/creative-duplicate.md)
@@ -66,6 +71,12 @@ breadcrumb-title: Creative Guide
   + [Download data from the [!UICONTROL Experiences] view](/help/creative/experiences/experience-download-view.md)
   + [Rename an ad tag](/help/creative/experiences/experience-tag-rename.md)
   + [Delete an experience](/help/creative/experiences/experience-delete.md)
++ Feeds {#feeds}
+  + [Manage asset files](/help/creative/feeds/asset-manage.md)
+  + [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
+  + [Manage catalogs](/help/creative/feeds/catalog-manage.md)
+  + [Track the status of catalog processing jobs](/help/creative/feeds/job-status-track.md)
++ [Manage dynamic ad templates](/help/creative/ad-templates/ad-template-manage.md)
 + Performance reports {#reports}
   + [Experience-level performance reports](/help/creative/experiences/experience-performance-details.md)
   + [Custom Creative Report](/help/creative/report-custom-creative.md)
