@@ -29,7 +29,7 @@ feature: Creative Dynamic Creatives
 
 1. [Create dynamic ad bundles](/help/creative/creative-libraries/bundle-manage.md) that you can attach all at once to an ad experience.
 
-1. Create dynamic ad experiences with [with targeting](/help/creative/experiences/experience-create-targeting.md) or [without targeting](/help/creative/experiences/experience-create-no-targeting.md) and [assign them bundles to your dynamic ad experiences](/help/creative/experiences/experience-assign-creative-bundles.md).
+1. Create dynamic ad experiences [with targeting](/help/creative/experiences/experience-create-targeting.md) or [without targeting](/help/creative/experiences/experience-create-no-targeting.md) and [assign the creative bundles to the experiences](/help/creative/experiences/experience-assign-creative-bundles.md).
 
 1. [Generate and implement ad experience tags](/help/creative/experiences/experience-tag-export.md) to run them as ads in your DSP.
 

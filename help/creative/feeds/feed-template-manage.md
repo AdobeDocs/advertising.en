@@ -55,7 +55,7 @@ You can use a feed template with multiple ad templates.
 
 1. Hold the cursor over the template row and click **[!UICONTROL Duplicate]**.
 
-1. In the [!UICONTROL Duplicate Template] screen and enter a unique **[!UICONTROL Template Name]**. If you're duplicating a template created by someone else, select the **[!UICONTROL Advertiser]**. Optionally edit other [feed template settings](#feed-template-settings) as needed.
+1. In the [!UICONTROL Duplicate Template] screen, enter a unique **[!UICONTROL Template Name]**. If you're duplicating a template created by someone else, select the **[!UICONTROL Advertiser]**. Optionally edit other [feed template settings](#feed-template-settings) as needed.
 
 1. Click **[!UICONTROL Save]**.
 
@@ -83,13 +83,13 @@ Downloaded feed templates are in zipped Microsoft Excel spreadsheet (XLSX) forma
 
 ### [!UICONTROL Field Mapping] settings
 
-Map each field in the feed file to a field on the Advertising Creative backend.<!-- Check w/product: What is displayed where in the UI/reports and published ads? --> You must include at least one feed file field that is marked as "[!UICONTROL Is Unique]". To add a field mapping, click **[!UICONTROL +]**. To remove the last field mapping, click **[!UICONTROL +]**.
+Map each field in the feed file to a field on the Advertising Creative backend.<!-- Check w/product: What is displayed where in the UI/reports and published ads? --> At least one feed file field must be marked as "[!UICONTROL Is Unique]." To add a field mapping, click **[!UICONTROL +]**. To remove the last field mapping, click **[!UICONTROL +]**.
 
 **[!UICONTROL Field Name]:** The field in the feed file.
 
 **[!UICONTROL Description]:** (Optional) Information that's helpful for anyone using the feed template.
 
-**[!UICONTROL Is Unique]:** Indicates the field is a unique ID (key). At least one field per feed template must be unique. To select this option, click the button to move it to the right.<!-- **Note: The unique identifier is different from the feed "trigger" in experience settings. -->
+**[!UICONTROL Is Unique]:** Indicates that the field is a unique ID (key). At least one field per feed template must be unique. To select this option, click the button to move it to the right.<!-- **Note: The unique identifier is different from the feed "trigger" in experience settings. -->
 
 **[!UICONTROL Backend Field]:** The field on the Advertising Creative backend that maps to the specified [!UICONTROL Field Name] in the feed file.
 

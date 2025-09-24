@@ -11,7 +11,6 @@ Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX)
 >
 > You can use each feed file for only one catalog.
 
-
 ## File requirements
 
 * Dynamic HTML5 ads:

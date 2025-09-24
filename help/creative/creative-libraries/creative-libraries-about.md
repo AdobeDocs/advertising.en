@@ -12,7 +12,7 @@ Your libraries can include:
 
 * **Individual creatives:** You can include individual creatives directly within ad experiences that don't have defined user targets. You can also use your creatives to create bundles, which you can include in targeted [ad experiences](/help/creative/experiences/experience-about.md).
 
-  * **Standard creatives:** You can upload and manage creatives in [various formats](#creative-creative-formats). For each creative, you specify the default language for each ad with which you associate the creative and the default landing page that opens when a user clicks an ad that includes the creative. You can optionally specify labels to use as filters within various views within [!DNL Creative] and as column values in the [!UICONTROL Custom Creative Report] when you include using the [!UICONTROL Creative Label] dimension.
+  * **Standard creatives:** You can upload and manage creatives in [various formats](#creative-creative-formats). For each creative, specify the default language for each ad with which you associate the creative and the default landing page that opens when a user clicks an ad that includes the creative. You can optionally specify labels to use as filters within various views within [!DNL Creative] and as column values in the [!UICONTROL Custom Creative Report] when you include using the [!UICONTROL Creative Label] dimension.
 
   * **Dynamic creatives:** You can create dynamically generated creatives by mapping dynamic variables in an ad template to values in a feed file. All users can preview, duplicate, and delete existing dynamic ads.
 
@@ -56,7 +56,7 @@ Enter JavaScript tracking tags for creatives hosted on third-party ad servers. T
 
 #### Video creatives {#creative-video-specs}
 
-You can upload first-party video creatives for web, mobile, or connected TV from your device or network. Each standard video ad experience requires a default video creative for each creative duration assigned to the experience. All video creatives are transcoded automatically by DSP as VAST 2.0 tags so you can preview them. In [!UICONTROL Tag Manager], you can optionally [apply DSP-specific transcoding](/help/creative/experiences/experience-tag-video-transcoding.md) to any video ad experience tag.
+You can upload first-party video creatives for web, mobile, or connected TV from your device or network. Each standard video ad experience requires a default video creative for each creative duration assigned to the experience. DSP automatically transcodes all video creatives as VAST 2.0 tags so you can preview them. In [!UICONTROL Tag Manager], you can optionally [apply DSP-specific transcoding](/help/creative/experiences/experience-tag-video-transcoding.md) to any video ad experience tag.
 
 See the following video creative requirements. **Note:** If you'll upload video experiences to Advertising DSP, then see also DSP's [Requirements for High-Definition Video Assets](https://experienceleague.adobe.com/en/docs/advertising/dsp/campaign-management/ads/ad-specs#requirements-for-high-definition-video-assets), which may be more limited.
 

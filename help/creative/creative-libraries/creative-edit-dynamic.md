@@ -23,7 +23,7 @@ feature: Creative Dynamic Creatives
 
      1. Select the bundles, and then click **[!UICONTROL Attach Creative to Bundles]**.
 
-   * To just save the ads, click **[!UICONTROL Save]**, and then click **[!UICONTROL Save]** again.
+   * To save the ads and exit the setup, click **[!UICONTROL Save]**, and then click **[!UICONTROL Save]** again.
 
 >[!MORELIKETHIS]
 >

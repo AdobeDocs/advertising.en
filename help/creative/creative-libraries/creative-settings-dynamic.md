@@ -59,7 +59,7 @@ feature: Creative Dynamic Creatives
 
 ### [!UICONTROL Attributes Mapping]
 
-**[!UICONTROL Enable targeting]**: The types of columns in the feed file for which values must be present to create ads: *[!UICONTROL Profile data]*, *[!UICONTROL Geographic data], *[!UICONTROL Data pass], *[!UICONTROL Audience Segment]*.  **Note:** These settings works independently from the advanced settings in ad experience settings.<!-- Clarify what qualifies for each, and explain more -->
+**[!UICONTROL Enable targeting]**: The types of columns in the feed file for which values must be present to create ads: *[!UICONTROL Profile data]*, *[!UICONTROL Geographic data], *[!UICONTROL Data pass], *[!UICONTROL Audience Segment]*.  **Note:** These settings work independently from the advanced settings in ad experience settings.<!-- Clarify what qualifies for each, and explain more -->
 
 **[!UICONTROL Dynamic Ad Fields]** / **[!UICONTROL Maps to Catalog Labels]:**
 
