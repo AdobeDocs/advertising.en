@@ -30,3 +30,8 @@ By clicking on "View Failure" on the right, you can see further details about th
 1. (Optional) To download a record of the job details, click **[!UICONTROL Download MUP]**. <!-- What does this mean? -->
 
    The file is downloaded according to your browser's normal procedure.
+
+>[!MORELIKETHIS]
+>
+>* [Manage catalogs](/help/creative/feeds/catalog-manage.md)
+>* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)

@@ -89,6 +89,15 @@ Archive a catalog to delete it.
 
 **[!UICONTROL Asset]:** The feed file to use as input for the catalog.
 
-**[!UICONTROL Catalog Name]:** A unique catalog name for the specified advertiser. By default, the feed file name is used, but you can enter a custom name.
+**[!UICONTROL Catalog Name]:** A unique catalog name for the specified advertiser. By default, the feed file name is used, including the file extension, which is the best practice for identification.<!-- must it have a file extension? -->
 
 **[!UICONTROL Template]:** The feed template to use for mapping fields in the specified asset/feed file to fields on the Advertising Creative backend.
+
+>[!MORELIKETHIS]
+>
+>* [Track the status of catalog processing jobs](/help/creative/feeds/job-status-track.md)
+>* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [Manage asset files](/help/creative/feeds/asset-manage.md)
+>* [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
+>* [Manage dynamic ad templates](/help/creative/ad-templates/ad-template-manage.md)
+>* [Add dynamic creatives to a creative library](creative-add-dynamic.md)

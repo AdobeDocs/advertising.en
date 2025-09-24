@@ -5,7 +5,7 @@ feature: Creative Templates
 ---
 # Manage dynamic ad templates
 
-Create a separate ad template for each combination of ad type (static HTML5 or dynamic HTML5) and ad size. For dynamic HTML5 ads, you also specify the ad attributes.
+Create a separate ad template for each combination of ad type (static HTML5 or dynamic HTML5) and ad size by uploading a zipped HTML5 file with the desired ad format. For dynamic HTML5 ads, you also upload a file containing the ad attributes<!-- more clarification? -->.
 
 <!-- add this where/how?: You can use the same feed template for multiple ad templates. -->
 
@@ -73,13 +73,17 @@ Create a separate ad template for each combination of ad type (static HTML5 or d
 
 **[!UICONTROL Description]**: (Optional) Information that's helpful to anyone using the ad template.
 
-### (Static HTML5 templates) Click Tags
+<!-- I don't see this on 9/24:
 
-**\[Click Tag Parameter\]**: The click tag parameters to allow click-tracking redirects from ads created using the ad template. To add a parameter, click **[!UICONTROL + Add More]** and enter an additional parameter. You can include up to five parameters.<!-- Is this a variable name, and the feed file includes landing page URL for specific variables? -->
+### (Static HTML5 ad templates) Click Tags
+
+**\[Click Tag Parameter\]**: The click tag parameters to allow click-tracking redirects from ads created using the ad template. To add a parameter, click **[!UICONTROL + Add More]** and enter an additional parameter. You can include up to five parameters.
+
+-->
 
 ### HTML5 zip
 
-<!-- EXPLAIN: The file that contains the XXXXXXXXXXXXXXXXXXXXXX. -->If you already uploaded a file, the filename is listed.
+A zipped HTML5 file with the desired ad format. If you already uploaded a file, the filename is listed.
 
 See the [HTML5 creative specification](/help/creative/creative-libraries/html5-creative-specification.md).
 
@@ -89,9 +93,9 @@ To upload a file:
 
 1. Locate the file on your device or network.
 
-### (Dynamic ad templates) Attributes file
+### (Dynamic HTML5 ad templates) Attributes file
 
-<!-- EXPLAIN: The file that contains the XXXXXXXXXXXXXXXXXXXXXX. -->If you already uploaded a file, the filename is listed.
+<!-- EXPLAIN -->A file that contains attributes for the ad template. If you already uploaded a file, the filename is listed.
 
 <!-- Add specs for this file type -->
 
@@ -100,3 +104,12 @@ To upload a file:
 1. Click **[!UICONTROL Upload Attributes File]**.
 
 1. Locate the file on your device or network.
+
+>[!MORELIKETHIS]
+>
+>* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [Manage asset files](/help/creative/feeds/asset-manage.md)
+>* [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
+>* [Manage catalogs](/help/creative/feeds/catalog-manage.md)
+>* [Add dynamic creatives to a creative library](creative-add-dynamic.md)
+

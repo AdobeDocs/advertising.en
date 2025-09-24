@@ -5,7 +5,7 @@ feature: Creative Dynamic Creatives
 ---
 # Workflow for dynamic ads
 
-1. [Create an ad template](/help/creative/ad-templates/ad-template-manage.md) for your dynamic ads based on the assets available.
+1. [Create an ad template](/help/creative/ad-templates/ad-template-manage.md) for your dynamic ads based on the assets available
 
 1. Set up your ad elements:
 
@@ -27,12 +27,10 @@ feature: Creative Dynamic Creatives
 
 1. [Create dynamic creatives](/help/creative/creative-libraries/creative-add-dynamic.md) for a creative library. For dynamic HTML5 ads, use a specified ad template and specified catalogs.
 
-1. Create dynamic ad experiences with [with targeting](/help/creative/experiences/experience-create-targeting.md) or [without targeting](/help/creative/experiences/experience-create-no-targeting.md).
+1. [Create dynamic ad bundles](/help/creative/creative-libraries/bundle-manage.md) that you can attach all at once to an ad experience.
 
-1. [Create dynamic ad bundles](/help/creative/creative-libraries/bundle-manage.md) and [assign them to your dynamic ad experiences](/help/creative/experiences/experience-assign-creative-bundles.md). <!-- order may be off -->
+1. Create dynamic ad experiences with [with targeting](/help/creative/experiences/experience-create-targeting.md) or [without targeting](/help/creative/experiences/experience-create-no-targeting.md) and [assign them bundles to your dynamic ad experiences](/help/creative/experiences/experience-assign-creative-bundles.md).
 
-1. [Generate and implement ad experience tags](/help/creative/experiences/experience-tag-export.md).
+1. [Generate and implement ad experience tags](/help/creative/experiences/experience-tag-export.md) to run them as ads in your DSP.
 
    To use an ad experience as an ad in Adobe Advertising DSP, upload the ad experience tag to an Advertising DSP campaign. To use an ad experience as an ad in a different DSP, implement the ad experience tag in that DSP.
-
-<!-- What is this, and when/how do you use it? And is it specifically for Advertising DSP users? 1. Upload mappings of site IDs or placement IDs. -->

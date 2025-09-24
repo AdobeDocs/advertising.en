@@ -11,7 +11,7 @@ feature: Creative Dynamic Creatives
 
 Feed templates map fields in your feed files with fields on the Advertising Creative backend. Dynamic HTML5 ads, but not static HTML5 ads, require a feed template to create dynamic ads.
 
-You can use a feed template with multiple ad templates. <!-- Verify if still true, and why:  However, you can use a feed template for only one catalog. -->
+You can use a feed template with multiple ad templates.
 
 ## Create a feed template
 
@@ -92,3 +92,12 @@ Map each field in the feed file to a field on the Advertising Creative backend.<
 **[!UICONTROL Is Unique]:** Indicates the field is a unique ID (key). At least one field per feed template must be unique. To select this option, click the button to move it to the right.<!-- **Note: The unique identifier is different from the feed "trigger" in experience settings. -->
 
 **[!UICONTROL Backend Field]:** The field on the Advertising Creative backend that maps to the specified [!UICONTROL Field Name] in the feed file.
+
+>[!MORELIKETHIS]
+>
+>* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [Manage asset files](/help/creative/feeds/asset-manage.md)
+>* [Manage catalogs](/help/creative/feeds/catalog-manage.md)
+>* [Track the status of catalog processing jobs](/help/creative/feeds/job-status-track.md)
+>* [Manage dynamic ad templates](/help/creative/ad-templates/ad-template-manage.md)
+>* [Add dynamic creatives to a creative library](creative-add-dynamic.md)

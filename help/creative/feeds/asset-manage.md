@@ -7,6 +7,11 @@ feature: Creative Dynamic Creatives
 
 Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX) format and the image assets referenced in the spreadsheet (except for Adobe Experience Manager asset references). Static HTML5 ads require only a single image asset per ad.
 
+>[!NOTE]
+>
+> You can use each feed file for only one catalog.
+
+
 ## File requirements
 
 * Dynamic HTML5 ads:
@@ -64,3 +69,11 @@ All ZIP files are decompressed automatically. When you upload a spreadsheet file
 1. Click the **[!UICONTROL Assets]** tab.
 
 1. Hold the cursor over the asset row and click **[!UICONTROL Delete]**.
+
+>[!MORELIKETHIS]
+>
+>* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
+>* [Manage catalogs](/help/creative/feeds/catalog-manage.md)
+>* [Manage dynamic ad templates](/help/creative/ad-templates/ad-template-manage.md)
+>* [Add dynamic creatives to a creative library](creative-add-dynamic.md)

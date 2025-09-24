@@ -1,29 +1,10 @@
 ---
-title: Edit dynamic creatives in a creative library
-description: Learn how to edit dynamic creatives in a creative library.
+title: Edit a dynamic creative in a creative library
+description: Learn how to edit a dynamic creative in a creative library.
 feature: Creative Dynamic Creatives
 ---
-# Edit dynamic creatives in a creative library
+# Edit a dynamic creative in a creative library
 
-# Edit dynamic creatives that use a static HTML5 ad template
-
-1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
-
-1. Click the library name.
-
-1. Hold the cursor over the creative row and click **[!UICONTROL Edit]**.
-
-1. Edit the [dynamic ad settings](/help/creative/creative-libraries/creative-settings-dynamic.md#dynamic-ad-settings-static-html5):
-
-   1. On the [!UICONTROL Basic Details] tab, specify the ad details and the clickURL.
-
-   1. Click **[!UICONTROL Process]**.
-
-   1. On the [!UICONTROL Attributes Details] tab, specify the dynamic ad attributes.
-
-1. Click **[!UICONTROL Save]**.
-
-# Edit dynamic creatives that use a dynamic HTML5 ad template
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
@@ -31,12 +12,22 @@ feature: Creative Dynamic Creatives
 
 1. Hold the cursor over the creative row and click **[!UICONTROL Edit]**.
 
-1. Edit the [dynamic ad settings](/help/creative/creative-libraries/creative-settings-dynamic.md#dynamic-ad-settings-dynamic-html5):
+1. Edit the [dynamic ad settings](/help/creative/creative-libraries/creative-settings-dynamic.md).
 
-   1. On the [!UICONTROL Basic Details] tab, specify the ad details and the clickURL.
+1. Save the creatives:
 
-   1. Click **[!UICONTROL Process]**.
+   * To save the ads and add them to a [creative bundle](/help/creative/creative-libraries/bundle-manage.md) in the library:
+   
+     1. Click **[!UICONTROL Save and Attach to Bundle]**.
 
-   1. On the [!UICONTROL Attributes Details] tab, specify the dynamic ad attributes.
+     1. Click **[!UICONTROL Save]** to save the ads.
 
-1. Click **[!UICONTROL Save]**.
+     1. Select the bundles, and then click **[!UICONTROL Attach Creative to Bundles]**.
+
+   * To just save the ads, click **[!UICONTROL Save]**, and then click **[!UICONTROL Save]** again.
+
+>[!MORELIKETHIS]
+>
+>* [Dynamic creative settings](creative-settings-dynamic.md)
+>* [Add dynamic creatives to a creative library](creative-add-dynamic.md)
+>* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
