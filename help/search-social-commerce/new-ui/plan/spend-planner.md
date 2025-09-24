@@ -24,13 +24,13 @@ Spend recommendation reports include the following data:
 
 * A bar chart for each of the portfolios, showing the recommended daily spend (cost) and predicted revenue distribution or click distribution when you maintain the current total daily spend target across all selected portfolios, or for a proposed total spend target. You can optionally apply the recommended spend targets to the selected portfolios, which affects bidding in the next bid execution cycle.
 
-## (New UI) Generate a [!UICONTROL Spend Planner] report from the [!UICONTROL Manage] > [!UICONTROL Simulations] view
+## (New UI) Generate a [!UICONTROL Spend Planner] report
 
-<!-- The path will probably change, so then update the heading and instructions -->
+1. Do either of the following:
 
-1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
+   * In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Spend Planner]**.
 
-1. In the toolbar above the data table, click ![Spend Planner](/help/search-social-commerce/assets/spend-planner-icon.png "Spend Planner").
+   * In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**. In the toolbar above the data table, click ![Spend Planner](/help/search-social-commerce/assets/spend-planner-icon.png "Spend Planner").
 
    The [!UICONTROL Spend Recommendation] tool opens in the legacy user interface.
 
@@ -103,4 +103,4 @@ You can export report data from any section of the [!UICONTROL Spend Recommendat
 
 1. Above the report, click ![Download](/help/search-social-commerce/assets/download-spend-recommendation.png "Download").
 
-   Open or save the file according to your browser's normal procedure.  For more information, see your browser’s online help.
+   Open or save the file according to your browser's normal procedure.  For more information, see your browser's online help.
