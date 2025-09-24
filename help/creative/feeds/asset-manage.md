@@ -76,4 +76,4 @@ All ZIP files are decompressed automatically. When you upload a spreadsheet file
 >* [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
 >* [Manage catalogs](/help/creative/feeds/catalog-manage.md)
 >* [Manage dynamic ad templates](/help/creative/ad-templates/ad-template-manage.md)
->* [Add dynamic creatives to a creative library](creative-add-dynamic.md)
+>* [Add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md)

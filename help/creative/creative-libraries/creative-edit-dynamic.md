@@ -11,11 +11,11 @@ feature: Creative Dynamic Creatives
 
 1. Hold the cursor over the creative row and click **[!UICONTROL Edit]**.
 
-1. Edit the [dynamic ad settings](/help/creative/creative-libraries/creative-settings-dynamic.md).
+1. Edit the [dynamic ad settings](creative-settings-dynamic.md).
 
 1. Save the creatives:
 
-   * To save the ads and add them to a [creative bundle](/help/creative/creative-libraries/bundle-manage.md) in the library:
+   * To save the ads and add them to a [creative bundle](bundle-manage.md) in the library:
    
      1. Click **[!UICONTROL Save and Attach to Bundle]**.
 

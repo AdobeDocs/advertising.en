@@ -100,4 +100,4 @@ Archive a catalog to delete it.
 >* [Manage asset files](/help/creative/feeds/asset-manage.md)
 >* [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
 >* [Manage dynamic ad templates](/help/creative/ad-templates/ad-template-manage.md)
->* [Add dynamic creatives to a creative library](creative-add-dynamic.md)
+>* [Add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md)
