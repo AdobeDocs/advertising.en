@@ -19,10 +19,6 @@ feature: Creative Dynamic Creatives
 
 1. Hold the cursor over the asset row and click **[!UICONTROL Details]**.
 
-<!-- What is this?
-
-1. (Optional) To download XXXXX, click **[!UICONTROL Download MUP]**.
+1. (Optional) To download a record of the job details, click **[!UICONTROL Download MUP]**. <!-- What does this mean? -->
 
    The file is downloaded according to your browser's normal procedure.
-
--->

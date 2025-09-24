@@ -1,15 +1,19 @@
 ---
 title: Manage feed templates
-description: Learn how to manage feed templates to XXXX
+description: Learn how to manage feed templates.
 feature: Creative Dynamic Creatives
 ---
-# Manage feed templates files
+# Manage feed templates
 
-<!-- I have a "Retail" feed template that was created by rkarthik@adobe. Adk product :  Are these templates typically created by some admin, not the user  (or maybe they were in the past)?  -->
+<!-- I have a "Retail" feed template that was created by rkarthik@adobe. Ask product if this is available to all clients or just internal.  -->
 
 <!-- We have a finite set of supported fields on the backend. I need to include that info in an appendix. -->
 
+Feed templates map fields in your feed files with fields on the Advertising Creative backend. Dynamic HTML5 ads, but not static HTML5 ads, require a feed template to create dynamic ads.
+
 You can use a feed template with multiple ad templates.
+
+## Create a feed template
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Feeds]**.
 
@@ -23,7 +27,7 @@ You can use a feed template with multiple ad templates.
 
 ## Edit a feed template
 
-**Note:** You can edit only feed templates that you created.<!-- verify -->
+**Note:** You can edit only feed templates that you created.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Feeds]**.
 
@@ -51,11 +55,13 @@ You can use a feed template with multiple ad templates.
 
 1. Hold the cursor over the template row and click **[!UICONTROL Duplicate]**.
 
-1. In the [!UICONTROL Duplicate Template] screen, enter a unique **[!UICONTROL Template Name]** and (if you're duplicating a template created by someone else<!-- verify -->) select the **[!UICONTROL Advertiser]**. Optionally edit other settings as needed.
+1. In the [!UICONTROL Duplicate Template] screen and enter a unique **[!UICONTROL Template Name]**. If you're duplicating a template created by someone else, select the **[!UICONTROL Advertiser]**. Optionally edit other [feed template settings](#feed-template-settings) as needed.
 
 1. Click **[!UICONTROL Save]**.
 
 ## Download a feed template
+
+Downloaded feed templates are in zipped Microsoft Excel spreadsheet (XLSX) format.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Feeds]**.
 
@@ -77,12 +83,12 @@ You can use a feed template with multiple ad templates.
 
 ### [!UICONTROL Field Mapping] settings
 
-Map each field in the asset file to a field on the Advertising Creative backend.<!-- Check w/product: What is displayed where in the UI/reports and published ads? --> You must include at least one asset file field that is marked as "[!UICONTROL Is Unique]". To add a field mapping, click **[!UICONTROL +]**. To remove the last field mapping, click **[!UICONTROL +]**.
+Map each field in the feed file to a field on the Advertising Creative backend.<!-- Check w/product: What is displayed where in the UI/reports and published ads? --> You must include at least one feed file field that is marked as "[!UICONTROL Is Unique]". To add a field mapping, click **[!UICONTROL +]**. To remove the last field mapping, click **[!UICONTROL +]**.
 
-**[!UICONTROL Field Name]:** The field in the asset file.
+**[!UICONTROL Field Name]:** The field in the feed file.
 
 **[!UICONTROL Description]:** (Optional) Information that's helpful for anyone using the feed template.
 
 **[!UICONTROL Is Unique]:** Indicates the field is a unique ID (key). At least one field per feed template must be unique. To select this option, click the button to move it to the right.<!-- **Note: The unique identifier is different from the feed "trigger" in experience settings. -->
 
-**[!UICONTROL Backend Field]:** The field on the Advertising Creative backend that maps to the specified [!UICONTROL Field Name] in the asset file.
+**[!UICONTROL Backend Field]:** The field on the Advertising Creative backend that maps to the specified [!UICONTROL Field Name] in the feed file.

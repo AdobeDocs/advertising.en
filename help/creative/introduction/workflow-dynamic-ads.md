@@ -17,9 +17,9 @@ feature: Creative Dynamic Creatives
 
      1. [Upload the feed file and image assets](/help/creative/feeds/asset-manage.md).
    
-     1. [Create a feed template](/help/creative/feeds/feed-template-manage.md) to map the fields in your asset file (spreadsheet) to fields in the Advertising Creative backend.
+     1. [Create a feed template](/help/creative/feeds/feed-template-manage.md) to map the fields in your feed file (spreadsheet) to fields in the Advertising Creative backend.
 
-     1. [Create a catalog](/help/creative/feeds/catalog-manage.md#feed-catalog-create) from a specified asset file and a specified feed template, and then [process the catalog](/help/creative/feeds/catalog-manage.md#feed-catalog-process).
+     1. [Create a catalog](/help/creative/feeds/catalog-manage.md#feed-catalog-create) from a specified feed file and a specified feed template, and then [process the catalog](/help/creative/feeds/catalog-manage.md#feed-catalog-process).
 
         You can [track the status of catalog processing jobs](/help/creative/feeds/job-status-track.md) on the [!UICONTROL Creative] > [!UICONTROL Feeds] > [!UICONTROL Job Status] tab.
 

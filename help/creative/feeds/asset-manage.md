@@ -5,35 +5,27 @@ feature: Creative Dynamic Creatives
 ---
 # Manage asset files
 
+Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX) format and the image assets referenced in the spreadsheet (except for Adobe Experience Manager asset references). Static HTML5 ads require only a single image asset per ad.
+
+## File requirements
+
+* Dynamic HTML5 ads:
+
+  * A feed file in Microsoft Excel spreadsheet (XLSX) format, with one header row and one data row for each ad variation. Include an image name or a reference to an Adobe Experience Manager in each row.<!-- need spec of available column names that the user-created header names must map to; need to reference it in feed template topic too, so make it a separate file/appendix. -->
+
+    For images you'll upload, reference the image using the format `images/image_name` (such as `images/300x250_acme_logo.png`.)<!-- Verify.  Also need to include the spec for how to reference images in AEM -->
+
+  * The associated image assets in JPEG, JPG, or PNG format.<!-- NOT GIF still? And is this true: The maximum file size is two (2) MB. --> See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
+
+  You can upload a single XLSX file, a single image file, or a single ZIP file containing any combination of XLSX and image files.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
+
+* Static HTML5 ads:
+
+  * One image asset per ad in JPG, JPEG, or PNG format.
+
+    You can upload either a single image or multiple images in a ZIP file.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
+
 ## Upload an asset file
-
-You can upload either a\) a ZIP file containing a Microsoft Excel spreadsheet (XLSX) and/or image files in the location that's specified in the spreadsheet<!-- verify --> or b\) just a Microsoft Excel spreadsheet (XLSX).<!-- I don't think you should upload just plain image files without a spreadsheet, should you? I was able to, but I'm not sure that I can do anything with the image file. Although maybe you might want to update just images, or just other fields in the spreadsheet? I need to clarify this. -->
-
-
-
-
-For dynamic HTML5 ads, upload both a spreadsheet file and the image assets referenced in the spreadsheet (except for Adobe Experience Manager asset references) to create a feed template. For static HTML5 ads, upload only a single image asset per ad. You can upload spreadsheet files and image assets separately or together in a ZIP file.<!-- Verify if you can include both file types in one ZIP file, or only one or the other? Vverify this, and what you even do with the image files -- I don't see a mapping of images to a XLSX file -- any image in the assets is used for the xls referece. And is it possible to include actual images -- not just paths/links ot images -- in a spreadsheet? --><!-- xls can include links to AEM assets -- need to --><!-- jpg, jpeg, png -->
-
-<!-- From Michelle's doc:
-
->[!NOTE]
->
->* If you have multiple images, create a single ZIP to upload them. Advertising Creative will automatically unzip the file making each image available.
->* For the best results (!-- why -- check w/Product?--), include 20 or fewer images per ZIP file.
-
--->
-
-<!-- VERIFY:  You need both a spreadsheet and image files to create a feed template (OR is it to create a catalog OR dynamic ads?) -->
-
-<!-- 
-
-What specific image file types are allowed? And what other requirements? 
-
-What do you do with uploaded image files? Are they connected with a spreadsheet only if they're uploaded with the spreadsheet?
-
-Should I give an example of a spreadsheet?  Or should we have a downloadable example in the UI?
-
--->
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Feeds]**.
 
@@ -53,7 +45,7 @@ Should I give an example of a spreadsheet?  Or should we have a downloadable exa
 
    1. Click **[!UICONTROL Upload]**.
 
-When you upload a spreadsheet file<!-- ?? -->, the file is listed on the [!UICONTROL Feeds] subtab. When you upload an image file, the image file is listed on the [!UICONTROL Images] subtab.
+All ZIP files are decompressed automatically. When you upload a spreadsheet file, the file is listed on the [!UICONTROL Feeds] subtab. When you upload an image file, the image file is listed on the [!UICONTROL Images] subtab.
 
 ## Download an asset file
 

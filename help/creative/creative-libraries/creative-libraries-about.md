@@ -88,7 +88,7 @@ See the following video creative requirements. **Note:** If you'll upload video 
 
 ### Format for Dynamic Ads
 
-You can dynamically generate creatives in static HTML5 and dynamic HTML5 format by mapping dynamic variables in an ad template to values in a feed file. Dynamic creatives may include creatives from your legacy Adobe Advertising Dynamic Creative Optimization (DCO) experiences.
+You can dynamically generate creatives in static HTML5 and dynamic HTML5 format by mapping dynamic variables in an ad template to values in a feed file. Dynamic creatives may include creatives that were migrated from your legacy Adobe Advertising Dynamic Creative Optimization (DCO) experiences.
 
 ## The [!UICONTROL Creative Libraries] views
 
@@ -138,17 +138,19 @@ The [!UICONTROL Standard Ads] tab shows all standard creatives that you've creat
 
 #### [!UICONTROL Dynamic Ads]
 
-The [!UICONTROL Dynamic Ads] tab shows all dynamic creatives that were created dynamically for your creative catalogs, except for any dynamic creatives that you [manually deleted](creative-delete.md) from the [!UICONTROL Dynamic Ads] tab. If you [manually duplicated](creative-duplicate.md) any dynamic creatives since a catalog was last processed, then the list of creatives for that catalog also includes the duplicate creatives.
+The [!UICONTROL Dynamic Ads] tab shows all dynamic creatives that were created dynamically for your creative catalogs, except for any dynamic creatives that you [manually deleted](creative-delete.md) from the [!UICONTROL Dynamic Ads] tab. If you [manually duplicated](creative-duplicate.md) any dynamic creatives<!-- I don't think existing ads are deletd via feeds, so this probably isn't true: since a catalog was last processed -->, then the list of creatives for that catalog also includes the duplicate creatives.
 
-Data for each creative includes the creative type, the creative size, the number of catalogs to which the creative belongs, and the creation date. The table mode also includes columns for the template through which the creative was generated and the offer count.
+Data for each creative includes the creative type, the creative size, the number of catalogs to which the creative belongs, and the creation date. The table mode also includes columns for the ad template through which the creative was generated and the offer count.
 
 >[!NOTE]
 >
->Each time a catalog is processed, data is refreshed for the existing dynamic creatives for that catalog.
+>Each time a catalog is processed, data is refreshed for the existing dynamic creatives for that catalog.<!-- Verify this!!! And is there anything more to say w/regard to  -->
 
 ##### Available actions
 
-The ability to create and edit dynamic creatives is currently available only the Adobe Account Team. However, all users can:
+* [Add dynamic creatives to a library](creative-add-dynamic.md)
+
+* [Edit a dynamic creative](creative-edit-dynamic.md)
 
 * [Preview dynamic creatives](creative-preview.md)
 
