@@ -6,7 +6,7 @@ The EF ID is a unique token that Adobe Advertising uses to associate activity wi
 
 For [!DNL Analytics], the EF ID is stored in [an [!DNL Analytics] [!DNL eVar]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or [!DNL rVar] (reserved [!DNL eVar]) dimension (Adobe Advertising EF ID).
 
-For Customer Journey Analytics, the EF ID is stored in the `trackingIdentities` property of the `conversionDetails` object, which is part of the [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension].
+For Customer Journey Analytics, the EF ID is stored in the `trackingIdentities` property of the `conversionDetails` object, which is part of [the [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension]](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
 
 ### EF ID formats {#ef-id-formats}
 

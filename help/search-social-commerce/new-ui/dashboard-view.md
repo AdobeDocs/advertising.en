@@ -9,7 +9,7 @@ exl-id: ef79f52b-cc97-4f36-8a44-50ffd3377c8b
 
 *Beta feature*
 
-The customizable [!UICONTROL Dashboard] allows you to monitor the performance of all of your portfolios <!-- May later include other entity-level data --> so you can identify potential performance issues to investigate and resolve. You can view daily, weekly, or monthly data for any time period in the last 90 days.
+The customizable [!UICONTROL Dashboard] > [!UICONTROL Overview] allows you to monitor the performance of all of your portfolios <!-- May later include other entity-level data --> so you can identify potential performance issues to investigate and resolve. You can view daily, weekly, or monthly data for any time period in the last 90 days.
 
 Your [!UICONTROL Dashboard] includes the following visual reports:
 

@@ -6,7 +6,7 @@ The AMO ID tracks each unique ad combination at a less granular level and is use
 
 For [!DNL Analytics], the AMO ID is stored in an [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or rVar dimension (AMO ID).
 
-For Customer Journey Analytics, the AMO ID is stored in the `trackingCode` property of the `conversionDetails` object, which is part of the [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension].
+For Customer Journey Analytics, the AMO ID is stored in the `trackingCode` property of the `conversionDetails` object, which is part of [the [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension]](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
 
 The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL squid]."
 
@@ -108,7 +108,7 @@ where:
 
 >[!NOTE]
 >
-> For accounts with campaigns without the [!UICONTROL Auto Upload] tracking option that weren’t already migrated to the new format, manually update each landing page suffix to include the above format.
+> For accounts with campaigns without the [!UICONTROL Auto Upload] tracking option that weren't already migrated to the new format, manually update each landing page suffix to include the above format.
 >In the meantime, the legacy formats, as follows, still work: 
 >* Search campaigns:
 >  `s_kwcid=AL!{userid}!10!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
