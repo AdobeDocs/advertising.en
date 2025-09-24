@@ -11,7 +11,7 @@ feature: Creative Dynamic Creatives
 
 Feed templates map fields in your feed files with fields on the Advertising Creative backend. Dynamic HTML5 ads, but not static HTML5 ads, require a feed template to create dynamic ads.
 
-You can use a feed template with multiple ad templates.
+You can use a feed template with multiple ad templates. <!-- Verify if still true, and why:  However, you can use a feed template for only one catalog. -->
 
 ## Create a feed template
 
