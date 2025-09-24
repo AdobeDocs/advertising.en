@@ -47,15 +47,15 @@ feature: Creative Dynamic Creatives
 
 ## Ad Template
 
-**[!UICONTROL Ad Template]:** The ad template from which to create the ads.<!-- also an option to upload your own ad template -- need to add the specs for that -->
+**[!UICONTROL Ad Template]:** The ad template from which to create the ads.<!-- also an option to upload your own ad template. Need to add the specs for that -->
 
-**[!UICONTROL Number of offers (Max 50)]:** The number of offers that can be created for each ad.<!-- Clarify this -- is this the frequency cap (max number of times an ad may be served)? -->
+**[!UICONTROL Number of offers (Max 50)]:** The number of offers that can be created for each ad.<!-- Clarify this: is this the frequency cap (max number of times an ad may be served)? -->
 
 ## Catalogs
 
-**[!UICONTROL Template]:** The feed template to use to create the ads.<!-- also an option to upload your own feed template -- need to add the specs for that -->
+**[!UICONTROL Template]:** The feed template to use to create the ads.<!-- also an option to upload your own feed template.  Need to add the specs for that -->
 
-**\[Catalogs\]**: One or more of the specified advertiser's catalogs from which to generate ads.<!-- also an option to upload your own catalog (Can't find the Catalog you need? Download a template, create your own, and upload it from your device.) -- need to add the specs for that -->
+**\[Catalogs\]**: One or more of the specified advertiser's catalogs from which to generate ads.<!-- also an option to upload your own catalog (Can't find the Catalog you need? Download a template, create your own, and upload it from your device.). Nneed to add the specs for that -->
 
 ### [!UICONTROL Attributes Mapping]
 
