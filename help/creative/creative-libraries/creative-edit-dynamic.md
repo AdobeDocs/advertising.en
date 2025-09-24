@@ -5,7 +5,6 @@ feature: Creative Dynamic Creatives
 ---
 # Edit a dynamic creative in a creative library
 
-
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
 1. Click the library name.

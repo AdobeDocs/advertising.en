@@ -13,7 +13,7 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 
 <!-- This does't work for me 9/24 -- I still have to select a catalog:
 
-# Add dynamic creatives using a static HTML5 ad template
+## Add dynamic creatives using a static HTML5 ad template
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
@@ -33,7 +33,7 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 
 -->
 
-# Add dynamic creatives using a dynamic HTML5 ad template
+## Add dynamic creatives using a dynamic HTML5 ad template
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
