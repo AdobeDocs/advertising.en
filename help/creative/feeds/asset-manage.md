@@ -19,13 +19,13 @@ Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX)
 
     For images you'll upload, reference the image using the format `images/image_name` (such as `images/300x250_acme_logo.png`.)<!-- Verify.  Also need to include the spec for how to reference images in AEM -->
 
-  * The associated image assets in JPEG, JPG, or PNG format.<!-- NOT GIF still? And is this true: The maximum file size is two (2) MB. --> See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
+  * The associated image assets in GIF, JPEG, JPG, or PNG format.<!-- NOT GIF still? And is this true: The maximum file size is two (2) MB. --> See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
 
   You can upload a single XLSX file, a single image file, or a single ZIP file containing any combination of XLSX and image files.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 
 * Static HTML5 ads:
 
-  * One image asset per ad in JPG, JPEG, or PNG format.
+  * One image asset per ad in GIF, JPG, JPEG, or PNG format.
 
     You can upload either a single image or multiple images in a ZIP file.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 

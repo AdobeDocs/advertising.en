@@ -5,6 +5,8 @@ feature: Creative Dynamic Creatives
 ---
 # Workflows for dynamic ads
 
+*Users with permissions to create dynamic ads*
+
 You can set up dynamic ads in either of two ways:
 
 * Workflow 1: Upload an ad template and ad variation catalog directly within the dynamic ad settings when you add dynamic ads to a creative library. You can download an existing feed template to create the catalog.
@@ -16,6 +18,11 @@ You can set up dynamic ads in either of two ways:
   Use this workflow when different people will complete different tasks or when you want to complete only one task at a time.
 
 ## Workflow 1
+
+>[!PREREQUISITES]
+>
+>* Ad templates in HTML5 format
+>* Product catalogs in CSV, TSV, or Microsoft Excel spreadsheet (XLSX) format
 
 1. [Create dynamic creatives](/help/creative/creative-libraries/creative-add-dynamic.md) for a creative library. For dynamic HTML5 ads, upload an ad template and catalogs.
 
