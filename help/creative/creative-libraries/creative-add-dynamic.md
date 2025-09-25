@@ -61,7 +61,7 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 
    1. Select the criteria for which catalog rows to use to create ads.
    
-   1. Map each attribute (dynamic ad field) in the specified ad template to a column in the specified feed file (catalog label).
+   1. Map each attribute (dynamic ad field) in the specified ad template to a column in the specified feed file (catalog label), or enter static values.
 
    1. Click **[!UICONTROL Continue]** to preview the creatives to generate. You can do any of the following within the preview:
 
@@ -69,13 +69,13 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
       
       * To search for a product by its unique ID in the search field below the preview area.
       
-      * To change the columns that are displayed, click ![Column Filter](/help/creative/assets/custom-columns. "Column Filter") below the preview area.
+      * To change the columns that are displayed, click ![Column Filter](/help/creative/assets/custom-columns.png "Column Filter") below the preview area.
 
       * To preview a specific creative, select the check box for the row.
 
       * Change the content:
       
-        * To eedit the value of a cell within the table, click inside the cell and edit the value. Click outside of the cell or press the **[!DNL Enter]** key to save your changes.
+        * To edit the value of a cell within the table, click inside the cell and edit the value. Click outside of the cell or press the **[!DNL Enter]** key to save your changes.
 
         * To mark a single product as the default<!--Explain what this means. -->, hold the curser over the row and click **[!UICONTROL ...]** > **[!UICONTROL Set as Default]**.
         

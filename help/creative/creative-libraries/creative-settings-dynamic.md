@@ -71,7 +71,7 @@ Uploaded catalogs must be in ZIP format and contain the following:
 
 **[!UICONTROL Dynamic Ad Fields]** / **[!UICONTROL Maps to Catalog Labels]:**
 
-Map each attribute (dynamic ad field) in the specified ad template to a column in the specified catalog (catalog label).
+Map each attribute (dynamic ad field) in the specified ad template to a column in the specified catalog (catalog label) or enter a static value.
 
 >[!MORELIKETHIS]
 >
