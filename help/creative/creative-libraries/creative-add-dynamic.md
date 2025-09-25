@@ -63,9 +63,19 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
    
    1. Map each attribute (dynamic ad field) in the specified ad template to a column in the specified feed file (catalog label).
 
-   1. Click **[!UICONTROL Continue]** to preview the creatives to generate.
+   1. Click **[!UICONTROL Continue]** to preview the creatives to generate. You can do any of the following within the preview:
 
-      To preview a specific creative, select the check box for the row. Filter the creatives by catalog, filter value<!-- explain more-->, and ad size as needed.
+      * To preview a specific creative, select the check box for the row.
+
+      * To edit the value of a cell within the table, click inside the cell and edit the value. Click outside of the cell or press the **[!DNL Enter]** key to save your changes.
+
+      * To delete a row, hold the curser over the row and click **[!UICONTROL ...]** > **[!UICONTROL Delete Row]**.
+
+      * To filter the creatives by catalog, filter value<!-- explain more-->, and ad size, use the filters above the preview area.
+      
+      * To search for a product by its unique ID in the search field below the preview area.
+      
+      * To change the columns that are displayed, click ![Column Filter](/help/creative/assets/custom-columns. "Column Filter") below the preview area.
 
 1. Save the creatives:
 
