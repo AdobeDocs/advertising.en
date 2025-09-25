@@ -65,17 +65,25 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 
    1. Click **[!UICONTROL Continue]** to preview the creatives to generate. You can do any of the following within the preview:
 
-      * To preview a specific creative, select the check box for the row.
-
-      * To edit the value of a cell within the table, click inside the cell and edit the value. Click outside of the cell or press the **[!DNL Enter]** key to save your changes.
-
-      * To delete a row, hold the curser over the row and click **[!UICONTROL ...]** > **[!UICONTROL Delete Row]**.
-
       * To filter the creatives by catalog, filter value<!-- explain more-->, and ad size, use the filters above the preview area.
       
       * To search for a product by its unique ID in the search field below the preview area.
       
       * To change the columns that are displayed, click ![Column Filter](/help/creative/assets/custom-columns. "Column Filter") below the preview area.
+
+      * To preview a specific creative, select the check box for the row.
+
+      * Change the content:
+      
+        * To eedit the value of a cell within the table, click inside the cell and edit the value. Click outside of the cell or press the **[!DNL Enter]** key to save your changes.
+
+        * To mark a single product as the default<!--Explain what this means. -->, hold the curser over the row and click **[!UICONTROL ...]** > **[!UICONTROL Set as Default]**.
+        
+        * (When the ad includes more than one offer) To mark multiple products as the default, select the rows (up to the number of offers) and click **[!UICONTROL Set as Default]** in the bulk actions toolbar.
+
+      * To delete a product from the catalog, hold the curser over the row and click **[!UICONTROL ...]** > **[!UICONTROL Delete Row]**.
+      
+      * (When the ad includes more than one offer) To delete multiple products from the catalog, select the rows (up to the number of offers) and click **[!UICONTROL Delete Row]** in the bulk actions toolbar.
 
 1. Save the creatives:
 
