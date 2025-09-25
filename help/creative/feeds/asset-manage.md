@@ -15,13 +15,15 @@ Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX)
 
 * Dynamic HTML5 ads:
 
-  * A feed file in Microsoft Excel spreadsheet (XLSX) format, with one header row and one data row for each ad variation. Include an image name or a reference to an Adobe Experience Manager in each row.<!-- need spec of available column names that the user-created header names must map to; need to reference it in feed template topic too, so make it a separate file/appendix. -->
+  * A feed file in CSV, TSV, or Microsoft Excel spreadsheet (XLSX) format, with one header row and one data row for each ad variation. Include an image name or a reference to an Adobe Experience Manager in each row.<!-- need spec of available column names that the user-created header names must map to; need to reference it in feed template topic too, so make it a separate file/appendix. -->
 
     For images you'll upload, reference the image using the format `images/image_name` (such as `images/300x250_acme_logo.png`.)<!-- Verify.  Also need to include the spec for how to reference images in AEM -->
 
   * The associated image assets in GIF, JPEG, JPG, or PNG format.<!-- NOT GIF still? And is this true: The maximum file size is two (2) MB. --> See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
+  
+  * (Optional) Video assets in MP4 or WEBM format
 
-  You can upload a single XLSX file, a single image file, or a single ZIP file containing any combination of XLSX and image files.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
+  You can upload a single XLSX file, a single image or video file, or a single ZIP file containing any combination of XLSX, image, and video files.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 
 * Static HTML5 ads:
 
