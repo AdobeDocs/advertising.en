@@ -34,4 +34,4 @@ By clicking on "View Failure" on the right, you can see further details about th
 >[!MORELIKETHIS]
 >
 >* [Manage catalogs](/help/creative/feeds/catalog-manage.md)
->* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)

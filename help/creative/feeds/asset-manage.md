@@ -31,6 +31,10 @@ Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX)
 
 ## Upload an asset file
 
+>[!NOTE]
+>
+>Instead of uploading asset files, you can also directly upload a catalog when you [add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md). Any catalogs you create there become available within the [!UICONTROL Catalogs] view for future use.
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Feeds]**.
 
 1. Click the **[!UICONTROL Assets]** tab.
@@ -71,7 +75,7 @@ All ZIP files are decompressed automatically. When you upload a spreadsheet file
 
 >[!MORELIKETHIS]
 >
->* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
 >* [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
 >* [Manage catalogs](/help/creative/feeds/catalog-manage.md)
 >* [Manage dynamic ad templates](/help/creative/ad-templates/ad-template-manage.md)

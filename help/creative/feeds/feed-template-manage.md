@@ -9,7 +9,7 @@ feature: Creative Dynamic Creatives
 
 <!-- We have a finite set of supported fields on the backend. I need to include that info in an appendix. -->
 
-Feed templates map fields in your feed files with fields on the Advertising Creative backend. Dynamic HTML5 ads, but not static HTML5 ads, require a feed template to create dynamic ads.
+Feed templates map fields in your feed files/catalogs with fields on the Advertising Creative backend. Dynamic HTML5 ads, but not static HTML5 ads, require a feed template to create dynamic ads.
 
 You can use a feed template with multiple ad templates.
 
@@ -95,7 +95,7 @@ Map each field in the feed file to a field on the Advertising Creative backend.<
 
 >[!MORELIKETHIS]
 >
->* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
 >* [Manage asset files](/help/creative/feeds/asset-manage.md)
 >* [Manage catalogs](/help/creative/feeds/catalog-manage.md)
 >* [Track the status of catalog processing jobs](/help/creative/feeds/job-status-track.md)

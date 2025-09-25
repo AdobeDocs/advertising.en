@@ -47,15 +47,15 @@ feature: Creative Dynamic Creatives
 
 ## Ad Template
 
-**[!UICONTROL Ad Template]:** The ad template from which to create the ads.<!-- also an option to upload your own ad template. Need to add the specs for that -->
+**[!UICONTROL Ad Template]:** The ad template from which to create the ads. Select an existing ad template or upload a new ad template.<!-- Need to add the specs for that -->
 
 **[!UICONTROL Number of offers (Max 50)]:** The number of offers that can be created for each ad.<!-- Clarify this: is this the frequency cap (max number of times an ad may be served)? -->
 
 ## Catalogs
 
-**[!UICONTROL Template]:** The feed template to use to create the ads.<!-- also an option to upload your own feed template.  Need to add the specs for that -->
+**[!UICONTROL Template]:** The feed template to use to create the ads.
 
-**\[Catalogs\]**: One or more of the specified advertiser's catalogs from which to generate ads.<!-- also an option to upload your own catalog (Can't find the Catalog you need? Download a template, create your own, and upload it from your device.). Nneed to add the specs for that -->
+**\[Catalogs\]**: One or more catalogs from which to generate ads. Select an existing catalog, or create a new catalog by downloading an existing feed template and creating and uploading the new catalog.<!-- Need to add the specs for that -->
 
 ### [!UICONTROL Attributes Mapping]
 
@@ -69,4 +69,4 @@ Map each attribute (dynamic ad field) in the specified ad template to a column i
 >
 >* [Add dynamic creatives to a creative library](creative-add-dynamic.md)
 >* [Edit dynamic creatives in a creative library](creative-edit-dynamic.md)
->* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)

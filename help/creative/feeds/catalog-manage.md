@@ -11,6 +11,10 @@ Before you can use the ad variations to [add dynamic ads to a creative library](
 
 ## Create a catalog {#feed-catalog-create}
 
+>[!NOTE]
+>
+>You can also directly upload a catalog when you [add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md). Any catalogs you create there become available within the [!UICONTROL Catalogs] view for future use.
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Feeds]**.
 
 1. Click the **[!UICONTROL Catalog]** tab.
@@ -96,7 +100,7 @@ Archive a catalog to delete it.
 >[!MORELIKETHIS]
 >
 >* [Track the status of catalog processing jobs](/help/creative/feeds/job-status-track.md)
->* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
 >* [Manage asset files](/help/creative/feeds/asset-manage.md)
 >* [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
 >* [Manage dynamic ad templates](/help/creative/ad-templates/ad-template-manage.md)

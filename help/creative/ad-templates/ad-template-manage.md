@@ -13,6 +13,10 @@ Create a separate ad template for each combination of ad type (static HTML5 or d
 
 ## Create a dynamic ad template
 
+>[!NOTE]
+>
+>You can also upload a dynamic ad template when you [add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md). Any ad templates you create there become available within the [!UICONTROL Ad Templates] view for future use.
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Ad Templates]**.
 
 1. In the upper right, click **[!UICONTROL Create Ad Template]**
@@ -50,6 +54,10 @@ Create a separate ad template for each combination of ad type (static HTML5 or d
 1. In the confirmation message, click **[!UICONTROL Delete]**.<!-- Confirm -->
 
 ## Create dynamic ads from an ad template
+
+>[!NOTE]
+>
+>You can also [add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md) from within a creative library.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Ad Templates]**.
 
@@ -107,7 +115,7 @@ To upload a file:
 
 >[!MORELIKETHIS]
 >
->* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
 >* [Manage asset files](/help/creative/feeds/asset-manage.md)
 >* [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
 >* [Manage catalogs](/help/creative/feeds/catalog-manage.md)

@@ -1,11 +1,27 @@
 ---
-title: Workflow for dynamic ads
-description: Learn about the workflow for managing dynamic ads.
+title: Workflows for dynamic ads
+description: Learn about the workflows for managing dynamic ads.
 feature: Creative Dynamic Creatives
 ---
-# Workflow for dynamic ads
+# Workflows for dynamic ads
 
-1. [Create an ad template](/help/creative/ad-templates/ad-template-manage.md) for your dynamic ads based on the assets available
+You can set up dynamic ads in either of two ways:
+
+* Workflow 1: Upload an ad template and ad variation catalog directly within the dynamic ad settings when you add dynamic ads to a creative library. You can download an existing feed template to create the catalog.
+
+  Use this workflow when the same person can provide all of the information (except for the feed template) to create the ads. The uploaded files remain available for future use.
+
+* Workflow 2: Set up an ad template and ad variation catalogs within separate views, and then separately add dynamic ads to a creative using the already-available ad template and catalogs.
+
+  Use this workflow when different people will complete different tasks or when you want to complete only one task at a time.
+
+## Workflow 1
+
+See "[Add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md)."
+
+## Workflow 2
+
+1. [Create an ad template](/help/creative/ad-templates/ad-template-manage.md) for your dynamic ads based on the assets available.
 
 1. Set up your ad elements:
 
@@ -27,10 +43,12 @@ feature: Creative Dynamic Creatives
 
 1. [Create dynamic creatives](/help/creative/creative-libraries/creative-add-dynamic.md) for a creative library. For dynamic HTML5 ads, use a specified ad template and specified catalogs.
 
-1. [Create dynamic ad bundles](/help/creative/creative-libraries/bundle-manage.md) that you can attach all at once to an ad experience.
+1. Use the dynamic creatives for ad experiences:
 
-1. Create dynamic ad experiences [with targeting](/help/creative/experiences/experience-create-targeting.md) or [without targeting](/help/creative/experiences/experience-create-no-targeting.md) and [assign the creative bundles to the experiences](/help/creative/experiences/experience-assign-creative-bundles.md).
+   1. [Create dynamic ad bundles](/help/creative/creative-libraries/bundle-manage.md) that you can attach all at once to an ad experience.
+   
+   1. Create dynamic ad experiences [with targeting](/help/creative/experiences/experience-create-targeting.md) or [without targeting](/help/creative/experiences/experience-create-no-targeting.md) and [assign the creative bundles to the experiences](/help/creative/experiences/experience-assign-creative-bundles.md).
+   
+   1. [Generate and implement ad experience tags](/help/creative/experiences/experience-tag-export.md) to run them as ads in your DSP.
 
-1. [Generate and implement ad experience tags](/help/creative/experiences/experience-tag-export.md) to run them as ads in your DSP.
-
-   To use an ad experience as an ad in Adobe Advertising DSP, upload the ad experience tag to an Advertising DSP campaign. To use an ad experience as an ad in a different DSP, implement the ad experience tag in that DSP.
+      To use an ad experience as an ad in Adobe Advertising DSP, upload the ad experience tag to an Advertising DSP campaign. To use an ad experience as an ad in a different DSP, implement the ad experience tag in that DSP.

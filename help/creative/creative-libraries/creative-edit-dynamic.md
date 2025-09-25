@@ -29,4 +29,4 @@ feature: Creative Dynamic Creatives
 >
 >* [Dynamic creative settings](creative-settings-dynamic.md)
 >* [Add dynamic creatives to a creative library](creative-add-dynamic.md)
->* [Workflow for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
