@@ -35,11 +35,21 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 
 ## Add dynamic creatives using a dynamic HTML5 ad template
 
-1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+1. Do either of the following:
 
-1. Click the library name.
+   * From a creative library:
 
-1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Dynamic Ad]**.
+     1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+     
+     1. Click the library name.
+     
+     1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Dynamic Ad]**.
+
+   * From an ad template:
+
+     1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Ad Templates]**.
+     
+     1. Hold the cursor over the ad template row and click **[!UICONTROL Create Dynamic Ad]**.
 
 1. Specify the [dynamic ad settings](/help/creative/creative-libraries/creative-settings-dynamic.md):
 
