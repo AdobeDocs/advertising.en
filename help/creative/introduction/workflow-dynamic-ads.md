@@ -17,7 +17,17 @@ You can set up dynamic ads in either of two ways:
 
 ## Workflow 1
 
-See "[Add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md)."
+1. [Create dynamic creatives](/help/creative/creative-libraries/creative-add-dynamic.md) for a creative library. For dynamic HTML5 ads, upload an ad template and catalogs.
+
+1. Use the dynamic creatives for ad experiences:
+
+   1. [Create dynamic ad bundles](/help/creative/creative-libraries/bundle-manage.md) that you can attach all at once to an ad experience.
+   
+   1. Create dynamic ad experiences [with targeting](/help/creative/experiences/experience-create-targeting.md) or [without targeting](/help/creative/experiences/experience-create-no-targeting.md) and [assign the creative bundles to the experiences](/help/creative/experiences/experience-assign-creative-bundles.md).
+   
+   1. [Generate and implement ad experience tags](/help/creative/experiences/experience-tag-export.md) to run them as ads in your DSP.
+
+      To use an ad experience as an ad in Adobe Advertising DSP, upload the ad experience tag to an Advertising DSP campaign. To use an ad experience as an ad in a different DSP, implement the ad experience tag in that DSP.
 
 ## Workflow 2
 
