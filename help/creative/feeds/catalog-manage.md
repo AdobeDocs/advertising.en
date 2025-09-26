@@ -7,7 +7,7 @@ feature: Creative Dynamic Creatives
 
 Processed feed catalogs are sets of potential ad variations created from a specified feed file and a specified feed template. Dynamic HTML5 ads, but not static HTML5 ads, require a catalog to create dynamic ads.
 
-Before you can use the ad variations to [add dynamic ads to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md), process the catalog.
+Before you can create ad variations and [add dynamic ads to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md), process the catalog. You can later update the feed file and reprocess the catalog to create a new set of ad variations.<!-- I should list somewhere what happens when you add, update, or remove: I don't think we rewrite existing ads in the creative library, but only add to them. -->
 
 ## Create a catalog {#feed-catalog-create}
 

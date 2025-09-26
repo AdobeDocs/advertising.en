@@ -49,7 +49,7 @@ feature: Creative Dynamic Creatives
 
 **[!UICONTROL Ad Template]:** The ad template from which to create the ads. Select an existing ad template, or upload a new ad template and select the template type (*Static* or *Dynamic*). An uploaded template must be in ZIP format and contain HTML5 files and template definition file (template.TDF). <!-- Need to add more specs for that -->
 
-**[!UICONTROL Number of offers (Max 50)]:** The number of products to show in a carousel. 
+**[!UICONTROL Number of offers (Max 50)]:** The number of products to show in a carousel.
 
 ## Catalogs
 
