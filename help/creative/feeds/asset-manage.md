@@ -7,6 +7,7 @@ feature: Creative Dynamic Creatives
 
 Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX) format and the image assets referenced in the spreadsheet (except for Adobe Experience Manager asset references). Static HTML5 ads require only a single image asset per ad.
 
+
 >[!NOTE]
 >
 > You can use each feed file for only one catalog.
@@ -19,7 +20,7 @@ Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX)
 
     For images you'll upload, reference the image using the format `images/image_name` (such as `images/300x250_acme_logo.png`.)<!-- Verify.  Also need to include the spec for how to reference images in AEM -->
 
-  * The associated image assets in GIF, JPEG, JPG, or PNG format.<!-- NOT GIF still? And is this true: The maximum file size is two (2) MB. --> See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
+  * The associated image assets in GIF, JPEG, JPG, or PNG format.<!-- Is this true: The maximum file size is two (2) MB. --> See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
   
   * (Optional) Video assets in MP4 or WEBM format
 
