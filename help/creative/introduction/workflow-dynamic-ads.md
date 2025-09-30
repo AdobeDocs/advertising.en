@@ -46,7 +46,7 @@ You can set up dynamic ads in either of two ways:
 
    * (For dynamic HTML5 ads) Create catalogs of your ad elements:
 
-     1. Create a feed file in Microsoft Excel spreadsheet (XLSX) format, with one row for each ad variation. Include an image name or a reference to an Adobe Experience Manager in each row. Separately collect the associated image assets.
+     1. Create a feed file in Microsoft Excel spreadsheet (XLSX) format, with one row for each ad variation. Include an image name in each row. Separately collect the associated image assets.
 
      1. [Upload the feed file and image assets](/help/creative/feeds/asset-manage.md).
    
