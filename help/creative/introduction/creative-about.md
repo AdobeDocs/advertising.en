@@ -16,7 +16,7 @@ Your Creative Libraries allow you to manage the creatives you'll use in your ad 
 
 ### [!DNL Adobe] asset integrations
 
-[!DNL Creative] is directly integrated with Adobe Experience Manager, allowing you to easily upload the [!DNL Adobe] image assets that your design team creates and approves, and then use them for real-time storyboarding and editing of ad experiences.
+[!DNL Creative] is directly integrated with Adobe Experience Manager, allowing you to easily upload the [!DNL Adobe] image assets that your design team creates and approves for standard image ads.
 
 ## Both rules-based and non-targeted experiences
 
