@@ -159,6 +159,6 @@ If the [feed data settings](/help/search-social-commerce/campaign-management/inv
 
 +++Some of my campaigns are spending more or less than the campaign budgets.
 
-* This is normal in an optimized portfolio that is configured with the "[!UICONTROL Auto-adjust campaign budget limits]" option. When this option is enabled, you may spend up to *N* times each campaign's budget, where *N* is the value of the "[!UICONTROL Multiple]" setting. This option allows the optimization capability to adjust spending for individual campaigns as necessary while steering the entire portfolio to meet its target.
+* This is normal in an optimized portfolio that is configured with the "[!UICONTROL Auto adjust campaign budget limits]" option. When this option is enabled, you may spend up to *N* times each campaign's budget, where *N* is the value of the "[!UICONTROL Multiple]" setting. This option allows the optimization capability to adjust spending for individual campaigns as necessary while steering the entire portfolio to meet its target.
 * If [!DNL Google Ads] campaigns use a shared budget, then [!DNL Google Ads] adjusts spending for individual campaigns as necessary to spend the entire shared budget.
 +++
