@@ -4,4 +4,4 @@
 
 >[!TIP]
 >
->[Add the campaign to a portfolio](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md) and enable the portfolio option to "[!UICONTROL Auto-adjust campaign budget limits]" to let Search, Social, & Commerce automatically adjust the budget to optimize spending for the entire portfolio.
+>[Add the campaign to a portfolio](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md) and enable the portfolio option to "[!UICONTROL Auto adjust campaign budget limits]" to let Search, Social, & Commerce automatically adjust the budget to optimize spending for the entire portfolio.
