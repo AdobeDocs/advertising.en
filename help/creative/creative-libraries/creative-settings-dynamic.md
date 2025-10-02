@@ -59,11 +59,9 @@ feature: Creative Dynamic Creatives
 
 Uploaded catalogs must be in ZIP format and contain the following:
 
-* One or more feed files in CSV, TSV, or Microsoft Excel spreadsheet (XLSX) format.<!-- Need to add more specs for that -->
+* One or more feed files in CSV, TSV, or Microsoft Excel spreadsheet (XLSX) format. The maximum file size is 512 MB.<!-- Need to add more specs for the feed files -->
 
 * Image assets in GIF, JPEG, JPG, or PNG format
-
-* (Optional) Video assets in MP4 or WEBM format
 
 ### [!UICONTROL Attributes Mapping]
 
