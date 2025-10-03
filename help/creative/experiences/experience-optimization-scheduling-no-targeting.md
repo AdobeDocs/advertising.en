@@ -26,15 +26,15 @@ When creative scheduling is disabled, the creative optimization settings apply t
 
 1. Disable **[!UICONTROL Schedule]**.
 
-1. Select the creative rotation type:
+1. Select the creative rotation type for ad variants in the associated bundles:
 
-   * *[!UICONTROL Weighted]:* Rotates the creatives manually according to relative weights. Enter the weight for each creative as a percentage. The weights for all selected creatives must add up to 100.
+   * *[!UICONTROL Weighted]:* Shows ad variants in the associated creative bundles according to relative weights. Enter the weight for each bundle as a percentage. The weights for all selected bundles must add up to 100.<!-- For example, if Bundle 1 is 60 and Bundle 2 is 40, then Bundle 1 is shown 60% of the time, and Bundle 2 is shown 40% of the time. -->
    
-   * *[!UICONTROL Algorithmic]:* Rotates the creatives algorithmically according to a specified optimization goal.
+   * *[!UICONTROL Algorithmic]:* Shows the most effective ad variants more often, based on a specified goal.
    
-     * For the **[!UICONTROL Optimization Goal]**, select *[!UICONTROL Click Through Rate]*, (standard video ad experiences) *[!UICONTROL Completion Rate]*, or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).<!-- Verify -->
+     * For the **[!UICONTROL Optimization Goal]**, select *[!UICONTROL Click Through Rate]*, (standard video ad experiences) *[!UICONTROL Completion Rate]*, or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
 
-   * *[!UICONTROL Sequencing]:* Rotates the associated creative bundles in a specified order (with Bundle 1 served first, Bundle 2 served second, and so on), with a specified total number of impressions across each bundle sequence. The ad sizes that are served are determined by the available inventory. You can configure the final bundle in the sequence to a\) be displayed indefinitely (the default) or b\) loop back to the first bundle. For example, you could display any of the creatives in Bundle 1 for three (3) impressions, then display any creative in Bundle 2 for one (1) impression, then display any of the creatives in Bundle 3 for two (2) impressions, and then begin the loop again. Alternately, once the creatives in Bundle 3 are displayed, you could continue to display the creatives in Bundle 3 indefinitely, rather than creating a loop. When you enable sequencing:
+   * *[!UICONTROL Sequencing]:* Shows the associated creative bundles in a specified order (with Bundle 1 served first, Bundle 2 served second, and so on), with a specified total number of impressions across each bundle sequence. The ad sizes that are served are determined by the available inventory. You can configure the final bundle in the sequence to a\) be displayed indefinitely (the default) or b\) loop back to the first bundle. For example, you could display any of the ad variants in Bundle 1 for three (3) impressions, then display any ad variant in Bundle 2 for one (1) impression, then display any of the ad variants in Bundle 3 for two (2) impressions, and then begin the loop again. Alternately, once the ad variants in Bundle 3 are displayed, you could continue to display the ad variants in Bundle 3 indefinitely, rather than creating a loop. When you enable sequencing:
 
      1. Drag and drop the assigned bundles into the desired order.
 
