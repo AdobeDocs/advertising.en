@@ -42,11 +42,9 @@ When you edit a creative<!-- or creative variation --> that's included in a bund
 
    >[!NOTE]
    >
-   >* (Flexible HTML5 creatives only) You can edit attributes only for single creatives.<!-- May never be implemented: Also, when you update the template for a parent creative with child variations, the variations are updated with any changes to the template layout, but the attribute values for the variation aren't changed. -->
+   >* (Flexible HTML5 creatives only) You can edit attributes only for single creatives.
    
-<!-- Not there as of 1/16/25. If we do add it, verify the applicable ad types:   
-1. (Flexible HTML5 [or third-party should be possible, but not so] creatives; optional) Once you've made your changes, click ![]() to preview the new creative. 
--->
+1. (Flexible HTML5 creatives; optional) Once you've made your changes, click ![Preview](/help/creative/assets/preview.png "Preview") above the image to preview the new creative. 
 
 1. Click **Save**.
 
