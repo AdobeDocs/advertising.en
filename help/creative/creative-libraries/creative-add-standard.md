@@ -46,6 +46,8 @@ You can upload multiple flexible creative units. Flexible creatives must be in Z
 
    * To remove a file, deselect the check box next to it.
 
+1. (Optional) To preview a creative, click ![Preview](/help/creative/assets/preview.png "Preview") above the image.
+
 1. Specify the [flexible HTML5 ad settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5).
 
    By default, all creatives you just uploaded are selected. Any settings with only one value apply to all selected creatives; for some settings, you can specify individual values. To enter settings for specific creatives, deselect the check box next to each inapplicable creative.
@@ -54,7 +56,7 @@ You can upload multiple flexible creative units. Flexible creatives must be in Z
 
 ### Add flexible creatives using a template {#flexible-creative-use-template}
 
-You can use any of the flexible creative templates uploaded to your account to build ads of a predefine size. Once you select a template to use, you'll edit the click tags and attributes.<!-- Replace last sentence with this if we add the template download feature back:  You can either a\) select a template to use, and then edit the click tags and attributes; or b\) [download a template as a ZIP file](#download-flexible-creative-template), edit the contents offline to build your own creative, and then [upload the edited file as a new creative](flexible-creative-upload).>
+You can use any of the flexible creative templates uploaded to your account to build ads of a predefined size. Once you select a template to use, you'll edit the click tags and attributes.<!-- Replace last sentence with this if we add the template download feature back:  You can either a\) select a template to use, and then edit the click tags and attributes; or b\) [download a template as a ZIP file](#download-flexible-creative-template), edit the contents offline to build your own creative, and then [upload the edited file as a new creative](flexible-creative-upload).>
 
 <!-- Not currently an option:
 You can use any of the [predefined flexible creative templates](flexible-html5-templates.md) included with [!DNL Creative] to build 160x600, 300x250, 300x600, or 728x90 ads.
@@ -72,7 +74,7 @@ For information about the attributes available in predefined templates, see "[Av
 
 1. (Optional) To preview the template, click **[!UICONTROL ...]** next to the template name, and then click **[!UICONTROL Preview]**.
 
-   You can optionally download the template
+   You can optionally download the template: click **[!UICONTROL ...]** next to the template name, and then click **[!UICONTROL Download]**.
 
 1. Next to the template name, click **[!UICONTROL ...]** and then **[!UICONTROL Use Selected]**.
 
@@ -80,18 +82,15 @@ For information about the attributes available in predefined templates, see "[Av
 
    The maximum file size of the creative, once it's zipped, is 2 MB.<!-- Still true? -->
 
+1. Add or remove your own flexible creative files:
+
+   * To add a file from your device or network, click ![Add](/help/creative/assets/create.png "Add") in the upper left and locate the file. Select the check box next to the creative, and deselect the check box next to the other creatives, and edit the [flexible HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5) to specify the language and include your own click tags, images, and other attributes.
+
+   * To remove a file, deselect the check box next to it.
+
+1. (Optional) To preview a creative, click ![Preview](/help/creative/assets/preview.png "Preview") above the image.
+
 1. Click **[!UICONTROL Create]**.
-
-<!-- Not options as of 5/22/25:
-
-1. In the left panel, select the creative size to see all available templates for that size.
-
-1. Select the template:
-
-   * In card view, click **[!UICONTROL ...]** next to the template name, and then click **[!UICONTROL Use Selected]**.
-     
-   * In table view, hold the cursor over the row and click **[!UICONTROL Use Selected]**.
--->
 
 ## Add an HTML5 creative to a creative library
 
