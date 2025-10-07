@@ -5,7 +5,7 @@ feature: Creative Dynamic Creatives
 ---
 # Manage asset files
 
-Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX) format and the image assets referenced in the spreadsheet (except for Adobe Experience Manager asset references). Static HTML5 ads require only a single image asset per ad.
+Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX) format and the image assets referenced in the spreadsheet. Static HTML5 ads require only a single image asset per ad.
 
 
 >[!NOTE]
@@ -21,10 +21,8 @@ Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX)
     The advertiser-specific field names must map to the [available fields for dynamic ad feed files](/help/creative/appendix-available-feed-fields.md).
 
   * The associated image assets in GIF, JPEG, JPG, or PNG format.<!-- Is this true: The maximum file size is two (2) MB. --> See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
-  
-  * (Optional) Video assets in MP4 or WEBM format
 
-  You can upload a single XLSX file, a single image or video file, or a single ZIP file containing any combination of XLSX, image, and video files.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
+  You can upload a single XLSX file, a single image file, or a single ZIP file containing any combination of XLSX and image files.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 
 * Static HTML5 ads:
 
