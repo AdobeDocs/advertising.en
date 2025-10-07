@@ -16,9 +16,9 @@ Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX)
 
 * Dynamic HTML5 ads:
 
-  * A feed file in CSV, TSV, or Microsoft Excel spreadsheet (XLSX) format, with one header row and one data row for each ad variation. Include an image name or a reference to an Adobe Experience Manager in each row.<!-- need spec of available column names that the user-created header names must map to; need to reference it in feed template topic too, so make it a separate file/appendix. -->
+  * A feed file in CSV, TSV, or Microsoft Excel spreadsheet (XLSX) format, with one header row and one data row for each ad variation. Include an image name in each row using the format `images/image_name` (such as `images/300x250_acme_logo.png`).
 
-    For images you'll upload, reference the image using the format `images/image_name` (such as `images/300x250_acme_logo.png`.)<!-- Verify.  Also need to include the spec for how to reference images in AEM -->
+    The advertiser-specific field names must map to the [available fields for dynamic ad feed files](/help/creative/appendix-available-feed-fields.md).
 
   * The associated image assets in GIF, JPEG, JPG, or PNG format.<!-- Is this true: The maximum file size is two (2) MB. --> See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
   
@@ -78,6 +78,7 @@ All ZIP files are decompressed automatically. When you upload a spreadsheet file
 
 >[!MORELIKETHIS]
 >
+>* [Available fields for dynamic ad feed files](/help/creative/appendix-available-feed-fields.md)
 >* [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
 >* [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
 >* [Manage catalogs](/help/creative/feeds/catalog-manage.md)
