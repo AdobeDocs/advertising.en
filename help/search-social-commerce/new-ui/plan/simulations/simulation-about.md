@@ -25,7 +25,7 @@ When the portfolio has a daily budget, you can optionally change the portfolio's
 
   >[!NOTE]
   >
-  > The new custom simulation form uses the same settings as the legacy form, except that it inherits the bid unit constraints information from the portfolio settings. You don’t have the option to ignore bid unit constraints, like you did in the old custom simulation settings page.
+  > The new custom simulation form uses the same settings as the legacy form, except that it inherits the bid unit constraints information from the portfolio settings. You don't have the option to ignore bid unit constraints, like you did in the old custom simulation settings page.
 
   Each downloaded custom simulation consists of one workbook. Each workbook includes one worksheet for each specified entity level of simulation (portfolios, campaigns, ad groups, bid units) when data is available for that level. When you specify device-level data, each worksheet includes a [!UICONTROL Device] column. Each worksheet includes one row with data for each applicable entity and (when specified for the report) and device type for each of 20 steps (for example, one row per campaign). The data in each row includes the projected marginal cost-to-revenue, cost, clicks, weighted revenue (objective value), the device type, and conversion metrics included in the objective, based on the corresponding target. The portfolio-level worksheet also includes the target for the step levels, and the entity-level worksheet includes the ad network, account, campaign, and (when applicable) the ad group.   <!-- I don't see a Bid Units tab when specified; clarify when it is and isn't included -->
 
@@ -34,6 +34,12 @@ When the portfolio has a daily budget, you can optionally change the portfolio's
 The [!UICONTROL Simulations] view lists weekly simulations and custom simulations. Administrator and some other user types<!-- Verify which --> can see custom simulations created by other users. All other users can see only the custom simulations they create.
 
 The data table includes the progress of each simulation; a [!UICONTROL Target Midpoint] column populated for each row; and columns for cost/impression/click/objective value predictions, actual values, and accuracy. You can optionally add additional custom columns (including lift metrics, such as actual objective value divided by cost).
+
+### Simulation details
+
+Click any simulation name to see the simulated performance in graph and table views.
+
+
 
 ### Available actions {#simulations-actions}
 
