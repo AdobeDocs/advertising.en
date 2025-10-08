@@ -26,7 +26,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL GumGum]||Adobe Advertising |&mdash;|Global |USD|Display desktop and mobile<br><br>Video desktop and mobile|
 |[!DNL Index]|[!DNL Index]|[!DNL Adobe Display]<br>[!DNL Adobe Video]|&mdash;|Global|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL Magnite DV+]|[!DNL Magnite] (formerly [!DNL Rubicon])|[!DNL TubeMogul] or Adobe Advertising|PG support|Global|USD|Audio desktop and mobile<br><br>Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
-|[!DNL Magnite SpringServe (formerly Magnite Streaming)]|[!DNL Magnite] (formerly [!DNL Telaria] and [!DNL Tremor])|[!DNL TubeMogul] or Adobe Advertising|PG support|Global|USD|Audio desktop and mobile<br><br>Video desktop, mobile, and CTV|
+|[!DNL Magnite SpringServe (formerly Magnite Streaming)]|[!DNL Magnite] (formerly [!DNL Telaria] and [!DNL Tremor])|[!DNL TubeMogul] or Adobe Advertising|PG support|Global|AUD, USD|Video desktop, mobile, and CTV|
 |[!DNL Microsoft Monetize]|[!DNL Microsoft] (formerly [!DNL Xandr], [!DNL AppNexus])|Video Seat ID: 9094<br>Display Seat ID: 3939|&mdash;|Global|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL Nexxen]|[!DNL Nexxen] (formerly [!DNL Unruly])|Adobe Advertising|&mdash;|US + EMEA|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL OpenX]|[!DNL OpenX]|[!DNL TubeMogul] or Adobe Advertising|PG support|Global|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
