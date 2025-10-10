@@ -44,7 +44,7 @@ For all parent nodes, you can optionally copy all child target nodes and creativ
 
 Assign creative bundles to each final target node in the experience.
 
-Within each node with creative bundles, you can optionally rotate the included creatives either a) according to specified weights or b) algorithmically to optimize the click-through rate or a custom objective. You can also optionally rotate the creatives in a specified time sequence using the same options.
+Within each node with creative bundles, you can optionally rotate the included creatives a) algorithmically to optimize the click-through rate or a custom objective, b) according to specified weights, or c) in a specific sequence. You can also optionally rotate the creatives in a specified time sequence any combination of the same options.
 
 You can optionally customize the landing page URLs, impression-tracking URLs, and click-tracking URLs, as needed for individual creatives. <!-- Not in the UI as of 1/31: For flexible HTML5 creatives, you can customize any of the flexible attributes. -->
 
