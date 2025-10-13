@@ -30,7 +30,7 @@ Initially, each decision tree begins with the root level, "All." You can add one
 
 ## Targets in a decision tree
 
-Each decision tree can have up to five levels of targets. The experience-level targets are applied in conjunction with your DSP's targeting options; hierarchical targeting behavior may vary by DSP. Make sure your ad experiences include targeting that's compatible with the campaigns in which you'll implement it.
+Each decision tree can have up to five levels of targets. The experience-level targets are applied in conjunction with your DSP's targeting options; hierarchical targeting behavior may vary by DSP. Make sure that your ad experiences include targeting that's compatible with the campaigns in which you'll implement it.
 
 Each target level can include multiple branches, each with one or more nodes with the same target type (audience segment, geographical location type, values for specified data pass keys, attributes for a specified retargeting pixel, or device category). You can assign creative bundles in each ad size for which you've specified a default image creative or video creative to the lowest-level target nodes.
 
