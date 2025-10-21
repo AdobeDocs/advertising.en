@@ -36,6 +36,8 @@ If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CP
 >* When you bid by Age, Gender, Interest and List, or Vertical for campaigns in portfolios, the optimization capability doesn't optimize bids for the dimension. Also, all attribution is applied to the ad group.
 >* Ads on the search network always use keyword bids.
 
+**[!UICONTROL AI Max Search Term Matching]:** (Campaigns that target the search network and for which the [AI Max feature](https://support.google.com/google-ads/answer/15910366) and the campaign-level search term matching feature is enabled; read-only) Whether ad group-level search term matching is enabled: *[!UICONTROL Disabled]* or *[!UICONTROL Enabled]*.
+
 ## [!UICONTROL Budget Options]
 
 <!-- **[!UICONTROL Bid]:** -->
