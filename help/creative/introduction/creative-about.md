@@ -30,7 +30,7 @@ You can use your first-party audience segments from Adobe Audience Manager and A
 
 ### Implementation of experiences as ads
 
-Once you create an experience, you can generate a JavaScript or iframe tag for the experience and implement the tag as a third-party standard display ad in an Advertising DSP campaign or in any other DSP.<!-- Will add video and other ad formats; not sure if they'll be available for both standard and dynamic ads. -->
+Once you create an experience, you can generate a JavaScript or iframe tag for the experience and implement the tag as a third-party ad in an Advertising DSP campaign or in any other DSP.
 
 ### Optimization of ad elements
 

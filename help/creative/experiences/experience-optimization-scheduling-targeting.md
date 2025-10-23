@@ -8,7 +8,7 @@ exl-id: 47d1a249-decd-4c3b-ac88-260488d5bcd2
 
 *Target nodes with existing creatives only*
 
-By default, the creative rotation for an experience is determined algorithmically to optimize the overall click-through rate, and the creative optimization settings apply to all assigned bundles. You can customize the creative rotation to manually run the creatives in each bundle to algorithmically optimize for a specified Advertising DSP custom goal; according to a specified bundle sequence, with a specified number of impressions across each bundle sequence; or according to relative weights. You can also schedule specific creative bundles to run during specified, sequential time periods and apply custom creative rotation settings for each schedule.
+By default, the creative rotation for an experience is determined algorithmically to optimize the overall click-through rate, and the creative optimization settings apply to all assigned bundles. You can alternately algorithmically optimize for a specified Advertising DSP custom goal; rotate bundles according to a specified bundle sequence, with a specified number of impressions across each bundle sequence; or according to relative weights. You can also schedule specific creative bundles to run during specified, sequential time periods and apply custom creative rotation settings for each schedule.
 
 >[!NOTE]
 >

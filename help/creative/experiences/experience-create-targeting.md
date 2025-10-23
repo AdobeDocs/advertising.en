@@ -11,7 +11,7 @@ Create a targeted ad experience using a decision tree. Each experience uses ads 
 >[!NOTE]
 >
 >* Once you create a targeted experience, you can't later change it to a non-targeted experience, which uses a different workflow.
->* Make sure your ad experiences include targeting that's compatible with the campaigns in which you'll implement it. Hierarchical targeting behavior may vary by DSP. When you upload an ad experience tag to Advertising DSP and attach it to a placement, ad-level targeting is applied on top of (not instead of) placement-level targeting. For example, if a placement targets users in Australia and an ad targets users in Japan, then the ad will target the "Everyone Else" branch.
+>* Make sure that your ad experiences include targeting that's compatible with the campaigns in which you'll implement it. Hierarchical targeting behavior may vary by DSP. When you upload an ad experience tag to Advertising DSP and attach it to a placement, ad-level targeting is applied on top of (not instead of) placement-level targeting. For example, if a placement targets users in Australia and an ad targets users in Japan, then the ad will target the "Everyone Else" branch.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
 

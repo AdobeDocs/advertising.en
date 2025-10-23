@@ -8,9 +8,9 @@ exl-id: dcd13c5a-315d-4380-99f9-6dbab3e1e1be
 
 <!-- Note to self: These aren't segments -- we don't create a pool of users. -->
 
-You can create a retargeting pixel to identify visitors to an advertiser's landing pages or conversion pages using user cookies or universal IDs and to capture specific attributes that the pages are tracking for those visitors. The pixel tracks the most recent event that the visitor performs on the page. Once you create the pixel, you can generate a pixel tag to insert in the relevant webpages to begin tracking visitors.<!-- Note to self: surfer id=cookie or universal ID -->
+You can create a retargeting pixel to identify visitors to an advertiser's landing pages or conversion pages using user cookies or universal IDs. The pixel tracks the most recent event that the visitor performs on a page and captures specific attributes that the page is tracking for those visitors. Once you create the pixel, generate a pixel tag to insert in the relevant webpages to begin tracking visitors.<!-- Note to self: surfer id=cookie or universal ID -->
 
-You can then use the pixel as the target for any creative within an ad experience to show ads only to users with specified attributes who previously visited the webpages associated with the pixel. For example, you could target visitors who look at red shoes in size 10, if the webpages track those attribute values.<!-- better example? Make sure they match attribute examples below -->
+You can then use the pixel as the target for any creative within an ad experience to show ads only to users with specified attributes who previously visited the webpages associated with the pixel. For example, you could target visitors who look at red shoes in size 10, if the webpages track those attribute values.<!-- better example? Make sure they match attribute examples below --> The experience-level targets are applied in conjunction with your DSP's targeting options; hierarchical targeting behavior may vary by DSP.
 
 Retargeting profiles are stored for 180 days.
 
@@ -22,9 +22,9 @@ Example pixel:
 
 >[!NOTE]
 >
-> * [!DNL Creative] currently supports universal IDs only for Advertising DSP. A future release will support universal IDs for third-party DSPs.<!-- Clarify this and reword as needed  -->
+> * [!DNL Creative] supports universal IDs only for Advertising DSP.
 >* You can also use your first-party audiences from Adobe Audience Manager and Adobe Analytics as [creative targets for your experiences](/help/creative/experiences/experience-settings-targeting.md).
->* When you use an experience as an ad within an Advertising DSP placement, you can target the placement to all audiences available to you in DSP. You can also [create custom audience segment tags](/help/dsp/audiences/custom-segment-create.md) to track all visitors to specific landing pages and then use those segments as creative targets for a placement.
+>* When you use an experience as an ad within an Advertising DSP placement, you can target the placement to all audiences available to you in DSP. You can also [create custom audience segment tags](/help/dsp/audiences/custom-segment-create.md) to track all visitors to specific landing pages and then use those segments as creative targets for a placement. Advertising DSP applies ad-level targeting on top of (not instead of) placement-level targeting.
 >* Website visitors who have opted out of tracking for ad targeting do not receive ads with personalized creative content based on audience segment or re-targeting profile.
 
 ## Create a retargeting pixel
@@ -69,9 +69,9 @@ Example pixel:
 
 1. In the pixel tag, specify a value for each attribute in both the `<img src>` and the `<script src>` sections by replacing each "`Insert <attribute>`" with a value. Specify an ID5 partner ID if the tag captures a universal ID.
 
-   If you add additional attributes manually, you must include URL encoding. 
+   If you add additional attributes manually, include URL encoding. 
 
-   For example, if you included the attributes "category," "color," and "size" and capture ID5 universal IDs, then the pixel tag includes the following parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` and `&id5pid=--Insert ID5_PARTNER_ID--`. To target users who select red sandals in size 10, for example, change the parameters in both the image tag and script tag to `&ut1=sandals&ut2=red&ut3=10`, and also enter your ID5 partner ID in the script tag, such as `&id5pid=0123456789`.
+   For example, if you included the attributes "category," "color," and "size" and capture ID5 universal IDs, then the pixel tag includes the following parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` and `&id5pid=--Insert ID5_PARTNER_ID--`. To target users who select red sandals in size 10, change the parameters in both the image tag and script tag to `&ut1=sandals&ut2=red&ut3=10`, and also enter your ID5 partner ID in the script tag, such as `&id5pid=0123456789`.
 
    `<img src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--" />  <script src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&cro=F&id5Consent=T&id5pid=--0123456789--&lrConsent=T&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--"></script>`
 

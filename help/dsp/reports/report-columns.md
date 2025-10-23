@@ -50,10 +50,11 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Operating System Vendor]|The vendor of the operating system on which the ad was shown (such as [!UICONTROL Microsoft] or [!UICONTROL Apple]).|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Operating System Version]|The version of the operating system on which the ad was shown (such as [!UICONTROL Windows 10] or [!UICONTROL iOS Mojave])|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Operating System]|The operating system on which the ad was shown (such as [!UICONTROL Apple iOS] or [!UICONTROL Android]).|
-|[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Deal ID]|The unique identifier assigned to a deal through the external supply partner.|
-|[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Feed Name]|The user-assigned name for the deal, as entered in DSP.|
-|[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Feed Source]|The supply-side partner providing the inventory. This is typically a publisher but can also be an SSP.|
+|[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Deal Name]|The user-assigned name for the deal, as entered in DSP.|
+|[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Deal Type]| Whether the deal is *[!UICONTROL Guaranteed]* or *[!UICONTROL Non-Guaranteed]*.|
 |[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Inventory Type]|The classification of the inventory: *[!UICONTROL Private],* *[!UICONTROL On Demand],* or *[!UICONTROL Public]*.|
+|[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Private Deal ID]|The unique identifier assigned to a private deal through the external supply partner.|
+|[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Publisher]|The supply-side partner providing the inventory. This is typically a publisher but can also be an SSP.|
 |[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL SSP]|The supply-side partner (SSP) to which the media is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Frequency]|[!UICONTROL Frequency]|The number of times a device has received an ad, based on the unique cookie or device ID.|
 |[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL City]|The city to which the reported data is attributed.|
