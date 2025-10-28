@@ -32,7 +32,7 @@ exl-id: 51b7d632-1e73-4726-980b-07ed50447146
 
 >[!TIP]
 >
-> Use a name that will be easy to find when you attach the ad to a placement, in the [!UICONTROL Ads] view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 30sec Universal Video”).
+> Use a name that will be easy to find when you attach the ad to a placement, in the [!UICONTROL Ads] view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 30sec Universal Video").
 
 **[!UICONTROL Show Controls]:** Where to include video controls for the ad: *[!UICONTROL Under]*, *[!UICONTROL Over]*, *[!UICONTROL Bottom]*, or *[!UICONTROL None]* (the default).
 
@@ -44,7 +44,7 @@ exl-id: 51b7d632-1e73-4726-980b-07ed50447146
 
 **[!UICONTROL Wmode]:** The window mode: *[!UICONTROL window]*, *[!UICONTROL transparent]*, or *[!UICONTROL opaque]*. If this setting isn't applicable, leave it blank.
 
-**[!UICONTROL Video Format]:** The format of the ad player for potential inventory: *[!UICONTROL VPAID]*, *[!UICONTROL VPAID & VAST]*, or *[!UICONTROL VAST]*. Viewability is always measured for [!UICONTROL VPAID], but [!UICONTROL VPAID & VAST] includes inventory that doesn’t allow viewability measurement. Consider this distinction if viewability metrics are important to your campaign.
+**[!UICONTROL Video Format]:** The format of the ad player for potential inventory: *[!UICONTROL VPAID]*, *[!UICONTROL VPAID & VAST]*, or *[!UICONTROL VAST]*. Viewability is always measured for [!UICONTROL VPAID], but [!UICONTROL VPAID & VAST] includes inventory that doesn't allow viewability measurement. Consider this distinction if viewability metrics are important to your campaign.
 
 Use [!UICONTROL VAST], which doesn't allow viewability measurement, when you target connected TV or inventory that strictly requires VAST format only (usually from supply sources like Google Ad Manager, Appnexus, SpotX, and Freewheel). Also use this option for inventory that was previously compatible with Standard Pre-roll (VAST) or Phone + Tablet Standard Pre-roll (VAST) placements/ads.
 
@@ -52,19 +52,9 @@ Use [!UICONTROL VAST], which doesn't allow viewability measurement, when you tar
 
 ### [!UICONTROL Pixel]
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad. **Tip:** To edit the third-party tracking pixels for multiple ads in a placement at once using the [!UICONTROL Ad Tools] view, see "[Attach Third-Party Tracking Pixels to Ads in a Placement](/help/dsp/campaign-management/ads/ad-pixel-attach-detach.md#attach-pixels-ads)."
+<!-- **[!UICONTROL Pixel]:** -->
 
-The following settings apply to each pixel that you create or edit.
-
-**[!UICONTROL Integration Event]:** The event that triggers the pixel to fire. For this ad type, use pixels that fires on the *[!UICONTROL Impression]* or *[!UICONTROL Click-through]*.
-
-**[!UICONTROL Pixel Type]:** Whether the pixel is an *[!UICONTROL IMG URL]* (1x1 pixel image file), *[!UICONTROL HTML]*, or *[!UICONTROL JavaScript URL]*.
-
-**[!UICONTROL Pixel URL or Code]:** The URL of the pixel image, in the appropriate format for the specified [!UICONTROL Pixel Type].
-
-**[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
-
-**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, or *[!UICONTROL IAS]*.
+{{$include /help/_includes/dsp-ad-pixel.md}}
 
 >[!MORELIKETHIS]
 >

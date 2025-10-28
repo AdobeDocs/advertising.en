@@ -28,7 +28,7 @@ exl-id: d0ba4346-13ae-405c-92b6-a0c32dd09d0a
 
 >[!TIP]
 >
-> Use a name that will be easy to find when you attach the ad to a placement, in the [!UICONTROL Ads] view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 30sec Preroll”).
+> Use a name that will be easy to find when you attach the ad to a placement, in the [!UICONTROL Ads] view, and in reports. For example, describe the unit type and some key attributes (such as Holiday Product Preview: 30sec Preroll").
 
 **[!UICONTROL Width] | [!UICONTROL Ad Unit Width]:** (Standard and skippable pre-roll ads only) The width of the entire ad unit. This option may be locked depending on the type of ad unit you selected.
 
@@ -56,25 +56,15 @@ This is the same as the **[!UICONTROL Height]** field.
 
 **[!UICONTROL Wmode]:** (Interactive pre-roll only) The window mode: *[!UICONTROL window]*, *[!UICONTROL transparent]*, or *[!UICONTROL opaque]*.
 
-**[!UICONTROL Video Format]:** (Interactive pre-roll only) The format of the ad player for potential inventory: *[!UICONTROL VPAID]* or *[!UICONTROL VPAID & VAST]*. Viewability is always measured for VPAID, but VPAID & VAST includes inventory that doesn’t allow viewability measurement. Consider this distinction if viewability metrics are important to your campaign.
+**[!UICONTROL Video Format]:** (Interactive pre-roll only) The format of the ad player for potential inventory: *[!UICONTROL VPAID]* or *[!UICONTROL VPAID & VAST]*. Viewability is always measured for VPAID, but VPAID & VAST includes inventory that doesn't allow viewability measurement. Consider this distinction if viewability metrics are important to your campaign.
 
 **[!UICONTROL Clock Number]**: (Interactive pre-roll only; used only in the United Kingdom; available only to users with permission) A unique identifier used to ensure that the right ad is broadcast. If this setting isn't applicable, leave it blank.
 
 ### [!UICONTROL Pixel]
 
-All existing event tracking pixels for the placement are automatically attached. You can detach existing pixels and create new pixels as needed, based on your tracking needs for the individual ad. **Tip:** To edit the third-party tracking pixels for multiple ads in a placement at once using the [!UICONTROL Ad Tools] view, see "[Attach Third-Party Tracking Pixels to Ads in a Placement](/help/dsp/campaign-management/ads/ad-pixel-attach-detach.md#attach-pixels-ads)."
+<!-- **[!UICONTROL Pixel]:** -->
 
-The following settings apply to each pixel that you create or edit.
-
-**[!UICONTROL Integration Event]:** The event that triggers the pixel to fire. For this ad type, use pixels that fires on the *[!UICONTROL Impression]* or *[!UICONTROL Click-through]*.
-
-**[!UICONTROL Pixel Type]:** Whether the pixel is an *[!UICONTROL IMG URL]* (1x1 pixel image file), *[!UICONTROL HTML]*, or *[!UICONTROL JavaScript URL]*.
-
-**[!UICONTROL Pixel URL or Code]:** The URL of the pixel image, in the appropriate format for the specified [!UICONTROL Pixel Type].
-
-**[!UICONTROL Pixel Name]:** The pixel name. Use a name that helps you easily identify the pixel.
-
-**[!UICONTROL Pixel Provider]:** The pixel provider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, or *[!UICONTROL IAS]*.
+{{$include /help/_includes/dsp-ad-pixel.md}}
 
 >[!MORELIKETHIS]
 >
