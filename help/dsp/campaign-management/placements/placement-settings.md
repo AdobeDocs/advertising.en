@@ -34,7 +34,7 @@ exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
 
 **[!UICONTROL Environment]:** (Universal Video ad format only) The device environments (Desktop, Mobile, Connected TV) to include as targets in the placement. Specify at least one.
 
-In custom reports, the placement-level dimension “Device Environment” indicates the targeted environment.
+In custom reports, the placement-level dimension "Device Environment" indicates the targeted environment.
 
 **[!UICONTROL Placement tags]:** (Optional) Keywords or nicknames to help you locate this placement.
 
@@ -220,15 +220,15 @@ To specify inventory targeting:
 
 * **[!UICONTROL Playback mode]:** Target (but not exclude) inventory by how playback is initiated. The setting applies to preroll placements, mobile standard preroll placements, and universal video placements for desktop and mobile environments. By default, all modes are targeted. To narrow down the targets, select specific target modes and/or *Unknown*.
 
-* **[!UICONTROL Skippability]:** Target (but not exclude) inventory according to whether or not it’s skippable. The setting applies to all VAST/VPAID placements, including preroll, mobile standard preroll, connected TV, and universal video placements. By default, all options are targeted. To narrow down the targets, select specific targets and/or *Unknown*.
+* **[!UICONTROL Skippability]:** Target (but not exclude) inventory according to whether or not it's skippable. The setting applies to all VAST/VPAID placements, including preroll, mobile standard preroll, connected TV, and universal video placements. By default, all options are targeted. To narrow down the targets, select specific targets and/or *Unknown*.
 
 **[!UICONTROL Position targeting]:** Target (but not exclude) inventory by ad position. The setting applies to all VAST/VPAID placements, including preroll, mobile standard preroll, connected TV, and universal video placements. By default, all positions are targeted. To narrow down the targets, select specific target positions and/or *Unknown*.
 
-## [!UICONTROL Site and App Targeting]
+## [!UICONTROL Site or App and Keyword Targeting]
 
 **[!UICONTROL Traffic type]:** The types of traffic to target. Options include **[!UICONTROL Websites]** and **[!UICONTROL Apps]**.
 
-**[!UICONTROL Tier]:** (Available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) The quality of the traffic to target. Tiers 1-3 are all brand safe and have been approved by the DSP mapping team.
+**[!UICONTROL Tier]:** (Available when **[!UICONTROL Toggle for Sites or Apps Tiering]** is *[!UICONTROL On]*) The quality of the traffic to target. Tiers 1-3 are all brand safe and have been approved by the DSP mapping team.
 
 * *[!UICONTROL Tier 1]:* Premium sites and applications that are nationally recognizable.
 
@@ -246,7 +246,7 @@ To specify inventory targeting:
 >
 >For performance campaigns, the best practice is to select *[!UICONTROL All Sites]*.
 
-**[!UICONTROL Site or App Categories]:** (Optional; available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Site categories within the selected site tiers to either include or exclude (but not both) as targets. Choose from vertical site lists that DSP has mapped based on subject:
+**[!UICONTROL Site or App Categories]:** (Optional) Site categories within the selected traffic types and (when specified) the site tiers to either include or exclude (but not both) as targets. Choose from vertical site lists that DSP has mapped based on subject:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Specify the site categories to either include or exclude:
@@ -259,7 +259,7 @@ To specify inventory targeting:
 1. (Optional) To download a CSV file with the targeting information to your browser's Downloads location, click **[!UICONTROL Export]**.
 1. Click **[!UICONTROL Save]**.
 
-**[!UICONTROL Exclude Sites or Apps]:** (Optional; available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sites/apps and [URL lists](/help/dsp/resources/lists-url-manage.md) to exclude. From the [!UICONTROL Paste URL] tab, you can search for and select sites, or enter or paste domain names. From the [!UICONTROL URL Lists] tab, you can select URL lists.
+**[!UICONTROL Exclude Sites or Apps]:** (Optional; available when **[!UICONTROL Toggle for Sites or Apps Tiering]** is *[!UICONTROL On]*) Sites/apps and [URL lists](/help/dsp/resources/lists-url-manage.md) to exclude. From the [!UICONTROL Paste URL] tab, you can search for and select sites, or enter or paste domain names. From the [!UICONTROL URL Lists] tab, you can select URL lists.
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Specify the sites:
@@ -284,40 +284,23 @@ To specify inventory targeting:
 >* Account-level and advertiser-level blocked site lists are also applied, in addition to the DSP [globally blocked site list](/help/dsp/introduction/features/brand-safety-media-quality.md), which includes sites deemed unsafe for ads.
 >* Blocked site lists always override targeted sites and site lists. If a placement both excludes and includes the same target for an ad, then the target is excluded.
 
+**[!UICONTROL Context of Sites or App]:** (Optional) Contextual target segments to target or exclude. Select from the followingL
+
+* **[!UICONTROL Marketplace]** tab: Lists [!DNL Peer39] segments available to all users for the specified fee.
+
+* **[!UICONTROL Custom Segments]** tab: Lists your organization's [!DNL Peer39] custom segments.
+
+* **[!UICONTROL Paste Segments]** tab: (Advertisers whose organizations have [!DNL Comscore] partnerships; available after activation from your Adobe Account Team) Enter one or more segment IDs or segment names for your organization's [!DNL Comscore] contextual segments. Separate multiple values with commas (such as Segment1,Segment2, Segment3).
+
 **[!UICONTROL Language]:** (Optional) A single language to target.
 
-**[!UICONTROL Site or app list preview]:** (Read-only) All targeted and blocked sites/apps for the placement, including sites/apps on account-level, advertiser-level, and DSP global blocked site lists.
+**[!UICONTROL Site or app list preview]:** (Read-only; available when **[!UICONTROL Toggle for Sites or Apps Tiering]** is *[!UICONTROL On]*) All targeted and blocked sites/apps for the placement, including sites/apps on account-level, advertiser-level, and DSP global blocked site lists.
 
 You can optionally export the list of targeted and blocked sites as a comma-separated values (CSV) file. To export the list, click **[!UICONTROL Export full site list]**, and then open or save the file according to your browser's normal procedure.
 
 **[!UICONTROL Allow unscreened sites]:** (Standard display placements only) Enables ad delivery on non-audited sites. When the placement targets private inventory, this option may deliver ads on blocked sites.
 
-**[!UICONTROL Paste list of targeted sites]:** Allows you to target specific sites only. When you enable this option, the other site targeting options are disabled.
-
-**[!UICONTROL Sites or Apps]:** (Available when **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL On]*) Sites to target. From the [!UICONTROL Paste URL] tab, you can search for and select sites, or enter or paste domain names. From the [!UICONTROL URL Lists] tab, you can select URL lists.
-
-1. Click ![Edit](/help/dsp/assets/edit.png).
-1. Specify the sites:
-   * From the [!UICONTROL Paste URL] tab:
-     * To search for a site:
-       1. Click **[!UICONTROL Search]**.
-       1. Enter a keyword, select a site tier, and/or select a site category.
-       1. In the search results, select the sites to include:
-          * To include an individual site, select the adjacent check box.
-          * (When more than 50 results are available) To include the first 50 results, click **[!UICONTROL Include these 50]**. To include all search results, click **[!UICONTROL Include these \<*NN*\>]**.
-     * To enter domain names:
-       1. Click **[!UICONTROL Paste]**.
-       1. Enter one or more domain names on separate lines.
-       1. Click **[!UICONTROL Include All]**.
-   * From the [!UICONTROL URL Lists] tab:
-     1. (Optional) Search for an URL list by entering all or part of the list name in the search field.
-     1. Select the check box next to each URL list to include.
-1. Click **[!UICONTROL Done]** when you're finished.
-
->[!NOTE]
->
->* Account-level and advertiser-level blocked site lists are also applied, in addition to the DSP [globally blocked site list](/help/dsp/introduction/features/brand-safety-media-quality.md), which includes sites deemed unsafe for ads.
->* Blocked site lists always override targeted sites and site lists. If a placement both excludes and includes the same target for an ad, then the target is excluded.You can either search for and select sites, or enter or paste domain names:
+**[!UICONTROL Toggle for Sites or Apps Tiering]:** Allows you to specify site or app tiers to target or exclude.
 
 ## [!UICONTROL Audience Targeting]
 
