@@ -28,12 +28,12 @@ Look for answers to your questions in the [Adobe Advertising community forums](h
 
 ## Contact [!DNL Adobe]
 
-For Search, Social, & Commerce product or account issues, do either of the following:
+For product or account issues, do the following:
 
-* Contact your Adobe Account Team.
+* (Advertisers with self-service contracts) Open a ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support).
 
-* In the top menu, click ![Help](/help/search-social-commerce/assets/help-main-menu.png "Help") > **[!UICONTROL Provide Feedback]**, enter your message, and then click **[!UICONTROL Send Feedback]**.
+  For the product, select "[!UICONTROL Advertising - Search, Social, & Commerce]."
 
-Provide detailed steps to reproduce the issue, any relevant data, and information about preliminary troubleshooting you've performed. If you're reporting the problem to your Adobe Account Team, also include the browser name and version.
+* (Advertisers with full-service contracts) Contact your Adobe Account Team.
 
-For report issues, don't delete the report, and provide the report name and URL.
+In the ticket or communication, provide detailed steps to reproduce the issue, any relevant data, the browser name and version, and information about preliminary troubleshooting you've performed. For report issues, don't delete the report, and provide the report name and URL.
