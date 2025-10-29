@@ -22,8 +22,15 @@ Look for answers to your questions in the [Adobe Advertising community forums](h
 
 ## Contact [!DNL Adobe]
 
-For product or account issues, contact your Adobe Account Team.
+For product or account issues, do the following:
 
-Provide detailed steps to reproduce the issue, any relevant data, and information about preliminary troubleshooting you've performed. Also include the browser name and version.
+* (Advertisers with self-service contracts) Open a ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support).
 
-For custom report issues, don't delete the report, and provide the report name.
+  For the product, select "[!UICONTROL Advertising - Creative]."
+
+* (Advertisers with full-service contracts) Contact your Adobe Account Team.
+
+In the ticket or communication, provide detailed steps to reproduce the issue, any relevant data, the browser name and version, and information about preliminary troubleshooting you've performed.
+
+For report issues, don't delete the report, and provide the report name and URL.
+
