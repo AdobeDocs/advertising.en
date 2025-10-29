@@ -30,7 +30,5 @@ For product or account issues, do the following:
 
 * (Advertisers with full-service contracts) Contact your Adobe Account Team.
 
-In the ticket or communication, provide detailed steps to reproduce the issue, any relevant data, the browser name and version, and information about preliminary troubleshooting you've performed.
-
-For report issues, don't delete the report, and provide the report name and URL.
+In the ticket or communication, provide detailed steps to reproduce the issue, any relevant data, the browser name and version, and information about preliminary troubleshooting you've performed. For report issues, don't delete the report, and provide the report name and URL.
 
