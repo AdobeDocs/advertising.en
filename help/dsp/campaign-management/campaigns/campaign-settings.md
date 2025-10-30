@@ -12,7 +12,7 @@ exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
 
 **[!UICONTROL Advertiser]:** (Read-only for existing campaigns) The applicable advertiser (brand). Select an existing advertiser or create a new one.
 
-**[!UICONTROL Advertiser URL]:** The advertiser’s official page. This field speeds your ad approval process with inventory partners.
+**[!UICONTROL Advertiser URL]:** The advertiser's official page. This field speeds your ad approval process with inventory partners.
 
 **[!UICONTROL Timezone]:** (Read-only for existing campaigns) The time zone for reporting and bidding.
 
@@ -22,29 +22,31 @@ exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
 
 ## [!UICONTROL Campaign Goals]
 
-**[!UICONTROL Margin Management]:** Whether to manage margins for the campaign: *[!UICONTROL Yes]* or *[!UICONTROL No]* (the default).
+**[!UICONTROL Margin Management]:** (Self-service accounts that are serviced by agencies using margins) Options for margin management:
+ 
+* **[!UICONTROL Would you like to manage margins for this campaign?]:** Whether to manage margins for the campaign: *[!UICONTROL Yes]* or *[!UICONTROL No]* (the default). When you choose *[!UICONTROL Yes],* specify the additional settings. Once you enable margin management and save the campaign, you can't disable margin management.
 
-When you choose *[!UICONTROL Yes],* specify the margin type and amount:
+* **[!UICONTROL How would you like to compute agency fees?]:** (Campaigns with margin management only) How to compute agency fees:
 
-* **[!UICONTROL Margin Type]:** The type of margin. You can't change the margin type once you enable margin management and save the campaign.
+   * *[!UICONTROL Margin % of Total Budget]:* (the default) Computes fees as a percentage of the [!UICONTROL Gross Budget]. Specify the [!UICONTROL Agency Fee Type] (fixed or composite) and the [!UICONTROL Margin %] or [!UICONTROL Composite Margin %].
 
-   * *[!UICONTROL Fixed]:* (the default) Allows DSP to auto-calculate and cap spend based on a fixed margin percentage of the [!UICONTROL Gross Budget].
+   * *[!UICONTROL Apply Markup % on top of individual cost components]:* Adds a specified percentage of the [!UICONTROL Gross Budget] to your media cost, data and other costs, and/or [!DNL Adobe] tech fees. Specify the [!UICONTROL Markup %] and select the components on which to apply the markup.
 
-   * *[!UICONTROL Dynamic]:* Allows you to manage margins down to the placement level by specifying a separate [!UICONTROL Budget Reserve %] and [!UICONTROL Gross Budget] for each package and placement in the campaign. DSP optimizes based on the financial efficiency of each placement, without guaranteeing a specific margin. Use this for insertion orders that consist of multiple line items for which you've agreed to deliver a fixed amount of units or unit types at a fixed rate.
+* **[!UICONTROL Agency Fee Type]:** (Campaigns that use [!UICONTROL Margin % of Total Budget]) The type of agency fee.
 
-* **[!UICONTROL Fixed Margin %]:** (Campaigns with fixed margins only) The default markup for each insertion order <!-- impression? -->, as a percentage. This amount is deducted from the [!UICONTROL Gross Budget] to define the net campaign budget.
+   * *[!UICONTROL Fixed]:* (the default) Allows DSP to auto-calculate and cap spend based on a fixed percentage of the [!UICONTROL Gross Budget]. Specify the [!UICONTROL Margin %].
 
-* **[!UICONTROL Budget Reserve %]:** (Campaigns with fixed margins only; optional) Reserves a specified percentage of the [!UICONTROL Gross Budget] as a safeguard. This amount is deducted from the [!UICONTROL Gross Budget] to define the net campaign budget.
+   * *[!UICONTROL Composite]:* Allows DSP to auto-calculate and cap spend based on a percentage of the [!UICONTROL Gross Budget], using the composite percentage of agency fees and [!DNL Adobe] tech fees. Specify the [!UICONTROL Composite Margin %].
+
+* **[!UICONTROL Margin %]:** (Campaigns that use [!UICONTROL Margin % of Total Budget] with fixed margins) The default markup for each insertion order <!-- impression? -->, as a percentage. This amount is deducted from the [!UICONTROL Gross Budget] to define the net campaign budget. The margin isn't applied to the [!UICONTROL Estimated Tax Withholding] on the [!UICONTROL Gross Budget].
+
+* **[!UICONTROL Composite Margin %]:** (Campaigns that use [!UICONTROL Margin % of Total Budget] with composite margins) The sum of agency fees and [!DNL Adobe] tech fees, as a percentage. This amount is deducted from the [!UICONTROL Gross Budget] to define the net campaign budget. The margin isn't applied to the [!UICONTROL Estimated Tax Withholding] on the [!UICONTROL Gross Budget].
+
+* **[!UICONTROL Markup %]:** (Campaigns that use [!UICONTROL Apply Markup % on top of individual cost components]) The percentage of the [!UICONTROL Gross Budget] to add to specified cost components.
+
+* **[!UICONTROL Select cost components on which markup will be applied]:** (Campaigns that use [!UICONTROL Apply Markup % on top of individual cost components]) The cost components for which the [!UICONTROL Markup %] is applied. Select all applicable components: *[!UICONTROL Media cost]*, *[!UICONTROL Data and Other costs]*, and/or *[!UICONTROL Adobe tech fees]*.
 
 **[!UICONTROL Gross Budget]:** (Campaigns with margin management only) The gross campaign budget, before the specified marginal adjustments are applied.
-
-You can optionally add an additional daily, weekly, or monthly gross budget:
-
-1. Click **[!UICONTROL Add an additional Gross Budget]**.
-
-1. Enter the **[!UICONTROL Gross Budget]** and select the budget interval: *[!UICONTROL Daily],* *[!UICONTROL Weekly],* or *[!UICONTROL Monthly]*.
-
- The total net budget, which is the spending cap for the campaign, is automatically calculated based on the margin settings and is indicated below this value.
 
 **[!UICONTROL Budget]:** (Campaigns without margin management) The overall campaign budget.
 
