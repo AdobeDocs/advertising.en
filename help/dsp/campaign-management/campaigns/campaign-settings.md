@@ -30,7 +30,7 @@ exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
 
    * *[!UICONTROL Margin % of Total Budget]:* (the default) Computes fees as a percentage of the [!UICONTROL Gross Budget]. Specify the [!UICONTROL Agency Fee Type] (fixed or composite) and the [!UICONTROL Margin %] or [!UICONTROL Composite Margin %].
 
-   * *[!UICONTROL Apply Markup % on top of individual cost components]:* Adds a specified percentage of the [!UICONTROL Gross Budget] to your media cost, data and other costs, and/or [!DNL Adobe] tech fees. Specify the [!UICONTROL Markup %] and select the components on which to apply the markup.
+   * *[!UICONTROL Apply Markup % on top of individual cost components]:* Adds a specified percentage to your media cost, data and other costs, and/or [!DNL Adobe] tech fees. Specify the [!UICONTROL Markup %] and select the components on which to apply the markup.
 
 * **[!UICONTROL Agency Fee Type]:** (Campaigns that use [!UICONTROL Margin % of Total Budget]) The type of agency fee.
 
@@ -42,7 +42,7 @@ exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
 
 * **[!UICONTROL Composite Margin %]:** (Campaigns that use [!UICONTROL Margin % of Total Budget] with composite margins) The sum of agency fees and [!DNL Adobe] tech fees, as a percentage. This amount is deducted from the [!UICONTROL Gross Budget] to define the net campaign budget. The margin isn't applied to the [!UICONTROL Estimated Tax Withholding] on the [!UICONTROL Gross Budget].
 
-* **[!UICONTROL Markup %]:** (Campaigns that use [!UICONTROL Apply Markup % on top of individual cost components]) The percentage of the [!UICONTROL Gross Budget] to add to specified cost components.
+* **[!UICONTROL Markup %]:** (Campaigns that use [!UICONTROL Apply Markup % on top of individual cost components]) The percentage to add to specified cost components.
 
 * **[!UICONTROL Select cost components on which markup will be applied]:** (Campaigns that use [!UICONTROL Apply Markup % on top of individual cost components]) The cost components for which the [!UICONTROL Markup %] is applied. Select all applicable components: *[!UICONTROL Media cost]*, *[!UICONTROL Data and Other costs]*, and/or *[!UICONTROL Adobe tech fees]*.
 
