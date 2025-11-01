@@ -28,17 +28,17 @@ exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
 
 * **[!UICONTROL How would you like to compute agency fees?]:** (Campaigns with margin management only) How to compute agency fees, which are the portion of the campaign's gross budget that's withheld and not included in the net spend:
 
-   * *[!UICONTROL Margin % of Total Budget]:* (the default) Compute fees as a percentage of the [!UICONTROL Gross Budget]. Specify the [!UICONTROL Agency Fee Type] (fixed or composite) and the [!UICONTROL Margin %] or [!UICONTROL Composite Margin %].
+   * *[!UICONTROL Margin % of Total Budget]:* (the default) Compute fees as a percentage of the gross spend. Specify the [!UICONTROL Agency Fee Type] (fixed or composite) and the [!UICONTROL Margin %] or [!UICONTROL Composite Margin %].
 
    * *[!UICONTROL Apply Markup % on top of individual cost components]:* Compute fees as a specified percentage of your media cost, data and other costs, and/or [!DNL Adobe] tech fees. Specify the [!UICONTROL Markup %] and select the components on which to apply the markup.
 
 * **[!UICONTROL Agency Fee Type]:** (Campaigns that use [!UICONTROL Margin % of Total Budget]) The type of agency fee.
 
-   * *[!UICONTROL Fixed]:* (the default) Allows DSP to auto-calculate and cap spend based on a fixed percentage of the [!UICONTROL Gross Budget]. Specify the [!UICONTROL Margin %].
+   * *[!UICONTROL Fixed]:* (the default) Allows DSP to auto-calculate and cap spend based on a fixed percentage of the gross spend. Specify the [!UICONTROL Margin %].
 
-   * *[!UICONTROL Composite]:* Allows DSP to auto-calculate and cap spend based on a percentage of the [!UICONTROL Gross Budget], using the composite percentage of agency fees and [!DNL Adobe] tech fees. Specify the [!UICONTROL Composite Margin %].
+   * *[!UICONTROL Composite]:* Allows DSP to auto-calculate and cap spend based on a percentage of the gross spend, using the composite percentage of agency fees and [!DNL Adobe] tech fees. Specify the [!UICONTROL Composite Margin %].
 
-* **[!UICONTROL Margin %]:** (Campaigns that use [!UICONTROL Margin % of Total Budget] with fixed margins) The percentage of the [!UICONTROL Gross Budget] to be withheld as agency fees. Any changes to the margin value are applied to future agency fees but not to the historical gross spend for the campaign. The [!UICONTROL Estimated Tax Withholding] value is excluded from the gross spend before the margin is applied. See the following examples, which don't take into account under- or over-delivery:
+* **[!UICONTROL Margin %]:** (Campaigns that use [!UICONTROL Margin % of Total Budget] with fixed margins) The percentage of the gross spend to be withheld as agency fees. Any changes to the margin value are applied to future agency fees but not to the historical gross spend for the campaign. The [!UICONTROL Estimated Tax Withholding] value is excluded from the gross spend before the margin is applied. See the following examples, which don't take into account under- or over-delivery:
 
   * Example 1: Suppose the [!UICONTROL Gross Budget] is `100 USD` and the [!UICONTROL Margin %] is `5%` throughout the flight. At the end of campaign flight, the agency fees are computed as `5 USD` (which is `5% of 100 USD`), and the net spend is `95 USD` (which is `campaign budget [100 USD] - agency fees [5 USD]`).
 
