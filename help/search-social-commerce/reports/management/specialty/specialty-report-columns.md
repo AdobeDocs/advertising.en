@@ -8,12 +8,12 @@ feature: Search Reports, Search Specialty Reports
 
 | Column | Description |
 |----|----|
-| \[Advertiser-specific custom (derived) metrics\] | The value for a custom metric you've created that’s calculated from existing metrics. |
+| \[Advertiser-specific custom (derived) metrics\] | The value for a custom metric you've created that's calculated from existing metrics. |
 | \[Advertiser-specific conversion metrics\] | The number of conversions for a specified conversion metric or site engagement metric. |
 |[!UICONTROL Absolute Top Impression Rate Percent] | The percentage of your ad impressions that were shown in the first position at the top of search results. |
 |[!UICONTROL Absolute Top Impression Share Lost To Budget Percent] | The estimated percentage of time that your ads weren't shown in the first position at the top of search results because your daily or monthly budget was too low. |
 |[!UICONTROL Absolute Top Impression Share Lost To Rank Percent] | The percentage of time that your ads weren't shown in the first position at the top of search results because of a poor ad rank. |
-|[!UICONTROL Absolute Top Impression Share Percent] | The impressions you’ve received in the absolute top location (the first ad above the organic search results) divided by the estimated number of impressions that you were eligible to receive in the top location. |
+|[!UICONTROL Absolute Top Impression Share Percent] | The impressions you've received in the absolute top location (the first ad above the organic search results) divided by the estimated number of impressions that you were eligible to receive in the top location. |
 | [!UICONTROL Account Name] | The account name. |
 | [!UICONTROL Account Number] | ([!UICONTROL MSA Ad Extension] reports) The account identifier assigned by the ad network. |
 | [!UICONTROL Account Status] | ([!UICONTROL MSA Ad Extension] reports) The account status: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, or *[!UICONTROL Inactive]*. |
@@ -80,7 +80,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Creative Name] | (Transaction Report; [!DNL Yahoo! Japan] only) The ad image name. |
 | [!UICONTROL Creative Title] | The title or headline of the ad. |
 | [!UICONTROL CTR] | The click-through rate, which is the number of clicks divided by the number of impressions for the included ads. |
-| [!UICONTROL Current Quality Score] | ([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns only) The current quality score for the keyword or bid unit, as designated by the ad network. It ranges from 1 (low) to 10 (perfect). For a single keyword and match type combination, this value is the current score for that combination. When the same keyword and match type combination is used in multiple campaigns, this value is the maximum current score among all instances.<br><br>The ad networks use the quality score to determine bid prices and ad position. It’s calculated according to many factors, including the relevancy of the keyword to its associated ad and to the user's search query and the quality of the landing page. For keywords in [!DNL Google Ads], the keyword's click-through rate is also considered, and for keywords in [!DNL Microsoft Advertising], the user experience provided by the landing page is also considered. |
+| [!UICONTROL Current Quality Score] | ([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns only) The current quality score for the keyword or bid unit, as designated by the ad network. It ranges from 1 (low) to 10 (perfect). For a single keyword and match type combination, this value is the current score for that combination. When the same keyword and match type combination is used in multiple campaigns, this value is the maximum current score among all instances.<br><br>The ad networks use the quality score to determine bid prices and ad position. It's calculated according to many factors, including the relevancy of the keyword to its associated ad and to the user's search query and the quality of the landing page. For keywords in [!DNL Google Ads], the keyword's click-through rate is also considered, and for keywords in [!DNL Microsoft Advertising], the user experience provided by the landing page is also considered. |
 | [!UICONTROL Delivered Match Type] | ([!UICONTROL MSA Ad Extension] reports) The match type the ad network used to deliver the ad. |
 | [!UICONTROL Device OS] | The operating system of the device on which the ad was displayed or clicked. |
 | [!UICONTROL Device Type] | The device on which the ad was displayed or clicked:<ul><li>*[!UICONTROL desktop]*: Desktop computer</li><li>*[!UICONTROL mobile]*: Mobile device with a full browser</li><li>*[!UICONTROL tablet]*: Tablet with a full browser</li></ul> |
@@ -101,7 +101,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Impr. (Top) %] | ([!DNL Google Ads] only; [!UICONTROL AdWords and Bing Audience Target Report], [!UICONTROL Campaign Daily Impression Share Report], and [!UICONTROL Keyword Daily Impression Share Report]) The percentage of your ad impressions that are shown above the organic search results. |
 |[!UICONTROL Impression Lost To Budget Percent] | The estimated percentage of time that your ads weren't shown because your daily or monthly budget was too low. |
 |[!UICONTROL Impression Lost To Rank Percent] | The percentage of time that your ads weren't shown because of a poor ad rank. |
-|[!UICONTROL Impression Share Percent] | The impressions you’ve received divided by the estimated number of impressions that you were eligible to receive. |
+|[!UICONTROL Impression Share Percent] | The impressions you've received divided by the estimated number of impressions that you were eligible to receive. |
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
 | [!UICONTROL Keyword] | The keyword.<br><br><b>Note:</b> If the report includes data from ad groups in content-enabled search campaigns, then this column includes the applicable ad group names such "(adgroup content) Your Ad Group Name." For a site-targeted placement in a search campaign, this column doesn't have a value. |
 | [!UICONTROL Keyword ID] | The unique ID that identifies an existing keyword. |
@@ -123,6 +123,13 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Network Type] | The network on which the ad was displayed:<ul><li>*[!UICONTROL google_search]*: [!DNL Google Search Network]</li><li>*[!UICONTROL search_partners]* [!DNL Google Search Partners]</li><li>*[!UICONTROL display_network]*: [!DNL Google Display Network]</li></ul> |
 | [!UICONTROL Path1] | ([!UICONTROL Google Asset Group Performance Report]) The first set of text that may be appended to the display URL in the ad. |
 | [!UICONTROL Path2] | ([!UICONTROL Google Asset Group Performance Report]) The second set of text that may be appended to the display URL in the ad; this field is available only when a Path1 value is specified. |
+
+| [!UICONTROL Display Name] | ([!UICONTROL Google Performance Max Placement Report]) The XXXX. |
+| [!UICONTROL Placement] | The name of the placement. |
+| [!UICONTROL Placement Type] | The type of placement in which the ad was served: *[!UICONTROL Mobile App]*,  *[!UICONTROL YouTube Video]* (the ad appeared in, or adjacent to, a [!DNL YouTube] video), or *[!UICONTROL Webpage]*. |
+| [!UICONTROL Target URL] |  |
+
+
 | [!UICONTROL Portfolio Group Name] | The name of the portfolio group to which the portfolio belongs. |
 | [!UICONTROL Portfolio ID] | The numeric portfolio ID. |
 | [!UICONTROL Portfolio Name] | The portfolio. |
@@ -141,11 +148,11 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL SE Account Name] | The account name on the ad network. |
 | [!UICONTROL SE Creative ID] | The ad ID assigned by the network. |
 | [!UICONTROL SE_TERM_ID] | (AdWords Search Query Report) The search term ID assigned by the ad network. |
-| [!UICONTROL Search (Abs. Top) IS] | ([!DNL Google Ads] and [!DNL Microsoft Advertising]; [!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]) The impressions you’ve received in the absolute top location (the first ad above the organic search results) divided by the estimated number of impressions that you were eligible to receive in the top location. Percentages under 10% are indicated as "`<10%`" or "`0.0999`." |
-| [!UICONTROL Search (Top) IS] | ([!DNL Google Ads] and [!DNL Microsoft Advertising]; [!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]) The impressions you’ve received in the top locations (above the organic search results) divided by the estimated number of impressions that you were eligible to receive in the top locations. Percentages under 10% are indicated as "`<10%`" or "`0.0999`." |
+| [!UICONTROL Search (Abs. Top) IS] | ([!DNL Google Ads] and [!DNL Microsoft Advertising]; [!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]) The impressions you've received in the absolute top location (the first ad above the organic search results) divided by the estimated number of impressions that you were eligible to receive in the top location. Percentages under 10% are indicated as "`<10%`" or "`0.0999`." |
+| [!UICONTROL Search (Top) IS] | ([!DNL Google Ads] and [!DNL Microsoft Advertising]; [!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]) The impressions you've received in the top locations (above the organic search results) divided by the estimated number of impressions that you were eligible to receive in the top locations. Percentages under 10% are indicated as "`<10%`" or "`0.0999`." |
 | [!UICONTROL Search Engine] | The ad network. |
 | [!UICONTROL Search Exact Match IS% (Google)] | ([!DNL Google Ads] campaigns only; [!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]) The impressions received divided by the estimated number of impressions that you were eligible to receive on the Search Network for search terms that matched your keywords exactly (or were close variants of your keyword), regardless of your keyword match types. Percentages under 10% are indicated as "`<10%`," and percentages over 90% are indicated as "`>90%`." |
-| [!UICONTROL Search impr. share] | ([!DNL Google Ads] only; [!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]) The impressions you’ve received divided by the estimated number of impressions that you were eligible to receive. Percentages under 10% are indicated as "`<10%`," and percentages over 90% are indicated as "`>90%`." |
+| [!UICONTROL Search impr. share] | ([!DNL Google Ads] only; [!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]) The impressions you've received divided by the estimated number of impressions that you were eligible to receive. Percentages under 10% are indicated as "`<10%`," and percentages over 90% are indicated as "`>90%`." |
 | [!UICONTROL Search IS %] | ([!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]) The impressions received on the search network divided by the estimated number of impressions you were eligible to receive. Percentages under 10% are indicated as "`<10%`," and percentages over 90% are indicated as "`>90%`." |
 | [!UICONTROL Search IS% Lost to Bid (Bing)] | ([!DNL Microsoft Advertising] only; [!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]; data available through 11 October 2019 only) The estimated percentage of impressions your ad didn't receive because either your bid was too low or your bid and quality score were below minimum thresholds. Percentages under 10% are indicated as "`<10%`," and percentages over 90% are indicated as "`>90%`." |
 | [!UICONTROL Search IS% Lost to Budget] | ([!UICONTROL Campaign Daily Impression Share Report] and [!UICONTROL Keyword Daily Impression Share Report]) The estimated percentage of impressions your ad didn't receive because your daily or monthly budget was too low. Percentages under 10% are indicated as "`<10%`," and percentages over 90% are indicated as "`>90%`." |
@@ -168,7 +175,7 @@ feature: Search Reports, Search Specialty Reports
 |[!UICONTROL Top Impression Rate Percent] | The percentage of your ad impressions that were shown in the mainline (the top ad placements above the search results). |
 |[!UICONTROL Top Impression Share Lost To Budget Percent] | The estimated percentage of time that your ads weren't shown in the mainline (the top ad placements above the search results) because your daily or monthly budget was too low. |
 |[!UICONTROL Top Impression Share Lost To Rank Percent] | The percentage of time that your ads weren't shown in the mainline (the top ad placements above the search results) because of a poor ad rank. |
-|[!UICONTROL Top Impression Share Percent] | The impressions you’ve received in the mainline (the top ad placements above the search results) divided by the estimated number of impressions that you were eligible to receive in the top location. |
+|[!UICONTROL Top Impression Share Percent] | The impressions you've received in the mainline (the top ad placements above the search results) divided by the estimated number of impressions that you were eligible to receive in the top location. |
 | [!UICONTROL Top vs. Other] | ([!UICONTROL MSA Ad Extension] reports) The position of your ad on the search results page. |
 | [!UICONTROL Total Clicks] | ([!UICONTROL MSA Ad Extension] reports) The number of clicks when the ad element was present in the ad copy, whether or not it was clicked. |
 | [!UICONTROL User SE Account ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network. |
