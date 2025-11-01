@@ -14,6 +14,6 @@
     
     Available operators include *[!UICONTROL contains]*, *[!UICONTROL does not contain]*, *[!UICONTROL =]*, *[!UICONTROL <>]* (isn't equal to), *[!UICONTROL in]*, *[!UICONTROL not in]*, *[!UICONTROL less than]*, and *[!UICONTROL greater than]*. When you select the operator "[!UICONTROL in]," you can enter a comma-separated list of values; if a record matches any of the specified values, then data is propagated for those rows. For all other operators, enter only one value. Values aren't case-sensitive.
     
-    For example, if you selected the "product_type" column and want to return only rows for product names containing "shoes," then select "**[!UICONTROL contains]**" and enter `shoes` in the input field.
+    For example, if you select the "product_type" column and want to return only rows for product names containing "shoes," then select "**[!UICONTROL contains]**" and enter `shoes` in the input field.
     
   1. (To apply up to nine additional filters) For each additional filter, click **[!UICONTROL Add Condition]**, and then specify the additional filter per Step 2.
