@@ -26,25 +26,35 @@ exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
  
 * **[!UICONTROL Would you like to manage margins for this campaign?]:** Whether to manage margins for the campaign: *[!UICONTROL Yes]* or *[!UICONTROL No]* (the default). When you choose *[!UICONTROL Yes],* specify the additional settings. Once you enable margin management and save the campaign, you can't disable margin management.
 
-* **[!UICONTROL How would you like to compute agency fees?]:** (Campaigns with margin management only) How to compute agency fees:
+* **[!UICONTROL How would you like to compute agency fees?]:** (Campaigns with margin management only) How to compute agency fees, which are the portion of the campaign's gross budget that's withheld and not included in the net spend:
 
-   * *[!UICONTROL Margin % of Total Budget]:* (the default) Computes fees as a percentage of the [!UICONTROL Gross Budget]. Specify the [!UICONTROL Agency Fee Type] (fixed or composite) and the [!UICONTROL Margin %] or [!UICONTROL Composite Margin %].
+   * *[!UICONTROL Margin % of Total Budget]:* (the default) Compute fees as a percentage of the gross spend. Specify the [!UICONTROL Agency Fee Type] (fixed or composite) and the [!UICONTROL Margin %] or [!UICONTROL Composite Margin %].
 
-   * *[!UICONTROL Apply Markup % on top of individual cost components]:* Adds a specified percentage to your media cost, data and other costs, and/or [!DNL Adobe] tech fees. Specify the [!UICONTROL Markup %] and select the components on which to apply the markup.
+   * *[!UICONTROL Apply Markup % on top of individual cost components]:* Compute fees as a specified percentage of your media cost, data and other costs, and/or [!DNL Adobe] tech fees. Specify the [!UICONTROL Markup %] and select the components on which to apply the markup.
 
 * **[!UICONTROL Agency Fee Type]:** (Campaigns that use [!UICONTROL Margin % of Total Budget]) The type of agency fee.
 
-   * *[!UICONTROL Fixed]:* (the default) Allows DSP to auto-calculate and cap spend based on a fixed percentage of the [!UICONTROL Gross Budget]. Specify the [!UICONTROL Margin %].
+   * *[!UICONTROL Fixed]:* (the default) Allows DSP to withhold a fixed percentage of the gross spend as agency fees. Specify the [!UICONTROL Margin %].
 
-   * *[!UICONTROL Composite]:* Allows DSP to auto-calculate and cap spend based on a percentage of the [!UICONTROL Gross Budget], using the composite percentage of agency fees and [!DNL Adobe] tech fees. Specify the [!UICONTROL Composite Margin %].
+   * *[!UICONTROL Composite]:* Allows DSP to withhold a percentage of the gross spend to account for both agency fees and [!DNL Adobe] tech fees. Specify the [!UICONTROL Composite Margin %].
 
-* **[!UICONTROL Margin %]:** (Campaigns that use [!UICONTROL Margin % of Total Budget] with fixed margins) The default markup for each insertion order <!-- impression? -->, as a percentage. This amount is deducted from the [!UICONTROL Gross Budget] to define the net campaign budget. The margin isn't applied to the [!UICONTROL Estimated Tax Withholding] on the [!UICONTROL Gross Budget].
+* **[!UICONTROL Margin %]:** (Campaigns that use [!UICONTROL Margin % of Total Budget] with fixed margins) The percentage of the gross spend to be withheld as agency fees. Any changes to the margin value are applied to future gross spend only and not to the historical gross spend for the campaign. The [!UICONTROL Estimated Tax Withholding] value is excluded from the gross spend before the margin is applied. See the following examples, which assume that the campaign doesn't underspend or overspend.
 
-* **[!UICONTROL Composite Margin %]:** (Campaigns that use [!UICONTROL Margin % of Total Budget] with composite margins) The sum of agency fees and [!DNL Adobe] tech fees, as a percentage. This amount is deducted from the [!UICONTROL Gross Budget] to define the net campaign budget. The margin isn't applied to the [!UICONTROL Estimated Tax Withholding] on the [!UICONTROL Gross Budget].
+  * Example 1: Suppose that the [!UICONTROL Gross Budget] is `100 USD` and the [!UICONTROL Margin %] is `5%` throughout the flight. At the end of campaign flight, the agency fees are computed as `5 USD` (which is `5% of 100 USD`), and the net spend is `95 USD` (which is `campaign budget [100 USD] - agency fees [5 USD]`).
 
-* **[!UICONTROL Markup %]:** (Campaigns that use [!UICONTROL Apply Markup % on top of individual cost components]) The percentage to add to specified cost components.
+  * Example 2 with changes to the margin: For the same campaign, suppose [!UICONTROL Margin %] was changed from `5%` to `10%` when the gross spend was `40 USD`. For the period before the change, the agency fees are computed as `2 USD` (which is `5% of 40 USD`); for the period after the change, the agency fees are computed as `6 USD` (which is `10% of 60 USD`). The total agency fees are computed as `8 USD` (which is `2 USD + 6 USD`), and the net spend is `92 USD` (which is `campaign budget [100 USD] - total agency fees [8 USD]`).
 
-* **[!UICONTROL Select cost components on which markup will be applied]:** (Campaigns that use [!UICONTROL Apply Markup % on top of individual cost components]) The cost components for which the [!UICONTROL Markup %] is applied. Select all applicable components: *[!UICONTROL Media cost]*, *[!UICONTROL Data and Other costs]*, and/or *[!UICONTROL Adobe tech fees]*.
+  * Example 3 with tax withholding: Suppose that the [!UICONTROL Gross Budget] is `100 USD`, the [!UICONTROL Estimated Tax Withholding] at the end of the campaign flight is `10 USD`, and the [!UICONTROL Margin %] is `5%` throughout the flight. At the end of campaign flight, the agency fees are computed as `4.5 USD` (which is `5% of (campaign budget [100 USD] - tax withholding [USD 10])`), and the net spend is `85.5 USD` (which is `campaign budget [100 USD] - agency fees [4.5 USD] - tax withholding [10 USD]`).
+
+* **[!UICONTROL Composite Margin %]:** (Campaigns that use [!UICONTROL Margin % of Total Budget] with composite margins) The percentage of the gross spend that, to be withheld as [!DNL Adobe] tech fees and agency fees combined. Agency fees are computed by subtracting the Adobe tech fees from the composite margin amount. Any changes to the composite margin value are applied to future gross spend only and not to the historical gross spend for the campaign. The [!UICONTROL Estimated Tax Withholding] value is excluded from the gross spend before the composite margin is applied.
+
+  For example, suppose that the [!UICONTROL Gross Budget] is `100 USD`, the [!DNL Adobe] tech fees at the end of the campaign flight are `10 USD`, and the [!UICONTROL Composite Margin %] is `17%` throughout the flight. At the end of campaign flight (assuming  that the campaign doesn't underspend or overspend), the agency fees are computed as `7 USD` (which is `(17% of 100 USD) - 10`), and the net spend is `93 USD` (which is `campaign budget [100 USD] - agency fees [7 USD]`). 
+
+* **[!UICONTROL Markup %]:** (Campaigns that use [!UICONTROL Apply Markup % on top of individual cost components]) The percentage to apply to specified cost components to compute agency fees. Any changes to the markup value are applied to future costs only and not to the historical costs for the campaign.
+
+* **[!UICONTROL Select cost components on which markup will be applied]:** (Campaigns that use [!UICONTROL Apply Markup % on top of individual cost components]) The cost components for which the [!UICONTROL Markup %] is applied. Select all applicable components: *[!UICONTROL Media cost]*, *[!UICONTROL Data and Other costs]*, and/or *[!UICONTROL Adobe tech fees]*. Any changes to the component selection are applied to future costs only and not to the historical costs for the campaign.
+
+  For example, the [!UICONTROL Markup %] is `10%` for "[!UICONTROL Media cost]" and "[!UICONTROL Data and Other costs]. If, at any point in the campaign flight, the media cost is `20 USD`, data and other costs are `5 USD`, and [!DNL Adobe] tech fees are `2 USD`, then the agency fees are computed as `2.50 USD` (which is `10% of (20 USD + 5 USD)`, and the gross spend is `29.50 USD` (which is `media cost [20 USD] + data and other costs [5 USD] + [!DNL Adobe] tech fees [2 USD] + agency fees [2.50 USD]`).
 
 **[!UICONTROL Gross Budget]:** (Campaigns with margin management only) The gross campaign budget, before the specified marginal adjustments are applied.
 
