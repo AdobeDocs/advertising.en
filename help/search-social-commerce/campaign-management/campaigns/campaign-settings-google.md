@@ -62,6 +62,22 @@ feature: Search Campaign Management
 
 {{$include /help/_includes/budget.md}}
 
+**[!UICONTROL Google Recommended Budget]:** (Optional; applicable for campaigns with all required settings and that include ad groups only) Click **[!UICONTROL Show Recommendation]** to view the budget that [!DNL Google Ads] recommends. For complex campaigns, the recommendation may take up to 40 seconds to generate.
+
+For performance max and search campaigns, the following settings are required for recommendations:
+
+  * bid strategy type
+  * final URL
+  * asset groups
+
+For search campaigns, the following additional settings are also required for recommendations:
+
+  * bid strategy target
+  * country
+  * language
+  * an included or excluded location
+  * keywords
+
 <!-- **[!UICONTROL Delivery Method]:** -->
 
 {{$include /help/_includes/delivery-method.md}}
