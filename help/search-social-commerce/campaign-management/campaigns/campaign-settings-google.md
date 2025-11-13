@@ -66,17 +66,17 @@ feature: Search Campaign Management
 
 For performance max and search campaigns, the following settings are required for recommendations:
 
-  * bid strategy type
-  * final URL
-  * asset groups
+* bid strategy type
+* final URL
+* asset groups
 
 For search campaigns, the following additional settings are also required for recommendations:
 
-  * bid strategy target
-  * country
-  * language
-  * an included or excluded location
-  * keywords
+* bid strategy target
+* country
+* language
+* an included or excluded location
+* keywords
 
 <!-- **[!UICONTROL Delivery Method]:** -->
 
