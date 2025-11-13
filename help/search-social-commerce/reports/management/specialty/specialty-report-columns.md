@@ -84,6 +84,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Delivered Match Type] | ([!UICONTROL MSA Ad Extension] reports) The match type the ad network used to deliver the ad. |
 | [!UICONTROL Device OS] | The operating system of the device on which the ad was displayed or clicked. |
 | [!UICONTROL Device Type] | The device on which the ad was displayed or clicked:<ul><li>*[!UICONTROL desktop]*: Desktop computer</li><li>*[!UICONTROL mobile]*: Mobile device with a full browser</li><li>*[!UICONTROL tablet]*: Tablet with a full browser</li></ul> |
+| [!UICONTROL Display Name] | ([!UICONTROL Google Performance Max Placement Report]) The name displayed in the placement, such as the website URL, mobile app name, or name of a [!DNL YouTube] video. |
 | [!UICONTROL eCPM] | The effective CPM, or the average cost paid per 1000 impressions during a specified date range. eCPM values are calculated for either CPM or CPC campaigns. |
 | [!UICONTROL EF Campaign ID] | The numeric ID that Search, Social, & Commerce assigns to the campaign. |
 | [!UICONTROL EF Portfolio Group ID] | The numeric ID for the portfolio group to which the portfolio belongs. |
@@ -123,13 +124,8 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Network Type] | The network on which the ad was displayed:<ul><li>*[!UICONTROL google_search]*: [!DNL Google Search Network]</li><li>*[!UICONTROL search_partners]* [!DNL Google Search Partners]</li><li>*[!UICONTROL display_network]*: [!DNL Google Display Network]</li></ul> |
 | [!UICONTROL Path1] | ([!UICONTROL Google Asset Group Performance Report]) The first set of text that may be appended to the display URL in the ad. |
 | [!UICONTROL Path2] | ([!UICONTROL Google Asset Group Performance Report]) The second set of text that may be appended to the display URL in the ad; this field is available only when a Path1 value is specified. |
-
-| [!UICONTROL Display Name] | ([!UICONTROL Google Performance Max Placement Report]) The XXXX. |
-| [!UICONTROL Placement] | The name of the placement. |
-| [!UICONTROL Placement Type] | The type of placement in which the ad was served: *[!UICONTROL Mobile App]*,  *[!UICONTROL YouTube Video]* (the ad appeared in, or adjacent to, a [!DNL YouTube] video), or *[!UICONTROL Webpage]*. |
-| [!UICONTROL Target URL] |  |
-
-
+| [!UICONTROL Placement] | ([!UICONTROL Google Performance Max Placement Report]) The name of the placement. |
+| [!UICONTROL Placement Type] | ([!UICONTROL Google Performance Max Placement Report]) The type of placement in which the ad was served: *[!UICONTROL Mobile App]*,  *[!UICONTROL YouTube Video]* (the ad appeared in, or adjacent to, a [!DNL YouTube] video), or *[!UICONTROL Webpage]*. |
 | [!UICONTROL Portfolio Group Name] | The name of the portfolio group to which the portfolio belongs. |
 | [!UICONTROL Portfolio ID] | The numeric portfolio ID. |
 | [!UICONTROL Portfolio Name] | The portfolio. |
@@ -169,6 +165,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Start Date] | The first day reported. |
 | [!UICONTROL Status] | ([!UICONTROL Google Asset Group Performance Report]) The asset group status. |
 | [!UICONTROL Store ID] | The ad network's ID that for the merchant center store. |
+| [!UICONTROL Target URL] | ([!UICONTROL Google Performance Max Placement Report]) The URL for the placement, such as a website, or link to a mobile app in an app store, or URL for a [!DNL YouTube] video. |
 | [!UICONTROL title_part1] | ([!UICONTROL MSA Ad Extension by Ad Report]) The first line of the ad that links to your website. |
 | [!UICONTROL title_part2] | ([!UICONTROL MSA Ad Extension by Ad Report]) The second line of the ad that links to your website. |
 | [!UICONTROL title_part3] | ([!UICONTROL MSA Ad Extension by Ad Report]) The third line of the ad that links to your website. |

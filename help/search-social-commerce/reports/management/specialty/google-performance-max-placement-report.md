@@ -7,7 +7,7 @@ feature: Search Reports, Search Specialty Reports
 
 *Applicable to [!DNL Google Ads] accounts with performance max campaigns only*
 
-The [!UICONTROL Google Performance Max Placement Report] includes performance data for placements in performance max campaigns within a specified account. The report includes the impressions for each included placement by target URL. By default, data includes one row for each placement-and-target URL combination that received at least one impression in the specified data range, even if the placement was deleted during the reporting period. The rows are in ascending order by campaign by default.
+The [!UICONTROL Google Performance Max Placement Report] includes impression data for placements in [!DNL Google Ads] performance max campaigns within a specified account. The report includes the impressions for each included placement by target URL. By default, data includes one row for each placement-and-target URL combination that received at least one impression in the specified data range, even if the placement was deleted during the reporting period. The rows are in ascending order by campaign by default.
 
 Use this report to find URLs to exclude and to improve the performance of performance max campaigns.
 
