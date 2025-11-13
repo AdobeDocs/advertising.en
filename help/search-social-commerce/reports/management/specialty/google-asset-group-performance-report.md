@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL RSA Asset Report]'
+title: '[!UICONTROL Google Asset Group Performance Report]'
 description: Learn about the [!UICONTROL Google Asset Group Performance Report].
 feature: Search Reports, Search Specialty Reports
 exl-id: a0e06c53-9ca2-4558-8092-49b9fc9d2b1b
