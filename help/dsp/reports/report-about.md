@@ -36,10 +36,8 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
        >This report includes data about the billing segment. If a user or device is served an impression that belongs to multiple segments, only one billable segment is credited with the impression.
 
     * **[!UICONTROL Conversion]:** Use this report to understand how your campaigns are performing based on conversion metrics captured using Adobe Advertising conversion tracking. This report includes multi-touch attribution.
-    
-    <!--
-    * **[!UICONTROL Custom Creative Report Beta]:** (Advertisers with Advertising Creative; beta feature) Use this report to monitor performance across your Advertising Creative ad experiences.
-    -->
+
+    * **[!UICONTROL Custom Creative Report]:** (Advertisers with Advertising Creative; beta feature) Use this report to monitor performance across your Advertising Creative ad experiences.
 
     * **[!UICONTROL Device]:** Use this pre-populated template to see key metrics by device-related dimensions.
 
