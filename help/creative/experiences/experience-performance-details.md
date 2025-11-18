@@ -123,6 +123,6 @@ The Report view includes the following data:
 >[!MORELIKETHIS]
 >
 >* [About custom reports](/help/creative/reports/reports-about.md)
->* [Manage custom reports](/help/creative/report-manage.md)
+>* [Manage custom reports](/help/creative/reports/report-manage.md)
 >* [Download all experiences in the view](/help/creative/experiences/experience-download-view.md)
 >* [About experiences in Advertising Creative](/help/creative/experiences/experience-about.md)
