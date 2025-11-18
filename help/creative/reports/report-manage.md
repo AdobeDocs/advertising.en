@@ -39,7 +39,7 @@ Duplicate a custom report to create a new report with similar settings.
 
 1. Click **[!UICONTROL Edit Custom Report]**.
 
-## Run a custom report {report-run-now}
+## Run a custom report {#report-run-now}
 
 You can run any report that hasn't expired and isn't currently running.
 
