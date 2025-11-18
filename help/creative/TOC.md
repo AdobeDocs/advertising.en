@@ -80,7 +80,9 @@ breadcrumb-title: Creative Guide
 + [Appendix: Available fields for dynamic ad feed files](/help/creative/appendix-available-feed-fields.md)
 + Performance reports {#reports}
   + [Experience-level performance reports](/help/creative/experiences/experience-performance-details.md)
-  + [Custom Creative Report](/help/creative/report-custom-creative.md)
+  + [Custom reports]{#custom-reports}
+    + [About custom reports](/help/creative/report-about.md)
+    + [Manage custom reports](/help/creative/report-manage.md)
 + [Retargeting pixels](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Available macros for tracking URLs](/help/creative/creative-macros.md)
 + [Get help](/help/creative/get-help.md)
