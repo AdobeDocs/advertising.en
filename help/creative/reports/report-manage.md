@@ -1,13 +1,11 @@
 ---
-title: [!UICONTROL Manage custom reports]
-description: Learn how to generate the cross-experience [!UICONTROL Custom Creative Report].
+title: Manage custom reports
+description: Learn how to generate and manage the cross-experience [!UICONTROL Custom Creative Report].
 feature: Creative Reporting
 ---
 # [!UICONTROL Manage custom reports]
 
-
-
-
+You can create, duplicate, edit, run, download, and delete custom reports.
 
 ## Create a custom report {#report-create}
 
@@ -41,14 +39,6 @@ Duplicate a custom report to create a new report with similar settings.
 
 1. Click **[!UICONTROL Edit Custom Report]**.
 
-## Delete a custom report
-
-1. In the main menu, click **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]**.
-
-1. Next to the report name, click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
-
-1. In the confirmation message, click **[!UICONTROL Delete]**.
-
 ## Run a custom report {report-run-now}
 
 You can run any report that hasn't expired and isn't currently running.
@@ -80,6 +70,14 @@ You can download any completed report instance from the last four months, which 
      When a report runs multiple times on the same day, the report instances for that day are listed in chronological order, with the most recent instance on top.
      
      Failed report jobs are indicated with an error icon (![error indicator](/help/dsp/assets/indicator-critical.png "error indicator")) and can't be downloaded. Hold the cursor over the error icon for a description of the error.
+
+## Delete a custom report
+
+1. In the main menu, click **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]**.
+
+1. Next to the report name, click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
+
+1. In the confirmation message, click **[!UICONTROL Delete]**.
 
 ## Report Settings {#report-settings}
 
