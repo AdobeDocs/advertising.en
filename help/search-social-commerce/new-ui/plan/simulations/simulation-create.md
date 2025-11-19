@@ -102,4 +102,5 @@ For more information about the custom simulation settings, see the Optimization 
 >[!MORELIKETHIS]
 >
 >* [About simulations](simulation-about.md)
+>* [View simulation details](simulation-view.md)
 >* [Download simulations](simulation-download.md)

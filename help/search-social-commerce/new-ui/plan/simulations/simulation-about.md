@@ -31,33 +31,25 @@ Each downloaded weekly simulation consists of one workbook. Each workbook includ
 
 #### On-screen weekly simulation details
 
+##### Graph view
 
+The graph view shows the expected objective value or other specified metric ([!UICONTROL Y-Axis Metric]<!-- I see Objective Value, Cost, Clicks, the metrics in the portfolio's objective, and then a couple of other conversion metrics. Where do the other conversion metrics come from? -->) for the spend target for each of 20 spend levels. The target midpoint is identified, and you can optionally change the target midpoint to see the predicted data using that value. Hold the cursor over any point in the graph to see the data for that point.
 
+You can view the data with and without constraints applied, with constraints applied, and without constraints applied. When you view data that takes constraints into consideration, the applied constraints are identified above the graph.
 
+##### Table view
 
+The table view shows the target spend for each of 20 spend levels. It also includes the corresponding estimated cost, marginal cost to objective value, clicks, objective value, and conversion metrics in the portfolio's objective for each spend level. The target midpoint is identified, and you can optionally change the target midpoint to see the predicted data using that value.
 
+You can view the data with and without constraints applied, with constraints applied, and without constraints applied. When you view data that takes constraints into consideration, the applied constraints are identified above the graph.
 
-------------------------
-### Simulation details
+##### Simulation settings
 
-Click any simulation name to see the simulated performance in graph and table views.
+The simulation settings are shown as read-only beneath the graph or table.
 
-#### Graph view
+##### Portfolio settings
 
-The graph view shows cost data based on a specified metric ([!UICONTROL Y-Axis Metric]). For example, you can see cost per objective value. The target midpoint is identified. Hold the cursor over any point in the graph to see the data for that point.
-
-When the simulation was built taking constraints into consideration, the applied constraints are identified, and you can view the data with and without constraints applied, with constraints applied, and without constraints applied.
-
-target midpoint
-
-#### Table view
-
----------------------------
-
-
-
-
-
+To see the read-only settings for the applicable portfolio, click **[!UICONTROL Portfolio Settings]** in the upper right.
 
 ### Custom, user-generated simulations
 
@@ -69,13 +61,25 @@ Each downloaded custom simulation consists of one workbook. Each workbook includ
 
 #### On-screen custom simulation details
 
-<!-- same as for weekly simulations -->
+#### Graph view
 
+The graph view shows the expected objective value or other specified metric ([!UICONTROL Y-Axis Metric]<!-- I see Objective Value, Cost, Clicks, the metrics in the portfolio's objective, and then a couple of other conversion metrics. Where do the other conversion metrics come from? -->) for the spend target for the specified number of spend levels (steps) for the simulation. The target midpoint is identified. Hold the cursor over any point in the graph to see the data for that point.
 
+When the simulation was built taking constraints into consideration, the applied constraints are identified above the graph.
 
+##### Table view
 
+The table view shows the target spend for each of the specified number of spend levels (steps) for the simulation. It also shows the corresponding estimated cost, marginal cost to objective value, clicks, objective value, and conversion metrics in the portfolio's objective for each spend level. The target midpoint is identified.
 
+When the simulation was built taking constraints into consideration, the applied constraints are identified above the graph.
 
+##### Simulation settings
+
+The simulation settings are shown as read-only beneath the graph or table.
+
+##### Portfolio settings
+
+To see the read-only settings for the applicable portfolio, click **[!UICONTROL Portfolio Settings]** in the upper right.
 
 ## The [!UICONTROL Simulations] view
 
@@ -89,13 +93,7 @@ The data table includes the progress of each simulation; a [!UICONTROL Target Mi
 
 * [Generate or rerun a custom simulation](simulation-create.md) for a single portfolio. You can either create a new simulation or regenerate an existing simulation in the list.
 
-* View a weekly or custom simulation in-screen.<!-- Create procedure and add link. Call this "simulation details" or just "in-screen simulation?" -->
-
-
-
-
-
-
+* [View a weekly or custom simulation in-screen](simulation-view.md).
 
 * [Download weekly and custom simulations](simulation-download.md) as [!DNL Microsoft Excel] workbooks in ZIP files.
 
@@ -114,4 +112,5 @@ Monitor simulation reports in the following situations:
 >[!MORELIKETHIS]
 >
 >* [Run or rerun a simulation](simulation-create.md)
+>* [View simulation details](simulation-view.md)
 >* [Download simulations](simulation-download.md)
