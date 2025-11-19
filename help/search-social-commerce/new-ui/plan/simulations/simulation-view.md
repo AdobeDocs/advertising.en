@@ -1,6 +1,6 @@
 ---
 title: View simulation details
-description: Learn how to view simulation details in-screen.
+description: Learn how to view simulation details on-screen.
 feature: Search Optimization, Search Portfolios, Search Simulations
 hide: yes
 ---
@@ -8,7 +8,7 @@ hide: yes
 
 *Beta feature*
 
-You can view simulation details in-screen as a graph or table.
+You can view simulation details on-screen as a graph or table.
 
 1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
 

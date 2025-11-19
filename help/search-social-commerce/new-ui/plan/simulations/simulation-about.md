@@ -31,6 +31,8 @@ Each downloaded weekly simulation consists of one workbook. Each workbook includ
 
 #### On-screen weekly simulation details
 
+On-screen simulation details show portfolio-level visual and tabular insights. For data by campaign, ad groups, bid units, or device, download the simulation instead.
+
 ##### Graph view
 
 The graph view shows the expected objective value or other specified metric ([!UICONTROL Y-Axis Metric]<!-- I see Objective Value, Cost, Clicks, the metrics in the portfolio's objective, and then a couple of other conversion metrics. Where do the other conversion metrics come from? -->) for the spend target for each of 20 spend levels. The target midpoint is identified, and you can optionally change the target midpoint to see the predicted data using that value. Hold the cursor over any point in the graph to see the data for that point.
@@ -93,7 +95,7 @@ The data table includes the progress of each simulation; a [!UICONTROL Target Mi
 
 * [Generate or rerun a custom simulation](simulation-create.md) for a single portfolio. You can either create a new simulation or regenerate an existing simulation in the list.
 
-* [View a weekly or custom simulation in-screen](simulation-view.md).
+* [View a weekly or custom simulation on-screen](simulation-view.md).
 
 * [Download weekly and custom simulations](simulation-download.md) as [!DNL Microsoft Excel] workbooks in ZIP files.
 
