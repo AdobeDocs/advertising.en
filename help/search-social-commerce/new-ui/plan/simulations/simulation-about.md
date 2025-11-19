@@ -31,7 +31,7 @@ Each downloaded weekly simulation consists of one workbook. Each workbook includ
 
 #### On-screen weekly simulation details
 
-On-screen simulation details show portfolio-level visual and tabular insights. For data by campaign, ad groups, bid units, or device, download the simulation instead.
+On-screen simulation details show portfolio-level visual and tabular insights. For data by campaign, ad groups, bid units, or device, [download the simulation](simulation-download.md) instead.
 
 ##### Graph view
 
@@ -62,6 +62,8 @@ You can create a custom simulation report for a single [optimized or active](/he
 Each downloaded custom simulation consists of one workbook. Each workbook includes one worksheet for each specified entity level of simulation (portfolios, campaigns, ad groups, bid units) when data is available for that level. When you specify device-level data, each worksheet includes a [!UICONTROL Device] column. Each worksheet includes one row with data for each applicable entity and (when specified for the report) and device type for each of 20 steps (for example, one row per campaign). The data in each row includes the projected marginal cost-to-revenue, cost, clicks, weighted revenue (objective value), the device type, and conversion metrics included in the objective, based on the corresponding target. The portfolio-level worksheet also includes the target for the step levels, and the entity-level worksheet includes the ad network, account, campaign, and (when applicable) the ad group.   <!-- I don't see a Bid Units tab when specified; clarify when it is and isn't included -->
 
 #### On-screen custom simulation details
+
+On-screen simulation details show portfolio-level visual and tabular insights. For data by campaign, ad groups, bid units, or device, [download the simulation](simulation-download.md) instead.
 
 #### Graph view
 
