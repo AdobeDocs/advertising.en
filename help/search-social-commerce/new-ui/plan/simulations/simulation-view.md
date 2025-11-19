@@ -32,3 +32,4 @@ You can view simulation details on-screen as a graph or table.
 >
 >* [About simulations](simulation-about.md)
 >* [Run or rerun a simulation](simulation-create.md)
+
