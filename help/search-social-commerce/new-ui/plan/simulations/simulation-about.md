@@ -9,7 +9,7 @@ exl-id: 2fbefee2-f8f7-4b3d-a039-e1ca0236c61a
 
 *Beta feature*
 
-Simulation reports show the estimated marginal cost-to-objective value, cost, number of clicks, and objective value that you can expect for a portfolio at various levels of spending (cost) and the corresponding daily budgets or other targets. You can optionally customize the view<!-- add link --> to see additional traffic metrics, simulation settings, and only a specific simulation type ([!UICONTROL Weekly] or [!UICONTROL Custom]).
+Simulation reports show the estimated marginal cost-to-objective value, cost, number of clicks, and objective value that you can expect for a portfolio at various levels of spending (cost) and the corresponding daily budgets or other targets. You can optionally [customize the view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) to see additional traffic metrics, simulation settings, and only a specific simulation type ([!UICONTROL Weekly] or [!UICONTROL Custom]).
 
 <!-- Not available as of 6/21/25:
 When the portfolio has a daily budget, you can optionally change the portfolio's spend target to any of the spend targets listed in the simulation.
@@ -33,6 +33,11 @@ Each downloaded weekly simulation consists of one workbook. Each workbook includ
 
 
 
+
+
+
+
+------------------------
 ### Simulation details
 
 Click any simulation name to see the simulated performance in graph and table views.
@@ -47,6 +52,7 @@ target midpoint
 
 #### Table view
 
+---------------------------
 
 
 
@@ -55,11 +61,7 @@ target midpoint
 
 ### Custom, user-generated simulations
 
-You can create a custom simulation report for a single [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portfolio using the current portfolio settings or using custom portfolio settings to see the results that those settings would produce without actually changing them. For example, you could create a custom simulation to see the effect of using a different spending strategy or learning budget<!-- Not available yet:  , or without considering active constraints on bid units in the portfolio-->. You can view estimated performance at the portfolio, campaign, bid unit, and device levels. Custom simulations inherit the constraints spending setting from the portfolio.
-
->[!NOTE]
->
-> The new custom simulation form uses the same settings as the legacy form, except that it inherits the bid unit constraints information from the portfolio settings. You don't have the option to ignore bid unit constraints, like you did in the old custom simulation settings page.
+You can create a custom simulation report for a single [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portfolio using the current portfolio settings or using custom portfolio settings, with or without bid unit-level constraints applied, to see the results that those settings would produce without actually changing them. For example, you could create a custom simulation to see the effect of using a different spending strategy or learning budget without considering active constraints on bid units in the portfolio. You can view estimated performance at the portfolio, campaign, bid unit, and device levels.
 
 #### Downloaded custom simulations
 
