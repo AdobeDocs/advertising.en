@@ -62,7 +62,7 @@ feature: Search Campaign Management
 
 {{$include /help/_includes/budget.md}}
 
-**[!UICONTROL Google Recommended Budget]:** (Optional; applicable for campaigns with all required settings and that include ad groups only) Click **[!UICONTROL Show Recommendation]** to view the budget that [!DNL Google Ads] recommends.
+**[!UICONTROL Google Recommended Budget]:** (Optional; applicable for performance max and search campaigns with all required settings and that include ad groups only) Click **[!UICONTROL Show Recommendation]** to view the budget that [!DNL Google Ads] recommends. Currently, only campaigns with fewer than 40,000 keywords are eligible.
 
 For performance max and search campaigns, the following settings are required for recommendations:
 
