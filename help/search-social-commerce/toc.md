@@ -73,6 +73,7 @@ index: yes
     + Simulations {#simulations}
       + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
       + [Run or rerun a custom simulation](/help/search-social-commerce/new-ui/plan/simulations/simulation-create.md)
+      + [View simulation details](/help/search-social-commerce/new-ui/plan/simulations/simulation-view.md)
       + [Download simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-download.md)
     + [Using the [!UICONTROL Spend Planner]](/help/search-social-commerce/new-ui/plan/spend-planner.md)
   + Manage {#manage}

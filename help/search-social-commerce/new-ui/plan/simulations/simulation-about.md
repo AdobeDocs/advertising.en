@@ -17,13 +17,73 @@ When the portfolio has a daily budget, you can optionally change the portfolio's
 
 ## Types of simulations
 
-* **Automated weekly simulations:** Simulation reports are run automatically each week using the current portfolio settings. Automated weekly simulations are available only for periods in which the portfolio is [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md).
+* Automated weekly simulations
 
-  Each downloaded weekly simulation consists of one workbook. Each workbook includes the target for each of 20 step levels and the projected cost, clicks, weighted revenue (objective value), and conversion metrics included in the objective, based on the corresponding target. For the first 20 data rows, constraints weren't applied; for the remaining data rows, constraints were applied.
+* Custom, user-generated simulations 
 
-* **Custom, user-generated simulations:** You can create a custom simulation report for a single [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portfolio using the current portfolio settings or using custom portfolio settings, with or without bid unit-level constraints applied, to see the results that those settings would produce without actually changing them. For example, you could create a custom simulation to see the effect of using a different spending strategy or learning budget without considering active constraints on bid units in the portfolio. You can view estimated performance at the portfolio, campaign, bid unit, and device levels.
+### Automated weekly simulations
 
-  Each downloaded custom simulation consists of one workbook. Each workbook includes one worksheet for each specified entity level of simulation (portfolios, campaigns, ad groups, bid units) when data is available for that level. When you specify device-level data, each worksheet includes a [!UICONTROL Device] column. Each worksheet includes one row with data for each applicable entity and (when specified for the report) and device type for each of 20 steps (for example, one row per campaign). The data in each row includes the projected marginal cost-to-revenue, cost, clicks, weighted revenue (objective value), the device type, and conversion metrics included in the objective, based on the corresponding target. The portfolio-level worksheet also includes the target for the step levels, and the entity-level worksheet includes the ad network, account, campaign, and (when applicable) the ad group.   <!-- I don't see a Bid Units tab when specified; clarify when it is and isn't included -->
+Simulation reports are run automatically each week using the current portfolio settings. Automated weekly simulations are available only for periods in which the portfolio is [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md).
+
+#### Downloaded weekly simulations
+
+Each downloaded weekly simulation consists of one workbook. Each workbook includes the target for each of 20 step levels and the projected cost, clicks, weighted revenue (objective value), and conversion metrics included in the objective, based on the corresponding target. For the first 20 data rows, constraints weren't applied; for the remaining data rows, constraints were applied.
+
+#### On-screen weekly simulation details
+
+On-screen simulation details show portfolio-level visual and tabular insights. For data by campaign, ad groups, bid units, or device, [download the simulation](simulation-download.md) instead.
+
+##### Graph view
+
+The graph view shows the expected objective value or other specified metric ([!UICONTROL Y-Axis Metric]<!-- I see Objective Value, Cost, Clicks, the metrics in the portfolio's objective, and then a couple of other conversion metrics. Where do the other conversion metrics come from? -->) for the spend target for each of 20 spend levels. The target midpoint is identified, and you can optionally change the target midpoint to see the predicted data using that value. Hold the cursor over any point in the graph to see the data for that point.
+
+You can view the data with and without constraints applied, with constraints applied, and without constraints applied. When you view data that takes constraints into consideration, the applied constraints are identified above the graph.
+
+##### Table view
+
+The table view shows the target spend for each of 20 spend levels. It also includes the corresponding estimated cost, marginal cost to objective value, clicks, objective value, and conversion metrics in the portfolio's objective for each spend level. The target midpoint is identified, and you can optionally change the target midpoint to see the predicted data using that value.
+
+You can view the data with and without constraints applied, with constraints applied, and without constraints applied. When you view data that takes constraints into consideration, the applied constraints are identified above the graph.
+
+##### Simulation settings
+
+The simulation settings are shown as read-only beneath the graph or table.
+
+##### Portfolio settings
+
+To see the read-only settings for the applicable portfolio, click **[!UICONTROL Portfolio Settings]** in the upper right.
+
+### Custom, user-generated simulations
+
+You can create a custom simulation report for a single [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portfolio using the current portfolio settings or using custom portfolio settings, with or without bid unit-level constraints applied, to see the results that those settings would produce without actually changing them. For example, you could create a custom simulation to see the effect of using a different spending strategy or learning budget without considering active constraints on bid units in the portfolio. You can view estimated performance at the portfolio, campaign, bid unit, and device levels.
+
+#### Downloaded custom simulations
+
+Each downloaded custom simulation consists of one workbook. Each workbook includes one worksheet for each specified entity level of simulation (portfolios, campaigns, ad groups, bid units) when data is available for that level. When you specify device-level data, each worksheet includes a [!UICONTROL Device] column. Each worksheet includes one row with data for each applicable entity and (when specified for the report) and device type for each of 20 steps (for example, one row per campaign). The data in each row includes the projected marginal cost-to-revenue, cost, clicks, weighted revenue (objective value), the device type, and conversion metrics included in the objective, based on the corresponding target. The portfolio-level worksheet also includes the target for the step levels, and the entity-level worksheet includes the ad network, account, campaign, and (when applicable) the ad group.   <!-- I don't see a Bid Units tab when specified; clarify when it is and isn't included -->
+
+#### On-screen custom simulation details
+
+On-screen simulation details show portfolio-level visual and tabular insights. For data by campaign, ad groups, bid units, or device, [download the simulation](simulation-download.md) instead.
+
+#### Graph view
+
+The graph view shows the expected objective value or other specified metric ([!UICONTROL Y-Axis Metric]<!-- I see Objective Value, Cost, Clicks, the metrics in the portfolio's objective, and then a couple of other conversion metrics. Where do the other conversion metrics come from? -->) for the spend target for the specified number of spend levels (steps) for the simulation. The target midpoint is identified. Hold the cursor over any point in the graph to see the data for that point.
+
+When the simulation was built taking constraints into consideration, the applied constraints are identified above the graph.
+
+##### Table view
+
+The table view shows the target spend for each of the specified number of spend levels (steps) for the simulation. It also shows the corresponding estimated cost, marginal cost to objective value, clicks, objective value, and conversion metrics in the portfolio's objective for each spend level. The target midpoint is identified.
+
+When the simulation was built taking constraints into consideration, the applied constraints are identified above the graph.
+
+##### Simulation settings
+
+The simulation settings are shown as read-only beneath the graph or table.
+
+##### Portfolio settings
+
+To see the read-only settings for the applicable portfolio, click **[!UICONTROL Portfolio Settings]** in the upper right.
 
 ## The [!UICONTROL Simulations] view
 
@@ -36,6 +96,8 @@ The data table includes the progress of each simulation; a [!UICONTROL Target Mi
 * [Customize the view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) to include additional metrics, including the estimated impressions; the actual cost, clicks, impressions, and objective value; the cost-to-objective value; the cost accuracy, click accuracy, and objective value accuracy; and the difference (delta) between the predicted and actual objective value and cost-to-objective value. You can also include columns for most of the simulation settings and the simulation type ([!UICONTROL Custom] or [!UICONTROL Weekly]).
 
 * [Generate or rerun a custom simulation](simulation-create.md) for a single portfolio. You can either create a new simulation or regenerate an existing simulation in the list.
+
+* [View a weekly or custom simulation on-screen](simulation-view.md).
 
 * [Download weekly and custom simulations](simulation-download.md) as [!DNL Microsoft Excel] workbooks in ZIP files.
 
@@ -54,4 +116,5 @@ Monitor simulation reports in the following situations:
 >[!MORELIKETHIS]
 >
 >* [Run or rerun a simulation](simulation-create.md)
+>* [View simulation details](simulation-view.md)
 >* [Download simulations](simulation-download.md)

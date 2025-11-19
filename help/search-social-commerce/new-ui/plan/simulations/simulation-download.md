@@ -13,7 +13,8 @@ You can download the data for multiple simulations at a time to a file in ZIP fo
 
 >[!NOTE]
 >
->You can also [customize the [!UICONTROL Simulations] view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) to include columns for many additional metrics and most of the simulation settings. See the "Available actions" section in "[About simulations](simulation-about.md#simulations-actions) for more information about the columns you can include.
+>* You can also [view the simulation results on-screen](simulation-view.md).
+>* You can [customize the [!UICONTROL Simulations] view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) to include columns for many additional metrics and most of the simulation settings. See the "Available actions" section in "[About simulations](simulation-about.md#simulations-actions) for more information about the columns you can include.
 
 1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
 
@@ -27,3 +28,4 @@ You can download the data for multiple simulations at a time to a file in ZIP fo
 >
 >* [About simulations](simulation-about.md)
 >* [Run or rerun a simulation](simulation-create.md)
+>* [View simulation details](simulation-view.md)
