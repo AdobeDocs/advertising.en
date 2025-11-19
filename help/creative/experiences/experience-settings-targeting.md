@@ -32,6 +32,8 @@ For experiences with decision tree targeting, you can override the default creat
 
 ## [!UICONTROL Targeting] section
 
+The experience-level targets are applied in conjunction with your DSP's targeting options; hierarchical targeting behavior may vary by DSP. For example, Adobe Advertising DSP applies ad-level targeting on top of (not instead of) placement-level targeting. Make sure that your ad experiences include targeting that's compatible with the campaigns in which you'll implement it.
+
 **[!UICONTROL Targeting]:** (Read-only for existing experiences) Enables creative targeting using a decision tree and automatic tag creation. Once you save the experience, you can't change this setting.
 
 **[!UICONTROL Language Targeting]:** (Experiences with standard ads only; optional; read-only for existing experiences) Checks the user's browser language settings and displays a creative in the specified language when a creative in that language is available. When a creative in the browser-specified language isn't available, the [!UICONTROL Preferred language] setting is used instead.

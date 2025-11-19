@@ -50,14 +50,33 @@ feature: Search Campaign Management
 
 {{$include /help/_includes/end-date.md}}
 
-**[!UICONTROL Search Partners]:** (Campaigns that target the search network only, including shopping campaigns) Shows
-your ads on the ad network's search partner networks. By default, this option is *[!UICONTROL Off]*.
+**[!UICONTROL Search Partners]:** (Campaigns that target the search network only, including shopping campaigns) Shows your ads on the ad network's search partner networks. By default, this option is *[!UICONTROL Off]*.
+
+**[!UICONTROL AI Max Enabled]:** (Campaigns that target the search network only; read-only) Whether the [[!UICONTROL AI Max] feature](https://support.google.com/google-ads/answer/15910366) is enabled: *[!UICONTROL On]* or *[!UICONTROL Off]*.
+
+**[!UICONTROL AI Max Bundling]:** (Campaigns that target the search network only; campaigns with the AI Max feature enabled; read-only) Whether bundling is required: *[!UICONTROL Not Required]*, *[!UICONTROL Required]*, *[!UICONTROL Unknown]*, or *[!UICONTROL Unspecified]*.
 
 ## [!UICONTROL Budget Options]
 
 <!-- **[!UICONTROL Budget]:** -->
 
 {{$include /help/_includes/budget.md}}
+
+**[!UICONTROL Google Recommended Budget]:** (Optional; applicable for performance max and search campaigns with all required settings and that include ad groups only) Click **[!UICONTROL Show Recommendation]** to view the budget that [!DNL Google Ads] recommends. Currently, only campaigns with fewer than 40,000 keywords are eligible.
+
+For performance max and search campaigns, the following settings are required for recommendations:
+
+* bid strategy type
+* final URL
+* asset groups
+
+For search campaigns, the following additional settings are also required for recommendations:
+
+* bid strategy target
+* country
+* language
+* an included or excluded location
+* keywords
 
 <!-- **[!UICONTROL Delivery Method]:** -->
 

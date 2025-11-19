@@ -38,7 +38,7 @@ You can set up dynamic ads in either of two ways:
 
 ## Workflow 2
 
-1. [Create an ad template](/help/creative/ad-templates/ad-template-manage.md) for your dynamic ads based on the assets available.
+1. [Create an ad template](/help/creative/ad-templates/ad-template-manage.md) for your dynamic ads based on the assets available. The ad template includes an HTML5 file with the desired ad format and (dynamic HTML5 ads only) a file with the ad attributes.
 
 1. Set up your ad elements:
 

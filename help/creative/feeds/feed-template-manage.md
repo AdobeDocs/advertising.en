@@ -83,7 +83,9 @@ Downloaded feed templates are in zipped Microsoft Excel spreadsheet (XLSX) forma
 
 ### [!UICONTROL Field Mapping] settings
 
-Map each field in the feed file to a field on the Advertising Creative backend.<!-- Check w/product: What is displayed where in the UI/reports and published ads? --> At least one feed file field must be marked as "[!UICONTROL Is Unique]." To add a field mapping, click **[!UICONTROL +]**. To remove the last field mapping, click **[!UICONTROL +]**.
+Map each field in the feed file to a field on the Advertising Creative backend. See "[Available fields for dynamic ad feed files](/help/creative/appendix-available-feed-fields.md)" for a list of the backend fields and their required attributes.<!-- Check w/product: What is displayed where in the UI/reports and published ads? -->
+
+At least one feed file field must be marked as "[!UICONTROL Is Unique]." To add a field mapping, click **[!UICONTROL +]**. To remove the last field mapping, click **[!UICONTROL +]**.
 
 **[!UICONTROL Field Name]:** The field in the feed file.
 
@@ -91,7 +93,7 @@ Map each field in the feed file to a field on the Advertising Creative backend.<
 
 **[!UICONTROL Is Unique]:** Indicates that the field is a unique ID (key). At least one field per feed template must be unique. To select this option, click the button to move it to the right.<!-- **Note: The unique identifier is different from the feed "trigger" in experience settings. -->
 
-**[!UICONTROL Backend Field]:** The field on the Advertising Creative backend that maps to the specified [!UICONTROL Field Name] in the feed file.
+**[!UICONTROL Backend Field]:** The [field on the Advertising Creative backend](/help/creative/appendix-available-feed-fields.md) that maps to the specified [!UICONTROL Field Name] in the feed file.
 
 >[!MORELIKETHIS]
 >

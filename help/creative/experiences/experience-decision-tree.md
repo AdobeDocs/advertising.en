@@ -30,7 +30,9 @@ Initially, each decision tree begins with the root level, "All." You can add one
 
 ## Targets in a decision tree
 
-Each decision tree can have up to five levels of targets. Each target level can include multiple branches, each with one or more nodes with the same target type (audience segment, geographical location type, values for specified data pass keys, attributes for a specified retargeting pixel, or device category). You can assign creative bundles in each ad size for which you've specified a default image creative or video creative to the lowest-level target nodes.
+Each decision tree can have up to five levels of targets. The experience-level targets are applied in conjunction with your DSP's targeting options; hierarchical targeting behavior may vary by DSP. Make sure that your ad experiences include targeting that's compatible with the campaigns in which you'll implement it.
+
+Each target level can include multiple branches, each with one or more nodes with the same target type (audience segment, geographical location type, values for specified data pass keys, attributes for a specified retargeting pixel, or device category). You can assign creative bundles in each ad size for which you've specified a default image creative or video creative to the lowest-level target nodes.
 
 ![Example of a decision tree with targets](/help/creative/assets/experience-decision-tree.png "Example of a decision tree with targets")
 
@@ -44,7 +46,7 @@ For all parent nodes, you can optionally copy all child target nodes and creativ
 
 Assign creative bundles to each final target node in the experience.
 
-Within each node with creative bundles, you can optionally rotate the included creatives either a) according to specified weights or b) algorithmically to optimize the click-through rate or a custom objective. You can also optionally rotate the creatives in a specified time sequence using the same options.
+Within each node with creative bundles, you can optionally rotate the included creatives a) algorithmically to optimize the click-through rate or a custom objective, b) according to specified weights, or c) in a specific sequence. You can also optionally rotate the creatives in a specified time sequence any combination of the same options.
 
 You can optionally customize the landing page URLs, impression-tracking URLs, and click-tracking URLs, as needed for individual creatives. <!-- Not in the UI as of 1/31: For flexible HTML5 creatives, you can customize any of the flexible attributes. -->
 

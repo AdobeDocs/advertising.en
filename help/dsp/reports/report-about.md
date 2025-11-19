@@ -29,17 +29,19 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 
 * Pre-configured Report Templates
 
+    * **[!UICONTROL All-in Cost BETA]**: (Advertisers with both Advertising Creative and Advertising DSP only; beta feature) Use this report to see how much Advertising DSP spend was attributed to ad serving for Adobe Creative. You can view creative, attribute, target, and other data at the campaign, package, placement, and ad levels.
+
     * **[!UICONTROL Billing]:** Use this report to understand key billing metrics like spend metrics for media billing by campaign. Data isn't available for placements that target universal IDs.
 
        >[!NOTE]
        >
        >This report includes data about the billing segment. If a user or device is served an impression that belongs to multiple segments, only one billable segment is credited with the impression.
+  
+    * **[!UICONTROL Content]:** Use this report to understand impression delivery and other metrics by specified content dimensions (such as genre, production quality, and content rating) so that you can optimize targeting and ensure brand safety. In addition to content dimensions, the report includes most standard dimensions, metrics, and filters. Data by content dimension is available for [!DNL Freewheel], [!DNL Index], [!DNL Magnite], [!DNL Microsoft], [!DNL Nexxen], [!DNL Pubmatic], [!DNL Sharethrough], and [!DNL Triplelift]. Content signals are passed by publishers during the bidstream and are subject to availability.
 
     * **[!UICONTROL Conversion]:** Use this report to understand how your campaigns are performing based on conversion metrics captured using Adobe Advertising conversion tracking. This report includes multi-touch attribution.
 
-    <!--
-    * **[!UICONTROL Custom Creative Report Beta]:** (Beta feature) Use this report to monitor performance across your Advertising Creative ad experiences.
-    -->
+    * **[!UICONTROL Custom Creative]:** (Advertisers with Advertising Creative only) Use this report to monitor performance across your Advertising Creative ad experiences.
 
     * **[!UICONTROL Device]:** Use this pre-populated template to see key metrics by device-related dimensions.
 
@@ -59,22 +61,13 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
        >* For some private inventory, publishers don't pass along a device identifier, which prevents frequency tracking.
 
     * **[!UICONTROL Geo]**: Use this pre-populated template to see key metrics by geographic dimensions.
+    
+    * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs About Household Reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
+
+    * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs About Household Reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
 
     * **[!UICONTROL Margin]:** Use this report to see key metrics like margin, profit, and other spend metrics by campaign or placement. Data isn't available for placements that target universal IDs.
 
-    * **[!UICONTROL Segment]:** Use this pre-populated template to see key metrics by segment.
-
-       >[!NOTE]
-       >
-       >* This report is intended to show how different targeted segments perform. It uses segment membership data. When an impression is served to a person or device belonging to two or more targeted segments, this report includes one row for each segment. For this reason, totals in this report may not match actual delivery.
-       >* Conversion metrics and custom goal data for segments are available after 2 August 2019. All other data for segments is available beginning after 1 June 1 2018.
-
-    * **[!UICONTROL Site]:** By default, includes standard metrics, total media net spend, and total billable net spend by site.
-
-    * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs About Household Reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
-    
-    * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs About Household Reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
-  
     * **[!UICONTROL Path to Conversion]:** Use this report to identify how to optimize budgets and personalize ads based on top-performing ad interaction sequences. The report shows the sequence of interaction points in the same household that lead to each of the selected conversion metrics in the specified data range. The report uses a specified lookback period between the first interaction and a conversion and can include one dimension:
     
       * [!UICONTROL Channel Assist Type]: Shows how the following  marketing channels have assisted the conversion process: [!UICONTROL Audio Impression], [!UICONTROL CTV Impression], [!UICONTROL Display Click], [!UICONTROL Display Impression], [!UICONTROL Native Click], [!UICONTROL Native Impression], [!UICONTROL Search Click], [!UICONTROL Video Click], or [!UICONTROL Video Impression].
@@ -94,10 +87,17 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
     * **[!UICONTROL Path Length]:** Use this report to track the number of user interaction points required for conversions over time so you can choose the optimal ad frequency. The report shows the number of conversions by path length (interaction points), such as how many conversions occurred after users had only one ad interaction, two ad interactions, and so on. The report can include data for multiple conversion metrics and uses a specified lookback period between the first interaction and a conversion. Columns in the report include "[!UICONTROL Path Length]," "[!UICONTROL Number of] \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 1\>," \<Conversion Metric Name 2\>," "% \<Conversion Metric Name 2\>," and so on.
     
       Data is shown for each path length of up to 10; data for path lengths greater than 10 are grouped together.
+
+    * **[!UICONTROL Segment]:** Use this pre-populated template to see key metrics by segment.
+
+       >[!NOTE]
+       >
+       >* This report is intended to show how different targeted segments perform. It uses segment membership data. When an impression is served to a person or device belonging to two or more targeted segments, this report includes one row for each segment. For this reason, totals in this report may not match actual delivery.
+       >* Conversion metrics and custom goal data for segments are available after 2 August 2019. All other data for segments is available beginning after 1 June 1 2018.
+
+    * **[!UICONTROL Site]:** By default, includes standard metrics, total media net spend, and total billable net spend by site.
     
     * **[!UICONTROL Time to Conversion]:** Use this report to determine the optimal attribution lookback window and to identify campaigns with longer times to conversion, which may benefit from retargeting. The report shows the number of conversions by the length of time in days from the last interaction (ad exposure or click) to conversion. The report can include data for multiple conversion metrics and uses a specified lookback period between the first interaction and a conversion. Columns in the report include "[!UICONTROL Time Taken (in days)]," "[!UICONTROL Number of] \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 1\>," \<Conversion Metric Name 2\>," "% \<Conversion Metric Name 2\>," and so on. Conversions that take longer than the lookback period are grouped together in one row (for example, if the report uses a 30-day lookback period, then all conversions that take longer than 30 days to occur are grouped together in a row with a "[!UICONTROL Time Taken (in days)]" value of "30+").
-      
-    * **[!UICONTROL Content BETA]:** Use this report to understand impression delivery and other metrics by specified content dimensions (such as genre, production quality, and content rating) so that you can optimize targeting and ensure brand safety. In addition to content dimensions, the report includes most standard dimensions, metrics, and filters. Data by content dimension is available for [!DNL Freewheel], [!DNL Index], [!DNL Magnite], [!DNL Microsoft], [!DNL Nexxen], [!DNL Pubmatic], [!DNL Sharethrough], and [!DNL Triplelift]. Content signals are passed by publishers during the bidstream and are subject to availability.
 
 ## Cross-Account Reporting {#cross-account-reporting}
 
@@ -109,7 +109,7 @@ Your account settings at [!UICONTROL Settings] > [!UICONTROL Account] indicate a
 
 ## The [!UICONTROL Custom Reports] View
 
-[!UICONTROL Reports] > [!UICONTROL Custom Reports] lists your existing reports, including reports that were generated, those that are scheduled for future generation, and those that failed. The “[!UICONTROL Report Run]" column shows dates on which the report was triggered beginning on 22 August 2024. By default, all unarchived reports created by the user are listed, with the most recent on top. You can further filter the list by status, whether the report is recurring or one-time, the report type, the destination type, and the report creator. 
+[!UICONTROL Reports] > [!UICONTROL Custom Reports] lists your existing reports, including reports that were generated, those that are scheduled for future generation, and those that failed. The "[!UICONTROL Report Run]" column shows dates on which the report was triggered beginning on 22 August 2024. By default, all unarchived reports created by the user are listed, with the most recent on top. You can further filter the list by status, whether the report is recurring or one-time, the report type, the destination type, and the report creator. 
 
 You can create new custom reports, edit existing reports or duplicate them to create new reports, run reports immediately, download any report instance from the last four months, and delete reports. 
 

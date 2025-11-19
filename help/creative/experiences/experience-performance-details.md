@@ -76,7 +76,7 @@ The Report view includes the following data:
 
    * (Optional) To change the conversions reported, click ![Settings](/help/creative/assets/settings.png) and select the conversion names in the **[!UICONTROL Conversions]** menu. Currently, the only metric available is "Select All" to include all conversion metrics.
 
-     The available conversion columns include the conversions available in Advertising Search, Social, & Commerce, whether or not you are a Search, Social, & Commerce customer. The list can include conversion and site engagement metrics synced from Adobe Analytics when the advertiser has [an [!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md). [!DNL Analytics] calculated metrics and advanced calculated metrics aren't available. For more information about including collected conversions in reports, see the Search, Social, & Commerce Guide topic “[About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)."
+     The available conversion columns include the conversions available in Advertising Search, Social, & Commerce, whether or not you are a Search, Social, & Commerce customer. The list can include conversion and site engagement metrics synced from Adobe Analytics when the advertiser has [an [!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md). [!DNL Analytics] calculated metrics and advanced calculated metrics aren't available. For more information about including collected conversions in reports, see the Search, Social, & Commerce Guide topic "[About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)."
 
 1. (On the [!UICONTROL Overview] tab):
 
@@ -122,6 +122,7 @@ The Report view includes the following data:
 
 >[!MORELIKETHIS]
 >
->* [Custom Creative Report](/help/creative/report-custom-creative.md)
+>* [About custom reports](/help/creative/reports/reports-about.md)
+>* [Manage custom reports](/help/creative/reports/report-manage.md)
 >* [Download all experiences in the view](/help/creative/experiences/experience-download-view.md)
 >* [About experiences in Advertising Creative](/help/creative/experiences/experience-about.md)

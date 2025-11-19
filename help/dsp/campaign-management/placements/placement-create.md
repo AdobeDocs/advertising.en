@@ -40,7 +40,7 @@ exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 
       For most placement types, all inventory types, and all sources for each type, are included by default. For [!DNL Roku] placements, you must specify the inventory type and sources.
 
-   1. (Optional) In the [!UICONTROL Site Targeting] section, narrow down the sites that you want to target, and specify any sites that you want to exclude.
+   1. (Optional) In the [!UICONTROL Site or app And Keyword Targeting] section, narrow down the sites and apps that you want to target and exclude.
 
    1. (Optional) In the [!UICONTROL Audience Targeting] section:
 

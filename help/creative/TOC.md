@@ -77,9 +77,12 @@ breadcrumb-title: Creative Guide
   + [Manage catalogs](/help/creative/feeds/catalog-manage.md)
   + [Track the status of catalog processing jobs](/help/creative/feeds/job-status-track.md)
 + [Manage dynamic ad templates](/help/creative/ad-templates/ad-template-manage.md)
++ [Appendix: Available fields for dynamic ad feed files](/help/creative/appendix-available-feed-fields.md)
 + Performance reports {#reports}
   + [Experience-level performance reports](/help/creative/experiences/experience-performance-details.md)
-  + [Custom Creative Report](/help/creative/report-custom-creative.md)
+  + [Custom reports]{#custom-reports}
+    + [About custom reports](/help/creative/reports/reports-about.md)
+    + [Manage custom reports](/help/creative/reports/report-manage.md)
 + [Retargeting pixels](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Available macros for tracking URLs](/help/creative/creative-macros.md)
 + [Get help](/help/creative/get-help.md)

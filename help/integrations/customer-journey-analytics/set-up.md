@@ -174,7 +174,7 @@ In Customer Journey Analytics, create one or more data views to define the metri
        
          * In the [!UICONTROL Included components] section, add the derived field.
          
-           Two names are now listed for the same dimension (for example, "Adobe Advertising Campaign(DF)"(the derived field) and "Adobe Advertising Campaign" (the field in the summary dataset)).
+           Two names are now listed for the same dimension (for example, "Adobe Advertising Campaign(DF)" (the derived field) and "Adobe Advertising Campaign" (the field in the summary dataset)).
 
          * Select the dimension in the summary dataset (such as "Adobe Advertising Campaign") and edit the settings for the dataset.
 
