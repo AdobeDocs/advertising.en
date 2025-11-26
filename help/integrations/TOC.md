@@ -8,8 +8,6 @@ index: yes
 
 # Adobe Advertising Integrations with Adobe Experience Cloud {#integrations}
 
-<!--  ADD LATER: and Adobe Experience Platform -->
-
 + [What's New](/help/integrations/home.md)
 + [!DNL Analytics for Advertising] {#analytics}
     + [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
@@ -49,4 +47,4 @@ index: yes
   + [Adobe Advertising IDs Used by Customer Journey Analytics](/help/integrations/customer-journey-analytics/ids.md)
   + [Set up data collection, data transfer, and reporting](/help/integrations/customer-journey-analytics/set-up.md)
   + [Adobe Advertising metrics and dimensions in Customer Journey Analytics](/help/integrations/customer-journey-analytics/advertising-data-in-cja.md)
-+ [Videos Tutorials About Adobe Advertising Integrations](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
++ [Videos Tutorials About Adobe Advertising Integrations](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html)

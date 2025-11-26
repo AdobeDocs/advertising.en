@@ -125,8 +125,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | Field | Required? |
 | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
-| [!UICONTROL Campaign Name] | Required | The unique name that identifies a campaign for an account. |
-| [!UICONTROL Campaign Budget] | Required to create a campaign. | A daily spending limit for the campaign, with or without monetary symbols and punctuation. This value overrides but can't exceed the account budget. |
+| [!UICONTROL Campaign Name] | Required. The unique name that identifies a campaign for an account. |
+| [!UICONTROL Campaign Budget] | Required to create a campaign. A daily spending limit for the campaign, with or without monetary symbols and punctuation. This value overrides but can't exceed the account budget. |
 | [!UICONTROL Channel Type] | Required to create a campaign. |
 | [!UICONTROL Delivery Method] | Optional |
 | [!UICONTROL Campaign Priority] | Required to create a shopping campaign. |
@@ -210,7 +210,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Ad Group Name] | Required  |
-[!UICONTROL Description Line 1]-[!UICONTROL Description Line 2] Required to edit the description. <b>Note:</b> For this ad type, changing ad copy deletes the existing ad and creates a new one. |
+| [!UICONTROL Description Line 1]-[!UICONTROL Description Line 2] | Required to edit the description. <b>Note:</b> For this ad type, changing ad copy deletes the existing ad and creates a new one. |
 | [!UICONTROL Display Path 1] | Required to edit the field. |
 | [!UICONTROL Display Path 2] | Required to edit the field. |
 | [!UICONTROL Creative Type] | Required to create or edit the status of a product ad. |
@@ -219,7 +219,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | \[Advertiser-specific Label Classification\] | Optional |
 | [!UICONTROL Campaign ID] | Optional |
 | [!UICONTROL Ad Group ID] | Optional |
-| [!UICONTROL Ad ID] | Required only when you change the ad status, unless the row includes a) sufficient ad property columns to identify the ad or b) an "[!UICONTROL AMO ID]." However, if you include neither the [!UICONTROL Ad ID] nor [!UICONTROL AMO ID], and the ad property columns match multiple ads, then the status for only one of the ads changes. |
+| [!UICONTROL Ad ID] | Required only when you change the ad status, unless the row includes a&rpar; sufficient ad property columns to identify the ad or b&rpar; an "[!UICONTROL AMO ID]." However, if you include neither the [!UICONTROL Ad ID] nor [!UICONTROL AMO ID], and the ad property columns match multiple ads, then the status for only one of the ads changes. |
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Product (shopping) ad fields
@@ -284,7 +284,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
-| [!UICONTROL Ad Group Name] | Required  | |
+| [!UICONTROL Ad Group Name] | Required  |
 | [!UICONTROL Ad Title], [!UICONTROL Ad Title 2]-[!UICONTROL Ad Title 15] | For responsive search ads, [!UICONTROL Ad Title], [!UICONTROL Ad Title 2], and [!UICONTROL Ad Title 3] are required to create an ad, and all other ad title fields are optional. To delete the existing value for a non-required field, use the value `[delete]` (including the brackets). |
 | [!UICONTROL Ad Title 1 Position]-[!UICONTROL Ad Title 15 Position] | Optional |
 | [!UICONTROL Description Line 1]-[!UICONTROL Description Line 4] | For responsive search ads, [!UICONTROL Description Line 1] and [!UICONTROL Description Line 2] are required to create an ad, and [!UICONTROL Description Line 3] and [!UICONTROL Description Line 4] are optional. To delete the existing value, use the value `[delete]` (including the brackets). |
@@ -300,7 +300,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL Campaign ID] | Optional |
 | [!UICONTROL Ad Group ID] | Optional |
 | [!UICONTROL Ad ID] | Required to edit or delete ads unless the row includes an "[!UICONTROL AMO ID]." |
-| [!UICONTROL AMO ID] | Required to edit or delete ads unless you include the Ad ID. | 
+| [!UICONTROL AMO ID] | Required to edit or delete ads unless you include the Ad ID. |
 
 ### Text ad fields
 
@@ -318,7 +318,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Ad Group Name] | Required  |
 | [!UICONTROL Ad Title], [!UICONTROL Ad Title 2]-[!UICONTROL Ad Title 3] | Read-only |
-[!UICONTROL Description Line 1]-[!UICONTROL Description Line 2] Read-only |
+| [!UICONTROL Description Line 1]-[!UICONTROL Description Line 2] | Read-only |
 | [!UICONTROL Display URL] | Read-only |
 | [!UICONTROL Display Path 1] | Read-only |
 | [!UICONTROL Display Path 2] | Read-only |
@@ -424,7 +424,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 
 For a description of each data field, see "[All available data fields](#bulksheet-fields-all-microsoft)."
 
-| Field | Required? | 
+| Field | Required? |
 | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |

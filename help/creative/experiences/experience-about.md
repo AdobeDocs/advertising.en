@@ -78,7 +78,7 @@ The status of an experience is set automatically, except for *Deleted,* which yo
 | [!UICONTROL Live] | The experience includes all the required elements, so you can generate an experience tag to implement as an ad in a DSP. A live experience may be scheduled to start in the future. |
 | [!UICONTROL Draft] | All branches of the experience aren't assigned creatives, so the experience is incomplete, and you can't generate an experience tag. |
 | [!UICONTROL Processing] | A previously live experience was edited but is now incomplete. You can't generate an experience tag for it. **Note:** If you already implemented an experience tag for the experience, then the previously live version can still be served. If you later complete the experience &mdash; making it live again &mdash; then the new version can be served using the existing tag implementation. |
-| [!UICONTROL Deleted] | The experience was deleted from [!DNL Creative] and is no longer visible in the [!UICONTROL Experiences] views. | 
+| [!UICONTROL Deleted] | The experience was deleted from [!DNL Creative] and is no longer visible in the [!UICONTROL Experiences] views. |
 
 >[!NOTE]
 >
