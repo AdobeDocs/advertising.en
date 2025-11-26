@@ -32,7 +32,7 @@ The following are the columns that are available for each report. The default co
 | [!UICONTROL Path Size] | Default | The number of campaigns in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL First Campaign] | Default | The first campaign in the conversion path. |
 | [!UICONTROL Last Campaign] | Default | The last campaign that resulted in conversions (even if the last keyword is outside of the specified path size.)<br><br>If you included any of the report options to indicate the ad network, account name, or event type after the entity name, then that information is included after the campaign name (such as `"<"campaign name> [Google] [Account1] [impression]`"). |
-| \[Advertiser-specific custom (derived) metrics\] | Custom | The value for a custom metric you've created that’s calculated from existing metrics. |
+| \[Advertiser-specific custom (derived) metrics\] | Custom | The value for a custom metric you've created that's calculated from existing metrics. |
 | \[Advertiser-specific conversion metrics\] | Custom | The number of conversions for a specified conversion metric or site engagement metric. |
 | [!UICONTROL % of Total] \[conversion metric\] | Automatic | (Not available in report settings but automatically included in report output for each conversion metrics included) The number of conversions for a specified conversion metric that resulted from the campaign pattern. |
 | [!UICONTROL 6th Campaign] to [!UICONTROL 20th Campaign] | Custom | The sixth through 20th campaigns in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j).<br><br>If you included any of the report options to indicate the ad network, account name, or event type after the entity name, then that information is included after the campaign name (such as `"<"campaign name> [Baidu] [Account1] [click]`"). |
@@ -41,8 +41,8 @@ The following are the columns that are available for each report. The default co
 | [!UICONTROL EF Campaign ID] | Custom | The numeric ID that Search, Social, & Commerce assigns to the campaign. |
 | [!UICONTROL EF Portfolio Group ID] | Custom | The numeric ID for the portfolio group to which the portfolio belongs. |
 | [!UICONTROL EF Search Engine ID] | Custom | The numeric ID that Search, Social, & Commerce assigns to the ad network: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL Yahoo! Japan Ads], <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (deprecated), or <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (deprecated). |
-| [!UICONTROL Portfolio ID] | The numeric portfolio ID. |
-| [!UICONTROL User SE Account ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network. |
+| [!UICONTROL Portfolio ID] | The numeric portfolio ID. ||
+| [!UICONTROL User SE Account ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network. ||
 
 >[!MORELIKETHIS]
 >

@@ -69,7 +69,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Conversions from Interactions Rate] | ([!UICONTROL Google Asset Group Performance Report]) The number of conversions from ad interactions divided by the number of ad interactions. This value considers only conversion actions for which the `include_in_conversions_metric` attribute is set to `true`. |
 | [!UICONTROL Conversions Qualified] | ([!UICONTROL MSA Ad Extension] reports) The number of conversions. |
 | [!UICONTROL Cost] | The total cost for ads during the specified date range. |
-| [!UICONTROL Cost Per Assist] | ([!UICONTROL MSA Ad Extension] reports) The total cost per assist. | 
+| [!UICONTROL Cost Per Assist] | ([!UICONTROL MSA Ad Extension] reports) The total cost per assist. |
 | [!UICONTROL Cost Per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The total cost per conversion. |
 | [!UICONTROL Country] | ([!UICONTROL AdWords Geo Report] and [!UICONTROL Bing Ads Geo Report]) A country from which clicks originated. It's determined from the user's IP address. |
 | [!UICONTROL CPC] | The cost per click (CPC) for ads during the specified date range. |
@@ -139,7 +139,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Region] | ([!UICONTROL AdWords Geo Report] and [!UICONTROL Bing Ads Geo Report]) A region or U.S./Canadian state for which impressions or clicks originated. It's determined from the user's IP address. |
 | [!UICONTROL Return on Ad Spend] | ([!UICONTROL MSA Ad Extension] reports) The total revenue divided by spend, expressed as a percentage. |
 | [!UICONTROL Revenue] | ([!UICONTROL MSA Ad Extension] reports, [!UICONTROL MSA Network Performance Report]) The total revenue. |
-| [!UICONTROL Revenue per Assist] | ([!UICONTROL MSA Ad Extension] reports) The total revenue per assist. | 
+| [!UICONTROL Revenue per Assist] | ([!UICONTROL MSA Ad Extension] reports) The total revenue per assist. |
 | [!UICONTROL Revenue per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The total revenue per conversion. |
 | [!UICONTROL SE Account Name] | The account name on the ad network. |
 | [!UICONTROL SE Creative ID] | The ad ID assigned by the network. |

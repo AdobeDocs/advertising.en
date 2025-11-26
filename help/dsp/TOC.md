@@ -8,14 +8,6 @@ index: yes
 
 # Advertising DSP Guide {#dsp}
 
-<!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
-      + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
--->
-
-<!-- add back to Inventory > SAS section when reimplemented:
-      +  [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
--->
-
 + [What's New](/help/dsp/home.md)
 + [Sign in to Adobe Advertising DSP](/help/dsp/introduction/sign-in.md)
 + Introduction {#introduction}
@@ -26,8 +18,8 @@ index: yes
     + [Cross-Device Solutions](/help/dsp/introduction/features/cross-device-solutions.md)
   + [Account Funding](/help/dsp/introduction/billing/account-funding.md)
   + [Currencies Supported](/help/dsp/currency.md)
-  + [Support for Consumer Privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-  + [Policies and Guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+  + [Support for Consumer Privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
+  + [Policies and Guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
   + [Advanced Measurement Solutions](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
   + [Overview of Campaign Management Structure](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -78,7 +70,7 @@ index: yes
     + [Review Ad Details Using Spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
     + [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
     + [Duplicate an Ad](/help/dsp/campaign-management/ads/ad-duplicate.md)
-    + [Attach and Remove Ads from Placements](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+    + [Attach and Remove Ads from Placements](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)
     + [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
     + [View a Detailed Report for an Ad](/help/dsp/campaign-management/ads/ad-view-report.md)
     + [Pause or Activate an Ad](/help/dsp/campaign-management/ads/ad-pause-activate.md)
@@ -233,6 +225,15 @@ index: yes
   + Notifications {#notifications}
     + [About Alert Subscriptions](/help/dsp/admin/alerts-about.md)
     + [Manage Alert Subscriptions](/help/dsp/admin/alerts-manage.md)
-+ [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
++ [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)
 + [Get Help](/help/dsp/get-help.md)
 + [Adobe Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
+
+
+<!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
+      + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
+-->
+
+<!-- add back to Inventory > SAS section when reimplemented:
+      +  [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](/help/dsp/inventory/simple-deal-show-pixels.md)
+-->

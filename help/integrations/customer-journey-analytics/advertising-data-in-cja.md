@@ -63,26 +63,26 @@ In the following table:
 
 | Adobe Advertising Field Name | XDM Field Name | XDM Field Display Name | Source |
 |------------------------------|----------------|------------------------|--------|
-| Key | skwcid | Adobe Advertising ID |
-| Ad Platform | adobe_advertising_ad_platform | Adobe Advertising Ad Platform |
-| Account | adobe_advertising_account | Adobe Advertising Account |
-| Campaign | adobe_advertising_campaign | Adobe Advertising Campaign |
-| Ad Group | adobe_advertising_ad_group | Adobe Advertising Ad Group |
-| Keyword | adobe_advertising_keyword | Adobe Advertising Keyword |
-| Ad | adobe_advertising_ad | Adobe Advertising Ad |
-| Placement | adobe_advertising_placement | Adobe Advertising Placement |
-| Match Type | adobe_advertising_match_type | Adobe Advertising Match Type |
-| Ad Title | adobe_advertising_ad_title | Adobe Advertising Ad Title |
-| Ad Description | adobe_advertising_ad_description | Adobe Advertising Ad Description |
-| Ad Destination URL | adobe_advertising_ad_destination_url | Adobe Advertising Ad Destination URL |
-| Ad Display URL | adobe_advertising_ad_display_url | Adobe Advertising Ad Display URL |
-| Device | adobe_advertising_device | Adobe Advertising Device |
-| Keyword MatchType | adobe_advertising_keyword_matchtype | Adobe Advertising Keyword MatchType |
-| Network | adobe_advertising_network | Adobe Advertising Network |
-| Ad Type | adobe_advertising_ad_type | Adobe Advertising Ad Type |
-| Product Target | adobe_advertising_product_target | Adobe Advertising Product Target |
-| Landing Type | adobe_advertising_landing_type | Adobe Advertising Landing Type |
-| Optimization | adobe_advertising_optimization | Adobe Advertising Optimization |
+| Key | skwcid | Adobe Advertising ID ||
+| Ad Platform | adobe_advertising_ad_platform | Adobe Advertising Ad Platform ||
+| Account | adobe_advertising_account | Adobe Advertising Account ||
+| Campaign | adobe_advertising_campaign | Adobe Advertising Campaign ||
+| Ad Group | adobe_advertising_ad_group | Adobe Advertising Ad Group ||
+| Keyword | adobe_advertising_keyword | Adobe Advertising Keyword ||
+| Ad | adobe_advertising_ad | Adobe Advertising Ad ||
+| Placement | adobe_advertising_placement | Adobe Advertising Placement ||
+| Match Type | adobe_advertising_match_type | Adobe Advertising Match Type ||
+| Ad Title | adobe_advertising_ad_title | Adobe Advertising Ad Title ||
+| Ad Description | adobe_advertising_ad_description | Adobe Advertising Ad Description ||
+| Ad Destination URL | adobe_advertising_ad_destination_url | Adobe Advertising Ad Destination URL ||
+| Ad Display URL | adobe_advertising_ad_display_url | Adobe Advertising Ad Display URL ||
+| Device | adobe_advertising_device | Adobe Advertising Device ||
+| Keyword MatchType | adobe_advertising_keyword_matchtype | Adobe Advertising Keyword MatchType ||
+| Network | adobe_advertising_network | Adobe Advertising Network ||
+| Ad Type | adobe_advertising_ad_type | Adobe Advertising Ad Type ||
+| Product Target | adobe_advertising_product_target | Adobe Advertising Product Target ||
+| Landing Type | adobe_advertising_landing_type | Adobe Advertising Landing Type ||
+| Optimization | adobe_advertising_optimization | Adobe Advertising Optimization ||
 
 >[!MORELIKETHIS]
 >

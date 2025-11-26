@@ -38,7 +38,7 @@ For the data fields relevant for account entities, see "[Fields required to crea
 | [!UICONTROL DSA Domain Language] | (Search Network only; applicable to expanded dynamic search ads only) The language for the specified website domain. <b>Note:</b> If the domain contains pages in multiple languages and you want to target all of them, create a separate campaign for each language. |
 | [!UICONTROL GDN Custom Bid Level] | (Campaigns that target the display network only) How to bid: by <i>[!UICONTROL Ad Group]</i> (the default), <i>[!UICONTROL Keyword]</i>, <i>[!UICONTROL Placement]</i> (website), or <i>[!UICONTROL None]</i> (to reset the existing value). Other dimensions (<i>Age</i>, <i>Gender</i>, <i>Interest and List</i>, <i>Topic</i>, and <i>Vertical</i>) are available from the [!DNL Google Ads] interface. If you've used the [!DNL Google Ads] interface to configure bidding by another dimension, that value is shown, but you can't select or enter those dimensions here.</p><p><b>Note:</b></p><ul><li><p>When you bid by keyword, create tracking templates at the keyword level. Similarly, when you bid by placement, create tracking templates at the placement level. For all other dimensions, create tracking templates at the ad level.</p></li><li><p>When you bid by an unsupported dimension (Age, Gender, Interest and List, or Topic), Search, Social, & Commerce doesn't optimize bids for the dimension, and all attribution is applied to the ad group.</p></li><li><p>Ads on the search network always use keyword bids.</p></li></ul> |
 | [!UICONTROL Campaign Priority] | <p>(Shopping campaigns only) The priority with which the campaign is used when multiple campaigns advertise the same product:  <i>[!UICONTROL Low]</i> (the default for new campaigns), <i>[!UICONTROL Medium]</i>, or <i>[!UICONTROL High]</i>.</p><p>When the same product is included in more than one campaign, the ad network uses the campaign priority first to determine which campaign (and associated bid) is eligible for the ad auction. When all campaigns have the same priority, the campaign with the highest bid is eligible. |
-| [!UICONTROL Merchant ID] | (Shopping campaigns and audience campaigns linked to a merchant feed only) The customer ID of the merchant account whose products are used for the campaign. |  |
+| [!UICONTROL Merchant ID] | (Shopping campaigns and audience campaigns linked to a merchant feed only) The customer ID of the merchant account whose products are used for the campaign. |
 | [!UICONTROL Sales Country] | (Shopping campaigns only; read-only for existing campaigns) The country in which the campaign's products are sold. Because products are associated with target countries, this setting determines which products are advertised in the campaign. |
 | [!UICONTROL Product Scope Filter] | (Campaigns using the [!DNL Google Ads] shopping network only) The products in your [!DNL Google Merchant Center] account for which shopping ads can be created for the campaign. You can enter up to seven product dimension and attribute combinations on which to filter your products, using the format dimension=attribute. Separate multiple filters with a &quot;&gt;&gt;&quot; delimiter. For a list of available product dimensions, see &quot;[Shopping campaign product filters](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md).&quot;</p><p>Example: &quot;CategoryL1=animals&gt;&gt;CategoryL2=pet supplies&gt;&gt;Brand=Acme Pet Supplies&quot;</p><p>To delete the existing values, use the value <code>[delete]</code> (including the brackets).</p> |
 | [!UICONTROL Languages] | <p>(Search and Display networks only) The target languages for ads in the campaign.</p><p>If you don't enter a value for either this field or the [!UICONTROL Geo Targeting] field for a new campaign, the currency specified for the account determines the default languages, except that campaigns with currencies that aren't mapped to specific languages (for example, EUR) are targeted to all languages. If you don't enter a value for this field but enter a value in the [!UICONTROL Geo Targeting] field for a new campaign, this defaults to <i>[!UICONTROL All]</i>. If you leave this field blank for an existing campaign, the existing value is retained.</p><p>To target all languages, enter <span style="font-style: italic;"><i[!UICONTROL >All]</i></span>. To target specific languages, enter values separated by semi-colons using either <a href="https://developers.google.com/adwords/api/docs/appendix/codes-formats?csw=1#languages" target="_blank">[!DNL Google Ads] language names</a> (such as <i>English;Japanese</i>, which are substituted with the correct numeric codes) or numeric codes (such as <i>1000;1005</i>). The values aren't case-sensitive.</p> |
@@ -292,7 +292,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
-| [!UICONTROL Ad Group Name] | Required  | |
+| [!UICONTROL Ad Group Name] | Required  |
 | [!UICONTROL Ad Title], [!UICONTROL Ad Title 2]-15 | For responsive search ads, [!UICONTROL Ad Title], [!UICONTROL Ad Title 2], and [!UICONTROL Ad Title 3] are required to create an ad, and all other ad title fields are optional. To delete the existing value for a non-required field, use the value `[delete]` (including the brackets). |
 | [!UICONTROL Ad Title 1 Position]-[!UICONTROL Ad Title 15 Position] | Optional |
 | [!UICONTROL Description Line 1]-[!UICONTROL Description Line 4] | For responsive search ads, [!UICONTROL Description Line 1] and [!UICONTROL Description Line 2] are required to create an ad, and [!UICONTROL Description Line 3] and [!UICONTROL Description Line 4] are optional. To delete the existing value, use the value `[delete]` (including the brackets). |
@@ -308,7 +308,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL Campaign ID] | Optional |
 | [!UICONTROL Ad Group ID] | Optional |
 | [!UICONTROL Ad ID] | Required to edit or delete ads unless the row includes an "[!UICONTROL AMO ID]." |
-| [!UICONTROL AMO ID] | Required to edit or delete ads unless you include the Ad ID. | 
+| [!UICONTROL AMO ID] | Required to edit or delete ads unless you include the Ad ID. |
 
 ### Text ad fields
 
@@ -327,7 +327,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL Ad Group Name] | Required  |
 | [!UICONTROL Creative Preferred Devices] | Read-only |
 | [!UICONTROL Ad Title], Ad Title 2-3 | Read-only |
-[!UICONTROL Description Line 1]-[!UICONTROL Description Line 2] Read-only |
+| [!UICONTROL Description Line 1]-[!UICONTROL Description Line 2] | Read-only |
 | [!UICONTROL Display URL] | Read-only |
 | [!UICONTROL Display Path 1] | Read-only |
 | [!UICONTROL Display Path 2] | Read-only |
@@ -339,7 +339,7 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | \[Advertiser-specific Label Classification\] | Optional |
 | [!UICONTROL Campaign ID] | Optional |
 | [!UICONTROL Ad Group ID] | Optional |
-| [!UICONTROL Ad ID] | Required only when you change the ad status, unless the row includes a) sufficient ad property columns to identify the ad or b) an "[!UICONTROL AMO ID]." However, if you include neither the [!UICONTROL Ad ID] nor [!UICONTROL AMO ID], and the ad property columns match multiple ads, then the status for only one of the ads changes. |
+| [!UICONTROL Ad ID] | Required only when you change the ad status, unless the row includes a&rpar; sufficient ad property columns to identify the ad or b&rpar; an "[!UICONTROL AMO ID]." However, if you include neither the [!UICONTROL Ad ID] nor [!UICONTROL AMO ID], and the ad property columns match multiple ads, then the status for only one of the ads changes. |
 | [!UICONTROL AMO ID] | Required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 
 ### Dynamic search target (auto target) fields
