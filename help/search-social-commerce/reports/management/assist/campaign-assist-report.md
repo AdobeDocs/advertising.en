@@ -41,8 +41,8 @@ The following are the columns that are available for each report. The default co
 | [!UICONTROL EF Campaign ID] | Custom | The numeric ID that Search, Social, & Commerce assigns to the campaign. |
 | [!UICONTROL EF Portfolio Group ID] | Custom | The numeric ID for the portfolio group to which the portfolio belongs. |
 | [!UICONTROL EF Search Engine ID] | Custom | The numeric ID that Search, Social, & Commerce assigns to the ad network: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL Yahoo! Japan Ads], <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (deprecated), or <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (deprecated). |
-| [!UICONTROL Portfolio ID] | The numeric portfolio ID. ||
-| [!UICONTROL User SE Account ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network. ||
+| [!UICONTROL Portfolio ID] | Custom | The numeric portfolio ID. |
+| [!UICONTROL User SE Account ID] | Custom | The numeric ID that Search, Social, & Commerce assigns to the ad network. |
 
 >[!MORELIKETHIS]
 >

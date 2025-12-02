@@ -125,8 +125,8 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | Field | Required? |
 | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
-| [!UICONTROL Campaign Name] | Required. The unique name that identifies a campaign for an account. |
-| [!UICONTROL Campaign Budget] | Required to create a campaign. A daily spending limit for the campaign, with or without monetary symbols and punctuation. This value overrides but can't exceed the account budget. |
+| [!UICONTROL Campaign Name] | Required. |
+| [!UICONTROL Campaign Budget] | Required to create a campaign. |
 | [!UICONTROL Channel Type] | Required to create a campaign. |
 | [!UICONTROL Delivery Method] | Optional |
 | [!UICONTROL Campaign Priority] | Required to create a shopping campaign. |

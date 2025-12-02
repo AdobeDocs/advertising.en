@@ -61,5 +61,5 @@ For more instructions for using the template, see [https://help.ads.microsoft.co
 >
 >* [Implement [!DNL Google Ads] enhanced conversions for leads](/help/search-social-commerce/campaign-management/special-workflows/google-enhanced-conversions-leads.md)
 >* [Implement [!DNL Microsoft Advertising] enhanced offline conversions](/help/search-social-commerce/campaign-management/special-workflows/microsoft-enhanced-conversions.md)
->* [([!DNL Google Ads only]) Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)
+>* [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)
 >* [Upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
