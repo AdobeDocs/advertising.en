@@ -52,7 +52,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 
 * **Discovery:** See Discovery's [ad specifications](/help/dsp/assets/discovery-networks-ad-specs.pdf).
 
-* **Disney (incl. Hulu):** See Disney's [ad specifications](https://hulu.disneyadsales.com/ad-products/video-commercial/).
+* **Disney (incl. Hulu):** See Disney's [ad specifications](https://www.disneyadvertising.com/mediakit/#specifications).
 
 * **HBO Max:** See HBO Max's [ad specifications](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
