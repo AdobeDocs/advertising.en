@@ -32,11 +32,21 @@ feature: Search Campaign Management
 
 ## [!UICONTROL Campaign Details]
 
+<!-- left to right -->
+
 **[!UICONTROL Campaign Name]:** A campaign name that is unique within the account.
+
+**[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
 
 <!-- **[!UICONTROL Start Date]:** -->
 
 {{$include /help/_includes/start-date.md}}
+
+<!-- **[!UICONTROL End Date]:** -->
+
+{{$include /help/_includes/end-date.md}}
+
+**[!UICONTROL Search Partners]:** (Campaigns that target the search network only, including shopping campaigns) Shows your ads on the ad network's search partner networks. By default, this option is *[!UICONTROL Off]*.
 
 **[!UICONTROL Audience Target Method]:**(Existing, read-only Gmail campaigns only) Whether to:
 
@@ -44,13 +54,7 @@ feature: Search Campaign Management
 
 * *[!UICONTROL Bid Only]:*  To show ads even to people who aren't associated with target audiences as long as they satisfy other ad group-level targets. You may increase the chances that ads are shown to specific audiences, however, by setting higher bids for those audiences.
 
-**[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
-
-<!-- **[!UICONTROL End Date]:** -->
-
-{{$include /help/_includes/end-date.md}}
-
-**[!UICONTROL Search Partners]:** (Campaigns that target the search network only, including shopping campaigns) Shows your ads on the ad network's search partner networks. By default, this option is *[!UICONTROL Off]*.
+**[!UICONTROL Contains EU Political Ads]:**(Applicable to campaigns that target audiences in the European Union (EU)) Whether or not the campaign contains political advertising per requirements for ads served in the European Union under EU Regulation 2024/90: *[!UICONTROL Yes]* or *[!UICONTROL No]*.
 
 **[!UICONTROL AI Max Enabled]:** (Campaigns that target the search network only; read-only) Whether the [[!UICONTROL AI Max] feature](https://support.google.com/google-ads/answer/15910366) is enabled: *[!UICONTROL On]* or *[!UICONTROL Off]*.
 

@@ -12,7 +12,6 @@ Use shopping ad templates to configure shopping ads.
 >
 >* The following characters are reserved for designating column names and modifier names in the template, and are therefore prohibited as text in all attribute fields:  `[ ] < > `
 
-
 ## \[Above all tabs\]
 
 <!-- **Template Name:** -->
@@ -99,6 +98,8 @@ the campaign priority first to determine which campaign (and associated bid) is 
 <!-- **[!UICONTROL Locations]:** -->
 
 {{$include /help/_includes/inventory-feed-template-campaign-locations.md}}
+
+**[!UICONTROL Has EU Political Ads]:**([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns only; applicable to campaigns that target audiences in the European Union (EU)) Whether or not the campaign contains political advertising per requirements for ads served in the European Union under EU Regulation 2024/90: *[!UICONTROL Yes]* or *[!UICONTROL No]*.
 
 ## [!UICONTROL Ad Groups]
 

@@ -6,7 +6,6 @@ feature: Search Inventory Feeds
 ---
 # Text ad and responsive search ad template settings for inventory feeds
 
-
 *[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
 
 >[!NOTE]
@@ -113,6 +112,8 @@ When no match is found, all data for the campaign is ignored. If multiple campai
 <!-- **[!UICONTROL Locations]:** -->
 
 {{$include /help/_includes/inventory-feed-template-campaign-locations.md}}
+
+**[!UICONTROL Has EU Political Ads]:**([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns only; applicable to campaigns that target audiences in the European Union (EU)) Whether or not the campaign contains political advertising per requirements for ads served in the European Union under EU Regulation 2024/90: *[!UICONTROL Yes]* or *[!UICONTROL No]*.
 
 ## [!UICONTROL Ad Groups]
 
