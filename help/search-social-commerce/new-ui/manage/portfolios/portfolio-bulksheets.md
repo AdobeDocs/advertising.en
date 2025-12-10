@@ -43,7 +43,7 @@ Notifications are also added to Notification Center, and you can open the Notifi
 
 ## Data requirements for uploaded bulksheet files
 
-See the [!UICONTROL Instructions] tab on the downloaded bulksheet file.
+All bulksheet files must include the column [!UICONTROL Portfolio ID], and each data row must include a value for the [!UICONTROL Portfolio ID] to be actionable. For more information about the data requirements, see the [!UICONTROL Instructions] tab on the downloaded bulksheet file.
 
 For explanations of the portfolio setting columns on the [!UICONTROL Portfolio Settings Edit] tab, see the Optimization Guide, which is available from within Search, Social, & Commerce.
 
