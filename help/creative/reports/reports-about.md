@@ -16,6 +16,6 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 
 ## Available Reports
 
-* **[!UICONTROL All-in Cost BETA]**: (Advertisers with both Advertising Creative and Adertising DSP only; beta feature) Use this report to see how much Advertising DSP spend was attributed to ad serving for Adobe Creative. You can view creative, attribute, target, and other data at the campaign, package, placement, and ad levels.
+* **[!UICONTROL All-in Cost]**: (Advertisers with both Advertising Creative and Adertising DSP only; beta feature) Use this report to see how much Advertising DSP spend was attributed to ad serving for Adobe Creative. You can view creative, attribute, target, and other data at the campaign, package, placement, and ad levels.
 
 * **[!UICONTROL Custom Creative Report]:** Use this report to monitor performance across your Advertising Creative ad experiences.
