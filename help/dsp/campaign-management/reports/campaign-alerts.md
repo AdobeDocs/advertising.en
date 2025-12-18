@@ -40,6 +40,8 @@ Alerts and alert indicators automatically disappear when the underlying issues a
 
    All alerts associated with the campaign and its components, including targeted deals, are listed. By default, critical alerts are listed first.
 
+1. (Advertisers with Advertising Creative; optional) Click the **[!UICONTROL Creative]** tab to view alerts for placements that include Advertising Creative experiences. 
+
 1. (Optional) To group the alerts according to their first date of detection, or to filter the alerts by alert status, component status, component type, or with a specific campaign name, click ![Filter button](/help/dsp/assets/filter.png) in the upper right of the panel, select the filter options, and then click **[!UICONTROL Apply]**.
 
 1. To view a list of all affected campaign components for a specific alert type, click the alert name, such as "[!UICONTROL Package: No Active Placement (*N*)]". To view the details for each affected component, including the recommended action, click [!UICONTROL EXPAND ALL] or click the component name. To open the relevant campaign management view for any affected component so you can make the recommended changes, hold the cursor over the component name and click ![Go to view](/help/dsp/assets/go-to-view.png "Go to view").
