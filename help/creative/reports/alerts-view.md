@@ -5,7 +5,7 @@ feature: Creative Experiences
 ---
 # View Alerts
 
-[!DNL Creative] helps you to identify when any of your experiences, including the creatives within the experience, have issues. For each issue, [!DNL Creative] issues an alert with a time stamp and the recommended action to resolve the issue. Reasons for alerts include expired experiences and high delivery on default ads rather than targeted ads. Alerts are available at the experience level.
+[!DNL Creative] helps you to identify when any of your experiences, including the creatives within the experience, have issues. For each issue, [!DNL Creative] issues an alert with a time stamp and the recommended action to resolve the issue. Reasons for alerts include the expiration of live experiences and high delivery on default ads rather than targeted ads. Alerts are available at the experience level.
 
 You can open the relevant experience for any alert so that you can edit it as needed to resolve the issue. You can also choose to ignore an individual alert, which removes it from the [!UICONTROL Pulse] panel.
 
