@@ -6,7 +6,7 @@ exl-id: 92d411cf-4307-4449-97b4-da3817f2a0b4
 ---
 # How Advertising DSP Optimizes Your Campaigns
 
-This page outlines how the DSP optimization engine, which is powered by [!DNL Adobe Sensei], optimizes the packages in your campaigns. For tips and tricks on how to manually optimize your campaigns, contact your Adobe Account Team. <!-- add link to trading playbook if we add it to help -->
+This page outlines how the DSP optimization engine, which is powered by [!DNL Adobe AI], optimizes the packages in your campaigns. For tips and tricks on how to manually optimize your campaigns, contact your Adobe Account Team. <!-- add link to trading playbook if we add it to help -->
 
 Package optimization goals operate at two levels:
 
@@ -58,7 +58,7 @@ For some optimization goals, DSP predicts the performance of each auction and ad
 
 * If spending is on pace, then DSP becomes more price sensitive, bidding lower amounts to trade off win rate with the pacing plan.
 
-* If a performance metric is also being balanced (all goals except [!UICONTROL Lowest CPM]), then the predicted KPI is blended into the amount that is bid. You therefore bid higher for auctions that are predicted to be more performant on a “cost per” basis. 
+* If a performance metric is also being balanced (all goals except [!UICONTROL Lowest CPM]), then the predicted KPI is blended into the amount that is bid. You therefore bid higher for auctions that are predicted to be more performant on a "cost per" basis. 
 
 * If spending is behind pace, then DSP becomes less price sensitive and bids higher amounts, up to the [!UICONTROL Max Bid], to trade off win rate with the pacing plan. 
 

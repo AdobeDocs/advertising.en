@@ -34,7 +34,7 @@ Once you create an experience, you can generate a JavaScript or iframe tag for t
 
 ### Optimization of ad elements
 
-You can optionally allow [!DNL Creative] to optimize the ad elements for any experience based on performance &mdash; whether or not you define specific audience targets &mdash; using optimized, weighted ad rotation, which is powered by Adobe Sensei.
+You can optionally allow [!DNL Creative] to optimize the ad elements for any experience based on performance &mdash; whether or not you define specific audience targets &mdash; using optimized, weighted ad rotation, which is powered by [!DNL Adobe AI].
 
 <!--
 [!DNL Creative] serves first-party ads and triggers third-party ads for the experience based on the specified targeting (when applicable), scheduling, ad rotation, and optimization goal options 
