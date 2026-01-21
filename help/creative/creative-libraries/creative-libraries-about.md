@@ -46,10 +46,12 @@ Standard display ads include:
 ##### HTML5 creatives
 
 * **GenStudio experiences:** You can import all ad variants from a [display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/display-ad-experiences) in [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) as an HTML5 creative. External links are converted to local references. The HTML content can be up to 20 MB, and individual images can be up to 50 MB.
-
-  To use this feature, the GenStudio account and the Advertising Creative account must both use the same organization ID, and the user must have permissions to access GenStudio.
   
   Once you import a GenStudio experience, you can edit the metadata (name, language, tags) for the imported creative but not the creative content. If you edit the GenStudio experience within GenStudio, then re-import the experience in [!DNL Creative] to use the latest version.
+
+  >[!NOTE]
+  >
+  >To use this feature, the GenStudio account and the Advertising Creative account must both use the same organization ID, and the user must have permissions to access GenStudio.
 
 * **Uploaded files:** You also can upload simple or static HTML5 creatives, with all attributes and images specified, as ZIP files. You can't edit any attributes or add images; instead, upload a new ZIP file to add a new creative. See the [specifications for simple and static HTML5 creatives](html5-creative-specification.md).
 
