@@ -132,15 +132,17 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
         <!-- If the existing asset has multiple quality options, [!DNL Creative] downloads the primary asset, or the asset with the highest resolution within some upper limit [verify what it is and how this works]. [If an asset is part of an image set, ... primary asset in the image set. -->
 
-   * For approved images in a GenStudio library, do the following:
+   * For GenStudio experiences, do the following:
 
      1. Click **[!UICONTROL GenStudio Library]**.
 
      1. (If you're not already signed in to your GenStudio account) Sign in to your GenStudio account.
 
-        Your display ad experiences are displayed by default. Optionally filter your experiences further as needed.
+        Your display ad experiences are displayed by default. Optionally filter your experiences by campaign or other attributes as needed.
 
      1. Locate and select the display ad experiences, and then click **[!UICONTROL Select]** in the upper right.
+
+        <!-- Each creative variant in the experience will be imported as a separate HTML5 creative. -->
 
 1. Add or remove creatives:
 
@@ -148,14 +150,11 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
    * To remove an image, deselect the check box next to it.
 
-
-   
-
-1. Specify the [image creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image) or [HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5).
+1. Specify the [HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5) or [image creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image).
 
    By default, all creatives you just uploaded are selected, and any settings you specify apply to all selected creatives. Any settings with only one value apply to all selected creatives. To enter settings for specific creatives, deselect each inapplicable creative.
 
-1. Click **[!UICONTROL Create]**
+1. Click **[!UICONTROL Create]** or **[!UICONTROL Import]**.
 
 ## Add a third-party creative to a creative library {#creative-add-third-party}
 
