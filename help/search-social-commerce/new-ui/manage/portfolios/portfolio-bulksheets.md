@@ -17,9 +17,15 @@ A portfolio bulksheet is a file that contains portfolio settings in a specific f
 
 ## Download a bulksheet file with portfolio settings
 
-1. Select the check box next to each portfolio to include in the bulksheet.
+1. (Optional) Select the check box next to each portfolio to include in the bulksheet.
 
-1. In the toolbar above the data table, click **[!UICONTROL Bulk Operations]** > **[!UICONTROL Export Selected Portfolios]**.
+   If you don't select specific portfolios, you can download the settings for all portfolios.
+
+1. In the toolbar above the data table, click:
+
+   * (For all portfolios) **[!UICONTROL Bulk Operations]** > **[!UICONTROL Export All Portfolios]**.
+   
+   * (For selected portfolios) **[!UICONTROL Bulk Operations]** > **[!UICONTROL Export Selected Portfolios]**.
 
 1. Enter the name of the bulksheet file to create, and then click **[!UICONTROL Export Now]**.
 
