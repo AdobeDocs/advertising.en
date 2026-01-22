@@ -92,9 +92,13 @@ For information about the attributes available in predefined templates, see "[Av
 
 1. Click **[!UICONTROL Create]**.
 
-## Add an HTML5 creative to a creative library
+## Add a standard display creative to a creative library
 
-You can add multiple HTML5 creatives of a single type (simple or static) at a time.
+Standard display creatives include image and HTML5 creatives, including creatives imported from Adobe Experience Manager and Adobe GenStudio for Performance Marketing.
+
+* Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size is two (2) MB. See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
+
+* You can add multiple Experience Manager assets, multiple GenStudio experiences, or multiple local HTML5 creatives of a single type (simple or static) at a time. For HTML5 creatives, see the [HTML5 ad specification](/help/creative/creative-libraries/html5-creative-specification.md).
 
 <!-- Add in when we add this feature back:
 You can optionally download a sample HTML5 creative as a ZIP file, edit the contents to build your own creative, and then add the edited file as a new creative.
@@ -108,71 +112,49 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
 1. Click the library name.
 
-1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL HTML5]**.
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Standard Display]**.
 
-<!-- Not an option as of 3/4:
+1. Specify the creatives:
 
-1. (Optional) To download a sample HTML5 creative as a ZIP file, click **Sample HTML5 Creatives**.
-
-   The ZIP file is downloaded according to your browser's normal procedure, usually to the folder that is specified for downloads. 
-   
-   To create your own HTML5 creative using the sample, unzip the file and edit the contents to include your own ad images and attributes. Then, rename the folder and zip it, and continue below.
-
--->
-
-1. Specify the files in either of the following ways:
-
-   * Drag and drop files on your device or network into the box.
-   
-   * Click **[!UICONTROL Select a file]** to locate the file on your device or network.
-
-   See the [HTML5 ad specification](/help/creative/creative-libraries/html5-creative-specification.md).
-
-1. Specify the [HTML5 ad settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5).
-
-  By default, all creatives you just uploaded are selected. Any settings with only one value apply to all selected creatives; for some settings, you can specify individual values. To enter settings for specific creatives, deselect the check box next to each inapplicable creative.
-
-1. Click **[!UICONTROL Create]**
-
-## Add an image creative to a creative library
-
-Image creatives can be in GIF, JPEG, JPG, or PNG format. The maximum file size is two (2) MB. See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
-
-1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
-
-1. Click the library name.
-
-1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Image]**.
-
-1. Specify the images:
-
-   * For local image assets, do either of the following:
+   * For local image or HTML5 assets, do either of the following:
 
      * Drag and drop files on your device or network into the box.
    
      * Click **[!UICONTROL Select a file]** to locate files on your device or network.
 
-   * For approved images in an [Adobe Experience Manager library connected to your DSP account](/help/creative/creative-libraries/aem-assets-configure.md), do the following:
+   * For approved images in an [Experience Manager library connected to your DSP account](/help/creative/creative-libraries/aem-assets-configure.md), do the following:
 
      1. Click **[!UICONTROL AEM Asset Library]**.
 
-     1. Sign in to your Experience Manager account.
+     1. (If you're not already signed in to your Experience Manager account) Sign in to your Experience Manager account.
 
      1. Locate and select the files in your [!UICONTROL Assets] or [!UICONTROL Collections] views, and then click **[!UICONTROL Select]** in the upper right.
 
         <!-- If the existing asset has multiple quality options, [!DNL Creative] downloads the primary asset, or the asset with the highest resolution within some upper limit [verify what it is and how this works]. [If an asset is part of an image set, ... primary asset in the image set. -->
 
-1. Add or remove images:
+   * For GenStudio experiences, do the following:
+
+     1. Click **[!UICONTROL GenStudio Library]**.
+
+     1. (If you're not already signed in to your GenStudio account) Sign in to your GenStudio account.
+
+        Your display ad experiences are displayed by default. Optionally filter your experiences by campaign or other attributes as needed.
+
+     1. Locate and select the display ad experiences, and then click **[!UICONTROL Select]** in the upper right.
+
+      Each creative variant in a selected experience will be imported as a separate HTML5 creative.
+
+1. Add or remove creatives:
 
    * To add an image, click ![Add](/help/creative/assets/create.png "Add") in the upper left and locate the file on your device or network.
 
    * To remove an image, deselect the check box next to it.
 
-1. Specify the [image creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image).
+1. Specify the [HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5) or [image creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image).
 
-   By default, all creatives you just uploaded are selected, and any settings you specify apply to all selected creatives. Any settings with only one value apply to all selected creatives. To enter settings for specific creatives, deselect each inapplicable creative.
+   By default, all creatives or GenStudio experiences you just uploaded are selected, and any settings you specify apply to all selected items. Any settings with only one value apply to all selected items. To enter settings for specific creatives or GenStudio experiences, deselect each inapplicable creative or experience.
 
-1. Click **[!UICONTROL Create]**
+1. Click **[!UICONTROL Create]**.
 
 ## Add a third-party creative to a creative library {#creative-add-third-party}
 

@@ -16,7 +16,11 @@ Your Creative Libraries allow you to manage the creatives you'll use in your ad 
 
 ### [!DNL Adobe] asset integrations
 
-[!DNL Creative] is directly integrated with Adobe Experience Manager, allowing you to easily upload the [!DNL Adobe] image assets that your design team creates and approves for standard image ads.
+[!DNL Creative] is directly integrated with the following [!DNL Adobe] products, allowing you to import assets to your creative libraries:
+
+* **Adobe Experience Manager:** Upload the [!DNL Adobe] image assets that your design team creates and approves for standard image ads.
+
+* **Adobe GenStudio for Performance Marketing:** Import all ad variants from your display ad experiences as HTML5 creatives.
 
 ## Both rules-based and non-targeted experiences
 
@@ -26,7 +30,7 @@ Your Creative Libraries allow you to manage the creatives you'll use in your ad 
 
 ### [!DNL Adobe] data integrations
 
-You can use your first-party audience segments from Adobe Audience Manager and Adobe Analytics &mdash; as well as custom audience segments you create in Advertising DSP and retargeting pixels you create using [!DNL Creative] &mdash; as targets for specific creatives in an ad experience. <!-- Advertiser should be able to target all segments that are available in DSP for targeting -->
+Use your first-party audience segments from Adobe Audience Manager and Adobe Analytics &mdash; as well as custom audience segments you create in Advertising DSP and retargeting pixels you create using [!DNL Creative] &mdash; as targets for specific creatives in an ad experience. <!-- Advertiser should be able to target all segments that are available in DSP for targeting -->
 
 ### Implementation of experiences as ads
 
