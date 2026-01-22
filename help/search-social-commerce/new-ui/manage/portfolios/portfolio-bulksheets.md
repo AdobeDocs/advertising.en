@@ -35,15 +35,15 @@ A portfolio bulksheet is a file that contains portfolio settings in a specific f
 
 The file must be XLSX format.
 
-1. In the toolbar above the data table, click **[!UICONTROL Bulk Operations]** > **[!UICONTROL Import Portfolio Details]**. <!-- Should be "Import Portfolio Settings" -- "Details" may be too vague and suggest it may include something else. -->
+1. In the toolbar above the data table, click **[!UICONTROL Bulk Operations]** > **[!UICONTROL Import Portfolio Details]**.
 
-1. In the [!UICONTROL Import Portfolio Details File] dialog:<!-- reword if we change the name of the operation -->
+1. In the [!UICONTROL Import Portfolio Details File] dialog:
 
-    1. Either drag and drop a file into the box, or click **[!UICONTROL Browse File]**<!-- "Browse for file" or just "Browse"??? --> to select a file from your device or network.
+    1. Either drag and drop a file into the box, or click **[!UICONTROL Browse File]** to select a file from your device or network.
 
     1. Click **[!UICONTROL Import]**.
 
-You can check the status of the upload from the [!UICONTROL Global Sync Status] button (![Global Sync Status](/help/search-social-commerce/assets/global-sync-status.png "Global Sync Status")) next to the date range selector.<!-- icon similar to Refresh -->. If any of the changes weren't successful, then you can download an error file showing what failed.
+You can check the status of the upload from the [!UICONTROL Global Sync Status] button (![Global Sync Status](/help/search-social-commerce/assets/global-sync-status.png "Global Sync Status")) next to the date range selector. If any of the changes weren't successful, then you can download an error file showing what failed.
 
 Notifications are also added to Notification Center, and you can open the Notifications pane from the ![Notifications](/help/search-social-commerce/assets/notifications-new.png "Notifications") icon next to the [!UICONTROL Global Sync Status] button (![Global Sync Status](/help/search-social-commerce/assets/global-sync-status.png "Global Sync Status")).
 
