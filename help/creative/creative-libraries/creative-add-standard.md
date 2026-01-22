@@ -142,7 +142,7 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
      1. Locate and select the display ad experiences, and then click **[!UICONTROL Select]** in the upper right.
 
-        <!-- Each creative variant in the experience will be imported as a separate HTML5 creative. -->
+      Each creative variant in a selected experience will be imported as a separate HTML5 creative.
 
 1. Add or remove creatives:
 
@@ -152,9 +152,9 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
 1. Specify the [HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5) or [image creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image).
 
-   By default, all creatives you just uploaded are selected, and any settings you specify apply to all selected creatives. Any settings with only one value apply to all selected creatives. To enter settings for specific creatives, deselect each inapplicable creative.
+   By default, all creatives or GenStudio experiences you just uploaded are selected, and any settings you specify apply to all selected items. Any settings with only one value apply to all selected items. To enter settings for specific creatives or GenStudio experiences, deselect each inapplicable creative or experience.
 
-1. Click **[!UICONTROL Create]** or **[!UICONTROL Import]**.
+1. Click **[!UICONTROL Create]**.
 
 ## Add a third-party creative to a creative library {#creative-add-third-party}
 
