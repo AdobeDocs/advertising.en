@@ -25,7 +25,7 @@ The following tasks are required to configure conversion tracking tags for Searc
 
    1. Click **Save**.
 
-1. Create a new rule (such as "form_completes") to trigger the Search, Social, & Commerce conversion tag:
+1. Create a new rule (for example, "form_completes") to trigger the Search, Social, & Commerce conversion tag:
 
    1. In the Event Configuration section:
    
