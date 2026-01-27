@@ -65,4 +65,6 @@ The following tasks are required to configure conversion tracking tags for Searc
       
       1. Click **Keep Changes**.
 
-   1. Save the rule, and then then publish the changes.
+   1. Save the rule.
+   
+1. Publish the changes.
