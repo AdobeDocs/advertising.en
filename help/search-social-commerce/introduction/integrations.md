@@ -8,7 +8,9 @@ feature: Search Introduction
 
 Advertising Search, Social, & Commerce is integrated with the following [!DNL Adobe] products.
 
-* [Tags from Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/overview.html) &mdash; You can use the [Adobe Advertising Cloud Extension](https://exchange.adobe.com/apps/ec/100155) for Adobe Experience Platform to create Adobe Advertising conversion tracking tags, as well as third-party tracking tags, for your ad landing pages. (You can also [create conversion tracking tags directly within Search, Social, & Commerce](/help/search-social-commerce/tools/conversion-tag-generate.md).) Contact your Adobe Account Team or implementation team for information to include in your tags.
+* [Tags from Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/overview.html) &mdash; You can use the [Adobe Advertising Cloud Extension](https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud) for Adobe Experience Platform to create Adobe Advertising conversion tracking tags, as well as third-party tracking tags, for your ad landing pages. (You can also [create conversion tracking tags directly within Search, Social, & Commerce](/help/search-social-commerce/tools/conversion-tag-generate.md).) Contact your Adobe Account Team or implementation team for information to include in your tags.
+
+<!-- another link, which is more direct within the tags docs but not very useful:  https://exchange.adobe.com/apps/ec/100155 -->
 
 * Adobe Analytics &mdash; (Opt-in feature) Adobe Advertising and [!DNL Analytics] are integrated in the following ways: 
 
