@@ -1,6 +1,6 @@
 ---
 title: Manage creative bundles
-description: Learn about xxxx.
+description: Learn how to manage and use groups of creatives.
 feature: Creative Bundles
 exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
 ---
