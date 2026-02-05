@@ -1,4 +1,8 @@
-# Change the Status of a Google Conversion Value Rule
+---
+title: Change the status of a Google conversion value rule
+---
+
+# Change the status of a Google conversion value rule
 
 [!BADGE Beta Feature]{type=Informative}
 
@@ -18,8 +22,8 @@ You can pause, activate, or delete a conversion value rule in accounts and campa
 
 >[!MORELIKETHIS]
 >
->* [About Google Conversion Value Rules](about-google-conversion-value-rules.md)
->* [Create a Google Conversion Value Rule](create-google-conversion-value-rule.md)
->* [Edit a Google Conversion Value Rule](edit-google-conversion-value-rule.md)
->* [Google Conversion Value Rule Settings](google-conversion-value-rule-settings.md)
+>* [About Google conversion value rules](about-google-conversion-value-rules.md)
+>* [Create a Google conversion value rule](create-google-conversion-value-rule.md)
+>* [Edit a Google conversion value rule](edit-google-conversion-value-rule.md)
+>* [Google conversion value rule settings](google-conversion-value-rule-settings.md)
 

@@ -1,4 +1,8 @@
-# Edit a Google Conversion Value Rule
+---
+title: Edit a Google conversion value rule
+---
+
+# Edit a Google conversion value rule
 
 You can edit a conversion value rule in accounts/campaigns for which conversions are tracked at the individual account level or lower. You can't edit a rule for an account with cross-account conversions that are tracked at a master account level.
 
@@ -21,8 +25,8 @@ You can edit a conversion value rule in accounts/campaigns for which conversions
 
 >[!MORELIKETHIS]
 >
->* [About Google Conversion Value Rules](about-google-conversion-value-rules.md)
->* [Create a Google Conversion Value Rule](create-google-conversion-value-rule.md)
->* [Change the Status of a Google Conversion Value Rule](change-the-status-of-google-conversion-value-rule.md)
->* [Google Conversion Value Rule Settings](google-conversion-value-rule-settings.md)
+>* [About Google conversion value rules](about-google-conversion-value-rules.md)
+>* [Create a Google conversion value rule](create-google-conversion-value-rule.md)
+>* [Change the status of a Google conversion value rule](change-the-status-of-google-conversion-value-rule.md)
+>* [Google conversion value rule settings](google-conversion-value-rule-settings.md)
 

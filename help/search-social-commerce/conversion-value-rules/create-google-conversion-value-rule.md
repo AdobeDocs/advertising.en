@@ -1,4 +1,8 @@
-# Create a Google Conversion Value Rule
+---
+title: Create a Google conversion value rule
+---
+
+# Create a Google conversion value rule
 
 You can create account-level and campaign-level conversion value rules in Google Ads accounts for which conversions are tracked at the individual account level or lower. You can't create rules for accounts with cross-account conversions that are tracked at a master account level.
 
@@ -27,8 +31,8 @@ You can create multiple campaign-level rules for each campaign. However, Google 
 
 >[!MORELIKETHIS]
 >
->* [About Google Conversion Value Rules](about-google-conversion-value-rules.md)
->* [Edit a Google Conversion Value Rule](edit-google-conversion-value-rule.md)
->* [Change the Status of a Google Conversion Value Rule](change-the-status-of-google-conversion-value-rule.md)
->* [Google Conversion Value Rule Settings](google-conversion-value-rule-settings.md)
+>* [About Google conversion value rules](about-google-conversion-value-rules.md)
+>* [Edit a Google conversion value rule](edit-google-conversion-value-rule.md)
+>* [Change the status of a Google conversion value rule](change-the-status-of-google-conversion-value-rule.md)
+>* [Google conversion value rule settings](google-conversion-value-rule-settings.md)
 

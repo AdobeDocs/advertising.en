@@ -1,4 +1,8 @@
-# Google Conversion Value Rule Settings
+---
+title: Google conversion value rule settings
+---
+
+# Google conversion value rule settings
 
 | Section | Parameter | Description |
 |---|---|---|
@@ -11,8 +15,8 @@
 
 >[!MORELIKETHIS]
 >
->* [About Google Conversion Value Rules](about-google-conversion-value-rules.md)
->* [Create a Google Conversion Value Rule](create-google-conversion-value-rule.md)
->* [Edit a Google Conversion Value Rule](edit-google-conversion-value-rule.md)
->* [Change the Status of a Google Conversion Value Rule](change-the-status-of-google-conversion-value-rule.md)
+>* [About Google conversion value rules](about-google-conversion-value-rules.md)
+>* [Create a Google conversion value rule](create-google-conversion-value-rule.md)
+>* [Edit a Google conversion value rule](edit-google-conversion-value-rule.md)
+>* [Change the status of a Google conversion value rule](change-the-status-of-google-conversion-value-rule.md)
 
