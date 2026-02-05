@@ -2,6 +2,7 @@
 title: Add dynamic creatives to a creative library
 description: Learn how to add dynamic creatives to a creative library.
 feature: Creative Dynamic Creatives
+exl-id: 26162314-bdaa-4d1c-b0c2-696ec6dbb138
 ---
 # Add dynamic creatives to a creative library
 

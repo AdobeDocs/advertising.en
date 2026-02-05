@@ -2,6 +2,7 @@
 title: Dynamic creative settings
 description: Reference the settings for dynamic creatives.
 feature: Creative Dynamic Creatives
+exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
 ---
 # Dynamic creative settings
 

@@ -2,6 +2,7 @@
 title: Manage custom reports
 description: Learn how to generate and manage the cross-experience [!UICONTROL Custom Creative Report].
 feature: Creative Reporting
+exl-id: fecdfc82-1260-46e4-82f3-c37fad6d77e4
 ---
 # [!UICONTROL Manage custom reports]
 

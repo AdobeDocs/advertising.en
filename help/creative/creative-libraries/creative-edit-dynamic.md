@@ -2,6 +2,7 @@
 title: Edit a dynamic creative in a creative library
 description: Learn how to edit a dynamic creative in a creative library.
 feature: Creative Dynamic Creatives
+exl-id: b75b9aeb-ffd0-4b86-aa7a-bd6a22e7a8e4
 ---
 # Edit a dynamic creative in a creative library
 
