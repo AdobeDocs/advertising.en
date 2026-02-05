@@ -2,6 +2,7 @@
 title: '[!UICONTROL Google Performance Max Placement Report]'
 description: Learn about the [!UICONTROL Google Performance Max Placement Report].
 feature: Search Reports, Search Specialty Reports
+exl-id: 6f36fe86-f797-4d0b-a966-e84e2077fad8
 ---
 # [!UICONTROL Google Performance Max Placement Report]
 

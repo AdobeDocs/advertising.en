@@ -2,6 +2,7 @@
 title: Workflows for dynamic ads
 description: Learn about the workflows for managing dynamic ads.
 feature: Creative Dynamic Creatives
+exl-id: eb1cdfbc-9514-4530-a50a-3ae6f6247662
 ---
 # Workflows for dynamic ads
 

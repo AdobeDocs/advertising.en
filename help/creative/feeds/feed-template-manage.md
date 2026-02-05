@@ -2,6 +2,7 @@
 title: Manage feed templates
 description: Learn how to manage feed templates.
 feature: Creative Dynamic Creatives
+exl-id: 63f8af87-639c-45c8-b17f-99ce19594d35
 ---
 # Manage feed templates
 
