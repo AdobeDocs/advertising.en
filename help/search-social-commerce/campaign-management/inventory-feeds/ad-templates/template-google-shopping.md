@@ -97,6 +97,8 @@ the campaign priority first to determine which campaign (and associated bid) is 
 
 {{$include /help/_includes/inventory-feed-template-campaign-locations.md}}
 
+**[!UICONTROL Has EU Political Ads]:**([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns only; applicable to campaigns that target audiences in the European Union (EU)) Whether or not the campaign contains political advertising per requirements for ads served in the European Union under EU Regulation 2024/90: *[!UICONTROL Yes]* or *[!UICONTROL No]*.
+
 ## [!UICONTROL Ad Groups]
 
 <!-- **[!UICONTROL Ad Group]:** -->

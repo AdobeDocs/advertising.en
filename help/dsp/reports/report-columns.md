@@ -60,6 +60,7 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL City]|The city to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL Country]|The country to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL DMA]|The Designated Market Area (DMA) to which the reported data is attributed.|
+|[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL Pin Code]|The Postal Index Number (PIN) code to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Geos]|[!UICONTROL State]|The state to which the reported data is attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Audience]| The audience. The report supports up to 10 unique audiences.|
 |[!UICONTROL Dimension]|[!UICONTROL Household]|[!UICONTROL Campaign]| The campaign.|
@@ -79,6 +80,10 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Household Conversions]|[!UICONTROL Media Type]| The media type. (such as Display, Audio etc.) |
 |[!UICONTROL Dimension]|[!UICONTROL Household Conversions]|[!UICONTROL Publisher]| The publisher. |
 |[!UICONTROL Dimension]|[!UICONTROL Household Conversions]|[!UICONTROL Placement]| The placement.|
+|[!UICONTROL Dimension]|[!UICONTROL Package Flight]|[!UICONTROL Package Flight Budget]|The budget for the package flight.|
+|[!UICONTROL Dimension]|[!UICONTROL Package Flight]|[!UICONTROL Package Flight End Date]|The end date for the package flight.|
+|[!UICONTROL Dimension]|[!UICONTROL Package Flight]|[!UICONTROL Package Flight Rollover]|Any rollover budget for the package flight.|
+|[!UICONTROL Dimension]|[!UICONTROL Package Flight]|[!UICONTROL Package Flight Start Date]|The start date for the package flight.|
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package End Date]|The end date for the package.|
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package Goal Type]|The pacing goal amount for the package. This amount is in either spend or impressions.|
 |[!UICONTROL Dimension]|[!UICONTROL Packages]|[!UICONTROL Package ID]|The unique identifier for the package in DSP.|
@@ -138,13 +143,14 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metrics]|[!UICONTROL Household Conversions] | [!UICONTROL Unique Household Reached ] | The total unique households (distinct IP addresses) reached. |
 |[!UICONTROL Metrics]|[!UICONTROL Identifier] | [!UICONTROL Identifier Type] | The type of ID targeted. |
 |[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL % bid at Max CPM]|The percentage of total bids that were bid at the Max CPM. |
-|[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Gross CPA]|The average gross cost per acquisition, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Custom Goal]</code>.|
+|[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Gross CPA]|The average gross cost per acquisition, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL conversion metric]</code>.|
 |[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Gross CPC]|The average gross cost per ad click, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks]</code>.|
 |[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Gross CPCV]|The average cost per completed video view, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL 100% Completions]</code>.|
 |[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Gross CPE]|The average gross cost per ad engagement, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Engagements]</code>.|
 |[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Gross CPI]|The average gross cost per ad impression, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Impressions]</code>.|
 |[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Gross CPM]|The average cost per 1000 impressions, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Impressions] x 1000</code>.|
 |[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Gross CPV]|The average cost per video view, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Views]</code>.|
+|[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Gross Custom Goal CPA]|The <code>[!UICONTROL Gross Spend] / [!UICONTROL Custom Goal]</code>, where [!UICONTROL Custom Goal] is the objective weight for all conversions attached to the custom goal. |
 |[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Gross vCPM]|The average cost per 1000 viewable impressions, calculated by <code>[!UICONTROL Gross Spend] / [!UICONTROL Viewable Impressions] x 1000</code>.|
 |[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Net CPC]|The average net cost per ad click, calculated by <code>[!UICONTROL Net Spend] / [!UICONTROL Total Ad Clicks]</code>.|
 |[!UICONTROL Metrics]|[!UICONTROL Performance]|[!UICONTROL Net CPCV]|The average net cost per completed video view, calculated by <code>[!UICONTROL Net Spend] / [!UICONTROL 100% Completions]</code>.|
@@ -223,7 +229,6 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 
 {style="table-layout:auto"}
 
-<!-- |Omitted|[!UICONTROL Performance]|Custom Goal CPA|The average cost per acquisition, calculated by <code>Gross Spend / Custom Goal</code> | -->
 <!-- |Omitted|[!UICONTROL Performance]|Custom Goal ROAS|The average return on ad spend, calculated by <code>Custom goal / Gross spend</code> |-->
 
 >[!MORELIKETHIS]

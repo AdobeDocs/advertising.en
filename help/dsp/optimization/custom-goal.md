@@ -17,7 +17,7 @@ Each custom goal (objective) consists of one or more conversion metrics and the 
 
 For example, suppose that three conversion metrics are relevant to a specific package in one of your campaigns: "PDF Download" valued at 20 USD, "Email Signup" valued at 30 USD, and "Order Confirmation" valued at 40 USD. If you want to give weight according to the one-time monetary value of the customer action, then the relative weights of the metrics would be 1, 1.5, and 2.
 
-Once you [create a custom goal](#custom-goal-create), you can [assign it to a package](/help/dsp/campaign-management/packages/package-settings.md) for reporting and algorithmic optimization using Adobe Sensei.
+Once you [create a custom goal](#custom-goal-create), you can [assign it to a package](/help/dsp/campaign-management/packages/package-settings.md) for reporting and algorithmic optimization using [!DNL Adobe AI].
 
 Weight recommendations are automatically generated for DSP-attributed metrics in objectives, and can apply all weight recommendations with one click. All weight changes to objectives prefixed with "ADSP_" are applied algorithmically in DSP within two days. For more information weight recommendations, see the Optimization Guide chapter on "Objectives," which is available from within Search, Social, & Commerce. 
 
@@ -100,7 +100,7 @@ If your campaign goal is the lowest cost per acquisition (CPA) and it requires o
 
 There are two scenarios in which you would use multiple metrics in a custom goal:
 
-* Your campaign goal has multiple success events. For example, maybe you're advertising for more than one on-site action (PDF Download, Contact Us, and Email Sign up), and all are actions contribute to your CPA goal. If the objective includes the three separate metrics, each with non-mobile weights of one (1), then the [!DNL Adobe Sensei] algorithm treats each of the metrics and user device types with equal importance. If the different metrics have varying costs or importance, then you adjust their relative weights accordingly.
+* Your campaign goal has multiple success events. For example, maybe you're advertising for more than one on-site action (PDF Download, Contact Us, and Email Sign up), and all are actions contribute to your CPA goal. If the objective includes the three separate metrics, each with non-mobile weights of one (1), then the [!DNL Adobe AI]-powered algorithm treats each of the metrics and user device types with equal importance. If the different metrics have varying costs or importance, then you adjust their relative weights accordingly.
 
 <!-- update image or delete it and adjust the wording above
 
@@ -110,7 +110,7 @@ There are two scenarios in which you would use multiple metrics in a custom goal
 
 * The single conversion metric in your custom goal isn't achieving the minimum of 10 conversions per day required for optimized performance. This can occur because of minimal daily package spend or a limited number of natural conversions. Adding additional supporting metrics to the custom goal can help you achieve the 10-conversions-per-day threshold. Ten supporting events can help a package meet the 10/day threshold, even when each of their weights is below one (1). But you may not need to add that many events.
 
-   When you add supporting metrics to a custom goal, weight them according to their relative importance to the main success event, and keep in mind the quantity of data points. This allows the Adobe Sensei algorithm to balance multiple metrics and optimize toward your goal.
+   When you add supporting metrics to a custom goal, weight them according to their relative importance to the main success event, and keep in mind the quantity of data points. This allows the [!DNL Adobe AI]-powered algorithm to balance multiple metrics and optimize toward your goal.
 
    The following example objective includes three metrics, each with a different non-mobile weight: Application Submit = 1, Application Start = 0.1, and Advertiser Landing Page = 0.01. This means that each Application Submit conversion has the same value to your business as an average of 10 Application Start conversions and 100 Advertiser Landing Page conversions.
 

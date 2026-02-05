@@ -1,6 +1,6 @@
 ---
 title: Manage creative bundles
-description: Learn about xxxx.
+description: Learn how to manage and use groups of creatives.
 feature: Creative Bundles
 exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
 ---
@@ -12,7 +12,7 @@ exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
 
 Bundles are groups of creatives that you can add to an experience as one unit. After you create a bundle container, you can attach creatives to the bundle. Standard display bundles can contain only standard display ads, standard video bundles can contain only standard video ads, and dynamic display bundles can contain only dynamic display ads. You can override the landing pages, impression-tracking tags, and click-tracking tags for all creatives within a bundle that's assigned to an experience from within the experience decision tree, without affecting the base creatives.
 
-[!DNL Creative] rotates through the creatives in the bundle as specified for each experience to which the bundle is assigned. You can optionally allow [!DNL Creative] to optimize the ad elements for any experience based on performance using algorithmic ad rotation, which is powered by Adobe Sensei.
+[!DNL Creative] rotates through the creatives in the bundle as specified for each experience to which the bundle is assigned. You can optionally allow [!DNL Creative] to optimize the ad elements for any experience based on performance using algorithmic ad rotation, which is powered by [!DNL Adobe AI].
 
 To enable the optimization of ad elements across bundles in an ad experience, each bundle can include only one of each \[creative size or duration + language\] combination. For example, if a bundle includes one 250x250 creative with a default language of "French," then you can't add a second 250x250 creative with a default language of "French." If you have multiple creatives of the same size in the same language, then add them separately to the experience.
 

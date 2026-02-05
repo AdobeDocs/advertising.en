@@ -36,11 +36,26 @@ Flexible HTML5 creatives are HTML5 creatives with all of their images and other 
 
 You can either upload flexible HTML5 creatives as ZIP files or use one of the templates available to your account as a starting point. See the [specifications for flexible HTML5 creatives](html5-creative-specification.md).
 
-#### HTML5 creatives
+#### Standard display creatives
 
-You can upload simple or static HTML5 creatives, with all attributes and images specified, as ZIP files. You can't edit any attributes or add images; instead, upload a new ZIP file to add a new creative. See the [specifications for simple and static HTML5 creatives](html5-creative-specification.md).
+Standard display ads include:
 
-#### Image creatives
+* HTML5 creatives uploaded locally or from Adobe GenStudio for Performance Marketing.
+* Image files uploaded locally or from Adobe Experience Manager.
+
+##### HTML5 creatives
+
+* **GenStudio experiences:** You can import all ad variants from a [display ad experience](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/display-ad-experiences) in [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) as individual HTML5 creatives. External links are converted to local references. The HTML content can be up to 20 MB, and individual images can be up to 50 MB.
+  
+  Once you import a GenStudio experience, you can edit the metadata (name, language, tags) for the imported creative but not the creative content. If you edit the GenStudio experience within GenStudio, then re-import the experience in [!DNL Creative] to use the latest version.
+
+  >[!NOTE]
+  >
+  >To use this feature, the GenStudio account and the Advertising Creative account must both use the same organization ID, and the user must have permissions to access GenStudio.
+
+* **Uploaded files:** You also can upload simple or static HTML5 creatives, with all attributes and images specified, as ZIP files. You can't edit any attributes or add images; instead, upload a new ZIP file to add a new creative. See the [specifications for simple and static HTML5 creatives](html5-creative-specification.md).
+
+##### Image creatives
 
 You can include image creatives in GIF, JPEG, JPG, or PNG format. You can upload approved images from your Adobe Experience Manager accounts or images from your device or network.
 

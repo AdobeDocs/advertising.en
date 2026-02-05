@@ -20,7 +20,7 @@ It's important to understand the goal of the campaign, such as to achieve the hi
 
 ![optimization goal](/help/dsp/assets/optimization-goals.png)
 
-You also need to determine the success event(s) that lead to the overall goal and create custom goals accordingly. For each package, specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using [!DNL Adobe Sensei]. For more information about creating custom goals, including best practices, see [Custom Goals](custom-goal.md).
+You also need to determine the success event(s) that lead to the overall goal and create custom goals accordingly. For each package, specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using [!DNL Adobe AI]. For more information about creating custom goals, including best practices, see [Custom Goals](custom-goal.md).
 
 ## Step 2 - Define Your Strategy
 
@@ -37,7 +37,7 @@ Upper funnel packages include placements with very broad targeting to reach net 
   * Contextual targeting.
   * Site/category targeting.
 
-* Use run of network (RON) targeting: It’s important to include a run of network placement without audience targeting and with broad inventory targeting. This allows the [!DNL Adobe Sensei] algorithm to find valuable users who may have newer cookies that haven't yet been categorized into an audience.
+* Use run of network (RON) targeting: It's important to include a run of network placement without audience targeting and with broad inventory targeting. This allows the [!DNL Adobe AI]-powered algorithm to find valuable users who may have newer cookies that haven't yet been categorized into an audience.
 
 ### Retargeting Strategies
 

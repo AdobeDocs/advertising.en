@@ -16,7 +16,11 @@ Your Creative Libraries allow you to manage the creatives you'll use in your ad 
 
 ### [!DNL Adobe] asset integrations
 
-[!DNL Creative] is directly integrated with Adobe Experience Manager, allowing you to easily upload the [!DNL Adobe] image assets that your design team creates and approves for standard image ads.
+[!DNL Creative] is directly integrated with the following [!DNL Adobe] products, allowing you to import assets to your creative libraries:
+
+* **Adobe Experience Manager:** Upload the [!DNL Adobe] image assets that your design team creates and approves for standard image ads.
+
+* **Adobe GenStudio for Performance Marketing:** Import all ad variants from your display ad experiences as HTML5 creatives.
 
 ## Both rules-based and non-targeted experiences
 
@@ -26,7 +30,7 @@ Your Creative Libraries allow you to manage the creatives you'll use in your ad 
 
 ### [!DNL Adobe] data integrations
 
-You can use your first-party audience segments from Adobe Audience Manager and Adobe Analytics &mdash; as well as custom audience segments you create in Advertising DSP and retargeting pixels you create using [!DNL Creative] &mdash; as targets for specific creatives in an ad experience. <!-- Advertiser should be able to target all segments that are available in DSP for targeting -->
+Use your first-party audience segments from Adobe Audience Manager and Adobe Analytics &mdash; as well as custom audience segments you create in Advertising DSP and retargeting pixels you create using [!DNL Creative] &mdash; as targets for specific creatives in an ad experience. <!-- Advertiser should be able to target all segments that are available in DSP for targeting -->
 
 ### Implementation of experiences as ads
 
@@ -34,7 +38,7 @@ Once you create an experience, you can generate a JavaScript or iframe tag for t
 
 ### Optimization of ad elements
 
-You can optionally allow [!DNL Creative] to optimize the ad elements for any experience based on performance &mdash; whether or not you define specific audience targets &mdash; using optimized, weighted ad rotation, which is powered by Adobe Sensei.
+You can optionally allow [!DNL Creative] to optimize the ad elements for any experience based on performance &mdash; whether or not you define specific audience targets &mdash; using optimized, weighted ad rotation, which is powered by [!DNL Adobe AI].
 
 <!--
 [!DNL Creative] serves first-party ads and triggers third-party ads for the experience based on the specified targeting (when applicable), scheduling, ad rotation, and optimization goal options 

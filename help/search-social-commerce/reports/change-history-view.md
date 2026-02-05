@@ -30,9 +30,9 @@ You can sort and filter the data by any column.
      
      1. Specify the range:
          
-         * (For a preset range) — Select from the list of common time increments. The default is *[!UICONTROL 2 Days Ago]*.
+         * (For a preset range) &mdash; Select from the list of common time increments. The default is *[!UICONTROL 2 Days Ago]*.
          
-         * (For a specific range) — Select **[!UICONTROL Custom Date Range]**, and then specify the beginning date and the end date.
+         * (For a specific range) &mdash; Select **[!UICONTROL Custom Date Range]**, and then specify the beginning date and the end date.
          
            Enter dates in the format MM/DD/YYYY or MM-DD-YYYY, or click ![Calendar](/help/search-social-commerce/assets/calendar.png "Calendar") next to each field to open the calendar and select a date. You can include data for only the previous 31 days.
       

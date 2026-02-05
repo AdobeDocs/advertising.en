@@ -113,7 +113,7 @@ Your Adobe Account Team will inform you if new features require a new token.
 
 *Agency account manager, Adobe account manager, and administrator user roles only*
 
-When you enable an ad network account, Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios.When you disable an ad network account, Search, Social, & Commerce stops all activity on the account. Data collected while the account was active is still stored, but the campaign management views and reports don't include data for the time period in which the account is disabled. You can later re-enable the account to resume activity with the account.
+When you enable an ad network account, Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios. When you disable an ad network account, Search, Social, & Commerce stops all activity on the account. Data collected while the account was active is still stored, but the campaign management views and reports don't include data for the time period in which the account is disabled. You can later re-enable the account to resume activity with the account.
 
 1. In the main menu, click **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. In the submenu, click **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
 
@@ -147,7 +147,7 @@ When you enable an ad network account, Search, Social, & Commerce synchronizes c
 
 >[!NOTE]
 >
->If you have a Search, Social, & Commerce-Adobe Analytics integration and change the name of the search account, then notify your Adobe Account Team so they can update the mapping.
+>If you have a Search, Social, & Commerce-Adobe Analytics integration and change the name of the search account, then ask your Adobe Account Team to update the mapping.
 
 **[!UICONTROL Login Details]: \[Login Type\]** - ([!DNL Microsoft Advertising]/[!DNL Microsoft Merchant Center] only) Whether to authorize logins to the account using:
 

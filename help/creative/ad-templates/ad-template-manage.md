@@ -1,6 +1,6 @@
 ---
 title: Manage dynamic ad templates
-description: Learn about xxxx.
+description: Learn how to manage dynamic ad templates and create ads from them.
 feature: Creative Templates
 ---
 # Manage dynamic ad templates

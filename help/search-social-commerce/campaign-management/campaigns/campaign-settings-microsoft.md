@@ -41,6 +41,8 @@ the campaign may contain:
 
 {{$include /help/_includes/end-date.md}}
 
+**[!UICONTROL Contains EU Political Ads]:**(Applicable to campaigns that target audiences in the European Union (EU)) Whether or not the campaign contains political advertising per requirements for ads served in the European Union under EU Regulation 2024/90: *[!UICONTROL Yes]* or *[!UICONTROL No]*.
+
 ## [!UICONTROL Budget Options]
 
 <!-- **[!UICONTROL Budget]:** -->
@@ -53,7 +55,7 @@ the campaign may contain:
 
 **[!UICONTROL Bid strategy]:** The bid strategy for the campaign:
 
-* *[!UICONTROL Cost per Sale]:* (Shopping campaigns only) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on the [!UICONTROL Target CPS] (cost per sale). You pay only when a click on your product ad results in a sale within 24 hours. **Note:** Don't include campaigns with this bid strategy in portfolios. Search, Social, & Commerce optimization isn’t available for campaigns with this bid strategy.
+* *[!UICONTROL Cost per Sale]:* (Shopping campaigns only) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on the [!UICONTROL Target CPS] (cost per sale). You pay only when a click on your product ad results in a sale within 24 hours. **Note:** Don't include campaigns with this bid strategy in portfolios. Search, Social, & Commerce optimization isn't available for campaigns with this bid strategy.
 
   Once you save a shopping campaign for brands with this bid strategy, you can't change the bid strategy. For other shopping campaign types, this strategy is available only for new campaigns.
 
@@ -280,7 +282,7 @@ For information about availability, see Microsoft Advertising help to "[Prevent 
 
 **[!UICONTROL Business Name]:** The business name, with a maximum of 25 characters. It can't contain scripts, HTML, or other markup language.
 
-**[!UICONTROL Audience Signal]:** (Optional) [!DNL Microsoft Advertising] audiences to use as audience signals for the campaign. [!DNL Microsoft Advertising] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren’t specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
+**[!UICONTROL Audience Signal]:** (Optional) [!DNL Microsoft Advertising] audiences to use as audience signals for the campaign. [!DNL Microsoft Advertising] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren't specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
 
 >[!NOTE]
 >Audience signals are different from [ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).

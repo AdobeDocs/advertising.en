@@ -40,11 +40,13 @@ Alerts and alert indicators automatically disappear when the underlying issues a
 
    All alerts associated with the campaign and its components, including targeted deals, are listed. By default, critical alerts are listed first.
 
+1. (Advertisers with Advertising Creative; optional) Click the **[!UICONTROL Creative]** tab to view alerts for placements that include Advertising Creative experiences. 
+
 1. (Optional) To group the alerts according to their first date of detection, or to filter the alerts by alert status, component status, component type, or with a specific campaign name, click ![Filter button](/help/dsp/assets/filter.png) in the upper right of the panel, select the filter options, and then click **[!UICONTROL Apply]**.
 
 1. To view a list of all affected campaign components for a specific alert type, click the alert name, such as "[!UICONTROL Package: No Active Placement (*N*)]". To view the details for each affected component, including the recommended action, click [!UICONTROL EXPAND ALL] or click the component name. To open the relevant campaign management view for any affected component so you can make the recommended changes, hold the cursor over the component name and click ![Go to view](/help/dsp/assets/go-to-view.png "Go to view").
 
-1. (Optional) To ignore (hide) an alert, hold the cursor over the component name and click ![Ignore](/help/dsp/assets/alert-ignore.png "Ignore"), and then click **[!UICONTROL Ignore indefinitely]**.  <!-- **[!UICONTROL Ignore alert for three days]**, **[!UICONTROL Ignore alert until next check]**, or **[!UICONTROL Ignore indefinitely] -->
+1. (Optional) To ignore (hide) an alert, hold the cursor over the component name and click ![Ignore](/help/dsp/assets/alert-ignore.png "Ignore"), and then click **[!UICONTROL Ignore alert till next check]**, **[!UICONTROL Ignore alert for 3 days]**, or **[!UICONTROL Ignore indefinitely]**.
 
   You have a few seconds after ignoring an alert to undo the action. Once the option message closes, you can't cancel the action.
 
