@@ -1,6 +1,6 @@
 ---
 title: Customize creative optimization and scheduling for an experience
-description: Learn how to
+description: Learn how to configure optimization and ad scheduling for targeted experiences.
 feature: Creative Experiences
 exl-id: 47d1a249-decd-4c3b-ac88-260488d5bcd2
 ---
