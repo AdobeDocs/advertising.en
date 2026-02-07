@@ -2,6 +2,7 @@
 title: Manage asset files
 description: Learn how to upload and manage asset file for an advertiser.
 feature: Creative Dynamic Creatives
+exl-id: 2fe2d778-8456-490a-bf44-234dbc08649f
 ---
 # Manage asset files
 

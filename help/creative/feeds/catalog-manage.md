@@ -2,6 +2,7 @@
 title: Manage feed catalogs
 description: Learn how to manage feed catalogs.
 feature: Creative Dynamic Creatives
+exl-id: d3ee20ba-5359-4dbe-bc76-269dc800843c
 ---
 # Manage feed catalogs
 

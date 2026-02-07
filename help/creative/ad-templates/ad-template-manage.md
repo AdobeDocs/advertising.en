@@ -2,6 +2,7 @@
 title: Manage dynamic ad templates
 description: Learn how to manage dynamic ad templates and create ads from them.
 feature: Creative Templates
+exl-id: 248f1467-ebd3-47f2-a24c-043bbfadcc6e
 ---
 # Manage dynamic ad templates
 
@@ -120,4 +121,3 @@ To upload a file:
 >* [Manage feed templates](/help/creative/feeds/feed-template-manage.md)
 >* [Manage catalogs](/help/creative/feeds/catalog-manage.md)
 >* [Add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md)
-

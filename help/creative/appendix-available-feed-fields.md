@@ -2,6 +2,7 @@
 title: Available fields for dynamic ad feed files
 description: Learn about the fields you can include in the feed files you use to create dynamic ads.
 feature: Creative Dynamic Creatives
+exl-id: 9cd3fa29-d4db-4e9f-9ffd-87b44b62a3e2
 ---
 # Appendix: Available fields for dynamic ad feed files
 

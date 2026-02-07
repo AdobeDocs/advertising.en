@@ -3,6 +3,7 @@ title: View simulation details
 description: Learn how to view simulation details on-screen.
 feature: Search Optimization, Search Portfolios, Search Simulations
 hide: yes
+exl-id: 1b289d20-561d-4cf9-844e-9cedff7f6296
 ---
 # View simulation details
 
@@ -32,4 +33,3 @@ You can view simulation details on-screen as a graph or table.
 >
 >* [About simulations](simulation-about.md)
 >* [Run or rerun a simulation](simulation-create.md)
-
