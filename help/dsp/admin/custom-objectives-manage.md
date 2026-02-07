@@ -9,6 +9,8 @@ role: User, Admin
 
 *Available for DSP accounts that are linked to Search, Social, & Commerce accounts*
 
+<!-- Verify all, and update metadata -->
+
 Objectives are goals that an advertiser sets to meet its business objectives, such as to maximize profits or to meet a specific sales target. In DSP, objectives are available as [custom goals](/help/dsp/campaign-management/packages/package-settings.md). Packages with package-level pacing and the optimization goals "Highest Return on Ad Spend (ROAS)" or "Lowest Cost per Acquisition (CPA)" must include a custom goal that helps achieve the overall optimization goal. Before you can create custom goals, the DSP account must be linked to a Search, Social, & Commerce account, even if you aren't a Search, Social, & Commerce customer. Your Adobe Account Team can set up the link.
 
 <!-- Better example for DSP? -->An objective consists of the metrics (properties) to be tracked and optimized, and the relative weights of those metrics. For example, suppose that an online magazine with two online subscription levels and one print subscription level and the objective "maximize profits" has three metrics: "basic online subscriptions" valued at 20 USD, "premium online subscriptions" valued at 40 USD, and "print subscriptions" valued at 30 USD. If the magazine wants to give weight according to the one-time monetary value of the subscription, then the relative weights of the metrics would be 1, 2, and 1.5, respectively.
@@ -95,7 +97,7 @@ You can delete an objective that's not assigned to a package.
 | Section | Parameter | Description |
 |---------|-----------|-------------|
 | Basic Details | AMOClient | The advertiser's unique Adobe Advertising ID. |
-| Basic Details | Objective Name | The name of the objective.<br><br>All objective names for [Advertising DSP](/help/dsp/home.md) must be prefixed the name with "ADSP_" (not case sensitive), such as "ADSP_Registrations." Use a name that is easy to identify when you want to assign it to a package. |
+| Basic Details | Objective Name | The name of the objective.<br><br>All objective names for Advertising DSP must be prefixed the name with "ADSP_" (not case sensitive), such as "ADSP_Registrations." Use a name that is easy to identify when you want to assign it to a package. |
 |  | Description | (Optional) A description of the objective. The description appears when you hold the cursor over the name in the Custom Objectives list. If you don't include a description, the objective name is repeated instead. |
 | Bidding Strategy |  | The objective's bidding strategy, which determines the types of events that you can configure:<ul><li><b>[UICONTROL Automated Bidding]:</b> Assign properties (metrics) to the objective as [!DNL goal] metrics. [!DNL Adobe AI] automatically assigns and updates weighted assist events to maximize your goal events.</li><li><b>[UICONTROL Custom Bidding]:</b> Set up your own bidding strategy by assigning properties as either "[!DNL goal]" or weighted "[!DNL assist]" events.</li></ul> |
 | Properties | [!UICONTROL Available Metrics] | All metrics tracked for the advertiser. To add a metric as a goal, click <b>[!UICONTROL Goal]</b> next to the metric name. ([UICONTROL Custom Bidding] only) To add a metric that assists the assigned goal metrics, click <b>[!UICONTROL Assist]</b> next to the metric name. |
