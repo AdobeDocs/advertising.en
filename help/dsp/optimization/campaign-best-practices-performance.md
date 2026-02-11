@@ -20,7 +20,7 @@ It's important to understand the goal of the campaign, such as to achieve the hi
 
 ![optimization goal](/help/dsp/assets/optimization-goals.png)
 
-You also need to determine the success event(s) that lead to the overall goal and create custom goals accordingly. For each package, specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using [!DNL Adobe AI]. For more information about creating custom goals, including best practices, see [Custom Goals](custom-goal.md).
+You also need to determine the success event(s) that lead to the overall goal and create custom goals accordingly. For each package, specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using [!DNL Adobe AI]. For more information about custom goals, see "[Manage Custom Objectives](/help/dsp/admin/custom-objectives-manage.md)" and "[Best Practices for Custom Goals](custom-goal.md)."
 
 ## Step 2 - Define Your Strategy
 
