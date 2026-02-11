@@ -102,7 +102,7 @@ index: yes
   + [How [!DNL DSP] Optimizes Your Campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md)
   + [Placement-level Pre-bid Filters and How to Use Them](/help/dsp/optimization/optimization-pre-bid-filters.md)
-  + [Custom Goals](/help/dsp/optimization/custom-goal.md)
+  + [Best Practices for Custom Goals](/help/dsp/optimization/custom-goal.md)
   + [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
   + [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
 + Audiences {#audiences}
@@ -219,6 +219,8 @@ index: yes
     + [Invite a New User](/help/dsp/admin/user-invite.md)
     + [Resend a Pending User Invitation](/help/dsp/admin/user-resend-invite.md)
     + [Uninvite a Pending User](/help/dsp/admin/user-uninvite.md)
+  + [Manage Conversions](/help/dsp/admin/conversion-metrics-manage.md)
+  + [Manage Custom Objectives](/help/dsp/admin/custom-objectives-manage.md)
   + Blocked Sites {#sites}
     + [About Account-Level and Advertiser-Level Blocked Sites Lists](/help/dsp/admin/blocked-sites-list-about.md)
     + [Edit an Account-Level or Advertiser-Level Blocked Sites List](/help/dsp/admin/blocked-sites-list-edit.md)
