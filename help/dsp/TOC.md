@@ -110,6 +110,7 @@ index: yes
   + [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
   + Reusable Audiences {#reusable-audiences}
     + [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md)
+    + [Create a Reusable Audience Using Generative AI](/help/dsp/audiences/reusable-audience-create-using-ai.md)
     + [Duplicate a Reusable Audience](/help/dsp/audiences/reusable-audience-duplicate.md)
     + [Edit a Reusable Audience](/help/dsp/audiences/reusable-audience-edit.md)
     + [View Details About a Reusable Audience](/help/dsp/audiences/reusable-audience-view-details.md)
