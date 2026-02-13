@@ -116,10 +116,10 @@ You can also ignore the request and continue to specify additional audience crit
 
 #### AI agent response asking you to choose from multiple options
 
-`Would you like to:
-1) Proceed with this expression,
-2) Get maximum reach alternatives, or
-3) Modify the expression manually?`
+`Would you like to:`
+`1) Proceed with this expression,`
+`2) Get maximum reach alternatives, or`
+`3) Modify the expression manually?`
 
 Your reply:  `1`, `proceed`, `2`, `maximum reach`, and so on.
 
