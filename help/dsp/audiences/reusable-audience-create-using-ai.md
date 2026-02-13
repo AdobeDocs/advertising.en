@@ -37,7 +37,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
 1. Build the audience:
 
-   <!-- When this becomes an open beta, it will be the default for everyone, and the steps will need to be updated accordingly. -->For users with beta permissions, the AI option is the default. To [assemble the audience yourself](/help/dsp/audiences/reusable-audience-create.md), click the "Switch to manual mode" button at the bottom.
+   For users with beta permissions, the AI option is the default. To [assemble the audience yourself](/help/dsp/audiences/reusable-audience-create.md), click the "Switch to manual mode" button at the bottom.
 
    1. Enter one or more prompts to describe the audience characteristics you want to include and exclude. To submit each prompt, click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
 
