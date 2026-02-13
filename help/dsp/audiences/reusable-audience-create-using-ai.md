@@ -65,6 +65,8 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
 * Use clear, descriptive language to describe the target audience.
 
+  In general, prompts are case-insensitive, and punctuation isn't required except to provide clarity.
+
 * Be specific and provide details about all audience characteristics that you want to include and any characteristics that you specifically want to exclude. The more details that you provide, the greater the chance that you'll get the results that meet your needs.
 
 * Identify locations, device types, and data providers to include or to exclude.
