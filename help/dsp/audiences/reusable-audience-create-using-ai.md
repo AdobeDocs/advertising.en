@@ -62,7 +62,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
    >
    >You can't later edit the audience using the AI agent. Instead, [edit the audience expression manually](/help/dsp/audiences/reusable-audience-edit.md).
 
-## Writing Prompts {#writing-prompts}
+## Basics of Writing Prompts {#writing-prompts}
 
 ### What should a prompt include?
 
@@ -116,12 +116,10 @@ You can also ignore the request and continue to specify additional audience crit
 
 #### AI agent response asking you to choose from multiple options
 
-```
-Would you like to:
+`Would you like to:
 1) Proceed with this expression,
 2) Get maximum reach alternatives, or
-3) Modify the expression manually?
-```
+3) Modify the expression manually?`
 
 Your reply:  `1`, `proceed`, `2`, `maximum reach`, and so on.
 
@@ -133,9 +131,7 @@ An audience brief is a strategic writeup that defines the target audience for a 
 
 ### Essential Components of an Effective Audience Brief
 
-#### Audience attributes
-
-Include as many attribute types as possible from the following list in your brief. Be specific about attributes you want to exclude.
+Include as many audience attribute types as possible from the following list in your brief. Be specific about attributes you want to exclude.
 
 <!-- What about these:
 
