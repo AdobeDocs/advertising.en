@@ -23,6 +23,8 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 >
 >This feature is in beta mode and is subject to change. Make sure that the generated audience expression represents the audience you want before creating the audience and using it for your placements.
 
+## Create a Reusable Audience Using Generative AI
+
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**.
 
 1. Above the data table, click **[!UICONTROL Create]**.
@@ -51,7 +53,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
       You can enter "proceed," "okay," "ok," "yes", or another similar word. 
 
-1. (If necessary) Specify additional criteria. When the AI agent presents an audience expression that meets all of your criteria, tell the AI agent to proceed with assembling the audience.
+   1. (If necessary) Specify additional criteria. When the AI agent presents an audience expression that meets all of your criteria, tell the AI agent to proceed with assembling the audience.
 
 1. When you're satified with the assembled audience, click **[!UICONTROL Create]** to create the specified audience.
 
