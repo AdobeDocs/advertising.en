@@ -46,21 +46,23 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
       For more information, see "[Writing Prompts](#writing-prompts)" and "[Best Practices for Creating an Audience Brief](#audience-brief-best-practices)."
 
-      As the AI agent finds relevent segments, it creates an audience expression based on your criteria. It also asks for your approval before looking for matching segments to assemble the audience.
+      As the audience agent finds relevent segments, it creates an audience expression based on your criteria. It also asks for your approval before looking for matching segments to assemble the audience.
 
       You can optionally ignore the request and continue to specify additional audience criteria instead.
 
-   1. When the AI agent presents an audience expression that adequately describes your audience, tell the AI agent to proceed with assembling the audience.
+   1. When the audience agent presents an audience expression that adequately describes your audience, tell the audience agent to proceed with assembling the audience.
 
       You can enter "proceed," "okay," "ok," "yes", or another similar word. 
 
-   1. (If necessary) Specify additional criteria. When the AI agent presents an audience expression that meets all of your criteria, tell the AI agent to proceed with assembling the audience.
+   1. (If necessary) Specify additional criteria. When the audience agent presents an audience expression that meets all of your criteria, tell the audience agent to proceed with assembling the audience.
+
+      To assemble the audience, enter "proceed," "okay," "ok," "yes", or another similar word.
 
 1. When you're satified with the assembled audience, click **[!UICONTROL Create]** to create the specified audience.
 
    >[!NOTE]
    >
-   >You can't later edit the audience using the AI agent. Instead, [edit the audience expression manually](/help/dsp/audiences/reusable-audience-edit.md).
+   >You can't later edit the audience using the audience agent. Instead, [edit the audience expression manually](/help/dsp/audiences/reusable-audience-edit.md).
 
 ## Basics of Writing Prompts {#writing-prompts}
 
@@ -68,7 +70,11 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
 * Use clear, descriptive language to describe the target audience.
 
-  In general, prompts are case-insensitive, and punctuation isn't required except to provide clarity.
+  * You can enter either complete sentences or just a string of characteristics. Punctuation isn't required except when necessary for clarity.
+
+  * In general, prompts are case-insensitive.
+  
+  * The audience agent recognizes most common synonyms.
 
 * Be specific and provide details about all audience characteristics that you want to include and any characteristics that you specifically want to exclude. The more details that you provide, the greater the chance that you'll get the results that meet your needs.
 
@@ -78,6 +84,8 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
 * Learn about prompting through experimentation.
 
+  If your prompt isn't clear, the audience agent will just request another prompt, so you can try again.
+  
   The audience agent won't automatically save a generated audience expression as an audience. You can only save an audience by clicking the [!UICONTROL Create] button, which is outside of the prompt area, so you can undo any changes that you don't want to keep.
 
 See "[Best Practices for Creating an Audience Brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
@@ -102,11 +110,11 @@ you can give thumbs up or down to [what exactly?]. Verify what info is carried o
 
 * Text in languages besides English.
 
-### Examples of AI agent responses and how to reply
+### Examples of audience agent responses and how to reply
 
-When the AI agent needs a response from you, you can reply using keywords in the request or using common terms that are equivalent.
+When the audience agent needs a response from you, you can reply using keywords in the request or using common synonyms.
 
-#### AI agent response asking you a question
+#### Audience agent asking you a question
 
 `If you are okay with the proposed expression, I can start searching third party segments for each of the traits (based on the search filters above), and assemble the matching segments into the audience. Would you like me to proceed?`
 
@@ -114,7 +122,7 @@ Your affirmative replies:  "proceed," "okay," "ok," "yes", or another similar wo
 
 You can also ignore the request and continue to specify additional audience criteria instead.
 
-#### AI agent response asking you to choose from multiple options
+#### Audience agent asking you to choose from multiple options
 
 `Would you like to:`
 `1) Proceed with this expression,`
