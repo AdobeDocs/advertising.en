@@ -212,7 +212,26 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Playtime per View]|The average duration of a video view, measured in seconds.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Total Ad Clicks]|The sum of all clicks on an ad.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Viewed Minutes]|The total number of minutes a video ad was viewed.|
-|[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Views]|The total number of video ad views.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Views]|(Custom Creative Report) The total number of video ad views.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL 100% Completion Rate]|(Custom Creative Report) The percentage of views that watched the ad in its entirety.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL 100% Completions]|(Custom Creative Report) The number of views that watched the ad in its entirety.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL 25% Completion Rate]|(Custom Creative Report) The percentage of views that watched at least one quartile of the ad.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL 25% Completions]|(Custom Creative Report) The number of views that watched at least one quartile of the ad.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL 50% Completion Rate]|(Custom Creative Report) The percentage of views that watched at least two quartiles of the ad.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL 50% Completions]|(Custom Creative Report) The number of views that watched at least two quartiles of the ad.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL 75% Completion Rate]|(Custom Creative Report) The percentage of views that watched at least three quartiles of the ad.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL 75% Completions]|(Custom Creative Report) The number of views that watched at least three quartiles of the ad.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL Avg Percent Viewed]|(Custom Creative Report) The average percentage an ad was watched to completion, accounting for all views.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL Play Rate]|(Custom Creative Report) The percentage of impressions served that resulted in video views.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL Playtime per View]|(Custom Creative Report) The average duration of a video view, measured in seconds.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL Video Mute]|(Custom Creative Report) The total number times the video was muted.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL Video Pause]|(Custom Creative Report) The total number times the video was paused.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL Video Resume]|(Custom Creative Report) The total number times the video was resumed after pausing.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL Video Rewind]|(Custom Creative Report) The total number times the video was rewound.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL Video Start]|(Custom Creative Report) The total number times the video was started.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL Video Unmute]|(Custom Creative Report) The total number times the video was unmuted.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL Viewed Minutes]|(Custom Creative Report) The total number of minutes a video ad was viewed.|
+|[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL Views]|(Custom Creative Report) The total number of video ad views.|
 |[!UICONTROL Metrics]|[!UICONTROL Viewability]|[!UICONTROL Avg. Player Width x Height]|The average player width and height.|
 |[!UICONTROL Metrics]|[!UICONTROL Viewability]|[!UICONTROL Measurable Impressions]|The total number of impressions served that were able to be measured for viewability.|
 |[!UICONTROL Metrics]|[!UICONTROL Viewability]|[!UICONTROL Measurable Rate (%)]|The percentage of impressions served that were able to be measured for viewability, calculated as <code>[!UICONTROL Measurable Impressions] x 1000 / [!UICONTROL Impressions]</code>.|
