@@ -26,7 +26,7 @@ exl-id: b75b9aeb-ffd0-4b86-aa7a-bd6a22e7a8e4
    
    * Change the content:
    
-     * To edit the value of a cell within the table, click inside the cell and edit the value. Click outside of the cell or press the **[!DNL Enter]** key to save your changes.
+     * (Display ads only) To edit the value of a cell within the table, click inside the cell and edit the value. Click outside of the cell or press the **[!DNL Enter]** key to save your changes.
      
      * To mark a single product as the default<!--Explain what this means. -->, hold the curser over the row and click **[!UICONTROL ...]** > **[!UICONTROL Set as Default]**.
      

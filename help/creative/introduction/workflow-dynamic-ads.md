@@ -22,10 +22,10 @@ You can set up dynamic ads in either of two ways:
 
 >[!PREREQUISITES]
 >
->* Ad templates in HTML5 format
+>* Ad templates: A display ad template (a ZIP file with HTML5 files) or a video ad template (a ZIP file with a .scene file)
 >* Product catalogs in CSV, TSV, or Microsoft Excel spreadsheet (XLSX) format
 
-1. [Create dynamic creatives](/help/creative/creative-libraries/creative-add-dynamic.md) for a creative library. For dynamic HTML5 ads, upload an ad template and catalogs.
+1. [Create dynamic creatives](/help/creative/creative-libraries/creative-add-dynamic.md) for a creative library. For dynamic HTML5 and video ads, upload or select an existing ad template and catalog.
 
 1. Use the dynamic creatives for ad experiences:
 
@@ -39,19 +39,23 @@ You can set up dynamic ads in either of two ways:
 
 ## Workflow 2
 
-1. [Create an ad template](/help/creative/ad-templates/ad-template-manage.md) for your dynamic ads based on the assets available. The ad template includes an HTML5 file with the desired ad format and (dynamic HTML5 ads only) a file with the ad attributes.
+1. [Create an ad template](/help/creative/ad-templates/ad-template-manage.md) for your dynamic ads based on the assets available. The ad template must be in ZIP format and contain:<!-- Need to add more specs for templates -->
+
+* Display creatives: HTML5 files with the desired ad format and (dynamic HTML5 ads only) a file with the ad attributes (.tdf)
+
+* Video creatives: A .scene file with the desired ad format and a file with the ad attributes (.tdf)
 
 1. Set up your ad elements:
 
    * (For single static HTML5 ads) Collect and [upload the image assets](/help/creative/feeds/asset-manage.md) for your ads.
 
-   * (For dynamic HTML5 ads) Create catalogs of your ad elements:
+   * (For dynamic HTML5 and video ads) Create catalogs of your ad elements:
 
-     1. Create a feed file in Microsoft Excel spreadsheet (XLSX) format, with one row for each ad variation. Include an image name in each row. Separately collect the associated image assets.
+     1. Create a feed file in Microsoft Excel spreadsheet (XLSX) format, with one row for each ad variation. Include an image or video name in each row. Separately collect the associated image and video assets.
 
-     1. [Upload the feed file and image assets](/help/creative/feeds/asset-manage.md).
+     1. [Upload the feed file and assets](/help/creative/feeds/asset-manage.md).
    
-     1. [Create a feed template](/help/creative/feeds/feed-template-manage.md) to map the fields in your feed file (spreadsheet) to fields in the Advertising Creative backend.
+     1. [Create a feed template](/help/creative/feeds/feed-template-manage.md) to map the fields in your feed file (spreadsheet) to fields in the Advertising Creative backend. You can optionally download and populate master feed templates with fields relevant to retail<!-- and what is the creative template?-->.
 
      1. [Create a catalog](/help/creative/feeds/catalog-manage.md#feed-catalog-create) from a specified feed file and a specified feed template, and then [process the catalog](/help/creative/feeds/catalog-manage.md#feed-catalog-process) to see the ad variations that can be created from it.
 

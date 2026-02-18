@@ -8,7 +8,7 @@ exl-id: cb6fd855-6534-4eac-b34b-323073d186be
 
 ## [!UICONTROL Experience basics] section
 
-**[!UICONTROL Ad Type]:** (Read-only for existing experiences) The type of ads included in the experience: *[!UICONTROL Standard Display]*, *[!UICONTROL Dynamic Display]*, or *[!UICONTROL Video]*. Once you save the experience, you can't change the ad type.
+**[!UICONTROL Ad Type]:** (Read-only for existing experiences) The type of ads included in the experience: *[!UICONTROL Standard Display]*, *[!UICONTROL Dynamic Display]*, *[!UICONTROL Dynamic Display]*, *[!UICONTROL Standard Video]*, or *[!UICONTROL Display Video]*. Once you save the experience, you can't change the ad type.
 
 **[!UICONTROL Advertiser]:** (Read-only for existing experiences) The advertiser that will bid on the creative and target combinations included in the experience. Once you save the experience, you can't change the advertiser.
 

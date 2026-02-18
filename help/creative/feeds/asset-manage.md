@@ -6,8 +6,11 @@ exl-id: 2fe2d778-8456-490a-bf44-234dbc08649f
 ---
 # Manage asset files
 
-Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX) format and the image assets referenced in the spreadsheet. Static HTML5 ads require only a single image asset per ad.
+* Dynamic HTML5 ads require a feed file in Microsoft Excel spreadsheet (XLSX) format and the actual image assets that are referenced in the spreadsheet.
 
+* Static HTML5 ads require only a single image asset per ad.
+
+* Video ads require a feed file in Microsoft Excel spreadsheet (XLSX) format and the actual video assets that are referenced in the spreadsheet.
 
 >[!NOTE]
 >
@@ -30,6 +33,18 @@ Dynamic HTML5 ads require both a feed file in Microsoft Excel spreadsheet (XLSX)
   * One image asset per ad in GIF, JPG, JPEG, or PNG format.
 
     You can upload either a single image or multiple images in a ZIP file.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
+
+* Dynamic video ads:
+
+  * A feed file in CSV, TSV, or Microsoft Excel spreadsheet (XLSX) format, with one header row and one data row for each ad variation. Include a video name in each row using the format `videos/image_name` (such as `videos/300x250_acme_logo.png`). The ZIP file can be a maximum of 512 MB with a maximum of 500 rows.
+
+    The advertiser-specific field names must map to the [available fields for dynamic ad feed files](/help/creative/appendix-available-feed-fields.md).
+
+    For all accounts with dynamic videos, the best practice is to [create a catalog](catalog-manage.md) using the asset file together with a copy of the [master feed template [!UICONTROL Adobe Creative Template]](feed-template-manage.md), in which you map each field in the asset file to a field on the Advertising Creative backend.
+
+  * The associated video assets in MP4, MOV, or WEBM format. Supported ad templates include start card, end card, top overlay, bottom overlay, or L-shaped. Each video's duration must be between 1-90 seconds. See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
+
+  You can upload a single XLSX file, a single image file, or a single ZIP file containing any combination of XLSX and video files.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 
 ## Upload an asset file
 

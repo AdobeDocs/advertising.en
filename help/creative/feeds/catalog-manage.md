@@ -6,9 +6,15 @@ exl-id: d3ee20ba-5359-4dbe-bc76-269dc800843c
 ---
 # Manage feed catalogs
 
-Processed feed catalogs are sets of potential ad variations created from a specified feed file and a specified feed template. Dynamic HTML5 ads, but not static HTML5 ads, require a catalog to create dynamic ads.
+Processed feed catalogs are sets of potential ad variations created from a specified feed file and a specified feed template. Dynamic HTML5 and video ads, but not static HTML5 ads, require a catalog to create dynamic ads.
 
 Before you can create ad variations and [add dynamic ads to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md), process the catalog. You can later update the feed file and reprocess the catalog to create a new set of ad variations.<!-- I should list somewhere what happens when you add, update, or remove: I don't think we rewrite existing ads in the creative library, but only add to them. -->
+
+Each feed file can process up to 500 rows with video assets.
+
+>[!TIP]
+>
+>For all accounts with dynamic videos, the best practice is to [download the master feed template [!UICONTROL Adobe Creative Template]](feed-template-manage.md), map each field in the asset file to a field on the Advertising Creative backend, and then rename and upload the feed template. Use the new feed template, along with the asset file, to create a catalog.
 
 ## Create a catalog {#feed-catalog-create}
 
