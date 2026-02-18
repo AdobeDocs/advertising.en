@@ -105,7 +105,7 @@ See the following video creative requirements. **Note:** If you'll upload video 
 
 You can dynamically generate display or video creatives by mapping dynamic variables in an ad template to values in a feed file. Dynamic creatives may include creatives that were migrated from your legacy Adobe Advertising Dynamic Creative Optimization (DCO) experiences.
 
-##### Dynamic display creatives
+#### Dynamic display creatives
 
 Dynamic display creatives are in HTML5 format with images in GIF, JPG, JPEG, or PNG format.
 
