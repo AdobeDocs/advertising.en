@@ -54,9 +54,11 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 
 1. Specify the [dynamic ad settings](/help/creative/creative-libraries/creative-settings-dynamic.md):
 
-   1. Specify the basic ad details.
+   1. Specify the basic ad details, including the creative type.
    
    1. Select the ad template to use for the creatives.
+
+      Use an HTML5 ad template for display ads and a video ad template for video ads.
    
    1. Select the catalog from which to build the ads.
 

@@ -10,7 +10,7 @@ exl-id: 63f8af87-639c-45c8-b17f-99ce19594d35
 
 <!-- We have a finite set of supported fields on the backend. I need to include that info in an appendix. -->
 
-Feed templates map fields in your feed files/catalogs with fields on the Advertising Creative backend. Dynamic HTML5 ads, but not static HTML5 ads, require a feed template to create dynamic ads.
+Feed templates map fields in your feed files/catalogs with fields on the Advertising Creative backend. Dynamic HTML5 and video ads, but not static HTML5 ads, require a feed template to create dynamic ads.
 
 You can use a feed template with multiple ad templates.
 
