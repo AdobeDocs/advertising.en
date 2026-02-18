@@ -12,6 +12,10 @@ Before you can create ad variations and [add dynamic ads to a creative library](
 
 Each feed file can process up to 500 rows with video assets.
 
+>[!TIP]
+>
+>For all accounts with dynamic videos, the best practice is to [download the master feed template [!UICONTROL Adobe Creative Template]](feed-template-manage.md), map each field in the asset file to a field on the Advertising Creative backend, and then rename and upload the feed template. Use the new feed template, along with the asset file, to create a catalog.
+
 ## Create a catalog {#feed-catalog-create}
 
 >[!NOTE]

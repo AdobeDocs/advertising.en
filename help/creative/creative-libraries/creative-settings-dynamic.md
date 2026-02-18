@@ -30,13 +30,13 @@ exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
 
 * Display creatives: HTML5 files with the desired ad format and (dynamic HTML5 ads only) a file with the ad attributes (.tdf)
 
-* Video creatives: A .scene file with the desired ad format and a file with the ad attributes (.tdf). The ZIP file can be a maximum of 512 MB.
+* Video creatives: A .scene file with the desired ad format. The ZIP file can be a maximum of 512 MB.
 
 To continue, click **[!UICONTROL Select Ad Template]**. 
 
-**[!UICONTROL Card Count (Max 50)]:** (Display ads) The number of products to show in a carousel.
+**[!UICONTROL Card Count (Max 50)]:** (Display ads only) The number of products to show in a carousel.
 
-**[!UICONTROL Duration]:** (Video ads; read-only) The video duration derived from the selected ad template. Each video's duration must be between 1-90 seconds.
+**[!UICONTROL Duration]:** (Video ads only; read-only) The video duration derived from the selected ad template. Each video's duration must be between 1-90 seconds.
 
 ## Catalogs
 
@@ -50,7 +50,7 @@ Uploaded catalogs must be in ZIP format and contain the following:
 
 * (Display ads) Image assets in GIF, JPEG, JPG, or PNG format
 
-* (Video ads) Video assets in MP4, MOV, or WEBM format. Supported ad formats include start card, end card, top overlay, bottom overlay, or L-shaped. Each video's duration must be between 1-90 seconds.
+* (Video ads) Video assets in MP4, MOV, or WEBM format. Supported ad templates include start card, end card, top overlay, bottom overlay, or L-shaped. Each video's duration must be between 1-90 seconds.
 
 ### [!UICONTROL Attributes Mapping]
 
