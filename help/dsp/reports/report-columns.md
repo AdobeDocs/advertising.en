@@ -212,7 +212,7 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Playtime per View]|The average duration of a video view, measured in seconds.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Total Ad Clicks]|The sum of all clicks on an ad.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Viewed Minutes]|The total number of minutes a video ad was viewed.|
-|[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Views]|(Custom Creative Report) The total number of video ad views.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL Views]|The total number of video ad views.|
 |[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL 100% Completion Rate]|(Custom Creative Report) The percentage of views that watched the ad in its entirety.|
 |[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL 100% Completions]|(Custom Creative Report) The number of views that watched the ad in its entirety.|
 |[!UICONTROL Metrics]|[!UICONTROL Video]|[!UICONTROL 25% Completion Rate]|(Custom Creative Report) The percentage of views that watched at least one quartile of the ad.|
