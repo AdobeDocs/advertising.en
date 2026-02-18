@@ -40,7 +40,7 @@ exl-id: 2fe2d778-8456-490a-bf44-234dbc08649f
 
     The advertiser-specific field names must map to the [available fields for dynamic ad feed files](/help/creative/appendix-available-feed-fields.md).
 
-  * The associated video assets in MP4, MOV, or WEBM format. Each video's duration must be between 1-90 seconds. See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
+  * The associated video assets in MP4, MOV, or WEBM format. Supported ad formats include start card, end card, top overlay, bottom overlay, or L-shaped. Each video's duration must be between 1-90 seconds. See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
 
   You can upload a single XLSX file, a single image file, or a single ZIP file containing any combination of XLSX and video files.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 

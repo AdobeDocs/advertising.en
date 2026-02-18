@@ -10,7 +10,7 @@ exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
 **I'll probably split this up into multiple pages since the creative-related topics are separate**
 -->
 
-Bundles are groups of creatives that you can add to an experience as one unit. After you create a bundle container, you can attach creatives to the bundle. Standard display bundles can contain only standard display ads, standard video bundles can contain only standard video ads, and dynamic display bundles can contain only dynamic display ads. You can override the landing pages, impression-tracking tags, and click-tracking tags for all creatives within a bundle that's assigned to an experience from within the experience decision tree, without affecting the base creatives.
+Bundles are groups of creatives that you can add to an experience as one unit. After you create a bundle container, you can attach creatives to the bundle. Standard display bundles can contain only standard display ads, standard video bundles can contain only standard video ads, dynamic display bundles can contain only dynamic display ads, and dynamic video bundles can contain only dynamic video ads. You can override the landing pages, impression-tracking tags, and click-tracking tags for all creatives within a bundle that's assigned to an experience from within the experience decision tree, without affecting the base creatives.
 
 [!DNL Creative] rotates through the creatives in the bundle as specified for each experience to which the bundle is assigned. You can optionally allow [!DNL Creative] to optimize the ad elements for any experience based on performance using algorithmic ad rotation, which is powered by [!DNL Adobe AI].
 
@@ -32,7 +32,7 @@ You can attach a creative to multiple bundles.
 
 1. In the upper right, click **[!UICONTROL Create]** > **[!UICONTROL Bundles]** > **[!UICONTROL Bundle]**.
 
-1. Enter a unique **[!UICONTROL Bundle Name]** and the **[!UICONTROL Bundle Type]:** *Standard Display* (for standard display creatives), *Dynamic Display* (for dynamic display creatives), *Standard Video* (for standard video creatives).
+1. Enter a unique **[!UICONTROL Bundle Name]** and the **[!UICONTROL Bundle Type]:** *Standard Display* (for standard display creatives), *Dynamic Display* (for dynamic display creatives), *Standard Video* (for standard video creatives), or *Dynamic Video* (for dynamic video creatives).
 
 1. Click **[!UICONTROL Create]**.
 
@@ -96,7 +96,7 @@ Changes to a bundle name are propagated across all associated experiences.
 
 ## Attach creatives to a bundle
 
-You can attach existing standard display creatives to a standard display bundle, standard video creatives to standard video bundles, and dynamic display creatives to a dynamic bundle. Attaching a creative to a bundle makes the creative available in all experiences to which the bundle is assigned. Each bundle can include only one of each \[creative size or duration + language\] combination.
+You can attach existing standard display creatives to a standard display bundle, standard video creatives to standard video bundles, dynamic display creatives to a dynamic bundle, and dynamic video creatives to a video bundle. Attaching a creative to a bundle makes the creative available in all experiences to which the bundle is assigned. Each bundle can include only one of each \[creative size or duration + language\] combination.
 
 >[!NOTE]
 >

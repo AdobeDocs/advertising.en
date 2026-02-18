@@ -16,7 +16,7 @@ Your libraries can include:
 
   * **Dynamic creatives:** You can create dynamically generated creatives by mapping dynamic variables in an ad template to values in a feed file. All users can preview, duplicate, and delete existing dynamic ads.
 
-* **Creatives bundles:** Group creatives into bundles to use across multiple experiences with defined user targets. You can create *standard display bundles* that consist of standard display ads, *standard video bundles* that consist of standard video ads, and *dynamic display bundles* that consist of dynamically generated display ads. 
+* **Creatives bundles:** Group creatives into bundles to use across multiple experiences with defined user targets. You can create *standard display bundles* that consist of standard display ads, *standard video bundles* that consist of standard video ads, *dynamic display bundles* that consist of dynamically generated display ads, and *dynamic video bundles* that consist of dynamically generated video ads. 
 
 ## Supported Creative Formats {#creative-creative-formats}
 
@@ -112,6 +112,8 @@ Dynamic display creatives are in HTML5 format with images in GIF, JPG, JPEG, or 
 #### Dynamic video creatives
 
 Dynamic video creatives include video files with the same specifications as standard video creatives. See "[Video creatives](#creative-video-specs)."
+
+Supported ad formats include start card, end card, top overlay, bottom overlay, or L-shaped.
 
 ## The [!UICONTROL Creative Libraries] views
 

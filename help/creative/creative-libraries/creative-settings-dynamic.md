@@ -50,7 +50,7 @@ Uploaded catalogs must be in ZIP format and contain the following:
 
 * (Display ads) Image assets in GIF, JPEG, JPG, or PNG format
 
-* (Video ads) Video assets in MP4, MOV, or WEBM format
+* (Video ads) Video assets in MP4, MOV, or WEBM format. Supported ad formats include start card, end card, top overlay, bottom overlay, or L-shaped. Each video's duration must be between 1-90 seconds.
 
 ### [!UICONTROL Attributes Mapping]
 
