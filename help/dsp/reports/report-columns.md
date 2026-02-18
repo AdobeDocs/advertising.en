@@ -43,7 +43,7 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Browser Vendor]|The vendor of the browser in which the ad was shown (such as Google or Mozilla).|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Browser Version]|The version of the browser in which the ad was shown (such as [!UICONTROL Safari 4.3] or [!UICONTROL Chrome 7.0]).|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Browser]|The browser in which the ad was shown (such as [!UICONTROL Chrome] or [!UICONTROL Firefox]).|
-|[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Environment]|Whether the ad was shown on *[!UICONTROL sites]* or *[!UICONTROL Apps]*.|
+|[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Device Environment]|The device environments that the placement targets: (*[!UICONTROL Desktop]*, *[!UICONTROL Mobile]*, and/or *[!UICONTROL Connected TV])*.|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Hardware]|The type of device on which the ad was shown (such as [!UICONTROL Set Top Box] or [!UICONTROL Mobile Phone]).|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Manufacturer]|The manufacturer of the device on which the ad was shown (such as [!UICONTROL Samsung], [!UICONTROL Lenovo], or [!UICONTROL Apple]).|
 |[!UICONTROL Dimension]|[!UICONTROL Device]|[!UICONTROL Model]|The model of the device on which the ad was shown (such as [!UICONTROL iPhone XS] or [!UICONTROL Galaxy Note 7]).|
@@ -96,7 +96,6 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Placement]|[!UICONTROL Placement Name]|The name of the placement as assigned by the user.|
 |[!UICONTROL Dimension]|[!UICONTROL Placement]|[!UICONTROL Budget]|The placement budget.|
 |[!UICONTROL Dimension]|[!UICONTROL Placement]|[!UICONTROL Max Bid]|The maximum bid for the placement.|
-|[!UICONTROL Dimension]|[!UICONTROL Placement]|[!UICONTROL Device Environment]|The device environments that the placement targets: (*[!UICONTROL Desktop]*, *[!UICONTROL Mobile]*, and/or *[!UICONTROL Connected TV])*.|
 |[!UICONTROL Dimension]|[!UICONTROL Placement]|[!UICONTROL Placement End Date]|The placement end date.|
 |[!UICONTROL Dimension]|[!UICONTROL Placement]|[!UICONTROL Placement Start Date]|The placement start date.|
 |[!UICONTROL Dimension]|[!UICONTROL Placement]|[!UICONTROL Placement Tags]|The placement tag used as a custom identifier for the placement.|
@@ -109,6 +108,7 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Membership Provider Name]|The name of the data provider associated with a segment.|
 |[!UICONTROL Dimension]|[!UICONTROL Site]|[!UICONTROL Site ID]|The unique identifier for the site or app in DSP.|
 |[!UICONTROL Dimension]|[!UICONTROL Site]|[!UICONTROL Site Name]|The name of the site.|
+|[!UICONTROL Dimension]|[!UICONTROL Site]|[!UICONTROL Traffic Type]|Whether the ad was shown on *[!UICONTROL sites]* or *[!UICONTROL Apps]*.|
 |[!UICONTROL Dimension]|[!UICONTROL Video]|[!UICONTROL Video Duration]|The video length, which is processed after upload.|
 |[!UICONTROL Dimension]|[!UICONTROL Video]|[!UICONTROL Video ID]|The unique identifier for the video creative in DSP.|
 |[!UICONTROL Dimension]|[!UICONTROL Video]|[!UICONTROL Video Name]|The name of the creative assigned by the user.|
