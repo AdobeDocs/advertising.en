@@ -55,7 +55,7 @@ You can set up dynamic ads in either of two ways:
 
      1. [Upload the feed file and assets](/help/creative/feeds/asset-manage.md).
    
-     1. [Create a feed template](/help/creative/feeds/feed-template-manage.md) to map the fields in your feed file (spreadsheet) to fields in the Advertising Creative backend. You can optionally download and populate master feed templates with fields relevant to retail<!-- and what is the creative template?-->.
+     1. [Create a feed template](/help/creative/feeds/feed-template-manage.md) to map the fields in your feed file (spreadsheet) to fields in the Advertising Creative backend. You can optionally download and populate a universal feed template with fields relevant to any campaign type.
 
      1. [Create a catalog](/help/creative/feeds/catalog-manage.md#feed-catalog-create) from a specified feed file and a specified feed template, and then [process the catalog](/help/creative/feeds/catalog-manage.md#feed-catalog-process) to see the ad variations that can be created from it.
 

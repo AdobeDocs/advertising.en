@@ -10,13 +10,13 @@ exl-id: 63f8af87-639c-45c8-b17f-99ce19594d35
 
 <!-- We have a finite set of supported fields on the backend. I need to include that info in an appendix. -->
 
-Feed templates map fields in your feed files/catalogs with fields on the Advertising Creative backend. Dynamic HTML5 and video ads, but not static HTML5 ads, require a feed template to create dynamic ads. You can optionally download and populate master feed templates ([!UICONTROL Retail] and [!UICONTROL Adobe Creative Template]).
+Feed templates map fields in your feed files/catalogs with fields on the Advertising Creative backend. Dynamic HTML5 and video ads, but not static HTML5 ads, require a feed template to create dynamic ads. You can optionally download and populate universal feed templates ([!UICONTROL Retail] for retail campaigns and [!UICONTROL Adobe Creative Template] for any campaign type).
 
 You can use a feed template with multiple ad templates.
 
 >[!TIP]
 >
->For all accounts with dynamic videos, the best practice is to [download the master feed template [!UICONTROL Adobe Creative Template]](feed-template-manage.md), map each field in the asset file to a field on the Advertising Creative backend, and then rename and upload the feed template. Use the new feed template, along with the asset file, to [create a catalog](catalog-manage.md).
+>For all accounts with dynamic videos, the best practice is to [download the universal feed template [!UICONTROL Adobe Creative Template]](feed-template-manage.md), map each field in the asset file to a field on the Advertising Creative backend, and then rename and upload the feed template. Use the new feed template, along with the asset file, to [create a catalog](catalog-manage.md).
 
 ## Create a feed template
 

@@ -40,7 +40,7 @@ exl-id: 2fe2d778-8456-490a-bf44-234dbc08649f
 
     The advertiser-specific field names must map to the [available fields for dynamic ad feed files](/help/creative/appendix-available-feed-fields.md).
 
-    For all accounts with dynamic videos, the best practice is to [create a catalog](catalog-manage.md) using the asset file together with a copy of the [master feed template [!UICONTROL Adobe Creative Template]](feed-template-manage.md), in which you map each field in the asset file to a field on the Advertising Creative backend.
+    For all accounts with dynamic videos, the best practice is to [create a catalog](catalog-manage.md) using the asset file together with a copy of the [universal feed template [!UICONTROL Adobe Creative Template]](feed-template-manage.md), in which you map each field in the asset file to a field on the Advertising Creative backend.
 
   * The associated video assets in MP4, MOV, or WEBM format. Supported ad templates include start card, end card, top overlay, bottom overlay, or L-shaped. Each video's duration must be between 1-90 seconds. See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
 
