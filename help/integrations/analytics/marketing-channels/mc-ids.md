@@ -72,7 +72,7 @@ Don't set the channel's value to the AMO ID. Instead, set it to something such a
 
 <!-- Explain that comment about relevancy -- do I need to repeat this for each rule example?  -->
 
-![Example of a Paid Search rule](/help/integrations/assets/a4adc-mc-rule-paid-search.png)
+![Example of a Paid Search rule](/help/integrations/assets/a4adc-mc-rule-paid-search.png "Example of a Paid Search rule")
 
 ### Natural Search Rule
 
@@ -80,7 +80,7 @@ For [!UICONTROL Natural Search], ensure that your [[!UICONTROL Paid Search] dete
 
 Set the rule to "Matches Natural Search Detection Rules" (which is usually the default setting for this channel).
 
-![Example of a Natural Search rule](/help/integrations/assets/a4adc-mc-rule-natural-search.png)
+![Example of a Natural Search rule](/help/integrations/assets/a4adc-mc-rule-natural-search.png "Example of a Natural Search rule")
 
 ### Display ClickThrough Rule
 
@@ -88,35 +88,35 @@ Create a Display ClickThrough marketing channel by capturing only click-throughs
 
 Sometimes click-throughs are tracked through the URL (the default). In other cases, click-throughs are tracked through the Last Event Service on the server side, and therefore the URL doesn't contain the `ef_id` parameter. The rule therefore checks for conditions in which the EF ID variable or the `ef_id` query string parameter ends with ":d". Use the "`Any`" operator because you want this rule to be triggered for either condition.
 
-![Example of a first Display ClickThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ct.png)
+![Example of a first Display ClickThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ct.png "Example of a first Display ClickThrough rule")
 
 ### Display ClickThrough Rule #2
 
 For the second Display ClickThrough rule, set **AMO ID starts with "AC!"**. This second rule exists to capture the click/cost/impression data for the Display channel that comes in directly from Adobe Advertising to [!DNL Analytics]. This data is attributed to an AMO ID but doesn't include an URL with the `ef_id` query string, so these hits aren't connected with an AMO EF ID, which is what the first Display ClickThrough rule captures.
 
-![Example of a second Display ClickThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ct2.png)
+![Example of a second Display ClickThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ct2.png "Example of a second Display ClickThrough rule")
 
 ### Display ViewThrough Rule
 
 To create a Display ViewThrough channel, create a rule in which the EF ID ends with ":i". Because the visitor didn't click the ad, the view-through tracking doesn't include the `ef_id` or `s_kwcid` in the URL, and the rule requires only one condition.
 
-![Example of a Display ViewThrough rule](/help/integrations/assets/a4adc-mc-rule-display-vt.png)
+![Example of a Display ViewThrough rule](/help/integrations/assets/a4adc-mc-rule-display-vt.png "Example of a Display ViewThrough rule")
 
 ### Display CTV ViewThrough Rule
 
 To track [!DNL DSP] connected TV (CTV) view-throughs, create a rule where the AMO ID ends with `"!ctv"`. Because the visitor didn't click the ad, the view-through tracking doesn't include the `ef_id` or `s_kwcid` in the URL, and the rule requires only one condition.
 
-![Example of a Display CTV ViewThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ctv-vt.png)
+![Example of a Display CTV ViewThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ctv-vt.png "Example of a Display CTV ViewThrough rule")
 
 ### Natural Referring Domains Rule
 
 (Optional) The best practice is to add an "Is First Page of Visit" condition with the "Any" operator to the standard [!UICONTROL Natural Referring Domains] rule. While this rule is optional, it can help prevent the edge case of natural referrers being set when the user clicks the back button to return to the landing page.
 
-![Example of a Natural Referring Domains rule](/help/integrations/assets/a4adc-mc-rule-natural-referring-domains.png)
+![Example of a Natural Referring Domains rule](/help/integrations/assets/a4adc-mc-rule-natural-referring-domains.png 'Example of a Natural Referring Domains rule")
 
 ## Order of operations for Marketing Channels rules {#rule-order}
 
-![alt text](image.png)
+![Ideal order of operations for Adobe Advertising-related rules](/help/integrations/assets/a4adc-mc-rules-order.png "Ideal order of operations for Adobe Advertising-related rules")
 
 * Put [!UICONTROL Paid Search] *before* [!UICONTROL Natural Search]. Otherwise, paid search data may be allocated to natural search.
 
