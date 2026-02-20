@@ -116,7 +116,7 @@ To track [!DNL DSP] connected TV (CTV) view-throughs, create a rule where the AM
 
 ## Order of operations for Marketing Channels rules {#rule-order}
 
-![Ideal order of operations for Adobe Advertising-related rules](/help/integrations/assets/a4adc-mc-rules-order.png "Ideal order of operations for Adobe Advertising-related rules")
+![Ideal order of operations for Adobe Advertising-related rules](/help/integrations/assets/a4adc-mc-rule-order.png "Ideal order of operations for Adobe Advertising-related rules")
 
 * Put [!UICONTROL Paid Search] *before* [!UICONTROL Natural Search]. Otherwise, paid search data may be allocated to natural search.
 
