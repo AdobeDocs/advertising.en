@@ -74,11 +74,9 @@ Although the EF ID dimension isn't used directly in [!DNL Analytics] reporting, 
 >
 >See "[Order of operations for Marketing Channels rules](#rule-order)" for information about the order in which your rules should be processed.
 
-#### Paid Search rule
+#### Paid Search Rule
 
-<!-- Correct usage of s_kwcid???  Isn't that the AMO ID?? -->
-
-The best practice is to include two conditions with the "Any" operator for a [!UICONTROL Paid Search] rule:<!-- What two conditions? including the AMO ID and AL? Not sure that you'd use "ANY" for that -->
+The best practice is to include two conditions with the "Any" operator for a [!UICONTROL Paid Search] rule:
 
 * Cost/click/impression data contains the AMO ID, so include the AMO ID. The AMO ID should start with "AL!" to correctly allocate click/cost/impression data to [!UICONTROL Paid Search].<!-- Is this just called AMO ID there, not s_kwcid=XXX? What's the difference? -->
 
@@ -118,13 +116,13 @@ To create a Display ViewThrough channel, create a rule in which the EF ID ends w
 
 ![Example of a Display ViewThrough rule](/help/integrations/assets/a4adc-mc-rule-display-vt.png)
 
-## Display CTV ViewThrough rule
+## Display CTV ViewThrough Rule
 
 To track [!DNL DSP] connected TV (CTV) view-throughs, create a rule where the AMO ID ends with `"!ctv"`. Because the visitor didn't click the ad, the view-through tracking doesn't include the `ef_id` or `s_kwcid` in the URL, and the rule requires only one condition.
 
 ![Example of a Display CTV ViewThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ctv-vt.png)
 
-#### Natural Referring Domains Rule
+### Natural Referring Domains Rule
 
 (Optional) The best practice is to add an "Is First Page of Visit" condition with the "Any" operator to the standard [!UICONTROL Natural Referring Domains] rule. While this rule is optional, it can help prevent the edge case of natural referrers being set when the user clicks the back button to return to the landing page.
 
