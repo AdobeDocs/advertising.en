@@ -56,7 +56,7 @@ Although the EF ID dimension isn't used directly in [!DNL Analytics] reporting, 
 
 ## Examples of Processing Rules for Adobe Advertising
 
-The following example rule set focuses on the rules for the advertising channels (Paid Search, Display ClickThrough, and Display ViewThrough). **Note:** Display can be separated as two channels or merged as a single channel based on advertiser preference.
+The following example rule set focuses on the rules for the advertising channels (Paid Search, Display ClickThrough, and Display ViewThrough). **Note:** Display can be separated as two channels or merged into a single channel based on advertiser preference.
 
 The recommended rule for Paid Search detection, and how that rule interacts with the Natural Search Marketing Channel logic and an optional update to the Natural Referring Domains rule, is also demonstrated.
 
@@ -120,7 +120,7 @@ To track [!DNL DSP] connected TV (CTV) view-throughs, create a rule where the AM
 
 (Optional) The best practice is to add an "Is First Page of Visit" condition with the "Any" operator to the standard [!UICONTROL Natural Referring Domains] rule. While this rule is optional, it can help prevent the edge case of natural referrers being set when the user clicks the back button to return to the landing page.
 
-![Example of a Natural Referring Domains rule](/help/integrations/assets/a4adc-mc-rule-natural-referring-domains.png 'Example of a Natural Referring Domains rule")
+![Example of a Natural Referring Domains rule](/help/integrations/assets/a4adc-mc-rule-natural-referring-domains.png "Example of a Natural Referring Domains rule")
 
 ## Order of operations for Marketing Channels rules {#rule-order}
 
