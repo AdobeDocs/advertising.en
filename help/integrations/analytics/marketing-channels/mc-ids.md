@@ -56,11 +56,11 @@ Although the EF ID dimension isn't used directly in [!DNL Analytics] reporting, 
 
 ## Examples of Processing Rules for Adobe Advertising
 
-The following example rule set focuses on the rules for the advertising channels (Paid Search, Display ClickThrough, and Display ViewThrough). **Note:** Display can be separated as two channels or merged into a single channel based on advertiser preference.
+The following example rule set focuses on the rules for the advertising channels (Paid Search, Display ClickThrough, and Display ViewThrough). The recommended rule for Paid Search detection (including how that rule interacts with the Natural Search Marketing Channel logic) and an optional update to the Natural Referring Domains rule are also demonstrated.
 
-The recommended rule for Paid Search detection, and how that rule interacts with the Natural Search Marketing Channel logic and an optional update to the Natural Referring Domains rule, is also demonstrated.
+**Note:** Display can be separated as two channels or merged into a single channel based on advertiser preference.
 
-Other channels are included in this example to illustrate the recommended order of operations of the advertising channels versus other channels in a typical implementation.
+Other channels are included in the example screen shot to illustrate the recommended order of operations of the advertising channels versus other channels in a typical implementation.
 
 >[!IMPORTANT]
 >
@@ -90,7 +90,7 @@ Set the rule to "Matches Natural Search Detection Rules" (which is usually the d
 
 ![Example of a Natural Search rule](/help/integrations/assets/a4adc-mc-rule-natural-search.png "Example of a Natural Search rule")
 
-### Display ClickThrough Rule
+### Display ClickThrough Rule #1
 
 Create a Display ClickThrough marketing channel by capturing only click-throughs. Because the AMO ID is the same for both click-throughs and view-throughs, this rule uses the EF ID variable and the `ef_id` query string parameter.
 
@@ -98,17 +98,11 @@ Sometimes click-throughs are tracked through the URL (the default). In other cas
 
 ![Example of a first Display ClickThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ct.png "Example of a first Display ClickThrough rule")
 
-### Display ClickThrough Rule #2
+### Natural Referring Domains Rule
 
-For the second Display ClickThrough rule, set **AMO ID starts with "AC!"**. This second rule exists to capture the click/cost/impression data for the Display channel that comes in directly from Adobe Advertising to [!DNL Analytics]. This data is attributed to an AMO ID but doesn't include an URL with the `ef_id` query string, so these hits aren't connected with an AMO EF ID, which is what the first Display ClickThrough rule captures.
+(Optional) The best practice is to add an "Is First Page of Visit" condition with the "Any" operator to the standard [!UICONTROL Natural Referring Domains] rule. While this rule is optional, it can help prevent the edge case of natural referrers being set when the user clicks the back button to return to the landing page.
 
-![Example of a second Display ClickThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ct2.png "Example of a second Display ClickThrough rule")
-
-### Display ViewThrough Rule
-
-To create a Display ViewThrough channel, create a rule in which the EF ID ends with ":i". Because the visitor didn't click the ad, the view-through tracking doesn't include the `ef_id` or `s_kwcid` in the URL, and the rule requires only one condition.
-
-![Example of a Display ViewThrough rule](/help/integrations/assets/a4adc-mc-rule-display-vt.png "Example of a Display ViewThrough rule")
+![Example of a Natural Referring Domains rule](/help/integrations/assets/a4adc-mc-rule-natural-referring-domains.png "Example of a Natural Referring Domains rule")
 
 ### Display CTV ViewThrough Rule
 
@@ -116,11 +110,17 @@ To track [!DNL DSP] connected TV (CTV) view-throughs, create a rule where the AM
 
 ![Example of a Display CTV ViewThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ctv-vt.png "Example of a Display CTV ViewThrough rule")
 
-### Natural Referring Domains Rule
+### Display ViewThrough Rule
 
-(Optional) The best practice is to add an "Is First Page of Visit" condition with the "Any" operator to the standard [!UICONTROL Natural Referring Domains] rule. While this rule is optional, it can help prevent the edge case of natural referrers being set when the user clicks the back button to return to the landing page.
+To create a Display ViewThrough channel, create a rule in which the EF ID ends with ":i". Because the visitor didn't click the ad, the view-through tracking doesn't include the `ef_id` or `s_kwcid` in the URL, and the rule requires only one condition.
 
-![Example of a Natural Referring Domains rule](/help/integrations/assets/a4adc-mc-rule-natural-referring-domains.png "Example of a Natural Referring Domains rule")
+![Example of a Display ViewThrough rule](/help/integrations/assets/a4adc-mc-rule-display-vt.png "Example of a Display ViewThrough rule")
+
+### Display ClickThrough Rule #2
+
+For the second Display ClickThrough rule, set **AMO ID starts with "AC!"**. This second rule exists to capture the click/cost/impression data for the Display channel that comes in directly from Adobe Advertising to [!DNL Analytics]. This data is attributed to an AMO ID but doesn't include an URL with the `ef_id` query string, so these hits aren't connected with an AMO EF ID, which is what the first Display ClickThrough rule captures.
+
+![Example of a second Display ClickThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ct2.png "Example of a second Display ClickThrough rule")
 
 ## Order of operations for Marketing Channels rules {#rule-order}
 
