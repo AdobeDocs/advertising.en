@@ -56,9 +56,17 @@ Although the EF ID dimension isn't used directly in [!DNL Analytics] reporting, 
 
 ## Examples of Processing Rules for Adobe Advertising
 
+The following example rule set focuses on the rules for the advertising channels (Paid Search, Display ClickThrough, and Display ViewThrough). **Note:** Display can be separated as two channels or merged as a single channel based on advertiser preference.
+
+The recommended rule for Paid Search detection, and how that rule interacts with the Natural Search Marketing Channel logic and an optional update to the Natural Referring Domains rule, is also demonstrated.
+
+Other channels are included in this example to illustrate the recommended order of operations of the advertising channels versus other channels in a typical implementation.
+
 >[!IMPORTANT]
 >
->* Be sure to run your rules in order of specificity. See "[Order of operations for Marketing Channels rules](#rule-order)" for information about the order in which your rules should be processed.
+>See "[Order of operations for Marketing Channels rules](#rule-order)" for information about the order in which your rules should be processed.
+
+![Example of a set of processing rules](/help/integrations/assets/a4adc-mc-rule-set-example.png)
 
 ### Paid Search Rule
 
@@ -120,7 +128,7 @@ To track [!DNL DSP] connected TV (CTV) view-throughs, create a rule where the AM
 
 * Put [!UICONTROL Paid Search] *before* [!UICONTROL Natural Search]. Otherwise, paid search data may be allocated to natural search.
 
-* Put the first [!UICONTROL Display ClickThrough] *before* [!UICONTROL Natural Referring Domains] and [!UICONTROL Natural Social].
+* Put the **first** [!UICONTROL Display ClickThrough] *before* [!UICONTROL Natural Referring Domains] and [!UICONTROL Natural Social].
 
 * When you use [!UICONTROL CTV view-throughs], put it *before* [!UICONTROL Display ViewThroughs]. Otherwise, CTV view-throughs will be captured as Display ViewThroughs.
 
@@ -131,6 +139,8 @@ To track [!DNL DSP] connected TV (CTV) view-throughs, create a rule where the AM
 * Some advertisers may opt to prioritize [!UICONTROL Display ViewThroughs] over [!UICONTROL Natural Referring Domains]. Do this by swapping the processing order of the two rules.
 
 * The **second** [!UICONTROL Display ClickThrough] rule is there to catch the click/cost/impression data that comes in directly from Adobe Advertising to [!DNL Analytics]. Since this data is only attributed to an AMO ID, these hits aren't connected with an AMO EF ID. If you don't set this rule, all click/cost/impression data falls under the [!UICONTROL Direct] channel, which is the default channel for any data that doesn't match a [!DNL Marketing Channel]. This rule must come *after* the view-through rule or it will pick up any view-throughs.
+
+<!-- WORDING!!!!  Check on this:  If you include additional marketing channels, be sure to run your rules in order of specificity. For example, say you create a processing rule for [!DNL YouTube] video ad traffic tracked by Advertising Search, Social, & Commerce. The AMO ID for video traffic starts with with "AL!" and contain "!ytv!". If you run the rule for Paid Search (for which the AMO ID starts with "AL!") and then run the rule for video traffic, the YouTube video ad traffic would all fall under the Paid Search channel. -->
 
 >[!MORELIKETHIS]
 >
