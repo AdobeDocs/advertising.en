@@ -37,5 +37,6 @@ You can't set up new [!DNL Naver] accounts in Search, Social, & Commerce. See mo
 >
 >* [Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-account-manage.md)
 >* [Manage ad network accounts for data uploads](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)
+>* [Manage [!DNL Naver] accounts for tracking only](/help/search-social-commerce/new-ui/set-up/accounts/template-account-manage.md)
 >* [Implement [!DNL Naver] tracking-only accounts](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md)
 >* [Manage merchant center accounts](merchant-account-manage.md)

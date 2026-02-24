@@ -31,7 +31,7 @@ To enable syncing or tracking of an account, you must create a corresponding acc
 
 1. Click the name of the ad network, and then click **[!UICONTROL Next]**.
 
-1. (All ad networks except for [!DNL Yandex]) Log in to the ad network using the advertiser's credentials. Then, in the upper right, click **[!UICONTROL Next]**. 
+1. (All ad networks except for [!DNL Yandex]) Log in to the ad network using the advertiser's credentials. Select the option "Account tracking for this account." Then, in the upper right, click **[!UICONTROL Next]**. 
 
 1. Specify the [account settings](#account-settings-api):
 
@@ -43,7 +43,7 @@ To enable syncing or tracking of an account, you must create a corresponding acc
 
 1. Click **[!UICONTROL Save]**.
 
-   <!-- Verify all of those -->Recent cost and click data for all campaigns in the account is available within Search, Social, & Commerce in about 24 hours. By default, data is available for the last 5-10 days, depending on the ad network. When necessary, however, the project launch team may retrieve data for up to the last 60 days.
+   Recent cost and click data for all campaigns in the account is updated within Search, Social, & Commerce hourly. By default, data is available for the last 5-10 days, depending on the ad network. When necessary, however, the project launch team may retrieve data for up to the last 60 days.
 
 ## Edit ad network account details {#edit-account}
 

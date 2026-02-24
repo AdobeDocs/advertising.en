@@ -17,8 +17,6 @@ For details about the functionality available for each ad network, see "[Support
 
 ## Create account details {#create-account}
 
-<!-- WORDING???? To enable syncing or tracking of an account, you must create a corresponding account record containing the account access credentials and tracking options and with the status *enabled*. -->
-
 1. Click **[!UICONTROL Create Account]**.
 
 1. Click the name of the ad network, and then click **[!UICONTROL Next]**.
@@ -55,11 +53,7 @@ For details about the functionality available for each ad network, see "[Support
 
 1. Click **[!UICONTROL Save]**.
 
-<!-- What happens for these account types?
-
 ## Enable or disable ad network accounts {#enable-disable-account}
-
-When you enable an ad network account, Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios. When you disable an ad network account, Search, Social, & Commerce stops all activity on the account. Data collected while the account was active is still stored, but the campaign management views and reports don't include data for the time period in which the account is disabled. You can later re-enable the account to resume activity with the account.
 
 1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
 
@@ -83,8 +77,6 @@ When you enable an ad network account, Search, Social, & Commerce synchronizes c
 
      1. Click **[!UICONTROL Save]**.
 
--->
-
 ## Account settings {#account-settings-upload}
 
 ### [!UICONTROL Account Details] tab
@@ -101,7 +93,7 @@ When you enable an ad network account, Search, Social, & Commerce synchronizes c
 
 **[!UICONTROL Time Zone]:** (Read-only for existing accounts) The advertiser's time zone.
 
-<!-- Naming here is wrong and misleading -->**[!UICONTROL Account Synchronization and Management] > [!UICONTROL Account Enabled]:** <!-- Verify what exactly happens here --> Search, Social, & Commerce allows data uploads.
+**[!UICONTROL Account Synchronization and Management] > [!UICONTROL Account Enabled]:** Search, Social, & Commerce allows automated data fetching for a specified S3 bucket.
 
 ## [!UICONTROL Setup Analytics] tab
 
@@ -111,4 +103,4 @@ For the data to appear in the report suites, either (a) the server-side AMO ID f
 
 ### [!UICONTROL Upload File] tab
 
-(Optional) Upload data files for the account.
+(Optional) Upload data files for the account.<!-- For instructions, see "[Upload offline account data for reporting and simulations](upload-account-data.md)." -->

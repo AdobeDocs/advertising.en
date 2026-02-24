@@ -44,9 +44,14 @@ Search, Social, & Commerce click tracking and Adobe Advertising conversion track
 
 2. <!-- For all ad networks (excluding DSP), -->Upload the initial data for a single account in either of the following ways:
 
-* [Upload a file manually from your device or network](upload-data-manually.md).
+* Upload a file manually from your device or network.
 
-* [Upload the data to a Search, Social, & Commerce-assigned folder in an [!DNL Amazon Web Services] (AWS) [!DNL Simple Storage Service] ([!DNL S3]) bucket](upload-data-from-s3-bucket.md).
+* Upload the data to a Search, Social, & Commerce-assigned folder in an [!DNL Amazon Web Services] (AWS) [!DNL Simple Storage Service] ([!DNL S3]) bucket.
+
+  >[!PREREQUISITES] 
+  >
+  >* Contact your Adobe Account Team to enable account data uploads for your Search, Social, & Commerce advertiser account. The team will facilitate the creation of an organization-specific folder in an [!DNL S3] bucket, and they'll let you know when it's completed.<!-- Add more context about the bucket we'll use here or in the intro. Do we have one bucket (potentially with multiple folders) per client, or do we share them (if so, do we need to state how in docs? -->
+  >* Retrieve the [!DNL S3] cloud storage path, access key ID, and secret access key for your account. The same access key ID and secret access key are used for all of the organization's data-upload <!-- naming convention?--> accounts.
 
 1. Continue to upload new data files daily.
 
