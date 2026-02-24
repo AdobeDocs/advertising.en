@@ -39,7 +39,7 @@ To enable syncing of an account, you must create a corresponding account record 
 
    1. Click the **[!UICONTROL Setup Tracking]** tab, and enter the tracking settings.
 
-   1. (Advertisers with [!DNL Adobe Analytics for Advertising](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and select all [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
+   1. (Advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and select all [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
 
 1. Click **[!UICONTROL Save]**.
 
@@ -67,7 +67,7 @@ To re-authenticate the account settings to refresh the connection or update perm
 
    1. (Optional) Click the **[!UICONTROL Setup Tracking]** tab, and edit the tracking settings.
 
-   1. (Optional; advertisers with [!DNL Adobe Analytics for Advertising](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and edit the [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
+   1. (Optional; advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and edit the [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
 
    <!-- What are the repercussions of changing the suites? Timing of updated data? -->
 

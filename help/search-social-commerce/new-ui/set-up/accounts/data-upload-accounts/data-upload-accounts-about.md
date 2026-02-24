@@ -13,9 +13,10 @@ This feature is available for ad networks that follow the standard three-tiered 
 Out-of-the-box support is available for the following networks:<!-- But what if you want to use something else? Is that possible currently? -->
 
 <!-- * Adobe Demand Side Platform (Advertising DSP) [<!-- ]Is any data upload required, or just an initial setup of an S3 bucket and/or something else, and then DSP sends the data automatically? If so, then I may need to reframe this whole chapter accordingly.] -->
+<!-- * [!DNL Reddit Ads] -->
+
 * [!DNL Apple Search Ads]
 * [!DNL LinkedIn Ads]
-<!-- * [!DNL Reddit Ads] -->
 * [!DNL TikTok Ads]
 
 Search, Social, & Commerce click tracking and Adobe Advertising conversion tracking aren't supported with this feature.

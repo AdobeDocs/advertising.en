@@ -25,7 +25,7 @@ For details about the functionality available for each ad network, see "[Support
 
    1. On the **[!UICONTROL Account Details]** tab, edit the account details.
 
-   1. (Advertisers with [!DNL Adobe Analytics for Advertising](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and edit the [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
+   1. (Advertisers with an [[!DNL Adobe Analytics for Advertising] integration] (/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and edit the [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
 
    1. (Optional) On the **[!UICONTROL Upload File]** tab, upload data files for the account.
 
@@ -45,7 +45,7 @@ For details about the functionality available for each ad network, see "[Support
 
    1. (Optional) On the **[!UICONTROL Account Details]** tab, edit the account details.
 
-   1. (Optional; advertisers with [!DNL Adobe Analytics for Advertising](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and edit the [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
+   1. (Optional; advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and edit the [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
 
    1. (Optional) On the **[!UICONTROL Upload File]** tab, upload data files for the account.
 
