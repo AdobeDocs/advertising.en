@@ -1,12 +1,9 @@
 ---
-title: About ad network accounts
-description: Learn about ad network accounts in Search, Social, & Commerce.
-exl-id: cb3e650d-721f-48ec-ada3-50bdd7c0375b
+title: (New UI) About ad network accounts
+description: Learn about ad network accounts in the new Search, Social, & Commerce UI.
 feature: Search Campaign Management
 ---
-# About ad network accounts
-
-*Agency account manager, Adobe account manager, and administrator user roles only*
+# (New UI) About ad network accounts
 
 Search, Social, & Commerce can track any of an advertiser's accounts on supported ad networks. To enable tracking of an account, you must create a corresponding account record. You must set up account details for any type of account, whether or not Search, Social, & Commerce synchronizes with it or optimizes bids and budgets on its ads.
 
@@ -22,18 +19,23 @@ During synchronization, Search, Social, & Commerce pulls the advertiser's campai
 
 For more information about creating and editing synchronized campaigns, see the chapter on "Campaign Management."
 
-## Tracking-only accounts
+## Accounts for which you manually upload data
 
-*[!DNL Naver] Accounts*
+For online ad networks for which Search, Social, & Commerce doesn't provide API support, you can upload campaign content and offline cost, click, and conversion data for an account for reporting and performance simulations. Search, Social, & Commerce doesn't synchronize data with the ad network, provide automated bidding, nor provide any type of optimization, but it allows you to streamline cross-channel insights and to identify opportunities for manual optimization.
 
-Tracking campaigns allow you to track, report on, and visualize performance for the ads that you buy directly from the ad network. Search, Social, & Commerce doesn't synchronize data with the ad network, place bids for the account, nor provide any type of optimization or simulations.
+## Template-based tracking-only accounts
+
+*Available for existing [!DNL Naver] accounts only*
+
+Tracking campaigns allow you to track, report on, and visualize performance for the ads that you buy directly from the ad network. Search, Social, & Commerce doesn't synchronize data with the ad network, provide automated bidding, nor provide any type of optimization or simulations.
 
 To allow Search, Social, & Commerce to attribute conversions to clicks, set up tracking options in the account record and enable the account record. You can then use bulksheets to generate tracking URLs for your ads and keywords, and manually add the tracking URLs within the [!DNL Naver] ad manager.
 
-See more information about [!DNL Naver] tracking-only campaigns, see "[Implement [!DNL Naver] tracking-only accounts](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md)."
+You can't set up new [!DNL Naver] accounts in Search, Social, & Commerce. See more information about [!DNL Naver] tracking-only campaigns, see "[Implement [!DNL Naver] tracking-only accounts](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md)."
 
 >[!MORELIKETHIS]
 >
->* [Manage ad network accounts](ad-network-account-manage.md)
+>* [Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-account-manage.md)
+>* [Manage ad network accounts for data uploads](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)
+>* [Implement [!DNL Naver] tracking-only accounts](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md)
 >* [Manage merchant center accounts](merchant-account-manage.md)
->* [Update the AMO ID tracking code for a [!DNL Google Ads] account](update-amo-id-google.md)

@@ -39,7 +39,7 @@ To enable syncing or tracking of an account, you must create a corresponding acc
 
    1. Click the **[!UICONTROL Setup Tracking]** tab, and enter the tracking settings.
 
-   1. Click the **[!UICONTROL Set up Adobe Analytics]** tab, and select all [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
+   1. (Advertisers with [!DNL Adobe Analytics for Advertising](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and select all [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
 
 1. Click **[!UICONTROL Save]**.
 
@@ -67,7 +67,7 @@ To re-authenticate the account settings to refresh the connection or update perm
 
    1. (Optional) Click the **[!UICONTROL Setup Tracking]** tab, and edit the tracking settings.
 
-   1. (Optional) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and edit the [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
+   1. (Optional; advertisers with [!DNL Adobe Analytics for Advertising](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and edit the [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
 
    <!-- What are the repercussions of changing the suites? Timing of updated data? -->
 
@@ -171,7 +171,7 @@ The account settings vary by ad network. You may not see all settings below.
 
 **[!UICONTROL Login]:** (Read-only) The user account used to log into the account.
 
-**[!UICONTROL Account Enabled]:** Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios.
+**[!UICONTROL Account Synchronization and Management] > [!UICONTROL Account Enabled]:** Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios.
 
 ## Setup Tracking tab
 
@@ -244,7 +244,7 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 
 ## Setup Analytics tab
 
-**Adobe Analytics Report Suite:** (Advertisers with an Adobe Advertising-Adobe Analytics integration; optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks. 
+**Adobe Analytics Report Suite:** (Advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md); optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks.
 
 For the data to appear in the report suites, either (a) the server-side AMO ID feature must be configured for the account or (b) the advertiser-level setting to "[!UICONTROL Enable Advertising reporting in Analytics]" must be enabled. In addition, the advertiser's [!DNL Analytics] account must be configured to receive data from Search, Social, & Commerce. For more information, contact your Adobe Account Team.
 

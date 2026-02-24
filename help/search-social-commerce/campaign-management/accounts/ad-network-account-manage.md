@@ -6,8 +6,6 @@ feature: Search Campaign Management
 ---
 # Manage ad network accounts
 
-<!-- Probably need to change the page title. If I update the filename, get B. to create a redirect to the new URL. -->
-
 Following are instructions for creating and editing ad network account details, refreshing the [!DNL oAuth] token for an account, and disabling accounts.
 
 <!-- Move out info about Naver?  Then change to the following:  Following are instructions for creating and editing account details for an ad network account that Search, Social, & Commerce will sync using the ad network's API; refreshing the [!DNL oAuth] token for an account; and disabling accounts. -->
@@ -15,6 +13,8 @@ Following are instructions for creating and editing ad network account details, 
 <!-- Also update Description metadata to "Learn how to set up and manage account details for an ad network account synced via the ad network API." -->
 
 For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
+
+For instructions on managing ad network accounts in the new UI, see "[(New UI) Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-account-manage.md)."
 
 ## Create ad network account details {#create-account}
 
