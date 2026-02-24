@@ -19,7 +19,7 @@ For details about the functionality available for each ad network, see "[Support
 
 ## Create ad network account details {#create-account}
 
-To enable syncing or tracking of an account, you must create a corresponding account record containing the account access credentials and tracking options and with the status *enabled*.<!-- Enabled? -->
+To enable syncing of an account, you must create a corresponding account record containing the account access credentials and tracking options and with the status *enabled*.
 
 >[!NOTE]
 >

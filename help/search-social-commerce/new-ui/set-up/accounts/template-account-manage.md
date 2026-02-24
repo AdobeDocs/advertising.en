@@ -13,7 +13,7 @@ For details about the functionality available, see "[Supported Inventory](/help/
 
 ## Create ad network account details {#create-account}
 
-To enable tracking of an account, you must create a corresponding account record containing the account access credentials and tracking options and with the status *enabled*.
+To enable tracking of an account, you must create a corresponding account record containing the account access credentials and with the status *enabled*.
 
 >[!NOTE]
 >

@@ -1,10 +1,18 @@
 ---
 title: Upload offline account data for reporting and simulations
-description: Learn how to upload offline account data manually or to an [!DNL Amazon] [!DNL S3] bucket for reporting and simulation support.
+description: Learn how to upload offline account data manually or to an [!DNL Amazon] [!DNL S3] bucket for reporting and simulation support. Log files track the progress of upload jobs.
 ---
 # Upload offline account data for reporting and simulations
 
-Upload campaign content and offline cost, click, and conversion data for an account without API support for reporting and performance simulations. 
+*Advertisers who are enabled for account data uploads*
+
+Upload campaign content and offline cost, click, and conversion data for an account without API support for reporting and performance simulations.
+
+You can track the progress of your upload jobs using the [!UICONTROL Upload Logs] feature:
+
+* View a list of each file uploaded for the account. Information about each file upload job includes the filename, upload channel (*[!UICONTROL Cloud Storage]* or *[!UICONTROL Drag & Drop]*), the sync date and status, and reasons for incomplete uploads. 
+
+* Download a file with the account entities and related metrics that were uploaded for any job. The files are in comma-separated values (CSV) format.
 
 ## Upload account data manually
 
@@ -41,8 +49,6 @@ See "XXX" for information about supported ad networks and account structures.
      1. Either drag a file into the box or click **[!UICONTROL Browse Files]** and choose a file from your device or network.
 
      1. Click **[!UICONTROL Save]**.
-
-You can track the progress of the upload job using the [[!UICONTROL Upload Logs] feature](upload-log.md).
 
 # Upload account data to an [!DNL Amazon] [!DNL S3] bucket {#data-upload-s3}
 
@@ -125,10 +131,14 @@ See "XXX" for information about supported ad networks and account structures.
 
    Example:  `aws s3 cp filename.txt s3://cloud-location/`
 
-You can track the progress of the upload job using the [[!UICONTROL Upload Logs] feature](download-upload-log.md). <!-- Anything else to note? -->
+## View a log of uploaded account data files
 
-## Required and optional data
+1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
 
-The data must follow the data requirements for the ad network.
+1. Hold the cursor over the account name, click **...**, and then click **[!UICONTROL Upload Logs]**.
 
-The data fields for each entity may vary by ad network.
+1. (Optional) To download the data for an uploaded file, click ![Download](/help/search-social-commerce/assets/download.png "Download") in the [!UICONTROL Download] column and download the file according to your browser's normal procedure.
+
+## Required data
+
+The data must follow the data requirements for the ad network. The data fields for each entity may vary by ad network.
