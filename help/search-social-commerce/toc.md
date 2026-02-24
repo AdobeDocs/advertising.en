@@ -97,6 +97,10 @@ index: yes
       + [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
       + [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)    
       + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
+  + Setup {#setup}
+    + Accounts {#accounts}
+      + [Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-account-manage.md)
+      + [Manually synchronize ad network data via API connection](/help/search-social-commerce/new-ui/set-up/accounts/sync-ad-network.md)
   + [User administration](/help/search-social-commerce/new-ui/user-administration.md)
 + Tracking {#tracking}
   + [About tracking](/help/search-social-commerce/tracking/tracking-about.md)
@@ -145,7 +149,7 @@ index: yes
   + Setting up accounts {#campaign-management-accounts}
     + Ad network accounts {#ad-network-accounts}
       + [About ad network accounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md)
-      + [Manage ad network accounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md)
+      + [Manage ad network accounts via API connection](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md)
       + [Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)
     + [Manage merchant center accounts](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md)
   + [Implement [!DNL Naver] tracking-only accounts](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md)
