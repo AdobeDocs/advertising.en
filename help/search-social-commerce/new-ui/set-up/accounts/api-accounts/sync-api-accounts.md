@@ -29,7 +29,7 @@ For campaigns with the "[!UICONTROL Auto Update]" option, the sync operation als
 
    <!-- As of 2/23, you can sync only one acct at a time:  Select the check box next to each account or campaign that you want to sync. You can sync up to 50 campaigns at a time. If you sync more than five accounts at a time, the job is broken into batches of up to five accounts each. -->
 
-1. In the floating toolbar, click **[!UICONTROL ... More Actions]** > **[!UICONTROL Sync]**.
+1. In the bulk actions toolbar, click **[!UICONTROL ... More Actions]** > **[!UICONTROL Sync]**.
 
    * Hold the cursor over the account name, click **...**, and then click **[!UICONTROL Edit]**.
 

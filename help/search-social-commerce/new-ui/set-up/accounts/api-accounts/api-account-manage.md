@@ -57,7 +57,7 @@ To re-authenticate the account settings to refresh the connection or update perm
 
 1. Select the account in either of the following ways:
 
-   * Select the check box next to the account name, and then click **[!UICONTROL Edit]** in the floating toolbar.
+   * Select the check box next to the account name, and then click **[!UICONTROL Edit]** in the bulk actions toolbar.
 
    * Hold the cursor over the account name, click **...**, and then click **[!UICONTROL Edit]**.
 
@@ -89,7 +89,7 @@ To refresh the ad network connection or update permissions for the account, re-a
 
 1. Select the account in either of the following ways:
 
-   * Select the check box next to the account name, and then click **[!UICONTROL Edit]** in the floating toolbar.
+   * Select the check box next to the account name, and then click **[!UICONTROL Edit]** in the bulk actions toolbar.
 
    * Hold the cursor over the account name, click **...**, and then click **[!UICONTROL Edit]**.
 
@@ -107,9 +107,9 @@ When you enable an ad network account, Search, Social, & Commerce synchronizes c
 
    * (From the [!UICONTROL Accounts] view):
 
-     * (To enable the account) Select the check box next to the account name, and then click **[!UICONTROL Activate]** in the floating toolbar.
+     * (To enable the account) Select the check box next to the account name, and then click **[!UICONTROL Activate]** in the bulk actions toolbar.
 
-     * (To disable the account) Select the check box next to the account name, and then click **[!UICONTROL Pause]** in the floating toolbar.
+     * (To disable the account) Select the check box next to the account name, and then click **[!UICONTROL Pause]** in the bulk actions toolbar.
 
    * (From the account settings):
    
@@ -117,7 +117,7 @@ When you enable an ad network account, Search, Social, & Commerce synchronizes c
      
         * Hold the cursor over the account name, click **...**, and then click **[!UICONTROL Edit]**.
         
-        * Select the check box next to the account name, and then click **[!UICONTROL Edit]** in the floating toolbar.
+        * Select the check box next to the account name, and then click **[!UICONTROL Edit]** in the bulk actions toolbar.
         
      1. On the **[!UICONTROL Account Details]** tab, turn off **[!UICONTROL Account enabled]**.
 
