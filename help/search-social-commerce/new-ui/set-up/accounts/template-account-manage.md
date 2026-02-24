@@ -118,4 +118,4 @@ For the data to appear in the report suites, either (a) the server-side AMO ID f
 >[!MORELIKETHIS]
 >
 >* [Implement [!DNL Naver] tracking-only accounts](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md)
->* [About ad network accounts](ad-network-account-about.md)
+>* [About ad network accounts](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)
