@@ -43,7 +43,7 @@ Search, Social, & Commerce click tracking and Adobe Advertising conversion track
 
   The data must follow the data requirements for the ad network, so the data fields for each entity may vary by ad network.
 
-2. <!-- For all ad networks (excluding DSP), -->Upload the initial data for a single account in either of the following ways:
+1. <!-- For all ad networks (excluding DSP), -->Upload the initial data for a single account in either of the following ways:
 
 * Upload a file manually from your device or network.
 
