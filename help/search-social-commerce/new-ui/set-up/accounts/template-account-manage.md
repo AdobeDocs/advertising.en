@@ -1,39 +1,45 @@
 ---
-title: Configure ad network accounts for data upload
-description: Learn how to set up and manage account details for an ad network account.
+title: (New UI) Manage [!DNL Naver] accounts for tracking only
+description: Learn how to set up and manage account details in the new UI for a [!DNL Naver] account.
 feature: Search Campaign Management
 ---
-# Manage ad network accounts for data uploads
+# (New UI) Manage [!DNL Naver] accounts for tracking only
 
-<!-- Edit all, including title and metadata -->
+*Beta feature*
 
-Following are instructions for managing account details for ad network accounts for which you'll upload the account data.
+Following are instructions for managing [[!DNL Naver] accounts](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md) to track, report on, and visualize performance for the ads that you buy directly from the ad network. Search, Social, & Commerce doesn't synchronize data with the ad network, provide automated bidding, nor provide any type of optimization or simulations.
 
-For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
+For details about the functionality available, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
+
+## Create ad network account details {#create-account}
+
+To enable tracking of an account, you must create a corresponding account record containing the account access credentials and tracking options and with the status *enabled*.
 
 >[!NOTE]
 >
->For instructions about managing account details for an ad network account that Search, Social, & Commerce syncs using the ad network's API, see "[Manage ad network accounts via API connection](ad-network-account-manage)" instead.
+>To create an actual account on the ad network, go to the ad network's website.
 
-## Create account details {#create-account}
-
-<!-- WORDING???? To enable syncing or tracking of an account, you must create a corresponding account record containing the account access credentials and tracking options and with the status *enabled*. -->
+1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
 
 1. Click **[!UICONTROL Create Account]**.
 
 1. Click the name of the ad network, and then click **[!UICONTROL Next]**.
 
-1. Specify the [account settings](#account-settings):
+1. Specify the [account settings](#account-settings-naver):
 
-   1. On the **[!UICONTROL Account Details]** tab, edit the account details.
+   1. On the **[!UICONTROL Enter Account Details]** tab, specify the general account settings.
 
-   1. (Advertisers with [!DNL Adobe Analytics for Advertising](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and edit the [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
-
-   1. (Optional) On the **[!UICONTROL Upload File]** tab, upload data files for the account.
+   1. (Advertisers with [!DNL Adobe Analytics for Advertising](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and select all [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
 
 1. Click **[!UICONTROL Save]**.
 
-## Edit account details {#edit-account}
+## Edit ad network account details {#edit-account}
+
+To change the account name, change the account status, or change the [!DNL Analytics] report suites to use for tracking and reporting, edit the account details.
+
+>[!NOTE]
+>
+>To edit an actual account on the ad network, go to the ad network's website.
 
 1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
 
@@ -43,19 +49,17 @@ For details about the functionality available for each ad network, see "[Support
 
    * Hold the cursor over the account name, click **...**, and then click **[!UICONTROL Edit]**.
 
-1. Edit the [account settings](#account-settings-upload):
+1. Edit the [account settings](#account-settings-api):
 
    1. (Optional) On the **[!UICONTROL Account Details]** tab, edit the account details.
 
    1. (Optional; advertisers with [!DNL Adobe Analytics for Advertising](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and edit the [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
 
-   1. (Optional) On the **[!UICONTROL Upload File]** tab, upload data files for the account.
-
    <!-- What are the repercussions of changing the suites? Timing of updated data? -->
 
 1. Click **[!UICONTROL Save]**.
 
-<!-- What happens for these account types?
+<!-- What does this do?
 
 ## Enable or disable ad network accounts {#enable-disable-account}
 
@@ -85,23 +89,25 @@ When you enable an ad network account, Search, Social, & Commerce synchronizes c
 
 -->
 
-## Account settings {#account-settings-upload}
+## Ad network account settings {#account-settings-api}
 
 ### [!UICONTROL Account Details] tab
+
+#### [!UICONTROL Enter Account Details]/[!UICONTROL Account Details]
 
 **[!UICONTROL Account Name]:** The name to be displayed for the account within Search, Social, & Commerce. 
 
 >[!NOTE]
 >
->If you have a Search, Social, & Commerce-Adobe Analytics integration and change the name of the search account, then notify your Adobe Account Team so they can update the mapping.
+>If you have a Search, Social, & Commerce-Adobe Analytics integration and change the name of the search account, then ask your Adobe Account Team to update the mapping.
 
-**[!UICONTROL Network Account ID]:** The account ID assigned by the ad network. This ID is used for reporting only. Search, Social, & Commerce won't connect directly to the ad network account.
+**[!UICONTROL Network Account ID]:** The account ID assigned by the ad network. 
 
-**[!UICONTROL Currency]:** (Read-only for existing accounts) The abbreviation for the currency used for the account.
+**[!UICONTROL Currency]:** The abbreviation for the currency used for the account.
 
-**[!UICONTROL Time Zone]:** (Read-only for existing accounts) The advertiser's time zone.
+**[!UICONTROL Time Zone]:** The advertiser's time zone.
 
-<!-- Naming here is wrong and misleading -->**[!UICONTROL Account Synchronization and Management] > [!UICONTROL Account Enabled]:** <!-- Verify what exactly happens here --> Search, Social, & Commerce allows data uploads.
+**[!UICONTROL Account Synchronization and Management] > [!UICONTROL Account Enabled]:** Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios.
 
 ## [!UICONTROL Setup Analytics] tab
 
@@ -109,6 +115,7 @@ When you enable an ad network account, Search, Social, & Commerce synchronizes c
 
 For the data to appear in the report suites, either (a) the server-side AMO ID feature must be configured for the account or (b) the advertiser-level setting to "[!UICONTROL Enable Advertising reporting in Analytics]" must be enabled. In addition, the advertiser's [!DNL Analytics] account must be configured to receive data from Search, Social, & Commerce. For more information, contact your Adobe Account Team.
 
-### [!UICONTROL Upload File] tab
-
-(Optional) Upload data files for the account.
+>[!MORELIKETHIS]
+>
+>* [Implement [!DNL Naver] tracking-only accounts](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md)
+>* [About ad network accounts](ad-network-account-about.md)

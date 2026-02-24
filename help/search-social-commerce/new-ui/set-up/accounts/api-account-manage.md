@@ -1,6 +1,6 @@
 ---
 title: (New UI) Manage ad network accounts
-description: Learn how to set up and manage account details for an ad network account in the new UI.
+description: Learn how to set up and manage account details in the new UI for an ad network synced via the ad network API.
 feature: Search Campaign Management
 ---
 # (New UI) Manage ad network accounts via API connection
@@ -9,11 +9,11 @@ feature: Search Campaign Management
 
 *Beta feature*
 
+<!-- Move out info about Naver into a separate page -->
+
 Following are instructions for managing ad network accounts that Search, Social, & Commerce syncs using the ad network's API.
 
-<!-- Move out info about Naver?  Then change to the following:  Following are instructions for creating and editing account details for an ad network account that Search, Social, & Commerce will sync using the ad network's API; refreshing the [!DNL oAuth] token for an account; and disabling accounts. -->
-
-<!-- Also update Description metadata to "Learn how to set up and manage account details for an ad network account synced via the ad network API." -->
+<!-- Move out info about Naver into a separate page -->
 
 For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
 
@@ -133,9 +133,7 @@ The account settings vary by ad network. You may not see all settings below.
 
 -->
 
-### Account Details tab
-
-#### Select Accounts/Account Details
+### [!UICONTROL Select Accounts]/[!UICONTROL Account Details] tab
 
 **[!UICONTROL Account Name]:** The name to be displayed for the account within Search, Social, & Commerce. 
 
@@ -173,7 +171,7 @@ The account settings vary by ad network. You may not see all settings below.
 
 **[!UICONTROL Account Synchronization and Management] > [!UICONTROL Account Enabled]:** Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios.
 
-## Setup Tracking tab
+## [!UICONTROL Setup Tracking] tab
 
 <!-- This should be the name of the whole left side of options -- they're all enabled/disabled depending on whether you enable our tracking -->
 
@@ -242,9 +240,9 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 >* The tracking template at the most granular level overrides the values at all higher levels. For example, if both the account settings and the keyword settings include a value, then the keyword value is applied.
 >* If you update a tracking template at the ad, sitelink, or keyword level, then the relevant ads are resubmitted for review. You can update your tracking templates at the account, campaign, or ad group levels without resubmitting your ads for approval.
 
-## Setup Analytics tab
+## [!UICONTROL Setup Analytics] tab
 
-**Adobe Analytics Report Suite:** (Advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md); optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks.
+**[!UICONTROL Adobe Analytics Report Suite]:** (Advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md); optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks.
 
 For the data to appear in the report suites, either (a) the server-side AMO ID feature must be configured for the account or (b) the advertiser-level setting to "[!UICONTROL Enable Advertising reporting in Analytics]" must be enabled. In addition, the advertiser's [!DNL Analytics] account must be configured to receive data from Search, Social, & Commerce. For more information, contact your Adobe Account Team.
 

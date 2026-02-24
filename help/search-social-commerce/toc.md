@@ -99,11 +99,13 @@ index: yes
       + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
   + Setup {#setup}
     + Accounts {#accounts}
+      + [About ad network accounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md)
       + API connection accounts {api}
         + [Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-account-manage.md)
         + [Manually synchronize ad network data via API connection](/help/search-social-commerce/new-ui/set-up/accounts/sync-ad-network.md)
       + Data upload accounts {data-upload}
         + [Manage ad network accounts for data uploads](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)
+      + [Manage [!DNL Naver] accounts for tracking only](/help/search-social-commerce/new-ui/set-up/accounts/template-account-manage.md)
   + [User administration](/help/search-social-commerce/new-ui/user-administration.md)
 + Tracking {#tracking}
   + [About tracking](/help/search-social-commerce/tracking/tracking-about.md)
