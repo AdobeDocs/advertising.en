@@ -50,6 +50,8 @@ A portfolio can have the following statuses:
 
 The [!UICONTROL Portfolios] view lists your existing portfolios, with customizable performance data. You can [customize the columns within the view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) and filter data to include specific portfolios [from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) or from the [column heading](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
 
+Above the data table, you can open a performance graph with up to three metrics totalled across all portfolios in the view for the specified date range.
+
 <!-- No options yet to edit anything within the grid, view bid changes, add a portfolio to a portfolio group, edit the Target column, or import/export DOW targets. -->
 
 ### Available actions
@@ -71,6 +73,8 @@ The [!UICONTROL Portfolios] view lists your existing portfolios, with customizab
 * [Edit portfolio settings](portfolio-edit.md)
 
 * [Bulk edit portfolio settings using bulksheet files](portfolio-bulksheets.md)
+
+* [View a performance graph across all portfolios in the view](portfolio-view-performance-graph.md)
 
 * [View portfolio performance details](portfolio-details.md)
 
