@@ -77,6 +77,8 @@ The portfolio detail view includes the following information about a portfolio:
 
   * To see data for any point on the chart, hold the cursor over that point.
 
+1. Click **[!UICONTROL Download report]**.
+
 ## List the campaigns in the portfolio
 
 * Click the **[!UICONTROL Campaigns]** tab.
@@ -98,6 +100,14 @@ The portfolio detail view includes the following information about a portfolio:
    * To edit visible portfolio settings, click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") next to the setting section and [edit the portfolio settings](portfolio-edit.md).
 
 For more information about the portfolio settings, see the Optimization Guide, which is available from within Search, Social, & Commerce.
+
+## Download porfolio performance reports and lists of the portfolio components
+
+1. In the toolbar, click **[!UICONTROL Download report]**.
+
+1. Select the check box next to each performance report and portfolio component type to include.
+
+   For some performance reports, you can choose whether to download the data as a cart or a table.
 
 >[!MORELIKETHIS]
 >
