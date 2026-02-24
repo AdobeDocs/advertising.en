@@ -14,7 +14,7 @@ Following are instructions for creating and editing ad network account details, 
 
 For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
 
-For instructions on managing ad network accounts in the new UI, see "[(New UI) Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-account-manage.md)."
+For instructions on managing ad network accounts in the new UI, see "[(New UI) Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md)."
 
 ## Create ad network account details {#create-account}
 
