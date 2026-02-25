@@ -2,6 +2,7 @@
 title: (New UI) View a performance graph in the [!UICONTROL Portfolios] view
 description: Learn how to open and configure a performance graph in the [!UICONTROL Portfolios] view.
 feature: Search Campaign Management
+exl-id: 5b83d052-acef-451c-8492-70465ded23f4
 ---
 # (New UI) View a performance graph in the [!UICONTROL Portfolios] view
 

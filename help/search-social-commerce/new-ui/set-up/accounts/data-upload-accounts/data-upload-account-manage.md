@@ -2,6 +2,7 @@
 title: Configure ad network accounts for data upload
 description: Learn how to set up and manage account details for an ad network account.
 feature: Search Campaign Management
+exl-id: 7e8fb475-21f9-446b-a112-e0f27a4c4172
 ---
 # Manage ad network accounts for data uploads
 
