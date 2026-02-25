@@ -109,7 +109,7 @@ index: yes
       + [Remove label classification values from account components](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-remove)
       + [Delete label classification values](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-delete)
       + [Delete label classifications](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-delete)
- + Setup {#setup}
+  + Setup {#setup}
     + Accounts {#accounts}
       + [About ad network accounts](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)
       + API connection accounts {#api}
