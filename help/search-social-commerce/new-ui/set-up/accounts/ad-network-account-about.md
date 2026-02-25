@@ -2,6 +2,7 @@
 title: (New UI) About ad network accounts
 description: Learn about ad network accounts in the new Search, Social, & Commerce UI.
 feature: Search Campaign Management
+exl-id: 62c69582-6b95-4ae3-b027-d1efc3deb39e
 ---
 # (New UI) About ad network accounts
 

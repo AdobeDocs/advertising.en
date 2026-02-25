@@ -2,6 +2,7 @@
 title: (New UI) View a performance graph in the [!UICONTROL Ad Groups] view
 description: Learn how to open and configure a performance graph in the [!UICONTROL Ad Groups] view.
 feature: Search Campaign Management
+exl-id: 5705bf24-e79e-4f72-ac62-c154767ae8a1
 ---
 # (New UI) View a performance graph in the [!UICONTROL Ad Groups] view
 

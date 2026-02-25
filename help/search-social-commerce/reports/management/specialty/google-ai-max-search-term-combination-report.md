@@ -2,6 +2,7 @@
 title: '[!UICONTROL Google AI Max Search Term Combination Report]'
 description: Learn about the [!UICONTROL Google AI Max Search Term Combination Report].
 feature: Search Reports, Search Specialty Reports
+exl-id: 6980dd42-ce5c-4fa7-920d-9c23bf98fa8d
 ---
 # [!UICONTROL Google AI Max Search Term Combination Report]
 

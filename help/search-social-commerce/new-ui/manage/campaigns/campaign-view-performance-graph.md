@@ -2,6 +2,7 @@
 title: (New UI) View a performance graph in the [!UICONTROL Campaigns] view
 description: Learn how to open and configure a performance graph in the [!UICONTROL Campaigns] view.
 feature: Search Campaign Management
+exl-id: 0d20912f-d84d-4d83-990c-780d5d0e56cc
 ---
 # (New UI) View a performance graph in the [!UICONTROL Campaigns] view
 
