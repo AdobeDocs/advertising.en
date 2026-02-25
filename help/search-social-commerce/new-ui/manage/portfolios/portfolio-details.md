@@ -103,11 +103,23 @@ For more information about the portfolio settings, see the Optimization Guide, w
 
 ## Download porfolio performance reports and lists of the portfolio components
 
-1. In the toolbar, click **[!UICONTROL Download report]**.
+* To download all reports:
 
-1. Select the check box next to each performance report and portfolio component type to include.
+  1. In the toolbar, click **[!UICONTROL Download report]**.
 
-   For some performance reports, you can choose whether to download the data as a cart or a table.
+  1. Select the check box next to each performance report and portfolio component type to include.
+
+     For some performance reports, you can choose whether to download the data as a chart or a table.
+
+  1. Click **[!UICONTROL Download report]**.
+
+* To download a [!DNL model accuracy] report with specific types of data:
+
+  1. In the toolbar for the report, click **[!UICONTROL Download report]**.
+
+  1. Select the check box next to each type of data to include and how to break down the data (by bid unit and/or by click volume).
+
+  1. Click **[!UICONTROL Download report]**.
 
 >[!MORELIKETHIS]
 >
