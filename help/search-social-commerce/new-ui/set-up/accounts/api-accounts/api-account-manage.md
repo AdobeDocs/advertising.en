@@ -248,6 +248,6 @@ For the data to appear in the report suites, either (a) the server-side AMO ID f
 
 >[!MORELIKETHIS]
 >
->* [About ad network accounts](ad-network-account-about.md)
->* [Manage merchant center accounts](merchant-account-manage.md)
->* [Update the s_kwcid tracking code for a [!DNL Google Ads] account](update-amo-id-google.md)
+>* [About ad network accounts](../ad-network-account-about.md)
+>* [Manage merchant center accounts](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md)
+>* [Update the s_kwcid tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)

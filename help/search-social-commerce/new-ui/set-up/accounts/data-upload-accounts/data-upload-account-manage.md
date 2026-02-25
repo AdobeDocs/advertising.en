@@ -13,7 +13,7 @@ For details about the functionality available for each ad network, see "[Support
 
 >[!NOTE]
 >
->For instructions about managing account details for an ad network account that Search, Social, & Commerce syncs using the ad network's API, see "[Manage ad network accounts via API connection](ad-network-account-manage)" instead.
+>For instructions about managing account details for an ad network account that Search, Social, & Commerce syncs using the ad network's API, see "[Manage ad network accounts via API connection](../api-accounts/api-account-manage.md)" instead.
 
 ## Create account details {#create-account}
 
