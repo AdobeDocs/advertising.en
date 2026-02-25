@@ -10,6 +10,8 @@ exl-id: 6980dd42-ce5c-4fa7-920d-9c23bf98fa8d
 
 The [!UICONTROL Google AI Max Search Term Combination Report] shows the performance of specific ad combinations and landing pages that [!DNL Google Ads AI Max] uses based on searches within the search network. The report includes impression, clicks, and cost data for ads in [!DNL Google Ads] campaigns that use [!DNL AI Max] within specified accounts. By default, data includes one row for each search term, headline, and landing page combination that received at least one impression in the specified data range. The rows are in ascending order by date and then by campaign by default.
 
+Use this report to see how specific search queries are mapped to AI-generated headlines and dynamic landing pages. You can use the data to analyze intent and the performance of the resulting ad elements per query so that you can build robust negative keyword lists.
+
 <!-- We're pulling data directly from GGL and not storing it, so no limitations on our end WRT date range. -->
 
 ## Default columns
