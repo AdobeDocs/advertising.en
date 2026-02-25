@@ -109,6 +109,15 @@ index: yes
       + [Remove label classification values from account components](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-remove)
       + [Delete label classification values](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-delete)
       + [Delete label classifications](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-delete)
+ + Setup {#setup}
+    + Accounts {#accounts}
+      + [About ad network accounts](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)
+      + API connection accounts {#api}
+        + [Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md)
+        + [Manually synchronize ad network data via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/sync-api-accounts.md)
+      + Data upload accounts {#data-upload}
+        + [Manage ad network accounts for data uploads](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)
+      + [Manage [!DNL Naver] accounts for tracking only](/help/search-social-commerce/new-ui/set-up/accounts/template-account-manage.md)
   + [User administration](/help/search-social-commerce/new-ui/user-administration.md)
 + Tracking {#tracking}
   + [About tracking](/help/search-social-commerce/tracking/tracking-about.md)
