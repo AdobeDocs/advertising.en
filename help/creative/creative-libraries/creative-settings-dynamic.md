@@ -8,61 +8,49 @@ exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
 
 <!-- add a description -->
 
-<!-- This looks the same for me for either HTML5 type as of 9/24:
-
-## Dynamic ad settings for static HTML5 ads {#dynamic-ad-settings-static-html5}
-
-### Basic Details
-
-**[!UICONTROL Advertiser]:** The advertiser for which to create the ads.
-
-**[!UICONTROL Library]:** The creative library in which to create the ads.
-
-**[!UICONTROL Dynamic Ad Name]:** A unique name for the creative.
-
-**[!UICONTROL Ad Template Size]:** The ad dimensions for the ad template from which to create the ad. If you first select a specific [!UICONTROL Ad Template], then this value is automatically selected.
-
-**[!UICONTROL Ad Template Type]:** The type of ad template from which to create the ad: *[!UICONTROL Static HTML5]* or *[!UICONTROL Dynamic HTML5]*.  If you first select a specific [!UICONTROL Ad Template], then this value is automatically selected.
-
-**[!UICONTROL Ad Template]:** The ad template from which to create the ad.
-
-**[!UICONTROL clickURL]:** A valid landing page URL to which users are redirected when they click the ad.
-
-### [!UICONTROL Attributes Details]
-
--->
-
 ## Dynamic ad settings<!-- for dynamic HTML5 ads {#dynamic-ad-settings-dynamic-html5}-->
 
 <!-- add a description -->
 
 ### Basic Details
 
-**[!UICONTROL Dynamic Ad Name]:** A unique name for the creative.
+**[!UICONTROL Creative Type]:** Whether the creative is a *[!UICONTROL Display]* ad (HTML5) or a *[!UICONTROL Video]* ad.
 
-**[!UICONTROL Advertiser]:** The advertiser for which to create the ads.
+**[!UICONTROL Dynamic Display Ad Name]** or **[!UICONTROL Dynamic Video Ad Name]:** A unique name for the creative.
+
+**[!UICONTROL Advertiser]:** The advertiser for which to create the ads. If you're creating the ads from within [!UICONTROL Creatives] > [!UICONTROL Creative Libraries], then the advertiser is already selected and read-only.
 
 **[!UICONTROL Library]:** The creative library in which to create the ads. If you're creating the ads from within [!UICONTROL Creatives] > [!UICONTROL Creative Libraries], then the library name is already selected and read-only.
 
-**[!UICONTROL Ad Template Size]:** The [ad dimensions](/help/creative/creative-libraries/creative-sizes.md) for the ad template from which to create the ad. If you first select a specific [!UICONTROL Ad Template], then this value is automatically selected.
+**[!UICONTROL Ad Template Size]:** (Dynamic display ads only) The [ad dimensions](/help/creative/creative-libraries/creative-sizes.md) for the ad template from which to create the ad. If you first select a specific [!UICONTROL Ad Template], then this value is automatically selected.
 
 ## Ad Template
 
-**[!UICONTROL Ad Template]:** The ad template from which to create the ads. Select an existing ad template, or upload a new ad template and select the template type (*Static* or *Dynamic*). An uploaded template must be in ZIP format and contain HTML5 files and template definition file (template.TDF). <!-- Need to add more specs for that -->
+**[!UICONTROL Ad Template]:** The ad template from which to create the ads. Select an existing ad template, or upload a new ad template and select the template type (*Static* or *Dynamic*). The template must be in ZIP format and contain:<!-- Need to add more specs for templates -->
 
-**[!UICONTROL Number of offers (Max 50)]:** The number of products to show in a carousel.
+* Display creatives: HTML5 files with the desired ad format and (dynamic HTML5 ads only) a file with the ad attributes (.tdf)
+
+* Video creatives: A .scene file with the desired ad format. The ZIP file can be a maximum of 512 MB.
+
+To continue, click **[!UICONTROL Select Ad Template]**. 
+
+**[!UICONTROL Card Count (Max 50)]:** (Display ads only) The number of products to show in a carousel.
+
+**[!UICONTROL Duration]:** (Video ads only; read-only) The video duration derived from the selected ad template. Each video's duration must be between 1-90 seconds.
 
 ## Catalogs
 
 **[!UICONTROL Template]:** The feed template to use to create the ads.
 
-**\[Catalogs\]**: One or more catalogs from which to generate ads. Select an existing catalog, or create a new catalog by downloading an existing feed template and creating and uploading the new catalog.
+**\[Catalogs\]**: One or more catalogs from which to generate ads. Select an existing catalog, or create a new catalog by downloading an existing feed template and creating and uploading the new catalog. Click **[!UICONTROL Select Catalog]**.
 
 Uploaded catalogs must be in ZIP format and contain the following:
 
-* One or more feed files in CSV, TSV, or Microsoft Excel spreadsheet (XLSX) format. The maximum file size is 512 MB.<!-- Need to add more specs for the feed files -->
+* (Dynamic display and video ads) One or more feed files in CSV, TSV, or Microsoft Excel spreadsheet (XLSX) format. The maximum file size is 512 MB.<!-- Need to add more specs for the feed files -->
 
-* Image assets in GIF, JPEG, JPG, or PNG format
+* (Display ads) Image assets in GIF, JPEG, JPG, or PNG format
+
+* (Video ads) Video assets in MP4, MOV, or WEBM format. Supported ad templates include start card, end card, top overlay, bottom overlay, or L-shaped. Each video's duration must be between 1-90 seconds.
 
 ### [!UICONTROL Attributes Mapping]
 
