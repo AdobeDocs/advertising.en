@@ -49,9 +49,9 @@ Create a targeted ad experience using a decision tree. Each experience uses ads 
         
           If you don't assign at least one bundle to each final node, you can opt to use the default creatives for each unassigned node when you save the experience. To publish an experience, you must either assign bundles or use the default creatives for each final node.
 
-        * [Customize the tracking URLs for creatives in the assigned bundles](experience-tracking-urls-targeting.md).
-
         * [Customize creative optimization and scheduling](experience-optimization-scheduling-targeting.md) for the assigned bundles.
+        
+        * [Customize the tracking URLs for creatives in the assigned bundles](experience-tracking-urls-targeting.md).
 
 1. (Optional) Switch between the decision tree and the general settings:
 

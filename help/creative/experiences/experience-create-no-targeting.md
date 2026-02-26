@@ -31,10 +31,10 @@ Create an ad experience without targeting. Each experience can use ads from a si
    * [Assign creatives to an ad tag](experience-tag-assign-creatives.md).
 
      Assign creatives to the ad tag, not within the experience settings.
-   
-   * [Customize the tracking URLs](experience-tracking-urls-no-targeting.md)
-   
+
    * [Customize creative optimization and scheduling](experience-optimization-scheduling-no-targeting.md).
+
+   * [Customize the tracking URLs](experience-tracking-urls-no-targeting.md)
 
 >[!MORELIKETHIS]
 >

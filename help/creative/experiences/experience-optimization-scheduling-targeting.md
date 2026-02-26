@@ -18,13 +18,21 @@ By default, the creative rotation for an experience is determined algorithmicall
 
 When creative scheduling is disabled, the creative optimization settings apply to all assigned creatives.
 
-1. Hold the cursor over the creative leaf node below the target node and click **[!UICONTROL ...]** > **[!UICONTROL Creative Optimization]**.
+1. While you're [creating](experience-create-targeting.md) or [editing](experience-edit-targeting.md) the experience, open the creative optimization settings:
+
+   1. Hold the cursor over the creative leaf node below the target node and do the following:
+   
+      * For existing bundles, click **[!UICONTROL ...]** > **[!UICONTROL Edit Bundles]**.
+      
+      * For new bundles, click **[!UICONTROL ...]** > **[!UICONTROL Assign Bundles]** and [assign the bundles](experience-assign-creative-bundles.md).
+
+  1. Click the **[!UICONTROL Creative Optimization]** tab.
 
 1. Disable **[!UICONTROL Schedule]**.  
 
 1. Select the creative rotation type for ad variants in the associated bundles:
 
-   * *[!UICONTROL Weighted]:* Shows ad variants in the associated creative bundles according to relative weights. Enter the weight for each bundle as a percentage. The weights for all selected bundles must add up to 100.<!-- For example, if Bundle 1 is 60 and Bundle 2 is 40, then Bundle 1 is shown 60% of the time, and Bundle 2 is shown 40% of the time. -->
+   * *[!UICONTROL Weighted]:* Shows ad variants in the associated creative bundles according to relative weights. Enter the weight for each bundle as a percentage. To apply equal weights to all associated bundles, click (![Apply equal weight](/help/creative/assets/apply-equal-weight.png "Apply equal weight")). The weights for all selected bundles must add up to 100.<!-- For example, if Bundle 1 is 60 and Bundle 2 is 40, then Bundle 1 is shown 60% of the time, and Bundle 2 is shown 40% of the time. -->
    
    * *[!UICONTROL Algorithmic]:* Shows the most effective ad variants more often, based on a specified goal.
    
@@ -48,7 +56,15 @@ You can optionally schedule specific creative bundles to run during specified, s
 
 When you use scheduling, you must schedule bundles through the duration of the experience.
 
-1. Hold the cursor over the creative leaf node below the target node and click **[!UICONTROL ...]** > **[!UICONTROL Creative Optimization]**.
+1. While you're [creating](experience-create-targeting.md) or [editing](experience-edit-targeting.md) the experience, open the creative optimization settings:
+
+   1. Hold the cursor over the creative leaf node below the target node and do the following:
+   
+      * For existing bundles, click **[!UICONTROL ...]** > **[!UICONTROL Edit Bundles]**.
+      
+      * For new bundles, click **[!UICONTROL ...]** > **[!UICONTROL Assign Bundles]** and [assign the bundles](experience-assign-creative-bundles.md).
+
+  1. Click the **[!UICONTROL Creative Optimization]** tab.
 
 1. Enable **[!UICONTROL Schedule]**.
 
@@ -56,11 +72,11 @@ When you use scheduling, you must schedule bundles through the duration of the e
 
    1. In the left column, select the check box next to each creative bundle to add to the first schedule.
    
-   1. Specify the start and end dates for the schedule.
+   1. Specify the start date and start time and the end date and end time for the schedule.
 
    1. Select the creative rotation type:
 
-      * *[!UICONTROL Weighted]:* Rotates the creatives in each bundle manually according to relative weights. Enter the weight for each bundle as a percentage. The weights for all selected bundles must add up to 100.
+      * *[!UICONTROL Weighted]:* Rotates the creatives in each bundle manually according to relative weights. Enter the weight for each bundle as a percentage. To apply equal weights to all bundles in the schedule, click (![Apply equal weight](/help/creative/assets/apply-equal-weight.png "Apply equal weight")). The weights for all selected bundles must add up to 100.
 
       * *[!UICONTROL Algorithmic]:* Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
 

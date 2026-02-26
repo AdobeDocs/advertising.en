@@ -22,13 +22,13 @@ When creative scheduling is disabled, the creative optimization settings apply t
      
    * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
-1. Hold the cursor over the row for the applicable ad tag and click ![Ad Schedule](/help/creative/assets/edit-gray.png "Edit tracking URLs") **[!UICONTROL Creative Optimization]**.<!-- Tag Manager has only a list view, but no card view, as of 2/2. >
+1. Hold the cursor over the row for the applicable ad tag and click ![Edit creative optimization](/help/creative/assets/edit-gray.png "Edit creative optimization") **[!UICONTROL Creative Optimization]**.<!-- Tag Manager has only a list view, but no card view, as of 2/2. >
 
 1. Disable **[!UICONTROL Schedule]**.
 
 1. Select the creative rotation type for ad variants in the associated bundles:
 
-   * *[!UICONTROL Weighted]:* Shows ad variants in the associated creative bundles according to relative weights. Enter the weight for each bundle as a percentage. The weights for all selected bundles must add up to 100.<!-- For example, if Bundle 1 is 60 and Bundle 2 is 40, then Bundle 1 is shown 60% of the time, and Bundle 2 is shown 40% of the time. -->
+   * *[!UICONTROL Weighted]:* Shows ad variants in the associated creative bundles according to relative weights. Enter the weight for each bundle as a percentage. To apply equal weights to all associated bundles, click (![Apply equal weight](/help/creative/assets/apply-equal-weight.png "Apply equal weight")). The weights for all selected bundles must add up to 100.<!-- For example, if Bundle 1 is 60 and Bundle 2 is 40, then Bundle 1 is shown 60% of the time, and Bundle 2 is shown 40% of the time. -->
    
    * *[!UICONTROL Algorithmic]:* Shows the most effective ad variants more often, based on a specified goal.
    
@@ -60,7 +60,7 @@ When you use scheduling, you must schedule creatives through the duration of the
      
    * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
-1. Hold the cursor over the row for the applicable ad tag and click ![Ad Schedule](/help/creative/assets/edit-gray.png "Edit tracking URLs") **[!UICONTROL Creative Optimization]**. <!-- For targeted experiences, this is "Edit Schedules" --><!-- Tag Manager has only a list view, but no card view, as of 2/2. >
+1. Hold the cursor over the row for the applicable ad tag and click ![Edit creative optimization](/help/creative/assets/edit-gray.png "Edit creative optimization") **[!UICONTROL Creative Optimization]**. <!-- For targeted experiences, this is "Edit Schedules" --><!-- Tag Manager has only a list view, but no card view, as of 2/2. >
 
 1. Enable **[!UICONTROL Schedule]**.
 
@@ -68,11 +68,11 @@ When you use scheduling, you must schedule creatives through the duration of the
 
    1. In the left column, select the check box next to each creative to add to the first schedule.
    
-   1. Specify the start and end dates for the schedule.
+   1. Specify the start date and start time and the end date and end time for the schedule.
 
    1. Select the creative rotation type:
 
-      * *[!UICONTROL Weighted]:* Rotates the creatives manually according to relative weights. Enter the weight for each creative as a percentage. The weights for all selected creatives must add up to 100.
+      * *[!UICONTROL Weighted]:* Rotates the creatives manually according to relative weights. Enter the weight for each creative as a percentage. To apply equal weights to all bundles in the schedule, click (![Apply equal weight](/help/creative/assets/apply-equal-weight.png "Apply equal weight")). The weights for all selected creatives must add up to 100.
 
       * *[!UICONTROL Algorithmic]:* Rotates the creatives algorithmically according to a specified optimization goal.
 
