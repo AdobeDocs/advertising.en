@@ -50,7 +50,7 @@ See "XXX" for information about supported ad networks and account structures.
 
      1. Click **[!UICONTROL Save]**.
 
-# Upload account data to an [!DNL Amazon] [!DNL S3] bucket {#data-upload-s3}
+## Upload account data to an [!DNL Amazon] [!DNL S3] bucket {#data-upload-s3}
 
 You can populate an account with campaign content and cost, click, and conversion data by uploading the data to a Search, Social, & Commerce-assigned folder in an [!DNL Amazon Web Services] (AWS) [!DNL Simple Storage Service] ([!DNL S3]) bucket.
 
