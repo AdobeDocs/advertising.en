@@ -29,8 +29,9 @@ All changes to objective options are tracked at the field level and are listed i
 >Before you can create custom goals, the DSP account must be linked to a Search, Social, & Commerce account with the same Adobe Experience Cloud organization ID, even if you aren't a Search, Social, & Commerce customer. If your DSP account isn't linked to a [!DNL Search, Social, & Commerce] account, then contact your Adobe Account Team.
 
 >[!NOTE]
+>
 >* Advertising Search, Social, & Commerce also uses objectives. Each Search, Social, & Commerce portfolio must have an objective so that the optimization capability can create click and revenue models for the portfolio.
->* You can use the same objective for multiple Search, Social, & Commerce portfolios and/or multiple DSP packages.
+>* You can use the same objective for multiple DSP packages and/or multiple Search, Social, & Commerce portfolios.
 
 <!-- Edit all this and below, including links 
 
