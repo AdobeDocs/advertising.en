@@ -28,8 +28,8 @@ Weight recommendations are automatically generated for DSP-attributed metrics in
 ## Best Practices for Building a Custom Goal {#custom-goal-best-practices}
 
 >[!TIP]
-   >
-   >For optimum performance, the combined metrics in the custom goal (objective) must total at least ten conversions per day. When they don't, the best practice is to add additional supporting conversion metrics, such as product pages or application starts, to the objective. See [Best Practices for Building a Custom Goal](#custom-goal-best-practices) for guidelines.
+>
+>For optimum performance, the combined metrics in the custom goal (objective) must total at least ten conversions per day. When they don't, the best practice is to add additional supporting conversion metrics, such as product pages or application starts, to the objective. See [Best Practices for Building a Custom Goal](#custom-goal-best-practices) for guidelines.
 
 ### Custom Goals with a Single Metric
 
