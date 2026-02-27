@@ -22,8 +22,6 @@ exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
 
 **[!UICONTROL Library]:** The creative library in which to create the ads. If you're creating the ads from within [!UICONTROL Creatives] > [!UICONTROL Creative Libraries], then the library name is already selected and read-only.
 
-**[!UICONTROL Ad Template Size]:** (Dynamic display ads only) The [ad dimensions](/help/creative/creative-libraries/creative-sizes.md) for the ad template from which to create the ad. If you first select a specific [!UICONTROL Ad Template], then this value is automatically selected.
-
 ## Ad Template
 
 **[!UICONTROL Ad Template]:** The ad template from which to create the ads. Select an existing ad template, or upload a new ad template and select the template type (*Static* or *Dynamic*). The template must be in ZIP format and contain:<!-- Need to add more specs for templates -->
@@ -34,13 +32,13 @@ exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
 
 To continue, click **[!UICONTROL Select Ad Template]**. 
 
+**[!UICONTROL Size]:** (Dynamic display ads only; read-only) The [ad dimensions](/help/creative/creative-libraries/creative-sizes.md) for the selected ad template, which is used to create the ads.
+
 **[!UICONTROL Card Count (Max 50)]:** (Display ads only) The number of products to show in a carousel.
 
 **[!UICONTROL Duration]:** (Video ads only; read-only) The video duration derived from the selected ad template. Each video's duration must be between 1-90 seconds.
 
 ## Catalogs
-
-**[!UICONTROL Template]:** The feed template to use to create the ads.
 
 **\[Catalogs\]**: One or more catalogs from which to generate ads. Select an existing catalog, or create a new catalog by downloading an existing feed template and creating and uploading the new catalog. Click **[!UICONTROL Select Catalog]**.
 
