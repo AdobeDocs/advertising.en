@@ -114,6 +114,9 @@ index: yes
     + Keywords {#keywords}
       + [About the [!UICONTROL Keywords] view](/help/search-social-commerce/new-ui/target/keywords/keyword-view-about.md)
       + [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
+    + Placements {#placements}
+      + [About the [!UICONTROL Placements] view](/help/search-social-commerce/new-ui/target/placements/placement-view-about.md)
+      + [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)
   + Setup {#setup}
     + Accounts {#accounts}
       + [About ad network accounts](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)

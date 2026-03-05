@@ -84,7 +84,9 @@ Your role determines the available options:<!-- add link when available -->
   
     To create, edit, and delete keywords and negative keywords, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-  * **[!UICONTROL Placements]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+  * **[!UICONTROL Placements]** Opens a new [!UICONTROL Placements] view, which shows existing placements and negative placements for the advertiser. You can manage constraint assignments for selected placements.
+  
+    To create, edit, and delete placements and negative placements, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
 * **[!UICONTROL Assets]** submenu:
 
