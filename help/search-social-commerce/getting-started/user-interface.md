@@ -78,9 +78,11 @@ Your role determines the available options:<!-- add link when available -->
 
 * **[!UICONTROL Target]** submenu:
 
-  * **[!UICONTROL Audience]**: Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view.
+  * **[!UICONTROL Audience]**: Opens a new [!UICONTROL Audiences] view, which shows all existing audiences for the advertiser. To manage your audiences, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-  * **[!UICONTROL Keywords]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+  * **[!UICONTROL Keywords]** Opens a new [!UICONTROL Keywords] view, which shows existing keywords and negative keywords for the advertiser. You can manage constraint assignments for selected keywords.
+  
+    To create, edit, and delete keywords and negative keywords, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
   * **[!UICONTROL Placements]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
 
