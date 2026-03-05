@@ -93,13 +93,14 @@ index: yes
       + [Assign campaigns to a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio)
       + [Remove campaigns from a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
       + [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
-      + [View a performance graph in the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-performance-graph.md)
       + [Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
     + Ad Groups {#ad-groups}
       + [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
       + [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)    
-      + [View a performance graph in the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-performance-graph.md)
       + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
+    + Ads {#ads}
+      + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
+      + [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
   + Reports {#reports}
     + Label classifications {#label-classifications}
       + [About label classifications](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-about)
