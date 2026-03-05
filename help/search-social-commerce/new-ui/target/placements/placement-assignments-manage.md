@@ -3,6 +3,7 @@ title: Manage constraint assignments for placements
 description: Learn how to assign constraints to placements.
 feature: Search Optimization, Search Campaign Management
 hide: yes
+exl-id: 325fb6b2-7f6f-41bc-bae7-9ee8590c6263
 ---
 # (New UI) Manage constraint assignments for placements
 

@@ -3,6 +3,7 @@ title: (New UI) About the [!UICONTROL Keywords] view
 description: Learn what you can do in the [!UICONTROL Keywords] view.
 feature: Search Optimization, Search Campaign Management
 hide: yes
+exl-id: e89e47d3-b41c-4330-8b72-f601194d5ddc
 ---
 # (New UI) About the [!UICONTROL Keywords] view
 
