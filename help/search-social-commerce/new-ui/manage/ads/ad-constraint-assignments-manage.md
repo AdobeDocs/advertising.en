@@ -84,4 +84,5 @@ You can assign a single constraint to one or more campaigns.
 >
 >* [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 >* [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
-[Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
+>* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
+>* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)
