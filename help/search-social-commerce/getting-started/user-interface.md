@@ -36,7 +36,7 @@ Your role determines the available options:<!-- add link when available -->
   
   * **[!UICONTROL Conversions]** Exits the new site and opens the legacy [!UICONTROL Admin] > [!UICONTROL Conversions] view.
 
-  * **[!UICONTROL Conversion Value Rules]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules] view.
+  * **[!UICONTROL Conversion Value Rules]** Opens read-only views of your campaign-level and account-level conversion value rules. To manage your conversion value rules, use the legacy [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules] view.
 
   * **[!UICONTROL Constraints]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Constraints] view.
 

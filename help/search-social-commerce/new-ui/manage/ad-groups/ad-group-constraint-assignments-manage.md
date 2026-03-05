@@ -76,3 +76,4 @@ Unassigning a constraint removes the association with the account components and
 >[!MORELIKETHIS]
 >
 >* [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
+>* [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)

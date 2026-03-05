@@ -1,11 +1,10 @@
 ---
-title: Manage constraint assignments for campaigns
-description: Learn how to assign constraints to campaigns.
+title: Manage constraint assignments for ads
+description: Learn how to assign constraints to ads.
 feature: Search Optimization, Search Campaign Management
 hide: yes
-exl-id: d886a228-24d7-4d8e-b68a-76e56b4304ed
 ---
-# (New UI) Manage constraint assignments for campaigns
+# (New UI) Manage constraint assignments for ads
 
 *Beta feature*
 
@@ -20,13 +19,13 @@ Unassigning a constraint removes the association with the account components and
 >* If you later edit a keyword or the ad copy for an ad &mdash; thereby creating a new keyword or ad &mdash; then the constraint isn't assigned to the new entity.
 >* Active constraints restrict bidding only for assigned bid units in optimized legacy keyword-level portfolios. They're ignored for bid units that are in active portfolios, are in hybrid portfolios, or aren't in portfolios. 
 
-## Assign a constraint to selected campaigns from the new [!UICONTROL Campaigns] view
+## Assign a constraint to selected ads from the new [!UICONTROL Ads] view
 
 You can assign a single constraint to one or more campaigns.
 
-1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Ads]**.
 
-1. Select the check box next to each campaign to which you'll assign a single constraint.
+1. Select the check box next to each ad to which you'll assign a single constraint.
 
 1. In the bulk actions toolbar, click **+ [!UICONTROL Assign]** > **[!UICONTROL Constraint]**.
 
@@ -54,11 +53,11 @@ You can assign a single constraint to one or more campaigns.
 
 1. Click **[!UICONTROL Save]**.
 
-## Unassign constraints from selected campaigns from the new [!UICONTROL Campaigns] view
+## Unassign constraints from selected campaigns from the new [!UICONTROL Ads] view
 
-1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Ads]**.
 
-1. Select the check box next to each campaign from which you'll unassign constraints.
+1. Select the check box next to each ad from which you'll unassign constraints.
 
 1. In the bulk actions toolbar, click **- [!UICONTROL Unassign]** > **[!UICONTROL Constraint]**.
 
@@ -82,5 +81,5 @@ You can assign a single constraint to one or more campaigns.
 
 >[!MORELIKETHIS]
 >
+>* [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 >* [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
->* [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
