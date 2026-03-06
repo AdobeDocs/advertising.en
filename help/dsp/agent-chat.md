@@ -7,6 +7,8 @@ feature: DSP Introduction, Creative Introduction
 
 *Support for the English language only*
 
+<!-- How will this work once we have unified shell, which has its own version of AI Assistant? -->
+
 Use an AI-assisted chat interface to quickly search for conceptual and how-to information about campaign management, troubleshooting, and other product features across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Responses are limited to documented concepts and topics available for these products within Experience League.
 
 >[!NOTE]
@@ -33,9 +35,13 @@ Your queries aren't shared with other users.
 
 * What are the consequences of using the different pacing options in placement settings?
 
+* When should I use each type of optimization goal?
+
 * What are the reasons that programmatic guaranteed (PG) placements don't serve impressions?
 
 * What types of reports include household-level data?
+
+* What's the difference between a targeted experience and a non-targeted experience in [!DNL Creative]?
 
 * How do I create an ad tag for a [!DNL Creative] experience?
 
