@@ -75,11 +75,13 @@ You can submit multiple questions in one query, but you can submit only one quer
 
   You can use a full question ("How do I subscribe to On-demand inventory?"), a verb/verb phrase for task-oriented information ("subscribe to On-demand inventory"), or a noun/noun phrase for conceptual information and all related tasks ("On-demand inventory").
 
+  * For objects or product-specific terms, such as "campaigns" or "deals," try to use terms as they appear within the user interface.
+
+  * The agent recognizes most common synonyms for generic terms (for example, "add," "attach," and "assign" will produce the same results).
+
   * Punctuation isn't required except when necessary for clarity.
 
   * In general, queries are case-insensitive.
-  
-  * The agent recognizes most common synonyms.
 
 * Be specific and provide details about all information that you want to include or exclude. The more details that you provide, the greater the chance that you'll find targeted information that meet your needs.
 
