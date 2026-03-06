@@ -1,16 +1,19 @@
 ---
-title: 
-description: Learn how to 
-feature: DSP Introduction,, DSP Introduction
+title: Search for product documentation using AI-assisted chat
+description: Learn how to search Adobe Advertising DSP and [!DNL Creative] documentation using the AI-assisted chat. Ask questions about campaign management, troubleshooting, and features; get answers with citations to Experience League docs and suggested follow-up prompts.
+feature: DSP Introduction, Creative Introduction
 ---
-# I
-
+# Search for product documentation using an AI-assisted chat interface
 
 *Support for the English language only*
 
-Search for information across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md) using an AI-assisted chat interface within [!DNL DSP] and [!DNL Creative]. For example, you can ask about the consequences of using the different pacing options in placement settings, the reasons why programmatic guaranteed (PG) placements don't serve impressions, or how to create an ad tag for a [!DNL Creative] experience. Responses are limited to documented concepts and topics available for these products in [Experience League documentation](https://experienceleague.adobe.com/en/docs/advertising).
+Use an AI-assisted chat interface to search for conceptual and how-to information about campaign management, troubleshooting, and other product features across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Responses are limited to documented concepts and topics available for these products in [Experience League documentation](https://experienceleague.adobe.com/en/docs/advertising).
 
-In addition to presenting a response with citations, the agent also suggests additional prompts and followup questions to help you refine your query and find more information.
+>[!NOTE]
+>
+>Queries won't return operational insights about your campaign/deal/audience configurations, statuses, or performance metrics, nor any other information about your own objects and settings within DSP or [!DNL Creative].
+
+In addition to presenting a comprehensive response with citations, the agent also suggests additional prompts and followup questions to help you refine your query and find more information.
 
 Your chat history is maintained so that you can reread previous queries and responses.
 
@@ -21,6 +24,20 @@ Your queries aren't shared with other users.
 >[!IMPORTANT]
 >
 >AI-generated responses may be inaccurate or misleading. Double-check AI-generated responses and the information sources before you use them for any task that may have a cost impact or require a non-trivial effort.
+
+![Example of a query and response](/help/dsp/assets/agentic-chat-response.png "Example of a query and response")
+
+## Example queries
+
+* How do I attach an ad to a placement?
+
+* What are the consequences of using the different pacing options in placement settings?
+
+* What are the reasons that programmatic guaranteed (PG) placements don't serve impressions?
+
+* What types of reports include household-level data?
+
+* How do I create an ad tag for a [!DNL Creative] experience?
 
 ## Submit a query
 
@@ -36,7 +53,7 @@ You can submit multiple questions in one query, but you can submit only one quer
    
    The agent may also display follow-up questions and suggestions.
 
-1. (Optional) To open a page used as a data source, do either of the following:
+1. (Optional) To open a page used as a data source so that you can review the cited information, do either of the following:
 
    * Click the numbered citation within the agent's response.
 
@@ -52,11 +69,20 @@ You can submit multiple questions in one query, but you can submit only one quer
 
   * For negative feedback, click ![Thumbs down](/help/dsp/assets/thumbs-down.png "Thumbs down").
 
+## Basics of writing prompts {#writing-prompts} 
 
-## Writing Prompts {#writing-prompts}
+* Use clear, descriptive language to describe the information you want to find.
 
+  You can use a full question ("How do I subscribe to On-demand inventory?"), a verb/verb phrase for task-oriented information ("subscribe to On-demand inventory"), or a noun/noun phrase for conceptual information and all related tasks ("On-demand inventory").
 
+  * Punctuation isn't required except when necessary for clarity.
 
+  * In general, queries are case-insensitive.
+  
+  * The agent recognizes most common synonyms.
 
+* Be specific and provide details about all information that you want to include or exclude. The more details that you provide, the greater the chance that you'll find targeted information that meet your needs.
 
+* Iteratively provide details as needed to refine your criteria.
 
+* Learn about effective prompting through experimentation.

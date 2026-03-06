@@ -64,7 +64,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
    >
    >You can't later edit the audience using the audience agent. Instead, [edit the audience expression manually](/help/dsp/audiences/reusable-audience-edit.md).
 
-## Basics of Writing Prompts {#writing-prompts}
+## Basics of Writing Prompts {#writing-prompts} 
 
 ### What should a prompt include?
 
