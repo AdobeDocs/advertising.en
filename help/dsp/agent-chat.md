@@ -7,7 +7,7 @@ feature: DSP Introduction, Creative Introduction
 
 *Support for the English language only*
 
-Use an AI-assisted chat interface to search for conceptual and how-to information about campaign management, troubleshooting, and other product features across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Responses are limited to documented concepts and topics available for these products in [Experience League documentation](https://experienceleague.adobe.com/en/docs/advertising).
+Use an AI-assisted chat interface to search for conceptual and how-to information about campaign management, troubleshooting, and other product features across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Responses are limited to documented concepts and topics available for these products within Experience League.
 
 >[!NOTE]
 >
@@ -83,7 +83,7 @@ You can submit multiple questions in one query, but you can submit only one quer
 
   * In general, queries are case-insensitive.
 
-* Be specific and provide details about all information that you want to include or exclude. The more details that you provide, the greater the chance that you'll find targeted information that meet your needs.
+* Be specific and provide details about all information that you want to include or exclude. The more details that you provide, the greater the chance that you'll find targeted information that meet your needs without being too much.
 
 * Iteratively provide details as needed to refine your criteria.
 
