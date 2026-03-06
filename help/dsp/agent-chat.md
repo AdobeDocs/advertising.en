@@ -7,7 +7,7 @@ feature: DSP Introduction, Creative Introduction
 
 *Support for the English language only*
 
-Use an AI-assisted chat interface to search for conceptual and how-to information about campaign management, troubleshooting, and other product features across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Responses are limited to documented concepts and topics available for these products within Experience League.
+Use an AI-assisted chat interface to quickly search for conceptual and how-to information about campaign management, troubleshooting, and other product features across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Responses are limited to documented concepts and topics available for these products within Experience League.
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Your queries aren't shared with other users.
 
 <!-- True for us? No personal data is used for training, and all access control policies are honored. Interaction logs are retained for 30 days. -->
 
+![Example of a query and response](/help/dsp/assets/agentic-chat-response.png "Example of a query and response")
+
 >[!IMPORTANT]
 >
 >AI-generated responses may be inaccurate or misleading. Double-check AI-generated responses and the information sources before you use them for any task that may have a cost impact or require a non-trivial effort.
-
-![Example of a query and response](/help/dsp/assets/agentic-chat-response.png "Example of a query and response")
 
 ## Example queries
 
