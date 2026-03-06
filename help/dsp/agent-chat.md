@@ -9,11 +9,7 @@ feature: DSP Introduction, Creative Introduction
 
 <!-- How will this work once we have unified shell, which has its own version of AI Assistant? -->
 
-Use an AI-assisted chat interface to quickly search for conceptual and how-to information about campaign management, troubleshooting, and other product features across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Responses are limited to documented concepts and topics available for these products within Experience League.
-
->[!NOTE]
->
->Queries won't return operational insights about your campaign/deal/audience configurations, statuses, or performance metrics, nor any other information about your own objects and settings within DSP or [!DNL Creative].
+Use an AI-assisted chat interface to quickly search for conceptual, how-to, and troubleshooting information about campaign management, optimization, audience management, deals, reports, and other product features across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Responses are limited to documented information for these products within Experience League.
 
 In addition to presenting a comprehensive response with citations, the agent also suggests additional prompts and followup questions to help you refine your query and find more information.
 
@@ -44,6 +40,10 @@ Your queries aren't shared with other users.
 * What's the difference between a targeted experience and a non-targeted experience in [!DNL Creative]?
 
 * How do I create an ad tag for a [!DNL Creative] experience?
+
+>[!NOTE]
+>
+>Queries won't return operational insights about your campaign/deal/audience configurations, statuses, or performance metrics, nor any other information about your own objects and settings within DSP or [!DNL Creative].
 
 ## Submit a query
 
