@@ -49,7 +49,7 @@ You can submit multiple questions in one query, but you can submit only one quer
 
    For more information, see "[Writing Prompts](#writing-prompts)."
 
-   The agent responds to your questions. The response cites the data sources used in each paragraph and also in a complete [!UICONTROL Documentation Sources] list at the bottom.
+   The agent's response cites the data sources used in each paragraph and also in a complete [!UICONTROL Documentation Sources] list at the bottom.
    
    The agent may also display follow-up questions and suggestions.
 
