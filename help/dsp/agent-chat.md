@@ -43,7 +43,7 @@ Your queries aren't shared with other users.
 
 You can submit multiple questions in one query, but you can submit only one query at a time. Wait for a response before submitting a new query.
 
-1. In the upper right, click ![Agentic Chat](/help/dsp/assets/agentic-chat.png "Agentic chat").
+1. In the upper right of any page, click ![Agentic Chat](/help/dsp/assets/agentic-chat.png "Agentic chat").
 
 1. Enter your query and click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
 
