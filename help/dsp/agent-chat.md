@@ -1,6 +1,8 @@
 ---
 title: Search for product documentation using AI-assisted chat
-description: Learn how to search Adobe Advertising DSP and [!DNL Creative] documentation using the AI-assisted chat. Ask questions about campaign management, troubleshooting, and features; get answers with citations to Experience League docs and suggested follow-up prompts.
+description: Learn how to search Adobe Advertising DSP and [!DNL Creative] documentation using AI-assisted chat. Get answers with citations and suggested follow-up prompts.
+
+Learn how to search Adobe Advertising DSP and Creative documentation using AI-assisted chat. Get answers with citations and suggested follow-up prompts.
 feature: DSP Introduction, Creative Introduction
 ---
 # Search for product documentation using an AI-assisted chat interface
@@ -9,23 +11,23 @@ feature: DSP Introduction, Creative Introduction
 
 <!-- How will this work once we have unified shell, which has its own version of AI Assistant? -->
 
-Use an AI-assisted chat interface to quickly search for conceptual, how-to, and troubleshooting information about campaign management, optimization, audience management, deals, reports, and other product features across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Responses are limited to documented information for these products within Experience League.
+Use the AI chat interface to search for conceptual and how-to content across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Answers are based only on what's documented for these products in [Experience League](https://experienceleague.adobe.com/en/docs/advertising).
 
-In addition to presenting a comprehensive response with citations, the agent also suggests additional prompts and followup questions to help you refine your query and find more information.
+Responses include citations as well as additional prompts and followup questions to help you refine your query and find more information. Your chat history is maintained, and your queries aren't shared with other users.
 
-Your chat history is maintained so that you can reread previous queries and responses.
-
-Your queries aren't shared with other users.
-
-<!-- True for us? No personal data is used for training, and all access control policies are honored. Interaction logs are retained for 30 days. -->
+>[!NOTE]
+>
+>Queries don't return data about your account, such as campaign, deal, or audience configurations, statuses, or performance.
 
 ![Example of a query and response](/help/dsp/assets/agentic-chat-response.png "Example of a query and response")
 
 >[!IMPORTANT]
 >
->AI-generated responses may be inaccurate or misleading. Double-check AI-generated responses and the information sources before you use them for any task that may have a cost impact or require a non-trivial effort.
+>AI-generated responses may be inaccurate or misleading. Always verify responses and sources before using them for decisions that affect cost or effort.
 
 ## Example queries
+
+You can ask about campaign management, optimization, audience management, deals, reports, and other product features. The following are examples:
 
 * How do I attach an ad to a placement?
 
@@ -33,21 +35,17 @@ Your queries aren't shared with other users.
 
 * When should I use each type of optimization goal?
 
-* What are the reasons that programmatic guaranteed (PG) placements don't serve impressions?
+* Why don't programmatic guaranteed (PG) placements serve impressions?
 
-* What types of reports include household-level data?
+* Which reports include household-level data?
 
 * What's the difference between a targeted experience and a non-targeted experience in [!DNL Creative]?
 
 * How do I create an ad tag for a [!DNL Creative] experience?
 
->[!NOTE]
->
->Queries won't return operational insights about your campaign/deal/audience configurations, statuses, or performance metrics, nor any other information about your own objects and settings within DSP or [!DNL Creative].
-
 ## Submit a query
 
-You can submit multiple questions in one query, but you can submit only one query at a time. Wait for a response before submitting a new query.
+You can ask multiple questions in one message, but only one message at a time. Wait for a response before sending another.
 
 1. In the upper right of any page, click ![Agentic Chat](/help/dsp/assets/agentic-chat.png "Agentic chat").
 
@@ -55,13 +53,11 @@ You can submit multiple questions in one query, but you can submit only one quer
 
    For more information, see "[Writing Prompts](#writing-prompts)."
 
-   The agent's response cites the data sources used in each paragraph and also in a complete [!UICONTROL Documentation Sources] list at the bottom.
-   
-   The agent may also display follow-up questions and suggestions.
+   The response includes inline citations and a **[!UICONTROL Documentation Sources]** list at the bottom. Follow-up quetions and suggestions may also appear.
 
-1. (Optional) To open a page used as a data source so that you can review the cited information, do either of the following:
+1. (Optional) To open a page used as a data source, do either of the following:
 
-   * Click the numbered citation within the agent's response.
+   * Click the numbered citation.
 
    * Click **[!UICONTROL Documentation Sources]** to show a list of all pages cited in the response, and then click the page link.
 
@@ -69,28 +65,20 @@ You can submit multiple questions in one query, but you can submit only one quer
 
 <!-- Not actionable in terms of improving page content -->
 
-* In the agent's response, next to the [!UICONTROL Documentation Sources] list:
+* Next to the [!UICONTROL Documentation Sources] list:
 
-  * For positive feedback, click ![Thumbs up](/help/dsp/assets/thumbs-up.png "Thumbs up").
+  * For helpful responses, click ![Thumbs up](/help/dsp/assets/thumbs-up.png "Thumbs up").
 
-  * For negative feedback, click ![Thumbs down](/help/dsp/assets/thumbs-down.png "Thumbs down").
+  * For unhelpful responses, click ![Thumbs down](/help/dsp/assets/thumbs-down.png "Thumbs down").
 
-## Basics of writing prompts {#writing-prompts} 
+## Basics of writing prompts {#writing-prompts}
 
-* Use clear, descriptive language to describe the information you want to find.
+* **Be clear and specific.** Use full questions ("How do I subscribe to On-demand inventory?"), task phrases ("subscribe to On-demand inventory"), or topic phrases ("On-demand inventory").
 
-  You can use a full question ("How do I subscribe to On-demand inventory?"), a verb/verb phrase for task-oriented information ("subscribe to On-demand inventory"), or a noun/noun phrase for conceptual information and all related tasks ("On-demand inventory").
+* **Match UI terms** when possible for product features (such as "campaigns" or "deals").
 
-  * For objects or product-specific terms, such as "campaigns" or "deals," try to use terms as they appear within the user interface.
+  For common actions (such as "add," "attach," or "assign"), you can use synonyms.
 
-  * The agent recognizes most common synonyms for generic terms (for example, "add," "attach," and "assign" will produce the same results).
+* **Add detail** to narrow or broaden results. Refine with follow-up questions as needed.
 
-  * Punctuation isn't required except when necessary for clarity.
-
-  * In general, queries are case-insensitive.
-
-* Be specific and provide details about all information that you want to include or exclude. The more details that you provide, the greater the chance that you'll find targeted information that meet your needs without being too much.
-
-* Iteratively provide details as needed to refine your criteria.
-
-* Learn about effective prompting through experimentation.
+* **Don't worry about punctuation and capitalization** except when they affect meaning.
