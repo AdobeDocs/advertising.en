@@ -21,7 +21,7 @@ Responses include citations as well as additional prompts and followup questions
 >
 >Queries don't return data about your account, such as campaign, deal, or audience configurations, statuses, or performance. They also don't help you troubleshoot issues.
 
-![Example of a query and response](/help/dsp/assets/agentic-chat-response.png "Example of a query and response")
+![Example of a query and response](/help/dsp/assets/agent-chat-response.png "Example of a query and response")
 
 >[!IMPORTANT]
 >
@@ -49,7 +49,7 @@ You can ask about campaign management, optimization, audience management, deals,
 
 You can ask multiple questions in one message, but only one message at a time. Wait for a response before sending another.
 
-1. In the upper right of any page, click ![Agentic Chat](/help/dsp/assets/agentic-chat.png "Agentic chat").
+1. In the upper right of any page, click ![Agentic Chat](/help/dsp/assets/agent-chat.png "Agentic chat").
 
 1. Enter your query and click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
 
