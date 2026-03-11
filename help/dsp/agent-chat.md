@@ -17,7 +17,7 @@ Responses include citations as well as additional prompts and followup questions
 
 >[!NOTE]
 >
->Queries don't return data about your account, such as campaign, deal, or audience configurations, statuses, or performance.
+>Queries don't return data about your account, such as campaign, deal, or audience configurations, statuses, or performance. They also don't help you troubleshoot issues.
 
 ![Example of a query and response](/help/dsp/assets/agentic-chat-response.png "Example of a query and response")
 
