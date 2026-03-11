@@ -8,11 +8,15 @@ exl-id: 88059f73-6da3-4deb-b4ef-fa8e8eaec569
 
 <!-- Can remove this page when we move this into DSP help -->
 
-You can open online help from any page within the user interface. If the online help doesn't answer your questions, contact us.
+You can submit an AI-assisted query across all [!DNL Creative] and (advertisers with Advertising DSP) [!DNL DSP] documentation or open a full user guide for [!DNL Creative]. If the documentation doesn't answer your questions, contact us.
 
-## Open online help
+## Search for information using an AI-assisted chat interface
 
-To open a full help set explaining how to use all features, click **[!UICONTROL Help]** in the main menu, and open the "[!DNL Creative]" chapter. 
+See "[Search for product documentation using an AI-assisted chat interface](/help/dsp/agent-chat.md)."
+
+## Open a full user guide
+
+To open a full user guide explaining how to use all features, click **[!UICONTROL Help]** in the main menu, and open the "[!DNL Creative]" chapter. 
 
 <!--
 ## Ask the Adobe Advertising community
