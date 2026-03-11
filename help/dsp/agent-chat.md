@@ -7,7 +7,9 @@ hide: yes
 ---
 # Search for product documentation using an AI-assisted chat interface
 
-*Support for the English language only*
+*Beta feature*
+
+*Support for English only*
 
 <!-- How will this work once we have unified shell, which has its own version of AI Assistant? -->
 

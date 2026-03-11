@@ -10,7 +10,7 @@ exl-id: 82c9f122-2bdd-409f-a4d6-1da21ecbe913
 
 *Beta feature*
 
-*Prompts in the English language only*
+*Support for English only*
 
 <!-- I thought it was all segment types? -->
 
