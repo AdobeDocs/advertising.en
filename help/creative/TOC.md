@@ -33,6 +33,7 @@ breadcrumb-title: Creative Guide
     + [Attach creatives to bundles](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
     + [Duplicate creatives](/help/creative/creative-libraries/creative-duplicate.md)
     + [Download creatives](/help/creative/creative-libraries/creative-download.md)
+    + [View the change log for a creative](/help/creative/creative-libraries/creative-view-change-log.md)
     + [Delete creatives](/help/creative/creative-libraries/creative-delete.md)
   + Creative bundles {#bundles}
     + [Manage creative bundles](/help/creative/creative-libraries/bundle-manage.md)
