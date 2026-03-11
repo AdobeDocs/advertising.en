@@ -34,6 +34,10 @@ You can save and manage reusable audiences, which are groups of audience segment
 
    * To manually create the segment logic, using segments available on the [[!UICONTROL Third Party Segments], [!UICONTROL First Party Segments], [!UICONTROL Adobe Segments], [!UICONTROL Custom Segments], and [!UICONTROL Saved Audiences] tabs](audience-settings.md), do the following.
 
+     * (Optional) Search for a segment name, description, or path.
+
+       Search results include segments based on the exact terms you use. When you enter multiple terms, all of the terms must be found for a segment.
+
      * To add the first segment, locate the segment in the left panel, and select the check box next to the segment name.
 
      * To add a segment to an existing segment group:
