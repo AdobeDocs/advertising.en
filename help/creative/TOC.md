@@ -71,6 +71,7 @@ breadcrumb-title: Creative Guide
   + [Share a demo URL for an experience](/help/creative/experiences/experience-share-demo-url.md)
   + [Download data from the [!UICONTROL Experiences] view](/help/creative/experiences/experience-download-view.md)
   + [Rename an ad tag](/help/creative/experiences/experience-tag-rename.md)
+  + [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)
   + [Delete an experience](/help/creative/experiences/experience-delete.md)
 + Feeds {#feeds}
   + [Manage asset files](/help/creative/feeds/asset-manage.md)

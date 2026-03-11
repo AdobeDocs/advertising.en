@@ -45,3 +45,4 @@ Create an ad experience without targeting. Each experience can use ads from a si
 >* [Customize the tracking URLs for an experience without targeting](/help/creative/experiences/experience-tracking-urls-no-targeting.md)
 >* [Customize creative optimization and scheduling for an experience without targeting](/help/creative/experiences/experience-optimization-scheduling-no-targeting.md)
 >* [Export and implement an ad experience tag for a live experience](/help/creative/experiences/experience-tag-export.md)
+>* [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)

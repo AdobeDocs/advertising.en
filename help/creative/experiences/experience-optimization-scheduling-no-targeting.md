@@ -121,3 +121,4 @@ When you use scheduling, you must schedule creatives through the duration of the
 >* [Manually create an ad tag for an applicable creative size](/help/creative/experiences/experience-tag-create-manually.md)
 >* [Assign creatives to an ad tag for experiences without targeting](experience-tag-assign-creatives.md)
 >* [Customize the tracking URLs for an experience without decision tree targeting](experience-tracking-urls-no-targeting.md)
+>* [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)

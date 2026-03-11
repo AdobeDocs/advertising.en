@@ -124,3 +124,4 @@ When you use scheduling, you must schedule bundles through the duration of the e
 >
 >* [Assign and unassign creative bundles to a final node in an experience](/help/creative/experiences/experience-assign-creative-bundles.md)
 >* [Customize the tracking URLs for creatives](/help/creative/experiences/experience-tracking-urls-targeting.md)
+>* [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)
