@@ -16,7 +16,7 @@ exl-id: 30feb866-cc8c-4760-af94-2b2e08ebb361
 
 Use the AI chat interface to search for conceptual and how-to content across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Answers are based only on what's documented for these products in [Experience League](https://experienceleague.adobe.com/en/docs/advertising).
 
-Responses include citations as well as additional prompts and followup questions to help you refine your query and find more information. Your chat history is maintained, and your queries aren't shared with other users.
+Responses include citations as well as additional prompts and follow-up questions to help you refine your query and find more information. Your chat history is maintained, and your queries aren't shared with other users.
 
 >[!NOTE]
 >
@@ -56,7 +56,7 @@ You can ask multiple questions in one message, but only one message at a time. W
 
    For more information, see "[Writing Prompts](#writing-prompts)."
 
-   The response includes inline citations and a **[!UICONTROL Documentation Sources]** list at the bottom. Follow-up quetions and suggestions may also appear.
+   The response includes inline citations and a **[!UICONTROL Documentation Sources]** list at the bottom. Follow-up questions and suggestions may also appear.
 
 1. (Optional) To open a page used as a data source, do either of the following:
 
