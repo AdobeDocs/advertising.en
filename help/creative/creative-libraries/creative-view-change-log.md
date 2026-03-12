@@ -2,6 +2,7 @@
 title: View the change log for a creative
 description: Learn how to view details about changes to a creative during a specified time range, including who made the change.
 feature: Creative Standard Creatives
+exl-id: 3ab23f6f-9f40-4478-aebb-8f70105c5c1c
 ---
 # View the change log for a creative
 

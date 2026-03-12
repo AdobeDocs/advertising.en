@@ -2,6 +2,7 @@
 title: View the change log for an experience
 description: Learn how to view details about changes to an experience during a specified time range, including who made the change.
 feature: Creative Experiences
+exl-id: 124cc524-569b-4826-a4a2-9401b7c8daba
 ---
 # View the change log for an experience
 
