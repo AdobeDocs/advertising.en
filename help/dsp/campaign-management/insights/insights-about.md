@@ -78,6 +78,29 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
   * **Moderate impact**
   * **Limited impact:** Needs attention
 
+### [!UICONTROL Audience Analysis] Tab
+
+The [!UICONTROL Audience Analysis] tab provides granular, real-time insights into audience targeting effectiveness for your campaigns a specified placement. Use these insights to identify issues such as low match rates, drop-offs in eligibility, and missed opportunities from exclusions.<!-- Link those effects to specific info in the charts -->
+
+By default, data is shown<!--  across packages? for what entities? --> for a specific advertiser. You can optionally configure filters to show data for a different advertiser, across packages <!-- I don't see the option to select packages as of 3/12 -- only placements -->or placements, or for a specific package or placement.
+
+The insights include:
+
+* **[!UICONTROL Audience Segment Size Trends]:**  Shows how the number of unique users in the selected audience segment [I don't see a place to select a segment) for a selected placement changes over time <!-- by day is the only option -->. Use this to track the volume and health of your target pool over time.
+
+* **[!UICONTROL Audience Funnel Analysis]:**  A 24-hour snapshot (D-3<!-- ??? 3-D? -->) showing how your target audience narrows from the total available pool to actual impression wins after all targeting and eligibility filters are applied.<!-- "Placement" is the only option, which shows data at the placement level -->
+
+<!-- Anything from PRD to use?:
+
+As an AdOps Specialist, I want package/placement-level audience metrics with run-time funnel views, so I can pinpoint eligibility drop-offs.
+As an MSC Team Member, I want converters and missed opportunity views, so I can evaluate exclusion impacts.
+
+As an AdOps Specialist, I want run-time sketch intersections for holistic targeting analysis, so I can estimate eligible audiences dynamically.
+As a Campaign Manager, I want to understand my targetable Audience Size, so I can plan budgets and pacing accurately.
+As an MSC Team Member, I want audience quality funnels with CVR at each stage, so I can optimize reach and conversions.
+
+-->
+
 ## Open Performance Insights
 
 * (To open insights for all campaigns) In the main menu, click **[!UICONTROL Insights BETA]**.
@@ -96,13 +119,15 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
 
 1. Click **[!UICONTROL Apply]**.
 
-1. (Optional) To narrow down the data further, select the entity type in the toolbar, and then select a specific entity value (a single campaign, package, or placement).
+1. (Optional) To narrow down the data further, select the dimension type in the toolbar, and then select a specific dimension (a single campaign, package, or placement).
 
 ## Change the Dimension Reported for an Insight
 
 * From the drop-down menu to the upper left of the insight, select the dimension.
 
 ## Change the Metrics Reported for an Insight
+
+*Available for some insights*
 
 For conversion metrics, support is available for both Adobe Advertising-tracked and Adobe Analytics-tracked conversions.
 
@@ -112,7 +137,7 @@ For conversion metrics, support is available for both Adobe Advertising-tracked 
 
 ## Export All Visualizations for a Tab to a PDF File
 
-* Above the tab, click **[!UICONTROL ...]** > **[!UICONTROL Export]**.
+* In the upper right above the tab, click **[!UICONTROL ...]** > **[!UICONTROL Export]**.
 
   The file is saved to your browser's default Downloads folder.
 
@@ -121,6 +146,12 @@ For conversion metrics, support is available for both Adobe Advertising-tracked 
 * To the upper right of the insight, click ![Download](/help/creative/assets/download.png "Download").
 
   The file is saved to your browser's default Downloads folder.
+
+<!-- Add:
+
+## Save a custom view for a tab
+
+-->
 
 >[!MORELIKETHIS]
 >
