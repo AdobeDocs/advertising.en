@@ -80,15 +80,20 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
 
 ### [!UICONTROL Audience Analysis] Tab
 
-The [!UICONTROL Audience Analysis] tab provides granular, real-time insights into audience targeting effectiveness for your campaigns a specified placement. Use these insights to identify issues such as low match rates, drop-offs in eligibility, and missed opportunities from exclusions.<!-- Link those effects to specific info in the charts -->
+The [!UICONTROL Audience Analysis] tab provides granular, real-time insights into audience targeting effectiveness for your campaigns with CPA placements<!-- verify that caveat applies to both insights -->. Use these insights to identify issues such as low match rates, drop-offs in eligibility, and missed opportunities caused by exclusions.<!-- Link those effects to specific info in the charts -->
 
-By default, data is shown<!--  across packages? for what entities? --> for a specific advertiser. You can optionally configure filters to show data for a different advertiser, across packages <!-- I don't see the option to select packages as of 3/12 -- only placements -->or placements, or for a specific package or placement.
+<!-- Clarify the entities reported by default and optional -->By default, data is shown<!--  across packages? for what entities? --> for a specific advertiser. You can optionally configure filters to show data for a different advertiser, across packages or placements, or for a specific package or placement.<!-- I don't see the option to select packages as of 3/12 -- only placements. Also, how does that entity selector at the top work with the entity selector in the Audience Funnel Analysis insight? -->
 
 The insights include:
 
-* **[!UICONTROL Audience Segment Size Trends]:**  Shows how the number of unique users in the selected audience segment [I don't see a place to select a segment) for a selected placement changes over time <!-- by day is the only option -->. Use this to track the volume and health of your target pool over time.
+* **[!UICONTROL Audience Segment Size Trends]:** A trend chart shows the daily or weekly<!-- verify --> number of unique users in the aggregated audience <!-- audience that was actually served impressions, or potential audience? -->. Use this insight to track the volume and health of your target pool over time. To see the segment size for a specific point, hold the cursor over the point.
 
-* **[!UICONTROL Audience Funnel Analysis]:**  A 24-hour snapshot (D-3<!-- ??? 3-D? -->) showing how your target audience narrows from the total available pool to actual impression wins after all targeting and eligibility filters are applied.<!-- "Placement" is the only option, which shows data at the placement level -->
+* **[!UICONTROL Audience Funnel Analysis]:**  A daily time-series table showing how your target audience narrows from the total available pool to actual impression wins after all targeting and eligibility filters are applied.<!-- "Placement" is the only option, which shows data at the placement level? Clarify. Also, the PRD shows two charts, one with data for cookies and the other for devices. Clarify if there will be two charts, and how they'll be labelled/configured/filtered differently. --> Metrics include
+**[!UICONTROL Audience Size<!--in UDB <!-- are we using "UDB? -->]**,  
+**[!UICONTROL Cookies<!-- i.e., appearing --> in Bid Stream]** (Non-bids + Bids) for 1 day (yesterday).
+**[!UICONTROL Eligible Cookies (Filtered)]** (cookies in the bid stream filtered by geo, then device type and then by OS/browser), **[!UICONTROL Cookies bid on]** (Cookies bid on by placement in 1 day), and **[!UICONTROL Impression Wins]** (Cookies in impression wins in 1 day for placement).<!-- Edit all wording -->
+
+
 
 <!-- Anything from PRD to use?:
 
@@ -101,13 +106,17 @@ As an MSC Team Member, I want audience quality funnels with CVR at each stage, s
 
 -->
 
-## Open Performance Insights
+## View Performance Insights
 
-* (To open insights for all campaigns) In the main menu, click **[!UICONTROL Insights BETA]**.
+1. Open a set of insights:
 
-* (To open insights for a specific campaign, package, or placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Insights]**.
+   * (To open insights for all campaigns) In the main menu, click **[!UICONTROL Insights BETA]**.
 
-* (To open insights for a specific placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Analyze]** > **[!UICONTROL Insights]** .
+   * (To open insights for a specific campaign, package, or placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Insights]**.
+
+   * (To open insights for a specific placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Analyze]** > **[!UICONTROL Insights]** .
+
+1. (Optional) To view data for any point on the 
 
 ## Apply Filters to a Tab
 
@@ -120,6 +129,8 @@ As an MSC Team Member, I want audience quality funnels with CVR at each stage, s
 1. Click **[!UICONTROL Apply]**.
 
 1. (Optional) To narrow down the data further, select the dimension type in the toolbar, and then select a specific dimension (a single campaign, package, or placement).
+
+1. ([!UICONTROL Audience Funnel Analysis only; optional) To change the time increments between daily and weekly, select **[!UICONTROL Day]** or **[!UICONTROL Week]**.
 
 ## Change the Dimension Reported for an Insight
 
