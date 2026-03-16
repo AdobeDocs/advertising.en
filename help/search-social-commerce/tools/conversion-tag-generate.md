@@ -1,18 +1,20 @@
 ---
-title: Generate an Adobe Advertising conversion-tracking tag
+title: Generate and implement an Adobe Advertising conversion-tracking tag
 description: Learn how to create an Adobe Advertising conversion tag to track your conversion events.
 exl-id: 02492162-96a0-4a91-8896-dd0f72199f79
 feature: Search Tools, Search Tracking
 ---
-# Generate an Adobe Advertising conversion-tracking tag
-
+# Generate and implement an Adobe Advertising conversion-tracking tag
+ 
 *Advertisers with Adobe Advertising conversion tracking only*
 
-Create a separate conversion tag for each set of metrics that you want to track, and provide the tags to the advertiser or agency with a list of webpages on which to insert each.
+Create a separate conversion tag for each set of metrics that you want to track. 
+
+## Generate and implement a conversion-tracking tag within Search, Social, & Commerce
 
 >[!NOTE]
 >
->This feature doesn't add image tags or [!DNL JavaScript] tags to the advertiser's webpages. The tags must be added according to the advertiser's normal procedure for updating webpages.
+>This feature doesn't add image tags or [!DNL JavaScript] tags to the advertiser's webpages. Provide the tags to the advertiser or agency with a list of webpages on which to insert each. The tags must be added according to the advertiser's normal procedure for updating webpages.
 
 1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Conversion Tags]**.
 
@@ -30,7 +32,7 @@ Create a separate conversion tag for each set of metrics that you want to track,
 >
 >Each metric in the new conversion tag is automatically listed in [!UICONTROL Admin] > [!UICONTROL Conversions], even if it isn't implemented or the webpages it's on haven't received any clicks. This behavior is different from the behavior of metrics in tags created manually or elsewhere, which aren't listed in [!UICONTROL Admin] > [!UICONTROL Conversions] until one of the webpages it's on has received a click. In all cases, however, each metric is initially excluded from portfolio objectives, reports, and views until you explicitly make them available. Before you add the metrics to portfolio objectives, however, consider first making the metrics available and adding them to reports to verify when they receive clicks.
 
-## Adobe Advertising conversion tag settings {#conversion-tag-settings}
+### Adobe Advertising conversion tag settings {#conversion-tag-settings}
 
 **[!UICONTROL Tag Type]:** The type of tag to create:
 
@@ -65,7 +67,73 @@ If the data doesn't include a unique ID per transaction, then Adobe Advertising 
 **[!UICONTROL JS Version]:** ([!DNL JavaScript] tags only) Which version of the [!DNL JavaScript] tag to create: *[!UICONTROL v2]* (the default) or *[!UICONTROL v3]*.
 
 See "[FAQs about Adobe Advertising conversion and page view tracking tags](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)." for more information about the differences.
- 
+
+## Implement conversion-tracking tags using Adobe Experience Platform tags
+
+You can set up conversion tracking for Search, Social, & Commerce using tags in Adobe Experience Platform (formerly known as Adobe Experience Platform Launch). Tags are available to Adobe Experience Cloud customers as an included, value-add feature.
+
+The following tasks are required to configure conversion tracking tags for Search, Social, & Commerce from the Experience Platform user interface or from the Experience Platform Data Collection user interface. For full information and instructions for configuring tags, see the Experience Platform Tags Guide, beginning with the "[Tags overview](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home)" and "[Quickstart guide](https://experienceleague.adobe.com/en/docs/experience-platform/tags/get-started/quick-start)."
+
+>[!PREREQUISITE]
+>
+>To install the required tag extension, ask your organization administrator for access to Data Collection features in the UI, including the `manage_properties` permission.
+
+1. From the [Data Collection UI](https://experience.adobe.com/#/data-collection/), install the Adobe Advertising [Extension](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/extensions/overview):
+
+   1. From the applicable property, open the extension catalog and select **Adobe Advertising**.
+   
+   1. From the pulldown menu, select **SSC** (for Search, Social, & Commerce).
+
+   1. In the **SSC UserID** field, enter the numeric user ID for your  organization's Search, Social, & Commerce account.
+
+      If you don't know your user ID, contact your Adobe Account Team.
+
+   1. Click **Save**.
+
+1. Create a new rule (for example, "form_completes") to trigger the Search, Social, & Commerce conversion tag:
+
+   1. In the Event Configuration section:
+   
+      1. Select the following values:
+   
+         **Extension:** `Core`
+      
+         **Event Type:** `Library Loaded (Page Top)`
+      
+      1. Click **Keep Changes**.
+
+   1. In the Condition Configuration section:
+   
+      1. Specify the following values:
+   
+         **Logic Type:** `Regular`
+      
+         **Extension:** `Core`
+
+         **Condition Type:** `Path Without Query String`
+         
+         **Return true if path equals:** The path where the conversion should be tracked (for example, `/form_complete`).
+      
+      1. Click **Keep Changes**.
+
+   1. In the Action Configuration section:
+   
+      1. Specify the following values:
+      
+         **Extension:** `Adobe Advertising`
+
+         **Action Type:** `AMO Measurement`
+         
+         **Conversion Property Name:** The name of the conversion property (for example, `form_completes`).
+
+         **Value:** The numeric value of the conversion property (for example `1` to track form_completes), or choose an existing [data element](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/data-elements).
+      
+      1. Click **Keep Changes**.
+
+   1. Save the rule.
+   
+1. Publish the changes.
+
 >[!MORELIKETHIS]
 >
 >* [About Adobe Advertising conversion-tracking tags](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)

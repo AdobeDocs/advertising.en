@@ -120,6 +120,7 @@ index: yes
     + [Conversion tracking options](/help/search-social-commerce/tracking/conversion-tracking-about.md)
     + Adobe Advertising conversion tracking {#advertising-conversion-tracking}
       + [About Adobe Advertising conversion-tracking tags](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
+      + [Generate and implement an Adobe Advertising conversion tag](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/tools/tracking/conversion-tag-generate)
       + [Format of JavaScript conversion tracking tags version 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
       + [Format of JavaScript conversion tracking tags version 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
       + [Format of image conversion tracking tags](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
@@ -419,7 +420,7 @@ index: yes
       + [About the tools to create and decode tracking tags](/help/search-social-commerce/tools/tracking-tools-about.md)
       + [Generate a click-tracking URL](/help/search-social-commerce/tools/click-tracking-url-generate.md)
       + [Decode a click-tracking URL](/help/search-social-commerce/tools/click-tracking-url-decode.md)
-      + [Generate an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
+      + [Generate and implement an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
   + Uploading conversion data to ad networks {#upload-ad-networks}
     + [Upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
     + [Enable uploading of objectives to ad networks](/help/search-social-commerce/tools/objective-upload-to-networks.md)
