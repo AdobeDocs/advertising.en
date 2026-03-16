@@ -5,6 +5,8 @@ feature: Search Tracking
 ---
 # Implement conversion tracking for Adobe Advertising using Adobe Experience Platform tags
 
+<!-- Not used as a separate page -- added as a subheader to existing page under Tools, which is double-listed in the TOC (under Tracking and under Tools) -->
+
 You can set up Adobe Advertising conversion tracking using tags in Adobe Experience Platform (formerly known as Adobe Experience Platform Launch). This procedure creates the same types of tags you can generate within Search, Social, & Commerce but is more efficient, especially if your websites use many tags.
 
 The following tasks are required to configure conversion tracking tags for Search, Social, & Commerce from the Experience Platform user interface or from the Experience Platform Data Collection user interface. For full information and instructions for configuring tags, see the Experience Platform Tags Guide, beginning with the "[Tags overview](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home)" and "[Quickstart guide](https://experienceleague.adobe.com/en/docs/experience-platform/tags/get-started/quick-start)."
