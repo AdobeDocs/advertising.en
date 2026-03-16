@@ -1,6 +1,6 @@
 ---
 title: Overview of implementing Search, Social, & Commerce
-description: Learn
+description: Learn about the general workflow to launch and maintain a portfolio. 
 exl-id: c99dc029-81e4-4416-89b1-7cf8d66658b2
 feature: Search Getting Started
 ---

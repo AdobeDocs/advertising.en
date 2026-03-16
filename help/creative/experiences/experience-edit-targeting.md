@@ -92,3 +92,4 @@ exl-id: 8c5e8f9b-c405-41b2-98a9-da7c5debd3e1
 >* [Customize creative optimization and scheduling](experience-optimization-scheduling-targeting.md)
 >* [Export and implement an ad experience tag for a live experience](/help/creative/experiences/experience-tag-export.md)
 >* [Create an experience with decision tree targeting](experience-create-targeting.md)
+>* [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)

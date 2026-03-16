@@ -2,6 +2,7 @@
 title: Track the status of catalog processing jobs
 description: Learn how to upload and manage asset file for an advertiser.
 feature: Creative Dynamic Creatives
+exl-id: 90593f80-cade-4fef-9dd6-d655291077d1
 ---
 # Track the status of catalog processing jobs
 

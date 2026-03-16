@@ -6,6 +6,6 @@
 
 * *[!UICONTROL Contains Exactly]:* Adds data to an existing campaign whose name includes the specified string, if it exists.
 
-* *[!UICONTROL Exactly Matches]* (the default): — Adds data to an existing campaign with the same name, if it exists.
+* *[!UICONTROL Exactly Matches]* (the default): &mdash; Adds data to an existing campaign with the same name, if it exists.
 
 When no match is found, all data for the campaign is ignored. If multiple campaign matches are found, then the keywords and ads are mapped to all of them.

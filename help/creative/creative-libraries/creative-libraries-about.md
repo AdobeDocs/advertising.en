@@ -16,7 +16,7 @@ Your libraries can include:
 
   * **Dynamic creatives:** You can create dynamically generated creatives by mapping dynamic variables in an ad template to values in a feed file. All users can preview, duplicate, and delete existing dynamic ads.
 
-* **Creatives bundles:** Group creatives into bundles to use across multiple experiences with defined user targets. You can create *standard display bundles* that consist of standard display ads, *standard video bundles* that consist of standard video ads, and *dynamic display bundles* that consist of dynamically generated display ads. 
+* **Creatives bundles:** Group creatives into bundles to use across multiple experiences with defined user targets. You can create *standard display bundles* that consist of standard display ads, *standard video bundles* that consist of standard video ads, *dynamic display bundles* that consist of dynamically generated display ads, and *dynamic video bundles* that consist of dynamically generated video ads. 
 
 ## Supported Creative Formats {#creative-creative-formats}
 
@@ -71,7 +71,7 @@ Enter JavaScript tracking tags for creatives hosted on third-party ad servers. T
 
 #### Video creatives {#creative-video-specs}
 
-You can upload first-party video creatives for web, mobile, or connected TV from your device or network. Each standard video ad experience requires a default video creative for each creative duration assigned to the experience. DSP automatically transcodes all video creatives as VAST 2.0 tags so you can preview them. In [!UICONTROL Tag Manager], you can optionally [apply DSP-specific transcoding](/help/creative/experiences/experience-tag-video-transcoding.md) to any video ad experience tag.
+You can upload first-party video creatives for web, mobile, or connected TV from your device or network. Each video ad experience requires a default video creative for each creative duration assigned to the experience. DSP automatically transcodes all video creatives as VAST 2.0 tags so you can preview them. In [!UICONTROL Tag Manager], you can optionally [apply DSP-specific transcoding](/help/creative/experiences/experience-tag-video-transcoding.md) to any video ad experience tag.
 
 See the following video creative requirements. **Note:** If you'll upload video experiences to Advertising DSP, then see also DSP's [Requirements for High-Definition Video Assets](https://experienceleague.adobe.com/en/docs/advertising/dsp/campaign-management/ads/ad-specs#requirements-for-high-definition-video-assets), which may be more limited.
 
@@ -103,7 +103,17 @@ See the following video creative requirements. **Note:** If you'll upload video 
 
 ### Format for Dynamic Ads
 
-You can dynamically generate creatives in static HTML5 and dynamic HTML5 format by mapping dynamic variables in an ad template to values in a feed file. Dynamic creatives may include creatives that were migrated from your legacy Adobe Advertising Dynamic Creative Optimization (DCO) experiences.
+You can dynamically generate display or video creatives by mapping dynamic variables in an ad template to values in a feed file. Dynamic creatives may include creatives that were migrated from your legacy Adobe Advertising Dynamic Creative Optimization (DCO) experiences.
+
+#### Dynamic display creatives
+
+Dynamic display creatives are in HTML5 format with images in GIF, JPG, JPEG, or PNG format.
+
+#### Dynamic video creatives
+
+Dynamic video creatives include video files with the same specifications as standard video creatives. See "[Video creatives](#creative-video-specs)."
+
+Supported ad formats include start card, end card, top overlay, bottom overlay, or L-shaped.
 
 ## The [!UICONTROL Creative Libraries] views
 

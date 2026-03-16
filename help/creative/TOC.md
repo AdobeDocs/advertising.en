@@ -33,6 +33,7 @@ breadcrumb-title: Creative Guide
     + [Attach creatives to bundles](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
     + [Duplicate creatives](/help/creative/creative-libraries/creative-duplicate.md)
     + [Download creatives](/help/creative/creative-libraries/creative-download.md)
+    + [View the change log for a creative](/help/creative/creative-libraries/creative-view-change-log.md)
     + [Delete creatives](/help/creative/creative-libraries/creative-delete.md)
   + Creative bundles {#bundles}
     + [Manage creative bundles](/help/creative/creative-libraries/bundle-manage.md)
@@ -52,8 +53,8 @@ breadcrumb-title: Creative Guide
         + [Delete a target node or creative leaf node](/help/creative/experiences/experience-target-node-delete.md)
       + Creative bundles and creatives {#bundles}
         + [Assign and unassign creative bundles to a final node](/help/creative/experiences/experience-assign-creative-bundles.md)
-        + [Customize the tracking URLs for creatives](/help/creative/experiences/experience-tracking-urls-targeting.md)
         + [Customize creative optimization and scheduling](/help/creative/experiences/experience-optimization-scheduling-targeting.md)
+        + [Customize the tracking URLs for creatives](/help/creative/experiences/experience-tracking-urls-targeting.md)
   + Experiences without targeting {#experience-nontargeted}
     + [Create an experience without targeting](/help/creative/experiences/experience-create-no-targeting.md)
     + [Edit an experience without targeting](/help/creative/experiences/experience-edit-no-targeting.md)
@@ -61,8 +62,8 @@ breadcrumb-title: Creative Guide
     + Ad tags and creatives{#non-targeted-creatives}
       + [Manually create an ad tag for an applicable creative size](/help/creative/experiences/experience-tag-create-manually.md)
       + [Assign creatives to an ad tag for experiences without targeting](/help/creative/experiences/experience-tag-assign-creatives.md)
-      + [Customize the tracking URLs for an experience without targeting](/help/creative/experiences/experience-tracking-urls-no-targeting.md)
       + [Customize creative optimization and scheduling for an experience without targeting](/help/creative/experiences/experience-optimization-scheduling-no-targeting.md)
+      + [Customize the tracking URLs for an experience without targeting](/help/creative/experiences/experience-tracking-urls-no-targeting.md)
   + [Clone an experience](/help/creative/experiences/experience-clone.md)
   + [Preview an experience](/help/creative/experiences/experience-preview.md)
   + [Customize transcoding options for a video ad experience tag](/help/creative/experiences/experience-tag-video-transcoding.md)
@@ -70,6 +71,7 @@ breadcrumb-title: Creative Guide
   + [Share a demo URL for an experience](/help/creative/experiences/experience-share-demo-url.md)
   + [Download data from the [!UICONTROL Experiences] view](/help/creative/experiences/experience-download-view.md)
   + [Rename an ad tag](/help/creative/experiences/experience-tag-rename.md)
+  + [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)
   + [Delete an experience](/help/creative/experiences/experience-delete.md)
 + Feeds {#feeds}
   + [Manage asset files](/help/creative/feeds/asset-manage.md)

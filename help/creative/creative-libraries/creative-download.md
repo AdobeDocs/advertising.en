@@ -30,3 +30,4 @@ Download all selected creatives to a file in ZIP format according to your browse
 >
 >* [Add standard creatives to a creative library](creative-add-standard.md)
 >* [Preview a creative](creative-preview.md)
+>* [View the change log for a creative](/help/creative/creative-libraries/creative-view-change-log.md)

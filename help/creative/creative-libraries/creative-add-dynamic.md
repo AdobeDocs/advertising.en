@@ -2,6 +2,7 @@
 title: Add dynamic creatives to a creative library
 description: Learn how to add dynamic creatives to a creative library.
 feature: Creative Dynamic Creatives
+exl-id: 26162314-bdaa-4d1c-b0c2-696ec6dbb138
 ---
 # Add dynamic creatives to a creative library
 
@@ -53,9 +54,11 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 
 1. Specify the [dynamic ad settings](/help/creative/creative-libraries/creative-settings-dynamic.md):
 
-   1. Specify the basic ad details.
+   1. Specify the basic ad details, including the creative type.
    
    1. Select the ad template to use for the creatives.
+
+      Use an HTML5 ad template for display ads and a video ad template for video ads.
    
    1. Select the catalog from which to build the ads.
 
@@ -75,7 +78,7 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 
       * Change the content:
       
-        * To edit the value of a cell within the table, click inside the cell and edit the value. Click outside of the cell or press the **[!DNL Enter]** key to save your changes.
+        * (Display ads only) To edit the value of a cell within the table, click inside the cell and edit the value. Click outside of the cell or press the **[!DNL Enter]** key to save your changes.
 
         * To mark a single product as the default<!--Explain what this means. -->, hold the curser over the row and click **[!UICONTROL ...]** > **[!UICONTROL Set as Default]**.
         
@@ -101,4 +104,5 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 >
 >* [Dynamic creative settings](creative-settings-dynamic.md)
 >* [Edit a dynamic creative in a creative library](creative-edit-dynamic.md)
+>* [View the change log for a creative](/help/creative/creative-libraries/creative-view-change-log.md)
 >* [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)

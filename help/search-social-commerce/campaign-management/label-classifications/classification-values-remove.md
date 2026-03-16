@@ -12,6 +12,26 @@ Removing a classification value removes the association with the account compone
 >
 >To delete a value from a label classification, see "[Delete label classification values](classification-values-delete.md)."
 
+## (New UI) Remove label classification values from account components
+
+You can remove classification values from any applicable account components that are available in the new UI.
+
+1. Open the entity view from the **[!UICONTROL Manage]** or **[!UICONTROL Target]** menu.
+
+1. Select the check box next to each relevant row.
+
+   For tips on selecting multiple rows, see "[Select multiple rows](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md)."
+
+1. In the bulk actions toolbar, click **- [!UICONTROL Unassign]** > **[!UICONTROL Label Classification]**.
+
+1. Select the check box next to each classification value to remove from the selected entities.<!-- As of 2/24/26, no way to tell which entity each value is assigned to -->
+
+   To select all assigned values, click **[!UICONTROL Select All]**. To deselect all assigned valued, click **[!UICONTROL Deselect All]**.
+
+1. Click **[!UICONTROL Unassign Selected]**.
+
+## (Legacy UI) Remove label classification values from account components
+
 1. In **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**, select the entity view.
 
 1. Do either of the following:

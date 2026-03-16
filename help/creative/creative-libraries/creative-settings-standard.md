@@ -22,7 +22,7 @@ When you edit multiple creatives at the same time:
 
 **Language:** The default language for each ad with which you associate the creatives. When you upload or edit multiple creatives, the same value is applied to each selected creative.
 
-**Creative Size:** (Read-only for existing creatives) The dimensions of the creative. If any images included in the creative are larger than the specified size, they're resized accordingly.
+**Creative Size:** (Read-only for existing creatives) The dimensions of the creative. If any images included in the creative are larger than the specified size, then they're resized accordingly.
 
 **[!UICONTROL Click Tags]:** The variables that allow click-tracking redirects from the included banner ads. The variable names and corresponding landing page URLs are populated from the uploaded creative unit, but you can change the default URLs. For multiple creatives, you can edit the individual click tags.
 

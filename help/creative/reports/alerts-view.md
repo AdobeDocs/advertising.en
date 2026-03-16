@@ -2,6 +2,7 @@
 title: View alerts
 description: Learn how to view alerts and recommended resolutions for your experiences.
 feature: Creative Experiences
+exl-id: faea1b1f-62f5-4277-acc4-6d99cf166906
 ---
 # View Alerts
 
