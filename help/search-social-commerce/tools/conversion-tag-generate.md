@@ -74,7 +74,7 @@ You can set up conversion tracking for Search, Social, & Commerce using tags in 
 
 The following tasks are required to configure conversion tracking tags for Search, Social, & Commerce from the Experience Platform user interface or from the Experience Platform Data Collection user interface. For full information and instructions for configuring tags, see the Experience Platform Tags Guide, beginning with the "[Tags overview](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home)" and "[Quickstart guide](https://experienceleague.adobe.com/en/docs/experience-platform/tags/get-started/quick-start)."
 
->[!PREREQUISITE]
+>[!PREREQUISITES]
 >
 >To install the required tag extension, ask your organization administrator for access to Data Collection features in the UI, including the `manage_properties` permission.
 
