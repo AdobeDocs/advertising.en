@@ -54,7 +54,7 @@ This page includes information about all account types, including how to set up 
    
    1. Set up conversion tracking. Depending on the implementation, this may involve adding conversion tracking tags to the advertiser's webpages and/or setting up a daily feed drop for conversion data that the advertiser has collected separately.
 
-       If you use the Adobe Advertising conversion tracking service, you can [generate conversion tracking tags](/help/search-social-commerce/tools/conversion-tag-generate.md) within Search, Social, & Commerce or using Adobe Experience Platform.
+       If you use the Adobe Advertising conversion tracking service, you can [generate conversion tracking tags](/help/search-social-commerce/tools/conversion-tag-generate.md) within Search, Social, & Commerce or using [tags from Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/overview.html) (formerly known as Adobe Experience Platform Launch).
    
    1. Validate the data that's tracked.
 
