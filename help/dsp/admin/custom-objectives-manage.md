@@ -20,7 +20,7 @@ Each objective can include:
 
 * **[!UICONTROL Goal] metrics**, which represent an advertiser's primary success metrics. They typically include core business outcomes for a package, such as Revenue, Leads, or Sales. Each objective must have at least one goal metric.
 
-* **[!UICONTROL Assist] metrics**, which optionally assist, predict, precede, or contribute to driving goal metrics. Examples include engagement metrics, such as Test Drives and Trials. You can either assign your own weighted assist metrics or let [!DNL Adobe AI] automatically assign and update weighted assist events to maximize your goal events.
+* Optional **[!UICONTROL Assist] metrics**, which assist, predict, precede, or contribute to driving goal metrics. Examples include engagement metrics, such as Test Drives and Trials. You can let [!DNL Adobe AI] automatically assign and update weighted assist events to maximize your goal events. If you prefer to assign your own weighted assist metrics, DSP can optionally recommend assist metrics based on past performance data from Adobe Advertising and Adobe Analytics, and you can choose whether or not to apply recommendations.
 
 All changes to objective options are tracked at the field level and are listed in a change log.
 
@@ -61,6 +61,16 @@ You can include any of the following in your objectives:
 
    <!-- Verify -->The goal and assist labels don't affect optimization. Only the weights of the included metrics affect optimization.
 
+1. (Objectives with custom bidding; optional) To generate the recommended assist metrics based on past performance data, click **[!UICONTROL Generate]** in the bottom section. In the **[!UICONTROL Generate Recommendation]**, click **[!UICONTROL Generate]**.
+
+   <!-- This really should go after Save, but I don't get a Save option when I choose this. Should that be?
+   
+   While the recommended metrics are being generated, the status of the custom goal is *[!UICONTROL Waiting]*.
+
+   -->
+
+   <!-- FINISH: Once the recommendations are generated, XXX. -->
+
 1. In the upper right, click **[!UICONTROL Save]**.
 
 In the [DSP package settings](/help/dsp/campaign-management/packages/package-settings.md) for packages that use the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]," the objective name is now included in the [!UICONTROL Custom Goals] list. When you select the objective as the custom goal for a package, the [!UICONTROL Conversion Metric] list includes all goal metrics for the objective.
@@ -74,6 +84,26 @@ In the [DSP package settings](/help/dsp/campaign-management/packages/package-set
 1. Change any of the [objective settings](#custom-objective-settings).
 
 1. In the upper right, click **[!UICONTROL Save]**.
+
+## View and apply recommended assist events
+
+*Objectives with custom bidding*
+
+<!-- VERIFY ALL AND FILL IN -->You can view recommendations, and optionally apply them, when the objective status is *[!UICONTROL Active]* and the [!UICONTROL Recommendation Status] is *[!UICONTROL ????????]*.
+
+1. In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Custom Objectives]**.
+
+1. In the row, click **...*** > **[!UICONTROL Edit]**.
+
+1. In the bottom section, click **[!UICONTROL View Recommendations]**.
+
+
+<!-- Finish these steps -->
+
+
+
+1. In the upper right, click **[!UICONTROL Save]**.
+
 
 ## View the change log for a custom objective
 
