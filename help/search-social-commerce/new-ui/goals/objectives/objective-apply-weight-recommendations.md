@@ -18,3 +18,4 @@ For instructions, see the help within the user interface or in the Optimization 
 >* [Edit an objective](objective-edit.md)
 >* [Delete an objective](objective-delete.md)
 >* [Objective settings](objective-settings.md)
+>* [Download performance data for objectives](objective-download-performance-data.md)

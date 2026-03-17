@@ -69,6 +69,7 @@ index: yes
       + [Edit an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-edit.md)
       + [Delete an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-delete.md)
       + [Apply weight recommendations to an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-apply-weight-recommendations.md)
+      + [Download performance metrics for objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-download.md)
       + [Objective settings](/help/search-social-commerce/new-ui/goals/objectives/objective-settings.md)
     + Simulations {#simulations}
       + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)

@@ -62,3 +62,4 @@ You can optionally [upload the objectives for the account's portfolios to [!DNL 
 >* [Delete an objective](objective-delete.md)
 >* [Apply weight recommendations to an objective](objective-apply-weight-recommendations.md)
 >* [Objective settings](objective-settings.md)
+>* [Download performance data for objectives](objective-download-performance-data.md)
