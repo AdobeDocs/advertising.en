@@ -20,19 +20,19 @@ For standard ad experiences, you can assign only standard creative bundles. For 
 
 1. Do one of the following:
 
-   * (Final nodes without creatives) Under the node, click ![Add](/help/creative/assets/add.png "Add"), and then select **[!UICONTROL Assign Bundles]**.
+   * (Final nodes without creatives) Under the node, click **[!UICONTROL Assign Bundles]**.
 
-   * (Nodes with existing creatives) Hold the cursor over the creative bundle box below the target node<!-- wording???? --> and click **[!UICONTROL ...]** > **[!UICONTROL Edit Bundles]**.
+   * (Nodes with existing creatives) Hold the cursor over the creative bundle box below the target node and click **[!UICONTROL ...]** > **[!UICONTROL Edit Bundles]**.
 
 1. Select the check box next to each bundle to assign to the target node, and deselect the check box next to each bundle to unassign.
 
    Only bundles of the relevant bundle type for the experience (standard or dynamic) are listed.
 
-1. Click **[!UICONTROL Attach to Bundles]**.
-
-1. (Optional) [Customize the tracking URLs for creatives in the assigned bundles](experience-tracking-urls-targeting.md).
+1. Click **[!UICONTROL Save]**.
 
 1. (Optional) [Customize creative optimization and scheduling](experience-optimization-scheduling-targeting.md) for the assigned bundles.
+
+1. (Optional) [Customize the tracking URLs for creatives in the assigned bundles](experience-tracking-urls-targeting.md).
 
 <!--
 1. (Optional) To save the experience, click **[!UICONTROL Save]**, and then do the following.
@@ -53,3 +53,4 @@ These formatted steps are inserted automatically from text in the following file
 >* [Edit an experience with decision tree targeting](experience-edit-targeting.md)
 >* [Targeted experience settings](experience-settings-targeting.md)
 >* [Export and implement an ad experience tag for a live experience](experience-tag-export.md)
+>* [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)

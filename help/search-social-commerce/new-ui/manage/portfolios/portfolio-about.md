@@ -48,7 +48,7 @@ A portfolio can have the following statuses:
 
 ## The [!UICONTROL Portfolios] view
 
-The [!UICONTROL Portfolios] view lists your existing portfolios, with customizable performance data. You can [customize the columns within the view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) and filter data to include specific portfolios [from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) or from the [column heading](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
+The [!UICONTROL Portfolios] view lists all existing portfolios in the filtered view, with customizable performance data. You can [customize the columns within the view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) and filter data to include specific portfolios [from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) or from the [column heading](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
 
 Above the data table, you can open a performance graph with up to three metrics totalled across all portfolios in the view for the specified date range.
 

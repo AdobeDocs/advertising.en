@@ -6,6 +6,8 @@ exl-id: 0d20912f-d84d-4d83-990c-780d5d0e56cc
 ---
 # (New UI) View a performance graph in the [!UICONTROL Campaigns] view
 
+<!-- Not implemented as of 3/4/26) -->
+
 *Beta feature*
 
 You can open and configure a performance graph with up to three metrics totalled across all campaigns in the view for the specified date range.

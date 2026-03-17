@@ -36,7 +36,7 @@ Your role determines the available options:<!-- add link when available -->
   
   * **[!UICONTROL Conversions]** Exits the new site and opens the legacy [!UICONTROL Admin] > [!UICONTROL Conversions] view.
 
-  * **[!UICONTROL Conversion Value Rules]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules] view.
+  * **[!UICONTROL Conversion Value Rules]** Opens read-only views of your campaign-level and account-level conversion value rules. To manage your conversion value rules, use the legacy [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
   * **[!UICONTROL Constraints]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Constraints] view.
 
@@ -56,13 +56,15 @@ Your role determines the available options:<!-- add link when available -->
 
   * **[!UICONTROL Campaigns]:** Opens a new [!UICONTROL Campaigns] view, which shows all campaigns for the advertiser. You can assign campaigns to portfolios and manage constraint assignments for selected campaigns. You can also download a report of the data table contents. <!-- Was removed: To see the ad groups for a campaign, click the campaign name. -->
   
-    To create, edit, and delete campaigns, return to the legacy user interface by clicking **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in the main menu or clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+    To create, edit, and delete campaigns, return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
   * **[!UICONTROL Ad Groups]:** Opens a new [!UICONTROL Ad Groups] view, which shows all ad groups for the advertiser. You can manage constraint assignments for selected ad groups. You can also download a report of the data table contents.
   
-    To create, edit, and delete campaigns, return to the legacy user interface by clicking **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in the main menu or clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+    To create, edit, and delete campaigns, return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-  * **[!UICONTROL Ads]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+  * **[!UICONTROL Ads]** Opens a new [!UICONTROL Ads] view, which shows all ads for the advertiser. You can manage constraint assignments for selected ads.
+  
+    To create, edit, and delete ads, return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
 * **[!UICONTROL Reports]** submenu:
 
@@ -76,11 +78,15 @@ Your role determines the available options:<!-- add link when available -->
 
 * **[!UICONTROL Target]** submenu:
 
-  * **[!UICONTROL Audience]**: Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view.
+  * **[!UICONTROL Audience]**: Opens a new [!UICONTROL Audiences] view, which shows all existing audiences for the advertiser. To manage your audiences, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-  * **[!UICONTROL Keywords]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+  * **[!UICONTROL Keywords]** Opens a new [!UICONTROL Keywords] view, which shows existing keywords and negative keywords for the advertiser. You can manage constraint assignments for selected keywords.
+  
+    To create, edit, and delete keywords and negative keywords, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-  * **[!UICONTROL Placements]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+  * **[!UICONTROL Placements]** Opens a new [!UICONTROL Placements] view, which shows existing placements and negative placements for the advertiser. You can manage constraint assignments for selected placements.
+  
+    To create, edit, and delete placements and negative placements, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
 * **[!UICONTROL Assets]** submenu:
 
@@ -88,7 +94,7 @@ Your role determines the available options:<!-- add link when available -->
 
   * **[!UICONTROL Creatives]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
 
-  * **[!UICONTROL Extensions]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+  * **[!UICONTROL Extensions]** Opens read-only views of your existing ad extensions. To manage your extensions, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
   * **[!UICONTROL Shopping]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.<!-- Should this go to Campaigns > Products? -->
 

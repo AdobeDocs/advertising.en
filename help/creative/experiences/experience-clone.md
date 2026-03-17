@@ -22,3 +22,4 @@ Create an experience by cloning an existing experience. The new experience is na
 >
 >* [Create an experience with decision tree targeting](experience-create-targeting.md)
 >* [Create an experience without decision tree targeting](experience-create-no-targeting.md)
+>* [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)

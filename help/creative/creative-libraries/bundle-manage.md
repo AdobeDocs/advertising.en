@@ -264,6 +264,28 @@ The custom URL and tags are applied to a creative when the bundle is assigned to
 
  -->
 
+## View the change log for a bundle
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Click the library name.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Select the bundle:
+
+   * In card view, click **[!UICONTROL ...]** next to the bundle name, and then click **[!UICONTROL Change Log]**.
+     
+   * In table view, hold the cursor over the row and click **[!UICONTROL More]** > **[!UICONTROL Change Log]**.
+
+1. (Optional) Change the time range reported.
+
+1. (Optional) To add a note, hold the cursor over the row and click **[!UICONTROL Add Notes]**. Enter the note and click **[!UICONTROL Save]**.
+
+1. (Optional) To view the change log entry, including any added notes, hold the cursor over the row and click **[!UICONTROL View Details]**.
+
 ## Delete bundles
 
 You can delete bundles that aren't assigned to a [live](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) experience. If a bundle is assigned to a live experience, then [remove the bundle from the decision tree](/help/creative/experiences/experience-target-node-delete.md) for the experience before you continue.

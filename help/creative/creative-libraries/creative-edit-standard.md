@@ -57,3 +57,4 @@ When you edit a creative<!-- or creative variation --> that's included in a bund
 >* [Add standard creatives to a creative library](creative-add-standard.md)
 >* [Standard creative settings](/help/creative/creative-libraries/creative-settings-standard.md)
 >* [Preview a creative](/help/creative/creative-libraries/creative-preview.md)
+>* [View the change log for a creative](/help/creative/creative-libraries/creative-view-change-log.md)

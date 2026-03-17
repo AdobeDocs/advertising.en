@@ -198,6 +198,7 @@ See the [video creative specifications](/help/creative/creative-libraries/creati
 >
 >* [Edit standard creatives](/help/creative/creative-libraries/creative-edit-standard.md)
 >* [Standard creative settings](/help/creative/creative-libraries/creative-settings-standard.md)
+>* [View the change log for a creative](/help/creative/creative-libraries/creative-view-change-log.md)
 >* [Available macros for tracking URLs](/help/creative/creative-macros.md)
 >* [Supported creative sizes](/help/creative/creative-libraries/creative-sizes.md)
 >* [Preview a creative](/help/creative/creative-libraries/creative-preview.md)

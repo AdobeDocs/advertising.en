@@ -41,3 +41,4 @@ Duplicate creatives to add new creatives with the same settings to the same libr
 >* [Add standard creatives to a creative library](creative-add-standard.md)
 >* [Edit standard creatives](creative-edit-standard.md)
 >* [Standard creative settings](creative-settings-standard.md)
+>* [View the change log for a creative](/help/creative/creative-libraries/creative-view-change-log.md)

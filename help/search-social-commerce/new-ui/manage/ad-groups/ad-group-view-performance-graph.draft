@@ -6,6 +6,8 @@ exl-id: 5705bf24-e79e-4f72-ac62-c154767ae8a1
 ---
 # (New UI) View a performance graph in the [!UICONTROL Ad Groups] view
 
+<!-- Not implemented as of 3/4/26) -->
+
 *Beta feature*
 
 You can open and configure a performance graph with up to three metrics totalled across all ad groups in the view for the specified date range.

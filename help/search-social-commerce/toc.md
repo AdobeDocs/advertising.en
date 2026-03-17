@@ -69,6 +69,7 @@ index: yes
       + [Edit an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-edit.md)
       + [Delete an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-delete.md)
       + [Apply weight recommendations to an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-apply-weight-recommendations.md)
+      + [Download performance metrics for objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-download-performance-data.md)
       + [Objective settings](/help/search-social-commerce/new-ui/goals/objectives/objective-settings.md)
     + Simulations {#simulations}
       + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
@@ -93,13 +94,14 @@ index: yes
       + [Assign campaigns to a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio)
       + [Remove campaigns from a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
       + [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
-      + [View a performance graph in the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-performance-graph.md)
       + [Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
     + Ad Groups {#ad-groups}
       + [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
       + [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)    
-      + [View a performance graph in the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-performance-graph.md)
       + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
+    + Ads {#ads}
+      + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
+      + [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
   + Reports {#reports}
     + Label classifications {#label-classifications}
       + [About label classifications](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-about)
@@ -109,6 +111,13 @@ index: yes
       + [Remove label classification values from account components](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-remove)
       + [Delete label classification values](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-delete)
       + [Delete label classifications](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-delete)
++ Target {#target}
+    + Keywords {#keywords}
+      + [About the [!UICONTROL Keywords] view](/help/search-social-commerce/new-ui/target/keywords/keyword-view-about.md)
+      + [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
+    + Placements {#placements}
+      + [About the [!UICONTROL Placements] view](/help/search-social-commerce/new-ui/target/placements/placement-view-about.md)
+      + [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)
   + Setup {#setup}
     + Accounts {#accounts}
       + [About ad network accounts](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)
@@ -141,6 +150,7 @@ index: yes
     + [Conversion tracking options](/help/search-social-commerce/tracking/conversion-tracking-about.md)
     + Adobe Advertising conversion tracking {#advertising-conversion-tracking}
       + [About Adobe Advertising conversion-tracking tags](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
+      + [Generate and implement an Adobe Advertising conversion tag](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/tools/tracking/conversion-tag-generate)
       + [Format of JavaScript conversion tracking tags version 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
       + [Format of JavaScript conversion tracking tags version 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
       + [Format of image conversion tracking tags](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
@@ -441,7 +451,7 @@ index: yes
       + [About the tools to create and decode tracking tags](/help/search-social-commerce/tools/tracking-tools-about.md)
       + [Generate a click-tracking URL](/help/search-social-commerce/tools/click-tracking-url-generate.md)
       + [Decode a click-tracking URL](/help/search-social-commerce/tools/click-tracking-url-decode.md)
-      + [Generate an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
+      + [Generate and implement an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
   + Uploading conversion data to ad networks {#upload-ad-networks}
     + [Upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
     + [Enable uploading of objectives to ad networks](/help/search-social-commerce/tools/objective-upload-to-networks.md)

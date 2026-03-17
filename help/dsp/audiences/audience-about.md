@@ -26,7 +26,7 @@ In DSP, you can create and manage audience segments and audience sets, which you
 
 * Create an audience library of [reusable audiences](/help/dsp/audiences/reusable-audience-create.md). Saved audiences are composed of any of your available audience segments and any of your other saved audiences. Any changes you make to a saved audience are automatically applied to all placements that target or exclude the audience and to all other audiences that include the saved audience.
 
-   Saved audiences allow media planners to group audiences as needed, by including and excluding multiple segments using complex Boolean logic. The size of each individual segment and the total audience size are indicated as you build an audience. Campaign executioners can then simply select one or more saved audiences as placement targets rather than manually configure audience targets for each placement.
+   Saved audiences allow media planners to group audiences as needed, by including and excluding multiple segments using complex Boolean logic. The  (targetable) size of each individual segment and the overall active audience size are indicated as you build an audience. Campaign executioners can then simply select one or more saved audiences as placement targets rather than manually configure audience targets for each placement.
 
 Additional audience types are also available for placement targeting.
 
@@ -66,7 +66,7 @@ You can target your placements to all of the following types of audiences.
 
 * (Placements targeting the U.S. only) [All third-party data segments available to DSP customers from over 30 providers](/help/dsp/audiences/third-party-data-providers.md), including [!DNL eXelate], ([!DNL Eyeota]), ([!DNL LiveRamp]),[!DNL Lotame], [!DNL Neustar], and many more.
 
-   You can target specific segments, which target users based on audience data (for example, users with specific demographics, interests or intents, and/or behavioral profiles). You can browse by data provider and category, search for segments by name or segment ID, or filter the results by data provider, total segment size, web browser count, or devices count.
+   You can target specific segments, which target users based on audience data (for example, users with specific demographics, interests or intents, and/or behavioral profiles). You can browse by data provider and category, search for segments by name or segment ID, or filter the results by data provider, active segment size, web browser count, or devices count.
 
    Third-party segments incur additional fees, which are indicated next to each segment name.
 
@@ -82,21 +82,21 @@ You can target your placements to all of the following types of audiences.
 
 ## Audience Size Data
 
-In Audiences > All Audiences and in the Audience Targeting section of placement settings, you can filter each segment list by size range, including the total range and separate ranges for specific device types or universal ID types.
+In Audiences > All Audiences and in the Audience Targeting section of placement settings, you can filter each segment list by size range, including separate ranges for specific device types or universal ID types.
 
 ![filter by audience size](/help/dsp/assets/audience-size-filter.png)
 
 You can also see detailed audience size data:
 
-* The total and active deduplicated audience size across all selected segments and saved audiences is displayed, and you can view details by device type (browser, mobile, or connected TV).
+* The active deduplicated audience size across all selected segments and saved audiences is displayed, and you can view details by device type (browser, mobile, or connected TV).
 
    ![the combined audience size](/help/dsp/assets/audience-size.png)
 
-* For individual segments, the total audience size and CPM (when applicable) are displayed next to the segment name.
+* For individual segments, the active audience size and CPM (when applicable) are displayed next to the segment name.
 
    ![the individual segment size](/help/dsp/assets/audience-size-segment.png)
 
-* You can view more details about an individual segment or saved audience, including the size by browser, mobile, connected TV, and universal ID type partner. For saved audiences, the total size is the deduplicated total.
+* You can view more details about an individual segment or saved audience, including the size by browser, mobile, connected TV, and universal ID type partner. For saved audiences, the total active audience size is the deduplicated total.
 
    ![the individual segment or saved audience details](/help/dsp/assets/audience-size-segment-details.png)
 
