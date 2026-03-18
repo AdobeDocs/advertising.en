@@ -125,7 +125,7 @@ index: yes
     + [Create and implement a custom segment](/help/dsp/audiences/custom-segment-create.md)
     + [!UICONTROL CCPA Opt-out-of-Sale] Segments {#ccpa-opt-out-of-sale-segments}
       + [About [!UICONTROL CCPA Opt-out-of-Sale] segments and reports](/help/dsp/audiences/ccpa-opt-out-about.md)
-      + [Create and implement a CCPA opt-out-of-sale segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
+      + [Create and implement a [!UICONTROL CCPA Opt-out-of-Sale] segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
       + [Retrieve [!UICONTROL Consumer Opt-Out-of-Sale] reports](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
     + [Edit segment information](/help/dsp/audiences/segment-edit.md)
     + [Share or stop sharing a segment](/help/dsp/audiences/segment-share.md)
@@ -162,8 +162,8 @@ index: yes
         + [About the [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
         + [Accept a deal in the [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-accept.md)
       + Manually-entered deal IDs {#manual}
-        + [Manually create Deal ID details](/help/dsp/inventory/deal-id-create.md)
-        + [Manual [!UICONTROL Deal ID] settings](/help/dsp/inventory/deal-id-settings.md)
+        + [Manually create deal ID details](/help/dsp/inventory/deal-id-create.md)
+        + [Manual deal ID settings](/help/dsp/inventory/deal-id-settings.md)
       + Programmatic guaranteed deals {#programmatic-guaranteed-deal}
         + [Overview of programmatic guaranteed deals](/help/dsp/inventory/programmatic-guaranteed-about.md)
         + [Tips for negotiating a programmatic guaranteed deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
