@@ -1,10 +1,10 @@
 ---
-title: Archive a Connected TV Reach Plan
+title: Archive a connected TV reach plan
 description: Learn how to archive a connected TV reach plan.
 feature: DSP Planner
 exl-id: 335db881-51e6-412d-9346-216c6a70a6de
 ---
-# Archive a Connected TV Reach Plan
+# Archive a connected TV reach plan
 
 Archiving a plan removes it from the default [!UICONTROL Planner] view.<!-- You can still view it by including the [!UICONTROL Status] "[!UICONTROL Archived]" in the view filter. -->
 

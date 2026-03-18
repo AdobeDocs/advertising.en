@@ -1,10 +1,10 @@
 ---
-title: Create a Connected TV Reach Plan
+title: Create a connected TV reach plan
 description: Learn how to create a connected TV reach plan.
 feature: DSP Planner
 exl-id: 88b1fb23-f856-44ed-a955-844a329efb98
 ---
-# Create a Connected TV Reach Plan
+# Create a connected TV reach plan
 
 1. In the main menu, click **[!UICONTROL Planner]**.
 

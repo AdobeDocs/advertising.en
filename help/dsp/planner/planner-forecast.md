@@ -1,10 +1,10 @@
 ---
-title: Regenerate the Forecast for a Connected TV Reach Plan
+title: Regenerate the forecast for a connected TV reach plan
 description: Learn how to create a new forecast for a connected TV reach plan.
 feature: DSP Planner
 exl-id: ec3de39c-c2b3-4004-8d86-eb6479608121
 ---
-# Regenerate the Forecast for a Connected TV Reach Plan
+# Regenerate the forecast for a connected TV reach plan
 
 You can regenerate the forecast for a connected TV reach plan based on the latest observed data.
 

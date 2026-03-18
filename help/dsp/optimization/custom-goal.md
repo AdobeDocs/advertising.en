@@ -1,10 +1,10 @@
 ---
-title: Custom Goals
+title: Custom goals
 description: Learn about custom goals to define your success events in packages optimized for the lowest CPA or the highest ROAS.
 feature: DSP Optimization
 exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
 ---
-# Custom Goals
+# Custom goals
 
 Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal to help achieve the overall optimization goal. You can create custom goals as *objectives* in [!DNL Advertising Search, Social, & Commerce]. The name of each objective for DSP must be prefixed with "ADSP_".
 
@@ -21,7 +21,7 @@ Once you [create a custom goal](#custom-goal-create), you can [assign it to a pa
 
 Weight recommendations are automatically generated for DSP-attributed metrics in objectives, and can apply all weight recommendations with one click. All weight changes to objectives prefixed with "ADSP_" are applied algorithmically in DSP within two days. For more information weight recommendations, see the Optimization Guide chapter on "Objectives," which is available from within Search, Social, & Commerce. 
 
-## Create a Custom Goal {#custom-goal-create}
+## Create a custom goal {#custom-goal-create}
 
 To create a custom goal, the DSP account must be linked to a [!DNL Search, Social, & Commerce] account with the same Adobe Experience Cloud organization ID, from within the [!DNL Search, Social, & Commerce] client settings. If your DSP account isn't linked to a [!DNL Search, Social, & Commerce] account, then contact your Adobe Account Team.
 
@@ -62,13 +62,13 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
        
 In the DSP package settings for packages that use the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]," the objective name is now included in the [!UICONTROL Custom Goals] list. When you select the objective as the custom goal for a package, the [!UICONTROL Conversion Metric] list includes all goal metrics for the objective.
 
-## Best Practices for Building a Custom Goal {#custom-goal-best-practices}
+## Best practices for building a custom goal {#custom-goal-best-practices}
 
-### Custom Goals with a Single Metric
+### Custom goals with a single metric
 
 The following examples show how you might configure goals that target a single conversion metric.
 
-#### Example for a Campaign with the "[!UICONTROL Highest Return on Ad Spend (ROAS)]" Optimization Goal
+#### Example for a campaign with the "[!UICONTROL Highest Return on Ad Spend (ROAS)]" optimization goal
 
 If your campaign goal is revenue ([!UICONTROL Highest Return on Ad Spend (ROAS)]), and revenue from all device types is equally important to you, then include the "[!UICONTROL Revenue]" metric with a non-mobile weight of one (1); the mobile weight is ignored. Select the metric type *[!UICONTROL Goal]*.
 
@@ -82,7 +82,7 @@ If your campaign goal is revenue ([!UICONTROL Highest Return on Ad Spend (ROAS)]
 >
 > A non-mobile weight of one (1) equates to a value of one (1) for each $1 of revenue that's tracked for display ads on any device. For example, a $250 conversion with a non-mobile weight of one (1) is reported as $250 for conversions. If the conversion metric is assigned a non-mobile weight of 0.5, then the $250 conversion is reported as $125 in Adobe Advertising ($250 Conversion * 0.5 [!UICONTROL Non-mobile Weight] = $125).
 
-#### Example for a Campaign with the "[!UICONTROL Lowest Cost per Acquisition (CPA)]" Optimization Goal
+#### Example for a campaign with the "[!UICONTROL Lowest Cost per Acquisition (CPA)]" optimization goal
 
 If your campaign goal is the lowest cost per acquisition (CPA) and it requires only one success event (such as "Application Submit"), then include that one metric and specify the metric type as *[!UICONTROL Goal]*. The best practice is to set the non-mobile weight as one (1); the mobile weight is ignored.
 
@@ -96,7 +96,7 @@ If your campaign goal is the lowest cost per acquisition (CPA) and it requires o
 >
 > A non-mobile weight of one (1) equates to a value of one (1) for each conversion that's tracked for display ads on any device. For example, if 10 Application Submit conversions are tracked, then 10 Application Submit conversions are reported. If the conversion metric is assigned a non-mobile weight of 0.5, however, then the 10 conversions are reported as five (5) in Adobe Advertising (10 Conversions * 0.5 [!UICONTROL Non-mobile Weight] = 5).
 
-### Custom Goals with Multiple Metrics
+### Custom goals with multiple metrics
 
 There are two scenarios in which you would use multiple metrics in a custom goal:
 

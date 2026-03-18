@@ -1,10 +1,10 @@
 ---
-title: About the DSP Planner Tool
+title: About the DSP Planner tool
 description: Learn about the planner tool to forecast the unique reach for connected TV (CTV) placements according to specified budget and targeting criteria.
 feature: DSP Planner
 exl-id: b25d4ac5-e85f-4a38-8765-6c5261987668
 ---
-# About the DSP Planner Tool
+# About the DSP Planner tool
 
 <!-- rename all titles/descriptions from "CTV reach planner" to "campaign reach planner" -->
 
@@ -27,7 +27,7 @@ The forecast output also includes an [!UICONTROL Inventory Breakdown] section th
 >* The [!UICONTROL Inventory Breakdown] section displays data for only private and [!UICONTROL On Demand] inventory.
 >* The estimated unique reach shown for two publishers can be overlapping.
 
-## The Planner View
+## The Planner view
 
 In the [!UICONTROL Planner] view, you can view your existing CTV reach plans and create new ones.
 

@@ -1,10 +1,10 @@
 ---
-title: Edit a Connected TV Reach Plan
+title: Edit a connected TV reach plan
 description: Learn how to edit the settings for a connected TV reach plan.
 feature: DSP Planner
 exl-id: 675a09d1-9548-416d-bfa6-a6242149b255
 ---
-# Edit a Connected TV Reach Plan
+# Edit a connected TV reach plan
 
 Editing the plan settings generates a new forecast.
 
