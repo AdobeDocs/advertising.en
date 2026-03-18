@@ -12,15 +12,15 @@ exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
 
 DSP supports people-based, universal IDs for cookieless, single-device (not cross-device) targeting across digital formats supported by DSP.
 
-* You can manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. See "[Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)."
+* You can manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. See "[Manually import authenticated segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)."
 
-* DSP can ingest your first-party segments comprised of hashed email IDs built within your customer data platform (CDP) and convert them to [!DNL LiveRamp] [!DNL RampIDs] and [!DNL Unified ID 2.0 (UID2.0)] IDs. For more information about the supported customer data platforms, the available features for each supported universal ID type, and the related workflows, see "[About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)."
+* DSP can ingest your first-party segments comprised of hashed email IDs built within your customer data platform (CDP) and convert them to [!DNL LiveRamp] [!DNL RampIDs] and [!DNL Unified ID 2.0 (UID2.0)] IDs. For more information about the supported customer data platforms, the available features for each supported universal ID type, and the related workflows, see "[About first-party audience sources](/help/dsp/audiences/sources/source-about.md)."
 
-* You can create custom segments that track users associated with ID5 universal IDs who are exposed to ads from desktop and mobile devices and who visit specific webpages. ID5 uses a probabilistic model to assign an ID derived from various user signals and browser signals. For instructions, see "[Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)."
+* You can create custom segments that track users associated with ID5 universal IDs who are exposed to ads from desktop and mobile devices and who visit specific webpages. ID5 uses a probabilistic model to assign an ID derived from various user signals and browser signals. For instructions, see "[Create and implement a custom segment](/help/dsp/audiences/custom-segment-create.md)."
 
 * Third-party segments from some vendors may automatically include universal IDs in addition to users tracked by cookies or device IDs. For example, segments from [!DNL Eyeota] may automatically include ID5 IDs, and segments from [!DNL Lotame] may include UID2.0 IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
 
-## Reporting by Universal ID type
+## Reporting by universal ID type
 
 * **Custom reports:** Cost, impression, click, conversion, and frequency data by universal ID type is available in custom reports.
 
@@ -60,7 +60,7 @@ In a new, scheduled, or paused placement, do the following:
       
          Before you can convert data to a new ID type, a user in the DSP account must accept the terms of service agreement. The terms must be accepted only once per ID type, per account.
 
-See "[Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)."
+See "[Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)."
 
 ## Best practices for testing and data validation
 
@@ -68,7 +68,7 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 * About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, then contact your Adobe Account Team.
 
-  See "[Data Variances Between Email IDs and universal IDs](#universal-ids-data-variances)" for more information about how the segment counts can vary.
+  See "[Data variances between email IDs and universal IDs](#universal-ids-data-variances)" for more information about how the segment counts can vary.
 
 * Don't change your existing packages and placements. However, if you don't have any incremental budget to test universal IDs, then reduce the original budgets to fund the tests.
 
@@ -90,7 +90,7 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 * Remember that the reach for authenticated audience segments is naturally smaller than the reach for cookie-based segments, and that using additional targeting options further decreases your reach. Be judicious about using granular targeting, especially by joining multiple targets with AND statements.
 
-## Data variances between email IDs and niversal IDs {#universal-ids-data-variances}
+## Data variances between email IDs and universal IDs {#universal-ids-data-variances}
 
 ### Acceptable levels of variance
 

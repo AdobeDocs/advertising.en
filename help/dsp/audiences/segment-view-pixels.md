@@ -20,8 +20,8 @@ Once a tracking tag is implemented, you can use the segment in the audience targ
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
->* [Create a Custom Segment](custom-segment-create.md)
->* [Edit Segment Information](segment-edit.md)
->* [Delete a Segment](segment-delete.md)
->* [Share or Stop Sharing a Segment](segment-share.md)
+>* [About audience management](audience-about.md)
+>* [Create a custom segment](custom-segment-create.md)
+>* [Edit segment information](segment-edit.md)
+>* [Delete a segment](segment-delete.md)
+>* [Share or stop sharing a segment](segment-share.md)

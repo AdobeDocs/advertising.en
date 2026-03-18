@@ -37,8 +37,8 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 
 >[!MORELIKETHIS]
 >
->* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
->* [About First-Party Audience Sources](source-about.md)
->* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
->* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Manage audience sources to activate universal ID audiences](source-manage.md)
+>* [About first-party audience sources](source-about.md)
+>* [Manually import authenticated segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
+>* [Adobe Advertising DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [About audience management](/help/dsp/audiences/audience-about.md)
