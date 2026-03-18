@@ -1,6 +1,6 @@
 ---
 title: Edit a custom report
-description: Learn how to edit custom report settings.
+description: Learn how to edit Custom report settings.
 feature: DSP Custom Reports
 exl-id: 42208276-d766-41c8-a764-c79a20e302e6
 ---
@@ -16,12 +16,12 @@ exl-id: 42208276-d766-41c8-a764-c79a20e302e6
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Download a Custom Report](/help/dsp/reports/report-download.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
->* [Run a Custom Report](/help/dsp/reports/report-run-now.md)
->* [Delete a Custom Report](/help/dsp/reports/report-delete.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Download a custom report](/help/dsp/reports/report-download.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Duplicate a custom report](/help/dsp/reports/report-copy.md)
+>* [Run a custom report](/help/dsp/reports/report-run-now.md)
+>* [Delete a custom report](/help/dsp/reports/report-delete.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [Types of performance reports in campaign management views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)

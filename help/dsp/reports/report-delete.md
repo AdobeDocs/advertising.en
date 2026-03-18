@@ -14,10 +14,10 @@ exl-id: e3cebb69-bab6-4f41-94fd-b4471f9bbdb9
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
->* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
->* [Download a Custom Report](/help/dsp/reports/report-download.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Duplicate a custom report](/help/dsp/reports/report-copy.md)
+>* [Edit a custom report](/help/dsp/reports/report-edit.md)
+>* [Download a custom report](/help/dsp/reports/report-download.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)

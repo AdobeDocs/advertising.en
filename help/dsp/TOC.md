@@ -199,7 +199,7 @@ index: yes
   + [Available report columns](/help/dsp/reports/report-columns.md)
   + [FAQs about custom reports](/help/dsp/reports/faq-reports.md)
   + Report destinations {#report-destinations}
-    + [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
+    + [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
     + [Create a report destination](/help/dsp/reports/report-destinations/report-destination-create.md)
     + [Edit a report destination](/help/dsp/reports/report-destinations/report-destination-edit.md)
     + [Delete a report destination](/help/dsp/reports/report-destinations/report-destination-delete.md)

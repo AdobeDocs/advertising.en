@@ -20,9 +20,9 @@ Duplicate a custom report to create a new report with similar settings.
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
->* [Download a Custom Report](/help/dsp/reports/report-download.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Edit a custom report](/help/dsp/reports/report-edit.md)
+>* [Download a custom report](/help/dsp/reports/report-download.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)

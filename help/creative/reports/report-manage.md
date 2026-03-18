@@ -324,4 +324,4 @@ To apply one or more filters, do the following:
 >
 >* [Experience-level performance reports](/help/creative/experiences/experience-performance-details.md)
 >* [About DSP custom reports](/help/dsp/reports/report-about.md){target="_blank"}
->* [About [!UICONTROL report destinations]](/help/dsp/reports/report-destinations/report-destination-about.md){target="_blank"}
+>* [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md){target="_blank"}

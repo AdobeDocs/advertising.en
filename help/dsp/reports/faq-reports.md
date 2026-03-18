@@ -61,7 +61,7 @@ These metrics in [!UICONTROL Household] reports are calculated using the actual 
 
 #### How do I configure the report for the [!UICONTROL Placement Tags] dimension?
 
-To create tags for the placement, [open the placement settings](/help/dsp/campaign-management/placements/placement-edit.md) and enter values in the [Placement Tags field](/help/dsp/campaign-management/placements/placement-settings.md).
+To create tags for the placement, [open the placement settings](/help/dsp/campaign-management/placements/placement-edit.md) and enter values in the [[!UICONTROL Placement Tags] field](/help/dsp/campaign-management/placements/placement-settings.md).
 
 When a placement includes multiple tags, the report considers the entire string as one tag. The report includes one row for each unique string.
 
@@ -83,7 +83,7 @@ Two types of attribution methods are supported:
 
 * [!DNL Analytics] report data is particularly valuable to analyze by marketing channels, site engagement metrics, and so on. The DSP [!UICONTROL Household Conversions] report offers more granular insights by allowing conversion data to be split by various dimensions, such as media type and publisher.
 
-### [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] Reports vs. Data from [!DNL Advanced Measurement Services]
+### [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] reports vs. data from [!DNL Advanced Measurement Services]
 
 For advanced reporting on household-based reach and frequency or conversions, the [[!DNL Strategic Advertising Consulting] team](/help/dsp/introduction/advanced-measurement-services.md) can provide highly customizable reports along with holistic strategic recommendations. For more information about [!DNL Advanced Measurement Services], contact your Adobe Account Team.
 
@@ -115,8 +115,8 @@ For more information about the Advanced Measurement Services Halo Effect on Sear
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Edit a custom report](/help/dsp/reports/report-edit.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)

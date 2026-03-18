@@ -66,7 +66,7 @@ The details required for non-email report destinations vary by destination type.
 
 >[!MORELIKETHIS]
 >
->* [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [Create a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)
+>* [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [Create a report destination](/help/dsp/reports/report-destinations/report-destination-create.md)
 >* [Edit a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
->* [Delete a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
+>* [Delete a report destination](/help/dsp/reports/report-destinations/report-destination-delete.md)

@@ -1,6 +1,6 @@
 ---
 title: Custom report settings
-description: See descriptions of the custom report settings.
+description: See descriptions of the Custom report settings.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
 ---
