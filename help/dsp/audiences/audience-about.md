@@ -100,15 +100,15 @@ You can also see detailed audience size data:
 
    ![the individual segment or saved audience details](/help/dsp/assets/audience-size-segment-details.png)
 
-## The Audiences views
+## The [!UICONTROL Audiences] views
 
-### The All Audiences view
+### The [!UICONTROL All Audiences] view
 
 In the [!UICONTROL All Audiences] view, or Audience Library, you can save and manage reusable audiences, which include groups of audience segments and even other saved audiences. You can use audiences as targets for multiple placements. The number of placements in which each audience is used is indicated next to the placement name.
 
 You can edit, clone, delete, export, or share any audience.
 
-### The Segments view
+### The [!UICONTROL Segments] view
 
 In the [!UICONTROL Segments] view, all users can create additional custom segments.
 
@@ -128,7 +128,7 @@ The [!UICONTROL Segments] view also lists the following segment types:
 
    You can't edit or share third-party segments that were shared with you. Contact your Adobe Account Team if you need to share third-party segments with additional users.
 
-### The Sources view
+### The [!UICONTROL Sources] view
 
 In the [!UICONTROL Sources] view, you can configure sources for first-party segments in supported customer data platforms that you want to convert to segments containing specified universal ID types. The source settings include an auto-generated source key, which you'll provide to your customer data platform to establish the connection.
 
@@ -138,12 +138,12 @@ The translated segments are available to include in reusable audiences and in pl
 
 >[!MORELIKETHIS]
 >
->* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
->* [Create a Reusable Audience](reusable-audience-create.md)
->* [Create and Implement a Custom Segment](custom-segment-create.md)
+>* [Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)
+>* [Create a reusable audience](reusable-audience-create.md)
+>* [Create and implement a custom segment](custom-segment-create.md)
 >* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
->* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
->* [Manage Audience Sources to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-manage.md)
->* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
->* [Available Third-party Data Providers](third-party-data-providers.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [About first-party audience sources](/help/dsp/audiences/sources/source-about.md)
+>* [Manage audience sources to activate universal ID audiences](/help/dsp/audiences/sources/source-manage.md)
+>* [Manually import authenticated segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
+>* [Available third-party data providers](third-party-data-providers.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

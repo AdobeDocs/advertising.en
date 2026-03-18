@@ -17,7 +17,7 @@ Deleting a custom or CCPA opt-out of sale segment removes it from all placements
 >[!MORELIKETHIS]
 >
 >* [About audience management](audience-about.md)
->* [Create a Custom Segment](custom-segment-create.md)
->* [Edit Segment Information](segment-edit.md)
->* [View Tracking Pixels for a Segment](segment-view-pixels.md)
->* [Share or Stop Sharing a Segment](segment-share.md)
+>* [Create a custom segment](custom-segment-create.md)
+>* [Edit segment information](segment-edit.md)
+>* [View tracking pixels for a segment](segment-view-pixels.md)
+>* [Share or stop sharing a segment](segment-share.md)

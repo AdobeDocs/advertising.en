@@ -31,4 +31,4 @@ Advertisers are available to all users in the organization account.
 
 >[!MORELIKETHIS]
 >
->* [Advertiser Settings](/help/dsp/admin/advertiser-settings.md)
+>* [Advertiser settings](/help/dsp/admin/advertiser-settings.md)

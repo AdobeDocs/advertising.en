@@ -27,7 +27,7 @@ You can also stop sharing a segment with other DSP user accounts.
 >[!MORELIKETHIS]
 >
 >* [About audience management](audience-about.md)
->* [Create a Custom Segment](custom-segment-create.md)
->* [Edit Segment Information](segment-edit.md)
->* [Delete a Segment](segment-delete.md)
->* [View Tracking Pixels for a Segment](segment-view-pixels.md)
+>* [Create a custom segment](custom-segment-create.md)
+>* [Edit segment information](segment-edit.md)
+>* [Delete a segment](segment-delete.md)
+>* [View tracking pixels for a segment](segment-view-pixels.md)

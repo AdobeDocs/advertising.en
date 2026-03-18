@@ -36,8 +36,8 @@ means (in plain English)
 
 >[!MORELIKETHIS]
 >
->* [Copy the Segment Key for a Reusable Audience to the Clipboard](reusable-audience-clipboard.md)
+>* [Copy the segment key for a reusable audience to the clipboard](reusable-audience-clipboard.md)
 >* [About audience management](audience-about.md)
->* [Create a Reusable Audience](reusable-audience-create.md)
->* [Audience Settings](audience-settings.md)
->* [Available Third-party Data Providers](third-party-data-providers.md)
+>* [Create a reusable audience](reusable-audience-create.md)
+>* [Audience settings](audience-settings.md)
+>* [Available third-party data providers](third-party-data-providers.md)
