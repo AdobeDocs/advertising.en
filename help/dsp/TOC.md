@@ -145,9 +145,9 @@ index: yes
   + [Overview of inventory features in Advertising DSP](/help/dsp/inventory/inventory-overview.md)
   + [Using [!DNL Roku Inventory]](/help/dsp/inventory/roku-inventory.md)
   + [SSP partners](/help/dsp/inventory/ssp-partners.md)
-  + [!DNL On Demand] Inventory {#on-demand}
+  + [!DNL On Demand] inventory {#on-demand}
     + [About [!DNL On Demand] premium inventory](/help/dsp/inventory/on-demand-inventory-about.md)
-    + Available [!DNL On Demand] Premium Inventory Publishers {#publishers}
+    + Available [!DNL On Demand] premium inventory publishers {#publishers}
       + [[!DNL On Demand] premium inventory publishers in Asia Pacific](/help/dsp/inventory/on-demand-inventory-publishers-apac.md)
       + [[!DNL On Demand] premium inventory publishers in Australia and New Zealand](/help/dsp/inventory/on-demand-inventory-publishers-anz.md)
       + [[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa](/help/dsp/inventory/on-demand-inventory-publishers-emea.md)

@@ -1,6 +1,6 @@
 ---
 title: '[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa'
-description: '[!DNL On Demand] Premium Inventory Publishers in Europe, the Middle East, and Africa'
+description: '[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa'
 feature: DSP On Demand Inventory
 exl-id: a7669db9-5967-420c-970f-ff87e8f3556a
 ---
