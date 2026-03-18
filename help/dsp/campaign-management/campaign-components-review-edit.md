@@ -12,7 +12,7 @@ To update multiple settings at once, upload a valid bulksheet file with the chan
 
 >[!NOTE]
 >
->You can also download and edit the settings for only specific packages and specific placements. See "[Review and Edit Package Settings Using Bulksheets](/help/dsp/campaign-management/packages/package-qa.md)" and "[Review and Edit Placement Settings Using Bulksheets](/help/dsp/campaign-management/placements/placement-qa.md)."
+>You can also download and edit the settings for only specific packages and specific placements. See "[Review and edit package settings using bulksheets](/help/dsp/campaign-management/packages/package-qa.md)" and "[Review and edit placement settings using bulksheets](/help/dsp/campaign-management/placements/placement-qa.md)."
 
 ## Download settings for the packages, placements, and ads in a campaign {#download-bulksheet-campaign}
 
@@ -36,7 +36,7 @@ To update multiple settings at once, upload a valid bulksheet file with the chan
    
    * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
    
-     The file is saved to the browser's Downloads folder.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
+     The file is saved to the browser's Downloads folder.<!-- See "[Placement columns in downloaded/uploaded spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
      To edit any of the settings, edit the file directly and then upload the changes. All editable columns are highlighted in blue. To use the correct format for a field, select and copy the value from the relevant package setting or placement setting. For some target settings, such as dayparting, custom goals, and conversion metrics, a copy option is available within the setting.
 
@@ -145,14 +145,14 @@ Upload settings for packages, placements, and ads in a single campaign all at on
 
 >[!MORELIKETHIS]
 >
->* [Review and Edit Package Settings Using Bulksheets](/help/dsp/campaign-management/packages/package-qa.md)
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Review and Edit Placement Settings Using Bulksheets](/help/dsp/campaign-management/placements/placement-qa.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Native Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
->* [Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
+>* [Review and edit package settings using bulksheets](/help/dsp/campaign-management/packages/package-qa.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Review and edit placement settings using bulksheets](/help/dsp/campaign-management/placements/placement-qa.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Audio ad settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [Connected TV settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Display ad settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Mobile ad settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Native display ad settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Pre-roll ad settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Universal video ad settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)

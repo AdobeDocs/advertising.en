@@ -1,5 +1,5 @@
 ---
-title: "Convert User IDs from [!DNL ActionIQ] to universal IDs"
+title: "Convert user IDs from [!DNL ActionIQ] to universal IDs"
 description: "Learn how to enable DSP to ingest your [!DNL ActionIQ] first-party segments."
 feature: DSP Audiences
 ---

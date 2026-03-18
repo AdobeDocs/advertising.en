@@ -46,7 +46,7 @@ Use general tracking macros across all ad and tag types to pass back specific da
 |` ${TM_MACRO_PROMOTED_AD_KEY}` | The promoted ad key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads. | string |
  -->
 
-## Mobile-Specific Macros
+## Mobile-specific macros
 
 | Macro | Replacement Description | Type |
 | ----- | ----------------------- | ---- |
@@ -79,9 +79,9 @@ DSP automatically inserts display click macros in a third-party display tag when
 
 If a click macro is missing when you build a display ad, DSP displays a warning message, which prompts you to manually insert the appropriate display click macro in the correct area of the tag.
 
-## [!DNL Analytics for Advertising] Macros
+## [!DNL Analytics for Advertising] macros
 
-For additional macros available specifically for [ [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) customers, see "[Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)" and "[Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)."
+For additional macros available specifically for [ [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) customers, see "[Append [!DNL Analytics for Advertising] macros to [!DNL Flashtalking] ad tags](/help/integrations/analytics/macros-flashtalking.md)" and "[Append [!DNL Analytics for Advertising] macros to [!DNL Google Campaign Manager 360] ad tags](/help/integrations/analytics/macros-google-campaign-manager.md)."
 
 ## Troubleshooting macro errors
 
@@ -94,10 +94,10 @@ Errors are generated if characters are missing from the beginning or end of the 
 
 >[!MORELIKETHIS]
 >
->* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [Connected TV Ad Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Native Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
->* [Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
+>* [Audio ad settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [Connected TV ad settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Display ad settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Mobile ad settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Native ad settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Pre-roll ad settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Universal video ad settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
