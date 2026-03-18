@@ -1,10 +1,10 @@
 ---
-title: About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports
+title: About [!UICONTROL CCPA Opt-out-of-Sale] segments and reports
 description: Learn about creating segments to track IDs from CCPA opt-out-of-sale requests and how to retrieve reports of the IDs.
 feature: CCPA, DSP Segments
 exl-id: 28b5e00b-a695-46f1-abbf-7bbd78f05411
 ---
-# About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports
+# About [!UICONTROL CCPA Opt-out-of-Sale] segments and reports
 
 You can track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), by [creating and implementing a CCPA opt-out-of-sale segment](ccpa-opt-out-segment-create.md). Users remain in CCPA opt-out-of-sale segments indefinitely.
 

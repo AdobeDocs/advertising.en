@@ -1,16 +1,16 @@
 ---
-title: Audience Settings
+title: Audience settings
 description: See descriptions of the available audience settings.
 feature: DSP Audiences
 exl-id: ea69ed6e-2d68-4ac5-8465-2ee7d798ae1d
 ---
-# Audience Settings
+# Audience settings
 
-## Third Party Segments
+## Third party segments
 
 (Optional) Any standard segment that is available through the Adobe Advertising third-party data taxonomy, to include in the audience configuration.
 
-## First Party Segments
+## First party segments
 
 (Optional) Any first-party segments imported and/or custom segments imported for the account, to include in the audience configuration.
 
@@ -18,15 +18,15 @@ exl-id: ea69ed6e-2d68-4ac5-8465-2ee7d798ae1d
 >
 >(Advertisers for whom DSP converts hashed email IDs to LiveRamp RampID segments) First-party RampID segments that aren't attached to an active, scheduled, or paused placement are now paused. The segment is noted in the segment list as "Auto paused."
 
-## Adobe Segments
+## Adobe segments
 
 (Optional) Any [!DNL Adobe Real-Time CDP], Adobe Analytics, or Adobe Audience Manager segments to include in the audience configuration.
 
-## Custom Segments
+## Custom segments
 
 (Optional) Any user-created segments, which are captured using custom DSP segment pixels, to include in the audience configuration. This can include standard custom segments and CCPA opt-out-of-sale segments.
 
-## Saved Audiences
+## Saved audiences
 
 (Optional) Any existing audiences built in Audience Library to include in the audience configuration.
 
