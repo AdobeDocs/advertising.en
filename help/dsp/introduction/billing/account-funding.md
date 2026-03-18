@@ -23,4 +23,4 @@ Adobe reserves the right to block your account from spending on DSP for reasons 
 
 >[!MORELIKETHIS]
 >
->* [Currencies Supported](/help/dsp/currency.md)
+>* [Currencies supported](/help/dsp/currency.md)

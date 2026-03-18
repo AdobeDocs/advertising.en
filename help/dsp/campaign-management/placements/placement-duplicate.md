@@ -15,7 +15,7 @@ Duplicate one or more placements to create placements with similar settings. You
 * (For duplicated placements within the original campaigns) Optionally duplicate the original ads
 * Modify the status and flight dates of the new placements
 
-See "[What's Not Duplicated](#placement-not-duplicated)" for a list of placement settings that aren't duplicated.
+See "[What's not duplicated](#placement-not-duplicated)" for a list of placement settings that aren't duplicated.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 

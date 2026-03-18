@@ -26,5 +26,5 @@ All placements that are paused prior to pausing a campaign remain paused upon ca
 
 >[!MORELIKETHIS]
 >
->* [Edit a Campaign](campaign-edit.md)
+>* [Edit a campaign](campaign-edit.md)
 >* [Archive a Campaign](campaign-archive-unarchive.md)

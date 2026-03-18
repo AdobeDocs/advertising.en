@@ -144,5 +144,5 @@ For more information about functionality, contact [!DNL DoubleVerify] directly, 
 
 >[!MORELIKETHIS]
 >
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
 <!-- >* [Advertiser Account Settings](/help/dsp/admin/advertiser-settings.md) -->

@@ -79,4 +79,4 @@ For information about all advanced measurement solutions, outlining pricing info
 
 >[!MORELIKETHIS]
 >
->[Currencies Supported in Adobe Advertising](/help/dsp/currency.md)
+>[Currencies supported in Adobe Advertising](/help/dsp/currency.md)

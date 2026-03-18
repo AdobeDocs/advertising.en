@@ -16,7 +16,7 @@ Duplicate a package to create a package with similar settings. You can:
 
 * Modify the flight dates of the new package
 
-See "[What's Not Duplicated](#package-not-duplicated)" for a list of placement settings that aren't duplicated.
+See "[What's not duplicated](#package-not-duplicated)" for a list of placement settings that aren't duplicated.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 

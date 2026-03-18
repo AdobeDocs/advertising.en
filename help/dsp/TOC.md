@@ -206,13 +206,13 @@ index: yes
     + [Report destination settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
 + Planner {#planner}
   + [About the DSP [!UICONTROL Planner] tool](/help/dsp/planner/planner-about.md)
-  + [Create a Connected TV reach plan](/help/dsp/planner/planner-create.md)
-  + [Duplicate a Connected TV reach plan](/help/dsp/planner/planner-duplicate.md)
-  + [Edit a Connected TV reach plan](/help/dsp/planner/planner-edit.md)
-  + [Settings for Connected TV reach plans](/help/dsp/planner/planner-settings.md)
-  + [Export a forecast for a Connected TV reach plan](/help/dsp/planner/planner-export.md)
-  + [Regenerate the forecast for a Connected TV reach plan](/help/dsp/planner/planner-forecast.md)
-  + [Archive a Connected TV reach plan](/help/dsp/planner/planner-archive.md)
+  + [Create a connected TV reach plan](/help/dsp/planner/planner-create.md)
+  + [Duplicate a connected TV reach plan](/help/dsp/planner/planner-duplicate.md)
+  + [Edit a connected TV reach plan](/help/dsp/planner/planner-edit.md)
+  + [Settings for connected TV reach plans](/help/dsp/planner/planner-settings.md)
+  + [Export a forecast for a connected TV reach plan](/help/dsp/planner/planner-export.md)
+  + [Regenerate the forecast for a connected TV reach plan](/help/dsp/planner/planner-forecast.md)
+  + [Archive a connected TV reach plan](/help/dsp/planner/planner-archive.md)
 + Resources {#resources}
   + [Manage URL lists](/help/dsp/resources/lists-url-manage.md)
 + Administration {#admin}
