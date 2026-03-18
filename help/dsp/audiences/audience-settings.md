@@ -32,10 +32,10 @@ exl-id: ea69ed6e-2d68-4ac5-8465-2ee7d798ae1d
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
->* [Create a Reusable Audience](reusable-audience-create.md)
->* [Available Third-party Data Providers](third-party-data-providers.md)
->* [Syntax for Audience Segment Logic](audience-segment-logic-syntax.md)
->* [Create and Implement a Custom Segment](custom-segment-create.md)
->* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [About audience management](audience-about.md)
+>* [Create a reusable audience](reusable-audience-create.md)
+>* [Available third-party data providers](third-party-data-providers.md)
+>* [Syntax for audience segment logic](audience-segment-logic-syntax.md)
+>* [Create and implement a custom segment](custom-segment-create.md)
+>* [Create and implement a [!UICONTROL CCPA Opt-Out-of-Sale] segment](ccpa-opt-out-segment-create.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
