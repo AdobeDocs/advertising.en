@@ -97,9 +97,9 @@ The ideal use case is to use both the [!UICONTROL Household] report and the [!DN
 
 ## Conversion path analysis reports
 
-### How does the Path to conversion report compare to reports created by [!DNL Advanced Measurement Services] and Adobe Analytics Analysis Workspace?
+### How does the [!UICONTROL Path to Conversion] report compare to reports created by [!DNL Advanced Measurement Services] and Adobe Analytics Analysis Workspace?
 
-| | Path to Conversion Report | Advanced Measurement Services Halo Effect on Search Reporting | Reports in Analysis Workspace |
+| | [!UICONTROL Path to Conversion] Report | Advanced Measurement Services Halo Effect on Search Reporting | Reports in Analysis Workspace |
 | --- | --- | --- |---|
 | Customer Value | Generate a self-serve custom report to understand which paths of the ad journey led to more conversions to boost optimization | Understand the influence of connected TV (CTV) tactics on search clicks | Understand the influence of your holistic Adobe Advertising investment, alongside other marketing channels, on search clicks |
 | Household Level | Yes | Yes | No |
@@ -111,7 +111,7 @@ The ideal use case is to use both the [!UICONTROL Household] report and the [!DN
 | Marketing Channels | DSP + Search (from Search, Social, & Commerce) | DSP + Search (from Search, Social, & Commerce) | Marketing Channels not tracked by the Adobe Advertising clickthrough EF ID (such as Organic Search, Organic Social, Email, and Affiliate |
 | Conversion Metrics supported | Metrics tracked using the Adobe Advertising event pixel (AMO ID) and Adobe Analytics tracking | Clicks (no conversions) | Metrics tracked using Adobe Analytics tracking |
 
-For more information about the Advanced Measurement Services Halo Effect on Search Reporting, see "[Advanced measurement services](/help/dsp/introduction/advanced-measurement-services.md)."
+For more information about the Advanced Measurement Services Halo Effect on Search Reporting, see "[Advanced measurement solutions](/help/dsp/introduction/advanced-measurement-services.md)."
 
 >[!MORELIKETHIS]
 >
