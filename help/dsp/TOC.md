@@ -6,7 +6,7 @@ breadcrumb-title: DSP Guide
 index: yes
 ---
 
-# Advertising DSP guide {#dsp}
+# Advertising DSP Guide {#dsp}
 
 + [What's new](/help/dsp/home.md)
 + [Sign in to Adobe Advertising DSP](/help/dsp/introduction/sign-in.md)
@@ -229,7 +229,7 @@ index: yes
     + [Manage alert subscriptions](/help/dsp/admin/alerts-manage.md)
 + [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)
 + [Get help](/help/dsp/get-help.md)
-+ [Adobe Experience Cloud Release Notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
++ [Adobe Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
 
 
 <!-- add back to about below "Edit the advertisers with access to a deal ID" when reintroduced:

@@ -56,4 +56,4 @@ You can add or remove alerts from a subscription, edit the users who receive ema
 
 >[!MORELIKETHIS]
 >
->[Manage Alert Subscriptions](alerts-manage.md)
+>[Manage alert subscriptions](alerts-manage.md)

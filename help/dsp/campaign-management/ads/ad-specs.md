@@ -58,7 +58,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 
 * **NBCUniversal:**
 
-  * [Digital Video](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
+  * [Digital video](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
 
   * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
 

@@ -111,7 +111,7 @@ The ideal use case is to use both the [!UICONTROL Household] report and the [!DN
 | Marketing Channels | DSP + Search (from Search, Social, & Commerce) | DSP + Search (from Search, Social, & Commerce) | Marketing Channels not tracked by the Adobe Advertising clickthrough EF ID (such as Organic Search, Organic Social, Email, and Affiliate |
 | Conversion Metrics supported | Metrics tracked using the Adobe Advertising event pixel (AMO ID) and Adobe Analytics tracking | Clicks (no conversions) | Metrics tracked using Adobe Analytics tracking |
 
-For more information about the Advanced Measurement Services Halo Effect on Search Reporting, see "[Advanced Measurement Services](/help/dsp/introduction/advanced-measurement-services.md)."
+For more information about the Advanced Measurement Services Halo Effect on Search Reporting, see "[Advanced measurement services](/help/dsp/introduction/advanced-measurement-services.md)."
 
 >[!MORELIKETHIS]
 >

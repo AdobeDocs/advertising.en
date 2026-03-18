@@ -139,7 +139,7 @@ See "[Available report columns](report-columns.md)" for descriptions of all opti
 
   * *[!UICONTROL Social Only]:* Obsolete
 
- See also "[How Attribution Rules Are Calculated for Adobe Advertising](/help/search-social-commerce/reports/attribution-rules.md)."
+ See also "[How attribution rules are calculated for Adobe Advertising](/help/search-social-commerce/reports/attribution-rules.md)."
 
 * **Lookback:** ([!UICONTROL Household Conversion] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns, and [!UICONTROL Path to Conversion], [!UICONTROL Path Length], or [!UICONTROL Time to Conversion] reports with [!UICONTROL Conversion Metrics] columns only; advertisers with Adobe Advertising conversion tracking only) Within the report, the maximum number of days after an impression event or a click event (for [!UICONTROL Path to Conversion], [!UICONTROL Path Length], or [!UICONTROL Time to Conversion] reports) in which a conversion event can be attributed to it. The default is *[!UICONTROL 30 days]*, and the maximum is 92 days.
 

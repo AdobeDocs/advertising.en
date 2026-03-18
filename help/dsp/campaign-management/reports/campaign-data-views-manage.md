@@ -42,7 +42,7 @@ DSP saves your most recent view as the default view so that, every time you retu
 
 * In the View selector, click ![down arrow](/help/dsp/assets/chevron-down.png), and then click the name of the desired column view.
 
-#### Create a Custom Column View {#column-view-create}
+#### Create a custom column view {#column-view-create}
 
 1. In the View selector, click ![down arrow](/help/dsp/assets/chevron-down.png), and then click **[!UICONTROL Create View]**.
 

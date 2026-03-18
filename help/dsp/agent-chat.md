@@ -54,7 +54,7 @@ You can ask multiple questions in one message, but only one message at a time. W
 
 1. Enter your query and click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
 
-   For more information, see "[Writing Prompts](#writing-prompts)."
+   For more information, see "[Writing prompts](#writing-prompts)."
 
    The response includes inline citations and a **[!UICONTROL Documentation Sources]** list at the bottom. Follow-up questions and suggestions may also appear.
 

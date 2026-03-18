@@ -42,7 +42,7 @@ Within a campaign, you can filter data based on the campaign entity: [!UICONTROL
 
 ![Campaign entity tabs](/help/dsp/assets/campaign-subtabs.png)
 
-### Chart View
+### Chart view
 
 For each campaign, you can [customize time series trend charts](campaign-data-views-manage.md#data-visualizations-manage) with three metrics, which are available in each entity view. The same metrics are persisted across all trend charts for the campaign.
 

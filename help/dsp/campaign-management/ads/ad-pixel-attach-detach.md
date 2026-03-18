@@ -102,7 +102,7 @@ You can attach and detach third-party tracking pixels from ads.
 
 1. Click any ad row in the left table to see the attached pixels in the right table.
 
-1. (Optional) To attach more pixels to the ads, switch to the **[!UICONTROL Edit]** view in the upper right. See Step 3 in the previous procedure, "[Attach Third-Party Tracking Pixels to Ads in a Placement](#attach-pixels-ads)," for instructions.
+1. (Optional) To attach more pixels to the ads, switch to the **[!UICONTROL Edit]** view in the upper right. See Step 3 in the previous procedure, "[Attach third-party tracking pixels to ads in a placement](#attach-pixels-ads)," for instructions.
 
 >[!MORELIKETHIS]
 >

@@ -10,12 +10,12 @@ exl-id: a223d4e1-2264-49fa-8579-817e7ea6ea56
 
 You can download details about all ads in a campaign in XLSX (Excel spreadsheet) format for review. The *bulksheet* details include one tab with the settings and associated placements for each ad and another tab with each pixel used for ads in the campaign.
 
-To edit the ad details, see "[Review and Edit Campaign Component Settings Using Bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)."
+To edit the ad details, see "[Review and edit campaign component settings using bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)."
 
 >[!NOTE]
 >
 >*To edit individual ad settings, see also "[Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)."
->*To change the third-party tracking pixels for multiple ads at once or to attach ads to placements, see also "[Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)."
+>*To change the third-party tracking pixels for multiple ads at once or to attach ads to placements, see also "[Attach ads to placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)."
 
 ## Download details for all ads in a campaign
 
@@ -39,7 +39,7 @@ To edit the ad details, see "[Review and Edit Campaign Component Settings Using 
    
    * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
    
-     The file is saved to the browser's Downloads folder.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
+     The file is saved to the browser's Downloads folder.<!-- See "[Placement columns in downloaded/uploaded spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
 >[!MORELIKETHIS]
 >

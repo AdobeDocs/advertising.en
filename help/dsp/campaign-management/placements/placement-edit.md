@@ -29,7 +29,7 @@ You can edit the placement name, status, maximum bid, and budget without opening
 
 >[!TIP]
 >
-> To edit only the placement name, status, maximum bid, and budget, see "[Quickly Edit Key Placement Settings](#placement-quick-edit)."
+> To edit only the placement name, status, maximum bid, and budget, see "[Quickly edit key placement settings](#placement-quick-edit)."
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
