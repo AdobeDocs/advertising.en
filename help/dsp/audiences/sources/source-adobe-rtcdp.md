@@ -1,10 +1,10 @@
 ---
-title: Using the DSP Integration with [!DNL Adobe] [!DNL Real-time CDP]
+title: Using the DSP integration with [!DNL Adobe] [!DNL Real-time CDP]
 description: Learn how to enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments.
 feature: DSP Audiences
 exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
 ---
-# Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs
+# Convert user IDs from [!DNL Adobe Real-Time CDP] to universal IDs
 
 *Beta feature*
 

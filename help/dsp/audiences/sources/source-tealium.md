@@ -1,10 +1,10 @@
 ---
-title: Convert User IDs from [!DNL Tealium] to Universal IDs
+title: Convert user IDs from [!DNL Tealium] to universal IDs
 description: Learn how to enable DSP to ingest your [!DNL Tealium] first-party segments.
 feature: DSP Audiences
 exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
 ---
-# Convert User IDs from [!DNL Tealium] to Universal IDs
+# Convert user IDs from [!DNL Tealium] to universal IDs
 
 *Beta feature*
 
