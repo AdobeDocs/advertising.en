@@ -1,6 +1,6 @@
 ---
 title: View a detailed report for a campaign
-description: Learn how to open campaign-level report with sections on Geography, Device, Viewability, and Audience Performance data.
+description: Learn how to open campaign-level report with sections on geography, device, viewability, and audience performance data.
 feature: DSP Campaigns, DSP Campaign Data Views
 exl-id: ce0d8b44-63cb-47da-adac-d9ae330c52bf
 ---
