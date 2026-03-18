@@ -1,10 +1,10 @@
 ---
-title: Manage Deal Lists
+title: Manage deal lists
 description: Learn how to create and manage deal lists for placement targeting.
 feature: DSP Private Inventory, DSP On Demand Inventory, DSP Deal IDs, DSP Placements
 exl-id: 18a2c2d2-d84d-4347-93af-ca7489a1a8fb
 ---
-# Manage Deal Lists
+# Manage deal lists
 
 You can create and manage lists of private deals and [!DNL On Demand] deals for placement targeting. Target or exclude specific private deal lists within placement settings. 
 
@@ -12,13 +12,13 @@ You can create and manage lists of private deals and [!DNL On Demand] deals for 
 In custom reports, you can a) filter data by deal lists and deals and b) include the [!UICONTROL Feed] dimensions "[!UICONTROL Deal list]" and "[!UICONTROL Deal]" in the [!UICONTROL Build Your Report] section
 -->
 
-## View a Deal List
+## View a deal list
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deal Lists]**.
 
 1. Click the list name.
 
-## Create a Deal List
+## Create a deal list
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deal Lists]**.
 
@@ -38,7 +38,7 @@ In custom reports, you can a) filter data by deal lists and deals and b) include
 
 1. Click **[!UICONTROL Add Selected Deals]**.
 
-## Edit a Deal List
+## Edit a deal list
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deal Lists]**.
 

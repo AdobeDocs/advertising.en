@@ -1,10 +1,10 @@
 ---
-title: Edit the Accounts with Access to a Private Deal
+title: Edit the accounts with access to a private deal
 description: Learn how to share and stop sharing a private deal with different accounts.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: fb67ef24-8b7f-4a2f-973b-8102a97f0acb
 ---
-# Edit the Accounts with Access to a Private Deal
+# Edit the accounts with access to a private deal
 
 You can share a deal ID with multiple accounts. The deal is shared with all advertisers within the specified accounts, so that all users in those accounts can edit the deal or use it as a target for their placements.
 
@@ -14,7 +14,7 @@ You can stop sharing a deal with accounts to remove editing and targeting capabi
 >
 > You can also [edit the individual advertisers with access to the account](deal-id-edit-advertisers.md).
 
-## Share a Deal ID with Accounts
+## Share a Deal ID with accounts
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 
@@ -26,7 +26,7 @@ You can stop sharing a deal with accounts to remove editing and targeting capabi
 
    1. Click **[!UICONTROL Share]**.
 
-## Stop Sharing a Deal ID with Accounts
+## Stop sharing a Deal ID with accounts
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 

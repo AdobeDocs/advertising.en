@@ -1,10 +1,10 @@
 ---
-title: About [!DNL On Demand] Premium Inventory
+title: About [!DNL On Demand] premium inventory
 description: Learn about the deals that DSP has pre-negotiated with premium publisher partners.
 feature: DSP On Demand Inventory
 exl-id: 2e8dd4a0-7a7b-45e9-8f0f-e5435cf0d9ee
 ---
-# About [!DNL On Demand] Premium Inventory
+# About [!DNL On Demand] premium inventory
 
 *Not available to users with the account types [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension], and [!UICONTROL Other]; advertisers with the category [!UICONTROL Other]; and resellers*
 
@@ -30,7 +30,7 @@ The DSP premium marketplace allows you to:
 
 Once a deal is approved, it's available as a target for existing placements and automatically included as a target for new placements that target all [!DNL On Demand] inventory. If a deal request is denied, you can work with your Adobe Account Team to resolve the issue and then re-request the deal.
 
-## The On Demand Views
+## The [!UICONTROL On Demand] views
 
 At [!UICONTROL Inventory] > [!UICONTROL On Demand], the most recent deals and publishers <!-- how recent? --> are available from a carousel at the top of the page.
 

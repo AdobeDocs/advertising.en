@@ -1,14 +1,14 @@
 ---
-title: '[!UICONTROL Simple Ad Serving] Deal Settings'
+title: '[!UICONTROL Simple Ad Serving] deal settings'
 description: Learn about the available settings for [!UICONTROL Simple Ad Serving] deals.
 feature: DSP Simple Ad Serving
 exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
 ---
-# [!UICONTROL Simple Ad Serving] Deal Settings
+# [!UICONTROL Simple Ad Serving] deal settings
 
-## New [!UICONTROL Simple Ad Serving] Deals
+## New [!UICONTROL Simple Ad Serving] deals
 
-### [!UICONTROL Select Ad Source]
+### [!UICONTROL Select ad source]
 
 | Parameter | Description |
 |-----------|-------------|
@@ -22,15 +22,15 @@ exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
 
 {style="table-layout:auto"}
 
-### [!UICONTROL Select Ad(s)]
+### [!UICONTROL Select ad(s)]
 
 (When you're using existing ads) The ads to include in the deal. Select the check box next to each ad to include.
 
-### [!UICONTROL Select & Upload [Media Type]]
+### [!UICONTROL Select & upload [Media Type]]
 
 (New ads only) Screens to create a new [third-party ad](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
-### [!UICONTROL Feed Details]
+### [!UICONTROL Feed details]
 
 | Parameter | Description |
 |-----------|-------------|

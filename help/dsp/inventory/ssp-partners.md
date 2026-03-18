@@ -1,10 +1,10 @@
 ---
-title: SSP Partners
+title: SSP partners
 description: See a list of available supply-side platform (SSP) and open exchange partners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
 ---
-# SSP Partners
+# SSP partners
 
 A supply-side platform (SSP) is an advertising technology platform used to help digital media owners and publishers sell digital ads in automated auctions. Digital media owners and publishers use SSPs to coordinate, manage, and monetize the supply and distribution of their ad inventory. Advertising DSP is integrated with all leading SSPs, allowing advertisers to easily access high-quality inventory for their advertising needs.
 

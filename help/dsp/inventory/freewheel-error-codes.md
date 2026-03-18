@@ -1,14 +1,14 @@
 ---
-title: Error Codes for [!DNL FreeWheel] Ad Submissions
+title: Error codes for [!DNL FreeWheel] ad submissions
 description: Reference the error codes that are returned for ad submissions to [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: e48937c2-ced9-4107-9e1d-65a3bac51fff
 ---
-# Error Codes for [!DNL FreeWheel] Ad Submissions
+# Error codes for [!DNL FreeWheel] ad submissions
 
 The error messages for failed ad submissions can come from either Advertising DSP or from [!DNL FreeWheel]. Error messages are shown in the [!UICONTROL API Response] column in the [[!UICONTROL Freewheel Status] dialog](freewheel-check-status.md).
 
-## Advertising DSP Internal Errors
+## Advertising DSP internal errors
 
 |Error Message|Description|Next Steps|
 |--- |--- |--- |
@@ -23,7 +23,7 @@ The error messages for failed ad submissions can come from either Advertising DS
 
 {style="table-layout:auto"}
 
-## [!DNL Freewheel] API Errors
+## [!DNL Freewheel] API errors
 
 |Code|Meaning|Description|Next Steps|
 |--- |--- |--- |--- |

@@ -1,16 +1,16 @@
 ---
-title: Check the Status of Ads for a [!DNL FreeWheel] PG Deal
+title: Check the status of ads for a [!DNL FreeWheel] PG deal
 description: Learn how to find the status of ads for [!DNL Freewheel] programmatic guaranteed deals.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: f5f33e96-68a8-48bd-8c30-72be9315c5ac
 ---
-# Check the Status of Ads for [!DNL Freewheel] Programmatic Guaranteed Deals
+# Check the status of ads for [!DNL Freewheel] programmatic guaranteed deals
 
 See if your ad submissions to [!DNL Freewheel] were successful. You can resubmit any ad as needed.
 
 For any additional questions or issues with resubmission, contact your Adobe Account Team.
 
-## Check the Status from the [!UICONTROL Ads] View
+## Check the status from the [!UICONTROL Ads] view
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -22,7 +22,7 @@ For any additional questions or issues with resubmission, contact your Adobe Acc
 
 1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More]** > **[!UICONTROL Resubmit]**.
 
-## Check the Status from the [!UICONTROL Deals] View
+## Check the status from the [!UICONTROL Deals] view
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 

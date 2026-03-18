@@ -6,17 +6,17 @@ exl-id: 133dfc0d-d839-4e06-a819-21e3e630830c
 ---
 # Specifications for supported ad types
 
-## Video Ads (Pre-Roll, CTV, and Universal Video)
+## Video ads (pre-roll, CTV, and universal video)
 
-### Supported Screens
+### Supported screens
 
 Ads are delivered by default on desktop, mobile, and connected TV devices. Device targeting is available to adjust delivery.
 
-### Supported Third-Party Ad Servers
+### Supported third-party ad servers
 
 You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
 
-### Requirements for High-Definition Video Assets
+### Requirements for high-definition video assets
 
 **Video Tag Type:** VPAID 2.0 JavaScript or VAST (CTV). All VPAID ad units must adhere to the [VPAID 2.0 specification](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) as defined by the Interactive Advertising Bureau (IAB).
 
@@ -66,19 +66,19 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 
 * **Paramount:** See Paramount's [ad specifications](https://www.paramount.com/digital-ads).
 
-## Display Ads
+## Display ads
 
-### Supported Screens
+### Supported screens
 
 Ads are delivered by default on desktop and mobile devices. Device targeting is available to adjust delivery.
 
-### Supported File Types
+### Supported file types
 
 **Image:** GIF, JPG/JPEG, PNG
 
 **HTML5:** Image file types: GIF, JPG/JPEG, PNG, SVG
 
-### Requirements for Image Assets
+### Requirements for image assets
 
 Universal Display is supported.
 
@@ -86,17 +86,17 @@ Universal Display is supported.
 
 **Supported Third-Party Ad Servers:** You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
 
-## Audio Ads
+## Audio ads
 
-### Supported Screens
+### Supported screens
 
 Desktop, Mobile, Tablet, Smart Speakers, and Connected TV
 
-### Supported Third-Party Ad Servers
+### Supported third-party ad servers
 
 You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
 
-### Requirements for Audio Assets
+### Requirements for audio assets
 
 **File type:** MP3, OGG, AAC
 
@@ -141,7 +141,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
   * File type: MP3, OGG
   * Volume: 44.1 kHz 
 
-### Requirements for Companion Banner Ads (Optional)
+### Requirements for companion banner ads (optional)
 
 **Supported sizes:** 300x250, 500x500, 640x640, 1024x1024
 
@@ -172,15 +172,15 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
   * Maximum file size: 2 MB
   * Dimensions: 300x250
 
-## Native Display Ads
+## Native display ads
 
 Each ad can include either a still image or a moving GIF (cinemagraph).
 
-### Supported Screens
+### Supported screens
 
 Ads are delivered by default on desktop and mobile devices. Device targeting is available to adjust delivery.
 
-### Required Assets for All Native In-Feed Formats 
+### Required assets for all native in-feed formats 
 
 #### Image Asset
 
