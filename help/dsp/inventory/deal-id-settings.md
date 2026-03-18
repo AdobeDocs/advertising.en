@@ -1,10 +1,10 @@
 ---
-title: Manual Deal ID settings
-description: See descriptions of the settings for manually-entered Deal IDs.
+title: Manual deal ID settings
+description: See descriptions of the settings for manually-entered deal IDs.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 9d3417cb-8b44-4f1c-afc4-eea6a2e5b9d7
 ---
-# Manual Deal ID settings
+# Manual deal ID settings
 
 | Section | Parameter | Description | Required | Editable |
 |---------|-----------|-------------|----------|----------|
@@ -26,6 +26,6 @@ exl-id: 9d3417cb-8b44-4f1c-afc4-eea6a2e5b9d7
 
 >[!MORELIKETHIS]
 >
->* [Manually Create Deal ID Details](deal-id-create.md)
->* [SSP Partners](ssp-partners.md)
->* [About Private Inventory](private-inventory-about.md)
+>* [Manually create deal ID details](deal-id-create.md)
+>* [SSP partners](ssp-partners.md)
+>* [About private inventory](private-inventory-about.md)

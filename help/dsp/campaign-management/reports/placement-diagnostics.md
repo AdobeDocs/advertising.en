@@ -66,6 +66,6 @@ Diagnostic reports can help you diagnose issues with placement setup and pacing 
 
 >[!MORELIKETHIS]
 >
->* [Types of Performance Reports in Campaign Management Views](campaign-reports-about.md)
->* [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Types of performance reports in campaign management views](campaign-reports-about.md)
+>* [View the placement forecast report](/help/dsp/campaign-management/reports/placement-forecast.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

@@ -28,7 +28,7 @@ For any additional questions or issues with resubmission, contact your Adobe Acc
 
 1. Do either of the following:
 
-   * Under the [!UICONTROL Deal ID inbox], click **[!UICONTROL View Freewheel creative status]**.
+   * Under the [!UICONTROL Deal ID Inbox], click **[!UICONTROL View Freewheel creative status]**.
 
    * In any deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL see Freewheel status]**.
 
@@ -42,7 +42,7 @@ For any additional questions or issues with resubmission, contact your Adobe Acc
 
 >[!MORELIKETHIS]
 >
->* [Overview of Setting up Programmatic Guaranteed Deals in [!DNL Freewheel]](freewheel-overview.md)
->* [Submit an Ad for a Programmatic Guaranteed Deal to [!DNL Freewheel]](freewheel-submit.md)
->* [Error Codes for [!DNL Freewheel] Ad Submissions](freewheel-error-codes.md)
->* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
+>* [Overview of setting up programmatic guaranteed deals in [!DNL Freewheel]](freewheel-overview.md)
+>* [Submit an ad for a programmatic guaranteed deal to [!DNL Freewheel]](freewheel-submit.md)
+>* [Error codes for [!DNL FreeWheel] ad submissions](freewheel-error-codes.md)
+>* [Accept a deal in the [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md)

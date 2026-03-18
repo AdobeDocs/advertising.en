@@ -16,7 +16,7 @@ The deal-level report includes the number of auctions, the bid rate, the win rat
 
 >[!MORELIKETHIS]
 >
->* [View Auction Insights for a Private Deal](/help/dsp/inventory/private-deal-auction-insights.md)
->* [About [!DNL On Demand] Premium Inventory](on-demand-inventory-about.md)
->* [About Private Inventory](private-inventory-about.md)
+>* [View auction insights for a private deal](/help/dsp/inventory/private-deal-auction-insights.md)
+>* [About [!DNL On Demand] premium inventory](on-demand-inventory-about.md)
+>* [About private inventory](private-inventory-about.md)
 >* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)

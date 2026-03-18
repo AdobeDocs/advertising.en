@@ -19,6 +19,6 @@ exl-id: 51f3fa66-de70-4233-a866-ec48d72e88dc
 1. Click **[!UICONTROL Save]** to save the deal settings.
 
 >[!MORELIKETHIS]
->* [About Private Inventory](private-inventory-about.md)
->* [Edit the Accounts with Access to a Deal ID](/help/dsp/inventory/deal-id-share.md)
->* [Manual Deal ID Settings](deal-id-settings.md)
+>* [About private inventory](private-inventory-about.md)
+>* [Edit the accounts with access to a private deal](/help/dsp/inventory/deal-id-share.md)
+>* [Manual deal ID settings](deal-id-settings.md)

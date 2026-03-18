@@ -14,7 +14,7 @@ You can stop sharing a deal with accounts to remove editing and targeting capabi
 >
 > You can also [edit the individual advertisers with access to the account](deal-id-edit-advertisers.md).
 
-## Share a Deal ID with accounts
+## Share a deal ID with accounts
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 
@@ -26,7 +26,7 @@ You can stop sharing a deal with accounts to remove editing and targeting capabi
 
    1. Click **[!UICONTROL Share]**.
 
-## Stop sharing a Deal ID with accounts
+## Stop sharing a deal ID with accounts
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 
@@ -38,6 +38,6 @@ You can stop sharing a deal with accounts to remove editing and targeting capabi
 
 >[!MORELIKETHIS]
 >
->* [About Private Inventory](private-inventory-about.md)
->* [Edit the Advertisers with Access to a Deal ID](/help/dsp/inventory/deal-id-edit-advertisers.md)
->* [Manual Deal ID Settings](deal-id-settings.md)
+>* [About private inventory](private-inventory-about.md)
+>* [Edit the advertisers with access to a deal ID](/help/dsp/inventory/deal-id-edit-advertisers.md)
+>* [Manual deal ID settings](deal-id-settings.md)

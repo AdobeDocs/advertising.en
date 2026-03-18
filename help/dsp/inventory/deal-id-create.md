@@ -1,10 +1,10 @@
 ---
-title: Manually create Deal ID details
-description: Learn how to manually enter details for a Deal ID.
+title: Manually create deal ID details
+description: Learn how to manually enter details for a deal ID.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
 ---
-# Manually create Deal ID details
+# Manually create deal ID details
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
@@ -60,8 +60,8 @@ After you create the deal, you can use the deal as an inventory target for multi
 
 >[!MORELIKETHIS]
 >
->* [Manual Deal ID Settings](deal-id-settings.md)
->* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
->* [Submit an Ad for a Programmatic Guaranteed Deal with [!DNL FreeWheel]](freewheel-submit.md)
->* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
-<!-- >* [Specify Placements and Ads for a Private Deal](deal-id-attach-placements.md)-->
+>* [Manual deal ID settings](deal-id-settings.md)
+>* [Set up a programmatic guaranteed deal](programmatic-guaranteed-set-up.md)
+>* [Submit an ad for a programmatic guaranteed deal with [!DNL FreeWheel]](freewheel-submit.md)
+>* [About programmatic guaranteed deals](programmatic-guaranteed-about.md)
+<!-- >* [Specify placements and ads for a private deal](deal-id-attach-placements.md)-->

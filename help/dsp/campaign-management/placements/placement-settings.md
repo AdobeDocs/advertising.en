@@ -50,7 +50,7 @@ The dates for the package (when applicable) or campaign are auto-populated by de
 >
 >* The flight dates must be included within the campaign flight dates and the package flight dates.
 
-### Placements Assigned to Packages with Package-level Pacing
+### Placements assigned to packages with package-level pacing
 
 **[!UICONTROL Placement Funding]:** How to budget for the placement:
 
@@ -83,15 +83,15 @@ The dates for the package (when applicable) or campaign are auto-populated by de
    * To remove a filter, click **[!UICONTROL X]** in the filter row.
 1. Click **[!UICONTROL Save]**.
 
- See descriptions of each pre-bid filter at "[Placement-level Pre-Bid Filters and How to Use Them](/help/dsp/optimization/optimization-pre-bid-filters.md)."
+ See descriptions of each pre-bid filter at "[Placement-level pre-bid filters and how to use them](/help/dsp/optimization/optimization-pre-bid-filters.md)."
 
-### All Other Placements
+### All other placements
 
 **[!UICONTROL Budget Goal]:** The gross budget cap and the budget interval (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*).
 
 **[!UICONTROL Gross Budget Goal]:** (Placements in campaigns with margin management only) The gross budget cap and the budget interval (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*).
 
-**[!UICONTROL Optimization Goal]:**  The optimization goal for the package. See descriptions of each optimization goal at "[Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md)".
+**[!UICONTROL Optimization Goal]:**  The optimization goal for the package. See descriptions of each optimization goal at "[Optimization goals and how to use them](/help/dsp/optimization/optimization-goals.md)".
 
 **[!UICONTROL Target Goal]:** The target goal, which is used to track performance.
 
@@ -212,7 +212,7 @@ To specify inventory targeting:
 
 >[!TIP]
 >
->If you subscribed to [!UICONTROL On Demand] inventory but can't locate the publishers or deals to target, then check the status of the deals. For more information about statuses, see [About [!DNL On Demand] Premium Inventory](/help/dsp/inventory/on-demand-inventory-about.md).
+>If you subscribed to [!UICONTROL On Demand] inventory but can't locate the publishers or deals to target, then check the status of the deals. For more information about statuses, see [About [!DNL On Demand] premium inventory](/help/dsp/inventory/on-demand-inventory-about.md).
 
 **[!UICONTROL Video targeting]:**  Target (but not exclude) inventory by inventory attributes. When you target multiple values for the same video attribute, any of the selected attributes can be targeted (for example either \[Player size = large OR Player size = HD\]). When you target multiple attributes, each of the specified attributes must be present (for example, \[Duration = 30-60 min] AND \[Player size = large OR Player size = HD\]).
 
@@ -307,8 +307,8 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 **[!UICONTROL Included Audiences]:** Any audience targets for the placement, including [third-party segments, first-party segments, Adobe segments, custom segments, and saved audiences](/help/dsp/audiences/audience-settings.md). The total and active deduplicated audience size across all selected segments and saved audiences is also displayed. You can select an existing audience, create an audience that you can reuse later, or select specific audience segments:
 
 * To select an existing audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Included Audiences], and then select the audience.
-* To create an audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Included Audiences], and then select **[!UICONTROL + Create Audience]**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
-* To select specific audience segments, click **[!UICONTROL Select segments for this placement only]**. Select the segment logic; for instructions, see Step 6 in "[Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md)." When you're done, click **Save**.
+* To create an audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Included Audiences], and then select **[!UICONTROL + Create Audience]**. For instructions, see [Create a reusable audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
+* To select specific audience segments, click **[!UICONTROL Select segments for this placement only]**. Select the segment logic; for instructions, see Step 6 in "[Create a reusable audience](/help/dsp/audiences/reusable-audience-create.md)." When you're done, click **Save**.
 
 >[!NOTE]
 >
@@ -318,7 +318,7 @@ You can optionally export the list of targeted and blocked sites as a comma-sepa
 
 * To select an existing audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Excluded Audiences], and then select the audience.
 
-* To create an audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Excluded Audiences], and then select **+ Create Audience**. For instructions, see [Create a Reusable Audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
+* To create an audience, click ![Select](/help/dsp/assets/chevron-down.png) next to [!UICONTROL Excluded Audiences], and then select **+ Create Audience**. For instructions, see [Create a reusable audience](/help/dsp/audiences/reusable-audience-create.md), beginning with Step 3.
 
 **[!UICONTROL Targeting]:** The types of user IDs to target. You can't change this setting after the placement is live (that is, after the flight has begun).
 
@@ -506,10 +506,10 @@ The ID must begin with "51" and consist of eight digits. By default, if a segmen
 
 >[!MORELIKETHIS]
 >
->* [About Placement Management](placement-about.md)
->* [Create a Placement](placement-create.md)
->* [Edit Placements](placement-edit.md)
->* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
->* [View the Change Log for a Placement](placement-change-log.md)
->* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [FAQs About Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
+>* [About placement management in Advertising DSP](placement-about.md)
+>* [Create a placement](placement-create.md)
+>* [Edit placements](placement-edit.md)
+>* [Manage bid multipliers for placements](placement-manage-bid-multipliers.md)
+>* [View the change log for a placement](placement-change-log.md)
+>* [Keyboard shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
+>* [FAQs about campaign management](/help/dsp/campaign-management/faq-campaign-management.md)

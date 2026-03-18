@@ -34,8 +34,8 @@ Available inventory types include:
 
 >[!MORELIKETHIS]
 >
->* [About On Demand Inventory](on-demand-inventory-about.md)
->* [About the Deal ID Inbox](deal-id-inbox-about.md)
->* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
+>* [About on-demand inventory](on-demand-inventory-about.md)
+>* [About the deal ID inbox](deal-id-inbox-about.md)
+>* [About programmatic guaranteed deals](programmatic-guaranteed-about.md)
 >* [SSP Partners](ssp-partners.md)
->* [About Private Inventory](private-inventory-about.md)
+>* [About private inventory](private-inventory-about.md)

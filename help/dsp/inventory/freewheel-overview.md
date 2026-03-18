@@ -34,7 +34,7 @@ Setting up programmatic guaranteed deals with publishers on [!DNL Freewheel] req
 
 >[!MORELIKETHIS]
 >
->* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
->* [Submit an Ad for a Programmatic Guaranteed Deal to [!DNL Freewheel]](freewheel-submit.md)
->* [Check the Status of Ads for [!DNL FreeWheel] Programmatic Guaranteed Deals](freewheel-check-status.md)
->* [Error Codes for [!DNL Freewheel] Ad Submissions](freewheel-error-codes.md)
+>* [Accept a deal in the [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md)
+>* [Submit an ad for a programmatic guaranteed deal to [!DNL Freewheel]](freewheel-submit.md)
+>* [Check the status of ads for a [!DNL FreeWheel] PG deal](freewheel-check-status.md)
+>* [Error codes for [!DNL FreeWheel] ad submissions](freewheel-error-codes.md)

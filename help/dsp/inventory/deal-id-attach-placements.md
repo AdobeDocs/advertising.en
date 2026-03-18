@@ -48,8 +48,8 @@ The placement begins running after the publisher activates your PG deal ID.
 
 >[!MORELIKETHIS]
 >
->* [About Private Inventory](private-inventory-about.md)
->* [List the Placements and Ads for a Private Deal](/help/dsp/inventory/private-deal-view-placements.md)
->* [Manually Create Deal ID Details](deal-id-create.md)
->* [Manual Deal ID Settings](deal-id-settings.md)
->* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
+>* [About private inventory](private-inventory-about.md)
+>* [List the placements and ads for a private deal](/help/dsp/inventory/private-deal-view-placements.md)
+>* [Manually create deal ID details](deal-id-create.md)
+>* [Manual deal ID settings](deal-id-settings.md)
+>* [Set up a programmatic guaranteed deal](programmatic-guaranteed-set-up.md)

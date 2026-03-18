@@ -1,18 +1,18 @@
 ---
 title: About the [!UICONTROL Deal ID Inbox]
-description: Learn about the [!UICONTROL Deal ID inbox] feature, which allows you to accept private deals you've already negotiated with publishers on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]).
+description: Learn about the [!UICONTROL Deal ID Inbox] feature, which allows you to accept private deals you've already negotiated with publishers on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: a1ba7de0-d6b4-4e22-8615-3e62d2ffdf5c
 ---
 # About the [!UICONTROL Deal ID Inbox]
 
-The Advertising DSP [!UICONTROL Deal ID inbox] allows you to quickly set up deals that DSP has imported from publishers through supply side platforms (SSPs) so you don't have to set up each deal manually. You can accept the guaranteed and non-guaranteed private inventory deals you've already negotiated with publishers on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]) from the [!UICONTROL Deal ID inbox].
+The Advertising DSP [!UICONTROL Deal ID Inbox] allows you to quickly set up deals that DSP has imported from publishers through supply side platforms (SSPs) so you don't have to set up each deal manually. You can accept the guaranteed and non-guaranteed private inventory deals you've already negotiated with publishers on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]) from the [!UICONTROL Deal ID Inbox].
 
 >[!NOTE]
 >
 >Advertising DSP is the first DSP to integrate with the [!DNL FreeWheel] API.
 
-In the [!UICONTROL Deal ID inbox], you can see the details of the deal as your publisher sees them, speed up your deal setup, and avoid manual entry errors.
+In the [!UICONTROL Deal ID Inbox], you can see the details of the deal as your publisher sees them, speed up your deal setup, and avoid manual entry errors.
 
 <!-- 
 Accepting a deal automatically pre-populates a new Deal ID record with details from the publisher, and you need to enter only the publisher [always? or just in some cases?], the media type, who can access the deal, and any attribute labels to apply to the deal so it's easy to find. [Are labels a dimension you can report on?]
@@ -30,11 +30,11 @@ DSP automatically refreshes all deal details daily at 4:30 a.m. EST. It also ref
 
 >[!NOTE]
 >
->For programmatic guaranteed deals through [!DNL Google Authorized Buyers], you must deliver on at least 90% of your budget or your account loses access to [!DNL Google] deals in the [!UICONTROL Deal ID inbox].
+>For programmatic guaranteed deals through [!DNL Google Authorized Buyers], you must deliver on at least 90% of your budget or your account loses access to [!DNL Google] deals in the [!UICONTROL Deal ID Inbox].
 
-## Implementing the [!UICONTROL Deal ID inbox]
+## Implementing the [!UICONTROL Deal ID Inbox]
 
-To receive your deals in the [!UICONTROL Deal ID inbox], your SSP accounts must map your organization's DSP account to your SSP account. DSP can share the organization's account names with the relevant SSPs. Contact your Adobe Account Team for instructions.
+To receive your deals in the [!UICONTROL Deal ID Inbox], your SSP accounts must map your organization's DSP account to your SSP account. DSP can share the organization's account names with the relevant SSPs. Contact your Adobe Account Team for instructions.
 
 During deal negotiations, tell the publisher to send the deal to your buyer instead of to the parent DSP account. The deal identifier may be a name or an ID, depending on the SSP.
 
@@ -42,15 +42,15 @@ During deal negotiations, tell the publisher to send the deal to your buyer inst
 
 * **Review deals** to verify that the SSP has sent the correct publisher, flight dates, CPM, and other deal details. If the publisher has made a mistake, contact them outside of DSP so they can correct and resend the deal.
 
-* **Accept deals** after reviewing, and they no longer appear in the [!UICONTROL Deal ID inbox]. Accepted deals are listed in [!UICONTROL Inventory] > [!UICONTROL Deals] and are ready to target within advertisers’ placements.
+* **Accept deals** after reviewing, and they no longer appear in the [!UICONTROL Deal ID Inbox]. Accepted deals are listed in [!UICONTROL Inventory] > [!UICONTROL Deals] and are ready to target within advertisers’ placements.
 
-* **Ignore deals** that aren't needed or are unsolicited. Ignored deals are moved to the [!UICONTROL Ignored Deals] tab within the [!UICONTROL Deal ID inbox], which serves as an archive. DSP doesn't alert SSPs and publishers when you ignore a deal.
+* **Ignore deals** that aren't needed or are unsolicited. Ignored deals are moved to the [!UICONTROL Ignored Deals] tab within the [!UICONTROL Deal ID Inbox], which serves as an archive. DSP doesn't alert SSPs and publishers when you ignore a deal.
 
-* **Modify details for already-accepted deals** from [!UICONTROL Inventory] > [!UICONTROL Deals] (not in the [!UICONTROL Deal ID inbox]). Similarly, when publishers send changes to deals, advertisers are responsible for implementing those changes in [!UICONTROL Inventory] > [!UICONTROL Deals] because the [!UICONTROL Deal ID inbox] doesn't sync changes from the SSPs after deals are set up.
+* **Modify details for already-accepted deals** from [!UICONTROL Inventory] > [!UICONTROL Deals] (not in the [!UICONTROL Deal ID Inbox]). Similarly, when publishers send changes to deals, advertisers are responsible for implementing those changes in [!UICONTROL Inventory] > [!UICONTROL Deals] because the [!UICONTROL Deal ID Inbox] doesn't sync changes from the SSPs after deals are set up.
 
 ## What types of deals can't be accepted?
 
-When a deal listing doesn't include a ![Accept](/help/dsp/assets/accept.png) icon or an [!UICONTROL Accept] button, you can't accept it from the [!UICONTROL Deal ID inbox]. Instead, you can [create the deal ID details manually](/help/dsp/inventory/deal-id-create.md).
+When a deal listing doesn't include a ![Accept](/help/dsp/assets/accept.png) icon or an [!UICONTROL Accept] button, you can't accept it from the [!UICONTROL Deal ID Inbox]. Instead, you can [create the deal ID details manually](/help/dsp/inventory/deal-id-create.md).
 
 You can't accept the following types of deals:
 
@@ -68,5 +68,5 @@ The deal details include the reason that the deal isn't available to accept.
 
 >[!MORELIKETHIS]
 >
->* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
->* [Overview of Inventory Features](inventory-overview.md)
+>* [Accept a deal in the [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md)
+>* [Overview of inventory features](inventory-overview.md)

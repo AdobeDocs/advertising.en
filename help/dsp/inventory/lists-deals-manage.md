@@ -66,7 +66,7 @@ In custom reports, you can a) filter data by deal lists and deals and b) include
 
 >[!MORELIKETHIS]
 >
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
->* [About Private Inventory](/help/dsp/inventory/private-inventory-about.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)
+>* [About private inventory](/help/dsp/inventory/private-inventory-about.md)
