@@ -369,4 +369,4 @@ exl-id: ef23503c-d92b-4809-9082-afeaffe58f8f
 >* [Subscribe and request access to [!DNL On Demand] premium inventory deals](on-demand-inventory-subscribe.md)
 >* [[!DNL On Demand] premium inventory publishers in Australia and New Zealand](on-demand-inventory-publishers-anz.md)
 >* [[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa](on-demand-inventory-publishers-emea.md)
->* [[!DNL On Demand Premium] Inventory Publishers in North America](on-demand-inventory-publishers-na.md)
+>* [[!DNL On Demand] premium inventory publishers in North America](on-demand-inventory-publishers-na.md)

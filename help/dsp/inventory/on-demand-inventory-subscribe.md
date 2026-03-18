@@ -80,7 +80,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 >
 >* [About [!DNL On Demand] Premium Inventory](on-demand-inventory-about.md)
 >* [View the Status of Your [!DNL On Demand] Deal Requests and Subscriptions](on-demand-inventory-view-status.md)
->* [Re-Request On Demand Premium Inventory Deals](on-demand-inventory-rerequest.md)
+>* [Re-request [!DNL On Demand] premium inventory deals](on-demand-inventory-rerequest.md)
 >* [[!DNL On Demand] premium inventory publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)
 >* [[!DNL On Demand] premium inventory publishers in Australia and New Zealand](on-demand-inventory-publishers-anz.md)
 >* [[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa](on-demand-inventory-publishers-emea.md)

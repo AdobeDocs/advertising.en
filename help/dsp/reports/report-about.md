@@ -129,10 +129,10 @@ You can create new custom reports, edit existing reports or duplicate them to cr
 
 >[!MORELIKETHIS]
 >
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Download a Custom Report](/help/dsp/reports/report-download.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Download a custom report](/help/dsp/reports/report-download.md)
 >* [Custom report settings](/help/dsp/reports/report-settings.md)
->* [FAQs About Household Reports](/help/dsp/reports/faq-reports.md)
->* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [FAQs about household reports](/help/dsp/reports/faq-reports.md)
+>* [Types of performance reports in campaign management views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)
 >* [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md)

@@ -35,8 +35,8 @@ If you have any questions about the approval process, contact your Adobe Account
 
 >[!MORELIKETHIS]
 >
->* [Subscribe and Request Access to [!DNL On Demand] Premium Inventory Deals](on-demand-inventory-subscribe.md)
->* [Re-Request On Demand Premium Inventory Deals](on-demand-inventory-rerequest.md)
+>* [Subscribe and request access to [!DNL On Demand] premium inventory deals](on-demand-inventory-subscribe.md)
+>* [Re-request [!DNL On Demand] premium inventory deals](on-demand-inventory-rerequest.md)
 >* [[!DNL On Demand] premium inventory publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)
 >* [[!DNL On Demand] premium inventory publishers in Australia and New Zealand](on-demand-inventory-publishers-anz.md)
 >* [[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa](on-demand-inventory-publishers-emea.md)

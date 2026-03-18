@@ -4,7 +4,7 @@ description: Learn more about universal video ads.
 feature: DSP Placements, DSP Ads
 exl-id: 48c744ae-90a3-47e9-a5dc-c4e3c01b75a0
 ---
-# FAQs about Universal Video
+# FAQs about Universal video
 
 [Universal video ads](/help/dsp/campaign-management/ads/ad-about.md#ad-types) allow you to target video inventory from desktop, mobile, and connected TV environments for VPAID and VAST inventory using a single video placement.
 

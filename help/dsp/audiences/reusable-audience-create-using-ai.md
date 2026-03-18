@@ -64,7 +64,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
    >
    >You can't later edit the audience using the audience agent. Instead, [edit the audience expression manually](/help/dsp/audiences/reusable-audience-edit.md).
 
-## Basics of Writing Prompts {#writing-prompts} 
+## Basics of writing prompts {#writing-prompts} 
 
 ### What should a prompt include?
 
@@ -190,10 +190,10 @@ The following is an example of a strong audience brief for a campaign to drive a
 
 >[!MORELIKETHIS]
 >
->* [Duplicate a Reusable Audience](/help/dsp/audiences/reusable-audience-duplicate.md)
->* [Edit a Reusable Audience](/help/dsp/audiences/reusable-audience-edit.md)
->* [View Details About a Reusable Audience](/help/dsp/audiences/reusable-audience-view-details.md)
->* [Share a Reusable Audience](/help/dsp/audiences/reusable-audience-share.md)
->* [Export a Reusable Audience](/help/dsp/audiences/reusable-audience-export.md)
->* [Copy the Segment Key for a Reusable Audience to the Clipboard](/help/dsp/audiences/reusable-audience-clipboard.md)
->* [Delete a Reusable Audience](/help/dsp/audiences/reusable-audience-delete.md)
+>* [Duplicate a reusable audience](/help/dsp/audiences/reusable-audience-duplicate.md)
+>* [Edit a reusable audience](/help/dsp/audiences/reusable-audience-edit.md)
+>* [View details about a reusable audience](/help/dsp/audiences/reusable-audience-view-details.md)
+>* [Share a reusable audience](/help/dsp/audiences/reusable-audience-share.md)
+>* [Export a reusable audience](/help/dsp/audiences/reusable-audience-export.md)
+>* [Copy the segment key for a reusable audience to the clipboard](/help/dsp/audiences/reusable-audience-clipboard.md)
+>* [Delete a reusable audience](/help/dsp/audiences/reusable-audience-delete.md)
