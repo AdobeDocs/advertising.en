@@ -99,7 +99,7 @@ To apply one or more filters, do the following:
 
 * [!UICONTROL Custom Goals] (sorted by advertiser)
 
-See "[Available Report Columns](report-columns.md)" for descriptions of all options.
+See "[Available report columns](report-columns.md)" for descriptions of all options.
 
 **[!UICONTROL Drag to Re-Order Report Headers Below]:** The order of the column headers. You can drag and drop any column to customize the order.
 
@@ -199,12 +199,12 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
->* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
->* [Download a Custom Report](/help/dsp/reports/report-download.md)
->* [Run a Custom Report](/help/dsp/reports/report-run-now.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [About Report Destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Duplicate a custom report](/help/dsp/reports/report-copy.md)
+>* [Edit a custom report](/help/dsp/reports/report-edit.md)
+>* [Download a custom report](/help/dsp/reports/report-download.md)
+>* [Run a custom report](/help/dsp/reports/report-run-now.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)
