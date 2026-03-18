@@ -34,7 +34,7 @@ Additional audience types are also available for placement targeting.
 
 You have many options to import first-party and third-party data segments into DSP, using the DSP user interface and/or through custom import services.
 
-* DSP can pull in your Adobe Audience Manager and other [!DNL Adobe] audiences for targeting. For prerequisites and instructions, see "[Import Adobe Audience Manager Segments for Ad Targeting](/help/integrations/audience-manager/import-audiences.md).
+* DSP can pull in your Adobe Audience Manager and other [!DNL Adobe] audiences for targeting. For prerequisites and instructions, see "[Import Adobe Audience Manager segments for ad targeting](/help/integrations/audience-manager/import-audiences.md).
 
 * DSP can translate first-party data segments from supported customer data platforms to segments with universal IDs using the [Sources feature](/help/dsp/audiences/sources/source-about.md). You can also [manually send your authenticated [!DNL LiveRamp] [!DNL RampID] segments directly to DSP](/help/dsp/audiences/sources/source-import-liveramp-segments.md).
 

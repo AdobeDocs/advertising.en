@@ -1,10 +1,10 @@
 ---
-title: JavaScript Code for [!DNL Analytics for Advertising]
-description: JavaScript Code for [!DNL Analytics for Advertising]
+title: JavaScript code for [!DNL Analytics for Advertising]
+description: JavaScript code for [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 18bfb32d-2754-44b2-86c1-d102836cc08c
 ---
-# JavaScript Code for [!DNL Analytics for Advertising]
+# JavaScript code for [!DNL Analytics for Advertising]
 
 *Advertisers with Advertising DSP only*
 
@@ -21,13 +21,13 @@ On the first page view of a visit to the site, the Adobe Advertising JavaScript 
 >In contrast, the logic for the [!DNL DCM] data connector to [!DNL Analytics] (using [!DNL Google Campaign Manager 360]) for Advertising DSP occurs on the client side. Client-side stitching slows down the page load and increases the risk of data loss. This occurs because the [!DNL Analytics] JavaScript must ping [!DNL DoubleClick] and wait for [!DNL DoubleClick] to pass back the last click/impression data to [!DNL Analytics]. When your [!DNL DSP] team sets up the [!DNL DCM] data connector, you must specify how long you're willing to delay the page.
 
 <!--
-## Deploying the JavaScript Code
+## Deploying the JavaScript code
 
 All users must deploy the standard JavaScript code.
 
 Users who want to convert first-party segments from their customer data platforms to [!DNL RampIDs] or [!DNL ID5] IDs [!!!!VERIFY that it's not needed for importing segments directly from LiveRamp] must also deploy ID partner-specific JavaScript code to match conversions to view-throughs.
 
-### The Standard Code
+### The standard code
 
 The standard JavaScript library consists of two lines that allow [!DNL Analytics] and Adobe Advertising to communicate with each other. If the [!DNL Analytics for Advertising] integration was completed during the Adobe Advertising implementation, then you should have already received this code with instructions on how to deploy it.
 
@@ -43,7 +43,7 @@ The standard JavaScript library consists of two lines that allow [!DNL Analytics
 
 #### Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code
 
-### Additional Code to Import First-Party Segments to [!DNL RampIDs] and [!DNL ID5] IDs
+### Additional code to import first-party segments to [!DNL RampIDs] and [!DNL ID5] IDs
 
    * For [!DNL RampIDs], Contact your Adobe Account Team, who will give you instructions to register for a [!DNL LiveRamp] [!DNL LaunchPad] tag. Registration is free, but you must sign an agreement. Once you register, your Adobe Account Team will generate and provide a unique tag for your organization to implement on your webpages.
 
@@ -52,11 +52,11 @@ The standard JavaScript library consists of two lines that allow [!DNL Analytics
    * For [!DNL ID5] IDs: Contact your Adobe Account Team, who will give you instructions to register for the tag with ID5. Registration is free, but you must sign an agreement. Once you register, a member of ID5’s technical team will provide a unique tag for your organization to implement on your webpages.
 -->
 
-## Deploying the JavaScript Code
+## Deploying the JavaScript code
 
 The JavaScript library consists of two lines that allow [!DNL Analytics] and Adobe Advertising to communicate with each other. If the [!DNL Analytics for Advertising] integration was completed during the Adobe Advertising implementation, then you should have already received this code with instructions on how to deploy it.
 
-### The Code
+### The code
 
 #### Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code
 
@@ -78,17 +78,17 @@ The JavaScript library consists of two lines that allow [!DNL Analytics] and Ado
 </script>
 ```
 
-### Where to Place the Code
+### Where to place the code
 
 The [!DNL Analytics for Advertising] JavaScript function must come after the Experience Cloud ID Service but before your Analytics App Measurement code. This ensures that the supplemental ID (`SDID`) or `[!DNL StitchID]` is included in your Analytics call.
 
 ![Code placement](/help/integrations/assets/a4adc-code-placement.png)
 
-### Validating Code Deployment
+### Validating code deployment
 
 You can perform validation using any packet sniffer type of tool (such as [!DNL Charles], [!DNL Fiddler], or [!DNL Chrome Developer Tools]) by comparing the values of the four IDs between the request going to Adobe Advertising and the request going to [!DNL Analytics], as outlined below.
 
-#### How to Confirm the Code with [!DNL Chrome Developer Tools] {#validate-js-chrome}
+#### How to confirm the code with [!DNL Chrome Developer Tools] {#validate-js-chrome}
 
 1. Open [!DNL Chrome Developer Tools] and click the **Network** tab.
 
@@ -126,7 +126,7 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
 
     If the ID values match, then the JavaScript implementation is confirmed. Adobe Advertising sends the [!DNL Analytics] server any click-through or view-through tracking details if they exist.
 
-#### How to Confirm the Code with [!DNL Adobe Experience Cloud Debugger]
+#### How to confirm the code with [!DNL Adobe Experience Cloud Debugger]
 
 1. Open the [[!DNL Adobe Experience Cloud Debugger]](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) on your homepage.
 1. Go to the [!UICONTROL Network] tab.
@@ -142,4 +142,4 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
 >[!MORELIKETHIS]
 >
 >* [Overview of [!DNL Analytics for Advertising]](overview.md)
->* [Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising]](prerequisites.md)
+>* [Prerequisites and key information for implementing [!DNL Analytics for Advertising]](prerequisites.md)
