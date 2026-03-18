@@ -90,7 +90,7 @@ When a device graph is enabled for attribution measurement, the [!UICONTROL Conv
 
 * <*Conversion*>[!UICONTROL (xd)]: (Optional) Includes only conversions for which more than one device was tracked in the conversion path. In the report, "[!UICONTROL (xd)]" is appended to the conversion metric name, rule type, and conversion types in the conversion path (for example, "Responses(le)(tl)(xd)).
 
-#### How to interpret the [!UICONTROL Conversion] Rreport
+#### How to interpret the [!UICONTROL Conversion] report
 
 Sort the percentage of total conversions that are cross-device ([!UICONTROL (xd)]/[!UICONTROL (tl)]) from high to low to understand what is driving above-average cross-device conversions. You can use this to inform your creative or targeting strategy to match messaging and channel investment to user behavior.
 
