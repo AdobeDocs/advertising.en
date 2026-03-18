@@ -4,7 +4,7 @@ description: Learn what you need to do before you launch a campaign.
 feature: DSP Placements, DSP Ads
 exl-id: 9a8c2b3e-233e-4401-8311-daffde6cda68
 ---
-# Campaign launch checklist
+# Campaign launch checklist 
 
 ## Account funding
 

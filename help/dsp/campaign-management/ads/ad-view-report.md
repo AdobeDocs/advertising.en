@@ -1,6 +1,6 @@
 ---
 title: View a detailed report for an ad
-description: Learn how to open an ad-level report with Overview, Geography, and Viewability data.
+description: Learn how to open an ad-level report with overview, geography, and viewability data.
 feature: DSP Ads, DSP Campaign Data Views
 exl-id: 61e964af-b133-4c86-9672-27167ac6bad1
 ---

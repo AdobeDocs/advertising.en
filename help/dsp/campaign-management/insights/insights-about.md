@@ -4,7 +4,7 @@ description: Learn about performance insights with visualizations.
 feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
 ---
-# About insights
+# About insights 
 
 *Beta feature*
 

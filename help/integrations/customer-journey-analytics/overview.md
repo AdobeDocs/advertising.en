@@ -4,7 +4,7 @@ description: Learn about options to integrate Adobe Advertising with Adobe Custo
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: 57636259-f91a-404f-b972-994af67098b1
 ---
-# Overview of the integration between Adobe Advertising with Customer Journey Analytics
+# Overview of the integration between Adobe Advertising with Customer Journey Analytics 
 
 <!-- title? If I change, change refs throughout -->
 
