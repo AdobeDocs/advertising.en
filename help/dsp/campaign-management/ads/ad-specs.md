@@ -1,10 +1,10 @@
 ---
-title: Ad Specifications
+title: Ad specifications
 description: Reference general and publisher-specific ad specifications.
 feature: DSP Ads
 exl-id: 133dfc0d-d839-4e06-a819-21e3e630830c
 ---
-# Specifications for Supported Ad Types
+# Specifications for supported ad types
 
 ## Video Ads (Pre-Roll, CTV, and Universal Video)
 

@@ -1,10 +1,10 @@
 ---
-title: Mobile Ad Settings
+title: Mobile ad settings
 description: See descriptions of the available ad settings for mobile ads.
 feature: DSP Ads
 exl-id: 45e8da8c-d6a2-4c42-8932-4cf551f6f899
 ---
-# Mobile Ad Settings
+# Mobile ad settings
 
 ## [!UICONTROL Insert Ad Tag]
 

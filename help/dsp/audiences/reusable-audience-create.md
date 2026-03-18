@@ -1,10 +1,10 @@
 ---
-title: Create a Reusable Audience
+title: Create a reusable audience
 description: Learn how to create a reusable audiences that consist of audience segments and other saved audiences.
 feature: DSP Audiences
 exl-id: 5f4a0abb-c285-4452-a6c3-a91d5281df9b
 ---
-# Create a Reusable Audience
+# Create a reusable audience
 
 <!-- "Saved audience" is used in UI (where?), but "saved" is a state, not a type. "Reusable audience" sounds better in a description. "Audience template" isn't right, either, since it implies you can edit it on the fly to create a new, different audience. Some other term? -->
 

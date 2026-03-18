@@ -1,10 +1,10 @@
 ---
-title: About First-Party Audience Sources
+title: About first-party audience sources
 description: Learn about converting other user identifiers in your first-party segments to universal IDs for cookieless targeting.
 feature: DSP Audiences
 exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 ---
-# About First-Party Audience Sources
+# About first-party audience sources
 
 *Beta feature*
 
@@ -12,7 +12,7 @@ DSP can ingest first-party segments comprised of hashed email IDs built within y
 
 Segment details include the size of each universal ID type as well as the size for each device type tracked by cookies or device IDs.
 
-## Universal ID Types {#universal-id-types}
+## Universal ID types {#universal-id-types}
 
 <!--  Replace below with this once ID5 sources are possible 
 
@@ -58,7 +58,7 @@ You can translate your first-party segments to segments with authenticated (dete
     >Third-party segments from [!DNL Eyeota] may automatically include ID5 IDs, in addition to users tracked by cookies or device IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
 -->
 
-## Supported Customer Data Platforms for First-Party Segments
+## Supported customer data platforms for first-party segments
 
 DSP has established connectors to the following CDPs to quickly ingest your first-party segments.
 

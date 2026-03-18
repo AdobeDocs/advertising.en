@@ -1,10 +1,10 @@
 ---
-title: Native Display Ad Settings
+title: Native display ad settings
 description: See descriptions of the available ad settings for native display ads.
 feature: DSP Ads
 exl-id: 64ce1946-072d-4ca9-b3a8-348987580403
 ---
-# Native Display Ad Settings
+# Native display ad settings
 
 ## [!UICONTROL Ad Options]
 

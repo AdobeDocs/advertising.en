@@ -1,10 +1,10 @@
 ---
-title: Edit a Reusable Audience
+title: Edit a reusable audience
 description: Learn how to edit a reusable audience.
 feature: DSP Audiences
 exl-id: 4de6b9a4-2907-474d-92bf-83686a1f0b31
 ---
-# Edit a Reusable Audience
+# Edit a reusable audience
 
 When you edit an audience that is used in any placements or other reusable audiences, the changes are immediately applied to those placements and audiences.<!-- verify -->
 

@@ -1,10 +1,10 @@
 ---
-title: Universal Video Ad Settings
+title: Universal video ad settings
 description: See descriptions of the available ad settings for universal video ads.
 feature: DSP Ads
 exl-id: 51b7d632-1e73-4726-980b-07ed50447146
 ---
-# Universal Video Ad Settings
+# Universal video ad settings
 
 >[!NOTE]
 >

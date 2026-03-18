@@ -1,10 +1,10 @@
 ---
-title: Export Details About a Reusable Audience
+title: Export details about a reusable audience
 description: Learn how to view the configuration, audience size, and targeted placements for a reusable audience.
 feature: DSP Audiences
 exl-id: 6d69706e-4398-41e0-b7a3-04ba72b08bfc
 ---
-# Export Details About a Reusable Audience
+# Export details about a reusable audience
 
 You can download a [!DNL Microsoft Excel] worksheet file with the audience configuration rule, the number of active audience members by device type, details about each segment in the audience, and all placements that target the audience.
 

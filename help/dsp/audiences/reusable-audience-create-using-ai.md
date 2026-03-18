@@ -1,12 +1,12 @@
 ---
-title: Create a Reusable Audience Using Generative AI
+title: Create a reusable audience using generative AI
 description: Learn how to create reusable audiences in Adobe Advertising DSP using the AI-assisted audience agent. Describe your target audience in natural-language prompts; the agent suggests third-party segments and builds audience expressions for use as targets or exclusions.
 feature: DSP Audiences
 hidefromtoc: yes
 hide: yes
 exl-id: 82c9f122-2bdd-409f-a4d6-1da21ecbe913
 ---
-# Create a Reusable Audience Using Generative AI
+# Create a reusable audience using generative AI
 
 *Beta feature*
 
@@ -24,7 +24,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 >
 >This feature is in beta mode and is subject to change. Make sure that the generated audience expression represents the audience you want before creating the audience and using it for your placements.
 
-## Create a Reusable Audience Using Generative AI
+## Create a reusable audience using generative AI
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**.
 
@@ -133,11 +133,11 @@ Your reply:  `1`, `proceed`, `2`, `maximum reach`, and so on.
 
 You can also ignore the request and continue to specify additional audience criteria instead.
 
-## Best Practices for Creating an Audience Brief {#audience-brief-best-practices}
+## Best practices for creating an audience brief {#audience-brief-best-practices}
 
 An audience brief is a strategic writeup that defines the target audience for a campaign. A well-crafted brief helps the DSP audience agent identify the most relevant segments to assemble your targetable audience.
 
-### Essential Components of an Effective Audience Brief
+### Essential components of an effective audience brief
 
 Include as many audience attribute types as possible from the following list in your brief. Be specific about attributes you want to exclude.
 
@@ -182,7 +182,7 @@ Include as many audience attribute types as possible from the following list in 
 
   Current phase understanding including career stage (student, entry-level, mid-career, executive, retired), family stage (newlyweds, new parents, empty nesters), and major life transitions.
 
-### Example of a Well-Structured Audience Brief for a Prospecting Campaign
+### Example of a well-structured audience brief for a prospecting campaign
 
 The following is an example of a strong audience brief for a campaign to drive awareness and trial for a premium meal kit subscription service:
 

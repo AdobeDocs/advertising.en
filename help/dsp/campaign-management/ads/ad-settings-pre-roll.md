@@ -1,10 +1,10 @@
 ---
-title: Pre-roll Ad Settings
+title: Pre-roll ad settings
 description: See descriptions of the available ad settings for pre-roll ads.
 feature: DSP Ads
 exl-id: d0ba4346-13ae-405c-92b6-a0c32dd09d0a
 ---
-# Pre-roll Ad Settings
+# Pre-roll ad settings
 
 ## [!UICONTROL Insert Ad Tag]
 

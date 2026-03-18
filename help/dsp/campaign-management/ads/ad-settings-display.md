@@ -1,10 +1,10 @@
 ---
-title: Display Ad Settings
+title: Display ad settings
 description: See descriptions of the available ad settings for display ads.
 feature: DSP Ads
 exl-id: cff65a48-486f-401e-9759-2bb63871448f
 ---
-# Display Ad Settings
+# Display ad settings
 
 The following settings are for standard display ads.
 

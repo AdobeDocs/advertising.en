@@ -1,10 +1,10 @@
 ---
-title: View Details About a Reusable Audience
+title: View details about a reusable audience
 description: Learn how to view the configuration and audience size for a reusable audience.
 feature: DSP Audiences
 exl-id: b7ef5af5-0b82-474b-b769-135f80ba5460
 ---
-# View Details About a Reusable Audience
+# View details about a reusable audience
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 

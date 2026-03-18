@@ -1,10 +1,10 @@
 ---
-title: Create and Implement a Custom Segment
+title: Create and implement a custom segment
 description: Learn how to create and implement a custom segment to track users exposed to ads or users who visit your webpages.
 feature: DSP Segments
 exl-id: 3190fd78-18d2-4da3-920b-d4171e693c03
 ---
-# Create and Implement a Custom Segment
+# Create and implement a custom segment
 
 You can collect your own first-party audience data by creating and implementing a custom DSP segment. You can use the segment to track a) users exposed to ads from desktop and mobile devices and b) users who visit specific webpages. You can later retarget users in the segment with additional ads or prevent users in the segment from receiving additional ads.
 
@@ -12,7 +12,7 @@ You can collect your own first-party audience data by creating and implementing 
 >
 >To track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), create a [CCPA opt-out-of-sale segment](ccpa-opt-out-segment-create.md).
 
-## Prerequisites for Segments to Track ID5 IDs
+## Prerequisites for segments to track ID5 IDs
 
 *Beta feature* 
 
@@ -41,7 +41,7 @@ You can collect your own first-party audience data by creating and implementing 
 
    1. Use any browser debugging tool to verify that each call is initiated to the domain `lasteventf-tm.everesttech.net` and contains the parameter `_les_id5` with an encrypted ID5 ID as its value.
 
-## Create and Implement a Custom Segment
+## Create and implement a custom segment
 
 1. Create the segment:
 
