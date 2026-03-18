@@ -10,7 +10,7 @@ Pause a live campaign or activate a paused campaign when it's within the configu
 
 All placements that are paused prior to pausing a campaign remain paused upon campaign activation. 
 
-## Pause a Campaign
+## Pause a campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Next to the campaign name, click  **[!UICONTROL ...]** > **[!UICONTROL Pause]**.
@@ -19,7 +19,7 @@ All placements that are paused prior to pausing a campaign remain paused upon ca
 >
 >Pausing a campaign pauses all placements, including programmatic guaranteed (PG placements). Contact affected publishers if incoming auctions need to be paused.
 
-## Activate a Campaign
+## Activate a campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Next to the campaign name, click  **[!UICONTROL ...]** > **[!UICONTROL Activate]**.

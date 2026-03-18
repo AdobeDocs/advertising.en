@@ -1,10 +1,10 @@
 ---
-title: Brand Safety and Media Quality
+title: Brand safety and media quality
 description: Learn more about brand safety and media quality features.
 feature: DSP Introduction
 exl-id: 8cdfd517-4cdb-4dbc-aae5-a8bda1e4e95e
 ---
-# Brand Safety and Media Quality
+# Brand safety and media quality
 
 <!-- Check on logo sizes in staging environment -- I made them all 100 pixels high except for DoubleVerify, which is 150 (harder to see at 100), but some instances look larger in VS Code. -->
 
@@ -14,9 +14,9 @@ Our Fraud Surveillance team works closely with industry leading partners, such a
 
 In addition to providing central quality management, we believe in empowering advertisers to design the controls that align with their brand. DSP offers integrations with [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39], ensuring that each advertiser can choose their desired level of fraud protection, contextual filtering, and keyword targeting.
 
-## Quality Initiatives
+## Quality initiatives
 
-### Inventory Verification with [!DNL Ads.txt] Support
+### Inventory verification with [!DNL Ads.txt] support
 
 [[!DNL Ads.txt], which stands for [!DNL Authorized Digital Sellers]](https://iabtechlab.com/ads-txt) is an initiative launched by the [!DNL Interactive Advertising Bureau] ([!DNL IAB]) in June 2017 to facilitate the proper representation of inventory on the open market, thereby combatting illegitimate sources of traffic and domain spoofing. Participating publishers and distributors publicly declare the companies authorized to sell their digital inventory, and the nature of those relationships, by maintaining an `ads.txt` page at the top level of the domain (such as `example.com/ads.txt`).
 
@@ -32,7 +32,7 @@ You can set default [!DNL ads.txt] controls for each advertiser<!-- [default ads
 
 * buy inventory from all sellers
 
-### Platform Fraud Surveillance
+### Platform fraud surveillance
 
 DSP has built strong internal tools and systems to manage fraud across our platform, partnering with leading industry vendors such as [!DNL Whiteops] and [!DNL Integral Ad Science].
 
@@ -40,7 +40,7 @@ In addition, Adobe works closely with [!DNL IAB] and [!DNL TAG] to ensure robust
 
 Through our multi-dimensional approach to quality, our team monitors anomalies and invalid traffic patterns, ensuring less than 3% invalid traffic on protected inventory. Any inventory that is suspicious &mdash; including inventory on specific domains or from specific publishers or sellers &mdash; is immediately blocked across the platform.
 
-### Inventory Mapping, Tiering, and Categorization
+### Inventory mapping, tiering, and categorization
 
 Inventory mapping is the detailed review and on-boarding process required for all new inventory before it's added to our platform. This process is designed to ensure the safety and quality of all inventory on DSP.
 
@@ -62,11 +62,11 @@ Inventory mapping is the detailed review and on-boarding process required for al
 
 * **Site categorization:** To ensure easy content targeting and blocking, we tag each property with a DSP-defined site category based on the property's content. You can [target or exclude these site categories for each placement](/help/dsp/campaign-management/placements/placement-settings.md) based on the placement goals.
 
-### Comprehensive Support for Site Blocking
+### Comprehensive support for site blocking
 
 DSP provides both a globally blocked sites list and the option to create custom blocked sites lists for advertisers and accounts.
 
-#### DSP Globally Blocked Sites List {#global-blocked-sites}
+#### DSP globally blocked sites list {#global-blocked-sites}
 
 DSP maintains a globally blocked sites list of sites deemed unsafe to run ads on. This list contains sites featuring objectionable content (such as hate or terror) and sites infected by bots, fake pre-roll, mismatched domains, and other fraudulent activity.
 
@@ -78,13 +78,13 @@ When you include a site on the globally blocked sites list as a placement target
 >
 >You can optionally bypass the global blocked sites list for standard display ads attached to a trusted private deal by enabling the "[!UICONTROL Allow unscreened sites]" option in the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md). If necessary, the Adobe Account Team can also optionally disable site blocking for a public (auction-level) deal in the publisher settings for the deal.
 
-#### Account-level and Advertiser-level Blocked Sites Lists
+#### Account-level and advertiser-level blocked sites lists
 
 Users can also maintain account-level and advertiser-level blocked sites lists<!-- [account-level and advertiser-level blocked sites lists](/help/dsp/admin/blocked-sites-list-edit.md) -->, which are used automatically for all placements. Lower-level blocked sites list are applied in addition to the globally blocked sites list.
 
-## Third-party Integrations
+## Third-party integrations
 
-### Contextual Filtering
+### Contextual filtering
 
 Contextual filtering allows you to target or block ad opportunities based on the context of the page on which the ad would serve. Adobe provides contextual filtering via integrations with leading vendors in the industry: [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39]. Examples of current filters include [!UICONTROL Adult Content], [!UICONTROL Natural Disasters], [!UICONTROL Legal Drinking Age], [!UICONTROL MANGA], [!UICONTROL Epidemics], and [!UICONTROL G-rated Sites].
 
@@ -92,7 +92,7 @@ You can set default contextual filter controls for each advertiser<!-- [default 
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png) ![Peer39 logo](/help/dsp/assets/peer39-logo.png)
 
-### Pre-Bid Fraud Blocking
+### Pre-bid fraud blocking
 
 Leverage our third-party integrations with [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] to block non-human traffic from your campaigns. These integrations provide industry-leading pre-bid blocking capabilities to minimize both general and sophisticated invalid traffic (GIVT and SIVT) in your campaigns.
 
@@ -102,7 +102,7 @@ For more information on functionality, contact your preferred vendor directly, o
 
 ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png) ![Peer39 logo](/help/dsp/assets/peer39-logo.png)
 
-### Pre-Bid Viewability {#pre-bid-viewability}
+### Pre-bid viewability {#pre-bid-viewability}
 
 Pre-bid viewability filters powered by our industry-leading partners [!DNL DoubleVerify] and [!DNL Integral Ad Science] allow advertisers to ensure their campaigns meet their desired viewability performance goals across video and display inventory.
 
@@ -110,7 +110,7 @@ You can set default viewability filters for each advertiser<!-- [default pre-vie
 
 ![DoubleVerify logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science logo](/help/dsp/assets/ias-logo.png)
 
-### Attention Targeting and Measurement
+### Attention targeting and measurement
 
 [!DNL Adobe's] partnership with [!DNL Adelaide] provides advertisers with support for the Adelaide metric "[!DNL Attention Units]," which measures media quality based on eye-tracking, exposure, and outcome data.
 
@@ -120,7 +120,7 @@ In addition, advertisers can enable [tracking for the placement-level [!UICONTRO
 
 Additional fees apply for each separate feature.
 
-### Topic Targeting
+### Topic targeting
 
 DSP topic targeting allows you to target or block keyword lists by leveraging our industry-leading contextual partner [!DNL Comscore]. Topic targeting helps you to ensure your ads are always served in an environment that aligns with your brand, whether that includes blocking harmful content or ensuring spend in a context that ensures a greater outcome.
 

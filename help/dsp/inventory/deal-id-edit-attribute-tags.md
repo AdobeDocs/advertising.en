@@ -1,9 +1,9 @@
 ---
-title: Edit the Attribute Tags for a Deal ID
+title: Edit the attribute tags for a Deal ID
 description: Learn how to create and edit the attribute tags for a deal ID.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 ---
-# Edit the Attribute Tags for a Deal ID
+# Edit the attribute tags for a Deal ID
 
 You can create and assign tags to deal IDs to group similar deals together. When you create or edit a placement, you can search available inventory by tag name.
 

@@ -1,10 +1,10 @@
 ---
-title: Specify Placements and Ads for a Private Deal
+title: Specify placements and ads for a private deal
 description: Learn how to use a private deal with additional placements and ads.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 09119471-429d-413e-8033-e29e1558abb0
 ---
-# Specify Placements and Ads for a Private Deal
+# Specify placements and ads for a private deal
 
 For non-guaranteed deals, you can specify the deal as an inventory target for new placements from the [!UICONTROL Placements] view.
 
@@ -12,11 +12,11 @@ For programmatic guaranteed (PG) deals, you can create placements with specified
 
 You can also [attach ads to placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) associated with PG and non-guaranteed deals at any time.
 
-## Specify a Non-Guaranteed Deal as an Inventory Target for a Placement
+## Specify a non-guaranteed deal as an inventory target for a placement
 
 * [Create a placement from the [!UICONTROL Placements] view](/help/dsp/campaign-management/placements/placement-create.md). In the [!UICONTROL Inventory Targeting] settings, select the private deal.
 
-## Attach Placements and Ads to a PG Deal
+## Attach placements and ads to a PG deal
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 

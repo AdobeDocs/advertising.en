@@ -1,10 +1,10 @@
 ---
-title: Edit Private Deal Settings
+title: Edit private deal settings
 description: Learn how to edit details for a private deal.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: c6ab7d39-5581-423b-90aa-3e142c235072
 ---
-# Edit Private Deal Settings
+# Edit private deal settings
 
 Changes to an accepted deal aren't synced from the SSP. If you've accepted a deal but the publisher has sent changes, you can edit some elements of the deal settings from [!UICONTROL Inventory] > [!UICONTROL Deals]. You can also rename a deal at any time.
 

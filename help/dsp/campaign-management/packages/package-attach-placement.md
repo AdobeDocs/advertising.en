@@ -6,7 +6,7 @@ exl-id: dbee2db6-6cb7-4c56-9c14-816ea071b760
 ---
 # Attach a placement to a package
 
-## Attach a New Placement from the [!UICONTROL Placements] View
+## Attach a new placement from the [!UICONTROL Placements] view
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -18,7 +18,7 @@ exl-id: dbee2db6-6cb7-4c56-9c14-816ea071b760
 
 1. Enter the remaining [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), and then click **[!UICONTROL Create Placement]**.
 
-## Attach a New or Existing Placement from the [!UICONTROL Packages] View
+## Attach a new or existing placement from the [!UICONTROL Packages] view
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 

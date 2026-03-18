@@ -10,7 +10,7 @@ Campaigns are the overarching framework of flight settings. All campaign level s
 
 You can create campaigns manually or by duplicating existing campaigns. You can also edit existing campaigns.
 
-## The [!UICONTROL Campaigns] Dashboard
+## The [!UICONTROL Campaigns] dashboard
 
 <!-- standardize on "dashboard" or "view" -->
 The [!UICONTROL Campaigns] dashboard centralizes performance and economic reporting across all of your campaigns, providing a quick snapshot of how your campaigns have performed during a specified date range.

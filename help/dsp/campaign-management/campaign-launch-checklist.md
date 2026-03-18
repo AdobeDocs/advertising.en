@@ -1,24 +1,24 @@
 ---
-title: Campaign Launch Checklist
+title: Campaign launch checklist
 description: Learn what you need to do before you launch a campaign.
 feature: DSP Placements, DSP Ads
 exl-id: 9a8c2b3e-233e-4401-8311-daffde6cda68
 ---
-# Campaign Launch Checklist
+# Campaign launch checklist
 
-## Account Funding
+## Account funding
 
 Make sure your account has enough credit to run the entire campaign. You can check and refill account funds in [!UICONTROL Settings] > [!UICONTROL Account] or by contacting your Adobe Account Team.
 
-## Campaign Status
+## Campaign status
 
 Confirm that the campaign dates and budget are accurately set.
 
-## Placement Status
+## Placement status
 
 Make sure the placement status is "[!UICONTROL Active]" or "[!UICONTROL Scheduled]." Also, verify that the other placement parameters (such as the site list, budget, goal, flight dates, and frequency) are correct.
 
-## Ad Status
+## Ad status
 
 Confirm that all ads are attached, approved, and active. Also, verify that all tracking pixels are attached and functioning.
 

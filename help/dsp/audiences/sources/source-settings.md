@@ -1,10 +1,10 @@
 ---
-title: Audience Source Settings
+title: Audience source settings
 description: Learn about the settings for audience sources.
 feature: DSP Audiences
 exl-id: 274ea502-ad15-4d3d-922a-17caddb87f69
 ---
-# Audience Source Settings
+# Audience source settings
 
 *Beta feature*
 

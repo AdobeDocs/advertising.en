@@ -1,10 +1,10 @@
 ---
-title: About Account-Level and Advertiser-Level Blocked Sites Lists
+title: About account-level and advertiser-level blocked sites lists
 description: Learn more about the blocked sites list for an account or advertiser.
 role: User, Admin
 exl-id: e147159b-54f2-492b-8dbc-054b97897fa6
 ---
-# About Account-Level and Advertiser-Level Blocked Sites Lists
+# About account-level and advertiser-level blocked sites lists
 
 You can edit the blocked sites list used for the entire DSP account and additional lists for individual advertisers in the account.
 

@@ -1,9 +1,9 @@
 ---
-title: Advertiser Account Settings
+title: Advertiser account settings
 description: See descriptions of the available advertiser settings.
 role: User, Admin
 ---
-# Advertiser Account Settings
+# Advertiser account settings
 
 *Not Available to Read-only Users*
 

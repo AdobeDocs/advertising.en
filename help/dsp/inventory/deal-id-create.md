@@ -1,10 +1,10 @@
 ---
-title: Manually Create Deal ID Details
+title: Manually create Deal ID details
 description: Learn how to manually enter details for a Deal ID.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
 ---
-# Manually Create Deal ID Details
+# Manually create Deal ID details
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 

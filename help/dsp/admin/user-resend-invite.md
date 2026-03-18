@@ -1,10 +1,10 @@
 ---
-title: Resend a Pending User Invitation
+title: Resend a pending user invitation
 description: Learn how to resend a pending user invitation.
 role: Admin
 exl-id: 15d17a03-526b-4dc2-883a-131d750fca24
 ---
-# Resend a Pending User Invitation
+# Resend a pending user invitation
 
 *Administrator users only*
 

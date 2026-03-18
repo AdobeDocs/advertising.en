@@ -1,10 +1,10 @@
 ---
-title: Manually Import Authenticated Segments from [!DNL LiveRamp]
+title: Manually import authenticated segments from [!DNL LiveRamp]
 description: Learn about activating authenticated audiences through [!DNL LiveRamp].
 feature: DSP Audiences
 exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
 ---
-# Manually Import Authenticated Segments from [!DNL LiveRamp]
+# Manually import authenticated segments from [!DNL LiveRamp]
 
 *Beta feature*
 

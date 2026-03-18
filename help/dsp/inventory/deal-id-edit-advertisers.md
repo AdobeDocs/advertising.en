@@ -1,10 +1,10 @@
 ---
-title: Edit the Advertisers with Access to a Private Deal
+title: Edit the advertisers with access to a private deal
 description: Learn how to specify which advertisers can access a private deal.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 51f3fa66-de70-4233-a866-ec48d72e88dc
 ---
-# Edit the Advertisers with Access to a Private Deal
+# Edit the advertisers with access to a private deal
 
 >[!NOTE]
 >

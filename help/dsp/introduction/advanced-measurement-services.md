@@ -1,9 +1,9 @@
 ---
-title: Advanced Measurement Solutions
+title: Advanced measurement solutions
 description: See a list of the available solutions for advanced measurement.
 exl-id: b179488f-d008-4744-8aa2-640d0b6db5ae
 ---
-# Advanced Measurement Solutions
+# Advanced measurement solutions
 
 Advertisers often struggle to understand how their different media channels work together, where their next media dollar can be best spent, or how to quantify the impact of their online advertisements against core business objectives.  
 
@@ -15,7 +15,7 @@ In a data-driven media landscape, attribution measurement provides a solution to
 
 * Evolve your advertising practice by learning and improving campaign effectiveness over time 
 
-## Solution Packages
+## Solution packages
 
 The following measurement solution packages are available to validate the success of your ad campaigns:
 
@@ -51,7 +51,7 @@ The following measurement solution packages are available to validate the succes
 
   Compare the behavior of randomized, mutually exclusive sample groups with simple, clean A/B testing. 
 
-## Finding the Perfect Measurement Fit: Solutions by Vertical
+## Finding the perfect measurement fit: solutions by vertical
 
 * **All Verticals:** 
 
@@ -73,7 +73,7 @@ The following measurement solution packages are available to validate the succes
 
   * Foot Traffic Measurement 
 
-## More Information
+## More information
 
 For information about all advanced measurement solutions, outlining pricing information as well as available formats and regions for each solution, contact your Adobe Account Team. Solution-specific case studies are also available upon request. 
 

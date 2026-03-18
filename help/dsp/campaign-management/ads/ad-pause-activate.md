@@ -10,14 +10,14 @@ Pausing or activating an ad from the [!UICONTROL Ads] view changes the status of
 
 To pause an ad on an individual placement, use the placement [!UICONTROL Inspector].
 
-## Pause or Activate an Individual Ad Across All Placements
+## Pause or activate an individual ad across all placements
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
 1. In the submenu, click **[!UICONTROL Ads]**.
 1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Pause]** or **[!UICONTROL Activate]**.
 
-## Pause or Activate Multiple Ads Across All Placements
+## Pause or activate multiple ads across all placements
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
@@ -27,7 +27,7 @@ To pause an ad on an individual placement, use the placement [!UICONTROL Inspect
 1. Choose your edit mode.
 1. Select **[!UICONTROL Submit]**
 
-## Pause or Activate an Ad on an Individual Placement
+## Pause or activate an ad on an individual placement
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.

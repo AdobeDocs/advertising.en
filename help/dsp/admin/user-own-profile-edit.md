@@ -1,9 +1,9 @@
 ---
-title: Edit Your User Profile
+title: Edit your user profile
 description: Learn how to edit your user profile.
 exl-id: 8dc15996-db6e-4c37-a919-d0d49e7b8396
 ---
-# Edit Your User Profile 
+# Edit your user profile 
 
 Your account profile includes your login credentials and other information. Some user roles can also view information about your organization's account and invite additional people to create user accounts in the organization account.
 

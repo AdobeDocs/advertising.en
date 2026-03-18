@@ -1,10 +1,10 @@
 ---
-title: View Tracking Pixels for a Segment
+title: View tracking pixels for a segment
 description: Learn how to view the tracking pixels for a custom or CCPA opt-out of sale segment.
 feature: DSP Segments
 exl-id: 3b67ab72-d7bb-45a0-b5ba-e4b811b7d2b3
 ---
-# View Tracking Pixels for a Segment
+# View tracking pixels for a segment
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 

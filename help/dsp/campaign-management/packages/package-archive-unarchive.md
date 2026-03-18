@@ -10,7 +10,7 @@ Hide a package that isn't being used by archiving it. The only action you can ta
 
 You can unarchive a package to restore its previous status at any time.
 
-## Archive a Package
+## Archive a package
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.
@@ -21,7 +21,7 @@ You can unarchive a package to restore its previous status at any time.
 >
 >To view archived packages, filter the [!UICONTROL Packages] view: click ![Filter button](/help/dsp/assets/filter.png), click **[!UICONTROL Package status]** and select **[!UICONTROL Archived]**, and then click **[!UICONTROL Apply].**
 
-## Unarchive a Package
+## Unarchive a package
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.

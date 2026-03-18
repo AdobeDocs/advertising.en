@@ -32,13 +32,13 @@ DSP automatically refreshes all deal details daily at 4:30 a.m. EST. It also ref
 >
 >For programmatic guaranteed deals through [!DNL Google Authorized Buyers], you must deliver on at least 90% of your budget or your account loses access to [!DNL Google] deals in the [!UICONTROL Deal ID inbox].
 
-## Implementing the [!UICONTROL Deal ID Inbox]
+## Implementing the [!UICONTROL Deal ID inbox]
 
 To receive your deals in the [!UICONTROL Deal ID inbox], your SSP accounts must map your organization's DSP account to your SSP account. DSP can share the organization's account names with the relevant SSPs. Contact your Adobe Account Team for instructions.
 
 During deal negotiations, tell the publisher to send the deal to your buyer instead of to the parent DSP account. The deal identifier may be a name or an ID, depending on the SSP.
 
-## Actions You Can Take on Your Deals
+## Actions you can take on your deals
 
 * **Review deals** to verify that the SSP has sent the correct publisher, flight dates, CPM, and other deal details. If the publisher has made a mistake, contact them outside of DSP so they can correct and resend the deal.
 
@@ -48,7 +48,7 @@ During deal negotiations, tell the publisher to send the deal to your buyer inst
 
 * **Modify details for already-accepted deals** from [!UICONTROL Inventory] > [!UICONTROL Deals] (not in the [!UICONTROL Deal ID inbox]). Similarly, when publishers send changes to deals, advertisers are responsible for implementing those changes in [!UICONTROL Inventory] > [!UICONTROL Deals] because the [!UICONTROL Deal ID inbox] doesn't sync changes from the SSPs after deals are set up.
 
-## What Types of Deals Can't Be Accepted?
+## What types of deals can't be accepted?
 
 When a deal listing doesn't include a ![Accept](/help/dsp/assets/accept.png) icon or an [!UICONTROL Accept] button, you can't accept it from the [!UICONTROL Deal ID inbox]. Instead, you can [create the deal ID details manually](/help/dsp/inventory/deal-id-create.md).
 
