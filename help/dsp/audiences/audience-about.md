@@ -1,10 +1,10 @@
 ---
-title: About Audience Management in Advertising DSP
+title: About audience management in Advertising DSP
 description: Learn about audience management features.
 feature: DSP Audiences, DSP Segments
 exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
 ---
-# About Audience Management in Advertising DSP
+# About audience management in Advertising DSP
 
 In DSP, you can create and manage audience segments and audience sets, which you can use as targets for your placements:
 
@@ -30,7 +30,7 @@ In DSP, you can create and manage audience segments and audience sets, which you
 
 Additional audience types are also available for placement targeting.
 
-## Importing First-party and Third-party Data Segments
+## Importing first-party and third-party data segments
 
 You have many options to import first-party and third-party data segments into DSP, using the DSP user interface and/or through custom import services.
 
@@ -44,7 +44,7 @@ You have many options to import first-party and third-party data segments into D
 
 Contact your Adobe Account Team for more information.
 
-## Audiences Available as Placement Targets
+## Audiences available as placement targets
 
 You can target your placements to all of the following types of audiences.
 
@@ -80,7 +80,7 @@ You can target your placements to all of the following types of audiences.
    >
    >See the documentation for [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analytics](https://experienceleague.adobe.com/docs/analytics.html), and [the [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) for information about setting up and collecting data for segments in those solutions.
 
-## Audience Size Data
+## Audience size data
 
 In Audiences > All Audiences and in the Audience Targeting section of placement settings, you can filter each segment list by size range, including separate ranges for specific device types or universal ID types.
 
@@ -100,15 +100,15 @@ You can also see detailed audience size data:
 
    ![the individual segment or saved audience details](/help/dsp/assets/audience-size-segment-details.png)
 
-## The Audiences Views
+## The Audiences views
 
-### The All Audiences View
+### The All Audiences view
 
 In the [!UICONTROL All Audiences] view, or Audience Library, you can save and manage reusable audiences, which include groups of audience segments and even other saved audiences. You can use audiences as targets for multiple placements. The number of placements in which each audience is used is indicated next to the placement name.
 
 You can edit, clone, delete, export, or share any audience.
 
-### The Segments View
+### The Segments view
 
 In the [!UICONTROL Segments] view, all users can create additional custom segments.
 
@@ -128,7 +128,7 @@ The [!UICONTROL Segments] view also lists the following segment types:
 
    You can't edit or share third-party segments that were shared with you. Contact your Adobe Account Team if you need to share third-party segments with additional users.
 
-### The Sources View
+### The Sources view
 
 In the [!UICONTROL Sources] view, you can configure sources for first-party segments in supported customer data platforms that you want to convert to segments containing specified universal ID types. The source settings include an auto-generated source key, which you'll provide to your customer data platform to establish the connection.
 
