@@ -16,9 +16,9 @@ By default, the bid multiplier for a target is 1.00, which means that the bid is
 
 You can set bid multipliers (with values other than 1.00) for a [limited number of targets](#bid-multiplier-limits-by-target).
 
-This feature works with your existing placement targets. To change the selected targets for your placements, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
+This feature works with your existing placement targets. To change the selected targets for your placements, see "[Edit placements](/help/dsp/campaign-management/placements/placement-edit.md)."
 
-## Manage the Bid Multipliers for a Single Placement
+## Manage the bid multipliers for a single placement
 
 You can either manually edit values or upload a spreadsheet for a single placement.
 
@@ -119,7 +119,7 @@ You can set bid multipliers (with values other than 1.00) for a limited number o
 
 >[!MORELIKETHIS]
 >
->* [About Placement Management](placement-about.md)
->* [Edit Placements](placement-edit.md)
->* [View the Change Log for a Placement](placement-change-log.md)
->* [Placement Settings](placement-settings.md)
+>* [About placement management in Advertising DSP](placement-about.md)
+>* [Edit placements](placement-edit.md)
+>* [View the change log for a placement](placement-change-log.md)
+>* [Placement settings](placement-settings.md)
