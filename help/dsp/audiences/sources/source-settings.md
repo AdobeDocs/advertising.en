@@ -41,4 +41,4 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 >* [About First-Party Audience Sources](source-about.md)
 >* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
->* [About Audience Management](/help/dsp/audiences/audience-about.md)
+>* [About audience management](/help/dsp/audiences/audience-about.md)

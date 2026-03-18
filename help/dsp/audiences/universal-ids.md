@@ -68,7 +68,7 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 * About 24 hours after you activate a segment, check the converted ID count for the segment within [!UICONTROL Audiences] > [!UICONTROL All Audiences]. If the ID count is unexpected, then contact your Adobe Account Team.
 
-  See "[Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)" for more information about how the segment counts can vary.
+  See "[Data Variances Between Email IDs and universal IDs](#universal-ids-data-variances)" for more information about how the segment counts can vary.
 
 * Don't change your existing packages and placements. However, if you don't have any incremental budget to test universal IDs, then reduce the original budgets to fund the tests.
 
@@ -130,9 +130,9 @@ If you can't resolve the issue, then contact your Adobe Account Team.
 
 >[!MORELIKETHIS]
 >
->* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
->* [Manage Audience Sources to Activate Universal ID Audiences](/help/dsp/audiences/sources/source-manage.md)
->* [Create and Implement a Custom Segment](/help/dsp/audiences/custom-segment-create.md)
->* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
->* [About Audience Management](/help/dsp/audiences/audience-about.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [About first-party audience sources](/help/dsp/audiences/sources/source-about.md)
+>* [Manage audience sources to activate universal ID audiences](/help/dsp/audiences/sources/source-manage.md)
+>* [Create and implement a custom segment](/help/dsp/audiences/custom-segment-create.md)
+>* [Manually import authenticated segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
+>* [About audience management](/help/dsp/audiences/audience-about.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

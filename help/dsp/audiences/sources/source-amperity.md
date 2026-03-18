@@ -1,10 +1,10 @@
 ---
-title: Convert user IDs from [!DNL Amperity] to Universal IDs
+title: Convert user IDs from [!DNL Amperity] to universal IDs
 description: Learn how to enable DSP to ingest your [!DNL Amperity] first-party segments.
 feature: DSP Audiences
 exl-id: c751709a-5ad2-43fa-ba3a-fc7a9683da3f
 ---
-# Convert user IDs from [!DNL Amperity] to Universal IDs
+# Convert user IDs from [!DNL Amperity] to universal IDs
 
 *Beta feature*
 
@@ -76,17 +76,17 @@ The segments will be refreshed as configured for the advertiser within [!DNL Amp
 
 After DSP receives the segment data, the audience count should be visible within nine (9) hours.
 
-In your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) compare the number of universal IDs with the number of original hashed email addresses. For information about acceptable ID translation rates and why the segment counts can vary, see "[Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
+In your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) compare the number of universal IDs with the number of original hashed email addresses. For information about acceptable ID translation rates and why the segment counts can vary, see "[Data Variances Between Email IDs and universal IDs](#universal-ids-data-variances)."
 
 ## Troubleshooting
 
-To troubleshoot translation rate and user count issues, see "[Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)."
+To troubleshoot translation rate and user count issues, see "[Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)."
 
 To troubleshooting issues with the conversion procedure, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]
 >
->* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
->* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
->* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
->* [About Audience Management](/help/dsp/audiences/audience-about.md)
+>* [About first-party audience sources](/help/dsp/audiences/sources/source-about.md)
+>* [Manage audience sources to activate universal ID audiences](source-manage.md)
+>* [Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)
+>* [About audience management](/help/dsp/audiences/audience-about.md)

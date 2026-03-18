@@ -1,10 +1,10 @@
 ---
-title: Manage audience sources to activate Universal ID audiences
+title: Manage audience sources to activate universal ID audiences
 description: Learn how to create and manage a source to import audiences from your customer data platform and convert them to segments containing universal IDs.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
 ---
-# Manage audience sources to activate Universal ID audiences
+# Manage audience sources to activate universal ID audiences
 
 *Beta feature*
 
@@ -128,10 +128,10 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 
 >[!MORELIKETHIS]
 >
->* [About First-Party Audience Sources](source-about.md)
->* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
->* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
->* [Convert User IDs from [!DNL Amperity] to Universal IDs](/help/dsp/audiences/sources/source-amperity.md)
->* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
->* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
->* [About Audience Management](/help/dsp/audiences/audience-about.md)
+>* [About first-party audience sources](source-about.md)
+>* [Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)
+>* [Convert user IDs from [!DNL Adobe Real-Time CDP] to universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+>* [Convert user IDs from [!DNL Amperity] to universal IDs](/help/dsp/audiences/sources/source-amperity.md)
+>* [Convert user IDs from [!DNL Optimizely] to universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
+>* [Convert user IDs from [!DNL Tealium] to universal IDs](/help/dsp/audiences/sources/source-tealium.md)
+>* [About audience management](/help/dsp/audiences/audience-about.md)
