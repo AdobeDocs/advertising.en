@@ -1,10 +1,10 @@
 ---
-title: Connected TV Ad Settings
+title: Connected TV ad settings
 description: See descriptions of the available ad settings for connected TV ads.
 feature: DSP Ads
 exl-id: d8e47f7e-7480-400f-8ffa-ecf41ce2ebfb
 ---
-# Connected TV Ad Settings
+# Connected TV ad settings
 
 ## [!UICONTROL Insert Ad Tag]
 

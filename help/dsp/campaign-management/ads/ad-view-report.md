@@ -1,10 +1,10 @@
 ---
-title: View a Detailed Report for an Ad
+title: View a detailed report for an ad
 description: Learn how to open an ad-level report with Overview, Geography, and Viewability data.
 feature: DSP Ads, DSP Campaign Data Views
 exl-id: 61e964af-b133-4c86-9672-27167ac6bad1
 ---
-# View a Detailed Report for an Ad
+# View a detailed report for an ad
 
 The <!--legacy --> ad-level report includes [!UICONTROL Overview], [!UICONTROL Geography], and [!UICONTROL Viewability] data.
 
@@ -15,7 +15,7 @@ The <!--legacy --> ad-level report includes [!UICONTROL Overview], [!UICONTROL G
 
 >[!MORELIKETHIS]
 >
->* [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
->* [View a Detailed Report for a Campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
->* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [About Custom Reports](/help/dsp/reports/report-about.md)
+>* [View a detailed report for a placement](/help/dsp/campaign-management/placements/placement-view-report.md)
+>* [View a detailed report for a campaign](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+>* [Types of performance reports in campaign management views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)

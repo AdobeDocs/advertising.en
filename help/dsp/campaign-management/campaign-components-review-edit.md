@@ -1,10 +1,10 @@
 ---
-title: Review and Edit Campaign Component Settings Using Bulksheets
+title: Review and edit campaign component settings using bulksheets
 description: Learn how to review and edit key package, placement, and ad settings in bulk using spreadsheets.
 feature: DSP Placements
 exl-id: 1ec8362a-d37b-4fd7-becd-3a5b4f0c9504
 ---
-# Review and Edit Campaign Component Settings Using Bulksheets
+# Review and edit campaign component settings using bulksheets
 
 You can download the settings for the packages, placements, and ads in a single campaign in XLSX ([!DNL Microsoft Excel] spreadsheet) format to review and edit the settings. By default, the downloaded file, called a *bulksheet,* includes separate tabs for package settings, package flight information, placement settings, and placement ad schedules. You can optionally exclude the settings for some campaign component types.
 
@@ -14,7 +14,7 @@ To update multiple settings at once, upload a valid bulksheet file with the chan
 >
 >You can also download and edit the settings for only specific packages and specific placements. See "[Review and Edit Package Settings Using Bulksheets](/help/dsp/campaign-management/packages/package-qa.md)" and "[Review and Edit Placement Settings Using Bulksheets](/help/dsp/campaign-management/placements/placement-qa.md)."
 
-## Download Settings for the Packages, Placements, and Ads in a Campaign {#download-bulksheet-campaign}
+## Download settings for the packages, placements, and ads in a campaign {#download-bulksheet-campaign}
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -44,7 +44,7 @@ To update multiple settings at once, upload a valid bulksheet file with the chan
      >
      >For some target settings, all options are targeted by default unless you narrow down the selection to specific targets. When you haven't narrowed down the targets, the bulksheet field is blank, meaning that all options are targeted.
 
-## Upload a Bulksheet with Package, Placement, and Ad Settings for a Campaign{#upload-bulksheet-campaign-components}
+## Upload a bulksheet with package, placement, and ad settings for a campaign{#upload-bulksheet-campaign-components}
 
 Upload settings for packages, placements, and ads in a single campaign all at once in a populated bulksheet.
 
@@ -68,13 +68,13 @@ Upload settings for packages, placements, and ads in a single campaign all at on
 
 
 <!--
-## Placement Setting Columns in Downloaded/Uploaded Spreadsheets{#qa-sheet-columns}
+## Placement setting columns in downloaded/uploaded spreadsheets{#qa-sheet-columns}
 
 >[!TIP]
 >
 > In a downloaded spreadsheet, all editable columns are highlighted in blue.
 
-### Campaign-level Spreadsheets
+### Campaign-level spreadsheets
 
 | Section | Column | Description | Editable? |
 |---------|--------|-------------|-----------|

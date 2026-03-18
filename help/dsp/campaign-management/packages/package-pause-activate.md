@@ -10,7 +10,7 @@ Pause a live package or activate a paused package when it's within the configure
 
 All placements paused within a package prior to pausing the package itself remain paused when the package is activated. 
 
-## Pause a Package
+## Pause a package
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.
@@ -20,7 +20,7 @@ All placements paused within a package prior to pausing the package itself remai
 >
 >Pausing a package pauses all placements, including programmatic guaranteed (PG placements) within the package. Contact affected publishers if incoming auctions need to be paused.
 
-## Activate a Package
+## Activate a package
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.

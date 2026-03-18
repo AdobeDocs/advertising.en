@@ -1,10 +1,10 @@
 ---
-title: Campaign Settings
+title: Campaign settings
 description: See descriptions of the available campaign settings.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
 ---
-# Campaign Settings
+# Campaign settings
 
 ## [!UICONTROL Basic Campaign Details]
 

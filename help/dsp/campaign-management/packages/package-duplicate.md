@@ -1,10 +1,10 @@
 ---
-title: Duplicate a Package
+title: Duplicate a package
 description: Learn how to duplicate a package.
 feature: DSP Packages
 exl-id: 75842776-a024-43c9-aaf8-1126c0b9d717
 ---
-# Duplicate a Package
+# Duplicate a package
 
 Duplicate a package to create a package with similar settings. You can:
 
@@ -42,7 +42,7 @@ See "[What's Not Duplicated](#package-not-duplicated)" for a list of placement s
 
 1. Click **[!UICONTROL Submit]**.
 
-## What's Not Duplicated {#package-not-duplicated}
+## What's not duplicated {#package-not-duplicated}
 
 All settings from the original placements are duplicated except:
 
@@ -57,7 +57,7 @@ All settings from the original placements are duplicated except:
     * Ads
     * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segments (which override the advertiser-level segments)
 
-## Best Practices to Configure the New Package
+## Best practices to configure the new package
 
 >[!TIP]
 >
