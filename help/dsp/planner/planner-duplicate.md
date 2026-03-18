@@ -22,10 +22,10 @@ exl-id: 80dab57a-e56d-4a77-a1d5-c3e705f54fb9
 
 >[!MORELIKETHIS]
 >
->* [About the DSP Planner Tool](planner-about.md)
->* [Create a Connected TV Reach Plan](planner-create.md)
->* [Edit a Connected TV Reach Plan](planner-edit.md)
->* [Export a Connected TV Reach Plan](planner-export.md)
->* [Regenerate the Forecast for a Connected TV Reach Plan](planner-forecast.md)
->* [Archive a Connected TV Reach Plan](planner-archive.md)
->* [Settings for Connected TV Reach Plans](planner-settings.md)
+>* [About the DSP [!UICONTROL Planner] tool](planner-about.md)
+>* [Create a connected TV reach plan](planner-create.md)
+>* [Edit a connected TV reach plan](planner-edit.md)
+>* [Export a connected TV reach plan](planner-export.md)
+>* [Regenerate the forecast for a connected TV reach plan](planner-forecast.md)
+>* [Archive a connected TV reach plan](planner-archive.md)
+>* [Settings for connected TV reach plans](planner-settings.md)

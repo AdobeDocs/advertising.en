@@ -44,7 +44,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
    1. Enter one or more prompts to describe the audience characteristics you want to include and exclude. To submit each prompt, click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
 
-      For more information, see "[Writing Prompts](#writing-prompts)" and "[Best Practices for Creating an Audience Brief](#audience-brief-best-practices)."
+      For more information, see "[Writing prompts](#writing-prompts)" and "[Best practices for creating an audience brief](#audience-brief-best-practices)."
 
       As the audience agent finds relevent segments, it creates an audience expression based on your criteria. It also asks for your approval before looking for matching segments to assemble the audience.
 
@@ -88,7 +88,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
   
   The audience agent won't automatically save a generated audience expression as an audience. You can only save an audience by clicking the [!UICONTROL Create] button, which is outside of the prompt area, so you can undo any changes that you don't want to keep.
 
-See "[Best Practices for Creating an Audience Brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
+See "[Best practices for creating an audience brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
 
 <!-- I think these are happening later:
 

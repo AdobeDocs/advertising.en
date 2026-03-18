@@ -40,8 +40,8 @@ For each placement, you can open a detailed view ([the [!UICONTROL Inspector]](/
 
 >[!MORELIKETHIS]
 >
->* [Create a Placement](placement-create.md)
->* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
->* [View the Change Log for a Placement](placement-change-log.md)
->* [Placement Settings](placement-settings.md)
->* [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
+>* [Create a placement](placement-create.md)
+>* [Manage bid multipliers for placements](placement-manage-bid-multipliers.md)
+>* [View the change log for a placement](placement-change-log.md)
+>* [Placement settings](placement-settings.md)
+>* [Troubleshooting performance](/help/dsp/optimization/troubleshooting-performance.md)

@@ -62,9 +62,9 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 
     * **[!UICONTROL Geo]**: Use this pre-populated template to see key metrics by geographic dimensions.
     
-    * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs About Household Reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
+    * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs about household reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
 
-    * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs About Household Reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
+    * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs about household reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
 
     * **[!UICONTROL Margin]:** Use this report to see key metrics like margin, profit, and other spend metrics by campaign or placement. Data isn't available for placements that target universal IDs.
 
@@ -82,7 +82,7 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
       
       Up to the 10 most recent interaction points are included. The path rows are ordered by the number of conversions.
 
-      For a comparison of this report to reports created by [!DNL Advanced Measurement Services] and Adobe Analytic, see "[FAQs About Custom Reports](/help/dsp/reports/faq-reports.md)."
+      For a comparison of this report to reports created by [!DNL Advanced Measurement Services] and Adobe Analytic, see "[FAQs about custom reports](/help/dsp/reports/faq-reports.md)."
   
     * **[!UICONTROL Path Length]:** Use this report to track the number of user interaction points required for conversions over time so you can choose the optimal ad frequency. The report shows the number of conversions by path length (interaction points), such as how many conversions occurred after users had only one ad interaction, two ad interactions, and so on. The report can include data for multiple conversion metrics and uses a specified lookback period between the first interaction and a conversion. Columns in the report include "[!UICONTROL Path Length]," "[!UICONTROL Number of] \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 1\>," \<Conversion Metric Name 2\>," "% \<Conversion Metric Name 2\>," and so on.
     

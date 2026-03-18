@@ -45,7 +45,7 @@ exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
 {style="table-layout:auto"}
 
 <!-- 
-## Existing Simple Ad Serving deals
+## Existing [!UICONTROL Simple Ad Serving] deals
 
 Changes aren't applied retroactively.
 -->

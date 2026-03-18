@@ -14,7 +14,7 @@ Archiving a plan removes it from the default [!UICONTROL Planner] view.<!-- You 
 
 >[!MORELIKETHIS]
 >
->* [About the DSP Planner Tool](planner-about.md)
+>* [About the DSP [!UICONTROL Planner] tool](planner-about.md)
 >* [Create a Connected TV Reach Plan](planner-create.md)
 >* [Duplicate a Connected TV Reach Plan](planner-duplicate.md)
 >* [Edit a Connected TV Reach Plan](planner-edit.md)

@@ -148,10 +148,10 @@ index: yes
   + [!DNL On Demand] Inventory {#on-demand}
     + [About [!DNL On Demand] premium inventory](/help/dsp/inventory/on-demand-inventory-about.md)
     + Available [!DNL On Demand] Premium Inventory Publishers {#publishers}
-      + [[!DNL On Demand] Premium Inventory Publishers in Asia Pacific](/help/dsp/inventory/on-demand-inventory-publishers-apac.md)
-      + [[!DNL On Demand] Premium Inventory Publishers in Australia and New Zealand](/help/dsp/inventory/on-demand-inventory-publishers-anz.md)
-      + [[!DNL On Demand] Premium Inventory Publishers in Europe, the Middle East, and Africa](/help/dsp/inventory/on-demand-inventory-publishers-emea.md)
-      + [[!DNL On Demand] Premium Inventory Publishers in North America](/help/dsp/inventory/on-demand-inventory-publishers-na.md)
+      + [[!DNL On Demand] premium inventory publishers in Asia Pacific](/help/dsp/inventory/on-demand-inventory-publishers-apac.md)
+      + [[!DNL On Demand] premium inventory publishers in Australia and New Zealand](/help/dsp/inventory/on-demand-inventory-publishers-anz.md)
+      + [[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa](/help/dsp/inventory/on-demand-inventory-publishers-emea.md)
+      + [[!DNL On Demand] premium inventory publishers in North America](/help/dsp/inventory/on-demand-inventory-publishers-na.md)
     + [Subscribe and request access to [!DNL On Demand] premium inventory deals](/help/dsp/inventory/on-demand-inventory-subscribe.md)
     + [Re-request [!DNL On Demand] premium inventory deals](/help/dsp/inventory/on-demand-inventory-rerequest.md)
     + [View the status of your [!DNL On Demand] deal requests and subscriptions](/help/dsp/inventory/on-demand-inventory-view-status.md)
@@ -205,7 +205,7 @@ index: yes
     + [Delete a report destination](/help/dsp/reports/report-destinations/report-destination-delete.md)
     + [Report destination settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
 + Planner {#planner}
-  + [About the DSP Planner tool](/help/dsp/planner/planner-about.md)
+  + [About the DSP [!UICONTROL Planner] tool](/help/dsp/planner/planner-about.md)
   + [Create a Connected TV reach plan](/help/dsp/planner/planner-create.md)
   + [Duplicate a Connected TV reach plan](/help/dsp/planner/planner-duplicate.md)
   + [Edit a Connected TV reach plan](/help/dsp/planner/planner-edit.md)

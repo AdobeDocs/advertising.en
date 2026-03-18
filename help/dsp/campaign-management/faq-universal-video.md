@@ -1,5 +1,5 @@
 ---
-title: FAQs about Universal Video
+title: FAQs about Universal video
 description: Learn more about universal video ads.
 feature: DSP Placements, DSP Ads
 exl-id: 48c744ae-90a3-47e9-a5dc-c4e3c01b75a0
@@ -32,7 +32,7 @@ Create universal video placements and ads similarly to how you create other type
    * **[!UICONTROL VPAID & VAST (Default)]:** Includes inventory that doesn't allow viewability measurement.
    * **[!UICONTROL VAST]** - Suitable for connected TV inventory.
 
-   See "[Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)" for more information.
+   See "[Universal video ad settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)" for more information.
 
 1. [Attach the new universal video ads](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) to the universal video placement.
 

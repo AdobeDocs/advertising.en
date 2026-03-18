@@ -21,10 +21,10 @@ You can edit some settings for a [!UICONTROL Simple Ad Serving] deal that hasn't
 >[!MORELIKETHIS]
 >
 >* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [Create a [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
->* [[!UICONTROL Simple Ad Serving] Settings](simple-deal-settings.md)
->* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
+>* [Create a [!UICONTROL Simple Ad Serving] deal](simple-deal-create.md)
+>* [[!UICONTROL Simple Ad Serving] settings](simple-deal-settings.md)
+>* [View a detailed report for a deal](/help/dsp/inventory/deal-view-report.md)
 
 <!-- add back when reimplemented:
->* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+>* [View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal](simple-deal-show-pixels.md)
 -->

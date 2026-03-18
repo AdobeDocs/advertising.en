@@ -58,4 +58,4 @@ Alerts and alert indicators automatically disappear when the underlying issues a
 
 >[!MORELIKETHIS]
 >
->* [Types of Performance Reports in Campaign Management Views](campaign-reports-about.md)
+>* [Types of performance reports in campaign management views](campaign-reports-about.md)

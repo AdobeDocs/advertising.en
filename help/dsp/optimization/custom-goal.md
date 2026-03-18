@@ -58,7 +58,7 @@ To create a custom goal, the DSP account must be linked to a [!DNL Search, Socia
    
    >[!TIP]
    >
-   >For optimum performance, the combined metrics in the custom goal (objective) must total at least ten conversions per day. When they don't, the best practice is to add additional supporting conversion metrics, such as product pages or application starts, to the objective. See [Best Practices for Building a Custom Goal](#custom-goal-best-practices) for guidelines.
+   >For optimum performance, the combined metrics in the custom goal (objective) must total at least ten conversions per day. When they don't, the best practice is to add additional supporting conversion metrics, such as product pages or application starts, to the objective. See [Best practices for building a custom goal](#custom-goal-best-practices) for guidelines.
        
 In the DSP package settings for packages that use the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]," the objective name is now included in the [!UICONTROL Custom Goals] list. When you select the objective as the custom goal for a package, the [!UICONTROL Conversion Metric] list includes all goal metrics for the objective.
 
@@ -124,6 +124,6 @@ There are two scenarios in which you would use multiple metrics in a custom goal
 
 >[!MORELIKETHIS]
 >
->* [Optimization Goals and How to Use Them](optimization-goals.md)
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
-> * [How DSP Optimizes Your Campaigns](optimization-how-dsp-optimizes-campaigns.md)
+>* [Optimization goals and how to use them](optimization-goals.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+> * [How DSP optimizes your campaigns](optimization-how-dsp-optimizes-campaigns.md)

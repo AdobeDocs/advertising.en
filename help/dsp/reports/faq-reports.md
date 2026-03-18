@@ -97,7 +97,7 @@ The ideal use case is to use both the [!UICONTROL Household] report and the [!DN
 
 ## Conversion path analysis reports
 
-### How does the Path to Conversion report compare to reports created by [!DNL Advanced Measurement Services] and Adobe Analytics Analysis Workspace?
+### How does the Path to conversion report compare to reports created by [!DNL Advanced Measurement Services] and Adobe Analytics Analysis Workspace?
 
 | | Path to Conversion Report | Advanced Measurement Services Halo Effect on Search Reporting | Reports in Analysis Workspace |
 | --- | --- | --- |---|

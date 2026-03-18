@@ -41,6 +41,6 @@ To pause an ad on an individual placement, use the placement [!UICONTROL Inspect
 
 >[!MORELIKETHIS]
 >
->* [Create a Single Ad](ad-create.md)
->* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Archive an Ad](ad-archive-unarchive.md)
+>* [Create a single ad](ad-create.md)
+>* [Create multiple third-party ads](ad-create-multiple.md)
+>* [Archive an ad](ad-archive-unarchive.md)

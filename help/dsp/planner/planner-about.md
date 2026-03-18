@@ -1,10 +1,10 @@
 ---
-title: About the DSP Planner tool
+title: About the DSP [!UICONTROL Planner] tool
 description: Learn about the planner tool to forecast the unique reach for connected TV (CTV) placements according to specified budget and targeting criteria.
 feature: DSP Planner
 exl-id: b25d4ac5-e85f-4a38-8765-6c5261987668
 ---
-# About the DSP Planner tool
+# About the DSP [!UICONTROL Planner] tool
 
 <!-- rename all titles/descriptions from "CTV reach planner" to "campaign reach planner" -->
 
@@ -67,7 +67,7 @@ Yes, you can export a forecast into a [!DNL Microsoft Excel] spreadsheet by clic
 
 >[!MORELIKETHIS]
 >
->* [About the DSP Planner tool](planner-about.md)
+>* [About the DSP [!UICONTROL Planner] tool](planner-about.md)
 >* [Create a connected TV reach plan](planner-create.md)
 >* [Duplicate a connected TV reach plan](planner-duplicate.md)
 >* [Edit a connected TV reach plan](planner-edit.md)

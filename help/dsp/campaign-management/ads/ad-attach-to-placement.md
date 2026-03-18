@@ -84,7 +84,7 @@ You can attach and remove ads from placements.
 
 1. Click **[!UICONTROL Detach Selected Ads]**.
 
-## Remove an ad from a placement from the [!UICONTROL Placement Inspector] {#remove-ads-placement-inspector}
+## Remove an ad from a placement from the placement [!UICONTROL Inspector] {#remove-ads-placement-inspector}
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
      

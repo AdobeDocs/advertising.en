@@ -28,6 +28,6 @@ All placements paused within a package prior to pausing the package itself remai
 
 >[!MORELIKETHIS]
 >
->* [Edit a Package](package-edit.md)
+>* [Edit a package](package-edit.md)
 >* [View the change log for a package](package-change-log.md)
->* [Archive a Package](package-archive-unarchive.md)
+>* [Archive a package](package-archive-unarchive.md)

@@ -168,6 +168,6 @@ You can create and manage lists of website and app URLs for placement targeting.
 
 >[!MORELIKETHIS]
 >
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [About Account-Level and Advertiser-Level Blocked Sites Lists](/help/dsp/admin/blocked-sites-list-about.md)
->* [Edit an Account-Level or Advertiser-Level Blocked Sites List](/help/dsp/admin/blocked-sites-list-edit.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [About account-level and advertiser-level blocked sites lists](/help/dsp/admin/blocked-sites-list-about.md)
+>* [Edit an account-level or advertiser-level blocked sites list](/help/dsp/admin/blocked-sites-list-edit.md)

@@ -36,7 +36,7 @@ For any additional questions or issues with resubmission, contact your Adobe Acc
 
    The [!UICONTROL Submission Status] column indicates if the ad was submitted and approved.
 
-   For failed submissions, the [!UICONTROL API] Response column indicates the error. For a full list of error codes for failed submissions, and next steps to correct them, see "[Error Codes for [!DNL FreeWheel] Ad Submissions](freewheel-error-codes.md)."
+   For failed submissions, the [!UICONTROL API] Response column indicates the error. For a full list of error codes for failed submissions, and next steps to correct them, see "[Error codes for [!DNL FreeWheel] ad submissions](freewheel-error-codes.md)."
 
 1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More]** > **[!UICONTROL Resubmit]**.
 

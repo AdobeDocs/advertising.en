@@ -12,7 +12,7 @@ Hide a placement that isn't being used by archiving it. The only action you can 
 
 You can unarchive a placement to restore its previous status at any time.
 
-## Archive a Placement
+## Archive a placement
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
@@ -24,7 +24,7 @@ You can unarchive a placement to restore its previous status at any time.
 >
 >To view archived placements, filter the [!UICONTROL Placements] view: click ![Filter button](/help/dsp/assets/filter.png), click **[!UICONTROL Placement status]** and select **[!UICONTROL Archived]**, and then click **[!UICONTROL Apply].**
 
-## Unarchive a Placement
+## Unarchive a placement
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.

@@ -30,6 +30,6 @@ You can unarchive a package to restore its previous status at any time.
 
 >[!MORELIKETHIS]
 >
->* [Edit a Package](package-edit.md)
->* [View the Change Log for a Package](package-change-log.md)
->* [Pause or Activate a Package](package-pause-activate.md)
+>* [Edit a package](package-edit.md)
+>* [View the change log for a package](package-change-log.md)
+>* [Pause or activate a package](package-pause-activate.md)

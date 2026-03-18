@@ -34,6 +34,6 @@ exl-id: b2261b3a-ead2-4d88-a363-66c53653de1a
 
 >[!MORELIKETHIS]
 >
->* [About Account-Level and Advertiser-Level Blocked Sites Lists](/help/dsp/admin/blocked-sites-list-about.md)
-> [Brand Safety and Media Quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [About account-level and advertiser-level blocked sites lists](/help/dsp/admin/blocked-sites-list-about.md)
+> [Brand safety and media quality](/help/dsp/introduction/features/brand-safety-media-quality.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

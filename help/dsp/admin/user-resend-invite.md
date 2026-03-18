@@ -20,7 +20,7 @@ Administrator users can resend an invitation to a user with a pending invitation
 
 >[!MORELIKETHIS]
 >
->* [Invite a New User for Your Organization Account](user-invite.md)
->* [Uninvite a Pending User](user-uninvite.md)
+>* [Invite a new user for your organization account](user-invite.md)
+>* [Uninvite a pending user](user-uninvite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

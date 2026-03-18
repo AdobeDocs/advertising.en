@@ -27,6 +27,6 @@ To see all of the packages, placements, and ads within a campaign, click the cam
 
 >[!MORELIKETHIS]
 >
->* [Create a Campaign](campaign-create.md)
->* [Campaign Settings](campaign-settings.md)
->* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)
+>* [Create a campaign](campaign-create.md)
+>* [Campaign settings](campaign-settings.md)
+>* [Video: DSP account structure and user interface](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)

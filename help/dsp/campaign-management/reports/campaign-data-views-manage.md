@@ -90,7 +90,7 @@ DSP saves your most recent view as the default view so that, every time you retu
 
     * To save the settings to a new, custom column view, click **[!UICONTROL Save As]**. In the [!UICONTROL Save View] window, enter the name of the new view, and then click **[!UICONTROL Save]**.
 
-### Filter Campaign Data {#filter-data-tables}
+### Filter campaign data {#filter-data-tables}
 
 Filters change the data that is displayed on the current tab. Available filters vary by entity type but may include entity name, status, and additional property columns.
 

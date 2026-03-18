@@ -28,8 +28,8 @@ To see all of the placements within a package, and the flight dates for the pack
 
 >[!MORELIKETHIS]
 >
->* [Create a Package](package-create.md)
->* [Edit a Package](package-edit.md)
->* [Attach a Placement to a Package](package-attach-placement.md)
->* [View the Change Log for a Package](package-change-log.md)
->* [Package Settings](package-settings.md)
+>* [Create a package](package-create.md)
+>* [Edit a package](package-edit.md)
+>* [Attach a placement to a package](package-attach-placement.md)
+>* [View the change log for a package](package-change-log.md)
+>* [Package settings](package-settings.md)

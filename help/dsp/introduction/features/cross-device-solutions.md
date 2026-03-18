@@ -36,7 +36,7 @@ People-based frequency management allows you to specify frequency caps at the pe
 
 * **Campaigns:** When you create a new campaign, you can specify a [!UICONTROL Cross-Device Level] setting. Enable "[!UICONTROL Same Device]" -> "[!UICONTROL People]," and select a device graph. The specified device graph is used for both cross-device targeting at the placement level and for people-based frequency management at the campaign, package, and placement level. Frequency caps apply across all of a person's known devices.
 
- For more information, see [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md).
+ For more information, see [Campaign settings](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
    Once you save a campaign, you can't change its [!UICONTROL Cross Device Level] setting.
 
@@ -52,7 +52,7 @@ People-based targeting allows you to find customers across desktop and mobile.
 
 * **Campaigns:** When you create a new campaign, you can specify a [!UICONTROL Cross-Device Level] setting. Enable "[!UICONTROL Same Device]" -> "[!UICONTROL People]," and select a device graph. The specified device graph is used for both cross-device targeting at the placement level and for people-based frequency management.
 
- For more information, see [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md).
+ For more information, see [Campaign settings](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
 * **Placements:** When you select audience targets for a placement in a campaign with a specified device graph, a [!UICONTROL Cross-Device Targeting] option allows you to extend your targeting across all of a person's known devices (per the device graph specified in the campaign settings), even devices that aren't in the specified segments.
 
@@ -106,7 +106,7 @@ Sort the percentage of total conversions that are cross-device ([!UICONTROL (xd)
 
 >[!MORELIKETHIS]
 >
->* [Report Settings](/help/dsp/reports/report-settings.md)
->* [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Report settings](/help/dsp/reports/report-settings.md)
+>* [Campaign settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

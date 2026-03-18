@@ -18,7 +18,7 @@ Administrator users can uninvite a user with a pending invitation. Uninviting a 
 
 >[!MORELIKETHIS]
 >
->* [Invite a New User for Your Organization Account](user-invite.md)
->* [Resend a Pending User Invitation](user-resend-invite.md)
+>* [Invite a new user for your organization account](user-invite.md)
+>* [Resend a pending user invitation](user-resend-invite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->
