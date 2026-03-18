@@ -111,7 +111,7 @@ index: yes
       + [Remove label classification values from account components](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-remove)
       + [Delete label classification values](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-delete)
       + [Delete label classifications](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-delete)
-+ Target {#target}
+  + Target {#target}
     + Keywords {#keywords}
       + [About the [!UICONTROL Keywords] view](/help/search-social-commerce/new-ui/target/keywords/keyword-view-about.md)
       + [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
