@@ -1,10 +1,10 @@
 ---
-title: Pause or Activate a Package
+title: Pause or activate a package
 description: Learn how to pause or activate a package.
 feature: DSP Packages
 exl-id: c4a6fb08-14db-4c8b-ab7a-0bbc0f201390
 ---
-# Pause or Activate a Package
+# Pause or activate a package
 
 Pause a live package or activate a paused package when it's within the configured flight schedule. 
 

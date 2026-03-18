@@ -1,10 +1,10 @@
 ---
-title: About Package Management in Advertising DSP
+title: About package management in Advertising DSP
 description: Learn about package management.
 feature: DSP Packages
 exl-id: 26985635-c03a-471e-8372-fd33e89a30e9
 ---
-# About Package Management in Advertising DSP
+# About package management in Advertising DSP
 
 Use packages to group placements for delivery to a set budget, performance goal, and custom pacing strategy. DSP optimizes packages by shifting budgets to the best-performing placements in the package. You can organize packages by placement format, inventory type, data provider, persona, or other distinguishable characteristics. Packages are optional.
 

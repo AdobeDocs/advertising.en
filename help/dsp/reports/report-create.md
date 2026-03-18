@@ -1,10 +1,10 @@
 ---
-title: Create a Custom Report
+title: Create a custom report
 description: Learn how to create a custom report.
 feature: DSP Custom Reports
 exl-id: f895529b-dc69-4c74-bca6-3f7617f41ceb
 ---
-# Create a Custom Report
+# Create a custom report
 
 1. In the main menu, click **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]**.
 

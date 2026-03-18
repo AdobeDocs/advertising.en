@@ -1,10 +1,10 @@
 ---
-title: View a Package Change Log
+title: View a package change log
 description: Learn how to view changes made to the package.
 feature: DSP Packages
 exl-id: dd33519b-19cf-4b6f-b6d2-ec0874e27075
 ---
-# View the Change Log for a Package
+# View the change log for a package
 
 Change logs show changes made to the package during the selected date range, including the package name, entity type (Package), type of change, the new and old values, the user who made the change, and the date. You can optionally add notes to any entry.
 

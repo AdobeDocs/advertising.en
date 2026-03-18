@@ -1,10 +1,10 @@
 ---
-title: Archive or Unarchive an Ad
+title: Archive or unarchive an ad
 description: Learn how to archive or unarchive an ad.
 feature: DSP Ads
 exl-id: 086c120f-df55-43b0-a6fb-51d68d00a29e
 ---
-# Archive or Unarchive an Ad
+# Archive or unarchive an ad
 
 Hide an ad that isn't being used by archiving it. Archived ads aren't shown by default but are still available for reporting.
 

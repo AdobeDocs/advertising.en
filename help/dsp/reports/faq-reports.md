@@ -1,13 +1,13 @@
 ---
-title: FAQs About Custom Reports
+title: FAQs about custom reports
 description: Learn more about custom reports, including household reports and conversion path analysis reports. 
 exl-id: 3ffd178e-de41-4663-b85f-bd8ce3eb0dad
 ---
-# FAQs About Custom Reports
+# FAQs about custom reports
 
-## Household Reports
+## Household reports
 
-### The [!UICONTROL Household Reach & Frequency] Report
+### The [!UICONTROL Household Reach & Frequency] report
 
 #### How are [!UICONTROL Household Reach & Frequency] reports different from other custom reports?
 
@@ -15,11 +15,11 @@ The [!UICONTROL Household Reach & Frequency] report measures reach, impression, 
 
 For example, even if one impression is served to three devices within one household, the Unique Household Reached metric is one.
 
-##### Supported Dimensions
+##### Supported dimensions
 
 The [!UICONTROL Household Reach & Frequency] report supports the [following dimensions](/help/dsp/reports/report-columns.md): "[!UICONTROL Campaign]," "[!UICONTROL Package]," "[!UICONTROL Placement]," "[!UICONTROL Site/Apps]" (which doesn't provide access to overlap metrics), "[!UICONTROL Media Type]," "[!UICONTROL Feed Type]," "[!UICONTROL Device]," "[!UICONTROL Publisher]," "[!UICONTROL Audience]," "[!UICONTROL Creative Length]," and user-created placement "[!UICONTROL Tags]." |
 
-##### Supported Metrics
+##### Supported metrics
 
 The [available metrics](/help/dsp/reports/report-columns.md) include:
 
@@ -65,7 +65,7 @@ To create tags for the placement, [open the placement settings](/help/dsp/campai
 
 When a placement includes multiple tags, the report considers the entire string as one tag. The report includes one row for each unique string.
 
-### The [!UICONTROL Household Conversions] Report
+### The [!UICONTROL Household Conversions] report
 
 #### Which attribution methods are supported in [!UICONTROL Household Conversions] report?
 
@@ -95,7 +95,7 @@ The [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversio
 
 The ideal use case is to use both the [!UICONTROL Household] report and the [!DNL Advanced Measurement Services] reporting and consulting services together. Consider the [!UICONTROL Household] report as transactional, meant to inform day-to-day optimizations, and [!DNL Advanced Measurement Services] as more strategic, meant to inform holistic learnings and takeaways tied to overarching business objectives.
 
-## Conversion Path Analysis Reports
+## Conversion path analysis reports
 
 ### How does the Path to Conversion report compare to reports created by [!DNL Advanced Measurement Services] and Adobe Analytics Analysis Workspace?
 

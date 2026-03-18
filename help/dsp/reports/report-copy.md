@@ -1,10 +1,10 @@
 ---
-title: Duplicate a Custom Report
+title: Duplicate a custom report
 description: Learn how to create a custom report by duplicating an existing report.
 feature: DSP Custom Reports
 exl-id: 20542bf8-69e9-44e0-9637-56b27f2de9ec
 ---
-# Duplicate a Custom Report
+# Duplicate a custom report
 
 Duplicate a custom report to create a new report with similar settings.
 

@@ -1,10 +1,10 @@
 ---
-title: Available Report Columns
+title: Available report columns
 description: See descriptions of available columns in custom reports.
 feature: DSP Custom Reports
 exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 ---
-# Available Report Columns
+# Available report columns
 
 <!-- Add when added:
 

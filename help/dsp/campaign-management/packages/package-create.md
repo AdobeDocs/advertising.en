@@ -1,10 +1,10 @@
 ---
-title: Create a Package
+title: Create a package
 description: Learn how to create a package.
 feature: DSP Packages
 exl-id: 528c57f2-fa83-44d7-9ce4-509ca7565135
 ---
-# Create a Package
+# Create a package
 
 >[!TIP]
 >

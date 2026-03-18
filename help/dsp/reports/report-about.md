@@ -1,10 +1,10 @@
 ---
-title: About Custom Reports
+title: About custom reports
 description: Learn about options for creating custom reports manually or using pre-configured report templates.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
 ---
-# About Custom Reports
+# About custom reports
 
 Custom reports allow you to customize the content and delivery of your report data using the campaign dimensions (such as the advertiser, placement, sites, or geos) and the metrics that matter most to you. You can either:
 
@@ -23,7 +23,7 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 >
 >You can also view on-demand data at all levels of a campaign (campaign, package, placement, or ad) [within the relevant campaign management view](/help/dsp/campaign-management/reports/campaign-reports-about.md).
 
-## Available Report Types
+## Available report types
 
 * **[!UICONTROL Custom]:** This report is a blank template that you can use to create your own custom report using most dimensions and metrics. [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], and [!UICONTROL Site] reports are variations of this template with pre-selected columns and dimensions for their respective use cases.
 
@@ -99,7 +99,7 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
     
     * **[!UICONTROL Time to Conversion]:** Use this report to determine the optimal attribution lookback window and to identify campaigns with longer times to conversion, which may benefit from retargeting. The report shows the number of conversions by the length of time in days from the last interaction (ad exposure or click) to conversion. The report can include data for multiple conversion metrics and uses a specified lookback period between the first interaction and a conversion. Columns in the report include "[!UICONTROL Time Taken (in days)]," "[!UICONTROL Number of] \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 1\>," \<Conversion Metric Name 2\>," "% \<Conversion Metric Name 2\>," and so on. Conversions that take longer than the lookback period are grouped together in one row (for example, if the report uses a 30-day lookback period, then all conversions that take longer than 30 days to occur are grouped together in a row with a "[!UICONTROL Time Taken (in days)]" value of "30+").
 
-## Cross-Account Reporting {#cross-account-reporting}
+## Cross-account reporting {#cross-account-reporting}
 
 Any organization with multiple DSP accounts can optionally enable cross-account data in custom reports, according to the organization's needs. For example, you can give Account A access to Account B's data, and give Account B access to Account C's (but not Account A's) data. To enable and configure this feature, contact your Adobe Account Team.
 
@@ -107,13 +107,13 @@ Once the feature is enabled for your organization, you can [filter](report-setti
 
 Your account settings at [!UICONTROL Settings] > [!UICONTROL Account] indicate a) the other accounts whose data is available to your account and b) the other accounts that can access your account's data.
 
-## The [!UICONTROL Custom Reports] View
+## The [!UICONTROL Custom Reports] view
 
 [!UICONTROL Reports] > [!UICONTROL Custom Reports] lists your existing reports, including reports that were generated, those that are scheduled for future generation, and those that failed. The "[!UICONTROL Report Run]" column shows dates on which the report was triggered beginning on 22 August 2024. By default, all unarchived reports created by the user are listed, with the most recent on top. You can further filter the list by status, whether the report is recurring or one-time, the report type, the destination type, and the report creator. 
 
 You can create new custom reports, edit existing reports or duplicate them to create new reports, run reports immediately, download any report instance from the last four months, and delete reports. 
 
-## Report Statuses {#custom-report-status}
+## Report statuses {#custom-report-status}
 
 * **[!UICONTROL Yet to start]:** The report has never been run.
 

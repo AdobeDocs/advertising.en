@@ -1,10 +1,10 @@
 ---
-title: Attach a Placement to a Package
+title: Attach a placement to a package
 description: Learn how to attach a placement to a package.
 feature: DSP Packages
 exl-id: dbee2db6-6cb7-4c56-9c14-816ea071b760
 ---
-# Attach a Placement to a Package
+# Attach a placement to a package
 
 ## Attach a New Placement from the [!UICONTROL Placements] View
 

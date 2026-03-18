@@ -1,10 +1,10 @@
 ---
-title: Archive or Unarchive a Package
+title: Archive or unarchive a package
 description: Learn how to archive or unarchive a package.
 feature: DSP Packages
 exl-id: 12d1b498-2239-401a-8571-9210956e32b2
 ---
-# Archive or Unarchive a Package
+# Archive or unarchive a package
 
 Hide a package that isn't being used by archiving it. The only action you can take on an archived package is to unarchive it. Archived packages aren't shown by default but are still available for reporting.
 
