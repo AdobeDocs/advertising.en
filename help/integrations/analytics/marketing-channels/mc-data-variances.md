@@ -1,10 +1,10 @@
 ---
-title: Why Channel Data Can Vary Between Adobe Advertising and [!DNL Marketing Channels]
+title: Why channel data can vary between Adobe Advertising and [!DNL Marketing Channels]
 description: Learn why channel data tracked by the AMO ID can vary from channel data tracked by [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
 exl-id: 72e3aa1e-85ed-485a-b93f-5e67dd0140ce
 ---
-# Why Channel Data Can Vary Between Adobe Advertising and [!DNL Marketing Channels]
+# Why channel data can vary between Adobe Advertising and [!DNL Marketing Channels]
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
@@ -20,12 +20,12 @@ The two data sets have different primary use cases:
 
      To collect this data, the [!DNL Analytics for Advertising] integration passes raw AMO IDs that can be translated as click-through and view-through tracking codes in the AMO ID dimension of Adobe Analytics &mdash; which is stored either as a custom variable (eVar) or a reserved variable (rVar). Click-throughs for other channels aren't set in the AMO ID dimension, so the AMO ID dimension is unable to track entry from these other channels. The result is that the AMO ID persists through [!DNL Marketing Channels] entry points.
 
-For more information about possible data variances between Adobe Advertising-tracked data and [!DNL Analytics]-tracked data, see "[Expected Data Variances Between [!DNL Analytics] and Adobe Advertising](../data-variances.md)."
+For more information about possible data variances between Adobe Advertising-tracked data and [!DNL Analytics]-tracked data, see "[Expected data variances between [!DNL Analytics] and Adobe Advertising](../data-variances.md)."
 
 >[!MORELIKETHIS]
 >
->* [Expected Data Variances Between [!DNL Analytics] and Adobe Advertising](/help/integrations/analytics/data-variances.md)
+>* [Expected data variances between [!DNL Analytics] and Adobe Advertising](/help/integrations/analytics/data-variances.md)
 >* [Fundamentals of [!DNL Analytics Marketing Channels]](mc-overview.md)
->* [Using Adobe Advertising IDs to Create [!DNL Marketing Channels] Processing Rules](mc-ids.md)
->* [Using [!DNL Analytics Marketing Channels] with Adobe Advertising Data](mc-ac-data.md)
+>* [Using Adobe Advertising IDs to create [!DNL Marketing Channels] processing rules](mc-ids.md)
+>* [Using [!DNL Analytics Marketing Channels] with Adobe Advertising data](mc-ac-data.md)
 >* [Video: Using [!DNL Marketing Channels] for Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)

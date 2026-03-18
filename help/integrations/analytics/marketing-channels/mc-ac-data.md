@@ -1,10 +1,10 @@
 ---
-title: Using [!DNL Marketing Channels] with Adobe Advertising Data
+title: Using [!DNL Marketing Channels] with Adobe Advertising data
 description: Learn how to use Adobe Advertising data in [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
 exl-id: 522c7f01-1138-477d-8018-36030caab55e
 ---
-# Using [!DNL Analytics Marketing Channels] with Adobe Advertising Data
+# Using [!DNL Analytics Marketing Channels] with Adobe Advertising data
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
@@ -20,7 +20,7 @@ In the first visit, the user entered the website through an email campaign, exec
 
 Because the AMO ID persists through the visitor’s journey, you can use the AMO ID data to see how Adobe Advertising influences other marketing channels. The AMO ID [persists for 60 days by default](/help/integrations/analytics/overview.md), but you can configure the persistence as needed.
 
-## How to Combine Adobe Advertising and Marketing Channels Data to Analyze Media Performance
+## How to combine Adobe Advertising and Marketing Channels data to analyze media performance
 
 Within [!DNL Analytics], you can combine the Adobe Advertising persisting paid advertising data and the [!DNL Marketing Channels] comprehensive visit data to better analyze your media performance so you can better influence the customer journey.
 
@@ -47,7 +47,7 @@ You can improve the analysis further by using a Stack Graph set to "100% stacked
 >[!MORELIKETHIS]
 >
 >* [Fundamentals of [!DNL Analytics Marketing Channels]](mc-overview.md)
->* [Using Adobe Advertising IDs to Create [!DNL Marketing Channels] Processing Rules](mc-ids.md)
->* [Why Channel Data Can Vary Between Adobe Advertising and [!DNL Marketing Channels]](mc-data-variances.md)
+>* [Using Adobe Advertising IDs to create [!DNL Marketing Channels] processing rules](mc-ids.md)
+>* [Why channel data can vary between Adobe Advertising and [!DNL Marketing Channels]](mc-data-variances.md)
 >* [Video: Using [!DNL Marketing Channels] for Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 >* [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)

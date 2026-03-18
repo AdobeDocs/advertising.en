@@ -1,16 +1,16 @@
 ---
-title: Using Adobe Advertising IDs to Create [!DNL Marketing Channels] Rules
+title: Using Adobe Advertising IDs to create [!DNL Marketing Channels] rules
 description: Learn how to use Adobe Advertising IDs to create processing rules for [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
 exl-id: 525761b4-607f-4b03-9020-8051009a13c6
 ---
-# Using Adobe Advertising IDs to Create [!DNL Marketing Channels] Processing Rules
+# Using Adobe Advertising IDs to create [!DNL Marketing Channels] processing rules
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
 You can use Adobe Advertising IDs ([AMO ID and EF ID](../ids.md)) to configure [!DNL Marketing Channels] processing rules in Adobe Analytics. Use Adobe Advertising IDs for rules specific to your Adobe Advertising campaigns.
 
-## The AMO ID in Processing Rules
+## The AMO ID in processing rules
 
 The AMO ID is the primary tracking code used to report Adobe Advertising data within [!DNL Analytics]. The AMO ID is a concatenation of dynamic values managed by Adobe to provide granular reporting within [!DNL Analytics]. It's stored in an [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or rVar dimension (AMO ID). The AMO ID can be set in [!DNL Analytics] in two ways:
 
@@ -41,7 +41,7 @@ The rest of the AMO ID can be ignored.
 | AL! (prefix) | [!UICONTROL Paid Search] | Starts With |
 | AC! (prefix) | [!UICONTROL DSP] | Starts With |
 
-### Examples of Processing Rules That Use the AMO ID
+### Examples of processing rules that use the AMO ID
 
 The [!DNL Marketing Channels] processing rule for the [!UICONTROL Paid Search] channel might look like this:
 
@@ -55,7 +55,7 @@ The [!DNL Marketing Channels] processing rule for the [!UICONTROL YouTube Video 
 >
 > Be sure to run your rules in order of specificity. If the above two rules ran in order, the [!DNL YouTube] video ad traffic would all fall under the [!UICONTROL Paid Search] channel because the AMO ID would both start with “AL!” and contain “!ytv!”.
 
-## The EF ID in Processing Rules
+## The EF ID in processing rules
 
 The AMO EF ID (EF ID) is the second tracking code used in the [!DNL Analytics for Advertising] integration. Its primary purpose is to track and pass [!DNL Analytics] event data into Adobe Advertising. Every time a click-through or a view-through occurs, a unique EF ID is generated, even if it is the exact same ad for the same visitor. The EF ID is not used in the [!DNL Analytics] reporting user interface because it typically exceeds the 500k unique values per variable limit in [!DNL Analytics], making it unusable for reporting. The Adobe Advertising metrics and metadata are not applied to the EF ID; they are applied only to the AMO ID. The added granularity of tracking is required for campaign optimization in Adobe Advertising, so both IDs are required.
 
@@ -67,9 +67,9 @@ Although the EF ID dimension isn't used directly in [!DNL Analytics] reporting, 
 | :d | [!UICONTROL Display Click-through] |
 | :i | [!UICONTROL Display View-through] |
 
-### Examples of Processing Rules That Use the EF ID
+### Examples of processing rules that use the EF ID
 
-#### Display Click-through Rule
+#### Display click-through rule
 
 Create a Display click-through marketing channel by capturing only click-throughs. Because the AMO ID is the same for both click-throughs and view-throughs, this rule uses the EF ID variable and the `ef_id` query string parameter.
 
@@ -77,7 +77,7 @@ Sometimes click-throughs are tracked through the URL (the default). In other cas
 
 ![Example of a display click-through rule](/help/integrations/assets/a4adc-mc-rule-display-ct.png)
 
-#### Display View-through Rule
+#### Display view-through rule
 
 To create a Display view-through channel, create a rule in which the EF ID ends with “:i”. Because the visitor didn't click the ad, the view-through tracking doesn't include the `ef_id` or `s_kwcid` in the URL, so the rule requires only one condition.
 
@@ -86,7 +86,7 @@ To create a Display view-through channel, create a rule in which the EF ID ends 
 >[!MORELIKETHIS]
 >
 >* [Fundamentals of [!DNL Analytics Marketing Channels]](mc-overview.md)
->* [Why Channel Data Can Vary Between Adobe Advertising and [!DNL Marketing Channels]](mc-data-variances.md)
->* [Using [!DNL Analytics Marketing Channels] with Adobe Advertising Data](mc-ac-data.md)
+>* [Why channel data can vary between Adobe Advertising and [!DNL Marketing Channels]](mc-data-variances.md)
+>* [Using [!DNL Analytics Marketing Channels] with Adobe Advertising data](mc-ac-data.md)
 >* [Video: Using [!DNL Marketing Channels] for Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
->* [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
+>* [Adobe Advertising IDs used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
