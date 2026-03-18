@@ -1,6 +1,6 @@
 ---
 title: Adobe Advertising Universal ID requirements policy
-description: See the policy for the use of Universal IDs.
+description: See the policy for the use of universal IDs.
 feature: Policies, DSP Ads
 exl-id: a21dcc56-a618-476d-9f5b-7b1260f27331
 ---
@@ -8,7 +8,7 @@ exl-id: a21dcc56-a618-476d-9f5b-7b1260f27331
 
 Last updated: February 29, 2024
 
-This Universal ID Requirements Policy (“Policy”) sets forth the requirements for the use of Universal IDs in connection with Ads distributed via [!DNL Adobe's] On-demand Services for Adobe Advertising (“Services”). This Policy is incorporated by reference into the Agreement between [!DNL Adobe] and the Customer (“you”) using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
+This Universal ID Requirements Policy (“Policy”) sets forth the requirements for the use of universal IDs in connection with Ads distributed via [!DNL Adobe's] On-demand Services for Adobe Advertising (“Services”). This Policy is incorporated by reference into the Agreement between [!DNL Adobe] and the Customer (“you”) using the On-demand Services. Capitalized terms used in this Policy but not defined herein will have the meaning set forth in that Agreement.
 
 [!DNL Adobe] reserves the right to determine, in its sole judgment, whether an Ad or the website(s) to which the Ad redirects or links, violate the requirements of this Policy, in which event [!DNL Adobe] may reject such Ad and/or terminate or suspend access to the Services on that basis.
 
@@ -18,7 +18,7 @@ In addition to the requirements set forth below and in the Agreement, you must c
 
 ### Prohibited data
 
-By electing to use the Universal IDs made available via the Services you agree to ensure that all Client Data transmitted, stored, displayed, distributed, or otherwise made available by you via the On-demand Services is consistent with the following Universal ID specifications and any other requirements of this Policy, as may be revised by [!DNL Adobe] from time to time. 
+By electing to use the universal IDs made available via the Services you agree to ensure that all Client Data transmitted, stored, displayed, distributed, or otherwise made available by you via the On-demand Services is consistent with the following Universal ID specifications and any other requirements of this Policy, as may be revised by [!DNL Adobe] from time to time. 
 
 * Client Data has been collected by you directly from users or licensed by you from another party that either (i) collected the Client Data directly from the users to which such data relates or (ii) obtained the Client Data via intermediaries that obtained the data from another party that collected such data from the user, provided that you are able to identify the original party that collected the Client Data from the users to which the data relates.
 
@@ -32,7 +32,7 @@ By electing to use the Universal IDs made available via the Services you agree t
 
 ### UID2 prohibited countries 
 
-By electing to use UID2 Universal IDs via the Services you agree to ensure that all Client Data transmitted, stored, displayed, distributed, or otherwise made available by you via the On-demand Services for such use in connection with UID2 Universal IDs does not relate to any individual who is a resident of any of the [UID2 Prohibited Countries listed on Exhibit A](#prohibited-countries-uid2) hereto. 
+By electing to use UID2 universal IDs via the Services you agree to ensure that all Client Data transmitted, stored, displayed, distributed, or otherwise made available by you via the On-demand Services for such use in connection with UID2 universal IDs does not relate to any individual who is a resident of any of the [UID2 Prohibited Countries listed on Exhibit A](#prohibited-countries-uid2) hereto. 
 
 ## No discrimination
 
