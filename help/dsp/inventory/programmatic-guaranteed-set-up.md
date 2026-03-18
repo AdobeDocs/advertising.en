@@ -8,13 +8,13 @@ exl-id: d962942f-c248-4b48-97bd-baa2df3a519e
 
 *[Supported supply side platforms only](programmatic-guaranteed-about.md)*
 
-After you negotiate a programmatic guaranteed (PG) deal with a supported publisher, you can set up the deal within DSP either by using the [!DNL Deal ID inbox] or by manually entering the deal details.
+After you negotiate a programmatic guaranteed (PG) deal with a supported publisher, you can set up the deal within DSP either by using the [!DNL Deal ID Inbox] or by manually entering the deal details.
 
 >[!NOTE]
 >
 > For PG deals, the publisher handles all budget pacing, budget capping, and targeting. All SSPs that allow PG through DSP confirm that the publisher can set up budget capping.
 >
-> Setting up programmatic guaranteed deals with publishers on [!DNL FreeWheel] requires extra permissions and steps. See "[Overview of Setting up Programmatic Guaranteed Deals in [!DNL FreeWheel]](freewheel-overview.md)" for more information.
+> Setting up programmatic guaranteed deals with publishers on [!DNL FreeWheel] requires extra permissions and steps. See "[Overview of setting up programmatic guaranteed deals in [!DNL FreeWheel]](freewheel-overview.md)" for more information.
 
 ## Set up a programmatic guaranteed deal using the [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
@@ -52,10 +52,10 @@ Use this method for all other SSPs.
 
 >[!MORELIKETHIS]
 >
->* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
->* [Tips for Negotiating a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
->* [Submit an Ad for a Programmatic Guaranteed Deal with [!DNL FreeWheel]](freewheel-submit.md)
->* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
->* [Manually Create Deal ID Details](deal-id-create.md)
->* [SSP Partners](ssp-partners.md)
->* [Overview of Inventory Features](inventory-overview.md)
+>* [About programmatic guaranteed deals](programmatic-guaranteed-about.md)
+>* [Tips for negotiating a programmatic guaranteed deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
+>* [Submit an ad for a programmatic guaranteed deal with [!DNL FreeWheel]](freewheel-submit.md)
+>* [Accept a deal in the [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md)
+>* [Manually create deal ID details](deal-id-create.md)
+>* [SSP partners](ssp-partners.md)
+>* [Overview of inventory features in Advertising DSP](inventory-overview.md)

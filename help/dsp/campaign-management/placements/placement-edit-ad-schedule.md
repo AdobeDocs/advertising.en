@@ -6,7 +6,7 @@ exl-id: 4c981d57-032f-4cde-858a-e9ac2bf2e6f2
 ---
 # Edit ad schedules for placements
 
-## Edit the Ad Schedules for One or More Placements
+## Edit the ad schedules for one or more placements
 
 You can change the scheduled flight dates and ad rotation for the ads attached to multiple placements using a [!DNL Microsoft Excel] spreadsheet. Each ad can be active during multiple flights.
 
@@ -40,7 +40,7 @@ You can change the scheduled flight dates and ad rotation for the ads attached t
 
    1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Upload Custom Ad Schedule Sheet]**, and specify the file to upload.
 
-## Edit the Ad Schedule for a Single Placement
+## Edit the ad schedule for a single placement
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- just simple ad serving placements (PG ones seem okay)? And anything else? -->
 
@@ -72,7 +72,7 @@ You can change the scheduled flight dates and ad rotation for the ads attached t
 
 >[!MORELIKETHIS]
 >
->* [About Placement Management](placement-about.md)
->* [Edit Placements](placement-edit.md)
->* [View the Change Log for a Placement](placement-change-log.md)
->* [Placement Settings](placement-settings.md)
+>* [About placement management in Advertising DSP](placement-about.md)
+>* [Edit placements](placement-edit.md)
+>* [View the change log for a placement](placement-change-log.md)
+>* [Placement settings](placement-settings.md)

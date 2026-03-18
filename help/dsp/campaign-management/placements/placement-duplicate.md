@@ -49,7 +49,7 @@ See "[What's Not Duplicated](#placement-not-duplicated)" for a list of placement
 
 1. Click **[!UICONTROL Submit]**.
 
-## What's Not Duplicated {#placement-not-duplicated}
+## What's not duplicated {#placement-not-duplicated}
 
 All settings from the original placements are duplicated except:
 
@@ -91,8 +91,8 @@ All settings from the original placements are duplicated except:
 
 >[!MORELIKETHIS]
 >
->* [About Placement Management](placement-about.md)
->* [Create a Placement](placement-create.md)
->* [Edit Placements](placement-edit.md)
->* [View the Change Log for a Placement](placement-change-log.md)
->* [Placement Settings](placement-settings.md)
+>* [About placement management in Advertising DSP](placement-about.md)
+>* [Create a placement](placement-create.md)
+>* [Edit placements](placement-edit.md)
+>* [View the change log for a placement](placement-change-log.md)
+>* [Placement settings](placement-settings.md)

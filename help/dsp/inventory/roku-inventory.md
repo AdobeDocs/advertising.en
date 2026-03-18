@@ -72,6 +72,6 @@ To maximum scale:
 
 >[!MORELIKETHIS]
 >
->* [Manually Create Deal ID Details](/help/dsp/inventory/deal-id-create.md)
-> * [Subscribe and Request Access to [!DNL On Demand] Premium Inventory Deals](/help/dsp/inventory/on-demand-inventory-subscribe.md)
->* [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
+>* [Manually create deal ID details](/help/dsp/inventory/deal-id-create.md)
+> * [Subscribe and request access to [!DNL On Demand] premium inventory deals](/help/dsp/inventory/on-demand-inventory-subscribe.md)
+>* [Create a placement](/help/dsp/campaign-management/placements/placement-create.md)

@@ -18,10 +18,10 @@ exl-id: 88fbbb46-0150-4ff7-838f-ea00aead529e
 
 >[!MORELIKETHIS]
 >
->* [About Package Management](package-about.md)
->* [Review and Edit Package Settings Using Bulksheets](/help/dsp/campaign-management/packages/package-qa.md)
->* [Create a Package](package-create.md)
->* [Duplicate a Package](package-duplicate.md)
->* [View the Change Log for a Package](package-change-log.md)
->* [Pause or Activate a Package](package-pause-activate.md)
->* [Package Settings](package-settings.md)
+>* [About package management in Advertising DSP](package-about.md)
+>* [Review and edit package settings using bulksheets](/help/dsp/campaign-management/packages/package-qa.md)
+>* [Create a package](package-create.md)
+>* [Duplicate a package](package-duplicate.md)
+>* [View the change log for a package](package-change-log.md)
+>* [Pause or activate a package](package-pause-activate.md)
+>* [Package settings](package-settings.md)

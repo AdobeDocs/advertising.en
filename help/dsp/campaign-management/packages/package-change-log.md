@@ -26,8 +26,8 @@ You can sort the data by any column except for New Value and Old Value.
 
 >[!MORELIKETHIS]
 >
->* [About Package Management](package-about.md)
->* [Create a Package](package-create.md)
->* [Edit a Package](package-edit.md)
->* [Attach a Placement to a Package](package-attach-placement.md)
->* [Package Settings](package-settings.md)
+>* [About package management in Advertising DSP](package-about.md)
+>* [Create a package](package-create.md)
+>* [Edit a package](package-edit.md)
+>* [Attach a placement to a package](package-attach-placement.md)
+>* [Package settings](package-settings.md)

@@ -33,7 +33,7 @@ PG deals require a PG default placement and ads (or a 1x1 pixel for publisher-ma
 
 >[!MORELIKETHIS]
 >
->* [Tips for Negotiating a Programmatic Guaranteed Deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
->* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
->* [SSP Partners](ssp-partners.md)
->* [Overview of Inventory Features](inventory-overview.md)
+>* [Tips for negotiating a programmatic guaranteed deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
+>* [Set up a programmatic guaranteed deal](programmatic-guaranteed-set-up.md)
+>* [SSP partners](ssp-partners.md)
+>* [Overview of inventory features in Advertising DSP](inventory-overview.md)

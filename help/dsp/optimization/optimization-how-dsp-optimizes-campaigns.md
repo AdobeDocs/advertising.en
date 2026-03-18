@@ -18,7 +18,7 @@ Package optimization goals operate at two levels:
    >
    >The economic value can be heavily weighted based on how well a placement is spending. If a placement is behind its spend goal, then it's allowed to buy lower-quality auctions. If a placement is easily meeting its spend goal, then the focus shifts to higher quality auctions.
 
-## Package Optimization
+## Package optimization
 
 DSP can optimize your delivery in two fundamental ways, with 20 variations available to align with your specific performance goal. You can choose to:
 
@@ -26,7 +26,7 @@ DSP can optimize your delivery in two fundamental ways, with 20 variations avail
 
 * Prioritize balancing cost efficiency with performance rate
 
-See [Optimization Goals and How to Use Them](optimization-goals.md) to determine which optimization goal can help you achieve your KPI(s).
+See [Optimization goals and how to use them](optimization-goals.md) to determine which optimization goal can help you achieve your KPI(s).
 
 ### Packages that prioritize the performance rate
 
@@ -74,12 +74,12 @@ Placement pre-bid filters are the strictest way to ensure strong performance. DS
 >
 >The available pre-bids filters vary by ad type. For example, for a standard display placement, you can filter by click-through rate and viewability but not by completion rate.
 
-See [Placement-level Pre-Bid Filters and How to Use Them](optimization-pre-bid-filters.md) to determine which pre-bid filter can help you achieve your KPI(s).
+See [Placement-level pre-bid filters and how to use them](optimization-pre-bid-filters.md) to determine which pre-bid filter can help you achieve your KPI(s).
 
 >[!MORELIKETHIS]
 >
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [Optimization Goals and How to Use Them](optimization-goals.md)
->* [Placement-level Pre-Bid Filters and How to Use Them](optimization-pre-bid-filters.md)
->* [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Optimization goals and how to use them](optimization-goals.md)
+>* [Placement-level pre-bid filters and how to use them](optimization-pre-bid-filters.md)
+>* [Troubleshooting performance](/help/dsp/optimization/troubleshooting-performance.md)

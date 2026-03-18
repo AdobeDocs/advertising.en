@@ -45,7 +45,7 @@ exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
 {style="table-layout:auto"}
 
 <!-- 
-## Existing Simple Ad Serving Deals
+## Existing Simple Ad Serving deals
 
 Changes aren't applied retroactively.
 -->
@@ -75,10 +75,10 @@ But I see:
 >[!MORELIKETHIS]
 >
 >* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [Create a [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
->* [Edit [!UICONTROL Simple Ad Serving] Deal Settings](simple-deal-edit.md)
->* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
+>* [Create a [!UICONTROL Simple Ad Serving] deal](simple-deal-create.md)
+>* [Edit [!UICONTROL Simple Ad Serving] deal settings](simple-deal-edit.md)
+>* [View a detailed report for a deal](/help/dsp/inventory/deal-view-report.md)
 
 <!-- add back when reimplemented:
->* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+>* [View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal](simple-deal-show-pixels.md)
 -->

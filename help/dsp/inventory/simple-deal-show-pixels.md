@@ -18,7 +18,7 @@ The event pixels include a [!UICONTROL Clickthrough] pixel and an [!UICONTROL Im
 >[!MORELIKETHIS]
 >
 >* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [Create a [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
->* [Edit [!UICONTROL Simple Ad Serving] Deal Settings](simple-deal-edit.md)
->* [[!UICONTROL Simple Ad Serving] Settings](simple-deal-settings.md)
->* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
+>* [Create a [!UICONTROL Simple Ad Serving] deal](simple-deal-create.md)
+>* [Edit [!UICONTROL Simple Ad Serving] deal settings](simple-deal-edit.md)
+>* [[!UICONTROL Simple Ad Serving] settings](simple-deal-settings.md)
+>* [View a detailed report for a deal](/help/dsp/inventory/deal-view-report.md)

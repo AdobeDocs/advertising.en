@@ -42,7 +42,7 @@ Area charts are available for the following auction attributes:
 
 >[!MORELIKETHIS]
 >
->* [About Private Inventory](private-inventory-about.md)
->* [Specify Placements and Ads for a Deal ID](deal-id-attach-placements.md)
->* [View a Detailed Report for a Deal](deal-view-report.md)
->* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [About private inventory](private-inventory-about.md)
+>* [Specify placements and ads for a deal ID](deal-id-attach-placements.md)
+>* [View a detailed report for a deal](deal-view-report.md)
+>* [Types of performance reports in campaign management views](/help/dsp/campaign-management/reports/campaign-reports-about.md)

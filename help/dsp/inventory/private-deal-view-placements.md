@@ -28,7 +28,7 @@ You can open a list of all placements and ads associated with a private deal. Yo
 
 >[!MORELIKETHIS]
 >
->* [About Private Inventory](private-inventory-about.md)
->* [Specify Placements and Ads for a Deal ID](deal-id-attach-placements.md)
->* [View a Detailed Report for a Deal](deal-view-report.md)
->* [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
+>* [About private inventory](private-inventory-about.md)
+>* [Specify placements and ads for a deal ID](deal-id-attach-placements.md)
+>* [View a detailed report for a deal](deal-view-report.md)
+>* [View the placement diagnostic report](/help/dsp/campaign-management/reports/placement-diagnostics.md)

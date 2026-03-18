@@ -31,6 +31,6 @@ exl-id: ad684c99-7ae5-48eb-abfe-d48fd3d34cd0
 
 >[!MORELIKETHIS]
 >
->* [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
->* [Placement-level Pre-Bid Filters and How to Use Them](optimization-pre-bid-filters.md)
->* [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+>* [Best practices for setting up performance campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
+>* [Placement-level pre-bid filters and how to use them](optimization-pre-bid-filters.md)
+>* [Campaign settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)

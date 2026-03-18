@@ -20,7 +20,7 @@ It's important to understand the goal of the campaign, such as to achieve the hi
 
 ![optimization goal](/help/dsp/assets/optimization-goals.png)
 
-You also need to determine the success event(s) that lead to the overall goal and create custom goals accordingly. For each package, specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using [!DNL Adobe AI]. For more information about creating custom goals, including best practices, see [Custom Goals](custom-goal.md).
+You also need to determine the success event(s) that lead to the overall goal and create custom goals accordingly. For each package, specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using [!DNL Adobe AI]. For more information about creating custom goals, including best practices, see [Custom goals](custom-goal.md).
 
 ## Step 2 - Define your strategy
 
@@ -101,7 +101,7 @@ You must configure CPA or ROAS optimization at the package level (see Step 3 - C
 
   * Consider setting less strict pre-bid filters in cases where additional targeting (such as audience, geo, and site targeting) is applied.
 
-See descriptions of when to use each pre-bid filter at [Placement-level Pre-Bid Filters and How to Use Them](/help/dsp/optimization/optimization-pre-bid-filters.md).
+See descriptions of when to use each pre-bid filter at [Placement-level pre-bid filters and how to use them](/help/dsp/optimization/optimization-pre-bid-filters.md).
 
 ### Inventory
 
@@ -112,7 +112,7 @@ To maximize scale, use [!UICONTROL Public] (Open Exchange) and [!UICONTROL On De
 * **[!UICONTROL Traffic Type]**: [!UICONTROL Websites] only
 * **[!UICONTROL Site Tier]**: [!UICONTROL All sites]
 
-### Audience Targeting
+### Audience targeting
 
 <!-- Say something about limiting unnecessary constraints/limitations, including dayparting, which limit your chances for ad exposure. Use only when it's required for your audience. -->
 
@@ -149,9 +149,9 @@ Using contextual filtering, pre-bid fraud blocking, and/or [!UICONTROL Ads.txt] 
 
 >[!MORELIKETHIS]
 >
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
-> * [How DSP Optimizes Your Campaigns](optimization-how-dsp-optimizes-campaigns.md)
->* [Optimization Goals and How to Use Them](optimization-goals.md)
->* [Placement-level Pre-Bid Filters and How to Use Them](optimization-pre-bid-filters.md)
->* [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [How DSP optimizes your campaigns](optimization-how-dsp-optimizes-campaigns.md)
+>* [Optimization goals and how to use them](optimization-goals.md)
+>* [Placement-level pre-bid filters and how to use them](optimization-pre-bid-filters.md)
+>* [Campaign launch checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)

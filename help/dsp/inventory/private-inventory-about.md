@@ -19,7 +19,7 @@ All of your private deals with a deal ID are financed and invoiced by [!DNL Adob
 
 You can use deal IDs in either of the following ways:
 
-* (Optional feature that requires activation) From the [!UICONTROL Deal ID Inbox], you can review and quickly accept your agreed-upon guaranteed and non-guaranteed private inventory deals from publishers on the following supply-side platforms (SSPs): [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]) from the [!UICONTROL Deal ID inbox].
+* (Optional feature that requires activation) From the [!UICONTROL Deal ID Inbox], you can review and quickly accept your agreed-upon guaranteed and non-guaranteed private inventory deals from publishers on the following supply-side platforms (SSPs): [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]) from the [!UICONTROL Deal ID Inbox].
 
     For more information, see "[About the [!UICONTROL Deal ID Inbox]](deal-id-inbox-about.md)."
 
@@ -41,8 +41,8 @@ In the [!UICONTROL Inventory] > [!UICONTROL Deal Lists] view, you can group your
 
 >[!MORELIKETHIS]
 >
->* [Overview of Inventory Features](/help/dsp/inventory/inventory-overview.md)
+>* [Overview of inventory features](/help/dsp/inventory/inventory-overview.md)
 >* [About the [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
->* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
->* [Manually Create Deal ID Details](deal-id-create.md)
->* [Manage Deal Lists](/help/dsp/inventory/lists-deals-manage.md)
+>* [Accept a deal in the [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md)
+>* [Manually create deal ID details](deal-id-create.md)
+>* [Manage deal lists](/help/dsp/inventory/lists-deals-manage.md)

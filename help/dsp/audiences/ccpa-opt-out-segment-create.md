@@ -57,5 +57,5 @@ Once the segment pixel tag is implemented, Adobe Advertising begins to collect a
 >* [Adobe Advertising support for the California Consumer Privacy Act: Consumer opt-out of sale support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports](ccpa-opt-out-about.md)
 >* [Retrieve consumer opt-out-of-sale reports](ccpa-opt-out-segment-report-retrieve.md)
->* [Create and Implement a Custom Segment](custom-segment-create.md)
+>* [Create and implement a custom segment](custom-segment-create.md)
 >* [About audience management](audience-about.md)

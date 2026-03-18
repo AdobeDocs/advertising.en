@@ -88,8 +88,8 @@ All settings from the original placements are duplicated except:
 
 >[!MORELIKETHIS]
 >
->* [About Package Management](package-about.md)
->* [Create a Package](package-create.md)
->* [Edit a Package](package-edit.md)
->* [View the Change Log for a Package](package-change-log.md)
->* [Package Settings](package-settings.md)
+>* [About package management in Advertising DSP](package-about.md)
+>* [Create a package](package-create.md)
+>* [Edit a package](package-edit.md)
+>* [View the change log for a package](package-change-log.md)
+>* [Package settings](package-settings.md)

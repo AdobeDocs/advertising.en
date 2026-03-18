@@ -40,5 +40,5 @@ If the publisher or SSP had previously deactivated the deal and you want to use 
 
 >[!MORELIKETHIS]
 >
->* [About Private Inventory](private-inventory-about.md)
->* [Edit Private Deal Settings](/help/dsp/inventory/deal-id-edit.md)
+>* [About private inventory](private-inventory-about.md)
+>* [Edit private deal settings](/help/dsp/inventory/deal-id-edit.md)
