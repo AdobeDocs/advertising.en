@@ -15,9 +15,9 @@ The <!--legacy --> campaign-level report includes an overview and sections on [!
 
 >[!MORELIKETHIS]
 >
->* [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
->* [View a Detailed Report for an Ad](/help/dsp/campaign-management/ads/ad-view-report.md)
->* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [View the Change Log for a Campaign](campaign-change-log.md)
->* [Pause or Activate a Campaign](campaign-pause-activate.md)
+>* [View a detailed report for a placement](/help/dsp/campaign-management/placements/placement-view-report.md)
+>* [View a detailed report for an ad](/help/dsp/campaign-management/ads/ad-view-report.md)
+>* [Types of performance reports in campaign management views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [View the change log for a campaign](campaign-change-log.md)
+>* [Pause or activate a campaign](campaign-pause-activate.md)

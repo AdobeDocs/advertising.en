@@ -16,7 +16,7 @@ Duplicate a campaign to create a new campaign with similar settings. You can:
 
 * Modify the flight dates of the new campaign
 
-See "[What's Not Duplicated](#campaign-not-duplicated)" for a list of placement settings that aren't duplicated.
+See "[What's not duplicated](#campaign-not-duplicated)" for a list of placement settings that aren't duplicated.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -78,8 +78,8 @@ All settings from the original placements are duplicated except:
 
 >[!MORELIKETHIS]
 >
->* [About Campaign Management](campaign-about.md)
->* [Create a Campaign](campaign-create.md)
->* [Edit a Campaign](campaign-edit.md)
->* [View the Change Log for a Campaign](campaign-change-log.md)
->* [Campaign Settings](campaign-settings.md)
+>* [About campaign management in Advertising DSP](campaign-about.md)
+>* [Create a campaign](campaign-create.md)
+>* [Edit a campaign](campaign-edit.md)
+>* [View the change log for a campaign](campaign-change-log.md)
+>* [Campaign settings](campaign-settings.md)

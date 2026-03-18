@@ -100,11 +100,11 @@ You can attach and remove ads from placements.
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Attach and Remove Pixels from Ads](ad-pixel-attach-detach.md)
->* [Create a Single Ad](ad-create.md)
->* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Edit an Ad](ad-edit.md)
->* [List the Placements Associated with an Ad](ad-list-placements.md)
->* [Edit the Ad Schedules for Placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
->* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Attach and remove pixels from ads](ad-pixel-attach-detach.md)
+>* [Create a single ad](ad-create.md)
+>* [Create multiple third-party ads](ad-create-multiple.md)
+>* [Edit an ad](ad-edit.md)
+>* [List the placements associated with an ad](ad-list-placements.md)
+>* [Edit the ad schedules for placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
+>* [FAQs about universal video](/help/dsp/campaign-management/faq-universal-video.md)

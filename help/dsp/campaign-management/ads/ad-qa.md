@@ -43,12 +43,12 @@ To edit the ad details, see "[Review and Edit Campaign Component Settings Using 
 
 >[!MORELIKETHIS]
 >
->* [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
->* [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
->* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Native Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
->* [Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
+>* [Edit an ad](/help/dsp/campaign-management/ads/ad-edit.md)
+>* [Attach ads to placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+>* [Audio ad settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [Connected TV settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Display ad settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Mobile ad settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Native display ad settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Pre-roll ad settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Universal video ad settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)

@@ -58,9 +58,9 @@ Use [!UICONTROL VAST], which doesn't allow viewability measurement, when you tar
 
 >[!MORELIKETHIS]
 >
->* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
->* [About Ad Management](ad-about.md)
->* [Create a Single Ad](ad-create.md)
->* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Ad Specifications](ad-specs.md)
->* [DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [FAQs about universal video](/help/dsp/campaign-management/faq-universal-video.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Create a single ad](ad-create.md)
+>* [List the placements associated with an ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [Ad specifications](ad-specs.md)
+>* [DSP macros](/help/dsp/campaign-management/macros.md)

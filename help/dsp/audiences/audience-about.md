@@ -60,7 +60,7 @@ You can target your placements to all of the following types of audiences.
 
 * All of your imported first-party data segments, including segments that were translated to universal IDs.
 
-  Additional fees are charged for impressions delivered to universal IDs. See "[About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)" for rates.
+  Additional fees are charged for impressions delivered to universal IDs. See "[About first-party audience sources](/help/dsp/audiences/sources/source-about.md)" for rates.
 
 * All of your imported custom third-party data segments.
 
@@ -141,7 +141,7 @@ The translated segments are available to include in reusable audiences and in pl
 >* [Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)
 >* [Create a reusable audience](reusable-audience-create.md)
 >* [Create and implement a custom segment](custom-segment-create.md)
->* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
+>* [Create and implement a [!UICONTROL CCPA Opt-Out-of-Sale] segment](ccpa-opt-out-segment-create.md)
 >* [About first-party audience sources](/help/dsp/audiences/sources/source-about.md)
 >* [Manage audience sources to activate universal ID audiences](/help/dsp/audiences/sources/source-manage.md)
 >* [Manually import authenticated segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)

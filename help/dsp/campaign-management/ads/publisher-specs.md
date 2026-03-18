@@ -16,6 +16,6 @@ The following links take you to the ad specifications for some of the publishers
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Ad Specifications](/help/dsp/campaign-management/ads/ad-specs.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Create multiple third-party ads](ad-create-multiple.md)
+>* [Ad specifications](/help/dsp/campaign-management/ads/ad-specs.md)

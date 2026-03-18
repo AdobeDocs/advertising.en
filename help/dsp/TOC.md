@@ -98,7 +98,7 @@ index: yes
   + [Advertising DSP macros](/help/dsp/campaign-management/macros.md)
   + [Keyboard shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
   + [FAQs about campaign management](/help/dsp/campaign-management/faq-campaign-management.md)
-  + [FAQs about Universal video](/help/dsp/campaign-management/faq-universal-video.md)
+  + [FAQs about universal video](/help/dsp/campaign-management/faq-universal-video.md)
 + Optimization {#optimization}
   + [How Advertising DSP optimizes your campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization goals and how to use them](/help/dsp/optimization/optimization-goals.md)

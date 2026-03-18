@@ -24,8 +24,8 @@ You can sort the data by any column except for New Value and Old Value.
 
 >[!MORELIKETHIS]
 >
->* [About Campaign Management](campaign-about.md)
->* [Create a Campaign](campaign-create.md)
->* [Edit a Campaign](campaign-edit.md)
->* [Campaign Settings](campaign-settings.md)
->* [Pause or Activate a Campaign](campaign-pause-activate.md)
+>* [About campaign management in Advertising DSP](campaign-about.md)
+>* [Create a campaign](campaign-create.md)
+>* [Edit a campaign](campaign-edit.md)
+>* [Campaign settings](campaign-settings.md)
+>* [Pause or activate a campaign](campaign-pause-activate.md)
