@@ -1,10 +1,10 @@
 ---
-title: Support for Activating Universal IDs
+title: Support for activating universal IDs
 description: Learn about support to import your universal ID segments, create custom segments to track universal IDs, and convert other user identifiers in your first-party segments to universal IDs for cookieless targeting.
 feature: DSP Audiences
 exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
 ---
-# Support for Activating Universal IDs
+# Support for activating universal IDs
 
 <!-- Once we have CDP support for ID5 and can set up activation via sources, then maybe I can move this info into "About Sources" and "About Audiences." Or maybe make this the go-to page, removing info from those other pages? -->
 
@@ -20,7 +20,7 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 * Third-party segments from some vendors may automatically include universal IDs in addition to users tracked by cookies or device IDs. For example, segments from [!DNL Eyeota] may automatically include ID5 IDs, and segments from [!DNL Lotame] may include UID2.0 IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
 
-## Reporting by Universal ID Type
+## Reporting by Universal ID type
 
 * **Custom reports:** Cost, impression, click, conversion, and frequency data by universal ID type is available in custom reports.
 
@@ -32,7 +32,7 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 * **Segment details:** For all segment types, the segment details include the audience size by universal ID type and by the device type tracked by cookies or device IDs.
 
-## How to Target a Universal ID Audience in Your Placements
+## How to target a universal ID audience in your placements
 
 >[!NOTE]
 >
@@ -62,7 +62,7 @@ In a new, scheduled, or paused placement, do the following:
 
 See "[Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)."
 
-## Best Practices for Testing and Data Validation
+## Best practices for testing and data validation
 
 Use the following best practices for [!DNL RampID]-based segments and ID5-based segments, for which Adobe Analytics measurement is available.
 
@@ -90,7 +90,7 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 
 * Remember that the reach for authenticated audience segments is naturally smaller than the reach for cookie-based segments, and that using additional targeting options further decreases your reach. Be judicious about using granular targeting, especially by joining multiple targets with AND statements.
 
-## Data Variances Between Email IDs and Universal IDs {#universal-ids-data-variances}
+## Data variances between email IDs and niversal IDs {#universal-ids-data-variances}
 
 ### Acceptable levels of variance
 

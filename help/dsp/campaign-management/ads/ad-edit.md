@@ -1,10 +1,10 @@
 ---
-title: Edit an Ad
+title: Edit an ad
 description: Learn how to edit an ad.
 feature: DSP Ads
 exl-id: 149eeb61-b4d1-4c88-8dcd-ad11e135a486
 ---
-# Edit an Ad
+# Edit an ad
 
 >[!TIP]
 >

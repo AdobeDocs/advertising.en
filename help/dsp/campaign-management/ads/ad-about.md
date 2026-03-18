@@ -1,10 +1,10 @@
 ---
-title: About Ad Management in Advertising DSP
+title: About ad management in Advertising DSP
 description: Learn about ad management.
 feature: DSP Ads
 exl-id: 41dbe28e-a476-4601-a3d8-a9111eae3f6b
 ---
-# About Ad Management in Advertising DSP
+# About ad management in Advertising DSP
 
 <!-- add "The Ads View (Dashboard?)" section -->
 
@@ -15,7 +15,7 @@ DSP supports ad delivery via third-party ad serving tags (such as Google, Flasht
 
 Once your ads are set up, attach each ad to one or more placements, which include the targeting parameters (such as geo, audience, device, and inventory targeting) that control how your campaign delivers. You must attach an ad to a placement to begin running the ad.
 
-## Available Ad Types {#ad-types}
+## Available ad types {#ad-types}
 
 All of the following ad types are available in DSP. For full specifications for each ad type, see the [Ad Specifications](ad-specs.md).
 
@@ -37,7 +37,7 @@ All of the following ad types are available in DSP. For full specifications for 
 
   See "[FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)" for more information about universal video ads.
 
-## DSP Ad Approvals
+## DSP ad approvals
 
 When you create an ad, DSP reviews it for sensitive categories, click URL functionality, and preview rendering.
 

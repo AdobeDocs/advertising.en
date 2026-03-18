@@ -1,10 +1,10 @@
 ---
-title: Duplicate an Ad
+title: Duplicate an ad
 description: Learn how to duplicate an ad.
 feature: DSP Ads
 exl-id: 030ce258-750c-4c5f-ae89-32dfb2864189
 ---
-# Duplicate an Ad
+# Duplicate an ad
 
 You can duplicate an ad within the same campaign.
 

@@ -1,10 +1,10 @@
 ---
-title: Create a Single Ad
+title: Create a single ad
 description: Learn how to create a single third-party ad.
 feature: DSP Ads
 exl-id: fdfb02c0-9aec-4faf-b374-0f03c7a3fa98
 ---
-# Create a Single Ad
+# Create a single ad
 
 You can create an individual native display ad or a third-party ad in various [ad types](ad-about.md#ad-types).
 

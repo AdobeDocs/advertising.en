@@ -1,14 +1,14 @@
 ---
-title: Attach and Remove Pixels from Ads
+title: Attach and remove pixels from ads
 description: Learn how to attach and remove third-party tracking pixels from ads.
 feature: DSP Ads
 exl-id: 7b386a58-5300-49cf-9de8-4ce982a5181d
 ---
-# Attach and Remove Pixels from Ads
+# Attach and remove pixels from ads
 
 You can attach and detach third-party tracking pixels from ads.
 
-## Open the [!UICONTROL Ad Tools] View {#ad-tools-open}
+## Open the [!UICONTROL Ad Tools] view {#ad-tools-open}
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
      
@@ -20,7 +20,7 @@ You can attach and detach third-party tracking pixels from ads.
 
    * (From the [!UICONTROL Packages] , [!UICONTROL Placements], or [!UICONTROL Ads] view) In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
 
-## Attach Third-Party Tracking Pixels to Ads in a Placement {#attach-pixels-ads}
+## Attach third-party tracking pixels to ads in a placement {#attach-pixels-ads}
      
 1. [Open the [!UICONTROL Ad Tools] view](#ad-tools-open).
 
@@ -62,7 +62,7 @@ You can attach and detach third-party tracking pixels from ads.
 
 1. (Optional) To return to the campaign detail views, click ![Return to folder](/help/dsp/assets/breadcrumb-return.png "Return to folder") to the left of [!UICONTROL Ad Tools] and select the campaign name.
 
-## Detach Third-Party Tracking Pixels from Ads in a Placement {#detach-pixels-ads}
+## Detach third-party tracking pixels from ads in a placement {#detach-pixels-ads}
      
 1. [Open the [!UICONTROL Ad Tools] view](#ad-tools-open).
 
@@ -86,7 +86,7 @@ You can attach and detach third-party tracking pixels from ads.
 
 1. (Optional) To return to the campaign detail views, click ![Return to folder](/help/dsp/assets/breadcrumb-return.png "Return to folder") to the left of [!UICONTROL Ad Tools] and select the campaign name.
 
-## View Pixels Attached to Ads {#view-pixels-ads}
+## View pixels attached to ads {#view-pixels-ads}
 
 1. [Open the [!UICONTROL Ad Tools] view](#ad-tools-open).
 

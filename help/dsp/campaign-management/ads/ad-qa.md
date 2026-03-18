@@ -1,10 +1,10 @@
 ---
-title: Review and Edit Ad Details Using Bulksheets
+title: Review and edit ad details using bulksheets
 description: Learn how to review ad settings in bulk using spreadsheets.
 feature: DSP Ads
 exl-id: a223d4e1-2264-49fa-8579-817e7ea6ea56
 ---
-# Review and Edit Ad Details Using Bulksheets
+# Review and edit ad details using bulksheets
 
 <!-- I should probably change this filename and get __?__ to set up a redirect from the old file to the new file. -->
 
@@ -17,7 +17,7 @@ To edit the ad details, see "[Review and Edit Campaign Component Settings Using 
 >*To edit individual ad settings, see also "[Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)."
 >*To change the third-party tracking pixels for multiple ads at once or to attach ads to placements, see also "[Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)."
 
-## Download Details for All Ads in a Campaign
+## Download details for all ads in a campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 

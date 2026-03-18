@@ -1,10 +1,10 @@
 ---
-title: Attach and Remove Ads from Placements
+title: Attach and remove ads from placements
 description: Learn how to attach ads to placements and remove ads from placements.
 feature: DSP Ads
 exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 ---
-# Attach and Remove Ads from Placements
+# Attach and remove ads from placements
 
 You can attach and remove ads from placements.
 
@@ -12,7 +12,7 @@ You can attach and remove ads from placements.
 >
 >Universal video ads can be attached only to universal video placements.
 
-## Attach Ads to Placements from the [!UICONTROL Placements] View {#attach-ads-placement}
+## Attach ads to placements from the [!UICONTROL Placements] view {#attach-ads-placement}
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
      
@@ -30,7 +30,7 @@ You can attach and remove ads from placements.
 
 1. Click **[!UICONTROL Attach Selected Ads]**.
 
-## Attach an Ad to Placements from the [!UICONTROL Ads] View {#attach-ads}
+## Attach an ad to placements from the [!UICONTROL Ads] view {#attach-ads}
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
      
@@ -66,7 +66,7 @@ You can attach and remove ads from placements.
 
        1. Click **[!UICONTROL I'm done for now]**.
 
-## Remove Ads from Placements from the [!UICONTROL Placements] View {#remove-ads-placement}
+## Remove ads from placements from the [!UICONTROL Placements] view {#remove-ads-placement}
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
      
@@ -84,7 +84,7 @@ You can attach and remove ads from placements.
 
 1. Click **[!UICONTROL Detach Selected Ads]**.
 
-## Remove an Ad from a Placement from the [!UICONTROL Placement Inspector] {#remove-ads-placement-inspector}
+## Remove an ad from a placement from the [!UICONTROL Placement Inspector] {#remove-ads-placement-inspector}
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
      

@@ -1,10 +1,10 @@
 ---
-title: List the Placements Associated with an Ad
+title: List the placements associated with an ad
 description: Learn how to see the placements associated with an ad.
 feature: DSP Ads
 exl-id: e7c6ce90-b1c9-4ed4-a7db-9e279de15520
 ---
-# List the Placements Associated with an Ad
+# List the placements associated with an ad
 
 View a list of placements associated with an ad to see performance data by placement and edit the placement settings if needed.
 
