@@ -70,7 +70,7 @@ When you edit an audience that is used in any placements or other reusable audie
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)
 >* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Duplicate a Reusable Audience](reusable-audience-duplicate.md)
 >* [View Details About a Reusable Audience](reusable-audience-view-details.md)

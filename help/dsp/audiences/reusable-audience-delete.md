@@ -1,10 +1,10 @@
 ---
-title: Delete a Reusable Audience
+title: Delete a reusable audience
 description: Learn how to delete a reusable audience.
 feature: DSP Audiences
 exl-id: cc9afa22-1b90-4709-b7af-d9c1ee16aa16
 ---
-# Delete a Reusable Audience
+# Delete a reusable audience
 
 You can delete an audience that isn't used in any placements or other reusable audiences.
 
@@ -22,7 +22,7 @@ If an audience is currently used, then you have the option to export a [!DNL Mic
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)
 >* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Duplicate a Reusable Audience](reusable-audience-duplicate.md)
 >* [Edit a Reusable Audience](reusable-audience-edit.md)

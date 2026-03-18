@@ -1,10 +1,10 @@
 ---
-title: Share a Reusable Audience
+title: Share a reusable audience
 description: Learn how to share a reusable audience with other advertisers available to your account.
 feature: DSP Audiences
 exl-id: c0369efe-464d-43d1-9b21-1113a38fc9bb
 ---
-# Share a Reusable Audience
+# Share a reusable audience
 
 If you're not already sharing an audience with the advertisers available to your account, you can begin sharing anytime.
 
@@ -20,7 +20,7 @@ Once you share an audience, you can't stop sharing it.
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)
 >* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Duplicate a Reusable Audience](reusable-audience-duplicate.md)
 >* [Edit a Reusable Audience](reusable-audience-edit.md)

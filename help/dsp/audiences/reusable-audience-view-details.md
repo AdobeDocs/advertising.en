@@ -16,7 +16,7 @@ exl-id: b7ef5af5-0b82-474b-b769-135f80ba5460
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)
 >* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Duplicate a Reusable Audience](reusable-audience-duplicate.md)
 >* [Edit a Reusable Audience](reusable-audience-edit.md)

@@ -111,7 +111,7 @@ Once a tracking tag is implemented, you can use the segment in the audience targ
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)
 >* [Edit Segment Information](segment-edit.md)
 >* [Delete a Segment](segment-delete.md)
 >* [View Tracking Pixels for a Segment](segment-view-pixels.md)

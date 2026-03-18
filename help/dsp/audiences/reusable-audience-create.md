@@ -82,7 +82,7 @@ You can save and manage reusable audiences, which are groups of audience segment
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)
 >* [Audience Settings](audience-settings.md)
 >* [Syntax for Audience Segment Logic](audience-segment-logic-syntax.md)
 >* [Available Third-party Data Providers](third-party-data-providers.md)

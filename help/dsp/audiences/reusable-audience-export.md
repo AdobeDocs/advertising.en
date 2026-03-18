@@ -16,7 +16,7 @@ You can download a [!DNL Microsoft Excel] worksheet file with the audience confi
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)
 >* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Duplicate a Reusable Audience](reusable-audience-duplicate.md)
 >* [Edit a Reusable Audience](reusable-audience-edit.md)

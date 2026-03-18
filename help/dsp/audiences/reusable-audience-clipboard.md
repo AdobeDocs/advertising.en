@@ -1,10 +1,10 @@
 ---
-title: Copy the Segment Key for a Reusable Audience to the Clipboard
+title: Copy the segment key for a reusable audience to the clipboard
 description: Learn how to view the configuration and audience size for a reusable audience.
 feature: DSP Audiences
 exl-id: 1e1f45fe-d7f9-4c26-a557-c3d00f74edb8
 ---
-# Copy the Segment Key for a Reusable Audience to the Clipboard
+# Copy the segment key for a reusable audience to the clipboard
 
 You can copy the alphanumeric segment key (ID) for an audience to the clipboard. You can use segment keys to [manually define segment logic](audience-segment-logic-syntax.md) for other reusable audiences.
 
@@ -16,7 +16,7 @@ You can copy the alphanumeric segment key (ID) for an audience to the clipboard.
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)
 >* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Duplicate a Reusable Audience](reusable-audience-duplicate.md)
 >* [Edit a Reusable Audience](reusable-audience-edit.md)

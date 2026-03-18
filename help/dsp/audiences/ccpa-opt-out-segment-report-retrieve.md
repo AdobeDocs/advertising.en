@@ -21,4 +21,4 @@ You can retrieve monthly reports of IDs that customers have submitted for opt-ou
 >* [Adobe Advertising support for the California Consumer Privacy Act: Consumer opt-out of sale support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports](ccpa-opt-out-about.md)
 >* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)

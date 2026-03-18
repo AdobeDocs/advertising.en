@@ -78,4 +78,4 @@ exl-id: 9f47aa2a-54c4-4fdc-b289-6c3586cc18e6
 
 >[!MORELIKETHIS]
 >
->[About Alert Subscriptions](alerts-about.md)
+>[About alert subscriptions](alerts-about.md)

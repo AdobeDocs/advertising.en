@@ -26,7 +26,7 @@ You can edit the name and lookback window for a custom segment, or the name of a
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)
 >* [Create a Custom Segment](custom-segment-create.md)
 >* [Delete a Segment](segment-delete.md)
 >* [View Tracking Pixels for a Segment](segment-view-pixels.md)

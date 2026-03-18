@@ -1,10 +1,10 @@
 ---
-title: Syntax for Audience Segment Logic
+title: Syntax for audience segment logic
 description: Reference the syntax you can use to define the logic for audience segments.
 feature: DSP Audiences
 exl-id: fb73f35f-1f65-463b-b93c-90804a8d19a9
 ---
-# Syntax for Audience Segment Logic
+# Syntax for audience segment logic
 
 When you create reusable audiences, you can manually define segment logic using alphanumeric segment IDs (keys) and the following syntax:
 
@@ -37,7 +37,7 @@ means (in plain English)
 >[!MORELIKETHIS]
 >
 >* [Copy the Segment Key for a Reusable Audience to the Clipboard](reusable-audience-clipboard.md)
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)
 >* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Audience Settings](audience-settings.md)
 >* [Available Third-party Data Providers](third-party-data-providers.md)

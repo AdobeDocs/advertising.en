@@ -1,10 +1,10 @@
 ---
-title: Duplicate a Reusable Audience
+title: Duplicate a reusable audience
 description: Learn how to duplicate a reusable audience.
 feature: DSP Audiences
 exl-id: 8ff72e13-d0ae-4f61-904b-5d544878f58b
 ---
-# Duplicate a Reusable Audience
+# Duplicate a reusable audience
 
 You can create an audience by duplicating an existing audience.
 
@@ -22,7 +22,7 @@ You can create an audience by duplicating an existing audience.
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
+>* [About audience management](audience-about.md)
 >* [Create a Reusable Audience](reusable-audience-create.md)
 >* [Edit a Reusable Audience](reusable-audience-edit.md)
 >* [View Details About a Reusable Audience](reusable-audience-view-details.md)
