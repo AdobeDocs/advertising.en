@@ -1,10 +1,10 @@
 ---
-title: View the Sites, Ads, Frequency, and Inventory Details for a Placement
+title: View the sites, ads, frequency, and inventory details for a placement
 description: Learn how to view the targeted sites, ads, frequency, and inventory data for a placement.
 feature: DSP Placements
 exl-id: b58b442c-2fb8-4a78-9be9-d85aa83136e2
 ---
-# View the Sites, Ads, Frequency, and Inventory Details for a Placement
+# View the sites, ads, frequency, and inventory details for a placement
 
 For each placement, you can [open a (detail view [!UICONTROL Inspector])](placement-details-view.md), which lists all targeted sites, ads, and deals in a placement. It also includes frequency data for the placement. You can optionally export the data from any tab.
 
@@ -68,7 +68,7 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 
 1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Detach]**.
 
-## Troubleshooting Inventory
+## Troubleshooting inventory
 
 | Issue | Possible Cause  | Actions to Take |
 | -----------| ---------- | ---------- |

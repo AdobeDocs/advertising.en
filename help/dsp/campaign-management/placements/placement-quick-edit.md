@@ -1,10 +1,10 @@
 ---
-title: Quickly Edit Key Placement Settings
+title: Quickly edit key placement settings
 description: Learn how to quickly change key placement settings.
 feature: DSP Placements
 exl-id: b5f83573-112a-4fa1-9f7f-f0fea8e3d079
 ---
-# Quickly Edit Key Placement Settings
+# Quickly edit key placement settings
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 

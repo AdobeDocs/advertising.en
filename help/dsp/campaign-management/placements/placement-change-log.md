@@ -1,10 +1,10 @@
 ---
-title: View a Placement Change Log
+title: View a placement change log
 description: Learn how to view changes made to the placement.
 feature: DSP Placements
 exl-id: d9fc6ead-0a0e-415d-8352-284db12dde1b
 ---
-# View the Change Log for a Placement
+# View the change log for a placement
 
 Change logs show changes made to the placement during the selected date range, including the type of change, the new and old values, the user who made the change, and the date. You can optionally add notes to any entry.
 

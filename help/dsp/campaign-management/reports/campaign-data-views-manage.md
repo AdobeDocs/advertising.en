@@ -1,14 +1,14 @@
 ---
-title: Manage Your Campaign Data Views
+title: Manage your campaign data views
 description: Learn how you can customize your data views for campaigns, packages, placements, and ads.
 feature: DSP Campaign Data Views
 exl-id: a22da10b-104d-4860-a23f-f2a6e59b637c
 ---
-# Manage Your Campaign Data Views
+# Manage your campaign data views
 
 You can customize the data that appears within your campaign management views ([!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads]).
 
-## Manage Data Visualizations {#data-visualizations-manage}
+## Manage data visualizations {#data-visualizations-manage}
 
 You can change the metrics and chart mode for all data visualizations across campaigns or for a single campaign. Changes to a single campaign are applied across all data visualizations for the campaign, including those in the [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads] views.
 
@@ -26,7 +26,7 @@ You can change the metrics and chart mode for all data visualizations across cam
 
 * In the upper right of the data visualization, click the [!UICONTROL Overlay] switch (![Overlay switch](/help/dsp/assets/overlay.png)) to change between overlay mode (all charts overlaid together) and trellis chart mode (three separate charts).
 
-## Manage Data Tables {#data-tables-manage}
+## Manage data tables {#data-tables-manage}
 
 In all campaign management views ([!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads]), you can customize the data that appears within the data table.
 

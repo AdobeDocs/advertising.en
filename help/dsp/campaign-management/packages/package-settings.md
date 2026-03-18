@@ -1,10 +1,10 @@
 ---
-title: Package Settings
+title: Package settings
 description: See descriptions of the available package settings.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
 ---
-# Package Settings
+# Package settings
 
 ## [!UICONTROL Basic Details]
 

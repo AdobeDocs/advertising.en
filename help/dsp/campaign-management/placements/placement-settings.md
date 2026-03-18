@@ -1,10 +1,10 @@
 ---
-title: Placement Settings
+title: Placement settings
 description: See descriptions of the available placement settings.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
 ---
-# Placement Settings 
+# Placement settings 
 
 ## [!UICONTROL Basics]
 

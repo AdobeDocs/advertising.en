@@ -1,10 +1,10 @@
 ---
-title: Edit Ad Schedules for Placements
+title: Edit ad schedules for placements
 description: Learn how to change the ad schedules for the ads attached to placements.
 feature: DSP Placements
 exl-id: 4c981d57-032f-4cde-858a-e9ac2bf2e6f2
 ---
-# Edit Ad Schedules for Placements
+# Edit ad schedules for placements
 
 ## Edit the Ad Schedules for One or More Placements
 

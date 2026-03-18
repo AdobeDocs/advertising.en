@@ -12,7 +12,7 @@ Once you assign an active placement to an active package or campaign, then all a
 
 You can create a placement manually or by duplicating an existing one. You can also create placement templates to reuse, either manually or from an existing placement. You can attach additional ads to any placement. You can also edit, pause, or archive individual placements or use the bulk edit tool to make changes.
 
-## Available Placement Types
+## Available placement types
 
 * Pre-Roll
 * Mobile
@@ -22,7 +22,7 @@ You can create a placement manually or by duplicating an existing one. You can a
 * Connected TV
 * Universal Video 
 
-## The [!UICONTROL Placements] Dashboard
+## The [!UICONTROL Placements] dashboard
 
 The [!UICONTROL Placements] dashboard centralizes performance and economic reporting across all of your placements, providing quick snapshots of how your placements have performed during a specified date range.
 

@@ -1,10 +1,10 @@
 ---
-title: Review and Edit Placement Settings Using Bulksheets
+title: Review and edit placement settings using bulksheets
 description: Learn how to review and edit key placement settings in bulk using spreadsheets.
 feature: DSP Placements
 exl-id: 2de4407d-eb3b-44ff-893c-9fdf6921d4b3
 ---
-# Review and Edit Placement Settings Using Bulksheets
+# Review and edit placement settings using bulksheets
 
 You can download the settings for one or more placements, or for all placements in a campaign, in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. Use this feature to quickly review such details as:
 
@@ -18,7 +18,7 @@ To update multiple settings at once, you can make changes to select fields, save
 >
 >To quickly edit more fields for one or more placements, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
 
-## Download Settings for All Placements in a Campaign
+## Download settings for all placements in a campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -42,7 +42,7 @@ To update multiple settings at once, you can make changes to select fields, save
 
     The file is saved to the browser's Downloads folder.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
-## Download Settings for Specific Placements
+## Download settings for specific placements
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -93,7 +93,7 @@ You can upload settings for your placements, and for the ads and packages associ
   When any setting update fails, you can download a bulksheet error file with color coding to show which settings (rows) were saved and which failed, with a reason for each failure. You can then address the issues within the same file and upload it again to process the corrected information.
 
 <!--
-## Placement Setting Columns in Downloaded/Uploaded Bulksheets{#qa-sheet-columns}
+## Placement setting columns in downloaded/uploaded bulksheets{#qa-sheet-columns}
 
 >[!TIP]
 >

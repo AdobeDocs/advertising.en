@@ -1,10 +1,10 @@
 ---
-title: Deactivate or Activate a Placement
+title: Deactivate or activate a placement
 description: Learn how to deactivate or activate a placement.
 feature: DSP Placements
 exl-id: cd58d8f7-8dd0-433b-9272-a4fc1e3e98d9
 ---
-# Deactivate or Activate a Placement
+# Deactivate or activate a placement
 
 Deactivate a live placement, or activate a paused placement when it's within the configured flight schedule.
 

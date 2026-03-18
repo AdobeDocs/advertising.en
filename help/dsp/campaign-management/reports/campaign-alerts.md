@@ -1,10 +1,10 @@
 ---
-title: View Alerts
+title: View alerts
 description: Learn how to view alerts and recommended resolutions for your campaigns and campaign components.
 feature: DSP Campaigns, DSP Packages, DSP Placements, DSP Ads, DSP Campaign Data Views
 exl-id: 667bf1c3-3bad-4a1a-b907-0c9bfe5362a9
 ---
-# View Alerts
+# View alerts
 
 DSP helps you identify when any of your campaigns or campaign components have issues. For each issue, DSP creates an alert with a time stamp and the recommended action to resolve the issue. Reasons for alerts include configuration issues (for example, when no ads are attached to a placement or when a deal is set up incorrectly), ad rejection, and campaign health issues (such as poor ad delivery or performance). Alerts are available at the campaign, package, placement, ad, and deal levels. 
 
@@ -20,7 +20,7 @@ You can also choose to ignore an individual alert, which removes it from the [!U
 
 Alerts and alert indicators automatically disappear when the underlying issues are resolved.
 
-## View Alerts in the [!UICONTROL Pulse Panel]
+## View alerts in the [!UICONTROL Pulse Panel]
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 

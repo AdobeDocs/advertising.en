@@ -1,10 +1,10 @@
 ---
-title: Archive or Unarchive a Placement
+title: Archive or unarchive a placement
 description: Learn how to archive or unarchive a placement.
 feature: DSP Placements
 exl-id: 4304452d-4573-46b3-892e-299950a75d4f
 ---
-# Archive or Unarchive a Placement
+# Archive or unarchive a placement
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else?  -->
 

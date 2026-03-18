@@ -1,10 +1,10 @@
 ---
-title: Manage Bid Multipliers for Placements
+title: Manage bid multipliers for placements
 description: Learn how to create and edit bid multipliers for your placement targets.
 feature: DSP Placements
 exl-id: fbd44960-c9df-4713-94b7-13bcdb7e2568
 ---
-# Manage Bid Multipliers for Placements
+# Manage bid multipliers for placements
 
 You can create and manage bid multipliers, by which an algorithmically computed bid is multiplied to increase or decrease the bid, for your existing placement targets of [eligible target types](#bid-multiplier-by-target). You can either manually edit bid multiplier values for one placement or upload a spreadsheet with values for one or more placements. 
 
@@ -54,7 +54,7 @@ You can either manually edit values or upload a spreadsheet for a single placeme
 
      1. Verify the uploaded data in the [!UICONTROL Review & Submit] section, and then click **[!UICONTROL Save]**.
 
-## Upload Bid Multipliers for One or More Placements
+## Upload bid multipliers for one or more placements
 
 Upload a spreadsheet to apply the same values to all selected placements.
 
@@ -84,7 +84,7 @@ Upload a spreadsheet to apply the same values to all selected placements.
    
    1. Verify the uploaded data in the [!UICONTROL Review & Submit] section, and then click **[!UICONTROL Save]**.
 
-## Target Types Eligible for Bid Multipliers {#bid-multiplier-by-target}
+## Target types eligible for bid multipliers {#bid-multiplier-by-target}
 
 You can configure bid modifiers only for included targets, not excluded targets.
 
@@ -98,7 +98,7 @@ You can configure bid modifiers only for included targets, not excluded targets.
 
 * **ads.txt targets:** (When you opt out of ads.txt, which allows you to buy inventory from all sellers) ads.txt sellers only, ads.txt direct sellers, and ads.txt sellers plus sites without ads.txt <!-- bid multipliers for the different subsets of inventory; not available when the placement targets only one subset -->
 
-## Maximum Number of Bid Multipliers by Target Type {#bid-multiplier-limits-by-target}
+## Maximum number of bid multipliers by target type {#bid-multiplier-limits-by-target}
 
 You can set bid multipliers (with values other than 1.00) for a limited number of targets. For example, you can set bid multipliers for up to 20 country targets. The maximum number of targets for each target type that can have bid multipliers are listed below.
 

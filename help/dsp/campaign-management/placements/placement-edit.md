@@ -1,10 +1,10 @@
 ---
-title: Edit Placements
+title: Edit placements
 description: Learn how to edit a placement.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
 ---
-# Edit Placements
+# Edit placements
 
 You can edit the settings for a single placement or for multiple placements at once. Some settings can't be changed once the placement is live.
 
@@ -14,7 +14,7 @@ You can edit the settings for a single placement or for multiple placements at o
 >
 >You can also download the settings for one or more placements, or for all placements in a campaign, in XLSX (Excel spreadsheet) format; make changes to most fields; and upload them back to DSP all at once. See "[Review and Edit Placement Settings Using Bulksheets](placement-qa.md)."
 
-## Quickly Edit Key Placement Settings {#placement-quick-edit}
+## Quickly edit key placement settings {#placement-quick-edit}
 
 You can edit the placement name, status, maximum bid, and budget without opening the complete placement settings.
 

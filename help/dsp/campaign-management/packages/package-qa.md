@@ -1,10 +1,10 @@
 ---
-title: Review and Edit Package Settings Using Bulksheets
+title: Review and edit package settings using bulksheets
 description: Learn how to review and edit key package settings in bulk using spreadsheets.
 feature: DSP Packages
 exl-id: bf52de27-db48-40e2-bb55-a2c27a1924ad
 ---
-# Review and Edit Package Settings Using Bulksheets
+# Review and edit package settings using bulksheets
 
 You can download the settings for one or more packages in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. The *bulksheet* file includes a separate tab with flight information.
 
@@ -20,7 +20,7 @@ Editable fields include most settings that are normally editable.
 >
 >To quickly edit more fields for one or more packages, see "[Edit Packages](/help/dsp/campaign-management/packages/package-edit.md)."
 
-## Download Settings for All Packages in a Campaign
+## Download settings for all packages in a campaign
 
 When you download settings for all packages in a campaign, the bulksheet includes separate tabs for the package settings and for the flight information. You can optionally include settings for the placements and ads that are associated with the packages; additional tabs are included for placement and ad settings.
 
@@ -48,7 +48,7 @@ When you download settings for all packages in a campaign, the bulksheet include
 
      To edit any of the settings, edit the file directly and then upload the changes. All editable columns are highlighted in blue.
 
-## Download Settings for Specific Packages
+## Download settings for specific packages
 
 When you download settings for specific packages, the bulksheet file includes separate tabs for the package settings and for the flight information, and the file is editable.
 
@@ -74,7 +74,7 @@ When you download settings for specific packages, the bulksheet file includes se
 
      To edit any of the settings, edit the file directly and then upload the changes. All editable columns are highlighted in blue. To use the correct format for a field, select and copy the value from the relevant package setting or placement setting. For some target settings, such as dayparting, custom goals, and conversion metrics, a copy option is available within the setting. 
 
-## Upload a Bulksheet with Package Settings {#upload-bulksheet-package}
+## Upload a bulksheet with package settings {#upload-bulksheet-package}
 
 You can upload settings for your packages, including the placements and ads associated with the packages, in a bulksheet file.
 
@@ -101,7 +101,7 @@ You can upload settings for your packages, including the placements and ads asso
   When any setting update fails, you can download a bulksheet error file with color coding to show which settings (rows) were saved and which failed, with a reason for each failure. You can then address the issues within the same file and upload it again to process the corrected information.
 
 <!--
-## Package Setting Columns in Downloaded/Uploaded Bulksheets{#qa-sheet-columns-packages}
+## Package setting columns in downloaded/uploaded bulksheets{#qa-sheet-columns-packages}
 
 >[!TIP]
 >

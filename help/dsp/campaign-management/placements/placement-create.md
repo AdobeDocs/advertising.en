@@ -1,10 +1,10 @@
 ---
-title: Create a Placement
+title: Create a placement
 description: Learn how to create a placement.
 feature: DSP Placements
 exl-id: 28a328b1-0839-442e-a245-f586a7042f41
 ---
-# Create a Placement
+# Create a placement
 
 >[!TIP]
 >

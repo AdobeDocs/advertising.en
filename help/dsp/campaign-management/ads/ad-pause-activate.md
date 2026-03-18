@@ -4,7 +4,7 @@ description: Learn how to pause or activate an ad.
 feature: DSP Ads
 exl-id: f39d36c2-4c62-462b-bb92-29458890661e
 ---
-# Pause or Activate an Ad
+# Pause or activate an ad
 
 Pausing or activating an ad from the [!UICONTROL Ads] view changes the status of the ad across all associated placements.
 

@@ -1,14 +1,14 @@
 ---
-title: Types of Performance Reports in Campaign Management Views
+title: Types of performance reports in campaign management views
 description: Learn about the report data included in the campaign management views.
 feature: DSP Campaign Data Views
 exl-id: 7af97704-2053-4862-a851-12db009e6776
 ---
-# Types of Performance Reports in Campaign Management Views
+# Types of performance reports in campaign management views
 
 The campaign management views include comprehensive report data. The available reports help you to identify the packages and placements that are performing well and those that need your attention. Quick action buttons also make you more productive.
 
-## All Campaigns View
+## All campaigns view
 
 The [!UICONTROL Campaigns] view opens to a set of performance data charts and a list of all campaigns within your account.
 
@@ -36,7 +36,7 @@ To view a campaign in more detail, click the campaign name.
 
 An "[!UICONTROL Alerts]" column indicates when a campaign, or any child entity under it, has an issue. A [!UICONTROL Pulse Panel] icon to the right of the toolbar also indicates if any alerts are available for the entities that are listed. See "[View Alerts](campaign-alerts.md)" for more information.
 
-## Single Campaign Reporting {#single-campaign-reporting}
+## Single campaign reporting {#single-campaign-reporting}
 
 Within a campaign, you can filter data based on the campaign entity: [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads]. You can further [filter the visible data](campaign-data-views-manage.md#filter-data-tables) to include only the packages, placements, or ads that you want to see.
 

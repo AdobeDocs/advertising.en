@@ -1,10 +1,10 @@
 ---
-title: Duplicate Placements
+title: Duplicate placements
 description: Learn how to duplicate one or more placements.
 feature: DSP Placements
 exl-id: 41021f5b-13d1-419f-af03-c5507f9fed4d
 ---
-# Duplicate Placements
+# Duplicate placements
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
@@ -64,7 +64,7 @@ All settings from the original placements are duplicated except:
     * Ads
     * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segments (which override the advertiser-level segments)
 
-## Best Practices to Configure the New Placements
+## Best practices to configure the new placements
 
 >[!TIP]
 >
