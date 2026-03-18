@@ -6,7 +6,7 @@ breadcrumb-title: Creative Guide
 ---
 
 # Advertising Creative 2.0 Guide {#creative}
- 
+
 + [What's new](/help/creative/home.md)
 + Introduction {#introduction}
   + [About Adobe Advertising Creative](/help/creative/introduction/creative-about.md)
