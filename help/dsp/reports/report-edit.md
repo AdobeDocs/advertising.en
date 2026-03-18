@@ -1,10 +1,10 @@
 ---
-title: Edit a Custom Report
+title: Edit a custom report
 description: Learn how to edit custom report settings.
 feature: DSP Custom Reports
 exl-id: 42208276-d766-41c8-a764-c79a20e302e6
 ---
-# Edit a Custom Report
+# Edit a custom report
 
 1. In the main menu, click **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]**.
 

@@ -1,14 +1,14 @@
 ---
-title: Manage URL Lists
+title: Manage URL lists
 description: Learn how to create and manage URL lists for placement targeting.
 feature: DSP Placements
 exl-id: 57c715b3-9a13-4890-a3b8-03fa6adb44eb
 ---
-# Manage URL Lists
+# Manage URL lists
 
 You can create and manage lists of website and app URLs for placement targeting. Target or exclude specific URL lists within placement settings.
 
-## View an URL List
+## View an URL list
 
 1. In the main menu, click **[!UICONTROL Resources]** > **[!UICONTROL URL Lists]**.
 
@@ -18,7 +18,7 @@ You can create and manage lists of website and app URLs for placement targeting.
 
    The file is downloaded according to your browser's normal procedure.
 
-## Create an URL List
+## Create an URL list
 
 1. In the main menu, click **[!UICONTROL Resources]** > **[!UICONTROL URL Lists]**.
 
@@ -88,7 +88,7 @@ You can create and manage lists of website and app URLs for placement targeting.
      
      1. Click **[!UICONTROL Remove]**.
 
-## Edit an URL List
+## Edit an URL list
 
 1. In the main menu, click **[!UICONTROL Resources]** > **[!UICONTROL URL Lists]**.
 
@@ -156,7 +156,7 @@ You can create and manage lists of website and app URLs for placement targeting.
      
      1. Click **[!UICONTROL Remove]**.
 
-## Export an URL List
+## Export an URL list
 
 1. In the main menu, click **[!UICONTROL Resources]** > **[!UICONTROL URL Lists]**.
 

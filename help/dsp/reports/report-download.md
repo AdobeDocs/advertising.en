@@ -1,10 +1,10 @@
 ---
-title: Download a Custom Report
+title: Download a custom report
 description: Learn how to download a custom report immediately.
 feature: DSP Custom Reports
 exl-id: a27ed432-c9d4-47c5-9c04-b38bb32e6425
 ---
-# Download a Custom Report
+# Download a custom report
 
 You can download any completed report instance from the last four months, which has with the [status](report-about.md#custom-report-status) "[!UICONTROL Ready to Download]" or "[!UICONTROL Completed]".
 

@@ -1,16 +1,16 @@
 ---
-title: Custom Report Settings
+title: Custom report settings
 description: See descriptions of the custom report settings.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
 ---
-# Custom Report Settings
+# Custom report settings
 
 **[!UICONTROL Name]:** The report name. The maximum length is 180 characters.
 
 **[!UICONTROL Report Type]:** The type of report: *[!UICONTROL Custom]* (which includes most available options), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, *[!UICONTROL Household Conversions]*, *[!UICONTROL]*, *[!UICONTROL Path Length]*, or *[!UICONTROL Time to Conversion]*.
 
-## [!UICONTROL Report Range] Section
+## [!UICONTROL Report Range] section
 
 This section determines the data that's included in the report. To set up dates for the report schedule, see the "[!UICONTROL Report run schedule]" section.
 
@@ -26,7 +26,7 @@ This section determines the data that's included in the report. To set up dates 
 
 * **[!UICONTROL Custom Range]:** Includes data between specific beginning and end dates. To report data through the previous day, select **[!UICONTROL Present]**.
 
-## [!UICONTROL Report Run schedule] Section
+## [!UICONTROL Report Run schedule] section
 
 This section determines the dates on which the report is run. To set up the dates for which to include report data, see the "[!UICONTROL Report range]" section.
 
@@ -54,7 +54,7 @@ This section determines the dates on which the report is run. To set up the date
   
   * **Until**: The report expiration date, which can be up to four calendar months away. Before a report expires, all specified email destinations receive an email alert seven days and one day before the expiration date. To keep the report longer, change this date.
 
-## [!UICONTROL Apply Filters] Section
+## [!UICONTROL Apply Filters] section
 
 **[!UICONTROL Filter by]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report. The available filters vary by report type and may include: *[!UICONTROL Account]*, *[!UICONTROL Ad Type]*, *[!UICONTROL Ads]*, *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Country]*, *[!UICONTROL Deal]*, *[!UICONTROL Package]*, *[!UICONTROL Placement]*, *[!UICONTROL Video]*, and *[!UICONTROL Video Duration]*.
 
@@ -78,7 +78,7 @@ To apply one or more filters, do the following:
 
    To select multiple campaigns, click **[!UICONTROL Add Criteria]** for the second and subsequent campaigns.
 
-## [!UICONTROL Build Your Report] Section
+## [!UICONTROL Build Your Report] section
 
 **[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. The available columns vary by report, and all unavailable metrics are disabled. The available data categories may include:
 
@@ -107,7 +107,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 **[!UICONTROL Headers]:** Whether to *[!UICONTROL Include]* or *[!UICONTROL Do Not Include]* column headers.
 
-## [!UICONTROL Multi-Touch Conversion Options] Section
+## [!UICONTROL Multi-Touch Conversion Options] section
 
 **[!UICONTROL Attribution Rule Settings]:** The settings vary by report type:
 
@@ -161,7 +161,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 * *[!UICONTROL Event Timestamp]:* Conversions are reported based on the date of the impression or click that caused the conversion, as determined by the specified [!UICONTROL Attribution Rule Settings].
 
-## [!UICONTROL Add Report Destinations] Section
+## [!UICONTROL Add Report Destinations] section
 
 **[!UICONTROL Destination Type]:** Where to deliver the completed reports and error notifications. You can't change the destination type once you save the report.
 

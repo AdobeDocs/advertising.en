@@ -1,10 +1,10 @@
 ---
-title: Run a Custom Report
+title: Run a custom report
 description: Learn how to run a custom report immediately.
 feature: DSP Custom Reports
 exl-id: b256803d-45f9-445f-bf42-22cc7ce76792
 ---
-# Run a Custom Report
+# Run a custom report
 
 You can run any report that hasn't expired and isn't currently running.
 
