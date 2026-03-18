@@ -80,13 +80,13 @@ You can download any completed report instance from the last four months, which 
 
 1. In the confirmation message, click **[!UICONTROL Delete]**.
 
-## Report Settings {#report-settings}
+## Report settings {#report-settings}
 
 **[!UICONTROL Name]:** The report name. The maximum length is 180 characters.
 
 **[!UICONTROL Report Type]:** The type of report.
 
-### [!UICONTROL Report Range] Section
+### [!UICONTROL Report Range] section
 
 This section determines the data that's included in the report. To set up dates for the report schedule, see the "[!UICONTROL Report run schedule]" section.
 
@@ -102,7 +102,7 @@ This section determines the data that's included in the report. To set up dates 
 
 * **[!UICONTROL Custom Range]:** Includes data between specific beginning and end dates. To report data through the previous day, select **[!UICONTROL Present]**.
 
-### [!UICONTROL Report Run schedule] Section
+### [!UICONTROL Report Run schedule] section
 
 This section determines the dates on which the report is run. To set up the dates for which to include report data, see the "[!UICONTROL Report range]" section.
 
@@ -130,7 +130,7 @@ This section determines the dates on which the report is run. To set up the date
   
   * **Until**: The report expiration date, which can be up to four calendar months away. Before a report expires, all specified email destinations receive an email alert seven days and one day before the expiration date. To keep the report longer, change this date.
 
-### [!UICONTROL Apply Filters] Section
+### [!UICONTROL Apply Filters] section
 
 **[!UICONTROL Filter by]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report. The  available filters vary by report type and may include: *[!UICONTROL Advertiser]*, *[!UICONTROL Experience]*, *[!UICONTROL Creative Library]*, and *[!UICONTROL DSP]*<!-- Clarify what this is for, Advertising DSP or whatever DSP the ads were run from? -->.
 
@@ -140,7 +140,7 @@ To apply one or more filters, do the following:
 * (Optional) Add additional criteria to the filter.
 * (Optional) Add additional filters, each with one or more criteria.
 
-### [!UICONTROL Build Your Report] Section
+### [!UICONTROL Build Your Report] section
 
 **[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. The available columns vary by report, and all unavailable metrics are disabled.<!-- Add back once I have this completed, and reconsider wording of link/anchor:  See "[Available Report Columns](#report-custom-creative-columns)" for descriptions of all options. -->
 
@@ -150,7 +150,7 @@ To apply one or more filters, do the following:
 
 **[!UICONTROL Headers]:** Whether to *[!UICONTROL Include]* or *[!UICONTROL Do Not Include]* column headers.
 
-### [!UICONTROL Multi-Touch Conversion Options] Section
+### [!UICONTROL Multi-Touch Conversion Options] section
 
 **[!UICONTROL Attribution Rule Settings]:** The settings vary by report type:
 
@@ -186,7 +186,7 @@ To apply one or more filters, do the following:
 
 * *[!UICONTROL Impressions Only (VT)]:* Includes only conversions that were attributed to impressions because no clicks were tracked in the conversion path.
 
-### [!UICONTROL Add Report Destinations] Section
+### [!UICONTROL Add Report Destinations] section
 
 **[!UICONTROL Destination Type]:** Where to deliver the completed reports and error notifications. You can't change the destination type once you save the report.
 
@@ -225,7 +225,7 @@ To apply one or more filters, do the following:
 
 <!-- This needs a lot of updating for new report:
 
-## Available Report Columns {#report-custom-creative-columns}
+## Available report columns {#report-custom-creative-columns}
 
 |Metric Type|Subtype|Column Name|Description|
 |-----------|-------|-----------|-----------|

@@ -12,7 +12,7 @@ exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
 
 <!-- add a description -->
 
-### Basic Details
+### Basic details
 
 **[!UICONTROL Creative Type]:** Whether the creative is a *[!UICONTROL Display]* ad (HTML5) or a *[!UICONTROL Video]* ad.
 
@@ -22,7 +22,7 @@ exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
 
 **[!UICONTROL Library]:** The creative library in which to create the ads. If you're creating the ads from within [!UICONTROL Creatives] > [!UICONTROL Creative Libraries], then the library name is already selected and read-only.
 
-## Ad Template
+## Ad template
 
 **[!UICONTROL Ad Template]:** The ad template from which to create the ads. Select an existing ad template, or upload a new ad template and select the template type (*Static* or *Dynamic*). The template must be in ZIP format and contain:<!-- Need to add more specs for templates -->
 

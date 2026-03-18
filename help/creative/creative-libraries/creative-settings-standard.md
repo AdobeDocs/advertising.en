@@ -82,7 +82,7 @@ To replace the existing ad template:
 
 ## HTML5 creative settings {#creative-settings-html5}
 
-## Details tab
+### Details tab
 
 For new creatives, the following settings aren't on a named tab.
 

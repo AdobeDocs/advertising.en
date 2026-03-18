@@ -1,10 +1,10 @@
 ---
-title: About Custom Reports
+title: About custom reports
 description: Learn about options for creating custom reports.
 feature: Creative Reporting
 exl-id: d52a2761-5e50-4a38-a9e1-141e962f1166
 ---
-# About Custom Reports
+# About custom reports
 
 Custom reports allow you to customize the content and delivery of your report data using the metrics that matter most to you.
 
@@ -15,7 +15,7 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 * FTP SSL <!-- (in beta) -->
 * SFTP
 
-## Available Reports
+## Available reports
 
 * **[!UICONTROL All-in Cost]**: (Advertisers with both Advertising Creative and Adertising DSP only; beta feature) Use this report to see how much Advertising DSP spend was attributed to ad serving for Adobe Creative. You can view creative, attribute, target, and other data at the campaign, package, placement, and ad levels.
 

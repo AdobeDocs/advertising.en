@@ -186,7 +186,7 @@ A JSON object to query the creative attribute variable names and values. The obj
 
 In local testing mode, the key-value pairs are the pairs registered by the `amo.registerAttribute` API. For production, the creative attribute variable names and values must be configured at the time of creative creation and trafficking.
 
-### Creative Content Requirements
+### Creative content requirements
 
 Most of the display exchanges available in Advertising DSP have the following creative requirements:
 

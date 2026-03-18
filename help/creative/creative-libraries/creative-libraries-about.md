@@ -18,11 +18,11 @@ Your libraries can include:
 
 * **Creatives bundles:** Group creatives into bundles to use across multiple experiences with defined user targets. You can create *standard display bundles* that consist of standard display ads, *standard video bundles* that consist of standard video ads, *dynamic display bundles* that consist of dynamically generated display ads, and *dynamic video bundles* that consist of dynamically generated video ads. 
 
-## Supported Creative Formats {#creative-creative-formats}
+## Supported creative formats {#creative-creative-formats}
 
-### Formats for Standard Creatives
+### Formats for standard creatives
 
-You can add and manage the following creative types in the [supported creative sizes](creative-sizes.md).
+You can add and manage the following creative types in the [Supported creative sizes](creative-sizes.md).
 
 >[!IMPORTANT]
 >
@@ -101,7 +101,7 @@ See the following video creative requirements. **Note:** If you'll upload video 
 
 **Audio Other:** The uploaded file must be non-interlaced, mixed, and contain an audio track. There may be no sound, but an audio track must be included in the video file.
 
-### Format for Dynamic Ads
+### Format for dynamic ads
 
 You can dynamically generate display or video creatives by mapping dynamic variables in an ad template to values in a feed file. Dynamic creatives may include creatives that were migrated from your legacy Adobe Advertising Dynamic Creative Optimization (DCO) experiences.
 
@@ -210,6 +210,6 @@ The [!UICONTROL Bundles] view shows all of your standard and dynamic bundle cont
 >[!MORELIKETHIS]
 >
 >* [Manage creative libraries](/help/creative/creative-libraries/creative-library-manage.md)
->* [Add standard creatives to a creative library](creative-add-standard.md)
+>* [Add standard creatives to a library](creative-add-standard.md)
 >* [Manage creative bundles](bundle-manage.md)
 >* [Customize your data views](/help/creative/introduction/customize-data-views.md)
