@@ -1,10 +1,10 @@
 ---
-title: Export Data from a Campaign Management View
+title: Export data from a campaign management view
 description: Learn how to export the data from a any type of campaign management view to a spreadsheet file.
 feature: DSP Campaign Data Views
 exl-id: 181b2648-5c8c-47e5-b4bc-5733dd7f47b7
 ---
-# Export Data from a Campaign Management View
+# Export data from a campaign management view
 
 You can export a snapshot of the current, filtered campaign management view to a file in Microsoft Excel spreadsheet (XLSX) format. You can export data for:
 

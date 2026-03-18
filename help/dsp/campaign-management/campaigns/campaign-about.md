@@ -1,10 +1,10 @@
 ---
-title: About Campaign Management in Advertising DSP
+title: About campaign management in Advertising DSP
 description: Learn about campaign management.
 feature: DSP Campaigns
 exl-id: 8ba1d94d-4cb2-4ed8-a527-b6097ec07380
 ---
-# About Campaign Management in Advertising DSP
+# About campaign management in Advertising DSP
 
 Campaigns are the overarching framework of flight settings. All campaign level settings automatically apply to each package and placement within the campaign. Each campaign is associated with a specific advertiser.
 

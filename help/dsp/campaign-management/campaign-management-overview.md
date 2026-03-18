@@ -1,10 +1,10 @@
 ---
-title: Overview of Campaign Management in Advertising DSP
+title: Overview of campaign management in Advertising DSP
 description: Learn about the campaign management hierarchy and components.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: 8eb7b4a5-4a31-4637-858f-202392dfac98
 ---
-# Overview of Campaign Management in Advertising DSP
+# Overview of campaign management in Advertising DSP
 
 DSP campaigns have the following hierarchy:
 

@@ -1,10 +1,10 @@
 ---
-title: '[!DNL On Demand] Premium Inventory Publishers in Asia Pacific'
+title: '[!DNL On Demand] premium inventory publishers in Asia Pacific'
 description: See the available [!DNL On Demand] premium inventory publishers in the Asia Pacific region.
 feature: DSP On Demand Inventory
 exl-id: ef23503c-d92b-4809-9082-afeaffe58f8f
 ---
-# [!DNL On Demand] Premium Inventory Publishers in Asia Pacific{#on-demand-inventory-publishers-apac}
+# [!DNL On Demand] premium inventory publishers in Asia Pacific{#on-demand-inventory-publishers-apac}
 
 <!-- get from Amanda Cabrera <acabrera@adobe.com> -->
 

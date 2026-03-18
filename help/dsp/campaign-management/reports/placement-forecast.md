@@ -1,10 +1,10 @@
 ---
-title: View the Placement Forecast Report
+title: View the placement forecast report
 description: See the number of impressions, spend, and optimum max bid forecasted for a particular targeting strategy for a placement.
 feature: DSP Placements
 exl-id: 6ff228b2-b656-493e-a299-98c7a68a0f51
 ---
-# View the Placement Forecast Report
+# View the placement forecast report
 
 <!-- Does this really belong in the Campaign Management > Reports section or in the Placements section? -->
 

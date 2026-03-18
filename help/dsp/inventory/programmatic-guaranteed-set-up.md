@@ -1,10 +1,10 @@
 ---
-title: Set up a Programmatic Guaranteed Deal
+title: Set up a programmatic guaranteed deal
 description: Learn how to set up a programmatic guaranteed (PG) deal you've negotiated with a publisher.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: d962942f-c248-4b48-97bd-baa2df3a519e
 ---
-# Set up a Programmatic Guaranteed Deal
+# Set up a programmatic guaranteed deal
 
 *[Supported supply side platforms only](programmatic-guaranteed-about.md)*
 
@@ -16,7 +16,7 @@ After you negotiate a programmatic guaranteed (PG) deal with a supported publish
 >
 > Setting up programmatic guaranteed deals with publishers on [!DNL FreeWheel] requires extra permissions and steps. See "[Overview of Setting up Programmatic Guaranteed Deals in [!DNL FreeWheel]](freewheel-overview.md)" for more information.
 
-## Set up a Programmatic Guaranteed Deal Using the [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
+## Set up a programmatic guaranteed deal using the [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
 The following method is the preferred procedure for [!DNL FreeWheel], [!DNL Google Authorized Buyers], and [!DNL Magnite DV+].
 
@@ -36,7 +36,7 @@ The following method is the preferred procedure for [!DNL FreeWheel], [!DNL Goog
 
     A deal can target multiple placements that support any combination of media types (such as connected TV, desktop, and audio).   
 
-## Manually Set up a Programmatic Guaranteed Deal
+## Manually set up a programmatic guaranteed deal
 
 Use this method for all other SSPs.
 

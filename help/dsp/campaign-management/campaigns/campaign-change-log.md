@@ -1,10 +1,10 @@
 ---
-title: View a Campaign Change Log
+title: View a campaign change log
 description: Learn how to view changes made to the campaign.
 feature: DSP Campaigns
 exl-id: ba96a277-937a-4475-bab6-6e0a4f5ced13
 ---
-# View the Change Log for a Campaign
+# View the change log for a campaign
 
 Change logs show changes made to the campaign during the selected date range, including the campaign name, entity type (Campaign), type of change, the new and old values, the user who made the change, and the date. You can optionally add notes to any entry.
 

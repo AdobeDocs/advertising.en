@@ -1,10 +1,10 @@
 ---
-title: View the Status of Your [!DNL On Demand] Deal Requests and Subscriptions
+title: View the status of your [!DNL On Demand] deal requests and subscriptions
 description: Learn how to see the status of your [!DNL On Demand] deal requests and subscriptions.
 feature: DSP On Demand Inventory
 exl-id: 4a8c0242-eaa7-426f-82da-8a4ae4bed492
 ---
-# View the Status of Your [!DNL On Demand] Deal Requests and Subscriptions
+# View the status of your [!DNL On Demand] deal requests and subscriptions
 
 After you request an individual deal or subscribe to all of a publisher's deals, see if the publisher has approved or rejected each deal for each advertiser in your account.
 
@@ -17,7 +17,7 @@ After you request an individual deal or subscribe to all of a publisher's deals,
       1. Hold the cursor over the publisher logo, and then click **[!UICONTROL See Deals]**.
 1. Locate the [!UICONTROL Status] column to see the approval status.
 
-## Deal Status
+## Deal status
 
 Publisher approval or denial can be based on the account type and campaign category for the account, the advertiser category, and the publisher's list of blocked advertisers.
 

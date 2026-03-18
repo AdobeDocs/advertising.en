@@ -1,10 +1,10 @@
 ---
-title: Re-Request [!DNL On Demand] Premium Inventory Deals
+title: Re-request [!DNL On Demand] premium inventory deals
 description: Learn how to re-request [!DNL On Demand] deals that were previously denied.
 feature: DSP On Demand Inventory
 exl-id: 8b28ca37-5fe8-445e-8210-1b81945bbacc
 ---
-# Re-Request [!DNL On Demand] Premium Inventory Deals
+# Re-request [!DNL On Demand] premium inventory deals
 
 *Not available to users with the account types [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension], and [!UICONTROL Other]; advertisers with the category [!UICONTROL Other]; and resellers*
 

@@ -1,10 +1,10 @@
 ---
-title: Create a Campaign
+title: Create a campaign
 description: Learn how to create a campaign.
 feature: DSP Campaigns
 exl-id: 8e401c15-018d-439b-922e-2e456eabfea4
 ---
-# Create a Campaign
+# Create a campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. In the [!UICONTROL Campaigns] view, click **[!UICONTROL Create campaign]**.

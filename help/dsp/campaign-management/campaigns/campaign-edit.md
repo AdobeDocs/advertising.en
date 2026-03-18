@@ -1,10 +1,10 @@
 ---
-title: Edit a Campaign
+title: Edit a campaign
 description: Learn how to edit a campaign.
 feature: DSP Campaigns
 exl-id: d0cbcd11-138a-41be-a027-e5e49e24afa2
 ---
-# Edit a Campaign
+# Edit a campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Next to the campaign name, click  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.

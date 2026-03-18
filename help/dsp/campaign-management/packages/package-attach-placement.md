@@ -56,4 +56,4 @@ exl-id: dbee2db6-6cb7-4c56-9c14-816ea071b760
 >* [Create a Package](package-create.md)
 >* [View the Change Log for a Package](package-change-log.md)
 >* [Package Settings](package-settings.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

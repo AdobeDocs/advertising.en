@@ -1,10 +1,10 @@
 ---
-title: Pause or Activate a Campaign
+title: Pause or activate a campaign
 description: Learn how to pause or activate a live campaign.
 feature: DSP Campaigns
 exl-id: ed199864-8532-411b-b8ea-443ee1c149a2
 ---
-# Pause or Activate a Campaign
+# Pause or activate a campaign
 
 Pause a live campaign or activate a paused campaign when it's within the configured flight schedule. 
 

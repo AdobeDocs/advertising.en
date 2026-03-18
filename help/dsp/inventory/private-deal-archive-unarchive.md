@@ -1,10 +1,10 @@
 ---
-title: Archive or Unarchive a Private Deal
+title: Archive or unarchive a private deal
 description: Learn how to archive or unarchive a private deal.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: f3f22299-a538-4956-a8ef-d44f20e4d2d7
 ---
-# Archive or Unarchive a Private Deal
+# Archive or unarchive a private deal
 
 Hide a private deal that isn't being used by archiving it. The only action that you can take on an archived deal is to unarchive it. Archived deals aren't shown by default but are still available for reporting.
 
@@ -15,7 +15,7 @@ You can unarchive a deal to restore its previous status at any time.
 >* You can't archive [!UICONTROL On Demand] deals.
 >* To deactivate a deal on the publisher side, contact the publisher or SSP. After they deactivate the deal, you can archive it in DSP to hide it.
 
-## Archive a Private Deal
+## Archive a private deal
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 1. In the deal row, click **[!UICONTROL ...]** > **[!UICONTROL Archive]**.
@@ -25,7 +25,7 @@ You can unarchive a deal to restore its previous status at any time.
 >
 >To view archived deals, click ![Filter](/help/dsp/assets/filter.png) above the deal list; click **[!UICONTROL Status]** and select *[!UICONTROL Archived]*; and then click **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
 
-## Unarchive a Private Deal
+## Unarchive a private deal
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 1. Above the deal list, click ![Filter](/help/dsp/assets/filter.png); click **[!UICONTROL Status]** and select *[!UICONTROL Archived]*; and then click **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->

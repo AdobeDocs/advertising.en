@@ -1,10 +1,10 @@
 ---
-title: About Private Inventory
+title: About private inventory
 description: About Private Inventory
 feature: DSP Private Inventory
 exl-id: 34fc1926-a839-4f2d-8628-557542fb7835
 ---
-# About Private Inventory
+# About private inventory
 
 *Not available to users with the account types "Ad Network," "Publisher Audience Extension," and "Other"; advertisers with the category "Other"; and resellers*
 
@@ -26,7 +26,7 @@ You can use deal IDs in either of the following ways:
 
 You can use each private deal as a placement target for multiple campaigns across specified advertisers. For guaranteed deals, you must create a default placement after creating the deal, but you can add the same deal to additional placements to ignore the default placement.
 
-## The Deals View
+## The [!UICONTROL Deals] view
 
 In the [!UICONTROL Inventory] > [!UICONTROL Deals] view, you can create private deal settings. You can also edit some deal settings; list the placements and ads, and attach additional placements and ads, to a private deal; edit the advertisers and accounts who can access a private deal; view a performance report for a deal; view auction insights for a private deal, or archive or unarchive a deal.<!-- ; or edit the attribute tags for a deal -->
 
@@ -34,7 +34,7 @@ The "Deal Health" column indicates each private deal's health status: "Success,"
 
 You can customize how the existing deal data is presented by applying filters, customizing the visible columns and optionally saving custom views, sorting the columns, and viewing the data as charts.
 
-## The Deal Lists View
+## The [!UICONTROL Deal Lists] view
 
 In the [!UICONTROL Inventory] > [!UICONTROL Deal Lists] view, you can group your private deals into lists for easier placement targeting. 
 
