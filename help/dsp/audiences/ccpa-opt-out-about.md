@@ -10,7 +10,7 @@ You can track users IDs from consumer opt-out-of-sale requests on your website, 
 
 Once the segment pixel tag is implemented, Adobe Advertising begins to collect a pool of IDs on the advertiser’s behalf.
 
-## Consumer Opt-Out-of-Sale Reports
+## Consumer opt-out-of-sale reports
 
 Adobe Advertising generates monthly reports of IDs that customers have submitted for opt-out-of-sale requests for the account. The data consolidates requests captured using CCPA opt-out-of-sale segments that were created in DSP and any submissions made via the Privacy Service API.  Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on July 1.
 
@@ -20,7 +20,7 @@ You can [retrieve links to the monthly reports](ccpa-opt-out-segment-report-retr
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
+>* [Adobe Advertising support for the California Consumer Privacy Act: Consumer opt-out of sale support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
->* [Retrieve Consumer Opt-Out-of-Sale Reports](ccpa-opt-out-segment-report-retrieve.md)
+>* [Retrieve consumer opt-out-of-sale reports](ccpa-opt-out-segment-report-retrieve.md)
 >* [About Audience Management](audience-about.md)

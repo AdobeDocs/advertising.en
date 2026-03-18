@@ -18,8 +18,8 @@ index: yes
     + [Cross-Device Solutions](/help/dsp/introduction/features/cross-device-solutions.md)
   + [Account Funding](/help/dsp/introduction/billing/account-funding.md)
   + [Currencies Supported](/help/dsp/currency.md)
-  + [Support for Consumer Privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
-  + [Policies and Guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
+  + [Support for consumer privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
+  + [Policies and guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
   + [Advanced Measurement Solutions](/help/dsp/introduction/advanced-measurement-services.md)
 + [Search for product documentation using AI-assisted chat](/help/dsp/agent-chat.md)
 + Campaign Management {#campaign-management}
@@ -126,7 +126,7 @@ index: yes
     + [!UICONTROL CCPA Opt-out-of-Sale] Segments {#ccpa-opt-out-of-sale-segments}
       + [About [!UICONTROL CCPA Opt-out-of-Sale] Segments](/help/dsp/audiences/ccpa-opt-out-about.md)
       + [Create and Implement a [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
-      + [Retrieve [!UICONTROL Consumer Opt-Out-of-Sale] Reports](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [Retrieve [!UICONTROL Consumer Opt-Out-of-Sale] reports](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
     + [Edit Segment Information](/help/dsp/audiences/segment-edit.md)
     + [Share or Stop Sharing a Segment](/help/dsp/audiences/segment-share.md)
     + [View Tracking Pixels for a Segment](/help/dsp/audiences/segment-view-pixels.md)

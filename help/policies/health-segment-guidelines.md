@@ -1,10 +1,10 @@
 ---
-title: Adobe Advertising Acceptable Health Segments
+title: Adobe Advertising acceptable health segments
 description: See guidelines for acceptable health-related audience segments and tactics to use as alternatives to targeting health-related audience segments.
 feature: Policies
 exl-id: 121129e3-3d4b-4478-9cfd-cb16c1eb67de
 ---
-# Adobe Advertising Acceptable Health Segment Guidelines
+# Adobe Advertising acceptable health segment guidelines
 
 *For Adobe Advertising DSP and [!DNL Adobe Advertising Search, Social, & Commerce]*
 
@@ -12,9 +12,9 @@ The following guidelines outline unacceptable and acceptable health-related audi
 
 These guidelines are summarized from the [!DNL Network Advertising Alliance (NAI)].
 
-See also [Adobe Advertising Ads Requirements Policy](/help/policies/ad-requirements-policy.md) to determine whether a health-related audience segment is usable per the Adobe Advertising targeting policy.
+See also [Adobe Advertising ad requirements policy](/help/policies/ad-requirements-policy.md) to determine whether a health-related audience segment is usable per the Adobe Advertising targeting policy.
 
-## Health Segments That Should Not Be Used
+## Health segments that should not be used
 
 * Segments that rely on protected health information (PHI)\*, user-level medical records, pharmaceutical prescriptions, or similar health or medical sources that provide actual knowledge of that user’s condition or treatment.
 
@@ -24,7 +24,7 @@ See also [Adobe Advertising Ads Requirements Policy](/help/policies/ad-requireme
 
 * Segments that rely on a user or device’s prior web activity, app usage, or viewed content activity expressing an interest in a sensitive health or medical condition or treatment (as described in the block above).
 
-## Health Segments That Can Be Used
+## Health segments that can be used
 
 All of the following must be true:
 
@@ -34,7 +34,7 @@ All of the following must be true:
 
 * The audience segment name is labeled in such a way that is based on the audience’s demographic make-up and not labeled with a health condition (for example, “women over 50” but not “breast cancer,” or “skin care” but not “acne sufferer”).
 
-## Additional Recommended Tactics
+## Additional recommended tactics
 
 * Target geographies where there’s a high propensity of the target audience, and/or if there are professions/profiles that index high.
 
@@ -44,4 +44,4 @@ All of the following must be true:
 
 >[!MORELIKETHIS]
 >
->* [Ads Requirements Policy](/help/policies/ad-requirements-policy.md)
+>* [Ads requirements policy](/help/policies/ad-requirements-policy.md)

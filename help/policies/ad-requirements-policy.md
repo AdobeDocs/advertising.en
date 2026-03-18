@@ -1,10 +1,10 @@
 ---
-title: Adobe Advertising Ad Requirements Policy
+title: Adobe Advertising ad requirements policy
 description: See the policy for ad requirements.
 feature: Policies, DSP Ads
 exl-id: 217cce8e-3bb3-407a-a05e-7fff2978eac8
 ---
-# Adobe Advertising Ad Requirements Policy
+# Adobe Advertising ad requirements policy
 
 *Policy last updated: July 17, 2024<!-- (except for formatting changes unrelated to content)-->*
 
@@ -16,13 +16,13 @@ This Ads Requirements Policy (“Policy”) sets forth the requirements for Ads 
 
 In addition to the requirements set forth below and in the Agreement, you must comply with the requirements imposed by each media source on which you place your Ads as well as those imposed by any supply side platform (SSP) or other platform used to deliver any of your Ads. It is your responsibility to understand and comply with the policies of the publishers and platforms through which you deliver Ads.
 
-## Ad Content Requirements
+## Ad content requirements
 
-### Creative Requirements
+### Creative requirements
 
 All Ads transmitted, stored, displayed, distributed, or otherwise made available by you via the On-demand Services must be consistent with the advertising specifications contained in the Adobe Advertising Ad Specs, as may be revised by [!DNL Adobe] from time to time.
 
-### Prohibited Ads
+### Prohibited ads
 
 You must ensure that your Ads and the website(s) to which an Ad links or re-directs do not contain or promote any of the following:
 
@@ -60,7 +60,7 @@ You must ensure that your Ads and the website(s) to which an Ad links or re-dire
 
 * **Political content**. Political content includes communications that: (1) are paid for by any candidate for office (federal, state, local, or international) or candidate’s campaign; (2) are paid for by any entity that is registered or reporting under the campaign finance law of any jurisdiction (federal, state, local, or international); (3) expressly advocate for or against any clearly identified candidate (federal, state, local, or international), or (4) are otherwise regulated under any jurisdiction’s campaign finance law. This prohibition includes, but is not limited to, issue advocacy Ads that are directly or indirectly related to any election, political campaign, candidate for public office, voting, ballot initiative, legislation, or referendum.
 
-### Restricted Ads
+### Restricted ads
 
 Ads containing content in the below categories are permitted with specific restrictions described below. Restrictions are based on laws and regulations, industry best practices, and other business considerations.
 
@@ -80,7 +80,7 @@ Ads containing content in the below categories are permitted with specific restr
 
 * **Ads Related to Weight Loss**. Ads that promote weight loss or appetite suppressant pills and supplements are not permitted, including products that contain human chorionic gonadotropin (hCG). Ads may not promote unlikely or dangerous weight loss claims or present deceptive before-and-after weight loss imagery.
 
-### Advertising to Minors
+### Advertising to minors
 
 Ads may not use personal data to intentionally target users under the age of 16. In addition to the Prohibited Ads and Restricted Ads listed above, Ads may not knowingly market or advertise the following products or services to users under the age of 18:
 
@@ -96,7 +96,7 @@ Ads may not use personal data to intentionally target users under the age of 16.
 * Gambling products and services, including lotteries
 * Body branding such as tattooing, body piercing, or permanent cosmetics
 
-## Targeted Ads
+## Targeted ads
 
 The Services may not be used to target ads to users or exclude users from being targeted, including to retarget users based on visits to your websites or other online services, in a way that implies that you are aware of potentially sensitive information about them.
 
@@ -123,10 +123,10 @@ The Services may not be used to target ads to users or exclude users from being 
 
 * **Health-Related Targeting**. You may not use the Services to collect sensitive-health related data or to make inferences about users’ sensitive health or medical treatments. In particular, you may not use the Services to target Ads for any of the following: any form of cancer, mental health-related conditions, or sexually transmitted diseases. Ads may be targeted for non-sensitive health conditions, including acne, allergies, dental, vision, heartburn, cold and flu, sinus, headache, back pain, first aid, sore throat, blood sugar management, diet and fitness, hair removal, and vitamins and supplements.
 
-## No Discrimination
+## No discrimination
 
 You may not use the Services to engage in discrimination in violation of law, including by wrongfully targeting specific groups of people for advertising, wrongfully excluding specific groups of people from seeing ads, or featuring discriminatory content in ads. You are responsible for using the Services responsibly to avoid discrimination against protected classes, including but not limited to ensuring that your Ads do not have a disparate impact on protected classes.
 
 >[!MORELIKETHIS]
 >
->* [Acceptable Health Segment Guidelines](/help/policies/health-segment-guidelines.md)
+>* [Acceptable health segment guidelines](/help/policies/health-segment-guidelines.md)
