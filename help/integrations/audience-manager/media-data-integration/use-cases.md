@@ -4,7 +4,7 @@ description: Learn about use cases for sharing your Advertising DSP media data w
 feature: Integration with Adobe Audience Manager
 exl-id: 1d961799-b8be-499a-8db6-b59762d96bf1
 ---
-# Use Cases for Capturing Media Exposure Data in Adobe Audience Manager
+# Use cases for capturing media exposure data in Adobe Audience Manager
 
 *Advertisers with Advertising DSP only*
 
@@ -12,13 +12,13 @@ exl-id: 1d961799-b8be-499a-8db6-b59762d96bf1
 
 Following are some ways in which you can benefit from capturing your Advertising DSP media exposure data <!-- ad impression data? --> in Audience Manager.
 
-## Recency and Frequency Management
+## Recency and frequency management
 
 Capturing impression data in Audience Manager allows you to enhance your frequency management by creating segments of users who have been exposed to a particular ad or campaign. You can use these segments for ad targeting if you want to increase frequency, or for ad suppression if you want to limit frequency.
 
 Also, with Audience Manager [!DNL Segment Builder], you can apply [recency and frequency controls](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/recency-and-frequency.html) to any [rule-based traits](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) that contain actionable signals. This allows you, for example, to limit the number of times a user is shown a particular creative within a media campaign. Read "[Instant Cross-Device Suppression](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/instant-cross-device-suppression.html)" to learn how to do this.<!-- The AM pulled this paragraph verbatim from AEM doc; I change only a word or two. -->
 
-## Sequential Messaging
+## Sequential messaging
 
 By capturing impression data, you can create a segment of users who have been exposed to a campaign or ad and use this segment for sequential messaging or suppression. For example, you can retarget users who saw creative `123` but didn’t click or convert by showing them creative `456`.
 
@@ -48,7 +48,7 @@ To execute this example in Audience Manager, you would follow these steps:<!-- T
 
 1. Map the segment `Retarget Users` to a destination, and target users in the destination with creative `456`.
 
-## [!DNL Adobe Audience Analytics] and Campaign Exposure Data
+## [!DNL Adobe Audience Analytics] and campaign exposure data
 
 Once campaign impression and click data is available within Audience Manager, you can create traits and segments of users who were exposed to, or interacted with, a particular campaign or tactic. With an [[!DNL Audience Analytics] integration](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html), your Audience Manager segments can be synced with [!DNL Analytics] for further analysis. Potential use cases include the following:
 
@@ -60,7 +60,7 @@ Once campaign impression and click data is available within Audience Manager, yo
 
 You can leverage [Audience Manager [!DNL Audience Optimization Reports]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html) to identify potential performance opportunities for segments across your campaigns. These reports combine campaign impression, click, and conversion data with segment metrics to inform segment-centric optimizations and an effective channel mix.
 
-### Types of Relevant Audience Optimization Reports
+### Types of relevant Audience Optimization reports
 
 | Report | Description |
 | ------ | ----------- |
@@ -81,5 +81,5 @@ You can leverage [Audience Manager [!DNL Audience Optimization Reports]](https:/
 
 >[!MORELIKETHIS]
 >
->* [Overview of Sending DSP Media Exposure Data to Adobe Audience Manager](overview.md)
->* [Collect Click and Impression Data from Advertising DSP Campaigns](collect.md)
+>* [Overview of sending DSP media exposure data to Adobe Audience Manager](overview.md)
+>* [Collect click and impression data from Advertising DSP campaigns](collect.md)

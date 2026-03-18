@@ -200,8 +200,8 @@ In Customer Journey Analytics Workspace, follow these steps to configure reports
 >
 >* [Overview](overview.md)
 >* [Prerequisites](prerequisites.md)
->* [Adobe Advertising IDs Used by [!DNL Customer Journey Analytics]](ids.md)
+>* [Adobe Advertising IDs used by [!DNL Customer Journey Analytics]](ids.md)
 >* [Adobe Advertising metrics and dimensions in Customer Journey Analytics](advertising-data-in-cja.md)
->* [Collect Historical Data for AMO IDs and EF IDs for Use in Adobe Customer Journey Analytics](/help/integrations/analytics/rvars-to-evars.md).
+>* [Collect historical data for AMO IDs and EF IDs for use in Adobe Customer Journey Analytics](/help/integrations/analytics/rvars-to-evars.md).
 >* [Customer Journey Analytics Guide](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-landing)
 >* Customer Journey Analytics [User guide for Adobe Analytics users](https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/aa-to-cja-user)

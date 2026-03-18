@@ -88,5 +88,5 @@ In the following table:
 >
 >* [Overview](overview.md)
 >* [Prerequisites](prerequisites.md)
->* [Adobe Advertising IDs Used by [!DNL Customer Journey Analytics]](ids.md)
+>* [Adobe Advertising IDs used by [!DNL Customer Journey Analytics]](ids.md)
 >* [Set up data collection, data transfer, and reporting](set-up.md)
