@@ -136,7 +136,7 @@ The following filters are available for your [!UICONTROL Campaigns], [!UICONTROL
     * [!UICONTROL Ad type]   
     * [!UICONTROL Creation date]
 
-### Change the Date Range
+### Change the date range
 
 Change the date range used in all standard and custom views using the date range selector above any data table.
 
@@ -152,14 +152,14 @@ Change the date range used in all standard and custom views using the date range
 
     You can enter numeric values (from M-D-YY to MM-DD-YYYY) and/or month names or abbreviations (such as Jan or January).
 
-### Sort a Data Column
+### Sort a data column
 
 You can sort any data column in ascending order (A to Z, or 1 to 10) or descending order (Z to A, or 10 to 1).
 
 * Click the column header to switch between ascending order and descending order.
 
 
-### Specify the Number of Data Rows
+### Specify the number of data rows
 
 On the bottom right of any page, next to **[!UICONTROL Items per page]** , select *[!UICONTROL 25]*, *[!UICONTROL 50]*, or *[!UICONTROL 100]*.
 

@@ -36,7 +36,7 @@ Create universal video placements and ads similarly to how you create other type
 
 1. [Attach the new universal video ads](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) to the universal video placement.
 
-## Why are some optimization goals and packages unavailable when the Connected TV environment is selected for a universal video placement?
+## Why are some optimization goals and packages unavailable when the connected TV environment is selected for a universal video placement?
 
 Goals that are incompatible with standard connected TV placements, such as Lowest Cost per Click, aren't supported for the connected TV environment in universal video placements. Similarly, packages with incompatible optimization goals are also unavailable for selection. 
 

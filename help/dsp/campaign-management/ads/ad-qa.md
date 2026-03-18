@@ -14,7 +14,7 @@ To edit the ad details, see "[Review and edit campaign component settings using 
 
 >[!NOTE]
 >
->*To edit individual ad settings, see also "[Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)."
+>*To edit individual ad settings, see also "[Edit an ad](/help/dsp/campaign-management/ads/ad-edit.md)."
 >*To change the third-party tracking pixels for multiple ads at once or to attach ads to placements, see also "[Attach ads to placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)."
 
 ## Download details for all ads in a campaign
