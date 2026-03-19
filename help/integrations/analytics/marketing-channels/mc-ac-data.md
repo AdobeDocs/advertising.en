@@ -12,7 +12,7 @@ By using both Adobe Advertising and [!DNL Analytics Marketing Channels] reports,
 
 <!-- from video: By using Marketing Channels with your Adobe Advertising data, you can get a more holistic view of how your advertising efforts are affecting site behavior. In particular, you can see the value of your view-through and click-through data, and how your advertising assists or is assisted by other channels. -->
 
-The following illustration shows how Adobe Advertising and [!DNL Marketing Channels] track the individual visits that comprise one visitor's journey. Adobe Advertising reports in [!DNL Analytics] are limited to only paid display, search, social, and commerce channel advertising trafficked through Adobe Advertising, using the AMO ID. However, [!DNL Marketing Channels] tracks all channels configured in the [!DNL Marketing Channels] Processing Rules.
+The following illustration shows how Adobe Advertising and [!DNL Marketing Channels] track the individual visits that comprise one visitor's journey. Adobe Advertising reports in [!DNL Analytics] are limited to only paid display, search, social, and commerce channel advertising trafficked through Adobe Advertising, using the AMO ID. However, [!DNL Marketing Channels] tracks all channels configured in the [!DNL Marketing Channels] processing rules.
 
 ![How Adobe Advertising and [!DNL Marketing Channels] track the individual visits in a visitor's journey](/help/integrations/assets/a4adc-mc-sample-journey2.png)
 
@@ -20,7 +20,7 @@ In the first visit, the user entered the website through an email campaign, exec
 
 Because the AMO ID persists through the visitor’s journey, you can use the AMO ID data to see how Adobe Advertising influences other marketing channels. The AMO ID [persists for 60 days by default](/help/integrations/analytics/overview.md), but you can configure the persistence as needed.
 
-## How to Combine Adobe Advertising and Marketing Channels Data to Analyze Media Performance
+## How to combine Adobe Advertising and Marketing Channels data to analyze media performance
 
 Within [!DNL Analytics], you can combine the Adobe Advertising persisting paid advertising data and the [!DNL Marketing Channels] comprehensive visit data to better analyze your media performance so you can better influence the customer journey.
 
@@ -47,7 +47,7 @@ You can improve the analysis further by using a Stack Graph set to "100% stacked
 >[!MORELIKETHIS]
 >
 >* [Fundamentals of [!DNL Analytics Marketing Channels]](mc-overview.md)
->* [Using Adobe Advertising IDs to Create [!DNL Marketing Channels] Processing Rules](mc-ids.md)
->* [Why Channel Data Can Vary Between Adobe Advertising and [!DNL Marketing Channels]](mc-data-variances.md)
+>* [Using Adobe Advertising IDs to create [!DNL Marketing Channels] processing rules](mc-ids.md)
+>* [Why channel data can vary between Adobe Advertising and [!DNL Marketing Channels]](mc-data-variances.md)
 >* [Video: Using [!DNL Marketing Channels] for Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 >* [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
