@@ -28,4 +28,4 @@ For more information about possible data variances between Adobe Advertising-tra
 >* [Fundamentals of [!DNL Analytics Marketing Channels]](mc-overview.md)
 >* [Using Adobe Advertising IDs to create [!DNL Marketing Channels] processing rules](mc-ids.md)
 >* [Using [!DNL Analytics Marketing Channels] with Adobe Advertising data](mc-ac-data.md)
->* [Video: Using [!DNL Marketing Channels] for Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Video: Using [!DNL Marketing Channels] for Adobe Advertising reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)

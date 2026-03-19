@@ -8,14 +8,15 @@ exl-id: 525761b4-607f-4b03-9020-8051009a13c6
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
-You can use Adobe Advertising IDs ([AMO ID and EF ID](../ids.md)) to configure [!DNL Marketing Channels] processing rules in Adobe Analytics. Use Adobe Advertising IDs for rules specific to your Adobe Advertising campaigns.
+You can use Adobe Advertising IDs ([AMO ID and EF ID](../ids.md)) to configure [!DNL Marketing Channels] processing rules in Adobe Analytics. Use Adobe Advertising IDs for rules specific to your Adobe Advertising campaigns. The order in which you process the rules determines whether all possible data is captured correctly.
 
 ## The AMO ID in processing rules
 
 The AMO ID is the primary tracking code used to report Adobe Advertising data within [!DNL Analytics]. The AMO ID is a concatenation of dynamic values managed by Adobe to provide granular reporting within [!DNL Analytics]. It's stored in an [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) or rVar dimension (AMO ID). The AMO ID can be set in [!DNL Analytics] in two ways:
 
 * Click-through tracking: Adobe Advertising sets the `s_kwcid` query string parameter in a link, and [!DNL Analytics] picks up the parameter from the landing page URL when a click-through occurs.
-* View-through tracking ([!DNL DSP] Only): The Last Event Service detects a view-through on the server side and sends the AMO ID to [!DNL Analytics]. In this case, the URL doesn't contain a `s_kwcid` parameter.
+
+* View-through tracking ([!DNL DSP] Only): The [!DNL Last Event Service] detects a view-through on the server side and sends the AMO ID to [!DNL Analytics]. In this case, the URL doesn't contain a `s_kwcid` parameter.
 
 The dynamic values within AMO IDs indicate the marketing channel that was tracked:
 
@@ -23,13 +24,13 @@ The dynamic values within AMO IDs indicate the marketing channel that was tracke
 
 * Character phrases in the body of the AMO ID indicate a more specific campaign type.
 
-* The suffix “vt” is present for [!DNL DSP] view-through traffic and can be used to create separate click-through and view-through [!DNL DSP] channels.
+* The suffix "vt" is present for [!DNL DSP] view-through traffic and can be used to create separate click-through and view-through [!DNL DSP] channels.
 
 The rest of the AMO ID can be ignored.
 
 | [!UICONTROL AMO ID] | Channel | Rule Logic |
 |--------|---------|--------------------|
-| !ctv (suffix) | [!UICONTROL DSP Connected TV View-through] | Ends With |
+| !ctv (suffix) | [!UICONTROL DSP Connected TV ViewThrough] | Ends With |
 | !d! (body) | [!UICONTROL Display Network] | Contains |
 | !g! (body) | [!UICONTROL Google Search] | Contains |
 | !s! (body) | [!UICONTROL Search Partner] | Contains |
@@ -37,23 +38,9 @@ The rest of the AMO ID can be ignored.
 | !ytv! (body) | [!UICONTROL YouTube Video Ad] | Contains |
 | !yts! (body) | [!UICONTROL YouTube Search Ad] | Contains |
 | !vp! (body) | [!UICONTROL Google Video Partners] | Contains |
-| !vt (suffix) | [!UICONTROL DSP View-through] | Ends With |
+| !vt (suffix) | [!UICONTROL DSP ViewThrough] | Ends With |
 | AL! (prefix) | [!UICONTROL Paid Search] | Starts With |
-| AC! (prefix) | [!UICONTROL DSP] | Starts With |
-
-### Examples of processing rules that use the AMO ID
-
-The [!DNL Marketing Channels] processing rule for the [!UICONTROL Paid Search] channel might look like this:
-
-![Example of a [!UICONTROL Paid Search] rule](/help/integrations/assets/a4adc-mc-rule-paidsearch.png)
-
-The [!DNL Marketing Channels] processing rule for the [!UICONTROL YouTube Video Ads] channel might look like this:
-
-![Example of a [!UICONTROL YouTube Video Ads] rule](/help/integrations/assets/a4adc-mc-rule-youtube-video.png)
-
->[!IMPORTANT]
->
-> Be sure to run your rules in order of specificity. If the above two rules ran in order, the [!DNL YouTube] video ad traffic would all fall under the [!UICONTROL Paid Search] channel because the AMO ID would both start with “AL!” and contain “!ytv!”.
+| AC! (prefix) | [!UICONTROL DSP Display] | Starts With |
 
 ## The EF ID in processing rules
 
@@ -63,30 +50,102 @@ Although the EF ID dimension isn't used directly in [!DNL Analytics] reporting, 
 
 | EF ID Suffix | Channel |
 |-------|---------|
-| :s | [!UICONTROL Paid Search] |
-| :d | [!UICONTROL Display Click-through] |
-| :i | [!UICONTROL Display View-through] |
+| :s | [!UICONTROL Paid Search Click-through] |
+| :d | [!UICONTROL Display ClickThrough] |
+| :i | [!UICONTROL Display ViewThrough] |
 
-### Examples of processing rules that use the EF ID
+## Examples of processing rules for Adobe Advertising
 
-#### Display click-through rule
+The following example rule set focuses on the rules for the advertising channels (Paid Search, Display ClickThrough, and Display ViewThrough). The recommended rule for Paid Search detection (including how that rule interacts with the Natural Search Marketing Channel logic) and an optional update to the Natural Referring Domains rule are also demonstrated.
 
-Create a Display click-through marketing channel by capturing only click-throughs. Because the AMO ID is the same for both click-throughs and view-throughs, this rule uses the EF ID variable and the `ef_id` query string parameter.
+**Note:** Display can be separated as two channels or merged into a single channel based on advertiser preference.
 
-Sometimes click-throughs are tracked through the URL (the default). In other cases, click-throughs are tracked through the Last Event Service on the server side, and therefore the URL doesn't contain the `ef_id` parameter. The rule therefore checks for conditions in which the EF ID variable or the `ef_id` query string parameter ends with “:d”. Use the "`Any`" operator because you want this rule to be triggered for either condition.
+Other channels are included in the example screen shot to illustrate the recommended order of operations of the advertising channels versus other channels in a typical implementation.
 
-![Example of a display click-through rule](/help/integrations/assets/a4adc-mc-rule-display-ct.png)
+>[!IMPORTANT]
+>
+>See "[Order of operations for [!DNL Marketing Channels] rules](#rule-order)" for information about the order in which your rules should be processed.
 
-#### Display view-through rule
+![Example of a set of processing rules](/help/integrations/assets/a4adc-mc-rule-set-example.png)
 
-To create a Display view-through channel, create a rule in which the EF ID ends with “:i”. Because the visitor didn't click the ad, the view-through tracking doesn't include the `ef_id` or `s_kwcid` in the URL, so the rule requires only one condition.
+### Paid search rule
 
-![Example of a display view-through rule](/help/integrations/assets/a4adc-mc-rule-display-vt.png)
+The best practice is to include two conditions with the "Any" operator for a [!UICONTROL Paid Search] rule:
+
+* Cost/click/impression data contains the AMO ID, so include the AMO ID. The AMO ID should start with "AL!" to correctly allocate click/cost/impression data to [!UICONTROL Paid Search].<!-- Is this just called AMO ID there, not s_kwcid=XXX? What's the difference? -->
+
+* The URLs for [!UICONTROL Paid Search] click-throughs always include the `s_kwcid` query string parameter, so include it to ensure proper de-duplication occurs if the visitor navigates back to the landing page. Include "AL!" before the `s_kwcid` to correctly allocate click/cost/impression data to [!UICONTROL Paid Search].
+
+Don't set the channel's value to the AMO ID. Instead, set it to something such as the Referring Domain, Search Engine + Keyword, or Page. (This is relevant for all the [!DNL Marketing Channels]).
+
+<!-- Explain that comment about relevancy -- do I need to repeat this for each rule example?  -->
+
+![Example of a Paid Search rule](/help/integrations/assets/a4adc-mc-rule-paid-search.png "Example of a Paid Search rule")
+
+### Natural search rule
+
+For [!UICONTROL Natural Search], ensure that your [[!UICONTROL Paid Search] detection rules](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/paid-search-detection/t-paid-search-detection) include the `ef_id` and `s_kwcid` query string parameters. (Typically, this is automatically configured when Advertising Search, Social, & Commerce is integrated into [!DNL Analytics], but verify in case an [!DNL Analytics] administrator changed the logic after the integration was configured.)
+
+Set the rule to "Matches Natural Search Detection Rules" (which is usually the default setting for this channel).
+
+![Example of a Natural Search rule](/help/integrations/assets/a4adc-mc-rule-natural-search.png "Example of a Natural Search rule")
+
+### Display click-through rule #1
+
+Create a Display ClickThrough marketing channel by capturing only click-throughs. Because the AMO ID is the same for both click-throughs and view-throughs, this rule uses the EF ID variable and the `ef_id` query string parameter.
+
+Sometimes click-throughs are tracked through the URL (the default). In other cases, click-throughs are tracked through the Last Event Service on the server side, and therefore the URL doesn't contain the `ef_id` parameter. The rule therefore checks for conditions in which the EF ID variable or the `ef_id` query string parameter ends with ":d". Use the "`Any`" operator because you want this rule to be triggered for either condition.
+
+![Example of a first Display ClickThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ct.png "Example of a first Display ClickThrough rule")
+
+### Natural referring domains rule
+
+(Optional) The best practice is to add an "Is First Page of Visit" condition with the "Any" operator to the standard [!UICONTROL Natural Referring Domains] rule. While this rule is optional, it can help prevent the edge case of natural referrers being set when the user clicks the back button to return to the landing page.
+
+![Example of a Natural Referring Domains rule](/help/integrations/assets/a4adc-mc-rule-natural-referring-domains.png "Example of a Natural Referring Domains rule")
+
+### Display CTV view-through rule
+
+To track [!DNL DSP] connected TV (CTV) view-throughs, create a rule where the AMO ID ends with `"!ctv"`. Because the visitor didn't click the ad, the view-through tracking doesn't include the `ef_id` or `s_kwcid` in the URL, and the rule requires only one condition.
+
+![Example of a Display CTV ViewThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ctv-vt.png "Example of a Display CTV ViewThrough rule")
+
+### Display view-through rule
+
+To create a Display ViewThrough channel, create a rule in which the EF ID ends with ":i". Because the visitor didn't click the ad, the view-through tracking doesn't include the `ef_id` or `s_kwcid` in the URL, and the rule requires only one condition.
+
+![Example of a Display ViewThrough rule](/help/integrations/assets/a4adc-mc-rule-display-vt.png "Example of a Display ViewThrough rule")
+
+### Display click-through rule #2
+
+For the second Display ClickThrough rule, set **AMO ID starts with "AC!"**. This second rule exists to capture the click/cost/impression data for the Display channel that comes in directly from Adobe Advertising to [!DNL Analytics]. This data is attributed to an AMO ID but doesn't include an URL with the `ef_id` query string, so these hits aren't connected with an AMO EF ID, which is what the first Display ClickThrough rule captures.
+
+![Example of a second Display ClickThrough rule](/help/integrations/assets/a4adc-mc-rule-display-ct2.png "Example of a second Display ClickThrough rule")
+
+## Order of operations for [!DNL Marketing Channels] rules {#rule-order}
+
+![Ideal order of operations for Adobe Advertising-related rules](/help/integrations/assets/a4adc-mc-rule-order.png "Ideal order of operations for Adobe Advertising-related rules")
+
+* Put [!UICONTROL Paid Search] *before* [!UICONTROL Natural Search]. Otherwise, paid search data may be allocated to natural search.
+
+* Put the **first** [!UICONTROL Display ClickThrough] *before* [!UICONTROL Natural Referring Domains] and [!UICONTROL Natural Social].
+
+* When you use [!UICONTROL CTV view-throughs], put it *before* [!UICONTROL Display ViewThroughs]. Otherwise, CTV view-throughs will be captured as Display ViewThroughs.
+
+* Put [!UICONTROL Display ViewThroughs] *after* other channels but before [!UICONTROL Internal] and [!UICONTROL Direct] because it's possible that a view-through and a non-[!DNL Advertising] click-through can occur in the same landing event. For example, a visitor may sees an Adobe Advertising ad, get an impression, and then go to the site through [!UICONTROL Natural Search].
+
+  The best practice is to prioritize the other channels (except [!UICONTROL Internal] and [!UICONTROL Direct]) over view-throughs.
+
+* Some advertisers may opt to prioritize [!UICONTROL Display ViewThroughs] over [!UICONTROL Natural Referring Domains]. Do this by swapping the processing order of the two rules.
+
+* The **second** [!UICONTROL Display ClickThrough] rule is there to catch the click/cost/impression data that comes in directly from Adobe Advertising to [!DNL Analytics]. Since this data is only attributed to an AMO ID, these hits aren't connected with an AMO EF ID. If you don't set this rule, all click/cost/impression data falls under the [!UICONTROL Direct] channel, which is the default channel for any data that doesn't match a [!DNL Marketing Channel]. This rule must come *after* the view-through rule or it will pick up any view-throughs.
+
+<!-- WORDING!!!!  Check on this, and if it's necessary still with the other info about order:  If you include additional marketing channels, be sure to run your rules in order of specificity. For example, say you create a processing rule for [!DNL YouTube] video ad traffic tracked by Advertising Search, Social, & Commerce. The AMO ID for video traffic starts with with "AL!" and contain "!ytv!". If you run the rule for Paid Search (for which the AMO ID starts with "AL!") and then run the rule for video traffic, the YouTube video ad traffic would all fall under the Paid Search channel. -->
 
 >[!MORELIKETHIS]
 >
 >* [Fundamentals of [!DNL Analytics Marketing Channels]](mc-overview.md)
 >* [Why channel data can vary between Adobe Advertising and [!DNL Marketing Channels]](mc-data-variances.md)
 >* [Using [!DNL Analytics Marketing Channels] with Adobe Advertising data](mc-ac-data.md)
->* [Video: Using [!DNL Marketing Channels] for Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Video: Using [!DNL Marketing Channels] for Adobe Advertising reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 >* [Adobe Advertising IDs used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
