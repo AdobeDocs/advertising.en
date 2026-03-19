@@ -18,9 +18,9 @@ Consider the following example of a cross-visit journey. Each visit to your webs
 
 ![Example cross-visit conversion journey in Marketing Channels](/help/integrations/assets/a4adc-mc-sample-journey.png)
 
-By using [!UICONTROL Marketing Channels] Processing Rules, you can create sets of logic to determine the channels that drive traffic and to track each channel as users comes to your site. For example, the [!UICONTROL Email] channel would be indicated by a unique tracking code generated upon click that, when logged by Adobe Analytics, would categorize the visit as originating from an email marketing campaign.
+By using [!UICONTROL Marketing Channels] processing rules, you can create sets of logic to determine the channels that drive traffic and to track each channel as users comes to your site. For example, the [!UICONTROL Email] channel would be indicated by a unique tracking code generated upon click that, when logged by Adobe Analytics, would categorize the visit as originating from an email marketing campaign.
 
-## Processing rules and how Marketing Channels are set
+## Processing rules and how marketing channels are set
 
 Each time a user comes to a website, they do so through a URL that they either clicked or directly typed into the address bar. When the user enters the website, [!DNL Analytics] tracks information that can be used to determine the channel that drove the visit.
 
@@ -30,12 +30,12 @@ Other channels don't have trackable URL paths and need further logic for identif
 
 Adobe recommends working with your analytics team to build a comprehensive set of [!DNL Marketing Channels] processing rules to track all channels that are pertinent to your business. Doing so allows you to create powerful attribution reporting.
 
-To understand how Adobe Advertising can contribute to the signals necessary to create custom marketing channels, see "[Using Advertising IDs to Create [!DNL Marketing Channels] Rules](mc-ids.md)."
+To understand how Adobe Advertising can contribute to the signals necessary to create custom marketing channels, see "[Using Adobe Advertising IDs to create [!DNL Marketing Channels] processing rules](mc-ids.md)."
 
 >[!MORELIKETHIS]
 >
 >* [Using Adobe Advertising IDs to create [!DNL Marketing Channels] processing rules](mc-ids.md)
 >* [Why channel data can vary between Adobe Advertising and [!DNL Marketing Channels]](mc-data-variances.md)
 >* [Using [!DNL Analytics Marketing Channels] with Adobe Advertising data](mc-ac-data.md)
->* [Video: Using [!DNL Marketing Channels] for Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Video: Using [!DNL Marketing Channels] for Adobe Advertising reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 >* [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
