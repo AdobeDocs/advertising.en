@@ -3,7 +3,7 @@ role: User
 user-guide-title: Adobe Advertising policies and guidelines
 user-guide-description: Learn about the policies and guidelines for Advertising DSP and [!DNL Advertising Search, Social, & Commerce].
 breadcrumb-title: Policies and guidelines
-index: yes
+index: true
 ---
 
 # Adobe Advertising policies and guidelines {#policies}

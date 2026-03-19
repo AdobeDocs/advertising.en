@@ -10,7 +10,8 @@ The following feed fields are available on the Advertising Creative backend. You
 
 The only field that must have an equivalent in your feed file is `PART_NUM`.
 
-<!-- Questions:
+<!--
+ Questions:
 
 What are these?
 Rank

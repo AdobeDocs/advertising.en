@@ -13,7 +13,8 @@ The [!UICONTROL Manage] > [!UICONTROL Campaigns] view lists all campaigns  in th
 
 ## Available actions
 
-<!-- Not available as of 3/4/26:
+<!--
+ Not available as of 3/4/26:
 
 * [View a performance graph across all campaigns in the view](campaign-view-performance-graph.md)
 -->

@@ -10,7 +10,8 @@ To create and update [!DNL Baidu] campaign data in bulk, you can use Search, Soc
 
 {{$include /help/_includes/bulksheet-appendices-intro.md}}
 
-<!-- Hiding because this is probably too long a list to be useful.
+<!--
+ Hiding because this is probably too long a list to be useful.
 
 ## Available header fields
 

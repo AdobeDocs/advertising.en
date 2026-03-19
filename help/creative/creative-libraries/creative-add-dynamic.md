@@ -12,7 +12,8 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 >
 >Before you can add dynamic creatives to a creative library, you must complete other steps &mdash; including creating the ad template, uploading assets, and (dynamic HTML5 ads) creating a feed template and catalog. See "[Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)."
 
-<!-- This does't work for me 9/24 -- I still have to select a catalog:
+<!--
+ This does't work for me 9/24 -- I still have to select a catalog:
 
 ## Add dynamic creatives using a static HTML5 ad template
 

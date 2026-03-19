@@ -8,7 +8,8 @@ exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
 
 Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal to help achieve the overall optimization goal. You can create custom goals as *objectives* in [!DNL Advertising Search, Social, & Commerce]. The name of each objective for DSP must be prefixed with "ADSP_".
 
-<!-- update image or omit it
+<!--
+ update image or omit it
 
 ![custom goals](/help/dsp/assets/objective-goals.png)
  -->
@@ -72,7 +73,8 @@ The following examples show how you might configure goals that target a single c
 
 If your campaign goal is revenue ([!UICONTROL Highest Return on Ad Spend (ROAS)]), and revenue from all device types is equally important to you, then include the "[!UICONTROL Revenue]" metric with a non-mobile weight of one (1); the mobile weight is ignored. Select the metric type *[!UICONTROL Goal]*.
 
-<!-- update image or delete 
+<!--
+ update image or delete 
 
 ![example of a ROAS custom goal with a single conversion metric](/help/dsp/assets/custom-goal-roas.png)
 
@@ -86,7 +88,8 @@ If your campaign goal is revenue ([!UICONTROL Highest Return on Ad Spend (ROAS)]
 
 If your campaign goal is the lowest cost per acquisition (CPA) and it requires only one success event (such as "Application Submit"), then include that one metric and specify the metric type as *[!UICONTROL Goal]*. The best practice is to set the non-mobile weight as one (1); the mobile weight is ignored.
 
-<!-- update image or delete 
+<!--
+ update image or delete 
 
 ![example of a CPA custom goal with a single conversion metric](/help/dsp/assets/custom-goal-roas.png)
 
@@ -102,7 +105,8 @@ There are two scenarios in which you would use multiple metrics in a custom goal
 
 * Your campaign goal has multiple success events. For example, maybe you're advertising for more than one on-site action (PDF Download, Contact Us, and Email Sign up), and all are actions contribute to your CPA goal. If the objective includes the three separate metrics, each with non-mobile weights of one (1), then the [!DNL Adobe AI]-powered algorithm treats each of the metrics and user device types with equal importance. If the different metrics have varying costs or importance, then you adjust their relative weights accordingly.
 
-<!-- update image or delete it and adjust the wording above
+<!--
+ update image or delete it and adjust the wording above
 
    ![example of a custom goal with multiple metrics](/help/dsp/assets/custom-goal-multiple-properties.png)
 
@@ -114,7 +118,8 @@ There are two scenarios in which you would use multiple metrics in a custom goal
 
    The following example objective includes three metrics, each with a different non-mobile weight: Application Submit = 1, Application Start = 0.1, and Advertiser Landing Page = 0.01. This means that each Application Submit conversion has the same value to your business as an average of 10 Application Start conversions and 100 Advertiser Landing Page conversions.
 
-<!-- update image or delete it and adjust the wording above
+<!--
+ update image or delete it and adjust the wording above
 
    ![example of a custom goal with multiple metrics](/help/dsp/assets/custom-goal-multiple-properties2.png)
 

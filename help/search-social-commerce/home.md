@@ -3,7 +3,7 @@ title: What's new
 description: Learn about the latest updates and new features in Advertising Search, Social, & Commerce.
 cloud: Experience Cloud
 product: advertising cloud
-index: yes
+index: true
 exl-id: 8f17f930-cfad-465f-992f-8b966d27ff36
 ---
 # What's new

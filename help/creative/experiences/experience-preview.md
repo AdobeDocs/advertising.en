@@ -46,7 +46,8 @@ You can preview the creatives with a specific ad size that target viewers will s
      
      1. Select the ad size.
   
-     <!-- I don't see this as of 2/3:
+     <!--
+      I don't see this as of 2/3:
      1. Select whether to group the creatives by Rotation Type or Ad Size.
      -->
 
@@ -54,7 +55,8 @@ You can preview the creatives with a specific ad size that target viewers will s
 
    * To preview all creatives in the experience, click **[!UICONTROL Entire Tree]**.
 
-     <!-- I don't see this as of 2/3:
+     <!--
+      I don't see this as of 2/3:
      1. Click **[!UICONTROL Entire Tree]**.
      1. Select the ad size.
      1. Select whether to group the creatives by Rotation Type or Ad Size.

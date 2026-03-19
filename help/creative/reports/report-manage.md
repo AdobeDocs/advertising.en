@@ -223,7 +223,8 @@ To apply one or more filters, do the following:
       The new destination is now available from the list of existing destinations, and you can optionally add it to the report.
 
 
-<!-- This needs a lot of updating for new report:
+<!--
+ This needs a lot of updating for new report:
 
 ## Available report columns {#report-custom-creative-columns}
 

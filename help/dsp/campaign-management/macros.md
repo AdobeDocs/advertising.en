@@ -42,7 +42,8 @@ Use general tracking macros across all ad and tag types to pass back specific da
 
 {style="table-layout:auto"}
 
-<!-- Removed because not found in code base:
+<!--
+ Removed because not found in code base:
 |` ${TM_MACRO_PROMOTED_AD_KEY}` | The promoted ad key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads. | string |
  -->
 

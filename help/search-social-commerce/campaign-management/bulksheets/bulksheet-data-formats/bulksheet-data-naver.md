@@ -10,7 +10,8 @@ Populate your [!DNL Naver] accounts in Search, Social, & Commerce by generating 
 
 {{$include /help/_includes/bulksheet-appendices-intro.md}}
 
-<!-- Hiding because this is probably too long a list to be useful.
+<!--
+ Hiding because this is probably too long a list to be useful.
 
 ## Available header fields
 

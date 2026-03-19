@@ -1,7 +1,7 @@
 ---
 title: Adobe Advertising policies and guidelines
 description: Learn about policies and guidelines for Advertising DSP and Advertising Search.
-index: yes
+index: true
 cloud: Experience Cloud
 product: advertising cloud
 exl-id: b7321fb8-49b9-4232-a70f-4646014fff61

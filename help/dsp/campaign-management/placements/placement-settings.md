@@ -406,7 +406,8 @@ The ID must begin with "51" and consist of eight digits. By default, if a segmen
 
 **[!UICONTROL Contextual filtering]:** (Applicable for desktop and mobile web display, native, and video ads) Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] contextual filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
 
-<!-- Looks like we didn't rename this:
+<!--
+ Looks like we didn't rename this:
 **[!UICONTROL Brand Safety categories]:** Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] brand safety category filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
 -->
 

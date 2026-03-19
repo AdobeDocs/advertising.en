@@ -60,7 +60,8 @@ To change the account name, change the account status, or change the [!DNL Analy
 
 1. Click **[!UICONTROL Save]**.
 
-<!-- What does this do?
+<!--
+ What does this do?
 
 ## Enable or disable ad network accounts {#enable-disable-account}
 

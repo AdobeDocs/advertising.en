@@ -3,7 +3,7 @@ title: What's new in Advertising DSP
 description: Learn about the latest updates and new features in Adobe Advertising DSP.
 cloud: Experience Cloud
 product: advertising cloud
-index: yes
+index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
 ---
 # What's new

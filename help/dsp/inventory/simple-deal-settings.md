@@ -52,7 +52,8 @@ Changes aren't applied retroactively.
 
 <!-- completely different settings layout, so need a separate section for them -->
 
-<!-- From Abhinav: Editable fields are Name, Start & End date, Impressions & CPM. Changes are not applied retroactively.
+<!--
+ From Abhinav: Editable fields are Name, Start & End date, Impressions & CPM. Changes are not applied retroactively.
 
 But I see:
 
@@ -79,6 +80,7 @@ But I see:
 >* [Edit [!UICONTROL Simple Ad Serving] deal settings](simple-deal-edit.md)
 >* [View a detailed report for a deal](/help/dsp/inventory/deal-view-report.md)
 
-<!-- add back when reimplemented:
+<!--
+ add back when reimplemented:
 >* [View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal](simple-deal-show-pixels.md)
 -->

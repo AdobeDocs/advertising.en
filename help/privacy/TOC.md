@@ -3,7 +3,7 @@ role: User, Admin
 user-guide-title: Adobe Advertising support for consumer privacy
 user-guide-description: Learn about the security and privacy controls that Adobe Advertising provides to help advertiser customers comply with consumer privacy laws.
 breadcrumb-title: Support for consumer privacy
-index: yes
+index: true
 ---
 
 # Adobe Advertising support for consumer privacy {#privacy}

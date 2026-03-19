@@ -55,7 +55,8 @@ For more information about the integration with [!DNL Analytics], see "[Overview
 * Segments that are created in Adobe Experience Platform and sent to Adobe Advertising via Audience Manager
 
 The initial sync takes about 24 hours. After that, data is synced in real time, with a one- to two- second delay.
-<!-- I don't think this is true anymore:
+<!--
+ I don't think this is true anymore:
 Segment membership data is sent to Adobe Advertising only after one of the following:
 
 * The segment is targeted in an Adobe Advertising placement or audience library

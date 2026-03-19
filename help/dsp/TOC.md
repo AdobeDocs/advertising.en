@@ -3,7 +3,7 @@ role: User
 user-guide-title: Advertising DSP Guide
 user-guide-description: Learn about the major features, tasks, settings, and other resources required to manage, optimize, and report on your display ad strategies using Advertising DSP.
 breadcrumb-title: DSP Guide
-index: yes
+index: true
 ---
 
 # Advertising DSP Guide {#dsp}
@@ -232,10 +232,12 @@ index: yes
 + [Adobe Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
 
 
-<!-- add back to about below "Edit the advertisers with access to a deal ID" when reintroduced:
+<!--
+ add back to about below "Edit the advertisers with access to a deal ID" when reintroduced:
       + [Edit the attribute tags for a deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
 -->
 
-<!-- add back to Inventory > SAS section when reimplemented:
+<!--
+ add back to Inventory > SAS section when reimplemented:
       +  [View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal](/help/dsp/inventory/simple-deal-show-pixels.md)
 -->

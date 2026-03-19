@@ -16,7 +16,8 @@ You can also delete a source.
 
 ## Create an audience source
 
-<!-- Not sure about this
+<!--
+ Not sure about this
 
 You can create one source for each combination of universal ID partner and data visibility level.
 
@@ -52,7 +53,8 @@ You can create one source for each combination of universal ID partner and data 
 
 ## Change the ID types for an audience source
 
-<!-- Clarify this:
+<!--
+ Clarify this:
 All changes to universal IDs translated from the source are applied after you save the the source record. For example, if a new ID is added, any hashed email addresses shared before making the changes aren't converted. Similarly, if an ID is removed, we don't delete any historical data from the segments shared through the source.
 
 OR 
@@ -117,7 +119,8 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 
 * *[!DNL Unified ID2.0] (Beta):* To convert PII to a [Unified ID 2.0](https://unifiedid.com) ID for retargeting logging-in users.
 
-<!-- Later
+<!--
+ Later
 * *[!DNL ID5] (Beta):* To convert PII to an [!DNL ID5] ID. You can use [!DNL ID5] IDs for retargeting logging-in users and for [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) measurement.
 
 -->

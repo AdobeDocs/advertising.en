@@ -90,7 +90,8 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
 See "[Best practices for creating an audience brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
 
-<!-- I think these are happening later:
+<!--
+ I think these are happening later:
 
 DSP uses "smart" defaults based on the user's previous audiences (all user-created audiences or only ones created via AI prompting?)
 
@@ -141,7 +142,8 @@ An audience brief is a strategic writeup that defines the target audience for a 
 
 Include as many audience attribute types as possible from the following list in your brief. Be specific about attributes you want to exclude.
 
-<!-- What about these:
+<!--
+ What about these:
 
 * Device specifications
 * Presence in audiences from specific third-party data providers

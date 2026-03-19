@@ -8,7 +8,8 @@ feature: Search Bulksheets
 
 You can download data for [!DNL Yahoo! Japan] accounts in bulk but can't upload or post bulksheets to the ad network.
 
-<!-- Hiding because this is probably too long a list to be useful.
+<!--
+ Hiding because this is probably too long a list to be useful.
 
 ## Available header fields
 

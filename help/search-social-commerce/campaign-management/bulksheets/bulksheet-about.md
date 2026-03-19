@@ -32,7 +32,8 @@ All bulksheets, landing page validation error files, and other error files are a
 
 The standard steps in using bulksheets for synchronized accounts are as follows:
 
-<!-- insert image
+<!--
+ insert image
   [EDIT/RECREATE FILE to replace "search engine"]
 -->
 

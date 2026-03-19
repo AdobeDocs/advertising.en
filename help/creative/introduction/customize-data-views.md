@@ -26,7 +26,8 @@ When you switch between card view and table view, your filters and selections ar
 
 ![Example of a table view](/help/creative/assets/table-view-example.png "Example of a table view")
 
-<!-- not implemented as of 11-26:
+<!--
+ not implemented as of 11-26:
 In card view, you can increase or decrease the size of the cards.
 
 In either view, you can:
@@ -48,7 +49,8 @@ Refresh the pane to see any changes that other users have made.
 
 * **[!UICONTROL Experiences]:** Specific statuses (*Live*, *Draft*, *Processing*) and associated labels
 
-<!-- Only available to non-admin users in Phase 1
+<!--
+ Only available to non-admin users in Phase 1
 
 * **[!UICONTROL Feeds] > [!UICONTROL Catalog]:** Specific library [??? different than the statuses for the Template tab, which I'd expect to show something different anyway] statuses (*Active*, *Inactive*, *Deleted*)
 

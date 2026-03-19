@@ -6,7 +6,9 @@ exl-id: 333ab2ea-293a-44e2-89e7-06782578318f
 ---
 # Edit standard creatives in a creative library
 
-You can edit some settings for each type of standard creative. You can edit multiple creatives<!-- or creative variations --> of the same creative type (simple HTML5 with only one landing page, static HTML5 with multiple landing pages, flexible HTML5, image, or third-party<!-- , or dynamic -->) only. 
+You can edit some settings for each type of standard creative. You can edit multiple creatives<!-- or creative variations --> of the same creative type (simple HTML5 with only one landing page, static HTML5 with multiple landing pages, flexible HTML5, image, or third-party) only. 
+
+<!-- , or dynamic -->
 
 For flexible HTML5 and static HTML5 creatives, you can upload a new template file with a different layout but the same set of attribute names. For simple HTML5 creatives, you can edit any attributes or add images by uploading a new template with the new attributes or images. In all cases, the template must be a local file in ZIP format with a maximum of 2 MB.
 
@@ -48,7 +50,8 @@ When you edit a creative<!-- or creative variation --> that's included in a bund
 
 1. Click **Save**.
 
-<!-- Not there as of 1/16/25. If we do add it, add back in:
+<!--
+ Not there as of 1/16/25. If we do add it, add back in:
 1. (Flexible HTML5 or third-party creatives; optional) Regenerate the thumbnail within the table view or cards view if the change isn't visible immediately.
 -->
 

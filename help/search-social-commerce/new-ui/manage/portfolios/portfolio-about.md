@@ -58,7 +58,8 @@ Above the data table, you can open a performance graph with up to three metrics 
 
 <!-- Update with any new options -->
 
-<!-- within row:
+<!--
+ within row:
 * [Rename a portfolio](portfolio-rename.md)
 
 * [View the constraints for a portfolio](portfolio-view-constraint.md)

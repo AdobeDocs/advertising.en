@@ -12,7 +12,8 @@ You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!
 
 The segment mapping and uploading for each import job may take up to seven days. 
 
-<!--Is this first step relevant for this process?
+<!--
+Is this first step relevant for this process?
 
 1. For measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md):
 

@@ -3,7 +3,7 @@ title: What's new
 description: Learn about updates to integrations between Adobe Advertising and other products and services in Adobe Experience Cloud.
 cloud: Experience Cloud
 product: advertising cloud
-index: yes
+index: true
 exl-id: e5874077-d2a8-43bb-ad4e-55547442c8a4
 ---
 # What's new
@@ -29,7 +29,8 @@ The following features are new or recently changed.
 
 {style="table-layout:auto"}
 
-<!-- At some point, just make this an overview page instead?
+<!--
+ At some point, just make this an overview page instead?
 
 Adobe Advertising is integrated with the following Adobe Experience Cloud products:
 

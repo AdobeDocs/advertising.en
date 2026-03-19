@@ -166,7 +166,8 @@ While you should expect a high match rate between the AMO ID and the EF ID, don'
 
 For more information about the AMO ID and EF ID, see [Adobe Advertising IDs used by Analytics](ids.md).
 
-<!--  Need to create a new report to show tracking instances to clicks, instead of clicks to instances as shown, and replace this screenshot.
+<!--
+  Need to create a new report to show tracking instances to clicks, instead of clicks to instances as shown, and replace this screenshot.
 
 The following is an example of a workspace to track clicks to instances.
 

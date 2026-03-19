@@ -14,7 +14,8 @@ Segment details include the size of each universal ID type as well as the size f
 
 ## Universal ID types {#universal-id-types}
 
-<!--  Replace below with this once ID5 sources are possible 
+<!--
+  Replace below with this once ID5 sources are possible 
 
 Using your first-party data, you can create segments with IDs from the following universal ID partners.
 
@@ -42,7 +43,8 @@ You can translate your first-party segments to segments with authenticated (dete
     
     Fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered.
 
-<!-- Not yet
+<!--
+ Not yet
 
 * Probabilistic (unauthenticated) IDs using hashed email addresses:
 
@@ -50,7 +52,8 @@ You can translate your first-party segments to segments with authenticated (dete
 
     ID5 creates an ID by stitching together user signals (hashed email address) with various browser signals (such as IP address and timestamp).
 
-    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). You also must sign an agreement with [!DNL ID5] and set a parameter within your existing JavaScript tracking tags. <!-- Contact your Adobe Account Team for instructions. -->
+    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). You also must sign an agreement with [!DNL ID5] and set a parameter within your existing JavaScript tracking tags. 
+-->
 
 <!--
     >[!NOTE]

@@ -128,7 +128,8 @@ When you enable an ad network account, Search, Social, & Commerce synchronizes c
 
 The account settings vary by ad network. You may not see all settings below.
 
-<!-- When you're creating new accounts only; not sure that you'll have anything to do here once you've authenticated
+<!--
+ When you're creating new accounts only; not sure that you'll have anything to do here once you've authenticated
 
 ### Authenticate tab
 

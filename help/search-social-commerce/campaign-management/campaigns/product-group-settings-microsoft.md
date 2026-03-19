@@ -32,7 +32,8 @@ For a list of available product dimensions, see "[Shopping campaign product filt
 
 <!-- **[!UICONTROL Tracking Template]:** -->
 
-<!-- ExL can't handle the same include twice in the same file, so using a snippet for the second occurrence.
+<!--
+ ExL can't handle the same include twice in the same file, so using a snippet for the second occurrence.
 
 {{$include /help/_includes/tracking-template-microsoft.md}}
 -->

@@ -82,7 +82,8 @@ Create a separate ad template for each combination of ad type (static HTML5 or d
 
 **[!UICONTROL Description]**: (Optional) Information that's helpful to anyone using the ad template.
 
-<!-- I don't see this on 9/24:
+<!--
+ I don't see this on 9/24:
 
 ### (Static HTML5 ad templates) Click Tags
 

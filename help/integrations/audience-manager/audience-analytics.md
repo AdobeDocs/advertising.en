@@ -16,7 +16,7 @@ Adobe Advertising customers can benefit by using [!DNL Audience Analytics]. The 
 
 * Layer the integration with [!DNL Analytics for Advertising] to incorporate third-party demographic segments from [Audience Manager [!DNL Audience Marketplace]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html) with [!DNL Analytics for Advertising] data for more insights about user profiles. 
 
-  [!DNL Audience Marketplace] provides access to third-party data feeds with “Activation” subscription models, which allow buyers to send data to a destination. If the data is used within an [!DNL Analytics] destination, then activation fees aren't applied.
+  [!DNL Audience Marketplace] provides access to third-party data feeds with "Activation" subscription models, which allow buyers to send data to a destination. If the data is used within an [!DNL Analytics] destination, then activation fees aren't applied.
 
 * (Advertisers with Advertising DSP) Add additional exposure segments for holistic journey management insights.
 
@@ -38,7 +38,9 @@ Main benefits:
 
 * Determine the impact of upper funnel activity on downstream site activity.
 
-* Connect [!DNL Analytics for Advertising]<!-- which doesn't include the last exposure event --> and [!DNL Audience Analytics] data <!-- (which includes the user's last exposure event) --> to determine a holistic journey to the site.
+* Connect [!DNL Analytics for Advertising]<!-- which doesn't include the last exposure event --> and [!DNL Audience Analytics] data to determine a holistic journey to the site.
+
+<!-- (which includes the user's last exposure event) -->
 
 The following are examples of reports that you can create in [!DNL Analysis Workspace].
 

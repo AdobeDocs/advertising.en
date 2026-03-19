@@ -3,7 +3,7 @@ role: User
 user-guide-title: Advertising Search, Social, & Commerce Guide
 user-guide-description: This guide explains the major features, tasks, settings, and other resources required to manage, track, and report on your search, social, and commerce ad campaigns.
 breadcrumb-title: Advertising Search, Social, & Commerce Guide
-index: yes
+index: true
 ---
 # Advertising Search, Social, & Commerce Guide {#search-social-commerce}
 

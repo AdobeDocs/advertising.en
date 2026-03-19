@@ -26,7 +26,8 @@ When you edit multiple creatives at the same time:
 
 **[!UICONTROL Click Tags]:** The variables that allow click-tracking redirects from the included banner ads. The variable names and corresponding landing page URLs are populated from the uploaded creative unit, but you can change the default URLs. For multiple creatives, you can edit the individual click tags.
 
-<!-- I don't see this as of 1/30. I do see the option to create one custom LP per creative (for any creative type), not one per click tag for flexible HTML5 creatives.
+<!--
+ I don't see this as of 1/30. I do see the option to create one custom LP per creative (for any creative type), not one per click tag for flexible HTML5 creatives.
 >[!NOTE]
 >
 >When you include the creative in an experience, you can replace the default value for any of the click tags with a custom landing page URL to generate a derivation of the base creative.

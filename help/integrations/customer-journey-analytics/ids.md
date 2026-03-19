@@ -14,7 +14,8 @@ exl-id: af60dcb4-4d1a-4097-ac30-688bd8b9f644
 
 Adobe Advertising uses two IDs for on-site performance tracking:  the *EF ID* and the *AMO ID*.
 
-<!-- Rewrite for CJA:
+<!--
+ Rewrite for CJA:
 
 When an ad impression occurs, Adobe Advertising creates the AMO ID and EF ID values and stores them. For click-through traffic, these IDs are included in the landing page URL using the `ef_id` and `s_kwcid` (for the AMO ID) query string parameters.
 
@@ -50,7 +51,8 @@ Adobe Advertising distinguishes between a click-through or view-through entry to
 
 {{$include /help/_includes/amo-id.md}}
 
-<!-- rewrite for CJA:
+<!--
+ rewrite for CJA:
 
 ### AMO ID Dimension in [!DNL Customer Journey Analytics]
 
