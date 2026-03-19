@@ -68,7 +68,7 @@ If the data doesn't include a unique ID per transaction, then Adobe Advertising 
 
 See "[FAQs about Adobe Advertising conversion and page view tracking tags](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)." for more information about the differences.
 
-## Implement conversion-tracking tags using Adobe Experience Platform tags
+## Implement conversion-tracking tags using Adobe Experience Platform tags and the Adobe Advertising extension
 
 You can set up conversion tracking for Search, Social, & Commerce using tags in Adobe Experience Platform. Tags are available to Adobe Experience Cloud customers as an included, value-add feature.
 
