@@ -1,10 +1,10 @@
 ---
-title: Account Funding
+title: Account funding
 description: Learn about account funding for DSP.
 feature: DSP Introduction
 exl-id: 95e1fd75-ed38-41e3-a464-afe5e23c1c22
 ---
-# Advertising DSP Account Funding
+# Advertising DSP account funding
 
 DSP funds client accounts for the purchase of media and services in one of two ways:
 
@@ -23,4 +23,4 @@ Adobe reserves the right to block your account from spending on DSP for reasons 
 
 >[!MORELIKETHIS]
 >
->* [Currencies Supported](/help/dsp/currency.md)
+>* [Currencies supported](/help/dsp/currency.md)

@@ -12,7 +12,8 @@ You can include any of the following macros in your third-party creatives, in th
 
 Some of the available macros, or their equivalents, are automatically included in experience tags.
 
-<!-- Later: 
+<!--
+ Later: 
 
 | Macro | Description | Automatically in experience tags for Advertising DSP? | Automatically in experience tags for [!DNL Google Campaign Manager 360]? |
 | --- | --- | --- | --- |

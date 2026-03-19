@@ -1,10 +1,10 @@
 ---
-title: Adobe Advertising Metrics in Analysis Workspace
-description: Adobe Advertising Metrics in Analysis Workspace
+title: Adobe Advertising metrics in Analysis Workspace
+description: Adobe Advertising metrics in Analysis Workspace
 feature: Integration with Adobe Analytics
 exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
 ---
-# Adobe Advertising Metrics in Analysis Workspace
+# Adobe Advertising metrics in Analysis Workspace
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
@@ -14,7 +14,7 @@ exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
 >* [!DNL Analytics] captures Adobe Advertising click-throughs and view-throughs in real time.
 >* For [!DNL Search, Social, & Commerce], this feature is supported for most ad networks and campaign types. See "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)" in the [!DNL Search, Social, & Commerce] Guide for more information.
 
-## Traffic Metrics from Adobe Advertising
+## Traffic metrics from Adobe Advertising
 
 Adobe Advertising traffic metrics in [!DNL Analytics] usually start with "Adobe Advertising," except for "[!UICONTROL AMO ID Instances]." However, for long-term customers who used a custom event (rather than a reserved event) to originally create metrics for clicks, cost, and impressions, those metrics still begin with "AMO."
 
@@ -34,7 +34,7 @@ Adobe Advertising traffic metrics in [!DNL Analytics] usually start with "Adobe 
 | [!UICONTROL Adobe Advertising Views 100% Complete] | The number of views for which 100% of an Adobe Advertising video was watched. |
 | [!UICONTROL AMO ID Instances] | The number of times the [!UICONTROL AMO ID] is set. |
 
-## Adobe Advertising Dimensions
+## Adobe Advertising dimensions
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ Adobe Advertising traffic metrics in [!DNL Analytics] usually start with "Adobe 
 | [!UICONTROL Landing Type (AMO ID)] | [!DNL DSP] and [!DNL Search, Social, & Commerce] data | Whether the landing page entry was a view-through or a click-through. |
 | [!UICONTROL Product Target (AMO ID)] | [!DNL Search, Social, & Commerce] data | The product target for a product listing ad. |
 
-## Useful Custom Calculated Metrics for Adobe Advertising
+## Useful custom calculated metrics for Adobe Advertising
 
 Consider creating the following metrics for your Adobe Advertising data.
 

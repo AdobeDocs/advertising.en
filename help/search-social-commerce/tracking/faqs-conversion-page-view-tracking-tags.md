@@ -34,6 +34,7 @@ The following apply to Adobe Advertising conversion tracking tags and page view 
 >* [Format of JavaScript conversion tracking tags version 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
 >* [Format of image conversion tracking tags](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
 
-<!-- add if I keep the file:  
+<!--
+ add if I keep the file:  
 >* The Adobe Advertising JavaScript conversion mapping tag
 -->

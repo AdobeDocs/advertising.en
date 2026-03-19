@@ -16,6 +16,40 @@ Label values are inherited by child entities, so don't enter values for child en
 >
 >Your keywords and ad copy for some ad networks and campaign types are [non-mutable](/help/search-social-commerce/campaign-management/faqs-campaigns.md), which means that editing them deletes the existing entity and creates a new one. When an existing entity is deleted in this way, the label classification isn't assigned to the new entity.
 
+## (New UI) Assign classification values to account components
+
+You can assign classification values to any applicable account components that are available in the new UI.
+
+1. Open the entity view from the **[!UICONTROL Manage]** or **[!UICONTROL Target]** menu.
+
+1. Select the check box next to each relevant row.
+
+   For tips on selecting multiple rows, see "[Select multiple rows](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md)."
+
+1. In the bulk actions toolbar, click **+ [!UICONTROL Assign]** > **[!UICONTROL Label Classification]**.
+
+1. For each applicable classification value, do the following:
+
+   1. In the **[!UICONTROL Classifications]** column, specify the classification:
+     
+      * To use an existing classification, click the classification name to expand it.
+     
+      * To create a classification, click [!UICONTROL +] in the column heading. In the input field, enter the classification name, and then click ![Save](/help/search-social-commerce/assets/save-checkmark.png "Save") to immediately save the classification. To use the new classification, click the classification name to expand it.
+        
+        The name must consist of [ASCII characters 32-126](https://www.asciitable.com/), and the maximum length is 27 single-byte characters.
+   
+   1. In the **[!UICONTROL Value Name]** column, specify the value for the selected classification:
+   
+      * To use an existing value, select the value.
+      
+      * To create a value, click [!UICONTROL +] in the column heading. In the input field, enter the value, and then click ![Save](/help/search-social-commerce/assets/save-checkmark.png "Save") to immediately save the value and select it by default.
+
+        The maximum length is 100 characters, and it can include ASCII and non-ASCII characters.
+
+1. Click **+ [!UICONTROL Assign Now]**.
+
+## (Legacy UI) Assign classification values to account components
+
 1. Click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**, and then select the account component view.
 
 1. Do either of the following:

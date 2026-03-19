@@ -68,7 +68,7 @@ Accounts that use Adobe Advertising conversion tracking must include the ad netw
 
     `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
-    If the account has a server-side AMO ID implementation and the account or campaign setting "[!UICONTROL Auto Upload]" is enabled, then the parameter is added automatically. Otherwise, you need to manually add it. See "[Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id-implement)."
+    If the account has a server-side AMO ID implementation and the account or campaign setting "[!UICONTROL Auto Upload]" is enabled, then the parameter is added automatically. Otherwise, you need to manually add it. See "[Adobe Advertising IDs used by [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id-implement)."
 
   * All other [!DNL Google Ads] accounts:
 

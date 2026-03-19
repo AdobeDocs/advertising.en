@@ -1,16 +1,16 @@
 ---
-title: Adobe Advertising Integrations with Adobe Analytics
+title: Adobe Advertising integrations with Adobe Analytics
 description: Learn about how Adobe Advertising can exchange data with Adobe Analytics and how you can use the data within Search, Social, & Commerce.
 feature: Integration with Adobe Analytics
 exl-id: 5b0ecb82-fb5c-48c5-a599-15b548f59461
 ---
-# Adobe Advertising Integrations with Adobe Analytics
+# Adobe Advertising integrations with Adobe Analytics
 
 You can integrate Adobe Advertising with Analytics in the following ways.
 
-## Exchange Data Between [!DNL Analytics] and Adobe Advertising
+## Exchange data between [!DNL Analytics] and Adobe Advertising
 
-### Pull [!DNL Analytics] Data into Adobe Advertising
+### Pull [!DNL Analytics] data into Adobe Advertising
 
 With [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md),[!DNL Search, Social, & Commerce] and DSP pull in:
 
@@ -20,7 +20,7 @@ With [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytic
 
 * **[!DNL Analytics] standard, custom, and reserved metrics**
 
-### Send Adobe Advertising Data to [!DNL Analytics]
+### Send Adobe Advertising data to [!DNL Analytics]
 
 * **Traffic metrics from Adobe Advertising**
 
@@ -30,7 +30,7 @@ With [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytic
 >
 >For [!DNL Search, Social, & Commerce], this feature is supported for most ad networks and campaign types. See "Supported Inventory" in the [!DNL Search, Social, & Commerce] Guide for more information.<!-- add link when that's published in ExL -->
 
-### Use [!DNL Analytics] Segments to Create [!DNL Google Ads Audiences] {#audience-manager-google-audiences}
+### Use [!DNL Analytics] segments to create [!DNL Google Ads] audiences {#audience-manager-google-audiences}
 
 *Opted-in advertisers with [!DNL Advertising Search, Social, & Commerce] only*
 
@@ -46,7 +46,7 @@ To create the necessary user IDs, you must use an Adobe Advertising JavaScript t
 
 Once you create the audiences, you can use them in [!DNL Google Ads] campaigns as [campaign-level or ad group-level targets or exclusions](#audience-manager-targets).
 
-### Use [!DNL Analytics] Segments to Target or Exclude Ads {#analytics-targets}
+### Use [!DNL Analytics] segments to target or exclude ads {#analytics-targets}
 
 * (Opted-in advertisers with [!DNL Search, Social, & Commerce]) You can use any [!DNL Google Ads] audiences that were [created using [!DNL Analytics] segments](#audience-manager-google-audiences) as campaign-level or ad group-level targets or exclusions in your [!DNL Google Ads] campaigns.
 

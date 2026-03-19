@@ -83,7 +83,8 @@ Advertisers with Advertising DSP can optionally upload tags directly to an Adver
       
 <!-- no way to get back to the Creative Tag Manager -- you have to click back through the main menu -->
 
-<!-- Add this info, with descriptions:
+<!--
+ Add this info, with descriptions:
 
 ## Ad tag formats
 

@@ -1,10 +1,10 @@
 ---
-title: Convert User IDs from [!DNL Tealium] to Universal IDs
+title: Convert user IDs from [!DNL Tealium] to universal IDs
 description: Learn how to enable DSP to ingest your [!DNL Tealium] first-party segments.
 feature: DSP Audiences
 exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
 ---
-# Convert User IDs from [!DNL Tealium] to Universal IDs
+# Convert user IDs from [!DNL Tealium] to universal IDs
 
 *Beta feature*
 
@@ -136,19 +136,19 @@ You can have only one connector per segment and one segment per connector.
 
 The segments should be available in DSP within 24 hours. After DSP receives the segment data, the audience count should be visible within nine (9) hours.
 
-Verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating, and compare the number of universal IDs with the number of original hashed email addresses. For information about acceptable ID translation rates and why the segment counts can vary, see "[Data Variances Between Email IDs and Universal IDs](#universal-ids-data-variances)."
+Verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating, and compare the number of universal IDs with the number of original hashed email addresses. For information about acceptable ID translation rates and why the segment counts can vary, see "[Data variances between email IDs and universal IDs](#universal-ids-data-variances)."
 
 Segments are refreshed every 24 hours. However, inclusion in a segment expires after 30 days by default or after a customer-specified expiration period. Refresh your segments by re-pushing them from [!DNL Tealium] prior to the expiration. To request a custom segment expiration, contact your Adobe Account Team.
 
 ## Troubleshooting
 
-To troubleshoot translation rate and user count issues, see "[Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)."
+To troubleshoot translation rate and user count issues, see "[Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)."
 
 To troubleshooting issues with the conversion procedure, contact your Adobe Account Team or `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]
 >
->* [About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)
->* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
->* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
->* [About Audience Management](/help/dsp/audiences/audience-about.md)
+>* [About first-party audience sources](/help/dsp/audiences/sources/source-about.md)
+>* [Manage audience sources to activate universal ID audiences](source-manage.md)
+>* [Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)
+>* [About audience management](/help/dsp/audiences/audience-about.md)

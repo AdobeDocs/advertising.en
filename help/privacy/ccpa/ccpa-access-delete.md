@@ -1,11 +1,11 @@
 ---
-title: Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer Data Access and Delete Support
+title: Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer data access and delete support
 description: Learn about the supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields.
 feature: CCPA
 role: User, Developer
 exl-id: e7808411-7dc3-499c-bda1-1f5882f651b2
 ---
-# Adobe Advertising Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support
+# Adobe Advertising support for the California Consumer Privacy Act: Consumer data access and delete support
 
 *For [!DNL Adobe Advertising Search, Social, & Commerce]; Adobe Advertising DSP; Adobe Advertising Creative; and Adobe Advertising DCO*
 
@@ -21,11 +21,11 @@ As your service provider, Adobe Advertising provides support for your business t
 
 This document describes how [!DNL Advertising Search, Social, & Commerce]; Advertising Creative; Advertising DSP (Demand Side Platform); and [!DNL Advertising DCO] &mdash; as service providers &mdash; support consumers' rights to access and delete personal information using the Adobe [!DNL Experience Platform Privacy Service API] and [!DNL Privacy Service UI].
 
-For information about how Advertising DSP supports the consumer right to opt-out of the sale of personal information, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
+For information about how Advertising DSP supports the consumer right to opt-out of the sale of personal information, see [Adobe Advertising support for the California Consumer Privacy Act: Consumer opt-out of sale support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
-## Supported Data Request Types for Adobe Advertising
+## Supported data request types for Adobe Advertising
 
 Adobe Experience Platform provides the ability for businesses to complete the following tasks:
 
@@ -33,7 +33,7 @@ Adobe Experience Platform provides the ability for businesses to complete the fo
 * Delete cookie-level data stored within [!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], or [!DNL DCO] for consumers using a browser; or delete ID-level data stored within [!DNL DSP] for consumers using apps on mobile devices.
 * Check the status of one or all existing requests.
 
-## Required Setup to Send Requests for Adobe Advertising
+## Required setup to send requests for Adobe Advertising
 
 To make requests to access and delete consumer personal information from Adobe Advertising, you must:
 
@@ -73,7 +73,7 @@ To make requests to access and delete consumer personal information from Adobe A
 
 All steps are necessary to receive support from Adobe Advertising. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the necessary items, see [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
-## Required Field Values in Adobe Advertising JSON Requests
+## Required field values in Adobe Advertising JSON requests
 
 `"company context":`
 
@@ -96,7 +96,7 @@ All steps are necessary to receive support from Adobe Advertising. For more info
 
 * `"regulation": **ccpa**` (which is the privacy regulation that applies to the request)
 
-## Example of Request Submitted by a Consumer Using an Adobe Advertising User ID Retrieved from AdobePrivacy.js
+## Example of request submitted by a consumer using an Adobe Advertising user ID retrieved from AdobePrivacy.js
 
 ```
 {
@@ -127,7 +127,7 @@ All steps are necessary to receive support from Adobe Advertising. For more info
 }
 ```
 
-## Data Fields That Are Returned for Access Requests
+## Data fields that are returned for access requests
 
 The following is an example of a personal information access response for Adobe Advertising.
 

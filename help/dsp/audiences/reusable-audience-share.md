@@ -1,10 +1,10 @@
 ---
-title: Share a Reusable Audience
+title: Share a reusable audience
 description: Learn how to share a reusable audience with other advertisers available to your account.
 feature: DSP Audiences
 exl-id: c0369efe-464d-43d1-9b21-1113a38fc9bb
 ---
-# Share a Reusable Audience
+# Share a reusable audience
 
 If you're not already sharing an audience with the advertisers available to your account, you can begin sharing anytime.
 
@@ -20,14 +20,14 @@ Once you share an audience, you can't stop sharing it.
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
->* [Create a Reusable Audience](reusable-audience-create.md)
->* [Duplicate a Reusable Audience](reusable-audience-duplicate.md)
->* [Edit a Reusable Audience](reusable-audience-edit.md)
->* [View Details About a Reusable Audience](reusable-audience-view-details.md)
->* [Export a Reusable Audience](reusable-audience-export.md)
->* [Copy the Segment Key for a Reusable Audience to the Clipboard](reusable-audience-clipboard.md)
->* [Delete a Reusable Audience](reusable-audience-delete.md)
->* [Audience Settings](audience-settings.md)
->* [Syntax for Audience Segment Logic](audience-segment-logic-syntax.md)
->* [Available Third-party Data Providers](third-party-data-providers.md)
+>* [About audience management](audience-about.md)
+>* [Create a reusable audience](reusable-audience-create.md)
+>* [Duplicate a reusable audience](reusable-audience-duplicate.md)
+>* [Edit a reusable audience](reusable-audience-edit.md)
+>* [View details about a reusable audience](reusable-audience-view-details.md)
+>* [Export a reusable audience](reusable-audience-export.md)
+>* [Copy the segment key for a reusable audience to the clipboard](reusable-audience-clipboard.md)
+>* [Delete a reusable audience](reusable-audience-delete.md)
+>* [Audience settings](audience-settings.md)
+>* [Syntax for audience segment logic](audience-segment-logic-syntax.md)
+>* [Available third-party data providers](third-party-data-providers.md)
