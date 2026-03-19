@@ -8,7 +8,7 @@ feature: Search Tools, Search Tracking
  
 *Advertisers with Adobe Advertising conversion tracking only*
 
-Create a separate conversion tag for each set of metrics that you want to track. You can generate tags in Search, Social, & Commerce or using tags in Adobe Experience Platform (formerly known as Adobe Experience Platform Launch).
+Create a separate conversion tag for each set of metrics that you want to track. You can generate tags in Search, Social, & Commerce or by using tags in Adobe Experience Platform (formerly known as Adobe Experience Platform Launch) with the Adobe Advertising extension.
 
 ## Generate and implement a conversion-tracking tag within Search, Social, & Commerce
 
