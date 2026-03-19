@@ -52,7 +52,7 @@ Create a separate ad template for each combination of ad type (static HTML5 or d
 
 1. Hold the cursor over the ad template row and click **[!UICONTROL Delete]**.
 
-1. In the confirmation message, click **[!UICONTROL Delete]**.<!-- Confirm -->
+1. In the confirmation message, click **[!UICONTROL Delete]**.
 
 ## Create dynamic ads from an ad template
 
@@ -82,14 +82,9 @@ Create a separate ad template for each combination of ad type (static HTML5 or d
 
 **[!UICONTROL Description]**: (Optional) Information that's helpful to anyone using the ad template.
 
-<!--
- I don't see this on 9/24:
-
 ### (Static HTML5 ad templates) Click Tags
 
 **\[Click Tag Parameter\]**: The click tag parameters to allow click-tracking redirects from ads created using the ad template. To add a parameter, click **[!UICONTROL + Add More]** and enter an additional parameter. You can include up to five parameters.
-
--->
 
 ### HTML5 zip
 
@@ -105,9 +100,7 @@ To upload a file:
 
 ### (Dynamic HTML5 ad templates) Attributes file
 
-<!-- EXPLAIN -->A file that contains attributes for the ad template. If you already uploaded a file, the filename is listed.
-
-<!-- Add specs for this file type -->
+<!-- EXPLAIN and ad specs below for this file type -->A file that contains attributes for the ad template. If you already uploaded a file, the filename is listed.
 
 To upload a file:
 

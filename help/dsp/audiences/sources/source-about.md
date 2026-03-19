@@ -8,7 +8,7 @@ exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 
 *Beta feature*
 
-DSP can ingest first-party segments comprised of hashed email IDs built within your customer data platform (CDP) and convert them to segments comprised of universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Move that info. to somewhere else? -->.
+DSP can ingest first-party segments comprised of hashed email IDs built within your customer data platform (CDP) and convert them to segments comprised of universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Add that info. somewhere else too? -->.
 
 Segment details include the size of each universal ID type as well as the size for each device type tracked by cookies or device IDs.
 
@@ -52,7 +52,7 @@ You can translate your first-party segments to segments with authenticated (dete
 
     ID5 creates an ID by stitching together user signals (hashed email address) with various browser signals (such as IP address and timestamp).
 
-    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). You also must sign an agreement with [!DNL ID5] and set a parameter within your existing JavaScript tracking tags. 
+    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). You also must sign an agreement with [!DNL ID5] and set a parameter within your existing JavaScript tracking tags. Contact your Adobe Account Team for instructions.
 -->
 
 <!--

@@ -12,17 +12,6 @@ feature: Search Bulksheets
 
 You can download data for [!DNL Yahoo! Display Network] accounts in bulk but can't upload or post bulksheets to the ad network.
 
-<!--
- Hiding because this is probably too long a list to be useful.
-
-## Available header fields
-
-The following example shows data in comma-delimited values. If you're using tab-separated values, then the data looks different.
-
-Platform,Acct Name,Campaign Name,Ad Group Name,Ad Name, Ad Title,Description Line 1,Description Line 2,Base URL/Final URL,Destination URL,[Advertiser-specific Label Classification],Bid Rules,Constraints,Campaign Status,Ad Group Status,Ad Status,Campaign ID,Ad Group ID,Ad ID,AMO ID,EF Error Message
-
--->
-
 ## Available data fields
 
 | Field | Campaign | Ad Group | Ad | Description |

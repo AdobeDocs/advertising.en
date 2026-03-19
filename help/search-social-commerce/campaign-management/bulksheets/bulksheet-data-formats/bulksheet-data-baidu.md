@@ -10,17 +10,6 @@ To create and update [!DNL Baidu] campaign data in bulk, you can use Search, Soc
 
 {{$include /help/_includes/bulksheet-appendices-intro.md}}
 
-<!--
- Hiding because this is probably too long a list to be useful.
-
-## Available header fields
-
-Platform,Acct Name,Campaign Name,Campaign Budget,Location,Excluded IPs (Baidu), Ad Serving (Baidu),Ad Group Name,Max CPC,Keyword,Match Type,Ad Title,Description Line 1,Description Line 2,Display URL,Base URL,Destination URL,Custom URL Param,Campaign Status,Ad Group Status,Keyword Status,Ad Status,Location Status,[Advertiser-specific Label Classification],Campaign ID,Ad Group ID,Keyword ID,Ad ID,AMO ID,Error Message
-
-{{$include /help/_includes/bulksheet-headers-note.md}}
-
--->
-
 ## Available data fields
 
 {{$include /help/_includes/bulksheet-appendices-intro-required-data.md}}

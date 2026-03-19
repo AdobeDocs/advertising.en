@@ -6,13 +6,11 @@ exl-id: 333ab2ea-293a-44e2-89e7-06782578318f
 ---
 # Edit standard creatives in a creative library
 
-You can edit some settings for each type of standard creative. You can edit multiple creatives<!-- or creative variations --> of the same creative type (simple HTML5 with only one landing page, static HTML5 with multiple landing pages, flexible HTML5, image, or third-party) only. 
-
-<!-- , or dynamic -->
+You can edit some settings for each type of standard creative. You can edit multiple creatives of the same creative type (simple HTML5 with only one landing page, static HTML5 with multiple landing pages, flexible HTML5, image, or third-party) only.
 
 For flexible HTML5 and static HTML5 creatives, you can upload a new template file with a different layout but the same set of attribute names. For simple HTML5 creatives, you can edit any attributes or add images by uploading a new template with the new attributes or images. In all cases, the template must be a local file in ZIP format with a maximum of 2 MB.
 
-When you edit a creative<!-- or creative variation --> that's included in a bundle, your changes are automatically applied across all experiences that include the bundle, except that any custom landing pages and tracking URLs specified at the experience level remain applicable for the bundle that's attached to that experience.
+When you edit a creative that's included in a bundle, your changes are automatically applied across all experiences that include the bundle, except that any custom landing pages and tracking URLs specified at the experience level remain applicable for the bundle that's attached to that experience.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
@@ -34,7 +32,7 @@ When you edit a creative<!-- or creative variation --> that's included in a bund
    
      To select all rows, select the global check box in the upper left.
 
-1. Edit the [image creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image), [HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5), [flexible HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5), or [third-party creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party). <!-- , or [dynamic creative settings](/help/creative/creative-libraries/creative-settings-dynamic.md) -->
+1. Edit the [image creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image), [HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5), [flexible HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5), or [third-party creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party).
 
    When you edit multiple creatives at the same time:
   
@@ -49,11 +47,6 @@ When you edit a creative<!-- or creative variation --> that's included in a bund
 1. (Flexible HTML5 creatives; optional) Once you've made your changes, click ![Preview](/help/creative/assets/preview.png "Preview") above the image to preview the new creative. 
 
 1. Click **Save**.
-
-<!--
- Not there as of 1/16/25. If we do add it, add back in:
-1. (Flexible HTML5 or third-party creatives; optional) Regenerate the thumbnail within the table view or cards view if the change isn't visible immediately.
--->
 
 >[!MORELIKETHIS]
 >

@@ -10,17 +10,6 @@ To create and update [!DNL Yandex] campaign data in bulk, you can use Search, So
 
 {{$include /help/_includes/bulksheet-appendices-intro.md}}
 
-<!--
- Hiding because this is probably too long a list to be useful.
-
-## Available header fields
-
-Platform,Acct Name,Campaign Name,Campaign Start Date,Campaign Budget,Delivery Method,Ad Group Name,Ad Title,Ad Description,Base URL,Destination URL,SiteLink Title,SiteLink Base URL,SiteLink Destination URL,Keyword,Max CPC,Match Type,Search Network Status,Content Network Status,Negative Keywords (Yandex),Param1 (Yandex),Param2 (Yandex),Campaign Status,Ad Group Status,Ad Status,Keyword Status,SiteLink Status,Campaign ID,Ad Group ID, Ad ID,Keyword ID,AMO ID, [Advertiser-specific Label Classification],Constraints,EF Error Message
-
-{{$include /help/_includes/bulksheet-headers-note.md}}
-
--->
-
 ## Available data fields
 
 {{$include /help/_includes/bulksheet-appendices-intro-required-data.md}}

@@ -10,17 +10,6 @@ Populate your [!DNL Naver] accounts in Search, Social, & Commerce by generating 
 
 {{$include /help/_includes/bulksheet-appendices-intro.md}}
 
-<!--
- Hiding because this is probably too long a list to be useful.
-
-## Available header fields
-
-Platform,Acct Name,Campaign Name,Ad Group Name,Keyword,Base URL,Destination URL,[Advertiser-specific Label Classification],Constraints,Campaign Status,Ad Group Status,Keyword Status,Campaign ID,Ad Group ID,Keyword ID,AMO ID,Error Message
-
-{{$include /help/_includes/bulksheet-headers-note.md}}
-
--->
-
 ## Available data fields
 
 {{$include /help/_includes/bulksheet-appendices-intro-required-data.md}}

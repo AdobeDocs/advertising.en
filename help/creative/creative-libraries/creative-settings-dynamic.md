@@ -52,9 +52,7 @@ Uploaded catalogs must be in ZIP format and contain the following:
 
 ### [!UICONTROL Attributes Mapping]
 
-**[!UICONTROL Enable targeting]**: <!-- "targeting options/filters," but I don't think this means user targeting since that is set in the experience/ad on DSP -->The types of columns in the feed file for which values must be present to create ads: *[!UICONTROL Profile data]*, *[!UICONTROL Geographic data], *[!UICONTROL Data pass], *[!UICONTROL Audience Segment]*.  **Note:** These settings work independently from the advanced settings in ad experience settings.
-
-<!-- Clarify what qualifies for each, and explain more -->
+**[!UICONTROL Enable targeting]**: The types of columns in the feed file for which values must be present to create ads: *[!UICONTROL Profile data]*, *[!UICONTROL Geographic data], *[!UICONTROL Data pass], *[!UICONTROL Audience Segment]*.  **Note:** These settings work independently from the advanced settings in ad experience settings.<!-- Clarify what qualifies for each, and explain more -->
 
 **[!UICONTROL Dynamic Ad Fields]** / **[!UICONTROL Maps to Catalog Labels]:**
 
