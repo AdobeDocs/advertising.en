@@ -1,9 +1,9 @@
 ---
-title: Configure A/B Tests for Adobe Advertising Search, Social, & Commerce Ads in Adobe Target
+title: Configure A/B tests for Adobe Advertising Search, Social, & Commerce ads in Adobe Target
 description: Learn how to set up an A/B test in [!DNL Target] for your [!DNL Google Ads] and [!DNL Microsoft Advertising] ads in Search, Social, & Commerce.
 exl-id: 564c7d61-beec-40cf-ac68-83d1e87e3008
 ---
-# Configure A/B Tests in Adobe Target for Advertising Search, Social, & Commerce Ads
+# Configure A/B tests in Adobe Target for Advertising Search, Social, & Commerce ads
 
 *Advertisers with Advertising Search, Social, & Commerce only*
 
@@ -21,12 +21,12 @@ See the following sections for the prerequisites, instructions to set up A/B tes
 
 ## Prerequisites
 
-### Required Products
+### Required products
 
 * Search, Social, & Commerce
 * [!DNL Target]
 
-### Recommended Products and Integrations
+### Recommended products and integrations
 
 * [!DNL Analytics]
 
@@ -34,7 +34,7 @@ See the following sections for the prerequisites, instructions to set up A/B tes
 
 * [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) integration
 
-## Step 1: Create an A/B Test Activity in [!DNL Target] for Search, Social, & Commerce
+## Step 1: Create an A/B test activity in [!DNL Target] for Search, Social, & Commerce
 
 The following instructions highlight information pertaining to the Search, Social, & Commerce use case.
 
@@ -81,13 +81,13 @@ The following instructions highlight information pertaining to the Search, Socia
    >
    >For example creative test use cases, contact your Adobe Account Team.
 
-## Step 2: Set up Your [!DNL Analytics for Target] Analysis Workspace in [!DNL Analytics]
+## Step 2: Set up your [!DNL Analytics for Target] Analysis Workspace in [!DNL Analytics]
 
 [!DNL Analytics for Target] (A4T) is a cross-solution integration that lets advertisers create [!DNL Target] activities based on [!DNL Analytics] conversion metrics and audience segments and then measure the results using [!DNL Analytics] as the reporting source. All reporting and segmentation for that activity is based on [!DNL Analytics] data collection.
 
 For more information about [!DNL Analytics for Target], including a link to implementation instructions, see "[Adobe Analytics as the reporting source for Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)".
 
-### Set up the [!DNL Analytics for Target] Panel
+### Set up the [!DNL Analytics for Target] panel
 
 In Analysis Workspace, configure the [!DNL Analytics for Target panel] to analyze your [!DNL Target] activities and experiences. Keep in mind the following important pointers and information about your reports.
 
@@ -109,7 +109,7 @@ The following dimensions pertain to [!DNL Analytics for Target]:
 
 * **Target Activity** > **Experience**: The activity name and experience name in the same row
 
-### Troubleshooting Analytics for [!DNL Target] Data
+### Troubleshooting Analytics for [!DNL Target] data
 
 Within Analysis Workspace, if you notice that activity and experiences data is minimal or not populating, then do the following:
 
@@ -125,12 +125,12 @@ Within Analysis Workspace, if you notice that activity and experiences data is m
 
   [Tracking Server value in Target](/help/integrations/assets/target-troubleshooting-tracking-server.png)
 
-## Further Reading
+## Further reading
 
 * [Integrate Target with Analytics](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html) - Explains how to set up [!DNL Target] reporting in Analysis Workspace.
 * [A/B Test Overview](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Describes A/B test activities, which you can use with Search, Social, & Commerce ads.
-* [Overview of Analytics for Advertising](/help/integrations/analytics/overview.md) - Introduces Analytics for Advertising, which allows you to track click-through and view-through site interactions in your Analytics instances.
+* [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) - Introduces [!DNL Analytics for Advertising], which allows you to track click-through and view-through site interactions in your Analytics instances.
 
 >[!MORELIKETHIS]
 >
->* [Configure A/B Tests in Adobe Target for Advertising DSP Ads](ab-tests-dsp.md)
+>* [Configure A/B tests in Adobe Target for Advertising DSP ads](ab-tests-dsp.md)

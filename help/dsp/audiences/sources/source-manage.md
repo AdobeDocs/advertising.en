@@ -1,10 +1,10 @@
 ---
-title: Manage Audience Sources to Activate Universal ID Audiences
+title: Manage audience sources to activate universal ID audiences
 description: Learn how to create and manage a source to import audiences from your customer data platform and convert them to segments containing universal IDs.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
 ---
-# Manage Audience Sources to Activate Universal ID Audiences
+# Manage audience sources to activate universal ID audiences
 
 *Beta feature*
 
@@ -14,7 +14,7 @@ You can later change the universal ID types to which the source audience is tran
 
 You can also delete a source.
 
-## Create an Audience Source
+## Create an audience source
 
 <!-- Not sure about this
 
@@ -50,7 +50,7 @@ You can create one source for each combination of universal ID partner and data 
 >
 >After you create a source for your customer data platform, you must complete additional steps to import your audience. See the [workflow for [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md),<!-- the [workflow for [!DNL ActionIQ]](source-actioniq.md), --> the [workflow for [!DNL Amperity]](source-amperity.md), the [workflow for [!DNL Optimizely]](source-optimizely.md), and the [workflow for [!DNL Tealium]](source-tealium.md).
 
-## Change the ID Types for an Audience Source
+## Change the ID types for an audience source
 
 <!-- Clarify this:
 All changes to universal IDs translated from the source are applied after you save the the source record. For example, if a new ID is added, any hashed email addresses shared before making the changes aren't converted. Similarly, if an ID is removed, we don't delete any historical data from the segments shared through the source.
@@ -69,7 +69,7 @@ All changes to universal IDs translated from the source are applied after you sa
 
 1. Click **[!UICONTROL Save]**.
 
-## Delete an Audience Source
+## Delete an audience source
 
 Deleting a source removes the segments translated through the source.<!-- Will performance data for the segment still be available in any types of reports?  If yes, which? -->
 
@@ -79,7 +79,7 @@ Deleting a source removes the segments translated through the source.<!-- Will p
 
 1. In the confirmation message, click **[!UICONTROL Delete]**.
 
-## View the Change Log for an Audience Source
+## View the change log for an audience source
 
 You can view details about changes to an audience source record and optionally attach notes to the log.
 
@@ -97,7 +97,7 @@ You can view details about changes to an audience source record and optionally a
 
 1. (Optional) To open the log in a larger detail screen, hold the cursor over the source row and click **[!UICONTROL View Details]**.
 
-## Audience Source Settings {#source-settings}
+## Audience source settings {#source-settings}
 
 **[!UICONTROL Data Visibility Level]:** Whether the segments are available to a single advertiser with access to the account (*[!UICONTROL Advertiser]*) or to all advertisers with access to the account *[!UICONTROL Account]*.
 
@@ -128,10 +128,10 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 
 >[!MORELIKETHIS]
 >
->* [About First-Party Audience Sources](source-about.md)
->* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
->* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
->* [Convert User IDs from [!DNL Amperity] to Universal IDs](/help/dsp/audiences/sources/source-amperity.md)
->* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
->* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
->* [About Audience Management](/help/dsp/audiences/audience-about.md)
+>* [About first-party audience sources](source-about.md)
+>* [Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)
+>* [Convert user IDs from [!DNL Adobe Real-Time CDP] to universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+>* [Convert user IDs from [!DNL Amperity] to universal IDs](/help/dsp/audiences/sources/source-amperity.md)
+>* [Convert user IDs from [!DNL Optimizely] to universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
+>* [Convert user IDs from [!DNL Tealium] to universal IDs](/help/dsp/audiences/sources/source-tealium.md)
+>* [About audience management](/help/dsp/audiences/audience-about.md)

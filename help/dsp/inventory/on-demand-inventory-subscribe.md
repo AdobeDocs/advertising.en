@@ -1,10 +1,10 @@
 ---
-title: Subscribe and Request Access to [!DNL On Demand] Premium Inventory Deals
+title: Subscribe and request access to [!DNL On Demand] premium inventory deals
 description: Lean how to subscribe to, and request access to,[!DNL On Demand] deals.
 feature: DSP On Demand Inventory
 exl-id: 7f23f989-3c96-475e-9f49-aa9098d24c17
 ---
-# Subscribe and Request Access to [!DNL On Demand] Premium Inventory Deals
+# Subscribe and request access to [!DNL On Demand] premium inventory deals
 
 *Not available to users with the account types [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension], and [!UICONTROL Other]; advertisers with the category [!UICONTROL Other]; and resellers*
 
@@ -12,7 +12,7 @@ You can request individual deals or subscribe to a publisher to request all of t
 
 Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md), it's included by default as a target for new placements that target all [!DNL On Demand] inventory. The new deal is also available as a target for existing placements, but you must manually edit the placement settings to add the deal as a target.
 
-## Subscribe to All of a Publisher's Deals
+## Subscribe to all of a publisher's deals
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL On Demand]**.
 
@@ -40,7 +40,7 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
     * (To subscribe to any publisher) Click **[!UICONTROL Subscription view]**, hold the cursor over the publisher logo, and then click **[!UICONTROL Subscribe]**.
 
-## Request Access to Individual Deals
+## Request access to individual deals
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL On Demand]**.
 
@@ -78,10 +78,10 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
 >[!MORELIKETHIS]
 >
->* [About [!DNL On Demand] Premium Inventory](on-demand-inventory-about.md)
->* [View the Status of Your [!DNL On Demand] Deal Requests and Subscriptions](on-demand-inventory-view-status.md)
->* [Re-Request On Demand Premium Inventory Deals](on-demand-inventory-rerequest.md)
->* [[!DNL On Demand] Premium Inventory Publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)
->* [[!DNL On Demand] Premium Inventory Publishers in Australia and New Zealand](on-demand-inventory-publishers-anz.md)
->* [[!DNL On Demand] Premium Inventory Publishers in Europe, the Middle East, and Africa](on-demand-inventory-publishers-emea.md)
->* [[!DNL On Demand] Premium Inventory Publishers in North America](on-demand-inventory-publishers-na.md)
+>* [About [!DNL On Demand] premium inventory](on-demand-inventory-about.md)
+>* [View the status of your [!DNL On Demand] deal requests and subscriptions](on-demand-inventory-view-status.md)
+>* [Re-request [!DNL On Demand] premium inventory deals](on-demand-inventory-rerequest.md)
+>* [[!DNL On Demand] premium inventory publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand] premium inventory publishers in Australia and New Zealand](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa](on-demand-inventory-publishers-emea.md)
+>* [[!DNL On Demand] premium inventory publishers in North America](on-demand-inventory-publishers-na.md)

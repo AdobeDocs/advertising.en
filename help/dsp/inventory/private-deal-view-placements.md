@@ -1,10 +1,10 @@
 ---
-title: List the Placements and Ads for a Private Deal
+title: List the placements and ads for a private deal
 description: Learn how to open a list of placements and ads associated with a private deal.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 8003c053-eaa1-420d-853f-3c25643f4ef8
 ---
-# List the Placements and Ads for a Private Deal
+# List the placements and ads for a private deal
 
 You can open a list of all placements and ads associated with a private deal. You can optionally open the settings for any of the placements or ads. 
 
@@ -28,7 +28,7 @@ You can open a list of all placements and ads associated with a private deal. Yo
 
 >[!MORELIKETHIS]
 >
->* [About Private Inventory](private-inventory-about.md)
->* [Specify Placements and Ads for a Deal ID](deal-id-attach-placements.md)
->* [View a Detailed Report for a Deal](deal-view-report.md)
->* [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
+>* [About private inventory](private-inventory-about.md)
+>* [Specify placements and ads for a deal ID](deal-id-attach-placements.md)
+>* [View a detailed report for a deal](deal-view-report.md)
+>* [View the placement diagnostic report](/help/dsp/campaign-management/reports/placement-diagnostics.md)

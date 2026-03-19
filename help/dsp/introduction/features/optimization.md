@@ -14,7 +14,7 @@ For each of your placements and packages, you can choose an optimization goal. T
 
 >[!MORELIKETHIS]
 >
-> * [How DSP Optimizes Your Campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
->* [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md)
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+> * [How DSP optimizes your campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
+>* [Optimization goals and how to use them](/help/dsp/optimization/optimization-goals.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

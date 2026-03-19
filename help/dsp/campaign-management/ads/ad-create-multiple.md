@@ -1,10 +1,10 @@
 ---
-title: Create Multiple Third-Party Ads
+title: Create multiple third-party ads
 description: Learn how to create multiple third-party ads at one time.
 feature: DSP Ads
 exl-id: be7c1cc4-3c17-4e37-aae7-c8601d2222a0
 ---
-# Create Multiple Third-Party Ads
+# Create multiple third-party ads
 
 You can create up to 500 third-party ads at a time by uploading tags that point to creative assets hosted on third-party ad servers. You can include tracking pixels for the ads.<!-- The bulksheet template for other ad servers says you can include 200. Which is it: 200 or 500? -->
 
@@ -68,8 +68,8 @@ You can upload either [!DNL DoubleClick] and [!DNL Flashtalking] tag sheets or a
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Ad Specifications](ad-specs.md)
->* [Create a Single Ad](ad-create.md)
->* [Video: How to Bulk Upload Third-Party Ad Tags](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
->* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Ad specifications](ad-specs.md)
+>* [Create a single ad](ad-create.md)
+>* [Video: How to bulk upload third-party ad tags](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
+>* [FAQs about universal video](/help/dsp/campaign-management/faq-universal-video.md)

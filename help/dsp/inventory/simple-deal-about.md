@@ -24,11 +24,11 @@ You can create a [!UICONTROL Simple Ad Serving] deal in the [!UICONTROL Inventor
 
 >[!MORELIKETHIS]
 >
->* [Create a [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
->* [Edit [!UICONTROL Simple Ad Serving] Deal Settings](simple-deal-edit.md)
->* [[!UICONTROL Simple Ad Serving] Settings](simple-deal-settings.md)
->* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
+>* [Create a [!UICONTROL Simple Ad Serving] deal](simple-deal-create.md)
+>* [Edit [!UICONTROL Simple Ad Serving] deal settings](simple-deal-edit.md)
+>* [[!UICONTROL Simple Ad Serving] settings](simple-deal-settings.md)
+>* [View a detailed report for a deal](/help/dsp/inventory/deal-view-report.md)
 
 <!-- add back when reimplemented:
->* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+>* [View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal](simple-deal-show-pixels.md)
 -->

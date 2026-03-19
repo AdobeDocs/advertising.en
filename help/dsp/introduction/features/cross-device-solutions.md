@@ -1,10 +1,10 @@
 ---
-title: Cross-Device Solutions
+title: Cross-device solutions
 description: Learn more about cross-device features.
 feature: DSP Introduction
 exl-id: d21917ef-5cac-46f8-8222-099667797683
 ---
-# Cross-Device Solutions
+# Cross-device solutions
 
 The Advertising DSP integration with [!DNL LiveRamp] allows you to extend your audience to all of a person's known devices, not just the devices your brand has tracked. The integration also provides frequency capping and attribution measurement across all devices.
 
@@ -14,7 +14,7 @@ When you use a supported people-based device graph, you can:
 * Balance ad exposure by understanding and capping frequency across individuals.
 * Test strategies that expose vs. convert audiences across channels or devices.
 
-## Benefits of the [!DNL LiveRamp] Device Graph
+## Benefits of the [!DNL LiveRamp] device graph
 
 * Provides a deterministic data pool, including offline customer data
 
@@ -28,15 +28,15 @@ When you use a supported people-based device graph, you can:
 
   The rate is reflected on your account rate card.
 
-## People-Based Frequency Management
+## People-based frequency management
 
 People-based frequency management allows you to specify frequency caps at the person level, rather than the device level, for true media exposure control.
 
-### Activate People-Based Frequency Management
+### Activate people-based frequency management
 
-* **Campaigns:** When you create a new campaign, you can specify a [!UICONTROL Cross-Device Level] setting. Enable “[!UICONTROL Same Device]” -> “[!UICONTROL People],” and select a device graph. The specified device graph is used for both cross-device targeting at the placement level and for people-based frequency management at the campaign, package, and placement level. Frequency caps apply across all of a person's known devices.
+* **Campaigns:** When you create a new campaign, you can specify a [!UICONTROL Cross-Device Level] setting. Enable "[!UICONTROL Same Device]" -> "[!UICONTROL People]," and select a device graph. The specified device graph is used for both cross-device targeting at the placement level and for people-based frequency management at the campaign, package, and placement level. Frequency caps apply across all of a person's known devices.
 
- For more information, see [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md).
+ For more information, see [Campaign settings](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
    Once you save a campaign, you can't change its [!UICONTROL Cross Device Level] setting.
 
@@ -44,19 +44,19 @@ People-based frequency management allows you to specify frequency caps at the pe
 
 * **Placements:** You can optionally set additional frequency caps at the placement level. DSP respects the strictest frequency cap in the campaign hierarchy.
 
-## People-Based Targeting
+## People-based targeting
 
 People-based targeting allows you to find customers across desktop and mobile.
 
-### Activate People-Based Targeting
+### Activate people-based targeting
 
-* **Campaigns:** When you create a new campaign, you can specify a [!UICONTROL Cross-Device Level] setting. Enable “[!UICONTROL Same Device]” -> “[!UICONTROL People],” and select a device graph. The specified device graph is used for both cross-device targeting at the placement level and for people-based frequency management.
+* **Campaigns:** When you create a new campaign, you can specify a [!UICONTROL Cross-Device Level] setting. Enable "[!UICONTROL Same Device]" -> "[!UICONTROL People]," and select a device graph. The specified device graph is used for both cross-device targeting at the placement level and for people-based frequency management.
 
- For more information, see [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md).
+ For more information, see [Campaign settings](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
 * **Placements:** When you select audience targets for a placement in a campaign with a specified device graph, a [!UICONTROL Cross-Device Targeting] option allows you to extend your targeting across all of a person's known devices (per the device graph specified in the campaign settings), even devices that aren't in the specified segments.
 
-### Set Up Reporting for People-Based Targeting
+### Set up reporting for people-based targeting
 
 You can include the following metrics in custom reports:
 
@@ -68,19 +68,19 @@ You can include the following metrics in custom reports:
 
 * **Device Graph:** (In the [!UICONTROL Build Your Report] section under [!UICONTROL Dimensions] > [!UICONTROL Campaign]) The selected device graph for a particular campaign, package, or placement.
 
-## People-Based Attribution Measurement
+## People-based attribution measurement
 
-*Advertisers with Adobe Advertising Conversion Tracking Only*
+*Advertisers with Adobe Advertising conversion tracking only*
 
 With people-based attribution, you can attribute conversions that took place on a different device than the device on which the media exposure occurred. People-based attribution measurement is available across DSP, [!DNL Adobe Advertising Creative], and [!DNL Adobe Advertising Search, Social, & Commerce] for advertisers who have implemented Adobe Advertising conversion pixels on their sites.
 
-### Enable People-Based Attribution Measurement
+### Enable people-based attribution measurement
 
 If you would like to activate cross-device attribution measurement, contact your Adobe Account Team.
 
-### Set Up Conversion Reports for Cross-Device Conversion Attribution
+### Set up [!UICONTROL Conversion] Reports for cross-device conversion attribution
 
-#### Conversion Report Settings
+#### [!UICONTROL Conversion] Report settings
 
 When a device graph is enabled for attribution measurement, the [!UICONTROL Conversion] Report includes a [!UICONTROL Cross-Device Breakout] setting, which allows you to include up to three separate columns for each conversion metric, including:
 
@@ -90,13 +90,13 @@ When a device graph is enabled for attribution measurement, the [!UICONTROL Conv
 
 * <*Conversion*>[!UICONTROL (xd)]: (Optional) Includes only conversions for which more than one device was tracked in the conversion path. In the report, "[!UICONTROL (xd)]" is appended to the conversion metric name, rule type, and conversion types in the conversion path (for example, "Responses(le)(tl)(xd)).
 
-#### How to Interpret the Conversion Report
+#### How to interpret the [!UICONTROL Conversion] report
 
 Sort the percentage of total conversions that are cross-device ([!UICONTROL (xd)]/[!UICONTROL (tl)]) from high to low to understand what is driving above-average cross-device conversions. You can use this to inform your creative or targeting strategy to match messaging and channel investment to user behavior.
 
 * Packages &mdash; See which packages drive the most total conversions, and which ones have a high percentage of cross-device conversions. This can help you understand where to focus spend.
 
-* Placements &mdash; Compare placement performance and attribution (for example, a mobile web ad may drive conversions on desktop). Without a device graph for attribution, you may miss a mobile web placement’s impact on desktop conversions, or it may be buried if the majority of your users convert on desktop and not mobile web.
+* Placements &mdash; Compare placement performance and attribution (for example, a mobile web ad may drive conversions on desktop). Without a device graph for attribution, you may miss a mobile web placement's impact on desktop conversions, or it may be buried if the majority of your users convert on desktop and not mobile web.
 
 * Ads &mdash; Discover which ads drive higher conversions, and quantify their value and impact across both web browsers and mobile app environments.
 
@@ -106,7 +106,7 @@ Sort the percentage of total conversions that are cross-device ([!UICONTROL (xd)
 
 >[!MORELIKETHIS]
 >
->* [Report Settings](/help/dsp/reports/report-settings.md)
->* [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Report settings](/help/dsp/reports/report-settings.md)
+>* [Campaign settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

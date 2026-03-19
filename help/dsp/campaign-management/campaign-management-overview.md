@@ -1,10 +1,10 @@
 ---
-title: Overview of Campaign Management in Advertising DSP
+title: Overview of campaign management in Advertising DSP
 description: Learn about the campaign management hierarchy and components.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: 8eb7b4a5-4a31-4637-858f-202392dfac98
 ---
-# Overview of Campaign Management in Advertising DSP
+# Overview of campaign management in Advertising DSP
 
 DSP campaigns have the following hierarchy:
 
@@ -42,12 +42,12 @@ All active, approved ads in an active placement in an active campaign are eligib
 
 >[!MORELIKETHIS]
 >
->* [About Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
->* [About Package Management](/help/dsp/campaign-management/packages/package-about.md)
->* [About Placement Management](/help/dsp/campaign-management/placements/placement-about.md)
->* [About Ad Management](/help/dsp/campaign-management/ads/ad-about.md)
->* [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
->* [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
->* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [Manage Your Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
->* [Video: DSP Account Structure and User Interface](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)
+>* [About campaign management in Advertising DSP](/help/dsp/campaign-management/campaigns/campaign-about.md)
+>* [About package management in Advertising DSP](/help/dsp/campaign-management/packages/package-about.md)
+>* [About placement management in Advertising DSP](/help/dsp/campaign-management/placements/placement-about.md)
+>* [About ad management in Advertising DSP](/help/dsp/campaign-management/ads/ad-about.md)
+>* [Campaign launch checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
+>* [Best practices for setting up performance campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
+>* [Types of performance reports in campaign management views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Manage your campaign data views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
+>* [Video: DSP account structure and user interface](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)

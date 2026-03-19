@@ -1,15 +1,15 @@
 ---
-title: Advertiser Account Settings
+title: Advertiser account settings
 description: See descriptions of the available advertiser settings.
 role: User, Admin
 ---
-# Advertiser Account Settings
+# Advertiser account settings
 
 *Not Available to Read-only Users*
 
 <!-- Not published -->
 
-## [!UICONTROL General] Settings
+## [!UICONTROL General] settings
 
 **[!UICONTROL Advertiser Name]:** The advertiser name.
 
@@ -62,7 +62,7 @@ Segment membership data is sent to Adobe Advertising only after one of the follo
 * The segment is added to the Adobe Advertising batch and real-time destinations within the Audience Manager user interface
 -->
 
-## [!UICONTROL Targeting] Settings
+## [!UICONTROL Targeting] settings
 
 You can optionally configure default targets for the advertiser's new placements. Users can override the default targets for any new placement.
 
@@ -172,6 +172,6 @@ The ID must begin with "51" and consist of eight digits. You can change or delet
 
 >[!MORELIKETHIS]
 >
->* [Create an Advertiser Account](/help/dsp/admin/advertiser-create.md)
+>* [Create an advertiser account](/help/dsp/admin/advertiser-create.md)
 
-<!-- >* [View the Advertiser List for the Account](/help/dsp/admin/advertiser-view.md) -->
+<!-- >* [View the advertiser list for the account](/help/dsp/admin/advertiser-view.md) -->

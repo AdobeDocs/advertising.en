@@ -1,10 +1,10 @@
 ---
-title: Invite a New User for Your Organization Account
+title: Invite a new user for your organization account
 description: Learn how to invite a new user to join the account.
 role: Admin
 exl-id: 5aba8db8-a27b-44a0-88f3-ea49311f4d76
 ---
-# Invite a New User for Your Organization Account
+# Invite a new user for your organization account
 
 *Administrator users only*
 
@@ -28,7 +28,7 @@ If necessary, you can uninvite a user with a pending invitation.
 
 >[!MORELIKETHIS]
 >
->* [Resend a Pending User Invitation](user-resend-invite.md)
->* [Uninvite a Pending User](user-uninvite.md)
+>* [Resend a pending user invitation](user-resend-invite.md)
+>* [Uninvite a pending user](user-uninvite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

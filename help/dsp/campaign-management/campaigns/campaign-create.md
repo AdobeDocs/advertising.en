@@ -1,10 +1,10 @@
 ---
-title: Create a Campaign
+title: Create a campaign
 description: Learn how to create a campaign.
 feature: DSP Campaigns
 exl-id: 8e401c15-018d-439b-922e-2e456eabfea4
 ---
-# Create a Campaign
+# Create a campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. In the [!UICONTROL Campaigns] view, click **[!UICONTROL Create campaign]**.
@@ -17,9 +17,9 @@ exl-id: 8e401c15-018d-439b-922e-2e456eabfea4
 
 >[!MORELIKETHIS]
 >
->* [About Campaign Management](campaign-about.md)
->* [Duplicate a Campaign](campaign-duplicate.md)
->* [Edit a Campaign](campaign-edit.md)
->* [View the Change Log for a Campaign](campaign-change-log.md)
->* [Campaign Settings](campaign-settings.md)
->* [Pause or Activate a Campaign](campaign-pause-activate.md)
+>* [About campaign management in Advertising DSP](campaign-about.md)
+>* [Duplicate a campaign](campaign-duplicate.md)
+>* [Edit a campaign](campaign-edit.md)
+>* [View the change log for a campaign](campaign-change-log.md)
+>* [Campaign settings](campaign-settings.md)
+>* [Pause or activate a campaign](campaign-pause-activate.md)

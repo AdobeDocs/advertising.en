@@ -1,16 +1,16 @@
 ---
-title: Custom Report Settings
-description: See descriptions of the custom report settings.
+title: Custom report settings
+description: See descriptions of the Custom report settings.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
 ---
-# Custom Report Settings
+# Custom report settings
 
 **[!UICONTROL Name]:** The report name. The maximum length is 180 characters.
 
 **[!UICONTROL Report Type]:** The type of report: *[!UICONTROL Custom]* (which includes most available options), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, *[!UICONTROL Household Conversions]*, *[!UICONTROL]*, *[!UICONTROL Path Length]*, or *[!UICONTROL Time to Conversion]*.
 
-## [!UICONTROL Report Range] Section
+## [!UICONTROL Report Range] section
 
 This section determines the data that's included in the report. To set up dates for the report schedule, see the "[!UICONTROL Report run schedule]" section.
 
@@ -26,7 +26,7 @@ This section determines the data that's included in the report. To set up dates 
 
 * **[!UICONTROL Custom Range]:** Includes data between specific beginning and end dates. To report data through the previous day, select **[!UICONTROL Present]**.
 
-## [!UICONTROL Report Run schedule] Section
+## [!UICONTROL Report Run schedule] section
 
 This section determines the dates on which the report is run. To set up the dates for which to include report data, see the "[!UICONTROL Report range]" section.
 
@@ -54,7 +54,7 @@ This section determines the dates on which the report is run. To set up the date
   
   * **Until**: The report expiration date, which can be up to four calendar months away. Before a report expires, all specified email destinations receive an email alert seven days and one day before the expiration date. To keep the report longer, change this date.
 
-## [!UICONTROL Apply Filters] Section
+## [!UICONTROL Apply Filters] section
 
 **[!UICONTROL Filter by]:** (Optional) Additional dimensions by which to filter the data, whether or not the dimensions are included as columns in the report. The available filters vary by report type and may include: *[!UICONTROL Account]*, *[!UICONTROL Ad Type]*, *[!UICONTROL Ads]*, *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Country]*, *[!UICONTROL Deal]*, *[!UICONTROL Package]*, *[!UICONTROL Placement]*, *[!UICONTROL Video]*, and *[!UICONTROL Video Duration]*.
 
@@ -70,7 +70,7 @@ To apply one or more filters, do the following:
 
 \* *[!UICONTROL Account]* is available for the following report types only when your organization is configured for [cross-account reporting](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], and [!UICONTROL Conversion]. Contact your Adobe Account Team for more information about cross-account reporting.
 
-**[!UICONTROL Include data from Adobe Advertising SSC]:** (Path to Conversion, Path Length, and Time to Conversion reports only) Includes data for clicks on search ads from specified Advertising Search, Social, & Commerce campaigns. When you select this option:
+**[!UICONTROL Include data from Adobe Advertising SSC]:** ([!UICONTROL Path to Conversion], [!UICONTROL Path Length], and [!UICONTROL Time to Conversion] reports only) Includes data for clicks on search ads from specified Advertising Search, Social, & Commerce campaigns. When you select this option:
 
 1. Select the Search, Social, & Commerce account using the **Filter by [!UICONTROL SSC Account]** filter.
 
@@ -78,7 +78,7 @@ To apply one or more filters, do the following:
 
    To select multiple campaigns, click **[!UICONTROL Add Criteria]** for the second and subsequent campaigns.
 
-## [!UICONTROL Build Your Report] Section
+## [!UICONTROL Build Your Report] section
 
 **[!UICONTROL Select To Add As Report Headers]:**  The data columns, or headers, to include in the report. To add a column, expand the category and select the check box next to the column name. The available columns vary by report, and all unavailable metrics are disabled. The available data categories may include:
 
@@ -99,7 +99,7 @@ To apply one or more filters, do the following:
 
 * [!UICONTROL Custom Goals] (sorted by advertiser)
 
-See "[Available Report Columns](report-columns.md)" for descriptions of all options.
+See "[Available report columns](report-columns.md)" for descriptions of all options.
 
 **[!UICONTROL Drag to Re-Order Report Headers Below]:** The order of the column headers. You can drag and drop any column to customize the order.
 
@@ -107,7 +107,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 **[!UICONTROL Headers]:** Whether to *[!UICONTROL Include]* or *[!UICONTROL Do Not Include]* column headers.
 
-## [!UICONTROL Multi-Touch Conversion Options] Section
+## [!UICONTROL Multi-Touch Conversion Options] section
 
 **[!UICONTROL Attribution Rule Settings]:** The settings vary by report type:
 
@@ -139,7 +139,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
   * *[!UICONTROL Social Only]:* Obsolete
 
- See also "[How Attribution Rules Are Calculated for Adobe Advertising](/help/search-social-commerce/reports/attribution-rules.md)."
+ See also "[How attribution rules are calculated for Adobe Advertising](/help/search-social-commerce/reports/attribution-rules.md)."
 
 * **Lookback:** ([!UICONTROL Household Conversion] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns, and [!UICONTROL Path to Conversion], [!UICONTROL Path Length], or [!UICONTROL Time to Conversion] reports with [!UICONTROL Conversion Metrics] columns only; advertisers with Adobe Advertising conversion tracking only) Within the report, the maximum number of days after an impression event or a click event (for [!UICONTROL Path to Conversion], [!UICONTROL Path Length], or [!UICONTROL Time to Conversion] reports) in which a conversion event can be attributed to it. The default is *[!UICONTROL 30 days]*, and the maximum is 92 days.
 
@@ -161,7 +161,7 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 * *[!UICONTROL Event Timestamp]:* Conversions are reported based on the date of the impression or click that caused the conversion, as determined by the specified [!UICONTROL Attribution Rule Settings].
 
-## [!UICONTROL Add Report Destinations] Section
+## [!UICONTROL Add Report Destinations] section
 
 **[!UICONTROL Destination Type]:** Where to deliver the completed reports and error notifications. You can't change the destination type once you save the report.
 
@@ -199,12 +199,12 @@ See "[Available Report Columns](report-columns.md)" for descriptions of all opti
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
->* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
->* [Download a Custom Report](/help/dsp/reports/report-download.md)
->* [Run a Custom Report](/help/dsp/reports/report-run-now.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [About Report Destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Duplicate a custom report](/help/dsp/reports/report-copy.md)
+>* [Edit a custom report](/help/dsp/reports/report-edit.md)
+>* [Download a custom report](/help/dsp/reports/report-download.md)
+>* [Run a custom report](/help/dsp/reports/report-run-now.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)

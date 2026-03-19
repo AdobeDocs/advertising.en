@@ -1,14 +1,14 @@
 ---
-title: Create a Single Ad
+title: Create a single ad
 description: Learn how to create a single third-party ad.
 feature: DSP Ads
 exl-id: fdfb02c0-9aec-4faf-b374-0f03c7a3fa98
 ---
-# Create a Single Ad
+# Create a single ad
 
 You can create an individual native display ad or a third-party ad in various [ad types](ad-about.md#ad-types).
 
-To create multiple third-party ads at a time, see [Create Multiple Third-party Ads](ad-create-multiple.md).
+To create multiple third-party ads at a time, see [Create multiple third-party ads](ad-create-multiple.md).
 
 >[!NOTE]
 >
@@ -44,8 +44,8 @@ To create multiple third-party ads at a time, see [Create Multiple Third-party A
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Edit an Ad](ad-edit.md)
->* [Ad Specifications](ad-specs.md)
->* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Create multiple third-party ads](ad-create-multiple.md)
+>* [Edit an ad](ad-edit.md)
+>* [Ad specifications](ad-specs.md)
+>* [FAQs about universal video](/help/dsp/campaign-management/faq-universal-video.md)

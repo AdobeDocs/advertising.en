@@ -1,10 +1,10 @@
 ---
-title: Create a [!UICONTROL Simple Ad Serving] Deal
+title: Create a [!UICONTROL Simple Ad Serving] deal
 description: Learn how to create a tracking pixel for a [!UICONTROL Simple Ad Serving] deal.
 feature: DSP Simple Ad Serving
 exl-id: 77d5dabd-1a0d-4dce-8a9a-8d54a637e15d
 ---
-# Create a [!UICONTROL Simple Ad Serving] Deal
+# Create a [!UICONTROL Simple Ad Serving] deal
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
@@ -56,9 +56,9 @@ exl-id: 77d5dabd-1a0d-4dce-8a9a-8d54a637e15d
 >[!MORELIKETHIS]
 >
 >* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [[!UICONTROL Simple Ad Serving] Settings](simple-deal-settings.md)
->* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
+>* [[!UICONTROL Simple Ad Serving] settings](simple-deal-settings.md)
+>* [View a detailed report for a deal](/help/dsp/inventory/deal-view-report.md)
 
 <!-- add back when reimplemented:
->* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+>* [View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal](simple-deal-show-pixels.md)
 -->

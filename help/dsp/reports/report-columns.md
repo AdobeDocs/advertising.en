@@ -1,10 +1,10 @@
 ---
-title: Available Report Columns
+title: Available report columns
 description: See descriptions of available columns in custom reports.
 feature: DSP Custom Reports
 exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 ---
-# Available Report Columns
+# Available report columns
 
 <!-- Add when added:
 
@@ -28,8 +28,8 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Title]| The content/film title. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Series]| The content series. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Genre]| The content genre. |
-|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL ProdQ]| The production quality, as defined by the [IAB Technology Laboratory](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Values can `Unknown`, `Professionally Produced`, `Prosumer`, or `User Generated`.|
-|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Context]| The type of content, as defined by the [IAB Technology Laboratory](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Values can include `Video,` `Game`, `Music`, `Application`, `Text`, `Other`, or `Unknown`. |
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL ProdQ]| The production quality, as defined by [the [!DNL IAB Technology Laboratory]](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Values can `Unknown`, `Professionally Produced`, `Prosumer`, or `User Generated`.|
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Context]| The type of content, as defined by [the [!DNL IAB Technology Laboratory]](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Values can include `Video,` `Game`, `Music`, `Application`, `Text`, `Other`, or `Unknown`. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Content Rating]| The content rating, such as PG or R. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Livestream]| Whether the ad appeared in a livestream: `Not Live` or `Live`. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Content Length (in seconds)]| The length of the content in seconds; typically used for video or audio. |
@@ -188,6 +188,19 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Metrics]|[!UICONTROL Spend]|[!UICONTROL Total Non-Billable Net Spend]|The sum of [!UICONTROL Non-billable Spend (Media)], [!UICONTROL Non-billable Spend (Data)], and [!UICONTROL Non-billable Spend (Other)].|
 |[!UICONTROL Metrics]|[!UICONTROL Spend]|[!UICONTROL Total Other eCPM]|The average net cost per 1000 impressions for other fees, calculated by <code>[!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000</code>.|
 |[!UICONTROL Metrics]|[!UICONTROL Spend]|[!UICONTROL Total Other Spend]|The total net cost of other service fees (third-party verification partners, ad serving, and so on).|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Clicks]|The total clicks.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL CTR]|The percentage of clicks divided by impressions.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Engagements]|The number of interactions on a served ad.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Engagement Rate]|The percentage of interactions on a served ad divided by impressions.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Impressions]|The total impressions.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Media Match Rate]|The share of impressions (or events) for which the creative was successfully matched to the intended media/inventory or audience.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Product Clicks]|The total clicks attributed to a specific product. Use when your creatives show multiple products (for example, in a carousel ad) and you report by product.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Product Conversions]|The total conversions attributed to a specific product. Use when your creatives show multiple products (for example, in a carousel ad) and you report by product.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Product Conversion Rate]|[!UICONTROL Product Conversions] divided by [!UICONTROL Product Impressions]  attributed to a specific product. Use when your creatives show multiple products (for example, in a carousel ad) and you report by product.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Product CTR]|[!UICONTROL Product Clicks] divided by [!UICONTROL Product Impressions] attributed to a specific product. Use when your creatives show multiple products (for example, in a carousel ad) and you report by product.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Product Impressions]|The total impressions attributed to a specific product. Use when your creatives show multiple products (for example, in a carousel ad) and you report by product.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Product Revenue]|The total revenue attributed to a specific product. Use when your creatives show multiple products (for example, in a carousel ad) and you report by product.|
+|[!UICONTROL Metrics]|[!UICONTROL Standard]|[!UICONTROL Revenue]|The total revenue.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Completion Rate]|The percentage of views that watched the ad in its entirety.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Completions]|The number of views that watched the ad in its entirety.|
 |[!UICONTROL Metrics]|[!UICONTROL Standard Metrics]|[!UICONTROL 100% Viewable Completion (%)]|The percentage of viewable impressions that watched the ad in its entirety.|
@@ -252,8 +265,8 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
->* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Duplicate a custom report](/help/dsp/reports/report-copy.md)
+>* [Edit a custom report](/help/dsp/reports/report-edit.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)

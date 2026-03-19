@@ -1,10 +1,10 @@
 ---
-title: '[!DNL Adobe] [!DNL Audience Analytics] for Adobe Advertising Customers'
+title: '[!DNL Adobe] [!DNL Audience Analytics] for Adobe Advertising customers'
 description: Learn how to use [!DNL Adobe] [!DNL Audience Analytics] for advertising use cases
 feature: Integration with Adobe Audience Manager
 exl-id: 457d4335-2762-4aab-94b8-12f8a79d109b
 ---
-# [!DNL Adobe] [!DNL Audience Analytics] for Adobe Advertising Customers
+# [!DNL Adobe] [!DNL Audience Analytics] for Adobe Advertising customers
 
 [[!DNL Adobe] [!DNL Audience Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html) is an integration between Adobe Audience Manager and Adobe Analytics that allows Audience Manager customers to send segments to [!DNL Analytics] for enriched insights about site activity. 
 
@@ -20,15 +20,15 @@ Adobe Advertising customers can benefit by using [!DNL Audience Analytics]. The 
 
 * (Advertisers with Advertising DSP) Add additional exposure segments for holistic journey management insights.
 
-  Advertising DSP can send exposure data to Audience Manager as actionable signals through the implementation of either Adobe Experience Platform or Audience Manager impression-tracking pixels. Forwarding the same data to [!DNL Analytics] enables advanced data analysis. See "[Overview of Adobe Advertising Media Data Integration with Adobe Audience Manager](/help/integrations/audience-manager/media-data-integration/overview.md)" for more information.
+  Advertising DSP can send exposure data to Audience Manager as actionable signals through the implementation of either Adobe Experience Platform or Audience Manager impression-tracking pixels. Forwarding the same data to [!DNL Analytics] enables advanced data analysis. See "[Overview of sending DSP media exposure data to Adobe Audience Manager](/help/integrations/audience-manager/media-data-integration/overview.md)" for more information.
 
 For more information about [!DNL Audience Analytics], including its prerequisites and workflow, see "[Audience Analytics overview](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)."
 
-## Examples of How to Use [!DNL Audience Analytics] Data with Adobe Advertising Data
+## Examples of how to use [!DNL Audience Analytics] data with Adobe Advertising data
 
 The following are examples of how you can use the combined data within [!DNL Analytics] [!DNL Analysis Workspace].
 
-### See the Impact of Upper Funnel Activity on Downstream Activity
+### See the impact of upper funnel activity on downstream activity
 
 Use Audience Manager exposure segments to see the impact of upper funnel site activity on downstream site activity. Include Adobe Advertising or third-party macro IDs in your tracking pixels to track the impact on a detailed level, from the campaign level down to the level of the site on which the user was exposed.
 
@@ -44,7 +44,7 @@ The following are examples of reports that you can create in [!DNL Analysis Work
 
 ![See the impact of upper funnel activity on downstream site activity](/help/integrations/assets/audience-analytics-upper-funnel-exposure.png)
 
-### Use [!DNL Audience Analytics] Third-Party Segment Data for User Profile Analysis
+### Use [!DNL Audience Analytics] third-party segment data for user profile analysis
 
 Use third-party Audience Manager segments for a richer analysis of how users are interacting with your site. You can use the information to determine new third-party audiences for which to activate media, based on how profiles from the third-party segments engage with key performance indicators for the media campaigns' sites.
 
@@ -57,4 +57,4 @@ The following are examples of reports that you can create in [!DNL Analysis Work
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Integrations with Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
+>* [Adobe Advertising integrations with Adobe Audience Manager](/help/integrations/audience-manager/overview.md)

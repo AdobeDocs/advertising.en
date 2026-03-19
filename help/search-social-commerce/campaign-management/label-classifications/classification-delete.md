@@ -12,6 +12,24 @@ Deleting a classification removes all associations between its child values and 
 >
 >To simply disassociate a classification value from an account component, see "[Remove classification values from campaign components](classification-values-remove.md)."
 
+## (New UI) Delete label classifications
+
+1. Click **[!UICONTROL Reports] > [!UICONTROL Label Classifications]**.
+
+1. (Optional) Filter the list to include specific label classifications.
+
+1. Select the check box next to each label classification to delete.
+
+   You can delete up to 200 rows at a time.
+
+   For tips on selecting multiple rows, see "[Select multiple rows](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md)."
+
+1. In the bulk actions toolbar, click ![Delete](/help/search-social-commerce/assets/delete.png "Delete").
+
+1. In the confirmation message, click **[!UICONTROL Confirm]**.
+
+## (Legacy UI) Delete label classifications
+
 1. Click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Label Classifications]**.
 
 1. (Optional) Filter the list to include specific label classifications.

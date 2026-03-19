@@ -1,12 +1,12 @@
 ---
-title: Available Third-party Data Providers in Advertising DSP
+title: Available third-party data providers in Advertising DSP
 description: See a list of all available third-party data providers.
 feature: DSP Audiences
 exl-id: 081d1513-b105-4d32-a98c-145c7122cb89
 ---
 <!-- feature: audiences -->
 
-# Available Third-party Data Providers in Advertising DSP
+# Available third-party data providers in Advertising DSP
 
 Data categories and segments for the following third-party data providers are available as placement targets in DSP. These segments are available for primarily U.S. audiences.
 
@@ -37,6 +37,6 @@ For more information about importing custom third-party segments for your accoun
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
->* [Create a Reusable Audience](reusable-audience-create.md)
->* [Audience Settings](audience-settings.md)
+>* [About audience management](audience-about.md)
+>* [Create a reusable audience](reusable-audience-create.md)
+>* [Audience settings](audience-settings.md)

@@ -1,14 +1,14 @@
 ---
-title: Attach and Remove Pixels from Ads
+title: Attach and remove pixels from ads
 description: Learn how to attach and remove third-party tracking pixels from ads.
 feature: DSP Ads
 exl-id: 7b386a58-5300-49cf-9de8-4ce982a5181d
 ---
-# Attach and Remove Pixels from Ads
+# Attach and remove pixels from ads
 
 You can attach and detach third-party tracking pixels from ads.
 
-## Open the [!UICONTROL Ad Tools] View {#ad-tools-open}
+## Open the [!UICONTROL Ad Tools] view {#ad-tools-open}
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
      
@@ -20,7 +20,7 @@ You can attach and detach third-party tracking pixels from ads.
 
    * (From the [!UICONTROL Packages] , [!UICONTROL Placements], or [!UICONTROL Ads] view) In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
 
-## Attach Third-Party Tracking Pixels to Ads in a Placement {#attach-pixels-ads}
+## Attach third-party tracking pixels to ads in a placement {#attach-pixels-ads}
      
 1. [Open the [!UICONTROL Ad Tools] view](#ad-tools-open).
 
@@ -62,7 +62,7 @@ You can attach and detach third-party tracking pixels from ads.
 
 1. (Optional) To return to the campaign detail views, click ![Return to folder](/help/dsp/assets/breadcrumb-return.png "Return to folder") to the left of [!UICONTROL Ad Tools] and select the campaign name.
 
-## Detach Third-Party Tracking Pixels from Ads in a Placement {#detach-pixels-ads}
+## Detach third-party tracking pixels from ads in a placement {#detach-pixels-ads}
      
 1. [Open the [!UICONTROL Ad Tools] view](#ad-tools-open).
 
@@ -86,7 +86,7 @@ You can attach and detach third-party tracking pixels from ads.
 
 1. (Optional) To return to the campaign detail views, click ![Return to folder](/help/dsp/assets/breadcrumb-return.png "Return to folder") to the left of [!UICONTROL Ad Tools] and select the campaign name.
 
-## View Pixels Attached to Ads {#view-pixels-ads}
+## View pixels attached to ads {#view-pixels-ads}
 
 1. [Open the [!UICONTROL Ad Tools] view](#ad-tools-open).
 
@@ -102,15 +102,15 @@ You can attach and detach third-party tracking pixels from ads.
 
 1. Click any ad row in the left table to see the attached pixels in the right table.
 
-1. (Optional) To attach more pixels to the ads, switch to the **[!UICONTROL Edit]** view in the upper right. See Step 3 in the previous procedure, "[Attach Third-Party Tracking Pixels to Ads in a Placement](#attach-pixels-ads)," for instructions.
+1. (Optional) To attach more pixels to the ads, switch to the **[!UICONTROL Edit]** view in the upper right. See Step 3 in the previous procedure, "[Attach third-party tracking pixels to ads in a placement](#attach-pixels-ads)," for instructions.
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
->* [Create a Single Ad](ad-create.md)
->* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Edit an Ad](ad-edit.md)
->* [List the Placements Associated with an Ad](ad-list-placements.md)
->* [Edit the Ad Schedules for Placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
->* [FAQs About Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Attach ads to placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+>* [Create a single ad](ad-create.md)
+>* [Create multiple third-party ads](ad-create-multiple.md)
+>* [Edit an ad](ad-edit.md)
+>* [List the placements associated with an ad](ad-list-placements.md)
+>* [Edit the ad schedules for placements](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
+>* [FAQs about universal video](/help/dsp/campaign-management/faq-universal-video.md)

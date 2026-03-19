@@ -1,10 +1,10 @@
 ---
-title: Collect Click and Impression Data from Advertising DSP Campaigns
+title: Collect click and impression data from Advertising DSP campaigns
 description: Learn how to capture cookie-based impression and click events from Advertising DSP ads using Audience Manager pixels
 feature: Integration with Adobe Audience Manager
 exl-id: d827fbb8-b61a-4601-a42a-1ea60e4f36b7
 ---
-# Collect Media Exposure Data from Advertising DSP Campaigns
+# Collect media exposure data from Advertising DSP campaigns
 
 *Advertisers with Advertising DSP only*
 
@@ -14,14 +14,14 @@ This document explains how to tag Advertising DSP ads to capture cookie-based im
 
 The event pixels don't capture events that occur in cookie-less environments, such as mobile apps and connected TV (CTV).
 
-## Step 1: Set Up a Data Source in Audience Manager {#set-up-data-source}
+## Step 1: Set up a data source in Audience Manager {#set-up-data-source}
 
 In Audience Manager, create a [data source](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html) for the DSP impression and click data. Include the data source ID [in each event tag](#implement-dsp-pixels) so that all tracked events are attributed to the data source.
 
 >[!NOTE]
 > It's possible to collect all impression and click data for advertising campaigns running on multiple DSPs within a single data source.
 
-## Step 2: Implement Impression and Click Event Pixels on Webpages {#implement-dsp-pixels}
+## Step 2: Implement impression and click event pixels on webpages {#implement-dsp-pixels}
 
 Advertisers can create and implement event tags for their own brands. If necessary, contact your Adobe Audience Manager consultant or your Adobe Account Team for support.
 
@@ -29,7 +29,7 @@ Advertisers can create and implement event tags for their own brands. If necessa
 >
 >If your organization uses [!DNL Analytics] tracking, then you may not need Audience Manager click tracking. Adobe Analytics captures click signals and can send them to Audience Manager through [server-side forwarding](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
 
-### Pixel Syntax
+### Pixel syntax
 
 Event pixels must include the following parameters.
 
@@ -57,7 +57,7 @@ Where:
 
 * Each [parameter](#key-value-pairs) is prefixed with `&` and is in the format `d_parameter=parameter_id`, where `parameter` is replaced by the key-value pair for the new field. Example: `&d_placement=${TM_PLACEMENT_ID_NUM}`
 
-### Parameters as Key-Value Pairs {#parameters}
+### Parameters as key-value pairs {#parameters}
 
 **Format:**  `d_parameter=parameter_id`
 
@@ -88,9 +88,9 @@ Example of an impression event pixel:
 
 `http://acme.demdex.net/event?d_event=imp&d_src=1052880&d_site=${TM_SITE_ID_NUM}&d_creative=${TM_AD_ID_NUM}&d_placement=${TM_FEED_ID_NUM}&d_campaign=${TM_CAMPAIGN_ID_NUM}&d_DSP=AdCloud&d_bust=${TM_RANDOM}`
 
-### Where to Add the Pixels 
+### Where to add the pixels 
 
-#### Impression-Tracking Pixel
+#### Impression-tracking pixel
 
 Attach an impression event-tracking pixel to all ads in your [!DNL DSP] campaigns. You can do so in any of the following places:
 
@@ -100,19 +100,19 @@ Attach an impression event-tracking pixel to all ads in your [!DNL DSP] campaign
 
 * (For ads on a third-party ad server) At the ad level within the ad server.
 
-#### Click-Tracking Pixel
+#### Click-tracking pixel
 
 Within the ad server, insert the click event pixel (with the encoded URL appended) wherever you normally insert the ad's click-through URL.
 
-## Step 3: Post-Implementation Tasks
+## Step 3: Post-implementation tasks
 
 Once the event tags are implemented, data flows into the Audience Manager data collection servers. Complete the following tasks before you can use the data in reports.
 
-### Create an [!DNL Amazon S3] Bucket and Data Source
+### Create an [!DNL Amazon S3] bucket and data source
 
 Once your data is on the Audience Manager servers, you must create an [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) bucket, and then a data source, to which all pixel data is sent. Contact your Audience Manager consultant or [Customer Care](https://experienceleague.adobe.com/docs/audience-manager/user-guide/help-and-legal/help-legal-contact.html) if you need support. 
 
-### Create Audience Manager Traits and Segments
+### Create Audience Manager traits and segments
 
 Your event data flows into Audience Manager as [unused signals](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/unused-signals.html). Manually create [rule-based traits](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) from the ingested data, and then create [segments](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html) using those traits, before you can use the data in reports.
 
@@ -126,5 +126,5 @@ Example trait that populates user-level data for users exposed to a specific cre
 >[!MORELIKETHIS]
 >
 >* [DSP Macros](/help/dsp/campaign-management/macros.md)
->* [Overview of Sending DSP Media Exposure Data to Adobe Audience Manager](overview.md)
->* [Use Cases](use-cases.md)
+>* [Overview of sending DSP media exposure data to Adobe Audience Manager](overview.md)
+>* [Use cases](use-cases.md)

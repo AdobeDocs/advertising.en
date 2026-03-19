@@ -1,10 +1,10 @@
 ---
-title: Resend a Pending User Invitation
+title: Resend a pending user invitation
 description: Learn how to resend a pending user invitation.
 role: Admin
 exl-id: 15d17a03-526b-4dc2-883a-131d750fca24
 ---
-# Resend a Pending User Invitation
+# Resend a pending user invitation
 
 *Administrator users only*
 
@@ -20,7 +20,7 @@ Administrator users can resend an invitation to a user with a pending invitation
 
 >[!MORELIKETHIS]
 >
->* [Invite a New User for Your Organization Account](user-invite.md)
->* [Uninvite a Pending User](user-uninvite.md)
+>* [Invite a new user for your organization account](user-invite.md)
+>* [Uninvite a pending user](user-uninvite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

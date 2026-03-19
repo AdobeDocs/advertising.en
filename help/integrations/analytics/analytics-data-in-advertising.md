@@ -8,7 +8,7 @@ exl-id: e11b0617-44e3-4f28-a065-aa9f6cf3eb5d
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
-## Analytics Segments
+## Analytics segments
 
 All segments created in [!DNL Analytics] and published to Experience Cloud.
 
@@ -16,7 +16,7 @@ New segments take 24-48 hours to appear in Adobe Advertising. Updates to existin
 
 <!-- I added "metric" to some of the links below, even though it looks redundant, because of syntax limitations: If you use [!DNL] or [!UICONTROL] as the sole text of a link (such as [[!UICONTROL Revenue]], the tag is included in the link text (such as "[!UICONTROL Revenue]") when it's published. -->
 
-## Site Engagement Metrics
+## Site engagement metrics
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ New segments take 24-48 hours to appear in Adobe Advertising. Updates to existin
 * [[!UICONTROL Visits] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html)
 * [!UICONTROL ef_id_instances]: The number of times that [!DNL Analytics] collected an [!UICONTROL EF ID].
 
-## Conversion Metrics
+## Conversion metrics
 
 [!DNL Analytics] passes conversion metrics to Adobe Advertising daily.
 
-### Standard Conversion Metrics
+### Standard conversion metrics
 
 * [[!UICONTROL Revenue] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/revenue.html)
 * [[!UICONTROL Orders] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/orders.html)
@@ -46,15 +46,15 @@ New segments take 24-48 hours to appear in Adobe Advertising. Updates to existin
 * [[!UICONTROL Cart Additions] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-additions.html)
 * [[!UICONTROL Cart Removals] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-removals.html)
 
-### Custom Conversion Metrics
+### Custom conversion metrics
 
 These metrics are specific to the report suite, so the available metrics vary for each customer and report suite.
 
-### Custom Conversion Metrics Created from [!DNL eVars] and [!DNL Props]
+### Custom conversion metrics created from [!DNL eVars] and [!DNL Props]
 
 The available metrics vary for each customer. See "[Create Conversion Metrics from Adobe Analytics [!DNL eVars] and [!DNL Props]](/help/integrations/analytics/conversion-metrics-from-evars.md)."
 
-### Reserved Conversion Metrics
+### Reserved conversion metrics
 
 These metrics are specific to the report suite, so the available metrics vary for each customer and report suite.
 

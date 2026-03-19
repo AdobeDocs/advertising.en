@@ -7,7 +7,7 @@ index: yes
 ---
 # Advertising Search, Social, & Commerce Guide {#search-social-commerce}
 
-<!-- When we  use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link doesn't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md) -->
+<!-- When we use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link doesn't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md) -->
 
 + [What's new](home.md)
 + [About this guide](help-about.md)
@@ -69,6 +69,7 @@ index: yes
       + [Edit an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-edit.md)
       + [Delete an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-delete.md)
       + [Apply weight recommendations to an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-apply-weight-recommendations.md)
+      + [Download performance metrics for objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-download-performance-data.md)
       + [Objective settings](/help/search-social-commerce/new-ui/goals/objectives/objective-settings.md)
     + Simulations {#simulations}
       + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
@@ -85,6 +86,7 @@ index: yes
       + [Edit portfolio details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md)
       + [Bulk edit portfolio settings using bulksheet files](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-bulksheets.md)
       + [Portfolio settings](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-settings.md)
+      + [View a performance graph in the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-performance-graph.md)
       + [View portfolio performance details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-details.md)
       + [Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
     + Campaigns {#campaigns}
@@ -97,6 +99,34 @@ index: yes
       + [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
       + [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)    
       + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
+    + Ads {#ads}
+      + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
+      + [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
+  + Reports {#reports}
+    + Label classifications {#label-classifications}
+      + [About label classifications](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-about)
+      + [Create a label classification](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-create)
+      + [Assign classification values to account components from campaign management views](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-assign-campaign-management)
+      + [Assign classification values to account components using bulksheets](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-assign-bulksheets)
+      + [Remove label classification values from account components](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-remove)
+      + [Delete label classification values](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-delete)
+      + [Delete label classifications](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-delete)
+  + Target {#target}
+    + Keywords {#keywords}
+      + [About the [!UICONTROL Keywords] view](/help/search-social-commerce/new-ui/target/keywords/keyword-view-about.md)
+      + [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
+    + Placements {#placements}
+      + [About the [!UICONTROL Placements] view](/help/search-social-commerce/new-ui/target/placements/placement-view-about.md)
+      + [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)
+  + Setup {#setup}
+    + Accounts {#accounts}
+      + [About ad network accounts](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)
+      + API connection accounts {#api}
+        + [Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md)
+        + [Manually synchronize ad network data via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/sync-api-accounts.md)
+      + Data upload accounts {#data-upload}
+        + [Manage ad network accounts for data uploads](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)
+      + [Manage [!DNL Naver] accounts for tracking only](/help/search-social-commerce/new-ui/set-up/accounts/template-account-manage.md)
   + [User administration](/help/search-social-commerce/new-ui/user-administration.md)
 + Tracking {#tracking}
   + [About tracking](/help/search-social-commerce/tracking/tracking-about.md)
@@ -120,6 +150,7 @@ index: yes
     + [Conversion tracking options](/help/search-social-commerce/tracking/conversion-tracking-about.md)
     + Adobe Advertising conversion tracking {#advertising-conversion-tracking}
       + [About Adobe Advertising conversion-tracking tags](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
+      + [Generate and implement an Adobe Advertising conversion tag](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/tools/tracking/conversion-tag-generate)
       + [Format of JavaScript conversion tracking tags version 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
       + [Format of JavaScript conversion tracking tags version 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
       + [Format of image conversion tracking tags](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
@@ -345,6 +376,7 @@ index: yes
           + [The [!UICONTROL Bing Ads Geo Report]](/help/search-social-commerce/reports/management/specialty/bing-ads-geo-report.md)
           + [The [!UICONTROL Bing Ads Search Query Report]](/help/search-social-commerce/reports/management/specialty/bing-ads-search-query-report.md)
           + [The [!UICONTROL Campaign Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/campaign-daily-impression-share-report.md)
+          + [The [!UICONTROL Google AI Max Search Term Combination Report]](/help/search-social-commerce/reports/management/specialty/google-ai-max-search-term-combination-report.md)
           + [The [!UICONTROL Google Asset Group Performance Report]](/help/search-social-commerce/reports/management/specialty/google-asset-group-performance-report.md)
           + [The [!UICONTROL Google Performance Max Placement Report]](/help/search-social-commerce/reports/management/specialty/google-performance-max-placement-report.md)
           + [The [!UICONTROL Keyword Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/keyword-daily-impression-share-report.md)
@@ -419,7 +451,7 @@ index: yes
       + [About the tools to create and decode tracking tags](/help/search-social-commerce/tools/tracking-tools-about.md)
       + [Generate a click-tracking URL](/help/search-social-commerce/tools/click-tracking-url-generate.md)
       + [Decode a click-tracking URL](/help/search-social-commerce/tools/click-tracking-url-decode.md)
-      + [Generate an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
+      + [Generate and implement an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
   + Uploading conversion data to ad networks {#upload-ad-networks}
     + [Upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
     + [Enable uploading of objectives to ad networks](/help/search-social-commerce/tools/objective-upload-to-networks.md)

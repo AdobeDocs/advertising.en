@@ -1,15 +1,15 @@
 ---
 role: User
-user-guide-title: Adobe Advertising Policies and Guidelines
+user-guide-title: Adobe Advertising policies and guidelines
 user-guide-description: Learn about the policies and guidelines for Advertising DSP and [!DNL Advertising Search, Social, & Commerce].
-breadcrumb-title: Policies and Guidelines
+breadcrumb-title: Policies and guidelines
 index: yes
 ---
 
-# Adobe Advertising Policies and Guidelines {#policies}
+# Adobe Advertising policies and guidelines {#policies}
 
-+ [About Adobe Advertising Policies and Guidelines](/help/policies/home.md)
-+ [Ads Requirements Policy](/help/policies/ad-requirements-policy.md)
-+ [Universal ID Requirements Policy](/help/policies/universal-id-policy.md)
-+ [Acceptable Health Segment Guidelines](/help/policies/health-segment-guidelines.md)
-+ [[!DNL DSP] Data Usage Guidelines](/help/policies/data-usage-guidelines.md)
++ [About Adobe Advertising policies and guidelines](/help/policies/home.md)
++ [Ads requirements policy](/help/policies/ad-requirements-policy.md)
++ [Universal ID requirements policy](/help/policies/universal-id-policy.md)
++ [Acceptable health segment guidelines](/help/policies/health-segment-guidelines.md)
++ [[!DNL DSP] data usage guidelines](/help/policies/data-usage-guidelines.md)

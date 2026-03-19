@@ -1,10 +1,10 @@
 ---
-title: About Alert Subscriptions
+title: About alert subscriptions
 description: Learn about automatic email alerts.
 role: User, Admin
 exl-id: f3578f10-4f66-4133-a6e0-1ca8001dd2c9
 ---
-# About Alert Subscriptions
+# About alert subscriptions
 
 You can create groups of automatic email alerts, called subscriptions, which send email notifications when specified account, campaign, ad, and private inventory deal parameters are met.
 
@@ -16,7 +16,7 @@ You can add or remove alerts from a subscription, edit the users who receive ema
 >
 > If you're not actively checking campaign reports, set up email reports as soon as possible after you launch a campaign.
 
-## Available Alerts
+## Available alerts
 
 * Account
 
@@ -56,4 +56,4 @@ You can add or remove alerts from a subscription, edit the users who receive ema
 
 >[!MORELIKETHIS]
 >
->[Manage Alert Subscriptions](alerts-manage.md)
+>[Manage alert subscriptions](alerts-manage.md)

@@ -104,4 +104,5 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 >
 >* [Dynamic creative settings](creative-settings-dynamic.md)
 >* [Edit a dynamic creative in a creative library](creative-edit-dynamic.md)
+>* [View the change log for a creative](/help/creative/creative-libraries/creative-view-change-log.md)
 >* [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)

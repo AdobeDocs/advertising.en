@@ -1,12 +1,12 @@
 ---
-title: Manage Alert Subscriptions
+title: Manage alert subscriptions
 description: Learn how to manage automatic email alerts.
 role: User, Admin
 exl-id: 9f47aa2a-54c4-4fdc-b289-6c3586cc18e6
 ---
-# Manage Alert Subscriptions
+# Manage alert subscriptions
 
-## Add a Subscription
+## Add a subscription
 
 1. In the main menu, click **[!UICONTROL Settings]** > **[!UICONTROL Notifications]**.
 
@@ -30,7 +30,7 @@ exl-id: 9f47aa2a-54c4-4fdc-b289-6c3586cc18e6
 
 1. Click **Save**.
 
-## Manage the Alerts for a Subscription
+## Manage the alerts for a subscription
 
 * To add an alert to a subscription:
 
@@ -58,7 +58,7 @@ exl-id: 9f47aa2a-54c4-4fdc-b289-6c3586cc18e6
 
 * To remove an alert from a subscription, click **[!UICONTROL X]** to the right of the alert name.
 
-## Manage the Subscribers to a Subscription
+## Manage the subscribers to a subscription
 
 * To add subscriber to a subscription, enter the email addresses in the input field under **[!UICONTROL Subscribers]**.
 
@@ -66,11 +66,11 @@ exl-id: 9f47aa2a-54c4-4fdc-b289-6c3586cc18e6
 
 * To remove subscriber to a subscription, click **[!UICONTROL X]** next to the email address under **[!UICONTROL Subscribers]**.
 
-## Disable or Enable a Subscription
+## Disable or enable a subscription
 
 * To the left of the subscription name, move the toggle to the left to disable the subscription or to the right to enable the subscription.
 
-## Delete a Subscription
+## Delete a subscription
 
 1. To the right of the subscription name, click **[!UICONTROL X]**.
 
@@ -78,4 +78,4 @@ exl-id: 9f47aa2a-54c4-4fdc-b289-6c3586cc18e6
 
 >[!MORELIKETHIS]
 >
->[About Alert Subscriptions](alerts-about.md)
+>[About alert subscriptions](alerts-about.md)

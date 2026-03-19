@@ -1,10 +1,10 @@
 ---
-title: Delete a Reusable Audience
+title: Delete a reusable audience
 description: Learn how to delete a reusable audience.
 feature: DSP Audiences
 exl-id: cc9afa22-1b90-4709-b7af-d9c1ee16aa16
 ---
-# Delete a Reusable Audience
+# Delete a reusable audience
 
 You can delete an audience that isn't used in any placements or other reusable audiences.
 
@@ -22,14 +22,14 @@ If an audience is currently used, then you have the option to export a [!DNL Mic
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
->* [Create a Reusable Audience](reusable-audience-create.md)
->* [Duplicate a Reusable Audience](reusable-audience-duplicate.md)
->* [Edit a Reusable Audience](reusable-audience-edit.md)
->* [View Details About a Reusable Audience](reusable-audience-view-details.md)
->* [Share a Reusable Audience](reusable-audience-share.md)
->* [Export a Reusable Audience](reusable-audience-export.md)
->* [Copy the Segment Key for a Reusable Audience to the Clipboard](reusable-audience-clipboard.md)
->* [Audience Settings](audience-settings.md)
->* [Syntax for Audience Segment Logic](audience-segment-logic-syntax.md)
->* [Available Third-party Data Providers](third-party-data-providers.md)
+>* [About audience management](audience-about.md)
+>* [Create a reusable audience](reusable-audience-create.md)
+>* [Duplicate a reusable audience](reusable-audience-duplicate.md)
+>* [Edit a reusable audience](reusable-audience-edit.md)
+>* [View details about a reusable audience](reusable-audience-view-details.md)
+>* [Share a reusable audience](reusable-audience-share.md)
+>* [Export a reusable audience](reusable-audience-export.md)
+>* [Copy the segment key for a reusable audience to the clipboard](reusable-audience-clipboard.md)
+>* [Audience settings](audience-settings.md)
+>* [Syntax for audience segment logic](audience-segment-logic-syntax.md)
+>* [Available third-party data providers](third-party-data-providers.md)

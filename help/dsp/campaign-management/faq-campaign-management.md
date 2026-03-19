@@ -1,14 +1,14 @@
 ---
-title: FAQs About Campaign Management
+title: FAQs about campaign management
 description: Learn more about campaign management, including the latency period for changes and what happens when you make budget changes during a flight.
 feature: DSP Packages, DSP Placements
 exl-id: 8a443543-ebb1-4273-a007-afef07d32d8c
 ---
-# FAQs About Campaign Management
+# FAQs about campaign management
 
 <!-- Most of this information should be moved into the relevant topics (especially editing topics). -->
 
-## Latency of Setting Changes
+## Latency of setting changes
 
 * When you change a placement or package setting, when does the change take effect?
 
@@ -16,7 +16,7 @@ exl-id: 8a443543-ebb1-4273-a007-afef07d32d8c
 
     If it's the final day of delivery, make changes early in the day so DSP has plenty of time to recalibrate the package based on the changes. For example, if you change from even pacing to frontload pacing, DSP needs to reassess how to distribute spend throughout the remainder of the flight. Don't make that kind of change if you only have one hour left to deliver on the final day of the flight.
 
-## Budget Updates Mid-Flight
+## Budget updates mid-flight
 
 * When you make a change to a placement, how long does DSP take to reallocate the package budget?
 
@@ -38,6 +38,6 @@ exl-id: 8a443543-ebb1-4273-a007-afef07d32d8c
 
 >[!MORELIKETHIS]
 >
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Best practices for setting up performance campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)

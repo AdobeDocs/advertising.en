@@ -1,10 +1,10 @@
 ---
-title: Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags
+title: Append [!DNL Analytics for Advertising] macros to [!DNL Google Campaign Manager 360] ad tags
 description: Learn why and how to add [!DNL Analytics for Advertising] macros to your [!DNL Google Campaign Manager 360] ad tags
 feature: Integration with Adobe Analytics
 exl-id: 89cd4e1d-277a-4a43-9c38-ae6641302e09
 ---
-# Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags
+# Append [!DNL Analytics for Advertising] macros to [!DNL Google Campaign Manager 360] ad tags
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
@@ -22,7 +22,7 @@ Use macros for [!DNL Campaign Manager 360] display and video ads for the followi
 
 * **Advertisers whose websites don't use the [!DNL Analytics for Advertising] JavaScript code and instead rely on [!DNL Analytics] server-side forwarding for click-through data only** (without any view-through data): The following macros are required to report on-site click activity driven from ads you buy through Adobe Advertising.
 
-## Append the Macros to Your [!DNL Google Campaign Manager 360] Ads
+## Append the macros to your [!DNL Google Campaign Manager 360] ads
 
 Within [!DNL Google Campaign Manager 360], append to the following parameter to the landing page URL for each of your display and video ads: `%pamo=!;`
 
@@ -39,22 +39,22 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 >>* If the landing page URL includes a hash symbol (#), which is not common, then place the `amo` parameter before the hash symbol.
 >* If no other parameters are included after the `amo` parameter, then add a parameter (for example, &a=b) after it. Example: `https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
-### Configure the Advertiser-Level Landing Page URL Suffix
+### Configure the advertiser-level landing page URL suffix
 
 1. See the [instructions to open the advertiser properties](https://support.google.com/campaignmanager/answer/2829344).
 1. In the [!UICONTROL Landing page URL suffix] settings, include `%pamo!;` in the [!UICONTROL URL suffix] field.
 
-### Configure the Campaign-Level Landing Page URL Suffix
+### Configure the campaign-level landing page URL suffix
 
 1. See the [instructions to open the campaign properties](https://support.google.com/campaignmanager/answer/2838056#set).
 1. In the [!UICONTROL Landing page URL suffix] settings, include `%pamo!;` in the [!UICONTROL URL suffix] field.
 
-### Configure the Creative-Level Landing Page URL Suffix
+### Configure the creative-level landing page URL suffix
 
 1. Open the creative properties.
 1. In the [!UICONTROL Click tags] setting, include `%pamo!;` in the [!UICONTROL Landing page] column for the click tag.
 
-## How [!DNL Analytics for Advertising] Macros Are Expanded in DSP
+## How [!DNL Analytics for Advertising] macros are expanded in DSP
 
 In DSP, when you create an ad that includes the [!DNL Analytics for Advertising] parameter (`amo`), the `ef_id` and `s_kwcid` macros are automatically appended to the click URL. The best practice is to check the tag in DSP to ensure that the `ef_id` and `s_kwcid` macros are present.
 
@@ -77,5 +77,5 @@ When a user clicks the ad, [!DNL Google Campaign Manager 360] sees `%pamo` in th
 >[!MORELIKETHIS]
 >
 >* [Overview of [!DNL Analytics for Advertising]](overview.md)
->* [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
+>* [Adobe Advertising IDs used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
 >* [Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](macros-flashtalking.md)

@@ -1,12 +1,12 @@
 ---
-title: Adobe Advertising Support for Consumer Privacy
+title: Adobe Advertising support for consumer privacy
 description: Adobe Advertising provides security and privacy controls to help advertiser customers comply with consumer privacy laws.
 cloud: Experience Cloud
 product: advertising cloud
 index: yes
 exl-id: 1f9b2866-c0c6-4733-a687-d72eb4014598
 ---
-# Adobe Advertising Support for Consumer Privacy
+# Adobe Advertising support for consumer privacy
 
 Adobe Advertising provides security and privacy controls to help advertiser customers comply with the following consumer privacy laws:
 
@@ -14,7 +14,7 @@ Adobe Advertising provides security and privacy controls to help advertiser cust
 
 * The California Consumer Privacy Act (CCPA)
 
-## What's New
+## What's new
 
 The following features are new or recently changed. 
 

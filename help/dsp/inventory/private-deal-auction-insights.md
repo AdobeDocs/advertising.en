@@ -1,10 +1,10 @@
 ---
-title: View Auction Insights for a Private Deal
+title: View auction insights for a private deal
 description: Learn how to use auction insights to analyze the deal composition of private deal.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: bbb99f6a-0276-4eb8-9607-75500d5634d9
 ---
-# View Auction Insights for a Private Deal
+# View auction insights for a private deal
 
 Auction Insights is a troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for [key auction attributes](#auction-attributes) within a specific time period.
 
@@ -16,7 +16,7 @@ Auction Insights is a troubleshooting tool that allows you to analyze the deal c
 >
 >Auction Insights are also available through the placement [!UICONTROL Inspector] tool. To open them, [open the placement [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) to the [!UICONTROL Inventory tab], and then click **[!UICONTROL ...]** > **[!UICONTROL Auction Insights]** in the deal row.
 
-## Auction Attributes {#auction-attributes}
+## Auction attributes {#auction-attributes}
 
 Area charts are available for the following auction attributes:
 
@@ -42,7 +42,7 @@ Area charts are available for the following auction attributes:
 
 >[!MORELIKETHIS]
 >
->* [About Private Inventory](private-inventory-about.md)
->* [Specify Placements and Ads for a Deal ID](deal-id-attach-placements.md)
->* [View a Detailed Report for a Deal](deal-view-report.md)
->* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [About private inventory](private-inventory-about.md)
+>* [Specify placements and ads for a deal ID](deal-id-attach-placements.md)
+>* [View a detailed report for a deal](deal-view-report.md)
+>* [Types of performance reports in campaign management views](/help/dsp/campaign-management/reports/campaign-reports-about.md)

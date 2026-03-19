@@ -1,16 +1,16 @@
 ---
-title: Create a Reusable Audience Using Generative AI
+title: Create a reusable audience using generative AI
 description: Learn how to create reusable audiences in Adobe Advertising DSP using the AI-assisted audience agent. Describe your target audience in natural-language prompts; the agent suggests third-party segments and builds audience expressions for use as targets or exclusions.
 feature: DSP Audiences
 hidefromtoc: yes
 hide: yes
 exl-id: 82c9f122-2bdd-409f-a4d6-1da21ecbe913
 ---
-# Create a Reusable Audience Using Generative AI
+# Create a reusable audience using generative AI
 
 *Beta feature*
 
-*Prompts in the English language only*
+*Support for English only*
 
 <!-- I thought it was all segment types? -->
 
@@ -24,7 +24,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 >
 >This feature is in beta mode and is subject to change. Make sure that the generated audience expression represents the audience you want before creating the audience and using it for your placements.
 
-## Create a Reusable Audience Using Generative AI
+## Create a reusable audience using generative AI
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**.
 
@@ -44,7 +44,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
    1. Enter one or more prompts to describe the audience characteristics you want to include and exclude. To submit each prompt, click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
 
-      For more information, see "[Writing Prompts](#writing-prompts)" and "[Best Practices for Creating an Audience Brief](#audience-brief-best-practices)."
+      For more information, see "[Writing prompts](#writing-prompts)" and "[Best practices for creating an audience brief](#audience-brief-best-practices)."
 
       As the audience agent finds relevent segments, it creates an audience expression based on your criteria. It also asks for your approval before looking for matching segments to assemble the audience.
 
@@ -64,7 +64,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
    >
    >You can't later edit the audience using the audience agent. Instead, [edit the audience expression manually](/help/dsp/audiences/reusable-audience-edit.md).
 
-## Basics of Writing Prompts {#writing-prompts}
+## Basics of writing prompts {#writing-prompts} 
 
 ### What should a prompt include?
 
@@ -88,7 +88,7 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
   
   The audience agent won't automatically save a generated audience expression as an audience. You can only save an audience by clicking the [!UICONTROL Create] button, which is outside of the prompt area, so you can undo any changes that you don't want to keep.
 
-See "[Best Practices for Creating an Audience Brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
+See "[Best practices for creating an audience brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
 
 <!-- I think these are happening later:
 
@@ -133,11 +133,11 @@ Your reply:  `1`, `proceed`, `2`, `maximum reach`, and so on.
 
 You can also ignore the request and continue to specify additional audience criteria instead.
 
-## Best Practices for Creating an Audience Brief {#audience-brief-best-practices}
+## Best practices for creating an audience brief {#audience-brief-best-practices}
 
 An audience brief is a strategic writeup that defines the target audience for a campaign. A well-crafted brief helps the DSP audience agent identify the most relevant segments to assemble your targetable audience.
 
-### Essential Components of an Effective Audience Brief
+### Essential components of an effective audience brief
 
 Include as many audience attribute types as possible from the following list in your brief. Be specific about attributes you want to exclude.
 
@@ -182,7 +182,7 @@ Include as many audience attribute types as possible from the following list in 
 
   Current phase understanding including career stage (student, entry-level, mid-career, executive, retired), family stage (newlyweds, new parents, empty nesters), and major life transitions.
 
-### Example of a Well-Structured Audience Brief for a Prospecting Campaign
+### Example of a well-structured audience brief for a prospecting campaign
 
 The following is an example of a strong audience brief for a campaign to drive awareness and trial for a premium meal kit subscription service:
 
@@ -190,10 +190,10 @@ The following is an example of a strong audience brief for a campaign to drive a
 
 >[!MORELIKETHIS]
 >
->* [Duplicate a Reusable Audience](/help/dsp/audiences/reusable-audience-duplicate.md)
->* [Edit a Reusable Audience](/help/dsp/audiences/reusable-audience-edit.md)
->* [View Details About a Reusable Audience](/help/dsp/audiences/reusable-audience-view-details.md)
->* [Share a Reusable Audience](/help/dsp/audiences/reusable-audience-share.md)
->* [Export a Reusable Audience](/help/dsp/audiences/reusable-audience-export.md)
->* [Copy the Segment Key for a Reusable Audience to the Clipboard](/help/dsp/audiences/reusable-audience-clipboard.md)
->* [Delete a Reusable Audience](/help/dsp/audiences/reusable-audience-delete.md)
+>* [Duplicate a reusable audience](/help/dsp/audiences/reusable-audience-duplicate.md)
+>* [Edit a reusable audience](/help/dsp/audiences/reusable-audience-edit.md)
+>* [View details about a reusable audience](/help/dsp/audiences/reusable-audience-view-details.md)
+>* [Share a reusable audience](/help/dsp/audiences/reusable-audience-share.md)
+>* [Export a reusable audience](/help/dsp/audiences/reusable-audience-export.md)
+>* [Copy the segment key for a reusable audience to the clipboard](/help/dsp/audiences/reusable-audience-clipboard.md)
+>* [Delete a reusable audience](/help/dsp/audiences/reusable-audience-delete.md)

@@ -9,9 +9,18 @@ exl-id: 7d261ac3-5d89-4357-9866-19a7e3aab837
 
 *Beta feature*
 
-The [!UICONTROL Manage] > [!UICONTROL Campaigns] view lists all campaigns in your account. You can open a list of ad groups in the campaign by clicking the campaign name.
+The [!UICONTROL Manage] > [!UICONTROL Campaigns] view lists all campaigns  in the filtered view for the selected advertiser account. You can open a list of ad groups in the campaign by clicking the campaign name.
 
 ## Available actions
+
+<!-- Not available as of 3/4/26:
+
+* [View a performance graph across all campaigns in the view](campaign-view-performance-graph.md)
+-->
+
+* Rename a campaign from within the row.
+
+* Delete or change the status of a campaign from within the row.
 
 * [Assign campaigns to existing or new portfolios](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio), and [unassign campaigns from portfolios](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
 

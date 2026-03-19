@@ -1,10 +1,10 @@
 ---
-title: Keyboard Shortcuts
+title: Keyboard shortcuts
 description: Reference the keyboard shortcuts available within placement settings.
 feature: DSP Placements
 exl-id: d1711166-8f20-4641-a1f5-c865a40ad387
 ---
-# Keyboard Shortcuts
+# Keyboard shortcuts
 
 Within placement settings, use keyboard shortcuts to quickly navigate<!-- and to create ads and placements -->.
 
@@ -28,6 +28,6 @@ Within placement settings, use keyboard shortcuts to quickly navigate<!-- and to
 
 >[!MORELIKETHIS]
 >
->* [Create a Placement](/help/dsp/campaign-management/placements/placement-create.md)
->* [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Create a placement](/help/dsp/campaign-management/placements/placement-create.md)
+>* [Edit placements](/help/dsp/campaign-management/placements/placement-edit.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

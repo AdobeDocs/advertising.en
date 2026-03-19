@@ -1,10 +1,10 @@
 ---
-title: View a Placement Change Log
+title: View a placement change log
 description: Learn how to view changes made to the placement.
 feature: DSP Placements
 exl-id: d9fc6ead-0a0e-415d-8352-284db12dde1b
 ---
-# View the Change Log for a Placement
+# View the change log for a placement
 
 Change logs show changes made to the placement during the selected date range, including the type of change, the new and old values, the user who made the change, and the date. You can optionally add notes to any entry.
 
@@ -29,10 +29,10 @@ You can sort the data by the Type, Modified By, or Date Modified column.
 
 >[!MORELIKETHIS]
 >
->* [About Placement Management](placement-about.md)
->* [Create a Placement](placement-create.md)
->* [Edit Placements](placement-edit.md)
->* [Duplicate a Placement](placement-duplicate.md)
->* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
->* [Deactivate or Activate a Placement](placement-pause-activate.md)
->* [Placement Settings](placement-settings.md)
+>* [About placement management in Advertising DSP](placement-about.md)
+>* [Create a placement](placement-create.md)
+>* [Edit placements](placement-edit.md)
+>* [Duplicate a placement](placement-duplicate.md)
+>* [Edit the ad schedules for placements](placement-edit-ad-schedule.md)
+>* [Deactivate or activate a placement](placement-pause-activate.md)
+>* [Placement settings](placement-settings.md)

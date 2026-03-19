@@ -1,10 +1,10 @@
 ---
-title: FAQs About Universal Video
+title: FAQs about universal video
 description: Learn more about universal video ads.
 feature: DSP Placements, DSP Ads
 exl-id: 48c744ae-90a3-47e9-a5dc-c4e3c01b75a0
 ---
-# FAQs About Universal Video
+# FAQs about universal video
 
 [Universal video ads](/help/dsp/campaign-management/ads/ad-about.md#ad-types) allow you to target video inventory from desktop, mobile, and connected TV environments for VPAID and VAST inventory using a single video placement.
 
@@ -32,11 +32,11 @@ Create universal video placements and ads similarly to how you create other type
    * **[!UICONTROL VPAID & VAST (Default)]:** Includes inventory that doesn't allow viewability measurement.
    * **[!UICONTROL VAST]** - Suitable for connected TV inventory.
 
-   See "[Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)" for more information.
+   See "[Universal video ad settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)" for more information.
 
 1. [Attach the new universal video ads](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) to the universal video placement.
 
-## Why are some optimization goals and packages unavailable when the Connected TV environment is selected for a universal video placement?
+## Why are some optimization goals and packages unavailable when the connected TV environment is selected for a universal video placement?
 
 Goals that are incompatible with standard connected TV placements, such as Lowest Cost per Click, aren't supported for the connected TV environment in universal video placements. Similarly, packages with incompatible optimization goals are also unavailable for selection. 
 

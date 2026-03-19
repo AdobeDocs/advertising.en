@@ -1,23 +1,23 @@
 ---
-title: Review and Edit Ad Details Using Bulksheets
+title: Review and edit ad details using bulksheets
 description: Learn how to review ad settings in bulk using spreadsheets.
 feature: DSP Ads
 exl-id: a223d4e1-2264-49fa-8579-817e7ea6ea56
 ---
-# Review and Edit Ad Details Using Bulksheets
+# Review and edit ad details using bulksheets
 
 <!-- I should probably change this filename and get __?__ to set up a redirect from the old file to the new file. -->
 
 You can download details about all ads in a campaign in XLSX (Excel spreadsheet) format for review. The *bulksheet* details include one tab with the settings and associated placements for each ad and another tab with each pixel used for ads in the campaign.
 
-To edit the ad details, see "[Review and Edit Campaign Component Settings Using Bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)."
+To edit the ad details, see "[Review and edit campaign component settings using bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)."
 
 >[!NOTE]
 >
->*To edit individual ad settings, see also "[Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)."
->*To change the third-party tracking pixels for multiple ads at once or to attach ads to placements, see also "[Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)."
+>*To edit individual ad settings, see also "[Edit an ad](/help/dsp/campaign-management/ads/ad-edit.md)."
+>*To change the third-party tracking pixels for multiple ads at once or to attach ads to placements, see also "[Attach ads to placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)."
 
-## Download Details for All Ads in a Campaign
+## Download details for all ads in a campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -39,16 +39,16 @@ To edit the ad details, see "[Review and Edit Campaign Component Settings Using 
    
    * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
    
-     The file is saved to the browser's Downloads folder.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
+     The file is saved to the browser's Downloads folder.<!-- See "[Placement columns in downloaded/uploaded spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
 >[!MORELIKETHIS]
 >
->* [Edit an Ad](/help/dsp/campaign-management/ads/ad-edit.md)
->* [Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
->* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [Connected TV Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Native Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
->* [Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
+>* [Edit an ad](/help/dsp/campaign-management/ads/ad-edit.md)
+>* [Attach ads to placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+>* [Audio ad settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [Connected TV settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Display ad settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Mobile ad settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Native display ad settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Pre-roll ad settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Universal video ad settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)

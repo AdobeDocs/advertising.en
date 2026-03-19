@@ -1,10 +1,10 @@
 ---
-title: Share or Stop Sharing a Segment
+title: Share or stop sharing a segment
 description: Learn how to share or stop sharing a custom or CCPA opt-out of sale segment with other DSP user accounts.
 feature: DSP Segments
 exl-id: ea5cafb3-58b0-4b05-9b02-c022466d9b8c
 ---
-# Share or Stop Sharing a Segment
+# Share or stop sharing a segment
 
 You can share your custom segments and CCPA opt-out of sale segments with additional DSP user accounts. Sharing a segment makes the segment available at [!UICONTROL Audiences] > [!UICONTROL Segments] and on the [!UICONTROL Custom Segments] tab in the specified users' placements and reusable audiences.
 
@@ -26,8 +26,8 @@ You can also stop sharing a segment with other DSP user accounts.
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
->* [Create a Custom Segment](custom-segment-create.md)
->* [Edit Segment Information](segment-edit.md)
->* [Delete a Segment](segment-delete.md)
->* [View Tracking Pixels for a Segment](segment-view-pixels.md)
+>* [About audience management](audience-about.md)
+>* [Create a custom segment](custom-segment-create.md)
+>* [Edit segment information](segment-edit.md)
+>* [Delete a segment](segment-delete.md)
+>* [View tracking pixels for a segment](segment-view-pixels.md)

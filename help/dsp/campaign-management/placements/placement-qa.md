@@ -1,10 +1,10 @@
 ---
-title: Review and Edit Placement Settings Using Bulksheets
+title: Review and edit placement settings using bulksheets
 description: Learn how to review and edit key placement settings in bulk using spreadsheets.
 feature: DSP Placements
 exl-id: 2de4407d-eb3b-44ff-893c-9fdf6921d4b3
 ---
-# Review and Edit Placement Settings Using Bulksheets
+# Review and edit placement settings using bulksheets
 
 You can download the settings for one or more placements, or for all placements in a campaign, in XLSX ([!DNL Microsoft Excel] spreadsheet) format for review. Use this feature to quickly review such details as:
 
@@ -16,9 +16,9 @@ To update multiple settings at once, you can make changes to select fields, save
 
 >[!TIP]
 >
->To quickly edit more fields for one or more placements, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
+>To quickly edit more fields for one or more placements, see "[Edit placements](/help/dsp/campaign-management/placements/placement-edit.md)."
 
-## Download Settings for All Placements in a Campaign
+## Download settings for all placements in a campaign
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -40,9 +40,9 @@ To update multiple settings at once, you can make changes to select fields, save
 
     * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
 
-    The file is saved to the browser's Downloads folder.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
+    The file is saved to the browser's Downloads folder.<!-- See "[Placement columns in downloaded/uploaded spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
-## Download Settings for Specific Placements
+## Download settings for specific placements
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -62,11 +62,11 @@ To update multiple settings at once, you can make changes to select fields, save
 
     * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
 
-    The file is saved to the browser's Downloads folder.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
+    The file is saved to the browser's Downloads folder.<!-- See "[Placement columns in downloaded/uploaded spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
     To edit any of the settings, edit the file directly and then upload the changes.  All editable columns are highlighted in blue. To use the correct format for a field, select and copy the value from the relevant package setting or placement setting. For some target settings, such as dayparting, custom goals, and conversion metrics, a copy option is available within the setting.
 
-## Upload a Bulksheet with Placement Settings {#upload-bulksheet-placement}
+## Upload a bulksheet with placement settings {#upload-bulksheet-placement}
 
 You can upload settings for your placements, and for the ads and packages associated with the placements, in a bulksheet file.
 
@@ -93,7 +93,7 @@ You can upload settings for your placements, and for the ads and packages associ
   When any setting update fails, you can download a bulksheet error file with color coding to show which settings (rows) were saved and which failed, with a reason for each failure. You can then address the issues within the same file and upload it again to process the corrected information.
 
 <!--
-## Placement Setting Columns in Downloaded/Uploaded Bulksheets{#qa-sheet-columns}
+## Placement setting columns in downloaded/uploaded bulksheets{#qa-sheet-columns}
 
 >[!TIP]
 >
@@ -226,6 +226,6 @@ Check on Brand Safety - Contextual Filtering # with new DV feature/fct change.
 
 >[!MORELIKETHIS]
 >
->* [Review and Edit Campaign Component Settings Using Bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)
->* [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Review and edit campaign component settings using bulksheets](/help/dsp/campaign-management/campaign-components-review-edit.md)
+>* [Edit placements](/help/dsp/campaign-management/placements/placement-edit.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

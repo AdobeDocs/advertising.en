@@ -1,10 +1,10 @@
 ---
-title: Duplicate a Campaign
+title: Duplicate a campaign
 description: Learn how to duplicate a campaign.
 feature: DSP Campaigns
 exl-id: 4e42bd5b-e8a9-45be-af5c-367c48d0b131
 ---
-# Duplicate a Campaign
+# Duplicate a campaign
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
@@ -16,7 +16,7 @@ Duplicate a campaign to create a new campaign with similar settings. You can:
 
 * Modify the flight dates of the new campaign
 
-See "[What's Not Duplicated](#campaign-not-duplicated)" for a list of placement settings that aren't duplicated.
+See "[What's not duplicated](#campaign-not-duplicated)" for a list of placement settings that aren't duplicated.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -32,7 +32,7 @@ See "[What's Not Duplicated](#campaign-not-duplicated)" for a list of placement 
 
 1. Click **[!UICONTROL Submit]**.
 
-## What's Not Duplicated {#campaign-not-duplicated}
+## What's not duplicated {#campaign-not-duplicated}
 
 All settings from the original placements are duplicated except:
 
@@ -47,7 +47,7 @@ All settings from the original placements are duplicated except:
    * Ads
    * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segments (which override the advertiser-level segments)
 
-## Best Practices to Configure the New Campaign
+## Best practices to configure the new campaign
 
 >[!TIP]
 >
@@ -78,8 +78,8 @@ All settings from the original placements are duplicated except:
 
 >[!MORELIKETHIS]
 >
->* [About Campaign Management](campaign-about.md)
->* [Create a Campaign](campaign-create.md)
->* [Edit a Campaign](campaign-edit.md)
->* [View the Change Log for a Campaign](campaign-change-log.md)
->* [Campaign Settings](campaign-settings.md)
+>* [About campaign management in Advertising DSP](campaign-about.md)
+>* [Create a campaign](campaign-create.md)
+>* [Edit a campaign](campaign-edit.md)
+>* [View the change log for a campaign](campaign-change-log.md)
+>* [Campaign settings](campaign-settings.md)

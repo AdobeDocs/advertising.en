@@ -1,10 +1,10 @@
 ---
-title: Troubleshooting Performance
+title: Troubleshooting performance
 description: Reference common performance issues and see how to troubleshoot them.
 feature: DSP Optimization
 exl-id: b87f8556-1908-40c1-9f98-fbdc6d9b59b1
 ---
-# Troubleshooting Performance
+# Troubleshooting performance
 
 | Issue | Possible Cause | Actions to Take|
 | --- | --- | --- |
@@ -25,6 +25,6 @@ exl-id: b87f8556-1908-40c1-9f98-fbdc6d9b59b1
 
 >[!MORELIKETHIS]
 >
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Campaign settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)

@@ -1,10 +1,10 @@
 ---
-title: Quickly Edit Key Placement Settings
+title: Quickly edit key placement settings
 description: Learn how to quickly change key placement settings.
 feature: DSP Placements
 exl-id: b5f83573-112a-4fa1-9f7f-f0fea8e3d079
 ---
-# Quickly Edit Key Placement Settings
+# Quickly edit key placement settings
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
@@ -12,7 +12,7 @@ You can edit the placement name, status, maximum bid, and budget without opening
 
 >[!TIP]
 >
-> To edit any placement setting, see "[Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)."
+> To edit any placement setting, see "[Edit placements](/help/dsp/campaign-management/placements/placement-edit.md)."
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
@@ -23,13 +23,13 @@ You can edit the placement name, status, maximum bid, and budget without opening
 
 >[!MORELIKETHIS]
 >
->* [About Placement Management](placement-about.md)
->* [Create a Placement](placement-create.md)
->* [Edit Placements](placement-edit.md)
->* [Duplicate a Placement](placement-duplicate.md)
->* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
->* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
->* [Deactivate or Activate a Placement](placement-pause-activate.md)
->* [View the Change Log for a Placement](placement-change-log.md)
->* [Placement Settings](placement-settings.md)
->* [Video: How to Edit Placements Using Bulk Edit Tools](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)
+>* [About placement management in Advertising DSP](placement-about.md)
+>* [Create a placement](placement-create.md)
+>* [Edit placements](placement-edit.md)
+>* [Duplicate a placement](placement-duplicate.md)
+>* [Manage bid multipliers for placements](placement-manage-bid-multipliers.md)
+>* [Edit the ad schedules for placements](placement-edit-ad-schedule.md)
+>* [Deactivate or activate a placement](placement-pause-activate.md)
+>* [View the change log for a placement](placement-change-log.md)
+>* [Placement settings](placement-settings.md)
+>* [Video: How to edit placements using bulk edit tools](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)

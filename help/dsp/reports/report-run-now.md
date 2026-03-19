@@ -1,10 +1,10 @@
 ---
-title: Run a Custom Report
+title: Run a custom report
 description: Learn how to run a custom report immediately.
 feature: DSP Custom Reports
 exl-id: b256803d-45f9-445f-bf42-22cc7ce76792
 ---
-# Run a Custom Report
+# Run a custom report
 
 You can run any report that hasn't expired and isn't currently running.
 
@@ -20,10 +20,10 @@ You can run any report that hasn't expired and isn't currently running.
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Download a Custom Report](/help/dsp/reports/report-download.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
->* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Download a custom report](/help/dsp/reports/report-download.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Duplicate a custom report](/help/dsp/reports/report-copy.md)
+>* [Edit a custom report](/help/dsp/reports/report-edit.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)

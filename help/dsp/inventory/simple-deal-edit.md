@@ -1,10 +1,10 @@
 ---
-title: Edit [!UICONTROL Simple Ad Serving] Deal Settings
+title: Edit [!UICONTROL Simple Ad Serving] deal settings
 description: Learn how to edit the settings for a [!UICONTROL Simple Ad Serving] deal.
 feature: DSP Simple Ad Serving
 exl-id: 48540a6c-54ee-4109-bdd6-293fbee5c3e5
 ---
-# Edit [!UICONTROL Simple Ad Serving] Deal Settings
+# Edit [!UICONTROL Simple Ad Serving] deal settings
 
 You can edit some settings for a [!UICONTROL Simple Ad Serving] deal that hasn't ended.
 
@@ -21,10 +21,10 @@ You can edit some settings for a [!UICONTROL Simple Ad Serving] deal that hasn't
 >[!MORELIKETHIS]
 >
 >* [About [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [Create a [!UICONTROL Simple Ad Serving] Deal](simple-deal-create.md)
->* [[!UICONTROL Simple Ad Serving] Settings](simple-deal-settings.md)
->* [View a Detailed Report for a Deal](/help/dsp/inventory/deal-view-report.md)
+>* [Create a [!UICONTROL Simple Ad Serving] deal](simple-deal-create.md)
+>* [[!UICONTROL Simple Ad Serving] settings](simple-deal-settings.md)
+>* [View a detailed report for a deal](/help/dsp/inventory/deal-view-report.md)
 
 <!-- add back when reimplemented:
->* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+>* [View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal](simple-deal-show-pixels.md)
 -->

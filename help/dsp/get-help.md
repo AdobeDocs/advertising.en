@@ -1,16 +1,20 @@
 ---
-title: Get Help
-description: Learn how to view online help and community resources and how to get technical support.
+title: Get help
+description: Learn how to view online documentation and community resources and how to get technical support.
 feature: DSP Introduction
 exl-id: 2e0226ea-bcd3-4a38-8907-d2e078c758d0
 ---
-# Get Help
+# Get help
 
-You can open online help from any page within the user interface. If the online help doesn't answer your questions, contact us.
+You can submit an AI-assisted query across all [!DNL DSP] and (advertisers with Advertising Creative) [!DNL Creative] documentation or open a full user guide for [!DNL DSP]. If the documentation doesn't answer your questions, contact us.
 
-## Open online help
+## Search for information using an AI-assisted chat interface 
 
-To open a full help set explaining how to use all features, click **[!UICONTROL Help]** in the main menu.
+See "[Search for product documentation using an AI-assisted chat interface](/help/dsp/agent-chat.md)."
+
+## Open a full user guide
+
+To open a full user guide explaining how to use all features, click **[!UICONTROL Help]** in the main menu.
 
 <!--
 ## Ask the Adobe Advertising community

@@ -1,9 +1,9 @@
 ---
-title: Create an Advertiser Account
+title: Create an advertiser account
 description: Learn how to create an advertiser account.
 role: User, Admin
 ---
-# Create an Advertiser Account
+# Create an advertiser account
 
 *Not Available to Read-only Users*
 
@@ -31,4 +31,4 @@ Advertisers are available to all users in the organization account.
 
 >[!MORELIKETHIS]
 >
->* [Advertiser Settings](/help/dsp/admin/advertiser-settings.md)
+>* [Advertiser settings](/help/dsp/admin/advertiser-settings.md)

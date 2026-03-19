@@ -20,3 +20,4 @@ Each row in the file includes details about an experience, including: the experi
 
 >[!MORELIKETHIS]
 >* [About experiences in Advertising Creative](/help/creative/experiences/experience-about.md)
+>* [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)

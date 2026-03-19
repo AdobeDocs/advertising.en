@@ -1,13 +1,13 @@
 ---
-title: FAQs About Custom Reports
+title: FAQs about custom reports
 description: Learn more about custom reports, including household reports and conversion path analysis reports. 
 exl-id: 3ffd178e-de41-4663-b85f-bd8ce3eb0dad
 ---
-# FAQs About Custom Reports
+# FAQs about custom reports
 
-## Household Reports
+## Household reports
 
-### The [!UICONTROL Household Reach & Frequency] Report
+### The [!UICONTROL Household Reach & Frequency] report
 
 #### How are [!UICONTROL Household Reach & Frequency] reports different from other custom reports?
 
@@ -15,11 +15,11 @@ The [!UICONTROL Household Reach & Frequency] report measures reach, impression, 
 
 For example, even if one impression is served to three devices within one household, the Unique Household Reached metric is one.
 
-##### Supported Dimensions
+##### Supported dimensions
 
 The [!UICONTROL Household Reach & Frequency] report supports the [following dimensions](/help/dsp/reports/report-columns.md): "[!UICONTROL Campaign]," "[!UICONTROL Package]," "[!UICONTROL Placement]," "[!UICONTROL Site/Apps]" (which doesn't provide access to overlap metrics), "[!UICONTROL Media Type]," "[!UICONTROL Feed Type]," "[!UICONTROL Device]," "[!UICONTROL Publisher]," "[!UICONTROL Audience]," "[!UICONTROL Creative Length]," and user-created placement "[!UICONTROL Tags]." |
 
-##### Supported Metrics
+##### Supported metrics
 
 The [available metrics](/help/dsp/reports/report-columns.md) include:
 
@@ -61,11 +61,11 @@ These metrics in [!UICONTROL Household] reports are calculated using the actual 
 
 #### How do I configure the report for the [!UICONTROL Placement Tags] dimension?
 
-To create tags for the placement, [open the placement settings](/help/dsp/campaign-management/placements/placement-edit.md) and enter values in the [Placement Tags field](/help/dsp/campaign-management/placements/placement-settings.md).
+To create tags for the placement, [open the placement settings](/help/dsp/campaign-management/placements/placement-edit.md) and enter values in the [[!UICONTROL Placement Tags] field](/help/dsp/campaign-management/placements/placement-settings.md).
 
 When a placement includes multiple tags, the report considers the entire string as one tag. The report includes one row for each unique string.
 
-### The [!UICONTROL Household Conversions] Report
+### The [!UICONTROL Household Conversions] report
 
 #### Which attribution methods are supported in [!UICONTROL Household Conversions] report?
 
@@ -83,7 +83,7 @@ Two types of attribution methods are supported:
 
 * [!DNL Analytics] report data is particularly valuable to analyze by marketing channels, site engagement metrics, and so on. The DSP [!UICONTROL Household Conversions] report offers more granular insights by allowing conversion data to be split by various dimensions, such as media type and publisher.
 
-### [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] Reports vs. Data from [!DNL Advanced Measurement Services]
+### [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversions] reports vs. data from [!DNL Advanced Measurement Services]
 
 For advanced reporting on household-based reach and frequency or conversions, the [[!DNL Strategic Advertising Consulting] team](/help/dsp/introduction/advanced-measurement-services.md) can provide highly customizable reports along with holistic strategic recommendations. For more information about [!DNL Advanced Measurement Services], contact your Adobe Account Team.
 
@@ -95,11 +95,11 @@ The [!UICONTROL Household Reach & Frequency] and [!UICONTROL Household Conversio
 
 The ideal use case is to use both the [!UICONTROL Household] report and the [!DNL Advanced Measurement Services] reporting and consulting services together. Consider the [!UICONTROL Household] report as transactional, meant to inform day-to-day optimizations, and [!DNL Advanced Measurement Services] as more strategic, meant to inform holistic learnings and takeaways tied to overarching business objectives.
 
-## Conversion Path Analysis Reports
+## Conversion path analysis reports
 
-### How does the Path to Conversion report compare to reports created by [!DNL Advanced Measurement Services] and Adobe Analytics Analysis Workspace?
+### How does the [!UICONTROL Path to Conversion] report compare to reports created by [!DNL Advanced Measurement Services] and Adobe Analytics Analysis Workspace?
 
-| | Path to Conversion Report | Advanced Measurement Services Halo Effect on Search Reporting | Reports in Analysis Workspace |
+| | [!UICONTROL Path to Conversion] Report | Advanced Measurement Services Halo Effect on Search Reporting | Reports in Analysis Workspace |
 | --- | --- | --- |---|
 | Customer Value | Generate a self-serve custom report to understand which paths of the ad journey led to more conversions to boost optimization | Understand the influence of connected TV (CTV) tactics on search clicks | Understand the influence of your holistic Adobe Advertising investment, alongside other marketing channels, on search clicks |
 | Household Level | Yes | Yes | No |
@@ -111,12 +111,12 @@ The ideal use case is to use both the [!UICONTROL Household] report and the [!DN
 | Marketing Channels | DSP + Search (from Search, Social, & Commerce) | DSP + Search (from Search, Social, & Commerce) | Marketing Channels not tracked by the Adobe Advertising clickthrough EF ID (such as Organic Search, Organic Social, Email, and Affiliate |
 | Conversion Metrics supported | Metrics tracked using the Adobe Advertising event pixel (AMO ID) and Adobe Analytics tracking | Clicks (no conversions) | Metrics tracked using Adobe Analytics tracking |
 
-For more information about the Advanced Measurement Services Halo Effect on Search Reporting, see "[Advanced Measurement Services](/help/dsp/introduction/advanced-measurement-services.md)."
+For more information about the Advanced Measurement Services Halo Effect on Search Reporting, see "[Advanced measurement solutions](/help/dsp/introduction/advanced-measurement-services.md)."
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Edit a custom report](/help/dsp/reports/report-edit.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)

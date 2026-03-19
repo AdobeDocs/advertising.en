@@ -1,10 +1,10 @@
 ---
-title: Edit Segment Information
+title: Edit segment information
 description: Learn how to edit information about a custom or CCPA opt-out of sale segment.
 feature: DSP Segments
 exl-id: 1df6bf2a-4008-46ec-8b4a-e3d0c8322e44
 ---
-# Edit Segment Information
+# Edit segment information
 
 You can edit the name and lookback window for a custom segment, or the name of a CCPA opt-out of sale segment. The segment tags don't change when you edit the settings.
 
@@ -26,8 +26,8 @@ You can edit the name and lookback window for a custom segment, or the name of a
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
->* [Create a Custom Segment](custom-segment-create.md)
->* [Delete a Segment](segment-delete.md)
->* [View Tracking Pixels for a Segment](segment-view-pixels.md)
->* [Share or Stop Sharing a Segment](segment-share.md)
+>* [About audience management](audience-about.md)
+>* [Create a custom segment](custom-segment-create.md)
+>* [Delete a segment](segment-delete.md)
+>* [View tracking pixels for a segment](segment-view-pixels.md)
+>* [Share or stop sharing a segment](segment-share.md)

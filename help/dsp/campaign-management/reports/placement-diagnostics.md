@@ -1,16 +1,16 @@
 ---
-title: View the Placement Diagnostic Reports
+title: View the placement [!UICONTROL Diagnostics] report
 description: Learn how to diagnose issues with placement setup and pacing.
 feature: DSP Placements
 exl-id: 95e88c9c-09f2-44f1-9d6c-3fe533963f9a
 ---
-# View the Placement Diagnostic Reports
+# View the placement [!UICONTROL Diagnostics] report
 
 <!-- Does this really belong in the Campaign Management > Reports section or in the Placements section? -->
 
 Diagnostic reports can help you diagnose issues with placement setup and pacing once a campaign is live.
 
-## Information in Placement Diagnostic Reports
+## Information in the placement [!UICONTROL Diagnostics] report
 
 * **[!UICONTROL Change Log]:** Shows changes to key placement settings, such as the name, status, and maximum bid. Each entry includes the date and username of the person who made the change.
 
@@ -18,9 +18,9 @@ Diagnostic reports can help you diagnose issues with placement setup and pacing 
 
 * **[!UICONTROL Non Bids]:** Shows why DSP didn't bid on the placement.
 
-## Open the Placement Diagnostic Reports
+## Open the placement [!UICONTROL Diagnostics] report
 
-1. Open the Diagnostics report:
+1. Open the [!UICONTROL Diagnostics] report:
 
     1. Open the placement settings:
 
@@ -66,6 +66,6 @@ Diagnostic reports can help you diagnose issues with placement setup and pacing 
 
 >[!MORELIKETHIS]
 >
->* [Types of Performance Reports in Campaign Management Views](campaign-reports-about.md)
->* [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Types of performance reports in campaign management views](campaign-reports-about.md)
+>* [View the placement forecast report](/help/dsp/campaign-management/reports/placement-forecast.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

@@ -1,10 +1,10 @@
 ---
-title: About the DSP Planner Tool
+title: About the DSP [!UICONTROL Planner] tool
 description: Learn about the planner tool to forecast the unique reach for connected TV (CTV) placements according to specified budget and targeting criteria.
 feature: DSP Planner
 exl-id: b25d4ac5-e85f-4a38-8765-6c5261987668
 ---
-# About the DSP Planner Tool
+# About the DSP [!UICONTROL Planner] tool
 
 <!-- rename all titles/descriptions from "CTV reach planner" to "campaign reach planner" -->
 
@@ -27,7 +27,7 @@ The forecast output also includes an [!UICONTROL Inventory Breakdown] section th
 >* The [!UICONTROL Inventory Breakdown] section displays data for only private and [!UICONTROL On Demand] inventory.
 >* The estimated unique reach shown for two publishers can be overlapping.
 
-## The Planner View
+## The planner view
 
 In the [!UICONTROL Planner] view, you can view your existing CTV reach plans and create new ones.
 
@@ -67,11 +67,11 @@ Yes, you can export a forecast into a [!DNL Microsoft Excel] spreadsheet by clic
 
 >[!MORELIKETHIS]
 >
->* [About the DSP Planner Tool](planner-about.md)
->* [Create a Connected TV Reach Plan](planner-create.md)
->* [Duplicate a Connected TV Reach Plan](planner-duplicate.md)
->* [Edit a Connected TV Reach Plan](planner-edit.md)
->* [Export a Connected TV Reach Plan](planner-export.md)
->* [Regenerate the Forecast for a Connected TV Reach Plan](planner-forecast.md)
->* [Archive a Connected TV Reach Plan](planner-archive.md)
->* [Settings for Connected TV Reach Plans](planner-settings.md)
+>* [About the DSP [!UICONTROL Planner] tool](planner-about.md)
+>* [Create a connected TV reach plan](planner-create.md)
+>* [Duplicate a connected TV reach plan](planner-duplicate.md)
+>* [Edit a connected TV reach plan](planner-edit.md)
+>* [Export a connected TV reach plan](planner-export.md)
+>* [Regenerate the forecast for a connected TV reach plan](planner-forecast.md)
+>* [Archive a connected TV reach plan](planner-archive.md)
+>* [Settings for connected TV reach plans](planner-settings.md)

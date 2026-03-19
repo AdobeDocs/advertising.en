@@ -1,5 +1,5 @@
 ---
-title: Using [!DNL Marketing Channels] with Adobe Advertising Data
+title: Using [!DNL Marketing Channels] with Adobe Advertising data
 description: Learn how to use Adobe Advertising data in [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
 exl-id: 522c7f01-1138-477d-8018-36030caab55e

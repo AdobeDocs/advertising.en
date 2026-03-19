@@ -1,22 +1,22 @@
 ---
-title: Accept a Deal in the [!UICONTROL Deal ID Inbox]
+title: Accept a deal in the [!UICONTROL Deal ID Inbox]
 description: Learn how to accept a private deal you've already negotiated with a publisher on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]) using the Deal ID Inbox.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 7c681ab7-3051-451d-ab83-fc75bdd6eaad
 ---
-# Accept a Deal in the [!UICONTROL Deal ID Inbox]
+# Accept a deal in the [!UICONTROL Deal ID Inbox]
 
 *Users in DSP Accounts that Are Mapped to SSP Accounts Only*
 
-Use the [!UICONTROL Deal ID inbox] to quickly accept a private deal you've already negotiated with a publisher on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]).
+Use the [!UICONTROL Deal ID Inbox] to quickly accept a private deal you've already negotiated with a publisher on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]).
 
 >[!NOTE]
 >
->Setting up programmatic guaranteed deals with publishers on [!DNL FreeWheel] requires extra permissions and steps. See "[Overview of Setting up Programmatic Guaranteed Deals in FreeWheel](freewheel-overview.md)" for more information.
+>Setting up programmatic guaranteed deals with publishers on [!DNL FreeWheel] requires extra permissions and steps. See "[Overview of setting up programmatic guaranteed deals in FreeWheel](freewheel-overview.md)" for more information.
 
 1. In the main menu, click **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. Above the list of [!UICONTROL Deals], click the blue bar to open the [!UICONTROL Deal ID inbox].
+1. Above the list of [!UICONTROL Deals], click the blue bar to open the [!UICONTROL Deal ID Inbox].
 
 1. (Optional) To refresh the deal details, click **[!UICONTROL Refresh]**.
 
@@ -30,7 +30,7 @@ Use the [!UICONTROL Deal ID inbox] to quickly accept a private deal you've alrea
 
     * In the deal details, click **[!UICONTROL Accept]**.
 
-    * In the [!UICONTROL Deal ID inbox], hold the cursor over the deal row and click ![Accept](/help/dsp/assets/accept.png).
+    * In the [!UICONTROL Deal ID Inbox], hold the cursor over the deal row and click ![Accept](/help/dsp/assets/accept.png).
 
 1. In the deal details:
     1. Complete the required information: **[!UICONTROL Publisher]**, **[!UICONTROL Media Type]**, and **[!UICONTROL Deal Access]** (the advertisers with access to the deal).
@@ -40,12 +40,12 @@ Use the [!UICONTROL Deal ID inbox] to quickly accept a private deal you've alrea
 
 1. (Programmatic guaranteed deals only) Follow the prompts to select an ad (or an 1x1 tracking pixel for publisher-managed ads) for the deal and create a programmatic guaranteed default placement that targets the deal.
 
-Once you accept a deal, it's moved from the [!UICONTROL Deal ID inbox] to the [!UICONTROL Inventory] > [!UICONTROL Deals] view, and the deal is available as a private inventory source in each placement's [!UICONTROL Inventory Targeting] section.
+Once you accept a deal, it's moved from the [!UICONTROL Deal ID Inbox] to the [!UICONTROL Inventory] > [!UICONTROL Deals] view, and the deal is available as a private inventory source in each placement's [!UICONTROL Inventory Targeting] section.
 
 >[!MORELIKETHIS]
 >
->* [About the Deal ID Inbox](deal-id-inbox-about.md)
->* [Set up a Programmatic Guaranteed Deal](programmatic-guaranteed-set-up.md)
->* [Submit an Ad for a Programmatic Guaranteed Deal with [!DNL FreeWheel]](freewheel-submit.md)
->* [About Programmatic Guaranteed Deals](programmatic-guaranteed-about.md)
->* [Overview of Inventory Features](inventory-overview.md)
+>* [About the [!UICONTROL Deal ID Inbox]](deal-id-inbox-about.md)
+>* [Set up a programmatic guaranteed deal](programmatic-guaranteed-set-up.md)
+>* [Submit an ad for a programmatic guaranteed deal with [!DNL FreeWheel]](freewheel-submit.md)
+>* [About programmatic guaranteed deals](programmatic-guaranteed-about.md)
+>* [Overview of inventory features](inventory-overview.md)

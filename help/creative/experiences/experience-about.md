@@ -67,11 +67,11 @@ The following performance data are available:
 
 * You can [view detailed performance data for any experience](experience-performance-details.md) from the [!UICONTROL Experiences] view.
 
-* To monitor performance across your experiences, create a [Custom Creative Report](/help/creative/reports/report-manage.md).
+* To monitor performance across your experiences, create a [Custom creative report](/help/creative/reports/report-manage.md).
 
-## Alert Indicators
+## Alert indicators
 
-An "[!UICONTROL Alerts]" column indicates when an experience, or any child creative under it, has an issue. A [!UICONTROL Pulse Panel] icon to the right of the toolbar indicates if any alerts are available for the experience, including any of its child creatives. See "[View Alerts](/help/creative/reports/alerts-view.md)" for more information.
+An "[!UICONTROL Alerts]" column indicates when an experience, or any child creative under it, has an issue. A [!UICONTROL Pulse Panel] icon to the right of the toolbar indicates if any alerts are available for the experience, including any of its child creatives. See "[View alerts](/help/creative/reports/alerts-view.md)" for more information.
 
 ## Experience statuses {#experience-statuses}
 

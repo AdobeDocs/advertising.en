@@ -1,11 +1,11 @@
 ---
-title: Adobe Advertising Support for the General Data Protection Regulation
+title: Adobe Advertising support for the General Data Protection Regulation
 description: Learn about the supported data request types, required setup and field values, and examples of API access requests using legacy product IDs and returned data fields
 feature: GDPR
 role: User, Developer
 exl-id: abf0dc51-e23b-4c9a-95aa-14e0844939bb
 ---
-# Adobe Advertising Support for the General Data Protection Regulation
+# Adobe Advertising support for the General Data Protection Regulation
 
 *For [!DNL Adobe Advertising Search, Social, & Commerce]; Adobe Advertising DSP; Adobe Advertising Creative; and Adobe Advertising DCO*
 
@@ -21,7 +21,7 @@ This document describes how [!DNL Advertising Search, Social, & Commerce]; Adver
 
 For more information about what GDPR means for your business, see [GDPR and Your Business](https://www.adobe.com/privacy/general-data-protection-regulation.html).
 
-## Supported Data Request Types for Adobe Advertising
+## Supported data request types for Adobe Advertising
 
 Adobe Experience Platform provides the ability for businesses to complete the following tasks:
 
@@ -29,7 +29,7 @@ Adobe Experience Platform provides the ability for businesses to complete the fo
 * Delete cookie-level data stored within [!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], or [!DNL DCO] for data subjects using a browser; or delete ID-level data stored within [!DNL DSP] for data subjects using apps on mobile devices.
 * Check the status of one or all existing requests.
 
-## Required Setup to Send Requests for Adobe Advertising
+## Required setup to send requests for Adobe Advertising
 
 To make requests to access and delete data for Adobe Advertising, you must:
 
@@ -69,7 +69,7 @@ To make requests to access and delete data for Adobe Advertising, you must:
 
 All steps are necessary for Adobe Advertising. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the necessary items, see "[Privacy Service overview](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html)."
 
-## Required Field Values in Adobe Advertising JSON Requests
+## Required field values in Adobe Advertising JSON requests
 
 `"company context":`
 
@@ -92,7 +92,7 @@ All steps are necessary for Adobe Advertising. For more information about these 
 
 * `"regulation": **gdpr**` (which is the privacy regulation that applies to the request)
 
-## Example of Request Submitted by Data Subject Using an Adobe Advertising User ID Retrieved from `AdobePrivacy.js`
+## Example of request submitted by data subject using an Adobe Advertising user ID retrieved from `AdobePrivacy.js`
 
 ```
 {
@@ -123,7 +123,7 @@ All steps are necessary for Adobe Advertising. For more information about these 
 }
 ```
 
-## Data Fields That Are Returned for Access Requests
+## Data fields that are returned for access requests
 
 The following is an example of an access response for Adobe Advertising.
 

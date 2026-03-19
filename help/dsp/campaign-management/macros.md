@@ -1,10 +1,10 @@
 ---
-title: Advertising DSP Macros
+title: Advertising DSP macros
 description: Reference the available macros for general tracking and to track clicks on third-party display ads.
 feature: DSP Ads
 exl-id: 7058c988-c544-4a61-84dd-eec4ce88ceba
 ---
-# Advertising DSP Macros
+# Advertising DSP macros
 
 A macro is a short command or shorthand for an instruction and usually follows the format `${MACRO_NAME}`. Macros included in creative code or click-through URLs expand into a longer code string that the ad server can understand. The DSP ad server executes macros when the ad is served or clicked.
 
@@ -12,7 +12,7 @@ Ad server macros are useful for passing important information to DSP or to third
 
 You can manually insert a macro anywhere, such as in a VAST tag, in any URL, or in a DSP or third-party event pixel. However, each DSP client and partner has a different ad tag format, and the macros should be inserted in different spots in the tag accordingly. Each time you work with a new client or partner, ask them for documentation on where to insert the macros in their ad tags that DSP traffics.
 
-## General Tracking Macros
+## General tracking macros
 
 Use general tracking macros across all ad and tag types to pass back specific data, as required.
 
@@ -46,7 +46,7 @@ Use general tracking macros across all ad and tag types to pass back specific da
 |` ${TM_MACRO_PROMOTED_AD_KEY}` | The promoted ad key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads. | string |
  -->
 
-## Mobile-Specific Macros
+## Mobile-specific macros
 
 | Macro | Replacement Description | Type |
 | ----- | ----------------------- | ---- |
@@ -61,7 +61,7 @@ Use general tracking macros across all ad and tag types to pass back specific da
 
 {style="table-layout:auto"}
 
-## Click Macros for Third-Party Display Ads
+## Click macros for third-party display ads
 
 To accurately track clicks for ads using third-party display tags, DSP requires a display click macro. Only one version of the macro is required; the relevant macro depends on the type of tag.
 
@@ -79,11 +79,11 @@ DSP automatically inserts display click macros in a third-party display tag when
 
 If a click macro is missing when you build a display ad, DSP displays a warning message, which prompts you to manually insert the appropriate display click macro in the correct area of the tag.
 
-## [!DNL Analytics for Advertising] Macros
+## [!DNL Analytics for Advertising] macros
 
-For additional macros available specifically for [ [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) customers, see "[Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md)" and "[Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)."
+For additional macros available specifically for [ [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) customers, see "[Append [!DNL Analytics for Advertising] macros to [!DNL Flashtalking] ad tags](/help/integrations/analytics/macros-flashtalking.md)" and "[Append [!DNL Analytics for Advertising] macros to [!DNL Google Campaign Manager 360] ad tags](/help/integrations/analytics/macros-google-campaign-manager.md)."
 
-## Troubleshooting Macro Errors
+## Troubleshooting macro errors
 
 When you add macros to your code, make sure you use the exact syntax of the macro. When validating the macros, DSP checks that the macro exactly matches one of the valid macros.
 
@@ -94,10 +94,10 @@ Errors are generated if characters are missing from the beginning or end of the 
 
 >[!MORELIKETHIS]
 >
->* [Audio Ad Settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [Connected TV Ad Settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [Display Ad Settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [Mobile Ad Settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [Native Ad Settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [Pre-roll Ad Settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
->* [Universal Video Ad Settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
+>* [Audio ad settings](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [Connected TV ad settings](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [Display ad settings](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [Mobile ad settings](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [Native ad settings](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [Pre-roll ad settings](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [Universal video ad settings](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)

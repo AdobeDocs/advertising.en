@@ -1,10 +1,10 @@
 ---
-title: Placement-level Pre-Bid Filters and How to Use Them
+title: Placement-level pre-bid filters and how to use them
 description: Reference the available placement-level pre-bid filters and see how to use them.
 feature: DSP Optimization
 exl-id: 34a15666-7ca2-416d-9064-8638ca81e5b3
 ---
-# Placement-level Pre-Bid Filters and How to Use Them
+# Placement-level pre-bid filters and how to use them
 
 | Pre-Bid Filter | Description | When to Use This Filter|
 | ---------------| ----------- | ---------------------- |
@@ -18,8 +18,8 @@ exl-id: 34a15666-7ca2-416d-9064-8638ca81e5b3
 
 >[!MORELIKETHIS]
 >
->* [How DSP Optimizes Your Campaigns](optimization-how-dsp-optimizes-campaigns.md)
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [Campaign Settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
->* [Optimization Goals and How to Use Them](optimization-goals.md)
+>* [How DSP optimizes your campaigns](optimization-how-dsp-optimizes-campaigns.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Campaign settings](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+>* [Optimization goals and how to use them](optimization-goals.md)

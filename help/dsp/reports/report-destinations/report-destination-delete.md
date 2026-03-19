@@ -1,10 +1,10 @@
 ---
-title: Delete a Report Destination
+title: Delete a report destination
 description: Learn how to delete a report destination.
 feature: DSP Custom Reports
 exl-id: 4585396e-2a84-4d02-bcb9-c82de1e3638e
 ---
-# Delete a Report Destination
+# Delete a report destination
 
 Deleting a report destination affects the delivery of all linked custom reports.
 
@@ -16,7 +16,7 @@ Deleting a report destination affects the delivery of all linked custom reports.
 
 >[!MORELIKETHIS]
 >
->* [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [Create a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)
->* [[!UICONTROL Report Destination] Settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
+>* [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [Create a report destination](/help/dsp/reports/report-destinations/report-destination-create.md)
+>* [Report destination settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
 >* [Edit a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)

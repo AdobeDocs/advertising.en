@@ -1,10 +1,10 @@
 ---
-title: Adobe Advertising IDs Used by Customer Journey Analytics
-description: Adobe Advertising IDs Used by Customer Journey Analytics
+title: Adobe Advertising IDs used by Customer Journey Analytics
+description: Adobe Advertising IDs used by Customer Journey Analytics
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: af60dcb4-4d1a-4097-ac30-688bd8b9f644
 ---
-# Adobe Advertising IDs Used by Customer Journey Analytics
+# Adobe Advertising IDs used by Customer Journey Analytics
 
 *Advertisers with an Adobe Advertising-Adobe Customer Journey Analytics Integration Only*
 
@@ -56,7 +56,7 @@ Adobe Advertising distinguishes between a click-through or view-through entry to
 
 In Analytics reports, you can find AMO ID data by searching for the [!UICONTROL AMO ID] dimension and using the [!UICONTROL AMO ID Instances] metric. The [!UICONTROL AMO ID] dimension houses all AMO ID values captured, whereas the [!UICONTROL AMO ID Instances] metric indicates how often an AMO ID value was captured by the site. For example, if the same search ad was clicked four times but Analytics tracked seven site entries, then [!UICONTROL AMO ID Instances] would be seven (7) and [!UICONTROL Clicks] would be four (4).
 
-For any reporting or auditing within [!DNL Analytics], the best practice is to use the AMO ID along with its corresponding instance. For more information, see "[Click-Through Data Validation for [!DNL Analytics for Advertising]](data-variances.md#data-validation)" in "Expected Data Variances Between [!DNL Analytics] and Adobe Advertising."
+For any reporting or auditing within [!DNL Analytics], the best practice is to use the AMO ID along with its corresponding instance. For more information, see "[Click-through data validation for [!DNL Analytics for Advertising]](data-variances.md#data-validation)" in "Expected data variances between [!DNL Analytics] and Adobe Advertising."
 
 -->
 

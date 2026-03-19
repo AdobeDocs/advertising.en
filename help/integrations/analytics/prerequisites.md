@@ -1,16 +1,16 @@
 ---
-title: Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising]
-description: Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising]
+title: Prerequisites and key information for implementing [!DNL Analytics for Advertising]
+description: Prerequisites and key information for implementing [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 7c477900-ebb0-4c0e-811a-ab8bc6069599
 ---
-# Prerequisites and Key Information for Implementing [!DNL Analytics for Advertising]
+# Prerequisites and key information for implementing [!DNL Analytics for Advertising]
 
 *Advertisers with Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
 
 Review the following information before you integrate Adobe Advertising with Adobe Analytics.
 
-## Requirements for Reporting Adobe Advertising Data in [!DNL Analytics]
+## Requirements for reporting Adobe Advertising data in [!DNL Analytics]
 
 * Either of the following:
   * Adobe Experience Platform Web SDK: `alloy.js`
@@ -23,12 +23,12 @@ Review the following information before you integrate Adobe Advertising with Ado
 >
 >To improve data fidelity, use the most recent version of each library.
 
-## Requirements for Sharing Analytics Segments with Adobe Advertising
+## Requirements for sharing Analytics segments with Adobe Advertising
 
 * Experience Cloud Identity Service: `visitorAPI.js` version 2.1 or higher
 * Adobe Analytics: `appMeasurement.js` version 1.8 or higher
 
-## Requirements for Reporting [!DNL Analytics] Data in Adobe Advertising
+## Requirements for reporting [!DNL Analytics] data in Adobe Advertising
 
 Provide the Adobe Advertising implementation team with the following:
 
@@ -52,9 +52,9 @@ Because [!DNL Analytics] data is sent to Adobe Advertising for reporting and opt
     >
     > The impression lookback window is specific to Adobe Advertising, not [!DNL Analytics for Advertising], reporting.
 
-The [!DNL Analytics for Advertising] JavaScript uses these settings to determine how far back to consider a view-through entry or click-through entry to the site as valid. For more information about how view-throughs and click-throughs are determined, see "[Adobe Advertising IDs Used by Analytics](ids.md)."
+The [!DNL Analytics for Advertising] JavaScript uses these settings to determine how far back to consider a view-through entry or click-through entry to the site as valid. For more information about how view-throughs and click-throughs are determined, see "[Adobe Advertising IDs used by Analytics](ids.md)."
 
-## Adobe Advertising Data in [!DNL Analytics]
+## Adobe Advertising data in [!DNL Analytics]
 
 [!DNL Analytics] sets Adobe Advertising IDs (AMO IDs) within the Analytics hit, subject to the advertiser's [!DNL eVar] persistence setting, which applies to both click-throughs and view-throughs. The persistence setting is configured on the Adobe Advertising back end, and your Adobe Account Team can change it.
 
@@ -64,7 +64,7 @@ The [!DNL Analytics for Advertising] JavaScript uses these settings to determine
 >
 >To segment data for a different timeframe, you can [set up custom segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html) with different lookback windows within Analysis Workspace.
 
-## Supported Ad Environments
+## Supported ad environments
 
 * Search
 * Display
@@ -75,7 +75,7 @@ The [!DNL Analytics for Advertising] JavaScript uses these settings to determine
 
 Contact your Adobe Account Team for the latest supported ad environments in each channel.  
 
-## Things to Know Before You Implement
+## Things to know before you implement
 
 * The Adobe Advertising implementation team sets up the integration.
 
@@ -114,4 +114,4 @@ When you're troubleshooting in [!DNL Analytics], be sure to confirm that the sup
 >[!MORELIKETHIS]
 >
 >* [Overview of [!DNL Analytics for Advertising]](overview.md)
->* [JavaScript Code for Analytics for Advertising](/help/integrations/analytics/javascript.md)
+>* [JavaScript code for Analytics for Advertising](/help/integrations/analytics/javascript.md)

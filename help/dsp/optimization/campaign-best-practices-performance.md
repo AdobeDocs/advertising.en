@@ -1,10 +1,10 @@
 ---
-title: Best Practices for Setting up Performance Campaigns
+title: Best practices for setting up performance campaigns
 description: Learn best practices for setting up your performance-focused campaigns, which include placements optimized for the lowest CPA or the highest ROAS.
 feature: DSP Optimization, DSP Best Practices
 exl-id: bc297796-0c89-4d91-87aa-0668462526ae
 ---
-# Best Practices for Setting up Performance Campaigns
+# Best practices for setting up performance campaigns
 
 DSP can optimize your performance-focused campaigns. See the following best practices for performance campaigns:
 
@@ -14,21 +14,21 @@ DSP can optimize your performance-focused campaigns. See the following best prac
 * Step 4 - Create Placement Structure
 * Step 5 - Use the Right Creative Assets
 
-## Step 1 - Define Your Goal
+## Step 1 - Define your goal
 
 It's important to understand the goal of the campaign, such as to achieve the highest possible ROAS or the lowest possible CPA. Performance campaigns have the [optimization goals](/help/dsp/optimization/optimization-goals.md) "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]." For each package in the campaign, specify the optimization goal accordingly.
 
 ![optimization goal](/help/dsp/assets/optimization-goals.png)
 
-You also need to determine the success event(s) that lead to the overall goal and create custom goals accordingly. For each package, specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using [!DNL Adobe AI]. For more information about creating custom goals, including best practices, see [Custom Goals](custom-goal.md).
+You also need to determine the success event(s) that lead to the overall goal and create custom goals accordingly. For each package, specify a custom goal to be used with the overall optimization goal for reporting and algorithmic optimization using [!DNL Adobe AI]. For more information about creating custom goals, including best practices, see [Custom goals](custom-goal.md).
 
-## Step 2 - Define Your Strategy
+## Step 2 - Define your strategy
 
-### Prospecting Strategies
+### Prospecting strategies
 
 Upper funnel packages include placements with very broad targeting to reach net new consumers.
 
-#### Recommended Placement Strategies for Prospecting
+#### Recommended placement strategies for prospecting
 
 * Find new audiences that are likely to convert using the following tactics:
 
@@ -39,17 +39,17 @@ Upper funnel packages include placements with very broad targeting to reach net 
 
 * Use run of network (RON) targeting: It's important to include a run of network placement without audience targeting and with broad inventory targeting. This allows the [!DNL Adobe AI]-powered algorithm to find valuable users who may have newer cookies that haven't yet been categorized into an audience.
 
-### Retargeting Strategies
+### Retargeting strategies
 
 Lower funnel packages include placements that target users who have already been to the advertiser's webpage or for whom the advertiser has CRM data.
 
-#### Recommended Placement Strategies for Retargeting
+#### Recommended placement strategies for retargeting
 
 * If the advertiser is an Adobe Analytics or Adobe Audience Manager customer, then you can build first-party segments (such as homepage visitors, product pages, or cart abandoners) and use them as placement targets in DSP.
 
 * Avoid assigning too much budget to an audience-targeted placement. As a general rule, budget $30 per 1,000 users per month.
 
-## Step 3 - Create Packages
+## Step 3 - Create packages
 
 The best practice is to create separate packages for upper funnel prospecting and for lower funnel retargeting. Optimization occurs at the package level, so that performance data from all placements within a package is pooled. Therefore, group placements into packages with similar expected performance.
 
@@ -57,7 +57,7 @@ The best practice is to create separate packages for upper funnel prospecting an
 
 Also, use the following settings.
 
-### Goals & Budget
+### Goals & budget
 
 * **Pacing & Capping:** To select a CPA or ROAS optimization goal, the package must use package-level pacing. This ensures that all placements within the package are optimized to distribute spend based on performance and scale to the selected goals.
 
@@ -79,7 +79,7 @@ Also, use the following settings.
    >
    >Use *[!UICONTROL FrontLoad]* and *[!UICONTROL Aggressive Front Load]* for flight pacing and *[!UICONTROL ASAP]* pacing for intraday pacing only when you are fully prioritizing delivery and spend over performance optimization because those strategies can negatively impact your desired performance KPIs.
 
-## Step 4 - Create Placement Structure
+## Step 4 - Create placement structure
 
 Less is more. If you can set up fewer than six placements per package, then the available budget can dynamically shift to the best performing placements most easily.
 
@@ -101,18 +101,18 @@ You must configure CPA or ROAS optimization at the package level (see Step 3 - C
 
   * Consider setting less strict pre-bid filters in cases where additional targeting (such as audience, geo, and site targeting) is applied.
 
-See descriptions of when to use each pre-bid filter at [Placement-level Pre-Bid Filters and How to Use Them](/help/dsp/optimization/optimization-pre-bid-filters.md).
+See descriptions of when to use each pre-bid filter at [Placement-level pre-bid filters and how to use them](/help/dsp/optimization/optimization-pre-bid-filters.md).
 
 ### Inventory
 
 To maximize scale, use [!UICONTROL Public] (Open Exchange) and [!UICONTROL On Demand] inventory.
 
-### Site Targeting
+### Site targeting
 
 * **[!UICONTROL Traffic Type]**: [!UICONTROL Websites] only
 * **[!UICONTROL Site Tier]**: [!UICONTROL All sites]
 
-### Audience Targeting
+### Audience targeting
 
 <!-- Say something about limiting unnecessary constraints/limitations, including dayparting, which limit your chances for ad exposure. Use only when it's required for your audience. -->
 
@@ -137,11 +137,11 @@ To maximize scale, use [!UICONTROL Public] (Open Exchange) and [!UICONTROL On De
   * Don't target [!UICONTROL Firefox] and [!UICONTROL Safari] because of targeting and measurement limitations. Contact your Adobe Account Team for more details about [!DNL Adobe] support for [!DNL Safari ITP].
   * If you target mobile web traffic, then disable all mobile browsers except [!UICONTROL Chrome] and [!UICONTROL Edge].
 
-### Brand Safety and Media Quality
+### Brand safety and media quality
 
 Using contextual filtering, pre-bid fraud blocking, and/or [!UICONTROL Ads.txt] filtering limits the scale of your placements, but use them if needed.
 
-## Step 5 - Use the Right Creative Assets
+## Step 5 - Use the right creative assets
 
 * The best practice is to include as many unique ad sizes as possible to maximize reach. The universal display template allows you to upload any standard display ad size.
 * Make sure all placements contain *at least* all of the primary display ad sizes (300x250, 728x90, 160x600, 300x600, 320x50, and 300x50).
@@ -149,9 +149,9 @@ Using contextual filtering, pre-bid fraud blocking, and/or [!UICONTROL Ads.txt] 
 
 >[!MORELIKETHIS]
 >
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
-> * [How DSP Optimizes Your Campaigns](optimization-how-dsp-optimizes-campaigns.md)
->* [Optimization Goals and How to Use Them](optimization-goals.md)
->* [Placement-level Pre-Bid Filters and How to Use Them](optimization-pre-bid-filters.md)
->* [Campaign Launch Checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [How DSP optimizes your campaigns](optimization-how-dsp-optimizes-campaigns.md)
+>* [Optimization goals and how to use them](optimization-goals.md)
+>* [Placement-level pre-bid filters and how to use them](optimization-pre-bid-filters.md)
+>* [Campaign launch checklist](/help/dsp/campaign-management/campaign-launch-checklist.md)
