@@ -1,10 +1,10 @@
 ---
-title: Re-Request [!DNL On Demand] Premium Inventory Deals
+title: Re-request [!DNL On Demand] premium inventory deals
 description: Learn how to re-request [!DNL On Demand] deals that were previously denied.
 feature: DSP On Demand Inventory
 exl-id: 8b28ca37-5fe8-445e-8210-1b81945bbacc
 ---
-# Re-Request [!DNL On Demand] Premium Inventory Deals
+# Re-request [!DNL On Demand] premium inventory deals
 
 *Not available to users with the account types [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension], and [!UICONTROL Other]; advertisers with the category [!UICONTROL Other]; and resellers*
 
@@ -46,10 +46,10 @@ Once a deal is [approved](/help/dsp/inventory/on-demand-inventory-view-status.md
 
 >[!MORELIKETHIS]
 >
->* [About [!DNL On Demand] Premium Inventory](on-demand-inventory-about.md)
->* [View the Status of Your [!DNL On Demand] Deal Requests and Subscriptions](on-demand-inventory-view-status.md)
->* [Subscribe and Request Access to [!DNL On Demand] Premium Inventory](on-demand-inventory-subscribe.md)
->* [[!DNL On Demand] Premium Inventory Publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)
->* [[!DNL On Demand] Premium Inventory Publishers in Australia and New Zealand](on-demand-inventory-publishers-anz.md)
->* [[!DNL On Demand] Premium Inventory Publishers in Europe, the Middle East, and Africa](on-demand-inventory-publishers-emea.md)
->* [[!DNL On Demand] Premium Inventory Publishers in North America](on-demand-inventory-publishers-na.md)
+>* [About [!DNL On Demand] premium inventory](on-demand-inventory-about.md)
+>* [View the status of your [!DNL On Demand] deal requests and subscriptions](on-demand-inventory-view-status.md)
+>* [Subscribe and request access to [!DNL On Demand] premium inventory deals](on-demand-inventory-subscribe.md)
+>* [[!DNL On Demand] premium inventory publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand] premium inventory publishers in Australia and New Zealand](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa](on-demand-inventory-publishers-emea.md)
+>* [[!DNL On Demand] premium inventory publishers in North America](on-demand-inventory-publishers-na.md)

@@ -1,10 +1,10 @@
 ---
-title: About Custom Reports
+title: About custom reports
 description: Learn about options for creating custom reports manually or using pre-configured report templates.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
 ---
-# About Custom Reports
+# About custom reports
 
 Custom reports allow you to customize the content and delivery of your report data using the campaign dimensions (such as the advertiser, placement, sites, or geos) and the metrics that matter most to you. You can either:
 
@@ -23,13 +23,13 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 >
 >You can also view on-demand data at all levels of a campaign (campaign, package, placement, or ad) [within the relevant campaign management view](/help/dsp/campaign-management/reports/campaign-reports-about.md).
 
-## Available Report Types
+## Available report types
 
 * **[!UICONTROL Custom]:** This report is a blank template that you can use to create your own custom report using most dimensions and metrics. [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], and [!UICONTROL Site] reports are variations of this template with pre-selected columns and dimensions for their respective use cases.
 
 * Pre-configured Report Templates
 
-    * **[!UICONTROL All-in Cost BETA]**: (Advertisers with both Advertising Creative and Advertising DSP only; beta feature) Use this report to see how much Advertising DSP spend was attributed to ad serving for Adobe Creative. You can view creative, attribute, target, and other data at the campaign, package, placement, and ad levels.
+    * **[!UICONTROL All-in Cost]**: (Advertisers with both Advertising Creative and Advertising DSP only) Use this report to see how much Advertising DSP spend was attributed to ad serving for Adobe Creative. You can view creative, attribute, target, and other data at the campaign, package, placement, and ad levels.
 
     * **[!UICONTROL Billing]:** Use this report to understand key billing metrics like spend metrics for media billing by campaign. Data isn't available for placements that target universal IDs.
 
@@ -62,9 +62,9 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 
     * **[!UICONTROL Geo]**: Use this pre-populated template to see key metrics by geographic dimensions.
     
-    * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs About Household Reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
+    * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs about household reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
 
-    * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs About Household Reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
+    * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs about household reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
 
     * **[!UICONTROL Margin]:** Use this report to see key metrics like margin, profit, and other spend metrics by campaign or placement. Data isn't available for placements that target universal IDs.
 
@@ -82,7 +82,7 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
       
       Up to the 10 most recent interaction points are included. The path rows are ordered by the number of conversions.
 
-      For a comparison of this report to reports created by [!DNL Advanced Measurement Services] and Adobe Analytic, see "[FAQs About Custom Reports](/help/dsp/reports/faq-reports.md)."
+      For a comparison of this report to reports created by [!DNL Advanced Measurement Services] and Adobe Analytic, see "[FAQs about custom reports](/help/dsp/reports/faq-reports.md)."
   
     * **[!UICONTROL Path Length]:** Use this report to track the number of user interaction points required for conversions over time so you can choose the optimal ad frequency. The report shows the number of conversions by path length (interaction points), such as how many conversions occurred after users had only one ad interaction, two ad interactions, and so on. The report can include data for multiple conversion metrics and uses a specified lookback period between the first interaction and a conversion. Columns in the report include "[!UICONTROL Path Length]," "[!UICONTROL Number of] \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 1\>," \<Conversion Metric Name 2\>," "% \<Conversion Metric Name 2\>," and so on.
     
@@ -99,7 +99,7 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
     
     * **[!UICONTROL Time to Conversion]:** Use this report to determine the optimal attribution lookback window and to identify campaigns with longer times to conversion, which may benefit from retargeting. The report shows the number of conversions by the length of time in days from the last interaction (ad exposure or click) to conversion. The report can include data for multiple conversion metrics and uses a specified lookback period between the first interaction and a conversion. Columns in the report include "[!UICONTROL Time Taken (in days)]," "[!UICONTROL Number of] \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 1\>," \<Conversion Metric Name 2\>," "% \<Conversion Metric Name 2\>," and so on. Conversions that take longer than the lookback period are grouped together in one row (for example, if the report uses a 30-day lookback period, then all conversions that take longer than 30 days to occur are grouped together in a row with a "[!UICONTROL Time Taken (in days)]" value of "30+").
 
-## Cross-Account Reporting {#cross-account-reporting}
+## Cross-account reporting {#cross-account-reporting}
 
 Any organization with multiple DSP accounts can optionally enable cross-account data in custom reports, according to the organization's needs. For example, you can give Account A access to Account B's data, and give Account B access to Account C's (but not Account A's) data. To enable and configure this feature, contact your Adobe Account Team.
 
@@ -107,13 +107,13 @@ Once the feature is enabled for your organization, you can [filter](report-setti
 
 Your account settings at [!UICONTROL Settings] > [!UICONTROL Account] indicate a) the other accounts whose data is available to your account and b) the other accounts that can access your account's data.
 
-## The [!UICONTROL Custom Reports] View
+## The [!UICONTROL Custom Reports] view
 
 [!UICONTROL Reports] > [!UICONTROL Custom Reports] lists your existing reports, including reports that were generated, those that are scheduled for future generation, and those that failed. The "[!UICONTROL Report Run]" column shows dates on which the report was triggered beginning on 22 August 2024. By default, all unarchived reports created by the user are listed, with the most recent on top. You can further filter the list by status, whether the report is recurring or one-time, the report type, the destination type, and the report creator. 
 
 You can create new custom reports, edit existing reports or duplicate them to create new reports, run reports immediately, download any report instance from the last four months, and delete reports. 
 
-## Report Statuses {#custom-report-status}
+## Report statuses {#custom-report-status}
 
 * **[!UICONTROL Yet to start]:** The report has never been run.
 
@@ -129,10 +129,10 @@ You can create new custom reports, edit existing reports or duplicate them to cr
 
 >[!MORELIKETHIS]
 >
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Download a Custom Report](/help/dsp/reports/report-download.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [FAQs About Household Reports](/help/dsp/reports/faq-reports.md)
->* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
->* [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Download a custom report](/help/dsp/reports/report-download.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [FAQs about household reports](/help/dsp/reports/faq-reports.md)
+>* [Types of performance reports in campaign management views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)
+>* [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md)

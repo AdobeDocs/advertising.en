@@ -6,7 +6,7 @@ exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
 ---
 # About experiences in Advertising Creative 2.0
 
-Each ad experience can include one ad type (standard display, standard video, or dynamic display). [!DNL Advertising Creative 2.0] provides two different ad experience structures for the ads in a single creative library.
+Each ad experience can include one ad type (standard display, standard video, dynamic display, or dynamic video). [!DNL Advertising Creative 2.0] provides two different ad experience structures for the ads in a single creative library.
 
 * **Experiences with decision tree targeting:** [!DNL Creative] allows you to configure personalized ad experiences throughout the customer journey using a decision tree model. You can customize all ad elements &mdash; images, headlines, offers, and landing pages &mdash; based on the target audience.
 
@@ -67,11 +67,11 @@ The following performance data are available:
 
 * You can [view detailed performance data for any experience](experience-performance-details.md) from the [!UICONTROL Experiences] view.
 
-* To monitor performance across your experiences, create a [Custom Creative Report](/help/creative/reports/report-manage.md).
+* To monitor performance across your experiences, create a [Custom creative report](/help/creative/reports/report-manage.md).
 
-## Alert Indicators
+## Alert indicators
 
-An "[!UICONTROL Alerts]" column indicates when an experience, or any child creative under it, has an issue. A [!UICONTROL Pulse Panel] icon to the right of the toolbar indicates if any alerts are available for the experience, including any of its child creatives. See "[View Alerts](/help/creative/reports/alerts-view.md)" for more information.
+An "[!UICONTROL Alerts]" column indicates when an experience, or any child creative under it, has an issue. A [!UICONTROL Pulse Panel] icon to the right of the toolbar indicates if any alerts are available for the experience, including any of its child creatives. See "[View alerts](/help/creative/reports/alerts-view.md)" for more information.
 
 ## Experience statuses {#experience-statuses}
 

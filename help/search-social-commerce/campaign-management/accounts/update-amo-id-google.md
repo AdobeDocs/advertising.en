@@ -63,5 +63,5 @@ All new [!DNL Google Ads] accounts automatically use the current AMO ID format.
 >[!MORELIKETHIS]
 >
 >* [Manage ad network accounts](ad-network-account-manage.md)
->* [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
+>* [Adobe Advertising IDs used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
 >* [Overview of [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising/integrations/home.html){target="_blank"}

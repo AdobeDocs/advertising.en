@@ -1,14 +1,14 @@
 ---
-title: Error Codes for [!DNL FreeWheel] Ad Submissions
+title: Error codes for [!DNL FreeWheel] ad submissions
 description: Reference the error codes that are returned for ad submissions to [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: e48937c2-ced9-4107-9e1d-65a3bac51fff
 ---
-# Error Codes for [!DNL FreeWheel] Ad Submissions
+# Error codes for [!DNL FreeWheel] ad submissions
 
 The error messages for failed ad submissions can come from either Advertising DSP or from [!DNL FreeWheel]. Error messages are shown in the [!UICONTROL API Response] column in the [[!UICONTROL Freewheel Status] dialog](freewheel-check-status.md).
 
-## Advertising DSP Internal Errors
+## Advertising DSP internal errors
 
 |Error Message|Description|Next Steps|
 |--- |--- |--- |
@@ -23,7 +23,7 @@ The error messages for failed ad submissions can come from either Advertising DS
 
 {style="table-layout:auto"}
 
-## [!DNL Freewheel] API Errors
+## [!DNL Freewheel] API errors
 
 |Code|Meaning|Description|Next Steps|
 |--- |--- |--- |--- |
@@ -32,7 +32,7 @@ The error messages for failed ad submissions can come from either Advertising DS
 |404|Not Found|The resource you requested is not available. If the Creative ID is not found in the PUT operation, a 404 is returned.|Contact your Adobe Account Team.|
 |405|Method Not Allowed|A request was made of a resource using a request method not supported by that resource (for example, using GET on a method that requires data to be sent by POST, or using PUT on a read-only resource).|Contact your Adobe Account Team.|
 |408|Request Timeout|A timeout occurred while this request was processing. Timeouts usually are caused by concurrent requests of exclusive access to certain resources.|Resubmit the request when you receive this status. If the issue persists, contact your Adobe Account Team.|
-|422|Unprocessable Entity|Invalid resource. This error happens when the request body is invalid or the created/updated resource is invalid (for example, if the Deal ID was not found). See [FreeWheel API 422 Errors](#freewheel-422-errors) for more information.|Contact your Adobe Account Team.|
+|422|Unprocessable Entity|Invalid resource. This error happens when the request body is invalid or the created/updated resource is invalid (for example, if the deal ID was not found). See [FreeWheel API 422 Errors](#freewheel-422-errors) for more information.|Contact your Adobe Account Team.|
 |500|Internal Server Error|API system error.|Contact your Adobe Account Team.|
 
 {style="table-layout:auto"}
@@ -58,7 +58,7 @@ The error messages for failed ad submissions can come from either Advertising DS
 
 >[!MORELIKETHIS]
 >
->* [Overview of Setting up Programmatic Guaranteed Deals in [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
->* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
->* [Submit an Ad for a Programmatic Guaranteed Deal to [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
->* [Check the Status of Ads for [!DNL FreeWheel] Programmatic Guaranteed Deals](/help/dsp/inventory/freewheel-check-status.md)
+>* [Overview of setting up programmatic guaranteed deals in [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
+>* [Accept a deal in the [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md)
+>* [Submit an ad for a programmatic guaranteed deal to [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
+>* [Check the status of ads for a [!DNL FreeWheel] PG deal](/help/dsp/inventory/freewheel-check-status.md)

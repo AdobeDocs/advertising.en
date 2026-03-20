@@ -1,14 +1,14 @@
 ---
-title: Edit an Ad
+title: Edit an ad
 description: Learn how to edit an ad.
 feature: DSP Ads
 exl-id: 149eeb61-b4d1-4c88-8dcd-ad11e135a486
 ---
-# Edit an Ad
+# Edit an ad
 
 >[!TIP]
 >
->To change the third-party tracking pixels for multiple ads at once, see "[Attach Ads to Placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)."
+>To change the third-party tracking pixels for multiple ads at once, see "[Attach ads to placements](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)."
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -34,9 +34,9 @@ exl-id: 149eeb61-b4d1-4c88-8dcd-ad11e135a486
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Create a Single Ad](ad-create.md)
->* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Duplicate an Ad](ad-duplicate.md)
->* [List the Placements Associated with an Ad](ad-list-placements.md)
->* [Ad Specifications](ad-specs.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Create a single ad](ad-create.md)
+>* [Create multiple third-party ads](ad-create-multiple.md)
+>* [Duplicate an ad](ad-duplicate.md)
+>* [List the placements associated with an ad](ad-list-placements.md)
+>* [Ad specifications](ad-specs.md)

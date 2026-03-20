@@ -12,7 +12,8 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 >
 >Before you can add dynamic creatives to a creative library, you must complete other steps &mdash; including creating the ad template, uploading assets, and (dynamic HTML5 ads) creating a feed template and catalog. See "[Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)."
 
-<!-- This does't work for me 9/24 -- I still have to select a catalog:
+<!--
+ This does't work for me 9/24 -- I still have to select a catalog:
 
 ## Add dynamic creatives using a static HTML5 ad template
 
@@ -54,9 +55,11 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 
 1. Specify the [dynamic ad settings](/help/creative/creative-libraries/creative-settings-dynamic.md):
 
-   1. Specify the basic ad details.
+   1. Specify the basic ad details, including the creative type.
    
    1. Select the ad template to use for the creatives.
+
+      Use an HTML5 ad template for display ads and a video ad template for video ads.
    
    1. Select the catalog from which to build the ads.
 
@@ -76,7 +79,7 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 
       * Change the content:
       
-        * To edit the value of a cell within the table, click inside the cell and edit the value. Click outside of the cell or press the **[!DNL Enter]** key to save your changes.
+        * (Display ads only) To edit the value of a cell within the table, click inside the cell and edit the value. Click outside of the cell or press the **[!DNL Enter]** key to save your changes.
 
         * To mark a single product as the default<!--Explain what this means. -->, hold the curser over the row and click **[!UICONTROL ...]** > **[!UICONTROL Set as Default]**.
         
@@ -102,4 +105,5 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 >
 >* [Dynamic creative settings](creative-settings-dynamic.md)
 >* [Edit a dynamic creative in a creative library](creative-edit-dynamic.md)
+>* [View the change log for a creative](/help/creative/creative-libraries/creative-view-change-log.md)
 >* [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)

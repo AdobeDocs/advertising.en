@@ -57,6 +57,8 @@ In the following table:
 
 In the following table:
 
+<!-- Need to fill in the "Source" column -->
+
 * "XDM Field Name" is the field name in Adobe Experience Platform.
 
 * "XDM Field Display Name" indicates the display name within Customer Journey Analytics.
@@ -88,5 +90,5 @@ In the following table:
 >
 >* [Overview](overview.md)
 >* [Prerequisites](prerequisites.md)
->* [Adobe Advertising IDs Used by [!DNL Customer Journey Analytics]](ids.md)
+>* [Adobe Advertising IDs used by [!DNL Customer Journey Analytics]](ids.md)
 >* [Set up data collection, data transfer, and reporting](set-up.md)

@@ -125,5 +125,6 @@ The Report view includes the following data:
 >* [About custom reports](/help/creative/reports/reports-about.md)
 >* [Manage custom reports](/help/creative/reports/report-manage.md)
 >* [Download all experiences in the view](/help/creative/experiences/experience-download-view.md)
+>* [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)
 >* [About experiences in Advertising Creative](/help/creative/experiences/experience-about.md)
 >* [View alerts](/help/creative/reports/alerts-view.md)

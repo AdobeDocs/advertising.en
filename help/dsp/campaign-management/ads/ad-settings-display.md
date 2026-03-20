@@ -1,10 +1,10 @@
 ---
-title: Display Ad Settings
+title: Display ad settings
 description: See descriptions of the available ad settings for display ads.
 feature: DSP Ads
 exl-id: cff65a48-486f-401e-9759-2bb63871448f
 ---
-# Display Ad Settings
+# Display ad settings
 
 The following settings are for standard display ads.
 
@@ -48,8 +48,8 @@ The following settings are for standard display ads.
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Create a Single Ad](ad-create.md)
->* [List the Placements Associated with an Ad](ad-list-placements.md)
->* [Ad Specifications](ad-specs.md)
->* [DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Create a single ad](ad-create.md)
+>* [List the placements associated with an ad](ad-list-placements.md)
+>* [Ad specifications](ad-specs.md)
+>* [DSP macros](/help/dsp/campaign-management/macros.md)

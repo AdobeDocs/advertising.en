@@ -5,14 +5,16 @@ exl-id: 8194d5eb-9a5d-4c4e-bb02-e578ffb84d18
 feature: Search Tracking
 ---
 # About Adobe Advertising conversion-tracking tags
-
+ 
 Adobe Advertising tracks conversions resulting from clicks on ads using Adobe Advertising conversion tracking tags that are inserted in the webpages that open when a conversion event occurs, such as a "success" page. The tags include embedded information to send the transaction data, along with the user's Adobe Advertising cookie, to a tracking server, from which the transaction is credited to the appropriate ad click or impression (per the advertiser's conversion attribution settings).
+
+You can [generate conversion-tracking tags](/help/search-social-commerce/tools/conversion-tag-generate.md) within Search, Social, & Commerce or using tags in Adobe Experience Platform (formerly known as Adobe Experience Platform Launch).
 
 >[!NOTE]
 >
 >If the user doesn't have a valid cookie, then Adobe Advertising doesn't report the conversion.
 
-For each set of conversion metrics you want to track, you must create a separate conversion tag. Provide the tags to the advertiser or agency with a list of webpages on which to insert each. You can generate either of the following types of conversion tags. See "[Generate an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)" for instructions.
+For each set of conversion metrics you want to track, you must create and implement a separate conversion tag. You can generate either of the following types of conversion tags.
 
 * (Recommended) JavaScript tags (Version 3 or Version 2), which aren't visible in the webpages.
 
@@ -48,7 +50,7 @@ The conversion tracking pixel allows Adobe Advertising to do the following:
 >[!MORELIKETHIS]
 >
 >* [Conversion tracking options](conversion-tracking-about.md)
->* [Generate an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
+>* [Generate and implement an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
 >* [Format of JavaScript conversion tracking tags version 3](format-conversion-tag-jsv3.md)
 >* [Format of JavaScript conversion tracking tags version 2](format-conversion-tag-jsv2.md)
 >* [Format of image conversion tracking tags](format-conversion-tag-image.md)

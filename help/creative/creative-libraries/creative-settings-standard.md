@@ -22,11 +22,12 @@ When you edit multiple creatives at the same time:
 
 **Language:** The default language for each ad with which you associate the creatives. When you upload or edit multiple creatives, the same value is applied to each selected creative.
 
-**Creative Size:** (Read-only for existing creatives) The dimensions of the creative. If any images included in the creative are larger than the specified size, they're resized accordingly.
+**Creative Size:** (Read-only for existing creatives) The dimensions of the creative. If any images included in the creative are larger than the specified size, then they're resized accordingly.
 
 **[!UICONTROL Click Tags]:** The variables that allow click-tracking redirects from the included banner ads. The variable names and corresponding landing page URLs are populated from the uploaded creative unit, but you can change the default URLs. For multiple creatives, you can edit the individual click tags.
 
-<!-- I don't see this as of 1/30. I do see the option to create one custom LP per creative (for any creative type), not one per click tag for flexible HTML5 creatives.
+<!--
+ I don't see this as of 1/30. I do see the option to create one custom LP per creative (for any creative type), not one per click tag for flexible HTML5 creatives.
 >[!NOTE]
 >
 >When you include the creative in an experience, you can replace the default value for any of the click tags with a custom landing page URL to generate a derivation of the base creative.
@@ -82,7 +83,7 @@ To replace the existing ad template:
 
 ## HTML5 creative settings {#creative-settings-html5}
 
-## Details tab
+### Details tab
 
 For new creatives, the following settings aren't on a named tab.
 

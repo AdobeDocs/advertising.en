@@ -1,10 +1,10 @@
 ---
-title: Adobe Advertising DSP Data Usage Guidelines
+title: Adobe Advertising DSP data usage guidelines
 description: See the guidelines for data usage.
 feature: Policies
 exl-id: b71caa80-d1f6-4f42-90c3-a3e19acb2c6c
 ---
-# Adobe Advertising DSP Data Usage Guidelines
+# Adobe Advertising DSP data usage guidelines
 
 *Last Updated: September 5, 2019 (except for updating the URL of this page)*
 
@@ -14,7 +14,7 @@ These Data Usage Guidelines (“Data Guidelines”) set forth the requirements f
 
 Adobe reserves the right to determine, in its sole judgment, whether Customer’s use of data violates these Guidelines.
 
-## Use of [!DNL TruSignal] Data
+## Use of [!DNL TruSignal] data
 
 [!DNL TruSignal] Data can’t be used for the following: (1) any permissible purpose or adverse action as defined by the [!DNL Fair Credit Reporting Act] (as may be amended from time to time); (2) the renegotiating or restructuring of debt; or (3) facilitating any advertising for adult entertainment, pornography, sex toys, exotic dancing, firearms, illegal gambling, or any other product or service that is illegal, including without limitation to discriminate on the basis of race, gender, religion, sexual orientation, or in any way that could be deemed unfair under applicable law; and (4) for the purposes of (a) employment eligibility, (b) credit eligibility, `(c)` health care eligibility, or (d) insurance eligibility underwriting and pricing.<!-- I used backticks in the previous sentence to prevent ( c ) from displaying as a copyright symbol. I think the OS does that. Using HTML code for the parentheses doesn't prevent it. -->
 
