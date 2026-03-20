@@ -1,5 +1,6 @@
 ---
 title: Create a [!DNL Google Ads] conversion value rule
+description: Learn how to create [!DNL Google Ads] conversion value rules.
 ---
 # Create a [!DNL Google Ads] conversion value rule
 

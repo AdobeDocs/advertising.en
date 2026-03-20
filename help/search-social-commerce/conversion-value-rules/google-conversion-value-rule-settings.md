@@ -1,5 +1,6 @@
 ---
-title: [!DNL Google Ads] conversion value rule settings
+title: "[!DNL Google Ads] conversion value rule settings"
+description: Reference the settings for [!DNL Google Ads] conversion value rules.
 ---
 # [!DNL Google Ads] conversion value rule settings
 

@@ -1,7 +1,7 @@
 ---
 title: Edit a [!DNL Google Ads] conversion value rule
+description: Learn how to edit [!DNL Google Ads] conversion value rules.
 ---
-
 # Edit a [!DNL Google Ads] conversion value rule
 
 You can edit a conversion value rule in accounts/campaigns for which conversions are tracked at the individual account level or lower. You can't edit a rule for an account with cross-account conversions that are tracked at a master account level.

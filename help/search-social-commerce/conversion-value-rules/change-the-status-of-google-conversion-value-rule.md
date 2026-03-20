@@ -1,5 +1,6 @@
 ---
 title: Change the status of a [!DNL Google Ads] conversion value rule
+description: Learn how to change the status of [!DNL Google Ads] conversion value rules.
 ---
 # Change the status of a [!DNL Google Ads] conversion value rule
 
