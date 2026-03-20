@@ -4,13 +4,13 @@ title: Create a Google conversion value rule
 
 # Create a Google conversion value rule
 
-You can create account-level and campaign-level conversion value rules in Google Ads accounts for which conversions are tracked at the individual account level or lower. You can't create rules for accounts with cross-account conversions that are tracked at a master account level.
+You can create account-level and campaign-level conversion value rules in [!DNL Google Ads] accounts for which conversions are tracked at the individual account level or lower. You can't create rules for accounts with cross-account conversions that are tracked at a master account level.
 
 Each rule includes up to two conditions, as well as the conversion value adjustment to apply when the conditions are met. All rules in an account must use the same type of primary and (optional) secondary conditions. For example, if Rule 1 includes the primary condition "Audience" and the secondary condition "Location,"  then all other rules in the account must have the primary condition "Audience." When the other rules include a secondary condition, it must be "Location."
 
-You can create multiple campaign-level rules for each campaign. However, Google Ads doesn't yet provide the ability to create new account-level rules outside of the Google Ads editor when an account-level rule already exists. To create additional account-level rules, log directly into Google Ads and use the Google Ads editor.
+You can create multiple campaign-level rules for each campaign. However, [!DNL Google Ads] doesn't yet provide the ability to create new account-level rules outside of the [!DNL Google Ads] editor when an account-level rule already exists. To create additional account-level rules, log directly into [!DNL Google Ads] and use the [!DNL Google Ads] editor.
 
-**Note:** Campaign-level conversion value rules override account-level rules, and only one rule can be applied to a conversion. For more information, see [how Google Ads determines which rule is applied to a conversion when the conversion meets the conditions for multiple rules](https://support.google.com/google-ads/answer/10520348).
+**Note:** Campaign-level conversion value rules override account-level rules, and only one rule can be applied to a conversion. For more information, see [how [!DNL Google Ads] determines which rule is applied to a conversion when the conversion meets the conditions for multiple rules](https://support.google.com/google-ads/answer/10520348).
 
 1. In the main menu, click Optimization > Conversion Value Rules.
 
