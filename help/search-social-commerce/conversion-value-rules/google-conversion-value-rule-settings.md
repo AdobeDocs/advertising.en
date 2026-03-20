@@ -1,8 +1,8 @@
 ---
-title: Google conversion value rule settings
+title: [!DNL Google Ads] conversion value rule settings
 ---
 
-# Google conversion value rule settings
+# [!DNL Google Ads] conversion value rule settings
 
 | Section | Parameter | Description |
 |---|---|---|
@@ -15,8 +15,8 @@ title: Google conversion value rule settings
 
 >[!MORELIKETHIS]
 >
->* [About Google conversion value rules](about-google-conversion-value-rules.md)
->* [Create a Google conversion value rule](create-google-conversion-value-rule.md)
->* [Edit a Google conversion value rule](edit-google-conversion-value-rule.md)
->* [Change the status of a Google conversion value rule](change-the-status-of-google-conversion-value-rule.md)
+>* [About [!DNL Google Ads] conversion value rules](about-google-conversion-value-rules.md)
+>* [Create a [!DNL Google Ads] conversion value rule](create-google-conversion-value-rule.md)
+>* [Edit a [!DNL Google Ads] conversion value rule](edit-google-conversion-value-rule.md)
+>* [Change the status of a [!DNL Google Ads] conversion value rule](change-the-status-of-google-conversion-value-rule.md)
 
