@@ -65,7 +65,7 @@ When you use scheduling, you must schedule creatives through the duration of the
      
    * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
-1. Hold the cursor over the row for the applicable ad tag and click ![Edit creative optimization](/help/creative/assets/edit-gray.png "Edit creative optimization") **[!UICONTROL Creative Optimization]**. <!-- For targeted experiences, this is "Edit Schedules" --><!-- Tag Manager has only a list view, but no card view, as of 2/2. >
+1. Hold the cursor over the row for the applicable ad tag and click ![Edit creative optimization](/help/creative/assets/edit-gray.png "Edit creative optimization") **[!UICONTROL Creative Optimization]**. <!-- For targeted experiences, this is "Edit Schedules" Tag Manager has only a list view, but no card view, as of 2/2. -->
 
 1. Enable **[!UICONTROL Schedule]**.
 
