@@ -38,7 +38,7 @@ Once you create the conversion action and implement a conversion tracking tag, y
 
 ## Conversion action settings {#conversion-action-settings-google}
 
-**[!UICONTROL Select an Account]:** The applicable Google Ads account.
+**[!UICONTROL Select an Account]:** The applicable [!DNL Google Ads] account.
 
 **[!UICONTROL Type of Conversion]:** The type of conversion to track: Select *[!UICONTROL Import conversion]*. All other types are used to create conversion tracking tags (not conversion actions) for other types of conversions.
 

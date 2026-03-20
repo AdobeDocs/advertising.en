@@ -52,7 +52,7 @@ Use shopping ad templates to configure shopping ads.
 
 **[!UICONTROL Campaign Tracking Template]:** (Optional for templates for client feed files) The campaign-level tracking template, which specifies all off-landing domain redirects and tracking parameters and embeds the final URL in a parameter. This value overrides the account-level setting, but tracking templates at more granular levels (with keyword as the most granular) override this value.
 
-For Adobe Advertising conversion tracking, which is applied when the campaign settings include &quot;[!UICONTROL EF Redirect]&quot; and &quot;[!UICONTROL Auto Upload],&quot; use the [tracking template format for Google Ads shopping campaigns](/help/search-social-commerce/tracking/formats-click-tracking-google.md). If the entire account is dedicated to shopping ads, you can instead define a tracking template at the account level.
+For Adobe Advertising conversion tracking, which is applied when the campaign settings include &quot;[!UICONTROL EF Redirect]&quot; and &quot;[!UICONTROL Auto Upload],&quot; use the [tracking template format for [!DNL Google Ads] shopping campaigns](/help/search-social-commerce/tracking/formats-click-tracking-google.md). If the entire account is dedicated to shopping ads, you can instead define a tracking template at the account level.
 
 For third-party redirects and tracking, enter a value.
 

@@ -137,7 +137,7 @@ For third-party redirects and tracking, enter a value. To indicate the landing p
 
 * For Yahoo! Japan Ads accounts, use the parameter {lpurl}.
 
-* For parameters available for Microsoft Advertising and Google Ads accounts, see the [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
+* For parameters available for [!DNL Microsoft Advertising] and [!DNL Google Ads] accounts, see the [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
 This value overrides the account- and campaign-level settings, but tracking templates at more granular levels (with keyword as the most granular) override this value.
 
@@ -334,7 +334,7 @@ For third-party redirects and tracking, enter a value. To indicate the landing p
 
 * For Yahoo! Japan Ads accounts, use the parameter {lpurl}.
 
-* For parameters available for Microsoft Advertising and Google Ads accounts, see the [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
+* For parameters available for [!DNL Microsoft Advertising] and [!DNL Google Ads] accounts, see the [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
 **\[Alternate ad fields below the original ad fields\]:** (Optional) An alternate set of ad copy for an ad, which may be used if any of the lines in the original ad copy exceed the maximum length allowed once any dynamic parameters are filled in with data during propagation.
 

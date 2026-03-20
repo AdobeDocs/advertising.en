@@ -8,7 +8,7 @@ feature: Search Campaign Management
 
 Dynamic search ads (DSAs) are available only for [!DNL Google Ads] search dynamic ad groups in search-only campaigns. The ad network dynamically generates the headline and chooses the landing page and display URL for a dynamic search ad, and then automatically generates the final URL.
 
-See the Google Ads help for [ad limits per account](https://support.google.com/google-ads/answer/6372658?hl=en).
+See the [!DNL Google Ads] help for [ad limits per account](https://support.google.com/google-ads/answer/6372658?hl=en).
 
 >[!NOTE]
 >

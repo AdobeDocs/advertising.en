@@ -20,7 +20,7 @@ feature: Search Campaign Management
 
 **[!UICONTROL Ad Rotation Mode]:** How often [!DNL Google Ads] delivers your active ads in relation to one another within the ad group:
 
-* *[!UICONTROL Optimize]:* Google Ads favors ads that it expects to perform better than other ads in the ad group. These ads enter the ad auction more often, and over time a single ad is favored. This may be inconsistent with your business and optimization objectives.
+* *[!UICONTROL Optimize]:* [!DNL Google Ads] favors ads that it expects to perform better than other ads in the ad group. These ads enter the ad auction more often, and over time a single ad is favored. This may be inconsistent with your business and optimization objectives.
 
 * *[!UICONTROL Rotate forever]:*   Each of your ads enters the ad auction a more even number of times, which allows Search, Social, & Commerce to score your ads not only on click-through rate but also on conversions.
 
