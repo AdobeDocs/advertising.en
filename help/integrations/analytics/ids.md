@@ -44,11 +44,15 @@ For [!DNL Analytics], the EF ID is stored in [an [!DNL Analytics] [!DNL eVar]](h
 
 For Customer Journey Analytics, the EF ID is stored in the `trackingIdentities` property of the `conversionDetails` object, which is part of [the [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension]](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
 
-### EF ID Formats {#ef-id-formats}
+### EF ID formats {#ef-id-formats}
+
+See the [formats for EF ID dimension items](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-ef-id#dimension-items) in the "Adobe Analytics Components Guide."
 
 >[!NOTE]
 >
 >EF IDs are case-sensitive. If an [!DNL Analytics] or Customer Journey Analytics implementation forces URL tracking to lowercase, then Adobe Advertising doesn't recognize the EF ID. This impacts Adobe Advertising bidding and reporting but has no impact on Adobe Advertising reporting within [!DNL Analytics] or Customer Journey Analytics.
+
+<!-- Legacy content:
 
 #### [!DNL Google Ads] search ads
 
@@ -92,13 +96,15 @@ where:
 
 Example `EF ID: WcmibgAAAHJK1RyY:1551968087687:d`
 
+-->
+
 ### The EF ID dimension in [!DNL Analytics]
 
 In [!DNL Analytics] reports, you can find EF ID data by searching for the [!UICONTROL EF ID] dimension and using the [!UICONTROL EF ID Instance] metric.
 
 EF IDs are subject to the 500k unique identifier limit in Analysis Workspace. Once the 500k value is reached, all new tracking codes are reported under the one-line-item title "[!UICONTROL Low Traffic]." Because of the possibility of missing reporting fidelity, the EF IDs are not classified, and you should not use them for segments or reporting in [!DNL Analytics].
 
-<!-- ## Adobe Advertising AMO IDs {#amo-id} -->
+<!-- ## Adobe Advertising AMO IDs {#amo-id} --> 
 
 {{$include /help/_includes/amo-id.md}}
 

@@ -26,7 +26,7 @@ New segments take 24-48 hours to appear in Adobe Advertising. Updates to existin
 * [!UICONTROL Timespent_secs_1stvisit]: The number of seconds spent on the site during the visitor's first visit.
 * [!UICONTROL Timespent_secs_total]: The total number of seconds spent on the site across all visits within the click lookback window.
 * [!UICONTROL Pageviews_1stvisit]: The number of page views on the site during the visitor's first visit.
-* [!UICONTROL Pageviews_total]: The total number of page views on the site across all visits within the click lookback window.
+* [!UICONTROL Pageviews_total]: The total number of page views on the site across all visits within the click lookback window.
 * [[!UICONTROL Bounces] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html)
 * [[!UICONTROL Visits] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html)
 * [!UICONTROL ef_id_instances]: The number of times that [!DNL Analytics] collected an [!UICONTROL EF ID].

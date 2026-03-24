@@ -64,11 +64,11 @@ Accounts that use Adobe Advertising conversion tracking must include the ad netw
 
 * When the advertiser has an Adobe Analytics integration, the suffix must include one of the following:
   
-  * [!DNL Google Ads] accounts that use the latest [AMO ID format](/help/integrations/analytics/ids.md#amo-id-formats) (beginning with `s_kwcid`), which supports campaign- and ad group-level reporting for performance max campaigns and drafts and experiments campaigns:
+  * [!DNL Google Ads] accounts that use the latest [AMO ID format](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items) (beginning with `s_kwcid`), which supports campaign- and ad group-level reporting for performance max campaigns and drafts and experiments campaigns:
 
     `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
-    If the account has a server-side AMO ID implementation and the account or campaign setting "[!UICONTROL Auto Upload]" is enabled, then the parameter is added automatically. Otherwise, you need to manually add it. See "[Adobe Advertising IDs used by [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id-implement)."
+    If the account has a server-side AMO ID implementation and the account or campaign setting "[!UICONTROL Auto Upload]" is enabled, then the parameter is added automatically. Otherwise, you need to manually add it. See "[Adobe Advertising IDs used by [!DNL Analytics]](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id-implement)."
 
   * All other [!DNL Google Ads] accounts:
 
@@ -87,4 +87,4 @@ Accounts that use Adobe Advertising conversion tracking must include the ad netw
 >[!MORELIKETHIS]
 >
 >* [About click-tracking URL formats for the Adobe Advertising conversion tracking service](formats-click-tracking-about.md)
->* [AMO ID formats](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [AMO ID formats](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items)

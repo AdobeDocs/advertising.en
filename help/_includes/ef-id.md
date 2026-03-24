@@ -10,9 +10,13 @@ For Customer Journey Analytics, the EF ID is stored in the `trackingIdentities` 
 
 ### EF ID formats {#ef-id-formats}
 
+See the [formats for EF ID dimension items](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-ef-id#dimension-items) in the "Adobe Analytics Components Guide."
+
 >[!NOTE]
 >
 >EF IDs are case-sensitive. If an [!DNL Analytics] or Customer Journey Analytics implementation forces URL tracking to lowercase, then Adobe Advertising doesn't recognize the EF ID. This impacts Adobe Advertising bidding and reporting but has no impact on Adobe Advertising reporting within [!DNL Analytics] or Customer Journey Analytics.
+
+<!-- Legacy content:
 
 #### [!DNL Google Ads] search ads
 
@@ -55,3 +59,5 @@ where:
     * `s` for a click on a Search ad (search click-through).
 
 Example `EF ID: WcmibgAAAHJK1RyY:1551968087687:d`
+
+-->
