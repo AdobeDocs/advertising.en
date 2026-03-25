@@ -13,6 +13,8 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 
 -->
 
+The available report columns vary by report type. The following is a superset of the columns across all report types.
+
 |Metric Type|Subtype|Column Name|Description|
 |-----------|-------|-----------|-----------|
 |[!UICONTROL Dimension]|[!UICONTROL Ad]|[!UICONTROL Ad External ID]|The ad ID assigned by the external ad server.|
