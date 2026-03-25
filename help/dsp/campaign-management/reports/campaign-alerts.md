@@ -1,6 +1,6 @@
 ---
 title: View alerts
-description: Learn how to view alerts and recommended resolutions for your campaigns and campaign components.
+description: Learn how to view alerts and recommended resolutions for your campaigns and campaign components. Use alerts to troubleshoot issues with your campaigns.
 feature: DSP Campaigns, DSP Packages, DSP Placements, DSP Ads, DSP Campaign Data Views
 exl-id: 667bf1c3-3bad-4a1a-b907-0c9bfe5362a9
 ---
