@@ -14,7 +14,7 @@ DSP supports people-based, universal IDs for cookieless, single-device (not cros
 
 * You can manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. See "[Manually import authenticated segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)."
 
-* DSP can ingest your first-party segments comprised of hashed email IDs built within your customer data platform (CDP) and convert them to [!DNL LiveRamp] [!DNL RampIDs] and [!DNL Unified ID 2.0 (UID2.0)] IDs. For more information about the supported customer data platforms, the available features for each supported universal ID type, and the related workflows, see "[About first-party audience sources](/help/dsp/audiences/sources/source-about.md)."
+* DSP can ingest your first-party segments built within your customer data platform (CDP) and convert them to [!DNL LiveRamp] [!DNL RampIDs] and [!DNL Unified ID 2.0 (UID2.0)] IDs. For more information about the supported customer data platforms and types of user identifiers, the available features for each supported universal ID type, and the related workflows, see "[About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)."
 
 * You can create custom segments that track users associated with ID5 universal IDs who are exposed to ads from desktop and mobile devices and who visit specific webpages. ID5 uses a probabilistic model to assign an ID derived from various user signals and browser signals. For instructions, see "[Create and implement a custom segment](/help/dsp/audiences/custom-segment-create.md)."
 
@@ -91,6 +91,8 @@ Use the following best practices for [!DNL RampID]-based segments and ID5-based 
 * Remember that the reach for authenticated audience segments is naturally smaller than the reach for cookie-based segments, and that using additional targeting options further decreases your reach. Be judicious about using granular targeting, especially by joining multiple targets with AND statements.
 
 ## Data variances between email IDs and universal IDs {#universal-ids-data-variances}
+
+This section applies only to email IDs that are translated to universal IDs.
 
 ### Acceptable levels of variance
 

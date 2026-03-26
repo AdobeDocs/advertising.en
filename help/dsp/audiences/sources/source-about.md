@@ -8,7 +8,7 @@ exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 
 *Beta feature*
 
-DSP can ingest first-party segments comprised of hashed email IDs built within your customer data platform (CDP) and convert them to segments comprised of universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Add that info. somewhere else too? -->.
+DSP can ingest first-party segments comprised of hashed email IDs, cookies, and mobile advertising IDs (MAIDs) built within your customer data platform (CDP) and convert them to segments comprised of universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Move that info. to somewhere else? -->.
 
 Segment details include the size of each universal ID type as well as the size for each device type tracked by cookies or device IDs.
 
@@ -71,9 +71,9 @@ DSP can also connect to any additional CDPs using batch, streaming, or API-based
 
 DSP is an integrated *destination* for [the [!DNL Adobe Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform.
 
-In [!DNL Real-Time CDP], destinations are connections to external data platforms that allow seamless data activation. You can use destinations to activate your hashed email addresses for targeted advertising in DSP. For more information about destinations, see the Experience Platform [Destinations guide](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), including an overview of the product, instructions for [creating destination workspaces](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) and [creating destination connections](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), and [activating data to destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
+In [!DNL Real-Time CDP], destinations are connections to external data platforms that allow seamless data activation. You can use destinations to activate your hashed email addresses, cookies, and mobile advertising IDs for targeted advertising in DSP. For more information about destinations, see the Experience Platform [Destinations Guide](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), including an overview of the product, instructions for [creating destination workspaces](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) and [creating destination connections](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), and [activating data to destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
 
-To enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments and convert your hashed email addresses to universal IDs, see "[Convert user IDs from [!DNL Adobe Real-Time CDP] to universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)."
+To enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments and convert your hashed email addresses, cookies, and mobile advertising IDs to universal IDs, see "[Convert user IDs from [!DNL Adobe Real-Time CDP] to universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)."
 
 ### [!DNL ActionIQ]
 
