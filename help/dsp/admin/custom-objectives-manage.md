@@ -75,7 +75,7 @@ The [!UICONTROL Settings] > [!UICONTROL Custom Objectives] view indicates the st
 
 1. (Objectives with custom bidding; optional) To generate the recommended assist metrics based on past performance data, click **[!UICONTROL Generate]** in the bottom section. In the **[!UICONTROL Generate Recommendation]**, click **[!UICONTROL Generate]**.
 
-   While the recommended metrics are being generated, the status of the custom goal is *[!UICONTROL Waiting]*. Once the recommendations are generated, see "[View and apply recommended assist events](#view-apply-recommendations)." <!-- I should really repeat those steps here.  -->
+   While the recommended metrics are being generated, the status of the custom objective is *[!UICONTROL Waiting]*. Once the recommendations are generated, see "[View and apply recommended assist events](#view-apply-recommendations)." <!-- I should really repeat those steps here.  -->
 
    <!-- This really should go after Save, but I don't get a Save option when I choose this. Should that be?   -->
  
