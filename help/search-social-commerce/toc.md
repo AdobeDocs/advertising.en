@@ -3,11 +3,11 @@ role: User
 user-guide-title: Advertising Search, Social, & Commerce Guide
 user-guide-description: This guide explains the major features, tasks, settings, and other resources required to manage, track, and report on your search, social, and commerce ad campaigns.
 breadcrumb-title: Advertising Search, Social, & Commerce Guide
-index: yes
+index: true
 ---
 # Advertising Search, Social, & Commerce Guide {#search-social-commerce}
 
-<!-- When we  use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link doesn't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md) -->
+<!-- When we use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link doesn't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md) -->
 
 + [What's new](home.md)
 + [About this guide](help-about.md)
@@ -111,7 +111,7 @@ index: yes
       + [Remove label classification values from account components](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-remove)
       + [Delete label classification values](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-delete)
       + [Delete label classifications](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-delete)
-+ Target {#target}
+  + Target {#target}
     + Keywords {#keywords}
       + [About the [!UICONTROL Keywords] view](/help/search-social-commerce/new-ui/target/keywords/keyword-view-about.md)
       + [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)

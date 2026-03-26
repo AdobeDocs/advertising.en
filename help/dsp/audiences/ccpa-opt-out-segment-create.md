@@ -1,10 +1,10 @@
 ---
-title: Create and Implement a CCPA Opt-out-of-Sale Segment
+title: Create and implement a CCPA opt-out-of-sale segment
 description: Learn how to create and implement a segment to track users IDs from consumer opt-out-of-sale requests.
 feature: CCPA, DSP Segments
 exl-id: 0623c52e-02ea-4e06-bc54-8abb7a87765a
 ---
-# Create and Implement a CCPA Opt-out-of-Sale Segment
+# Create and implement a CCPA opt-out-of-sale segment
 
 You can create a segment to track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA). Users remain in CCPA opt-out-of-sale segments indefinitely.
 
@@ -54,8 +54,8 @@ Once the segment pixel tag is implemented, Adobe Advertising begins to collect a
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
+>* [Adobe Advertising support for the California Consumer Privacy Act: Consumer opt-out of sale support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
 >* [About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports](ccpa-opt-out-about.md)
->* [Retrieve Consumer Opt-Out-of-Sale Reports](ccpa-opt-out-segment-report-retrieve.md)
->* [Create and Implement a Custom Segment](custom-segment-create.md)
->* [About Audience Management](audience-about.md)
+>* [Retrieve consumer opt-out-of-sale reports](ccpa-opt-out-segment-report-retrieve.md)
+>* [Create and implement a custom segment](custom-segment-create.md)
+>* [About audience management](audience-about.md)

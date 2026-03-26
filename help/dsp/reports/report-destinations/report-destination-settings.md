@@ -1,10 +1,10 @@
 ---
-title: Report Destination Settings
+title: Report destination settings
 description: See the details required for your report destinations, by destination type.
 feature: DSP Custom Reports
 exl-id: 1437ceea-111a-4c2e-a439-037b3a35865c
 ---
-# Report Destination Settings
+# Report destination settings
 
 The details required for non-email report destinations vary by destination type.
 
@@ -66,7 +66,7 @@ The details required for non-email report destinations vary by destination type.
 
 >[!MORELIKETHIS]
 >
->* [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [Create a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)
+>* [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [Create a report destination](/help/dsp/reports/report-destinations/report-destination-create.md)
 >* [Edit a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
->* [Delete a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
+>* [Delete a report destination](/help/dsp/reports/report-destinations/report-destination-delete.md)

@@ -4,7 +4,7 @@ description: Learn how to view alerts and recommended resolutions for your exper
 feature: Creative Experiences
 exl-id: faea1b1f-62f5-4277-acc4-6d99cf166906
 ---
-# View Alerts
+# View alerts
 
 [!DNL Creative] helps you to identify when any of your experiences, including the creatives within the experience, have issues. For each issue, [!DNL Creative] issues an alert with a time stamp and the recommended action to resolve the issue. Reasons for alerts include the expiration of live experiences and high delivery on default ads rather than targeted ads. Alerts are available at the experience level.
 
@@ -16,7 +16,7 @@ Alerts and alert indicators automatically disappear when the underlying issues a
 >
 >Within Advertising DSP, [alerts about placements created from [!DNL Creative] experiences](/help/dsp/campaign-management/reports/campaign-alerts.md) are available at the campaign level.
 
-## View Alerts in the [!UICONTROL Pulse Panel]
+## View alerts in the [!UICONTROL Pulse Panel]
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
 

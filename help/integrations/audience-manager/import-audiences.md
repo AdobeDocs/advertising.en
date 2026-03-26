@@ -1,10 +1,10 @@
 ---
-title: Import Adobe Audience Manager Segments for Ad Targeting
+title: Import Adobe Audience Manager segments for ad targeting
 description: Learn how to import your [!DNL Adobe] audiences into Advertising DSP and Search using Adobe Audience Manager
 feature: Integration with Adobe Audience Manager
 exl-id: 6ff80699-9554-4b39-a019-d8055d68c174
 ---
-# Import Adobe Audience Manager Segments for Ad Targeting
+# Import Adobe Audience Manager segments for ad targeting
 
 Advertising DSP and [!DNL Advertising Search, Social, & Commerce] can each pull in metadata, hierarchy data, and unique audience data for all of an advertiser's or agency's [!DNL Adobe] audiences<!-- segments or audiences? Standardize terms per AAM's docs -->, including:
 
@@ -36,9 +36,9 @@ To access [!DNL Adobe] audiences in DSP or [!DNL Creative], you must import the 
 
 * (Recommended) For higher match rates, send only first-party website data to Adobe Advertising. If the advertiser bundles third-party data or offline data from a customer relationship management system, data leakage may reduce match rates. 
 
-## Import Audience Manager Audiences to DSP
+## Import Audience Manager audiences to DSP
 
-### Steps to Import Audiences to DSP
+### Steps to import audiences to DSP
 
 The [!DNL Adobe] account and data operations teams perform the following steps.
 
@@ -46,7 +46,7 @@ The [!DNL Adobe] account and data operations teams perform the following steps.
 
 1. The Adobe Account Team should submit a request to the data operations team to import the organization's Audience Manager segments using the Advertising DSP native API integration.
 
-### What Changes Result in Audience Manager?
+### What changes result in Audience Manager?
 
 The API automatically:
 
@@ -64,9 +64,9 @@ The API automatically:
 
   * Adobe AdCloud: 411 (This pixel comes standard and automatically as part of [!DNL Identity Service] version 2.0. Organizations with [!DNL Identity Service] versions below 2.0 should add this pixel to their Audience Manager container.
 
-## Import Audience Manager Audiences to [!DNL Search, Social, & Commerce]
+## Import Audience Manager audiences to [!DNL Search, Social, & Commerce]
 
-### Steps to Import Audiences to [!DNL Search, Social, & Commerce]
+### Steps to import audiences to [!DNL Search, Social, & Commerce]
 
 [!DNL Adobe] personnel perform most or all of the following steps.
 
@@ -88,14 +88,14 @@ The API automatically:
 
     The organization's Experience Cloud [!DNL Organization ID] ([!DNL IMS org ID]) is required. The ID must be the same as the one used for the organization's Audience Manager account.
 
-### What Changes Result in Audience Manager?
+### What changes result in Audience Manager?
 
 Two [!DNL Search, Social, & Commerce] destinations become available for the organization in Audience Manager:
 
 * **[!UICONTROL Adobe Media Optimizer (HTTP)]**
 * **[!UICONTROL Adobe Media Optimizer Batch Destination]**
 
-## Data Synchronization
+## Data synchronization
 
 The initial import takes about 24 hours. After the initial import, data is synced in real time, with a one- to two-second delay.
 
@@ -115,7 +115,7 @@ Segment membership data is sent only after one of the following events occurs:
 
 <!-- Is membership data/whatever available in Creative? If so, does it show the same as DSP? -->
 
-### How DSP Syncs the Data
+### How DSP syncs the data
 
 DSP syncs the data automatically using the [!DNL Adobe Experience Cloud Identity (ECID) Service]. During synchronization, the [!DNL ECID Service] calls Adobe Advertising at [!DNL cm.everesttech.net]. Because Adobe Advertising is a trusted domain, ID syncs take place from parent pages rather than within the destination publishing iframes, as they do with most third-party activation partners. Audience Manager identifies unique users by device IDs, using the [Audience Manager [!DNL Unique User ID (AAM UUID)]](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/reference/ids-in-aam), also called the [!DNL Device ID].
 
@@ -123,13 +123,14 @@ DSP syncs the data automatically using the [!DNL Adobe Experience Cloud Identity
 ![Synchronization of [!DNL Adobe] audiences in DSP](/help/integrations/assets/audience-manager-sync.png)
 -->
 
-### How Search, Social, & Commerce Syncs the Data
+### How Search, Social, & Commerce syncs the data
 
 Search, Social, & Commerce syncs the data automatically using the [!DNL Adobe Experience Cloud Identity (ECID) Service]. During synchronization, the [!DNL ECID Service] calls Adobe Advertising at [!DNL cm.everesttech.net], which is a trusted domain that belongs to Adobe Advertising. Audience Manager identifies unique users by device IDs, using the [Audience Manager [!DNL Unique User ID (AAM UUID)]](https://experienceleague.adobe.com/en/docs/audience-manager/user-guide/reference/ids-in-aam), also called the [!DNL Device ID].
 
-## Where to Find Your Synced Segments
+## Where to find your synced segments
 
 ### In DSP
+
 
 DSP organizes the segment names by the Audience Manager taxonomy and includes the corresponding segment membership counts in:
 
@@ -138,6 +139,7 @@ DSP organizes the segment names by the Audience Manager taxonomy and includes th
 * In [audience settings](/help/dsp/audiences/audience-settings.md): On the [!UICONTROL Adobe Segments] tab.
 
 ### In Advertising Creative
+
 
 In [!DNL Creative], the segments are available in the experience settings for target nodes.
 
@@ -149,4 +151,4 @@ For each [!DNL Google] audience that you create, [!DNL Google] supplies the audi
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Integrations with Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
+>* [Adobe Advertising integrations with Adobe Audience Manager](/help/integrations/audience-manager/overview.md)

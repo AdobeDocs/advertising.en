@@ -1,10 +1,10 @@
 ---
-title: SSP Partners
+title: SSP partners
 description: See a list of available supply-side platform (SSP) and open exchange partners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
 ---
-# SSP Partners
+# SSP partners
 
 A supply-side platform (SSP) is an advertising technology platform used to help digital media owners and publishers sell digital ads in automated auctions. Digital media owners and publishers use SSPs to coordinate, manage, and monetize the supply and distribution of their ad inventory. Advertising DSP is integrated with all leading SSPs, allowing advertisers to easily access high-quality inventory for their advertising needs.
 
@@ -35,7 +35,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL ShareThrough]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Global|USD|Display desktop and mobile<br><br>Native display<br><br>Video desktop, mobile, and CTV|
 |[!DNL SmartClip]||Adobe Advertising|&mdash;|EMEA|All Currencies|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL Taboola]||Adobe Advertising|&mdash;|US/CA|USD|Video desktop and mobile|
-|[!DNL Teads]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Outstream Video = Global<br>Display = NA + EMEA|USD|Display desktop and mobile<br><br>Video desktop and mobile|
+|[!DNL Teads]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Outstream Video = Global<br>Display = NA + EMEA|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL TripleLift]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Global|USD|Native display|
 |[!DNL TripleLift Display & Outstream]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Global|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL Triton]||Adobe Advertising|PG support|Global|USD|Audio desktop and mobile|
@@ -43,5 +43,5 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 
 >[!MORELIKETHIS]
 >
->* [Overview of Inventory Features](inventory-overview.md)
+>* [Overview of inventory features in Advertising DSP](inventory-overview.md)
 

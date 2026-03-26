@@ -12,8 +12,8 @@ breadcrumb-title: Creative Guide
   + [About Adobe Advertising Creative](/help/creative/introduction/creative-about.md)
   + [Customize your data views](/help/creative/introduction/customize-data-views.md)
   + [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
-  + [Support for Consumer Privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
-  + [Policies and Guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
+  + [Support for consumer privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
+  + [Policies and guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
 + Creative libraries {#creative-libraries}
   + [About your creative libraries](/help/creative/creative-libraries/creative-libraries-about.md)
   + [Supported creative sizes](/help/creative/creative-libraries/creative-sizes.md)

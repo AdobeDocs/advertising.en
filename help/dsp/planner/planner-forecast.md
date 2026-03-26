@@ -1,10 +1,10 @@
 ---
-title: Regenerate the Forecast for a Connected TV Reach Plan
+title: Regenerate the forecast for a connected TV reach plan
 description: Learn how to create a new forecast for a connected TV reach plan.
 feature: DSP Planner
 exl-id: ec3de39c-c2b3-4004-8d86-eb6479608121
 ---
-# Regenerate the Forecast for a Connected TV Reach Plan
+# Regenerate the forecast for a connected TV reach plan
 
 You can regenerate the forecast for a connected TV reach plan based on the latest observed data.
 
@@ -16,10 +16,10 @@ You can regenerate the forecast for a connected TV reach plan based on the lates
 
 >[!MORELIKETHIS]
 >
->* [About the DSP Planner Tool](planner-about.md)
->* [Create a Connected TV Reach Plan](planner-create.md)
->* [Duplicate a Connected TV Reach Plan](planner-duplicate.md)
->* [Edit a Connected TV Reach Plan](planner-edit.md)
->* [Export a Connected TV Reach Plan](planner-export.md)
->* [Archive a Connected TV Reach Plan](planner-archive.md)
->* [Settings for Connected TV Reach Plans](planner-settings.md)
+>* [About the DSP [!UICONTROL Planner] tool](planner-about.md)
+>* [Create a connected TV reach plan](planner-create.md)
+>* [Duplicate a connected TV reach plan](planner-duplicate.md)
+>* [Edit a connected TV reach plan](planner-edit.md)
+>* [Export a connected TV reach plan](planner-export.md)
+>* [Archive a connected TV reach plan](planner-archive.md)
+>* [Settings for connected TV reach plans](planner-settings.md)
