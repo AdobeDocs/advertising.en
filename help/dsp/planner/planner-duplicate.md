@@ -4,7 +4,7 @@ description: Learn how to create a connected TV reach plan using the settings fr
 feature: DSP Planner
 exl-id: 80dab57a-e56d-4a77-a1d5-c3e705f54fb9
 ---
-# Duplicate a connected TV reach plan 
+# Duplicate a connected TV reach plan
 
 1. In the main menu, click **[!UICONTROL Planner]**.
 

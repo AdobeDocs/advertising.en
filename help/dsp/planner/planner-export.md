@@ -4,7 +4,7 @@ description: Learn how to export the forecast for a connected TV reach plan.
 feature: DSP Planner
 exl-id: f4bad569-1b56-439a-8c41-92a24a710476
 ---
-# Export a forecast for a connected TV reach plan 
+# Export a forecast for a connected TV reach plan
 
 You can export the [!UICONTROL Budget vs Reach] forecast to a [!DNL Microsoft Excel] spreadsheet** with [!UICONTROL Budget] and [!UICONTROL Reach] columns.
 
