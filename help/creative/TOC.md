@@ -12,8 +12,8 @@ breadcrumb-title: Creative Guide
   + [About Adobe Advertising Creative](/help/creative/introduction/creative-about.md)
   + [Customize your data views](/help/creative/introduction/customize-data-views.md)
   + [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
-  + [Support for Consumer Privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
-  + [Policies and Guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
+  + [Support for consumer privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
+  + [Policies and guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
 + Creative libraries {#creative-libraries}
   + [About your creative libraries](/help/creative/creative-libraries/creative-libraries-about.md)
   + [Supported creative sizes](/help/creative/creative-libraries/creative-sizes.md)
@@ -33,6 +33,7 @@ breadcrumb-title: Creative Guide
     + [Attach creatives to bundles](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
     + [Duplicate creatives](/help/creative/creative-libraries/creative-duplicate.md)
     + [Download creatives](/help/creative/creative-libraries/creative-download.md)
+    + [View the change log for a creative](/help/creative/creative-libraries/creative-view-change-log.md)
     + [Delete creatives](/help/creative/creative-libraries/creative-delete.md)
   + Creative bundles {#bundles}
     + [Manage creative bundles](/help/creative/creative-libraries/bundle-manage.md)
@@ -70,6 +71,7 @@ breadcrumb-title: Creative Guide
   + [Share a demo URL for an experience](/help/creative/experiences/experience-share-demo-url.md)
   + [Download data from the [!UICONTROL Experiences] view](/help/creative/experiences/experience-download-view.md)
   + [Rename an ad tag](/help/creative/experiences/experience-tag-rename.md)
+  + [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)
   + [Delete an experience](/help/creative/experiences/experience-delete.md)
 + Feeds {#feeds}
   + [Manage asset files](/help/creative/feeds/asset-manage.md)

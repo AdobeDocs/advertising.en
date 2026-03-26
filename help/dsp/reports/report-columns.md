@@ -1,16 +1,19 @@
 ---
-title: Available Report Columns
+title: Available report columns
 description: See descriptions of available columns in custom reports.
 feature: DSP Custom Reports
 exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 ---
-# Available Report Columns
+# Available report columns
 
-<!-- Add when added:
+<!--
+ Add when added:
 
 |[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Deal List]|The name of a user-created deal list for which an ad was shown.|
 
 -->
+
+The available report columns vary by report type. The following is a superset of the columns across all report types.
 
 |Metric Type|Subtype|Column Name|Description|
 |-----------|-------|-----------|-----------|
@@ -28,8 +31,8 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Title]| The content/film title. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Series]| The content series. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Genre]| The content genre. |
-|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL ProdQ]| The production quality, as defined by the [IAB Technology Laboratory](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Values can `Unknown`, `Professionally Produced`, `Prosumer`, or `User Generated`.|
-|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Context]| The type of content, as defined by the [IAB Technology Laboratory](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Values can include `Video,` `Game`, `Music`, `Application`, `Text`, `Other`, or `Unknown`. |
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL ProdQ]| The production quality, as defined by [the [!DNL IAB Technology Laboratory]](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Values can `Unknown`, `Professionally Produced`, `Prosumer`, or `User Generated`.|
+|[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Context]| The type of content, as defined by [the [!DNL IAB Technology Laboratory]](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Values can include `Video,` `Game`, `Music`, `Application`, `Text`, `Other`, or `Unknown`. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Content Rating]| The content rating, such as PG or R. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Livestream]| Whether the ad appeared in a livestream: `Not Live` or `Live`. |
 |[!UICONTROL Dimension]|[!UICONTROL Content]|[!UICONTROL Content Length (in seconds)]| The length of the content in seconds; typically used for video or audio. |
@@ -265,8 +268,8 @@ exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
->* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Duplicate a custom report](/help/dsp/reports/report-copy.md)
+>* [Edit a custom report](/help/dsp/reports/report-edit.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)

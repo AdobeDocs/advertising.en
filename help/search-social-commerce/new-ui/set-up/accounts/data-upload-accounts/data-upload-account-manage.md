@@ -96,7 +96,7 @@ For details about the functionality available for each ad network, see "[Support
 
 **[!UICONTROL Account Synchronization and Management] > [!UICONTROL Account Enabled]:** Search, Social, & Commerce allows automated data fetching for a specified S3 bucket.
 
-## [!UICONTROL Setup Analytics] tab
+### [!UICONTROL Setup Analytics] tab
 
 **[!UICONTROL Adobe Analytics Report Suite]:** (Advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md); optional) One or more Analytics report suites to which Search, Social, & Commerce sends data you upload for the ad network, including entity classifications and click data for the account.
 

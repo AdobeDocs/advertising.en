@@ -18,7 +18,8 @@ You can also detach a creative from a bundle to remove the association between t
 >
 >You can<!-- also --> [attach creatives to bundles and detach creatives from bundles from the Bundles view](/help/creative/creative-libraries/bundle-manage.md).
 
-<!-- Hide header until second procedure is available (if we add that):
+<!--
+ Hide header until second procedure is available (if we add that):
 
 ## Attach creatives to creative bundles
 
@@ -42,7 +43,8 @@ You can also detach a creative from a bundle to remove the association between t
 
 1. In the right frame, select the check box next to each bundle to which to attach the creative, and then click **[!UICONTROL Attach Creative to Bundle]**.
 
-<!-- Verify and edit all of the following, including the command names and where they're available -- not in UI yet as of 1/17. I'm not sure what the UI will really look like.
+<!--
+ Verify and edit all of the following, including the command names and where they're available -- not in UI yet as of 1/17. I'm not sure what the UI will really look like.
 
 ## Detach creatives from a creative bundle
 
@@ -66,7 +68,8 @@ You can also detach a creative from a bundle to remove the association between t
 
 -->
 
-<!-- What this should be like, but I don't think this will be implemented:
+<!--
+ What this should be like, but I don't think this will be implemented:
 
 1. Select the creative:
 

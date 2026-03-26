@@ -232,7 +232,8 @@ You can preview a creative as viewers will see it, including hyperlinks.
    
    1. In the [!UICONTROL Share Demo URL] dialog, click **[!UICONTROL Copy]** to copy the URL to your clipboard so that you can share it with someone else.
 
-<!-- Not there as of 1/22/25:
+<!--
+ Not there as of 1/22/25:
 
 ## Edit the landing page and tracking tags for the creatives in a standard creative bundle
 
@@ -263,6 +264,28 @@ The custom URL and tags are applied to a creative when the bundle is assigned to
 1.
 
  -->
+
+## View the change log for a bundle
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Click the library name.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Select the bundle:
+
+   * In card view, click **[!UICONTROL ...]** next to the bundle name, and then click **[!UICONTROL Change Log]**.
+     
+   * In table view, hold the cursor over the row and click **[!UICONTROL More]** > **[!UICONTROL Change Log]**.
+
+1. (Optional) Change the time range reported.
+
+1. (Optional) To add a note, hold the cursor over the row and click **[!UICONTROL Add Notes]**. Enter the note and click **[!UICONTROL Save]**.
+
+1. (Optional) To view the change log entry, including any added notes, hold the cursor over the row and click **[!UICONTROL View Details]**.
 
 ## Delete bundles
 

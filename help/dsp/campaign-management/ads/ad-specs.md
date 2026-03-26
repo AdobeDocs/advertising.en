@@ -1,22 +1,22 @@
 ---
-title: Ad Specifications
+title: Ad specifications
 description: Reference general and publisher-specific ad specifications.
 feature: DSP Ads
 exl-id: 133dfc0d-d839-4e06-a819-21e3e630830c
 ---
-# Specifications for Supported Ad Types
+# Specifications for supported ad types
 
-## Video Ads (Pre-Roll, CTV, and Universal Video)
+## Video ads (pre-roll, CTV, and universal video)
 
-### Supported Screens
+### Supported screens
 
 Ads are delivered by default on desktop, mobile, and connected TV devices. Device targeting is available to adjust delivery.
 
-### Supported Third-Party Ad Servers
+### Supported third-party ad servers
 
-You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
+You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified ad serving partners](certified-ad-servers.md)."
 
-### Requirements for High-Definition Video Assets
+### Requirements for high-definition video assets
 
 **Video Tag Type:** VPAID 2.0 JavaScript or VAST (CTV). All VPAID ad units must adhere to the [VPAID 2.0 specification](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) as defined by the Interactive Advertising Bureau (IAB).
 
@@ -46,7 +46,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 
 **Audio Levels:** 24 LKFS (+/- 2.0 dB) in the US as per ATSC A/85; 23 LUFS (+/- 1.0) in the EU as per EBU R128
 
-#### Additional Publisher Requirements for Connected TV Ads
+#### Additional publisher requirements for connected TV ads
 
 * **A+E Network:** See A+E Network's [ad specifications](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
 
@@ -58,7 +58,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 
 * **NBCUniversal:**
 
-  * [Digital Video](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
+  * [Digital video](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
 
   * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
 
@@ -66,37 +66,37 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 
 * **Paramount:** See Paramount's [ad specifications](https://www.paramount.com/digital-ads).
 
-## Display Ads
+## Display ads
 
-### Supported Screens
+### Supported screens
 
 Ads are delivered by default on desktop and mobile devices. Device targeting is available to adjust delivery.
 
-### Supported File Types
+### Supported file types
 
 **Image:** GIF, JPG/JPEG, PNG
 
 **HTML5:** Image file types: GIF, JPG/JPEG, PNG, SVG
 
-### Requirements for Image Assets
+### Requirements for image assets
 
 Universal Display is supported.
 
 **Recommended ad sizes:** 120x60, 160x600, 180x150, 300x50, 300x100, 300x1050, 300x250, 300x600, 320x50, 320x480, 480x60, 640x480, 88x31, 728x90, 970x250, 970x90
 
-**Supported Third-Party Ad Servers:** You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
+**Supported Third-Party Ad Servers:** You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified ad serving partners](certified-ad-servers.md)."
 
-## Audio Ads
+## Audio ads
 
-### Supported Screens
+### Supported screens
 
 Desktop, Mobile, Tablet, Smart Speakers, and Connected TV
 
-### Supported Third-Party Ad Servers
+### Supported third-party ad servers
 
-You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified Ad Serving Partners](certified-ad-servers.md)."
+You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and [!DNL Sizmek]. For a full list of supported vendors, see "[Certified ad serving partners](certified-ad-servers.md)."
 
-### Requirements for Audio Assets
+### Requirements for audio assets
 
 **File type:** MP3, OGG, AAC
 
@@ -108,7 +108,7 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
 
 **File Length:** 0-60s
 
-#### Additional Publisher Requirements
+#### Additional publisher requirements
 
 * **[!DNL iHeartRadio]**
   * Length: 5, 15, 30 or 60 seconds 
@@ -141,11 +141,11 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
   * File type: MP3, OGG
   * Volume: 44.1 kHz 
 
-### Requirements for Companion Banner Ads (Optional)
+### Requirements for companion banner ads (optional)
 
 **Supported sizes:** 300x250, 500x500, 640x640, 1024x1024
 
-#### Additional Publisher Requirements
+#### Additional publisher requirements
 
 * **[!DNL iHeartRadio]:**
   * File type: JPEG, JPG, PNG, GIF, SWF, HTML
@@ -172,17 +172,17 @@ You can use tag sheets from [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], and
   * Maximum file size: 2 MB
   * Dimensions: 300x250
 
-## Native Display Ads
+## Native display ads
 
 Each ad can include either a still image or a moving GIF (cinemagraph).
 
-### Supported Screens
+### Supported screens
 
 Ads are delivered by default on desktop and mobile devices. Device targeting is available to adjust delivery.
 
-### Required Assets for All Native In-Feed Formats 
+### Required assets for all native in-feed formats 
 
-#### Image Asset
+#### Image asset
 
 **Resolution:** Minimum 600x600px; Recommended minimum of 1200x627px
 
@@ -190,7 +190,7 @@ Ads are delivered by default on desktop and mobile devices. Device targeting is 
 
 **File Size:** Less than 1 MB (Image should be free of text.)
 
-#### Advertiser Logo
+#### Advertiser logo
 
 **Resolution:** Minimum 80x80px; Recommended minimum of 300x300px
 
@@ -216,7 +216,7 @@ Ads are delivered by default on desktop and mobile devices. Device targeting is 
 >
 >The final layout is defined by the publisher at runtime. If an ad exceeds the recommended character count, some inventory providers may not to deliver the ad, or the publisher or SSP may truncate the text. 
 
-#### Landing Page URL
+#### Landing page URL
 
 The click-through URL with optional click trackers.
 
@@ -232,7 +232,7 @@ Requirements for click trackers:
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Create a Single Ad](ad-create.md)
->* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Edit an Ad](ad-edit.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Create a single ad](ad-create.md)
+>* [Create multiple third-party ads](ad-create-multiple.md)
+>* [Edit an ad](ad-edit.md)

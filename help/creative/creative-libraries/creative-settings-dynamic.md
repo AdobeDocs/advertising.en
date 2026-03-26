@@ -12,7 +12,7 @@ exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
 
 <!-- add a description -->
 
-### Basic Details
+### Basic details
 
 **[!UICONTROL Creative Type]:** Whether the creative is a *[!UICONTROL Display]* ad (HTML5) or a *[!UICONTROL Video]* ad.
 
@@ -22,7 +22,7 @@ exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
 
 **[!UICONTROL Library]:** The creative library in which to create the ads. If you're creating the ads from within [!UICONTROL Creatives] > [!UICONTROL Creative Libraries], then the library name is already selected and read-only.
 
-## Ad Template
+## Ad template
 
 **[!UICONTROL Ad Template]:** The ad template from which to create the ads. Select an existing ad template, or upload a new ad template and select the template type (*Static* or *Dynamic*). The template must be in ZIP format and contain:<!-- Need to add more specs for templates -->
 
@@ -52,7 +52,7 @@ Uploaded catalogs must be in ZIP format and contain the following:
 
 ### [!UICONTROL Attributes Mapping]
 
-**[!UICONTROL Enable targeting]**: <!-- "targeting options/filters," but I don't think this means user targeting since that is set in the experience/ad on DSP -->The types of columns in the feed file for which values must be present to create ads: *[!UICONTROL Profile data]*, *[!UICONTROL Geographic data], *[!UICONTROL Data pass], *[!UICONTROL Audience Segment]*.  **Note:** These settings work independently from the advanced settings in ad experience settings.<!-- Clarify what qualifies for each, and explain more -->
+**[!UICONTROL Enable targeting]**: The types of columns in the feed file for which values must be present to create ads: *[!UICONTROL Profile data]*, *[!UICONTROL Geographic data], *[!UICONTROL Data pass], *[!UICONTROL Audience Segment]*.  **Note:** These settings work independently from the advanced settings in ad experience settings.<!-- Clarify what qualifies for each, and explain more -->
 
 **[!UICONTROL Dynamic Ad Fields]** / **[!UICONTROL Maps to Catalog Labels]:**
 

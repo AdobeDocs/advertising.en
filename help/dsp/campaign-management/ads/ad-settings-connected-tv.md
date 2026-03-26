@@ -1,10 +1,10 @@
 ---
-title: Connected TV Ad Settings
+title: Connected TV ad settings
 description: See descriptions of the available ad settings for connected TV ads.
 feature: DSP Ads
 exl-id: d8e47f7e-7480-400f-8ffa-ecf41ce2ebfb
 ---
-# Connected TV Ad Settings
+# Connected TV ad settings
 
 ## [!UICONTROL Insert Ad Tag]
 
@@ -64,8 +64,8 @@ This is the same as the **[!UICONTROL Height]** field.
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Create a Single Ad](ad-create.md)
->* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Ad Specifications](ad-specs.md)
->* [DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Create a single ad](ad-create.md)
+>* [List the placements associated with an ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [Ad specifications](ad-specs.md)
+>* [DSP macros](/help/dsp/campaign-management/macros.md)

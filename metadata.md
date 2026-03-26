@@ -5,7 +5,7 @@ solution: Advertising
 feature-set: Advertising
 product: advertising cloud
 git-repo: https://github.com/AdobeDocs/advertising.en
-index: yes
+index: true
 ---
 
 # Metadata for internal use

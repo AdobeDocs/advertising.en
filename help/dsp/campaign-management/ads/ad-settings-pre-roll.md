@@ -1,10 +1,10 @@
 ---
-title: Pre-roll Ad Settings
+title: Pre-roll ad settings
 description: See descriptions of the available ad settings for pre-roll ads.
 feature: DSP Ads
 exl-id: d0ba4346-13ae-405c-92b6-a0c32dd09d0a
 ---
-# Pre-roll Ad Settings
+# Pre-roll ad settings
 
 ## [!UICONTROL Insert Ad Tag]
 
@@ -68,8 +68,8 @@ This is the same as the **[!UICONTROL Height]** field.
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Create a Single Ad](ad-create.md)
->* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Ad Specifications](ad-specs.md)
->* [DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Create a single ad](ad-create.md)
+>* [List the placements associated with an ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [Ad specifications](ad-specs.md)
+>* [DSP macros](/help/dsp/campaign-management/macros.md)

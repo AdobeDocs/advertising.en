@@ -1,20 +1,21 @@
 ---
-title: About First-Party Audience Sources
+title: About first-party audience sources
 description: Learn about converting other user identifiers in your first-party segments to universal IDs for cookieless targeting.
 feature: DSP Audiences
 exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
 ---
-# About First-Party Audience Sources
+# About first-party audience sources
 
 *Beta feature*
 
-DSP can ingest first-party segments comprised of hashed email IDs built within your customer data platform (CDP) and convert them to segments comprised of universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Move that info. to somewhere else? -->.
+DSP can ingest first-party segments comprised of hashed email IDs built within your customer data platform (CDP) and convert them to segments comprised of universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Add that info. somewhere else too? -->.
 
 Segment details include the size of each universal ID type as well as the size for each device type tracked by cookies or device IDs.
 
-## Universal ID Types {#universal-id-types}
+## Universal ID types {#universal-id-types}
 
-<!--  Replace below with this once ID5 sources are possible 
+<!--
+  Replace below with this once ID5 sources are possible 
 
 Using your first-party data, you can create segments with IDs from the following universal ID partners.
 
@@ -42,7 +43,8 @@ You can translate your first-party segments to segments with authenticated (dete
     
     Fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered.
 
-<!-- Not yet
+<!--
+ Not yet
 
 * Probabilistic (unauthenticated) IDs using hashed email addresses:
 
@@ -50,7 +52,8 @@ You can translate your first-party segments to segments with authenticated (dete
 
     ID5 creates an ID by stitching together user signals (hashed email address) with various browser signals (such as IP address and timestamp).
 
-    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). You also must sign an agreement with [!DNL ID5] and set a parameter within your existing JavaScript tracking tags. <!-- Contact your Adobe Account Team for instructions. -->
+    [!DNL Analytics] measurement requires all [prerequisites for implementing [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) and the [AMO ID and EF ID in your tracking URLs](/help/integrations/analytics/ids.md). You also must sign an agreement with [!DNL ID5] and set a parameter within your existing JavaScript tracking tags. Contact your Adobe Account Team for instructions.
+-->
 
 <!--
     >[!NOTE]
@@ -58,7 +61,7 @@ You can translate your first-party segments to segments with authenticated (dete
     >Third-party segments from [!DNL Eyeota] may automatically include ID5 IDs, in addition to users tracked by cookies or device IDs. The segment details include the size for each type. The usual usage fee for each segment, which is stated next to the segment name, applies; no additional fees are charged for the ID5 IDs.
 -->
 
-## Supported Customer Data Platforms for First-Party Segments
+## Supported customer data platforms for first-party segments
 
 DSP has established connectors to the following CDPs to quickly ingest your first-party segments.
 
@@ -68,9 +71,9 @@ DSP can also connect to any additional CDPs using batch, streaming, or API-based
 
 DSP is an integrated *destination* for [the [!DNL Adobe Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform.
 
-In [!DNL Real-Time CDP], destinations are connections to external data platforms that allow seamless data activation. You can use destinations to activate your hashed email addresses for targeted advertising in DSP. For more information about destinations, see the Experience Platform [Destinations Guide](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), including an overview of the product, instructions for [creating destination workspaces](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) and [creating destination connections](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), and [activating data to destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
+In [!DNL Real-Time CDP], destinations are connections to external data platforms that allow seamless data activation. You can use destinations to activate your hashed email addresses for targeted advertising in DSP. For more information about destinations, see the Experience Platform [Destinations guide](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), including an overview of the product, instructions for [creating destination workspaces](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) and [creating destination connections](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), and [activating data to destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
 
-To enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments and convert your hashed email addresses to universal IDs, see "[Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)."
+To enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments and convert your hashed email addresses to universal IDs, see "[Convert user IDs from [!DNL Adobe Real-Time CDP] to universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)."
 
 ### [!DNL ActionIQ]
 
@@ -78,23 +81,23 @@ You can share your organization's first-party data from the [!DNL ActionIQ] cust
 
 ### [!DNL Amperity]
 
-You can share your organization's first-party data from the [!DNL Amperity] customer data platform with DSP to convert your hashed email addresses to universal IDs for targeted advertising in DSP. For more information, see "[Convert User IDs from [!DNL Amperity] to Universal IDs](/help/dsp/audiences/sources/source-amperity.md)."
+You can share your organization's first-party data from the [!DNL Amperity] customer data platform with DSP to convert your hashed email addresses to universal IDs for targeted advertising in DSP. For more information, see "[Convert user IDs from [!DNL Amperity] to universal IDs](/help/dsp/audiences/sources/source-amperity.md)."
 
 ### [!DNL Optimizely]
 
-You can share your organization's first-party data from the [!DNL Optimizely] customer data platform with DSP to convert your hashed email addresses to universal IDs for targeted advertising in DSP. For more information, see "[Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)."
+You can share your organization's first-party data from the [!DNL Optimizely] customer data platform with DSP to convert your hashed email addresses to universal IDs for targeted advertising in DSP. For more information, see "[Convert user IDs from [!DNL Optimizely] to universal IDs](/help/dsp/audiences/sources/source-optimizely.md)."
 
 ### [!DNL Tealium]
 
-You can share your organization's first-party data from the [!DNL Tealium] customer data platform using [!DNL Amazon Web Services]. For more information about converting your hashed email addresses to universal IDs for targeted advertising in DSP, see "[Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)."
+You can share your organization's first-party data from the [!DNL Tealium] customer data platform using [!DNL Amazon Web Services]. For more information about converting your hashed email addresses to universal IDs for targeted advertising in DSP, see "[Convert user IDs from [!DNL Tealium] to universal IDs](/help/dsp/audiences/sources/source-tealium.md)."
 
 >[!MORELIKETHIS]
 >
->* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
->* [Support for Activating Universal IDs](/help/dsp/audiences/universal-ids.md)
->* [Convert User IDs from [!DNL Adobe Real-Time CDP] to Universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
->* [Convert User IDs from [!DNL Amperity] to Universal IDs](/help/dsp/audiences/sources/source-amperity.md)
->* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
->* [Convert User IDs from [!DNL Tealium] to Universal IDs](/help/dsp/audiences/sources/source-tealium.md)
->* [About Audience Management](/help/dsp/audiences/audience-about.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Manage audience sources to activate universal ID audiences](source-manage.md)
+>* [Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)
+>* [Convert user IDs from [!DNL Adobe Real-Time CDP] to universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+>* [Convert user IDs from [!DNL Amperity] to universal IDs](/help/dsp/audiences/sources/source-amperity.md)
+>* [Convert user IDs from [!DNL Optimizely] to universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
+>* [Convert user IDs from [!DNL Tealium] to universal IDs](/help/dsp/audiences/sources/source-tealium.md)
+>* [About audience management](/help/dsp/audiences/audience-about.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

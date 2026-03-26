@@ -1,10 +1,10 @@
 ---
-title: Duplicate a Custom Report
+title: Duplicate a custom report
 description: Learn how to create a custom report by duplicating an existing report.
 feature: DSP Custom Reports
 exl-id: 20542bf8-69e9-44e0-9637-56b27f2de9ec
 ---
-# Duplicate a Custom Report
+# Duplicate a custom report
 
 Duplicate a custom report to create a new report with similar settings.
 
@@ -20,9 +20,9 @@ Duplicate a custom report to create a new report with similar settings.
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
->* [Download a Custom Report](/help/dsp/reports/report-download.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Edit a custom report](/help/dsp/reports/report-edit.md)
+>* [Download a custom report](/help/dsp/reports/report-download.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)

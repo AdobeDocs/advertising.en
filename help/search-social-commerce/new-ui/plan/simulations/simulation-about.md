@@ -11,7 +11,8 @@ exl-id: 2fbefee2-f8f7-4b3d-a039-e1ca0236c61a
 
 Simulation reports show the estimated marginal cost-to-objective value, cost, number of clicks, and objective value that you can expect for a portfolio at various levels of spending (cost) and the corresponding daily budgets or other targets. You can optionally [customize the view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) to see additional traffic metrics, simulation settings, and only a specific simulation type ([!UICONTROL Weekly] or [!UICONTROL Custom]).
 
-<!-- Not available as of 6/21/25:
+<!--
+ Not available as of 6/21/25:
 When the portfolio has a daily budget, you can optionally change the portfolio's spend target to any of the spend targets listed in the simulation.
 -->
 

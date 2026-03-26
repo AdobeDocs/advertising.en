@@ -1,12 +1,12 @@
 ---
-title: Attach a Placement to a Package
+title: Attach a placement to a package
 description: Learn how to attach a placement to a package.
 feature: DSP Packages
 exl-id: dbee2db6-6cb7-4c56-9c14-816ea071b760
 ---
-# Attach a Placement to a Package
+# Attach a placement to a package
 
-## Attach a New Placement from the [!UICONTROL Placements] View
+## Attach a new placement from the [!UICONTROL Placements] view
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -18,7 +18,7 @@ exl-id: dbee2db6-6cb7-4c56-9c14-816ea071b760
 
 1. Enter the remaining [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), and then click **[!UICONTROL Create Placement]**.
 
-## Attach a New or Existing Placement from the [!UICONTROL Packages] View
+## Attach a new or existing placement from the [!UICONTROL Packages] view
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -52,8 +52,8 @@ exl-id: dbee2db6-6cb7-4c56-9c14-816ea071b760
 
 >[!MORELIKETHIS]
 >
->* [About Package Management](package-about.md)
->* [Create a Package](package-create.md)
->* [View the Change Log for a Package](package-change-log.md)
->* [Package Settings](package-settings.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [About package management in Advertising DSP](package-about.md)
+>* [Create a package](package-create.md)
+>* [View the change log for a package](package-change-log.md)
+>* [Package settings](package-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

@@ -1,18 +1,18 @@
 ---
-title: Adobe Advertising Integrations with Adobe Audience Manager
+title: Adobe Advertising integrations with Adobe Audience Manager
 description: Learn about the different ways in which Adobe Advertising can exchange data with Adobe Audience Manager.
 feature: Integration with Adobe Audience Manager
 exl-id: 5b0ecb82-fb5c-48c5-a599-15b548f59461
 ---
-# Adobe Advertising Integrations with Adobe Audience Manager
+# Adobe Advertising integrations with Adobe Audience Manager
 
 You can integrate Adobe Advertising with Audience Manager in the following ways.
 
-## Synchronize Audience Manager and other [!DNL Adobe] Segments for Ad Targeting
+## Synchronize Audience Manager and other [!DNL Adobe] segments for ad targeting
 
-[!DNL Search, Social, & Commerce] and DSP can pull in metadata, hierarchy data, and unique audience data for all of an advertiser's or agency's Audience Manager and other [!DNL Adobe] audiences. This unique connection is available only to marketers using Adobe Advertising. See "[Import Adobe Audience Manager Segments for Ad Targeting](/help/integrations/audience-manager/import-audiences.md)."
+[!DNL Search, Social, & Commerce] and DSP can pull in metadata, hierarchy data, and unique audience data for all of an advertiser's or agency's Audience Manager and other [!DNL Adobe] audiences. This unique connection is available only to marketers using Adobe Advertising. See "[Import Adobe Audience Manager segments for ad targeting](/help/integrations/audience-manager/import-audiences.md)."
 
-### Use Audience Manager and Other [!DNL Adobe] Segments to Create [!DNL Google Ads Audiences] {#audience-manager-google-audiences}
+### Use Audience Manager and other [!DNL Adobe] segments to create [!DNL Google Ads] audiences {#audience-manager-google-audiences}
 
 *Opted-in advertisers with [!DNL Advertising Search, Social, & Commerce] only*
 
@@ -26,7 +26,7 @@ To create the necessary user IDs, you must use an Adobe Advertising JavaScript t
 
 Once you create the audiences, you can use them in [!DNL Google Ads] campaigns as [campaign-level or ad group-level targets or exclusions](#audience-manager-targets).
 
-### Use Audience Manager and other [!DNL Adobe] Segments to Target or Exclude Ads {#audience-manager-targets}
+### Use Audience Manager and other [!DNL Adobe] segments to target or exclude ads {#audience-manager-targets}
 
 * (Opted-in advertisers with [!DNL Search, Social, & Commerce]) You can use any [!DNL Google Ads] audiences that were [created using [!DNL Adobe] segments](#audience-manager-google-audiences) as campaign-level or ad group-level targets or exclusions in your [!DNL Google Ads] campaigns.
 
@@ -38,16 +38,16 @@ Once you create the audiences, you can use them in [!DNL Google Ads] campaigns a
 >
 >For more information about how to create audiences in the Audience Manager and Experience Cloud [!DNL Audience Library] interfaces, and common use cases for different audience types, see "[Audience creation options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html)."
 
-## Send DSP Media Exposure Data to Audience Manager
+## Send DSP media exposure data to Audience Manager
 
 *Advertisers with DSP only*
 
 DSP customers with Adobe Audience Manager can capture data from ad campaigns using pixel calls to Audience Manager. You can then use the campaign data to build rule-based traits, which you can use to define new segments to enable various DSP use cases, such as more advanced segmentation, frequency management, marketing analytics, and reporting insights.
 
-See "[Overview of Sending DSP Media Exposure Data to Adobe Audience Manager](/help/integrations/audience-manager/media-data-integration/overview.md)" for more information.
+See "[Overview of sending DSP media exposure data to Adobe Audience Manager](/help/integrations/audience-manager/media-data-integration/overview.md)" for more information.
 
-## Get Richer Insights into Site Activity with Audience Analytics
+## Get richer insights into site activity with Audience Analytics
 
 Adobe Advertising customers with [[!DNL Adobe Audience Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html) can send both Adobe Advertising-tracked data and Audience Manager segments to [!DNL Analytics] for enriched insights about site activity.
 
-For more information, see "[[!DNL Adobe Audience Analytics] for Adobe Advertising Customers](/help/integrations/audience-manager/audience-analytics.md)."
+For more information, see "[[!DNL Adobe Audience Analytics] for Adobe Advertising customers](/help/integrations/audience-manager/audience-analytics.md)."

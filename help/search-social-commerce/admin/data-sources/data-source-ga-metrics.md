@@ -9,7 +9,8 @@ feature: Search Admin, Search Data Sources
 
 The following metrics, except for the exclusions noted, are available when they're enabled in the customer's implementation in [!DNL Google Analytics].
 
-<!-- Notes as FYI to self:
+<!--
+ Notes as FYI to self:
 >[!NOTE]
 >
 >* For some of these metrics, [!DNL Google] assigns the friendly name, and the name is consistent. For some metrics, the advertiser assigns the friendly name in [!DNL Google Analytics], and the name has a dynamic value.

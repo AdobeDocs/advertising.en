@@ -1,10 +1,10 @@
 ---
-title: List the Placements Associated with an Ad
+title: List the placements associated with an ad
 description: Learn how to see the placements associated with an ad.
 feature: DSP Ads
 exl-id: e7c6ce90-b1c9-4ed4-a7db-9e279de15520
 ---
-# List the Placements Associated with an Ad
+# List the placements associated with an ad
 
 View a list of placements associated with an ad to see performance data by placement and edit the placement settings if needed.
 
@@ -15,7 +15,7 @@ View a list of placements associated with an ad to see performance data by place
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Edit an Ad](ad-edit.md)
->* [Edit Placements](/help/dsp/campaign-management/placements/placement-edit.md)
->* [View a Detailed Report for a Placement](/help/dsp/campaign-management/placements/placement-view-report.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Edit an ad](ad-edit.md)
+>* [Edit placements](/help/dsp/campaign-management/placements/placement-edit.md)
+>* [View a detailed report for a placement](/help/dsp/campaign-management/placements/placement-view-report.md)

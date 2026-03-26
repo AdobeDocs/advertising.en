@@ -53,3 +53,4 @@ These formatted steps are inserted automatically from text in the following file
 >* [Edit an experience with decision tree targeting](experience-edit-targeting.md)
 >* [Targeted experience settings](experience-settings-targeting.md)
 >* [Export and implement an ad experience tag for a live experience](experience-tag-export.md)
+>* [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)

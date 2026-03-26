@@ -27,4 +27,4 @@ Example:
 >[!MORELIKETHIS]
 >
 >* [About click-tracking URL formats for the Adobe Advertising conversion tracking service](formats-click-tracking-about.md)
->* [AMO ID Formats](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [AMO ID Formats](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items)

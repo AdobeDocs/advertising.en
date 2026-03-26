@@ -10,9 +10,31 @@ For Customer Journey Analytics, the AMO ID is stored in the `trackingCode` prope
 
 The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL squid]."
 
-### AMO ID Formats {#amo-id-formats}
+### AMO ID formats {#amo-id-formats}
 
-#### AMO ID Format for [!DNL DSP]
+See the [formats for AMO ID dimension items](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items) in the "Adobe Analytics Components Guide."
+
+<!-- Legacy content:
+
+Notes for GGL Ads: Verify Creative description. Also, are there more networks now (audience and shopping?) Re "To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).: Update terminology there too.
+
+Note: ADD IN Meta:
+
+##### [!DNL Meta]
+
+`s_kwcid=AL!{userid}!45!{{ad.id}}!{{campaign.id}}!{{adset.id}}`
+
+where:
+
+* `{{ad.id}}` is the unique numeric ID for the ad/creative.
+
+* `{{campaign.id}}` is the unique ID for the campaign.
+
+* `{{adset.id}}` is the unique ID for the ad set.
+
+BEGIN LEGACY CONTENT:
+
+#### AMO ID format for [!DNL DSP]
 
 `s_kwcid=AC!${TM_AD_ID}!${TM_PLACEMENT_ID}`
 
@@ -20,9 +42,9 @@ where:
 
 * `AC` indicates the display channel.
 
-* `{TM_AD_ID}` is the Adobe Advertising-generated alphanumeric ad key. It's used an unique identifier for an ad and serves as a key for translating Adobe Advertising entity metadata into readable [!DNL Analytics] and Customer Journey Analytics dimensions.
+* `{TM_AD_ID}` is the Adobe Advertising-generated alphanumeric ad key. It's used as an unique identifier for an ad and serves as a key for translating Adobe Advertising entity metadata into readable [!DNL Analytics] and Customer Journey Analytics dimensions.
 
-* `{TM_PLACEMENT_ID}` is the Adobe Advertising-generated alphanumeric placement key. It's used an unique identifier for a placement and serves as a key for translating Adobe Advertising entity metadata into readable [!DNL Analytics] and Customer Journey Analytics dimensions.
+* `{TM_PLACEMENT_ID}` is the Adobe Advertising-generated alphanumeric placement key. It's used as an unique identifier for a placement and serves as a key for translating Adobe Advertising entity metadata into readable [!DNL Analytics] and Customer Journey Analytics dimensions.
 
 Example AMO ID: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
@@ -30,7 +52,7 @@ Example AMO ID: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
 The parameters vary by ad network, but the following parameters are common to all:
 
-* `AL` indicates the search channel. <!-- what about social/Facebook, and display ads on Google (like Gmail, YouTube)? -->
+* `AL` indicates the search channel.
 
 * `{userid}` is a unique user ID assigned to the advertiser.
 
@@ -60,8 +82,6 @@ These including shopping campaigns using [!DNL Google Merchant Center].
 
 where:
 
-<!-- VERIFY CREATIVE description. Also, are there more networks now (audience and shopping?) -->
-
 * `{creative}` is the [!DNL Google Ads] unique numeric ID for the creative.
 * `{matchtype}` is the matchtype of the keyword that triggered the ad: `e` for exact, `p` for phrase, or `b` for broad.
 * `{placement}` is the domain name of the website on which the ad was clicked. A value is available for ads in placement-targeted campaigns and for ads in keyword-targeted campaigns that are displayed on content sites.
@@ -75,23 +95,7 @@ where:
 >
 >* For dynamic search ads, {keyword} is populated with the auto target.
 >* When you generate tracking for [!DNL Google] shopping ads, a product ID parameter, `{adwords_producttargetid}`, is inserted before the keyword parameter. The product ID parameter doesn't appear in the [!DNL Google Ads] account-level and campaign-level tracking parameters.
->* To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)." <!-- Update terminology there too. -->
-
-<!--
-
-##### [!DNL Meta]
-
-`s_kwcid=AL!{userid}!45!{{ad.id}}!{{campaign.id}}!{{adset.id}}`
-
-where:
-
-* `{{ad.id}}` is the unique numeric ID for the ad/creative.
-
-* `{{campaign.id}}` is the unique ID for the campaign.
-
-* `{{adset.id}}` is the unique ID for the ad set.
-
--->
+>* To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)."
 
 ##### [!DNL Microsoft Advertising]
 
@@ -137,3 +141,5 @@ where:
 * `{ad_id}` is the ad network's unique numeric ID for the creative.
 * `{source_type}` is the type of site on which the ad has been displayed: *b* for search, *c* for context (content), or *ct* for category.
 * `{phrase_id}` is the ad network's numeric ID for the keyword.
+
+-->

@@ -8,11 +8,11 @@ feature: Search Tracking
 
 *Advertisers with an Adobe Advertising-Adobe Analytics integration only*
 
-Adobe Advertising shares data about your campaigns with Adobe Analytics using the AMO ID append parameter, also called the `s_kwcid` parameter, which consists of ad channel and ad network-specific elements. 
+Adobe Advertising shares data about your campaigns with Adobe Analytics using the AMO ID append parameter, also called the `s_kwcid` parameter, which consists of ad channel and ad network-specific elements.
 
-For information about how to add the AMO ID parameter to your tracking URLs, and the AMO ID formats for DSP and Search, Social, & Commerce, see "[Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id)."
+For information about how to add the AMO ID parameter to your tracking URLs, and the AMO ID formats for DSP and Search, Social, & Commerce, see "[Adobe Advertising IDs used by [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id)."
 
 >[!MORELIKETHIS]
 >
 >* [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md){target="_blank"}
->* [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id){target="_blank"}
+>* [Adobe Advertising IDs used by [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id){target="_blank"}
