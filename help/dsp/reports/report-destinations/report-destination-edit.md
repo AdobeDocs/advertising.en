@@ -1,10 +1,10 @@
 ---
-title: Edit a Report Destination
+title: Edit a report destination
 description: Learn how to edit a report destination.
 feature: DSP Custom Reports
 exl-id: 33c011a5-c207-455d-8112-360098024eaa
 ---
-# Edit a Report Destination
+# Edit a report destination
 
 Changes to a report destination affect the delivery of all linked custom reports. Make sure that the provided credentials are valid to prevent interruptions to report delivery.
 
@@ -20,7 +20,7 @@ Changes to a report destination affect the delivery of all linked custom reports
 
 >[!MORELIKETHIS]
 >
->* [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [Create a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)
->* [[!UICONTROL Report Destination] Settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
->* [Delete a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
+>* [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [Create a report destination](/help/dsp/reports/report-destinations/report-destination-create.md)
+>* [Report destination settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
+>* [Delete a report destination](/help/dsp/reports/report-destinations/report-destination-delete.md)

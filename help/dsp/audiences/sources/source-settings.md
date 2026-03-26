@@ -1,10 +1,10 @@
 ---
-title: Audience Source Settings
+title: Audience source settings
 description: Learn about the settings for audience sources.
 feature: DSP Audiences
 exl-id: 274ea502-ad15-4d3d-922a-17caddb87f69
 ---
-# Audience Source Settings
+# Audience source settings
 
 *Beta feature*
 
@@ -26,7 +26,8 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 
 * *[!DNL Unified ID2.0] (Beta):* To convert PII to a [Unified ID 2.0](https://unifiedid.com) ID for retargeting logging-in users.
 
-<!-- Later
+<!--
+ Later
 * *[!DNL ID5] (Beta):* To convert PII to an [!DNL ID5] ID. You can use [!DNL ID5] IDs for retargeting logging-in users and for [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) measurement.
 
 -->
@@ -37,8 +38,8 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 
 >[!MORELIKETHIS]
 >
->* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
->* [About First-Party Audience Sources](source-about.md)
->* [Manually Import Authenticated Segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
->* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
->* [About Audience Management](/help/dsp/audiences/audience-about.md)
+>* [Manage audience sources to activate universal ID audiences](source-manage.md)
+>* [About first-party audience sources](source-about.md)
+>* [Manually import authenticated segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
+>* [Adobe Advertising DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [About audience management](/help/dsp/audiences/audience-about.md)

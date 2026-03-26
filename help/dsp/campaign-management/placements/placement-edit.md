@@ -1,10 +1,10 @@
 ---
-title: Edit Placements
+title: Edit placements
 description: Learn how to edit a placement.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
 ---
-# Edit Placements
+# Edit placements
 
 You can edit the settings for a single placement or for multiple placements at once. Some settings can't be changed once the placement is live.
 
@@ -12,9 +12,9 @@ You can edit the settings for a single placement or for multiple placements at o
 
 >[!NOTE]
 >
->You can also download the settings for one or more placements, or for all placements in a campaign, in XLSX (Excel spreadsheet) format; make changes to most fields; and upload them back to DSP all at once. See "[Review and Edit Placement Settings Using Bulksheets](placement-qa.md)."
+>You can also download the settings for one or more placements, or for all placements in a campaign, in XLSX (Excel spreadsheet) format; make changes to most fields; and upload them back to DSP all at once. See "[Review and edit placement settings using bulksheets](placement-qa.md)."
 
-## Quickly Edit Key Placement Settings {#placement-quick-edit}
+## Quickly edit key placement settings {#placement-quick-edit}
 
 You can edit the placement name, status, maximum bid, and budget without opening the complete placement settings.
 
@@ -25,11 +25,11 @@ You can edit the placement name, status, maximum bid, and budget without opening
 1. Edit any of the available [placement settings](placement-settings.md):  **[!UICONTROL Placement Name]**, **[!UICONTROL Status]**, **[!UICONTROL Max Bid]**, and **[!UICONTROL Budget]**.
 1. Click **[!UICONTROL Apply]**.
 
-## Edit a Single Placement
+## Edit a single placement
 
 >[!TIP]
 >
-> To edit only the placement name, status, maximum bid, and budget, see "[Quickly Edit Key Placement Settings](#placement-quick-edit)."
+> To edit only the placement name, status, maximum bid, and budget, see "[Quickly edit key placement settings](#placement-quick-edit)."
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -43,7 +43,7 @@ You can edit the placement name, status, maximum bid, and budget without opening
 
 1. Click **[!UICONTROL Update placement]**.
 
-## Make the Same Changes to Multiple Placements {#edit-multiple-placements}
+## Make the same changes to multiple placements {#edit-multiple-placements}
 
 Use this option only when you want to apply the same changes to all selected placements.
 
@@ -85,15 +85,15 @@ Use this option only when you want to apply the same changes to all selected pla
 
 >[!MORELIKETHIS]
 >
->* [About Placement Management](placement-about.md)
->* [Review and Edit Placement Settings Using Bulksheets](placement-qa.md)
->* [Create a Placement](placement-create.md)
->* [Duplicate a Placement](placement-duplicate.md)
->* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
->* [Edit the Ad Schedules for Placements](placement-edit-ad-schedule.md)
->* [Deactivate or Activate a Placement](placement-pause-activate.md)
->* [View the Change Log for a Placement](placement-change-log.md)
->* [Placement Settings](placement-settings.md)
->* [View the Placement Forecast Report](/help/dsp/campaign-management/reports/placement-forecast.md)
->* [Keyboard Shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [Video: How to Edit Placements Using Bulk Edit Tools](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)
+>* [About placement management in Advertising DSP](placement-about.md)
+>* [Review and edit placement settings using bulksheets](placement-qa.md)
+>* [Create a placement](placement-create.md)
+>* [Duplicate a placement](placement-duplicate.md)
+>* [Manage bid multipliers for placements](placement-manage-bid-multipliers.md)
+>* [Edit the ad schedules for placements](placement-edit-ad-schedule.md)
+>* [Deactivate or activate a placement](placement-pause-activate.md)
+>* [View the change log for a placement](placement-change-log.md)
+>* [Placement settings](placement-settings.md)
+>* [View the placement forecast report](/help/dsp/campaign-management/reports/placement-forecast.md)
+>* [Keyboard shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
+>* [Video: How to edit placements using bulk edit tools](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)

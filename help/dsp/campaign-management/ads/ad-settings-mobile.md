@@ -1,10 +1,10 @@
 ---
-title: Mobile Ad Settings
+title: Mobile ad settings
 description: See descriptions of the available ad settings for mobile ads.
 feature: DSP Ads
 exl-id: 45e8da8c-d6a2-4c42-8932-4cf551f6f899
 ---
-# Mobile Ad Settings
+# Mobile ad settings
 
 ## [!UICONTROL Insert Ad Tag]
 
@@ -86,8 +86,8 @@ Deprecated
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Create a Single Ad](ad-create.md)
->* [List the Placements Associated with an Ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Ad Specifications](ad-specs.md)
->* [DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Create a single ad](ad-create.md)
+>* [List the placements associated with an ad](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [Ad specifications](ad-specs.md)
+>* [DSP macros](/help/dsp/campaign-management/macros.md)

@@ -1,10 +1,10 @@
 ---
-title: How DSP Optimizes Your Campaigns
+title: How DSP optimizes your campaigns
 description: Learn how DSP optimizes the packages in your campaigns.
 feature: DSP Optimization
 exl-id: 92d411cf-4307-4449-97b4-da3817f2a0b4
 ---
-# How Advertising DSP Optimizes Your Campaigns
+# How Advertising DSP optimizes your campaigns
 
 This page outlines how the DSP optimization engine, which is powered by [!DNL Adobe AI], optimizes the packages in your campaigns. For tips and tricks on how to manually optimize your campaigns, contact your Adobe Account Team. <!-- add link to trading playbook if we add it to help -->
 
@@ -18,7 +18,7 @@ Package optimization goals operate at two levels:
    >
    >The economic value can be heavily weighted based on how well a placement is spending. If a placement is behind its spend goal, then it's allowed to buy lower-quality auctions. If a placement is easily meeting its spend goal, then the focus shifts to higher quality auctions.
 
-## Package Optimization
+## Package optimization
 
 DSP can optimize your delivery in two fundamental ways, with 20 variations available to align with your specific performance goal. You can choose to:
 
@@ -26,9 +26,9 @@ DSP can optimize your delivery in two fundamental ways, with 20 variations avail
 
 * Prioritize balancing cost efficiency with performance rate
 
-See [Optimization Goals and How to Use Them](optimization-goals.md) to determine which optimization goal can help you achieve your KPI(s).
+See [Optimization goals and how to use them](optimization-goals.md) to determine which optimization goal can help you achieve your KPI(s).
 
-### Packages That Prioritize the Performance Rate
+### Packages that prioritize the performance rate
 
 For optimization goals that prioritize the performance rate, DSP predicts the performance of each auction and always bids at the Max Bid. Examples of applicable optimization goals include [!UICONTROL Highest Viewability Rate], [!UICONTROL Highest Clickthrough Rate], and so on.  
 
@@ -46,15 +46,15 @@ This optimization mode works well if:
 
 * If spending is behind pace, bidding becomes less selective so that you bid on auctions predicted to have lower performance rates in order to catch up to the pacing goal.
 
-#### Clearing Price/Bid Shading {#clearing-price-performance}
+#### Clearing price/bid shading {#clearing-price-performance}
 
 After it executes the pacing logic, DSP runs the proposed bid through a clearing price prediction model. If the prediction indicates that the bid can be lowered with minimal decrease to the win rate, then the bid is decremented per the prediction.
 
-### Packages That Prioritize Balancing Cost Efficiency with Performance Rate
+### Packages that prioritize balancing cost efficiency with performance rate
 
 For some optimization goals, DSP predicts the performance of each auction and adjusts bid prices automatically, never exceeding a placement's [!UICONTROL Max Bid]. Examples of applicable optimization goals include [!UICONTROL Lowest CPM], [!UICONTROL Lowest CPA], [!UICONTROL Lowest Cost per View], [!UICONTROL Lowest Cost per Click], and so on.
 
-#### Pacing Logic {#pacing-logic-balanced}
+#### Pacing logic {#pacing-logic-balanced}
 
 * If spending is on pace, then DSP becomes more price sensitive, bidding lower amounts to trade off win rate with the pacing plan.
 
@@ -62,11 +62,11 @@ For some optimization goals, DSP predicts the performance of each auction and ad
 
 * If spending is behind pace, then DSP becomes less price sensitive and bids higher amounts, up to the [!UICONTROL Max Bid], to trade off win rate with the pacing plan. 
 
-#### Clearing Price/Bid Shading {#clearing-price-balanced}
+#### Clearing price/bid shading {#clearing-price-balanced}
 
 After it executes the pacing logic, DSP runs the proposed bid through a clearing price prediction model. If the prediction indicates that the bid can be lowered with minimal decrease to the win rate, then the bid is decremented per the prediction.  
 
-## Placement Optimization
+## Placement optimization
 
 Placement pre-bid filters are the strictest way to ensure strong performance. DSP uses pre-bid filters strategically across different ad types to achieve performance goals across placements within each package. You can use pre-bid filters concurrently with package-level optimization or independently.  
 
@@ -74,12 +74,12 @@ Placement pre-bid filters are the strictest way to ensure strong performance. DS
 >
 >The available pre-bids filters vary by ad type. For example, for a standard display placement, you can filter by click-through rate and viewability but not by completion rate.
 
-See [Placement-level Pre-Bid Filters and How to Use Them](optimization-pre-bid-filters.md) to determine which pre-bid filter can help you achieve your KPI(s).
+See [Placement-level pre-bid filters and how to use them](optimization-pre-bid-filters.md) to determine which pre-bid filter can help you achieve your KPI(s).
 
 >[!MORELIKETHIS]
 >
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
->* [Optimization Goals and How to Use Them](optimization-goals.md)
->* [Placement-level Pre-Bid Filters and How to Use Them](optimization-pre-bid-filters.md)
->* [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Optimization goals and how to use them](optimization-goals.md)
+>* [Placement-level pre-bid filters and how to use them](optimization-pre-bid-filters.md)
+>* [Troubleshooting performance](/help/dsp/optimization/troubleshooting-performance.md)

@@ -1,10 +1,10 @@
 ---
-title: Overview of Setting up PG Deals in [!DNL Freewheel]
+title: Overview of setting up PG deals in [!DNL Freewheel]
 description: Learn about the prerequisites and extra steps necessary to run ads for programmatic guaranteed deals with publishers on [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: b9c60248-8104-42ef-8afb-2f9db67b33b0
 ---
-# Overview of Setting up Programmatic Guaranteed Deals in [!DNL Freewheel] 
+# Overview of setting up programmatic guaranteed deals in [!DNL Freewheel] 
 
 Setting up programmatic guaranteed deals with publishers on [!DNL Freewheel] requires extra permissions and steps.
 
@@ -34,7 +34,7 @@ Setting up programmatic guaranteed deals with publishers on [!DNL Freewheel] req
 
 >[!MORELIKETHIS]
 >
->* [Accept a Deal in the Deal ID Inbox](deal-id-inbox-accept.md)
->* [Submit an Ad for a Programmatic Guaranteed Deal to [!DNL Freewheel]](freewheel-submit.md)
->* [Check the Status of Ads for [!DNL FreeWheel] Programmatic Guaranteed Deals](freewheel-check-status.md)
->* [Error Codes for [!DNL Freewheel] Ad Submissions](freewheel-error-codes.md)
+>* [Accept a deal in the [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md)
+>* [Submit an ad for a programmatic guaranteed deal to [!DNL Freewheel]](freewheel-submit.md)
+>* [Check the status of ads for a [!DNL FreeWheel] PG deal](freewheel-check-status.md)
+>* [Error codes for [!DNL FreeWheel] ad submissions](freewheel-error-codes.md)

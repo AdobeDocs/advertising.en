@@ -1,10 +1,10 @@
 ---
-title: Package Settings
+title: Package settings
 description: See descriptions of the available package settings.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
 ---
-# Package Settings
+# Package settings
 
 ## [!UICONTROL Basic Details]
 
@@ -47,11 +47,11 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 
 **[!UICONTROL Gross Budget]:** (Packages with package-level pacing and dynamic margin management only) The gross budget cap for the duration of the package.
 
-**[!UICONTROL Optimization Goal]:** (Packages with package-level pacing only) The optimization goal for the package. See descriptions of each optimization goal at [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md).
+**[!UICONTROL Optimization Goal]:** (Packages with package-level pacing only) The optimization goal for the package. See descriptions of each optimization goal at [Optimization goals and how to use them](/help/dsp/optimization/optimization-goals.md).
 
 **[!UICONTROL Link PG Placements for Incremental Reach Optimization]:** (Packages with package-level pacing and with the "[!UICONTROL Always Max Bid & Maximize Reach]" and "[!UICONTROL Lowest Cost per Reach]" optimization goals only) Uses household reach data from all programmatic guaranteed placements in the campaign to optimize for incremental reach.
 
-**[!UICONTROL Custom Goal for Model Learning]:** (Packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) A [custom goal](/help/dsp/optimization/custom-goal.md) that includes the revenue or conversion events used to calculate the CPA or ROAS metric. The custom goal must include additional weighted upper-funnel events (such as page visits and shopping cart additions) to be used in addition to the CPA or ROAS metric for package optimization. For more information about custom goals, including the best practices for creating for custom goals and campaigns that use them, see "[Custom Goals](/help/dsp/optimization/custom-goal.md)" and "[Best Practices for Setting up Performance Campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)."<!-- At some point, all of the objectives will be prefixed with "ADSP_," but probably that won't show up in the Custom Goal list in the DSP UI. -->
+**[!UICONTROL Custom Goal for Model Learning]:** (Packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) A [custom goal](/help/dsp/optimization/custom-goal.md) that includes the revenue or conversion events used to calculate the CPA or ROAS metric. The custom goal must include additional weighted upper-funnel events (such as page visits and shopping cart additions) to be used in addition to the CPA or ROAS metric for package optimization. For more information about custom goals, including the best practices for creating for custom goals and campaigns that use them, see "[Custom goals](/help/dsp/optimization/custom-goal.md)" and "[Best practices for setting up performance campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)."<!-- At some point, all of the objectives will be prefixed with "ADSP_," but probably that won't show up in the Custom Goal list in the DSP UI. -->
 
 **[!UICONTROL Consider Only Click Conversions for Model Learning]:** (Optional; packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) Tells the optimization model to learn only from click-based conversions. Otherwise, the optimization model learns from both click- and impression-based conversions.
 
@@ -121,9 +121,9 @@ For existing packages without the "[!UICONTROL Automatically rollover remaining 
 
 >[!MORELIKETHIS]
 >
->* [About Package Management](package-about.md)
->* [Create a Package](package-create.md)
->* [Edit a Package](package-edit.md)
->* [Attach a Placement to a Package](package-attach-placement.md)
->* [View the Change Log for a Package](package-change-log.md)
->* [FAQs About Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
+>* [About package management in Advertising DSP](package-about.md)
+>* [Create a package](package-create.md)
+>* [Edit a package](package-edit.md)
+>* [Attach a placement to a package](package-attach-placement.md)
+>* [View the change log for a package](package-change-log.md)
+>* [FAQs about campaign management](/help/dsp/campaign-management/faq-campaign-management.md)

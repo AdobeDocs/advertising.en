@@ -1,10 +1,10 @@
 ---
-title: Campaign Settings
+title: Campaign settings
 description: See descriptions of the available campaign settings.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
 ---
-# Campaign Settings
+# Campaign settings
 
 ## [!UICONTROL Basic Campaign Details]
 
@@ -102,7 +102,7 @@ To estimate taxes to withhold:
 
 **[!UICONTROL Packages]:** The [packages](/help/dsp/campaign-management/packages/package-about.md) to include in the campaign. Select existing packages and/or create packages to include. If you create packages, see descriptions about the [package settings](/help/dsp/campaign-management/packages/package-settings.md) for more information.
 
-## [!UICONTROL Campaign Measurement]
+## [!UICONTROL Campaign measurement]
 
 >[!NOTE]
 >
@@ -110,7 +110,7 @@ To estimate taxes to withhold:
 
 ### [!UICONTROL 3rd Party Metrics]
 
-#### [!UICONTROL Viewability, Fraud, & Brand Safety]
+#### [!UICONTROL Viewability, fraud, & brand safety]
 
 **[!UICONTROL IAS]:** (Optional) Enables [!DNL IAS] measurement and reporting of viewability, fraud, brand safety, and audience verification, using the specified settings. Additional fees apply.
 
@@ -124,7 +124,7 @@ To estimate taxes to withhold:
 
 * **[!UICONTROL IAS Team ID]:** (Advertisers with their own [!DNL IAS] accounts; optional) The team ID for the organization's [!DNL IAS] account, which [!DNL IAS] will bill directly for usage. <!-- verify -->
 
-#### Audience Verification
+#### Audience verification
 
 **[!UICONTROL Comscore Campaign Ratings]:** (Optional) Enables [!DNL Comscore] validated [!DNL Campaign Ratings] measurement and reporting of audience verification, using the specified settings. Additional fees apply.
 
@@ -158,7 +158,7 @@ Example JavaScript tag:
 
 >[!MORELIKETHIS]
 >
->* [About Campaign Management](campaign-about.md)
->* [Create a Campaign](campaign-create.md)
->* [Edit a Campaign](campaign-edit.md)
->* [View the Change Log for a Campaign](campaign-change-log.md)
+>* [About campaign management in Advertising DSP](campaign-about.md)
+>* [Create a campaign](campaign-create.md)
+>* [Edit a campaign](campaign-edit.md)
+>* [View the change log for a campaign](campaign-change-log.md)

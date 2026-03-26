@@ -1,9 +1,9 @@
 ---
-title: Publisher-Specific Ad Specifications
+title: Publisher-specific ad specifications
 description: Reference the ad specifications for supported publishers.
 feature: DSP Ads
 ---
-# Publisher-Specific Ad Specifications
+# Publisher-specific ad specifications
 
 Some publishers have stricter ad specifications than the Adobe Advertising [general ad specifications](/help/dsp/campaign-management/ads/ad-specs.md). When the publisher specifications are stricter than the Adobe Advertising specifications, make sure to follow the publisher specifications.
 
@@ -16,6 +16,6 @@ The following links take you to the ad specifications for some of the publishers
 
 >[!MORELIKETHIS]
 >
->* [About Ad Management](ad-about.md)
->* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Ad Specifications](/help/dsp/campaign-management/ads/ad-specs.md)
+>* [About ad management in Advertising DSP](ad-about.md)
+>* [Create multiple third-party ads](ad-create-multiple.md)
+>* [Ad specifications](/help/dsp/campaign-management/ads/ad-specs.md)

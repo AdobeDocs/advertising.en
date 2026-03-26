@@ -1,10 +1,10 @@
 ---
-title: About Insights
+title: About insights
 description: Learn about performance insights with visualizations.
 feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
 ---
-# About Insights
+# About insights
 
 *Beta feature*
 
@@ -22,9 +22,9 @@ You can export all visualizations for a tab to a PDF file or download the data f
 
 You can also [change the date range, configure the view, and save a custom view](/help/dsp/campaign-management/reports/campaign-data-views-manage.md){target="_blank"} like you can for campaign management views.
 
-## Types of Insights
+## Types of insights
 
-### [!UICONTROL Home] Tab
+### [!UICONTROL Home] tab
 
 The [!UICONTROL Home] tab provides key standard, performance, and viewability metrics across all of an advertiser's campaigns. By default, cross-placement data for a specific advertiser and custom goal is shown. You can optionally configure filters to show data for a different advertiser, a different custom goal, or a specific placement. <!-- I don't see campaigns or packages anymore:  You can optionally configure filters to show data for a different advertiser or data for only specific campaigns, packages, custom goals, and placements. --> The insights include:
 
@@ -32,7 +32,7 @@ The [!UICONTROL Home] tab provides key standard, performance, and viewability me
 
 * **[!UICONTROL Delivery Breakdown]:** A breakdown of the data for specific metrics by three customer-specified dimensions, such as by campaign, publisher, and media type. For each dimensional breakdown, you can choose a different metric.
 
-### [!UICONTROL Household Reach] Tab
+### [!UICONTROL Household Reach] tab
 
 The [!UICONTROL Household Reach] tab provides household reach metrics across all of an advertiser's campaigns. By default, cross-campaign data is shown. You can optionally configure filters to show data for a different advertiser, for a specific campaign, across packages or placements, or for a specific package or placement. The insights include:
 
@@ -56,7 +56,7 @@ The [!UICONTROL Household Reach] tab provides household reach metrics across all
   * **Moderate impact**
   * **Limited impact:** Needs attention
 
-### [!UICONTROL Household Conversion] Tab
+### [!UICONTROL Household Conversion] tab
 
 The [!UICONTROL Household Conversion] tab provides household conversion metrics across all of an advertiser's campaigns<!-- active only? -->. By default, cross-campaign data for a specific advertiser and a specific conversion metric is shown. You can optionally configure filters to show data for a different advertiser or conversion metric, for a specific campaign, across packages or placements, or for a specific package or placement. The insights include:
 
@@ -78,7 +78,7 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
   * **Moderate impact**
   * **Limited impact:** Needs attention
 
-### [!UICONTROL Audience Analysis] Tab
+### [!UICONTROL Audience Analysis] tab
 
 The [!UICONTROL Audience Analysis] tab provides granular, real-time insights into audience targeting effectiveness for your campaigns with CPA placements<!-- verify that caveat applies to both insights -->. Use these insights to identify issues such as low match rates, drop-offs in eligibility, and missed opportunities caused by exclusions.<!-- Link those effects to specific info in the charts -->
 
@@ -106,7 +106,7 @@ As an MSC Team Member, I want audience quality funnels with CVR at each stage, s
 
 -->
 
-## View Performance Insights
+## View performance insights
 
 1. Open a set of insights:
 
@@ -118,7 +118,7 @@ As an MSC Team Member, I want audience quality funnels with CVR at each stage, s
 
 1. (Optional) To view data for any point on the 
 
-## Apply Filters to a Tab
+## Apply filters to a tab
 
 1. In the toolbar at the top of the tab, click ![Filter button](/help/dsp/assets/filter.png).
 
@@ -132,11 +132,11 @@ As an MSC Team Member, I want audience quality funnels with CVR at each stage, s
 
 1. ([!UICONTROL Audience Funnel Analysis only; optional) To change the time increments between daily and weekly, select **[!UICONTROL Day]** or **[!UICONTROL Week]**.
 
-## Change the Dimension Reported for an Insight
+## Change the dimension reported for an insight
 
 * From the drop-down menu to the upper left of the insight, select the dimension.
 
-## Change the Metrics Reported for an Insight
+## Change the metrics reported for an insight
 
 *Available for some insights*
 
@@ -146,13 +146,13 @@ For conversion metrics, support is available for both Adobe Advertising-tracked 
 
 1. Select the metrics, and then click **[!UICONTROL Apply]**.
 
-## Export All Visualizations for a Tab to a PDF File
+## Export all visualizations for a tab to a PDF file
 
 * In the upper right above the tab, click **[!UICONTROL ...]** > **[!UICONTROL Export]**.
 
   The file is saved to your browser's default Downloads folder.
 
-## Download a Specific Insight to an XLSX File
+## Download a specific insight to an XLSX file
 
 * To the upper right of the insight, click ![Download](/help/creative/assets/download.png "Download").
 
@@ -166,7 +166,7 @@ For conversion metrics, support is available for both Adobe Advertising-tracked 
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Types of Performance Reports in Campaign Management Views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
->* [Manage Your Campaign Data Views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Types of performance reports in campaign management views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)
+>* [Manage your campaign data views](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)

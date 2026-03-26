@@ -1,10 +1,10 @@
 ---
-title: Manually Import Authenticated Segments from [!DNL LiveRamp]
+title: Manually import authenticated segments from [!DNL LiveRamp]
 description: Learn about activating authenticated audiences through [!DNL LiveRamp].
 feature: DSP Audiences
 exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
 ---
-# Manually Import Authenticated Segments from [!DNL LiveRamp]
+# Manually import authenticated segments from [!DNL LiveRamp]
 
 *Beta feature*
 
@@ -12,7 +12,8 @@ You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!
 
 The segment mapping and uploading for each import job may take up to seven days. 
 
-<!--Is this first step relevant for this process?
+<!--
+Is this first step relevant for this process?
 
 1. For measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md):
 
@@ -36,7 +37,7 @@ The segment mapping and uploading for each import job may take up to seven days.
 
 >[!MORELIKETHIS]
 >
->* [About First-Party Audience Sources](source-about.md)
->* [Manage Audience Sources to Activate Universal ID Audiences](source-manage.md)
->* [Adobe Advertising DSP Connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
->* [About Audience Management](/help/dsp/audiences/audience-about.md)
+>* [About first-party audience sources](source-about.md)
+>* [Manage audience sources to activate universal ID audiences](source-manage.md)
+>* [Adobe Advertising DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [About audience management](/help/dsp/audiences/audience-about.md)

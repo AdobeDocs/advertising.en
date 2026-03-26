@@ -1,16 +1,16 @@
 ---
-title: View the Sites, Ads, Frequency, and Inventory Details for a Placement
+title: View the sites, ads, frequency, and inventory details for a placement
 description: Learn how to view the targeted sites, ads, frequency, and inventory data for a placement.
 feature: DSP Placements
 exl-id: b58b442c-2fb8-4a78-9be9-d85aa83136e2
 ---
-# View the Sites, Ads, Frequency, and Inventory Details for a Placement
+# View the sites, ads, frequency, and inventory details for a placement
 
 For each placement, you can [open a (detail view [!UICONTROL Inspector])](placement-details-view.md), which lists all targeted sites, ads, and deals in a placement. It also includes frequency data for the placement. You can optionally export the data from any tab.
 
 ![placement Inspector](/help/dsp/assets/placement-inspector.png)
 
-## Information in the Placement [!UICONTROL Inspector] {#placement-inspector}
+## Information in the placement [!UICONTROL Inspector] {#placement-inspector}
 
 * **[!UICONTROL Sites]:** All of the sites on which the placement has had impressions.
 
@@ -30,7 +30,7 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 
     The [!UICONTROL Inventory] tab enables quick troubleshooting by showing performance statistics, such as [!UICONTROL Auctions], [!UICONTROL Bids], and [!UICONTROL Win Rate]. The tab includes search and filter features, the same standard and custom column view options that are available on the main page, and quick action buttons in each row, including [!UICONTROL Edit], [!UICONTROL View Report], and [[!UICONTROL Auction Insights] for further troubleshooting](/help/dsp/inventory/private-deal-auction-insights.md).
 
-## Open the [!UICONTROL Placement Inspector] {#inspector-open}
+## Open the placement [!UICONTROL Inspector] {#inspector-open}
 
 1. Open the placements view for the parent campaign or package:
 
@@ -60,15 +60,15 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 
    The data is saved to your browser's default download folder as a report in XLSM format.
 
-## Remove an Ad from a Placement from the [!UICONTROL Placement Inspector] {#remove-ads-placement-inspector}
+## Remove an ad from a placement from the [!UICONTROL Inspector] {#remove-ads-placement-inspector}
 
-1. [Open the [!UICONTROL Placement Inspector]](#inspector-open).
+1. [Open the placement [!UICONTROL Inspector]](#inspector-open).
 
 1. Click the **[!UICONTROL Ads]** tab.
 
 1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL Detach]**.
 
-## Troubleshooting Inventory
+## Troubleshooting inventory
 
 | Issue | Possible Cause  | Actions to Take |
 | -----------| ---------- | ---------- |
@@ -84,5 +84,5 @@ For each placement, you can [open a (detail view [!UICONTROL Inspector])](placem
 
 >[!MORELIKETHIS]
 >
->* [Types of Performance Reports in Campaign Management Views](campaign-reports-about.md)
->* [Manage Your Campaign Data Views](campaign-data-views-manage.md)
+>* [Types of performance reports in campaign management views](campaign-reports-about.md)
+>* [Manage your campaign data views](campaign-data-views-manage.md)

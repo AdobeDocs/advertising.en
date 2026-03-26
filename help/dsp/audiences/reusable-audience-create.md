@@ -1,10 +1,10 @@
 ---
-title: Create a Reusable Audience
+title: Create a reusable audience
 description: Learn how to create a reusable audiences that consist of audience segments and other saved audiences.
 feature: DSP Audiences
 exl-id: 5f4a0abb-c285-4452-a6c3-a91d5281df9b
 ---
-# Create a Reusable Audience
+# Create a reusable audience
 
 <!-- "Saved audience" is used in UI (where?), but "saved" is a state, not a type. "Reusable audience" sounds better in a description. "Audience template" isn't right, either, since it implies you can edit it on the fly to create a new, different audience. Some other term? -->
 
@@ -82,10 +82,10 @@ You can save and manage reusable audiences, which are groups of audience segment
 
 >[!MORELIKETHIS]
 >
->* [About Audience Management](audience-about.md)
->* [Audience Settings](audience-settings.md)
->* [Syntax for Audience Segment Logic](audience-segment-logic-syntax.md)
->* [Available Third-party Data Providers](third-party-data-providers.md)
->* [Create and Implement a Custom Segment](custom-segment-create.md)
->* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [About audience management](audience-about.md)
+>* [Audience settings](audience-settings.md)
+>* [Syntax for audience segment logic](audience-segment-logic-syntax.md)
+>* [Available third-party data providers](third-party-data-providers.md)
+>* [Create and implement a custom segment](custom-segment-create.md)
+>* [Create and implement a [!UICONTROL CCPA Opt-Out-of-Sale] segment](ccpa-opt-out-segment-create.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

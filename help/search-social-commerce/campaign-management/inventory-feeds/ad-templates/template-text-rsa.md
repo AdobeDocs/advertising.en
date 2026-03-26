@@ -103,7 +103,9 @@ When no match is found, all data for the campaign is ignored. If multiple campai
 
   ([!DNL Google Ads] campaigns) To include bids on listings for [!DNL Google Ads] search partners, select the check box next to **[!UICONTROL Search partners]**.
 
-* *[!UICONTROL Content]:* To place bids for placements on content (display) network listings. **Note:** You can't create placements using the template. When you select this option, create placements for each ad group and specify which pages on the display network to target for each ad group using either <!-- insert link --> bulksheets or the <!-- insert links --> ad group and placement settings in the [!UICONTROL Search] &gt; [!UICONTROL Campaigns] views.
+* *[!UICONTROL Content]:* To place bids for placements on content (display) network listings. **Note:** You can't create placements using the template. When you select this option, create placements for each ad group and specify which pages on the display network to target for each ad group using either bulksheets or the ad group and placement settings in the [!UICONTROL Search] &gt; [!UICONTROL Campaigns] views.
+
+<!-- insert links above --> 
 
 **[!UICONTROL Languages]:** ([!DNL Google Ads] search and display networks only) One or more target languages for ads in the campaign.
 

@@ -1,16 +1,16 @@
 ---
-title: Pause or Activate a Package
+title: Pause or activate a package
 description: Learn how to pause or activate a package.
 feature: DSP Packages
 exl-id: c4a6fb08-14db-4c8b-ab7a-0bbc0f201390
 ---
-# Pause or Activate a Package
+# Pause or activate a package
 
 Pause a live package or activate a paused package when it's within the configured flight schedule. 
 
 All placements paused within a package prior to pausing the package itself remain paused when the package is activated. 
 
-## Pause a Package
+## Pause a package
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.
@@ -20,7 +20,7 @@ All placements paused within a package prior to pausing the package itself remai
 >
 >Pausing a package pauses all placements, including programmatic guaranteed (PG placements) within the package. Contact affected publishers if incoming auctions need to be paused.
 
-## Activate a Package
+## Activate a package
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.
@@ -28,6 +28,6 @@ All placements paused within a package prior to pausing the package itself remai
 
 >[!MORELIKETHIS]
 >
->* [Edit a Package](package-edit.md)
->* [View the Change Log for a Package](package-change-log.md)
->* [Archive a Package](package-archive-unarchive.md)
+>* [Edit a package](package-edit.md)
+>* [View the change log for a package](package-change-log.md)
+>* [Archive a package](package-archive-unarchive.md)

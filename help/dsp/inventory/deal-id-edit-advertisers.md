@@ -1,10 +1,10 @@
 ---
-title: Edit the Advertisers with Access to a Private Deal
+title: Edit the advertisers with access to a private deal
 description: Learn how to specify which advertisers can access a private deal.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 51f3fa66-de70-4233-a866-ec48d72e88dc
 ---
-# Edit the Advertisers with Access to a Private Deal
+# Edit the advertisers with access to a private deal
 
 >[!NOTE]
 >
@@ -19,6 +19,6 @@ exl-id: 51f3fa66-de70-4233-a866-ec48d72e88dc
 1. Click **[!UICONTROL Save]** to save the deal settings.
 
 >[!MORELIKETHIS]
->* [About Private Inventory](private-inventory-about.md)
->* [Edit the Accounts with Access to a Deal ID](/help/dsp/inventory/deal-id-share.md)
->* [Manual Deal ID Settings](deal-id-settings.md)
+>* [About private inventory](private-inventory-about.md)
+>* [Edit the accounts with access to a private deal](/help/dsp/inventory/deal-id-share.md)
+>* [Manual deal ID settings](deal-id-settings.md)

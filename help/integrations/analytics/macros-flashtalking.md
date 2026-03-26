@@ -1,10 +1,10 @@
 ---
-title: Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags
+title: Append [!DNL Analytics for Advertising] macros to [!DNL Flashtalking] ad tags
 description: Learn why and how to add [!DNL Analytics for Advertising] macros to your [!DNL Flashtalking] ad tags
 feature: Integration with Adobe Analytics
 exl-id: ce81824c-60bf-487c-8358-d18fcb3cc95f
 ---
-# Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags
+# Append [!DNL Analytics for Advertising] macros to [!DNL Flashtalking] ad tags
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
@@ -28,7 +28,7 @@ Use macros for [!DNL Flashtalking] display and video ads for the following types
 
 * **Advertisers whose websites don't use the [!DNL Analytics for Advertising] JavaScript code and instead rely on [!DNL Analytics] server-side forwarding for click-through data only** (without any view-through data): The following macros are required to report on-site click activity driven from ads you buy through Adobe Advertising.
 
-## Display Ad Tags
+## Display ad tags
 
 Within the [!DNL Flashtalking] ad tag settings, append the following macro to the end of the click-through URL in the `Clicktag` field:
 
@@ -44,7 +44,7 @@ Examples:
 
 `https://www.adobe.com/products/photoshop?cid=email&[ftqs:[AdobeAMO]]`
 
-## Video Ad Tags
+## Video ad tags
 
 Within the [!DNL Flashtalking] ad tag settings, append the following macro to the end of the click-through URL in the `Clicktag` field:
 
@@ -63,6 +63,6 @@ Examples:
 >[!MORELIKETHIS]
 >
 >* [Overview of [!DNL Analytics for Advertising]](overview.md)
->* [Adobe Advertising IDs Used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
+>* [Adobe Advertising IDs used by [!DNL Analytics]](/help/integrations/analytics/ids.md)
 >* [Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)
 

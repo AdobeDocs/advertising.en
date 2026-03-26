@@ -1,10 +1,10 @@
 ---
-title: Download a Custom Report
+title: Download a custom report
 description: Learn how to download a custom report immediately.
 feature: DSP Custom Reports
 exl-id: a27ed432-c9d4-47c5-9c04-b38bb32e6425
 ---
-# Download a Custom Report
+# Download a custom report
 
 You can download any completed report instance from the last four months, which has with the [status](report-about.md#custom-report-status) "[!UICONTROL Ready to Download]" or "[!UICONTROL Completed]".
 
@@ -24,10 +24,10 @@ You can download any completed report instance from the last four months, which 
 
 >[!MORELIKETHIS]
 >
->* [About Custom Reports](/help/dsp/reports/report-about.md)
->* [Create a Custom Report](/help/dsp/reports/report-create.md)
->* [Duplicate a Custom Report](/help/dsp/reports/report-copy.md)
->* [Edit a Custom Report](/help/dsp/reports/report-edit.md)
->* [Run a Custom Report](/help/dsp/reports/report-run-now.md)
->* [Custom Report Settings](/help/dsp/reports/report-settings.md)
->* [Available Report Columns](/help/dsp/reports/report-columns.md)
+>* [About custom reports](/help/dsp/reports/report-about.md)
+>* [Create a custom report](/help/dsp/reports/report-create.md)
+>* [Duplicate a custom report](/help/dsp/reports/report-copy.md)
+>* [Edit a custom report](/help/dsp/reports/report-edit.md)
+>* [Run a custom report](/help/dsp/reports/report-run-now.md)
+>* [Custom report settings](/help/dsp/reports/report-settings.md)
+>* [Available report columns](/help/dsp/reports/report-columns.md)

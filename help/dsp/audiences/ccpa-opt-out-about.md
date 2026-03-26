@@ -1,16 +1,16 @@
 ---
-title: About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports
+title: About [!UICONTROL CCPA Opt-out-of-Sale] segments and reports
 description: Learn about creating segments to track IDs from CCPA opt-out-of-sale requests and how to retrieve reports of the IDs.
 feature: CCPA, DSP Segments
 exl-id: 28b5e00b-a695-46f1-abbf-7bbd78f05411
 ---
-# About [!UICONTROL CCPA Opt-out-of-Sale] Segments and Reports
+# About [!UICONTROL CCPA Opt-out-of-Sale] segments and reports
 
 You can track users IDs from consumer opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA), by [creating and implementing a CCPA opt-out-of-sale segment](ccpa-opt-out-segment-create.md). Users remain in CCPA opt-out-of-sale segments indefinitely.
 
 Once the segment pixel tag is implemented, Adobe Advertising begins to collect a pool of IDs on the advertiser’s behalf.
 
-## Consumer Opt-Out-of-Sale Reports
+## Consumer opt-out-of-sale reports
 
 Adobe Advertising generates monthly reports of IDs that customers have submitted for opt-out-of-sale requests for the account. The data consolidates requests captured using CCPA opt-out-of-sale segments that were created in DSP and any submissions made via the Privacy Service API.  Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on July 1.
 
@@ -20,7 +20,7 @@ You can [retrieve links to the monthly reports](ccpa-opt-out-segment-report-retr
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
->* [Create and Implement a [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
->* [Retrieve Consumer Opt-Out-of-Sale Reports](ccpa-opt-out-segment-report-retrieve.md)
->* [About Audience Management](audience-about.md)
+>* [Adobe Advertising support for the California Consumer Privacy Act: Consumer opt-out of sale support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
+>* [Create and implement a [!UICONTROL CCPA Opt-Out-of-Sale] segment](ccpa-opt-out-segment-create.md)
+>* [Retrieve consumer opt-out-of-sale reports](ccpa-opt-out-segment-report-retrieve.md)
+>* [About audience management](audience-about.md)

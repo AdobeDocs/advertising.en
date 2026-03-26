@@ -1,10 +1,10 @@
 ---
-title: Create a Report Destination
+title: Create a report destination
 description: Learn how to create a destination for the delivery of custom reports.
 feature: DSP Custom Reports
 exl-id: 2a8d6cef-9c33-4483-ac1e-93778a231962
 ---
-# Create a Report Destination
+# Create a report destination
 
 1. In the main menu, click **[!UICONTROL Reports]** > **[!UICONTROL Report Destinations]**.
 
@@ -20,7 +20,7 @@ exl-id: 2a8d6cef-9c33-4483-ac1e-93778a231962
 
 >[!MORELIKETHIS]
 >
->* [About [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [[!UICONTROL Report Destination] Settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
+>* [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [Report destination settings](/help/dsp/reports/report-destinations/report-destination-settings.md)
 >* [Edit a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
->* [Delete a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
+>* [Delete a report destination](/help/dsp/reports/report-destinations/report-destination-delete.md)

@@ -1,16 +1,16 @@
 ---
-title: Archive or Unarchive an Ad
+title: Archive or unarchive an ad
 description: Learn how to archive or unarchive an ad.
 feature: DSP Ads
 exl-id: 086c120f-df55-43b0-a6fb-51d68d00a29e
 ---
-# Archive or Unarchive an Ad
+# Archive or unarchive an ad
 
 Hide an ad that isn't being used by archiving it. Archived ads aren't shown by default but are still available for reporting.
 
 You can unarchive an ad to restore its previous status at any time.
 
-## Archive an Ad
+## Archive an ad
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
@@ -22,7 +22,7 @@ You can unarchive an ad to restore its previous status at any time.
 >
 >To view archived ads, filter the [!UICONTROL Ads] view: click ![[!UICONTROL Filter] button](/help/dsp/assets/filter.png), click **[!UICONTROL Ad status]** and select **[!UICONTROL Archived]**, and then click **[!UICONTROL Apply].**
 
-## Unarchive an Ad
+## Unarchive an ad
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 1. Click the name of the campaign.
@@ -32,6 +32,6 @@ You can unarchive an ad to restore its previous status at any time.
 
 >[!MORELIKETHIS]
 >
->* [Create a Single Ad](ad-create.md)
->* [Create Multiple Third-party Ads](ad-create-multiple.md)
->* [Edit an Ad](ad-edit.md)
+>* [Create a single ad](ad-create.md)
+>* [Create multiple third-party ads](ad-create-multiple.md)
+>* [Edit an ad](ad-edit.md)

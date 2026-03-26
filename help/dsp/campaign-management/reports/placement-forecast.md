@@ -1,10 +1,10 @@
 ---
-title: View the Placement Forecast Report
+title: View the placement forecast report
 description: See the number of impressions, spend, and optimum max bid forecasted for a particular targeting strategy for a placement.
 feature: DSP Placements
 exl-id: 6ff228b2-b656-493e-a299-98c7a68a0f51
 ---
-# View the Placement Forecast Report
+# View the placement forecast report
 
 <!-- Does this really belong in the Campaign Management > Reports section or in the Placements section? -->
 
@@ -15,7 +15,7 @@ The placement forecast tool shows the forecasted number of impressions, spend, a
 >* Postal codes aren't considered in placement forecast calculations.
 >* No forecast is generated for placements with only programmatic guaranteed (PG) targeting because availability and spending are deterministic. 
 
-## Information in the Forecast
+## Information in the forecast
 
 The forecast includes the following information:
 
@@ -33,7 +33,7 @@ The forecast includes the following information:
 
 * **[!UICONTROL Message]:** Provides information about the forecasted output, including any scenarios in which the forecast could not be generated. It also highlights any targeting settings reviewed but not considered in that scenario due to a lack of data. 
 
-### Budget Calculation
+### Budget calculation
 
 * For placements that aren't assigned to a package, the placement budget is used for calculations. Within a flight, the same overall budget is calculated.
 
@@ -59,7 +59,7 @@ The forecast includes the following information:
 
     A placement is usually a collection of multiple ad templates as defined by supply-side platforms. So, even if the placement has existed for a long time, if the underlying ad template is new, then the forecasting tool cannot create a forecast.
 
-## Open the Placement Forecast Report
+## Open the placement forecast report
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
    
@@ -75,6 +75,6 @@ The forecast includes the following information:
 
 >[!MORELIKETHIS]
 >
->* [Types of Performance Reports in Campaign Management Views](campaign-reports-about.md)
->* [View the Placement Diagnostic Reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
->* [Placement Settings](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [Types of performance reports in campaign management views](campaign-reports-about.md)
+>* [View the placement diagnostic reports](/help/dsp/campaign-management/reports/placement-diagnostics.md)
+>* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)

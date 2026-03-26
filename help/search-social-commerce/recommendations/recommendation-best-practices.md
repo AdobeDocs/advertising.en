@@ -6,7 +6,8 @@ feature: Search Recommendations
 ---
 # Best practices for using publisher recommendations with portfolios
 
-<!-- Add info for MS once we have it ..." 
+<!--
+ Add info for MS once we have it ..." 
 
 *[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts*
  
