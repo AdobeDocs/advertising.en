@@ -30,7 +30,8 @@ Duplicate creatives to add new creatives with the same settings to the same libr
 
    The new creatives are named `<original name> (copy) # 1` (or the next number in the sequence). For example, if you make two duplicates of "Test image," then the duplicates are named "Test image (copy) # 1" and "Test image (copy) # 2."
 
-<!-- Add to TOC later when this feature is available to users:
+<!--
+ Add to TOC later when this feature is available to users:
 
 >* [Edit dynamic creatives](creative-edit-dynamic.md)
 >* [Dynamic ad settings](creative-settings-dynamic.md)

@@ -1,10 +1,10 @@
 ---
-title: About Placement Management in Advertising DSP
+title: About placement management in Advertising DSP
 description: Learn about placement management.
 feature: DSP Placements
 exl-id: 903ba200-6bb3-4c31-b7a9-03ada3de5451
 ---
-# About Placement Management in Advertising DSP
+# About placement management in Advertising DSP
 
 A placement includes targeting parameters for one or more ads of the same ad type. You can create a placement for a single campaign or package, and then assign ads to it. Each campaign or placement can include multiple placements, with a specified ad rotation. By default, ads are rotated evenly. You can separately configure bid multipliers for various placement target types.
 
@@ -12,7 +12,7 @@ Once you assign an active placement to an active package or campaign, then all a
 
 You can create a placement manually or by duplicating an existing one. You can also create placement templates to reuse, either manually or from an existing placement. You can attach additional ads to any placement. You can also edit, pause, or archive individual placements or use the bulk edit tool to make changes.
 
-## Available Placement Types
+## Available placement types
 
 * Pre-Roll
 * Mobile
@@ -22,7 +22,7 @@ You can create a placement manually or by duplicating an existing one. You can a
 * Connected TV
 * Universal Video 
 
-## The [!UICONTROL Placements] Dashboard
+## The [!UICONTROL Placements] dashboard
 
 The [!UICONTROL Placements] dashboard centralizes performance and economic reporting across all of your placements, providing quick snapshots of how your placements have performed during a specified date range.
 
@@ -40,8 +40,8 @@ For each placement, you can open a detailed view ([the [!UICONTROL Inspector]](/
 
 >[!MORELIKETHIS]
 >
->* [Create a Placement](placement-create.md)
->* [Manage Bid Multipliers for Placements](placement-manage-bid-multipliers.md)
->* [View the Change Log for a Placement](placement-change-log.md)
->* [Placement Settings](placement-settings.md)
->* [Troubleshooting Performance](/help/dsp/optimization/troubleshooting-performance.md)
+>* [Create a placement](placement-create.md)
+>* [Manage bid multipliers for placements](placement-manage-bid-multipliers.md)
+>* [View the change log for a placement](placement-change-log.md)
+>* [Placement settings](placement-settings.md)
+>* [Troubleshooting performance](/help/dsp/optimization/troubleshooting-performance.md)

@@ -12,7 +12,8 @@ This document outlines the requirements and API support for HTML5 creatives with
 
 [!DNL Creative] supports HTML5 banners with non-rich media creatives that appear within set borders on a page. You may use the following types of HTML5 creatives:
 
-<!--Remove to simplify:
+<!--
+Remove to simplify:
 
 * **Simple HTML5:** Supports a single landing page URL that can be configured during creative creation and trafficking.
 
@@ -46,7 +47,8 @@ The main HTML file &mdash; and no other files &mdash; must contain a reference t
 
 This file contains functions to ensure that local testing of exit events occurs with no issues.
 
-<!-- Remove to simplify:
+<!--
+ Remove to simplify:
 
 ### Simple HTML5 creative requirements
 
@@ -66,7 +68,8 @@ var clickTag = “http://www.example.com”;
 
 -->
 
-<!-- Renamed to simplify:
+<!--
+ Renamed to simplify:
 ### Static HTML5 creative requirements
 -->
 
@@ -186,7 +189,7 @@ A JSON object to query the creative attribute variable names and values. The obj
 
 In local testing mode, the key-value pairs are the pairs registered by the `amo.registerAttribute` API. For production, the creative attribute variable names and values must be configured at the time of creative creation and trafficking.
 
-### Creative Content Requirements
+### Creative content requirements
 
 Most of the display exchanges available in Advertising DSP have the following creative requirements:
 

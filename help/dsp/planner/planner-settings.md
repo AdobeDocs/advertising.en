@@ -1,10 +1,10 @@
 ---
-title: Settings for Connected TV Reach Plans
+title: Settings for connected TV reach plans
 description: See descriptions of the settings for connected TV reach plans.
 feature: DSP Planner
 exl-id: 65edd6f5-557c-44d1-a0ed-8cd26d8a2f6e
 ---
-# Settings for Connected TV Reach Plans
+# Settings for connected TV reach plans
 
 <!-- Move out of table for consistency at some point. -->
 
@@ -26,10 +26,10 @@ exl-id: 65edd6f5-557c-44d1-a0ed-8cd26d8a2f6e
 
 >[!MORELIKETHIS]
 >
->* [About the DSP Planner Tool](planner-about.md)
->* [Create a Connected TV Reach Plan](planner-create.md)
->* [Duplicate a Connected TV Reach Plan](planner-duplicate.md)
->* [Edit a Connected TV Reach Plan](planner-edit.md)
->* [Export a Connected TV Reach Plan](planner-export.md)
->* [Regenerate the Forecast for a Connected TV Reach Plan](planner-forecast.md)
->* [Archive a Connected TV Reach Plan](planner-archive.md)
+>* [About the DSP [!UICONTROL Planner] tool](planner-about.md)
+>* [Create a connected TV reach plan](planner-create.md)
+>* [Duplicate a connected TV reach plan](planner-duplicate.md)
+>* [Edit a connected TV reach plan](planner-edit.md)
+>* [Export a connected TV reach plan](planner-export.md)
+>* [Regenerate the forecast for a connected TV reach plan](planner-forecast.md)
+>* [Archive a connected TV reach plan](planner-archive.md)

@@ -13,7 +13,8 @@ The [!UICONTROL Manage] > [!UICONTROL Ad Groups] view lists all ad groups in the
 
 ## Available actions
 
-<!-- Not available as of 3/4/26:
+<!--
+ Not available as of 3/4/26:
 
 * [View a performance graph across all ad groups in the view](ad-group-view-performance-graph.md)
 -->

@@ -1,35 +1,39 @@
 ---
-title: Collect Historical Data for AMO IDs and EF IDs for Use in Adobe Customer Journey Analytics
+title: Collect historical data for AMO IDs and EF IDs for use in Adobe Customer Journey Analytics
 description: Learn how to collect historical data for your reserved variables in Adobe Analytics for future use in Adobe Customer Journey Analytics
 feature: Integration with Adobe Analytics
 exl-id: 1f8fa139-f146-426b-b0c4-079f8e2de56c
 ---
-# Collect Historical Data for AMO IDs and EF IDs for Use in Adobe Customer Journey Analytics
+# Collect historical data for AMO IDs and EF IDs for use in Adobe Customer Journey Analytics
 
 *Advertisers with [!DNL Analytics for Advertising] and Adobe Customer Journey Analytics Only*
 
 <!-- Solution built but not tested. Move to the CJA chapter once it's available?  If so, then create a redirect. -->
 
-If you use reserved variables to capture the [AMO ID and EF ID](ids.md) for your [!DNL Analytics for Advertising] integration, then you can prepare your data for the integration between Adobe Advertising and [Adobe Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-overview), which is Adobe’s next-generation [!DNL analytics] solution, by copying your reserved variables for the AMO ID and the EF ID into [standard [!DNL eVars]](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/evar) as soon as possible. This will allow the collection of historical data for the AMO IDs and EF IDs as soon as you complete the task. Your Adobe Account Team will let you know if you use reserved variables and need to complete this task.
+If you use reserved variables to capture the [AMO ID and EF ID](ids.md) for your [!DNL Analytics for Advertising] integration, then you can prepare your data for the integration between Adobe Advertising and [Adobe Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-overview), which is Adobe's next-generation [!DNL analytics] solution, by copying your reserved variables for the AMO ID and the EF ID into [standard [!DNL eVars]](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/evar) as soon as possible. This will allow the collection of historical data for the AMO IDs and EF IDs as soon as you complete the task. Your Adobe Account Team will let you know if you use reserved variables and need to complete this task.
 
-<!-- You can also do the same for any other reserved variables you use for your [!DNL Analytics for Advertising] implementation. -->
+<!-- 
+You can also do the same for any other reserved variables you use for your [!DNL Analytics for Advertising] implementation.
 
-<!-- This will allow Adobe Experience Platform, which supplies data to Customer Journey Analytics, to begin collecting historical data for your [!DNL rVars] as soon as you complete the task. -->
+This will allow Adobe Experience Platform, which supplies data to Customer Journey Analytics, to begin collecting historical data for your [!DNL rVars] as soon as you complete the task.
+-->
 
-## Why Do I Need to Collect Historical Data for Customer Journey Analytics?
+## Why do I need to collect historical data for Customer Journey Analytics?
 
-Customer Journey Analytics lets you sync data from Adobe Experience Platform into [!DNL Workspace]. Currently, the [!DNL Analytics Data Connector] to Experience Platform doesn't send data for reserved variables from [!DNL Analytics] to Experience Platform. As a result, data for AMO IDs and EF IDs that are captured by reserved variables isn't available within Customer Journey Analytics. <!-- Instead, XXXXXXXXXX what exactly? -->.<!-- Does the Analytics for Advertising implementation use the Analytics Data Connector in particular (why would it use anything?), and we're planning to implement the Web SDK to do it instead in the future? -->
+Customer Journey Analytics lets you sync data from Adobe Experience Platform into [!DNL Workspace]. Currently, the [!DNL Analytics Data Connector] to Experience Platform doesn't send data for reserved variables from [!DNL Analytics] to Experience Platform. As a result, data for AMO IDs and EF IDs that are captured by reserved variables isn't available within Customer Journey Analytics. <!-- Instead, XXXXXXXXXX what exactly? -->
+
+<!-- Does the Analytics for Advertising implementation use the Analytics Data Connector in particular (why would it use anything?), and we're planning to implement the Web SDK to do it instead in the future? -->
 
 Adobe Advertising is building a solution to automatically send the data to Customer Journey Analytics. Once the solution is released, Adobe Advertising will begin to send data for your AMO ID and EF ID for use in Customer Journey Analytics, but no historical data prior to the release date will exist.
 
-However, you can begin to collect data for your AMO IDs and EF IDs <!-- [!DNL rVars] --> sooner by creating a simple [[!DNL Analytics] processing rule](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules) to copy your AMO IDs and EF IDs <!-- [!DNL rVars] --> into [!DNL eVars] now. Once you create the processing rule, you'll begin to accrue data for your AMO IDs and EF IDs <!-- [!DNL rVars] --> as soon as they track new events. The historical data will then be available within Customer Journey Analytics once the solution is available.
+However, you can begin to collect data for your AMO IDs and EF IDs sooner by creating a simple [[!DNL Analytics] processing rule](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules) to copy your AMO IDs and EF IDs into [!DNL eVars] now. Once you create the processing rule, you'll begin to accrue data for your AMO IDs and EF IDs as soon as they track new events. The historical data will then be available within Customer Journey Analytics once the solution is available.
 
 >[!NOTE]
 >
 >* As of 28 February 2025, this process tracks click-through data but not view-through data.
 >* Processing rules are applied only to new data that's received. They don't work retroactively to collect past data.
 
-## Copy Your Reserved Variables for AMO IDs and EF IDs into [!DNL eVars]
+## Copy your reserved variables for AMO IDs and EF IDs into [!DNL eVars]
 
 This step is manual and must be completed for each report suite that tracks AMO IDs and EF IDs <!-- [!DNL rVars] --> that you expect to integrate with Adobe Advertising in the future.
 

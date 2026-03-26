@@ -1,9 +1,9 @@
 ---
-title: Configure A/B Tests for Adobe Advertising DSP Ads in Adobe Target
+title: Configure A/B tests for Adobe Advertising DSP ads in Adobe Target
 description: Learn how to set up an A/B test in [!DNL Target] for your DSP ads.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
 ---
-# Configure A/B Tests in Adobe Target for Advertising DSP Ads
+# Configure A/B tests in Adobe Target for Advertising DSP ads
 
 *Advertisers with Advertising DSP only*
 
@@ -39,19 +39,19 @@ When you add DSP macros to a click-through URL (the URL displayed when a user cl
 
 ![Click-through URL appended to the landing page URL](/help/integrations/assets/target-ct-url.jpg)
 
-### (DSP Only) Add DSP Macros to Your Click-through URLS
+### (DSP only) Add DSP macros to your click-through URLs
 
 <!-- If we ever write instructions for ads on other ad servers (such as Sizmek ads in DCO), then work that into the following section. -->
 
 Within [!DNL Flashtalking] or Google Campaign Manager 360, manually update the click-through URL for each ad to include the macros required to capture AMO ID variables. The AMO ID variables are used to send click data to Adobe Analytics and to share placement keys for A/B testing. See the following pages for instructions:
 
-* [Append [!DNL Analytics for Advertising] Macros to [!DNL Flashtalking] Ad Tags](/help/integrations/analytics/macros-flashtalking.md). **Note:** This procedure isn't necessary if your organization has a direct partnership with [!DNL Flashtalking] and you use data-pass macros to track the `s_kwcid` and `ef_id` tracking parameters per the [!DNL Flashtalking] support documentation at [https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros).
+* [Append [!DNL Analytics for Advertising] macros to [!DNL Flashtalking] ad tags](/help/integrations/analytics/macros-flashtalking.md). **Note:** This procedure isn't necessary if your organization has a direct partnership with [!DNL Flashtalking] and you use data-pass macros to track the `s_kwcid` and `ef_id` tracking parameters per the [!DNL Flashtalking] support documentation at [https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros).
 
-* [Append [!DNL Analytics for Advertising] Macros to [!DNL Google Campaign Manager 360] Ad Tags](/help/integrations/analytics/macros-google-campaign-manager.md)
+* [Append [!DNL Analytics for Advertising] macros to [!DNL Google Campaign Manager 360] ad tags](/help/integrations/analytics/macros-google-campaign-manager.md)
 
 Contact your Adobe Account Team to retrieve the required placement key and finalize the setup, and to make sure that each click-through URL is populated with the placement key.
 
-## Step 2: Set up the View-through Framework Using Audience Manager {#view-through-framework}
+## Step 2: Set up the view-through framework using Audience Manager {#view-through-framework}
 
 ![View-through framework](/help/integrations/assets/targetr-vt-framework.png) 
 
@@ -59,7 +59,7 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
 
 1. Implement an Audience Manager impression event pixel in your ad tags and DSP placement settings.
 
-   For instructions, see "[Collect Media Exposure Data from Advertising DSP Campaigns](/help/integrations/audience-manager/media-data-integration/collect.md)."
+   For instructions, see "[Collect media exposure data from Advertising DSP campaigns](/help/integrations/audience-manager/media-data-integration/collect.md)."
 
    Make sure you add [DSP macros](/help/dsp/campaign-management/macros.md) to capture all data you want the impression event pixel to pass back, including `${TM_PLACEMENT_ID_NUM}` for the numeric placement ID.
 
@@ -91,7 +91,7 @@ By adding an Audience Manager impression event pixel in your ad tags and placeme
 
        Audience Manager automatically splits the segment into a control group that receives the standard landing page experience and a test group that received a personalized onsite experience.
 
-## Step 3: Set Up an A/B Test Activity in [!DNL Target] for DSP
+## Step 3: Set up an A/B test activity in [!DNL Target] for DSP
 
 The following instructions highlight information pertaining to the DSP use case.
 
@@ -139,7 +139,7 @@ The following instructions highlight information pertaining to the DSP use case.
    >
    >For example creative test use cases, contact your Adobe Account Team.
 
-## Step 4: Set up Your [!DNL Analytics for Target] Analysis Workspace in [!DNL Analytics]
+## Step 4: Set up your [!DNL Analytics for Target] Analysis Workspace in [!DNL Analytics]
 
 <!-- [If separate page, add "Adobe" before first-use of product names.] -->
 
@@ -147,7 +147,7 @@ The following instructions highlight information pertaining to the DSP use case.
 
 For more information about [!DNL Analytics for Target], including a link to implementation instructions, see "[Adobe Analytics as the reporting source for Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)".
 
-### Set up the [!DNL Analytics for Target] Panel
+### Set up the [!DNL Analytics for Target] panel
 
 In Analysis Workspace, configure the [!DNL Analytics for Target panel] to analyze your [!DNL Target] activities and experiences. Keep in mind the following important pointers and information about your reports.
 
@@ -169,7 +169,7 @@ The following dimensions pertain to [!DNL Analytics for Target]:
 
 * **[!UICONTROL Target Activity]** > **[!UICONTROL Experience]**: The activity name and experience name in the same row
 
-### Troubleshooting Analytics for [!DNL Target] Data
+### Troubleshooting Analytics for [!DNL Target] data
 
 Within Analysis Workspace, if you notice that activity and experiences data is minimal or not populating, then do the following:
 
@@ -185,14 +185,14 @@ Within Analysis Workspace, if you notice that activity and experiences data is m
 
   [Tracking Server value in Target](/help/integrations/assets/target-troubleshooting-tracking-server.png)
 
-## Further Reading
+## Further reading
 
 * [Integrate Target with Analytics](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html) - Explains how to set up [!DNL Target] reporting in Analysis Workspace.
 * [A/B Test Overview](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Describes A/B test activities, which you can use with DSP ads.
 * [Experiences and offers](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html) - Explains [!DNL Target] tools to determine the on-site content to which DSP test users are exposed.
 * [Signals, Traits, and Segments](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html) - Defines some of the Audience Manager tools that can help with DSP view-through testing.
-* [Overview of Analytics for Advertising](/help/integrations/analytics/overview.md) - Introduces Analytics for Advertising, which allows you to track click-through and view-through site interactions in your Analytics instances.
+* [Overview of [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) - Introduces [!DNL Analytics for Advertising], which allows you to track click-through and view-through site interactions in your Analytics instances.
 
 >[!MORELIKETHIS]
 >
->* [Configure A/B Tests in Adobe Target for Advertising Search, Social, & Commerce Ads](ab-tests-search.md)
+>* [Configure A/B tests in Adobe Target for Advertising Search, Social, & Commerce ads](ab-tests-search.md)

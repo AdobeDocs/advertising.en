@@ -1,11 +1,11 @@
 ---
-title: Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer Opt-Out-of-Sale Support
+title: Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer opt-out-of-sale support
 description: Learn about support for capturing consumer opt-out-of-sale requests.
 feature: CCPA
 role: User, Developer
 exl-id: df2b8679-8a1c-4cd7-b867-cd2f53c76c8f
 ---
-# Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-Out of Sale Support
+# Adobe Advertising support for the California Consumer Privacy Act: Consumer opt-out of sale support
 
 *For Adobe Advertising Demand Side Platform (DSP)*
 
@@ -21,18 +21,18 @@ As your service provider, Adobe Advertising provides support for your business t
 
 This document describes how Adobe Advertising Demand Side Platform (DSP), as a service provider, supports the consumer right to opt out of the "sale" of "personal information," as each term is defined by the CCPA. It includes information on how to communicate opt-out-of-sale requests to Adobe Advertising and how to retrieve reports of your organization's opt-out-of-sale requests.
 
-For information about how [!DNL Advertising Search, Social, & Commerce]; Advertising Creative; and [!DNL Advertising DCO] support consumers' personal information access and deletion rights, see [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support](/help/privacy/ccpa/ccpa-access-delete.md).
+For information about how [!DNL Advertising Search, Social, & Commerce]; Advertising Creative; and [!DNL Advertising DCO] support consumers' personal information access and deletion rights, see [Adobe Advertising support for the California Consumer Privacy Act: Consumer data access and delete support](/help/privacy/ccpa/ccpa-access-delete.md).
 
 For more information about the Adobe Privacy services for CCPA, see the [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
-## Communicating Consumer Opt-Out-of-Sale Requests to Adobe Advertising
+## Communicating consumer opt-out-of-sale requests to Adobe Advertising
 
 You can communicate consumer opt-out-of-sale requests by using either:
 
 * a CCPA opt-out-of-sale segment created in Advertising DSP
 * the Adobe Experience Platform Privacy Service API
 
-### Method 1: Communicate CCPA Opt-Out-of-Sale Requests Using a [!UICONTROL CCPA Opt-Out-of-Sale] Segment in Advertising DSP
+### Method 1: Communicate CCPA opt-out-of-sale requests using a [!UICONTROL CCPA Opt-Out-of-Sale] segment in Advertising DSP
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
 1. [Create a CCPA opt-out-of-sale segment, and implement the segment pixel to capture the opt-out requests](/help/dsp/audiences/ccpa-opt-out-segment-create.md).
 
-### Method 2: Communicate CCPA Opt-Out-of-Sale Requests Using the Adobe Experience Platform Privacy Service API
+### Method 2: Communicate CCPA opt-out-of-sale requests using the Adobe Experience Platform Privacy Service API
 
 *Advertisers assigned an Adobe Experience Cloud organization ID only*
 
@@ -72,25 +72,25 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
 All of these steps are necessary to receive support from Adobe Advertising. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the necessary items, see [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
-## Retrieving Reports of Consumers Who Submitted Opt-Out-of-Sale Requests
+## Retrieving reports of consumers who submitted opt-out-of-sale requests
 
 Adobe Advertising generates monthly reports of IDs that customers have submitted for opt-out-of-sale requests for the account. Each report is available as a tab-separated text file compressed into GZIP format. The data consolidates requests captured using CCPA opt-out-of-sale segments that were created in Advertising DSP and any submissions made via the Privacy Service API. User IDs captured in CCPA opt-out-of-sale segments are identified by segment and by advertiser. Reports are generated on the first of each month for the previous month. For example, the monthly user list for June is available on July 1.
 
 You can retrieve links to the monthly reports that were created in the previous three months, either from within Advertising DSP or by using the Advertising DSP [!DNL Trafficking API]. Each link is valid for seven days but refreshes each time a customer attempts to retrieve one.
 
-### Method 1: Retrieve Consumer Opt-Out-of-Sale Reports Within Advertising DSP
+### Method 1: Retrieve consumer opt-out-of-sale reports within Advertising DSP
 
 1. Sign in to the advertiser's account in Advertising DSP at [https://advertising.adobe.com/](https://advertising.adobe.com/).
 
 1. [Retrieve the reports](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md).
 
-### Method 2: Retrieve Consumer Opt-Out-of-Sale Reports Using the Advertising DSP [!DNL Trafficking API]
+### Method 2: Retrieve consumer opt-out-of-sale reports using the Advertising DSP [!DNL Trafficking API]
 
 This feature is available to organizations that use the [!DNL Trafficking API]. See the documentation for the [!DNL Trafficking API] for more information.<!-- Add link to API doc once it's published. -->
 
 If your organization doesn't use the [!DNL Trafficking API] but is interested in more information, contact your Adobe Account Team.
 
-## Appendix: Example [!UICONTROL CCPA Opt-Out-of-Sale] Request for Privacy Service API Users
+## Appendix: Example [!UICONTROL CCPA Opt-Out-of-Sale] request for Privacy Service API users
 
 ```
 curl -X POST \

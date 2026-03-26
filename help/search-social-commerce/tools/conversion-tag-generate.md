@@ -8,7 +8,7 @@ feature: Search Tools, Search Tracking
  
 *Advertisers with Adobe Advertising conversion tracking only*
 
-Create a separate conversion tag for each set of metrics that you want to track. 
+Create a separate conversion tag for each set of metrics that you want to track. You can generate tags in Search, Social, & Commerce or by using tags in Adobe Experience Platform (formerly known as Adobe Experience Platform Launch) with the Adobe Advertising extension.
 
 ## Generate and implement a conversion-tracking tag within Search, Social, & Commerce
 
@@ -68,9 +68,9 @@ If the data doesn't include a unique ID per transaction, then Adobe Advertising 
 
 See "[FAQs about Adobe Advertising conversion and page view tracking tags](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)." for more information about the differences.
 
-## Implement conversion-tracking tags using Adobe Experience Platform tags
+## Implement conversion-tracking tags using Adobe Experience Platform tags and the Adobe Advertising extension
 
-You can set up conversion tracking for Search, Social, & Commerce using tags in Adobe Experience Platform (formerly known as Adobe Experience Platform Launch). Tags are available to Adobe Experience Cloud customers as an included, value-add feature.
+You can set up conversion tracking for Search, Social, & Commerce using tags in Adobe Experience Platform. Tags are available to Adobe Experience Cloud customers as an included, value-add feature.
 
 The following tasks are required to configure conversion tracking tags for Search, Social, & Commerce from the Experience Platform user interface or from the Experience Platform Data Collection user interface. For full information and instructions for configuring tags, see the Experience Platform Tags Guide, beginning with the "[Tags overview](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home)" and "[Quickstart guide](https://experienceleague.adobe.com/en/docs/experience-platform/tags/get-started/quick-start)."
 

@@ -56,9 +56,14 @@ You can upload multiple flexible creative units. Flexible creatives must be in Z
 
 ### Add flexible creatives using a template {#flexible-creative-use-template}
 
-You can use any of the flexible creative templates uploaded to your account to build ads of a predefined size. Once you select a template to use, you'll edit the click tags and attributes.<!-- Replace last sentence with this if we add the template download feature back:  You can either a\) select a template to use, and then edit the click tags and attributes; or b\) [download a template as a ZIP file](#download-flexible-creative-template), edit the contents offline to build your own creative, and then [upload the edited file as a new creative](flexible-creative-upload).>
+You can use any of the flexible creative templates uploaded to your account to build ads of a predefined size. Once you select a template to use, you'll edit the click tags and attributes.
 
-<!-- Not currently an option:
+<!--
+Replace last sentence with this if we add the template download feature back:  You can either a\) select a template to use, and then edit the click tags and attributes; or b\) [download a template as a ZIP file](#download-flexible-creative-template), edit the contents offline to build your own creative, and then [upload the edited file as a new creative](flexible-creative-upload).
+-->
+
+<!--
+ Not currently an option:
 You can use any of the [predefined flexible creative templates](flexible-html5-templates.md) included with [!DNL Creative] to build 160x600, 300x250, 300x600, or 728x90 ads.
 
 For information about the attributes available in predefined templates, see "[Available flexible creative templates](#flexible-creative-templates-available)."
@@ -100,7 +105,8 @@ Standard display creatives include image and HTML5 creatives, including creative
 
 * You can add multiple Experience Manager assets, multiple GenStudio experiences, or multiple local HTML5 creatives of a single type (simple or static) at a time. For HTML5 creatives, see the [HTML5 ad specification](/help/creative/creative-libraries/html5-creative-specification.md).
 
-<!-- Add in when we add this feature back:
+<!--
+ Add in when we add this feature back:
 You can optionally download a sample HTML5 creative as a ZIP file, edit the contents to build your own creative, and then add the edited file as a new creative.
 -->
 

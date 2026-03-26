@@ -1,10 +1,10 @@
 ---
-title: Create a Connected TV Reach Plan
+title: Create a connected TV reach plan
 description: Learn how to create a connected TV reach plan.
 feature: DSP Planner
 exl-id: 88b1fb23-f856-44ed-a955-844a329efb98
 ---
-# Create a Connected TV Reach Plan
+# Create a connected TV reach plan
 
 1. In the main menu, click **[!UICONTROL Planner]**.
 
@@ -20,10 +20,10 @@ exl-id: 88b1fb23-f856-44ed-a955-844a329efb98
 
 >[!MORELIKETHIS]
 >
->* [About the DSP Planner Tool](planner-about.md)
->* [Duplicate a Connected TV Reach Plan](planner-duplicate.md)
->* [Edit a Connected TV Reach Plan](planner-edit.md)
->* [Export a Connected TV Reach Plan](planner-export.md)
->* [Regenerate the Forecast for a Connected TV Reach Plan](planner-forecast.md)
->* [Archive a Connected TV Reach Plan](planner-archive.md)
->* [Settings for Connected TV Reach Plans](planner-settings.md)
+>* [About the DSP [!UICONTROL Planner] tool](planner-about.md)
+>* [Duplicate a connected TV reach plan](planner-duplicate.md)
+>* [Edit a connected TV reach plan](planner-edit.md)
+>* [Export a connected TV reach plan](planner-export.md)
+>* [Regenerate the forecast for a connected TV reach plan](planner-forecast.md)
+>* [Archive a connected TV reach plan](planner-archive.md)
+>* [Settings for connected TV reach plans](planner-settings.md)

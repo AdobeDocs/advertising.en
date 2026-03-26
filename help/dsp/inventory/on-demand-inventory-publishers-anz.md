@@ -1,10 +1,10 @@
 ---
-title: '[!DNL On Demand] Premium Inventory Publishers in Australia and New Zealand'
+title: '[!DNL On Demand] premium inventory publishers in Australia and New Zealand'
 description: See the available [!DNL On Demand] premium inventory publishers in Australia and New Zealand.
 feature: DSP On Demand Inventory
 exl-id: 9c494ad0-eb35-464e-b154-3f56c02968f1
 ---
-# [!DNL On Demand] Premium Inventory Publishers in Australia and New Zealand{#on-demand-inventory-publishers-anz}
+# [!DNL On Demand] premium inventory publishers in Australia and New Zealand{#on-demand-inventory-publishers-anz}
 
 <!-- get from Amanda Cabrera <acabrera@adobe.com> -->
 
@@ -90,8 +90,8 @@ exl-id: 9c494ad0-eb35-464e-b154-3f56c02968f1
 
 >[!MORELIKETHIS]
 >
->* [About [!DNL On Demand] Premium Inventory](on-demand-inventory-about.md)
->* [Subscribe and Request Access to [!DNL On Demand] Premium Inventory](on-demand-inventory-subscribe.md)
->* [[!DNL On Demand] Premium Inventory Publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)
->* [[!DNL On Demand Premium] Inventory Publishers in Europe, the Middle East, and Africa](on-demand-inventory-publishers-emea.md)
->* [[!DNL On Demand] Premium Inventory Publishers in North America](on-demand-inventory-publishers-na.md)
+>* [About [!DNL On Demand] premium inventory](on-demand-inventory-about.md)
+>* [Subscribe and request access to [!DNL On Demand] premium inventory deals](on-demand-inventory-subscribe.md)
+>* [[!DNL On Demand] premium inventory publishers in Asia Pacific](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa](on-demand-inventory-publishers-emea.md)
+>* [[!DNL On Demand] premium inventory publishers in North America](on-demand-inventory-publishers-na.md)

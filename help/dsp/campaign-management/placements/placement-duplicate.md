@@ -1,10 +1,10 @@
 ---
-title: Duplicate Placements
+title: Duplicate placements
 description: Learn how to duplicate one or more placements.
 feature: DSP Placements
 exl-id: 41021f5b-13d1-419f-af03-c5507f9fed4d
 ---
-# Duplicate Placements
+# Duplicate placements
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
@@ -15,7 +15,7 @@ Duplicate one or more placements to create placements with similar settings. You
 * (For duplicated placements within the original campaigns) Optionally duplicate the original ads
 * Modify the status and flight dates of the new placements
 
-See "[What's Not Duplicated](#placement-not-duplicated)" for a list of placement settings that aren't duplicated.
+See "[What's not duplicated](#placement-not-duplicated)" for a list of placement settings that aren't duplicated.
 
 1. In the main menu, click **[!UICONTROL Campaigns]**.
 
@@ -49,7 +49,7 @@ See "[What's Not Duplicated](#placement-not-duplicated)" for a list of placement
 
 1. Click **[!UICONTROL Submit]**.
 
-## What's Not Duplicated {#placement-not-duplicated}
+## What's not duplicated {#placement-not-duplicated}
 
 All settings from the original placements are duplicated except:
 
@@ -64,7 +64,7 @@ All settings from the original placements are duplicated except:
     * Ads
     * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segments (which override the advertiser-level segments)
 
-## Best Practices to Configure the New Placements
+## Best practices to configure the new placements
 
 >[!TIP]
 >
@@ -91,8 +91,8 @@ All settings from the original placements are duplicated except:
 
 >[!MORELIKETHIS]
 >
->* [About Placement Management](placement-about.md)
->* [Create a Placement](placement-create.md)
->* [Edit Placements](placement-edit.md)
->* [View the Change Log for a Placement](placement-change-log.md)
->* [Placement Settings](placement-settings.md)
+>* [About placement management in Advertising DSP](placement-about.md)
+>* [Create a placement](placement-create.md)
+>* [Edit placements](placement-edit.md)
+>* [View the change log for a placement](placement-change-log.md)
+>* [Placement settings](placement-settings.md)

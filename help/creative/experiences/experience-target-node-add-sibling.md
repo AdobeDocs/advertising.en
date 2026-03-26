@@ -10,7 +10,8 @@ exl-id: 915fd399-1c55-49af-94ed-cf49a4154a53
 
 You can add a sibling node to any node that has a target or is at the same level as a node with a target.
 
-<!-- 1. Open the decision tree:
+<!--
+ 1. Open the decision tree:
 
 In a new experience
 
