@@ -5,15 +5,10 @@ feature: DSP Optimization
 exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
 ---
 # Best practices for custom goals
-=======
-title: Custom goals
-description: Learn about custom goals to define your success events in packages optimized for the lowest CPA or the highest ROAS.
-feature: DSP Optimization
-exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
 
 <!-- rewrite and/or move into "Manage Custom Goals" -->
 
-Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal to help achieve the overall optimization goal. You can create custom goals as *custom objectives*. The name of each objective for DSP must be prefixed with "ADSP_".
+Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal to help achieve the overall optimization goal. You can create custom goals as *[custom objectives](/help/dsp/admin/custom-objectives-manage.md)*. The name of each objective for DSP must be prefixed with "ADSP_".
 
 <!--
  update image or omit it
@@ -25,21 +20,11 @@ Each custom goal (objective) consists of one or more conversion metrics to be tr
 
 To create and manage custom goals, see "[Manage Custom Objectives](/help/dsp/admin/custom-objectives-manage.md)."
 
-<!-- No longer applicable as a separate feature:
-
-Weight recommendations are automatically generated for DSP-attributed metrics in objectives, and can apply all weight recommendations with one click. All weight changes to objectives prefixed with "ADSP_" are applied algorithmically in DSP within two days. For more information weight recommendations, see the Optimization Guide chapter on "Objectives," which is available from within Search, Social, & Commerce. 
-
-## Best practices for building a custom goal {#custom-goal-best-practices}
-
->[!TIP]
->
->For optimum performance, the combined metrics in the custom goal (objective) must total at least ten conversions per day. When they don't, the best practice is to add additional supporting conversion metrics, such as product pages or application starts, to the objective. See [Best Practices for Building a Custom Goal](#custom-goal-best-practices) for guidelines.
-
-### Custom goals with a single metric
+## Custom goals with a single metric
 
 The following examples show how you might configure goals that target a single conversion metric.
 
-#### Example for a campaign with the "[!UICONTROL Highest Return on Ad Spend (ROAS)]" optimization goal
+### Example for a campaign with the "[!UICONTROL Highest Return on Ad Spend (ROAS)]" optimization goal
 
 If your campaign goal is revenue ([!UICONTROL Highest Return on Ad Spend (ROAS)]), and revenue from all device types is equally important to you, then include the "[!UICONTROL Revenue]" metric with a weight of one (1). Select the metric type *[!UICONTROL Goal]*.
 
@@ -54,7 +39,7 @@ If your campaign goal is revenue ([!UICONTROL Highest Return on Ad Spend (ROAS)]
 >
 > A weight of one (1) equates to a value of one (1) for each $1 of revenue that's tracked for display ads on any device. For example, a $250 conversion with a weight of one (1) is reported as $250 for conversions. If the conversion metric is assigned a weight of 0.5, then the $250 conversion is reported as $125 in Adobe Advertising ($250 Conversion * 0.5 [!UICONTROL weight] = $125).
 
-#### Example for a campaign with the "[!UICONTROL Lowest Cost per Acquisition (CPA)]" optimization goal
+### Example for a campaign with the "[!UICONTROL Lowest Cost per Acquisition (CPA)]" optimization goal
 
 If your campaign goal is the lowest cost per acquisition (CPA) and it requires only one success event (such as "Application Submit"), then include that one metric and specify the metric type as *[!UICONTROL Goal]*. The best practice is to set the weight as one (1).
 
@@ -69,11 +54,11 @@ If your campaign goal is the lowest cost per acquisition (CPA) and it requires o
 >
 > A weight of one (1) equates to a value of one (1) for each conversion that's tracked for display ads on any device. For example, if 10 Application Submit conversions are tracked, then 10 Application Submit conversions are reported. If the conversion metric is assigned a weight of 0.5, however, then the 10 conversions are reported as five (5) in Adobe Advertising (10 Conversions * 0.5 [!UICONTROL weight] = 5).
 
-### Custom goals with multiple metrics
+## Custom goals with multiple metrics
 
 There are two scenarios in which you would use multiple metrics in a custom goal:
 
-* Your campaign goal has multiple success events. For example, maybe you're advertising for more than one on-site action (PDF Download, Contact Us, and Email Sign up), and all are actions contribute to your CPA goal. If the objective includes the three separate metrics, each with weights of one (1), then the [!DNL Adobe AI]-powered algorithm treats each of the metrics and user device types with equal importance. If the different metrics have varying costs or importance, then you adjust their relative weights accordingly.
+* Your campaign goal has multiple success events. For example, maybe you're advertising for more than one on-site action (PDF Download, Contact Us, and Email Sign up), and all are actions contribute to your CPA goal. If the objective includes the three separate metrics, each with weights of one (1), then the [!DNL Adobe AI]-powered algorithm treats each of the metrics and user device types with equal importance. If the different metrics have varying costs or importance, then adjust their relative weights accordingly.
 
 <!--
  update image or delete it and adjust the wording above
@@ -95,7 +80,7 @@ There are two scenarios in which you would use multiple metrics in a custom goal
 
 -->
 
-   If, instead, you weighted Landing Page visits equally to Application Submits, then the naturally higher quantity of landing page visits could overwhelm your goal and skew to landing page visits.<!--reword-->
+   If, instead, you weighted Landing Page visits equally to Application Submits, then the naturally higher quantity of landing page visits could overwhelm your goal and skew optimization toward landing page visits.
 
 >[!MORELIKETHIS]
 >

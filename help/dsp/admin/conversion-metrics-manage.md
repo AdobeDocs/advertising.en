@@ -11,7 +11,7 @@ feature: Conversions
 
 The conversion metrics that Adobe Advertising tracks for an advertiser, including [conversion and site engagement metrics synced from Adobe Analytics](/help/integrations/analytics/analytics-data-in-advertising.md), are used throughout Advertising DSP. You can use conversion metrics to create [custom objectives](/help/dsp/admin/custom-objectives-manage.md), which are used to optimize packages.
 
-<!-- Verify behavior here -->By default, none of an advertiser's conversion metrics are available for campaign management views, custom objectives, and reports. They are available only when you specifically make them available and include a display name, which is the name that is shown. When you make a conversion metric available, you can either use the metric name exactly as it is spelled in the retrieved data or change the name that's shown in column headings for readability.
+By default, none of an advertiser's conversion metrics are available for campaign management views, custom objectives, and reports. They are available only when you specifically make them available and include a display name, which is the name that is shown. When you make a conversion metric available, you can either use the metric name exactly as it is spelled in the retrieved data or change the name that's shown in column headings for readability.
 
 From the list of visible metrics, each user with access to the advertiser's data can customize the metrics they see for campaign management views, objectives, and reports by including or omitting specific metrics. Users with sufficient access privileges can also optimize for specific metrics by associating them with DSP package-level custom goals.
 
@@ -62,6 +62,8 @@ From the list of conversion metrics that are available, each user with access to
 You can optionally change the name that is shown in column headings for readability when a conversion is available for campaign management views, custom objectives, and in reports. For example, if you collect registration data using a conversion metric named *reg*, then you can optionally change the display name to see it displayed as "Registrations."
 
 You can't delete an existing display name.
+
+<!-- Is this note relevant? -->
 
 >[!NOTE]
 >
