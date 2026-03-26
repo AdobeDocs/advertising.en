@@ -1,6 +1,6 @@
 ---
 title: Manage custom objectives
-description: 
+description: Learn how to define the success events that help you meet package-level optimization goals.
 role: User, Admin
 feature: DSP Optimization, DSP Packages
 ---
