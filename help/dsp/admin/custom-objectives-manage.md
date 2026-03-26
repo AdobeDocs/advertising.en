@@ -105,13 +105,15 @@ In the [DSP package settings](/help/dsp/campaign-management/packages/package-set
 
 1. In the bottom section, click **[!UICONTROL View Recommendations]**.
 
+1. (Optional) To apply a recommendation, do either of the following:
 
-<!-- Finish these steps -->
+   * Click **[!UICONTROL Apply]** next to the recommendation.
 
+   * Manually adjust the recommendation, and then click **[!UICONTROL Apply]** next to the recommendation.
 
+1. Click **[!UICONTROL Close]** to close the [!UICONTROL Recommendations] list.
 
 1. In the upper right, click **[!UICONTROL Save]**.
-
 
 ## View the change log for a custom objective
 
