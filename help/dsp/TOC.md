@@ -169,8 +169,8 @@ index: true
         + [Tips for negotiating a programmatic guaranteed deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
         + [Set up a programmatic guaranteed deal](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
         + [!DNL FreeWheel] programmatic guaranteed deals {#freewheel}
-          + [Overview of setting up programmatic guaranteed deals in [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
-          + [Submit an ad for a programmatic guaranteed deal to [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
+          + [Overview of setting up programmatic guaranteed deals in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+          + [Submit an ad for a programmatic guaranteed deal to [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
           + [Check the status of ads for a [!DNL FreeWheel] PG deal](/help/dsp/inventory/freewheel-check-status.md)
           + [Error codes for FreeWheel ad submissions](/help/dsp/inventory/freewheel-error-codes.md)
     + [Edit private deal settings](/help/dsp/inventory/deal-id-edit.md)

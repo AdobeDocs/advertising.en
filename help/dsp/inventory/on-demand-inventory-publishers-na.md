@@ -6,7 +6,7 @@ exl-id: f1805fe0-5687-4e32-809f-c584acee3676
 ---
 # [!DNL On Demand] premium inventory publishers in North America
 
-<!-- get from Amanda Cabrera <acabrera@adobe.com> -->
+<!-- get from Amanda Cabrera <acabrera@adobe.com> --> 
 
 | Publisher                                   | Geo    |
 |---------------------------------------------|--------|

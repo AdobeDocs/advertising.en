@@ -45,7 +45,7 @@ Goals that are incompatible with standard connected TV placements, such as Lowes
 Use **[!UICONTROL VAST]** in either of the following scenarios:
 
 * The placement targets connected TV inventory.
-* The placement targets video inventory from Google Ad Manager, Appnexus, SpotX, or Freewheel. These SSPs don't support the VPAID & VAST video format.
+* The placement targets video inventory from Google Ad Manager, Appnexus, SpotX, or FreeWheel. These SSPs don't support the VPAID & VAST video format.
 
 ## Is it possible to attach multiple universal video ads to the same universal video placement?
 

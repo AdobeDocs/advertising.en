@@ -15,7 +15,7 @@ exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
 | **[!UICONTROL Serving Type]** | The media type for this deal: *[!UICONTROL Video],* *[!UICONTROL Display],* or *[!UICONTROL Audio].* |
 |**[!UICONTROL Publisher Site Served On]** | The name of the publisher that is selling this inventory. Search for a publisher by entering at least the first two characters in the name. To add a publisher that isn't listed, contact your Adobe Account Team.|
 |**[!UICONTROL Advertiser]** | A single advertiser in the account who can access this deal. Also select the campaign and (optionally) the package in which the deal is available. |
-| **[!UICONTROL Media Quality Assessment?]** | (Some users) Enables the ad to run on another DSP for third-party verification. <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
+| **[!UICONTROL Media Quality Assessment?]** | (Some users) Enables the ad to run on another DSP for third-party verification. <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. -- |
 | **[!UICONTROL Ad Source]** | The only option is *[!UICONTROL Site Serve (Event Pixels)]*. |
 | **[!UICONTROL Ad Creation]** | (New deals only) Whether to:<ul><li>*[!UICONTROL Create New]:* To create an ad for this deal.</li><li>*[!UICONTROL Select Ads]:* To use an existing ad for this deal.</li></ul> |
 | **[!UICONTROL Ad Type]** | The ad type for this deal. If you're going to create ads for the deal, include the ad size or duration, as requested. The available options vary by media type. |
