@@ -97,7 +97,7 @@ In the [DSP package settings](/help/dsp/campaign-management/packages/package-set
 
 *Objectives with custom bidding*
 
-<!-- VERIFY ALL AND FILL IN -->You can view recommendations, and optionally apply them, when the objective status is *[!UICONTROL Active]* and the [!UICONTROL Recommendation Status] is *[!UICONTROL ????????]*.
+<!-- VERIFY ALL AND FILL IN -->You can view recommendations, and optionally apply them, when the objective status is *[!UICONTROL Active]* and the [!UICONTROL Recommendation Status] is *[!UICONTROL Ready]*.
 
 1. In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Custom Objectives]**.
 
