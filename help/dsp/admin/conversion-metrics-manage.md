@@ -33,7 +33,7 @@ When Adobe Advertising tracks a conversion metric for an advertiser, it's initia
 
 Similarly, you can hide a conversion metric from campaign management views, custom objectives, and reports. When you hide a conversion metric that previously was visible, it's removed from any derived metrics that contain the conversion metric.
 
-From the list of conversion metrics that are available, each user with access to the advertiser's data can customize the metrics they see for management views and reports, including or omitting specific metrics as they choose.
+From the list of conversion metrics that are available, each user with access to the advertiser's data can customize the metrics they see for management views and reports. You can include or omit specific metrics as you choose.
 
 1. In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Conversions Beta]**.
 

@@ -8,7 +8,7 @@ exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
 
 <!-- rewrite and/or move into "Manage Custom Goals" -->
 
-Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal to help achieve the overall optimization goal. You can create custom goals as *[custom objectives](/help/dsp/admin/custom-objectives-manage.md)*. The name of each objective for DSP must be prefixed with "ADSP_".
+Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal to help achieve the overall optimization goal. You can create custom goals as *[custom objectives](/help/dsp/admin/custom-objectives-manage.md)*.
 
 <!--
  update image or omit it
@@ -67,7 +67,7 @@ There are two scenarios in which you would use multiple metrics in a custom goal
 
 -->
 
-* The single conversion metric in your custom goal isn't achieving the minimum of 10 conversions per day required for optimized performance. This can occur because of minimal daily package spend or a limited number of natural conversions. Adding additional supporting metrics to the custom goal can help you achieve the 10-conversions-per-day threshold. Ten supporting events can help a package meet the 10/day threshold, even when each of their weights is below one (1). But you may not need to add that many events.
+* The single conversion metric in your custom goal isn't achieving the minimum of 10 conversions per day required for optimized performance. Lower numbers of conversions can occur because of minimal daily package spend or a limited number of natural conversions. Adding additional supporting metrics to the custom goal can help you achieve the 10-conversions-per-day threshold. Ten supporting events can help a package meet the 10/day threshold, even when each of their weights is below one (1). But you may not need to add that many events.
 
    When you add supporting metrics to a custom goal, weight them according to their relative importance to the main success event, and keep in mind the quantity of data points. This allows the [!DNL Adobe AI]-powered algorithm to balance multiple metrics and optimize toward your goal.
 
@@ -87,4 +87,4 @@ There are two scenarios in which you would use multiple metrics in a custom goal
 >* [Manage custom objectives](/help/dsp/admin/custom-objectives-manage.md)
 >* [Optimization goals and how to use them](optimization-goals.md)
 >* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
-> * [How DSP optimizes your campaigns](optimization-how-dsp-optimizes-campaigns.md)
+>* [How DSP optimizes your campaigns](optimization-how-dsp-optimizes-campaigns.md)

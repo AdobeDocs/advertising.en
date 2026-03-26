@@ -18,7 +18,7 @@ An objective consists of the metrics (properties) to be tracked and optimized, a
 
 * Optional **[!UICONTROL Assist] metrics**, which assist, predict, precede, or contribute to driving goal metrics. Examples include engagement metrics, such as Test Drives and Trials.
 
-  You can let [!DNL Adobe AI] automatically assign and update weighted assist events to maximize your goal events. If you prefer to assign your own weighted assist metrics, DSP can optionally recommend assist metrics based on past performance data from Adobe Advertising and Adobe Analytics, and you can choose whether or not to apply the recommendations.
+  You can let [!DNL Adobe AI] automatically assign and update weighted assist events to maximize your goal events. If you prefer to assign your own weighted assist metrics, DSP can optionally recommend assist metrics based on past performance data from Adobe Advertising and Adobe Analytics. You can choose whether or not to apply the recommendations.
 
 All changes to objective options are tracked at the field level and are listed in a change log.
 
@@ -55,7 +55,7 @@ The [!UICONTROL Settings] > [!UICONTROL Custom Objectives] view indicates the st
 
 * *[!UICONTROL Not Initiated]*: No recommendation was requested.
 
-* *[!UICONTROL Generating]*: Recommendations are beig generated.
+* *[!UICONTROL Generating]*: Recommendations are being generated.
 
 * *[!UICONTROL Ready]*: Recommendations are available to apply.
 
