@@ -16,7 +16,9 @@ See the [formats for EF ID dimension items](https://experienceleague.adobe.com/e
 >
 >EF IDs are case-sensitive. If an [!DNL Analytics] or Customer Journey Analytics implementation forces URL tracking to lowercase, then Adobe Advertising doesn't recognize the EF ID. This impacts Adobe Advertising bidding and reporting but has no impact on Adobe Advertising reporting within [!DNL Analytics] or Customer Journey Analytics.
 
-<!-- Legacy content:
+<!--
+
+Legacy content:
 
 #### [!DNL Google Ads] search ads
 

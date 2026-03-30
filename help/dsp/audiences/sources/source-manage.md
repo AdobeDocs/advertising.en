@@ -53,7 +53,8 @@ You can create one source for each combination of universal ID partner and data 
 
 ## Change the ID types for an audience source
 
-<!-- Clarify this:
+<!-- 
+Clarify this:
 
 All changes to universal IDs translated from the source are applied after you save the the source record. For example, if you add a new ID type, then we convert hashed email addresses that you shared before making the changes to the new ID type. Similarly, if you remove an ID type, then we don't delete any historical IDs of that type from the segments shared through the source.
 
