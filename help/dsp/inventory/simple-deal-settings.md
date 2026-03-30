@@ -8,7 +8,7 @@ exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
 
 ## New [!UICONTROL Simple Ad Serving] deals
 
-### [!UICONTROL Select ad source]
+### [!UICONTROL Ad Source]
 
 | Parameter | Description |
 |-----------|-------------|
@@ -22,15 +22,13 @@ exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
 
 {style="table-layout:auto"}
 
-### [!UICONTROL Select ad(s)]
+### [!UICONTROL Select/Upload Creative]
 
-(When you're using existing ads) The ads to include in the deal. Select the check box next to each ad to include.
+* When you're using existing ads, select the check box next to each ad to include in the deal.
 
-### [!UICONTROL Select & upload [Media Type]]
+* When you're creating new ads, use the screens to create a new [third-party ad](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
-(New ads only) Screens to create a new [third-party ad](/help/dsp/campaign-management/ads/ad-create-multiple.md).
-
-### [!UICONTROL Feed details]
+### [!UICONTROL Feed Details]
 
 | Parameter | Description |
 |-----------|-------------|
