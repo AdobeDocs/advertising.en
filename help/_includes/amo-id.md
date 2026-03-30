@@ -14,7 +14,8 @@ The AMO ID is also called the `s_kwcid`, which is sometimes pronounced as "[!DNL
 
 See the [formats for AMO ID dimension items](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items) in the "Adobe Analytics Components Guide."
 
-<!-- Legacy content:
+<!--
+Legacy content:
 
 Notes for GGL Ads: Verify Creative description. Also, are there more networks now (audience and shopping?) Re "To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).: Update terminology there too.
 

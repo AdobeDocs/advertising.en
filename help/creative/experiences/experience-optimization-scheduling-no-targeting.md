@@ -31,9 +31,7 @@ When creative scheduling is disabled, the creative optimization settings apply t
 
    * *[!UICONTROL Weighted]:* Shows ad variants in the associated creative bundles according to relative weights. Enter the weight for each bundle as a percentage. To apply equal weights to all associated bundles, click (![Apply equal weight](/help/creative/assets/apply-equal-weight.png "Apply equal weight")). The weights for all selected bundles must add up to 100.
    
-   <!-- 
-   For example, if Bundle 1 is 60 and Bundle 2 is 40, then Bundle 1 is shown 60% of the time, and Bundle 2 is shown 40% of the time. 
-   -->
+     <!-- For example, if Bundle 1 is 60 and Bundle 2 is 40, then Bundle 1 is shown 60% of the time, and Bundle 2 is shown 40% of the time. -->
    
    * *[!UICONTROL Algorithmic]:* Shows the most effective ad variants more often, based on a specified goal.
    

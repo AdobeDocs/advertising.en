@@ -21,7 +21,7 @@ index: true
   + [Support for consumer privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
   + [Policies and guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
   + [Advanced measurement solutions](/help/dsp/introduction/advanced-measurement-services.md)
-+ [Search for product documentation using AI-assisted chat](/help/dsp/agent-chat.md)
++ {hide-from-toc} [Search for product documentation using AI-assisted chat](/help/dsp/agent-chat.md)
 + Campaign management {#campaign-management}
   + [Overview of campaign management in Advertising DSP](/help/dsp/campaign-management/campaign-management-overview.md)
   + Campaigns {#campaigns}
@@ -111,7 +111,7 @@ index: true
   + [Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)
   + Reusable audiences {#reusable-audiences}
     + [Create a reusable audience](/help/dsp/audiences/reusable-audience-create.md)
-    + [Create a reusable audience using generative AI](/help/dsp/audiences/reusable-audience-create-using-ai.md)
+    + {hide-from-toc} [Create a reusable audience using generative AI](/help/dsp/audiences/reusable-audience-create-using-ai.md)
     + [Duplicate a reusable audience](/help/dsp/audiences/reusable-audience-duplicate.md)
     + [Edit a reusable audience](/help/dsp/audiences/reusable-audience-edit.md)
     + [View details about a reusable audience](/help/dsp/audiences/reusable-audience-view-details.md)
