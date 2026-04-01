@@ -3,6 +3,13 @@ title: Manage dynamic ad templates
 description: Learn how to manage dynamic ad templates and create ads from them.
 feature: Creative Templates
 exl-id: 248f1467-ebd3-47f2-a24c-043bbfadcc6e
+TQID: https://experienceleague.adobe.com/-kYWprVYmg-AsTH-L--U08dnlESVQx-f2TYTDohc1jc
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manage dynamic ad templates
 

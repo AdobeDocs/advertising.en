@@ -3,6 +3,13 @@ title: Custom metric settings
 description: Reference the settings for custom metrics, which are calculated from standard metrics.
 exl-id: b9e8434d-5ea2-47cd-9d63-705a6337c34c
 feature: Search Common Tasks, Search Custom Metrics
+TQID: https://experienceleague.adobe.com/yyXHbc4ll8-Y4v3v0p3zMKi6zQVYXQr3bYApBEGGN-s
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Custom metric settings
 

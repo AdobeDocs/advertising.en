@@ -3,6 +3,13 @@ title: Supported bulksheet file formats
 description: Reference the general file requirements for bulksheets.
 exl-id: f3daf036-8f0c-4c75-9c76-2734abd850ec
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/LaEsBPLbF3nbcIJljn6TvQMmgFU7C-UPEoVjAXu7dp0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Supported bulksheet file formats
 

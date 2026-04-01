@@ -3,6 +3,13 @@ title: About managing campaign data using bulksheets
 description: Learn about bulksheet functionality available by ad network, the bulksheet workflow, and error handling.
 exl-id: 34a16ee3-9eba-4b8b-a5ca-65318f4ee6c5
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/VvfpRiNIhOEk15R4eJn-BP-NmPeNvYVzRN6evnJK45U
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # About managing campaign data using bulksheets
 

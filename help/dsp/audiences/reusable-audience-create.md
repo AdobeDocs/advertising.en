@@ -3,6 +3,19 @@ title: Create a reusable audience
 description: Learn how to create a reusable audiences that consist of audience segments and other saved audiences.
 feature: DSP Audiences
 exl-id: 5f4a0abb-c285-4452-a6c3-a91d5281df9b
+TQID: https://experienceleague.adobe.com/KhAxVTvMx4yBz3tfDtng3nOur2IodZAFFHMUQM1lKhQ
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: fef5c122-6482-4d17-a8ce-4e70b906f1f4
+    internal-label: DSP Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Create a reusable audience
 

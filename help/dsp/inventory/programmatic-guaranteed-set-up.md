@@ -3,6 +3,21 @@ title: Set up a programmatic guaranteed deal
 description: Learn how to set up a programmatic guaranteed (PG) deal you've negotiated with a publisher.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: d962942f-c248-4b48-97bd-baa2df3a519e
+TQID: https://experienceleague.adobe.com/z7kz7dnCjgCGmlgDlFvbZXTn8d9-OMEunv-Sm-k6TzY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: ac506c20-96f2-48f6-9096-77706e336bda
+    internal-label: DSP Private Inventory
+  - id: fae3ff5f-9a75-4de1-a100-c90dd8268528
+    internal-label: DSP Deal IDs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Set up a programmatic guaranteed deal
 

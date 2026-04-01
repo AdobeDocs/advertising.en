@@ -4,6 +4,21 @@ description: Learn about the steps that you must complete before you configure a
 role: User, Admin
 exl-id: 97b0c149-5f82-4a1e-a5d9-aeab43cbd88f
 feature: Search Admin, Search Data Sources
+TQID: https://experienceleague.adobe.com/viBRqiwqJm2BabtLP7b3h1TMTjkeITeSVA1vMMmbrPY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: e55292b5-d4a1-4c98-9c20-2a2c5bea07fb
+    internal-label: Search admin
+subfeature_v2:
+  - id: e778848d-90fa-4520-b80f-e8dd7dfdcffc
+    internal-label: Search data sources
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # Prerequisites for configuring a [!DNL Google Analytics] data source
 

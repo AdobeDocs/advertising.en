@@ -3,6 +3,20 @@ title: FAQs about campaigns
 description: See answers to questions about campaign management and campaign data views.
 exl-id: 999e5aba-f556-4b34-bb92-5931d5e0dd72
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/5I3xvxMaW-VmMn1UhxtTgt7O68vi--W38VNpV1fE6Rs
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # FAQs about campaign management
 

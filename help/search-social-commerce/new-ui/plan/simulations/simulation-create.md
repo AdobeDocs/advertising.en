@@ -4,6 +4,18 @@ description: Learn how to run or rerun a custom simulation for a portfolio.
 feature: Search Optimization, Search Portfolios, Search Simulations
 hide: yes
 exl-id: 0ee62d04-fdc4-445c-90fb-71d5a40a9ed0
+TQID: https://experienceleague.adobe.com/DlSJEcKXOxVz6UXVpAjQqaiwDTakgJ4SS6rsQUxkQIE
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c2296997-5d79-4905-b32e-99b5aa892429
+    internal-label: Search optimization
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Run or rerun a custom simulation
 

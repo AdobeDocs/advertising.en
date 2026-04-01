@@ -3,6 +3,21 @@ title: Adobe Advertising metrics in Analysis Workspace
 description: Adobe Advertising metrics in Analysis Workspace
 feature: Integration with Adobe Analytics
 exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
+TQID: https://experienceleague.adobe.com/CLPeE8g0Mix4Scq90qCd-s-tCUuBmkTBrkBWT1aPEhw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Adobe Advertising metrics in Analysis Workspace
 

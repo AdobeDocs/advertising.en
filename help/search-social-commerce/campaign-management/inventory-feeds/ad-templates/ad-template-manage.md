@@ -3,6 +3,13 @@ title: Manage ad templates for inventory feeds
 description: Learn about managing ad templates through which your inventory data can be processed to manage account structure and deliver dynamic ads.
 exl-id: b0e540cf-8735-4812-9df5-58f488a25ba5
 feature: Search Inventory Feeds
+TQID: https://experienceleague.adobe.com/pHmH477ZgwGePl4cVVwBjBEsrRUdvBY2hJwksuUOUvM
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manage ad templates for inventory feeds
 

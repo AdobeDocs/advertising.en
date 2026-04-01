@@ -3,6 +3,13 @@ title: Manage merchant accounts
 description: Learn how to set up and manage account details for a merchant center account.
 exl-id: 7d940e45-ea49-470b-98d0-0196593228cb
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/u5LpCPL1I8lLHD9n1cDT1rEPvCcultnuhIVcn7IqxnY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manage merchant accounts
 

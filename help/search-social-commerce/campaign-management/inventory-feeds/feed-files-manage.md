@@ -3,6 +3,16 @@ title: Manage inventory data feed files
 description: Learn how to configure the settings that control how feed data is processed.
 exl-id: 7d19ecc0-c939-4996-b22b-970ce8644b09
 feature: Search Inventory Feeds
+TQID: https://experienceleague.adobe.com/xXcdqry6-ef6Hj0DykJ0pZI6YWFyyVd8vJD0IZLw7Jc
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+    internal-label: Taxonomy
 ---
 # Manage inventory data feed files
 

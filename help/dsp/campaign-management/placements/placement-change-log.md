@@ -3,6 +3,19 @@ title: View a placement change log
 description: Learn how to view changes made to the placement.
 feature: DSP Placements
 exl-id: d9fc6ead-0a0e-415d-8352-284db12dde1b
+TQID: https://experienceleague.adobe.com/DpvbH-7jfXkjjuDJ6trA-nRxGuysTEKPO7Vmc5BpBbk
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: a4886037-b6d8-40e1-aeab-edeb7649d7d3
+    internal-label: DSP placements
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # View the change log for a placement
 

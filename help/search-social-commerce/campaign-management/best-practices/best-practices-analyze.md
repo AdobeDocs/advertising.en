@@ -3,6 +3,16 @@ title: Analyze reports to refine your keywords and campaign settings
 description: Learn about best practices for using reports to refine your keywords and campaign settings.
 exl-id: f1e3834b-2a6c-4d41-9355-70435a9e83e6
 feature: Search Best Practices
+TQID: https://experienceleague.adobe.com/RJfrnMplFPld70TgLzc98p77-8pnM870Vv4ETt2gFeg
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Analyze reports to refine your keywords and campaign settings
 

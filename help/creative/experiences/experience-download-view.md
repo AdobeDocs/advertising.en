@@ -3,6 +3,16 @@ title: Download data from the [!UICONTROL Experiences] view
 description: Learn how to export metadata from the [!UICONTROL Experiences] view.
 feature: Creative Experiences
 exl-id: 8362ac34-0de8-4bed-873d-dc20f39946bf
+TQID: https://experienceleague.adobe.com/MlvdbWsAezV-K1RH7tY0klxsHCcW9cFrHiC-cOQAcLw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Download data from the [!UICONTROL Experiences] view
 

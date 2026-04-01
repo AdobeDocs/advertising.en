@@ -3,6 +3,19 @@ title: Settings for connected TV reach plans
 description: See descriptions of the settings for connected TV reach plans.
 feature: DSP Planner
 exl-id: 65edd6f5-557c-44d1-a0ed-8cd26d8a2f6e
+TQID: https://experienceleague.adobe.com/IDfRNpdLmCqxU2TSuRiueLn1DpIzEH23qiorfW5DeLs
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: e8b92199-d82f-4b20-9fc3-ffe694f93ce5
+    internal-label: DSP Planner
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Settings for connected TV reach plans
 

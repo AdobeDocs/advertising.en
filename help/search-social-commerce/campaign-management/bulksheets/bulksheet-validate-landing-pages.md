@@ -3,6 +3,13 @@ title: Validate landing pages in bulksheet files
 description: Learn how to validate the destination URLs in a single-account bulksheet file.
 exl-id: 191cb1bc-54a9-4c6c-a29c-f3cbae08e0d8
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/gHVP2daXHY2iS6uibwNj4IxQyFjQReIgR54As8nc9Y8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Validate landing pages in bulksheet files
 

@@ -3,6 +3,19 @@ title: Sync [!DNL Adobe] audiences
 description: Learn how to sync metadata, hierarchy data, and unique audience data for your [!DNL Adobe] audiences.
 exl-id: 8b8c3aa0-2aa9-4ad7-a4c0-1b7ba881acd3
 feature: Search Admin
+TQID: https://experienceleague.adobe.com/PKWhdnMHVAI3aI--1vdCeqnX6b8j34uvHycZLw1Yvjw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: e55292b5-d4a1-4c98-9c20-2a2c5bea07fb
+    internal-label: Search admin
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Sync [!DNL Adobe] audiences
 

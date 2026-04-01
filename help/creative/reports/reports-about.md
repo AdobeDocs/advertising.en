@@ -3,6 +3,19 @@ title: About custom reports
 description: Learn about options for creating custom reports.
 feature: Creative Reporting
 exl-id: d52a2761-5e50-4a38-a9e1-141e962f1166
+TQID: https://experienceleague.adobe.com/hCt9WS2hX5CK2EDJTsKuy3oiKUGDtbOCazSeSM-J380
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # About custom reports
 

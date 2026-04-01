@@ -1,8 +1,18 @@
 ---
-title: '[!UICONTROL Simple Ad Serving] deal settings'
+title: "[!UICONTROL Simple Ad Serving] deal settings"
 description: Learn about the available settings for [!UICONTROL Simple Ad Serving] deals.
 feature: DSP Simple Ad Serving
 exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
+TQID: https://experienceleague.adobe.com/3MqeK9NlWy3VvNJyo-bYCwKyqIp9psB9HhJeVWvIm3M
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!UICONTROL Simple Ad Serving] deal settings
 

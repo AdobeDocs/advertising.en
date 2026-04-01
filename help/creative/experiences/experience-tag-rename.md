@@ -3,6 +3,13 @@ title: Rename an ad tag
 description: Learn how to rename an ad tag for an experience.
 feature: Creative Experiences
 exl-id: 8c2fda31-2e4c-49ea-bcf2-f1bf564068b8
+TQID: https://experienceleague.adobe.com/ypb4-Ao9JeNtow7EHbnKsL2ORmGUskuZcjDXdbyb8hA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Rename an ad tag for an experience
 

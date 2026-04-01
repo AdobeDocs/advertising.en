@@ -3,6 +3,16 @@ title: About report templates
 description: Learn about reusable report templates.
 exl-id: 8ac30a16-7fa9-4da3-9375-98efd05c6e74
 feature: Search Reports
+TQID: https://experienceleague.adobe.com/8ADgYYht2dTa96mTWXKItzUk7VhuQJJKrJ4aaRatgYs
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # About report templates
 

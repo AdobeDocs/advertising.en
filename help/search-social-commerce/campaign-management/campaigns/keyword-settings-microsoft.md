@@ -1,8 +1,18 @@
 ---
-title: '[!DNL Microsoft Advertising] keyword settings'
+title: "[!DNL Microsoft Advertising] keyword settings"
 description: Reference the settings for [!DNL Microsoft Advertising] keywords.
 exl-id: 82eee01f-db4b-4d1a-ae24-1ef65f8c6953
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/fA0ZDCw5Ici0wOfpd1kXdjbQA6DtUFxOSBEtrlJl4Oo
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # [!DNL Microsoft Advertising] keyword settings
 

@@ -3,6 +3,27 @@ title: Overview of the integration between Adobe Advertising and Adobe Customer 
 description: Learn about options to integrate Adobe Advertising with Adobe Customer Journey Analytics.
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: 57636259-f91a-404f-b972-994af67098b1
+TQID: https://experienceleague.adobe.com/nxn5AcKCc-xm-k5LXOcKIquNKyoXbt3soR5nhQR0w-E
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
 ---
 # Overview of the integration between Adobe Advertising with Customer Journey Analytics
 

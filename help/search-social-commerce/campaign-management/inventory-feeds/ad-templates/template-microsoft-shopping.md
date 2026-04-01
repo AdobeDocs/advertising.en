@@ -1,8 +1,20 @@
 ---
-title: '[!DNL Microsoft Ads] shopping ad template settings for inventory feeds'
+title: "[!DNL Microsoft Ads] shopping ad template settings for inventory feeds"
 description: Reference the settings for [!DNL Microsoft Ads] shopping ad templates for inventory feeds.
 exl-id: a0dd6542-0516-406a-b8c5-2e102ec7ab3d
 feature: Search Inventory Feeds
+TQID: https://experienceleague.adobe.com/Q-TmSKd7yk8Infwx-Nyar61Bu-oqK8NUd2qgJbAOTDA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+    internal-label: Taxonomy
 ---
 # [!DNL Microsoft Ads] shopping ad template settings for inventory feeds
 

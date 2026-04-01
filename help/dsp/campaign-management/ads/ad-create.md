@@ -3,6 +3,19 @@ title: Create a single ad
 description: Learn how to create a single third-party ad.
 feature: DSP Ads
 exl-id: fdfb02c0-9aec-4faf-b374-0f03c7a3fa98
+TQID: https://experienceleague.adobe.com/WsySBj4JDE90DEMEAPqnh9l9945iGKWTctYnUyrFoe0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: d9510790-d834-436d-8423-8d69cd50464a
+    internal-label: DSP Ads
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Create a single ad
 

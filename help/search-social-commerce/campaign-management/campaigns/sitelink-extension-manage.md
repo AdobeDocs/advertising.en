@@ -3,6 +3,19 @@ title: Manage shared sitelinks
 description: Learn how to create and manage shared sitelink extensions.
 exl-id: e510f53b-f48c-4129-887c-351a840b8398
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/bnKg6ySgpFF30MuE19xdHWimvAQVwvIqv1NRg-S2jTI
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
 ---
 # Manage shared sitelinks
 
