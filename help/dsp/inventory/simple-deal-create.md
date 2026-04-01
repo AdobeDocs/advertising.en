@@ -41,7 +41,7 @@ exl-id: 77d5dabd-1a0d-4dce-8a9a-8d54a637e15d
 
          * To paste the information into an email message in an email application on your device, click **[!UICONTROL Email & Done]** and select the email application. The [!UICONTROL CC:] field is prepopulated with an [!DNL Adobe] support address. You can then send the message to the appropriate contact for the publisher.
 
-         * To copy the information to your clipboard, click **[!UICONTROL Copy Email].** You can then manually paste the contents into an email message and send it to the appropriate contact for the publisher. You must include a copy (CC:) to `publisher-support-global@adobe.com`. When you're finished copying the message, click **[!UICONTROL Email & Done]**.
+         * To copy the information to your clipboard, click **[!UICONTROL Copy Email].** You can then manually paste the contents into an email message and send it to the appropriate contact for the publisher. Include a copy (CC:) to `publisher-support-global@adobe.com`. When you're finished copying the message, click **[!UICONTROL Email & Done]**.
 
       1. (If necessary) Follow up with the publisher to see if the tag includes the appropriate macros so that the tag works with the publisher's ad server.
 
