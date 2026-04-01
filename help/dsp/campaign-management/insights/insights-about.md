@@ -80,20 +80,27 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
 
 ### [!UICONTROL Audience Analysis] tab
 
-The [!UICONTROL Audience Analysis] tab provides granular, real-time insights into audience targeting effectiveness for your campaigns with CPA placements<!-- verify that caveat applies to both insights -->. Use these insights to identify issues such as low match rates, drop-offs in eligibility, and missed opportunities caused by exclusions.<!-- Link those effects to specific info in the charts -->
+The [!UICONTROL Audience Analysis] tab provides granular, real-time insights into audience targeting effectiveness for your campaigns with CPA placements<!-- verify that caveat applies to both insights. Also, link the following effects to specific info in the charts -->. Use these insights to identify issues such as low match rates, drop-offs in eligibility, and missed opportunities caused by exclusions.
 
-<!-- Clarify the entities reported by default and optional -->By default, data is shown<!--  across packages? for what entities? --> for a specific advertiser. You can optionally configure filters to show data for a different advertiser, across packages or placements, or for a specific package or placement.<!-- I don't see the option to select packages as of 3/12 -- only placements. Also, how does that entity selector at the top work with the entity selector in the Audience Funnel Analysis insight? -->
+<!-- Clarify the entities reported by default (across placements? for what entities?) and optional. Also, if we will allow selecting a package or across campaigns, how does that entity selector at the top work with the placement selector in the Audience Funnel Analysis insight? -->By default, data is shown for a specific advertiser. You can optionally configure filters to show data for a different advertiser, across packages or placements, or for a specific package or placement.
 
 The insights include:
 
-* **[!UICONTROL Audience Segment Size Trends]:** A trend chart shows the daily or weekly<!-- verify --> number of unique users in the aggregated audience <!-- audience that was actually served impressions, or potential audience? -->. Use this insight to track the volume and health of your target pool over time. To see the segment size for a specific point, hold the cursor over the point.
+* **[!UICONTROL Audience Segment Size Trends]:** <!-- Verify the time increments, and also whether the aggregated audience is what was actually served impressions or the potential audience. -->A trend chart shows the daily number of unique users in the aggregated audience. Use this insight to track the volume and health of your target pool over time. To see the segment size for a specific point, hold the cursor over the point.
 
-* **[!UICONTROL Audience Funnel Analysis]:**  A daily time-series table showing how your target audience narrows from the total available pool to actual impression wins after all targeting and eligibility filters are applied.<!-- "Placement" is the only option, which shows data at the placement level? Clarify. Also, the PRD shows two charts, one with data for cookies and the other for devices. Clarify if there will be two charts, and how they'll be labelled/configured/filtered differently. --> Metrics include
-**[!UICONTROL Audience Size<!--in UDB <!-- are we using "UDB? -->]**,  
-**[!UICONTROL Cookies<!-- i.e., appearing --> in Bid Stream]** (Non-bids + Bids) for 1 day (yesterday).
-**[!UICONTROL Eligible Cookies (Filtered)]** (cookies in the bid stream filtered by geo, then device type and then by OS/browser), **[!UICONTROL Cookies bid on]** (Cookies bid on by placement in 1 day), and **[!UICONTROL Impression Wins]** (Cookies in impression wins in 1 day for placement).<!-- Edit all wording -->
+* **[!UICONTROL Audience Funnel Analysis]:**  A daily time-series table showing how your target audience narrows from the total available pool to actual impression wins after all targeting and eligibility filters are applied. Data is shown for yesterday.<!-- "Placement" is the only option, which shows data at the placement level. Clarify if that will remain all. Also, the PRD shows two charts, one with data for cookies and the other for devices. Clarify if there will be two charts, and how they'll be labelled/configured/filtered differently. --> Metrics include:
 
+  * **[!UICONTROL Audience Size]:** The number of unique users in the aggregated audience.<!-- define "aggregated" -->
+  
+  * **[!UICONTROL Cookies in Bid Stream]:** The number of cookies in the bid stream, including cookies for which the placement bid and didn't bid.
 
+  * **[!UICONTROL Eligible Cookies]:** The number of cookies in the bid stream filtered by geo, then by device type, and then by operating system and browser.
+  
+  **[!UICONTROL Cookies bid on]:** The number of cookies for which the placement bid.
+
+  * **[!UICONTROL Impression Wins]:** The number of cookies for which the placement won an impression.
+
+<!-- Verify the field names in the table above and downloaded report, and explain all. -->
 
 <!-- Anything from PRD to use?:
 
