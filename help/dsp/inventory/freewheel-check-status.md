@@ -1,12 +1,12 @@
 ---
 title: Check the status of ads for a [!DNL FreeWheel] PG deal
-description: Learn how to find the status of ads for [!DNL Freewheel] programmatic guaranteed deals.
+description: Learn how to find the status of ads for [!DNL FreeWheel] programmatic guaranteed deals.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: f5f33e96-68a8-48bd-8c30-72be9315c5ac
 ---
-# Check the status of ads for [!DNL Freewheel] programmatic guaranteed deals
+# Check the status of ads for [!DNL FreeWheel] programmatic guaranteed deals
 
-See if your ad submissions to [!DNL Freewheel] were successful. You can resubmit any ad as needed.
+See if your ad submissions to [!DNL FreeWheel] were successful. You can resubmit any ad as needed.
 
 For any additional questions or issues with resubmission, contact your Adobe Account Team.
 
@@ -18,7 +18,7 @@ For any additional questions or issues with resubmission, contact your Adobe Acc
 
 1. In the submenu, click **[!UICONTROL Ads]**.
 
-1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL see Freewheel status]**.
+1. Next to the ad name, click  **[!UICONTROL ...]** > **[!UICONTROL See FreeWheel status]**.
 
 1. (Optional) To resubmit an ad for approval, hold the cursor over the ad row, and then click **[!UICONTROL More]** > **[!UICONTROL Resubmit]**.
 
@@ -28,9 +28,9 @@ For any additional questions or issues with resubmission, contact your Adobe Acc
 
 1. Do either of the following:
 
-   * Under the [!UICONTROL Deal ID Inbox], click **[!UICONTROL View Freewheel creative status]**.
+   * Under the [!UICONTROL Deal ID Inbox], click **[!UICONTROL View FreeWheel creative status]**.
 
-   * In any deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL see Freewheel status]**.
+   * In any deal row, click ![Options menu](/help/dsp/assets/options-menu.png) **> [!UICONTROL See FreeWheel status]**.
 
 1. (Optional) Filter the data to help you locate specific deals and ads.
 
@@ -42,7 +42,7 @@ For any additional questions or issues with resubmission, contact your Adobe Acc
 
 >[!MORELIKETHIS]
 >
->* [Overview of setting up programmatic guaranteed deals in [!DNL Freewheel]](freewheel-overview.md)
->* [Submit an ad for a programmatic guaranteed deal to [!DNL Freewheel]](freewheel-submit.md)
+>* [Overview of setting up programmatic guaranteed deals in [!DNL FreeWheel]](freewheel-overview.md)
+>* [Submit an ad for a programmatic guaranteed deal to [!DNL FreeWheel]](freewheel-submit.md)
 >* [Error codes for [!DNL FreeWheel] ad submissions](freewheel-error-codes.md)
 >* [Accept a deal in the [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md)

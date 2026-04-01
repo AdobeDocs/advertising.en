@@ -1,20 +1,20 @@
 ---
 title: Submit an ad for a PG deal to [!DNL FreeWheel]
-description: Learn how to request approval for an ad for a programmatic guaranteed deal with a publisher on [!DNL Freewheel].
+description: Learn how to request approval for an ad for a programmatic guaranteed deal with a publisher on [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 18d91f0c-4a27-4e40-b762-6c5e97e9a21a
 ---
-# Submit an ad for a programmatic guaranteed deal to [!DNL Freewheel] 
+# Submit an ad for a programmatic guaranteed deal to [!DNL FreeWheel] 
 
 *Accounts with the [!DNL FreeWheel] Programmatic Guaranteed permission only*
 
-Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), including selecting an ad and creating the programmatic guaranteed default placement to use for the deal, you must submit the ad to [!DNL Freewheel] for approval.
+Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), including selecting an ad and creating the programmatic guaranteed default placement to use for the deal, you must submit the ad to [!DNL FreeWheel] for approval.
 
 >[!PREREQUISITES]
 >
 >Work with your Adobe Account Team to ensure that your [!DNL DSP] account has permission to use the [!DNL FreeWheel] programmatic guaranteed workflow.
 
-1. Copy the ad key for the ad used with the [!DNL Freewheel] deal:
+1. Copy the ad key for the ad used with the [!DNL FreeWheel] deal:
 
    1. Click the name of the campaign.
 
@@ -30,7 +30,7 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
       https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads
       ```
 
-1. Submit the ad to [!DNL Freewheel]:
+1. Submit the ad to [!DNL FreeWheel]:
 
    1. Do either of the following:
 
@@ -46,7 +46,7 @@ Once you [accept a programmatic guaranteed deal with a publisher on FreeWheel](#
 
 >[!MORELIKETHIS]
 >
->* [Overview of setting up programmatic guaranteed deals in [!DNL Freewheel]](freewheel-overview.md)
+>* [Overview of setting up programmatic guaranteed deals in [!DNL FreeWheel]](freewheel-overview.md)
 >* [Accept a deal in the [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md)
 >* [Check the status of ads for a [!DNL FreeWheel] PG deal](freewheel-check-status.md)
 >* [Error codes for [!DNL FreeWheel] ad submissions](freewheel-error-codes.md)

@@ -21,7 +21,7 @@ index: true
   + [Support for consumer privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
   + [Policies and guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
   + [Advanced measurement solutions](/help/dsp/introduction/advanced-measurement-services.md)
-+ [Search for product documentation using AI-assisted chat](/help/dsp/agent-chat.md)
++ {hide-from-toc} [Search for product documentation using AI-assisted chat](/help/dsp/agent-chat.md)
 + Campaign management {#campaign-management}
   + [Overview of campaign management in Advertising DSP](/help/dsp/campaign-management/campaign-management-overview.md)
   + Campaigns {#campaigns}
@@ -111,7 +111,7 @@ index: true
   + [Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)
   + Reusable audiences {#reusable-audiences}
     + [Create a reusable audience](/help/dsp/audiences/reusable-audience-create.md)
-    + [Create a reusable audience using generative AI](/help/dsp/audiences/reusable-audience-create-using-ai.md)
+    + {hide-from-toc} [Create a reusable audience using generative AI](/help/dsp/audiences/reusable-audience-create-using-ai.md)
     + [Duplicate a reusable audience](/help/dsp/audiences/reusable-audience-duplicate.md)
     + [Edit a reusable audience](/help/dsp/audiences/reusable-audience-edit.md)
     + [View details about a reusable audience](/help/dsp/audiences/reusable-audience-view-details.md)
@@ -169,8 +169,8 @@ index: true
         + [Tips for negotiating a programmatic guaranteed deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
         + [Set up a programmatic guaranteed deal](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
         + [!DNL FreeWheel] programmatic guaranteed deals {#freewheel}
-          + [Overview of setting up programmatic guaranteed deals in [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
-          + [Submit an ad for a programmatic guaranteed deal to [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
+          + [Overview of setting up programmatic guaranteed deals in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+          + [Submit an ad for a programmatic guaranteed deal to [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
           + [Check the status of ads for a [!DNL FreeWheel] PG deal](/help/dsp/inventory/freewheel-check-status.md)
           + [Error codes for FreeWheel ad submissions](/help/dsp/inventory/freewheel-error-codes.md)
     + [Edit private deal settings](/help/dsp/inventory/deal-id-edit.md)
