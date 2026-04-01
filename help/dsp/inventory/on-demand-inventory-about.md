@@ -8,7 +8,7 @@ exl-id: 2e8dd4a0-7a7b-45e9-8f0f-e5435cf0d9ee
 
 *Not available to users with the account types [!UICONTROL Ad Network], [!UICONTROL Publisher Audience Extension], and [!UICONTROL Other]; advertisers with the category [!UICONTROL Other]; and resellers*
 
-The [!DNL On Demand] Gallery is a premium inventory discovery tool to explore pre-negotiated deals that DSP has curated with premium publisher partners. It allows you to access non-guaranteed inventory from the top-tier publishers in-region without the need for 1:1 negotiations or contracts. You can request individual deals, and you can subscribe to a publisher to request all of the publisher's deals at once.
+The [!DNL On Demand] gallery is a premium inventory discovery tool to explore pre-negotiated deals that DSP has curated with premium publisher partners. It allows you to access non-guaranteed inventory from the top-tier publishers in-region without the need for 1:1 negotiations or contracts. You can request individual deals, and you can subscribe to a publisher to request all of the publisher's deals at once.
 
 The DSP premium marketplace allows you to:
 

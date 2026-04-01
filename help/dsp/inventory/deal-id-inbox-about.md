@@ -6,13 +6,13 @@ exl-id: a1ba7de0-d6b4-4e22-8615-3e62d2ffdf5c
 ---
 # About the [!UICONTROL Deal ID Inbox]
 
-The Advertising DSP [!UICONTROL Deal ID Inbox] allows you to quickly set up deals that DSP has imported from publishers through supply side platforms (SSPs) so you don't have to set up each deal manually. You can accept the guaranteed and non-guaranteed private inventory deals you've already negotiated with publishers on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]) from the [!UICONTROL Deal ID Inbox].
+The Advertising DSP [!UICONTROL Deal ID Inbox] allows you quickly to set up deals that DSP has imported from publishers through supply side platforms (SSPs) so you don't have to set up each deal manually. You can accept the guaranteed and non-guaranteed private inventory deals you've already negotiated with publishers on [!DNL FreeWheel], [!DNL Google Authorized Buyers] (formerly known as [!DNL AdX]), and [!DNL Magnite DV+] (formerly [!DNL Rubicon]) from the [!UICONTROL Deal ID Inbox].
 
 >[!NOTE]
 >
 >Advertising DSP is the first DSP to integrate with the [!DNL FreeWheel] API.
 
-In the [!UICONTROL Deal ID Inbox], you can see the details of the deal as your publisher sees them, speed up your deal setup, and avoid manual entry errors.
+In the [!UICONTROL Deal ID Inbox], you can see the details of the deal as your publisher sees them, accelerate your deal setup, and avoid manual entry errors.
 
 <!-- 
 Accepting a deal automatically pre-populates a new Deal ID record with details from the publisher, and you need to enter only the publisher [always? or just in some cases?], the media type, who can access the deal, and any attribute labels to apply to the deal so it's easy to find. [Are labels a dimension you can report on?]
@@ -42,7 +42,7 @@ During deal negotiations, tell the publisher to send the deal to your buyer inst
 
 * **Review deals** to verify that the SSP has sent the correct publisher, flight dates, CPM, and other deal details. If the publisher has made a mistake, contact them outside of DSP so they can correct and resend the deal.
 
-* **Accept deals** after reviewing, and they no longer appear in the [!UICONTROL Deal ID Inbox]. Accepted deals are listed in [!UICONTROL Inventory] > [!UICONTROL Deals] and are ready to target within advertisers’ placements.
+* **Accept deals** after reviewing, and they no longer appear in the [!UICONTROL Deal ID Inbox]. Accepted deals are listed in [!UICONTROL Inventory] > [!UICONTROL Deals] and are ready to target within advertisers' placements.
 
 * **Ignore deals** that aren't needed or are unsolicited. Ignored deals are moved to the [!UICONTROL Ignored Deals] tab within the [!UICONTROL Deal ID Inbox], which serves as an archive. DSP doesn't alert SSPs and publishers when you ignore a deal.
 
