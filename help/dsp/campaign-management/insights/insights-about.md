@@ -82,15 +82,15 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
 
 The [!UICONTROL Audience Analysis] tab provides granular, real-time insights into audience targeting effectiveness for your campaigns with CPA placements<!-- verify that caveat applies to both insights. Also, link the following effects to specific info in the charts -->. Use these insights to identify issues such as low match rates, drop-offs in eligibility, and missed opportunities caused by exclusions.
 
-<!-- Clarify the entities reported by default (across placements? for what entities?) and optional. Also, if we will allow selecting a package or across campaigns, how does that entity selector at the top work with the placement selector in the Audience Funnel Analysis insight? -->By default, data is shown for a specific advertiser. You can optionally configure filters to show data for a different advertiser, across packages or placements, or for a specific package or placement.
+By default, data is shown for a specific advertiser and a specific placement. You can optionally configure filters to show data for a different advertiser or for a different placement.
 
 The insights include:
 
-* **[!UICONTROL Audience Segment Size Trends]:** <!-- Verify the time increments, and also whether the aggregated audience is what was actually served impressions or the potential audience. -->A trend chart shows the daily number of unique users in the aggregated audience. Use this insight to track the volume and health of your target pool over time. To see the segment size for a specific point, hold the cursor over the point.
+* **[!UICONTROL Audience Segment Size Trends]:** A trend chart shows the daily number of unique users in the aggregated<!-- targetable? --> audience. Use this insight to track the volume and health of your target pool over time. To see the segment size for a specific point, hold the cursor over the point.
 
-* **[!UICONTROL Audience Funnel Analysis]:**  A daily time-series table showing how your target audience narrows from the total available pool to actual impression wins after all targeting and eligibility filters are applied. Data is shown for yesterday.<!-- "Placement" is the only option, which shows data at the placement level. Clarify if that will remain all. Also, the PRD shows two charts, one with data for cookies and the other for devices. Clarify if there will be two charts, and how they'll be labelled/configured/filtered differently. --> Metrics include:
+* **[!UICONTROL Audience Funnel Analysis]:**  A daily time-series table showing how your target audience narrows from the total available pool to actual impression wins after all targeting and eligibility filters are applied. Data is shown for yesterday. Metrics include:<!-- Verify the field names in the table and downloaded report, and explain all. -->
 
-  * **[!UICONTROL Audience Size]:** The number of unique users in the aggregated audience.<!-- define "aggregated" -->
+  * **[!UICONTROL Audience Size]:** The number of unique users in the aggregated audience.
   
   * **[!UICONTROL Cookies in Bid Stream]:** The number of cookies in the bid stream, including cookies for which the placement bid and didn't bid.
 
@@ -99,16 +99,6 @@ The insights include:
   **[!UICONTROL Cookies bid on]:** The number of cookies for which the placement bid.
 
   * **[!UICONTROL Impression Wins]:** The number of cookies for which the placement won an impression.
-
-<!-- Verify the field names in the table above and downloaded report, and explain all. -->
-
-<!-- Anything from PRD to use?:
-As an AdOps Specialist, I want package/placement-level audience metrics with run-time funnel views, so I can pinpoint eligibility drop-offs.
-As an MSC Team Member, I want converters and missed opportunity views, so I can evaluate exclusion impacts.
-As an AdOps Specialist, I want run-time sketch intersections for holistic targeting analysis, so I can estimate eligible audiences dynamically.
-As a Campaign Manager, I want to understand my targetable Audience Size, so I can plan budgets and pacing accurately.
-As an MSC Team Member, I want audience quality funnels with CVR at each stage, so I can optimize reach and conversions.
--->
 
 ## View performance insights
 
