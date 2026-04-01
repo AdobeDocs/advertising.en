@@ -6,7 +6,7 @@ exl-id: e48937c2-ced9-4107-9e1d-65a3bac51fff
 ---
 # Error codes for [!DNL FreeWheel] ad submissions
 
-The error messages for failed ad submissions can come from either Advertising DSP or from [!DNL FreeWheel]. Error messages are shown in the [!UICONTROL API Response] column in the [[!UICONTROL Freewheel Status] dialog](freewheel-check-status.md).
+The error messages for failed ad submissions can come from either Advertising DSP or from [!DNL FreeWheel]. Find error messages in the [!UICONTROL API Response] column in the [[!UICONTROL FreeWheel Status] dialog](freewheel-check-status.md).
 
 ## Advertising DSP internal errors
 
@@ -23,7 +23,7 @@ The error messages for failed ad submissions can come from either Advertising DS
 
 {style="table-layout:auto"}
 
-## [!DNL Freewheel] API errors
+## [!DNL FreeWheel] API errors
 
 |Code|Meaning|Description|Next Steps|
 |--- |--- |--- |--- |
@@ -37,7 +37,7 @@ The error messages for failed ad submissions can come from either Advertising DS
 
 {style="table-layout:auto"}
 
-## [!DNL Freewheel] API 422 Errors {#freewheel-422-errors}
+## [!DNL FreeWheel] API 422 Errors {#freewheel-422-errors}
 
 |Code|HTTP Code|Description|
 |--- |--- |--- |
@@ -58,7 +58,7 @@ The error messages for failed ad submissions can come from either Advertising DS
 
 >[!MORELIKETHIS]
 >
->* [Overview of setting up programmatic guaranteed deals in [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
+>* [Overview of setting up programmatic guaranteed deals in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
 >* [Accept a deal in the [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md)
->* [Submit an ad for a programmatic guaranteed deal to [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
+>* [Submit an ad for a programmatic guaranteed deal to [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
 >* [Check the status of ads for a [!DNL FreeWheel] PG deal](/help/dsp/inventory/freewheel-check-status.md)
