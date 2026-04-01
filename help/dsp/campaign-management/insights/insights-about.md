@@ -103,14 +103,11 @@ The insights include:
 <!-- Verify the field names in the table above and downloaded report, and explain all. -->
 
 <!-- Anything from PRD to use?:
-
 As an AdOps Specialist, I want package/placement-level audience metrics with run-time funnel views, so I can pinpoint eligibility drop-offs.
 As an MSC Team Member, I want converters and missed opportunity views, so I can evaluate exclusion impacts.
-
 As an AdOps Specialist, I want run-time sketch intersections for holistic targeting analysis, so I can estimate eligible audiences dynamically.
 As a Campaign Manager, I want to understand my targetable Audience Size, so I can plan budgets and pacing accurately.
 As an MSC Team Member, I want audience quality funnels with CVR at each stage, so I can optimize reach and conversions.
-
 -->
 
 ## View performance insights
@@ -137,7 +134,7 @@ As an MSC Team Member, I want audience quality funnels with CVR at each stage, s
 
 1. (Optional) To narrow down the data further, select the dimension type in the toolbar, and then select a specific dimension (a single campaign, package, or placement).
 
-1. ([!UICONTROL Audience Funnel Analysis only; optional) To change the time increments between daily and weekly, select **[!UICONTROL Day]** or **[!UICONTROL Week]**.
+1. ([!UICONTROL Audience Funnel Analysis] only; optional) To change the time increments between daily and weekly, select **[!UICONTROL Day]** or **[!UICONTROL Week]**.
 
 ## Change the dimension reported for an insight
 
@@ -166,9 +163,7 @@ For conversion metrics, support is available for both Adobe Advertising-tracked 
   The file is saved to your browser's default Downloads folder.
 
 <!-- Add:
-
 ## Save a custom view for a tab
-
 -->
 
 >[!MORELIKETHIS]
