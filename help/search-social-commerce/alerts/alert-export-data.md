@@ -3,6 +3,16 @@ title: Export data for custom alerts
 description: Learn how to export data for a triggered alert to a file.
 exl-id: e3467b39-21ed-431e-b5f4-c3dc2dd5266d
 feature: Search Alerts
+TQID: https://experienceleague.adobe.com/JyEfHoeveq0ZA5buoLKJis4RECKBtHNCiJZ982uXSW0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Export data for custom alerts
 

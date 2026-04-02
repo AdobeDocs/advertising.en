@@ -3,6 +3,16 @@ title: Upload a bulksheet or corrected error file
 description: Learn how to manually upload a bulksheet file or corrected landing page validation error file.
 exl-id: 44c76ca3-1d3e-43c2-868a-4868157d32b0
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/3dJ14x6JFvS-ig5s6ElT0Vv-Kzd5KWQu0JiItdrG3ZA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Upload a bulksheet or corrected error file
 

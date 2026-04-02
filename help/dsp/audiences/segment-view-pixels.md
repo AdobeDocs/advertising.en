@@ -3,6 +3,19 @@ title: View tracking pixels for a segment
 description: Learn how to view the tracking pixels for a custom or CCPA opt-out of sale segment.
 feature: DSP Segments
 exl-id: 3b67ab72-d7bb-45a0-b5ba-e4b811b7d2b3
+TQID: https://experienceleague.adobe.com/jWneyyCriQcP299jQg-6Ggue0AObOfyehJwPvemYSfY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: c193c532-b70e-4556-bde7-857186cbe140
+    internal-label: DSP Segments
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # View tracking pixels for a segment
 

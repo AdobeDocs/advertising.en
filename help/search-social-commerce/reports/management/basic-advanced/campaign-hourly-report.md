@@ -1,8 +1,18 @@
 ---
-title: '[!UICONTROL Campaign Hourly Report]'
+title: "[!UICONTROL Campaign Hourly Report]"
 description: Learn about the [!UICONTROL Campaign Hourly Report].
 exl-id: 0e807e74-b8f8-4823-a9d9-1871a20e90b6
 feature: Search Reports, Search Basic Reports
+TQID: https://experienceleague.adobe.com/M5hZWElopUSBFBicjELMRHBqc1lujc6YwlKcSoWmC0g
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!UICONTROL Campaign Hourly Report]
 

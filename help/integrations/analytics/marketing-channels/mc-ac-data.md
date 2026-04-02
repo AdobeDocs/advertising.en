@@ -3,6 +3,21 @@ title: Using [!DNL Marketing Channels] with Adobe Advertising data
 description: Learn how to use Adobe Advertising data in [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
 exl-id: 522c7f01-1138-477d-8018-36030caab55e
+TQID: https://experienceleague.adobe.com/VQMlRz2xtbbr6Nns5EZOh9zUUKIifKy-DGN-9JateJs
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Using [!DNL Analytics Marketing Channels] with Adobe Advertising data
 

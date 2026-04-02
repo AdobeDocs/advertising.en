@@ -3,6 +3,16 @@ title: Model accuracy report settings
 description: Learn about the required and optional settings for model accuracy reports.
 exl-id: 11782a75-9141-4a4e-b3b3-60679b0e36de
 feature: Search Reports, Search Model Accuracy Reports
+TQID: https://experienceleague.adobe.com/ITabJVxDxGloBaUT8FqMfX7IWlU5rLYCiuCjVNYrX6c
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Model accuracy report settings
 

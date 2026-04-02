@@ -3,6 +3,13 @@ title: About custom metrics
 description: Learn about custom metrics, which are calculated from standard metrics.
 exl-id: 2c322ad1-399c-4e94-9a68-44c07da04cbd
 feature: Search Common Tasks, Search Custom Metrics
+TQID: https://experienceleague.adobe.com/Odzuk-7GJdNy5RWXColZTIyFXx6lJkGx3FHg9mXSq50
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # About custom metrics
 

@@ -1,8 +1,21 @@
 ---
-title: '[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa'
-description: '[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa'
+title: "[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa"
+description: "[!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa"
 feature: DSP On Demand Inventory
 exl-id: a7669db9-5967-420c-970f-ff87e8f3556a
+TQID: https://experienceleague.adobe.com/d-AaBgjnGvx2Y5gcDyAVcj2GSNNORhN0CTI6dNkU73M
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: fbfa676f-2cdb-49be-b949-f2fab1be6daf
+    internal-label: DSP On Demand Inventory (Advertising)
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!DNL On Demand] premium inventory publishers in Europe, the Middle East, and Africa
 

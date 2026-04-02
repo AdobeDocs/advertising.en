@@ -3,6 +3,13 @@ title: Click-tracking formats for [!DNL Yandex]
 description: Learn about the click-tracking formats for [!DNL Yandex] accounts.
 exl-id: bcbd369b-b98d-491c-a921-58bf79e01744
 feature: Search Tracking
+TQID: https://experienceleague.adobe.com/iw-C9oApjU-LeXi3XJol3lgCJPGPegHgzFJIL-3HHSA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Click-tracking formats for sponsored ads on [!DNL Yandex]
 

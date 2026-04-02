@@ -3,6 +3,13 @@ title: Supported creative sizes
 description: Reference the supported creative sizes for ad experiences.
 feature: Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: c8e90ba6-bff7-4161-86b8-c4b5b04fb4bf
+TQID: https://experienceleague.adobe.com/v9wOtISs7XySZ5rr7itFqzkmuAdYcUQclzNVAKneURs
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Supported creative sizes
 

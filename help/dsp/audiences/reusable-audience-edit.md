@@ -3,6 +3,19 @@ title: Edit a reusable audience
 description: Learn how to edit a reusable audience.
 feature: DSP Audiences
 exl-id: 4de6b9a4-2907-474d-92bf-83686a1f0b31
+TQID: https://experienceleague.adobe.com/NkmnBZ5GKhOxmOJZhIS8-V99cV7x2-DTl-tp1cij8W4
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: fef5c122-6482-4d17-a8ce-4e70b906f1f4
+    internal-label: DSP Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Edit a reusable audience
 

@@ -3,6 +3,16 @@ title: Post bulksheets or corrected error files
 description: Learn how to post bulksheet files to your ad networks.
 exl-id: 49b930ba-71b3-442d-a162-67cf7ae14e14
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/N2xYU3CSbNaftsEOKKyXDjDQRYeqhYOolhf5ZyCPiGA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Post bulksheets or corrected error files
 

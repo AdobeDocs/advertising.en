@@ -3,6 +3,13 @@ title: Optional tracking parameters for click-tracking URLs
 description: Learn about optional Search, Social, & Commerce tracking parameters and ad network-specific tracking parameters that you can add to your click-tracking URLs.
 exl-id: df53bb8c-63ad-47f9-af44-57bd4bd58d71
 feature: Search Tracking
+TQID: https://experienceleague.adobe.com/6T2yZGYK-Mp97D0YRqPoS7Qyb5gp8jX-boK6KQjHB2E
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Optional tracking parameters for click-tracking URLs
 

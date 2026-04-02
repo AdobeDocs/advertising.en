@@ -1,8 +1,18 @@
 ---
-title: '[!UICONTROL Ad Variation Report]'
+title: "[!UICONTROL Ad Variation Report]"
 description: Learn about the [!UICONTROL Ad Variation Report].
 exl-id: e12f2dee-b430-444f-9204-73fed4e33e29
 feature: Search Reports, Search Basic Reports
+TQID: https://experienceleague.adobe.com/9elU8xOtxiLurZdMaOIS077fFH8MtWF1bVx-RtVrMYg
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!UICONTROL Ad Variation Report]
 

@@ -3,6 +3,16 @@ title: Manage [!DNL Google Ads] callout extensions
 description: Learn how to create and manage [!DNL Google Ads] callout extensions.
 exl-id: b1be553e-49a1-47b8-8dd2-84db56fa249e
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/Nb5xgWsDs-7L9krhFqtrD1um1KmbUPlBGUSv-DLiHKY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manage [!DNL Google Ads] shared callout extensions
 

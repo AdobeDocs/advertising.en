@@ -3,6 +3,30 @@ title: Adobe Advertising ad requirements policy
 description: See the policy for ad requirements.
 feature: Policies, DSP Ads
 exl-id: 217cce8e-3bb3-407a-a05e-7fff2978eac8
+TQID: https://experienceleague.adobe.com/Od9i55zraQgaZGD1iWLFX6CcfXnUqCsrHQHt58tiHfU
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: b2025470-04ef-4dd9-bdd4-44407644aeb6
+    internal-label: Compliance
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: bc1ebc31-ef28-453d-ab0e-79fb34941421
+    internal-label: Policies
+  - id: d9510790-d834-436d-8423-8d69cd50464a
+    internal-label: DSP Ads
+  - id: fcb67316-5ddd-4bee-82b6-d36475c67b56
+    internal-label: Privacy
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Adobe Advertising ad requirements policy
 

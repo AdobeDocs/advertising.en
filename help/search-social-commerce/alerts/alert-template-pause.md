@@ -3,6 +3,16 @@ title: Pause a custom alert template
 description: Learn how to pause an active alert template.
 exl-id: c0ce222d-5478-467b-abe2-bb0fc4906160
 feature: Search Alerts
+TQID: https://experienceleague.adobe.com/KeCTZl9wyvTVo8f-QMACUQ0UAZDmadi5bdc8ZhDAIF4
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Pause a custom alert template
 
