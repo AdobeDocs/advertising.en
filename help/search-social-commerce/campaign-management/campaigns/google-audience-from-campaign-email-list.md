@@ -3,6 +3,16 @@ title: Create a [!DNL Google Ads] customer match audience from an Adobe Campaign
 description: Learn how to create a [!DNL Google Ads] customer match audience from an existing Adobe Campaign email list.
 exl-id: 92812af2-ac31-48cd-badf-ea287799bddb
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/tEiqvHt1QzxhstsKGUsvKGgwm1JYIkv7mGr-Z8kPd0g
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Create a [!DNL Google Ads] customer match audience from an Adobe Campaign email list
 

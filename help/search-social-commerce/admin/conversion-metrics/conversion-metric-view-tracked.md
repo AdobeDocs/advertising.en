@@ -3,6 +3,13 @@ title: View the conversion metrics tracked for an advertiser
 description: Learn how to view a list of the conversion metrics tracked for an advertiser.
 feature: Conversions
 exl-id: 7c9e2271-4127-4d43-aff8-5a2788bfe60f
+TQID: https://experienceleague.adobe.com/KLE8V8uHqBH4-KzsG-uYQ6nvZWY1YKY9Q0ZotIZ4xq0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # View the conversion metrics tracked for an advertiser
 

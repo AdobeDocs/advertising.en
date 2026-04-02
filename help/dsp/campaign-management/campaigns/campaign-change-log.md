@@ -3,6 +3,19 @@ title: View a campaign change log
 description: Learn how to view changes made to the campaign.
 feature: DSP Campaigns
 exl-id: ba96a277-937a-4475-bab6-6e0a4f5ced13
+TQID: https://experienceleague.adobe.com/7cil2OV6waifHmeWbITQG9Qa8Rk6OdsWpMzHpBWpn8k
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: b01c7841-b9d0-4fd5-8458-a6a6f601ad3d
+    internal-label: DSP Campaigns
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # View the change log for a campaign
 

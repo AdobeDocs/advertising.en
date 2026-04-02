@@ -1,8 +1,15 @@
 ---
-title: '[!DNL Microsoft Advertising] product group settings'
+title: "[!DNL Microsoft Advertising] product group settings"
 description: Reference the settings for [!DNL Microsoft Advertising] shopping product groups.
 exl-id: ea3a4137-1396-430f-9d6c-8e1e1f1f52c2
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/xbYc0Xe-FsgGq-jqZdzZ4Rj877BL6NCxb4utaEMmCdY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!DNL Microsoft Advertising] product group settings
 

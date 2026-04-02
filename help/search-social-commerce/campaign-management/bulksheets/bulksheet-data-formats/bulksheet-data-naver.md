@@ -3,6 +3,13 @@ title: Required bulksheet data for [!DNL Naver] accounts
 description: Reference the required header fields and data fields in bulksheets for [!DNL Naver] accounts.
 exl-id: 1bfcdbb6-8026-4230-ab6b-b7c79b0d185a
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/w87Fs-VxlSzJr-eakgPsqVVeHuufeytp3pMQ8n9LCMg
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Appendix - Required bulksheet data for [!DNL Naver] accounts
 

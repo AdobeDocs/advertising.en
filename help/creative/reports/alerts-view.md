@@ -3,6 +3,16 @@ title: View alerts
 description: Learn how to view alerts and recommended resolutions for your experiences.
 feature: Creative Experiences
 exl-id: faea1b1f-62f5-4277-acc4-6d99cf166906
+TQID: https://experienceleague.adobe.com/Urf5XnCRFNYEUyost27hI3upY0UYflTk0-G0kO-egms
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # View alerts
 

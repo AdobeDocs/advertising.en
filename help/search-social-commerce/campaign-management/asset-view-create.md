@@ -3,6 +3,13 @@ title: View and create ad assets from your [!UICONTROL Asset Library]
 description: Learn how to view and create reusable image, video, and text assets for your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries.
 feature: Search Campaign Management
 exl-id: dd6fc5bf-3e3e-4e8f-b20b-37b9311fcf9f
+TQID: https://experienceleague.adobe.com/8dYDiQr2TaX19uvghunW89MnrpAdds3-se4XdWyboIk
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # View and create ad assets from your [!UICONTROL Asset Library]
 

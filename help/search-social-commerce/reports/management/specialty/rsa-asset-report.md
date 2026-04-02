@@ -1,8 +1,20 @@
 ---
-title: '[!UICONTROL RSA Asset Report]'
+title: "[!UICONTROL RSA Asset Report]"
 description: Learn about the [!UICONTROL RSA Asset Report].
 exl-id: 6582c837-9521-479f-bae0-782e4c404ba2
 feature: Search Reports, Search Specialty Reports
+TQID: https://experienceleague.adobe.com/LFVOA4WE-h-vSl6z-YQjFrGIgwHxTq82ie1kENXbb4Y
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!UICONTROL RSA Asset Report]
 

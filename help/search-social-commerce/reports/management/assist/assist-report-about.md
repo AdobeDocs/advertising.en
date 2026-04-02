@@ -3,6 +3,16 @@ title: About assist reports
 description: Learn about reports that provide insights into conversion paths.
 exl-id: 0962c8b1-0116-480a-8253-4e8488fec77c
 feature: Search Reports, Search Assist Reports
+TQID: https://experienceleague.adobe.com/dLbcQJUfyS6mDTWvujCrizdO57nXSEaMAek7hup3rlE
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # About assist reports
 

@@ -3,6 +3,13 @@ title: Generate a click-tracking URL
 description: Learn how to manually generate a Search, Social, & Commerce click-tracking URL.
 exl-id: 43a36869-146a-4c5f-b4f2-eddfb856480b
 feature: Search Tools, Search Tracking
+TQID: https://experienceleague.adobe.com/RqD0SAUXXlSNvMUJFgrjspFoGjpJHmx0ThZGAHFFdi0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Generate a Search, Social, & Commerce click-tracking URL using the Tracking URLs tool
 
