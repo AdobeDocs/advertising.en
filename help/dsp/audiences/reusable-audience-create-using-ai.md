@@ -12,8 +12,6 @@ exl-id: 82c9f122-2bdd-409f-a4d6-1da21ecbe913
 
 *Support for English only*
 
-<!-- I thought it was all segment types? -->
-
 <!-- Redo the legacy file to include the new info. It's probably cleanest to keep it as two separate procedures (gen AI and manually) rather than one big, long procedure. -->
 
 Use the AI-assisted audience agent to generate new reusable audiences using all third-party segments that are available to you, according to your stated requirements. You can use your audiences as targets or exclusions for multiple placements.
@@ -46,17 +44,17 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
       For more information, see "[Writing prompts](#writing-prompts)" and "[Best practices for creating an audience brief](#audience-brief-best-practices)."
 
-      As the audience agent finds relevent segments, it creates an audience expression based on your criteria. It also asks for your approval before looking for matching segments to assemble the audience.
+      As the audience agent finds relevent segments, it creates a Boolean audience expression based on your criteria. It also asks for your approval before looking for matching segments to assemble the audience.
 
       You can optionally ignore the request and continue to specify additional audience criteria instead.
 
    1. When the audience agent presents an audience expression that adequately describes your audience, tell the audience agent to proceed with assembling the audience.
 
-      You can enter "proceed," "okay," "ok," "yes", or another similar word. 
+      You can enter "proceed," "okay," "ok," "yes", or another similar word. The agent lists all suggested segments for each trait (such as "Parents"). Expand any trait to see details about the individual segments suggested for that trait.
 
    1. (If necessary) Specify additional criteria. When the audience agent presents an audience expression that meets all of your criteria, tell the audience agent to proceed with assembling the audience.
 
-      To assemble the audience, enter "proceed," "okay," "ok," "yes", or another similar word.
+      To assemble the audience, enter "proceed," "okay," "ok," "yes", or another similar word. The agent lists all suggested segments for each trait (such as "Parents"). Expand any trait to see details about the individual segments suggested for that trait.
 
 1. When you're satified with the assembled audience, click **[!UICONTROL Create]** to create the specified audience.
 
