@@ -98,13 +98,41 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
   * **Moderate impact**
   * **Limited impact:** Needs attention
 
-## Open performance insights
+### [!UICONTROL Audience Analysis] tab
 
-* (To open insights for all campaigns) In the main menu, click **[!UICONTROL Insights BETA]**.
+The [!UICONTROL Audience Analysis] tab provides real-time insights into the effective of your audience segment targeting at the placement level. It includes segment size trends over time and a daily bidding funnel breakdown. Use these insights to monitor the stability of your target audience pool and to identify where volume is being lost between audience matching and impression delivery. Data is available only for placements that target audience segments.
 
-* (To open insights for a specific campaign, package, or placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Insights]**.
+By default, data is shown for a specific advertiser and a specific placement. You can optionally configure filters to show data for a different advertiser or select a different placement.
 
-* (To open insights for a specific placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Analyze]** > **[!UICONTROL Insights]** .
+The insights include:
+
+* **[!UICONTROL Audience Segment Size Trends]:** A trend chart shows the daily count of unique users across all audience segments for a placement. Use this chart to monitor whether your target audience is growing, stable, or contracting over time. A sustained decline may indicate that segments are expiring or shrinking and may require refreshed segment data or expanded targeting.
+
+  To see the exact user count and date for a specific data point, hold the cursor over the point.
+
+* **[!UICONTROL Audience Funnel Analysis]:**  A daily time-series table that shows how your target audience narrows from the total available pool to actual impression wins after all targeting and eligibility filters are applied. Data is shown for the previous day. The funnel includes the following metrics, in order from broadest to narrowest:
+
+  * **[!UICONTROL Audience Segment Size]:** The total number of unique users in the aggregated audience.
+  
+  * **[!UICONTROL Cookies in Bid Stream]:** The number of users from the target audience who were active in the bid stream during the previous 24-hour period. This count includes every user in scope, whether or not the placement bid on them. A decrease from the [!UICONTROL Total Target Audience] to the [!UICONTROL Reachable Audience] reflects the portion of the audience that wasn't active in the bid stream during the reporting period, which is not a reflection of bidding performance.
+
+  * **[!UICONTROL Eligible cookies]:** The subset of reachable users that remain after geo, device type, operating system, and browser filters are applied. If this number is significantly lower than [!UICONTROL Reachable Audience], then consider reviewing whether your geo or device type targeting is too restrictive.
+  
+  **[!UICONTROL Cookies Bid On]:** The number of eligible opportunities for which the placement submitted a bid. A sharp drop at this stage may indicate budget or pacing constraints that are limiting bid volume.
+
+  * **[!UICONTROL Impression Wins]:** The number of opportunities for which the placement won an impression. If wins are much lower than bids, then your bid price may be below the prevailing market rate for the targeted inventory.
+
+## View performance insights
+
+1. Open a set of insights:
+
+   * (To open insights for all campaigns) In the main menu, click **[!UICONTROL Insights BETA]**.
+
+   * (To open insights for a specific campaign, package, or placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Insights]**.
+
+   * (To open insights for a specific placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Analyze]** > **[!UICONTROL Insights]** .
+
+1. (Optional) To view data for any point on the 
 
 ## Apply filters to a tab
 
@@ -116,13 +144,17 @@ The [!UICONTROL Household Conversion] tab provides household conversion metrics 
 
 1. Click **[!UICONTROL Apply]**.
 
-1. (Optional) To narrow down the data further, select the entity type in the toolbar, and then select a specific entity value (a single campaign, package, or placement).
+1. (Optional) To narrow down the data further, select the dimension type in the toolbar, and then select a specific dimension (a single campaign, package, or placement).
+
+1. ([!UICONTROL Audience Funnel Analysis] only; optional) To change the time increments between daily and weekly, select **[!UICONTROL Day]** or **[!UICONTROL Week]**.
 
 ## Change the dimension reported for an insight
 
 * From the drop-down menu to the upper left of the insight, select the dimension.
 
 ## Change the metrics reported for an insight
+
+*Available for some insights*
 
 For conversion metrics, support is available for both Adobe Advertising-tracked and Adobe Analytics-tracked conversions.
 
@@ -132,7 +164,7 @@ For conversion metrics, support is available for both Adobe Advertising-tracked 
 
 ## Export all visualizations for a tab to a PDF file
 
-* Above the tab, click **[!UICONTROL ...]** > **[!UICONTROL Export]**.
+* In the upper right above the tab, click **[!UICONTROL ...]** > **[!UICONTROL Export]**.
 
   The file is saved to your browser's default Downloads folder.
 
@@ -141,6 +173,11 @@ For conversion metrics, support is available for both Adobe Advertising-tracked 
 * To the upper right of the insight, click ![Download](/help/creative/assets/download.png "Download").
 
   The file is saved to your browser's default Downloads folder.
+
+<!-- 
+Add:
+## Save a custom view for a tab
+-->
 
 >[!MORELIKETHIS]
 >
