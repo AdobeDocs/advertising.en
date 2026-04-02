@@ -3,6 +3,13 @@ title: Edit a custom metric
 description: Learn how to edit custom metrics, which are calculated from standard metrics.
 exl-id: 89271cd6-0a9d-49b7-9fd3-8c9b77e55e5a
 feature: Search Common Tasks, Search Custom Metrics
+TQID: https://experienceleague.adobe.com/-6htSyDSlL0jGtxyrZKPv96dlPCbuSx9n3NBvX8mHuY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Edit a custom metric
 

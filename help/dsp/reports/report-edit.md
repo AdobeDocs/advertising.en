@@ -3,6 +3,19 @@ title: Edit a custom report
 description: Learn how to edit Custom report settings.
 feature: DSP Custom Reports
 exl-id: 42208276-d766-41c8-a764-c79a20e302e6
+TQID: https://experienceleague.adobe.com/qixYCxbd0USChamHh4ib9fq1atTHxa1Kupp3P7QBBz8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: cc3b7f3c-58f0-4ba4-b808-391002930fd4
+    internal-label: DSP Custom Reports
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Edit a custom report
 

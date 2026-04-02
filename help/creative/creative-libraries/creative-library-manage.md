@@ -3,6 +3,13 @@ title: Manage your creative libraries
 description: Learn how to create, rename, and delete your creative libraries.
 feature: Creative Libraries
 exl-id: d8b802c7-a6e9-4135-a4de-fb482c72d044
+TQID: https://experienceleague.adobe.com/W91cDnClbrELWT6Mm8gSIhKSTRhTjoT0w-SC20OG4M0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manage your creative libraries
 

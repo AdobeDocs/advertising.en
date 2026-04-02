@@ -3,6 +3,19 @@ title: Review and edit ad details using bulksheets
 description: Learn how to review ad settings in bulk using spreadsheets.
 feature: DSP Ads
 exl-id: a223d4e1-2264-49fa-8579-817e7ea6ea56
+TQID: https://experienceleague.adobe.com/88Pu031rvTeHdahpICwLw-J4h33Eaji0Gzir4Wbr0Qk
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: d9510790-d834-436d-8423-8d69cd50464a
+    internal-label: DSP Ads
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Review and edit ad details using bulksheets
 

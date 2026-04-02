@@ -3,6 +3,13 @@ title: Download creatives
 description: Learn how to download a creative as a ZIP file.
 feature: Creative Standard Creatives
 exl-id: 6507d472-be25-4f20-a32e-ad73250d78d4
+TQID: https://experienceleague.adobe.com/fimemKnshKpVtpN18VxDiDtPtCwUSkZnPrdG9zVQOmY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Download creatives
 

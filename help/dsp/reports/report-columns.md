@@ -3,6 +3,22 @@ title: Available report columns
 description: See descriptions of available columns in custom reports.
 feature: DSP Custom Reports
 exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
+TQID: https://experienceleague.adobe.com/xFQ-Qf74tmXr4qCwTD7MXnsvypjepRuP1MJP3ytCKv0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: cc3b7f3c-58f0-4ba4-b808-391002930fd4
+    internal-label: DSP Custom Reports
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Available report columns
 

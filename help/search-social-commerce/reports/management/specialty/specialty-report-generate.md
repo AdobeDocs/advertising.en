@@ -3,6 +3,16 @@ title: Generate a specialty report
 description: Learn how to generate a specialty report.
 exl-id: 2428fafa-109a-4a17-9004-a32941cd5519
 feature: Search Reports, Search Specialty Reports
+TQID: https://experienceleague.adobe.com/07Y3trfC76LSKTfxMQig34wXASS1noGms2QHl3dEA1s
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Generate a specialty report
 

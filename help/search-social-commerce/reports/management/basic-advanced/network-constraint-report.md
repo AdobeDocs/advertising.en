@@ -1,8 +1,18 @@
 ---
-title: '[!UICONTROL Network Constraint Report]'
+title: "[!UICONTROL Network Constraint Report]"
 description: Learn about the [!UICONTROL Network Constraint Report].
 exl-id: ab908d86-2d37-476c-b2ac-f74c2f3a9a6d
 feature: Search Reports, Search Basic Reports
+TQID: https://experienceleague.adobe.com/AluSzqEjEoZxnl4Qx7MG2wk7A3NsnsDAKpJ2kU6z0Bk
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!UICONTROL Network Constraint Report]
 

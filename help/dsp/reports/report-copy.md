@@ -3,6 +3,19 @@ title: Duplicate a custom report
 description: Learn how to create a custom report by duplicating an existing report.
 feature: DSP Custom Reports
 exl-id: 20542bf8-69e9-44e0-9637-56b27f2de9ec
+TQID: https://experienceleague.adobe.com/4gKEO3qrFofFPlLv1OXF46sncIRmleWcTrwWXe90AMo
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: cc3b7f3c-58f0-4ba4-b808-391002930fd4
+    internal-label: DSP Custom Reports
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Duplicate a custom report
 

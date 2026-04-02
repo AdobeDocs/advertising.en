@@ -3,6 +3,13 @@ title: Re-sort a column
 description: Learn how to re-sort columns.
 exl-id: 934e1f7e-a34d-4973-8219-27876cf50f0f
 feature: Search Common Tasks, Search Custom Data Views
+TQID: https://experienceleague.adobe.com/WtZnf3oOnEj1W5yFnqODnel-tKZy5d9NFqJjtHDZOVE
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Re-sort a column
 

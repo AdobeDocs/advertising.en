@@ -3,6 +3,16 @@ title: Generate a basic report or advanced report
 description: Learn how to generate a customized basic or advanced report.
 exl-id: 529a35f5-517f-4bde-b752-c0afc6346f4b
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
+TQID: https://experienceleague.adobe.com/xYP-ycQv4SzdOS4tLyOEsQQdwSw38yXS0JYqHk7GJR8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Generate a basic report or advanced report
 

@@ -3,6 +3,19 @@ title: Customize creative optimization and scheduling for an experience
 description: Learn how to configure optimization and ad scheduling for experiences without targeting.
 feature: Creative Experiences
 exl-id: 9398df69-6a48-4b72-8c5c-a79341bf3b8a
+TQID: https://experienceleague.adobe.com/h1LkoqSvnGN24h9Vs-na17q-Ey6JJBOrssM6hOtmoWw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Customize creative optimization and scheduling for an experience without decision tree targeting
 

@@ -3,6 +3,13 @@ title: Set up an FTP account for uploading bulksheets
 description: Learn how to request an FTP account for uploading bulksheet files.
 exl-id: c8c70638-10ea-476c-8b02-921adb091ef9
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/VBIFLPV-BiCWFrqmwuNGmsx5xgXU80RfnouM1p4VnrY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Set up an FTP account for uploading bulksheets
 

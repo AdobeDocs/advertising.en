@@ -1,8 +1,15 @@
 ---
-title: '[!DNL Microsoft Advertising] responsive ad settings'
+title: "[!DNL Microsoft Advertising] responsive ad settings"
 description: Reference the settings for [!DNL Microsoft Advertising] responsive ads.
 exl-id: 29404500-d929-4683-be71-150ea8ab805d
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/K4R8gmgxfaMP0JdZiz4RkZkfC6-0T2BsyxpcwK-X3bQ
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!DNL Microsoft Advertising] responsive (audience) ad settings
 

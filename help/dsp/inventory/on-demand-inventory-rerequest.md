@@ -3,6 +3,19 @@ title: Re-request [!DNL On Demand] premium inventory deals
 description: Learn how to re-request [!DNL On Demand] deals that were previously denied.
 feature: DSP On Demand Inventory
 exl-id: 8b28ca37-5fe8-445e-8210-1b81945bbacc
+TQID: https://experienceleague.adobe.com/trhZ41T-0-Qo3ye-HKCn99kvyGqtOnVG9bnCshaamjU
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: fbfa676f-2cdb-49be-b949-f2fab1be6daf
+    internal-label: DSP On Demand Inventory (Advertising)
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Re-request [!DNL On Demand] premium inventory deals
 

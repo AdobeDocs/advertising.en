@@ -3,6 +3,16 @@ title: Bulksheet data for [!DNL Yahoo! Japan] accounts
 description: Reference the header fields and data fields in downloaded bulksheets for [!DNL Yahoo! Japan] accounts.
 exl-id: 78eb41ce-3854-454c-adf2-ba0339e2aef7
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/HghB6y4AbEXvI6IrJhdxm-rpg69-ozYTIHRcPDoQ5jA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Appendix - Bulksheet data for [!DNL Yahoo! Japan] accounts
 

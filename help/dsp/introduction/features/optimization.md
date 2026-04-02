@@ -3,6 +3,22 @@ title: Optimization
 description: Learn more about optimization features.
 feature: DSP Introduction, DSP Optimization
 exl-id: c60e58e7-ab16-49bd-9acf-e5b858755493
+TQID: https://experienceleague.adobe.com/1fBXdRXYBTamDhp5Et8HR8t2nXPg24VZzuwpMab1eJ4
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: af280ddc-b4d0-4416-86be-8f3ea3c6ebe7
+    internal-label: DSP Optimization
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Optimization
 

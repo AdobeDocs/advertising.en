@@ -3,6 +3,19 @@ title: Keyboard shortcuts
 description: Reference the keyboard shortcuts available within placement settings.
 feature: DSP Placements
 exl-id: d1711166-8f20-4641-a1f5-c865a40ad387
+TQID: https://experienceleague.adobe.com/W9csfJ-c6BmvUfL5u9I3mLRonCFefSU3bi7QY4q1ueo
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: a4886037-b6d8-40e1-aeab-edeb7649d7d3
+    internal-label: DSP placements
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Keyboard shortcuts
 

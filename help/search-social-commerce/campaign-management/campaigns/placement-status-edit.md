@@ -3,6 +3,13 @@ title: Change the status of placements and negative placements
 description: Learn how to change the status of placements and negative placements for [!DNL Google Ads].
 exl-id: 3c54a80e-6f4c-4936-97b1-67ac8de24830
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/-V9u4kusa44SSH95feX1PKCrVTyxWfTX96KBqU4UtZg
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Change the status of [!DNL Google Ads] placements and negative placements
 

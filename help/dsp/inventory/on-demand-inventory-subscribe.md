@@ -3,6 +3,19 @@ title: Subscribe and request access to [!DNL On Demand] premium inventory deals
 description: Lean how to subscribe to, and request access to,[!DNL On Demand] deals.
 feature: DSP On Demand Inventory
 exl-id: 7f23f989-3c96-475e-9f49-aa9098d24c17
+TQID: https://experienceleague.adobe.com/k3uCoU7U-K-TfHrlpFPn8XYtb-Vk5XWwmxCXby57tKs
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: fbfa676f-2cdb-49be-b949-f2fab1be6daf
+    internal-label: DSP On Demand Inventory (Advertising)
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Subscribe and request access to [!DNL On Demand] premium inventory deals
 

@@ -3,6 +3,16 @@ title: Manage customer match audiences using customer data lists
 description: Learn how to create and edit [!DNL Google Ads] and [!DNL Microsoft Advertising] customer match audiences from your customer data lists.
 exl-id: 594a7ee0-4ac9-4970-b53e-d4624fd7b70c
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/XoDGbJAFowx-KX0hWQH4XoFrc0R2YiftT-mN6f4KWDE
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Manage [!DNL Google Ads] and [!DNL Microsoft Advertising] customer match audiences using customer data lists
 
