@@ -1,0 +1,27 @@
+---
+title: "[!DNL Google Ads] conversion value rule settings"
+description: Reference the settings for [!DNL Google Ads] conversion value rules.
+---
+# [!DNL Google Ads] conversion value rule settings
+
+<!-- Go through all -->
+
+| Section | Parameter | Description |
+|---|---|---|
+| [!UICONTROL Select Campaign] | [!UICONTROL Network] | The ad network. |
+| | [!UICONTROL Account] | The ad network account. |
+| | [!UICONTROL Campaign] | The ad campaign. |
+| [!UICONTROL Conditions] > [!UICONTROL Primary Condition] | \[Condition Type\] | (Read-only for existing rules) The type of condition that must be met to trigger a value adjustment:<ul><li>**Device:** To target all or specific device types.</li><li>**Location:** To target all countries and territories or target and exclude specific locations.</li><li>**Audiences:** To target all or specific audiences</li></ul>**Note:** All rules in an account must use the same type of primary and (optional) secondary conditions. For example, if Rule 1 includes the primary condition "Audience" and the secondary condition "Location," then all other rules in the account must have the primary condition "Audience." When the other rules include a secondary condition, it must be "Location." |
+| | Condition Type > Device | (Device conditions only) Which device types to target:<ul><li>**All devices** &mdash; To target all device types.</li><li>**Select devices** &mdash; To specify one or more device types to target: **Desktop**, **Mobile**, and **Tablet**.</li></ul>Within a condition, multiple targets are joined using the Boolean operator OR, so that any option may be met to initiate a value adjustment. Example:  If \[Device is Mobile OR Tablet\], then Add 1.5. |
+| | Condition Type > Location | (Location conditions only) The location targets and exclusions:<ul><li>**All countries and territories** &mdash; To target all countries and locations or target and exclude specific locations.</li><li>**Enter a location** &mdash; To target and exclude specific locations.</li></ul><ul><li>To expand a location or sublocation, click > after the name.</li><li>To add a target, select the target once to show a green check mark.</li><li>To exclude a target, select the target a second time to show a red **[!UICONTROL X]**.</li><li>To remove a target or exclusion, do either of the following:<ul><li>Click ![Delete](/help/search-social-commerce/assets/delete.png "Delete") next to the item in the [!UICONTROL Selections] column.</li><li>Select the target until no check mark or [!UICONTROL X] appears.</li></ul></li></ul>Within a condition, multiple targets or exclusions are joined using the Boolean operator OR, so that any option may be met to initiate a value adjustment. Example:  If \[Location is Algeria OR Tunisia\], then Add 1.5. |
+| | Condition Type > Audience | (Audience conditions only) The audience targets:<ul><li>**All audience segments** &mdash; To target all [!DNL Google Ads] audience segments.</li><li>**Enter audience segments** &mdash; To target specific [!DNL Google Ads] audience segments.</li></ul><ul><li>To expand a category or subcategory into its segments, click > after the name.</li><li>To add a target, select the target.</li><li>To remove a target, deselect the target or click ![Delete](/help/search-social-commerce/assets/delete.png "Delete") next to the item in the Selection column.</li></ul>Within a condition, multiple targets or exclusions are joined using the Boolean operator OR, so that any option may be met to initiate a value adjustment. Example:  If \[Audience is Bargain Travelers OR Family Vacationers\], then Add 1.5.<br><br>**Note:** Once you save an audience target, you can add additional audiences but can't remove them outside of the [!DNL Google Ads] editor. If you need to remove an audience target, log directly into [!DNL Google Ads] and use the [!DNL Google Ads] editor. |
+| Conditions > Secondary Condition | | (Optional; read-only for existing rules) The type of condition that must be met to trigger a value adjustment. When you include a secondary condition, the secondary condition is joined to the primary condition using the Boolean operator ALL, so that both conditions must be met to initiate a value adjustment. Example: If \[Location is Algeria OR Tunisia\] AND \[Device is Mobile OR Tablet\], then Add 1.5.<br><br>See the entries for Primary Condition for descriptions.<br><br>**Note:** All rules in an account must use the same type of primary and (optional) secondary conditions. For example, if Rule 1 includes the primary condition "Audience" and the secondary condition "Location," then all other rules in the account must have the primary condition "Audience." When the other rules include a secondary condition, it must be "Location." |
+| Value Adjustment | Value | Specify the adjustment type, and then enter a positive value:<ul><li>**Add** &mdash; Adds the specified value to the conversion value that is passed. The value must be greater than zero (0).</li><li>**Multiply** &mdash; Multiplies the conversion value that is passed by the specified value. The value must be from 0.5 to 10.</li></ul> |
+
+>[!MORELIKETHIS]
+>
+>* [About [!DNL Google Ads] conversion value rules](about-google-conversion-value-rules.md)
+>* [Create a [!DNL Google Ads] conversion value rule](create-google-conversion-value-rule.md)
+>* [Edit a [!DNL Google Ads] conversion value rule](edit-google-conversion-value-rule.md)
+>* [Change the status of a [!DNL Google Ads] conversion value rule](change-the-status-of-google-conversion-value-rule.md)
+

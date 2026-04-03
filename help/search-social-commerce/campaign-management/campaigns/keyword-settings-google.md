@@ -20,7 +20,7 @@ topic_v2:
 
 You can create keywords for campaigns that use the search and display networks.
 
-See the Google Ads help for [keyword limits per account](https://support.google.com/google-ads/answer/6372658). 
+See the [!DNL Google Ads] help for [keyword limits per account](https://support.google.com/google-ads/answer/6372658). 
 
 ## [!UICONTROL Keyword Details]
 

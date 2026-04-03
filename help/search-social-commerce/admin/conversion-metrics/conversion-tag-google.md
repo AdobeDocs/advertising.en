@@ -44,7 +44,7 @@ Once you add the tags to your website and they begin firing, [!DNL Google Ads] r
 
 ## Conversion tag settings {#conversion-tag-settings-google}
 
-**[!UICONTROL Select an Account]:** The applicable Google Ads account.
+**[!UICONTROL Select an Account]:** The applicable [!DNL Google Ads] account.
 
 **[!UICONTROL Type of Conversion]:** The type of conversion to track: *[!UICONTROL Click on a webpage element]*, *[!UICONTROL Calls to a phone number on your website]*, or *[!UICONTROL Clicks to your number on your mobile website]*. **Note:** *[!UICONTROL Import conversion]* is used for a different purpose; see "[Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)."
 

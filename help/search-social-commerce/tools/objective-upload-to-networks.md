@@ -36,7 +36,7 @@ Uploads to [!DNL Google Ads] and [!DNL Microsoft Advertising] occur throughout t
 
 >[!IMPORTANT]
 >
->Conversions tracked by Google Ads and by the Microsoft Advertising universal event tracking (UET) tag aren't re-uploaded to the ad networks. If you include them within an objective, you must add them to the campaign goals within the ad network's editor.
+>Conversions tracked by [!DNL Google Ads] and by the [!DNL Microsoft Advertising] universal event tracking (UET) tag aren't re-uploaded to the ad networks. If you include them within an objective, you must add them to the campaign goals within the ad network's editor.
 
 1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]**.
 
