@@ -3,6 +3,22 @@ title: Universal video ad settings
 description: See descriptions of the available ad settings for universal video ads.
 feature: DSP Ads
 exl-id: 51b7d632-1e73-4726-980b-07ed50447146
+TQID: https://experienceleague.adobe.com/el77W69kVO-3vFRPR5pT62NCm35IHlABo-sUvEcVnRI
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: d9510790-d834-436d-8423-8d69cd50464a
+    internal-label: DSP Ads
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
 ---
 # Universal video ad settings
 
@@ -46,7 +62,7 @@ exl-id: 51b7d632-1e73-4726-980b-07ed50447146
 
 **[!UICONTROL Video Format]:** The format of the ad player for potential inventory: *[!UICONTROL VPAID]*, *[!UICONTROL VPAID & VAST]*, or *[!UICONTROL VAST]*. Viewability is always measured for [!UICONTROL VPAID], but [!UICONTROL VPAID & VAST] includes inventory that doesn't allow viewability measurement. Consider this distinction if viewability metrics are important to your campaign.
 
-Use [!UICONTROL VAST], which doesn't allow viewability measurement, when you target connected TV or inventory that strictly requires VAST format only (usually from supply sources like Google Ad Manager, Appnexus, SpotX, and Freewheel). Also use this option for inventory that was previously compatible with Standard Pre-roll (VAST) or Phone + Tablet Standard Pre-roll (VAST) placements/ads.
+Use [!UICONTROL VAST], which doesn't allow viewability measurement, when you target connected TV or inventory that strictly requires VAST format only (usually from supply sources like Google Ad Manager, Appnexus, SpotX, and FreeWheel). Also use this option for inventory that was previously compatible with Standard Pre-roll (VAST) or Phone + Tablet Standard Pre-roll (VAST) placements/ads.
 
 **[!UICONTROL Clock Number]**: (Used only in the United Kingdom; available only to users with permission) A unique identifier used to ensure that the right ad is broadcast. If this setting isn't applicable, leave it blank.
 

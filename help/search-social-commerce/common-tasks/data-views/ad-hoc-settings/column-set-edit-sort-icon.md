@@ -3,6 +3,13 @@ title: Edit and sort the column set from the [!UICONTROL Custom Columns] icon
 description: Learn how to change the visible columns using the column customizer.
 exl-id: bc03b53f-179a-426f-bc31-20be25915506
 feature: Search Common Tasks, Search Custom Data Views
+TQID: https://experienceleague.adobe.com/LLIbApYJXT6AZ4m7VpcJAzED1nevloYNhFyzZGUx-DI
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Edit and sort the column set from the [!UICONTROL Custom Columns] icon
 

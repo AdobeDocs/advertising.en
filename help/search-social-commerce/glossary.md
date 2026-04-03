@@ -3,6 +3,18 @@ title: Glossary
 description: See definitions of key terms.
 exl-id: 87ce61b5-8340-4a6b-bd98-89ef73b2a9d8
 feature: Search Introduction
+TQID: https://experienceleague.adobe.com/aJc98oWlKlYx5ROezUwJsIsw46xcad1rKQTqoXhyggw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Glossary {#glossary}
 
@@ -12,7 +24,7 @@ feature: Search Introduction
 
 **ad variation:** Any ad within an ad group or ad strategy.
 
-**[AMO ID](/help/integrations/analytics/ids.md#amo-id):** A tracking code that allows Adobe Advertising to share data about campaigns with Adobe Analytics and Adobe Customer Journey Analytics. It begins with `s_kwcid=`.
+**[AMO ID](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id):** A tracking code that allows Adobe Advertising to share data about campaigns with Adobe Analytics and Adobe Customer Journey Analytics. It begins with `s_kwcid=`.
 
 **bid unit:** A Search, Social, & Commerce term for a unit on which bids are placed.
 
@@ -82,6 +94,8 @@ feature: Search Introduction
 
 **eCPM:** The effective CPM, or the average cost paid per 1000 impressions during a specified date range. eCPM values can be calculated for either CPM or CPC campaigns.
 
+**[EF ID](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-ef-id):** A tracking code that allows Adobe Advertising to associate activity with an online click or ad exposure and share data about campaigns with Adobe Analytics and Adobe Customer Journey Analytics.
+
 ## G-H {#g-h}
 
 **half-life:** The time required for a quantity to decrease to half of its initial value. For each portfolio, you can specify half-lives to indicate how long data is relevant for cost models and revenue models. 
@@ -93,7 +107,7 @@ See "cost model half-life" and "revenue model half-life."
 
 **impression lookback window:** (Display and social campaigns only) An advertiser-level setting that specifies the number of days after an ad impression occurs that the impression can be attributed to a conversion.
 
-**impression override weight:** A specified percentage of a conversion value to attribute to impressions that occur within the client’s impression lookback window when the conversion is preceded by both paid clicks and impressions. When a conversion is preceded only by impressions, the advertiser's view-through weight, rather than the impression override weight, is applied to the impressions.
+**impression override weight:** A specified percentage of a conversion value to attribute to impressions that occur within the client's impression lookback window when the conversion is preceded by both paid clicks and impressions. When a conversion is preceded only by impressions, the advertiser's view-through weight, rather than the impression override weight, is applied to the impressions.
 
 ## K-L {#k-l}
 

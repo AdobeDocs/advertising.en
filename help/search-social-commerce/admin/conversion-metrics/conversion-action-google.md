@@ -3,6 +3,16 @@ title: Create a conversion action for a [!DNL Google Ads] enhanced conversion fo
 description: Learn how to create a [!DNL Google Ads] conversion action for an enhanced conversion for leads.
 feature: Conversions
 exl-id: faf4a6de-e82f-4afd-bda5-2602fb45aee5
+TQID: https://experienceleague.adobe.com/KqFHgxjc-4snyo3nf-3-ry6nsyapMPcwKEWvgi-pxGc
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads
 

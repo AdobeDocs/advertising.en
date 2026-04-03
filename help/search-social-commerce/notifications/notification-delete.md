@@ -3,6 +3,16 @@ title: Delete a notification
 description: Learn how to delete a notification.
 exl-id: 242c30dc-7e53-42cb-a027-908f2e53998d
 feature: Search Notifications
+TQID: https://experienceleague.adobe.com/ytheb3KkxI5bQQxh6TMPXNGDRSNKnwOLup8WmJMHjDQ
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Delete a notification
 

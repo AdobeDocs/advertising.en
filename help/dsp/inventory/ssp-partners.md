@@ -3,6 +3,19 @@ title: SSP partners
 description: See a list of available supply-side platform (SSP) and open exchange partners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
+TQID: https://experienceleague.adobe.com/A41OF1vywMSxgMF2hOTD0X4bKjvroZFMzqeCHolkITY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: ac506c20-96f2-48f6-9096-77706e336bda
+    internal-label: DSP Private Inventory
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # SSP partners
 
@@ -35,7 +48,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL ShareThrough]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Global|USD|Display desktop and mobile<br><br>Native display<br><br>Video desktop, mobile, and CTV|
 |[!DNL SmartClip]||Adobe Advertising|&mdash;|EMEA|All Currencies|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL Taboola]||Adobe Advertising|&mdash;|US/CA|USD|Video desktop and mobile|
-|[!DNL Teads]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Outstream Video = Global<br>Display = NA + EMEA|USD|Display desktop and mobile<br><br>Video desktop and mobile|
+|[!DNL Teads]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Outstream Video = Global<br>Display = NA + EMEA|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL TripleLift]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Global|USD|Native display|
 |[!DNL TripleLift Display & Outstream]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Global|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL Triton]||Adobe Advertising|PG support|Global|USD|Audio desktop and mobile|

@@ -3,6 +3,28 @@ title: Using [!DNL Roku] inventory
 description: Learn about DSP's partnership with [!DNL Roku], including inventory options, approved third-party tracking vendors, and best practices for [!DNL Roku]-specific placements.
 feature: DSP On Demand Inventory, DSP Private Inventory
 exl-id: e7a1aa80-d7f0-4a4e-96b1-6b362a32106e
+TQID: https://experienceleague.adobe.com/6CdN1InBGyd9pkECHBITFv1l8JjVdQ6Ot2MUDIAvDjY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: ac506c20-96f2-48f6-9096-77706e336bda
+    internal-label: DSP Private Inventory
+  - id: b01c7841-b9d0-4fd5-8458-a6a6f601ad3d
+    internal-label: DSP Campaigns
+  - id: fbfa676f-2cdb-49be-b949-f2fab1be6daf
+    internal-label: DSP On Demand Inventory (Advertising)
+  - id: fef5c122-6482-4d17-a8ce-4e70b906f1f4
+    internal-label: DSP Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Using [!DNL Roku] inventory
 
@@ -14,18 +36,23 @@ The [!DNL Roku] and DSP partnership matches your [!DNL DSP] audiences to [!DNL R
 
 ## [!DNL Roku] inventory options
 
-You can either a) set up private deal IDs directly with [!DNL Roku] and then enter the deal ID data into DSP or b) visit the [!DNL On Demand] Gallery to subscribe to [!DNL Roku] profiles:
+You can either:
+
+* Set up private deal IDs directly with [!DNL Roku] and then enter the deal ID data into DSP.
+
+* Visit the [!DNL On Demand] gallery to subscribe to [!DNL Roku] profiles:
 
 >[!NOTE]
 >
 >[!DNL Roku] inventory isn't available in open marketplaces and exchanges.
 
-* For your private deals, [set up information about the deal IDs in DSP](/help/dsp/inventory/deal-id-create.md) and then target “[!UICONTROL Roku Network - Audience]” and “[!UICONTROL The Roku Channel - Audience]” within [!DNL Roku] placements.<!-- Or do you target the deal ID?? I see those strings for Roku On Demand inventory. Clarify if all Roku private deals show up as one or the other of these in Roku Private inventory in Roku placement settings. -->
+* For your private deals, [set up information about the deal IDs in DSP](/help/dsp/inventory/deal-id-create.md) and then target "[!UICONTROL Roku Network - Audience]" and "[!UICONTROL The Roku Channel - Audience]" within [!DNL Roku] placements.<!-- Or do you target the deal ID?? I see those strings for Roku On Demand inventory. Clarify if all Roku private deals show up as one or the other of these in Roku Private inventory in Roku placement settings. -->
 
-* You can [subscribe to the following [!DNL Roku] inventory within the [!DNL On Demand] Gallery](/help/dsp/inventory/on-demand-inventory-subscribe.md), and then target any of the approved deals within [!DNL Roku] placements:
+* You can [subscribe to the following [!DNL Roku] inventory within the [!DNL On Demand] gallery](/help/dsp/inventory/on-demand-inventory-subscribe.md), and then target any of the approved deals within [!DNL Roku] placements:
 
-    * “[!UICONTROL Roku Network - Audience]” for inventory across the [!DNL Roku] ecosystem with premium content partners, such as [!DNL The CW], [!DNL ABC], and [!DNL ESPN].
-    * “[!UICONTROL The Roku Channel - Audience]” for [!DNL Roku] owned-and-operated (O&O) app content.
+    * "[!UICONTROL Roku Network - Audience]" for inventory across the [!DNL Roku] ecosystem with premium content partners, such as [!DNL The CW], [!DNL ABC], and [!DNL ESPN].
+
+    * "[!UICONTROL The Roku Channel - Audience]" for [!DNL Roku] owned-and-operated (O&O) app content.
 
 ### Advantages of customizing private marketplaces with [!DNL Roku]
 
@@ -45,7 +72,7 @@ Private deals allow you to customize the deal parameters according to your needs
 
 In DSP campaigns, [create [!DNL Roku]-specific placements](/help/dsp/campaign-management/placements/placement-create.md) using the placement type "[!UICONTROL Connected TV (Roku)]." Include [!DNL Roku] placements in [!DNL Roku]-specific packages with defined goals.
 
-Each [!DNL Roku] placement must target at least one [!DNL Roku] deal or source. To use DSP’s audience matching with [!DNL Roku], include one or more one audience segments that can be matched against the [!DNL Roku] (opted-in) deterministic dataset.
+Each [!DNL Roku] placement must target at least one [!DNL Roku] deal or source. To use DSP's audience matching with [!DNL Roku], include one or more audience segments that can be matched against the [!DNL Roku] (opted-in) deterministic dataset.
 
 ### [!DNL Roku]-approved third-party tracking vendors
 

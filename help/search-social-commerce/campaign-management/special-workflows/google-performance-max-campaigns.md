@@ -3,12 +3,22 @@ title: Implement [!DNL Google Ads] performance max campaigns
 description: Learn about the workflow for setting up [!DNL Google Ads] performance max campaigns.
 exl-id: 4208774c-e4dd-499d-987e-933fe073c04f
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/2vNnyo0W66ZuIZ3cY1nlSYWTjEPOiNXkc-ppbuxNMnI
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Implement [!DNL Google Ads] performance max campaigns
 
 In [!DNL Google Ads] performance max campaigns, you don't set up ad groups, ads, or keywords. Instead, within the campaign settings, you specify one or more asset groups, which include headlines, descriptions, and uploaded images, logos, and [!DNL YouTube videos]. [!DNL Google Ads] automatically combines the assets to serve ads based on the channel (such as [!DNL YouTube], [!DNL Gmail], or [!DNL Search]).
 
-You can view your existing performance max campaigns, with performance data in table and trend chart format, in the [!DNL Campaigns] view; data isn't available at lower levels. Campaign-level performance data is also available in reports and in Adobe Analytics (for advertisers with an [Analytics integration](/help/integrations/analytics/overview.md). To view performance data for performance max campaigns in [!DNL Analytics], the campaign must use the [upgraded AMO ID tracking code](/help/integrations/analytics/ids.md#amo-id-formats) (which tracks the campaign ID and ad group ID).
+You can view your existing performance max campaigns, with performance data in table and trend chart format, in the [!DNL Campaigns] view; data isn't available at lower levels. Campaign-level performance data is also available in reports and in Adobe Analytics (for advertisers with an [Analytics integration](/help/integrations/analytics/overview.md). To view performance data for performance max campaigns in [!DNL Analytics], the campaign must use the [upgraded AMO ID tracking code](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items) (which tracks the campaign ID and ad group ID).
 
 >[!NOTE]
 >

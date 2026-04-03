@@ -1,12 +1,25 @@
 ---
-title: '[!DNL On Demand] premium inventory publishers in North America'
+title: "[!DNL On Demand] premium inventory publishers in North America"
 description: See the available [!DNL On Demand] premium inventory publishers in North America.
 feature: DSP On Demand Inventory
 exl-id: f1805fe0-5687-4e32-809f-c584acee3676
+TQID: https://experienceleague.adobe.com/qmKaDBN2YyI8Teok0SIWPU0qNQOTlfr6FGfsAHQ2naE
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: fbfa676f-2cdb-49be-b949-f2fab1be6daf
+    internal-label: DSP On Demand Inventory (Advertising)
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!DNL On Demand] premium inventory publishers in North America
 
-<!-- get from Amanda Cabrera <acabrera@adobe.com> -->
+<!-- get from Amanda Cabrera <acabrera@adobe.com> --> 
 
 | Publisher                                   | Geo    |
 |---------------------------------------------|--------|

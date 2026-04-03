@@ -3,6 +3,19 @@ title: Edit a connected TV reach plan
 description: Learn how to edit the settings for a connected TV reach plan.
 feature: DSP Planner
 exl-id: 675a09d1-9548-416d-bfa6-a6242149b255
+TQID: https://experienceleague.adobe.com/tJyhh8j7X5VphqjPu7VGCPtQuWP3GW80jk4WooJF7io
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: e8b92199-d82f-4b20-9fc3-ffe694f93ce5
+    internal-label: DSP Planner
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Edit a connected TV reach plan
 

@@ -3,6 +3,24 @@ title: About private inventory
 description: About private inventory
 feature: DSP Private Inventory
 exl-id: 34fc1926-a839-4f2d-8628-557542fb7835
+TQID: https://experienceleague.adobe.com/yuAdhUCHaiZ1BlJ1bu8I1prqp1TjLzAfowIbfT6CEzM
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: a4886037-b6d8-40e1-aeab-edeb7649d7d3
+    internal-label: DSP placements
+  - id: ac506c20-96f2-48f6-9096-77706e336bda
+    internal-label: DSP Private Inventory
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # About private inventory
 
@@ -13,7 +31,7 @@ Advertisers looking beyond RTB can use private inventory to facilitate exclusive
 ## Deal IDs
 
 
-If you have direct relationships with publishers, you can streamline your media buying process and workflow by using your own private deals, with their negotiated inventory and pricing, in your Advertising DSP placements. DSP integrates with all of your publishers when you set up an account. If you want access to additional publishers later, contact your Adobe Account Team to set up access. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+If you have direct relationships with publishers, you can streamline your media buying process and workflow by using your own private deals, which feature negotiated inventory and pricing, in your Advertising DSP placements. DSP integrates with all of your publishers when you set up an account. If you want access to additional publishers later, contact your Adobe Account Team to set up access.
 
 All of your private deals with a deal ID are financed and invoiced by [!DNL Adobe].
 
@@ -29,11 +47,11 @@ You can use each private deal as a placement target for multiple campaigns acros
 
 ## The [!UICONTROL Deals] view
 
-In the [!UICONTROL Inventory] > [!UICONTROL Deals] view, you can create private deal settings. You can also edit some deal settings; list the placements and ads, and attach additional placements and ads, to a private deal; edit the advertisers and accounts who can access a private deal; view a performance report for a deal; view auction insights for a private deal, or archive or unarchive a deal.<!-- ; or edit the attribute tags for a deal -->
+In the [!UICONTROL Inventory] > [!UICONTROL Deals] view, you can create private deal settings. You can also edit some deal settings; list the placements and ads, and attach additional placements and ads, to a private deal; edit the advertisers and accounts who can access a private deal; view a performance report for a deal; view auction insights for a private deal; or archive or unarchive a deal.<!-- ; or edit the attribute tags for a deal -->
 
 The "Deal Health" column indicates each private deal's health status: "Success," "Warning," "Critical," or "Unavailable." You can click the status to see more details, including why a deal isn't performing or spending as expected and steps to troubleshoot potential issues.
 
-You can customize how the existing deal data is presented by applying filters, customizing the visible columns and optionally saving custom views, sorting the columns, and viewing the data as charts.
+You can customize the visible deal data by applying filters, customizing the visible columns and optionally saving custom views, sorting the columns, and viewing the data as charts.
 
 ## The [!UICONTROL Deal Lists] view
 

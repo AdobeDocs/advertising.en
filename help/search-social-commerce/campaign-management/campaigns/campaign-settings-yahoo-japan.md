@@ -1,8 +1,18 @@
 ---
-title: '[!DNL Yahoo! Japan Ads] campaign settings'
+title: "[!DNL Yahoo! Japan Ads] campaign settings"
 description: Reference the settings for [!DNL Yahoo! Japan Ads] campaigns.
 exl-id: 29acde0f-13f6-422d-b611-23ebb2ee70d9
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/okWpkqtz0o33r--74ZV2f-f8-1G9ieVY-oei-YSk4hk
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
 ---
 # [!DNL Yahoo! Japan Ads] campaign settings
 

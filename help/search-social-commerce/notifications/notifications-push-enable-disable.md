@@ -3,6 +3,16 @@ title: Enable and disable push notifications from [!UICONTROL Notification Cente
 description: Learn how to enable and disable push notifications from [!UICONTROL Notification Center].
 exl-id: f0e91e76-eb1e-4ff0-9a52-e9bc587552a2
 feature: Search Notifications
+TQID: https://experienceleague.adobe.com/k-ujCPcKXYOMfYscQOoSQBHrEmW3Pz08nndz-xdTJaA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Enable and disable push notifications from [!UICONTROL Notification Center]
 

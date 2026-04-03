@@ -3,6 +3,13 @@ title: Click-tracking formats for [!DNL Baidu]
 description: Learn about the click-tracking formats for [!DNL Baidu] accounts.
 exl-id: 4f4ed518-aa25-4a29-b263-c01f78b69b92
 feature: Search Tracking
+TQID: https://experienceleague.adobe.com/iV5-TNxdMov1LoPZzwP3RqkP93fp8A9TvAlY-2R-ZGo
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Click-tracking formats for sponsored ads on [!DNL Baidu]
 
@@ -27,4 +34,4 @@ Example:
 >[!MORELIKETHIS]
 >
 >* [About click-tracking URL formats for the Adobe Advertising conversion tracking service](formats-click-tracking-about.md)
->* [AMO ID Formats](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [AMO ID Formats](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items)

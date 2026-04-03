@@ -3,6 +3,13 @@ title: Click-tracking formats for [!DNL Naver]
 description: Learn about the click-tracking formats for [!DNL Naver] accounts.
 exl-id: b438652e-6e98-4223-8169-2bfb37500670
 feature: Search Tracking
+TQID: https://experienceleague.adobe.com/c1zAy1aKgr4MRpyiitdmO4VxP7kfKfFWHzYk88lvX2w
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Click-tracking formats for sponsored ads on [!DNL Naver]
 
@@ -25,4 +32,4 @@ Example:
 >[!MORELIKETHIS]
 >
 >* [About click-tracking URL formats for the Adobe Advertising conversion tracking service](formats-click-tracking-about.md)
->* [AMO ID formats](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [AMO ID formats](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items)

@@ -1,8 +1,18 @@
 ---
-title: '[!UICONTROL AdWords Shopping Performance Report]'
+title: "[!UICONTROL AdWords Shopping Performance Report]"
 description: Learn about the [!UICONTROL AdWords Shopping Performance Report].
 exl-id: 891c8940-bf92-455c-a6f3-92e2a0122b4a
 feature: Search Reports, Search Specialty Reports
+TQID: https://experienceleague.adobe.com/923ThJ4GB0iDIZH22x1WcSxEIX22v7cX0Pf9uC90lLk
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!UICONTROL AdWords Shopping Performance Report]
 

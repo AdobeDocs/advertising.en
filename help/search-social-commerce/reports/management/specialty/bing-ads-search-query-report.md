@@ -1,8 +1,18 @@
 ---
-title: '[!UICONTROL Bing Ads Search Query Report]'
+title: "[!UICONTROL Bing Ads Search Query Report]"
 description: Learn about the [!UICONTROL Bing Ads Search Query Report].
 exl-id: 0207cfe7-a789-409f-af1b-a9579f2abe1e
 feature: Search Reports, Search Specialty Reports
+TQID: https://experienceleague.adobe.com/6IrPQgL0W-kEgV1Up3WEBUtHu7o5un3FP-Up-35iln4
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!UICONTROL Bing Ads Search Query Report]
 

@@ -3,6 +3,16 @@ title: Invite a new user for your organization account
 description: Learn how to invite a new user to join the account.
 role: Admin
 exl-id: 5aba8db8-a27b-44a0-88f3-ea49311f4d76
+TQID: https://experienceleague.adobe.com/FmFrkWZfeZdvWh-2Wed1KFNqgyQ-SVUpGZvpx7XiXQE
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # Invite a new user for your organization account
 

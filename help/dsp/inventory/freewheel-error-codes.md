@@ -3,10 +3,25 @@ title: Error codes for [!DNL FreeWheel] ad submissions
 description: Reference the error codes that are returned for ad submissions to [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: e48937c2-ced9-4107-9e1d-65a3bac51fff
+TQID: https://experienceleague.adobe.com/z2fbEvduZZcevSEsUVLQmIpGKoZp2P2luGI1pmOrbic
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: ac506c20-96f2-48f6-9096-77706e336bda
+    internal-label: DSP Private Inventory
+  - id: fae3ff5f-9a75-4de1-a100-c90dd8268528
+    internal-label: DSP Deal IDs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Error codes for [!DNL FreeWheel] ad submissions
 
-The error messages for failed ad submissions can come from either Advertising DSP or from [!DNL FreeWheel]. Error messages are shown in the [!UICONTROL API Response] column in the [[!UICONTROL Freewheel Status] dialog](freewheel-check-status.md).
+The error messages for failed ad submissions can come from either Advertising DSP or from [!DNL FreeWheel]. Find error messages in the [!UICONTROL API Response] column in the [[!UICONTROL FreeWheel Status] dialog](freewheel-check-status.md).
 
 ## Advertising DSP internal errors
 
@@ -23,7 +38,7 @@ The error messages for failed ad submissions can come from either Advertising DS
 
 {style="table-layout:auto"}
 
-## [!DNL Freewheel] API errors
+## [!DNL FreeWheel] API errors
 
 |Code|Meaning|Description|Next Steps|
 |--- |--- |--- |--- |
@@ -37,7 +52,7 @@ The error messages for failed ad submissions can come from either Advertising DS
 
 {style="table-layout:auto"}
 
-## [!DNL Freewheel] API 422 Errors {#freewheel-422-errors}
+## [!DNL FreeWheel] API 422 Errors {#freewheel-422-errors}
 
 |Code|HTTP Code|Description|
 |--- |--- |--- |
@@ -58,7 +73,7 @@ The error messages for failed ad submissions can come from either Advertising DS
 
 >[!MORELIKETHIS]
 >
->* [Overview of setting up programmatic guaranteed deals in [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
+>* [Overview of setting up programmatic guaranteed deals in [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
 >* [Accept a deal in the [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md)
->* [Submit an ad for a programmatic guaranteed deal to [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
+>* [Submit an ad for a programmatic guaranteed deal to [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
 >* [Check the status of ads for a [!DNL FreeWheel] PG deal](/help/dsp/inventory/freewheel-check-status.md)

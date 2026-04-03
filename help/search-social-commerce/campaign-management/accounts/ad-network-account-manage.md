@@ -3,6 +3,22 @@ title: Manage ad network accounts
 description: Learn how to set up and manage account details for an ad network account.
 exl-id: 4038d03b-63e2-4953-89df-37f7b5f68652
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/k5NsG-RF8c7ELoid8lN3EMbBH8MoA0fUSRcYZnslzfo
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Manage ad network accounts
 
@@ -245,7 +261,7 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 
 * **S_kwcid Format:** (Existing [!DNL Google Ads] accounts for advertisers with an Adobe Advertising-Adobe Analytics integration and for which the AMO ID (s_kwcid) hasn't already been migrated)
 
-This account uses the legacy format for the AMO ID tracking code, which allows Adobe Advertising to share data about the account with Adobe Analytics. The [latest format](/help/integrations/analytics/ids.md#amo-id-formats) includes parameters for campaign ID and ad group ID, which are necessary to accurately report at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns and drafts and experiments campaigns in Analytics:
+This account uses the legacy format for the AMO ID tracking code, which allows Adobe Advertising to share data about the account with Adobe Analytics. The [latest format](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items) includes parameters for campaign ID and ad group ID, which are necessary to accurately report at the campaign and ad group levels for [!DNL Google Ads] performance max campaigns and drafts and experiments campaigns in Analytics:
 
 `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
   

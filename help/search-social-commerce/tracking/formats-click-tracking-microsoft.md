@@ -3,6 +3,16 @@ title: Click-tracking formats for [!DNL Microsoft Advertising]
 description: Learn about the click-tracking formats for [!DNL Microsoft Advertising] accounts.
 exl-id: 4970ac33-4978-4768-8701-6fdd3252bbd1
 feature: Search Tracking
+TQID: https://experienceleague.adobe.com/lqhCk4KG68-Rcyku4buSB1xeVhjNEP6QYOl85yJgmtE
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Click-tracking formats for [!DNL Microsoft Advertising]
 
@@ -101,4 +111,4 @@ Accounts that use Adobe Advertising conversion tracking must include the ad netw
 >[!MORELIKETHIS]
 >
 >* [About click-tracking URL formats for the Adobe Advertising conversion tracking service](formats-click-tracking-about.md)
->* [AMO ID formats](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [AMO ID formats](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items)

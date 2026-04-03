@@ -3,6 +3,22 @@ title: Retrieve consumer opt-out-of-sale reports
 description: Learn how to retrieve reports of IDs submitted for opt-out-of-sale requests.
 feature: CCPA, DSP Segments
 exl-id: 94133ce3-4e2c-4a24-90c9-61bf10731668
+TQID: https://experienceleague.adobe.com/m5dLZLZsdmNVIazfFlsPcP7Y5t1tphs1CPwJ5lxvHP0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: c193c532-b70e-4556-bde7-857186cbe140
+    internal-label: DSP Segments
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Retrieve consumer opt-out-of-sale reports
 

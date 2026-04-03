@@ -3,6 +3,19 @@ title: Create a [!UICONTROL Simple Ad Serving] deal
 description: Learn how to create a tracking pixel for a [!UICONTROL Simple Ad Serving] deal.
 feature: DSP Simple Ad Serving
 exl-id: 77d5dabd-1a0d-4dce-8a9a-8d54a637e15d
+TQID: https://experienceleague.adobe.com/HcfL-Lh8-64QbufAL-otB4gHupVKllJAzXL8f4TpAIA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
 ---
 # Create a [!UICONTROL Simple Ad Serving] deal
 
@@ -41,7 +54,7 @@ exl-id: 77d5dabd-1a0d-4dce-8a9a-8d54a637e15d
 
          * To paste the information into an email message in an email application on your device, click **[!UICONTROL Email & Done]** and select the email application. The [!UICONTROL CC:] field is prepopulated with an [!DNL Adobe] support address. You can then send the message to the appropriate contact for the publisher.
 
-         * To copy the information to your clipboard, click **[!UICONTROL Copy Email].** You can then manually paste the contents into an email message and send it to the appropriate contact for the publisher. You must include a copy (CC:) to `publisher-support-global@adobe.com`. When you're finished copying the message, click **[!UICONTROL Email & Done]**.
+         * To copy the information to your clipboard, click **[!UICONTROL Copy Email].** You can then manually paste the contents into an email message and send it to the appropriate contact for the publisher. Include a copy (CC:) to `publisher-support-global@adobe.com`. When you're finished copying the message, click **[!UICONTROL Email & Done]**.
 
       1. (If necessary) Follow up with the publisher to see if the tag includes the appropriate macros so that the tag works with the publisher's ad server.
 

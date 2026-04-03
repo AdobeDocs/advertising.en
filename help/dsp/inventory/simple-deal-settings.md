@@ -1,36 +1,44 @@
 ---
-title: '[!UICONTROL Simple Ad Serving] deal settings'
+title: "[!UICONTROL Simple Ad Serving] deal settings"
 description: Learn about the available settings for [!UICONTROL Simple Ad Serving] deals.
 feature: DSP Simple Ad Serving
 exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
+TQID: https://experienceleague.adobe.com/3MqeK9NlWy3VvNJyo-bYCwKyqIp9psB9HhJeVWvIm3M
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!UICONTROL Simple Ad Serving] deal settings
 
 ## New [!UICONTROL Simple Ad Serving] deals
 
-### [!UICONTROL Select ad source]
+### [!UICONTROL Ad Source]
 
 | Parameter | Description |
 |-----------|-------------|
 | **[!UICONTROL Serving Type]** | The media type for this deal: *[!UICONTROL Video],* *[!UICONTROL Display],* or *[!UICONTROL Audio].* |
 |**[!UICONTROL Publisher Site Served On]** | The name of the publisher that is selling this inventory. Search for a publisher by entering at least the first two characters in the name. To add a publisher that isn't listed, contact your Adobe Account Team.|
 |**[!UICONTROL Advertiser]** | A single advertiser in the account who can access this deal. Also select the campaign and (optionally) the package in which the deal is available. |
-| **[!UICONTROL Media Quality Assessment?]** | (Some users) Enables the ad to run on another DSP for third-party verification. <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
+| **[!UICONTROL Media Quality Assessment?]** | (Some users) Enables the ad to run on another DSP for third-party verification. |
 | **[!UICONTROL Ad Source]** | The only option is *[!UICONTROL Site Serve (Event Pixels)]*. |
 | **[!UICONTROL Ad Creation]** | (New deals only) Whether to:<ul><li>*[!UICONTROL Create New]:* To create an ad for this deal.</li><li>*[!UICONTROL Select Ads]:* To use an existing ad for this deal.</li></ul> |
 | **[!UICONTROL Ad Type]** | The ad type for this deal. If you're going to create ads for the deal, include the ad size or duration, as requested. The available options vary by media type. |
 
 {style="table-layout:auto"}
 
-### [!UICONTROL Select ad(s)]
+### [!UICONTROL Select/Upload Creative]
 
-(When you're using existing ads) The ads to include in the deal. Select the check box next to each ad to include.
+* When you're using existing ads, select the check box next to each ad to include in the deal.
 
-### [!UICONTROL Select & upload [Media Type]]
+* When you're creating new ads, use the screens to create a new [third-party ad](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
-(New ads only) Screens to create a new [third-party ad](/help/dsp/campaign-management/ads/ad-create-multiple.md).
-
-### [!UICONTROL Feed details]
+### [!UICONTROL Feed Details]
 
 | Parameter | Description |
 |-----------|-------------|

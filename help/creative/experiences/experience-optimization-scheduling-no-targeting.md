@@ -3,6 +3,19 @@ title: Customize creative optimization and scheduling for an experience
 description: Learn how to configure optimization and ad scheduling for experiences without targeting.
 feature: Creative Experiences
 exl-id: 9398df69-6a48-4b72-8c5c-a79341bf3b8a
+TQID: https://experienceleague.adobe.com/h1LkoqSvnGN24h9Vs-na17q-Ey6JJBOrssM6hOtmoWw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Customize creative optimization and scheduling for an experience without decision tree targeting
 
@@ -22,8 +35,11 @@ When creative scheduling is disabled, the creative optimization settings apply t
      
    * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
-1. Hold the cursor over the row for the applicable ad tag and click ![Edit creative optimization](/help/creative/assets/edit-gray.png "Edit creative optimization") **[!UICONTROL Creative Optimization]**.<!--
- Tag Manager has only a list view, but no card view, as of 2/2. >
+1. Hold the cursor over the row for the applicable ad tag and click ![Edit creative optimization](/help/creative/assets/edit-gray.png "Edit creative optimization") **[!UICONTROL Creative Optimization]**.
+
+   <!--
+   Tag Manager has only a list view, but no card view, as of 2/2. 
+   -->
 
 1. Disable **[!UICONTROL Schedule]**.
 
@@ -65,7 +81,7 @@ When you use scheduling, you must schedule creatives through the duration of the
      
    * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Tag Manager]**.
 
-1. Hold the cursor over the row for the applicable ad tag and click ![Edit creative optimization](/help/creative/assets/edit-gray.png "Edit creative optimization") **[!UICONTROL Creative Optimization]**. <!-- For targeted experiences, this is "Edit Schedules" --><!-- Tag Manager has only a list view, but no card view, as of 2/2. >
+1. Hold the cursor over the row for the applicable ad tag and click ![Edit creative optimization](/help/creative/assets/edit-gray.png "Edit creative optimization") **[!UICONTROL Creative Optimization]**. <!-- For targeted experiences, this is "Edit Schedules" Tag Manager has only a list view, but no card view, as of 2/2. -->
 
 1. Enable **[!UICONTROL Schedule]**.
 

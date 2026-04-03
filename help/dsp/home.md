@@ -5,13 +5,49 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
+TQID: https://experienceleague.adobe.com/HgUQENjtjLRyizGpXGBRYZOanvoouKfGdcjDyf5Dlaw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: a4886037-b6d8-40e1-aeab-edeb7649d7d3
+    internal-label: DSP placements
+  - id: e8b92199-d82f-4b20-9fc3-ffe694f93ce5
+    internal-label: DSP Planner
+  - id: fddd8d8f-3ba1-4a22-b714-69d0e4655be8
+    internal-label: DSP Packages
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+    internal-label: Machine learning
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # What's new
 
-The following features are new or recently changed.
+The following features are new or recently changed. 
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
+| 25 March 2026 | [!UICONTROL Insights] | New [!UICONTROL Audience Analysis] insights show the effective of your audience segment targeting at the placement level: segment size trends over time and a daily bidding funnel breakdown. | See "[About insights](/help/dsp/campaign-management/insights/insights-about.md)." |
+| 16 March 2026 | First-party audience sources, universal IDs | You can now convert your cookies and mobile advertising IDs &mdash; in addition to hashed email addresses &mdash; to universal IDs for targeted advertising using the DSP integration with [the [!DNL Adobe Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform. Previously, you could convert only hashed email addresses.<br><br>To use this new functionality, use the new "[Adobe Advertising DSP connection](https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection" in Experience Platform. The legacy connection, which includes support for only hashed email addresses, is renamed "[Legacy Adobe Advertising Cloud DSP connection](https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection-legacy."<br><br>If you currently use the legacy connection, you don't need to immediately make any changes. However, the legacy connection will eventually be removed. | See "[Convert user IDs from [!DNL Adobe Real-Time CDP] to universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)," "[About first-party audience sources](/help/dsp/audiences/sources/source-about.md)," and "[Manage audience sources to activate universal ID audiences](/help/dsp/audiences/sources/source-manage.md)." |
 | 21 January 2026 | Adobe GenStudio for Performance Marketing | (Advertisers with Advertising Creative) Advertisers with [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) can now import display ad experiences from GenStudio to your creative libraries. You can include the imported creatives within your Advertising Creative experiences, and then export your [!DNL Creative] experiences to DSP as placements. | See Advertising Creative help: "[About your creative libraries](/help/creative/creative-libraries/creative-libraries-about.md)" and "[Add standard creatives to a creative library](/help/creative/creative-libraries/creative-add-standard.md)." |
 | 17 December 2025 | Alerts | (Advertisers with Advertising Creative) The [!UICONTROL Pulse Panel] within the [!UICONTROL Campaigns] view now includes DSP and [!UICONTROL Creative] tabs. The [!UICONTROL Creative] tab lists alerts about DSP placements created from [!DNL Creative] experiences. | See "[View alerts](/help/dsp/campaign-management/reports/campaign-alerts.md)." |
 |  | [!UICONTROL Custom Reports] | A new [!UICONTROL Pin Code] dimension, which shows the Postal Index Number (PIN) code to which the reported data is attributed, is available in the [!UICONTROL Geos] dimension group. | See "[Available report columns](/help/dsp/reports/report-columns.md)." |
@@ -123,5 +159,5 @@ The following features are new or recently changed.
 |  | [!UICONTROL Placements] | The placement [!UICONTROL Inspector] now includes an [!UICONTROL Inventory] tab, which shows all deals and their associated metrics for the placement. Use the information to make quick adjustments or troubleshoot issues without generating a custom report. | See "[View the sites, ads, frequency, and inventory details for a placement](/help/dsp/campaign-management/reports/placement-details-view.md#placement-inspector)." |
 |  | [!UICONTROL Ads] | (Users with permission to include [!DNL Clearcast] clock numbers in their ads) DSP no longer shows an error if you use a clock number that's attached to another ad. **Note:**  The best practice is to use a unique clock number for each video ad. Otherwise, the publisher won't approve all ads. | &mdash; |
 |  | [!UICONTROL Deal IDs] | The [!UICONTROL Deal ID] settings and other places in the user interface reflect new branding for [!DNL Magnite] SSP:<br><ul><li>The SSP "[!DNL Tremor]" ([!DNL Telaria]) is now "[!DNL Magnite CTV]."</li><li>In the coming weeks, [!DNL Rubicon]" will change to "[!DNL Magnite DV+]," where [!DNL DV+] stands for display, video, and other formats such as audio.</li></ul> | See "[SSP partners](/help/dsp/inventory/ssp-partners.md)." |
-|  | [!DNL Freewheel] programmatic guaranteed deals | You can now submit ads and check the status of ads for [!DNL Freewheel] programmatic guaranteed deals from the [!UICONTROL Ads] view. Previously, you could do both only from the [!UICONTROL Deals] view.  | See "[Submit an ad for a programmatic guaranteed deal to [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)" and "[Check the status of ads for [!DNL Freewheel] programmatic guaranteed deals](/help/dsp/inventory/freewheel-check-status.md)." |
+|  | [!DNL FreeWheel] programmatic guaranteed deals | You can now submit ads and check the status of ads for [!DNL FreeWheel] programmatic guaranteed deals from the [!UICONTROL Ads] view. Previously, you could do both only from the [!UICONTROL Deals] view.  | See "[Submit an ad for a programmatic guaranteed deal to [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)" and "[Check the status of ads for [!DNL FreeWheel] programmatic guaranteed deals](/help/dsp/inventory/freewheel-check-status.md)." |
 | 7 October 2021 | Help | All [DSP and other Adobe Advertising documentation](https://experienceleague.adobe.com/en/docs/advertising) on [!DNL Experience League] is now machine translated into all available languages. To change the displayed language, use the "Change Language" menu at the bottom left of any page.<br>![Change language](/help/dsp/assets/change-language.png) | &mdash; |

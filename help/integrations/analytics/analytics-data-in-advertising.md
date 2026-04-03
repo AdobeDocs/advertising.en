@@ -1,8 +1,20 @@
 ---
-title: '[!DNL Analytics] Data in  Adobe Advertising'
-description: '[!DNL Analytics] Data in Adobe Advertising'
+title: "[!DNL Analytics] Data in  Adobe Advertising"
+description: "[!DNL Analytics] Data in Adobe Advertising"
 feature: Integration with Adobe Analytics
 exl-id: e11b0617-44e3-4f28-a065-aa9f6cf3eb5d
+TQID: https://experienceleague.adobe.com/Op96b-n8lH2vLwBfUjlJdunp65Y5o2-gYxaEWFwH2m8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # [!DNL Analytics] Data in Adobe Advertising
 
@@ -26,7 +38,7 @@ New segments take 24-48 hours to appear in Adobe Advertising. Updates to existin
 * [!UICONTROL Timespent_secs_1stvisit]: The number of seconds spent on the site during the visitor's first visit.
 * [!UICONTROL Timespent_secs_total]: The total number of seconds spent on the site across all visits within the click lookback window.
 * [!UICONTROL Pageviews_1stvisit]: The number of page views on the site during the visitor's first visit.
-* [!UICONTROL Pageviews_total]: The total number of page views on the site across all visits within the click lookback window.
+* [!UICONTROL Pageviews_total]: The total number of page views on the site across all visits within the click lookback window.
 * [[!UICONTROL Bounces] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html)
 * [[!UICONTROL Visits] metric](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html)
 * [!UICONTROL ef_id_instances]: The number of times that [!DNL Analytics] collected an [!UICONTROL EF ID].

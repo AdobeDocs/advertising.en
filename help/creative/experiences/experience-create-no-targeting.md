@@ -3,6 +3,19 @@ title: Create an experience without decision tree targeting
 description: Learn how to create an ad experience without targeting.
 feature: Creative Experiences
 exl-id: 327b1df5-5663-4513-9238-f481370c8c38
+TQID: https://experienceleague.adobe.com/D7AXp-WIyE8r08o-gbjvw3ONzv1Pazz97qwFCrP43aU
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Create an experience without decision tree targeting
 
