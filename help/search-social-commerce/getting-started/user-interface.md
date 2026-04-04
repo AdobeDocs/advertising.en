@@ -46,19 +46,17 @@ Your role determines the available options:<!-- add link when available -->
 
   * **[!UICONTROL Objectives]** Opens a new [!UICONTROL Objectives] view, from which you can view all of your existing objectives and create, edit, and delete objectives.
   
-  * **[!UICONTROL Conversions]** Exits the new site and opens the legacy [!UICONTROL Admin] > [!UICONTROL Conversions] view.
+<!--  Not there as of 4/3:  * **[!UICONTROL Conversions]** Exits the new site and opens the legacy [!UICONTROL Admin] > [!UICONTROL Conversions] view. -->
 
   * **[!UICONTROL Conversion Value Rules]** Opens read-only views of your campaign-level and account-level conversion value rules. To manage your conversion value rules, use the legacy [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-  * **[!UICONTROL Constraints]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Constraints] view.
+  * **[!UICONTROL Constraints]** Opens a read-only view of your existing constraints. To manage your constraints, use the legacy [!UICONTROL Optimization] > [!UICONTROL Constraints] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
 * **[!UICONTROL Plan]** submenu:
   
   * **[!UICONTROL Simulations]** Opens a new [[!UICONTROL Simulations] view](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md), from which you can view all of your user-created custom simulations and automatically generated weekly simulations; generate new custom simulations; and rerun existing simulations. The [!UICONTROL Spend Planner] button opens the legacy [!UICONTROL Spend Recommendation] tool at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation].
 
   * **[!UICONTROL Spend Planner]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] view.
-
-  * **[!UICONTROL Label Classification]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Label Classifications] view.
 
 * **[!UICONTROL Manage]** submenu:
 
@@ -88,9 +86,15 @@ Your role determines the available options:<!-- add link when available -->
 
   * **[!UICONTROL History Logs]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Change History] view.
 
+  * **[!UICONTROL Label Classification]** Opens a new [!UICONTROL Label Classifications] view. You can manage classifications and assign/unassign classification values to any applicable account components that are available in the new UI.
+
+  * **[!UICONTROL Bulksheets]**: Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Bulksheets] view.
+
 * **[!UICONTROL Target]** submenu:
 
-  * **[!UICONTROL Audience]**: Opens a new [!UICONTROL Audiences] view, which shows all existing audiences for the advertiser. To manage your audiences, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+  * **[!UICONTROL Audiences]**: Opens a new [!UICONTROL Audiences] view, which shows all existing audiences for the advertiser, all audience targets, and all audience exclusions. To manage your audiences, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+
+  * **[!UICONTROL Auto Targets]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
 
   * **[!UICONTROL Keywords]** Opens a new [!UICONTROL Keywords] view, which shows existing keywords and negative keywords for the advertiser. You can manage constraint assignments for selected keywords.
   
@@ -102,8 +106,6 @@ Your role determines the available options:<!-- add link when available -->
 
 * **[!UICONTROL Assets]** submenu:
 
-  * **[!UICONTROL Auto Targets]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
-
   * **[!UICONTROL Creatives]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
 
   * **[!UICONTROL Extensions]** Opens read-only views of your existing ad extensions. To manage your extensions, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
@@ -112,13 +114,15 @@ Your role determines the available options:<!-- add link when available -->
 
 * **[!UICONTROL Set Up]** submenu:
 
-  * **[!UICONTROL Accounts]**: Exits the new site and open the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+  * **[!UICONTROL Manager Accounts]**: Exits the new site and open the legacy [!UICONTROL Admin] > [!UICONTROL Manager Accounts] view.
+
+  * **[!UICONTROL Accounts]**: Opens a new [!UICONTROL Accounts] view. You can manage ad network accounts that are synced via an API connection or set up via data upload. You can also manage existing [!UICONTROL Naver] accounts.
+
+  * **[!UICONTROL Import Campaigns]**: Exits the new site and open the legacy [!UICONTROL Tools] > [!UICONTROL Import Campaigns] view.
 
 <!--
- What's happenening to these?
+ What's happening to these?
 
-Campaigns > ACM
-Campaigns > Bulksheets
 Campaigns > Asset Library
 
 Insights > Notification Center (doesn't open from Dashboard > Alerts & Notifications)
@@ -126,7 +130,6 @@ Insights > Notification Center (doesn't open from Dashboard > Alerts & Notificat
 Tools > Conversion Upload Setup
 Tools > Generic Tracking
 Tools > Inventory Selection
-Import Campaigns
 
 Tools > Admin > Data Source Setup
 -->
