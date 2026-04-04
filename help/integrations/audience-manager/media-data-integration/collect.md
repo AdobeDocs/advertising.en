@@ -79,7 +79,7 @@ Where:
 
 * `[source id]` is the ID for the [data source](#set-up-data-source) in which you track DSP impression and click data.
 
-* `[redirect URL]` is the double-encoded redirect URL. If you’re using an online encoding tool, such as www.urlencoder.org, then run the string through the encoder and re-encode the result.
+* `[redirect URL]` is the double-encoded redirect URL. If you're using an online encoding tool, such as www.urlencoder.org, then run the string through the encoder and re-encode the result.
 
 * `${TM_CAMPAIGN_ID_NUM}` is the numeric campaign ID in DSP. If you want to hardcode an individual campaign ID instead of using the DSP macro, then locate the ID in the campaign settings.
 
@@ -89,13 +89,13 @@ Where:
 
 **Format:**  `d_parameter=parameter_id`
 
-    where:
+where:
 
-    * the parameter is prefixed by `&`
+* the parameter is prefixed by `&`
 
-    * `parameter` is replaced by the key-value pair for the new field
+* `parameter` is replaced by the key-value pair for the new field
 
-    Example:  `&d_placement=${TM_PLACEMENT_ID_NUM}`
+*Example:*  `&d_placement=${TM_PLACEMENT_ID_NUM}`
 
 Both types of pixel can contain additional parameters as *key-value pairs* to collect traits or to provide campaign metadata (such as a placement name or a campaign name) for other reports. A key-value pair consists of two related elements: a *key*, which is a constant that defines the data set, and a *value*, which is a variable that belongs to the set.
 
