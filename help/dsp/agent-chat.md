@@ -8,15 +8,13 @@ exl-id: 30feb866-cc8c-4760-af94-2b2e08ebb361
 ---
 # Search for product documentation using an AI-assisted chat interface
 
-*Beta feature*
-
 *Support for English only*
 
 <!-- How will this work once we have unified shell, which has its own version of AI Assistant? -->
 
 Use the AI chat interface to search for conceptual and how-to content across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md). Answers are based only on what's documented for these products in [Experience League](https://experienceleague.adobe.com/en/docs/advertising).
 
-Responses include citations as well as additional prompts and follow-up questions to help you refine your query and find more information. Your chat history is maintained, and your queries aren't shared with other users.
+Responses include citations as well as additional prompts and follow-up questions to help you refine your query and find more information. Your chat history is maintained throughout a session, and your queries aren't shared with other users.
 
 >[!NOTE]
 >
