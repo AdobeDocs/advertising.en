@@ -5,11 +5,11 @@ feature: Conversions
 ---
 # Manage an advertiser's conversion metrics
 
-An advertiser's [conversion](/help/search-social-commerce/glossary.md#c-d) metrics are used throughout Search, Social, & Commerce and Advertising DSP:
+An advertiser's [conversion](/help/search-social-commerce/glossary.md#c-d) metrics are used throughout Adobe Advertising:
 
 * In Search, Social, & Commerce, data for the conversion metrics can be displayed in columns in campaign, portfolio, and objective management views and in reports. Users with sufficient access privileges can also use conversion metrics to create objectives, which are used to optimize portfolios.
 
-* In Advertising DSP, you can use conversion metrics to create [custom goals](/help/dsp/optimization/custom-goal.md), which are used to optimize packages.
+* (Advertisers with Advertising DSP) In DSP, you can include conversion metrics in campaign management views, custom objectives, and custom reports. You can also use conversion metrics to create [custom goals](/help/dsp/optimization/custom-goal.md), which are used to optimize packages.
 
 Available metrics include:
 
@@ -17,19 +17,21 @@ Available metrics include:
 
 * [Conversion and site engagement metrics synced from Adobe Analytics](/help/integrations/analytics/analytics-data-in-advertising.md).
 
+* [Site events synced from Adobe Customer Journey Analytics](/help/integrations/customer-journey-analytics/overview.md).
+
 * Cconversions tracked by [!DNL Google Ads] and conversions tracked by [!DNL Microsoft Advertising] universal event tracking tags.
 
 * (When [you've configured a specific [!DNL Google Analytics] account, property, and view combination as a data source](/help/search-social-commerce/admin/data-sources/data-source-about.md) for Search, Social, & Commerce) Conversions tracked by [!DNL Google Analytics].
 
-From the list of conversion metrics that are available, each user with access to the advertiser's data can customize the metrics they see available for management views and reports, including or omitting specific metrics as they choose.
+* Conversions from custom feeds.
+
+From the list of conversion metrics that are available, each user with access to the advertiser's data can customize the metrics they see available for management views and reports, including or omitting specific metrics as they choose. You can either use a metric name exactly as it is spelled in the retrieved data or change the name that's shown in column headings for readability.
 
 >[!IMPORTANT]
 >
 >By default, none of an advertiser's conversion metrics &mdash; except for conversions tracked by [!DNL Google Ads], [!DNL Google Analytics], and [!DNL Microsoft Advertising] universal event tracking tags &mdash; are available for inclusion in campaign and portfolio management views, objectives, and reports. To make a conversion metric available, you must explicitly make it available.
 >
 >New conversions tracked by [!DNL Google Ads], [!DNL Google Analytics], and [!DNL Microsoft Advertising] universal event tracking tags are always automatically available.
-
-You can either use a metric name exactly as it is spelled in the retrieved data or change the name that's shown in column headings for readability.
 
 >[!TIP]
 >
@@ -59,7 +61,7 @@ You can't delete an existing display name.
    
    Display names must be unique and can't include the following special characters: `\"<'>&`
 
-## Change the conversion metrics available in management views and reports {#conversion-metrics-change-available}
+## Change the conversion metrics available in management views, objectives, and reports {#conversion-metrics-change-available}
 
 >[!NOTE]
 >
