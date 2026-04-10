@@ -90,7 +90,7 @@ Accounts that use Adobe Advertising conversion tracking must include the ad netw
 
 * When the advertiser has an Adobe Analytics integration, the suffix must include the following:
 
-  `ef_id={msclkid}:G:s&s_kwcid=AL!{userid}!10!{AdId}!{OrderItemId}`
+  `AL!{user}!10!{ad id}!!!!{keyword/order item id}!!{campaign id}!{ad group id}`
 
 * When the advertiser doesn't have an Adobe Analytics integration, the suffix must include the following:
 
