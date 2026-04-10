@@ -11,10 +11,17 @@ exl-id: 6a0a4b74-a767-4c4d-a823-0fbc3c738cd0
 
 The [!UICONTROL Manage] > [!UICONTROL Ads] view lists all ads in the filtered view for the selected advertiser account.
 
+
 ## Available actions
 
+* [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)
+
+<!--
 * [Assign constraints to ad groups, and unassign constraints from ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
+-->
+
+<!--  >* [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)  -->
 
 >[!MORELIKETHIS]
 >
->* [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
+>* [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)

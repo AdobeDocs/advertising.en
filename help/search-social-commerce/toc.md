@@ -101,7 +101,7 @@ index: true
       + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
     + Ads {#ads}
       + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
-      + [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
+      + [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)
   + Reports {#reports}
     + Label classifications {#label-classifications}
       + [About label classifications](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-about)
