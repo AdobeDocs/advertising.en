@@ -7,6 +7,13 @@ exl-id: 9755abb2-a62f-4292-a6b4-314b49de3edd
 ---
 # (New UI) Manage constraint assignments for ads
 
+
+<!-- Not an option -->
+
+
+
+
+
 *Beta feature*
 
 You can assign and remove bidding constraints for the following search entities: campaign, ad group, keyword, placement, unit-level product group, and dynamic search target. Each entity can have only one constraint.
@@ -22,7 +29,7 @@ Unassigning a constraint removes the association with the account components and
 
 ## Assign a constraint to selected ads from the new [!UICONTROL Ads] view
 
-You can assign a single constraint to one or more campaigns.
+You can assign a single constraint to one or more ads.
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Ads]**.
 
