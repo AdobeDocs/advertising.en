@@ -55,6 +55,8 @@ You can't delete an existing display name.
 
 1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Conversions]**.
 
+1. Filter the list [from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) or from a [column heading](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
+
 1. In the **[!UICONTROL Conversion Display Name]** column for the metric, hold the cursor over the metric name, and click **...** > **[!UICONTROL Rename]**.
 
 1. Enter the name that should be displayed, and then click **[!UICONTROL Apply]**.

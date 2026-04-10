@@ -6,15 +6,13 @@ hide: yes
 ---
 # (New UI) Manage data view reports from the [!UICONTROL Ads] view
 
-<!-- Not implemented as of 3/4/26) -->
-
 *Beta feature*
 
 You can generate a report that includes the data rows for one or more ads in the [!UICONTROL Ads] view, and then download the report as a Microsoft Excel worksheet file (XLXS format). The report includes all visible columns in the view.
 
 You can delete any generated report.
 
-See also ">* [(Legacy UI) Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)" and "[(Legacy UI) Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)."
+See also "[(Legacy UI) Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)" and "[(Legacy UI) Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)."
 
 ## Generate a report with the filtered data rows
 

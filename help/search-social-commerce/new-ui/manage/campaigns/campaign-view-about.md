@@ -39,11 +39,11 @@ The [!UICONTROL Manage] > [!UICONTROL Campaigns] view lists all campaigns  in th
 
 * [Assign constraints to campaigns, and unassign constraints from campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 
-* [Download data from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
+* [Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
 
 >[!MORELIKETHIS]
 >
 >* [Assign campaigns to a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio)
 >* [Remove campaigns from a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
 >* [Manage constraint assignments for campaigns](campaign-constraint-assignments-manage.md)
->* [Download data from the [!UICONTROL Campaigns] view](campaign-view-report.md)
+>* [Manage data view reports from the [!UICONTROL Campaigns] view](campaign-view-report.md)
