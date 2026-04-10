@@ -36,11 +36,11 @@ Spend recommendation reports include the following data:
 
 ## Available actions
 
->* Generate a [!UICONTROL Spend Planner] report from the [new UI](#spend-recommendations-generate) or [legacy UI](#spend-recommendations-generate-legacy)
+* Generate a [!UICONTROL Spend Planner] report from the [new UI](#spend-recommendations-generate) or [legacy UI](#spend-recommendations-generate-legacy)
 
->* [Apply spend recommendations](#spend-recommendations-apply) to the corresponding portfolios.
+* [Apply spend recommendations](#spend-recommendations-apply) to the corresponding portfolios.
 
->* [Open or save spend recommendation report data to a file](#spend-recommendations-download)
+* [Open or save spend recommendation report data to a file](#spend-recommendations-download)
 
 ## (New UI) Generate a [!UICONTROL Spend Planner] report {#spend-recommendations-generate}
 
