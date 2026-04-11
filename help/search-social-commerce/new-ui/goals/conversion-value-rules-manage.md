@@ -50,7 +50,7 @@ You can create multiple campaign-level rules for each campaign. However, [!DNL G
 
 1. Select the ad network and the account. For campaign-level rules, also select the campaign. Then click **[!UICONTROL Next]**.
 
-1. Configure the [conversion rule settings](google-conversion-value-rule-settings.md).
+1. Configure the [conversion rule settings](#google-ads-conversion-value-rule-settings).
 
    You must configure a primary condition and a value adjustment. You can optionally configure a secondary condition.
 
@@ -78,7 +78,7 @@ You can edit a conversion value rule in accounts/campaigns for which conversions
 
    * To activate (enable) paused rules, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit).
 
-1. Edit the [conversion rule settings](google-conversion-value-rule-settings.md).
+1. Edit the [conversion rule settings](#google-ads-conversion-value-rule-settings).
 
    You can't edit the condition types for an existing rule, but you can edit the conditions and the value adjustments.
 
