@@ -1,6 +1,6 @@
 ---
 title: About [!DNL Google Ads] conversion value rules
-description: Learn how to viewing and managing [!DNL Google Ads] conversion value rules in Search, Social, & Commerce.
+description: Learn how to view and manage [!DNL Google Ads] conversion value rules in Search, Social, & Commerce.
 ---
 # About [!DNL Google Ads] conversion value rules
 

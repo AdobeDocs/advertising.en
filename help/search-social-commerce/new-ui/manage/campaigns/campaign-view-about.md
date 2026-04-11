@@ -21,7 +21,7 @@ topic_v2:
 
 *Beta feature*
 
-The [!UICONTROL Manage] > [!UICONTROL Campaigns] view lists all campaigns  in the filtered view for the selected advertiser account. You can open a list of ad groups in the campaign by clicking the campaign name.
+The [!UICONTROL Manage] > [!UICONTROL Campaigns] view lists all campaigns in the filtered view for the selected advertiser account. You can open a list of ad groups in the campaign by clicking the campaign name.
 
 ## Available actions
 
