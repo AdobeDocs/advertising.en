@@ -2,7 +2,7 @@
 title: About simulations
 description: Learn about portfolio simulations.
 feature: Search Optimization, Search Portfolios, Search Simulations
-hide: yes
+hide: true
 exl-id: 2fbefee2-f8f7-4b3d-a039-e1ca0236c61a
 TQID: https://experienceleague.adobe.com/9B4gKrZnnUmgj0LzxwM2CIkJsIO9Pe9R8RDR4mAmIwo
 product_v2:

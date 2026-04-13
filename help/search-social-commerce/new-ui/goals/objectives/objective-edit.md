@@ -2,7 +2,7 @@
 title: (New UI) Edit an objective
 description: Learn how to edit an objective.
 feature: Search Objectives, Search Optimization
-hide: yes
+hide: true
 exl-id: b2363781-d767-4a4a-9137-17834088721e
 TQID: https://experienceleague.adobe.com/b4F6PKA-bX9GF-bSnwg0ckBrhjyqws9BebW3MszULWw
 product_v2:

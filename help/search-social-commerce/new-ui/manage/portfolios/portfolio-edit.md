@@ -2,7 +2,7 @@
 title: (New UI) Edit a portfolio
 description: Learn how to edit portfolio settings.
 feature: Search Portfolios, Search Optimization
-hide: yes
+hide: true
 exl-id: c1be8634-47f6-465e-a6c9-88cbb3456592
 TQID: https://experienceleague.adobe.com/PvRUorKnHZJPyLSDJapXOrCokNZ1Wg6l4bm-s4EiuYU
 product_v2:

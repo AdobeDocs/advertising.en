@@ -2,7 +2,7 @@
 title: (New UI) About portfolios
 description: Learn about portfolios.
 feature: Search Portfolios, Search Optimization
-hide: yes
+hide: true
 exl-id: 8d023c22-a1dd-4608-8c72-0a61f055e7e5
 TQID: https://experienceleague.adobe.com/w-NpuD1q3atytkO8AL-ekUWzwhX3NHH-byW9ZIY7WdU
 product_v2:

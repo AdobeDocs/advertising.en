@@ -2,7 +2,7 @@
 title: (New UI) Manage data view reports from the [!UICONTROL Ads] view
 description: Learn how to generate, download, and delete reports that contain the data rows for one or more ads in the [!UICONTROL Ads] view in a report.
 feature: Search Optimization, Search Campaign Management
-hide: yes
+hide: true
 ---
 # (New UI) Manage data view reports from the [!UICONTROL Ads] view
 

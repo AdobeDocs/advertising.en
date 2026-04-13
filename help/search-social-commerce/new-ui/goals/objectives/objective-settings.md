@@ -2,7 +2,7 @@
 title: Objective settings
 description: Learn where to find more information about objective settings.
 feature: Search Objectives, Search Optimization
-hide: yes
+hide: true
 exl-id: 8d565867-58b4-465f-86cf-dc46f82c09c2
 TQID: https://experienceleague.adobe.com/NrSY7kmCJp6dgfDgCEfcofWIoLpPrvkBpx3cZedJHw0
 product_v2:
