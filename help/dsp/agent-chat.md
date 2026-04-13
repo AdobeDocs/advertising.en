@@ -3,7 +3,6 @@ title: Search for product documentation using AI-assisted chat
 description: Learn how to search Adobe Advertising DSP and [!DNL Creative] documentation using AI-assisted chat. Get answers with citations and suggested follow-up prompts.
 feature: DSP Introduction, Creative Introduction
 hidefromtoc: yes
-hide: yes
 exl-id: 30feb866-cc8c-4760-af94-2b2e08ebb361
 ---
 # Search for product documentation using an AI-assisted chat interface
