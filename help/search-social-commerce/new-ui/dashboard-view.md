@@ -2,7 +2,7 @@
 title: (New UI) View your performance dashboard
 description: Learn about data available in your performance dashboard.
 feature: Search Portfolios, Search Optimization
-hide: yes
+hide: true
 exl-id: ef79f52b-cc97-4f36-8a44-50ffd3377c8b
 TQID: https://experienceleague.adobe.com/Oa-NB0er-nIWVtPXTtTjM--9hDSluhtjBwpSV4tr2zA
 product_v2:

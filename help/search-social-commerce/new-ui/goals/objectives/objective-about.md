@@ -2,7 +2,7 @@
 title: (New UI) About objectives
 description: Learn about objectives to meet your business goals.
 feature: Search Objectives, Search Optimization
-hide: yes
+hide: true
 exl-id: 4e417307-1403-4420-85f9-2fa04c253b58
 TQID: https://experienceleague.adobe.com/fcdOJhTTB-IML-aownM6-vyYM4NJspKpCraypmuLooE
 product_v2:

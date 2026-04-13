@@ -2,7 +2,7 @@
 title: (New UI) Portfolio settings
 description: Learn where to find more information about portfolio settings.
 feature: Search Portfolios, Search Optimization
-hide: yes
+hide: true
 exl-id: 787aa4f2-775f-4d7a-aabc-cce2851e8ea7
 TQID: https://experienceleague.adobe.com/NoPA-9bht8Czq6QACzoy3-hyah3a4V94XTH3hxWcabU
 product_v2:

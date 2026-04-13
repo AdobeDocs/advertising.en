@@ -2,7 +2,7 @@
 title: (New UI) About the [!UICONTROL Ad Groups] view
 description: Learn what you can do in the [!UICONTROL Ad Groups] view.
 feature: Search Optimization, Search Campaign Management
-hide: yes
+hide: true
 exl-id: 10922ae6-b2b5-4498-bc6a-424f3249e16a
 TQID: https://experienceleague.adobe.com/-u7BbFcsbOEcVIWjkfq-c2qlyXFhie-j3fG8LFeDOf0
 product_v2:
