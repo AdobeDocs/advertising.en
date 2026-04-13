@@ -21,7 +21,7 @@ index: true
   + [Support for consumer privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
   + [Policies and guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
   + [Advanced measurement solutions](/help/dsp/introduction/advanced-measurement-services.md)
-+ {hide-from-toc} [Search for product documentation using AI-assisted chat](/help/dsp/agent-chat.md)
++ [Search for product documentation using AI-assisted chat](/help/dsp/agent-chat.md)
 + Campaign management {#campaign-management}
   + [Overview of campaign management in Advertising DSP](/help/dsp/campaign-management/campaign-management-overview.md)
   + Campaigns {#campaigns}
