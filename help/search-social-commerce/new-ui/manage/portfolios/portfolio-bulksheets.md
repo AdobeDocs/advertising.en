@@ -2,7 +2,7 @@
 title: Bulk edit portfolio settings using bulksheet files
 description: Learn how to edit the settings for multiple portfolios using a bulksheet file.
 feature: Search Portfolios, Search Optimization
-hide: yes
+hide: true
 exl-id: 20f7419d-9f5e-4477-ae8d-8b85a79b1e81
 TQID: https://experienceleague.adobe.com/tKCeMIgFKnW8hOU-6uavT9x7K9lL2Uqo2bWZ-H-Q5TE
 product_v2:

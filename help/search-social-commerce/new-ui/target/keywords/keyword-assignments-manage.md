@@ -2,7 +2,7 @@
 title: Manage constraint assignments for keywords
 description: Learn how to assign constraints to keywords.
 feature: Search Optimization, Search Campaign Management
-hide: yes
+hide: true
 exl-id: 4f08719e-0770-4a65-91b2-80cf03b65557
 ---
 # (New UI) Manage constraint assignments for keywords

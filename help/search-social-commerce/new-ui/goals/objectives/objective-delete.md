@@ -2,7 +2,7 @@
 title: (New UI) Delete an objective
 description: Learn how to delete an objective.
 feature: Search Objectives, Search Optimization
-hide: yes
+hide: true
 exl-id: 27dfe063-3b62-41b9-bc09-a069cfd7dc59
 TQID: https://experienceleague.adobe.com/Ap23cJYi6AB5nbrQV-lAB5W-EP3mkinmi3lH-6kZVGk
 product_v2:

@@ -2,7 +2,7 @@
 title: (New UI) About the [!UICONTROL Campaigns] view
 description: Learn what you can do in the [!UICONTROL Campaigns] view.
 feature: Search Optimization, Search Campaign Management
-hide: yes
+hide: true
 exl-id: 7d261ac3-5d89-4357-9866-19a7e3aab837
 TQID: https://experienceleague.adobe.com/G--2kvUQgSzS2pvzybW--3YOQ4apkV-WnqI-e0CKZ98
 product_v2:

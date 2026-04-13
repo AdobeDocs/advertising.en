@@ -2,7 +2,7 @@
 title: (New UI) Create a portfolio
 description: Learn how to create a portfolio.
 feature: Search Portfolios, Search Optimization
-hide: yes
+hide: true
 exl-id: f7fe6138-8335-407a-88fd-f0ace27c93ee
 TQID: https://experienceleague.adobe.com/QEt73KG8zm1DEIOP5G9Leho3Zb4rzech7U0gFGnpMdA
 product_v2:
