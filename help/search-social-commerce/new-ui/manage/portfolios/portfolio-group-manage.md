@@ -2,7 +2,7 @@
 title: (New UI) Manage portfolio groups
 description: Learn how to group portfolios.
 feature: Search Portfolios, Search Optimization
-hide: yes
+hide: true
 exl-id: c1c011bd-f0e4-48aa-8376-1eed57e4e018
 TQID: https://experienceleague.adobe.com/fXxP-MUu2cHIBa4O83bOnJnjAFXVszMicmSQNkN71jw
 product_v2:

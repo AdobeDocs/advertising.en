@@ -2,7 +2,7 @@
 title: Manage constraint assignments for campaigns
 description: Learn how to assign constraints to campaigns.
 feature: Search Optimization, Search Campaign Management
-hide: yes
+hide: true
 exl-id: d886a228-24d7-4d8e-b68a-76e56b4304ed
 TQID: https://experienceleague.adobe.com/qwisQ3OqMeymlREsTVY-Wf59ln37hBLR0X4R7RjkuTM
 product_v2:

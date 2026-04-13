@@ -3,7 +3,7 @@ title: Create a reusable audience using generative AI
 description: Learn how to create reusable audiences in Adobe Advertising DSP using the AI-assisted audience agent. Describe your target audience in natural-language prompts; the agent suggests third-party segments and builds audience expressions for use as targets or exclusions.
 feature: DSP Audiences
 hidefromtoc: yes
-hide: yes
+hide: true
 exl-id: 82c9f122-2bdd-409f-a4d6-1da21ecbe913
 ---
 # Create a reusable audience using generative AI
