@@ -158,7 +158,7 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
      1. Locate and select the display ad experiences, and then click **[!UICONTROL Select]** in the upper right.
 
-      Each creative variant in a selected experience will be imported as a separate HTML5 creative.
+      Each creative variant in a selected experience is imported as a separate HTML5 creative.
 
 1. Add or remove creatives:
 
