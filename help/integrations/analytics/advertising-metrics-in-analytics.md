@@ -61,7 +61,7 @@ See "[Adobe Advertising Metrics](https://experienceleague.adobe.com/en/docs/anal
 
 ## Adobe Advertising classifications
 
-See the "[classifications for the AMO ID dimension](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#classifications)."
+See the [classifications for the AMO ID dimension](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#classifications).
 <!--
 
 >[!NOTE]
