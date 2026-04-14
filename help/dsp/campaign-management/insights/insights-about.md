@@ -112,13 +112,13 @@ The insights include:
 
 * **[!UICONTROL Audience Funnel Analysis]:**  A daily time-series table that shows how your target audience narrows from the total available pool to actual impression wins after all targeting and eligibility filters are applied. Data is shown for the previous day. The funnel includes the following metrics, in order from broadest to narrowest:
 
-  * **[!UICONTROL Audience Segment Size]:** The total number of unique users in the aggregated audience.
+  * **[!UICONTROL Total Target Audience]:** The total number of unique users in the aggregated audience.
   
-  * **[!UICONTROL Cookies in Bid Stream]:** The number of users from the target audience who were active in the bid stream during the previous 24-hour period. This count includes every user in scope, whether or not the placement bid on them. A decrease from the [!UICONTROL Total Target Audience] to the [!UICONTROL Reachable Audience] reflects the portion of the audience that wasn't active in the bid stream during the reporting period, which is not a reflection of bidding performance.
+  * **[!UICONTROL Reachable Audience (Last 24 Hours)]:** The number of users from the target audience who were active in the bid stream during the previous 24-hour period. This count includes every user in scope, whether or not the placement bid on them. A decrease from the [!UICONTROL Total Target Audience] to the [!UICONTROL Reachable Audience] reflects the portion of the audience that wasn't active in the bid stream during the reporting period, which is not a reflection of bidding performance.
 
-  * **[!UICONTROL Eligible cookies]:** The subset of reachable users that remain after geo, device type, operating system, and browser filters are applied. If this number is significantly lower than [!UICONTROL Reachable Audience], then consider reviewing whether your geo or device type targeting is too restrictive.
+  * **[!UICONTROL Eligible Ad Opportunities (Post filtering)]:** The subset of reachable users that remain after geo, device type, operating system, and browser filters are applied. If this number is significantly lower than [!UICONTROL Reachable Audience], then consider reviewing whether your geo or device type targeting is too restrictive.
   
-  **[!UICONTROL Cookies Bid On]:** The number of eligible opportunities for which the placement submitted a bid. A sharp drop at this stage may indicate budget or pacing constraints that are limiting bid volume.
+  **[!UICONTROL Devices/Ad Opportunities Bid On]:** The number of eligible opportunities for which the placement submitted a bid. A sharp drop at this stage may indicate budget or pacing constraints that are limiting bid volume.
 
   * **[!UICONTROL Impression Wins]:** The number of opportunities for which the placement won an impression. If wins are much lower than bids, then your bid price may be below the prevailing market rate for the targeted inventory.
 
