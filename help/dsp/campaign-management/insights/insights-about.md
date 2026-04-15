@@ -26,8 +26,6 @@ topic_v2:
 ---
 # About insights
 
-*Beta feature*
-
 High-level performance insights with visualizations give you the information you need to efficiently optimize your campaigns and discover new opportunities to scale performance. You can view data across campaigns for a specified advertiser or drill down to a lower level.
 
 Use performance insights to:
@@ -126,7 +124,7 @@ The insights include:
 
 1. Open a set of insights:
 
-   * (To open insights for all campaigns) In the main menu, click **[!UICONTROL Insights BETA]**.
+   * (To open insights for all campaigns) In the main menu, click **[!UICONTROL Insights]**.
 
    * (To open insights for a specific campaign, package, or placement) Next to the entity name in the [!UICONTROL Campaigns], [!UICONTROL Packages], or [!UICONTROL Placements] view, click **[!UICONTROL ...]** > **[!UICONTROL Insights]**.
 
