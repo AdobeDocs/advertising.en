@@ -14,8 +14,8 @@ index: true
 + Introduction {#intro}
   + [About Adobe Advertising Search, Social, & Commerce](/help/search-social-commerce/introduction/about.md)
   + [Supported inventory](/help/search-social-commerce/introduction/supported-inventory.md)
-  + Integration with Adobe Experience Cloud {#integrations}
-    + [Integration with Adobe Experience Cloud solutions and services](/help/search-social-commerce/introduction/integrations.md)
+  + Integration with Adobe CX Enterprise {#integrations}
+    + [Integration with Adobe CX Enterprise solutions and services](/help/search-social-commerce/introduction/integrations.md)
     + [Adobe [!DNL Analytics for Advertising] (link)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html){target="_blank"}
     + [Integration with Adobe Audience Manager (link)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html){target="_blank"}
   + [Support for consumer privacy (link)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}

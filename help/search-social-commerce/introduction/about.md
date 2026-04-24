@@ -61,11 +61,11 @@ Search, Social, & Commerce provides comprehensive campaign management, optimizat
 
 See "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)" for more information about support for different ad networks and ad types.
 
-## Integration with Adobe Experience Cloud solutions and services
+## Integration with Adobe CX Enterprise solutions and services
 
 Native integrations with Adobe Analytics and Adobe Audience Manager let you connect your data and audience segments for ad targeting, [!DNL Google Ads] audience creation, optimization, and reporting/analytics.
 
-For more information about integrations with these and other Adobe products, see "[Integration with Adobe Experience Cloud solutions and services](/help/search-social-commerce/introduction/integrations.md)."
+For more information about integrations with these and other Adobe products, see "[Integration with Adobe CX Enterprise solutions and services](/help/search-social-commerce/introduction/integrations.md)."
 
 ## Conversion tracking
 
@@ -78,4 +78,4 @@ For more information about tracking, see the chapter on "Tracking."
 >[!MORELIKETHIS]
 >
 >* [Supported inventory](supported-inventory.md)
->* [Integration with Adobe Experience Cloud solutions and services](integrations.md)
+>* [Integration with Adobe CX Enterprise solutions and services](integrations.md)

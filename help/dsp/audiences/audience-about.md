@@ -94,11 +94,11 @@ You can target your placements to all of the following types of audiences.
 
    Third-party segments incur additional fees, which are indicated next to each segment name.
 
-* (Advertisers with Adobe Experience Platform and [!DNL Real-Time CDP], Adobe Audience Manager, or Adobe Analytics who use Adobe Advertising JavaScript conversion tags only) All of your available first-, second-, or third-party audience segments created in [!DNL Real-Time CDP], created in Audience Manager, or published to Adobe Experience Cloud from Audience Manager or [!DNL Analytics].
+* (Advertisers with Adobe Experience Platform and [!DNL Real-Time CDP], Adobe Audience Manager, or Adobe Analytics who use Adobe Advertising JavaScript conversion tags only) All of your available first-, second-, or third-party audience segments created in [!DNL Real-Time CDP], created in Audience Manager, or published to Adobe CX Enterprise from Audience Manager or [!DNL Analytics].
 
    Pricing for the use of the segments is pre-negotiated and isn't visible in DSP.
 
-   Segments from [!DNL Analytics] are available about an hour after you create or publish them as Experience Cloud audiences. Segments coming directly from Audience Manager or [!DNL Real-Time CDP] are available within 24 hours after you share them.
+   Segments from [!DNL Analytics] are available about an hour after you create or publish them as CX Enterprise audiences. Segments coming directly from Audience Manager or [!DNL Real-Time CDP] are available within 24 hours after you share them.
 
    >[!NOTE]
    >

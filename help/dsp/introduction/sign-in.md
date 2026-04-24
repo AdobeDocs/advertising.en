@@ -23,7 +23,7 @@ topic_v2:
 
 Adobe Advertising DSP is transitioning to the Adobe Identity Management Service (IMS) for login authentication. IMS provides single sign-on (SSO) access using federated IDs to all [!DNL Adobe] products that support IMS, including Real-Time Customer Data Platform, Customer Journey Analytics, [!DNL Target], and [!DNL Analytics]. With the change: 
 
-* You can use one [!DNL Adobe ID] to sign in across [!DNL Adobe] products from either the Experience Cloud sign-in page or the legacy DSP sign-in page. Your [!DNL Adobe ID] provides user profile management. In a future release, you'll be able to change the DSP account, IMS organization account, and [!DNL Adobe] product from the top menu.
+* You can use one [!DNL Adobe ID] to sign in across [!DNL Adobe] products from either the Adobe CX Enterprise (formerly Adobe Experience Cloud) sign-in page or the legacy DSP sign-in page. Your [!DNL Adobe ID] provides user profile management. In a future release, you'll be able to change the DSP account, IMS organization account, and [!DNL Adobe] product from the top menu.
 
 * Enterprise authentication is supported.
 
@@ -55,7 +55,7 @@ Your current DSP credentials will remain active for a short time so that you can
 
    * If you have access to multiple IMS organizations, select the correct one.
    
-For more information about the Experience Cloud interface, including managing your user profile, see "[Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)."
+For more information about the CX Enterprise interface, including managing your user profile, see "[CX Enterprise interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)."
 
 ### Troubleshooting
 

@@ -70,7 +70,7 @@ The following is the general workflow for implementing and using Search, Social,
 
     1. (Advertisers with Adobe Analytics and/or Adobe Audience Manager) Set up integrations between the various accounts so that Adobe Advertising can exchange data with them.
     
-       See the guide on "[Integrations with Experience Cloud](/help/integrations/home.md)."
+       See the guide on "[Integrations with CX Enterprise](/help/integrations/home.md)."
     
     1. (Advertisers with [!DNL Google Analytics]) Sync conversion metrics for a [!DNL Google Analytics] account, property, and view combination for optimization and reporting.
     

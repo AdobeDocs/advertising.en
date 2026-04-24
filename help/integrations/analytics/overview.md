@@ -30,7 +30,7 @@ topic_v2:
 ---
 # Overview of [!DNL Analytics for Advertising]
 
-*Advertisers with Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
+*Advertisers with Advertising Creative, Advertising DSP, and [!DNL Advertising Search, Social, & Commerce]*
 
 [!DNL Analytics for Advertising] integrates Adobe Analytics and Adobe Advertising to extend and enhance the capabilities of each product.
 
@@ -61,7 +61,7 @@ Primary benefits:
 * Use persistent Adobe Advertising view-through and click-through IDs within [!DNL Analytics] to understand site engagement.
 * Take advantage of Analysis Workspace to better understand site entry points and visit behavior. You can access paid media dimensional and event data, which include Adobe Advertising campaign entity names (down to placements and ads) and their associated metrics, such as clicks, impressions, and cost.
 
-To use [!DNL Analytics] as your paid media reporting tool, your organization needs an Experience Cloud login with access to Analysis Workspace. Your Adobe Advertising team will help you to map your Adobe Advertising data to individual report suites in Analysis Workspace. You can send Adobe Advertising data to any report suite, but you should be aware of the report suites that have been mapped to Adobe Advertising and those that haven't. Depending on the report suite, this may change the data reported.
+To use [!DNL Analytics] as your paid media reporting tool, your organization needs an Adobe CX Enterprise (formerly Adobe Experience Cloud) login with access to Analysis Workspace. Your Adobe Advertising team will help you to map your Adobe Advertising data to individual report suites in Analysis Workspace. You can send Adobe Advertising data to any report suite, but you should be aware of the report suites that have been mapped to Adobe Advertising and those that haven't. Depending on the report suite, this may change the data reported.
 
 [Adobe Advertising IDs within [!DNL Analytics]](ids.md) work like other [!DNL eVars], with a custom, persistent expiration. By default, the attribution lookback window is set to 60 days during the Adobe Advertising implementation. To change this setting, work with your Adobe Account Team.
 
@@ -80,11 +80,11 @@ Without requiring any additional pixels, [!DNL Analytics for Advertising] enable
   * site engagement metrics, such as page view and visit metrics.
   * custom revenue metrics.
   * reserved revenue metrics.
-* Segments created in [!DNL Analytics] and published to Experience Cloud.
+* Segments created in [!DNL Analytics] and published to CX Enterprise.
 
-  You can use [!DNL Analytics] segments for first-party site retargeting in [!DNL DSP] and paid search advertisements.
+  You can use [!DNL Analytics] segments for first-party site retargeting in [!DNL DSP], [!DNL Creative], and paid search advertisements.
 
-  ([!DNL Search, Social, & Commerce] only) Advertisers with [!DNL Analytics] but not Audience Manager can also create Google website tag-based audiences (remarketing lists) and customer match audiences (customer lists) from [!DNL Analytics] segments that are shared with Experience Cloud.
+  ([!DNL Search, Social, & Commerce] only) Advertisers with [!DNL Analytics] but not Audience Manager can also create Google website tag-based audiences (remarketing lists) and customer match audiences (customer lists) from [!DNL Analytics] segments that are shared with CX Enterprise.
 
 ### Site conversion metrics as bid signals
 
@@ -96,19 +96,19 @@ For [!DNL Google Ads] and [!DNL Google Microsoft Advertising] campaigns in Searc
 >
 > You can't map calculated metrics from [!DNL Analytics] into Adobe Advertising.
 
-Your Adobe Advertising team will help you to identify and map the events that are applicable to paid media performance into Adobe Advertising, where they are listed in [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Conversions].
+Your Adobe Advertising team will help you to identify and map the events that are applicable to paid media performance into Adobe Advertising.
 
 See "[Analytics Metrics in Adobe Advertising](analytics-data-in-advertising.md)" for a list of available metrics.
 
 ### Analytics segments for site retargeting
 
-Adobe Advertising can ingest [!DNL Analytics] segments for remarketing purposes for Advertising DSP and [!DNL Search, Social, & Commerce] ads using the native Experience Cloud Audiences integration between [!DNL Analytics] and Experience Cloud.
+Adobe Advertising can ingest [!DNL Analytics] segments for remarketing purposes for [!DNL Creative], [!DNL DSP], and [!DNL Search, Social, & Commerce] ads using the native CX Enterprise Audiences integration between [!DNL Analytics] and CX Enterprise.
 
-To access the [!DNL Analytics] segments, an advertiser account must enable the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html). When the ID Service is enabled, all Experience Cloud segments (including segments created in [!DNL Analytics] and published to Experience Cloud, segments created in Adobe Audience Manager, segments created in Experience Cloud using the [!DNL People core service], and segments created in Adobe Experience Platform and sent to Adobe Advertising via Audience Manager) become available within Adobe Advertising as soon as they are processed.
+To access the [!DNL Analytics] segments, an advertiser account must enable the [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/home.html). When the ID Service is enabled, all CX Enterprise segments become available within Adobe Advertising as soon as they are processed. CX Enterprise segments include segments created in [!DNL Analytics] and published to CX Enterprise, segments created in Adobe Audience Manager, segments created in CX Enterprise using the [!DNL People core service], and segments created in Adobe Experience Platform and sent to Adobe Advertising via Audience Manager.
 
 [!DNL Analytics] segments are available within 24 hours and are updated daily.
 
-For more information about the Experience Cloud Audiences service, see [Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html).
+For more information about the CX Enterprise Audiences service, see [CX Enterprise Audiences](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html).
 
 ## Examples of how to use the integration {#integration-examples}
 
@@ -128,7 +128,7 @@ Using the Placement view:
 
 1. Include CTV-spending placements in the reporting view.
 
-1. Include the desired metrics, such as “Impressions”, “Clicks”, and so on.
+1. Include the desired metrics, such as "Impressions", "Clicks", and so on.
 
 1. Apply the following filters:
 
@@ -140,7 +140,7 @@ Using the Marketing Channel view:
 
 1. Include the dimension `Marketing Channel`.
 
-1. Include the desired metrics, such as “Impressions”, “Clicks”, and so on.
+1. Include the desired metrics, such as "Impressions", "Clicks", and so on.
 
 1. Apply the following filters:
 

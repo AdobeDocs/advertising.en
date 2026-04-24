@@ -87,7 +87,7 @@ The following tasks are required to set up data collection in Experience Platfor
    
    * For your property, [install the extension "Adobe Experience Platform Web SDK"](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/web-sdk-extension-configuration) from the extensions catalog.
    
-     This extension sends data from your web properties to Experience Cloud via the Experience Platform Edge Network.
+     This extension sends data from your web properties to Adobe CX Enterprise via the Experience Platform Edge Network.
      
      Don't use the Adobe Advertising extension.
 

@@ -98,13 +98,13 @@ The new user interface for Search, Social & Commerce has the following default p
 
 1. Go to https://adminconsole.adobe.com/enterprise/.
 
-1. (If you're not signed in to Experience Cloud) Sign in to Experience Cloud:
+1. (If you're not signed in to CX Enterprise) Sign in to CX Enterprise:
 
    1. Enter your [!DNL Adobe] ID, and click **[!UICONTROL Continue]**.
 
    1. Select either **[!UICONTROL Personal Account]" or **[!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
 
-   1. Select the applicable Experience Cloud organization.
+   1. Select the applicable CX Enterprise organization.
 
       Admin Console opens to the [!UICONTROL Overview] tab.
    

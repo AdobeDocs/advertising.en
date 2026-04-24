@@ -1,6 +1,6 @@
 ---
 title: What's new
-description: Learn about updates to integrations between Adobe Advertising and other products and services in Adobe Experience Cloud.
+description: Learn about updates to integrations between Adobe Advertising and other products and services in Adobe CX Enterprise (formerly Adobe Experience Cloud).
 cloud: Experience Cloud
 product: advertising cloud
 index: true
@@ -56,7 +56,7 @@ The following features are new or recently changed.
 <!--
  At some point, just make this an overview page instead?
 
-Adobe Advertising is integrated with the following Adobe Experience Cloud products:
+Adobe Advertising is integrated with the following Adobe CX Enterprise products:
 
 * [Adobe Analytics](/help/integrations/analytics/overview.md)
 

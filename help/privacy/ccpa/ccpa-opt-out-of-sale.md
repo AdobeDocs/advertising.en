@@ -32,7 +32,7 @@ topic_v2:
 
 The California Consumer Privacy Act (CCPA) is California’s new privacy law, which is effective January 1, 2020. CCPA provides California residents new rights regarding their personal information and imposes data protection responsibilities on certain entities who conduct business in California. CCPA provides consumers with the right to access and delete their data as well as the right to opt out of certain activities that qualify as “selling” personal information to a third party.
 
-As a business, you will determine the personal data that Adobe Experience Cloud processes and stores on your behalf.
+As a business, you will determine the personal data that Adobe CX Enterprise processes and stores on your behalf.
 
 As your service provider, Adobe Advertising provides support for your business to fulfill its obligations under CCPA that are applicable to the use of Adobe Advertising products and services, including managing consumer requests to access and delete personal information and managing consumer requests to opt out of the sale of personal information.
 
@@ -61,23 +61,23 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
 ### Method 2: Communicate CCPA opt-out-of-sale requests using the Adobe Experience Platform Privacy Service API
 
-*Advertisers assigned an Adobe Experience Cloud organization ID only*
+*Advertisers assigned an Adobe CX Enterprise organization ID only*
 
-1. Deploy a JavaScript library to retrieve your customer's cookies. The same library, `AdobePrivacy.js`, is used for all Adobe Experience Cloud solutions.
+1. Deploy a JavaScript library to retrieve your customer's cookies. The same library, `AdobePrivacy.js`, is used for all Adobe CX Enterprise solutions.
 
    >[!IMPORTANT]
    >
-   >Requests to some Adobe Experience Cloud solutions don't require the JavaScript library, but requests to Adobe Advertising require it.
+   >Requests to some Adobe CX Enterprise solutions don't require the JavaScript library, but requests to Adobe Advertising require it.
 
    You should deploy the library on the webpage from which your customers can submit opt-out-of-sale requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: `gsurferID`) so that you can submit these identities as part of opt-out-of-sale requests via the Adobe Experience Platform Privacy Service API.
 
-1. Identify your Experience Cloud organization ID and make sure that it's linked to your Adobe Advertising accounts.
+1. Identify your CX Enterprise organization ID and make sure that it's linked to your Adobe Advertising accounts.
 
-   An Experience Cloud organization ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Experience Cloud customers have been assigned an organization ID. If your marketing team or internal Adobe system administrator doesn't know your organization ID, or isn't sure if it's been provisioned, then contact your Adobe Account Team. You'll need the organization ID to submit requests to the Privacy API using the `imsOrgID` namespace.
+   A CX Enterprise organization ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most CX Enterprise customers have been assigned an organization ID. If your marketing team or internal Adobe system administrator doesn't know your organization ID, or isn't sure if it's been provisioned, then contact your Adobe Account Team. You'll need the organization ID to submit requests to the Privacy API using the `imsOrgID` namespace.
 
    >[!IMPORTANT]
    >
-   >Contact your company’s Adobe Advertising representative to confirm that all of your organization's Adobe Advertising accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search, Social, & Commerce] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your Experience Cloud organization ID.
+   >Contact your company’s Adobe Advertising representative to confirm that all of your organization's Adobe Advertising accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search, Social, & Commerce] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your CX Enterprise organization ID.
 
 1. Use the Adobe Experience Platform Privacy Service API to [submit opt-out-of-sale requests](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) to Adobe Advertising on behalf of consumers, and to check the status of existing requests.
 
@@ -85,7 +85,7 @@ You can communicate consumer opt-out-of-sale requests by using either:
 
    >[!NOTE]
    >
-   >If your business has multiple Experience Cloud organization IDs, then you must send separate API requests for each. You can, however make one API request to multiple Adobe Advertising sub-solutions ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
+   >If your business has multiple CX Enterprise organization IDs, then you must send separate API requests for each. You can, however make one API request to multiple Adobe Advertising sub-solutions ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
 
 All of these steps are necessary to receive support from Adobe Advertising. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the necessary items, see [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 

@@ -23,7 +23,7 @@ topic_v2:
 
 *Advertisers with an Adobe Advertising-Adobe Audience Manager or Adobe Advertising-Adobe Analytics integration only*
 
-Opted-in advertisers can create [!DNL Google Ads] customer match audiences using user IDs from a) [!DNL Analytics] segments that are shared with Adobe Experience Cloud and b) Audience Manager segments that have Search, Social, & Commerce as a destination, including [!DNL Analytics] segments that are published to Adobe Experience Cloud and segments that are created using the Adobe Experience Cloud Audience Library. Search, Social, & Commerce automatically pushes a [!DNL Google] tracking URL back to each [!DNL Analytics] or Audience Manager segment so that [!DNL Google] can track the audience.
+Opted-in advertisers can create [!DNL Google Ads] customer match audiences using user IDs from a) [!DNL Analytics] segments that are shared with Adobe CX Enterprise and b) Audience Manager segments that have Search, Social, & Commerce as a destination, including [!DNL Analytics] segments that are published to Adobe CX Enterprise and segments that are created using the Adobe CX Enterprise Audience Library. Search, Social, & Commerce automatically pushes a [!DNL Google] tracking URL back to each [!DNL Analytics] or Audience Manager segment so that [!DNL Google] can track the audience.
 
 Each [!DNL Adobe] audience can be used for only one [!DNL Google] audience.
 
@@ -31,7 +31,7 @@ Each new [!DNL Google] audience has the same name as the original [!DNL Adobe] a
 
 >[!TIP]
 >
->For real-time segmentation, use Audience Manager-created audiences. Segments created in [!DNL Analytics] and synced to Adobe Experience Cloud may have smaller populations because they're only synced daily; a surfer who qualifies for a segment may not be included in the segment until the next day. Segments from [!DNL Analytics] have a data source of "report suite - ."
+>For real-time segmentation, use Audience Manager-created audiences. Segments created in [!DNL Analytics] and synced to Adobe CX Enterprise may have smaller populations because they're only synced daily; a surfer who qualifies for a segment may not be included in the segment until the next day. Segments from [!DNL Analytics] have a data source of "report suite - ."
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ Each new [!DNL Google] audience has the same name as the original [!DNL Adobe] a
        
        Example: `<script src="//pixel.everesttech.net/rlsa/1234" type="text/javascript"> </script>`
      
-   1. (If not already completed) An authorized user must configure the advertiser's account to [sync with the advertiser's organization account in Adobe Experience Cloud](/help/search-social-commerce/admin/sync-adobe-audiences.md).
+   1. (If not already completed) An authorized user must configure the advertiser's account to [sync with the advertiser's organization account in Adobe CX Enterprise](/help/search-social-commerce/admin/sync-adobe-audiences.md).
 
 1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns]**. In the submenus, click **[!UICONTROL Live] > [!UICONTROL Audiences] > [!UICONTROL Library]**.
 

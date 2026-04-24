@@ -40,7 +40,7 @@ You can integrate Adobe Advertising with Audience Manager in the following ways.
 
 *Opted-in advertisers with [!DNL Advertising Search, Social, & Commerce] only*
 
-Within [!DNL Search, Social, & Commerce], you can create [!DNL Google Ads] customer match audiences from user IDs using your existing Audience Manager segments that have [!UICONTROL Adobe Media Optimizer (HTTP)] and [!UICONTROL Adobe Media Optimizer Batch Destination] as destinations. ([!DNL Media Optimizer] is a former name for [!DNL Search, Social, & Commerce].) This includes Adobe Analytics segments that are published to Adobe Experience Cloud and segments that are created using the Adobe Experience Cloud [!DNL Audience Library]. For more information, see "[Create [!DNL Google Ads] customer match audiences from [!DNL Adobe] audiences](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md)."
+Within [!DNL Search, Social, & Commerce], you can create [!DNL Google Ads] customer match audiences from user IDs using your existing Audience Manager segments that have [!UICONTROL Adobe Media Optimizer (HTTP)] and [!UICONTROL Adobe Media Optimizer Batch Destination] as destinations. ([!DNL Media Optimizer] is a former name for [!DNL Search, Social, & Commerce].) This includes Adobe Analytics segments that are published to Adobe CX Enterprise and segments that are created using the Adobe CX Enterprise [!DNL Audience Library]. For more information, see "[Create [!DNL Google Ads] customer match audiences from [!DNL Adobe] audiences](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md)."
 
 [Customer match audiences from user IDs](https://support.google.com/google-ads/answer/9199250) work like website tag-based audiences, but a non-PII ID is assigned to unique audience members for distinct benefits over standard customer match and website tag-based audiences.
 
@@ -60,7 +60,7 @@ Once you create the audiences, you can use them in [!DNL Google Ads] campaigns a
 
 >[!NOTE]
 >
->For more information about how to create audiences in the Audience Manager and Experience Cloud [!DNL Audience Library] interfaces, and common use cases for different audience types, see "[Audience creation options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html)."
+>For more information about how to create audiences in the Audience Manager and Adobe CX Enterprise [!DNL Audience Library] interfaces, and common use cases for different audience types, see "[Audience creation options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html)."
 
 ## Send DSP media exposure data to Audience Manager
 

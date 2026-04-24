@@ -22,7 +22,7 @@ role_v2:
 
 ## Analytics segments
 
-All segments created in [!DNL Analytics] and published to Experience Cloud.
+All segments created in [!DNL Analytics] and published to Adobe CX Enterprise (formerly Adobe) Experience Cloud).
 
 New segments take 24-48 hours to appear in Adobe Advertising. Updates to existing segments are synchronized within about eight hours.
 
