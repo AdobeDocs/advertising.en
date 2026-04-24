@@ -146,17 +146,17 @@ Use the search field above the main menu to look for specific menu options, such
 
 ## Other task- and information-based menus in the upper right
 
-### Top row: Experience Cloud menu
+### Top row: CX Enterprise menu
 
-* A selectable list of Experience Cloud organizations to which you have access.
+* A selectable list of CX Enterprise organizations to which you have access.
 
 * ![Help center](/help/search-social-commerce/assets/help-main-menu.png "Help center") A help menu that includes links to documentation and other information.
 
-* ![Notifications](/help/search-social-commerce/assets/notifications-aec.png "Notifications") A panel listing requests, notifications, and announcements from Experience Cloud.
+* ![Notifications](/help/search-social-commerce/assets/notifications-aec.png "Notifications") A panel listing requests, notifications, and announcements from CX Enterprise.
 
-* ![Apps](/help/search-social-commerce/assets/apps.png "Apps") A list of Adobe Experience Cloud solutions and services to which you can switch.
+* ![Apps](/help/search-social-commerce/assets/apps.png "Apps") A list of Adobe CX Enterprise solutions and services to which you can switch.
 
-* ![Account](/help/search-social-commerce/assets/account.png "Account") Information about your Experience Cloud account profile, from which you can edit your preferences and sign out.
+* ![Account](/help/search-social-commerce/assets/account.png "Account") Information about your CX Enterprise account profile, from which you can edit your preferences and sign out.
 
 ### Second row: Additional Search, Social, & Commerce menu
 
@@ -206,15 +206,15 @@ The [!UICONTROL Search] option includes the following submenus. Your role determ
 
 * ![Alert notifications](/help/search-social-commerce/assets/notifications-panel.png "Alert Notifications") A panel listing your Search, Social, & Commerce notifications.
 
-  When you're [signed in through Adobe Experience Cloud](sign-in.md), this panel shows your notifications from Experience Cloud.
+  When you're [signed in through Adobe CX Enterprise](sign-in.md), this panel shows your notifications from CX Enterprise.
 
 * ![Help menu](/help/search-social-commerce/assets/help-main-menu.png "Help menu") A help menu that includes links to documentation and other information.
 
-* ![Solution switcher](/help/search-social-commerce/assets/menu-icon.png "Solution switcher") A list of Adobe Experience Cloud solutions and services to which you can switch.
+* ![Solution switcher](/help/search-social-commerce/assets/menu-icon.png "Solution switcher") A list of Adobe CX Enterprise solutions and services to which you can switch.
 
 * ![User profile](/help/search-social-commerce/assets/user-profile.png "User profile") A link to your profile, from which you can sign out.
 
-  When you're [signed in through Adobe Experience Cloud](sign-in.md), you can also edit your Experience Cloud profile, including your Experience Cloud password and notification settings.
+  When you're [signed in through Adobe CX Enterprise](sign-in.md), you can also edit your CX Enterprise profile, including your CX Enterprise password and notification settings.
 
 >[!MORELIKETHIS]
 >

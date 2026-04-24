@@ -31,7 +31,7 @@ For full documentation on [!DNL Marketing Channels], see "[Get Started with [!DN
 
 [!DNL Marketing Channels] are a key feature of Adobe Analytics. [!DNL Marketing Channels] reports show how customers arrive to your website over the reporting window and how each channel impacts revenue or on-site behavior.
 
-Consider the following example of a cross-visit journey. Each visit to your website is indicated by the marketing channel from which the visitor entered. The first visit, also referred to as the First Touch Channel, is Email. Display on visit two is a participating channel, and Natural Search is considered the Last Touch Channel. If you use [!UICONTROL Last Touch Attribution] within [!UICONTROL Attribution IQ], then Natural Search receives full credit for the $250 conversion event. Using the Experience Cloud ID Service, you can tie these individual visits together to reveal one journey by a single visitor.
+Consider the following example of a cross-visit journey. Each visit to your website is indicated by the marketing channel from which the visitor entered. The first visit, also referred to as the First Touch Channel, is Email. Display on visit two is a participating channel, and Natural Search is considered the Last Touch Channel. If you use [!UICONTROL Last Touch Attribution] within [!UICONTROL Attribution IQ], then Natural Search receives full credit for the $250 conversion event. Using the Adobe CX Enterprise ID Service, you can tie these individual visits together to reveal one journey by a single visitor.
 
 ![Example cross-visit conversion journey in Marketing Channels](/help/integrations/assets/a4adc-mc-sample-journey.png)
 

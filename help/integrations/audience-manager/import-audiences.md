@@ -40,9 +40,9 @@ Advertising DSP and [!DNL Advertising Search, Social, & Commerce] can each pull 
 
 * Adobe Audience Manager segments
 
-* Adobe Analytics segments that are published to Adobe Experience Cloud
+* Adobe Analytics segments that are published to Adobe CX Enterprise
 
-* Segments that are created using the Adobe Experience Cloud [!DNL Audience Library]
+* Segments that are created using the Adobe CX Enterprise [!DNL Audience Library]
 
 * Segments that are created in Adobe Experience Platform and sent to Adobe Advertising via Audience Manager
 
@@ -50,13 +50,13 @@ To access [!DNL Adobe] audiences in DSP or [!DNL Creative], you must import the 
 
 ## Prerequisites
 
-* The advertiser must implement [the [!DNL Adobe Experience Cloud Identity (ECID) Service]](https://experienceleague.adobe.com/en/docs/id-service/using/intro/overview) version 2.0 or higher. The [!DNL Identity Service] provides a universal, persistent ID that identifies your visitors across all solutions in Experience Cloud.
+* The advertiser must implement [the [!DNL Adobe CX Enterprise Identity (ECID) Service]](https://experienceleague.adobe.com/en/docs/id-service/using/intro/overview) version 2.0 or higher. The [!DNL Identity Service] provides a universal, persistent ID that identifies your visitors across all solutions in CX Enterprise.
 
   Implementation includes adding the [!DNL Identity service] code to each webpage on the advertiser's sites.
 
-* The organization must be [enabled for Experience Cloud services](https://experienceleague.adobe.com/en/docs/core-services/interface/services/overview) and have an Experience Cloud [!DNL Organization ID] (formerly called [!DNL IMS org ID]).
+* The organization must be [enabled for CX Enterprise services](https://experienceleague.adobe.com/en/docs/core-services/interface/services/overview) and have a CX Enterprise [!DNL Organization ID] (formerly called [!DNL IMS org ID]).
 
-  The [!UICONTROL Organization ID] allows organizations with multiple Adobe Experience Cloud products to share data among some of the products.
+  The [!UICONTROL Organization ID] allows organizations with multiple Adobe CX Enterprise products to share data among some of the products.
 
 * (Advertisers with [!DNL Analytics]) The advertiser must [implement [!DNL Analytics] using `appMeasurement.js`](https://experienceleague.adobe.com/en/docs/analytics/implementation/js/overview) version 1.6.4 or higher.
 
@@ -86,7 +86,7 @@ The API automatically:
 
   * **[!UICONTROL Adobe AdCloud Cross-Channel (batch)]**
 
-* Maps the two destinations to all Audience Manager segments, allowing Audience Manager to share the segments with the DSP advertiser account that's associated with the same Experience Cloud [!DNL Organization ID] used for Audience Manager.
+* Maps the two destinations to all Audience Manager segments, allowing Audience Manager to share the segments with the DSP advertiser account that's associated with the same CX Enterprise [!DNL Organization ID] used for Audience Manager.
 
   The organization can optionally remove unneeded segments from the destinations within Audience Manager.
 
@@ -116,7 +116,7 @@ The API automatically:
 
 1. Within [!DNL Search, Social, & Commerce], either the [!DNL Search, Social, & Commerce] implementation team or a user with the direct access client manager role should initiate the import from [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Audience Manager Setup].
 
-    The organization's Experience Cloud [!DNL Organization ID] ([!DNL IMS org ID]) is required. The ID must be the same as the one used for the organization's Audience Manager account.
+    The organization's Adobe CX Enterprise [!DNL Organization ID] ([!DNL IMS org ID]) is required. The ID must be the same as the one used for the organization's Audience Manager account.
 
 ### What changes result in Audience Manager?
 

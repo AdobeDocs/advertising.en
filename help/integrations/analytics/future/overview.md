@@ -14,7 +14,7 @@ You can integrate Adobe Advertising with Analytics in the following ways.
 
 With [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md),[!DNL Search, Social, & Commerce] and DSP pull in:
 
-* **[!DNL Analytics] segments:**  Metadata, hierarchy data, and unique audience data for all of an advertiser's or agency's segments created in [!DNL Analytics] and published to Experience Cloud.
+* **[!DNL Analytics] segments:**  Metadata, hierarchy data, and unique audience data for all of an advertiser's or agency's segments created in [!DNL Analytics] and published to Adobe CX Enterprise.
 
 * **[!DNL Analytics] site engagement metrics** 
 
@@ -36,7 +36,7 @@ With [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytic
 
 <!-- Verify all -->
 
-Within [!DNL Search, Social, & Commerce], you can create [!DNL Google Ads] Google customer match audiences from user IDs using your existing [!DNL Analytics] segments. This includes Adobe Analytics segments that are published to Adobe Experience Cloud and segments that are created using the Adobe Experience Cloud [!DNL Audience Library]. For more information, see "[Create [!DNL Google Ads] customer match audiences from [!DNL Adobe] audiences](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md)."
+Within [!DNL Search, Social, & Commerce], you can create [!DNL Google Ads] Google customer match audiences from user IDs using your existing [!DNL Analytics] segments. This includes Adobe Analytics segments that are published to Adobe CX Enterprise and segments that are created using the Adobe CX Enterprise [!DNL Audience Library]. For more information, see "[Create [!DNL Google Ads] customer match audiences from [!DNL Adobe] audiences](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md)."
 
 [Customer match audiences from user IDs](https://support.google.com/google-ads/answer/9199250) work like website tag-based audiences, but a non-PII ID is assigned to unique audience members for distinct benefits over standard customer match and website tag-based audiences.
 
