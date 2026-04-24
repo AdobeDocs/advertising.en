@@ -23,6 +23,18 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
 ## Create a reusable audience using generative AI
 
+<!--
+*Beta feature*
+
+*Support for English only*
+
+>[!NOTE]
+>
+>This feature is in beta mode and is subject to change. Make sure that the generated audience expression represents the audience you want before creating the audience and using it for your placements.
+-->
+
+<!-- Later:  Audiences built using generative AI have the indicator [icon] in **[!UICONTROL Audiences] > [!UICONTROL All Audiences]**. -->
+
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**.
 
 1. Above the data table, click **[!UICONTROL Create]**.
@@ -61,7 +73,9 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
    >
    >You can't later edit the audience using the audience agent. Instead, [edit the audience expression manually](/help/dsp/audiences/reusable-audience-edit.md).
 
-## Basics of writing prompts {#writing-prompts} 
+## Basics of writing prompts {#writing-prompts}
+
+<!-- Change heading level for this whole section to fit under AI procedure -->
 
 ### What should a prompt include?
 
