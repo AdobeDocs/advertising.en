@@ -118,7 +118,7 @@ You can view details about changes to an audience source record and optionally a
 
 **[!UICONTROL Advertiser]:** (Advertiser-level visibility only) The advertiser for whom the segments are available. Select one from the list of advertisers with access to the account.
 
-**[!UICONTROL Enter IMS Org Id]:** ([!DNL Real-Time CDP] sources only) The Adobe Experience Cloud organization ID for the [!DNL Adobe Experience Platform] account.
+**[!UICONTROL Enter IMS Org Id]:** ([!DNL Real-Time CDP] sources only) The Adobe CX Enterprise organization ID for the [!DNL Adobe Experience Platform] account.
 
 **[!UICONTROL Convert PII to the following IDs]:** The ID types to which you'll convert your personally identifiable information (PII). If you select multiple types, the generated segment is populated with values for each selected ID type (such as a [!DNL RampID] and a [!DNL Unified ID2.0] for each email address). Data charges are applied accordingly.
 

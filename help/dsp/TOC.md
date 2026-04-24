@@ -227,9 +227,9 @@ index: true
   + Notifications {#notifications}
     + [About alert subscriptions](/help/dsp/admin/alerts-about.md)
     + [Manage alert subscriptions](/help/dsp/admin/alerts-manage.md)
-+ [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)
++ [Integrations with Adobe CX Enterprise](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)
 + [Get help](/help/dsp/get-help.md)
-+ [Adobe Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
++ [Adobe CX Enterprise release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
 
 
 <!--

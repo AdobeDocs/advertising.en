@@ -44,7 +44,7 @@ Weight recommendations are automatically generated for DSP-attributed metrics in
 
 ## Create a custom goal {#custom-goal-create}
 
-To create a custom goal, the DSP account must be linked to a [!DNL Search, Social, & Commerce] account with the same Adobe Experience Cloud organization ID, from within the [!DNL Search, Social, & Commerce] client settings. If your DSP account isn't linked to a [!DNL Search, Social, & Commerce] account, then contact your Adobe Account Team.
+To create a custom goal, the DSP account must be linked to a [!DNL Search, Social, & Commerce] account with the same Adobe CX Enterprise organization ID, from within the [!DNL Search, Social, & Commerce] client settings. If your DSP account isn't linked to a [!DNL Search, Social, & Commerce] account, then contact your Adobe Account Team.
 
 1. [Sign in to Advertising Search, Social, & Commerce](/help/search-social-commerce/getting-started/sign-in.md){target="_blank"}.
 
