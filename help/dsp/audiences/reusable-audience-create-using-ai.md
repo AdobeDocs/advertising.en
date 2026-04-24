@@ -2,7 +2,6 @@
 title: Create a reusable audience using generative AI
 description: Learn how to create reusable audiences in Adobe Advertising DSP using the AI-assisted audience agent. Describe your target audience in natural-language prompts; the agent suggests third-party segments and builds audience expressions for use as targets or exclusions.
 feature: DSP Audiences
-hidefromtoc: yes
 hide: true
 exl-id: 82c9f122-2bdd-409f-a4d6-1da21ecbe913
 ---
@@ -12,9 +11,9 @@ exl-id: 82c9f122-2bdd-409f-a4d6-1da21ecbe913
 
 *Support for English only*
 
-<!-- Redo the legacy file to include the new info. It's probably cleanest to keep it as two separate procedures (gen AI and manually) rather than one big, long procedure. -->
+<!-- Redo the legacy file to include the new info. so that it includes two separate procedures (gen AI and manually). -->
 
-Use the AI-assisted audience agent to generate new reusable audiences using all third-party segments that are available to you, according to your stated requirements. You can use your audiences as targets or exclusions for multiple placements.
+Use the AI-assisted audience agent to generate new reusable audiences using all first-party and third-party segments that are available to you, according to your stated requirements. You can use your audiences as targets or exclusions for multiple placements.
 
 <!-- Later:  Audiences built using generative AI have the indicator [icon] in **[!UICONTROL Audiences] > [!UICONTROL All Audiences]**. -->
 
@@ -89,17 +88,11 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 See "[Best practices for creating an audience brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
 
 <!--
- I think these are happening later:
+Consider starting by asking for what you should include.
 
-DSP uses "smart" defaults based on the user's previous audiences (all user-created audiences or only ones created via AI prompting?)
+you can give thumbs up or down to [what exactly?].
 
-you can use a predefined prompt (fill in the blanks, and some fields might have selectors where you can choose values)
-
-Over time, DSP XXXX defaults [clarify this]
-
- onsider starting by asking for a general template, which contains placeholder values that you can replace with your desired values. The default template is something like "Create a xxx with NNN xxx."
-
-you can give thumbs up or down to [what exactly?]. Verify what info is carried over from session to session and what starts from scratch.
+Verify what info is carried over from session to session and what starts from scratch.
 
 -->
 
@@ -115,7 +108,7 @@ When the audience agent needs a response from you, you can reply using keywords 
 
 #### Audience agent asking you a question
 
-`If you are okay with the proposed expression, I can start searching third party segments for each of the traits (based on the search filters above), and assemble the matching segments into the audience. Would you like me to proceed?`
+`If you are okay with the proposed expression, I can start searching segments for each of the traits (based on the search filters above), and assemble the matching segments into the audience. Would you like me to proceed?`
 
 Your affirmative replies:  "proceed," "okay," "ok," "yes", or another similar word
 
