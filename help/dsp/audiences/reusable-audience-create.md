@@ -21,11 +21,16 @@ role_v2:
 
 <!-- "Saved audience" is used in UI (where?), but "saved" is a state, not a type. "Reusable audience" sounds better in a description. "Audience template" isn't right, either, since it implies you can edit it on the fly to create a new, different audience. Some other term? -->
 
-You can save and manage reusable audiences, which are groups of audience segments and even other saved audiences, which you can use as targets or exclusions for multiple placements.
+You can save and manage reusable audiences, which are groups of audience segments and even other saved audiences, which you can use as targets or exclusions for multiple placements.<!-- Create audiences manually or use the AI-assisted audience agent to generate new reusable audiences using all first-party and third-party segments that are available to you, according to your stated requirements. -->
+
+<!-- Later:  Audiences built using generative AI have the indicator [icon] in **[!UICONTROL Audiences] > [!UICONTROL All Audiences]**. -->
 
 >[!NOTE]
 >
 >(Advertisers for whom DSP converts hashed email IDs to LiveRamp RampID segments) First-party RampID segments that aren't attached to an active, scheduled, or paused placement are paused. The segment is noted in the segment list as "Auto paused."
+
+
+<!-- ## Manually create a reusable audience -->
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**.
 
