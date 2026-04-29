@@ -2,7 +2,7 @@
 title: View simulation details
 description: Learn how to view simulation details on-screen.
 feature: Search Optimization, Search Portfolios, Search Simulations
-hide: yes
+hide: true
 exl-id: 1b289d20-561d-4cf9-844e-9cedff7f6296
 ---
 # View simulation details

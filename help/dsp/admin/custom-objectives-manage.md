@@ -39,9 +39,7 @@ You can include any of the following in your objectives:
 
 * (Advertisers with [!DNL Adobe Analytics for Advertising]) [Conversion and site engagement metrics synced from Adobe Analytics](/help/integrations/analytics/overview.md).
 
-<!-- Do DSP-only clients have these?
-* [Advertiser-tracked metrics from conversion feed files](/help/search-social-commerce/tracking/conversion-tracking-about.md).
- -->
+<!-- Do DSP-only clients have these? * [Advertiser-tracked metrics from conversion feed files](/help/search-social-commerce/tracking/conversion-tracking-about.md).  -->
 
 ## Objective status
 
@@ -141,7 +139,6 @@ You can view recommendations, and optionally apply them, when the objective stat
 
 
 <!-- Not used as of 2/6. If added, verify and edit:
-
 ## Delete an objective
 
 You can delete an objective that's not assigned to a package.
@@ -151,7 +148,6 @@ You can delete an objective that's not assigned to a package.
 1. In the row, click **...*** > **[!UICONTROL Delete]**.
 
 1. In the confirmation message, click **[!UICONTROL Confirm]**.
-
 -->
 
 ## Custom objective settings {#custom-objective-settings}
