@@ -103,7 +103,7 @@ index: true
   + [How Advertising DSP optimizes your campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization goals and how to use them](/help/dsp/optimization/optimization-goals.md)
   + [Placement-level pre-bid filters and how to use them](/help/dsp/optimization/optimization-pre-bid-filters.md)
-  + [Custom goals](/help/dsp/optimization/custom-goal.md)
+  + [Best gractices for custom goals](/help/dsp/optimization/custom-goal.md)
   + [Best practices for setting up performance campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
   + [Troubleshooting performance](/help/dsp/optimization/troubleshooting-performance.md)
 + Audiences {#audiences}

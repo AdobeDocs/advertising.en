@@ -9,7 +9,7 @@ An advertiser's [conversion](/help/search-social-commerce/glossary.md#c-d) metri
 
 * In Search, Social, & Commerce, data for the conversion metrics can be displayed in columns in campaign, portfolio, and objective management views and in reports. Users with sufficient access privileges can also use conversion metrics to create objectives, which are used to optimize portfolios.
 
-* (Advertisers with Advertising DSP) In DSP, you can include conversion metrics in campaign management views, custom objectives, and custom reports. You can also use conversion metrics to create [custom goals](/help/dsp/optimization/custom-goal.md), which are used to optimize packages.
+* (Advertisers with Advertising DSP) In DSP, you can include conversion metrics in campaign management views, custom objectives, and custom reports. You can also use conversion metrics to create [custom objectives](/help/dsp/admin/custom-objectives-manage.md), which are used to optimize packages.
 
 Available metrics include:
 
@@ -89,6 +89,8 @@ You can't delete an existing display name.
      
      1. (To hide metrics) In the confirmation message, click **[!UICONTROL Confirm]** to hide the metrics, including removing them from any derived metrics that contain the metrics.
 
+<!--
 >[!MORELIKETHIS]
 >
 >* 
+-->

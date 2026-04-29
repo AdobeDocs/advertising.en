@@ -26,8 +26,6 @@ topic_v2:
 ---
 # Best practices for custom goals
 
-<!-- rewrite and/or move into "Manage Custom Goals" -->
-
 Custom goals define the success events that an advertiser requires to meet its business objectives. Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal to help achieve the overall optimization goal. You can create custom goals as *[custom objectives](/help/dsp/admin/custom-objectives-manage.md)*.
 
 <!--
@@ -38,7 +36,7 @@ Custom goals define the success events that an advertiser requires to meet its b
 
 Each custom goal (objective) consists of one or more conversion metrics to be tracked and optimized, and the relative weights of those metrics. You can [assign a custom goal to a package](/help/dsp/campaign-management/packages/package-settings.md) for reporting and algorithmic optimization using [!DNL Adobe AI].
 
-To create and manage custom goals, see "[Manage Custom Objectives](/help/dsp/admin/custom-objectives-manage.md)."
+To create and manage custom goals, see "[Manage custom objectives](/help/dsp/admin/custom-objectives-manage.md)."
 
 ## Custom goals with a single metric
 

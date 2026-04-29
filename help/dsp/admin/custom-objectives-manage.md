@@ -6,8 +6,6 @@ feature: DSP Optimization, DSP Packages
 ---
 # Manage custom objectives
 
-*Beta feature*
-
 *Available for DSP accounts that are linked to Search, Social, & Commerce accounts*
 
 Objectives define the success events that an advertiser sets to meet its business objectives. Objectives are available for DSP packages as [custom goals](/help/dsp/campaign-management/packages/package-settings.md). Each package that uses the optimization goal "[!UICONTROL Highest Return on Ad Spend (ROAS)"] or "[!UICONTROL Lowest Cost per Acquisition (CPA)]" must include a custom goal to help achieve the overall optimization goal.
@@ -155,8 +153,6 @@ You can delete an objective that's not assigned to a package.
 
 ## Custom objective settings {#custom-objective-settings}
 
-<!-- What is AMOClient? -->
-
 <!-- Are we going to keep the heading "Properties" rather than "Metrics" (or Events, which is mentioned in the UI? Need a consistent naming convention. Ideally, it should be the same as the new SSC UI. -->
 
 | Section | Parameter | Description |
@@ -170,7 +166,7 @@ You can delete an objective that's not assigned to a package.
 
 >[!MORELIKETHIS]
 >
->* [Optimization Goals and How to Use Them](/help/dsp/optimization/optimization-goals.md)
->* [Best Practices for Custom Goals](/help/dsp/optimization/custom-goal.md)
->* [Package Settings](/help/dsp/campaign-management/packages/package-settings.md)
->* [Manage Conversions](/help/dsp/admin/conversion-metrics-manage.md)
+>* [Optimization goals and how to use them](/help/dsp/optimization/optimization-goals.md)
+>* [Best gractices for custom goals](/help/dsp/optimization/custom-goal.md)
+>* [Package settings](/help/dsp/campaign-management/packages/package-settings.md)
+>* [Manage conversions](/help/dsp/admin/conversion-metrics-manage.md)
