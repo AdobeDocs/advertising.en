@@ -5,11 +5,9 @@ feature: Conversions
 ---
 # Manage an advertiser's conversion metrics
 
-<!-- EDIT ALL, including metatdata -- FROM SSC help -->
-
 An advertiser's conversion metrics are used throughout Adobe Advertising:
 
-* In Advertising DSP, you can include conversion metrics in campaign management views, custom objectives, and custom reports. You can also use an advertiser's conversion metrics to create [custom goals](/help/dsp/optimization/custom-goal.md), which are used to optimize packages.
+* In Advertising DSP, you can include conversion metrics in campaign management views, custom objectives, and custom reports. You can also use an advertiser's conversion metrics to create [custom objectives](/help/dsp/admin/custom-objectives-manage.md), which are used to optimize packages.
 
 * (Advertisers with Advertising Search, Social, & Commerce) In Search, Social, & Commerce, data for the conversion metrics can be displayed in columns in campaign, portfolio, and objective management views and in reports. Users with sufficient access privileges can also use conversion metrics to create objectives, which are used to optimize portfolios.
 
