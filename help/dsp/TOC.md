@@ -215,12 +215,14 @@ index: true
   + [Archive a connected TV reach plan](/help/dsp/planner/planner-archive.md)
 + Resources {#resources}
   + [Manage URL lists](/help/dsp/resources/lists-url-manage.md)
-+ Administration {#admin}
++ Settings/administration {#admin}
     + [Edit your user profile](/help/dsp/admin/user-own-profile-edit.md)
   + Users {#users}
     + [Invite a new user for your organization account](/help/dsp/admin/user-invite.md)
     + [Resend a pending user invitation](/help/dsp/admin/user-resend-invite.md)
     + [Uninvite a pending user](/help/dsp/admin/user-uninvite.md)
+  + [Manage conversions](/help/dsp/admin/conversion-metrics-manage.md)
+  + [Manage custom objectives](/help/dsp/admin/custom-objectives-manage.md)
   + Blocked sites {#sites}
     + [About account-level and advertiser-level blocked sites lists](/help/dsp/admin/blocked-sites-list-about.md)
     + [Edit an account-level or advertiser-level blocked sites list](/help/dsp/admin/blocked-sites-list-edit.md)
