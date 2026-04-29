@@ -3,6 +3,13 @@ title: Manage ad groups
 description: Learn how to create and manage ad groups.
 exl-id: 66900a1f-f915-497d-9053-9d393845af08
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/sG5cWODyLzoKVIsQG2kGd68ozScBB3mTRCAWnAmuRiY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manage ad groups
 

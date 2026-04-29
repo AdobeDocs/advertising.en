@@ -3,6 +3,13 @@ title: Stop a bulksheet job in progress
 description: Learn how to stop a bulksheet job while it's in process.
 exl-id: 10577dcf-3b86-49f1-8e3a-ccfe56fffe84
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/H35Qgzg2cURzVvI5jWgthKjkhx6DRdNKOvFuAz7CyhM
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Stop a bulksheet job in progress
 

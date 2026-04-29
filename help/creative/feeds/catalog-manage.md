@@ -3,6 +3,13 @@ title: Manage feed catalogs
 description: Learn how to manage feed catalogs.
 feature: Creative Dynamic Creatives
 exl-id: d3ee20ba-5359-4dbe-bc76-269dc800843c
+TQID: https://experienceleague.adobe.com/x-5tLvICnT97bjhgenM3iTBWRLKl3fbfA5UF8VlKrVw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manage feed catalogs
 

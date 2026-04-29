@@ -1,14 +1,31 @@
 ---
-title: Integration with Adobe Experience Cloud solutions and services
-description: Learn about Search, Social, & Commerce integrations with Adobe Experience Cloud solutions and services.
+title: Integration with Adobe CX Enterprise solutions and services
+description: Learn about Search, Social, & Commerce integrations with Adobe CX Enterprise solutions and services.
 exl-id: 26456f60-937a-4f39-b5cf-a71c1c1b4833
 feature: Search Introduction
+TQID: https://experienceleague.adobe.com/vIjCxWutfGn8H9-TqxLvztNazb9RWq7ECeoOQXLfyEw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: f2860a4b-f905-4545-bead-1bbc92564592
+    internal-label: Advertising integrations
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
-# Integration with Adobe Experience Cloud solutions and services
+# Integration with Adobe CX Enterprise solutions and services
 
 Advertising Search, Social, & Commerce is integrated with the following [!DNL Adobe] products.
 
-* [Tags from Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/overview.html) &mdash; You can use the [Adobe Advertising Cloud Extension](https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud) for Adobe Experience Platform to [create Adobe Advertising conversion tracking tags](/help/search-social-commerce/tools/conversion-tag-generate.md), as well as third-party tracking tags, for your ad landing pages. If your organization doesn't have an Experience Platform account, then you can still install the extension directly in the [user interface for Adobe Experience Platform Data Collection](https://experience.adobe.com/#/data-collection/), which is available for free to Adobe Experience Cloud customers.
+* [Tags from Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/overview.html) &mdash; You can use the [Adobe Advertising Cloud Extension](https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud) for Adobe Experience Platform to [create Adobe Advertising conversion tracking tags](/help/search-social-commerce/tools/conversion-tag-generate.md), as well as third-party tracking tags, for your ad landing pages. If your organization doesn't have an Experience Platform account, then you can still install the extension directly in the [user interface for Adobe Experience Platform Data Collection](https://experience.adobe.com/#/data-collection/), which is available for free to Adobe CX Enterprise customers.
 
   To install the required extension, contact your organization administrator for access to Data Collection features in the UI and ask them to grant you the `manage_properties` permission.
   
@@ -28,9 +45,9 @@ Advertising Search, Social, & Commerce is integrated with the following [!DNL Ad
     >
     >By default, the [!DNL Analytics] metrics aren't visible in Search, Social, & Commerce screens. You must explicitly [make the metrics available in campaign management views, portfolios, and reports](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) after the [!DNL Adobe] implementation team has configured selected standard or custom events to pass into Adobe Advertising. You can optionally change the displayed metric names (without changing them in [!DNL Analytics]). You can make metrics viewable in the UI and rename metrics from [!UICONTROL Admin] > [!UICONTROL Conversions]. 
 
-  * Advertisers with [!DNL Analytics] but not Audience Manager can [create [!DNL Google Ads] customer match audiences](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md) from [!DNL Analytics] segments that are shared with Adobe Experience Cloud. To be eligible, an advertiser must implement the [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) and deploy a tag on its websites. You can then use the audiences in [!DNL Google Ads] campaigns as campaign-level or ad group-level [targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md) or [exclusions](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md).
+  * Advertisers with [!DNL Analytics] but not Audience Manager can [create [!DNL Google Ads] customer match audiences](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md) from [!DNL Analytics] segments that are shared with Adobe CX Enterprise. To be eligible, an advertiser must implement the [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) and deploy a tag on its websites. You can then use the audiences in [!DNL Google Ads] campaigns as campaign-level or ad group-level [targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md) or [exclusions](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md).
 
-* Adobe Audience Manager segments &mdash; (Opt-in feature) You can [create [!DNL Google Ads] customer match audiences](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md) from Audience Manager segments that have Search, Social, & Commerce as a destination. This may include [!DNL Analytics] segments that are published to Adobe Experience Cloud and segments that are created using the Adobe Experience Cloud Audience Library. You can then use the audiences in [!DNL Google Ads] campaigns as campaign-level or ad group-level [targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md) or [exclusions](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md).
+* Adobe Audience Manager segments &mdash; (Opt-in feature) You can [create [!DNL Google Ads] customer match audiences](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md) from Audience Manager segments that have Search, Social, & Commerce as a destination. This may include [!DNL Analytics] segments that are published to Adobe CX Enterprise and segments that are created using the Adobe CX Enterprise Audience Library. You can then use the audiences in [!DNL Google Ads] campaigns as campaign-level or ad group-level [targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md) or [exclusions](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md).
 
   See "[Adobe Advertising Integrations with Adobe Audience Manager](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html)" for more information.
 
@@ -38,4 +55,4 @@ Advertising Search, Social, & Commerce is integrated with the following [!DNL Ad
 
 * Adobe Campaign &mdash; You can [create and update a [!DNL Google Ads] customer match audience using an email list within [!DNL Campaign]](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-campaign-email-list.md).
 
-* Adobe Experience Cloud Notifications &mdash; (When you're logged in through Adobe Experience Cloud) From the notifications link ([Alert Notifications](/help/search-social-commerce/assets/notifications-panel.png "Alert Notifications")) at the top of each page, you can view all Adobe Experience Cloud system updates, posts, mentions, and assets shared. Contact your Adobe Account Team for information about access to Adobe Experience Cloud.
+* Adobe CX Enterprise Notifications &mdash; (When you're logged in through Adobe CX Enterprise) From the notifications link ([Alert Notifications](/help/search-social-commerce/assets/notifications-panel.png "Alert Notifications")) at the top of each page, you can view all Adobe CX Enterprise system updates, posts, mentions, and assets shared. Contact your Adobe Account Team for information about access to Adobe CX Enterprise.

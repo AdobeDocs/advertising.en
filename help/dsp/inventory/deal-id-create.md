@@ -3,6 +3,21 @@ title: Manually create deal ID details
 description: Learn how to manually enter details for a deal ID.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
+TQID: https://experienceleague.adobe.com/lg8BJhKDVNRKrZNr5WJLhDt7HU2pz7p-zTU6ShU2yCE
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: ac506c20-96f2-48f6-9096-77706e336bda
+    internal-label: DSP Private Inventory
+  - id: fae3ff5f-9a75-4de1-a100-c90dd8268528
+    internal-label: DSP Deal IDs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manually create deal ID details
 

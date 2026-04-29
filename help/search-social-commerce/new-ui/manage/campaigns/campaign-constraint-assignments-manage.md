@@ -2,8 +2,20 @@
 title: Manage constraint assignments for campaigns
 description: Learn how to assign constraints to campaigns.
 feature: Search Optimization, Search Campaign Management
-hide: yes
+hide: true
 exl-id: d886a228-24d7-4d8e-b68a-76e56b4304ed
+TQID: https://experienceleague.adobe.com/qwisQ3OqMeymlREsTVY-Wf59ln37hBLR0X4R7RjkuTM
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c2296997-5d79-4905-b32e-99b5aa892429
+    internal-label: Search optimization
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # (New UI) Manage constraint assignments for campaigns
 
@@ -17,7 +29,7 @@ Unassigning a constraint removes the association with the account components and
 
 >[!NOTE]
 >
->* If you later edit a keyword or the ad copy for an ad &mdash; thereby creating a new keyword or ad &mdash; then the constraint isn't assigned to the new entity.
+>* If you later edit a keyword or the ad copy for a non-mutable ad &mdash; thereby creating a new keyword or ad &mdash; then the constraint isn't assigned to the new entity.
 >* Active constraints restrict bidding only for assigned bid units in optimized legacy keyword-level portfolios. They're ignored for bid units that are in active portfolios, are in hybrid portfolios, or aren't in portfolios. 
 
 ## Assign a constraint to selected campaigns from the new [!UICONTROL Campaigns] view
@@ -83,6 +95,5 @@ You can assign a single constraint to one or more campaigns.
 >[!MORELIKETHIS]
 >
 >* [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
->* [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
 >* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
 >* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)

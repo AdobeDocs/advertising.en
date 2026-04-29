@@ -3,6 +3,18 @@ title: Best practices for using publisher recommendations with portfolios
 description: Learn the best practices for using [!DNL Google Ads] recommendations with your Search, Social, & Commerce portfolios.
 exl-id: 2ed14f8a-da35-4341-86b8-776973faee66
 feature: Search Recommendations
+TQID: https://experienceleague.adobe.com/8pW8DgB9YGEYCd96H4rQcwjWEYwSF2l8StSgwLrC8Yk
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Best practices for using publisher recommendations with portfolios
 

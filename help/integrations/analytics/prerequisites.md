@@ -3,6 +3,31 @@ title: Prerequisites and key information for implementing [!DNL Analytics for Ad
 description: Prerequisites and key information for implementing [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 7c477900-ebb0-4c0e-811a-ab8bc6069599
+TQID: https://experienceleague.adobe.com/ZUROuxkhySqUbUOInKkdhgvmqJth3P-9-fVDHojrn34
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
 ---
 # Prerequisites and key information for implementing [!DNL Analytics for Advertising]
 
@@ -33,11 +58,11 @@ Review the following information before you integrate Adobe Advertising with Ado
 Provide the Adobe Advertising implementation team with the following:
 
 * The [!DNL Analytics] report suite ID to use for reporting on paid media activity and for feeding site activity for optimization and reporting in Adobe Advertising
-* The company's Experience Cloud Organization ID (Org ID).
+* The company's CX Enterprise Organization ID (Org ID).
 
-You can find both of these IDs on the [Summary tab of the Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).
+You can find both of these IDs on the [Summary tab of the Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).
 
-![Experience Cloud Debugger Summary screen](/help/integrations/assets/a4adc-debugger-summary.png)
+![Experience Platform Debugger Summary screen](/help/integrations/assets/a4adc-debugger-summary.png)
 
 ## [!DNL Analytics] Data in Adobe Advertising {#lookback-a4adc}
 
@@ -105,7 +130,7 @@ Example: `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
 For accurate data integration, all Adobe Advertising calls used by an [!DNL Analytics for Advertising] activity to deliver content or record the goal metric must have a corresponding [!DNL Analytics] hit that shares the same supplemental ID.
 
-When you're troubleshooting in [!DNL Analytics], be sure to confirm that the supplemental ID is present for [!DNL Analytics] hits. In the [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html), you can see this ID in the Adobe Advertising tab as the `sdid` parameter.
+When you're troubleshooting in [!DNL Analytics], be sure to confirm that the supplemental ID is present for [!DNL Analytics] hits. In the [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html), you can see this ID in the Adobe Advertising tab as the `sdid` parameter.
 
 >[!NOTE]
 >

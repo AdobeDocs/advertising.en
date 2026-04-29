@@ -3,6 +3,16 @@ title: Data requirements for data feeds using EF IDs
 description: Reference the data requirements for data feeds using EF IDs.
 exl-id: 507ed42c-349f-4311-af61-8f7a27794162
 feature: Search Tracking
+TQID: https://experienceleague.adobe.com/p66X8xVlx-JwKjGgXxonJRRu78Q8F4109VkaIVtUbwU
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
 ---
 # Data requirements for data feeds using EF IDs
 

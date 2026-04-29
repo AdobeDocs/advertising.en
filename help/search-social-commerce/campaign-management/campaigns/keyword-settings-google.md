@@ -1,14 +1,26 @@
 ---
-title: '[!DNL Google Ads] keyword settings'
+title: "[!DNL Google Ads] keyword settings"
 description: Reference the settings for [!DNL Google Ads] keywords.
 exl-id: b2937d18-565a-43f0-ba33-d46d4c77ec07
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/XwutnbHVQrg8mfimzVjv-Px6OeUsOWzT7-347-ff2C0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # [!DNL Google Ads] keyword settings
 
 You can create keywords for campaigns that use the search and display networks.
 
-See the Google Ads help for [keyword limits per account](https://support.google.com/google-ads/answer/6372658). 
+See the [!DNL Google Ads] help for [keyword limits per account](https://support.google.com/google-ads/answer/6372658). 
 
 ## [!UICONTROL Keyword Details]
 

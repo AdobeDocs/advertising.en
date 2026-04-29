@@ -1,8 +1,27 @@
 ---
 title: Adobe Advertising metrics in Analysis Workspace
-description: Adobe Advertising metrics in Analysis Workspace
+description: Adobe Advertising metrics and classifications in Analysis Workspace
 feature: Integration with Adobe Analytics
 exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
+TQID: https://experienceleague.adobe.com/CLPeE8g0Mix4Scq90qCd-s-tCUuBmkTBrkBWT1aPEhw
+autotag-review: '2026-04-13T23:29:38.865Z'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: f2860a4b-f905-4545-bead-1bbc92564592
+    internal-label: Advertising integrations
+subfeature_v2:
+  - id: cfd751d4-ee56-4323-8fd1-dc174b031709
+    internal-label: Analytics integration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Adobe Advertising metrics in Analysis Workspace
 
@@ -10,13 +29,17 @@ exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
 
 >[!NOTE]
 >
->* Adobe Advertising passes traffic metrics and dimensions to [!DNL Analytics] daily.
+>* Adobe Advertising passes traffic metrics and classifications to [!DNL Analytics] daily.
 >* [!DNL Analytics] captures Adobe Advertising click-throughs and view-throughs in real time.
 >* For [!DNL Search, Social, & Commerce], this feature is supported for most ad networks and campaign types. See "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)" in the [!DNL Search, Social, & Commerce] Guide for more information.
 
 ## Traffic metrics from Adobe Advertising
 
 Adobe Advertising traffic metrics in [!DNL Analytics] usually start with "Adobe Advertising," except for "[!UICONTROL AMO ID Instances]." However, for long-term customers who used a custom event (rather than a reserved event) to originally create metrics for clicks, cost, and impressions, those metrics still begin with "AMO."
+
+See "[Adobe Advertising Metrics](https://experienceleague.adobe.com/en/docs/analytics/components/metrics/amo-metrics)" for the list.
+
+<!--
 
 | Traffic Metric | Description |
 | -------------- | ----------- |
@@ -34,7 +57,12 @@ Adobe Advertising traffic metrics in [!DNL Analytics] usually start with "Adobe 
 | [!UICONTROL Adobe Advertising Views 100% Complete] | The number of views for which 100% of an Adobe Advertising video was watched. |
 | [!UICONTROL AMO ID Instances] | The number of times the [!UICONTROL AMO ID] is set. |
 
-## Adobe Advertising dimensions
+-->
+
+## Adobe Advertising classifications
+
+See the [classifications for the AMO ID dimension](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#classifications).
+<!--
 
 >[!NOTE]
 >
@@ -59,6 +87,8 @@ Adobe Advertising traffic metrics in [!DNL Analytics] usually start with "Adobe 
 | [!UICONTROL Ad Destination URL (AMO ID)] | [!DNL Search, Social, & Commerce] data | The destination URL for the ad. |
 | [!UICONTROL Landing Type (AMO ID)] | [!DNL DSP] and [!DNL Search, Social, & Commerce] data | Whether the landing page entry was a view-through or a click-through. |
 | [!UICONTROL Product Target (AMO ID)] | [!DNL Search, Social, & Commerce] data | The product target for a product listing ad. |
+
+-->
 
 ## Useful custom calculated metrics for Adobe Advertising
 

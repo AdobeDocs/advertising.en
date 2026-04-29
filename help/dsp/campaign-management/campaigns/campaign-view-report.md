@@ -3,6 +3,21 @@ title: View a detailed report for a campaign
 description: Learn how to open campaign-level report with sections on geography, device, viewability, and audience performance data.
 feature: DSP Campaigns, DSP Campaign Data Views
 exl-id: ce0d8b44-63cb-47da-adac-d9ae330c52bf
+TQID: https://experienceleague.adobe.com/QDm4yYo305HeU7JR723ZWI-xzYlYISszgtj1bZOv2ek
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: b01c7841-b9d0-4fd5-8458-a6a6f601ad3d
+    internal-label: DSP Campaigns
+  - id: f784309e-91ce-4bb5-ade4-5cbbceabecc0
+    internal-label: " DSP Campaign Data Views"
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # View a detailed report for a campaign
 

@@ -23,4 +23,4 @@ You can open and configure a performance graph with up to three metrics totalled
 >[!MORELIKETHIS]
 >
 >* [About the [!UICONTROL Portfolios view]](portfolio-about.md)
->* [Download data from the [!UICONTROL Portfolios] view](portfolio-view-report.md)
+>* [Manage data view reports from the [!UICONTROL Portfolios] view](portfolio-view-report.md)

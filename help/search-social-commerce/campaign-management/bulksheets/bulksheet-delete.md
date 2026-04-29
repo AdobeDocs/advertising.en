@@ -3,6 +3,13 @@ title: Delete uploaded bulksheets and error files
 description: Learn how to delete your bulksheet files and error files.
 exl-id: a4cdceb4-6013-46b6-95bc-5536e45e34d2
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/Io-E8MwRgTvZ9PmNPlMgQHDojH4qwQjfBERNQ22H8Xc
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Delete uploaded bulksheets and error files
 

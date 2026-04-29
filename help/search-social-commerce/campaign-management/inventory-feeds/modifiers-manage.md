@@ -3,6 +3,13 @@ title: Manage modifiers
 description: Learn how to configure and manage modifiers for your ad templates for inventory data feeds.
 exl-id: 74c9a7c7-0979-4f78-9225-43bc6c94acd7
 feature: Search Inventory Feeds
+TQID: https://experienceleague.adobe.com/kx5mrj2liqcxDBJG0zFS53urCLg6udHp7oaFSqwwIfA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Managing modifiers
 

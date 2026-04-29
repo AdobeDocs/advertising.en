@@ -2,7 +2,7 @@
 title: Manage constraint assignments for keywords
 description: Learn how to assign constraints to keywords.
 feature: Search Optimization, Search Campaign Management
-hide: yes
+hide: true
 exl-id: 4f08719e-0770-4a65-91b2-80cf03b65557
 ---
 # (New UI) Manage constraint assignments for keywords
@@ -17,7 +17,7 @@ Unassigning a constraint removes the association with the account components and
 
 >[!NOTE]
 >
->* If you later edit a keyword or the ad copy for an ad &mdash; thereby creating a new keyword or ad &mdash; then the constraint isn't assigned to the new entity.
+>* If you later edit a keyword or the ad copy for a non-mutable ad &mdash; thereby creating a new keyword or ad &mdash; then the constraint isn't assigned to the new entity.
 >* Active constraints restrict bidding only for assigned bid units in optimized legacy keyword-level portfolios. They're ignored for bid units that are in active portfolios, are in hybrid portfolios, or aren't in portfolios. 
 
 ## Assign a constraint to selected ads from the new [!UICONTROL Keywords] view
@@ -84,5 +84,4 @@ You can assign a single constraint to one or more campaigns.
 >
 >* [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 >* [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
->* [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
 >* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)

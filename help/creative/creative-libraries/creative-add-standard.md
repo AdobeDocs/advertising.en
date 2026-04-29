@@ -3,6 +3,16 @@ title: Add standard creatives to a creative library
 description: Learn how to add standard (non-dynamic) creatives to a creative library.
 feature: Creative Standard Creatives
 exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
+TQID: https://experienceleague.adobe.com/mgUcE-E6LAIFFU8S5WrUceCQ6ZMSGF9tFkqEfnuKKSQ
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Add standard creatives to a creative library
 
@@ -148,7 +158,7 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
      1. Locate and select the display ad experiences, and then click **[!UICONTROL Select]** in the upper right.
 
-      Each creative variant in a selected experience will be imported as a separate HTML5 creative.
+      Each creative variant in a selected experience is imported as a separate HTML5 creative.
 
 1. Add or remove creatives:
 

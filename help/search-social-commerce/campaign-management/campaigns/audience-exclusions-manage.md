@@ -3,6 +3,13 @@ title: Manage audience exclusions for campaigns and ad groups
 description: Learn how to configure and manage audience exclusions for your [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns and ad groups.
 exl-id: 8bebc1fe-aad8-40f2-9dca-e4065a0c4990
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/fvSuGLpCoCFqIVN2IA97aV2jybg3dKCDdde9Z2xL2G4
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manage audience exclusions for your [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns and ad groups
 

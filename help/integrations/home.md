@@ -1,10 +1,34 @@
 ---
 title: What's new
-description: Learn about updates to integrations between Adobe Advertising and other products and services in Adobe Experience Cloud.
+description: Learn about updates to integrations between Adobe Advertising and other products and services in Adobe CX Enterprise (formerly Adobe Experience Cloud).
 cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: e5874077-d2a8-43bb-ad4e-55547442c8a4
+TQID: https://experienceleague.adobe.com/6-dzP-cjgKB5-HBvIpy8iU3B8FEbWAfP8r5UEad23Ok
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+  - id: f2860a4b-f905-4545-bead-1bbc92564592
+    internal-label: Advertising integrations
+subfeature_v2:
+  - id: d1e2786d-1070-4f97-93d7-f5b95de25b2b
+    internal-label: Audience Manager integration
+  - id: d9510790-d834-436d-8423-8d69cd50464a
+    internal-label: DSP Ads
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
 ---
 # What's new
 
@@ -32,7 +56,7 @@ The following features are new or recently changed.
 <!--
  At some point, just make this an overview page instead?
 
-Adobe Advertising is integrated with the following Adobe Experience Cloud products:
+Adobe Advertising is integrated with the following Adobe CX Enterprise products:
 
 * [Adobe Analytics](/help/integrations/analytics/overview.md)
 

@@ -1,8 +1,21 @@
 ---
-title: '[!DNL On Demand] premium inventory publishers in Asia Pacific'
+title: "[!DNL On Demand] premium inventory publishers in Asia Pacific"
 description: See the available [!DNL On Demand] premium inventory publishers in the Asia Pacific region.
 feature: DSP On Demand Inventory
 exl-id: ef23503c-d92b-4809-9082-afeaffe58f8f
+TQID: https://experienceleague.adobe.com/9PUXdICywm-p3FNlNp-hB6Hu8llInJbwlQ17OwJGZkY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: fbfa676f-2cdb-49be-b949-f2fab1be6daf
+    internal-label: DSP On Demand Inventory (Advertising)
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!DNL On Demand] premium inventory publishers in Asia Pacific{#on-demand-inventory-publishers-apac}
 

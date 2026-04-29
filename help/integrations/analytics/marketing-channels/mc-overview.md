@@ -3,6 +3,23 @@ title: Fundamentals of [!DNL Marketing Channels]
 description: Learn key information about [!DNL Analytics Marketing Channels] that [!DNL Analytics for Advertising] users should understand.
 feature: Integration with Adobe Analytics
 exl-id: de02dff5-86ce-41e8-89c6-3c11f6375b77
+TQID: https://experienceleague.adobe.com/NJ4LPss-g-J06PuvdCaUktHPyP7MARdJK84-D8gnwAk
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
 ---
 # Fundamentals of [!DNL Analytics Marketing Channels]
 
@@ -14,7 +31,7 @@ For full documentation on [!DNL Marketing Channels], see "[Get Started with [!DN
 
 [!DNL Marketing Channels] are a key feature of Adobe Analytics. [!DNL Marketing Channels] reports show how customers arrive to your website over the reporting window and how each channel impacts revenue or on-site behavior.
 
-Consider the following example of a cross-visit journey. Each visit to your website is indicated by the marketing channel from which the visitor entered. The first visit, also referred to as the First Touch Channel, is Email. Display on visit two is a participating channel, and Natural Search is considered the Last Touch Channel. If you use [!UICONTROL Last Touch Attribution] within [!UICONTROL Attribution IQ], then Natural Search receives full credit for the $250 conversion event. Using the Experience Cloud ID Service, you can tie these individual visits together to reveal one journey by a single visitor.
+Consider the following example of a cross-visit journey. Each visit to your website is indicated by the marketing channel from which the visitor entered. The first visit, also referred to as the First Touch Channel, is Email. Display on visit two is a participating channel, and Natural Search is considered the Last Touch Channel. If you use [!UICONTROL Last Touch Attribution] within [!UICONTROL Attribution IQ], then Natural Search receives full credit for the $250 conversion event. Using the Adobe CX Enterprise ID Service, you can tie these individual visits together to reveal one journey by a single visitor.
 
 ![Example cross-visit conversion journey in Marketing Channels](/help/integrations/assets/a4adc-mc-sample-journey.png)
 

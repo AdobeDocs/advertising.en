@@ -3,6 +3,16 @@ title: Create a conversion tag for [!DNL Google Ads]
 description: Learn how to create a [!DNL Google Ads] conversion tag.
 feature: Conversions
 exl-id: 214611f0-bd38-499e-a7de-3a5878995fb5
+TQID: https://experienceleague.adobe.com/pskBpQ12sQXj9RyLd3IQAG0MktlOvV2JvZBl5rGtQT0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Create a conversion tag for [!DNL Google Ads]
 
@@ -34,7 +44,7 @@ Once you add the tags to your website and they begin firing, [!DNL Google Ads] r
 
 ## Conversion tag settings {#conversion-tag-settings-google}
 
-**[!UICONTROL Select an Account]:** The applicable Google Ads account.
+**[!UICONTROL Select an Account]:** The applicable [!DNL Google Ads] account.
 
 **[!UICONTROL Type of Conversion]:** The type of conversion to track: *[!UICONTROL Click on a webpage element]*, *[!UICONTROL Calls to a phone number on your website]*, or *[!UICONTROL Clicks to your number on your mobile website]*. **Note:** *[!UICONTROL Import conversion]* is used for a different purpose; see "[Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)."
 

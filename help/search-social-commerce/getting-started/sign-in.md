@@ -3,12 +3,22 @@ title: Sign in
 description: Learn ways to sign in.
 exl-id: 9631a285-41f6-4fae-966b-e702d87b7f1c
 feature: Search Getting Started
+TQID: https://experienceleague.adobe.com/kkgk8VMLaF3phB1rVzMoxdOkgPWWk-fTqs8U2aGPJxw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Sign in
 
 Search, Social, & Commerce is transitioning to the Adobe Identity Management Service (IMS) for login authentication. IMS provides single sign-on (SSO) access using federated IDs to all [!DNL Adobe] products that support IMS, including Real-Time Customer Data Platform, Customer Journey Analytics, Target, and Analytics. With the change:
 
-* You can use one [!DNL Adobe ID] to sign in across [!DNL Adobe] products from either the Experience Cloud sign-in page or the legacy Search, Social, & Commerce sign-in page. Your [!DNL Adobe ID] provides user profile management and the ability to switch to a different [!DNL Adobe] product from the top menu. In a future release, you’ll be able to change the Search, Social, & Commerce account and IMS organization account from the top menu.
+* You can use one [!DNL Adobe ID] to sign in across [!DNL Adobe] products from either the CX Enterprise sign-in page or the legacy Search, Social, & Commerce sign-in page. Your [!DNL Adobe ID] provides user profile management and the ability to switch to a different [!DNL Adobe] product from the top menu. In a future release, you’ll be able to change the Search, Social, & Commerce account and IMS organization account from the top menu.
 
 * Enterprise authentication is supported.
 
@@ -16,7 +26,7 @@ Search, Social, & Commerce is transitioning to the Adobe Identity Management Ser
 
 Your current Search, Social, & Commerce credentials will remain active for a short time so that you can prepare for the change.
 
-For more information about the Experience Cloud interface, including managing your user profile, see "[Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)."
+For more information about the CX Enterprise interface, including managing your user profile, see "[CX Enterprise interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)."
 
 ## Sign in from the legacy Search, Social, & Commerce sign-in page
 
@@ -40,7 +50,7 @@ This option is available for a short time so that you can prepare for the change
 
 1. If you have access to multiple IMS organizations, select the correct organization in the upper right of the page.
 
-## Sign in from Adobe Experience Cloud using an [!DNL Adobe ID]
+## Sign in from Adobe CX Enterprise using an [!DNL Adobe ID]
 
 <!-- Later, give them the new direct URL(s) to our UI so they don't have to select the product. -->
 
