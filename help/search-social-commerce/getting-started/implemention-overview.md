@@ -1,8 +1,24 @@
 ---
 title: Overview of implementing Search, Social, & Commerce
-description: Learn about the general workflow to launch and maintain a portfolio. 
+description: Learn about the general workflow to launch and maintain a portfolio.
 exl-id: c99dc029-81e4-4416-89b1-7cf8d66658b2
 feature: Search Getting Started
+TQID: https://experienceleague.adobe.com/AFMTue1YGuFjAJF04HTHEimfd2JC8ZxSkYCRDu8wDFY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Overview of implementing Search, Social, & Commerce
 
@@ -54,7 +70,7 @@ The following is the general workflow for implementing and using Search, Social,
 
     1. (Advertisers with Adobe Analytics and/or Adobe Audience Manager) Set up integrations between the various accounts so that Adobe Advertising can exchange data with them.
     
-       See the guide on "[Integrations with Experience Cloud](/help/integrations/home.md)."
+       See the guide on "[Integrations with CX Enterprise](/help/integrations/home.md)."
     
     1. (Advertisers with [!DNL Google Analytics]) Sync conversion metrics for a [!DNL Google Analytics] account, property, and view combination for optimization and reporting.
     

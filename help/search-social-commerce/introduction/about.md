@@ -3,6 +3,27 @@ title: About Adobe Advertising Search, Social, & Commerce
 description: Learn about Search, Social, & Commerce.
 exl-id: a28c49ba-f669-4d15-813b-b30673431d01
 feature: Search Introduction
+TQID: https://experienceleague.adobe.com/BNgdfE-vefdswY5BPajlzPCI4syme0owusbCOq0QLVg
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: ebef6e6f-6552-40b6-b842-0c5256698a4e
+    internal-label: Predictive modeling
 ---
 # About Adobe Advertising Search, Social, & Commerce
 
@@ -40,11 +61,11 @@ Search, Social, & Commerce provides comprehensive campaign management, optimizat
 
 See "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)" for more information about support for different ad networks and ad types.
 
-## Integration with Adobe Experience Cloud solutions and services
+## Integration with Adobe CX Enterprise solutions and services
 
 Native integrations with Adobe Analytics and Adobe Audience Manager let you connect your data and audience segments for ad targeting, [!DNL Google Ads] audience creation, optimization, and reporting/analytics.
 
-For more information about integrations with these and other Adobe products, see "[Integration with Adobe Experience Cloud solutions and services](/help/search-social-commerce/introduction/integrations.md)."
+For more information about integrations with these and other Adobe products, see "[Integration with Adobe CX Enterprise solutions and services](/help/search-social-commerce/introduction/integrations.md)."
 
 ## Conversion tracking
 
@@ -57,4 +78,4 @@ For more information about tracking, see the chapter on "Tracking."
 >[!MORELIKETHIS]
 >
 >* [Supported inventory](supported-inventory.md)
->* [Integration with Adobe Experience Cloud solutions and services](integrations.md)
+>* [Integration with Adobe CX Enterprise solutions and services](integrations.md)

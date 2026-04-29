@@ -3,12 +3,27 @@ title: Sign in to DSP
 description: Learn how to sign in to DSP.
 feature: DSP Introduction
 exl-id: 1704cd75-81f8-4715-a177-69a03093ba1d
+TQID: https://experienceleague.adobe.com/KjBIag8qcpMONcX6pS2IJot3IA4Q-KOq0Av-1VzAot4
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Sign in to Adobe Advertising DSP
 
 Adobe Advertising DSP is transitioning to the Adobe Identity Management Service (IMS) for login authentication. IMS provides single sign-on (SSO) access using federated IDs to all [!DNL Adobe] products that support IMS, including Real-Time Customer Data Platform, Customer Journey Analytics, [!DNL Target], and [!DNL Analytics]. With the change: 
 
-* You can use one [!DNL Adobe ID] to sign in across [!DNL Adobe] products from either the Experience Cloud sign-in page or the legacy DSP sign-in page. Your [!DNL Adobe ID] provides user profile management. In a future release, you'll be able to change the DSP account, IMS organization account, and [!DNL Adobe] product from the top menu.
+* You can use one [!DNL Adobe ID] to sign in across [!DNL Adobe] products from either the Adobe CX Enterprise (formerly Adobe Experience Cloud) sign-in page or the legacy DSP sign-in page. Your [!DNL Adobe ID] provides user profile management. In a future release, you'll be able to change the DSP account, IMS organization account, and [!DNL Adobe] product from the top menu.
 
 * Enterprise authentication is supported.
 
@@ -40,7 +55,7 @@ Your current DSP credentials will remain active for a short time so that you can
 
    * If you have access to multiple IMS organizations, select the correct one.
    
-For more information about the Experience Cloud interface, including managing your user profile, see "[Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)."
+For more information about the CX Enterprise interface, including managing your user profile, see "[CX Enterprise interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud)."
 
 ### Troubleshooting
 

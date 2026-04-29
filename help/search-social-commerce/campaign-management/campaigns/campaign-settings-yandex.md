@@ -1,8 +1,18 @@
 ---
-title: '[!DNL Yandex] campaign settings'
+title: "[!DNL Yandex] campaign settings"
 description: Reference the settings for [!DNL Yandex] campaigns.
 exl-id: 3be88471-06b8-4f05-8a4e-24f71f7a36f7
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/5AvW-Q9TrsDZSfxVD7gp6C9BlDpTyvWVRkUqET-MAvc
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
 ---
 # [!DNL Yandex] campaign settings
 

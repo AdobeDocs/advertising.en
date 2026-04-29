@@ -3,6 +3,22 @@ title: Manage audience sources to activate universal ID audiences
 description: Learn how to create and manage a source to import audiences from your customer data platform and convert them to segments containing universal IDs.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
+TQID: https://experienceleague.adobe.com/us8NC8BEngb240MAW8hEo-DHGoW7MRDWvu0HedMsnFs
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: fef5c122-6482-4d17-a8ce-4e70b906f1f4
+    internal-label: DSP Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
 ---
 # Manage audience sources to activate universal ID audiences
 
@@ -102,7 +118,7 @@ You can view details about changes to an audience source record and optionally a
 
 **[!UICONTROL Advertiser]:** (Advertiser-level visibility only) The advertiser for whom the segments are available. Select one from the list of advertisers with access to the account.
 
-**[!UICONTROL Enter IMS Org Id]:** ([!DNL Real-Time CDP] sources only) The Adobe Experience Cloud organization ID for the [!DNL Adobe Experience Platform] account.
+**[!UICONTROL Enter IMS Org Id]:** ([!DNL Real-Time CDP] sources only) The Adobe CX Enterprise organization ID for the [!DNL Adobe Experience Platform] account.
 
 **[!UICONTROL Convert PII to the following IDs]:** The ID types to which you'll convert your personally identifiable information (PII). If you select multiple types, the generated segment is populated with values for each selected ID type (such as a [!DNL RampID] and a [!DNL Unified ID2.0] for each email address). Data charges are applied accordingly.
 

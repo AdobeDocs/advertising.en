@@ -3,6 +3,19 @@ title: Connected TV ad settings
 description: See descriptions of the available ad settings for connected TV ads.
 feature: DSP Ads
 exl-id: d8e47f7e-7480-400f-8ffa-ecf41ce2ebfb
+TQID: https://experienceleague.adobe.com/EY3BI7GFcDtR9SmA-N9VY3pwEMPTA99GApcuReaLBeQ
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: d9510790-d834-436d-8423-8d69cd50464a
+    internal-label: DSP Ads
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Connected TV ad settings
 

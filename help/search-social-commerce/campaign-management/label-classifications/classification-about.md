@@ -3,6 +3,13 @@ title: About label classifications
 description: Learn about using label classifications to group your account components.
 exl-id: 3ec4b111-225e-4272-b3dc-4f6f9c711779
 feature: Search Label Classifications
+TQID: https://experienceleague.adobe.com/dZL-v9IRny6Q2rjXcEeFKicL8UHKhRofQS4bBEd0sX8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # About label classifications
 
@@ -20,7 +27,7 @@ Each eligible entity can have label values for multiple classifications but only
 
 ## The Labels Classifications view
 
-In the legacy UI, the [!UICONTROL Labels Classifications] view is at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Labels Classifications]. In the new UI, the [!UICONTROL Labels Classifications] view is at [!UICONTROL Reports] > [!UICONTROL Labels Classifications].
+In the new UI, the [!UICONTROL Labels Classifications] view is at [!UICONTROL Reports] > [!UICONTROL Labels Classifications]. In the legacy UI, the [!UICONTROL Labels Classifications] view is at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Labels Classifications].
 
 The [!UICONTROL Labels Classifications] view includes [!UICONTROL Classifications] and [!UICONTROL Label Values] subviews. You can view data for your label classifications, [create](classification-create.md) and [delete](classification-delete.md) label classifications, and view data for your label classification values. By default, data is shown for your keyword-level label classifications and values, but you can optionally view data for your ad-level classifications and values.
 

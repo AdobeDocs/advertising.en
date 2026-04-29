@@ -3,6 +3,13 @@ title: Set up cookie-based click tracking
 description: Learn how to set up and validate click-tracking tags.
 exl-id: 3f2b09bc-9794-41d1-89fc-0d239bad2fb1
 feature: Search Tracking
+TQID: https://experienceleague.adobe.com/cs39NoKUXfx4PdrzULocZEOW0SUGtXrpmO4I3IXefwA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Set up cookie-based click tracking
 

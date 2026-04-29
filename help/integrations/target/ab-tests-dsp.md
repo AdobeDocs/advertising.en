@@ -2,6 +2,34 @@
 title: Configure A/B tests for Adobe Advertising DSP ads in Adobe Target
 description: Learn how to set up an A/B test in [!DNL Target] for your DSP ads.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
+TQID: https://experienceleague.adobe.com/xETpACcZbZqfFjS58mS-k-kXhm0BT79W0aHz2bdKDGs
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: b01c7841-b9d0-4fd5-8458-a6a6f601ad3d
+    internal-label: DSP Campaigns
+  - id: d9510790-d834-436d-8423-8d69cd50464a
+    internal-label: DSP Ads
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Configure A/B tests in Adobe Target for Advertising DSP ads
 
@@ -173,7 +201,7 @@ The following dimensions pertain to [!DNL Analytics for Target]:
 
 Within Analysis Workspace, if you notice that activity and experiences data is minimal or not populating, then do the following:
 
-* Verify that the same [!UICONTROL Supplemental Data ID] (SDID) is used for both [!DNL Target] and [!DNL Analytics]. You can verify the SDID values by using the [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html) on the landing page to which the campaign is driving users.
+* Verify that the same [!UICONTROL Supplemental Data ID] (SDID) is used for both [!DNL Target] and [!DNL Analytics]. You can verify the SDID values by using the [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html) on the landing page to which the campaign is driving users.
 
   [Supplemental Data ID (SDID) values in Adobe Debugger](/help/integrations/assets/target-troubleshooting-sdid.png)
 

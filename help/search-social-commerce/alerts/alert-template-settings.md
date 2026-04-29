@@ -3,6 +3,16 @@ title: Custom alert template settings
 description: Learn about the settings for custom alert templates.
 exl-id: c9cff26b-e6be-4dad-ac3a-b5a53387c4e6
 feature: Search Alerts
+TQID: https://experienceleague.adobe.com/zPTijDSnrxMys8g0qByEvfh1XyvnAzwwqpVmBHUDdLk
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Custom alert template settings
 

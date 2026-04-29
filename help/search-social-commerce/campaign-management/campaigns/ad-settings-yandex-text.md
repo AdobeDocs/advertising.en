@@ -1,8 +1,15 @@
 ---
-title: '[!DNL Yandex] text ad settings'
+title: "[!DNL Yandex] text ad settings"
 description: Reference the settings for [!DNL Yandex] text ads.
 exl-id: ed0ae54f-85a3-4475-af2d-f3e693fc48a1
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/hvFCEfBwGDFp4bn58fmXwtdLhiyl6fZwTGaK4KLhtmQ
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!DNL Yandex] text ad settings
 

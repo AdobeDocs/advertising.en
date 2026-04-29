@@ -3,6 +3,18 @@ title: About campaign management in Search, Social, & Commerce
 description: Learn about campaign management features in Search, Social, & Commerce.
 exl-id: 19e36e73-fcb6-4ff3-980b-fc05042725fd
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/tgoMzw4DbEY5evC2s1f6mQHfJYYb7DJzMfFUnc-06Bk
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # About campaign management in Search, Social, & Commerce
 
@@ -44,7 +56,7 @@ The campaign management views allow you to monitor and manage your search accoun
 
 * **[!UICONTROL Bulksheets]** &mdash; Use the [!UICONTROL Bulksheets] view to create [bulksheet files](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) containing as much data as you want for an account on a [supported ad network](/help/search-social-commerce/introduction/supported-inventory.md), and then post them to the ad network.
 
-* **[!UICONTROL Audiences]** &mdash; [The [!UICONTROL Audiences] views](/help/search-social-commerce/campaign-management/campaigns/audience-about.md) lists all of your [!DNL Google Ads] and [!DNL Microsoft Advertising] audiences generated from various types of user lists. You can create [!DNL Google Ads] audiences from your existing Adobe Experience Cloud audiences and your customer email lists. You can also view and manage audience targets and exclusions for your [!DNL Google Ads] and [!DNL Microsoft Advertising] ads.
+* **[!UICONTROL Audiences]** &mdash; [The [!UICONTROL Audiences] views](/help/search-social-commerce/campaign-management/campaigns/audience-about.md) lists all of your [!DNL Google Ads] and [!DNL Microsoft Advertising] audiences generated from various types of user lists. You can create [!DNL Google Ads] audiences from your existing Adobe CX Enterprise audiences and your customer email lists. You can also view and manage audience targets and exclusions for your [!DNL Google Ads] and [!DNL Microsoft Advertising] ads.
 
 * **[!UICONTROL Label Classifications]** &mdash; Use this view to create and delete [label classifications](/help/search-social-commerce/campaign-management/label-classifications/classification-about.md), which can help you group your labels into meaningful sets.
 

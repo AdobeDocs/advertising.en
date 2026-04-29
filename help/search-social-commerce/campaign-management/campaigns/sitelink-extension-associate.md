@@ -3,6 +3,13 @@ title: Associate shared sitelinks with accounts, campaigns, and ad groups
 description: Learn how to assign shared sitelink extensions to accounts, campaigns, and ad groups.
 exl-id: 5baa66a9-aac7-4ddd-a322-6578a571166b
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/at7jX7JhnEMMl-DF-AtpY8fXjoqs2aQs6gtKB1-vPJk
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Associate shared sitelinks with accounts, campaigns, and ad groups 
 

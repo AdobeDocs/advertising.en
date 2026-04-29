@@ -3,6 +3,22 @@ title: About [!UICONTROL Advertising Insights]
 description: Learn about the different types of [!UICONTROL Advertising Insights] available.
 exl-id: e6eec71e-04ab-4180-95f2-da31a26e5c1a
 feature: Search Advertising Insights
+TQID: https://experienceleague.adobe.com/AgAYE5bBGkWgk70jeKCTxzEOINvfsWXK9tnjytRc83c
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # About [!UICONTROL Advertising Insights]
 

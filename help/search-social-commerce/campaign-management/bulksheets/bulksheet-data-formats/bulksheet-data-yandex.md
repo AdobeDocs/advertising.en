@@ -3,6 +3,13 @@ title: Required bulksheet data for [!DNL Yandex] accounts
 description: Reference the required header fields and data fields in bulksheets for [!DNL Yandex] accounts.
 exl-id: bf5a22dd-75c2-486d-85fd-e042bdb87de3
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/yargzmjV5ZvOef--zrF6oSNq-gVcu1z3UXSovFDcMwo
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Appendix - Required bulksheet data for [!DNL Yandex] accounts
 

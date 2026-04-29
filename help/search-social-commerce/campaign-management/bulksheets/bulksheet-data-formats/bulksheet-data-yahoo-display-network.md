@@ -3,6 +3,13 @@ title: Bulksheet data for [!DNL Yahoo! Display Network] accounts
 description: Reference the header fields and data fields in downloaded bulksheets for [!DNL Yahoo! Display Network] accounts.
 exl-id: 8d938009-6edc-4420-8863-21ed241616f8
 feature: Search Bulksheets
+TQID: https://experienceleague.adobe.com/cqFcEzgFtjpBzPZEUYNnXjZSb-yRDytPCQm4hqX0R9w
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Appendix - Bulksheet data for [!DNL Yahoo! Display Network] accounts
 

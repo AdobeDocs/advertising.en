@@ -3,6 +3,19 @@ title: About managing an advertiser's conversion metrics
 description: Learn how you can use the conversion metrics that Adobe Advertising tracks for an advertiser.
 feature: Conversions
 exl-id: 8cfb4df8-ed48-4809-b383-7a6011b1f530
+TQID: https://experienceleague.adobe.com/GkZBWh5moYP6yKxE3yhfpUNsTLxpkjFWTThE0tAtNAg
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # About managing an advertiser's conversion metrics
 

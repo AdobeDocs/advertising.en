@@ -3,6 +3,13 @@ title: About keywords
 description: Learn about options for biddable and negative keywords.
 exl-id: d94c6f3f-0ea3-4792-8a6d-78f3a2af80e8
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/UV8Vf9pZU9zq9Ic4vTwFFoDGaOwoa8zR-9UgCFxqrH0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # About keywords
 

@@ -1,4 +1,4 @@
-# Tracking Template field for Google Ads entities
+# Tracking Template field for [!DNL Google Ads] entities
 
 <!-- Search CRUD and bulk edit of Google entity settings -->
 

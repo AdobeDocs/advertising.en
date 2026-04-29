@@ -1,8 +1,18 @@
 ---
-title: '[!UICONTROL AdWords Search Query Report]'
+title: "[!UICONTROL AdWords Search Query Report]"
 description: Learn about the [!UICONTROL AdWords Search Query Report].
 exl-id: cf472731-f9e5-4878-9a83-59f5c022ec69
 feature: Search Reports, Search Specialty Reports
+TQID: https://experienceleague.adobe.com/iZ2j7QXg4-u3rfN6gzVZ7CYhgb-k03-GkwJowaaMg4E
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # [!UICONTROL AdWords Search Query Report]
 

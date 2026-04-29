@@ -3,6 +3,16 @@ title: Spreadsheet report feed settings
 description: Learn about the settings for spreadsheet feeds.
 exl-id: 88836c15-81fe-4fe7-8321-2c984b4dcb5d
 feature: Search Reports
+TQID: https://experienceleague.adobe.com/4JPflN5lVXkNf2nWszh-LznW2xNaMkQMGPOxo6Ac2WU
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Spreadsheet report feed settings
 

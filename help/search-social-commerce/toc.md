@@ -14,8 +14,8 @@ index: true
 + Introduction {#intro}
   + [About Adobe Advertising Search, Social, & Commerce](/help/search-social-commerce/introduction/about.md)
   + [Supported inventory](/help/search-social-commerce/introduction/supported-inventory.md)
-  + Integration with Adobe Experience Cloud {#integrations}
-    + [Integration with Adobe Experience Cloud solutions and services](/help/search-social-commerce/introduction/integrations.md)
+  + Integration with Adobe CX Enterprise {#integrations}
+    + [Integration with Adobe CX Enterprise solutions and services](/help/search-social-commerce/introduction/integrations.md)
     + [Adobe [!DNL Analytics for Advertising] (link)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html){target="_blank"}
     + [Integration with Adobe Audience Manager (link)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html){target="_blank"}
   + [Support for consumer privacy (link)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
@@ -101,7 +101,7 @@ index: true
       + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
     + Ads {#ads}
       + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
-      + [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
+      + [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)
   + Reports {#reports}
     + Label classifications {#label-classifications}
       + [About label classifications](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-about)

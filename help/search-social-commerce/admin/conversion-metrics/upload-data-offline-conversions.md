@@ -3,6 +3,16 @@ title: Upload offline conversion data for enhanced conversions
 description: Learn how to upload first-party, offline conversion data to map to [!DNL Google Ads] enhanced conversions for leads and [!DNL Microsoft Advertising] enhanced conversions.
 feature: Conversions
 exl-id: 5c5dfbb8-3b17-4973-8012-fc7f0e97e33b
+TQID: https://experienceleague.adobe.com/Hfmc5VCw9682cYmOQIcoy1Yy6InkoSmE18qqILbD2oI
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Upload offline conversion data for enhanced conversions
 
@@ -28,7 +38,7 @@ You can upload your first-party, offline conversion data &mdash; including hashe
 
 `Parameters:TimeZone=insert_timezone`
 
-Enter the account's time zone either in this location or in the "[!UICONTROL Conversion Time]" column for each row. Use either a\) ([!DNL Google Ads only]) the [supported time zone ID format](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) or b\) the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time).
+Enter the account's time zone either in this location or in the "[!UICONTROL Conversion Time]" column for each row. Use either a\) ([!DNL [!DNL Google Ads] only]) the [supported time zone ID format](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) or b\) the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time).
 
 ### Table columns and values for [!DNL Google Ads]
 

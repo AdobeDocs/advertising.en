@@ -3,6 +3,13 @@ title: Edit standard creatives in a creative library
 description: Learn how to change the settings of standard (non-dynamic) creatives in a creative library.
 feature: Creative Standard Creatives
 exl-id: 333ab2ea-293a-44e2-89e7-06782578318f
+TQID: https://experienceleague.adobe.com/Z199ySghpKmaYCQiWz05YQiFX9beF4fmY9Gu3-MHv-w
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Edit standard creatives in a creative library
 
