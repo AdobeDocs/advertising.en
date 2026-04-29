@@ -148,6 +148,7 @@ You can delete an objective that's not assigned to a package.
 1. In the row, click **...*** > **[!UICONTROL Delete]**.
 
 1. In the confirmation message, click **[!UICONTROL Confirm]**.
+
 -->
 
 ## Custom objective settings {#custom-objective-settings}
