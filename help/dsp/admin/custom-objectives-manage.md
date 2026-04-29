@@ -137,12 +137,20 @@ You can view recommendations, and optionally apply them, when the objective stat
 
 1. In the row, click **...*** > **[!UICONTROL Change Log]**.
 
-<!-- Not used as of 2/6. If added, verify and edit:
+<!--
+
+Not used as of 2/6. If added, verify and edit:
+
 ## Delete an objective
+
 You can delete an objective that's not assigned to a package.
+
 1. In the main menu, click **[!UICONTROL Settings] > [!UICONTROL Custom Objectives]**.
+
 1. In the row, click **...*** > **[!UICONTROL Delete]**.
+
 1. In the confirmation message, click **[!UICONTROL Confirm]**.
+
 -->
 
 ## Custom objective settings {#custom-objective-settings}
