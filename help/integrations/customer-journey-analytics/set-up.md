@@ -31,6 +31,10 @@ topic_v2:
 
 The following tasks are required to view Advertising Cloud data in Customer Journey Analytics.
 
+>[!PREREQUISITES]
+>
+>While this feature is in beta mode, ask your Adobe Account Team to provide the advertiser account with access to the `Adobe Advertising` service.
+
 1. (Your organization's web analyst; optional) [Collect historical data for AMO IDs and EF IDs](/help/integrations/analytics/rvars-to-evars.md){target="_blank"}.
 
    This step is applicable only for advertisers with [!DNL Analytics for Advertising].

@@ -32,6 +32,8 @@ You can save and manage reusable audiences, which are groups of audience segment
 
 <!-- ## Manually create a reusable audience -->
 
+<!-- This is no longer the default, so will need to select "Manual" -->
+
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**.
 
 1. Above the data table, click **[!UICONTROL Create]**.
@@ -73,12 +75,12 @@ You can save and manage reusable audiences, which are groups of audience segment
      * To add a new segment group:
 
        1. Click **[!UICONTROL + New Group]** in the right panel.
-
-         1. (Optional) Change the logic between the previous group and the new group to *[!UICONTROL And]* or *[!UICONTROL Or]*, as needed.
-
-         1. Locate the segments for the new group in the left panel, and select the check boxes next to the segment names.
-
-         1. (Optional) Change the group logic to *[!UICONTROL Include Any]*, *[!UICONTROL Include All]*, or *[!UICONTROL Exclude All]*, as needed.
+       
+          1. (Optional) Change the logic between the previous group and the new group to *[!UICONTROL And]* or *[!UICONTROL Or]*, as needed.
+          
+          1. Locate the segments for the new group in the left panel, and select the check boxes next to the segment names.
+          
+          1. (Optional) Change the group logic to *[!UICONTROL Include Any]*, *[!UICONTROL Include All]*, or *[!UICONTROL Exclude All]*, as needed.
 
    * To use segment logic from an existing audience:
 
@@ -90,7 +92,7 @@ You can save and manage reusable audiences, which are groups of audience segment
 
         * In a text editor, manually create the segment logic using alphanumeric segment IDs and [Boolean syntax](audience-segment-logic-syntax.md), and copy it to your clipboard.
 
-      1. Click **[!UICONTROL paste in an audience rule to begin building]**, paste the existing segment logic into the input field, and then click **[!UICONTROL Apply]**.
+     1. Click **[!UICONTROL paste in an audience rule to begin building]**, paste the existing segment logic into the input field, and then click **[!UICONTROL Apply]**.
 
          >[!NOTE]
          >
