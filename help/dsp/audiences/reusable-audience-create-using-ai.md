@@ -13,7 +13,9 @@ exl-id: 82c9f122-2bdd-409f-a4d6-1da21ecbe913
 
 <!-- Redo the legacy file to include the new info. so that it includes two separate procedures (gen AI and manually). -->
 
-Use the AI-assisted audience agent to generate new reusable audiences using all first-party and third-party segments that are available to you, according to your stated requirements. You can use your audiences as targets or exclusions for multiple placements.
+Use the AI-assisted audience agent to generate new reusable audiences using all first-party and third-party segments that are available to you, according to your stated requirements. When applicable, the agent suggests additional segment filters to help you create a more effective audience brief.
+
+You can use your audiences as targets or exclusions for multiple placements.
 
 <!-- Later:  Audiences built using generative AI have the indicator [icon] in **[!UICONTROL Audiences] > [!UICONTROL All Audiences]**. -->
 
@@ -49,15 +51,15 @@ Use the AI-assisted audience agent to generate new reusable audiences using all 
 
 1. Build the audience:
 
-   For users with beta permissions, the AI option is the default. To [assemble the audience yourself](/help/dsp/audiences/reusable-audience-create.md), click the "Switch to manual mode" button at the bottom.
+   The AI option is the default. To [assemble the audience yourself](/help/dsp/audiences/reusable-audience-create.md), click the "Switch to manual mode" button at the bottom.
 
    1. Enter one or more prompts to describe the audience characteristics you want to include and exclude. To submit each prompt, click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
 
       For more information, see "[Writing prompts](#writing-prompts)" and "[Best practices for creating an audience brief](#audience-brief-best-practices)."
 
-      As the audience agent finds relevent segments, it creates a Boolean audience expression based on your criteria. It also asks for your approval before looking for matching segments to assemble the audience.
+      When applicable, the agent suggests additional segment filters to help you create a more effective audience brief. You can accept or reject the suggestions.
 
-      You can optionally ignore the request and continue to specify additional audience criteria instead.
+      As the audience agent finds relevent segments, it creates a Boolean audience expression based on your criteria. It also asks for your approval before looking for matching segments to assemble the audience. You can optionally ignore the request and continue to specify additional audience criteria instead.
 
    1. When the audience agent presents an audience expression that adequately describes your audience, tell the audience agent to proceed with assembling the audience.
 
