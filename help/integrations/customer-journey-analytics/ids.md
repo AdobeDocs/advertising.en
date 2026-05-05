@@ -35,7 +35,7 @@ topic_v2:
 
 *Beta feature*
 
-Adobe Advertising uses two IDs for on-site performance tracking:  the *EF ID* and the *AMO ID*.
+Adobe Advertising uses two IDs for on-site performance tracking: the *EF ID* and the *AMO ID*.
 
 <!--
  Rewrite for CJA:

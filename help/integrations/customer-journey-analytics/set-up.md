@@ -69,7 +69,7 @@ The following tasks are required to set up data collection in Experience Platfor
 
    * Choose the option to **[!UICONTROL Create dataset from schema]** and select your schema.
    
-     Adobe Advertising creates additional datasets for the related summary metrics data (such as conversion values) and lookup data (dimensions/classification metadata, such as Adobe Advertising campaign name) based on your event dataset. Data for the datasets is populated in Experience Platform daily.
+     <!-- Manual process during beta -->Adobe Advertising creates additional datasets for the related summary metrics data (such as conversion values) and lookup data (dimensions/classification metadata, such as Adobe Advertising campaign name) based on your event dataset. Data for the datasets is populated in Experience Platform daily.
 
 1. [Create a datastream](https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/configure) for the schema.
 
