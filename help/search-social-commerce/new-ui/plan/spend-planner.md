@@ -183,7 +183,9 @@ You can open or save data from either a) the line chart showing cost points and 
 
 -->
 
-## <!--(Legacy UI) -->Open or save data as a [!DNL Microsoft Excel] workbook file {#spend-recommendations-download-legacy}
+<!--(Legacy UI) -->
+
+## Open or save data as a [!DNL Microsoft Excel] workbook file {#spend-recommendations-download-legacy}
 
 1. Generate a spend recommendation report for selected portfolios.
 
