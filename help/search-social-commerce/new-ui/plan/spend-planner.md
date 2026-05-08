@@ -68,7 +68,7 @@ Spend recommendation reports include the following data:
    
    1. (Optional) To see the cost and revenue for any point on the chart, hold the cursor over the point.
 
-1. (Optional) To view the recommended daily spend and predicted revenue for each of the portfolios using a new total spend target, enter a proposed total daily spend target across all portfolios in the [!UICONTROL Total Spend Target] field. Then press the **Enter** key.
+1. (Optional) To view the recommended daily spend target and expected revenue for each of the portfolios using a different total spend target, enter a proposed total daily spend target across all portfolios in the [!UICONTROL Total Spend Target] field. Then press the **Enter** key.
 
    The spend recommendation tool uses data from weekly simulations, so the total recommended spend is the closest match to your proposed spend target with the ideal spend mix.
 
@@ -98,7 +98,11 @@ New UI; validate post-Update steps once I get it to generate a report:
 
    1. (Optional) To see the cost and revenue for any point on the chart, hold the cursor over the point.
 
-1. (Optional) To view the recommended daily spend and predicted revenue for each of the portfolios using a new total spend target, enter a proposed total daily spend target across all portfolios in the [!UICONTROL Total Spend Target] field. Then press the **Enter** key.
+1. (Optional) To download the proposed allocation and expected revenue per portfolio, click ![Download](/help/search-social-commerce/assets/download-spend-recommendation.png "Download") next to [!UICONTROL Portfolio Allocation] in the right column.
+
+   Open or save the file according to your browser's normal procedure. For more information, see your browser's online help.
+
+1. (Optional) To view the recommended daily spend and expected revenue for each of the portfolios using a different total spend target, enter a proposed total daily spend target across all portfolios in the [!UICONTROL Total Spend Target] field. Then press the **Enter** key.
 
    The spend recommendation tool uses data from weekly simulations, so the total recommended spend is the closest match to your proposed spend target with the ideal spend mix.
 
@@ -128,7 +132,8 @@ New UI; validate post-Update steps once I get it to generate a report:
 
    The spend recommendation tool uses data from weekly simulations, so the total recommended spend is the closest match to your proposed spend target with the ideal spend mix.
 
-## Apply spend recommendations {#spend-recommendations-apply}
+<!--
+## (New UI) Apply spend recommendations {#spend-recommendations-apply}
 
 *Portfolios with daily budgets only*
 
@@ -137,7 +142,26 @@ New UI; validate post-Update steps once I get it to generate a report:
 >* If the applied changes will increase or decrease the spend target of any portfolio by more than 20%, you must approve the change.
 >* When the spend target for a portfolio changes by more than 20%, Search, Social, & Commerce takes up to 3-4 days to adjust its models and achieve the new target.
 
-1. View the spend recommendation report for one or more portfolios with daily budgets.
+1. [Generate a spend recommendation report](#spend-recommendations-generate) for one or more portfolios with daily budgets.
+
+1. Select the check box next to each portfolio for which you want to apply the recommended spend target. To select all portfolios, select the check box next to **[!UICONTROL Select All Recommendations]**.
+
+1. Click **[!UICONTROL Apply Selected Recommendations]**.
+
+1. (If any of the budgets will change by more than 20%) In the confirmation message, click **[!UICONTROL Confirm]** to approve the changes.
+
+-->
+
+## <!--(Legacy UI) -->Apply spend recommendations {#spend-recommendations-apply-legacy}
+
+*Portfolios with daily budgets only*
+
+>[!NOTE]
+>
+>* If the applied changes will increase or decrease the spend target of any portfolio by more than 20%, you must approve the change.
+>* When the spend target for a portfolio changes by more than 20%, Search, Social, & Commerce takes up to 3-4 days to adjust its models and achieve the new target.
+
+1. [Generate a spend recommendation report](#spend-recommendations-generate-legacy) for one or more portfolios with daily budgets.
 
 1. Select the check box next to each portfolio for which you want to apply the recommended spend target. To select all portfolios, select the check box next to **[!UICONTROL Select All Recommendations]**.
 
@@ -145,27 +169,26 @@ New UI; validate post-Update steps once I get it to generate a report:
 
 1. (If any of the budgets will change by more than 20%) In the confirmation message, click **[!UICONTROL Yes]** to approve the changes.
 
-<!-- 
+<!--
 
-New UI: Verify/edit all steps and edit accordingly:
+## (New UI) Open or save data as a [!DNL Microsoft Excel] workbook file {#spend-recommendations-download}
 
-1. [Generate a spend recommendation report](#spend-recommendations-generate) for one or more portfolios with daily budgets.
-...
+You can open or save data from either a) the line chart showing cost points and the expected revenue for each cost and b) the donut charts of the current and proposed media mix. [This seems to be identical to the Portfolio Allocation report -- how should these be different?]
 
- -->
-
-## Open or save data as a [!DNL Microsoft Excel] workbook file {#spend-recommendations-download}
-
-1. Generate a spend recommendation report for selected portfolios.
+1. [Generate a spend recommendation report](#spend-recommendations-generate) for selected portfolios.
 
 1. Above the report, click ![Download](/help/search-social-commerce/assets/download-spend-recommendation.png "Download").
 
    Open or save the file according to your browser's normal procedure. For more information, see your browser's online help.
 
-<!--
-
-New UI:  Verify/edit all steps and edit accordingly:
-
-1. [Generate a spend recommendation report](#spend-recommendations-generate).
-...
 -->
+
+<!--(Legacy UI) -->
+
+## Open or save data as a [!DNL Microsoft Excel] workbook file {#spend-recommendations-download-legacy}
+
+1. Generate a spend recommendation report for selected portfolios.
+
+1. In the upper right of the report, click ![Download](/help/search-social-commerce/assets/download-spend-recommendation.png "Download").
+
+   Open or save the file according to your browser's normal procedure. For more information, see your browser's online help.
