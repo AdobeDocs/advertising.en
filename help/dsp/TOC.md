@@ -138,6 +138,7 @@ index: true
       + [Convert user IDs from [!DNL Amperity] to universal IDs](/help/dsp/audiences/sources/source-amperity.md)
       + [Convert user IDs from [!DNL Optimizely] to universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
       + [Convert user IDs from [!DNL Tealium] to universal IDs](/help/dsp/audiences/sources/source-tealium.md)
+      + [Import first-party segments from [!DNL AdFixus]](/help/dsp/audiences/sources/source-adfixus.md)
     + [Manage audience sources to activate universal ID audiences](/help/dsp/audiences/sources/source-manage.md)
   + [Manually import authenticated segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
   + [Available third-party data providers](/help/dsp/audiences/third-party-data-providers.md)

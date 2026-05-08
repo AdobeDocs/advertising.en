@@ -24,8 +24,6 @@ topic_v2:
 ---
 # Convert user IDs from [!DNL Adobe Real-Time CDP] to universal IDs
 
-*Beta feature*
-
 Use the DSP integration with [the [!DNL Adobe Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform, to convert your user IDs &mdash; including hashed email addresses, cookies, and mobile advertising IDs &mdash; to universal IDs for targeted advertising.
 
 1. (To convert user IDs to [!DNL RampIDs]<!-- or [!DNL ID5] IDs -->; advertisers with [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) Set up tracking for [!DNL Analytics] measurement:
