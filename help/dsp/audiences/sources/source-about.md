@@ -22,11 +22,13 @@ topic_v2:
 ---
 # About first-party audience sources
 
-DSP can ingest first-party segments comprised of hashed email IDs, cookies, and mobile advertising IDs (MAIDs) built within your customer data platforms (CDPs) and convert them to segments comprised of [!DNL LiveRamp] [!DNL RampIDs] and [!DNL Unified ID 2.0 (UID2.0)] IDs.
+The audience source feature allows you to import first-party segments containing universal IDs as-is or convert them to segments containing specified universal ID types:
 
-Advertisers in Australia can also import first-party segments that already contain [!DNL AdFixus] universal IDs (without DSP converting those IDs to other universal ID types). For that workflow, see "[Import first-party segments from [!DNL AdFixus]](/help/dsp/audiences/sources/source-adfixus.md)."
+* Advertisers in Australia can import first-party segments that already contain [!DNL AdFixus] universal IDs.
 
-For all ID types, each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Move that info. to somewhere else? -->. Segment details include the size of each universal ID type as well as the size for each device type tracked by cookies or device IDs.
+* DSP can ingest first-party segments comprised of hashed email IDs, cookies, and mobile advertising IDs (MAIDs) built within additional customer data platforms (CDPs) and convert them to segments comprised of [!DNL LiveRamp] [!DNL RampIDs] and [!DNL Unified ID 2.0 (UID2.0)] IDs.
+
+For all ID types, each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Move that info. to somewhere else? -->. Segment details include the size of each universal ID type and the size for each device type tracked by cookies or device IDs.
 
 ## Universal ID types to which you can translate first-party segments {#universal-id-types}
 

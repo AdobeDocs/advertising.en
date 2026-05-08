@@ -62,7 +62,11 @@ You have many options to import first-party and third-party data segments into D
 
 * DSP can pull in your Adobe Audience Manager and other [!DNL Adobe] audiences for targeting. For prerequisites and instructions, see "[Import Adobe Audience Manager segments for ad targeting](/help/integrations/audience-manager/import-audiences.md).
 
-* DSP can translate first-party data segments from supported customer data platforms to segments with universal IDs using the [Sources feature](/help/dsp/audiences/sources/source-about.md). Australian advertisers can also [import [!DNL AdFixus] first-party segments](/help/dsp/audiences/sources/source-adfixus.md). You can also [manually send your authenticated [!DNL LiveRamp] [!DNL RampID] segments directly to DSP](/help/dsp/audiences/sources/source-import-liveramp-segments.md).
+* DSP can translate first-party data segments from supported customer data platforms to segments with universal IDs using the [Sources feature](/help/dsp/audiences/sources/source-about.md).
+
+* Australian advertisers can import [!DNL AdFixus] first-party segments using the [Sources feature](/help/dsp/audiences/sources/source-about.md) without translating your [!DNL AdFixus] universal IDs to other ID types.
+
+* DSP is a destination platform for [!DNL LiveRamp], so you can [manually send your authenticated [!DNL LiveRamp] [!DNL RampID] segments directly to DSP](/help/dsp/audiences/sources/source-import-liveramp-segments.md).
 
 * DSP can import your other first-party data segments directly from your data management platform (DMP) and provide them to any set of advertisers, as needed.
 

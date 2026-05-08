@@ -24,7 +24,7 @@ topic_v2:
 
 *Applicable to advertisers in Australia only*
 
-Use the Advertising DSP integration with [!DNL AdFixus] to import your [!DNL AdFixus] universal IDs with segment mappings for targeted advertising. [!DNL AdFixus] IDs are available in Australia only. DSP doesn't change [!DNL AdFixus] IDs to other ID types, nor convert other ID types to [!DNL AdFixus] IDs.
+Use the Advertising DSP integration with [!DNL AdFixus] to import your [!DNL AdFixus] universal IDs with segment mappings for targeted advertising. [!DNL AdFixus] IDs are available in Australia only. DSP doesn't change [!DNL AdFixus] IDs to other ID types, nor convert other ID types to [!DNL AdFixus] IDs. DSP doesn't charge a fee for importing the IDs.
 
 Once you import your [!DNL AdFixus] segments to DSP, you can target placements to [!DNL AdFixus] IDs and to specific first-party segments from [!DNL AdFixus]. You can also add [!DNL AdFixus] segments to reusable audiences. The details for any segment include the count of applicable [!DNL AdFixus] IDs.
 
@@ -50,9 +50,9 @@ You can view the impression, click, frequency, and other metrics for users with 
 
 1. Verify in the [!UICONTROL First Party Segments] section of your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating. Compare the number of [!DNL AdFixus] IDs with the number of user IDs within [!DNL AdFixus].
 
-   <!-- Verify:  The segments should be available in DSP within 24 hours. After DSP receives the segment data, the audience count should be visible within nine (9) hours. -->
-
-<!-- Segments are refreshed every 24 hours. However, inclusion in a segment expires after 30 days by default or after a customer-specified expiration period. Refresh your segments by re-pushing them from [!DNL AdFixus] prior to the expiration. -->
+   The segments are available in DSP as soon as they are created.
+   
+Segments are refreshed and available for targeting every three hours, although the count shown in DSP is refreshed every 24 hours. **Note:** Inclusion in a segment expires after a specified expiration period, which you configure in [!DNL AdFixus]. Refresh your segments by re-pushing them from [!DNL AdFixus] prior to the expiration.
 
 >[!MORELIKETHIS]
 >
