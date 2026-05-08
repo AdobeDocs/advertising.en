@@ -40,12 +40,14 @@ In DSP, you can create and manage audience segments and audience sets, which you
 
       For more information about Adobe Advertising support for CCPA opt-out-of-sale requests, see [Adobe Advertising support for the California Consumer Privacy Act: Consumer opt-out of sale support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
-* (Beta feature) [Obtain and use universal IDs for cookieless targeting](/help/dsp/audiences/universal-ids.md):
+* [Obtain and use universal IDs for cookieless targeting](/help/dsp/audiences/universal-ids.md):
 
   * Manually send your authenticated [!DNL LiveRamp] [!DNL RampID] segments directly to DSP.
 
   * Allow DSP to import first-party segments from your customer data platform and translate them to supported universal ID types.
-  
+
+  * Import first-party [!DNL AdFixus] segments that contain [!DNL AdFixus] universal IDs (Australia only). You can then target placements to [!DNL AdFixus] IDs, add those segments to [reusable audiences](/help/dsp/audiences/reusable-audience-create.md), and use reporting described in "[Import first-party segments from [!DNL AdFixus]](/help/dsp/audiences/sources/source-adfixus.md)."
+
   * Include third-party segments that contain universal IDs in your placement targets without any extra steps.
 
 * Create an audience library of [reusable audiences](/help/dsp/audiences/reusable-audience-create.md). Saved audiences are composed of any of your available audience segments and any of your other saved audiences. Any changes you make to a saved audience are automatically applied to all placements that target or exclude the audience and to all other audiences that include the saved audience.
@@ -60,7 +62,7 @@ You have many options to import first-party and third-party data segments into D
 
 * DSP can pull in your Adobe Audience Manager and other [!DNL Adobe] audiences for targeting. For prerequisites and instructions, see "[Import Adobe Audience Manager segments for ad targeting](/help/integrations/audience-manager/import-audiences.md).
 
-* DSP can translate first-party data segments from supported customer data platforms to segments with universal IDs using the [Sources feature](/help/dsp/audiences/sources/source-about.md). You can also [manually send your authenticated [!DNL LiveRamp] [!DNL RampID] segments directly to DSP](/help/dsp/audiences/sources/source-import-liveramp-segments.md).
+* DSP can translate first-party data segments from supported customer data platforms to segments with universal IDs using the [Sources feature](/help/dsp/audiences/sources/source-about.md). Australian advertisers can also [import [!DNL AdFixus] first-party segments](/help/dsp/audiences/sources/source-adfixus.md). You can also [manually send your authenticated [!DNL LiveRamp] [!DNL RampID] segments directly to DSP](/help/dsp/audiences/sources/source-import-liveramp-segments.md).
 
 * DSP can import your other first-party data segments directly from your data management platform (DMP) and provide them to any set of advertisers, as needed.
 
@@ -82,7 +84,7 @@ You can target your placements to all of the following types of audiences.
 
    * CCPA opt-out-of-sale audience segments for users who submitted opt-out-of-sale requests on your website, per the California Consumer Privacy Act (CCPA).
 
-* All of your imported first-party data segments, including segments that were translated to universal IDs.
+* All of your imported first-party data segments, including segments that were translated to universal IDs and segments that contain imported [!DNL AdFixus] universal IDs.
 
   Additional fees are charged for impressions delivered to universal IDs. See "[About first-party audience sources](/help/dsp/audiences/sources/source-about.md)" for rates.
 
@@ -154,11 +156,11 @@ The [!UICONTROL Segments] view also lists the following segment types:
 
 ### The [!UICONTROL Sources] view
 
-In the [!UICONTROL Sources] view, you can configure sources for first-party segments in supported customer data platforms that you want to convert to segments containing specified universal ID types. The source settings include an auto-generated source key, which you'll provide to your customer data platform to establish the connection.
+In the [!UICONTROL Sources] view, you can configure sources for first-party segments from supported customer data platforms that you want to convert to segments containing specified universal ID types. You also can configure [!UICONTROL AdFixus ID] sources to import segments with [!DNL AdFixus] universal IDs (Australia only). The source settings include an auto-generated source key to share with your CDP or [!DNL AdFixus] team.
 
-For more information about the supported customer data platforms, supported universal ID types, and the workflows to set up connections to each customer data platform, see "[About first-party audience sources](/help/dsp/audiences/sources/source-about.md)."
+For more information about supported platforms, supported universal ID types, and setup workflows, see "[About first-party audience sources](/help/dsp/audiences/sources/source-about.md)."
 
-The translated segments are available to include in reusable audiences and in placement settings for cookieless targeting.
+Segments imported through [!UICONTROL Sources] are available for reusable audiences and [!UICONTROL Universal ID] targeting in placement settings where applicable.
 
 >[!MORELIKETHIS]
 >
@@ -169,5 +171,6 @@ The translated segments are available to include in reusable audiences and in pl
 >* [About first-party audience sources](/help/dsp/audiences/sources/source-about.md)
 >* [Manage audience sources to activate universal ID audiences](/help/dsp/audiences/sources/source-manage.md)
 >* [Manually import authenticated segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
+>* [Import first-party segments from [!DNL AdFixus]](/help/dsp/audiences/sources/source-adfixus.md)
 >* [Available third-party data providers](third-party-data-providers.md)
 >* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
