@@ -21,7 +21,7 @@ index: true
   + [Support for consumer privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
   + [Policies and guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
   + [Advanced measurement solutions](/help/dsp/introduction/advanced-measurement-services.md)
-+ {hide-from-toc} [Search for product documentation using AI-assisted chat](/help/dsp/agent-chat.md)
++ [Search for product documentation using AI-assisted chat](/help/dsp/agent-chat.md)
 + Campaign management {#campaign-management}
   + [Overview of campaign management in Advertising DSP](/help/dsp/campaign-management/campaign-management-overview.md)
   + Campaigns {#campaigns}
@@ -103,7 +103,7 @@ index: true
   + [How Advertising DSP optimizes your campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization goals and how to use them](/help/dsp/optimization/optimization-goals.md)
   + [Placement-level pre-bid filters and how to use them](/help/dsp/optimization/optimization-pre-bid-filters.md)
-  + [Custom goals](/help/dsp/optimization/custom-goal.md)
+  + [Best gractices for custom goals](/help/dsp/optimization/custom-goal.md)
   + [Best practices for setting up performance campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
   + [Troubleshooting performance](/help/dsp/optimization/troubleshooting-performance.md)
 + Audiences {#audiences}
@@ -215,21 +215,23 @@ index: true
   + [Archive a connected TV reach plan](/help/dsp/planner/planner-archive.md)
 + Resources {#resources}
   + [Manage URL lists](/help/dsp/resources/lists-url-manage.md)
-+ Administration {#admin}
++ Settings/administration {#admin}
     + [Edit your user profile](/help/dsp/admin/user-own-profile-edit.md)
   + Users {#users}
     + [Invite a new user for your organization account](/help/dsp/admin/user-invite.md)
     + [Resend a pending user invitation](/help/dsp/admin/user-resend-invite.md)
     + [Uninvite a pending user](/help/dsp/admin/user-uninvite.md)
+  + [Manage conversions](/help/dsp/admin/conversion-metrics-manage.md)
+  + [Manage custom objectives](/help/dsp/admin/custom-objectives-manage.md)
   + Blocked sites {#sites}
     + [About account-level and advertiser-level blocked sites lists](/help/dsp/admin/blocked-sites-list-about.md)
     + [Edit an account-level or advertiser-level blocked sites list](/help/dsp/admin/blocked-sites-list-edit.md)
   + Notifications {#notifications}
     + [About alert subscriptions](/help/dsp/admin/alerts-about.md)
     + [Manage alert subscriptions](/help/dsp/admin/alerts-manage.md)
-+ [Integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)
++ [Integrations with Adobe CX Enterprise](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)
 + [Get help](/help/dsp/get-help.md)
-+ [Adobe Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
++ [Adobe CX Enterprise release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
 
 
 <!--

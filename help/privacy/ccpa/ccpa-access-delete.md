@@ -4,6 +4,23 @@ description: Learn about the supported data request types, required setup and fi
 feature: CCPA
 role: User, Developer
 exl-id: e7808411-7dc3-499c-bda1-1f5882f651b2
+TQID: https://experienceleague.adobe.com/g7Klc5k3qEPYDKIbTmsQcnklUPVvbN6qqhXaHCHvn3A
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Adobe Advertising support for the California Consumer Privacy Act: Consumer data access and delete support
 
@@ -15,7 +32,7 @@ exl-id: e7808411-7dc3-499c-bda1-1f5882f651b2
 
 The California Consumer Privacy Act (CCPA) is California’s new privacy law, which is effective January 1, 2020. CCPA provides California residents new rights regarding their personal information and imposes data protection responsibilities on certain entities who conduct business in California. CCPA provides consumers with the right to access and delete their personal information as well as the right to opt out of certain activities that qualify as “selling” personal information to a third party.
 
-As a business, you will determine the personal data that Adobe Experience Cloud processes and stores on your behalf.
+As a business, you will determine the personal data that Adobe CX Enterprise processes and stores on your behalf.
 
 As your service provider, Adobe Advertising provides support for your business to fulfill its obligations under CCPA that are applicable to the use of Adobe Advertising products and services, including managing requests to access and delete personal information and managing requests to opt out of the sale of personal information.
 
@@ -37,11 +54,11 @@ Adobe Experience Platform provides the ability for businesses to complete the fo
 
 To make requests to access and delete consumer personal information from Adobe Advertising, you must:
 
-1. Deploy a JavaScript library to retrieve and remove your customer's cookies. The same library, `AdobePrivacy.js`, is used for all Adobe Experience Cloud solutions.
+1. Deploy a JavaScript library to retrieve and remove your customer's cookies. The same library, `AdobePrivacy.js`, is used for all Adobe CX Enterprise solutions.
 
    >[!IMPORTANT]
    >
-   >Requests to some Experience Cloud solutions don't require the JavaScript library, but requests to Adobe Advertising require it.
+   >Requests to some CX Enterprise solutions don't require the JavaScript library, but requests to Adobe Advertising require it.
 
    You should deploy the library on the webpage from which your customers can submit access and delete requests, such as your company's privacy portal. The library helps you retrieve Adobe cookies (namespace ID: `gsurferID`) so that you can submit these identities as part of access and delete requests via the [!DNL Adobe Experience Platform Privacy Service API].
 
@@ -51,17 +68,17 @@ To make requests to access and delete consumer personal information from Adobe A
    >
    >Deleting personal data is different than opting out, which stops the targeting of an end user with audience segments. However, when a consumer asks to delete personal data from [!DNL Creative], [!DNL DSP], or [!DNL DCO], the library also sends a request to Adobe Advertising to opt out the customer from segment targeting. For advertisers with [!DNL Search, Social, & Commerce], we recommend that you provide your customers a link to [https://www.adobe.com/privacy/opt-out.html#customeruse](https://www.adobe.com/privacy/opt-out.html#customeruse), which explains how to opt out of audience segment targeting. 
 
-1. Identify your Experience Cloud organization ID and make sure that it's linked to your Adobe Advertising accounts.
+1. Identify your CX Enterprise organization ID and make sure that it's linked to your Adobe Advertising accounts.
 
-   An Experience Cloud organization ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most Experience Cloud customers have been assigned an organization ID. If your marketing team or internal [!DNL Adobe] system administrator doesn't know your organization ID, or isn't sure if it's been provisioned, then contact your Adobe Account Team. You'll need the organization ID to submit requests to the Privacy API using the `imsOrgID` namespace.
+   A CX Enterprise organization ID is a 24-character alphanumeric string appended with "@AdobeOrg." Most CX Enterprise customers have been assigned an organization ID. If your marketing team or internal [!DNL Adobe] system administrator doesn't know your organization ID, or isn't sure if it's been provisioned, then contact your Adobe Account Team. You'll need the organization ID to submit requests to the Privacy API using the `imsOrgID` namespace.
 
    >[!IMPORTANT]
    >
-   >Contact your company’s Adobe Advertising representative to confirm that all of your organization's Adobe Advertising accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search, Social, & Commerce] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your Experience Cloud organization ID.
+   >Contact your company’s Adobe Advertising representative to confirm that all of your organization's Adobe Advertising accounts &mdash; including [!DNL DSP] accounts or advertisers, [!DNL Search, Social, & Commerce] accounts, and [!DNL Creative] or [!DNL DCO] accounts &mdash; are linked to your CX Enterprise organization ID.
 
 1. Use either the [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (for automated requests) or the [Privacy Service UI](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (for ad-hoc requests) to submit requests to access and delete personal information to Adobe Advertising on behalf of consumers, and to check the status of existing requests.
 
-   For advertisers who have a mobile app to interact with customers and launch campaigns with [!DNL DSP], you must download the Privacy-ready Mobile SDKs for Experience Cloud. The Mobile SDKs allow businesses to set opt-out status flags, retrieve the consumer's device ID (namespace ID: `deviceID`), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
+   For advertisers who have a mobile app to interact with customers and launch campaigns with [!DNL DSP], you must download the Privacy-ready Mobile SDKs for CX Enterprise. The Mobile SDKs allow businesses to set opt-out status flags, retrieve the consumer's device ID (namespace ID: `deviceID`), and submit requests to the Privacy Service API. Your mobile app will require an SDK Version 4.15.0 or greater.
 
    When you submit a consumer access request, the Privacy Service API returns a consumer's information based on the specified cookie or device ID, which you then must return to the consumer.
 
@@ -69,7 +86,7 @@ To make requests to access and delete consumer personal information from Adobe A
 
    >[!NOTE]
    >
-   >If your business has multiple Experience Cloud organization IDs, then you must send separate API requests for each. You can, however make one API request to multiple Adobe Advertising sub-solutions ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
+   >If your business has multiple CX Enterprise organization IDs, then you must send separate API requests for each. You can, however make one API request to multiple Adobe Advertising sub-solutions ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], and [!DNL DCO]), with one account per sub-solution.
 
 All steps are necessary to receive support from Adobe Advertising. For more information about these and other related tasks you need to perform using the Adobe Experience Platform Privacy Service, and where to find the necessary items, see [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
@@ -78,7 +95,7 @@ All steps are necessary to receive support from Adobe Advertising. For more info
 `"company context":`
 
 * `"namespace": **imsOrgID**`
-* `"value":` <*your Experience Cloud organization ID*>
+* `"value":` <*your CX Enterprise organization ID*>
 
 "users": 
 

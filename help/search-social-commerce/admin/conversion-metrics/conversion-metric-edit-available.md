@@ -3,6 +3,13 @@ title: Change the conversion metrics available in management views and reports
 description: Learn how to make conversion metrics available in your management views and reports.
 feature: Conversions
 exl-id: de3d288a-5fec-4479-92cf-7754390e21bb
+TQID: https://experienceleague.adobe.com/o50AN9pYkuuP-M1e4IAkQOLWSsg584T6TtWnrawAnUU
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Change the conversion metrics available in management views and reports
 

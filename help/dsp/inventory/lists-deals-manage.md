@@ -3,6 +3,25 @@ title: Manage deal lists
 description: Learn how to create and manage deal lists for placement targeting.
 feature: DSP Private Inventory, DSP On Demand Inventory, DSP Deal IDs, DSP Placements
 exl-id: 18a2c2d2-d84d-4347-93af-ca7489a1a8fb
+TQID: https://experienceleague.adobe.com/AGimJ-hI6NunBXRjZo--5fXO8y0dGXCSww5DcBlR7iw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: a4886037-b6d8-40e1-aeab-edeb7649d7d3
+    internal-label: DSP placements
+  - id: ac506c20-96f2-48f6-9096-77706e336bda
+    internal-label: DSP Private Inventory
+  - id: fae3ff5f-9a75-4de1-a100-c90dd8268528
+    internal-label: DSP Deal IDs
+  - id: fbfa676f-2cdb-49be-b949-f2fab1be6daf
+    internal-label: DSP On Demand Inventory (Advertising)
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manage deal lists
 

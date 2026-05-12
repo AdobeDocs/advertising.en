@@ -89,4 +89,4 @@ breadcrumb-title: Creative Guide
 + [Retargeting pixels](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Available macros for tracking URLs](/help/creative/creative-macros.md)
 + [Get help](/help/creative/get-help.md)
-+ [Adobe Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html){target="_blank"}
++ [Adobe CX Enterprise release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html){target="_blank"}

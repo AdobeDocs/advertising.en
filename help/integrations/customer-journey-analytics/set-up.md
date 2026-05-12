@@ -3,12 +3,37 @@ title: Set up data collection, data transfer, and reporting
 description: Learn how to set up data collection, data transfer, and reporting.
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: a955e2b0-ea1b-4b5c-937b-f8c66603cd36
+TQID: https://experienceleague.adobe.com/u6xL6FuW-TwqAkse3VTS3zcyt-10Cv-ADTZLJTiWWT8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
 ---
 # Set up data collection, data transfer, and reporting
 
 *Beta feature*
 
 The following tasks are required to view Advertising Cloud data in Customer Journey Analytics.
+
+>[!PREREQUISITES]
+>
+>While this feature is in beta mode, ask your Adobe Account Team to provide the advertiser account with access to the `Adobe Advertising` service.
 
 1. (Your organization's web analyst; optional) [Collect historical data for AMO IDs and EF IDs](/help/integrations/analytics/rvars-to-evars.md){target="_blank"}.
 
@@ -44,7 +69,7 @@ The following tasks are required to set up data collection in Experience Platfor
 
    * Choose the option to **[!UICONTROL Create dataset from schema]** and select your schema.
    
-     Adobe Advertising creates additional datasets for the related summary metrics data (such as conversion values) and lookup data (dimensions/classification metadata, such as Adobe Advertising campaign name) based on your event dataset. Data for the datasets is populated in Experience Platform daily.
+     <!-- Manual process during beta -->Adobe Advertising creates additional datasets for the related summary metrics data (such as conversion values) and lookup data (dimensions/classification metadata, such as Adobe Advertising campaign name) based on your event dataset. Data for the datasets is populated in Experience Platform daily.
 
 1. [Create a datastream](https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/configure) for the schema.
 
@@ -66,7 +91,7 @@ The following tasks are required to set up data collection in Experience Platfor
    
    * For your property, [install the extension "Adobe Experience Platform Web SDK"](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/web-sdk-extension-configuration) from the extensions catalog.
    
-     This extension sends data from your web properties to Experience Cloud via the Experience Platform Edge Network.
+     This extension sends data from your web properties to Adobe CX Enterprise via the Experience Platform Edge Network.
      
      Don't use the Adobe Advertising extension.
 

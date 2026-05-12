@@ -1,6 +1,6 @@
 # Snippets
 
-## Tracking Template field for Google Ads entities {#tracking-template-google}
+## Tracking Template field for [!DNL Google Ads] entities {#tracking-template-google}
 
 <!-- Duplicated from include file because one file has multiple occurrences, which ExL doesn't support. -->
 

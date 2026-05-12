@@ -3,6 +3,20 @@ title: Get help
 description: Learn how to view online help and community resources and how to get technical support.
 feature: Creative Introduction
 exl-id: 88059f73-6da3-4deb-b4ef-fa8e8eaec569
+TQID: https://experienceleague.adobe.com/3JnaHzyXhsIcBipdgJtjPWbv3LF2UGuWRJpyy4KORIU
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative management
+subfeature_v2:
+  - id: ba946348-465d-45f3-8d28-c42d0a2599c5
+    internal-label: Creative introduction
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+autotag-review: '2026-04-13T23:32:24.501Z'
 ---
 # Get help
 

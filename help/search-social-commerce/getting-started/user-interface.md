@@ -3,6 +3,18 @@ title: How the user interface is organized
 description: Learn where to access different functionality.
 exl-id: 4c46fd47-74ca-4ff9-9812-9de73b96061c
 feature: Search Getting Started
+TQID: https://experienceleague.adobe.com/KqfmmT9cFZpNIoIiaA0OjGlMDf4hvQzNhPpH8lYtViw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # How the user interface is organized
 
@@ -34,19 +46,17 @@ Your role determines the available options:<!-- add link when available -->
 
   * **[!UICONTROL Objectives]** Opens a new [!UICONTROL Objectives] view, from which you can view all of your existing objectives and create, edit, and delete objectives.
   
-  * **[!UICONTROL Conversions]** Exits the new site and opens the legacy [!UICONTROL Admin] > [!UICONTROL Conversions] view.
+<!--  Not there as of 4/3:  * **[!UICONTROL Conversions]** Exits the new site and opens the legacy [!UICONTROL Admin] > [!UICONTROL Conversions] view. -->
 
   * **[!UICONTROL Conversion Value Rules]** Opens read-only views of your campaign-level and account-level conversion value rules. To manage your conversion value rules, use the legacy [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-  * **[!UICONTROL Constraints]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Constraints] view.
+  * **[!UICONTROL Constraints]** Opens a read-only view of your existing constraints. To manage your constraints, use the legacy [!UICONTROL Optimization] > [!UICONTROL Constraints] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
 * **[!UICONTROL Plan]** submenu:
   
   * **[!UICONTROL Simulations]** Opens a new [[!UICONTROL Simulations] view](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md), from which you can view all of your user-created custom simulations and automatically generated weekly simulations; generate new custom simulations; and rerun existing simulations. The [!UICONTROL Spend Planner] button opens the legacy [!UICONTROL Spend Recommendation] tool at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation].
 
   * **[!UICONTROL Spend Planner]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] view.
-
-  * **[!UICONTROL Label Classification]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Label Classifications] view.
 
 * **[!UICONTROL Manage]** submenu:
 
@@ -76,9 +86,15 @@ Your role determines the available options:<!-- add link when available -->
 
   * **[!UICONTROL History Logs]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Change History] view.
 
+  * **[!UICONTROL Label Classification]** Opens a new [!UICONTROL Label Classifications] view. You can manage classifications and assign/unassign classification values to any applicable account components that are available in the new UI.
+
+  * **[!UICONTROL Bulksheets]**: Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Bulksheets] view.
+
 * **[!UICONTROL Target]** submenu:
 
-  * **[!UICONTROL Audience]**: Opens a new [!UICONTROL Audiences] view, which shows all existing audiences for the advertiser. To manage your audiences, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+  * **[!UICONTROL Audiences]**: Opens a new [!UICONTROL Audiences] view, which shows all existing audiences for the advertiser, all audience targets, and all audience exclusions. To manage your audiences, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+
+  * **[!UICONTROL Auto Targets]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
 
   * **[!UICONTROL Keywords]** Opens a new [!UICONTROL Keywords] view, which shows existing keywords and negative keywords for the advertiser. You can manage constraint assignments for selected keywords.
   
@@ -90,8 +106,6 @@ Your role determines the available options:<!-- add link when available -->
 
 * **[!UICONTROL Assets]** submenu:
 
-  * **[!UICONTROL Auto Targets]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
-
   * **[!UICONTROL Creatives]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
 
   * **[!UICONTROL Extensions]** Opens read-only views of your existing ad extensions. To manage your extensions, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
@@ -100,13 +114,15 @@ Your role determines the available options:<!-- add link when available -->
 
 * **[!UICONTROL Set Up]** submenu:
 
-  * **[!UICONTROL Accounts]**: Exits the new site and open the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+  * **[!UICONTROL Manager Accounts]**: Exits the new site and open the legacy [!UICONTROL Admin] > [!UICONTROL Manager Accounts] view.
+
+  * **[!UICONTROL Accounts]**: Opens a new [!UICONTROL Accounts] view. You can manage ad network accounts that are synced via an API connection or set up via data upload. You can also manage existing [!UICONTROL Naver] accounts.
+
+  * **[!UICONTROL Import Campaigns]**: Exits the new site and open the legacy [!UICONTROL Tools] > [!UICONTROL Import Campaigns] view.
 
 <!--
- What's happenening to these?
+ What's happening to these?
 
-Campaigns > ACM
-Campaigns > Bulksheets
 Campaigns > Asset Library
 
 Insights > Notification Center (doesn't open from Dashboard > Alerts & Notifications)
@@ -114,7 +130,6 @@ Insights > Notification Center (doesn't open from Dashboard > Alerts & Notificat
 Tools > Conversion Upload Setup
 Tools > Generic Tracking
 Tools > Inventory Selection
-Import Campaigns
 
 Tools > Admin > Data Source Setup
 -->
@@ -131,17 +146,17 @@ Use the search field above the main menu to look for specific menu options, such
 
 ## Other task- and information-based menus in the upper right
 
-### Top row: Experience Cloud menu
+### Top row: CX Enterprise menu
 
-* A selectable list of Experience Cloud organizations to which you have access.
+* A selectable list of CX Enterprise organizations to which you have access.
 
 * ![Help center](/help/search-social-commerce/assets/help-main-menu.png "Help center") A help menu that includes links to documentation and other information.
 
-* ![Notifications](/help/search-social-commerce/assets/notifications-aec.png "Notifications") A panel listing requests, notifications, and announcements from Experience Cloud.
+* ![Notifications](/help/search-social-commerce/assets/notifications-aec.png "Notifications") A panel listing requests, notifications, and announcements from CX Enterprise.
 
-* ![Apps](/help/search-social-commerce/assets/apps.png "Apps") A list of Adobe Experience Cloud solutions and services to which you can switch.
+* ![Apps](/help/search-social-commerce/assets/apps.png "Apps") A list of Adobe CX Enterprise solutions and services to which you can switch.
 
-* ![Account](/help/search-social-commerce/assets/account.png "Account") Information about your Experience Cloud account profile, from which you can edit your preferences and sign out.
+* ![Account](/help/search-social-commerce/assets/account.png "Account") Information about your CX Enterprise account profile, from which you can edit your preferences and sign out.
 
 ### Second row: Additional Search, Social, & Commerce menu
 
@@ -191,15 +206,15 @@ The [!UICONTROL Search] option includes the following submenus. Your role determ
 
 * ![Alert notifications](/help/search-social-commerce/assets/notifications-panel.png "Alert Notifications") A panel listing your Search, Social, & Commerce notifications.
 
-  When you're [signed in through Adobe Experience Cloud](sign-in.md), this panel shows your notifications from Experience Cloud.
+  When you're [signed in through Adobe CX Enterprise](sign-in.md), this panel shows your notifications from CX Enterprise.
 
 * ![Help menu](/help/search-social-commerce/assets/help-main-menu.png "Help menu") A help menu that includes links to documentation and other information.
 
-* ![Solution switcher](/help/search-social-commerce/assets/menu-icon.png "Solution switcher") A list of Adobe Experience Cloud solutions and services to which you can switch.
+* ![Solution switcher](/help/search-social-commerce/assets/menu-icon.png "Solution switcher") A list of Adobe CX Enterprise solutions and services to which you can switch.
 
 * ![User profile](/help/search-social-commerce/assets/user-profile.png "User profile") A link to your profile, from which you can sign out.
 
-  When you're [signed in through Adobe Experience Cloud](sign-in.md), you can also edit your Experience Cloud profile, including your Experience Cloud password and notification settings.
+  When you're [signed in through Adobe CX Enterprise](sign-in.md), you can also edit your CX Enterprise profile, including your CX Enterprise password and notification settings.
 
 >[!MORELIKETHIS]
 >

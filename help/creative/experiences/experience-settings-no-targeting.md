@@ -3,6 +3,21 @@ title: Settings for non-targeted experiences
 description: See descriptions of all settings for ad experiences without decision tree targeting.
 feature: Creative Experiences
 exl-id: aeeca035-8ae2-4173-827a-b8690d228549
+TQID: https://experienceleague.adobe.com/Qz-MUPLNsdn4PvnaF-uDAZQjd-iXJD0oEZOkMSUGuEs
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: b2025470-04ef-4dd9-bdd4-44407644aeb6
+    internal-label: Compliance
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Settings for non-targeted experiences
 

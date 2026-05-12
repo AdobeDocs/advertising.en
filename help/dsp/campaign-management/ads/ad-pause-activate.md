@@ -3,6 +3,19 @@ title: Pause or activate an ad
 description: Learn how to pause or activate an ad.
 feature: DSP Ads
 exl-id: f39d36c2-4c62-462b-bb92-29458890661e
+TQID: https://experienceleague.adobe.com/g3nlUhcz8NckhdshPZlTkcIvndVaqoHFpS715tD0pPE
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: d9510790-d834-436d-8423-8d69cd50464a
+    internal-label: DSP Ads
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Pause or activate an ad
 

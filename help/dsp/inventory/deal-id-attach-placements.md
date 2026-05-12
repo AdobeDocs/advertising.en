@@ -3,6 +3,21 @@ title: Specify placements and ads for a private deal
 description: Learn how to use a private deal with additional placements and ads.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 09119471-429d-413e-8033-e29e1558abb0
+TQID: https://experienceleague.adobe.com/ZCFqnc6cQLEqahDoElttE7DzeZCR3IRx2lkyyb3BPMs
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: ac506c20-96f2-48f6-9096-77706e336bda
+    internal-label: DSP Private Inventory
+  - id: fae3ff5f-9a75-4de1-a100-c90dd8268528
+    internal-label: DSP Deal IDs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Specify placements and ads for a private deal
 
@@ -24,21 +39,21 @@ You can also [attach ads to placements](/help/dsp/campaign-management/ads/ad-att
 
 1. In the [!UICONTROL Ad & Campaign Selection] settings, select the ads to use for the placement:
 
-       1. Select the advertiser, campaign, and ad type. Optionally select an ad status by which to filter the ads.
+   1. Select the advertiser, campaign, and ad type. Optionally select an ad status by which to filter the ads.
+   
+   1. From the list of available ads, select the check box next to each ad to use for the deal.
+   
+   1. Click **[!UICONTROL Apply]**.
 
-       1. From the list of available ads, select the check box next to each ad to use for the deal.
+1. In the placement settings screen:
 
-       1. Click **[!UICONTROL Apply]**.
-
-    1. In the placement settings screen:
-
-       1. Enter the placement name.
-
-       1. (Optional) Edit the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), including overwriting the default bid, which is automatically populated with the CPM value from the deal; changing the date range; or attaching more ads.
-
-         The deal is automatically targeted in the Inventory Targets section. All other targeting options are inapplicable.
-
-       1. Click **[!UICONTROL Create placement]**.
+   1. Enter the placement name.
+   
+   1. (Optional) Edit the [placement settings](/help/dsp/campaign-management/placements/placement-settings.md), including overwriting the default bid, which is automatically populated with the CPM value from the deal; changing the date range; or attaching more ads.
+   
+      The deal is automatically targeted in the Inventory Targets section. All other targeting options are inapplicable.
+   
+   1. Click **[!UICONTROL Create placement]**.
 
 The placement begins running after the publisher activates your PG deal ID.
 

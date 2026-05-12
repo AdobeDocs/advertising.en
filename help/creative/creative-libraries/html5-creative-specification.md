@@ -3,6 +3,16 @@ title: HTML5 creative specification
 description: Reference the HTML5 creative specification for Advertising Creative.
 feature: Creative Standard Creatives
 exl-id: 06d29442-d688-4fb8-ad6f-cba0a897fde0
+TQID: https://experienceleague.adobe.com/a4XiPoEgYQQJCkRTgFT5wPr-XQzzIiC-A8eyIhIyMD8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # HTML5 creative specification for Advertising Creative
 

@@ -3,6 +3,16 @@ title: About shopping product groups
 description: Learn about shopping product groups in shopping campaigns.
 exl-id: ae270935-1464-4393-8b8c-745fee077522
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/P3QrbE-JI1XMVzAqA4Pb8jO1t9bRNN-x1q0ehpBvaPw
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # About shopping product groups
 

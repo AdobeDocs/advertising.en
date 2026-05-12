@@ -1,8 +1,15 @@
 ---
-title: '[!DNL Baidu] text ad settings'
+title: "[!DNL Baidu] text ad settings"
 description: Reference the settings for [!DNL Baidu] text ads.
 exl-id: 1c914e8a-e39b-477e-9c19-919ffedc30c7
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/ZcLcEuPrOSso0tVp3m5vpp8Bdr0BGg6BVAeuvDUbGSg
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # [!DNL Baidu] text ad settings
 

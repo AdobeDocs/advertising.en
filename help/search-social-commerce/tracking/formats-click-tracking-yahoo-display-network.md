@@ -3,6 +3,13 @@ title: Click-tracking formats for [!DNL Yahoo! Display Network]
 description: Learn about the click-tracking formats for [!DNL Yahoo! Display Network] accounts.
 exl-id: ee6642b3-fb84-4604-91cc-da1213835be8
 feature: Search Tracking
+TQID: https://experienceleague.adobe.com/sQo6hr3UHQwN9GgazCKv2ba-m4ZXf2ZrhdemCpbVYvU
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Click-tracking formats for sponsored ads on [!DNL Yahoo! Display Network]
 

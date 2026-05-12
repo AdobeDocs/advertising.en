@@ -3,6 +3,16 @@ title: Specialty report settings
 description: Learn about the required and optional settings for  specialty reports.
 exl-id: 2657f33c-b77d-4e95-83c0-12ec08a1cd3a
 feature: Search Reports, Search Specialty Reports
+TQID: https://experienceleague.adobe.com/J7cGX14lJlEyniDXaX4rtWb-gzaP3kzso-wnvgAcbh8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Specialty report settings
 

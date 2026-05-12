@@ -3,6 +3,13 @@ title: Manage [!DNL Microsoft Advertising] dynamic remarketing audiences
 description: Learn how to create and manage [!DNL Microsoft Advertising] dynamic remarketing audiences.
 exl-id: 52faab75-e723-4e59-aac6-b4d0c4c1cf60
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/ev1y2UpkEHJhIgS3vQz8GRF0LNJwG9BHSxufQeeQAfA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manage [!DNL Microsoft Advertising] dynamic remarketing audiences
 

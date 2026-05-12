@@ -1,8 +1,20 @@
 ---
-title: '[!DNL Google Ads] ad group settings'
+title: "[!DNL Google Ads] ad group settings"
 description: Reference the settings for [!DNL Google Ads] ad groups.
 exl-id: def75630-19b9-4676-ad34-5d9041cc3680
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/pDFheVIM62XNCh2-7jbCscIqOrcTep7qnNg5S1tHYF8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # [!DNL Google Ads] ad group settings
 
@@ -20,7 +32,7 @@ feature: Search Campaign Management
 
 **[!UICONTROL Ad Rotation Mode]:** How often [!DNL Google Ads] delivers your active ads in relation to one another within the ad group:
 
-* *[!UICONTROL Optimize]:* Google Ads favors ads that it expects to perform better than other ads in the ad group. These ads enter the ad auction more often, and over time a single ad is favored. This may be inconsistent with your business and optimization objectives.
+* *[!UICONTROL Optimize]:* [!DNL Google Ads] favors ads that it expects to perform better than other ads in the ad group. These ads enter the ad auction more often, and over time a single ad is favored. This may be inconsistent with your business and optimization objectives.
 
 * *[!UICONTROL Rotate forever]:*   Each of your ads enters the ad auction a more even number of times, which allows Search, Social, & Commerce to score your ads not only on click-through rate but also on conversions.
 

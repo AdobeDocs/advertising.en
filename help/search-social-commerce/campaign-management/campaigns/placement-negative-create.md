@@ -3,6 +3,13 @@ title: Create negative placements
 description: Learn how to create negative placements for [!DNL Google Ads] campaigns and ad groups.
 exl-id: 9cc2dd8d-5563-4e02-af8f-6181165494d8
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/LFHoipRyiY36uTj-0G3lFahitrT9ZHD958V-4T-XIUA
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Create for [!DNL Google Ads] negative placements
 

@@ -3,6 +3,20 @@ title: Click-tracking formats for [!DNL Google Ads]
 description: Learn about the click-tracking formats for [!DNL Google Ads] accounts.
 exl-id: d09c3b4e-1274-45fb-abb6-dddfe60f1477
 feature: Search Tracking
+TQID: https://experienceleague.adobe.com/zlglYQa3JRxc5hz07rdjPQUMk7ogdrFKf2mxVkByCjU
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Click-tracking formats for [!DNL Google Ads]
 
@@ -68,7 +82,7 @@ Accounts that use Adobe Advertising conversion tracking must include the ad netw
 
     `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
-    If the account has a server-side AMO ID implementation and the account or campaign setting "[!UICONTROL Auto Upload]" is enabled, then the parameter is added automatically. Otherwise, you need to manually add it. See "[Adobe Advertising IDs used by [!DNL Analytics]](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id-implement)."
+    If the account has a server-side AMO ID implementation and the account or campaign setting "[!UICONTROL Auto Upload]" is enabled, then the parameter is added automatically. Otherwise, you need to manually add it. See "[Adobe Advertising IDs used by [!DNL Analytics]](/help/integrations/analytics/ids.md)."
 
   * All other [!DNL Google Ads] accounts:
 

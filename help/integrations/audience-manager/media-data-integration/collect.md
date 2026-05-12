@@ -3,6 +3,34 @@ title: Collect click and impression data from Advertising DSP campaigns
 description: Learn how to capture cookie-based impression and click events from Advertising DSP ads using Audience Manager pixels
 feature: Integration with Adobe Audience Manager
 exl-id: d827fbb8-b61a-4601-a42a-1ea60e4f36b7
+TQID: https://experienceleague.adobe.com/UXP1gmCmLCHH-l7a1WYxlmYfSRIgJPLpxWHyHujIdX0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: b01c7841-b9d0-4fd5-8458-a6a6f601ad3d
+    internal-label: DSP Campaigns
+  - id: d9510790-d834-436d-8423-8d69cd50464a
+    internal-label: DSP Ads
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
 ---
 # Collect media exposure data from Advertising DSP campaigns
 
@@ -51,7 +79,7 @@ Where:
 
 * `[source id]` is the ID for the [data source](#set-up-data-source) in which you track DSP impression and click data.
 
-* `[redirect URL]` is the double-encoded redirect URL. If you’re using an online encoding tool, such as www.urlencoder.org, then run the string through the encoder and re-encode the result.
+* `[redirect URL]` is the double-encoded redirect URL. If you're using an online encoding tool, such as www.urlencoder.org, then run the string through the encoder and re-encode the result.
 
 * `${TM_CAMPAIGN_ID_NUM}` is the numeric campaign ID in DSP. If you want to hardcode an individual campaign ID instead of using the DSP macro, then locate the ID in the campaign settings.
 
@@ -61,13 +89,13 @@ Where:
 
 **Format:**  `d_parameter=parameter_id`
 
-    where:
+where:
 
-    * the parameter is prefixed by `&`
+* the parameter is prefixed by `&`
 
-    * `parameter` is replaced by the key-value pair for the new field
+* `parameter` is replaced by the key-value pair for the new field
 
-    Example:  `&d_placement=${TM_PLACEMENT_ID_NUM}`
+*Example:*  `&d_placement=${TM_PLACEMENT_ID_NUM}`
 
 Both types of pixel can contain additional parameters as *key-value pairs* to collect traits or to provide campaign metadata (such as a placement name or a campaign name) for other reports. A key-value pair consists of two related elements: a *key*, which is a constant that defines the data set, and a *value*, which is a variable that belongs to the set.
 

@@ -3,6 +3,13 @@ title: Manage audience targets for campaigns and ad groups
 description: Learn how to configure and manage audience targets for your [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns and ad groups.
 exl-id: 9a496d15-082d-44e1-a0a3-71356e24b932
 feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/U0RHQhkBYus7SwgN-gXKht4-MSV5VMy8nVTiKgGz1wY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Manage audience targets for your [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns and ad groups
 

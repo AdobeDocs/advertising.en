@@ -3,6 +3,22 @@ title: Package settings
 description: See descriptions of the available package settings.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
+TQID: https://experienceleague.adobe.com/--5v-30zFSwhdU1g0h9VXANZnIRNL-RgFYv-scnxRT0
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: fddd8d8f-3ba1-4a22-b714-69d0e4655be8
+    internal-label: DSP Packages
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Package settings
 
@@ -51,7 +67,7 @@ For packages with custom flighting, the budget interval is always *[!UICONTROL A
 
 **[!UICONTROL Link PG Placements for Incremental Reach Optimization]:** (Packages with package-level pacing and with the "[!UICONTROL Always Max Bid & Maximize Reach]" and "[!UICONTROL Lowest Cost per Reach]" optimization goals only) Uses household reach data from all programmatic guaranteed placements in the campaign to optimize for incremental reach.
 
-**[!UICONTROL Custom Goal for Model Learning]:** (Packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) A [custom goal](/help/dsp/optimization/custom-goal.md) that includes the revenue or conversion events used to calculate the CPA or ROAS metric. The custom goal must include additional weighted upper-funnel events (such as page visits and shopping cart additions) to be used in addition to the CPA or ROAS metric for package optimization. For more information about custom goals, including the best practices for creating for custom goals and campaigns that use them, see "[Custom goals](/help/dsp/optimization/custom-goal.md)" and "[Best practices for setting up performance campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)."<!-- At some point, all of the objectives will be prefixed with "ADSP_," but probably that won't show up in the Custom Goal list in the DSP UI. -->
+**[!UICONTROL Custom Goal for Model Learning]:** (Packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) A custom goal that includes the revenue or conversion events used to calculate the CPA or ROAS metric. The custom goal must include additional weighted upper-funnel events (such as page visits and shopping cart additions) to be used in addition to the CPA or ROAS metric for package optimization. For more information about custom goals, see "[Manage custom objectives](/help/dsp/admin/custom-objectives-manage.md)," "[Best practices for custom goals](/help/dsp/optimization/custom-goal.md)" and "[Best practices for setting up performance campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)."
 
 **[!UICONTROL Consider Only Click Conversions for Model Learning]:** (Optional; packages with the "[!UICONTROL Highest Return on Ad Spend]" and "[!UICONTROL Lowest Cost per Acquisition]" optimization goals only) Tells the optimization model to learn only from click-based conversions. Otherwise, the optimization model learns from both click- and impression-based conversions.
 

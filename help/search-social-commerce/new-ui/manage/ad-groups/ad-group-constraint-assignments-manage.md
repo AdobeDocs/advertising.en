@@ -2,8 +2,20 @@
 title: Manage constraint assignments for ad groups
 description: Learn how to assign constraints to ad groups.
 feature: Search Optimization, Search Campaign Management
-hide: yes
+hide: true
 exl-id: c9960b5a-4b6c-4ef0-8501-5478af2c40da
+TQID: https://experienceleague.adobe.com/6z4-Pt25RaQpLiEYdnp-BXD0guz9S2zQLmamf8uSSXU
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c2296997-5d79-4905-b32e-99b5aa892429
+    internal-label: Search optimization
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # (New UI) Manage constraint assignments for ad groups
 
@@ -76,6 +88,5 @@ Unassigning a constraint removes the association with the account components and
 >[!MORELIKETHIS]
 >
 >* [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
->* [Manage constraint assignments for ads](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
 >* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
 >* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)

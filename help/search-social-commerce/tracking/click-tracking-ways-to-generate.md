@@ -3,6 +3,13 @@ title: When and how to generate click-tracking URLs by ad network and object
 description: Learn when click-tracking URLs are added automatically and when and how to manually add them for various campaign components.
 exl-id: 896de0c1-75ed-450c-b995-893f1a63e5ce
 feature: Search Tracking
+TQID: https://experienceleague.adobe.com/coG6SeshFIDQwfuv5RNK3Q9dhLdj4uXzl0bZs4syil8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # When and how to generate click-tracking URLs by ad network and object
 

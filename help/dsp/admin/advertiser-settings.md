@@ -25,15 +25,15 @@ role: User, Admin
 
 ### [!UICONTROL Adobe IMS IDs]
 
-Advertisers with additional Adobe Experience Cloud products can share data across some products using the organization's unique ID for Experience Cloud. You can configure specific product integrations in the [!UICONTROL Integrations] section.
+Advertisers with additional Adobe CX Enterprise products can share data across some products using the organization's unique ID for CX Enterprise. You can configure specific product integrations in the [!UICONTROL Integrations] section.
 
-**[!UICONTROL Account IMS org and ID]:** (Advertisers with additional Experience Cloud products that are licensed through an Experience Cloud account with multiple advertisers; optional) The advertiser's Experience Cloud organization ID.
+**[!UICONTROL Account IMS org and ID]:** (Advertisers with additional CX Enterprise products that are licensed through an CX Enterprise account with multiple advertisers; optional) The advertiser's CX Enterprise organization ID.
 
-**[!UICONTROL Advertiser IMS org and ID]:** (Advertisers with direct licenses for additional Experience Cloud products; optional) The advertiser's Experience Cloud organization ID.
+**[!UICONTROL Advertiser IMS org and ID]:** (Advertisers with direct licenses for additional CX Enterprise products; optional) The advertiser's CX Enterprise organization ID.
 
 ### [!UICONTROL Integrations]
 
-(Optional) Additional Experience Cloud products linked to the DSP account. The products must be associated with the same Experience Cloud organization ID provided in the [!UICONTROL Adobe IMS IDs] section.
+(Optional) Additional CX Enterprise products linked to the DSP account. The products must be associated with the same CX Enterprise organization ID provided in the [!UICONTROL Adobe IMS IDs] section.
 
 **[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Advertisers with [!DNL Advertising Search, Social, & Commerce] or who use Adobe Advertising conversion pixels) A [!DNL Search, Social, & Commerce] account with which DSP exchanges attribution data.
 
@@ -50,8 +50,8 @@ For more information about the integration with [!DNL Analytics], see "[Overview
 **[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Advertisers with Adobe Audience Manager or Adobe Analytics; optional) An Audience Manager or [!DNL Analytics] account from which DSP pulls in segment metadata, hierarchy data, and unique audience data for all of the advertiser's Adobe audiences. This includes data for:
 
 * Audience Manager segments
-* [!DNL Analytics] segments that are published to Adobe Experience Cloud
-* Segments that are created using the Adobe Experience Cloud [!DNL Audience Library]
+* [!DNL Analytics] segments that are published to Adobe CX Enterprise
+* Segments that are created using the Adobe CX Enterprise [!DNL Audience Library]
 * Segments that are created in Adobe Experience Platform and sent to Adobe Advertising via Audience Manager
 
 The initial sync takes about 24 hours. After that, data is synced in real time, with a one- to two- second delay.

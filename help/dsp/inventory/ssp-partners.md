@@ -3,6 +3,19 @@ title: SSP partners
 description: See a list of available supply-side platform (SSP) and open exchange partners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
+TQID: https://experienceleague.adobe.com/A41OF1vywMSxgMF2hOTD0X4bKjvroZFMzqeCHolkITY
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+    internal-label: Demand Side Platform
+subfeature_v2:
+  - id: ac506c20-96f2-48f6-9096-77706e336bda
+    internal-label: DSP Private Inventory
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # SSP partners
 

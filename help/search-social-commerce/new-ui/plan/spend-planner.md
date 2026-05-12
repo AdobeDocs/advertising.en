@@ -1,14 +1,24 @@
 ---
 title: Using the [!UICONTROL Spend Planner]
-description: Learn how to use the [!UICONTROL Spend Planner] to identify the optimal spend distribution across portfolios.
-feature: Search Optimization, Search Portfolios, Search Simulations
+description: Learn how to generate, download, and apply portfolio budget recommendations to help you achieve the optimal spend distribution across your portfolios.
+feature: Search Optimization, Search Portfolios
 exl-id: 966b8968-68b6-4385-9efb-e639a6729362
+TQID: https://experienceleague.adobe.com/8BAQij06MRhxYoCoFNjhHsgC4o38lQnj9vpmTzYyqGg
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c2296997-5d79-4905-b32e-99b5aa892429
+    internal-label: Search optimization
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Using the [!UICONTROL Spend Planner]
 
-<!-- When this becomes a menu item, move file and TOC entry accordingly -->
-
-The [!UICONTROL Spend Planner] (called the "Spend Recommendation Tool" in the legacy user interface) identifies the optimal spend distribution across optimized and active portfolios with the same objective and currency so that you can maximum revenue or target goals for the portfolio set.
+The [!UICONTROL Spend Planner] (called the "[!UICONTROL Spend Recommendation Tool]" in the legacy user interface) identifies the optimal spend distribution across optimized and active portfolios with the same objective and currency so that you can maximize revenue or target goals for the portfolio set.
 
 When you view a spend recommendation report for portfolios with daily budgets, you can change the budgets for any of the portfolios to the recommended budgets.
 
@@ -24,7 +34,15 @@ Spend recommendation reports include the following data:
 
 * A bar chart for each of the portfolios, showing the recommended daily spend (cost) and predicted revenue distribution or click distribution when you maintain the current total daily spend target across all selected portfolios, or for a proposed total spend target. You can optionally apply the recommended spend targets to the selected portfolios, which affects bidding in the next bid execution cycle.
 
-## (New UI) Generate a [!UICONTROL Spend Planner] report
+## Available actions
+
+* Generate a [!UICONTROL Spend Planner] report from the [new UI](#spend-recommendations-generate) or [legacy UI](#spend-recommendations-generate-legacy)
+
+* [Apply spend recommendations](#spend-recommendations-apply) to the corresponding portfolios.
+
+* [Open or save spend recommendation report data to a file](#spend-recommendations-download)
+
+## (New UI) Generate a [!UICONTROL Spend Planner] report {#spend-recommendations-generate}
 
 1. Do either of the following:
 
@@ -50,11 +68,47 @@ Spend recommendation reports include the following data:
    
    1. (Optional) To see the cost and revenue for any point on the chart, hold the cursor over the point.
 
-1. (Optional) To view the recommended daily spend and predicted revenue for each of the portfolios using a new total spend target, enter a proposed total daily spend target across all portfolios in the [!UICONTROL Total Spend Target] field. Then press the **Enter** key.
+1. (Optional) To view the recommended daily spend target and expected revenue for each of the portfolios using a different total spend target, enter a proposed total daily spend target across all portfolios in the [!UICONTROL Total Spend Target] field. Then press the **Enter** key.
 
    The spend recommendation tool uses data from weekly simulations, so the total recommended spend is the closest match to your proposed spend target with the ideal spend mix.
 
-## (Legacy UI) Generate a [!UICONTROL Spend Recommendation] report from the [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] view
+<!--
+
+New UI; validate post-Update steps once I get it to generate a report:
+
+## Generate a spend recommendation report {#spend-recommendations-generate}
+
+1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Spend Planner]**.
+
+1. View data using the current, combined budgets for the selected portfolios:
+
+   1. Click **[!UICONTROL Select Objective]**.
+
+   1. Select the portfolio objective.
+
+   1. Select the currency.
+
+   1. (Optional) Select a portfolio spend strategy to further filter the portfolios list.
+
+   1. Select the check box next to each portfolio to include.
+
+      Only optimized and active portfolios with the selected parameters are listed.
+
+   1. Click **[!UICONTROL Update]**.
+
+   1. (Optional) To see the cost and revenue for any point on the chart, hold the cursor over the point.
+
+1. (Optional) To download the proposed allocation and expected revenue per portfolio, click ![Download](/help/search-social-commerce/assets/download-spend-recommendation.png "Download") next to [!UICONTROL Portfolio Allocation] in the right column.
+
+   Open or save the file according to your browser's normal procedure. For more information, see your browser's online help.
+
+1. (Optional) To view the recommended daily spend and expected revenue for each of the portfolios using a different total spend target, enter a proposed total daily spend target across all portfolios in the [!UICONTROL Total Spend Target] field. Then press the **Enter** key.
+
+   The spend recommendation tool uses data from weekly simulations, so the total recommended spend is the closest match to your proposed spend target with the ideal spend mix.
+
+-->
+
+## (Legacy UI) Generate a [!UICONTROL Spend Recommendation] report from the [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] view {#spend-recommendations-generate-legacy}
 
 1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation]**.
 
@@ -78,29 +132,63 @@ Spend recommendation reports include the following data:
 
    The spend recommendation tool uses data from weekly simulations, so the total recommended spend is the closest match to your proposed spend target with the ideal spend mix.
 
-## Apply spend recommendations
+<!--
+## (New UI) Apply spend recommendations {#spend-recommendations-apply}
 
 *Portfolios with daily budgets only*
 
 >[!NOTE]
 >
->* If the applied changes will increase or decrease the spend target of any portfolio by more than 20%, then you receive a notification and must approve the change.
+>* If the applied changes will increase or decrease the spend target of any portfolio by more than 20%, you must approve the change.
 >* When the spend target for a portfolio changes by more than 20%, Search, Social, & Commerce takes up to 3-4 days to adjust its models and achieve the new target.
 
-1. View the spend recommendation report for one or more portfolios with daily budgets.
+1. [Generate a spend recommendation report](#spend-recommendations-generate) for one or more portfolios with daily budgets.
 
-1. Select the check box next to each portfolio for which you want to apply the recommended spend target. To select all portfolios, select the check box next to [!UICONTROL Select All Recommendations].
+1. Select the check box next to each portfolio for which you want to apply the recommended spend target. To select all portfolios, select the check box next to **[!UICONTROL Select All Recommendations]**.
+
+1. Click **[!UICONTROL Apply Selected Recommendations]**.
+
+1. (If any of the budgets will change by more than 20%) In the confirmation message, click **[!UICONTROL Confirm]** to approve the changes.
+
+-->
+
+## <!--(Legacy UI) -->Apply spend recommendations {#spend-recommendations-apply-legacy}
+
+*Portfolios with daily budgets only*
+
+>[!NOTE]
+>
+>* If the applied changes will increase or decrease the spend target of any portfolio by more than 20%, you must approve the change.
+>* When the spend target for a portfolio changes by more than 20%, Search, Social, & Commerce takes up to 3-4 days to adjust its models and achieve the new target.
+
+1. [Generate a spend recommendation report](#spend-recommendations-generate-legacy) for one or more portfolios with daily budgets.
+
+1. Select the check box next to each portfolio for which you want to apply the recommended spend target. To select all portfolios, select the check box next to **[!UICONTROL Select All Recommendations]**.
 
 1. Click **[!UICONTROL Apply Selected Recommendations]**.
 
 1. (If any of the budgets will change by more than 20%) In the confirmation message, click **[!UICONTROL Yes]** to approve the changes.
 
-## Open or save data to a file
+<!--
 
-You can export report data from any section of the [!UICONTROL Spend Recommendation] report. You can either open or save the data as a [!DNL Microsoft Excel] workbook file.
+## (New UI) Open or save data as a [!DNL Microsoft Excel] workbook file {#spend-recommendations-download}
 
-1. Generate a spend recommendation report for selected portfolios.
+You can open or save data from either a) the line chart showing cost points and the expected revenue for each cost and b) the donut charts of the current and proposed media mix. [This seems to be identical to the Portfolio Allocation report -- how should these be different?]
+
+1. [Generate a spend recommendation report](#spend-recommendations-generate) for selected portfolios.
 
 1. Above the report, click ![Download](/help/search-social-commerce/assets/download-spend-recommendation.png "Download").
 
-   Open or save the file according to your browser's normal procedure.  For more information, see your browser's online help.
+   Open or save the file according to your browser's normal procedure. For more information, see your browser's online help.
+
+-->
+
+<!--(Legacy UI) -->
+
+## Open or save data as a [!DNL Microsoft Excel] workbook file {#spend-recommendations-download-legacy}
+
+1. Generate a spend recommendation report for selected portfolios.
+
+1. In the upper right of the report, click ![Download](/help/search-social-commerce/assets/download-spend-recommendation.png "Download").
+
+   Open or save the file according to your browser's normal procedure. For more information, see your browser's online help.

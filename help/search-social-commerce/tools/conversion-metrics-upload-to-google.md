@@ -3,6 +3,16 @@ title: Upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Goo
 description: Learn how to upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads].
 exl-id: 976792ae-135c-4790-82cf-9503edb93fb1
 feature: Search Tools
+TQID: https://experienceleague.adobe.com/ayxUfDgkrnPz0s-pFAdkmvYy94Il5szQHl6lYg8DpF8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
 ---
 # Upload Search, Social, & Commerce-tracked conversion metrics to [!DNL Google Ads]
 

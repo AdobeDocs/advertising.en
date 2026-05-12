@@ -1,12 +1,12 @@
 ---
-user-guide-title: Integrations with Adobe Experience Cloud
-user-guide-description: Learn about Advertising DSP and Advertising Search integrations with other Adobe Experience Cloud products and services.
-breadcrumb-title: Integrations with Experience Cloud
+user-guide-title: Integrations with Adobe CX Enterprise
+user-guide-description: Learn about Advertising DSP and Advertising Search integrations with other Adobe CX Enterprise (formerly Adobe Experience Cloud) products and services.
+breadcrumb-title: Integrations with CX Enterprise
 role: User, Developer
 index: true
 ---
 
-# Adobe Advertising integrations with Adobe Experience Cloud {#integrations}
+# Adobe Advertising integrations with Adobe CX Enterprise {#integrations}
 
 + [What's new](/help/integrations/home.md)
 + [!DNL Analytics for Advertising] {#analytics}

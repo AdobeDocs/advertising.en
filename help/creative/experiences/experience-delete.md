@@ -3,6 +3,16 @@ title: Delete an experience
 description: Learn how to delete an unused experience.
 feature: Creative Experiences
 exl-id: 5658692f-4ae6-41d5-82d3-78ff5560b95f
+TQID: https://experienceleague.adobe.com/U4-i1x3-Hts-yDXOm2vfGsYrMYhk2ECQj8e491-chNc
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
 # Delete an experience
 
