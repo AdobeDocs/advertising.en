@@ -1,6 +1,6 @@
 ---
 title: Create a reusable audience
-description: Learn how to create a reusable audiences that consist of audience segments and other saved audiences.
+description: Learn how to create reusable audiences that consist of audience segments and other saved audiences. Optionally use an AI-assisted audience agent by describing your target audience in natural-language prompts; the agent suggests third-party segments and builds audience expressions for use as targets or exclusions.
 feature: DSP Audiences
 exl-id: 5f4a0abb-c285-4452-a6c3-a91d5281df9b
 TQID: https://experienceleague.adobe.com/KhAxVTvMx4yBz3tfDtng3nOur2IodZAFFHMUQM1lKhQ
