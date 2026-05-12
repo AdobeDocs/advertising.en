@@ -46,6 +46,7 @@ The following features are new or recently changed.
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
+| 11 May 2026 | Reusable [!UICONTROL Audiences] | (Beta feature) You can now create reusable audience using an AI-assisted audience agent. Describe your target audience in natural-language prompts, and the agent suggests third-party segments and builds audience expressions for use as targets or exclusions. | See "[Create a reusable audience](/help/dsp/audiences/reusable-audience-create.md)." |
 | 29 April 2026 | [!UICONTROL Conversions] | You can now manage all conversion metrics that Adobe Advertising tracks for your organization in DSP. The metrics are still available in Advertising Search, Social, & Commerce to use in reporting and optimization there. | See "[Manage conversions](/help/dsp/admin/conversion-metrics-manage.md)." |
 | | [!UICONTROL Custom Objectives] | You can now create and manage the objectives used for your custom goals from within DSP. | See "[Manage custom objectives](/help/dsp/admin/custom-objectives-manage.md)." |
 | 8 April 2026 | [!UICONTROL Insights] | Metrics for the [!UICONTROL Audience Funnel Analysis] insight on the [!UICONTROL Audience Analysis] tab were renamed. | See "[About insights](/help/dsp/campaign-management/insights/insights-about.md)." |
