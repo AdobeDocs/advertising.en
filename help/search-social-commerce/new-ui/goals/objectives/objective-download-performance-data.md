@@ -23,7 +23,7 @@ You can download the number of associated portfolios, click value, clicks, cost,
    
    * To download data for all objectives, you don't need to select any check boxes. All objectives are included by default.
 
-1. In the toolbar above the data table, click ![Download Report](/help/search-social-commerce/assets/download.png "Download Report").
+1. In the toolbar above the data table, click ![Download Report](/help/search-social-commerce/assets/download.png "Download Report") **[!UICONTROL Reports]**.
 
 1. In the [!UICONTROL Grid Reports] settings, enter a unique report name, and then click **[!UICONTROL Generate]**.
 
@@ -39,7 +39,7 @@ You can download the number of associated portfolios, click value, clicks, cost,
 
 In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
 
-1. In the toolbar above the data table, click ![Download Report](/help/search-social-commerce/assets/download.png "Download Report").
+1. In the toolbar above the data table, click ![Download Report](/help/search-social-commerce/assets/download.png "Download Report")  **[!UICONTROL Reports]**..
 
 1. In the [!UICONTROL Recently Generated] list in the [!UICONTROL Grid Reports] dialog, click ![Download](/help/search-social-commerce/assets/download.png "Download") next to the file name.
 
@@ -49,7 +49,7 @@ In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
 
 1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
 
-1. In the toolbar above the data table, click ![Download](/help/search-social-commerce/assets/download.png "Download") **[!UICONTROL Report]**.
+1. In the toolbar above the data table, click ![Download Report](/help/search-social-commerce/assets/download.png "Download Report") **[!UICONTROL Reports]**.
 
 1. In the [!UICONTROL Recently Generated] list in the [!UICONTROL Grid Reports] dialog, click ![Delete](/help/search-social-commerce/assets/delete-new.png "Delete") next to the file name.
 

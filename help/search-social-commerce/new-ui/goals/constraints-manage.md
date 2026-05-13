@@ -5,8 +5,6 @@ feature: Search Campaign Management, Search Optimization
 ---
 # Manage constraints for search bid units
 
-<!-- Read through all and edit as appropriate -->
-
 *Applicable for bid units in CPC campaigns in legacy keyword-level portfolios only*
 
 Bid unit constraints are rules that restrict optimized bids for all [bid units](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/glossary.html) with cost and revenue models that are associated with the constraint.
@@ -52,7 +50,7 @@ Some reasons to constrain bid units include the following:
 
 * To bid up specific terms that are central to your brand or during promotions.
 
-### Where to view information about constraints throughout the UI<!-- wording? -->
+### Where to view information about constraints within the UI
 
 Besides opening the [[!UICONTROL Constraints] view](#constraints-view), you can also see information related to your constraints in the following ways:
 
@@ -74,11 +72,9 @@ The [!UICONTROL Goals] > [!UICONTROL Constraints] view lists all of your constra
 >
 >The performance data for a row in the [!UICONTROL Constraints] view may not match the performance data for the top-level entity to which the constraint is assigned. Bbecause a constraint assigned at the lowest level always overrides a constraint assigned at a parent level, a constraint assigned to a campaign or ad group may not remain assigned to the child ad groups and keywords. For example, if Campaign A is assigned Constraint A, then all of the ad groups and keywords in Campaign A automatically inherit Constraint A. However, those ad groups and keywords could later be assigned to other constraints, such as Constraint B, and they would then lose their association with Constraint A.
 
-You can create, edit, and change the status of constraints from the [!UICONTROL Constraints] view.
-
 >[!NOTE]
 >
->You can assign constraints to bid units, and unassign them, from the relevant entity management view (such as from the [!UICONTROL Campaigns] view for campaign-level constraints).
+>Assign constraints to bid units, and unassign them, from the relevant entity management view (such as from the [!UICONTROL Campaigns] view for campaign-level constraints).
 
 #### Available actions
 
