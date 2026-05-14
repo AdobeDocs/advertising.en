@@ -23,23 +23,35 @@ topic_v2:
 
 You can generate a custom simulation for an [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portfolio. You also can either change the parameters of an existing simulation and regenerate the simulation or rerun an existing simulation with the existing parameters.
 
+<!-- You can't run sims for portfolios with legacy keyword-level optimization when they include smart bidding campaigns. Clarify all exceptions so users don't find out via error messages. -->
+
 [!UICONTROL Admin] and [!UICONTROL Account Manager] users can see simulations created by other users. All other users can see only the custom simulations they create.
 
-## Create a new simulation
+## Create a new simulation 
 
-1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
+1. Do either of the following:
 
-1. Above the data table, click **[!UICONTROL Run Simulation]**.
+  * From the [!UICONTROL Simulations] view:
 
-1. Select the portfolio:
+    1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
 
-   1. Click **[!UICONTROL Select Portfolio]**.
+    1. Above the data table, click **[!UICONTROL Run Simulation]**.
 
-   1. Select the portfolio.
+    1. Select the portfolio:
+    
+       1. Click **[!UICONTROL Select Portfolio]**.
+       
+       1. Select the portfolio.
+       
+          To search for portfolios that include a specific text string, begin entering the text string within the search field. Values aren't case-sensitive.
+       
+       1. Click **[!UICONTROL Proceed]**.
 
-      To search for portfolios that include a specific text string, begin entering the text string within the search field. Values aren't case-sensitive.
+  * From the [!UICONTROL Portfolios] view:
 
-   1. Click **[!UICONTROL Proceed]**.
+    1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
+
+    1. Hold the cursor over the portfolio row. Next to the portfolio name, click **[!UICONTROL ...]** > **[!UICONTROL Run Simulation]**.
 
 1. Specify the [custom simulation settings](#custom-simulation-settings):
 
