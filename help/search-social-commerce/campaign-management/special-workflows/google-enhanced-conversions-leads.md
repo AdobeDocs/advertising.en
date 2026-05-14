@@ -24,7 +24,7 @@ topic_v2:
 
 Within Search, Social, & Commerce, you can:
 
-* View your existing enhanced conversions for leads.
+* View your existing enhanced conversions for leads.<!-- Where is this? -->
 
   Search, Social, & Commerce syncs your existing enhanced conversions for leads daily at 05:00 in the advertiser's time zone.
 
