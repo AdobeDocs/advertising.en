@@ -55,17 +55,16 @@ Enter the account's time zone either in this location or in the "[!UICONTROL Con
 
 ### Table columns and values for [!DNL Microsoft Advertising]
 
-For more instructions for using the template, see [https://help.ads.microsoft.com/#apex/3/56852](https://help.ads.microsoft.com/#apex/3/56852).
+For more instructions for formatting and hashing the data, see the [!DNL Microsoft Ads] documentation on [Enhanced conversions](https://help.ads.microsoft.com/#apex/ads/60178).
 
 | Column | Description |
 | ------ | ----------- |
-| Conversion Name | (Required) The name of the conversion goal. |
-| Conversion Time | (Required) The time the conversion event occurred. If you don't include the account's time zone ID in the `Parameters:TimeZone=insert_timezone` line above the data table, then include the time zone for each row using the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time). For a list of time zones for various cities, see [https://learn.microsoft.com/en-us/advertising/guides/time-zones](https://learn.microsoft.com/en-us/advertising/guides/time-zones), but make sure that you use the format specified here instead of the format in the time zone list. |
-| Conversion Value | (Required) The numeric conversion value. |
-| Conversion Currency | The currency code for the conversion event. |
-| Microsoft Click ID | The associated unique [!DNL Microsoft] click identifier (MSCLKID). This field may be empty for enhanced offline conversions. |
-| Hashed Email Address | The user's email address, which must be hashed using the SHA-256 algorithm. For enhanced offline conversions, each row must include either a Hashed Email Address value or a Hashed Phone Number value. |
-| Hashed Phone Number | The user's telephone number, which must be hashed using the SHA-256 algorithm. It must include a country code, and it may contain dashes and other symbols. For enhanced offline conversions, each row must include either a Hashed Email Address value or a Hashed Phone Number value. |
+| [!UICONTROL Email] | The user's email address, which must be hashed using the SHA-256 algorithm. Each row must include either an [!UICONTROL Email] value or a [!UICONTROL Phone Number] value. |
+| [!UICONTROL Phone Number] | The user's telephone number, which must be hashed using the SHA-256 algorithm. It must include a country code, and it may contain dashes and other symbols. For enhanced offline conversions, each row must include either an [!UICONTROL Email] value or a [!UICONTROL Phone Number] value. |
+| [!UICONTROL Conversion Name] | (Required) The name of the conversion action. |
+| [!UICONTROL Conversion Time] | (Required) The time the conversion event occurred. If you don't include the account's time zone ID in the `Parameters:TimeZone=insert_timezone` line above the data table, then include the time zone for each row using the GMT offset, as indicated by + or - and the 4-digit time difference (such as -0500 for New York, +0100 for Berlin, or +0000 for Greenwich Mean Time). For a list of time zones for various cities, see [https://learn.microsoft.com/en-us/advertising/guides/time-zones](https://learn.microsoft.com/en-us/advertising/guides/time-zones), but make sure that you use the format specified here instead of the format in the time zone list.|
+| [!UICONTROL Conversion Value] | (Required) The numeric conversion value. |
+| [!UICONTROL Conversion Currency] | The currency code for the conversion event. |
 
 >[!MORELIKETHIS]
 >
