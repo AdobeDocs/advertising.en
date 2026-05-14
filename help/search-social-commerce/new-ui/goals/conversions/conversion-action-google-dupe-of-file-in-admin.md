@@ -5,13 +5,15 @@ feature: Conversions
 ---
 # Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads
 
-<!-- Includes procedure in new UI -->
+<!-- Includes procedure in new UI, which isn't available to all yet -->
 
 *[!DNL Google Ads] accounts only*
 
 You can create conversion actions for [!DNL Google Ads] enhanced conversions for leads to be tracked for individual [!DNL Google Ads] accounts, not conversions tracked at a manager account level.<!-- I don't see a list of synced conversion actions here; supposedly we do list them, but I don't see them in the legacy UI either (unless they're just listed as conversions, but not identified differently). Clarify and reword if necessary. -->
 
 ## (New UI) Create a conversion action
+
+*Beta feature*
 
 1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Conversions]**.
 

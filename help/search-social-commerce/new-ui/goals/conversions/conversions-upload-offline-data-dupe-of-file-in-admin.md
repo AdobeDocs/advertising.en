@@ -7,13 +7,15 @@ feature: Conversions
 
 <!-- Renamed file to start with "conversions-"-->
 
-<!-- Update to add procedure in new UI -->
+<!-- Added procedure in new UI, which isn't available to all yet -->
 
 *[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
 You can upload your first-party, offline conversion data &mdash; including hashed email addresses and telephone numbers &mdash; to map to your existing [[!DNL Google Ads] enhanced conversions for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md) and [[!DNL Microsoft Advertising] enhanced conversions](https://help.ads.microsoft.com/#apex/ads/en/60178). All uploaded data is synced in real-time to the ad network.
 
 ## (New UI) Upload data for enhanced conversions
+
+*Beta feature*
 
 1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Conversions]**.
 
