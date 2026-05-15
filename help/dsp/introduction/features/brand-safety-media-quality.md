@@ -149,7 +149,7 @@ To create a [!DNL Comscore] account and create custom topic segments, you can re
 
 ### [!DNL DoubleVerify Authentic Brand Suitability]
 
-DSP has partnered with [!DNL DoubleVerify] to offer its [!DNL Authentic Brand Suitability] targeting solution, which allows you to create a centralized set of brand safety requirements to target across all of your buying platforms for consistency.
+DSP has partnered with [!DNL DoubleVerify] to offer its [!DNL Authentic Brand Suitability] targeting solution, which allows you to create a centralized set of brand suitability requirements to target across all of your buying platforms for consistency.
 
 Once you have built a [!DNL DoubleVerify] segment with the necessary targeting, you can use it within DSP to replicate your post-bid block rules with pre-bid across web environments.
 
