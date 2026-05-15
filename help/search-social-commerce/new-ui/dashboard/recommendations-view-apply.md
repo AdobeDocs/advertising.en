@@ -195,7 +195,7 @@ You can view a log of each recommendation that was applied. The information incl
 
 Dismissed recommendations aren't available from the ad network.
 
-### (New UI) View a log of the publisher recommendations for an account {#recommendations-log}
+### (New UI) View a log of the publisher recommendations for an account
 
 1. In the main menu, click **[!UICONTROL Dashboard] > [!UICONTROL Recommendations]**.
 
@@ -203,7 +203,7 @@ Dismissed recommendations aren't available from the ad network.
 
 1. In the upper right, click ![Recommendation Logs](/help/search-social-commerce/assets/recommendations-log-view-new.png "Recommendation Logs").
 
-### (Legacy UI) View a log of the publisher recommendations for an account {#recommendations-log}
+### (Legacy UI) View a log of the publisher recommendations for an account
 
 1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]**.
 
