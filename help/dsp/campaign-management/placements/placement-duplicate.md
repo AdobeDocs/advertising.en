@@ -75,7 +75,7 @@ All settings from the original placements are duplicated except:
     * Geo targets
     * Event pixels
     * Ads
-    * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segments (which override the advertiser-level segments)
+    * Placement-level [!DNL DoubleVerify Authentic Brand Suitability] segments (which override the advertiser-level segments)
 
 ## Best practices to configure the new placements
 
@@ -96,7 +96,7 @@ All settings from the original placements are duplicated except:
 
   * Attach event pixels as necessary to the placements and ads.
 
-  * Include geographic targets and placement-level [!DNL DoubleVerify Authentic Brand Safety] segments as needed to the placements.
+  * Include geographic targets and placement-level [!DNL DoubleVerify Authentic Brand Suitability] segments as needed to the placements.
 
   * For programmatic guaranteed deals, use new deal IDs and create default placements.
 

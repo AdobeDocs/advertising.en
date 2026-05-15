@@ -147,13 +147,13 @@ To create a [!DNL Comscore] account and create custom topic segments, you can re
 
 ![Comscore logo](/help/dsp/assets/comscore-logo.png)
 
-### [!DNL DoubleVerify Authentic Brand Safety]
+### [!DNL DoubleVerify Authentic Brand Suitability]
 
-DSP has partnered with [!DNL DoubleVerify] to offer its [!DNL Authentic Brand Safety] targeting solution, which allows you to create a centralized set of brand safety requirements to target across all of your buying platforms for consistency.
+DSP has partnered with [!DNL DoubleVerify] to offer its [!DNL Authentic Brand Suitability] targeting solution, which allows you to create a centralized set of brand safety requirements to target across all of your buying platforms for consistency.
 
-Once you have built a [!DNL DoubleVerify] brand safety segment with the necessary targeting, you can use it within DSP to replicate your post-bid block rules with pre-bid across web environments.
+Once you have built a [!DNL DoubleVerify] segment with the necessary targeting, you can use it within DSP to replicate your post-bid block rules with pre-bid across web environments.
 
-You can specify a [!DNL DoubleVerify] segment ID for each advertiser<!-- [specify a DoubleVerify segment ID for each advertiser](/help/dsp/admin/advertiser-settings.md) -->, and then optionally [enable or disable [!UICONTROL Authentic Brand Safety] for each placement](/help/dsp/campaign-management/placements/placement-settings.md). DSP bills your account for usage for the segment ID.
+You can specify a [!DNL DoubleVerify] segment ID for each advertiser, and then optionally [enable or disable [!UICONTROL Authentic Brand Suitability] for each placement](/help/dsp/campaign-management/placements/placement-settings.md). DSP bills your account for usage for the segment ID.
 
 For more information about functionality, contact [!DNL DoubleVerify] directly, or contact your Adobe Account Team.
 
