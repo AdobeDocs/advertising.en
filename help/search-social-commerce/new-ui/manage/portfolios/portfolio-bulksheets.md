@@ -35,7 +35,7 @@ A portfolio bulksheet is a file that contains portfolio settings in a specific f
 
 1. In the toolbar above the data table, click:
 
-   * (For all portfolios) **[!UICONTROL Bulk Operations]** > **[!UICONTROL Export All Portfolios]**.
+   * (For all portfolios) ![Bulk Operations](/help/search-social-commerce/assets/chevron-down.png "Bulk Operations") > **[!UICONTROL Export All Portfolios]**.
    
    * (For selected portfolios) **[!UICONTROL Bulk Operations]** > **[!UICONTROL Export Selected Portfolios]**.
 
@@ -47,7 +47,7 @@ A portfolio bulksheet is a file that contains portfolio settings in a specific f
 
 The file must be XLSX format.
 
-1. In the toolbar above the data table, click **[!UICONTROL Bulk Operations]** > **[!UICONTROL Import Portfolio Details]**.
+1. In the toolbar above the data table, click ![Bulk Operations](/help/search-social-commerce/assets/chevron-down.png "Bulk Operations") > **[!UICONTROL Import Portfolio Details]**.
 
 1. In the [!UICONTROL Import Portfolio Details File] dialog:
 

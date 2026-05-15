@@ -25,9 +25,11 @@ Duplicate a portfolio to create a new portfolio with the same settings. You can 
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
 
-1. Select the check box next to the portfolio.
+1. Do either of the following:
 
-1. In the toolbar above the data table, click ![Duplicate](/help/search-social-commerce/assets/duplicate.png "Duplicate") **[!UICONTROL Duplicate]**.
+   * Hold the cursor over the portfolio row and click **[!UICONTROL ...] > [!UICONTROL Duplicate]**.
+   
+   * Select the check box next to the portfolio. In the bulk actions toolbar, click ![Duplicate](/help/search-social-commerce/assets/duplicate.png "Duplicate") **[!UICONTROL Duplicate]**.
 
 1. Edit the portfolio settings.
 
