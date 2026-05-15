@@ -23,13 +23,16 @@ topic_v2:
 
 >[!NOTE]
 >
->To edit the settings for multiple portfolios at once, see "[(New UI) Bulk edit portfolio settings using bulksheet files](portfolio-bulksheets.md)."
+>* To edit the settings for multiple portfolios at once, see "[(New UI) Bulk edit portfolio settings using bulksheet files](portfolio-bulksheets.md)."
+>* To quickly rename a portfolio without opening the full portfolio settings, see "[Rename a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-rename.md)."
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
 
-1. Select the check box next to the portfolio.
+1. Do either of the following:
 
-1. In the toolbar above the data table, click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") **[!UICONTROL Edit]**.
+   * Hold the cursor over the portfolio row and click ![Edit Portfolio](/help/search-social-commerce/assets/settings-new.png "Edit Portfolio").
+   
+   * Select the check box next to the portfolio. In the bulk actions toolbar, click ![Edit](/help/search-social-commerce/assets/edit.png "Edit").
 
 1. Edit the portfolio settings.
 

@@ -14,7 +14,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 ---
-# View the publisher recommendations for an account
+# View a log of the publisher recommendations for an account
 
 *[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts*
 

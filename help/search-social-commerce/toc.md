@@ -61,7 +61,7 @@ index: true
       + [Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
 + (Beta) NEW USER INTERFACE {#new-ui}
   + [About the new user interface](/help/search-social-commerce/new-ui/new-ui-about.md)
-  + [View your performance dashboard](/help/search-social-commerce/new-ui/dashboard-view.md)
+  + [View your performance dashboard](/help/search-social-commerce/new-ui/dashboard/dashboard-overview.md)
   + Plan {#plan}
     + Objectives {#objectives}
       + [About objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-about.md)
@@ -85,9 +85,12 @@ index: true
       + [Duplicate a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-duplicate.md)
       + [Edit portfolio details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md)
       + [Bulk edit portfolio settings using bulksheet files](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-bulksheets.md)
+      + [Rename a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-rename.md)
+      + [Change the status of a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-change-status.md)
       + [Portfolio settings](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-settings.md)
       + [View a performance graph in the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-performance-graph.md)
       + [View portfolio performance details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-details.md)
+      + [View a portfolio's change history](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-change-history.md)
       + [Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
     + Campaigns {#campaigns}
       + [About the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-about.md)
