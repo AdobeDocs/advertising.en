@@ -51,39 +51,11 @@ You can generate a custom simulation for an [optimized or active](/help/search-s
 
     1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
 
-    1. Hold the cursor over the portfolio row. Next to the portfolio name, click **[!UICONTROL ...]** > **[!UICONTROL Run Simulation]**.
-
-1. Specify the [custom simulation settings](#custom-simulation-settings):
-
-   1. (Optional) To change the portfolio used for the simulation, click **[!UICONTROL Change Portfolio]** next to the portfolio name, select the portfolio, and then click **[!UICONTROL Proceed]**.
-   
-   1. On the [!UICONTROL Basic Settings] tab:
-   
-      1. Enter a unique **[!UICONTROL Simulation Name]**.
-      
-      1. (Optional) Change the basic parameters for the simulation.
-   
-   1. (Optional) On the [!UICONTROL Advanced Settings] tab, change the advanced parameters for the simulation.
-
-   The existing parameters for the selected portfolio are specified by default. Changing the values will show you the results that different parameters would produce without changing the portfolio's existing parameters.
-
-1. Click **[!UICONTROL Next]**.
-
-1. Review the settings, and edit settings as needed.
-
-1. Click **[!UICONTROL Submit & Run]**.
-
-When the simulation report is available, you and any other email recipients specified receive a notification with a link to download the data in a ZIP file that contains one workbook (XLSX file).
-
-<!-- Still true:  When the results for any report type include more than 60,000 rows, the workbook includes multiple worksheets. -->
-
-## Edit the settings for an existing simulation and rerun it
-
-1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
-
-1. Select the check box next to the simulation to regenerate.
-
-1. Above the data table, click **[!UICONTROL Run Simulation]**.
+    1. Do either of the following:
+    
+       * Hold the cursor over the portfolio row. Next to the portfolio name, click **[!UICONTROL ...]** > **[!UICONTROL Run Simulation]**.
+       
+       * Select the check box next to the portfolio. In the bulk actions toolbar, click **[!UICONTROL Run Simulation]**.
 
 1. Specify the [custom simulation settings](#custom-simulation-settings):
 
@@ -118,6 +90,38 @@ You can rerun simulations that aren't currently queued.
 1. Select the check boxes next to the simulations you want to rerun.
 
 1. In the toolbar above the data table, click ![Rerun](/help/search-social-commerce/assets/rerun.png "Rerun").
+
+## Edit the settings for an existing simulation and rerun it
+
+1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
+
+1. Select the check box next to the simulation to regenerate.
+
+1. Above the data table, click **[!UICONTROL Run Simulation]**.
+
+1. Specify the [custom simulation settings](#custom-simulation-settings):
+
+   1. (Optional) To change the portfolio used for the simulation, click **[!UICONTROL Change Portfolio]** next to the portfolio name, select the portfolio, and then click **[!UICONTROL Proceed]**.
+   
+   1. On the [!UICONTROL Basic Settings] tab:
+   
+      1. Enter a unique **[!UICONTROL Simulation Name]**.
+      
+      1. (Optional) Change the basic parameters for the simulation.
+   
+   1. (Optional) On the [!UICONTROL Advanced Settings] tab, change the advanced parameters for the simulation.
+
+   The existing parameters for the selected portfolio are specified by default. Changing the values will show you the results that different parameters would produce without changing the portfolio's existing parameters.
+
+1. Click **[!UICONTROL Next]**.
+
+1. Review the settings, and edit settings as needed.
+
+1. Click **[!UICONTROL Submit & Run]**.
+
+When the simulation report is available, you and any other email recipients specified receive a notification with a link to download the data in a ZIP file that contains one workbook (XLSX file).
+
+<!-- Still true:  When the results for any report type include more than 60,000 rows, the workbook includes multiple worksheets. -->
 
 ## Custom simulation settings {#custom-simulation-settings}
 
