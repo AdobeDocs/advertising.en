@@ -99,10 +99,14 @@ index: true
       + [Remove campaigns from a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
       + [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
       + [Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
+      + [Change the status of a campaign](/help/search-social-commerce/new-ui/manage/campaigns/campaign-change-status.md)
+      + [Rename a campaign](/help/search-social-commerce/new-ui/manage/campaigns/campaign-rename.md)
     + Ad Groups {#ad-groups}
       + [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
       + [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)    
       + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
+      + [Change the status of an ad group](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-change-status.md)
+      + [Rename an ad group](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-rename.md)
     + Ads {#ads}
       + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
       + [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)

@@ -1,6 +1,6 @@
 ---
 title: (New UI) Change the status of a portfolio
-description: Learn how to change the status of a portfolio or delete an inactive portfolio.
+description: Learn how to change the status of a portfolio or delete an inactive portfolio without opening the portfolio settings.
 feature: Search Portfolios, Search Optimization
 hide: true
 ---
@@ -8,13 +8,7 @@ hide: true
 
 *Beta feature*
 
-A portfolio's status can be one of the following:
-
-* **Inactive:** The optimization capability is gathering cost/click/impression data for the relevant campaigns for reporting purposes, but it isn't modeling the data nor optimizing campaign budgets and bids.
-
-* **Active:** The optimization capability is gathering cost/click/impression data and revenue data for the relevant campaigns and is modeling the data, but it isn't optimizing campaign budgets or bids. Activate an inactive portfolio to begin modeling data or downgrade an optimized portfolio to the active state to stop optimization.
-
-* **Optimized:** The optimization capability is gathering cost/click/impression data and revenue data for the relevant campaigns, modeling the data, and optimizing campaign budgets and bids (when relevant) on the designated portfolio start date. Changing the status to optimized is also called launching the portfolio.
+You can quickly change a [portfolio's status](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md#portfolio-statuses) without opening the full portfolio settings.
 
 To stop gathering cost/click/impression data and revenue data for the relevant campaigns, delete the portfolio. Deleting a portfolio makes it unavailable within Search, Social, & Commerce.
 
@@ -36,12 +30,12 @@ All changes to the portfolio status are logged in the portfolio's change history
    
      >[!NOTE]
      >
-     >* You can launch a portfolio only if it is already active and contains at least one active campaign with at least one active ad and keyword/placement.
-     >* Before you launch a portfolio, you must implement conversion tracking tags in the advertiser's webpages.
-     >* Before you launch a portfolio, the best practice is to perform a baseline analysis.
-     >* If you're launching a new portfolio, the make sure that the start date is today or later.>* Avoid changing the portfolio in the first week after launch, even though performance is volatile.
-     >* Once Search, Social, & Commerce begins optimizing a portfolio, you should let it manage all future bid changes (when applicable). Search, Social, & Commerce will overwrite any changes you make from within the ad network.
-     >* After you launch a portfolio, you can temporarily set manual bids for any CPC campaign in the portfolio by creating and posting campaign bulksheets. Any bid changes resulting from the posted data are applicable for one day. After that, Search, Social, & Commerce resumes setting bids according to its own optimization strategy.
+     >* You can change the status to optimized only if the portfolio is already active and contains at least one active campaign with at least one active ad and keyword/placement.
+     >* Before you change the status to optimized, you must implement conversion tracking tags in the advertiser's webpages. In addition, the best practice is to perform a baseline analysis.
+     >* When you launch a new portfolio, make sure that the start date is today or later.
+     >* Avoid changing the portfolio in the first week after optimization, even though performance is volatile.
+     >* Once Search, Social, & Commerce begins optimizing a portfolio, let it manage all future campaign budget and (when applicable) bid change (when applicable). Search, Social, & Commerce will overwrite any changes you make from within the ad network.
+     >* You can temporarily set manual bids for any optimized CPC campaign in the portfolio by creating and posting campaign bulksheets. Any bid changes resulting from the posted data are applicable for one day. After that, Search, Social, & Commerce resumes setting bids according to its own optimization strategy.
 
 ## Delete an inactive portfolio
 

@@ -32,13 +32,13 @@ The new user interface features a new main menu on the left, which organizes tas
 
 ### Main menu options
 
-Your role determines the available options:<!-- add link when available -->
+Your [product profile](/help/search-social-commerce/new-ui/user-administration.md#default-product-profiles) determines the available options:
 
 * **[!UICONTROL Dashboard]** submenu:
 
   * **[!UICONTROL Overview]** Opens a configurable [!UICONTROL Dashboard] view with performance visualizations for all of your portfolios.
 
-  * **[!UICONTROL Recommendations]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights] view.
+  * **[!UICONTROL Recommendations]**: Opens a read-only view of your publisher recommendations from [!DNL Google Ads] and [!DNL Microsoft Advertising] and publisher insights from [!DNL Microsoft Advertising.] To view and respond to your recommendations and insights, use the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
   * **[!UICONTROL Alerts & Notifications]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts] view.
 
