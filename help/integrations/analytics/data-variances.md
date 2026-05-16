@@ -32,7 +32,7 @@ topic_v2:
 
 *Advertisers with an Adobe Advertising-Adobe Analytics Integration Only*
 
-Advertisers with the [!DNL Analytics for Advertising] <!-- (A4AdC) --> integration track paid advertising through Adobe Advertising and Adobe Analytics. When you track media, campaigns, and channels via multiple systems, the same data sets from different systems rarely match completely. This document explains how you should expect data for media that's trafficked through Adobe Advertising to compare to data in the different systems in which the media is tracked within [!DNL Analytics].
+Advertisers with the [!DNL Analytics for Advertising] integration track paid advertising through Adobe Advertising and Adobe Analytics. When you track media, campaigns, and channels via multiple systems, the same data sets from different systems rarely match completely. This document explains how you should expect data for media that's trafficked through Adobe Advertising to compare to data in the different systems in which the media is tracked within [!DNL Analytics].
 
 >[!NOTE]
 >
@@ -162,7 +162,7 @@ Note the following two limitations with data in [!DNL Paid Search Detection] rep
 
 * When the [!DNL Paid Search Detection] feature was originally created, the originating search query (the string of characters the user entered into the search bar in the search engine) was more readily available to advertisers via the referring URL. Today, search engines largely obfuscate the search query, and the [!DNL Paid Search Detection] keyword reports are of limited value because most query data falls under "unspecified."
 
-     With [!DNL Analytics for Advertising], advertisers can still track paid keywords in [!DNL Analytics]. The referring domain informs the engine reports which search engine drove the traffic. Since the advertiser-specific account information isn’t tied to the referring domain, all traffic is listed under the search engine. Advertisers with multiple accounts in the same search engine should refer to Adobe Advertising or [!DNL Analytics] reporting for account-specific reporting.
+     With [!DNL Analytics for Advertising], advertisers can still track paid keywords in [!DNL Analytics]. The referring domain informs the engine reports which search engine drove the traffic. Since the advertiser-specific account information isn't tied to the referring domain, all traffic is listed under the search engine. Advertisers with multiple accounts in the same search engine should refer to Adobe Advertising or [!DNL Analytics] reporting for account-specific reporting.
 
 ### Why configure [!DNL Paid Search Detection]?
 
@@ -254,7 +254,7 @@ Fortunately, while issues like this are common, they typically don't result in a
 
 They seem analogous, but clicks and visits represent different data:
 
-* **Click:** [!DNL DSP] or the search engine records a click when a visitor clicks an ad on a publisher’s website.
+* **Click:** [!DNL DSP] or the search engine records a click when a visitor clicks an ad on a publisher's website.
 
 * **Visit:** [!DNL Analytics] defines a [visit](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html) as a series of page views by a user, ending according to one of several criteria, such as 30 minutes of inactivity.
 
@@ -270,7 +270,7 @@ Consider the following example: User 1 and User 2 both access a site by clicking
 
 Clicks and click-throughs are two different metrics:
 
-* **Click:** [!DNL DSP] or the search engine records a click when a visitor clicks an ad on a publisher’s website.
+* **Click:** [!DNL DSP] or the search engine records a click when a visitor clicks an ad on a publisher's website.
 
 * **Click-throughs:** [!DNL Analytics] records a click-through when the visitor lands on the destination website, the landing page loads, and the [!DNL Analytics] request at the bottom of the page sends the data to [!DNL Analytics].
 
