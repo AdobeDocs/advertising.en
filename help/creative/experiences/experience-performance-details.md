@@ -28,29 +28,29 @@ The Report view includes the following data:
 
     * **Overall Performance**: The total impressions; clicks; click-through rate (CTR); and view-through conversions and click-through conversions.
 
-      <!--
+     <!--
       ![Overall performance](/help/creative/assets/experience-report-overall-performance.png "Overall performance"){width="100" zoomable="yes"}
-      -->
+     -->
 
     * **Default Rate**: (Experiences with decision tree targeting only) The number of impressions resulting from targeted creatives, generic creatives without a target or targeted to "Everyone Else," and the default creative for the experience.
 
-      <!--
+     <!--
       ![Default rate](/help/creative/assets/experience-report-default-rate.png "Default rate"){width="100" zoomable="yes"} 
-      -->
+     -->
 
   * **Performance Breakdown** section: 
 
-    * **Regional Performance:*: Individual metrics by geographical location.
+    * **Regional Performance:**: Individual metrics by geographical location.
 
-      <!--
+     <!--
       ![Regional performance](/help/creative/assets/experience-report-regional-performance.png "Regional performance"){width="100" zoomable="yes"}
-      -->
+     -->
 
     * **Device Performance:** Individual metrics by device type, operating system, and browser. Optionally click the value for any device category to see a list of the top 10 creatives served with that criteria.
 
-      <!--
+     <!--
       ![Device performance](/help/creative/assets/experience-report-device-performance.png "Device performance"){width="100" zoomable="yes"}
-      -->
+     -->
 
 * **Creative Performance** tab*: A performance overview by creative and bundle or ad tag, including:
 
