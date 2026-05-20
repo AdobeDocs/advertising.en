@@ -167,7 +167,7 @@ You can override the advertiser-level setting at the [placement level](/help/dsp
 
 #### [!UICONTROL DoubleVerify Authentic Brand Suitability]
 
-**[!UICONTROL DoubleVerify Account]:** ([!DNL DoubleVerify] customers only; optional) A [!DNL DoubleVerify Authentic Brand Safety] segment ID associated with the organization's [!DNL DoubleVerify] account to use by default for all placements. Specifying an ID blocks impressions post-bid using the custom brand safety rules configured for the specified segment ID. DSP bills your account for usage for the segment ID.
+**[!UICONTROL DoubleVerify Account]:** ([!DNL DoubleVerify] customers only; optional) A [!DNL DoubleVerify Authentic Brand Suitability] segment ID associated with the organization's [!DNL DoubleVerify] account to use by default for all placements. Specifying an ID blocks impressions post-bid using the custom brand suitability rules configured for the specified segment ID. DSP bills your account for usage for the segment ID.
 
 The ID must begin with "51" and consist of eight digits. You can change or delete the advertiser-level ID at the placement level.
 

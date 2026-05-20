@@ -4,7 +4,7 @@ cloud: Experience Cloud
 solution: Advertising
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
-    label: "Advertising"
+    internal-label: "Advertising"
 feature-set: Advertising
 landing-page-name: advertising
 landing-page-breadcrumb-title: Advertising

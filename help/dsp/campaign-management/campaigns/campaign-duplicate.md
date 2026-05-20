@@ -61,7 +61,7 @@ All settings from the original placements are duplicated except:
    * Geo targets
    * Event pixels
    * Ads
-   * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segments (which override the advertiser-level segments)
+   * Placement-level [!DNL DoubleVerify Authentic Brand Suitability] segments (which override the advertiser-level segments)
 
 ## Best practices to configure the new campaign
 

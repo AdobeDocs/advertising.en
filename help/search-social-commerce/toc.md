@@ -61,7 +61,7 @@ index: true
       + [Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
 + (Beta) NEW USER INTERFACE {#new-ui}
   + [About the new user interface](/help/search-social-commerce/new-ui/new-ui-about.md)
-  + [View your performance dashboard](/help/search-social-commerce/new-ui/dashboard-view.md)
+  + [View your performance dashboard](/help/search-social-commerce/new-ui/dashboard/dashboard-overview.md)
   + Plan {#plan}
     + Objectives {#objectives}
       + [About objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-about.md)
@@ -85,9 +85,13 @@ index: true
       + [Duplicate a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-duplicate.md)
       + [Edit portfolio details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md)
       + [Bulk edit portfolio settings using bulksheet files](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-bulksheets.md)
+      + [Rename a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-rename.md)
+      + [Change the status of a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-change-status.md)
       + [Portfolio settings](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-settings.md)
+      + [Run a custom simulation from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create-simulation.md)
       + [View a performance graph in the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-performance-graph.md)
       + [View portfolio performance details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-details.md)
+      + [View a portfolio's change history](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-change-history.md)
       + [Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
     + Campaigns {#campaigns}
       + [About the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-about.md)
@@ -95,10 +99,14 @@ index: true
       + [Remove campaigns from a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
       + [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
       + [Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
+      + [Change the status of a campaign](/help/search-social-commerce/new-ui/manage/campaigns/campaign-change-status.md)
+      + [Rename a campaign](/help/search-social-commerce/new-ui/manage/campaigns/campaign-rename.md)
     + Ad Groups {#ad-groups}
       + [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
       + [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)    
       + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
+      + [Change the status of an ad group](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-change-status.md)
+      + [Rename an ad group](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-rename.md)
     + Ads {#ads}
       + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
       + [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)

@@ -37,7 +37,7 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
    
    * To download data for all portfolios, you don't need to select any check boxes. All portfolios are included by default.
 
-1. In the toolbar above the data table, click ![Download](/help/search-social-commerce/assets/download.png "Download") **[!UICONTROL Report]**.
+1. In the toolbar above the data table, click ![Download Report](/help/search-social-commerce/assets/download.png "Download Report") **[!UICONTROL Reports]**.
 
 1. In the [!UICONTROL Grid Reports] settings, enter a unique report name, and then click **[!UICONTROL Generate]**.
 
@@ -53,7 +53,7 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
 
-1. In the toolbar above the data table, click ![Download](/help/search-social-commerce/assets/download.png "Download") **[!UICONTROL Report]**.
+1. In the toolbar above the data table, click ![Download Report](/help/search-social-commerce/assets/download.png "Download Report") **[!UICONTROL Reports]**.
 
 1. In the [!UICONTROL Recently Generated] list in the [!UICONTROL Grid Reports] dialog, click ![Download](/help/search-social-commerce/assets/download.png "Download") next to the file name.
 
@@ -63,7 +63,7 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
 
-1. In the toolbar above the data table, click ![Download](/help/search-social-commerce/assets/download.png "Download") **[!UICONTROL Report]**.
+1. In the toolbar above the data table, click ![Download Report](/help/search-social-commerce/assets/download.png "Download Report") **[!UICONTROL Reports]**.
 
 1. In the [!UICONTROL Recently Generated] list in the [!UICONTROL Grid Reports] dialog, click ![Delete](/help/search-social-commerce/assets/delete-new.png "Delete") next to the file name.
 
