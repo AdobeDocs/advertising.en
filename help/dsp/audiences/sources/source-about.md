@@ -22,13 +22,15 @@ topic_v2:
 ---
 # About first-party audience sources
 
-*Beta feature*
+The audience source feature allows you to import first-party segments containing universal IDs as-is or convert them to segments containing specified universal ID types:
 
-DSP can ingest first-party segments comprised of hashed email IDs, cookies, and mobile advertising IDs (MAIDs) built within your customer data platform (CDP) and convert them to segments comprised of universal IDs. Each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Move that info. to somewhere else? -->.
+* Advertisers in Australia can import first-party segments that already contain [!DNL AdFixus] universal IDs.
 
-Segment details include the size of each universal ID type as well as the size for each device type tracked by cookies or device IDs.
+* DSP can ingest first-party segments comprised of hashed email IDs, cookies, and mobile advertising IDs (MAIDs) built within additional customer data platforms (CDPs) and convert them to segments comprised of [!DNL LiveRamp] [!DNL RampIDs] and [!DNL Unified ID 2.0 (UID2.0)] IDs.
 
-## Universal ID types {#universal-id-types}
+For all ID types, each resulting ID is people-based, and ad frequency caps are applied at the ID level<!-- Move that info. to somewhere else? -->. Segment details include the size of each universal ID type and the size for each device type tracked by cookies or device IDs.
+
+## Universal ID types to which you can translate first-party segments {#universal-id-types}
 
 <!--
   Replace below with this once ID5 sources are possible 
@@ -39,7 +41,7 @@ Using your first-party data, you can create segments with IDs from the following
 
 -->
 
-You can translate your first-party segments to segments with authenticated (deterministic) IDs from the following universal ID partners.
+You can translate your first-party segments from [!DNL ActionIQ], [!DNL Adobe] [!DNL Real-time CDP], [!DNL Amperity], [!DNL Optimizely], and [!DNL Tealium] to segments with authenticated (deterministic) IDs from the following universal ID partners.
 
 * [[!DNL LiveRamp] [!DNL RampIDs]](https://liveramp.com/identity-resolution):
 
@@ -83,6 +85,10 @@ DSP has established connectors to the following CDPs to quickly ingest your firs
 
 DSP can also connect to any additional CDPs using batch, streaming, or API-based data sharing. To integrate with a new CDP, contact your Adobe Account Team.
 
+### [!DNL ActionIQ]
+
+You can share your organization's first-party data from the [!DNL ActionIQ] customer data platform with DSP to convert your hashed email addresses to universal IDs for targeted advertising in DSP. This integration requires customization. Contact your Adobe Account Team for more information.
+
 ### [!DNL Adobe Real-Time CDP]
 
 DSP is an integrated *destination* for [the [!DNL Adobe Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), which is part of the Adobe Experience Platform.
@@ -91,9 +97,9 @@ In [!DNL Real-Time CDP], destinations are connections to external data platforms
 
 To enable DSP to ingest your [!DNL Adobe] [!DNL Real-time CDP] first-party segments and convert your hashed email addresses, cookies, and mobile advertising IDs to universal IDs, see "[Convert user IDs from [!DNL Adobe Real-Time CDP] to universal IDs](/help/dsp/audiences/sources/source-adobe-rtcdp.md)."
 
-### [!DNL ActionIQ]
+### [!DNL AdFixus]
 
-You can share your organization's first-party data from the [!DNL ActionIQ] customer data platform with DSP to convert your hashed email addresses to universal IDs for targeted advertising in DSP. This integration requires customization. Contact your Adobe Account Team for more information.
+Australian advertisers can use the Advertising DSP integration with [!DNL AdFixus] to import first-party segments that contain [!DNL AdFixus] universal IDs. This path is separate from translating hashed email IDs or MAIDs within a CDP connector to [!DNL RampIDs] or [!DNL UID2] IDs. For more information, see "[Import first-party segments from [!DNL AdFixus]](/help/dsp/audiences/sources/source-adfixus.md)."
 
 ### [!DNL Amperity]
 
@@ -115,5 +121,6 @@ You can share your organization's first-party data from the [!DNL Tealium] custo
 >* [Convert user IDs from [!DNL Amperity] to universal IDs](/help/dsp/audiences/sources/source-amperity.md)
 >* [Convert user IDs from [!DNL Optimizely] to universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
 >* [Convert user IDs from [!DNL Tealium] to universal IDs](/help/dsp/audiences/sources/source-tealium.md)
+>* [Import first-party segments from [!DNL AdFixus]](/help/dsp/audiences/sources/source-adfixus.md)
 >* [About audience management](/help/dsp/audiences/audience-about.md)
 >* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
