@@ -155,7 +155,7 @@ Removing a classification value removes the association with the account compone
 
    For tips on selecting multiple rows, see "[Select multiple rows](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md)."
 
-1. In the bulk actions toolbar, click **- [!UICONTROL Unassign]** > **[!UICONTROL Label Classification]**.
+1. In the bulk actions toolbar, click **[!UICONTROL Unassign]** > **[!UICONTROL Label Classification]**.
 
 1. Select the check box next to each classification value to remove from the selected entities.<!-- As of 2/24/26, no way to tell which entity each value is assigned to -->
 
