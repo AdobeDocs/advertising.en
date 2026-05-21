@@ -30,7 +30,6 @@ Information for each change includes the date, the user name of the person who m
 
    * Click ![Sort](/help/search-social-commerce/assets/sort.png "Sort") to sort the list by date in ascending or descending order.
 
-
 ## Manage performance data reports for change histories
 
 You can download additional information about the change history for a portfolio to a file in [!DNL Microsoft Excel] workbook (XLSX file) format. The report includes the numeric change ID, the old and new values, the change type (such as "added" or "modified"), the action type (such as "Budget" or "Portfolio Name") and subtype when applicable, the time, and the user name.
