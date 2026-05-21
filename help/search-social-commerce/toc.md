@@ -111,6 +111,7 @@ index: true
       + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
       + [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)
   + Reports {#reports}
+    + [Manage spreadsheet report feeds](/help/search-social-commerce/new-ui/reports/spreadsheet-feeds-manage.md)
     + [View the [!UICONTROL History Logs] report](/help/search-social-commerce/new-ui/reports/history-logs.md)
     + [Manage label classifications](/help/search-social-commerce/new-ui/reports/label-classifications-manage.md)
   + Target {#target}
