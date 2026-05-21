@@ -82,7 +82,7 @@ topic_v2:
 
       >[!NOTE]
       >
-      >([!DNL Roku] placements) Third-party pixel vendors approved by [!DNL Roku] include [!DNL Acxiom], [!DNL Comscore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Neustar], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], and [!DNL Research Now].
+      >([!DNL Roku] placements) Third-party pixel vendors approved by [!DNL Roku] include [!DNL Acxiom], [!DNL Comscore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], [!DNL Research Now], and [!DNL TransUnion].
 
 1. Click **[!UICONTROL Create Placement]**.
 
