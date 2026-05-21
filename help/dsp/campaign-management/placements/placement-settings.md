@@ -484,7 +484,7 @@ The ID must begin with "51" and consist of eight digits. By default, if a segmen
 
 >[!NOTE]
 >
->([!DNL Roku] placements) Third-party tracking vendors approved by [!DNL Roku] include [!DNL Acxiom], [!DNL Comscore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Neustar], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], and [!DNL Research Now].
+>([!DNL Roku] placements) Third-party tracking vendors approved by [!DNL Roku] include [!DNL Acxiom], [!DNL Comscore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], and [!DNL Research Now], and [!DNL TransUnion].
 
 **[!UICONTROL Event Pixels]:** (Optional) Third-party event-tracking pixels to attach by default to all new ads in the placement. To specify event pixels:
 
