@@ -1,9 +1,9 @@
 ---
-title: (New UI) View the [!UICONTROL History Logs] report
+title: (New UI) View change history logs
 description: Learn how to view recent changes to the advertiser account.
 feature: Search Reports
 ---
-# (New UI) View the [!UICONTROL History Logs] report
+# (New UI) View change history logs
 
 The [!UICONTROL History Logs] report includes a log of changes made to the advertiser account in up the last 31 days. The report can include changes to the following types of objects: users (advertisers), portfolios, campaigns, ad groups, ads, keywords, placements, and product targets. You can sort and filter the data by any column.
 
