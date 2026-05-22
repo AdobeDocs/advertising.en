@@ -184,7 +184,7 @@ index: true
       + [How attribution rules are calculated](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/insights-reports/reports/attribution-rules){target="_blank"}
       + [FAQs About Custom Reports](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/insights-reports/reports/faqs-report){target="_blank"}
     + [Manage spreadsheet report feeds](/help/search-social-commerce/new-ui/reports/spreadsheet-feeds-manage.md)
-    + [View the [!UICONTROL History Logs] report](/help/search-social-commerce/new-ui/reports/history-logs.md)
+    + [View change history logs](/help/search-social-commerce/new-ui/reports/history-logs.md)
     + [Manage label classifications](/help/search-social-commerce/new-ui/reports/label-classifications-manage.md)
   + Target {#target}
     + Keywords {#keywords}
