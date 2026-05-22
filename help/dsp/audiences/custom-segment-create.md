@@ -32,8 +32,6 @@ You can collect your own first-party audience data by creating and implementing 
 
 ## Prerequisites for segments to track ID5 IDs
 
-*Beta feature* 
-
 * Before you generate a segment to track users associated with ID5 IDs, sign an agreement with [!DNL ID5] and get your organization's partner ID. Contact your Adobe Account Team for instructions.
 
 * For measurement in Adobe Analytics, you must:
@@ -77,9 +75,11 @@ You can collect your own first-party audience data by creating and implementing 
 
     1. Click **[!UICONTROL Advanced]** to expand the advanced settings, and then select the types of user identifiers that the segment tag tracks:
 
-       * *[!UICONTROL Cookies]:* (The default) The segment tag tracks cookies.
+       * [!UICONTROL Legacy]:
+       
+         * *[!UICONTROL Cookies]:* (The default) The segment tag tracks cookies.
 
-       * [!UICONTROL Universal IDs (Beta)]:
+       * [!UICONTROL Universal IDs]:
 
          * *[!UICONTROL ID5]:* The segment tag tracks [!DNL ID5] IDs. No fees are incurred for impressions delivered to universal IDs.
 

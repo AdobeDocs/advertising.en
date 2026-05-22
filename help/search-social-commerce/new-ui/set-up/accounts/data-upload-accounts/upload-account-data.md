@@ -129,7 +129,7 @@ See "XXX" for information about supported ad networks and account structures.
    aws s3 cp <local-report-file-location <S3-cloud-location-associated-with-your-account>
    ```
 
-   Example:  `aws s3 cp filename.txt s3://cloud-location/`
+   Example: `aws s3 cp filename.txt s3://cloud-location/`
 
 ## View a log of uploaded account data files
 

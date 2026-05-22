@@ -22,22 +22,15 @@ topic_v2:
 ---
 # Manage audience sources to activate universal ID audiences
 
-*Beta feature*
+Create a source in DSP for each first-party audience in your customer data platform that you want to import or convert to segments containing specified universal ID types. You can import the segments to your organization's DSP account or to an advertiser account. When you convert audiences to universal IDs, charges are applied based on the selected universal ID types. Once you create a source, additional steps are required to stream the source audiences from each customer data platform. See the note at the end of the procedure to create a source.
 
-Create a source in DSP for each first-party audience in your customer data platform that you want to convert to segments containing specified universal ID types. You can import the segments to your organization's DSP account or to an advertiser account. Data charges are applied based on the selected universal ID types. Once you create a source, additional steps are required to ingest the audiences from each customer data platform. See the note at the end of the procedure to create a source.
-
-You can later change the universal ID types to which the source audience is translated, and view a log of the changes.
+For all customer data platforms except for [!DNL AdFixus], you can later change the universal ID types to which the source audience is translated, and view a log of the changes.
 
 You can also delete a source.
 
 ## Create an audience source
 
-<!--
- Not sure about this
-
-You can create one source for each combination of universal ID partner and data visibility level.
-
--->
+You can create one source for each combination of universal ID partner and account or individual advertiser. For example, you can have one [!UICONTROL RT-CDP] source for the account, one [!UICONTROL RT-CDP] source for Advertiser 1, and one [!UICONTROL RT-CDP] source for Advertiser 2.
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Sources]**.
 
@@ -46,6 +39,8 @@ You can create one source for each combination of universal ID partner and data 
 1. In the [!UICONTROL Select a Type] menu, select your [customer data platform](source-about.md):
 
    * *[!UICONTROL RT-CDP]*: The [!DNL Adobe Real-Time CDP].
+
+   * *[!UICONTROL AdFixus ID]*: The [!DNL AdFixus] customer data platform. Applicable to advertisers in Australia only.
 
    * *[!UICONTROL ActionIQ]*: The [!DNL ActionIQ] customer data platform.
 
@@ -65,9 +60,13 @@ You can create one source for each combination of universal ID partner and data 
 
 >[!NOTE]
 >
->After you create a source for your customer data platform, you must complete additional steps to import your audience. See the [workflow for [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md),<!-- the [workflow for [!DNL ActionIQ]](source-actioniq.md), --> the [workflow for [!DNL Amperity]](source-amperity.md), the [workflow for [!DNL Optimizely]](source-optimizely.md), and the [workflow for [!DNL Tealium]](source-tealium.md).
+>After you create a source for your customer data platform, you must complete additional steps to import your audience:
+>* For [!DNL ActionIQ] sources, work with your Adobe Account Team.
+>* For other source types, see<!-- the [workflow for [!DNL ActionIQ]](source-actioniq.md), --> the [workflow for [!DNL AdFixus]](source-adfixus.md), the [workflow for [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md), the [workflow for [!DNL Amperity]](source-amperity.md), the [workflow for [!DNL Optimizely]](source-optimizely.md), and the [workflow for [!DNL Tealium]](source-tealium.md).
 
 ## Change the ID types for an audience source
+
+*Available for all supported customer data platforms except for [!DNL AdFixus]*
 
 <!-- 
 Clarify this:
@@ -86,7 +85,7 @@ All changes to universal IDs translated from the source are applied after you sa
 
 ## Delete an audience source
 
-Deleting a source removes the segments translated through the source.<!-- Will performance data for the segment still be available in any types of reports?  If yes, which? -->
+Deleting a source removes the segments imported through the source, including all translated IDs.<!-- Will performance data for the segment still be available in any types of reports?  If yes, which? -->
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL Sources]**.
 
@@ -120,7 +119,7 @@ You can view details about changes to an audience source record and optionally a
 
 **[!UICONTROL Enter IMS Org Id]:** ([!DNL Real-Time CDP] sources only) The Adobe CX Enterprise organization ID for the [!DNL Adobe Experience Platform] account.
 
-**[!UICONTROL Convert PII to the following IDs]:** The ID types to which you'll convert your personally identifiable information (PII). If you select multiple types, the generated segment is populated with values for each selected ID type (such as a [!DNL RampID] and a [!DNL Unified ID2.0] for each email address). Data charges are applied accordingly.
+**[!UICONTROL Convert PII to the following IDs]:** (Available for all supported customer data platforms except for [!DNL AdFixus]) The ID types to which you'll convert your personally identifiable information (PII). If you select multiple types, the generated segment is populated with values for each selected ID type (such as a [!DNL RampID] and a [!DNL Unified ID2.0] for each email address). Data charges are applied accordingly.
 
 For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email address to see if an ID already exists and translates the address to a matching ID when available. If an ID doesn't exist for the address, then it creates a new ID.
 
@@ -130,7 +129,7 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 
 * *[!DNL RampID]:* To convert PII to a [!DNL RampID]. You can use [!DNL RampIDs] for retargeting logging-in users and for [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) measurement.
 
-* *[!DNL Unified ID2.0] (Beta):* To convert PII to a [Unified ID 2.0](https://unifiedid.com) ID for retargeting logging-in users.
+* *[!DNL Unified ID2.0]:* To convert PII to a [Unified ID 2.0](https://unifiedid.com) ID for retargeting logging-in users.
 
 <!--
  Later
@@ -138,9 +137,9 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 
 -->
 
-**[!UICONTROL Terms of Service]:** The terms of service agreement for converting PII to universal IDs. You or another user in the DSP account must accept the terms once before you can convert data to a new ID type. For customers with managed service contracts, your Adobe Account Team gets your consent and accepts the terms on your organization's behalf. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
+**[!UICONTROL Terms of Service]:** The terms of service agreement for converting PII to universal IDs. You or another user in the DSP account must accept the terms once before you can import IDs, convert data to a new ID type, or target an ID type For customers with managed service contracts, your Adobe Account Team gets your consent and accepts the terms on your organization's behalf. To read the terms, click **>**. To accept the terms, scroll to the bottom of the terms and click **[!UICONTROL Accept]**.
 
-**[!UICONTROL Source Key]:** (Read-only; generated automatically) The source key that you can use to create a destination connection in the customer data platform to push audiences to Advertising DSP. You can copy the value to your clipboard to paste into the destination connection settings or into a file.
+**[!UICONTROL Source Key]:** (Read-only; generated automatically) The source key that you can use to create a destination connection in the customer data platform to push audiences to Advertising DSP. You can copy the value to your clipboard to paste into the destination connection settings or into a file. Share the value with the team that will stream the audiences to DSP.
 
 >[!MORELIKETHIS]
 >
@@ -150,4 +149,5 @@ For [!DNL RampID] and [!DNL Unified ID2.0], the vendor looks up each email addre
 >* [Convert user IDs from [!DNL Amperity] to universal IDs](/help/dsp/audiences/sources/source-amperity.md)
 >* [Convert user IDs from [!DNL Optimizely] to universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
 >* [Convert user IDs from [!DNL Tealium] to universal IDs](/help/dsp/audiences/sources/source-tealium.md)
+>* [Import first-party segments from [!DNL AdFixus]](/help/dsp/audiences/sources/source-adfixus.md)
 >* [About audience management](/help/dsp/audiences/audience-about.md)

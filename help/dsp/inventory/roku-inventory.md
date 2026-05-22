@@ -76,7 +76,7 @@ Each [!DNL Roku] placement must target at least one [!DNL Roku] deal or source. 
 
 ### [!DNL Roku]-approved third-party tracking vendors
 
-[!DNL Roku] placements can include third-party event pixels and conversion pixels from the following vendors:  [!DNL Acxiom], [!DNL Comscore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Neustar], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], and [!DNL Research Now].
+[!DNL Roku] placements can include third-party event pixels and conversion pixels from the following vendors:  [!DNL Acxiom], [!DNL Comscore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], [!DNL Research Now], and [!DNL TransUnion].
 
 ### Best practices by placement strategy
 

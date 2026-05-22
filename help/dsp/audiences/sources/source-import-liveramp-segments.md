@@ -19,8 +19,6 @@ role_v2:
 ---
 # Manually import authenticated segments from [!DNL LiveRamp]
 
-*Beta feature*
-
 You can manually send authenticated [!DNL LiveRamp] segments to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. You can use imported segments for placement targeting. For first-party segments, fees are USD 0.15 per display ad impression delivered and USD 0.25 per video ad impression delivered.
 
 The segment mapping and uploading for each import job may take up to seven days. 
@@ -44,7 +42,7 @@ Is this first step relevant for this process?
 
       ![Identifier settings](/help/dsp/assets/liveramp-tile-settings.png)
 
-   1. (Optional) If you want to still receive cookie-based identifiers, create a second [!DNL AAC API 1P Onboarding] destination tile with “[!DNL Cookies],” "[!DNL IDFA],” and “[!DNL AAID]” selected.
+   1. (Optional) If you want to still receive cookie-based identifiers, create a second [!DNL AAC API 1P Onboarding] destination tile with "[!DNL Cookies]," "[!DNL IDFA]," and "[!DNL AAID]" selected.
 
    1. Verify in your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the entire segment count was imported.
 
@@ -54,3 +52,4 @@ Is this first step relevant for this process?
 >* [Manage audience sources to activate universal ID audiences](source-manage.md)
 >* [Adobe Advertising DSP connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [About audience management](/help/dsp/audiences/audience-about.md)
+>* [Import first-party segments from [!DNL AdFixus]](/help/dsp/audiences/sources/source-adfixus.md)

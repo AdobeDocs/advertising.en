@@ -5,8 +5,6 @@ feature: DSP Audiences
 ---
 # Convert user IDs from [!DNL ActionIQ] to universal IDs
 
-*Beta feature*
-
 Use the DSP integration with the [!DNL ActionIQ] customer data platform to convert your hashed email addresses to universal IDs for targeted advertising.
 
 There are <!-- NN --> steps to share data from [!DNL ActionIQ] with DSP:

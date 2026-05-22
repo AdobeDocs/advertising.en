@@ -30,13 +30,13 @@ topic_v2:
 
 <!-- Once we have CDP support for ID5 and can set up activation via sources, then maybe I can move this info into "About Sources" and "About Audiences." Or maybe make this the go-to page, removing info from those other pages? -->
 
-*Beta feature*
-
 DSP supports people-based, universal IDs for cookieless, single-device (not cross-device) targeting across digital formats supported by DSP.
 
 * You can manually send your authenticated [[!DNL LiveRamp] [!DNL RampIDs]] directly to DSP using the [!DNL LiveRamp] [!DNL Connect] dashboard. See "[Manually import authenticated segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)."
 
 * DSP can ingest your first-party segments built within your customer data platform (CDP) and convert them to [!DNL LiveRamp] [!DNL RampIDs] and [!DNL Unified ID 2.0 (UID2.0)] IDs. For more information about the supported customer data platforms and types of user identifiers, the available features for each supported universal ID type, and the related workflows, see "[About First-Party Audience Sources](/help/dsp/audiences/sources/source-about.md)."
+
+* Advertisers in Australia can import first-party segments that contain [!DNL AdFixus] universal IDs using an [!UICONTROL AdFixus ID] audience source. DSP doesn't convert between [!DNL AdFixus] IDs and other universal ID types. See "[Import first-party segments from [!DNL AdFixus]](/help/dsp/audiences/sources/source-adfixus.md)."
 
 * You can create custom segments that track users associated with ID5 universal IDs who are exposed to ads from desktop and mobile devices and who visit specific webpages. ID5 uses a probabilistic model to assign an ID derived from various user signals and browser signals. For instructions, see "[Create and implement a custom segment](/help/dsp/audiences/custom-segment-create.md)."
 
@@ -66,7 +66,7 @@ In a new, scheduled, or paused placement, do the following:
 
 1. In the [!UICONTROL Audience Targeting] section, do the following:
 
-   1. In the [!UICONTROL Included Audiences] setting, select the segment for which user data was converted to universal IDs.
+   1. In the [!UICONTROL Included Audiences] setting, select the segment for which user data was converted to universal IDs  (such as [!DNL RampIDs] or [!DNL UID2] IDs) or that contains imported [!DNL AdFixus] IDs.
 
       You can include additional segments if you want.
 
@@ -74,7 +74,7 @@ In a new, scheduled, or paused placement, do the following:
   
       1. Select the universal ID type to target.
       
-         The setting includes the options "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," which may include the sub-options "[!UICONTROL ID5]," "[!UICONTROL RampID]," and "[!UICONTROL Unified ID2.0]." The selected geographical targets determine the available sub-options.
+         The setting includes the options "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," which may include the sub-options "[!UICONTROL AdFixus]," "[!UICONTROL ID5]," "[!UICONTROL RampID]," and "[!UICONTROL Unified ID2.0]." The selected geographical targets determine the available sub-options.
          
          You can select both "[!UICONTROL Legacy IDs]" and "[!UICONTROL Universal ID]," but you can select only one type of universal ID per placement. When you select both legacy IDs and universal IDs, bidding preference is given to universal IDs.
 
@@ -84,7 +84,7 @@ In a new, scheduled, or paused placement, do the following:
 
 See "[Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)."
 
-## Best practices for testing and data validation
+## Best practices for testing and data validation for [!DNL RampID]-based segments and ID5-based segments
 
 Use the following best practices for [!DNL RampID]-based segments and ID5-based segments, for which Adobe Analytics measurement is available.
 
@@ -142,13 +142,15 @@ If you don't see user counts, or if your audience sizes are low, then check the 
 
 * If you use [!DNL Flashtalking] or [!DNL Google Campaign Manager 360] ads, then make sure that your ads' clickthrough URLs are appended with the correct macros. See the macros for [[!DNL Flashtalking] ads](/help/integrations/analytics/macros-flashtalking.md) and [[!DNL Google Campaign Manager 360] ads](/help/integrations/analytics/macros-google-campaign-manager.md).
 
-* Make sure that the correct, universal ID partner-specific code is implemented on your website to match on-site events and ad exposures. Work with your [!DNL LiveRamp] or [!DNL ID5] representative as needed.
+* (For [!DNL RampIDs] and [!DNL UID 2.0] IDs) Make sure that the correct, universal ID partner-specific code is implemented on your website to match on-site events and ad exposures. Work with your [!DNL LiveRamp] or [!DNL ID5] representative as needed.
 
 * (For [!DNL RampIDs] and [!DNL UID 2.0] IDs) Make sure that your [DSP data source is configured correctly](/help/dsp/audiences/sources/source-manage.md#source-settings), and that user counts are populated for the generated audience segments.
 
+* (For [!DNL AdFixus] IDs) Make sure that your [!UICONTROL AdFixus ID] source is configured correctly and that [!DNL AdFixus] is streaming segments.
+
 * If your reach is less than you expect, check that the audience segment logic isn't too granular.
 
-* Make sure that your campaign, package, and placement settings are correct.<!-- wording-->
+* Make sure that your campaign, package, and placement settings are correct.
 
 If you can't resolve the issue, then contact your Adobe Account Team.
 
@@ -158,5 +160,6 @@ If you can't resolve the issue, then contact your Adobe Account Team.
 >* [Manage audience sources to activate universal ID audiences](/help/dsp/audiences/sources/source-manage.md)
 >* [Create and implement a custom segment](/help/dsp/audiences/custom-segment-create.md)
 >* [Manually import authenticated segments from [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
+>* [Import first-party segments from [!DNL AdFixus]](/help/dsp/audiences/sources/source-adfixus.md)
 >* [About audience management](/help/dsp/audiences/audience-about.md)
 >* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
