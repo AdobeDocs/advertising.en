@@ -12,7 +12,7 @@ Assist reports provide insights into the conversion paths for all of an advertis
 >[!NOTE]
 >
 >* A conversion path may cross multiple portfolios.
->* Adobe Advertising always stores the following events for each web surfer before a conversion:  a) the first paid click; b) up to 10 clicks for each channel (search, social, or display), including the first click; and c) up to 10 display impressions.
+>* Adobe Advertising always stores the following events for each web surfer before a conversion: a) the first paid click; b) up to 10 clicks for each channel (search, social, or display), including the first click; and c) up to 10 display impressions.
 
 ## Types of assist reports
 

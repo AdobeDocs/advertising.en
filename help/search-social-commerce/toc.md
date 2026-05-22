@@ -120,8 +120,6 @@ index: true
       + [The initial setup tasks for reports](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/insights-reports/reports/initial-setup){target="_blank"}
       + [The data used for reports](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/insights-reports/reports/data-used-for-reports){target="_blank"}
       + [Manage scheduled reports](/help/search-social-commerce/new-ui/reports/management/report-manage.md)
-      + [Manage report templates](/help/search-social-commerce/new-ui/reports/report-templates-manage.md)
-      + [FTP access to reports](/help/search-social-commerce/new-ui/reports/ftp-reports.md)
       + Scheduled report types {#report-types}
         + Basic and advanced reports {#basic-advanced-reports}
           + [About basic and advanced reports](/help/search-social-commerce/new-ui/reports/management/basic-advanced/basic-advanced-report-about.md)
@@ -181,6 +179,8 @@ index: true
             + [The [!UICONTROL Forecast Accuracy Report]](/help/search-social-commerce/new-ui/reports/management/model-accuracy/forecast-accuracy-report.md)
             + [The [!UICONTROL Forecast Accuracy (Actuals) Report]](/help/search-social-commerce/new-ui/reports/management/model-accuracy/forecast-accuracy-actuals-report.md)
           + [Model accuracy report settings](/help/search-social-commerce/new-ui/reports/management/model-accuracy/model-accuracy-report-settings.md)
+      + [Manage report templates](/help/search-social-commerce/new-ui/reports/report-templates-manage.md)
+      + [FTP access to reports](/help/search-social-commerce/new-ui/reports/ftp-reports.md)
       + [How attribution rules are calculated](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/insights-reports/reports/attribution-rules){target="_blank"}
       + [FAQs About Custom Reports](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/insights-reports/reports/faqs-report){target="_blank"}
     + [Manage spreadsheet report feeds](/help/search-social-commerce/new-ui/reports/spreadsheet-feeds-manage.md)
