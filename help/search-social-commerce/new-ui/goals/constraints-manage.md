@@ -62,7 +62,7 @@ Besides opening the [[!UICONTROL Constraints] view](#constraints-view), you can 
    
   The [!UICONTROL Constraints] classification isn't included in the [!UICONTROL Label Classifications] view &mdash; the [!UICONTROL Constraints] view is separate. The  [!UICONTROL Constraints] classification also isn't included in the 30-label classification limit.
 
-* [The [!UICONTROL Constraint Report]](/help/search-social-commerce/reports/management/basic-advanced/constraint-report.md) includes cost, click, and (optionally) conversion data for constraints that use the label classification architecture.
+* [The [!UICONTROL Constraint Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/constraint-report.md) includes cost, click, and (optionally) conversion data for constraints that use the label classification architecture.
 
 ### The [!UICONTROL Constraints] view {#constraints-view}
 
@@ -210,4 +210,4 @@ Each entity can have only one constraint. You can assign a single constraint to 
 >* [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
 >* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
 >* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)
->* [The [!UICONTROL Constraint Report]](/help/search-social-commerce/reports/management/basic-advanced/constraint-report.md)
+>* [The [!UICONTROL Constraint Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/constraint-report.md)

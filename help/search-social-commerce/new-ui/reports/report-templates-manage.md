@@ -25,19 +25,21 @@ You can maintain up to 100 templates at a time.
 
 1. Do either of the following:
 
-* To create a template from scratch from either the [!UICONTROL Latest Reports] tab or the [!UICONTROL Templates] tab, create a report, enabling the **[!UICONTROL Save as Template]** setting.
-
-* To create a template based on an existing template:
+   * To create a template from scratch from either the [!UICONTROL Latest Reports] tab or the [!UICONTROL Templates] tab, create a report, enabling the **[!UICONTROL Save as Template]** setting.
+ 
+   * To create a template based on an existing template:
+   
+     1. Click the **[!UICONTROL Templates]** tab.
+     
+     1. Do either of the following:
   
-  1. Click the **[!UICONTROL Templates]** tab.
-
-  1. Select the check box next to the existing template.
-  
-  1. In the bulk actions toolbar, click [Duplicate](/help/search-social-commerce/assets/duplicate.png).
-  
-  1. (Optional) Rename the template, and edit the report settings if necessary.
-
-     Click **[!UICONTROL Next]** to move between the setting sections.
+        * Hold the cursor over the template row, and click **...** > **[!UICONTROL Duplicate]**.
+     
+        * Select the check box next to the existing template. In the bulk actions toolbar, click [Duplicate](/help/search-social-commerce/assets/duplicate.png).
+     
+     1. (Optional) Rename the template, and edit the report settings if necessary.
+     
+        Click **[!UICONTROL Next]** to move between the setting sections.
   
   1. Enable the **[!UICONTROL Save as Template]** setting.
   
@@ -45,7 +47,7 @@ You can maintain up to 100 templates at a time.
 
 <!--
 
-Not available to anyone as of 5/21:
+Not available to anyone as of 5/21. EDIT ALL IF WE ADD THIS FCT:
 
 ## Edit a report template {#template-edit}
 
@@ -69,7 +71,7 @@ You can change the settings for any report template you created. The new setting
 
 <!--
 
-Not available to anyone as of 5/21:
+Not available to anyone as of 5/21. EDIT ALL IF WE ADD THIS FCT:
 
 ## View a report template {#template-view}
 
