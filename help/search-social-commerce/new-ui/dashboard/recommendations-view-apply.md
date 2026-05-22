@@ -1,9 +1,9 @@
 ---
-title: About publisher recommendations and insights support
+title: Publisher recommendations and insights support
 description: Learn about the support for viewing and managing publisher recommendations and insights.
 feature: Search Recommendations
 ---
-# About publisher recommendations and insights support
+# Publisher recommendations and insights support
 
 *[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts*
 
