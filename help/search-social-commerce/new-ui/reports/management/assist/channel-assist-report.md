@@ -39,5 +39,4 @@ The following are the columns that are available for each report. The default co
 >* [The [!UICONTROL Campaign Assist Report]](campaign-assist-report.md)
 >* [The [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
 >* [Assist report settings](assist-report-settings.md)
->* [Generate an assist report](assist-report-generate.md)
 >* [Manage scheduled reports](/help/search-social-commerce/new-ui/reports/management/report-manage.md)
