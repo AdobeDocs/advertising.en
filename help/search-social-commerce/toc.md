@@ -203,6 +203,7 @@ index: true
         + [Manage ad network accounts for data uploads](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)
       + [Manage [!DNL Naver] accounts for tracking only](/help/search-social-commerce/new-ui/set-up/accounts/template-account-manage.md)
   + [Manage custom alerts](/help/search-social-commerce/new-ui/alerts-manage.md)
+  + [Manage notifications](/help/search-social-commerce/new-ui/notifications-manage.md)
   + [User administration](/help/search-social-commerce/new-ui/user-administration.md)
 + Tracking {#tracking}
   + [About tracking](/help/search-social-commerce/tracking/tracking-about.md)
