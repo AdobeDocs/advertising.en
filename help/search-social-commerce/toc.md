@@ -184,7 +184,7 @@ index: true
       + [How attribution rules are calculated](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/insights-reports/reports/attribution-rules){target="_blank"}
       + [FAQs About Custom Reports](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/insights-reports/reports/faqs-report){target="_blank"}
     + [Manage spreadsheet report feeds](/help/search-social-commerce/new-ui/reports/spreadsheet-feeds-manage.md)
-    + [View the [!UICONTROL History Logs] report](/help/search-social-commerce/new-ui/reports/history-logs.md)
+    + [View change history logs](/help/search-social-commerce/new-ui/reports/history-logs.md)
     + [Manage label classifications](/help/search-social-commerce/new-ui/reports/label-classifications-manage.md)
   + Target {#target}
     + Keywords {#keywords}
@@ -202,6 +202,7 @@ index: true
       + Data upload accounts {#data-upload}
         + [Manage ad network accounts for data uploads](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)
       + [Manage [!DNL Naver] accounts for tracking only](/help/search-social-commerce/new-ui/set-up/accounts/template-account-manage.md)
+  + [Manage custom alerts](/help/search-social-commerce/new-ui/alerts-manage.md)
   + [User administration](/help/search-social-commerce/new-ui/user-administration.md)
 + Tracking {#tracking}
   + [About tracking](/help/search-social-commerce/tracking/tracking-about.md)

@@ -26,21 +26,19 @@ topic_v2:
 
 Each page includes the main menu and other task- and information-based menus.
 
+Your [product profile](/help/search-social-commerce/new-ui/user-administration.md#default-product-profiles) determines the available options, including the functionality available within each view.
+
 ## The main menu
 
-The new user interface features a new main menu on the left, which organizes tasks by work stage. Additional submenus and options from the legacy user interface will be added later.
+The new user interface features a new main menu on the left, which organizes tasks by work stage.
 
 ### Main menu options
-
-Your [product profile](/help/search-social-commerce/new-ui/user-administration.md#default-product-profiles) determines the available options:
 
 * **[!UICONTROL Dashboard]** submenu:
 
   * **[!UICONTROL Overview]** Opens a configurable [!UICONTROL Dashboard] view with performance visualizations for all of your portfolios.
 
   * **[!UICONTROL Recommendations]**: Opens a read-only view of your publisher recommendations from [!DNL Google Ads] and [!DNL Microsoft Advertising] and publisher insights from [!DNL Microsoft Advertising.] To view and respond to your recommendations and insights, use the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
-
-  * **[!UICONTROL Alerts & Notifications]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts] view.
 
 * **[!UICONTROL Goals]** submenu:
 
@@ -62,7 +60,7 @@ Your [product profile](/help/search-social-commerce/new-ui/user-administration.m
 
   * **[!UICONTROL Portfolios]:** Opens a new [!UICONTROL Portfolios] view that lists all portfolios for the advertiser. You can manage your portfolios from this view. You can open a list of assigned constraints and view performance and composition details for any portfolio.
 
-    The portfolio settings include tabs to assign the objective and campaigns, manage spend, manage constraints, and control optimization. Only users with the "expert optimization" role or higher can edit the settings on the [!UICONTROL Control Optimization] tab.
+    The portfolio settings include tabs to assign the objective and campaigns, manage spend, manage constraints, and control optimization. Only users with the "expert optimization" profile or higher can edit the settings on the [!UICONTROL Control Optimization] tab.
 
   * **[!UICONTROL Campaigns]:** Opens a new [!UICONTROL Campaigns] view, which shows all campaigns for the advertiser. You can assign campaigns to portfolios and manage constraint assignments for selected campaigns. You can also download a report of the data table contents. <!-- Was removed: To see the ad groups for a campaign, click the campaign name. -->
   
@@ -80,21 +78,19 @@ Your [product profile](/help/search-social-commerce/new-ui/user-administration.m
 
   * **[!UICONTROL Insights]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Insights] view.
 
-  * **[!UICONTROL Scheduled Reports]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Reports] view.
+  * **[!UICONTROL Scheduled Reports]**: Opens a new [!UICONTROL Scheduled Reports] view, which allows you to generate and manage scheduled reports.
 
-  * **[!UICONTROL Spreadsheet Feeds]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Spreadsheets] view.
+  * **[!UICONTROL Spreadsheet Feeds]**: Opens a new [!UICONTROL Spreadsheets Feeds] view, from which you can set up report feeds to be updated daily.
 
-  * **[!UICONTROL History Logs]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Change History] view.
+  * **[!UICONTROL History Logs]**: Opens a new [!UICONTROL History Logs] view with details about recent changes to the advertiser account.
 
   * **[!UICONTROL Label Classification]** Opens a new [!UICONTROL Label Classifications] view. You can manage classifications and assign/unassign classification values to any applicable account components that are available in the new UI.
 
-  * **[!UICONTROL Bulksheets]**: Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Bulksheets] view.
-
 * **[!UICONTROL Target]** submenu:
 
-  * **[!UICONTROL Audiences]**: Opens a new [!UICONTROL Audiences] view, which shows all existing audiences for the advertiser, all audience targets, and all audience exclusions. To manage your audiences, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+  * **[!UICONTROL Audiences]**: Opens a new view that shows all existing audiences for the advertiser, all audience targets, and all audience exclusions. To manage your audiences, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-  * **[!UICONTROL Auto Targets]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+  * **[!UICONTROL Auto Targets]** Opens a new view, which shows all existing auto targets for the advertiser. To manage your auto targets, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Auto Targets] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
   * **[!UICONTROL Keywords]** Opens a new [!UICONTROL Keywords] view, which shows existing keywords and negative keywords for the advertiser. You can manage constraint assignments for selected keywords.
   
@@ -106,7 +102,7 @@ Your [product profile](/help/search-social-commerce/new-ui/user-administration.m
 
 * **[!UICONTROL Assets]** submenu:
 
-  * **[!UICONTROL Creatives]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.
+  * **[!UICONTROL Creatives]** Opens a new view, which lists your existing creative assets. You can preview each creative. To manage your asset library, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Asset Library] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
   * **[!UICONTROL Extensions]** Opens read-only views of your existing ad extensions. To manage your extensions, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
@@ -114,23 +110,19 @@ Your [product profile](/help/search-social-commerce/new-ui/user-administration.m
 
 * **[!UICONTROL Set Up]** submenu:
 
-  * **[!UICONTROL Manager Accounts]**: Exits the new site and open the legacy [!UICONTROL Admin] > [!UICONTROL Manager Accounts] view.
+  * **[!UICONTROL Manager Accounts]**: Opens a new view of your existing manager accounts an your ad networks. To manage your manager accounts, use the legacy [!UICONTROL Admin] > [!UICONTROL Manager Accounts] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
   * **[!UICONTROL Accounts]**: Opens a new [!UICONTROL Accounts] view. You can manage ad network accounts that are synced via an API connection or set up via data upload. You can also manage existing [!UICONTROL Naver] accounts.
 
-  * **[!UICONTROL Import Campaigns]**: Exits the new site and open the legacy [!UICONTROL Tools] > [!UICONTROL Import Campaigns] view.
+  * **[!UICONTROL Import Campaigns]**: Opens a new view, from which you can import campaign data.
+
+  * **[!UICONTROL Bulksheets]**: Opens a new [!UICONTROL Bulksheets] view.
 
 <!--
  What's happening to these?
 
-Campaigns > Asset Library
-
-Insights > Notification Center (doesn't open from Dashboard > Alerts & Notifications)
-
-Tools > Conversion Upload Setup
 Tools > Generic Tracking
 Tools > Inventory Selection
-
 Tools > Admin > Data Source Setup
 -->
 
@@ -166,13 +158,13 @@ Use the search field above the main menu to look for specific menu options, such
 
 * The configurable date range for the current view
 
-* ![Take a UI Tour](/help/search-social-commerce/assets/take-ui-tour.png "Take a UI Tour") A link to a tour of the new user interface.
-
 * ![Switch to Old UI](/help/search-social-commerce/assets/switch-to-old-ui.png "Switch to Old UI") Opens the legacy user interface in a new tab or window.
+
+* ![Custom Alert](/help/search-social-commerce/assets/custom-alert.png "Custom Alert") Allows you to create or view custom alerts in a panel.
 
 * ![Global sync status](/help/search-social-commerce/assets/global-sync-status.png "Global sync status") Opens a list of <!--what kind --> bulk operation jobs.
 
-* ![Notifications](/help/search-social-commerce/assets/notifications.png "Notifications") Opens a panel listing your Search, Social, & Commerce notifications.
+* ![Notifications](/help/search-social-commerce/assets/notifications.png "Notifications") Opens a panel listing your Search, Social, & Commerce notifications. You can filter the list, edit your notification settings, or open [!UICONTROL Notification Center].m
 
 ## Legacy user interface
 
