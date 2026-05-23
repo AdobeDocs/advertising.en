@@ -126,7 +126,9 @@ You can delete only the alert templates that you created.
 | [!UICONTROL Scheduling and Delivery] | [!UICONTROL Trigger this Alert] \[when\] | How often the alert checks for the specified condition filters and, when all conditions are met, sends email notifications:<ul><li><p>[!UICONTROL Daily at <*NN*> `[AM\|PM]`]</p></li><li><p>[!UICONTROL Weekly on <*Day of Week*> at <*NN*> `[AM\|PM]`]</p></li><li><p>[!UICONTROL Every month on <*Day NN*> at <*NN*> `[AM\|PM]`]</p></li></ul>**Note:** This value doesn't affect the evaluation period. |
 |  | [!UICONTROL Email Recipients] | (Editable only by the creator of the alert template; read-only for everyone else) Registered Search, Social, & Commerce users to which to send notifications when an alert is triggered. By default, tthe name for your user account is selected. Optionally add or remove users with access to the advertiser's data.<br><br>When the alert includes up to 1000 records, a CSV version of the alert is attached to the email message. |
 
-<!-- Not available as of 5/22:
+<!--
+
+Not available as of 5/22:
 
 ## Export data for triggered alerts {#alert-export-data}
 
