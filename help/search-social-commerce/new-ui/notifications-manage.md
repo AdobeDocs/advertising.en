@@ -63,7 +63,7 @@ You can view your notifications, mark notifications as read or unread, and delet
 
   * **[!UICONTROL Advertising Insights]**: Notifications that [an [!DNL Advertising Insight]](/help/search-social-commerce/advertising-insights/insight-about.md) was completed or failed.
 
-  * **[!UICONTROL Custom Alerts]**: Notifications that [alert instances](/help/search-social-commerce/new-ui/alerts/alerts-manage.md) were triggered for an alert template.
+  * **[!UICONTROL Custom Alerts]**: Notifications that [alert instances](/help/search-social-commerce/new-ui/alerts-manage.md) were triggered for an alert template.
 
   * **[!UICONTROL Spreadsheet Feeds]**: Notifications that a [spreadsheet feed](/help/search-social-commerce/new-ui/reports/spreadsheet-feeds-manage.md) was completed or failed.
 
