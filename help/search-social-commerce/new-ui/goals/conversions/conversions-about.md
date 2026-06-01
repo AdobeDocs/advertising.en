@@ -15,7 +15,7 @@ subfeature_v2:
 
 From the [!UICONTROL Goals] > [!UICONTROL Conversions] view, you can do the following:
 
-* [Generate an Adobe Advertising conversion-tracking tag](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/tools/tracking/conversion-tag-generate).<!-- Update link if I move the file -->
+* [Generate an Adobe Advertising conversion-tracking tag](/help/search-social-commerce/new-ui/goals/conversions/conversion-tag-generate.md)
 
 * For all conversion metrics tracked for an advertiser:
 

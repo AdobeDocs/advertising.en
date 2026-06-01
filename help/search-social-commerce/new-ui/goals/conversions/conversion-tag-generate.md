@@ -1,16 +1,15 @@
 ---
-title: Generate and implement an Adobe Advertising conversion-tracking tag
+title: (New UI) Generate and implement an Adobe Advertising conversion-tracking tag
 description: Learn how to create an Adobe Advertising conversion tag to track your conversion events.
-exl-id: 02492162-96a0-4a91-8896-dd0f72199f79
 feature: Search Tools, Search Tracking
 ---
-# Generate and implement an Adobe Advertising conversion-tracking tag
+# (New UI) Generate and implement an Adobe Advertising conversion-tracking tag
  
 *Advertisers with Adobe Advertising conversion tracking only*
 
 Create a separate conversion tag for each set of metrics that you want to track. You can generate tags in Search, Social, & Commerce or by using tags in Adobe Experience Platform (formerly known as Adobe Experience Platform Launch) with the Adobe Advertising extension.
 
-## (New UI) Generate and implement a conversion-tracking tag within Search, Social, & Commerce
+## Generate and implement a conversion-tracking tag within Search, Social, & Commerce
 
 >[!NOTE]
 >
@@ -30,7 +29,7 @@ Create a separate conversion tag for each set of metrics that you want to track.
 >
 >Each metric in the new conversion tag is automatically listed in [!UICONTROL Admin] > [!UICONTROL Conversions], even if it isn't implemented or the webpages that it's on haven't received any clicks. This behavior is different from the behavior of metrics in tags created manually or elsewhere, which aren't listed in [!UICONTROL Admin] > [!UICONTROL Conversions] until one of the webpages that it's on has received a click. In all cases, however, each metric is initially excluded from portfolio objectives, reports, and views until you explicitly make them available. Before you add the metrics to portfolio objectives, consider first making the metrics available and adding them to reports to verify when they receive clicks.
 
-### Adobe Advertising conversion tag settings {#conversion-tag-settings}
+## Adobe Advertising conversion tag settings {#conversion-tag-settings}
 
 **[!UICONTROL Tag Type]:** The type of tag to create:
 
@@ -62,7 +61,8 @@ When multiple metrics are tracked, they're joined by an ampersand (`&`) in the t
 >
 >Metrics added to this list aren't saved anywhere or integrated with the client's [!UICONTROL Conversions] list on the [!UICONTROL Admin] tab. However, metrics are added to the client's [!UICONTROL Conversions] list automatically once Adobe Advertising actually gathers data for a metric, which happens when the conversion tag is implemented on a page and an end user completes a transaction that opens that page.
 
-## (Legacy UI) Generate and implement a conversion-tracking tag within Search, Social, & Commerce
+-->
+## <!-- (Legacy UI) --> Generate and implement a conversion-tracking tag within Search, Social, & Commerce
 
 >[!NOTE]
 >
@@ -189,10 +189,7 @@ The following tasks are required to configure conversion tracking tags for Searc
 >[!MORELIKETHIS]
 >
 >* [About Adobe Advertising conversion-tracking tags](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
->* [About the tools to create and decode tracking tags](tracking-tools-about.md)
->* [FAQs about conversion and page view tracking tags](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
 >* [Format of JavaScript conversion tracking tags version 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
 >* [Format of JavaScript conversion tracking tags version 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
 >* [Format of image conversion tracking tags](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
 >* [The Adobe Advertising JavaScript conversion mapping tag](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
->* [About managing an advertiser's conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)

@@ -89,6 +89,7 @@ role_v2:
       + [Enable uploading of objectives to ad networks](/help/search-social-commerce/new-ui/goals/objectives/objective-upload-to-networks.md)
     + Conversions {#conversions}
       + [Available features for managing conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversions-about.md)
+      + [Generate and implement an Adobe Advertising conversion-tracking tag](/help/search-social-commerce/new-ui/goals/conversions/conversion-tag-generate.md)
       + [Manage and view performance data for an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
       + Enhanced conversions {#enhanced-conversions}
         + [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/new-ui/goals/conversions/conversion-action-google-create.md)
