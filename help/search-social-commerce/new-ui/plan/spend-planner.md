@@ -44,40 +44,6 @@ Spend recommendation reports include the following data:
 
 ## (New UI) Generate a [!UICONTROL Spend Planner] report {#spend-recommendations-generate}
 
-1. Do either of the following:
-
-   * In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Spend Planner]**.
-
-   * In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**. In the toolbar above the data table, click ![Spend Planner](/help/search-social-commerce/assets/spend-planner-icon.png "Spend Planner").
-
-   The [!UICONTROL Spend Recommendation] tool opens in the legacy user interface.
-
-1. View data using the current, combined budgets for the selected portfolios:
-
-   1. Select the portfolio objective.
-
-   1. Select the currency.
-
-   1. (Optional) Select a portfolio spend strategy to further filter the portfolios list.
-   
-   1. Select the check box next to each portfolio to include. To select all portfolios, select the check box next to [!UICONTROL Portfolios].
-   
-      Only optimized and active portfolios with the selected parameters are listed.
-
-   1. Click **[!UICONTROL Update]**.
-   
-   1. (Optional) To see the cost and revenue for any point on the chart, hold the cursor over the point.
-
-1. (Optional) To view the recommended daily spend target and expected revenue for each of the portfolios using a different total spend target, enter a proposed total daily spend target across all portfolios in the [!UICONTROL Total Spend Target] field. Then press the **Enter** key.
-
-   The spend recommendation tool uses data from weekly simulations, so the total recommended spend is the closest match to your proposed spend target with the ideal spend mix.
-
-<!--
-
-New UI; validate post-Update steps once I get it to generate a report:
-
-## Generate a spend recommendation report {#spend-recommendations-generate}
-
 1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Spend Planner]**.
 
 1. View data using the current, combined budgets for the selected portfolios:
@@ -106,8 +72,6 @@ New UI; validate post-Update steps once I get it to generate a report:
 
    The spend recommendation tool uses data from weekly simulations, so the total recommended spend is the closest match to your proposed spend target with the ideal spend mix.
 
--->
-
 ## (Legacy UI) Generate a [!UICONTROL Spend Recommendation] report from the [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] view {#spend-recommendations-generate-legacy}
 
 1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation]**.
@@ -132,7 +96,6 @@ New UI; validate post-Update steps once I get it to generate a report:
 
    The spend recommendation tool uses data from weekly simulations, so the total recommended spend is the closest match to your proposed spend target with the ideal spend mix.
 
-<!--
 ## (New UI) Apply spend recommendations {#spend-recommendations-apply}
 
 *Portfolios with daily budgets only*
@@ -150,9 +113,7 @@ New UI; validate post-Update steps once I get it to generate a report:
 
 1. (If any of the budgets will change by more than 20%) In the confirmation message, click **[!UICONTROL Confirm]** to approve the changes.
 
--->
-
-## <!--(Legacy UI) -->Apply spend recommendations {#spend-recommendations-apply-legacy}
+## (Legacy UI) Apply spend recommendations {#spend-recommendations-apply-legacy}
 
 *Portfolios with daily budgets only*
 
@@ -169,8 +130,6 @@ New UI; validate post-Update steps once I get it to generate a report:
 
 1. (If any of the budgets will change by more than 20%) In the confirmation message, click **[!UICONTROL Yes]** to approve the changes.
 
-<!--
-
 ## (New UI) Open or save data as a [!DNL Microsoft Excel] workbook file {#spend-recommendations-download}
 
 You can open or save data from either a) the line chart showing cost points and the expected revenue for each cost and b) the donut charts of the current and proposed media mix. [This seems to be identical to the Portfolio Allocation report -- how should these be different?]
@@ -181,11 +140,7 @@ You can open or save data from either a) the line chart showing cost points and 
 
    Open or save the file according to your browser's normal procedure. For more information, see your browser's online help.
 
--->
-
-<!--(Legacy UI) -->
-
-## Open or save data as a [!DNL Microsoft Excel] workbook file {#spend-recommendations-download-legacy}
+## (Legacy UI) Open or save data as a [!DNL Microsoft Excel] workbook file {#spend-recommendations-download-legacy}
 
 1. Generate a spend recommendation report for selected portfolios.
 
