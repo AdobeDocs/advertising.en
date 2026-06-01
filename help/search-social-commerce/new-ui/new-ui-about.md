@@ -16,7 +16,7 @@ topic_v2:
 ---
 # About the new user interface
 
-You can now manage your objectives, simulations, and portfolios, as well as perform many other tasks, from the new user interface (UI). The new Search, Social, & Commerce UI runs in a new URL within the https://experience.adobe.com domain.
+You can now manage your objectives, simulations, and portfolios, as well as perform many other tasks, from the new user interface (UI). The new Search, Social, & Commerce UI runs in a new URL within the `https://experience.adobe.com` domain.
 
 Over time, the remaining features will be added to the new UI. In the meantime, you can open most features in the legacy UI from the main menu in the new UI. You can also easily switch between the new UI and the legacy UI.
 
