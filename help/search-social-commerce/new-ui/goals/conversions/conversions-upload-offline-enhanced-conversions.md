@@ -1,13 +1,17 @@
 ---
-title: Upload offline conversion data for enhanced conversions
+title: (New UI) Upload offline conversion data for enhanced conversions
 description: Learn how to upload first-party, offline conversion data to map to [!DNL Google Ads] enhanced conversions for leads and [!DNL Microsoft Advertising] enhanced conversions.
 feature: Conversions
+feature_v2:
+  - id: e6916c1b-e939-4e0b-99f5-768e83e1e99f
+    internal-label: Conversion tracking
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+subfeature_v2:
+  - id: d068b149-b9d1-421c-9033-a51495366ddc
+    internal-label: Conversions
 ---
 # Upload offline conversion data for enhanced conversions
-
-<!-- Renamed file to start with "conversions-"-->
-
-<!-- Added procedure in new UI, which isn't available to all yet -->
 
 *[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 

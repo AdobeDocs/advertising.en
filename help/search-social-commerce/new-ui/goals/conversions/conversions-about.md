@@ -2,6 +2,14 @@
 title: (New UI) Available features for managing conversion metrics
 description: Learn about the different features available for managing conversion metrics.
 feature: Conversions
+feature_v2:
+  - id: e6916c1b-e939-4e0b-99f5-768e83e1e99f
+    internal-label: Conversion tracking
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+subfeature_v2:
+  - id: d068b149-b9d1-421c-9033-a51495366ddc
+    internal-label: Conversions
 ---
 # (New UI) Available features for managing conversion metrics
 
@@ -19,6 +27,6 @@ From the [!UICONTROL Goals] > [!UICONTROL Conversions] view, you can do the foll
 
   * [Download performance data for conversions](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md#manage-performance-data-reports-for-conversions).
 
-* Create conversion actions for [!DNL Google Ads] enhanced conversions for leads to be tracked for individual [!DNL Google Ads] accounts.
+* [Create conversion actions for [!DNL Google Ads] enhanced conversions for leads](/help/search-social-commerce/new-ui/goals/conversions/conversion-action-google-create.md) to be tracked for individual [!DNL Google Ads] accounts.
 
-* Upload first-party, offline conversion data to map to your existing [[!DNL Google Ads] enhanced conversions for leads](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md) and [[!DNL Microsoft Advertising] enhanced conversions](https://help.ads.microsoft.com/#apex/ads/en/60178).
+* [Upload first-party, offline conversion data](/help/search-social-commerce/new-ui/goals/conversions/conversions-upload-offline-enhanced-conversions.md) to map to your existing [!DNL Google Ads] enhanced conversions for leads and [[!DNL Microsoft Advertising] enhanced conversions](https://help.ads.microsoft.com/#apex/ads/en/60178).

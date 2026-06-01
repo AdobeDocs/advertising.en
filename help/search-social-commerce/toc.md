@@ -88,7 +88,11 @@ role_v2:
       + [Objective settings](/help/search-social-commerce/new-ui/goals/objectives/objective-settings.md)
       + [Enable uploading of objectives to ad networks](/help/search-social-commerce/new-ui/goals/objectives/objective-upload-to-networks.md)
     + Conversions {#conversions}
+      + [Available features for managing conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversions-about.md)
       + [Manage and view performance data for an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
+      + Enhanced conversions {#enhanced-conversions}
+        + [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/new-ui/goals/conversions/conversion-action-google-create.md)
+        + [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/new-ui/goals/conversions/conversions-upload-offline-enhanced-conversions.md)
     + [Manage [!DNL Google Ads] conversion value rules](/help/search-social-commerce/new-ui/goals/conversion-value-rules-manage.md)
   + Plan {#plan}
       + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
