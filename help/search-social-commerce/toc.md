@@ -86,7 +86,7 @@ role_v2:
       + [Download performance metrics for objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-download-performance-data.md)
       + [Objective settings](/help/search-social-commerce/new-ui/goals/objectives/objective-settings.md)
     + Conversions {#conversions}
-      + [Manage and view performance data for an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversion-metrics-manage.md)
+      + [Manage and view performance data for an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
     + [Manage [!DNL Google Ads] conversion value rules](/help/search-social-commerce/new-ui/goals/conversion-value-rules-manage.md)
   + Plan {#plan}
       + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
