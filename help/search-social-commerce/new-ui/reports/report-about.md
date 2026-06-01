@@ -75,5 +75,5 @@ The [!UICONTROL Reports] > [!UICONTROL Scheduled Reports] view allows you to cre
 >[!MORELIKETHIS]
 >
 >* [The initial setup tasks for reports](initial-setup.md)
->* [The data used for reports](data-used-for-reports)
+>* [The data used for reports](data-used-for-reports.md)
 >* [Manage scheduled reports](/help/search-social-commerce/new-ui/reports/management/report-manage.md)
