@@ -19,7 +19,7 @@ subfeature_v2:
   - id: b36a77b1-3c8f-4e1c-8b0b-6e0ba3fb2664
     internal-label: Specialty reports
 ---
-# (New UI) About scheduled reports
+# (New UI) About scheduled reports 
 
 Scheduled performance reports allow you to track and manage the performance of your portfolios, ad networks, and ad network account entities at as granular a level as you want. Most reports provide complete visibility into how the ads in each marketing channel contribute to the overall conversion rate.
 
