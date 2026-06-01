@@ -143,7 +143,6 @@ Once you create the conversion action and implement a conversion tracking tag, y
 **[!UICONTROL View Through Conversion Window]:** The maximum number of days after a user views your ads for which view-through conversions are recorded. For search, display, and shopping campaigns, the window can be from 1-90 days. Select a number or select **[!UICONTROL Custom]** and enter a number.
 
 **[!UICONTROL Attribution Model]:** [How much credit each ad interaction gets](https://support.google.com/google-ads/answer/6259715?sjid=8211249329930775138): *[!UICONTROL Data driven]* or *[!UICONTROL Last click]*.
-!UICONTROL Last click]*.
 
 >[!MORELIKETHIS]
 >

@@ -70,7 +70,7 @@ When multiple metrics are tracked, they're joined by an ampersand (`&`) in the t
 
 1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Tools] > [!UICONTROL Conversion Tags]**.
 
-1. Specify the [conversion tag settings](#conversion-tag-settings).
+1. Specify the [conversion tag settings](#conversion-tag-settings-legacy).
 
 1. Generate the tag:
    
@@ -84,7 +84,7 @@ When multiple metrics are tracked, they're joined by an ampersand (`&`) in the t
 >
 >Each metric in the new conversion tag is automatically listed in [!UICONTROL Admin] > [!UICONTROL Conversions], even if it isn't implemented or the webpages it's on haven't received any clicks. This behavior is different from the behavior of metrics in tags created manually or elsewhere, which aren't listed in [!UICONTROL Admin] > [!UICONTROL Conversions] until one of the webpages it's on has received a click. In all cases, however, each metric is initially excluded from portfolio objectives, reports, and views until you explicitly make them available. Before you add the metrics to portfolio objectives, however, consider first making the metrics available and adding them to reports to verify when they receive clicks.
 
-### Adobe Advertising conversion tag settings {#conversion-tag-settings}
+### Adobe Advertising conversion tag settings {#conversion-tag-settings-legacy}
 
 **[!UICONTROL Tag Type]:** The type of tag to create:
 
