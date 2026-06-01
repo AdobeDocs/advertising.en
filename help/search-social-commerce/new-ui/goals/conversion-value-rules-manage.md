@@ -2,6 +2,14 @@
 title: (New UI) Manage [!DNL Google Ads] conversion value rules
 description: Learn how to view and manage [!DNL Google Ads] conversion value rules in Search, Social, & Commerce.
 feature: Conversions
+feature_v2:
+  - id: e6916c1b-e939-4e0b-99f5-768e83e1e99f
+    internal-label: Conversion tracking
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+subfeature_v2:
+  - id: a2f79fa9-a8fe-4c1c-961e-75dc3c47f954
+    internal-label: Conversion value rules
 ---
 # (New UI) Manage [!DNL Google Ads] conversion value rules
 

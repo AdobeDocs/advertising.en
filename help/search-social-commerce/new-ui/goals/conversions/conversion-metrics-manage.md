@@ -2,6 +2,17 @@
 title: Manage an advertiser's conversion metrics
 description: Learn how you can use the conversion metrics that Adobe Advertising tracks for an advertiser.
 feature: Conversions
+feature_v2:
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+  - id: e6916c1b-e939-4e0b-99f5-768e83e1e99f
+    internal-label: Conversion tracking
+subfeature_v2:
+  - id: d068b149-b9d1-421c-9033-a51495366ddc
+    internal-label: Conversions
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # (New UI) Manage and view performance data for an advertiser's conversion metrics
 

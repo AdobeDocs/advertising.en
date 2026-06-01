@@ -85,6 +85,9 @@ role_v2:
       + [Apply weight recommendations to an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-apply-weight-recommendations.md)
       + [Download performance metrics for objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-download-performance-data.md)
       + [Objective settings](/help/search-social-commerce/new-ui/goals/objectives/objective-settings.md)
+    + Conversions {#conversions}
+      + [Manage and view performance data for an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversion-metrics-manage.md)
+    + [Manage [!DNL Google Ads] conversion value rules](/help/search-social-commerce/new-ui/goals/conversion-value-rules-manage.md)
   + Plan {#plan}
       + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
       + [Run or rerun a custom simulation](/help/search-social-commerce/new-ui/plan/simulations/simulation-create.md)
