@@ -60,7 +60,7 @@ You can track performance metrics across all of your campaigns and for any indiv
    
       The following is an example of the destination URL with tracking:
       
-      ```http://pixel.everesttech.net/1234/cq?ev_sid=87&ev_cl=258e27dcec70156a667f2229020e488&url=http%3A//www.example.com```
+      `http://pixel.everesttech.net/1234/cq?ev_sid=87&ev_cl=258e27dcec70156a667f2229020e488&url=http%3A//www.example.com`
 
    1. Copy the [!UICONTROL Destination URL] values in the downloaded bulksheet file to the relevant keyword settings on the network.
    

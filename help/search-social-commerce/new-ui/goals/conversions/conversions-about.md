@@ -1,9 +1,9 @@
 ---
-title: Available features for managing conversion metrics
+title: (New UI) Available features for managing conversion metrics
 description: Learn about the different features available for managing conversion metrics.
 feature: Conversions
 ---
-# Available features for managing conversion metrics
+# (New UI) Available features for managing conversion metrics
 
 From the [!UICONTROL Goals] > [!UICONTROL Conversions] view, you can do the following:
 

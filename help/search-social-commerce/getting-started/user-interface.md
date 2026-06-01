@@ -44,9 +44,9 @@ The new user interface features a new main menu on the left, which organizes tas
 
   * **[!UICONTROL Objectives]** Opens a new [!UICONTROL Objectives] view, from which you can view all of your existing objectives and create, edit, and delete objectives.
   
-<!--  Not there as of 4/3:  * **[!UICONTROL Conversions]** Exits the new site and opens the legacy [!UICONTROL Admin] > [!UICONTROL Conversions] view. -->
+  * **[!UICONTROL Conversions]** Opens a new view, from which you can view an advertiser's conversion metrics and customize the metrics available for management views and reports.
 
-  * **[!UICONTROL Conversion Value Rules]** Opens read-only views of your campaign-level and account-level conversion value rules. To manage your conversion value rules, use the legacy [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+  * **[!UICONTROL Conversion Value Rules]** Opens a new view to view and manage campaign-level and account-level conversion value rules for [!DNL Google Ads] accounts.
 
   * **[!UICONTROL Constraints]** Opens a read-only view of your existing constraints. To manage your constraints, use the legacy [!UICONTROL Optimization] > [!UICONTROL Constraints] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 

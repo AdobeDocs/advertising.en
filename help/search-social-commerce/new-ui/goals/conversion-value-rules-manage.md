@@ -2,6 +2,14 @@
 title: (New UI) Manage [!DNL Google Ads] conversion value rules
 description: Learn how to view and manage [!DNL Google Ads] conversion value rules in Search, Social, & Commerce.
 feature: Conversions
+feature_v2:
+  - id: e6916c1b-e939-4e0b-99f5-768e83e1e99f
+    internal-label: Conversion tracking
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+subfeature_v2:
+  - id: a2f79fa9-a8fe-4c1c-961e-75dc3c47f954
+    internal-label: Conversion value rules
 ---
 # (New UI) Manage [!DNL Google Ads] conversion value rules
 
@@ -19,7 +27,7 @@ Some accounts can manage their conversion value rules:
 
 * In accounts for which conversions are tracked at the individual account or campaign level, you can [create](#google-conversion-value-rule-create), [edit](#google-conversion-value-rule-edit), and [change the status](#google-conversion-value-rule-change-status) of your account-level and campaign-level rules.
 
-  The accounts can be linked to [!DNL Google Ads] manager accounts, but they can't use cross-account conversions tracking (for which conversions are tracked across all accounts in the manager account).
+  The accounts can be linked to [[!DNL Google Ads] manager accounts](/help/search-social-commerce/new-ui/), but they can't use cross-account conversions tracking (for which conversions are tracked across all accounts in the manager account).
 
 * In accounts that use cross-account conversion tracking, your account-level and campaign-level rules are inherited from the manager account and are read-only.
 

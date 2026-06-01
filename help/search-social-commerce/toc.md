@@ -4,6 +4,15 @@ user-guide-title: Advertising Search, Social, & Commerce Guide
 user-guide-description: This guide explains the major features, tasks, settings, and other resources required to manage, track, and report on your search, social, and commerce ad campaigns.
 breadcrumb-title: Advertising Search, Social, & Commerce Guide
 index: true
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Advertising Search, Social, & Commerce Guide {#search-social-commerce}
 
@@ -76,6 +85,10 @@ index: true
       + [Apply weight recommendations to an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-apply-weight-recommendations.md)
       + [Download performance metrics for objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-download-performance-data.md)
       + [Objective settings](/help/search-social-commerce/new-ui/goals/objectives/objective-settings.md)
+      + [Enable uploading of objectives to ad networks](/help/search-social-commerce/new-ui/goals/objectives/objective-upload-to-networks.md)
+    + Conversions {#conversions}
+      + [Manage and view performance data for an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
+    + [Manage [!DNL Google Ads] conversion value rules](/help/search-social-commerce/new-ui/goals/conversion-value-rules-manage.md)
   + Plan {#plan}
       + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
       + [Run or rerun a custom simulation](/help/search-social-commerce/new-ui/plan/simulations/simulation-create.md)
@@ -198,6 +211,7 @@ index: true
       + [About ad network accounts](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)
       + API connection accounts {#api}
         + [Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md)
+        + [Manage credentials for [!DNL Google Ads] manager accounts](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/manager-account-manage.md)
         + [Manually synchronize ad network data via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/sync-api-accounts.md)
       + Data upload accounts {#data-upload}
         + [Manage ad network accounts for data uploads](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)

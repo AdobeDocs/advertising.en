@@ -67,7 +67,7 @@ This step is manual and must be completed for each report suite that tracks AMO 
        1. Select **Query String Parameter**.
        1. Enter `s_kwcid`.
 
-       Example: ```Overwrite the value of rVar10 with Query String Parameter s_kwcid```
+       Example: `Overwrite the value of rVar10 with Query String Parameter s_kwcid`
 
      * For the `EF ID`:
      

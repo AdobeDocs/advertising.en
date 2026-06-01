@@ -3,23 +3,22 @@ title: (New UI) User administration
 description: Learn how to manage user access.
 feature: Search Introduction
 exl-id: bfc43692-cfb6-468f-90df-a808a21a0c23
-TQID: 'https://experienceleague.adobe.com/b28N5zmqqdZ6Yvg2swGLWv260fWsMUgjK2eW1DDn-uo'
+TQID: https://experienceleague.adobe.com/b28N5zmqqdZ6Yvg2swGLWv260fWsMUgjK2eW1DDn-uo
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
-feature_v2:
-  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
-    internal-label: Search, Social, & Commerce
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
 # (New UI) User administration for Search, Social & Commerce
 
-Some users can manage access to the new Search, Social, & Commerce user interface using the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html), which is the central location for managing all Adobe entitlements and user management. Users are categorized as either end users or administrators. Your Adobe Account Team notifies you if you're an administrator. If you're an administrator, see the following sections to identify your permissions and workflows for managing users.
+Some users can manage access to the new Search, Social, & Commerce user interface using the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html), which is the central location for managing all Adobe entitlements and user management. Users are categorized as either end users or administrators. Your Adobe Account Team will notify you if you're an administrator. If you're an administrator, see the following sections to identify your permissions and workflows for managing users.
 
 ## Types of administrators
 
@@ -41,95 +40,53 @@ Product profiles, which are similar to roles, entitle users with specific servic
 
 The new user interface for Search, Social & Commerce has the following default product profiles, which provide different subsets of features and services. You can't edit the product permissions for the default product profiles or delete the default product profiles. However, product admins, product profile admins, and system administrators can create and manage additional product profiles with different subsets of available permissions, as needed.
 
-* **[!UICONTROL Basic Optimization]:** For users who need standard portfolio management and planning capabilities with basic settings access.
+* **[!UICONTROL Basic Optimization]:** This profile provides the following functionality:
 
-* **[!UICONTROL Expert Optimization]:** For power users who need full portfolio settings access including advanced expert-level controls. Includes all performance planning, objective, campaign, setup, and report management permissions.
+  * [!UICONTROL Objectives]: Full access
 
-* **[!UICONTROL Read-Only Optimization]:** For users who need visibility into portfolios, simulations, and campaigns without any edit or create capabilities.
+  * [!UICONTROL Simulations]: Full access
+  
+  * [!UICONTROL Portfolio Groups]: Full access
 
-* **[!UICONTROL \[Optimization\] Admin]:** Grants full access to all functionality available and allows users to create new client instances (the same as legacy advertiser accounts, with one or more instances per organization ID). Don't assign this right to anyone unless you have a proper business justification.
+  * [!UICONTROL Portfolios]: Create/edit access to portfolio settings for [!UICONTROL Objectives], [!UICONTROL Campaigns], and Spend [!UICONTROL Management]; read-only access to the remaining portfolio settings.
 
-### Functionality per product profile
+  * [!UICONTROL Campaigns]: Read-only access to campaign settings (no create, edit, or delete features are available); full access to constraint and portfolio assignments
 
-<!-- These don't correspond exactly to the GUI menu -->
+  * [!UICONTROL Ad Groups]: Read-only access to ad group settings (no create, edit, or delete features are available); full access to constraint and portfolio assignments
 
-A checkmark (✓) indicates that the permission is included in the product profile.
+  This access level is preferred for users who are still learning to use Search, Social, & Commerce.
 
-**Portfolio Management**
+* **[!UICONTROL Expert Optimization]:** This profile provides the following functionality:
 
-| Permission | Basic | Expert | Read-Only | Admin |
-|---|---|---|---|---|
-| View Portfolios | ✓ | ✓ | ✓ | ✓ |
-| View Portfolio Settings | ✓ | ✓ | ✓ | ✓ |
-| View Portfolio Performance Details | ✓ | ✓ | ✓ | ✓ |
-| View Portfolio Groups | ✓ | ✓ | ✓ | ✓ |
-| Edit Portfolio Groups | ✓ | ✓ | | ✓ |
-| Edit Basic Portfolio Settings | ✓ | | | |
-| Edit Expert Portfolio Settings | | ✓ | | ✓ |
+  * [!UICONTROL Objectives]: Full access
 
-<!--
-Noone has permissions as of 6/1; spelling [sic]:
-| Edit Advance Portfolio Settings | | | | |
--->
+  * [!UICONTROL Simulations]: Full access
 
-**Performance Planning Management**
+  * [!UICONTROL Portfolio Groups]: Full access
 
-| Permission | Basic | Expert | Read-Only | Admin |
-|---|---|---|---|---|
-| View Simulation | ✓ | ✓ | ✓ | ✓ |
-| Create Simulation | ✓ | ✓ | | ✓ |
-| View Spend Recommendations | | ✓ | | ✓ |
-| Apply Spend Recommendations | | ✓ | | ✓ |
+  * [!UICONTROL Portfolios]: Full access
 
-**Objective Management**
+  * [!UICONTROL Campaigns]: Read-only access to the campaign list (no campaign creation, editing, or deleting features are available yet); full access to constraint and portfolio assignments
 
-| Permission | Basic | Expert | Read-Only | Admin |
-|---|---|---|---|---|
-| View Objective | ✓ | ✓ | ✓ | ✓ |
-| Edit Objective | ✓ | ✓ | | ✓ |
-| View Conversion Value Rules | ✓ | ✓ | ✓ | ✓ |
-| Edit Conversion Value Rules | | ✓ | | ✓ |
-| View Conversions | | ✓ | | ✓ |
-| Edit Conversions | | ✓ | | ✓ |
-| View Conversions Visibility | | ✓ | | ✓ |
+  * [!UICONTROL Ad Groups]: Read-only access to the ad group list (no campaign creation, editing, or deleting features are available yet); full access to constraint and portfolio assignments
 
-**Campaign Management**
+  This access level is recommended for expert users of Search, Social, & Commerce.
 
-| Permission | Basic | Expert | Read-Only | Admin |
-|---|---|---|---|---|
-| View Campaigns | ✓ | ✓ | ✓ | ✓ |
-| Edit Campaigns | ✓ | ✓ | | ✓ |
-| View Ad Groups | ✓ | ✓ | ✓ | ✓ |
-| Edit Ad Groups | ✓ | ✓ | | ✓ |
-| Ads View | ✓ | ✓ | ✓ | ✓ |
-| Ads Edit | | ✓ | | ✓ |
-| Keywords View | ✓ | ✓ | ✓ | ✓ |
-| Audiences View | ✓ | ✓ | ✓ | ✓ |
-| Auto Targets View | ✓ | ✓ | ✓ | ✓ |
-| Creatives View | ✓ | ✓ | ✓ | ✓ |
-| Extensions View | ✓ | ✓ | ✓ | ✓ |
-| Label Classifications View | ✓ | ✓ | ✓ | ✓ |
-| Placements View | ✓ | ✓ | ✓ | ✓ |
-| Recommendations View | ✓ | ✓ | ✓ | ✓ |
-| View Bulksheets | | ✓ | | ✓ |
-| Edit Bulksheets | ✓ | ✓ | ✓ | ✓ |
+* **[!UICONTROL Read-Only]:** This profile provides the following functionality:
 
-**Report Management**
+  * [!UICONTROL Objectives]: Read-only access
 
-| Permission | Basic | Expert | Read-Only | Admin |
-|---|---|---|---|---|
-| View History Logs | ✓ | ✓ | ✓ | ✓ |
-| View Scheduled Reports | ✓ | ✓ | ✓ | ✓ |
-| Edit Scheduled Reports | | ✓ | | ✓ |
+  * [!UICONTROL Simulations]: Read-only access
 
-**Setup Management**
+  * [!UICONTROL Portfolio Groups]: Read-only access
 
-| Permission | Basic | Expert | Read-Only | Admin |
-|---|---|---|---|---|
-| View Account | ✓ | ✓ | ✓ | ✓ |
-| Edit Account | | ✓ | | ✓ |
-| View MCC Accounts | ✓ | ✓ | ✓ | ✓ |
-| Edit MCC Accounts | | ✓ | | ✓ |
+  * [!UICONTROL Portfolios]: Read-only access
+
+  * [!UICONTROL Campaigns]: Read-only access
+
+  * [!UICONTROL Ad Groups]: Read-only access
+
+* **[!UICONTROL Admin]:** This profile grants full access to all functionality available and allows users to create new client instances (the same as legacy advertiser accounts, with one or more instances per organization ID). Don't assign this right to anyone unless you have a proper business justification.
 
 ## Tasks for administrators
 
@@ -179,7 +136,7 @@ Follow this workflow for each client instance of Search, Social, & Commerce.
 
    >[!IMPORTANT]
    >
-   >User group names should clearly communicate the rights that the group of users should be assigned. For example, if you want to create a user group with "Read Only" rights, include "Read Only" in the user group name, such as "Acme_Uk_ReadOnly" or "Acme_ReadOnly." 
+   >User group names should clearly communicate the rights that the group of users should be assigned. For example, if you want to create a user group with “Read Only” rights, include “Read Only” in the user group name, such as "Acme_Uk_ReadOnly" or "Acme_ReadOnly." 
 
 1. (Optional) [Create custom product profiles](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html) with defined permission sets.
 

@@ -40,7 +40,7 @@ You can collect your own first-party audience data by creating and implementing 
 
   1. Add the following parameter to your webpages before or within the the [JavaScript code required for [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) &mdash; anywhere before the last event service is initialized.
 
-     ```window.id5PartnerId=ID5_PartnerID;```
+     `window.id5PartnerId=ID5_PartnerID;`
      
      Example:
 
@@ -101,11 +101,11 @@ You can collect your own first-party audience data by creating and implementing 
             
                For example, if your ID5 partner ID is `abcde` and the generated segment tag is
                
-               ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=ID5_PARTNER_ID"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
+               `<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=ID5_PARTNER_ID"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />`
                
                then replace `ID5_PARTNER_ID` with `abcde` within the tag to get the following:
                
-               ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=abcde"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
+               `<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=abcde"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />`
                
                Your organization received the partner ID when it signed an agreement with [!DNL ID5]. If you don't know your partner ID, contact your Adobe Account Team.
                
