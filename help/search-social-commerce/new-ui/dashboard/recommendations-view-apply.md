@@ -231,14 +231,3 @@ Dismissed recommendations aren't available from the ad network.
 | [!UICONTROL Measurement] | Recommendations for conversion tracking and certification | Not available in Search, Social, & Commerce. | These recommendations may impact performance. Consult with your Adobe Account Team to discuss the pros and cons of any recommendation before applying it. |
 | [!UICONTROL Repairs] | Miscellaneous recommendations to improve account issues | Not available in Search, Social, & Commerce. | Periodically manually review repair recommendations within [!DNL Google Ads]. This recommendation type is a good way to identify disapproved ads, feed issues, tracking problems, and so on. |
 | [!UICONTROL Other] | Recommendation to use the [!DNL Google Ads] mobile app | Not available in Search, Social, & Commerce. | &mdash; |
-
-<!--
-
->[!MORELIKETHIS]
->
->* [View your publisher recommendations and performance insights](recommendation-view.md)
->* [Apply or dismiss a publisher recommendation](recommendation-apply-dismiss.md)
->* [View the publisher recommendations log for an account](recommendation-view-log.md)
->* [Best practices for using publisher recommendations with portfolios](recommendation-best-practices.md)
-
--->
