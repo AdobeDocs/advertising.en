@@ -29,7 +29,7 @@ All completed reports are available in the [!UICONTROL Latest Reports] section o
 
 ## Available report categories
 
-The following report categories are available from the [!UICONTROL Reports] view. You may not have access to all of them; the available reports and the data they generate are determined by your role and how your customer account is configured.
+The following report categories are available from the [!UICONTROL Scheduled Reports] view. You may not have access to all of them; the available reports and the data they generate are determined by your role and how your customer account is configured.
 
 | Report Category | Description |
 | ----| ---- |
@@ -49,9 +49,9 @@ Schedule customized reports to be automatically generated in either or both of t
 
 * Keep refreshing your customized spreadsheet templates with daily performance data using [spreadsheet feeds](/help/search-social-commerce/new-ui/reports/spreadsheet-feeds-manage.md).
 
-## The Reports views
+## The [!UICONTROL Scheduled Reports] view
 
-The [!UICONTROL Reports] views at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports] allows you to create and manage reports, templates, and spreadsheet feeds. The view includes two tabs:
+The [!UICONTROL Reports] > [!UICONTROL Scheduled Reports] view allows you to create and manage reports, templates, and spreadsheet feeds. The view includes two tabs:
 
 * The **[!UICONTROL Latest Reports]** tab lists all reports available to you that were requested in the last seven days, except those that were manually deleted, with the most recent report at the top by default. Information shown for each report includes the schedule by which it is run (when applicable), the start and end dates for which data was or will be generated, and the report status (*[!UICONTROL Finished]*, *[!UICONTROL In Progress]*, or *[!UICONTROL Error]*).
   
