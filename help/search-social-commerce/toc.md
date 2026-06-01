@@ -76,6 +76,7 @@ role_v2:
   + [About the new user interface](/help/search-social-commerce/new-ui/new-ui-about.md)
   + Dashboard {#dashboard}
     + [View your performance dashboard](/help/search-social-commerce/new-ui/dashboard/dashboard-overview.md)
+    + [Publisher recommendations and insights support](/help/search-social-commerce/new-ui/dashboard/recommendations-view-apply.md)
   + Goals {#goals}
     + Objectives {#objectives}
       + [About objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-about.md)
@@ -130,8 +131,9 @@ role_v2:
       + [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)
   + Reports {#reports}
     + Scheduled reports {#scheduled}
-      + [The initial setup tasks for reports](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/insights-reports/reports/initial-setup){target="_blank"}
-      + [The data used for reports](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/insights-reports/reports/data-used-for-reports){target="_blank"}
+      + [About scheduled reports](/help/search-social-commerce/new-ui/reports/report-about.md)
+      + [The initial setup tasks for reports](/help/search-social-commerce/new-ui/reports/initial-setup.md)
+      + [The data used for reports](/help/search-social-commerce/new-ui/reports/data-used-for-reports.md)
       + [Manage scheduled reports](/help/search-social-commerce/new-ui/reports/management/report-manage.md)
       + Scheduled report types {#report-types}
         + Basic and advanced reports {#basic-advanced-reports}
