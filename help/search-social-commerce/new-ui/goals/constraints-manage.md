@@ -22,7 +22,7 @@ After you set up a constraint, you can assign it to specific bid units or to all
 >[!NOTE]
 >
 >* Active constraints restrict bidding only for assigned bid units in optimized legacy keyword-level portfolios. They're ignored for bid units that are in hybrid portfolios, are in active portfolios, or aren't in portfolios. **Tip:** In the portfolio settings, turn on the portfolio option to "'Auto adjust campaign budget limits." The recommended "Multiple" value is "1."
-> * Bid constraints are ignored for bid units without enough data to generate cost and revenue models.
+>* Bid constraints are ignored for bid units without enough data to generate cost and revenue models.
 >* (Campaigns with a CPC or eCPC bid strategy) When a bid constraint conflicts with a portfolio-level bid limit, the constraint overrides the portfolio-level limit. For example, if a portfolio's minimum bid is 5 USD but you constrain a bid unit in the portfolio to a minimum bid of 3 USD, then the bid unit is bid to 3 USD or higher. Overall spending for constrained bid units, however, is determined by the portfolio's ["Spend Around Constraints" parameter](#spend-around-constraints).
 >* Constraints operate on the base bid. Any type of bid adjustment to the base bid (such as raising the bid for end users on mobile devices) may move the bid outside of the allowable range for the constraint. For example, if the constraint requires a maximum CPC of 6 USD, the base bid is already 6 USD, and the portfolio auto-optimizes bid adjustments for mobile devices at 50%-60%, then the maximum CPC is 9.00-9.60 USD &mdash; not 6 USD.
 
@@ -166,19 +166,18 @@ You also can delete a constraint, which removes all associations with account co
 
 ## Assign constraints to search bid units {#constraint-assign}
 
-You can apply bid unit constraints to any campaign, ad group, keyword, placement, shopping product group at the unit level (the lowest level of subdivision), or dynamic search target.
+You can apply bid unit constraints to any campaign, ad group, keyword, placement, or dynamic search target (auto target).
 
 Each entity can have only one constraint. You can assign a single constraint to one or more entities at the same time.
 
 >[!NOTE]
 >
->If you later edit a keyword or the ad copy for an ad &mdash; thereby creating a new keyword or ad &mdash; then the constraint isn't assigned to the new entity.
+>* If you later edit a keyword or the ad copy for an ad &mdash; thereby creating a new keyword or ad &mdash; then the constraint isn't assigned to the new entity.
+>* See the same instructions within the [!UICONTROL Campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md), [!UICONTROL Ad Groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md), [!UICONTROL Keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md), or [!UICONTROL Placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md) view. <!-- ADD LINK WHEN AVAILABLE for dynamic search targets (auto targets). -->
 
 1. From the main menu, open the relevant management view.
 
    For example, to assign constraints at the campaign level, go to [!UICONTROL Manage] > [!UICONTROL Campaigns].
-   
-   <!-- for [campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md), [ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md), [keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md), or [placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md). And ADD LINKS WHEN AVAILABLE for shopping product groups and dynamic search targets. -->
 
 1. (Optional) Filter the list [from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) or from a [column heading](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
 
@@ -192,7 +191,10 @@ Each entity can have only one constraint. You can assign a single constraint to 
 
 ## Unassign constraints from search bid units {#constraints-unassign}
 
-**Note:** To delete a constraint, making it unavailable for future use, see "[Change the status of constraints](#constraint-change-status)."
+>[!NOTE]
+>
+>* To delete a constraint, making it unavailable for future use, see "[Change the status of constraints](#constraint-change-status)."
+>* See the same instructions within the [!UICONTROL Campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md), [!UICONTROL Ad Groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md), [!UICONTROL Keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md), or [!UICONTROL Placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md) view. <!-- ADD LINK WHEN AVAILABLE for dynamic search targets (auto targets). -->
 
 1. In the main menu, open the relevant management view.
 

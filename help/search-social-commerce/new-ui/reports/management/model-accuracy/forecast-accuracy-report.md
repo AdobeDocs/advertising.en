@@ -17,7 +17,7 @@ You can view data for the previous 18 months.
 >
 >* For cost forecasts, a deviation of 10% in the last seven days is considered acceptable, so actual spend that is between 90% and 110% of the forecasted spend is fine. For revenue forecasts, a 15% deviation in the last seven days is considered acceptable, so actual revenue that is between 85% and 115% of the forecasted spend is fine. Forecasts with higher deviations should be investigated.
 >
->* When keywords in the portfolio are associated with bid shift constraints, the portfolio over- or under-spends by the total amount caused by the bid shift. As a result, the predicted cost columns deviate from the target spend by the increased or decreased spend.
+>* When keywords in the portfolio are associated with [bid shift constraints](/help/search-social-commerce/new-ui/goals/constraints-manage.md), the portfolio over- or under-spends by the total amount caused by the bid shift. As a result, the predicted cost columns deviate from the target spend by the increased or decreased spend.
 
 ## Available columns
 
