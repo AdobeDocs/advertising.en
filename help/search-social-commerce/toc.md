@@ -134,6 +134,7 @@ role_v2:
     + Ads {#ads}
       + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
       + [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)
+      + [Change the status of an ad](/help/search-social-commerce/new-ui/manage/ads/ad-change-status.md)
   + Reports {#reports}
     + Scheduled reports {#scheduled}
       + [About scheduled reports](/help/search-social-commerce/new-ui/reports/report-about.md)

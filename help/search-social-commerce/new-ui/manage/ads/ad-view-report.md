@@ -1,8 +1,17 @@
 ---
 title: (New UI) Manage data view reports from the [!UICONTROL Ads] view
-description: Learn how to generate, download, and delete reports that contain the data rows for one or more ads in the [!UICONTROL Ads] view in a report.
+description: Learn how to generate, download, and delete reports that contain the data rows for one or more ads in the[!UICONTROL Ads] view.
 feature: Search Optimization, Search Campaign Management
 hide: true
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+subfeature_v2:
+  - id: f3d33161-c519-436e-bbbd-730ba428736b
+    internal-label: Campaign management
 ---
 # (New UI) Manage data view reports from the [!UICONTROL Ads] view
 
@@ -56,6 +65,5 @@ See also "[(Legacy UI) Download data from a campaign management view](/help/sear
 
 >[!MORELIKETHIS]
 >
->* [About the [!UICONTROL Ads view]](ad-view-about.md)
->* [(Legacy UI) Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
->* [(Legacy UI) Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
+>* [(New UI) About the [!UICONTROL Ads view]](ad-view-about.md)
+>* [(New UI) Change the status of an ad](ad-change-status.md)
