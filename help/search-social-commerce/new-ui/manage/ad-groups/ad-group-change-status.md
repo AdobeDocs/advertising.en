@@ -3,6 +3,15 @@ title: (New UI) Change the status of an ad group
 description: Learn how to change the status of an ad group without opening the ad group settings.
 feature: Search Campaign Management
 hide: true
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+subfeature_v2:
+  - id: f3d33161-c519-436e-bbbd-730ba428736b
+    internal-label: Campaign management
 ---
 # (New UI) Change the status of an ad group
 
@@ -36,8 +45,8 @@ You also can delete any active or paused ad group. Deleted ad groups are deleted
 
    * Hold the cursor over the ad group row and click **[!UICONTROL ...] > [!UICONTROL Delete]**.
 
-   * Hold the cursor over the camad group row and click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") next to the [!UICONTROL Status] column. Select **[!UICONTROL Deleted]**.
+   * Hold the cursor over the ad group row and click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") next to the [!UICONTROL Status] column. Select **[!UICONTROL Deleted]**.
 
 >[!MORELIKETHIS]
 >
->* [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad group-view-about.md)
+>* [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
