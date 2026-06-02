@@ -13,6 +13,10 @@ role_v2:
 ---
 # Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft Advertising]
 
+>[!NOTE]
+>
+>Instructions for this task within the new UI are avaailable at "(New UI) [Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft Advertising]](/help/search-social-commerce/new-ui/set-up/google-campaign-replication-in-microsoft.md)."
+
 You can export your synced campaigns in a [!DNL Google Ads] account directly into a synced [!DNL Microsoft Advertising] account as enhanced CPC (eCPC) campaigns. The existing bids and campaign budgets are scaled. Existing Search, Social, & Commerce tracking isn't imported.
 
 You can replicate the following types of campaigns and their campaign structure:
