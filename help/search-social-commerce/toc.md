@@ -225,6 +225,7 @@ role_v2:
       + Data upload accounts {#data-upload}
         + [Manage ad network accounts for data uploads](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)
       + [Manage [!DNL Naver] accounts for tracking only](/help/search-social-commerce/new-ui/set-up/accounts/template-account-manage.md)
+    + [Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft Advertising]](/help/search-social-commerce/new-ui/set-up/google-campaign-replication-in-microsoft.md)
   + [Manage custom alerts](/help/search-social-commerce/new-ui/alerts-manage.md)
   + [Manage notifications](/help/search-social-commerce/new-ui/notifications-manage.md)
   + [User administration](/help/search-social-commerce/new-ui/user-administration.md)
