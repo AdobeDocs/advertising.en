@@ -173,7 +173,7 @@ Each entity can have only one constraint. You can assign a single constraint to 
 >[!NOTE]
 >
 >* If you later edit a keyword or the ad copy for an ad &mdash; thereby creating a new keyword or ad &mdash; then the constraint isn't assigned to the new entity.
->* See the same instructions within the [!UICONTROL Campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md), [!UICONTROL Ad Groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md), [!UICONTROL Keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md), or [!UICONTROL Placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md) view. <!-- ADD LINK WHEN AVAILABLE for dynamic search targets (auto targets). -->
+>* See the same instructions within the [[!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md), [[!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md), [[!UICONTROL Keywords] view](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md), or [[!UICONTROL Placements] view](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md). <!-- ADD LINK WHEN AVAILABLE for dynamic search targets (auto targets). -->
 
 1. From the main menu, open the relevant management view.
 
@@ -194,7 +194,7 @@ Each entity can have only one constraint. You can assign a single constraint to 
 >[!NOTE]
 >
 >* To delete a constraint, making it unavailable for future use, see "[Change the status of constraints](#constraint-change-status)."
->* See the same instructions within the [!UICONTROL Campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md), [!UICONTROL Ad Groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md), [!UICONTROL Keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md), or [!UICONTROL Placements](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md) view. <!-- ADD LINK WHEN AVAILABLE for dynamic search targets (auto targets). -->
+>* See the same instructions within the [[!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md), [[!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md), [[!UICONTROL Keywords] view](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md), or [[!UICONTROL Placements] view](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md). <!-- ADD LINK WHEN AVAILABLE for dynamic search targets (auto targets). -->
 
 1. In the main menu, open the relevant management view.
 
