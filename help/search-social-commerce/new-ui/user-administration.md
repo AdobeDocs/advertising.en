@@ -29,7 +29,7 @@ Admin Console provides multiple types of administrators. The following administr
 
 **Product admin:** Manages access to a specific [!DNL Adobe] product (such as Search, Social, & Commerce) and the user entitlements to that product. Product admins can create product profiles for the product, create (but not remove) users and user groups for the product, add or remove users and user groups from product profiles, and add or remove other product admins from the product.
 
-<!--
+<!-- 
 **Product profile admin:** Manages assigned product profiles for individual products. A product profile admin can add (but not remove) users and user groups to the organization; add or remove users and user groups from product profiles; and assign or revoke permissions from product profiles. [I don't think this is applicable: and manage the product roles for product profiles.]
 
 **User group admin:** Manages assigned user groups and their access rights. A user group admin can add or remove users from groups and add or remove user group admins from groups.
