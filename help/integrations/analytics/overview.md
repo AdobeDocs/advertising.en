@@ -30,7 +30,7 @@ topic_v2:
 ---
 # Overview of [!DNL Analytics for Advertising]
 
-*Advertisers with Advertising Creative, Advertising DSP, and [!DNL Advertising Search, Social, & Commerce]*
+*Advertisers with Advertising Creative, Advertising DSP, and Advertising Search, Social, & Commerce*
 
 [!DNL Analytics for Advertising] integrates Adobe Analytics and Adobe Advertising to extend and enhance the capabilities of each product.
 
