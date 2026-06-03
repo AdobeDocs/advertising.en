@@ -31,7 +31,7 @@ topic_v2:
 ---
 # Prerequisites and key information for implementing [!DNL Analytics for Advertising]
 
-*Advertisers with Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
+*Advertisers with Advertising Creative, Advertising DSP, and Advertising Search, Social, & Commerce*
 
 Review the following information before you integrate Adobe Advertising with Adobe Analytics.
 
