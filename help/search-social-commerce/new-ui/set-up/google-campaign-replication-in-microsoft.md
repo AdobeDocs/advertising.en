@@ -2,7 +2,6 @@
 title: (New UI) Replicate Google Ads campaigns in Microsoft Advertising
 description: Learn how to export your synced campaigns in a Google Ads account directly into a synced Microsoft Advertising account.
 feature: Search Campaign Management
-exl-id: d4f8e452-7b3d-4a1f-9c3e-6b8d2e5a4917
 ---
 # (New UI) Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft Advertising]
 
@@ -36,27 +35,13 @@ See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsof
 
 1. Click **[!UICONTROL Import Campaigns]**.
 
-1. Specify the [import settings](#campaign-import-settings):
+1. Specify the [import settings](#campaign-import-settings).
 
-   1. In the **[!UICONTROL Select accounts]** step:
-
-      1. Enter a name for the import job in the **[!UICONTROL Import Name]** field.
-
-      1. Select the source [!DNL Google Ads] account and the target [!DNL Microsoft Advertising] account.
-
-      1. Enter your **[!UICONTROL Credential ID]**. Contact your Adobe Account Team if you don't have a credential ID — auto-generation isn't available due to [!DNL Microsoft Advertising] limitations.
-
-      1. Click **[!UICONTROL Next]**.
-
-   1. In the **[!UICONTROL Select campaigns & ad groups]** step, specify the campaigns and ad groups to import, and then click **[!UICONTROL Next]**.
-
-   1. In the **[!UICONTROL Customize your import]** step, optionally specify the item types, bid and budget settings, and other options to import, and then click **[!UICONTROL Next]**.
-
-   1. In the **[!UICONTROL Set schedule]** step, specify when to run the import job and how to receive notifications.
+1. Cick **[!UICONTROL Review and Save]** in the upper right.
 
 1. Review your selections in the summary and click **[!UICONTROL Start Import]**.
 
-1. (Optional) Add Search, Social, & Commerce tracking within the [account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [campaign](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad group](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), or [ad](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) settings.
+1. (Optional) Add Search, Social, & Commerce tracking within the [account](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md), [campaign](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad group](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), or [ad](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) settings.
 
 ## Edit schedule settings for a campaign import job
 
@@ -64,9 +49,7 @@ See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsof
 
 1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Import Campaigns]**.
 
-1. Click the **[!UICONTROL Jobs]** tab.
-
-1. Click the name of the import job, and then click **[!UICONTROL Edit]**.
+1. On the **[!UICONTROL List of Import Jobs]** tab, click the name of the import job, and then click **[!UICONTROL Edit]**.
 
 1. In the **[!UICONTROL Set schedule]** step, specify the [schedule settings](#campaign-import-settings).
 
@@ -78,15 +61,13 @@ You can list all import jobs, including the source [!DNL Google Ads] account, th
 
 1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Import Campaigns]**.
 
-   The view opens to the **[!UICONTROL Jobs]** tab by default.
+   The view opens to the **[!UICONTROL List of Import Jobs]** tab by default.
 
 ## Run a campaign import job
 
 1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Import Campaigns]**.
 
-1. Click the **[!UICONTROL Jobs]** tab.
-
-1. Select the check box next to the import job, and then click **[!UICONTROL Run Now]**.
+1. On the **[!UICONTROL List of Import Jobs]** tab, select the check box next to the import job, and then click **[!UICONTROL Run Now]**.
 
 ## View logs for your campaign import jobs {#campaign-import-log}
 
@@ -94,13 +75,13 @@ You can list all completed or failed import jobs, including the start time, the 
 
 1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Import Campaigns]**.
 
-1. Click the **[!UICONTROL Logs]** tab.
+1. Click the **[!UICONTROL Import Logs]** tab.
 
 1. (Optional) To view details for any import job, click the value in the [!UICONTROL Summary] column.
 
 ## Campaign import job settings {#campaign-import-settings}
 
-### [!UICONTROL Select accounts]
+### [!UICONTROL Select Accounts] tab
 
 **[!UICONTROL Import Name]:** A name to identify the import job.
 
@@ -110,7 +91,7 @@ You can list all completed or failed import jobs, including the start time, the 
 
 **[!UICONTROL Credential ID]:** An ID that [!DNL Microsoft Advertising] uses to represent your [!DNL Google Ads] credentials. Auto-generation of [!DNL Microsoft Advertising] credentials for import is unavailable because of [!DNL Microsoft Advertising] limitations. Contact your Adobe Account Team, and they'll generate the credentials and give you the ID.
 
-### [!UICONTROL Select campaigns & ad groups]
+### [!UICONTROL Select Campaigns & Ad Groups] tab
 
 **\[Data to import\]:** The data to import:
 
@@ -122,9 +103,9 @@ You can list all completed or failed import jobs, including the start time, the 
 
   * To select a campaign or ad group, select the item so that a checkmark appears.
 
-  * To remove a campaign or ad group, deselect the item or click the delete icon in the [!UICONTROL Selected] column.
+  * To remove a campaign or ad group, deselect the item or click ![Delete](/help/searh-social-commere/assets/delete-new.ng "Delete") in the [!UICONTROL Selection] column.
 
-### [!UICONTROL Customize your import]
+### [!UICONTROL Customize Your Import] tab
 
 **[!UICONTROL Choose specific import options]:** Allows you to specify what to import, bids and budgets, and other options.
 
@@ -134,7 +115,7 @@ You can list all completed or failed import jobs, including the start time, the 
 
 **[!UICONTROL Other options]:** Defines how to handle imported landing page URLs, tracking templates, and other campaign, ad, and targeting options, including options to find and replace text and insert suffixes.
 
-### [!UICONTROL Set schedule]
+### [!UICONTROL Set Schedule] tab
 
 **[!UICONTROL When]:** When to import the specified campaigns: *Auto* (to let [!DNL Microsoft Advertising] set a schedule to best optimize your campaigns), *[!UICONTROL Now]* (to run the job when you post the job settings), *[!UICONTROL Once]* at a specified time, *[!UICONTROL Daily]* at a specified time, *[!UICONTROL Weekly]* at a specified time, or *[!UICONTROL Monthly]* at a specified time.
 
