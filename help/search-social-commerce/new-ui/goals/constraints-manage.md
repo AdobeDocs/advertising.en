@@ -2,6 +2,12 @@
 title: Manage constraints for search bid units
 description: Learn about constraints to restrict bids for bid units in CPC campaigns in legacy keyword-level portfolios.
 feature: Search Campaign Management, Search Optimization
+feature_v2:
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+subfeature_v2:
+  - id: c800239a-06eb-4249-9aef-771973d24d35
+    internal-label: Portfolios
 ---
 # Manage constraints for search bid units
 
