@@ -103,7 +103,7 @@ You can list all completed or failed import jobs, including the start time, the 
 
   * To select a campaign or ad group, select the item so that a checkmark appears.
 
-  * To remove a campaign or ad group, deselect the item or click ![Delete](/help/searh-social-commere/assets/delete-new.ng "Delete") in the [!UICONTROL Selection] column.
+  * To remove a campaign or ad group, deselect the item or click ![Delete](/help/searh-social-commere/assets/delete-new.png "Delete") in the [!UICONTROL Selection] column.
 
 ### [!UICONTROL Customize Your Import] tab
 
