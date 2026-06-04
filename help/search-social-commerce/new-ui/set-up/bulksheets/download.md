@@ -45,7 +45,7 @@ When the task begins, the window displays a notification but remains open so you
 
 ### Selections tab {#bulksheet-selections-settings}
 
-**Account, campaign, and ad group selection**
+**\[Account, campaign, and ad group selection\]**
 
 Expand the network and account hierarchy, and then select the check box next to each account, campaign, or ad group whose data to include in the bulksheet:
 
@@ -59,8 +59,6 @@ Expand the network and account hierarchy, and then select the check box next to 
 >* To see the type of component an item is, hold your cursor over it.
 >* By default, only active and enabled accounts and their active components are listed.
 
-**Bulksheet options**
-
 **[!UICONTROL Generate Tracking URLs]:** (Optional) Includes tracking templates and landing page suffixes (for applicable ad networks) in accounts with tracking templates, or destination URLs with embedded tracking codes in accounts with destination URLs, for keywords, ads, placements, sitelinks, and [!DNL Google Ads] product groups in the bulksheet. By default, this option is selected.
 
 When this option is selected, the URLs are generated according to the parameters in the [!UICONTROL Campaign Tracking] section of the account settings or campaign settings. By default, if tracking URLs already exist, they aren't regenerated unless new ones are needed (such as if the keyword match type, the ad text, or the account's tracking parameters have changed).
@@ -70,7 +68,7 @@ When this option is selected, the URLs are generated according to the parameters
 >* If the advertiser uses Adobe Advertising conversion tracking and the relevant account isn't configured to automatically generate and upload tracking URLs, then you must generate new tracking URLs when the base URLs have changed.
 >* If you don't select this option, you can still generate tracking URLs later when you upload or post the file.
 
-**[!UICONTROL Perform Pre-sync]:** (Optional) Instructs Search, Social, & Commerce to synchronize its files with the specified campaigns to ensure that all data is the same. By default, this option isn't selected.
+**[!UICONTROL Perform pre-sync]:** (Optional) Instructs Search, Social, & Commerce to synchronize its files with the specified campaigns to ensure that all data is the same. By default, this option isn't selected.
 
 >[!NOTE]
 >
