@@ -14,7 +14,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# (New UI) Manage and view performance data for an advertiser's conversion metrics
+# (New UI) Manage an advertiser's conversion metrics
 
 *Beta feature*
 
@@ -102,7 +102,7 @@ You can't delete an existing display name.
      
      1. (To hide metrics) In the confirmation message, click **[!UICONTROL Confirm]** to hide the metrics, including removing them from any derived metrics that contain the metrics.
 
-## Manage performance data reports for conversions
+## Manage conversion visibility and source reports
 
 You can download the following information about your tracked conversions: the synced metric name, the display name for the metric within Search, Social, & Commerce management views and reports, whether the metric is visible in management views and reports, the conversion ID, and the metric source. Download the data to a file in [!DNL Microsoft Excel] workbook (XLSX file) format.
 

@@ -9,7 +9,7 @@ feature: Search Tools, Search Tracking
 
 Create a separate conversion tag for each set of metrics that you want to track. You can generate tags in Search, Social, & Commerce or by using tags in Adobe Experience Platform (formerly known as Adobe Experience Platform Launch) with the Adobe Advertising extension.
 
-## Generate and implement a conversion-tracking tag within Search, Social, & Commerce
+## Generate a conversion-tracking tag within Search, Social, & Commerce
 
 >[!NOTE]
 >
@@ -77,9 +77,9 @@ The following tasks are required to configure conversion tracking tags for Searc
    
    1. From the pulldown menu, select **SSC** (for Search, Social, & Commerce).
 
-   1. In the **SSC UserID** field, enter the numeric user ID for your  organization's Search, Social, & Commerce account.
+   1. In the **SSC UserID** field, enter the numeric user ID for your organization's Search, Social, & Commerce account.
 
-      If you don't know your user ID, contact your Adobe Account Team.
+      If you don't know your user ID, then contact your Adobe Account Team.
 
    1. Click **Save**.
 

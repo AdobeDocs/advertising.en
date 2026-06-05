@@ -90,17 +90,18 @@ role_v2:
     + Conversions {#conversions}
       + [Available features for managing conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversions-about.md)
       + [Generate and implement an Adobe Advertising conversion-tracking tag](/help/search-social-commerce/new-ui/goals/conversions/conversion-tag-generate.md)
-      + [Manage and view performance data for an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
+      + [Manage an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
       + Enhanced conversions {#enhanced-conversions}
         + [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/new-ui/goals/conversions/conversion-action-google-create.md)
         + [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/new-ui/goals/conversions/conversions-upload-offline-enhanced-conversions.md)
     + [Manage [!DNL Google Ads] conversion value rules](/help/search-social-commerce/new-ui/goals/conversion-value-rules-manage.md)
     + [Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
   + Plan {#plan}
-      + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
-      + [Run or rerun a custom simulation](/help/search-social-commerce/new-ui/plan/simulations/simulation-create.md)
-      + [View simulation details](/help/search-social-commerce/new-ui/plan/simulations/simulation-view.md)
-      + [Download simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-download.md)
+      + Simulations {#simulations}
+        + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
+        + [Run or rerun a custom simulation](/help/search-social-commerce/new-ui/plan/simulations/simulation-create.md)
+        + [View simulation details](/help/search-social-commerce/new-ui/plan/simulations/simulation-view.md)
+        + [Download simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-download.md)
     + [Using the [!UICONTROL Spend Planner]](/help/search-social-commerce/new-ui/plan/spend-planner.md)
   + Manage {#manage}
     + Portfolios {#portfolios}

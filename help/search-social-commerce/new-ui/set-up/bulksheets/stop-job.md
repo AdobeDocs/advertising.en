@@ -19,7 +19,7 @@ role_v2:
 ---
 # (New UI) Stop a bulksheet job in progress
 
-You can stop any bulksheet job — including a file that's being posted — while it is still in progress. You can also stop jobs that are scheduled but haven't started yet.
+You can stop any bulksheet job &mdash; including a file that's being posted &mdash; while it is still in progress. You can also stop jobs that are scheduled but haven't started yet.
 
 1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Bulksheets]**.
 
