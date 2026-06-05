@@ -13,7 +13,7 @@ subfeature_v2:
 
 New users should perform the following initial setup tasks:
 
-* Make the conversion metrics that Adobe Advertising is tracking for an advertiser available for reports and other views, and optionally rename any of the conversion metrics that are displayed in column headings for readability. See "[Manage and view performance data for an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)."
+* Make the conversion metrics that Adobe Advertising is tracking for an advertiser available for reports and other views, and optionally rename any of the conversion metrics that are displayed in column headings for readability. See "[Manage an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)."
   
   Transactions properties aren't available for reports unless you specifically make them available.
   

@@ -82,7 +82,7 @@ If the objective &mdash; named `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_a
 >[!MORELIKETHIS]
 >
 >* [About objectives](objective-about.md)
->* [Manage and view performance data for an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
+>* [Manage an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
 >* [Manage credentials for [!DNL Google Ads] manager accounts](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/manager-account-manage.md)
 
 <!--
