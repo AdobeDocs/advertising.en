@@ -27,25 +27,23 @@ topic_v2:
 ---
 # Set up data collection, data transfer, and reporting
 
-*Beta feature*
+*Advertisers with Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
 
-The following tasks are required to view Advertising Cloud data in Customer Journey Analytics.
+*Advertisers without [!DNL Analytics for Advertising] only*
 
->[!PREREQUISITES]
->
->While this feature is in beta mode, ask your Adobe Account Team to provide the advertiser account with access to the `Adobe Advertising` service.
+The following tasks are required to natively exchange data between Adobe Advertising and Customer Journey Analytics using the [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html). Data transfer and attribution begin after the launch; no historical data is included.
 
 1. (Your organization's web analyst; optional) [Collect historical data for AMO IDs and EF IDs](/help/integrations/analytics/rvars-to-evars.md){target="_blank"}.
 
    This step is applicable only for advertisers with [!DNL Analytics for Advertising].
 
-1. (Your organization's site administrator for Adobe Experience Platform) [Set up data collection in Experience Platform and implement conversion tracking tags](#data-collection).
+2. (Your organization's site administrator for Adobe Experience Platform) [Set up data collection in Experience Platform and implement conversion tracking tags](#data-collection).
 
-1. (Your organization's site administrator for Customer Journey Analytics) [Create a connection to your Experience Platform datasets in Customer Journey Analytics](#dataset-connection).
+3. (Your organization's site administrator for Customer Journey Analytics) [Create a connection to your Experience Platform datasets in Customer Journey Analytics](#dataset-connection).
 
-1. (Your organization's web analyst) [Set up data views in Customer Journey Analytics](#cja-data-views).
+4. (Your organization's web analyst) [Set up data views in Customer Journey Analytics](#cja-data-views).
 
-1. (Your organization's web analyst) [Set up reports and visualizations in Customer Journey Analytics Workspace](#cja-reports).
+5. (Your organization's web analyst) [Set up reports and visualizations in Customer Journey Analytics Workspace](#cja-reports).
 
 The following sections include the detailed procedures, which include the tasks and settings required for the integration but do not explain all features available within the workflows. See the linked resources for full information.
 
@@ -53,7 +51,9 @@ The following sections include the detailed procedures, which include the tasks 
 
 The following tasks are required to set up data collection in Experience Platform and implement conversion tracking tags. Your organization's site administrator for Experience Platform can perform these tasks, but your organization's IT department may need to help with deploying tracking tags.
 
-### Collect and send data from Adobe Advertising to Experience Platform Edge Network as a dataset   
+### Collect and send data from Adobe Advertising to Experience Platform Edge Network as a dataset
+
+This procedure includes creating a schema. You can optionally edit an existing schema instead; in that case, you don't need to create a dataset or datastream.
 
 1. In Experience Platform, [define a manual schema](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/resources/schemas) for the data you want to collect using the Experience Data Model (XDM).
 
@@ -65,25 +65,35 @@ The following tasks are required to set up data collection in Experience Platfor
 
    **Note:** You can create multiple schemas, but you can use only one schema per dataset and per datastream, which you'll create in the following steps.
 
-1. [Create a dataset](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/create) based on the schema to store and manage the collection of event data. 
+1. [Create a dataset](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/create) based on the schema to store and manage the collection of event data. This will be your *event dataset*. If you're editing an existing schema with a dataset, then you can skip this step.
 
    * Choose the option to **[!UICONTROL Create dataset from schema]** and select your schema.
    
-     <!-- Manual process during beta -->Adobe Advertising creates additional datasets for the related summary metrics data (such as conversion values) and lookup data (dimensions/classification metadata, such as Adobe Advertising campaign name) based on your event dataset. Data for the datasets is populated in Experience Platform daily.
+     Based on your event dataset, Adobe Advertising creates two additional datasets: 1\) a *summary dataset* with the related summary data (such as clicks and impressions) and 2\) a *lookup dataset* (with dimensions/classification metadata, such as Adobe Advertising campaign name). Data for the datasets is populated in Experience Platform daily.
 
-1. [Create a datastream](https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/configure) for the schema.
+   >[!TIP]
+   >
+   >Create a dummy event dataset first to validate data flow before using a production dataset.
+ 
+1. [Create a datastream](https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/configure) to specify where to send data from your website or app and how to handle the incoming data.
 
    * For the [!UICONTROL Mapping schema] setting, select your schema.
    
    * Add and enable the services `Adobe Advertising` and `Adobe Experience Platform` to the datastream.
    
-     These services enable the Edge Network to store the dataset and to route it to Adobe Advertising.
+     The [!UICONTROL Adobe Advertising] service enables ad exposures to be associated with the payload, and the [!UICONTROL Adobe Experience Platform] enables the Edge Network to store the dataset and to route it to Adobe Advertising.
 
-   * For the [!UICONTROL Event dataset] setting, select your dataset.
+   * For the [!UICONTROL Event dataset] setting, select your event dataset.
    
      Each datastream can insert data into only one dataset.
 
 ### Send your organization's website data to your Experience Platform datastream
+
+Use the Adobe Experience Platform Web SDK extension in Adobe Tags to send your organization's website data to your Experience Platform datastream.
+
+>[!NOTE]
+>
+>Only Adobe Tags are supported. Support isn't available for standalone Experience Platform Web SDK (`alloy.js`) or third-party tag managers.
 
 1. Use Experience Platform [tags](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home) (formerly known as [!DNL Launch]) to generate a JavaScript tag to send your organization's website data to the datastream.
    
@@ -99,7 +109,7 @@ The following tasks are required to set up data collection in Experience Platfor
    
      * In the [!UICONTROL Custom build components] section, enable the **Advertising** component.
      
-       This component includes all JavaScript code needed for Adobe Advertising in the tag. It also adds an "Advertising" setting in tag rules (which are optional) to define how advertising data is used for attribution measurement.
+       This component includes all JavaScript code needed for Adobe Advertising in the tag and is required for both Advertising DSP and Advertising Search, Social, & Commerce customers. The component also adds an "Advertising" setting in tag rules (which are optional) to define how advertising data is used for attribution measurement.
        
        You can optionally enable additional components as needed.
        
@@ -107,10 +117,10 @@ The following tasks are required to set up data collection in Experience Platfor
      
        * In the [!UICONTROL Datastreams] settings, select the datastream to use for each of your web environments (production, staging, development).
        
-       * (Organizations with Adobe Advertising DSP only) In the [[!UICONTROL Adobe Advertising] settings](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/advertising), enable **[!UICONTROL Adobe Advertising DSP]** to permit view-through tracking and specify the advertisers for which to enable view-through tracking. You can optionally collect IDs from universal IDs.
+       * (Organizations with Adobe Advertising DSP only) In the [[!UICONTROL Adobe Advertising] settings](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/advertising), enable **[!UICONTROL Adobe Advertising DSP]** to permit view-through tracking and specify the advertisers for which to enable view-through tracking. You can optionally collect IDs from universal IDs by adding your organization's ID5 partner ID and/or the path to your organization's [!DNL LiveRamp RampID] JavaScript code (ats.js).
 
-         If your advertisers aren't listed, then enter the advertiser ID for each advertiser.
-         
+         If your advertisers aren't listed, then enter the advertiser ID for each advertiser. If needed, ask your Adobe Account Team for the IDs.
+
        * Save the build.
         
    * (Optional) [Create rules](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/rules) as needed to determine when Web SDK should send data to the Edge Network.
@@ -121,7 +131,9 @@ The following tasks are required to set up data collection in Experience Platfor
 
 1. [Publish the tag](https://experienceleague.adobe.com/en/docs/experience-platform/tags/publish/publishing-flow) to a test environment in which you can iterate on the development of tags.
       
-1. Validate delivery of the datasets, and then [publish the tag to your live production environment](https://experienceleague.adobe.com/en/docs/experience-platform/tags/publish/publishing-flow).
+1. [Check the activity for each of your three datasets](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/user-guide#view-datasets) to validate delivery.
+ 
+1. [Publish the tag to your live production environment](https://experienceleague.adobe.com/en/docs/experience-platform/tags/publish/publishing-flow).
 
    Your organization's IT department or other group may need to schedule, or be informed about, the tag deployment.
 
@@ -129,35 +141,55 @@ The following tasks are required to set up data collection in Experience Platfor
 
 Follow these steps to pull Adobe Advertising data from your Experience Platform datasets into Customer Journey Analytics. Your organization's site administrator for Customer Journey Analytics can perform these tasks.
 
-1. In Customer Journey Analytics, [create a connection](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/create-connection) that includes your Experience Platform datasets and schema.
+You can also optionally edit an existing connection with the same information.
 
-   **Note:** Currently, you must send data for all DSP and Search, Social, & Commerce accounts to a single Experience Platform instance and sandbox.
-   
-   * Add your Experience Platform event (metrics) dataset, summary (metrics) dataset, and dimensions (classifications/metadata) dataset.
+1. In Customer Journey Analytics, [create or edit a connection](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/create-connection) that includes your Experience Platform datasets and schema.
+
+   <!-- **Note:** You must send data for all DSP and Search, Social, & Commerce accounts to a single Experience Platform instance and sandbox.  -->
+
+   * Confirm that the correct sandbox is selected.
+
+   * Calculate the average number of daily events (under 1 million for most organizations).
+
+   * Add your Experience Platform event metrics dataset (type: `Event`), your<!-- Adobe Advertising --> event summary metrics dataset  (type: `Event`), and your<!-- Adobe Advertising --> dimensions (classifications/metadata) dataset (type: `Lookup`).
 
      Your team created the event dataset, and Adobe Advertising created the summary and dimensions datasets based on your event dataset.
      
      You can optionally include additional datasets as needed.
 
-   * Map the dimensions dataset to the events dataset:
+   * Configure the dataset settings:
 
-     1. Open the settings for the dimension dataset.
-     
-        The heading on the settings page is "[!UICONTROL Lookup Dataset]," which indicates that you can join your dimensions dataset with one of your metric-specific datasets.
+     * For the [!UICONTROL Event Dataset] settings:
+
+       * **[!UICONTROL Person ID]:** `Identity Map`
+       
+       * **[!UICONTROL Use primary identity namespace]:** Enable setting
+
+       * **[!UICONTROL Data Source Type]:** `Web Data > Others` <!-- I don't see "Others" in the screen shot example -->
+  
+       * **[!UICONTROL Import all new data]:** Enable the setting
    
-     1. In the [!UICONTROL Adobe Advertising Dimensions] section, map the dimensions dataset to the events dataset:
-      
-        1. For the [!UICONTROL Key] field, select the field to use as the key for the dimensions dataset: `Adobe Advertising ID` (which is same as the `trackingCode` field in the schema).
-      
-        1. For the [!UICONTROL Matching key] field, select the field to use as the matching key for the events dataset. The available field names include the dataset name in parentheses. For example, if you're mapping your dimensions dataset to your events dataset, select `Tracking Code (Event datasets)`.
-        
-        Later, you'll also map the events dataset to the summary dataset when you set up your data view(#cja-data-views).
+     * For the [!UICONTROL Lookup Dataset] settings, map the dimensions dataset to the events dataset:
 
-1. After a couple of hours, verify that the data is available in Customer Journey Analytics.
+       * **[!UICONTROL Key]** (the field to use as the key for the dimensions dataset): `Tracking Code` (which is same as the `trackingCode` field in the schema).
+      
+       * **[!UICONTROL Matching key]** (the field to use as the matching key for the events dataset): `Tracking Code (Event datasets)`.<!-- verify this Later, you'll also map the events dataset to the summary dataset when you set up your data view(#cja-data-views).  -->
+  
+       * **[!UICONTROL Import all new data]:** Enable the setting
+
+     * For the [!UICONTROL Metrics Dataset] settings:
+
+       * **[!UICONTROL Person ID]:** `Identity Map`
+       
+       * **[!UICONTROL Timestamp]:** Confirm the value
+  
+       * **[!UICONTROL Import all new data]:** Enable the setting
+
+1. Within three hours, verify that the data is available in Customer Journey Analytics.
 
    1. In Customer Journey Analytics, go to **[!UICONTROL Connections]** and select your connection.
 
-   1. In the list of data sets displayed, verify that the "[!UICONTROL Number of Records]" report shows that data was added.
+   2. In the list of data sets displayed, verify that the "[!UICONTROL Number of Records]" report shows that data was added.
 
 ## Set up data views in Customer Journey Analytics {#cja-data-views}
 
@@ -171,13 +203,20 @@ In Customer Journey Analytics, create one or more data views to define the metri
    
    * On the [!UICONTROL Components] tab:
    
-     * Add your dimensions, events, and summary datasets.
+     * Add your lookup dataset (with dimensions/classification data), event dataset (with your event-level data), and summary dataset (with your other metrics, such as clicks).
      
-     * Choose metrics from your events (metrics) dataset and your dimensions (classifications/metadata) dataset to include in the data view.
-     
+     * Choose metrics from your event dataset and your lookup dataset to include in the data view.
+
+     * Search for "[!UICONTROL Tracking Code]" (which is part of the event dataset with schema path `_experience.adcloud.conversionDetails.trackingCode`). <!-- and do what with it? Add it? Or is that what you --> Set **[!UICONTROL Persistence]** to *[!UICONTROL Most Recent]*.
+
+<!--
+
+Seems to not be necessary now:
+
+
        You already joined these two datasets in the connection that you created in the [last procedure](#dataset-connection).
      
-     * Join the events dataset to the summary dataset, which isn't yet joined to anything:
+     *  Join the events dataset to the summary dataset, which isn't yet joined to anything:
      
        * For each dimension with summary data that you want to be available in Customer Journey Analytics, [create a derived field](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
@@ -213,13 +252,24 @@ In Customer Journey Analytics, create one or more data views to define the metri
          
            * Select the option to **[!UICONTROL Hide in reporting]**, which hides the derived field name in Workspace.
 
+-->
+
 ## Set up reports and visualizations in Customer Journey Analytics Workspace {#cja-reports}
 
 In Customer Journey Analytics Workspace, follow these steps to configure reports and visualizations. A web analyst can perform these tasks.
 
 1. [Create a project](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/create-projects) in Workspace to build reports and visualizations based on the dimensions and metrics configured within the data view.
 
+  You can classify both summary metrics and event data using the same dimension in one freeform table.
+
 1. (If you have data from [!DNL Google Ads] or [!DNL Microsoft Advertising]) Create a report of publisher-tracked conversions using fields for ad network-specific metrics, which are grouped as `googleConversions` and `microsoftConversions`.
+
+>[!TIP]
+>
+>Summary events typically add a small amount of extra data to reports, such as a few extra events, one extra session per day, or one extra person per report. These additions are negligible compared to standard web events. However, you can filter out this additional summary event data by excluding data for the dummy Person ID `00000000-0000-0000-0000-000000000000`.
+>![Example of excluding data using a Person ID](/help/integrations/assets/cja-report-with-person-id.png "Example of excluding data using a Person ID")
+
+![How your datasets may appear in Customer Journey Analytics](/help/integrations/assets/cja-report-example.png "How your datasets may appear in Customer Journey Analytics")
 
 >[!MORELIKETHIS]
 >
