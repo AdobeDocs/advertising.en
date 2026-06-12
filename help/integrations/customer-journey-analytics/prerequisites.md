@@ -27,8 +27,6 @@ topic_v2:
 ---
 # Prerequisites for integrating Adobe Advertising with Customer Journey Analytics
 
-*Beta feature*
-
 *Advertisers with Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
 
 * Adobe Customer Journey Analytics with access to data management tools
@@ -38,6 +36,8 @@ topic_v2:
 * Adobe Experience Platform data modeling and management technologies (including [schemas](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/home) and [datasets](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/overview)) and [data collection technologies](https://experienceleague.adobe.com/en/docs/experience-platform/collection/home) (including [datastreams](https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/overview) and [tags](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home))
 
   These technologies require support from your Experience Platform site administrator.
+
+* (Advertisers without [!DNL Analytics for Advertising]) Collaboration with your Adobe Account Team, who will complete various tasks during setup.
 
 >[!MORELIKETHIS]
 >

@@ -33,8 +33,6 @@ topic_v2:
 
 *Applicable to Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
 
-*Beta feature*
-
 Adobe Advertising uses two IDs for on-site performance tracking: the *EF ID* and the *AMO ID*.
 
 <!--

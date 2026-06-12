@@ -27,19 +27,23 @@ topic_v2:
 ---
 # Set up data collection, data transfer, and reporting
 
-The following tasks are required to view Advertising Cloud data in Customer Journey Analytics. Data transfer and attribution begin after the launch; no historical data is included.
+*Advertisers with Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
+
+*Advertisers without [!DNL Analytics for Advertising] only*
+
+The following tasks are required to natively exchange data between Adobe Advertising and Customer Journey Analytics using the [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html). Data transfer and attribution begin after the launch; no historical data is included.
 
 1. (Your organization's web analyst; optional) [Collect historical data for AMO IDs and EF IDs](/help/integrations/analytics/rvars-to-evars.md){target="_blank"}.
 
    This step is applicable only for advertisers with [!DNL Analytics for Advertising].
 
-1. (Your organization's site administrator for Adobe Experience Platform) [Set up data collection in Experience Platform and implement conversion tracking tags](#data-collection).
+2. (Your organization's site administrator for Adobe Experience Platform) [Set up data collection in Experience Platform and implement conversion tracking tags](#data-collection).
 
-1. (Your organization's site administrator for Customer Journey Analytics) [Create a connection to your Experience Platform datasets in Customer Journey Analytics](#dataset-connection).
+3. (Your organization's site administrator for Customer Journey Analytics) [Create a connection to your Experience Platform datasets in Customer Journey Analytics](#dataset-connection).
 
-1. (Your organization's web analyst) [Set up data views in Customer Journey Analytics](#cja-data-views).
+4. (Your organization's web analyst) [Set up data views in Customer Journey Analytics](#cja-data-views).
 
-1. (Your organization's web analyst) [Set up reports and visualizations in Customer Journey Analytics Workspace](#cja-reports).
+5. (Your organization's web analyst) [Set up reports and visualizations in Customer Journey Analytics Workspace](#cja-reports).
 
 The following sections include the detailed procedures, which include the tasks and settings required for the integration but do not explain all features available within the workflows. See the linked resources for full information.
 
