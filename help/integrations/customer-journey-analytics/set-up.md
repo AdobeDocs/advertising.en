@@ -264,7 +264,7 @@ In Customer Journey Analytics Workspace, follow these steps to configure reports
 
 1. (If you have data from [!DNL Google Ads] or [!DNL Microsoft Advertising]) Create a report of publisher-tracked conversions using fields for ad network-specific metrics, which are grouped as `googleConversions` and `microsoftConversions`.
 
->[TIP]
+>[!TIP]
 >
 >Summary events typically add a small amount of extra data to reports, such as a few extra events, one extra session per day, or one extra person per report. These additions are negligible compared to standard web events. However, you can filter out this additional summary event data by excluding data for the dummy Person ID `00000000-0000-0000-0000-000000000000`.
 >![Example of excluding data using a Person ID](/help/integrations/assets/cja-report-with-person-id.png "Example of excluding data using a Person ID")
