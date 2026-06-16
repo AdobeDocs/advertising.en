@@ -27,16 +27,13 @@ The fee for using each segment is shown next to the segment name in placement se
 
 * [!DNL Adsquare]
 * [!DNL digitalAudience]
-* [!DNL DLX Mobile]
 * [!DNL eXelate] ([!DNL Nielsen])
 * [!DNL Eyeota]
-* [!DNL Factual]
+* [!DNL Foursquare] ([!DNL Factual])
 * [!DNL Fraud Protection]
 * [!DNL Ibehaviour]
-* [!DNL Intimate Merger (Japan)]
 * [!DNL LiveRamp]
 * [!DNL Lotame]
-* [!DNL Navegg]
 * [!DNL NinthDecimal]
 * [!DNL Semcasting]
 * [!DNL TailTarget]
