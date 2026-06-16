@@ -30,7 +30,7 @@ topic_v2:
 ---
 # What's new
 
-The following features are new or recently changed. 
+The following features are new or recently changed.
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
