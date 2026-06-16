@@ -67,7 +67,7 @@ This procedure includes creating a schema. You can optionally edit an existing s
 
    * Choose the option to **[!UICONTROL Create dataset from schema]** and select your schema.
    
-     Based on your event dataset, Adobe Advertising creates two additional datasets: 1\) a *summary dataset* with the related summary data (such as clicks and impressions) and 2\) a *lookup dataset* (with dimensions/classification metadata, such as Adobe Advertising campaign name). Data for the datasets is populated in Experience Platform daily.
+     Based on your event dataset, Adobe Advertising creates two additional datasets: 1\) a *summary dataset* with the related summary data (such as aggregated clicks and aggregated impressions) and 2\) a *lookup dataset* (with dimensions/classification metadata, such as Adobe Advertising campaign name). Data for the datasets is populated in Experience Platform daily.
 
    >[!TIP]
    >
