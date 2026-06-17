@@ -29,3 +29,4 @@ Assist reports provide insights into the conversion paths for all of an advertis
 >* [The [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
 >* [Assist report settings](assist-report-settings.md)
 >* [Manage scheduled reports](/help/search-social-commerce/new-ui/reports/management/report-manage.md)
+
