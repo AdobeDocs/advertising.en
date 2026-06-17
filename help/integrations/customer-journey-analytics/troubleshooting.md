@@ -42,7 +42,6 @@ Verify the following:
 * Customer Journey Analytics Workspace is referencing the correct data view.
 
 If you verify all of the above settings but you still don't see summary data, then open a support ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support).
-.
 
 +++
 
@@ -96,7 +95,6 @@ Verify the following, starting with the items with the fewest barriers:
 * The Adobe Advertising settings are configured correctly in the WebSDK Extension and published.
 
 If you verify all of the above settings but you still don't see conversion data, then open a support ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support). Include the [!UICONTROL Account ID] for the ad network account.
-.
 
 +++
 
