@@ -16,12 +16,6 @@ role_v2:
 ---
 # Advertising Search, Social, & Commerce Guide {#search-social-commerce}
 
-<!-- When we use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link doesn't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md) -->
-
-<!--
-    + [Publisher recommendations and insights support](/help/search-social-commerce/new-ui/dashboard/recommendations-view-apply.md)
--->
-
 + [What's new](home.md)
 + [About this guide](help-about.md)
 + Introduction {#intro}
@@ -32,7 +26,7 @@ role_v2:
     + [Adobe [!DNL Analytics for Advertising] (link)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html){target="_blank"}
     + [Integration with Adobe Audience Manager (link)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html){target="_blank"}
   + [Support for consumer privacy (link)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
-  + [Policies and guidelines (link)](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html){target="_blank"}
+  + [Policies and guidelines (link)](https://experienceleague.adobe.com/en/docs/advertising/policies/ad-requirements-policy){target="_blank"}
 + Getting started {#getting-started}
   + [Implementation overview](/help/search-social-commerce/getting-started/implemention-overview.md)
   + [System requirements](/help/search-social-commerce/getting-started/system-requirements.md)
@@ -102,7 +96,7 @@ role_v2:
         + [Run or rerun a custom simulation](/help/search-social-commerce/new-ui/plan/simulations/simulation-create.md)
         + [View simulation details](/help/search-social-commerce/new-ui/plan/simulations/simulation-view.md)
         + [Download simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-download.md)
-    + [Using the [!UICONTROL Spend Planner]](/help/search-social-commerce/new-ui/plan/spend-planner.md)
+      + [Using the [!UICONTROL Spend Planner]](/help/search-social-commerce/new-ui/plan/spend-planner.md)
   + Manage {#manage}
     + Portfolios {#portfolios}
       + [About portfolios](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md)
@@ -161,17 +155,17 @@ role_v2:
             + [The [!UICONTROL Search Engine Account Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/search-engine-account-report.md)
             + [The [!UICONTROL Search Engine Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/search-engine-report.md)
           + Advanced report formats {#advanced-report-formats}
-            +  [The [!UICONTROL Domain Referral Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/domain-referral-report.md)
+            + [The [!UICONTROL Domain Referral Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/domain-referral-report.md)
             + [The [!UICONTROL Geo Distribution Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/geo-distribution-report.md)
             + [The [!UICONTROL Transaction Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/transaction-report.md)
           + [Basic and advanced report settings](/help/search-social-commerce/new-ui/reports/management/basic-advanced/basic-advanced-report-settings.md)
           + [Report columns for basic and advanced reports](/help/search-social-commerce/new-ui/reports/management/basic-advanced/basic-advanced-report-columns.md)
         + Assist reports {#assist-reports}
           + [About assist reports](/help/search-social-commerce/new-ui/reports/management/assist/assist-report-about.md)
-           Assist report formats {#assist-report-formats}
-            + [The [!UICONTROL Channel Assist Report]]/help/search-social-commerce/new-ui/reports/management/assist/channel-assist-report.md)
-            + [The [!UICONTROL Campaign Assist Report]](/help/search-social-commerce/new-ui/reports/management/assist/campaign-assist-report.md)
-            + [The [!UICONTROL Keyword Assist Report]](/help/search-social-commerce/new-ui/reports/management/assist/keyword-assist-report.md)
+            + Assist report formats {#assist-report-formats}
+              + [The [!UICONTROL Channel Assist Report]](/help/search-social-commerce/new-ui/reports/management/assist/channel-assist-report.md)
+              + [The [!UICONTROL Campaign Assist Report]](/help/search-social-commerce/new-ui/reports/management/assist/campaign-assist-report.md)
+              + [The [!UICONTROL Keyword Assist Report]](/help/search-social-commerce/new-ui/reports/management/assist/keyword-assist-report.md)
           + [Assist report settings](/help/search-social-commerce/new-ui/reports/management/assist/assist-report-settings.md)
         + Specialty reports {#specialty-reports}
           + [About specialty reports](/help/search-social-commerce/new-ui/reports/management/specialty/specialty-report-about.md)
@@ -464,7 +458,7 @@ role_v2:
           + [The [!UICONTROL Search Engine Account Report]](/help/search-social-commerce/reports/management/basic-advanced/search-engine-account-report.md)
           + [The [!UICONTROL Search Engine Report]](/help/search-social-commerce/reports/management/basic-advanced/search-engine-report.md)
         + Advanced report formats {#advanced-report-formats}
-          +  [The [!UICONTROL Domain Referral Report]](/help/search-social-commerce/reports/management/basic-advanced/domain-referral-report.md)
+          + [The [!UICONTROL Domain Referral Report]](/help/search-social-commerce/reports/management/basic-advanced/domain-referral-report.md)
           + [The [!UICONTROL Geo Distribution Report]](/help/search-social-commerce/reports/management/basic-advanced/geo-distribution-report.md)
           + [The [!UICONTROL Transaction Report]](/help/search-social-commerce/reports/management/basic-advanced/transaction-report.md)
         + [Generate a basic or advanced report](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md)
@@ -599,3 +593,9 @@ role_v2:
 + [Get help](get-help.md)
 + [Glossary](glossary.md)
 
+
+<!-- When we use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link doesn't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md) -->
+
+<!--
+    + [Publisher recommendations and insights support](/help/search-social-commerce/new-ui/dashboard/recommendations-view-apply.md)
+-->
