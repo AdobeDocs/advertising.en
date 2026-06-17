@@ -48,7 +48,6 @@ If you verify all of the above settings but you still don't see summary data, th
 
 +++ Summary reporting data is available in Customer Journey Analytics for Advertiser 1 but not Advertiser 2.
 
-
 Verify that the feed from Adobe Advertising to Customer Journey Analytics is enabled for Advertiser 2. Check with your Adobe Account Team.
 
 If the feed is enabled for an advertiser but you still don't see summary data, then open a support ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support).
@@ -56,10 +55,7 @@ If the feed is enabled for an advertiser but you still don't see summary data, t
 
 +++
 
-+++
-
 +++ (Search, Social, & Commerce users) Summary reporting data is available in Customer Journey Analytics for one [!DNL Google Ads], [!DNL Meta Ads], or [!DNL Microsoft Advertising] account but not for another account.
-
 
 Verify that the feed from Adobe Advertising to Customer Journey Analytics is enabled for the specific ad network account. Check with your Adobe Account Team.
 
