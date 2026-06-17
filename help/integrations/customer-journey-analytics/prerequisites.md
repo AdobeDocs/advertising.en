@@ -39,6 +39,8 @@ topic_v2:
 
 * (Advertisers without [!DNL Analytics for Advertising]) Collaboration with your Adobe Account Team, who will complete various tasks during setup.
 
+  You can discuss with the team if you'd like to give your Adobe Account Team administrator-level access to your Adobe Experience Platform and Adobe Customer Journey Analytics accounts. Access isn't necessary to complete the integration, but access allows your Adobe Account Team to provide maximum support for onboarding the integration, completing validations of the setup and data, and training you how to use Adobe Advertising reporting dimensions and metrics.
+
 >[!MORELIKETHIS]
 >
 >* [Overview](overview.md)
@@ -46,3 +48,4 @@ topic_v2:
 >* [Set up data collection, data transfer, and reporting](set-up.md)
 >* [Adobe Advertising metrics and dimensions in Customer Journey Analytics](advertising-data-in-cja.md)
 >* (Adobe Analytics users) [Collect historical data for AMO IDs and EF IDs for use in Adobe Customer Journey Analytics](/help/integrations/analytics/rvars-to-evars.md).
+>* [Troubleshooting](troubleshooting.md)
