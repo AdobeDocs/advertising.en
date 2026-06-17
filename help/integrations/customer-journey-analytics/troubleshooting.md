@@ -34,11 +34,11 @@ The following are potential issues and their causes.
 Verify the following:
 
 * The feed from Adobe Advertising to Customer Journey Analytics is enabled. Check with your Adobe Account Team.
-* 
+
 * Your Adobe Advertising dimension/classification/lookup dataset and your summary dataset are included in your Customer Journey Analytics connection.
-* 
+  
 * Your Adobe Advertising dimensions and summary metrics are included in your Customer Journey Analytics data view.
-* 
+  
 * Customer Journey Analytics Workspace is referencing the correct data view.
 
 If you verify all of the above settings but you still don't see summary data, then open a support ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support).
