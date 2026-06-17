@@ -89,3 +89,4 @@ For any reporting or auditing within [!DNL Analytics], the best practice is to u
 >* [Prerequisites](prerequisites.md)
 >* [Set up data collection, data transfer, and reporting](set-up.md)
 >* [Adobe Advertising metrics and dimensions in Customer Journey Analytics](advertising-data-in-cja.md)
+>* [Troubleshooting](troubleshooting.md)

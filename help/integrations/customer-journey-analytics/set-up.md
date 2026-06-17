@@ -57,7 +57,7 @@ This procedure includes creating a schema. You can optionally edit an existing s
 
    * In the [!UICONTROL Schema Details], select **[!UICONTROL Experience Event]** as the base class for the schema to capture site events. Name your schema and click **[!UICONTROL Finish]**.
    
-   * In the left panel, add the field group [Adobe Advertising Cloud ExperienceEvent Full Extension](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/event/advertising-full-extension) to add fields specific to Adobe Advertising. At a minimum, include the conversionDetails object with the `trackingCode` and `trackingIdentities` properties, which include the [AMO ID and EF ID](ids.md). The other fields are optional.
+   * In the left panel, add the field group [Adobe Advertising Cloud ExperienceEvent Full Extension](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/event/advertising-full-extension) to add fields specific to Adobe Advertising. At a minimum, include the conversionDetails object with the `trackingCode` and `trackingIdentities` properties, which include the [AMO ID and EF ID](ids.md). The other fields are optional. No other configuration is necessary.
    
    * (Optional) Add additional field groups as needed to connect additional data fields to Adobe Advertising data.
 
@@ -119,6 +119,8 @@ Use the Adobe Experience Platform Web SDK extension in Adobe Tags to send your o
 
          If your advertisers aren't listed, then enter the advertiser ID for each advertiser. If needed, ask your Adobe Account Team for the IDs.
 
+         Example of a [!DNL RampID] JavaScript path: `https://launchpad-wrapper.privacymanager.io/<customer-specific-id>/launchpad-liveramp.js`
+
        * Save the build.
         
    * (Optional) [Create rules](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/rules) as needed to determine when Web SDK should send data to the Edge Network.
@@ -171,7 +173,7 @@ You can also optionally edit an existing connection with the same information.
 
        * **[!UICONTROL Key]** (the field to use as the key for the dimensions dataset): `Tracking Code` (which is same as the `trackingCode` field in the schema).
       
-       * **[!UICONTROL Matching key]** (the field to use as the matching key for the events dataset): `Tracking Code (Event datasets)`.<!-- verify this Later, you'll also map the events dataset to the summary dataset when you set up your data view(#cja-data-views).  -->
+       * **[!UICONTROL Matching key]** (the field to use as the matching key for the events dataset): `Tracking Code (Event datasets)`.
   
        * **[!UICONTROL Import all new data]:** Enable the setting
 
@@ -183,7 +185,7 @@ You can also optionally edit an existing connection with the same information.
   
        * **[!UICONTROL Import all new data]:** Enable the setting
 
-1. Within three hours, verify that the data is available in Customer Journey Analytics.
+2. Within three hours, verify that the data is available in Customer Journey Analytics.
 
    1. In Customer Journey Analytics, go to **[!UICONTROL Connections]** and select your connection.
 
@@ -276,5 +278,6 @@ In Customer Journey Analytics Workspace, follow these steps to configure reports
 >* [Adobe Advertising IDs used by [!DNL Customer Journey Analytics]](ids.md)
 >* [Adobe Advertising metrics and dimensions in Customer Journey Analytics](advertising-data-in-cja.md)
 >* [Collect historical data for AMO IDs and EF IDs for use in Adobe Customer Journey Analytics](/help/integrations/analytics/rvars-to-evars.md).
+>* [Troubleshooting](troubleshooting.md)
 >* [Customer Journey Analytics Guide](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-landing)
 >* Customer Journey Analytics [User guide for Adobe Analytics users](https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/aa-to-cja-user)

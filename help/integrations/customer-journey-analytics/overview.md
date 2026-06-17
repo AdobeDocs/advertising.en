@@ -61,6 +61,14 @@ Adobe Advertising is integrated with Adobe Customer Journey Analytics for bi-dir
 
   In this use case, use Web SDK to track site events (using cookies, hashed IP addresses, or universal IDs) and attribute the site events to paid media activity in [!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Meta], and Adobe DSP. You'll also use Adobe Experience Platform for data collection.
 
+## Definitions of report data types
+
+* **Event-level data:** Timestamped events, such as Sessions, Page Views, Lead Form Submits, and Application Submits.
+
+* **Summary data:** Aggregated reporting data, such as Ad Platform, Campaign, Placement, Impression, Click, and Cost.
+
+* **Classification/dimensions data:** Reporting dimensions, such as Adobe Advertising campaign name, portfolio name, or placement ID. You can look up (filter) your event-level data and summary data by classification/dimension.
+
 ## How to initiate a native integration between Adobe Advertising and Customer Journey Analytics {#integration-cja-initiate}
 
 Contact your Adobe Account Team, who will complete the initial configuration necessary to begin and will help you plan your implementation and data usage based on your organization's needs.
@@ -72,3 +80,4 @@ Contact your Adobe Account Team, who will complete the initial configuration nec
 >* [Set up data collection, data transfer, and reporting](set-up.md)
 >* [Adobe Advertising metrics and dimensions in Customer Journey Analytics](advertising-data-in-cja.md)
 >* (Adobe Analytics users) [Collect historical data for AMO IDs and EF IDs for use in Adobe Customer Journey Analytics](/help/integrations/analytics/rvars-to-evars.md).
+>* [Troubleshooting](troubleshooting.md)
