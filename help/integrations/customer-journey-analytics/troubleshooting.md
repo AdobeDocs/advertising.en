@@ -25,7 +25,7 @@ topic_v2:
 ---
 # Troubleshooting Adobe Advertising data in Customer Journey Analytics
 
-The following are potential issues and their causes.
+The following are potential data issues and their causes.
 
 ## Summary reporting
 
