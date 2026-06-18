@@ -58,7 +58,6 @@ If the feed is enabled for an advertiser but you still don't see summary data, t
 Verify that the feed from Adobe Advertising to Customer Journey Analytics is enabled for the specific ad network account. Check with your Adobe Account Team.
 
 If the feed is enabled for an account but you still don't see summary data, then open a support ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support). Include the [!UICONTROL Account ID] for the ad network account.
-.
 
 +++
 
