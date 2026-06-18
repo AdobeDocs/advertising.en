@@ -50,7 +50,6 @@ If you verify all of the above settings but you still don't see summary data, th
 Verify that the feed from Adobe Advertising to Customer Journey Analytics is enabled for Advertiser 2. Check with your Adobe Account Team.
 
 If the feed is enabled for an advertiser but you still don't see summary data, then open a support ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support).
-.
 
 +++
 
@@ -78,9 +77,9 @@ If you're sure of a data discrepancy, then open a support ticket for your organi
 
 ## Event-level reporting
 
-+++ Scenario: Conversion data (such as `Page Views`) isn't available for a reporting dimension (such as `Campaign`) in CJA Customer Journey Analytics Workspace.
++++ Conversion data (such as `Page Views`) isn't available for a reporting dimension (such as `Campaign`) in CJA Customer Journey Analytics Workspace.
 
-Verify the following, starting with the items with the fewest barriers:
+Verify the following, starting with the items with the fewest barriers to verification:
 
 * The applicable conversion metrics are web/online events, which Adobe Advertising can attribute to dimensions.
 
