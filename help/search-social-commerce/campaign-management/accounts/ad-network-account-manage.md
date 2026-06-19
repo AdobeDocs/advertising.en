@@ -194,7 +194,7 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 >* This field isn't updated by the [!UICONTROL Auto Upload] tracking setting.
 >* Final URL suffixes at lower levels override the account-level suffix. For easier maintenance, use only the account-level suffix unless different tracking for individual account components is necessary. To configure a suffix at the ad group level or lower, use the ad network's editor.
 
-**Time Zone:** (All ad networks except for [!DNL Baidu] and [!DNL Yahoo! Display Network]) The advertiser's time zone. This field is editable and optional for new [!DNL Naver] accounts. For all other search networks, the value is filled automatically with the time zone configured for the advertiser's Search, Social, & Commerce account once you save the record.
+**Time Zone:** (All ad networks except for [!DNL Baidu] and [!DNL Yahoo DSP]) The advertiser's time zone. This field is editable and optional for new [!DNL Naver] accounts. For all other search networks, the value is filled automatically with the time zone configured for the advertiser's Search, Social, & Commerce account once you save the record.
 
 **Status:** The account status within Search, Social, & Commerce:
 

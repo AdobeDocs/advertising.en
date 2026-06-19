@@ -35,7 +35,7 @@ All bulksheets, landing page validation error files, and other error files are a
 
   You can upload [!DNL Naver] data for use within Search, Social, & Commerce but can't post it to the ad network. You can also download your existing (unsynchronized) data.
 
-* **Download data only:**  [!DNL Pinterest], [!DNL Yahoo Native], and [!DNL Yahoo! Display Network] accounts
+* **Download data only:**  [!DNL Pinterest], [!DNL Yahoo DSP], [!DNL Yahoo Native] accounts
 
   You can download your existing (unsynchronized) data.
 

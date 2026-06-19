@@ -29,13 +29,13 @@ where:
 
   * `c?` or `r` denotes token passing is disabled.
 
-* `<ad network ID>` is a variable for the numeric ID for the specified ad network, such as *3* for [!DNL Google Ads], *10* for [!DNL Microsoft Advertising], *45* for [!DNL Meta], *86* for [!DNL Yahoo! Display Network], *87* for [!DNL Naver], *88* for [!DNL Baidu], *90* for [!DNL Yandex], *94* for [!DNL LY Ads] (formerly [!DNL Yahoo! Japan Ads]), *105* for [!DNL Yahoo Native] (deprecated), or *106* for [!DNL Pinterest] (deprecated).
+* `<ad network ID>` is a variable for the numeric ID for the specified ad network, such as *3* for [!DNL Google Ads], *10* for [!DNL Microsoft Advertising], *45* for [!DNL Meta], *86* for [!DNL Yahoo DSP], *87* for [!DNL Naver], *88* for [!DNL Baidu], *90* for [!DNL Yandex], *94* for [!DNL LY Ads] (formerly [!DNL Yahoo! Japan Ads]), *105* for [!DNL Yahoo Native] (deprecated), or *106* for [!DNL Pinterest] (deprecated).
 
 * `<tracking ID>` is a variable for a system-generated tracking ID string that identifies a keyword, ad, or placement that is unique in the account. The string varies by ad network.
 
 * `<the landing page>` is a variable that represents the URL on your site to which end users are directed. For accounts with destination URLs, this value is an URL. For accounts with tracking templates, this value is a parameter (such as `{lpurl}`) that represents the final URL. 
 
-See the separate pages indicating the [[!DNL Baidu] formats](formats-click-tracking-baidu.md), [[!DNL Google Ads] formats](formats-click-tracking-google.md), [[!DNL Microsoft Advertising] formats](formats-click-tracking-microsoft.md), [[!DNL Naver] formats](formats-click-tracking-naver.md), [[!DNL Yahoo! Display Network] formats](formats-click-tracking-yahoo-display-network.md), [[!DNL Yahoo! Japan Ads] formats](formats-click-tracking-yahoo-japan.md), and [[!DNL Yandex] formats](formats-click-tracking-yandex.md).
+See the separate pages indicating the [[!DNL Baidu] formats](formats-click-tracking-baidu.md), [[!DNL Google Ads] formats](formats-click-tracking-google.md), [[!DNL Microsoft Advertising] formats](formats-click-tracking-microsoft.md), [[!DNL Naver] formats](formats-click-tracking-naver.md), [[!DNL Yahoo DSP] formats](formats-click-tracking-yahoo-display-network.md), [[!DNL Yahoo! Japan Ads] formats](formats-click-tracking-yahoo-japan.md), and [[!DNL Yandex] formats](formats-click-tracking-yandex.md).
 
 >[!MORELIKETHIS]
 >
@@ -44,5 +44,5 @@ See the separate pages indicating the [[!DNL Baidu] formats](formats-click-track
 >* [Click-tracking formats for sponsored ads on [!DNL LY Ads]](formats-click-tracking-yahoo-japan.md)
 >* [Click-tracking formats for [!DNL Microsoft Advertising]](formats-click-tracking-microsoft.md)
 >* [Click-tracking formats for sponsored ads on [!DNL Naver]](formats-click-tracking-naver.md)
->* [Click-tracking formats for sponsored ads on [!DNL Yahoo! Display Network]](formats-click-tracking-yahoo-display-network.md)
+>* [Click-tracking formats for sponsored ads on [!DNL Yahoo DSP]](formats-click-tracking-yahoo-display-network.md)
 >* [Click-tracking formats for sponsored ads on [!DNL Yandex]](formats-click-tracking-yandex.md)

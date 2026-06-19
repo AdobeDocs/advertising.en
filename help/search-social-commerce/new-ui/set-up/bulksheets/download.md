@@ -128,7 +128,7 @@ Criteria for specific campaigns, ad groups, ads/creatives, keywords, and/or plac
 
 ## Bulksheet rows by ad network {#bulksheet-rows-by-ad-network}
 
-| Bulksheet Row | [!DNL Baidu] | [!DNL Google Ads] | [!DNL LY Ads] | [!DNL Microsoft Advertising] | [!DNL Naver] | [!DNL Pinterest] | [!DNL Yahoo! Display Network] | [!DNL Yahoo Native] | [!DNL Yandex] | Notes |
+| Bulksheet Row | [!DNL Baidu] | [!DNL Google Ads] | [!DNL LY Ads] | [!DNL Microsoft Advertising] | [!DNL Naver] | [!DNL Pinterest] | [!DNL Yahoo DSP] | [!DNL Yahoo Native] | [!DNL Yandex] | Notes |
 |----|----|----|----|-------|----|----|----|----|----|----|
 | [!UICONTROL Campaign] | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | &mdash; |
 | [!UICONTROL Adgroup] | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | &mdash; |
@@ -162,7 +162,7 @@ For details about the required and optional columns for each ad network, see the
 * [Required and optional bulksheet data for [!DNL LY Ads] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-japan.md)
 * [Required and optional bulksheet data for [!DNL Microsoft Advertising] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md)
 * [Required and optional bulksheet data for [!DNL Naver] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md)
-* [Required and optional bulksheet data for [!DNL Yahoo! Display Network] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-display-network.md)
+* [Required and optional bulksheet data for [!DNL Yahoo DSP] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-display-network.md)
 * [Required and optional bulksheet data for [!DNL Yandex] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md)
 
 >[!MORELIKETHIS]
