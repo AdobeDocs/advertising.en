@@ -222,13 +222,13 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 >* This field isn't updated by the [!UICONTROL Auto Update] tracking setting.
 >* Final URL suffixes at lower levels override the account-level suffix. For easier maintenance, use only the account-level suffix unless different tracking for individual account components is necessary. To configure a suffix at the ad group level or lower, use the ad network's editor.
 
-**Account Tracking URL**: ([!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Yahoo! Japan Ads] accounts only; optional) The default tracking template for the account, which specifies all off-landing domain redirects and tracking parameters and also embeds the final/landing page URL in a parameter. Example: `{lpurl}?source={network}&id=5` or `http://www.trackingservice.example.com/?url={lpurl}?source={network}&id=5` to include a redirect.
+**Account Tracking URL**: ([!DNL Google Ads], [!DNL LY Ads], and [!DNL Microsoft Advertising] accounts only; optional) The default tracking template for the account, which specifies all off-landing domain redirects and tracking parameters and also embeds the final/landing page URL in a parameter. Example: `{lpurl}?source={network}&id=5` or `http://www.trackingservice.example.com/?url={lpurl}?source={network}&id=5` to include a redirect.
 
 * To embed the final URL:
 
   * ([!DNL Google Ads] and [!DNL Microsoft Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft Advertising] only) [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
-  * ([!DNL Yahoo! Japan Ads] only) Use the parameter `!{lpurl}` to indicate the landing page URL.
+  * ([!DNL LY Ads] only) Use the parameter `!{lpurl}` to indicate the landing page URL.
 
 * You can optionally include URL parameters and any custom parameters defined for the campaign, separated by ampersands (&), such as `{lpurl}?matchtype={matchtype}&device={device}`.
 

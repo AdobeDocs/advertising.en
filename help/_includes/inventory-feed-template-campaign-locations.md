@@ -4,9 +4,9 @@
 
 * *[!UICONTROL Target all locations]* or *[!UICONTROL Target entire market]* (the default for new campaigns):  To place ads at all locations for the specified language.
 
-* *[!UICONTROL Target specified locations]:* To limit ad placement to specific geographical regions, or ([!DNL Google Ads] and [!DNL Yahoo! Japan Ads] only) to exclude ad placement in specific geographic locations. For [!DNL Google Ads] campaigns, you can optionally add bid adjustments for each location you include.
+* *[!UICONTROL Target specified locations]:* To limit ad placement to specific geographical regions, or ([!DNL Google Ads] and [!DNL LY Ads] (formerly [!DNL Yahoo! Japan Ads] only) to exclude ad placement in specific geographic locations. For [!DNL Google Ads] campaigns, you can optionally add bid adjustments for each location you include.
 
-  * (To target or exclude specific locations) Find the location or sublocation, and drag it into the **[!UICONTROL Locations Included]** box or ([!DNL Google Ads] and [!DNL Yahoo! Japan Ads] only) the **[!UICONTROL Locations Excluded]** box.
+  * (To target or exclude specific locations) Find the location or sublocation, and drag it into the **[!UICONTROL Locations Included]** box or ([!DNL Google Ads] and [!DNL LY Ads] (formerly [!DNL Yahoo! Japan Ads] only) the **[!UICONTROL Locations Excluded]** box.
   
     To list the subcomponents of any item in the list (such as the states, metropolitan regions, or cities in the U.S.), click the item.
   

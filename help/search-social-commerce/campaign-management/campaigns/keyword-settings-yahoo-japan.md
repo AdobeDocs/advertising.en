@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Yahoo! Japan Ads] keyword settings"
-description: Reference the settings for [!DNL Yahoo! Japan Ads] keywords.
+title: "[!DNL LY Ads] keyword settings"
+description: Reference the settings for [!DNL LY Ads] keywords.
 exl-id: c2a34b3e-fb88-44e8-8bf8-7854639bd8cd
 feature: Search Campaign Management
 TQID: https://experienceleague.adobe.com/QE-TpsuMQW3Tmqv5clGPcMvyeJIYDPMQJMiK79eOKms
@@ -14,18 +14,18 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 ---
-# [!DNL Yahoo! Japan Ads] keyword settings
+# [!DNL LY Ads] keyword settings
 
 ## [!UICONTROL Keyword Details]
 
-**[!UICONTROL Keywords]:** The keywords. The maximum length is 80 characters, including any [[!DNL Yahoo! Japan Ads] match type syntax](https://ads-help.yahoo-net.jp/s/article/H000044997) for keywords.
+**[!UICONTROL Keywords]:** The keywords. The maximum length is 80 characters, including any [[!DNL LY Ads] match type syntax](https://ads-help.yahoo-net.jp/s/article/H000044997) for keywords.
 
 You can enter or paste up to 2000 keywords. Separate multiple keywords with commas, or enter them on separate lines.
 
 >[!NOTE]
 >
 >* You can create negative keywords from the [!UICONTROL Keywords] > [!UICONTROL Negatives] view and in the ad group and campaign settings.
->* Yahoo! Japan keywords and match types are mutable, which means you can edit them without deleting the existing keyword.
+>* LY Ads keywords and match types are mutable, which means you can edit them without deleting the existing keyword.
 
 **[!UICONTROL Status]:** The display status of the keyword: *Active* or *Paused*. The default for new keywords is *Active*.
 

@@ -13,7 +13,7 @@ role_v2:
 ---
 # About automating ad management using inventory feeds
 
-*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL LY Ads] (delete actions only), [!DNL Microsoft Advertising], and [!DNL Yandex] accounts only*
 
 The [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)] view for advanced campaign management allows you to automatically create and update ad network account structure and deliver dynamic ads based on data about your product or service inventory. You can upload new files with product data daily or as often as you like, or link directly to a [!DNL Google] or [!DNL Microsoft] merchant center account. Use the feature to:
 
@@ -36,7 +36,7 @@ Once you generate the ads, you can optionally review them and then post them to 
 
 ## Workflow for managing campaign data using inventory feeds
 
-*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL LY Ads] (delete actions only), [!DNL Microsoft Advertising], and [!DNL Yandex] accounts only*
 
 Initially, test at least one feed file or account, and then you can fully automate the process or continue to control it at each step:
 

@@ -13,7 +13,7 @@ role_v2:
 ---
 # Manage biddable keywords
 
-*[!DNL Google Ads] and [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
+*[!DNL Google Ads], [!DNL LY Ads],  [!DNL Microsoft Advertising], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
 
 You can create and edit keywords for search ad groups in [supported campaign types](/help/search-social-commerce/introduction/supported-inventory.md) that target the search and display/native networks within a [synchronized ad network account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md)
 
@@ -29,7 +29,7 @@ You can create and edit keywords for search ad groups in [supported campaign typ
 
 1. Select the ad network, the account, the campaign, and the ad group, and then click **[!UICONTROL Continue]**.
 
-1. Enter the [[!DNL Baidu] keyword settings](keyword-settings-baidu.md), [[!DNL Google Ads] keyword settings](keyword-settings-google.md), [[!DNL Microsoft Advertising] keyword settings](keyword-settings-microsoft.md), [[!DNL Yahoo! Japan Ads] keyword settings](keyword-settings-yahoo-japan.md), or [[!DNL Yandex] keyword settings](keyword-settings-yandex.md).
+1. Enter the [[!DNL Baidu] keyword settings](keyword-settings-baidu.md), [[!DNL Google Ads] keyword settings](keyword-settings-google.md), [[!DNL LY Ads] keyword settings](keyword-settings-yahoo-japan.md), [[!DNL Microsoft Advertising] keyword settings](keyword-settings-microsoft.md), or [[!DNL Yandex] keyword settings](keyword-settings-yandex.md).
 
    You can enter or paste up to 2000 keywords in one operation. Separate multiple keywords with commas, or enter them on separate lines.
    
@@ -59,7 +59,7 @@ The existing keyword is deleted and another one is created when:
 
 1. In the toolbar above the data table, click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") .
 
-1. Edit the [[!DNL Baidu] keyword settings](keyword-settings-baidu.md), [[!DNL Google Ads] keyword settings](keyword-settings-google.md), [[!DNL Microsoft Advertising] keyword settings](keyword-settings-microsoft.md), [[!DNL Yahoo! Japan Ads] keyword settings](keyword-settings-yahoo-japan.md), or [[!DNL Yandex] keyword settings](keyword-settings-yandex.md).
+1. Edit the [[!DNL Baidu] keyword settings](keyword-settings-baidu.md), [[!DNL Google Ads] keyword settings](keyword-settings-google.md), [[!DNL LY Ads] keyword settings](keyword-settings-yahoo-japan.md), [[!DNL Microsoft Advertising] keyword settings](keyword-settings-microsoft.md), or [[!DNL Yandex] keyword settings](keyword-settings-yandex.md).
 
    For multiple keywords, you can edit only the fields that are common to all of the selected keywords, and your changes are applied to all of the selected keywords. For some alphanumeric fields, you have options to change existing values to a specified value, replace an existing string with a specified string, add a specified prefix to the beginning of each value, or append a suffix to the end of each value. For some monetary fields, you have options to change existing values to a specified value or to either increase or decrease the amount by a specified percentage or monetary amount, with a limit.
 
@@ -74,8 +74,8 @@ The existing keyword is deleted and another one is created when:
 >* [About keywords](keyword-about.md)
 >* [[!DNL Baidu] keyword settings](keyword-settings-baidu.md)
 >* [[!DNL Google Ads] keyword settings](keyword-settings-google.md)
+>* [[!DNL LY Ads] keyword settings](keyword-settings-yahoo-japan.md)
 >* [[!DNL Microsoft Advertising] keyword settings](keyword-settings-microsoft.md)
->* [[!DNL Yahoo! Japan Ads] keyword settings](keyword-settings-yahoo-japan.md)
 >* [[!DNL Yandex] keyword settings](keyword-settings-yandex.md)
 >* [Create negative keywords](/help/search-social-commerce/campaign-management/campaigns/keyword-negative-create.md)
 >* [Change the status of keywords and negative keywords](keyword-status-edit.md)

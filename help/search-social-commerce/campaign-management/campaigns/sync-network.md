@@ -13,7 +13,7 @@ role_v2:
 ---
 # Manually synchronize ad network data
 
-*[!DNL Google Ads], [!DNL Microsoft Advertising] (formerly [!DNL Bing Ads]), [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
+*[!DNL Google Ads], [!DNL LY Ads] (formerly [!DNL Yahoo! Japan Ads]), [!DNL Microsoft Advertising] (formerly [!DNL Bing Ads]), [!DNL Yandex], and existing [!DNL Baidu] accounts only*
 
 Synchronization is the process by which Search, Social, & Commerce gathers updated information for each advertiser's connected ad network accounts on [supported ad networks](/help/search-social-commerce/introduction/supported-inventory.md). This data includes the advertiser's campaign structure and campaign entities, including most of their attributes that are managed or reported in Search, Social, & Commerce. It doesn't include click data, nor bids and bid modifiers entered outside Search, Social, & Commerce, which are gathered separately.
 

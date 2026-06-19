@@ -18,7 +18,7 @@ topic_v2:
 ---
 # Text ad and responsive search ad template settings for inventory feeds
 
-*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL LY Ads] (delete actions only), [!DNL Microsoft Advertising], and [!DNL Yandex] accounts only*
 
 >[!NOTE]
 >
@@ -77,7 +77,7 @@ When no match is found, all data for the campaign is ignored. If multiple campai
 
   * ([!DNL Google Ads] and [!DNL Microsoft Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft Advertising] only) [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799/2) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
-  * ([!DNL Yahoo! Japan Ads] only) Use the parameter `!{unescapedurl}` to indicate the landing page URL.
+  * ([!DNL LY Ads] only) Use the parameter `!{unescapedurl}` to indicate the landing page URL.
 
   * You can optionally include URL parameters and any custom parameters defined for the campaign, separated by ampersands (&), such as `{lpurl}?matchtype={matchtype}&device={device}`.
 
@@ -149,7 +149,7 @@ For Adobe Advertising conversion tracking, which is applied when the campaign se
 
 For third-party redirects and tracking, enter a value. To indicate the landing page URL:
 
-* For Yahoo! Japan Ads accounts, use the parameter {lpurl}.
+* For LY Ads accounts, use the parameter {lpurl}.
 
 * For parameters available for [!DNL Microsoft Advertising] and [!DNL Google Ads] accounts, see the [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
@@ -175,7 +175,7 @@ This value overrides the account- and campaign-level settings, but tracking temp
 
 To insert a column name or modifier group as a dynamic parameter, click in the input field, and then click a column name in the column list or a [modifier name](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) in the Modifiers list. To specify multiple keywords or multiple match types for the same keyword, enter them on separate lines. To specify the keyword match type, use the following match type syntax around the column name:
 
-* For [!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Yahoo! Japan Ads] templates:
+* For [!DNL Google Ads], [!DNL LY Ads], and [!DNL Microsoft Advertising] templates:
 
   * For dynamic parameters: Broad Match = `[keyword]`, Broad Match Modifier for the first term in the [!UICONTROL Keyword] column (such as +blue suede shoes) = `+[keyword]`, Broad Match Modifier for each term in the Keyword column (such as +blue +suede +shoes) = `+[keyword]+`, Phrase Match = `"[keyword]"`, Exact Match = `[[keyword]]`
 
@@ -217,7 +217,7 @@ If you use a [!DNL Google Merchant Center] feed and include this value in the &q
 
   * ([!DNL Google Ads] and [!DNL Microsoft Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft Advertising] only) [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
   
-  * ([!DNL Yahoo! Japan Ads] only) Use the parameter `!{lpurl}` to indicate the landing page URL.
+  * ([!DNL LY Ads] only) Use the parameter `!{lpurl}` to indicate the landing page URL.
 
 **[!UICONTROL Param 1]**, **[!UICONTROL Param 2] \[[!DNL Google Ads] templates\]:** ([!DNL Google Ads] templates only) The column in the specified file that represents the [!DNL Google Ads] `{param1}` or `{param2}` variable, which you can include in the ad copy or display URL for any ad created from the template. To insert the dynamic parameter, click in the input field, and then click a column name in the column list. The column name is substituted with the actual data when the feed file is propagated through the template.
 
@@ -269,7 +269,7 @@ At least one title must be available for each position. If you pin multiple titl
 
 **[!UICONTROL Ad Title]:** (Existing Microsoft Advertising standard text ads only; read-only) The title, or first line, of an ad. Microsoft Advertising has deprecated the creation and editing of standard text ads.
 
-**[!UICONTROL Headline 1]**, **[!UICONTROL Headline 2]:** ([!DNL Google Ads] and [!DNL Yahoo! Japan Ads] expanded/extended text ad templates only) The headline of an ad. The maximum length for each line (after any dynamic parameters are replaced) is 30 characters or 15 double-byte characters.
+**[!UICONTROL Headline 1]**, **[!UICONTROL Headline 2]:** ([!DNL Google Ads] and [!DNL LY Ads] expanded/extended text ad templates only) The headline of an ad. The maximum length for each line (after any dynamic parameters are replaced) is 30 characters or 15 double-byte characters.
 
 <!-- using a snippet for the note instead of an include because this is used multiple times on the page, which ExL doesn't support for includes -->
 
@@ -293,7 +293,7 @@ At least one title must be available for each position. If you pin multiple titl
 
 * (Google Ads expanded text ad templates) The maximum length (after any dynamic parameters are replaced) is 90 characters or 45 double-byte characters. 
 
-* (Yahoo! Japan Ads templates) The maximum length (after any dynamic parameters are replaced) is 80 characters or 40 double-byte characters.
+* (Yahoo! LY Ads templates) The maximum length (after any dynamic parameters are replaced) is 80 characters or 40 double-byte characters.
 
 * (Yandex templates) The maximum length (after any dynamic parameters are replaced) is 75 characters, and a single word can't be more than 22 characters.
 
@@ -323,9 +323,9 @@ For responsive search ads, insert an ad customizer using the following formats, 
 
 * [!DNL Microsoft Advertising]: `{CUSTOMIZER.Attribute name:Default text}`, such as `{CUSTOMIZER.Discount:10%}`
 
-**[!UICONTROL Display URL]:** (Existing [!DNL Microsoft Advertising] and [!DNL Yahoo! Japan Ads] standard text ads only; read-only) The URL displayed in an ad.
+**[!UICONTROL Display URL]:** (Existing [!DNL LY Ads] and [!DNL Microsoft Advertising] standard text ads only; read-only) The URL displayed in an ad.
 
-[!DNL Microsoft Advertising] and [!DNL Yahoo! Japan Ads] have deprecated the creation and editing of standard text ads.
+[!DNL LY Ads] and [!DNL Microsoft Advertising] have deprecated the creation and editing of standard text ads.
 
 **[!UICONTROL Base URL]:** (Accounts with destination URLs only) The page to which users are taken. It can include third-party redirection and tracking code. If you use the Adobe Advertising conversion tracking service, and the campaign settings include using the [!UICONTROL EF Redirect] and adding tracking at the ad level, then Search, Social, & Commerce automatically adds its own redirection and tracking code to the ad.
 
@@ -346,7 +346,7 @@ For Adobe Advertising conversion tracking, which is applied when the campaign se
 
 For third-party redirects and tracking, enter a value. To indicate the landing page URL:
 
-* For Yahoo! Japan Ads accounts, use the parameter {lpurl}.
+* For [!DNL LY Ads] accounts, use the parameter {lpurl}.
 
 * For parameters available for [!DNL Microsoft Advertising] and [!DNL Google Ads] accounts, see the [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or the &quot;Tracking template only&quot;parameters in the section on &quot;Available [!DNL ValueTrack] Parameters&quot; in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 

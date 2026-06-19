@@ -13,7 +13,7 @@ role_v2:
 ---
 # Manage campaigns
 
-*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
+*[!DNL Google Ads], [!DNL LY Ads], [!DNL Microsoft Advertising], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
 
 A campaign is the primary component of an ad network account. For most campaign types, it consists of a set of ad groups or ad sets. Campaign settings include campaign budget parameters, ad targets, and optional tracking parameters for all ads in the campaign. Campaign-level tracking parameters override the account-level parameters but may themselves be overridden at a lower level.
 
@@ -32,9 +32,9 @@ Once you [make an ad network account accessible](/help/search-social-commerce/ca
 
 1. Select the ad network, the account, and the campaign type, and then click **[!UICONTROL Continue]**.
    
-   For the descriptions of each campaign type, see the [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), [Yahoo! Japan Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campaign settings.
+   For the descriptions of each campaign type, see the [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [LY Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campaign settings.
 
-1. Enter the [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), [Yahoo! Japan Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campaign settings.
+1. Enter the [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [LY Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campaign settings.
 
    Depending on the ad network, the settings may be grouped into [!UICONTROL Campaign Details], [!UICONTROL Budget Options], [!UICONTROL Shopping Settings], [!UICONTROL Campaign Targeting], [!UICONTROL Conversion Goals], [!UICONTROL Advanced Device Options], [!UICONTROL URL Options], ([!DNL Google Ads]) [!UICONTROL DSA Options], and ([!DNL Google Ads]) [!UICONTROL Customer Acquisition Goals]. To configure additional settings, when available, for [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], [!UICONTROL Campaign Tracking], [!UICONTROL Asset Groups], or [!UICONTROL Campaign Goals], click **[!UICONTROL Add Negative Keywords]**, **[!UICONTROL Add Negative Websites]**, **[!UICONTROL Set Campaign Tracking]**, **[!UICONTROL Manage Asset Groups]**, or **[!UICONTROL Set Campaign Goals]**, respectively.
 
@@ -64,7 +64,7 @@ You can edit settings for individual campaigns. You can also edit some fields fo
      
       * In the toolbar above the data table, click ![Edit](/help/search-social-commerce/assets/edit.png "Edit").
 
-1. Edit the [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), [Yahoo! Japan Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campaign settings.
+1. Edit the [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [LY Ads](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campaign settings.
 
    For multiple campaigns, the settings may be grouped into [!UICONTROL Campaign Details], [!UICONTROL Budget Options], and [!UICONTROL URL Options], depending on the ad networks. You can edit only the fields that are common to all of the selected campaigns, and your changes are applied to all of the selected campaigns. For some alphanumeric fields, you have options to change existing values to a specified value, replace an existing string with a specified string, add a specified prefix to the beginning of each value, or append a suffix to the end of each value. For some monetary fields, you have options to change existing values to a specified value or to either increase or decrease the amount by a specified percentage or monetary amount, with a limit.
 
@@ -104,6 +104,6 @@ You also can delete any active or paused search campaign. Deleted campaigns are 
 >
 >* [[!DNL Baidu] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md)
 >* [[!DNL Google Ads] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
+>* [[!DNL LY Ads] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md)
 >* [[!DNL Microsoft Advertising] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)
->* [[!DNL Yahoo! Japan Ads] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md)
 >* [[!DNL Yandex] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md)
