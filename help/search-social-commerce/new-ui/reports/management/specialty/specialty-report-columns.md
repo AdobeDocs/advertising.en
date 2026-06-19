@@ -49,7 +49,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Audience Status] | The status of the audience. |
 | [!UICONTROL Average CPC] | The average cost per click. |
 | [!UICONTROL Average CPM] | The average cost per thousand (mille) impressions. |
-| [!UICONTROL Average Position], [!UICONTROL Avg Position] | The average position of the ads during the specified date range.<br><br>For [!DNL Google Ads] and [!DNL Yahoo! Japan Ads] campaigns, this data is available only through September 2019. For [!DNL Microsoft Advertising], this data is available only through 22 January 2021. |
+| [!UICONTROL Average Position], [!UICONTROL Avg Position] | The average position of the ads during the specified date range.<br><br>For [!DNL Google Ads] and [!DNL LY Ads] campaigns, this data is available only through September 2019. For [!DNL Microsoft Advertising], this data is available only through 22 January 2021. |
 | [!UICONTROL Bid Match Type] | ([!UICONTROL MSA Ad Extension] reports) The match type associated with the keyword that was bid on. |
 | [!UICONTROL Campaign Budget] | ([!UICONTROL Campaign Daily Impression Share Report]) The campaign budget. |
 | [!UICONTROL Campaign Name] | The campaign. |
@@ -82,7 +82,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Creative Destination URL] | The final URL or the destination URL (including any tracking parameters) for the ad. |
 | [!UICONTROL Creative Display URL] | The display URL for the ad, which is what end users see in the ad. |
 | [!UICONTROL Creative Status] | ([!UICONTROL MSA Ad Extension] reports) The status of the ad. |
-| [!UICONTROL Creative Name] | (Transaction Report; [!DNL Yahoo! Japan] only) The ad image name. |
+| [!UICONTROL Creative Name] | (Transaction Report; [!DNL LY Ads] only) The ad image name. |
 | [!UICONTROL Creative Title] | The title or headline of the ad. |
 |[!UICONTROL Cross Device Conversions] | ([!UICONTROL Google AI Max Search Term Combination Report]) Conversions that result when a user clicks ad on one device and then converts on a different device or browser. Cross-device conversions are included in All Conversions. |
 | [!UICONTROL CTR] | The click-through rate, which is the number of clicks divided by the number of impressions for the included ads. |
@@ -94,7 +94,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL eCPM] | The effective CPM, or the average cost paid per 1000 impressions during a specified date range. eCPM values are calculated for either CPM or CPC campaigns. |
 | [!UICONTROL EF Campaign ID] | The numeric ID that Search, Social, & Commerce assigns to the campaign. |
 | [!UICONTROL EF Portfolio Group ID] | The numeric ID for the portfolio group to which the portfolio belongs. |
-| [!UICONTROL EF Search Engine ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL Yahoo! Japan Ads], <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (deprecated), or <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (deprecated). |
+| [!UICONTROL EF Search Engine ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL LY Ads] (formerly [!DNL Yahoo! Japan Ads]), <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (deprecated), or <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (deprecated). |
 | [!UICONTROL End Date] | The last day reported. |
 | [!UICONTROL Extension Property Value] | ([!UICONTROL MSA Ad Extension] reports) The [display name of the extension](https://help.ads.microsoft.com/#apex/ads/en/51001). |
 | [!UICONTROL Extension Type ID] | ([!UICONTROL MSA Ad Extension] reports) The ID for the ad extension type. |

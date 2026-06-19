@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Yahoo! Japan Ads] ad group settings"
-description: Reference the settings for [!DNL Yahoo! Japan Ads] ad groups.
+title: "[!DNL LY Ads] ad group settings"
+description: Reference the settings for [!DNL LY Ads] ad groups.
 exl-id: 1afacb94-bf07-45df-ab79-13cb7f876288
 feature: Search Campaign Management
 TQID: https://experienceleague.adobe.com/mNVxXqhOqzXVW7A-dolZ-sRkC-Le6kU55nxRd84-m7I
@@ -14,7 +14,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 ---
-# [!DNL Yahoo! Japan Ads] ad group settings
+# [!DNL LY Ads] ad group settings
 
 ## [!UICONTROL Adgroup Details]
 

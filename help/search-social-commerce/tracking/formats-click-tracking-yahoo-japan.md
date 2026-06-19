@@ -1,6 +1,6 @@
 ---
-title: Click-tracking formats for [!DNL Yahoo! Japan Ads]
-description: Learn about the click-tracking formats for [!DNL Yahoo! Japan Ads] accounts.
+title: Click-tracking formats for [!DNL LY Ads]
+description: Learn about the click-tracking formats for [!DNL LY Ads] accounts.
 exl-id: 79e45205-5c72-4612-9b60-36538e3c48c4
 feature: Search Tracking
 TQID: https://experienceleague.adobe.com/ZFNzA0bfxKhlNW6fvPWMwBc4naT7rOhvym-wSpxvYXg
@@ -11,13 +11,13 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# Click-tracking formats for sponsored ads on [!DNL Yahoo! Japan Ads]
+# Click-tracking formats for sponsored ads on [!DNL LY Ads]
 
 The following base tracking template formats apply to sponsored ads:
 
 `http://pixel.everesttech.net/<advertiser_ID>/cq?ev_sid=<ad network ID>&ev_ln={keyword}&ev_crx={creative}&ev_mt={matchtype}&ev_n={network}&ev_dvc={device}&url=!{unescapedlpurl}`
 
-or, when the auto-tagging option is set for the account in [!DNL Yahoo! Japan Ads]:
+or, when the auto-tagging option is set for the account in [!DNL LY Ads]:
 
 `http://pixel.everesttech.net/<advertiser_ID>/cq?ev_sid=<ad network ID>&ev_ln={keyword}&ev_crx={creative}&ev_mt={matchtype}&ev_n={network}&ev_dvc={device}&url=!{unescapedlpurl}/?yclid=<yclid>`
 

@@ -24,6 +24,6 @@ See the ad network's documentation for the current object limits, such as the ma
 
 * **[!DNL Google Ads]:** See [https://support.google.com/google-ads/answer/6372658](https://support.google.com/google-ads/answer/6372658).
 
-* **[!DNL Yahoo! Japan Ads]:** See [https://ads-developers.yahoo.co.jp/en/ads-api/developers-guide/value-constraints.html](https://ads-developers.yahoo.co.jp/en/ads-api/developers-guide/value-constraints.html).
+* **[!DNL LY Ads]:** See [https://ads-developers.yahoo.co.jp/en/ads-api/developers-guide/value-constraints.html](https://ads-developers.yahoo.co.jp/en/ads-api/developers-guide/value-constraints.html).
 
 * **[!DNL Yandex]:** See [https://yandex.com/support/direct/troubleshooting/interface_limitations.xml](https://yandex.com/support/direct/troubleshooting/interface_limitations.xml).

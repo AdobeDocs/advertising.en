@@ -128,30 +128,30 @@ Criteria for specific campaigns, ad groups, ads/creatives, keywords, and/or plac
 
 ## Bulksheet rows by ad network {#bulksheet-rows-by-ad-network}
 
-| Bulksheet Row | [!DNL Baidu] | [!DNL Google Ads] | [!DNL Microsoft Advertising] | [!DNL Naver] | [!DNL Pinterest] | [!DNL Yahoo! Display Network] | [!DNL Yahoo! Japan Ads] | [!DNL Yahoo Native] | [!DNL Yandex] | Notes |
+| Bulksheet Row | [!DNL Baidu] | [!DNL Google Ads] | [!DNL LY Ads] | [!DNL Microsoft Advertising] | [!DNL Naver] | [!DNL Pinterest] | [!DNL Yahoo! Display Network] | [!DNL Yahoo Native] | [!DNL Yandex] | Notes |
 |----|----|----|----|-------|----|----|----|----|----|----|
 | [!UICONTROL Campaign] | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | &mdash; |
 | [!UICONTROL Adgroup] | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | &mdash; |
-| [!UICONTROL Creative] *or* [!UICONTROL Creative (except RSA)] | Yes | Yes | Yes | &mdash; | &mdash; | Yes | Yes | Yes | Yes | ([!DNL Google Ads]) Use for all ad types except responsive search ads, which are available in the [!UICONTROL Responsive Search Ad] row. |
-| [!UICONTROL Responsive Search Ad] | &mdash; | Yes | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| [!UICONTROL Keyword] | Yes | Yes | Yes | Yes | Yes | &mdash; | Yes | Yes | Yes | Use for non-negative keywords only. To see negative keywords created at the campaign or ad group level, use the [!UICONTROL Campaign Negative Keyword] or [!UICONTROL Adgroup Negative Keyword] row when available. |
-| [!UICONTROL Promoted Pin] | &mdash; | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| [!UICONTROL Creative] *or* [!UICONTROL Creative (except RSA)] | Yes | Yes | Yes | Yes | &mdash; | &mdash; | Yes | Yes | Yes | ([!DNL Google Ads]) Use for all ad types except responsive search ads, which are available in the [!UICONTROL Responsive Search Ad] row. |
+| [!UICONTROL Responsive Search Ad] | &mdash; | Yes | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| [!UICONTROL Keyword] | Yes | Yes | Yes | Yes | Yes | Yes | &mdash; | Yes | Yes | Use for non-negative keywords only. To see negative keywords created at the campaign or ad group level, use the [!UICONTROL Campaign Negative Keyword] or [!UICONTROL Adgroup Negative Keyword] row when available. |
+| [!UICONTROL Promoted Pin] | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; |
 | [!UICONTROL Placement] | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| [!UICONTROL Auto Target] | &mdash; | Yes | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | Use for dynamic search targets for an ad group. |
-| [!UICONTROL Shopping Product Group] | &mdash; | Yes | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| [!UICONTROL Campaign Site Link] | &mdash; | Yes | Yes | &mdash; | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
-| [!UICONTROL Campaign Negative Keyword] | Yes | Yes | Yes | &mdash; | &mdash; | &mdash; | Yes | Yes | &mdash; | Use for negative keywords created at the campaign or ad group level only. To see non-negative keywords, use the [!UICONTROL Keyword] row when available. |
-| [!UICONTROL Campaign Negative Website] | &mdash; | Yes | Yes | &mdash; | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
+| [!UICONTROL Auto Target] | &mdash; | Yes | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | Use for dynamic search targets for an ad group. |
+| [!UICONTROL Shopping Product Group] | &mdash; | Yes | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| [!UICONTROL Campaign Site Link] | &mdash; | Yes | &mdash; | Yes | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
+| [!UICONTROL Campaign Negative Keyword] | Yes | Yes | Yes | Yes | &mdash; | &mdash; | &mdash; | Yes | &mdash; | Use for negative keywords created at the campaign or ad group level only. To see non-negative keywords, use the [!UICONTROL Keyword] row when available. |
+| [!UICONTROL Campaign Negative Website] | &mdash; | Yes | &mdash; | Yes | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
 | [!UICONTROL Adgroup Site Link] | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
 | [!UICONTROL Creative Site Link] | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | Yes | &mdash; |
-| [!UICONTROL Adgroup Negative Keyword] | Yes | Yes | Yes | &mdash; | &mdash; | &mdash; | Yes | Yes | &mdash; | &mdash; |
-| [!UICONTROL Adgroup Negative Website] | &mdash; | Yes | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| [!UICONTROL Campaign Location Target] | Yes | Yes | Yes | &mdash; | &mdash; | &mdash; | Yes | Yes | &mdash; | &mdash; |
-| [!UICONTROL Adgroup Location Target] | &mdash; | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
-| [!UICONTROL Campaign Device Target] | &mdash; | Yes | Yes | &mdash; | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
-| [!UICONTROL Adgroup Device Target] | &mdash; | Yes | Yes | &mdash; | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
-| [!UICONTROL Campaign RLSA Target] | &mdash; | Yes | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| [!UICONTROL Adgroup RLSA Target] | &mdash; | Yes | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| [!UICONTROL Adgroup Negative Keyword] | Yes | Yes | Yes | Yes | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
+| [!UICONTROL Adgroup Negative Website] | &mdash; | Yes | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| [!UICONTROL Campaign Location Target] | Yes | Yes | Yes | Yes | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
+| [!UICONTROL Adgroup Location Target] | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
+| [!UICONTROL Campaign Device Target] | &mdash; | Yes | &mdash; | Yes | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
+| [!UICONTROL Adgroup Device Target] | &mdash; | Yes | &mdash; | Yes | &mdash; | &mdash; | &mdash; | Yes | &mdash; | &mdash; |
+| [!UICONTROL Campaign RLSA Target] | &mdash; | Yes | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| [!UICONTROL Adgroup RLSA Target] | &mdash; | Yes | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | [!UICONTROL Campaign RLSA Negative] | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | [!UICONTROL Adgroup RLSA Negative] | &mdash; | Yes | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 
@@ -159,10 +159,10 @@ For details about the required and optional columns for each ad network, see the
 
 * [Required and optional bulksheet data for [!DNL Baidu] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-baidu.md)
 * [Required and optional bulksheet data for [!DNL Google Ads] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md)
+* [Required and optional bulksheet data for [!DNL LY Ads] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-japan.md)
 * [Required and optional bulksheet data for [!DNL Microsoft Advertising] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md)
 * [Required and optional bulksheet data for [!DNL Naver] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md)
 * [Required and optional bulksheet data for [!DNL Yahoo! Display Network] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-display-network.md)
-* [Required and optional bulksheet data for [!DNL Yahoo! Japan Ads] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-japan.md)
 * [Required and optional bulksheet data for [!DNL Yandex] accounts](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md)
 
 >[!MORELIKETHIS]

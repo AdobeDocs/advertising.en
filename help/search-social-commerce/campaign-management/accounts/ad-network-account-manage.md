@@ -177,7 +177,7 @@ For [!DNL Microsoft Advertising] accounts, only [!DNL oAuth]-authorized logins c
 
 **[!UICONTROL Login Details]: [!UICONTROL OAuth Token]:** ([!DNL Microsoft Advertising] [!DNL oAuth]-enabled and all other networks except for [!DNL Meta] and [!DNL Yandex]) The account's token to authorize logins using the [[!DNL OAuth] authorization protocol](https://oauth.net/2/).
 
-**[!UICONTROL Login Details]: [!UICONTROL Password]:** (All ad networks except [!DNL Naver]) The password for the account. For password-enabled accounts on [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], and [!DNL Yandex], this field is required. For [!DNL oAuth]-enabled accounts, this field is optional; use it when you want to encrypt and save the password so that the account manager can refresh tokens as needed.
+**[!UICONTROL Login Details]: [!UICONTROL Password]:** (All ad networks except [!DNL Naver]) The password for the account. For password-enabled accounts on [!DNL LY Ads], [!DNL Microsoft Advertising], and [!DNL Yandex], this field is required. For [!DNL oAuth]-enabled accounts, this field is optional; use it when you want to encrypt and save the password so that the account manager can refresh tokens as needed.
 
 **[!UICONTROL Login Details]: [!UICONTROL Access Key]:** ([!DNL Yandex] accounts only) The access key for the developer account to be used.
 
@@ -201,13 +201,13 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 * *Enabled:* Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios.
 * *Disabled:* Search, Social, & Commerce stops all activity on the account. Data collected while the account was active is still stored, but the campaign management views and reports don't include data for the time period in which the account is paused. You can later re-activate the account to resume activity with the account.
 
-**Tracking Template** - ([!DNL Google Ads], [!DNL Microsoft Advertising], and [!DNL Yahoo! Japan Ads] accounts only; optional) The default tracking template for the account, which specifies all off-landing domain redirects and tracking parameters and also embeds the final/landing page URL in a parameter. Example: `{lpurl}?source={network}&id=5` or `http://www.trackingservice.example.com/?url={lpurl}?source={network}&id=5` to include a redirect.
+**Tracking Template** - ([!DNL Google Ads], [!DNL LY Ads], and [!DNL Microsoft Advertising] accounts only; optional) The default tracking template for the account, which specifies all off-landing domain redirects and tracking parameters and also embeds the final/landing page URL in a parameter. Example: `{lpurl}?source={network}&id=5` or `http://www.trackingservice.example.com/?url={lpurl}?source={network}&id=5` to include a redirect.
 
 * To embed the final URL:
 
   * ([!DNL Google Ads] and [!DNL Microsoft Advertising] only) For a list of parameters to indicate final URLs in tracking templates, see the ([!DNL Microsoft Advertising] only) [[!DNL Microsoft Advertising] documentation](https://help.ads.microsoft.com/#apex/3/en/56799) or ([!DNL Google Ads] only) the "Tracking template only" parameters in the section on "Available [!DNL ValueTrack] Parameters" in the [[!DNL Google Ads] documentation](https://support.google.com/google-ads/answer/6305348).
 
-  * ([!DNL Yahoo! Japan Ads] only) Use the parameter `!{lpurl}` to indicate the landing page URL.
+  * ([!DNL LY Ads] only) Use the parameter `!{lpurl}` to indicate the landing page URL.
 
 * You can optionally include URL parameters and any custom parameters defined for the campaign, separated by ampersands (&), such as `{lpurl}?matchtype={matchtype}&device={device}`.
 

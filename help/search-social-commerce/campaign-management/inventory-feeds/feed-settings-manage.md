@@ -13,7 +13,7 @@ role_v2:
 ---
 # Configure feed data settings
 
-*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (delete actions only), and [!DNL Yandex] accounts only*
+*[!DNL Google Ads], [!DNL LY Ads] (delete actions only), [!DNL Microsoft Advertising], and [!DNL Yandex] accounts only*
 
 You can configure how to handle ad groups, keywords, and ads in feed data files, and how to process the data in FTP files specifically, via the feed settings.
 

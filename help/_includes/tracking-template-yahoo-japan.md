@@ -1,6 +1,6 @@
-# Tracking Template field for Yahoo! Japan Ads entities
+# Tracking Template field for [!DNL LY Ads] entities
 
-<!-- Search CRUD and bulk edit of Yahoo! Japan Ads entity settings -->
+<!-- Search CRUD and bulk edit of LY Ads entity settings -->
 
 **[!UICONTROL Tracking Template]:** (Optional) The tracking template or tracking URL, which specifies all off-landing domain redirects and tracking parameters and also embeds the final/landing page URL in a parameter. Use the parameter `!{lpurl}` to indicate the landing page URL. Example: `{lpurl}?source={network}&id=5` or `http://www.trackingservice.example.com/?url={lpurl}?source={network}&id=5` to include a redirect.
 

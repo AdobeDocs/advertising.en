@@ -13,7 +13,7 @@ role_v2:
 ---
 # Manage ad groups
 
-*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
+*[!DNL Google Ads], [!DNL LY Ads], [!DNL Microsoft Advertising], [!DNL Yandex], and existing [!DNL Baidu] accounts only*
 
 An ad group includes a set of ads and their related keywords. An ad group in a campaign that targets the display network can also include placements, which are locations on the display network in which your ads can appear. Ad group settings, which apply to all components of the ad group, vary by ad network.
 
@@ -31,7 +31,7 @@ You can create ad groups from within Search, Social, & Commerce for a [supported
 
 1. Select the ad network, the account, and the campaign, and then click **[!UICONTROL Continue]**.
 
-1. Enter the [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), [Yahoo! Japan Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) ad group settings.
+1. Enter the [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) ad group settings.
 
    Depending on the ad network, the settings may be grouped into [!UICONTROL Ad Group Details], [!UICONTROL Budget Options], [!UICONTROL Ad Group Targeting], and [!UICONTROL URL Options]. To configure settings for [!UICONTROL Adgroup Frequency Cap Settings], [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], when they're available, click **[!UICONTROL Add Frequency Cap Settings]**, **[!UICONTROL Add Negative Keywords]**, or **[!UICONTROL Add Negative Websites]**, respectively.
 
@@ -61,7 +61,7 @@ You can edit settings for individual ad groups. You can also edit some fields fo
      
       * In the toolbar above the data table, click ![Edit](/help/search-social-commerce/assets/edit.png "Edit").
     
-1. Edit the [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), [Yahoo! Japan Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) ad group settings.
+1. Edit the [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) ad group settings.
 
    For multiple ad groups, the settings may be grouped into [!UICONTROL Ad Group Details], [!UICONTROL Budget Options], [!UICONTROL Ad Group Targeting], and [!UICONTROL URL Options], depending on the ad network. You can edit only the fields that are common to all of the selected ad groups, and your changes are applied to all of the selected ad groups. For some alphanumeric fields, you have options to change existing values to a specified value, replace an existing string with a specified string, add a specified prefix to the beginning of each value, or append a suffix to the end of each value. For some monetary fields, you have options to change existing values to a specified value or to either increase or decrease the amount by a specified percentage or monetary amount, with a limit.
 
@@ -98,6 +98,6 @@ You also can delete any active or paused search ad group. Deleted ad groups are 
 >
 >* [[!DNL Baidu] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md)
 >* [[!DNL Google Ads] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md)
+>* [[!DNL LY Ads] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md)
 >* [[!DNL Microsoft Advertising] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md)
->* [[!DNL Yahoo! Japan Ads] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md)
 >* [[!DNL Yandex] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md)
