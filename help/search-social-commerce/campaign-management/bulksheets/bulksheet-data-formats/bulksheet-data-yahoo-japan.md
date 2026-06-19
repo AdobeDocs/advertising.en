@@ -16,7 +16,7 @@ topic_v2:
 ---
 # Appendix - Bulksheet data for [!DNL LY Ads] accounts
 
-You can download data for [!DNL LY Ads (formerly [!DNL Yahoo! Japan]) accounts in bulk but can't upload or post bulksheets to the ad network.
+You can download data for [!DNL LY Ads] (formerly [!DNL Yahoo! Japan]) accounts in bulk but can't upload or post bulksheets to the ad network.
 
 ## Available data fields
 
