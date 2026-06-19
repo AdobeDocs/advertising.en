@@ -1,6 +1,6 @@
 ---
-title: Bulksheet data for [!DNL Yahoo! Display Network] accounts
-description: Reference the header fields and data fields in downloaded bulksheets for [!DNL Yahoo! Display Network] accounts.
+title: Bulksheet data for [!DNL Yahoo DSP] accounts
+description: Reference the header fields and data fields in downloaded bulksheets for [!DNL Yahoo DSP] accounts.
 exl-id: 8d938009-6edc-4420-8863-21ed241616f8
 feature: Search Bulksheets
 TQID: https://experienceleague.adobe.com/cqFcEzgFtjpBzPZEUYNnXjZSb-yRDytPCQm4hqX0R9w
@@ -11,13 +11,13 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# Appendix - Bulksheet data for [!DNL Yahoo! Display Network] accounts
+# Appendix - Bulksheet data for [!DNL Yahoo DSP] accounts
 
 <!-- 
 [Re-add "Required" to title, file name, and TOC if you add the ability to create/edit campaigns using YDN bulksheets. Then will also need to add more text below, like for the other SEs.]
 -->
 
-You can download data for [!DNL Yahoo! Display Network] accounts in bulk but can't upload or post bulksheets to the ad network.
+You can download data for [!DNL Yahoo DSP] (formerly [!DNL Yahoo! Display Network]) accounts in bulk but can't upload or post bulksheets to the ad network.
 
 ## Available data fields
 

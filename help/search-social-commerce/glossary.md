@@ -32,7 +32,7 @@ topic_v2:
 
 * For campaigns with the [!DNL Maximize Clicks], [!DNL Maximize Conversion Value], [!DNL Maximize Conversions], [!DNL Target Cost Per Acquisition], or [!DNL Target Return on Ad Spend] spend strategies, each campaign is a bid unit.
 
-* For campaigns on [!DNL Yahoo! Display Network], which doesn't use keywords, all ads within an ad group have the same bid and are considered the same bid unit.
+* For campaigns on [!DNL Yahoo DSP], which doesn't use keywords, all ads within an ad group have the same bid and are considered the same bid unit.
 
 **bid unit constraint:** See "constraint."
 
