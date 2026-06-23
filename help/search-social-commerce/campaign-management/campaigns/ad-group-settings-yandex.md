@@ -15,7 +15,7 @@ role_v2:
 
 ## [!UICONTROL Ad Group Details]
 
-**[!UICONTROL Ad Group Name]:** An ad group name that is unique within the campaign.
+**[!UICONTROL Ad Group Name]:** An ad group name that's unique within the campaign.
 
 **[!UICONTROL Status]:** The display status of the ad group: *Active* or *Paused*. The default for new ad groups is *Active*.
 

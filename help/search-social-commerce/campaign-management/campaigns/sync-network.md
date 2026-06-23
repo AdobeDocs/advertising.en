@@ -17,7 +17,7 @@ role_v2:
 
 Synchronization is the process by which Search, Social, & Commerce gathers updated information for each advertiser's connected ad network accounts on [supported ad networks](/help/search-social-commerce/introduction/supported-inventory.md). This data includes the advertiser's campaign structure and campaign entities, including most of their attributes that are managed or reported in Search, Social, & Commerce. It doesn't include click data, nor bids and bid modifiers entered outside Search, Social, & Commerce, which are gathered separately.
 
-Search, Social, & Commerce automatically synchronizes (syncs) with your ad network accounts once a day, and also whenever it detects a new campaign on one of your ad networks. In addition, it immediately sends all changes to campaign data made from within Search, Social, & Commerce to the ad network.
+Search, Social, & Commerce automatically synchronizes (syncs) with your ad network accounts daily, and also whenever it detects a new campaign on one of your ad networks. In addition, it immediately sends all changes to campaign data made from within Search, Social, & Commerce to the ad network.
 
 You can manually request synchronization of all active and paused campaigns in specified accounts or in specific active and paused campaigns. This task gathers entities on the ad network that are new or changed.
 
