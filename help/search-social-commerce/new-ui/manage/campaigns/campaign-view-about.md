@@ -23,6 +23,8 @@ topic_v2:
 
 The [!UICONTROL Manage] > [!UICONTROL Campaigns] view lists all campaigns in the filtered view for the selected advertiser account. You can open a list of ad groups in the campaign by clicking the campaign name.
 
+As you add and edit campaign data in the [!UICONTROL Campaigns] views, Search, Social, & Commerce immediately pushes the data changes to the ad network. Search, Social, & Commerce also pulls campaign structure data and click data hourly from synced [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts and daily for other synced ad network accounts, or more often when new campaigns are detected. For all synced ad networks, you can also sync accounts on demand as needed.
+
 ## Available actions
 
 <!--
