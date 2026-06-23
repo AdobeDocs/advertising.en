@@ -18,7 +18,7 @@ topic_v2:
 
 ## [!UICONTROL Adgroup Details]
 
-**[!UICONTROL Ad Group Name]:** An ad group name that is unique within the campaign. The maximum length is 15 double-byte characters.
+**[!UICONTROL Ad Group Name]:** An ad group name that's unique within the campaign. The maximum length is 15 double-byte characters.
 
 **[!UICONTROL Status]:** The display status of the ad group: *Active* or *Paused*. The default for new ad groups is *Active*.
 

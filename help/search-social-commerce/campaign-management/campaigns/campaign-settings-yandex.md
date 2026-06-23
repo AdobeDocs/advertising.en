@@ -28,7 +28,7 @@ topic_v2:
 
 ## [!UICONTROL Campaign Details]
 
-**[!UICONTROL Campaign Name]:** A campaign name that is unique within the account.
+**[!UICONTROL Campaign Name]:** A campaign name that's unique within the account.
 
 <!-- **[!UICONTROL Start date]:** -->
 

@@ -24,7 +24,7 @@ topic_v2:
 
 ## [!UICONTROL Campaign Details]
 
-**[!UICONTROL Campaign Name]:** A campaign name that is unique within the account. The maximum length is 15 double-byte characters.
+**[!UICONTROL Campaign Name]:** A campaign name that's unique within the account. The maximum length is 15 double-byte characters.
 
 **[!UICONTROL Ad Serving]:**
 How often the search engine delivers your active ads in relation to one another within an ad group:

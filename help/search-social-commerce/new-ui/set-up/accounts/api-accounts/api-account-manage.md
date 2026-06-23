@@ -244,9 +244,13 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 
 ## [!UICONTROL Setup Analytics] tab
 
-**[!UICONTROL Adobe Analytics Report Suite]:** (Advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md); optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks.
+These settings are available for advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md).
+
+**[!UICONTROL Adobe Analytics Report Suite]:** (Optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks.
 
 For the data to appear in the report suites, either (a) the server-side AMO ID feature must be configured for the account or (b) the advertiser-level setting to "[!UICONTROL Enable Advertising reporting in Analytics]" must be enabled. In addition, the advertiser's [!DNL Analytics] account must be configured to receive data from Search, Social, & Commerce. For more information, contact your Adobe Account Team.
+
+**[!UICONTROL Adobe Analytics Conversion Reporting]: [!UICONTROL Enable conversion reporting in Adobe Analytics]:** ([!DNL Meta Ads] accounts; optional) Appends the [AMO ID (s_kwcid) tracking parameter](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md) to all ads in the campaign. The parameter enables Adobe Analytics to associate conversions with Meta Ads campaigns in the specified report suite, along with the entity classifications and click data.
 
 >[!MORELIKETHIS]
 >

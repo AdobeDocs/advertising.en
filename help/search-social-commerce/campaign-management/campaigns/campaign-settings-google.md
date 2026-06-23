@@ -48,7 +48,7 @@ topic_v2:
 
 <!-- left to right -->
 
-**[!UICONTROL Campaign Name]:** A campaign name that is unique within the account.
+**[!UICONTROL Campaign Name]:** A campaign name that's unique within the account.
 
 **[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
 

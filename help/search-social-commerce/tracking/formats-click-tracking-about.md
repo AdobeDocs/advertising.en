@@ -31,7 +31,7 @@ where:
 
 * `<ad network ID>` is a variable for the numeric ID for the specified ad network, such as *3* for [!DNL Google Ads], *10* for [!DNL Microsoft Advertising], *45* for [!DNL Meta], *86* for [!DNL Yahoo DSP], *87* for [!DNL Naver], *88* for [!DNL Baidu], *90* for [!DNL Yandex], *94* for [!DNL LY Ads] (formerly [!DNL Yahoo! Japan Ads]), *105* for [!DNL Yahoo Native] (deprecated), or *106* for [!DNL Pinterest] (deprecated).
 
-* `<tracking ID>` is a variable for a system-generated tracking ID string that identifies a keyword, ad, or placement that is unique in the account. The string varies by ad network.
+* `<tracking ID>` is a variable for a system-generated tracking ID string that identifies a keyword, ad, or placement that's unique in the account. The string varies by ad network.
 
 * `<the landing page>` is a variable that represents the URL on your site to which end users are directed. For accounts with destination URLs, this value is an URL. For accounts with tracking templates, this value is a parameter (such as `{lpurl}`) that represents the final URL. 
 
