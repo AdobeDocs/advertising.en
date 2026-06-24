@@ -176,16 +176,18 @@ To specify locations:
       1. (As needed) Click a location to expand it.
       1. Next to the location, click *[!UICONTROL Include]* to include it as a target or *[!UICONTROL Exclude]* to exclude it as a target.
    * To include or exclude a a [postal code list](/help/dsp/resources/lists-postal-codes-manage.md):
-      1. Click **[!UICONTROL Search Postal Code]**.
+      1. Click **[!UICONTROL Postal Code List]** in the left column.
       1. Next to the postal code, click *[!UICONTROL Include]* to include it as a target or *[!UICONTROL Exclude]* to exclude it as a target.
    * To search for a postal code and include or exclude all selected results:
-      1. Click **[!UICONTROL Search Postal Code]**.
+      1. Click **[!UICONTROL Postal Code]** in the left column.
+      1. Click **[!UICONTROL Search]** above the country list.
       1. Select the country.
       1. Enter the city name, and then click ![Edit](/help/dsp/assets/search.png).
       1. Click the correct search result.
       1. Click *[!UICONTROL Include All]* to include all locations as targets or *[!UICONTROL Exclude All]* to exclude all locations as targets.
    * To enter or paste postal codes, and include or exclude them all:
-      1. Click **[!UICONTROL Paste Postal Code]**.
+      1. Click Click **[!UICONTROL Postal Code]** in the left column.
+      1. Click **[!UICONTROL Paste]** above the country list.
       1. Select the country.
       1. Enter or paste up to 1000 postal codes.
          Include one postal code per line, or enter multiple values separated by commas or tabs.
