@@ -215,6 +215,7 @@ index: true
   + [Archive a connected TV reach plan](/help/dsp/planner/planner-archive.md)
 + Resources {#resources}
   + [Manage URL lists](/help/dsp/resources/lists-url-manage.md)
+  + [Manage postal code lists](/help/dsp/resources/lists-postal-codes-manage.md)
 + Settings/administration {#admin}
     + [Edit your user profile](/help/dsp/admin/user-own-profile-edit.md)
   + Users {#users}

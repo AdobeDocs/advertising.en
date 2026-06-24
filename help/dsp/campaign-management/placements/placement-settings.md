@@ -175,6 +175,9 @@ To specify locations:
       1. Select the location type in the left column.
       1. (As needed) Click a location to expand it.
       1. Next to the location, click *[!UICONTROL Include]* to include it as a target or *[!UICONTROL Exclude]* to exclude it as a target.
+   * To include or exclude a a [postal code list](/help/dsp/resources/lists-postal-codes-manage.md):
+      1. Click **[!UICONTROL Search Postal Code]**.
+      1. Next to the postal code, click *[!UICONTROL Include]* to include it as a target or *[!UICONTROL Exclude]* to exclude it as a target.
    * To search for a postal code and include or exclude all selected results:
       1. Click **[!UICONTROL Search Postal Code]**.
       1. Select the country.
