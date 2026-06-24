@@ -77,7 +77,7 @@ You can create and manage lists of website and app URLs for placement targeting.
 
       * To select URLs to remove:
       
-        1. Select the check box next to each deal to remove from the list.
+        1. Select the check box next to each URL to remove from the list.
         
         1. Click **[!UICONTROL Remove from List]**.
         
@@ -145,7 +145,7 @@ You can create and manage lists of website and app URLs for placement targeting.
 
       * To select URLs to remove:
       
-        1. Select the check box next to each deal to remove from the list.
+        1. Select the check box next to each URL to remove from the list.
         
         1. Click **[!UICONTROL Remove from List]**.
         
