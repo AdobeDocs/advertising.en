@@ -1,4 +1,4 @@
-# Note for Negative Keywords field in Yahoo! Japan campaign and ad group settings
+# Note for Negative Keywords field in [!DNL LY Ads] campaign and ad group settings
 
 >[!NOTE]
 >
