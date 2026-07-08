@@ -163,7 +163,7 @@ You can also optionally edit an existing connection with the same information.
 
    <!-- **Note:** You must send data for all DSP and Search, Social, & Commerce accounts to a single Experience Platform instance and sandbox.  -->
 
-   * Confirm that the correct sandbox is selected.
+   * Confirm that the correct sandbox (set up by your organization) is selected.
 
    * Calculate the average number of daily events (under 1 million for most organizations).
 
