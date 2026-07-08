@@ -33,13 +33,13 @@ The following are potential data issues and their causes.
 
 Verify the following:
 
+* Customer Journey Analytics Workspace is referencing the correct data view.
+
 * The feed from Adobe Advertising to Customer Journey Analytics is enabled. Check with your Adobe Account Team.
 
 * Your Adobe Advertising dimension/classification/lookup dataset and your summary dataset are included in your Customer Journey Analytics connection.
   
 * Your Adobe Advertising dimensions and summary metrics are included in your Customer Journey Analytics data view.
-  
-* Customer Journey Analytics Workspace is referencing the correct data view.
 
 If you verify all of the above settings but you still don't see summary data, then open a support ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support).
 
@@ -47,9 +47,13 @@ If you verify all of the above settings but you still don't see summary data, th
 
 +++ Summary reporting data is available in Customer Journey Analytics for Advertiser 1 but not Advertiser 2.
 
-Verify that the feed from Adobe Advertising to Customer Journey Analytics is enabled for Advertiser 2. Check with your Adobe Account Team.
+Verify the following:
 
-If the feed is enabled for an advertiser but you still don't see summary data, then open a support ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support).
+* The feed from Adobe Advertising to Customer Journey Analytics is enabled for Advertiser 2. Check with your Adobe Account Team.
+
+* The setting "[!UICONTROL Backfill all existing data]" is enabled for your three datasets (dimension/classification/lookup, summmary, and event metrics) in trics) in your Customer Journey Analytics connection..
+
+If you verify all of the above conditions but you still don't see summary data, then open a support ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support).
 
 +++
 
@@ -69,6 +73,10 @@ Verify the following:
 
 * Any filters and segments that are applied in [!DNL Workspace] and the Adobe Advertising report aren't causing differences in data.
 
+* The [!UICONTROL Time Zone] for your Customer Journey Analytics data view matches the [[!UICONTROL Default Timezone] for your Advertising DSP account](help/dsp/admin/user-own-profile-edit.md).
+
+* The setting "[!UICONTROL Backfill all existing data]" is enabled for your three datasets (dimension/classification/lookup, summmary, and event metrics) in trics) in your Customer Journey Analytics connection..
+
 If you're sure of a data discrepancy, then open a support ticket for your organization at [https://experienceleague.adobe.com/home#support](https://experienceleague.adobe.com/home?support-tab=home#support). Include the [!UICONTROL Account ID] for the ad network account.
 . Include screenshots and spreadsheets to show evidence of the discrepancy. Your Adobe Account Team can retroactively fix the data feed to resolve the discrepancy if needed.
 
@@ -80,15 +88,15 @@ If you're sure of a data discrepancy, then open a support ticket for your organi
 
 Verify the following, starting with the items with the fewest barriers to verification:
 
-* The applicable conversion metrics are web/online events, which Adobe Advertising can attribute to dimensions.
-
 * You're using the correct data view.
+
+* The applicable conversion metrics are web/online events, which Adobe Advertising can attribute to dimensions.
 
 * Adobe Advertising is tracking clickthroughs and viewthroughs on the applicable site. <!-- Link to validation instructions in the user guide -->
 
 * In the Customer Journey Analytics connection for the classifications dataset, the values for the [!DNL Key] and [!DNL Matching Key] settings are correct: [!DNL Key]: `Tracking Code` (_customername.adLens2.trackingCode), [!DNL Matching Key]: `Tracking Code` (event._experience.adcloud.conversionDetails.trackingCode)
 
-* The [!DNL Adobe Advertising] service is added to the Adobe Experience Platform datastream, the mapped schema for the datastream is `XDM ExperienceEvent Schema`, and the field group `Adobe Advertising Cloud ExperienceEvent Full Extension` is added to the schema.
+* The [!DNL Adobe Advertising] service is added to the Adobe Experience Platform datastream, the mapped schema for the datastream is `XDM ExperienceEvent Schema`, and the field group `Adobe Advertising Cloud ExperienceEvent Full Extension` is added to the `XDM ExperienceEvent` schema.
 
 * The Adobe Advertising settings are configured correctly in the WebSDK Extension and published.
 
