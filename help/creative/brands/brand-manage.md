@@ -62,7 +62,7 @@ The [!UICONTROL Brands] view lists all brand profiles associated with your [!DNL
 
 ## Duplicate a brand profile {#duplicate-a-brand-profile}
 
-Duplicating a brand profile creates a new profile with the same settings, which you can then edit as needed.
+Duplicating a brand profile creates a new profile with the same settings, which you can edit as needed.
 
 1. In the main menu, click **[!UICONTROL Brands]**.
 
@@ -112,7 +112,7 @@ The brand detail page is organized into the following tabs.
 
 ### **[!UICONTROL Overview]**
 
-Displays the brand name. To add a description, click **[!UICONTROL When to use this brand]**, enter the description text, and click **[!UICONTROL Save]**. The description saves immediately and does not require clicking the page-level **[!UICONTROL Save]** button.
+Displays the brand name. To add a description, click **[!UICONTROL When to use this brand]**, enter the description text, and click **[!UICONTROL Save]**. The description saves immediately and doesn't require clicking the page-level **[!UICONTROL Save]** button.
 
 ### **[!UICONTROL Brand voice guidelines]**
 
@@ -152,7 +152,7 @@ Define standards for background and product images, organized into categories. T
 
 Define channel-specific copy standards. The AI agent uses channel guidelines when generating copy variations.
 
-Add a guideline set for each advertising channel (for example, "Display," "Social Media," or "Connected TV"), and for each channel specify:
+Add a guideline set for each advertising channel (for example, "Display," "Social Media," or "Connected TV"), and specify the following for each channel:
 
 * **[!UICONTROL General]:** General copy rules for the channel.
 
@@ -176,7 +176,7 @@ For each logo, you can specify a category (such as "primary" or "dark background
 
 Define the brand's color palettes. The AI agent uses the specified colors when generating color-based ad variations.
 
-Click **[!UICONTROL Add palette]** to create a named palette, then click **[!UICONTROL Add color]** within the palette to add individual colors. For each color, enter a name and a hex value (for example, #1473E6). Each palette requires at least two colors before you can save.
+To create a named palette, click **[!UICONTROL Add palette]**, and then click **[!UICONTROL Add color]** within the palette to add individual colors. For each color, enter a name and a hex value (for example, #1473E6). Each palette requires at least two colors before you can save.
 
 >[!MORELIKETHIS]
 >
