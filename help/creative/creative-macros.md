@@ -57,7 +57,7 @@ Some of the available macros, or their equivalents, are automatically included i
 | `${TM_ACC_EXPERIENCE_ID}` | Tracks and reports the Advertising Creative experience ID | &mdash; |
 | `${TM_ACC_CREATIVE_ID}` | Tracks and reports the Advertising Creative creative ID | &mdash; |
 | `${TM_RANDOM}` | A random number between 1 and 1000000 | &mdash; |
-| `${TM_TIMESTAMP}` | The UNIX® Timestamp (in seconds) | &mdash; |
+| `${TM_TIMESTAMP}` | The UNIX&reg; Timestamp (in seconds) | &mdash; |
 | `${TM_CLICK_URL_URLENC}` | (For third-party ads from vendors who require URL encoding) The encoded click redirect URL, which enables ad servers to track and count ad clicks. When the user clicks the ad, the macro is activated, and the click is recorded and counted for reporting purposes. | Yes |
 
 >[!MORELIKETHIS]
