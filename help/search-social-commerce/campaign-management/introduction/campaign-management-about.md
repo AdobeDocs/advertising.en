@@ -28,11 +28,11 @@ Search, Social, & Commerce pulls performance data hourly from synced [!DNL Googl
 
 To track the performance of ads in an advertiser's ad network account (and to potentially place bids for the ads), the Adobe Account Team [creates a corresponding account record](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md) in Search, Social, & Commerce. The account record includes tracking options.
 
-For accounts that are synchronized via the ad network's API, the account record also includes the account access credentials. Once the account is enabled, the account data is pulled from with the ad network. You can then view the existing account data as well as create and edit campaign structure and ad data.
+For accounts that are synchronized via the ad network's API, the account record also includes the account access credentials. Once the account is enabled, the account data is pulled from with the ad network. You can then view the existing account data and may be able to create and edit campaign structure and ad data.
 
 ## Click tracking to tie clicks to conversions
 
-If you use the Adobe Advertising conversion tracking service, then you must include Search, Social, & Commerce click-tracking code in the landing page suffix, tracking templates, and final/destination URLs for ads, keywords, and placements, sitelinks and product listings. For [supported ad networks and campaign types](/help/search-social-commerce/introduction/supported-inventory.md) whose campaign settings include "[!UICONTROL EF Redirect]" and "[!UICONTROL Auto Upload]," Search, Social, & Commerce automatically appends its own redirect and tracking code when you save the record, so you don't need to manually add it. Otherwise, you must manually add the code to your tracking templates or final URLs.
+If you use the Adobe Advertising conversion tracking service, then you must include Search, Social, & Commerce click-tracking code in the landing page suffix, tracking templates, and final/destination URLs for ads, keywords, and placements, sitelinks and product listings. For [supported ad networks and campaign types](/help/search-social-commerce/introduction/supported-inventory.md) whose campaign settings include "[!UICONTROL EF Redirect]" and "[!UICONTROL Auto Upload]," Search, Social, & Commerce automatically appends its own redirect and tracking code when you save the record, so you don't need to manually add it. Otherwise, you must manually add the code to your tracking templates or final URLs, either from within Search, Social, & Commerce or from within the ad network's own editor.
 
 For more information about tracking, see the chapter on "Tracking."
 
