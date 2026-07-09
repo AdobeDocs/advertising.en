@@ -43,7 +43,13 @@ Some of the available macros, or their equivalents, are automatically included i
 | `${TM_RANDOM}` | A random number between 1 and 1000000 | &mdash; | &mdash; |
 | `${TM_TIMESTAMP}` | The Unix Timestamp (in seconds) | &mdash; | &mdash; |
 | `${TM_CLICK_URL_URLENC}` | (For third-party ads from vendors who require URL encoding) The encoded click redirect URL, which enables ad servers to track and count ad clicks. When the ad is served and the user clicks on it, the macro is activated, and the click is recorded and counted for reporting purposes. | Yes | &mdash; |
-
+| `${TC_1}` | Custom tracking code 1. | &mdash; | &mdash; |
+| `${TC_2}` | Custom tracking code 2. | &mdash; | &mdash; |
+| `${TC_3}` | Custom tracking code 3. | &mdash; | &mdash; |
+| `${TC_4}` | Custom tracking code 4. | &mdash; | &mdash; |
+| `${TC_5}` | Custom tracking code 5. | &mdash; | &mdash; |
+| `${GDPR_ENFORCED}` | Whether GDPR enforcement is required for the bid request. Values: **1** = GDPR should be enforced, **0** = GDPR should not be enforced. | &mdash; | &mdash; |
+| `${GDPR_CONSENT}` | The GDPR consent value received from the supply partner in the bid request. Typically: **1** = consent provided, **0** = no consent provided. | &mdash; | &mdash; |
 -->
 
 | Macro | Description | Automatically in experience tags for Advertising DSP? |
@@ -53,12 +59,19 @@ Some of the available macros, or their equivalents, are automatically included i
 | `${TM_PLACEMENT_ID_NUM}` | Tracks and reports the placement ID from the DSP | Yes |
 | `${TM_AD_ID_NUM}` | Tracks and reports the ad ID from the DSP | Yes |
 | `${TM_CREATIVE_ID_NUM}` | Tracks and reports the creative ID from the DSP | N/A |
-| `${TM_SESSION_ID}` | Tracks and reports the impression ID from the DSP. If a value isn't returned, Advertising Creative generates one. | Yes |
+| `${TM_SESSION_ID}` | Tracks and reports the session ID associated with the ad request. If a value isn't returned, then Advertising Creative generates one. | Yes |
 | `${TM_ACC_EXPERIENCE_ID}` | Tracks and reports the Advertising Creative experience ID | &mdash; |
 | `${TM_ACC_CREATIVE_ID}` | Tracks and reports the Advertising Creative creative ID | &mdash; |
-| `${TM_RANDOM}` | A random number between 1 and 1000000 | &mdash; |
-| `${TM_TIMESTAMP}` | The UNIX® Timestamp (in seconds) | &mdash; |
-| `${TM_CLICK_URL_URLENC}` | (For third-party ads from vendors who require URL encoding) The encoded click redirect URL, which enables ad servers to track and count ad clicks. When the user clicks the ad, the macro is activated, and the click is recorded and counted for reporting purposes. | Yes |
+| `${TM_RANDOM}` | A randomly-generated number between 1 and 1,000,000. Commonly used for cache busting. | &mdash; |
+| `${TM_TIMESTAMP}` | The UNIX&reg; timestamp (in seconds) | &mdash; |
+| `${TM_CLICK_URL_URLENC}` | (For third-party ads from vendors who require URL encoding) The encoded click redirect URL, which enables ad servers to track and count ad clicks. When a user clicks the ad, the macro is activated, and the click is recorded and counted for reporting purposes. | Yes |
+| `${TC_1}` | Custom tracking code 1. | &mdash; |
+| `${TC_2}` | Custom tracking code 2. | &mdash; |
+| `${TC_3}` | Custom tracking code 3. | &mdash; |
+| `${TC_4}` | Custom tracking code 4. | &mdash; |
+| `${TC_5}` | Custom tracking code 5. | &mdash; |
+| `${GDPR_ENFORCED}` | Whether GDPR enforcement is required for the bid request. Values: **1** = GDPR should be enforced, **0** = GDPR should not be enforced. | &mdash; |
+| `${GDPR_CONSENT}` | The GDPR consent value received from the supply partner in the bid request. Typically: **1** = consent provided, **0** = no consent provided. | &mdash; |
 
 >[!MORELIKETHIS]
 >
