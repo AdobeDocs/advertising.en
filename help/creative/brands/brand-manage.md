@@ -24,6 +24,8 @@ The [!UICONTROL Brands] view lists all brand profiles associated with your [!DNL
 
 ### Available actions
 
+The following actions are available for some user roles.
+
 * [Create a brand profile](#create-a-brand-profile)
 
 * For each brand profile:
@@ -37,6 +39,8 @@ The [!UICONTROL Brands] view lists all brand profiles associated with your [!DNL
   * [Delete a brand profile](#delete-a-brand-profile)
 
 ## Create a brand profile {#create-a-brand-profile}
+
+*Administrator users only*
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Brands]**.
 
@@ -52,6 +56,8 @@ The [!UICONTROL Brands] view lists all brand profiles associated with your [!DNL
 
 ## Edit a brand profile {#edit-a-brand-profile}
 
+*Administrator users only*
+
 1. In the main menu, click **[!UICONTROL Brands]**.
 
 1. Click the brand profile you want to edit.
@@ -61,6 +67,8 @@ The [!UICONTROL Brands] view lists all brand profiles associated with your [!DNL
 1. Click **[!UICONTROL Save]**.
 
 ## Duplicate a brand profile {#duplicate-a-brand-profile}
+
+*Administrator users only*
 
 Duplicating a brand profile creates a new profile with the same settings, which you can edit as needed.
 
@@ -74,6 +82,8 @@ Duplicating a brand profile creates a new profile with the same settings, which 
 
 ## Change the thumbnail image for the brand profile {#change-thumbnail-brand-profile}
 
+*Administrator users only*
+
 1. In the main menu, click **[!UICONTROL Brands]**.
 
 1. On the brand card, click **[!UICONTROL ...]** > **[!UICONTROL Change thumbnail]**.
@@ -81,6 +91,8 @@ Duplicating a brand profile creates a new profile with the same settings, which 
 1. Locate and specify the thumbnail image on your device or network.
 
 ## Delete a brand profile {#delete-a-brand-profile}
+
+*Administrator users only*
 
 >[!NOTE]
 >
