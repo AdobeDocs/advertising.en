@@ -119,7 +119,7 @@ Use the Adobe Experience Platform Web SDK extension in Adobe Tags to send your o
      
        * In the [!UICONTROL Datastreams] settings, select the datastream to use for each of your web environments (production, staging, development).
        
-       * (Organizations with Adobe Advertising DSP only) In the [[!UICONTROL Adobe Advertising] settings](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/advertising), enable **[!UICONTROL Adobe Advertising DSP]** to permit view-through tracking and specify the advertisers for which to enable view-through tracking. You can optionally collect IDs from universal IDs by adding your organization's ID5 partner ID and/or the path to your organization's [!DNL LiveRamp RampID] JavaScript code (ats.js).
+       * (Organizations with Adobe Advertising DSP only) In the [[!UICONTROL Adobe Advertising] settings](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/advertising), enable **[!UICONTROL Adobe Advertising DSP]** to permit view-through tracking and specify the advertisers for which to enable view-through tracking. You can optionally collect IDs from universal IDs (translated from your [first-party audience sources](/help/dsp/audiences/sources/source-about.md)) by adding your organization's ID5 partner ID and/or the path to your organization's [!DNL LiveRamp] [!DNL LaunchPad] JavaScript code (ats.js) for [!DNL RampIDs].
 
          If your advertisers aren't listed, then enter the advertiser ID for each advertiser. If needed, ask your Adobe Account Team for the IDs.
          
