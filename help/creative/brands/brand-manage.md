@@ -12,7 +12,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# Manage brand profiles in [!DNL Advertising Creative]
+# Manage brand profiles in [!DNL Advertising Creative] 
 
 A brand profile stores your brand's visual and messaging identity &mdash; including your logo, color palette, voice guidelines, image standards, and channel-specific copy guidelines &mdash; so that [!DNL Creative]'s AI agent can generate ad content that stays within your brand guidelines.
 
@@ -32,6 +32,8 @@ The [!UICONTROL Brands] view lists all brand profiles associated with your [!DNL
 
   * [Duplicate a brand profile](#duplicate-a-brand-profile)
 
+  * [Change the thumbnail image for the brand profile](#change-thumbnail-brand-profile)
+
   * [Delete a brand profile](#delete-a-brand-profile)
 
 ## Create a brand profile {#create-a-brand-profile}
@@ -42,21 +44,19 @@ The [!UICONTROL Brands] view lists all brand profiles associated with your [!DNL
 
 1. Select the applicable advertiser, enter a unique **[!UICONTROL Brand name]**, and click **[!UICONTROL Add brand]**.
 
-   The brand detail page opens with the **[!UICONTROL Overview]** tab active. The page is always in edit mode, with **[!UICONTROL Save]** and **[!UICONTROL Cancel]** buttons available at the top.
+   The brand detail page opens with the **[!UICONTROL Overview]** tab active.
 
-1. (Optional) Enter settings on each tab. See [Brand profile settings](#brand-profile-settings).
+1. (Optional) Enter the [brand profile settings](#brand-profile-settings) on each tab.
 
 1. Click **[!UICONTROL Save]**.
 
 ## Edit a brand profile {#edit-a-brand-profile}
 
-The brand detail page is always open in edit mode.
-
 1. In the main menu, click **[!UICONTROL Brands]**.
 
 1. Click the brand profile you want to edit.
 
-1. Update the settings on any tab. See [Brand profile settings](#brand-profile-settings).
+1. Update the [brand profile settings](#brand-profile-settings) on any tab.
 
 1. Click **[!UICONTROL Save]**.
 
@@ -66,9 +66,19 @@ Duplicating a brand profile creates a new profile with the same settings, which 
 
 1. In the main menu, click **[!UICONTROL Brands]**.
 
-1. On the brand card, click **[!UICONTROL Brand options]** and select **[!UICONTROL Duplicate]**.
+1. On the brand card, click **[!UICONTROL ...]** > **[!UICONTROL Duplicate]**.
 
 1. In the confirmation dialog, click **[!UICONTROL Duplicate brand]**.
+
+1. (Optional) Edit the profile settings, and then click **[!UICONTROL Save]**.
+
+## Change the thumbnail image for the brand profile {#change-thumbnail-brand-profile}
+
+1. In the main menu, click **[!UICONTROL Brands]**.
+
+1. On the brand card, click **[!UICONTROL ...]** > **[!UICONTROL Change thumbnail]**.
+
+1. Locate and specify the thumbnail image on your device or network.
 
 ## Delete a brand profile {#delete-a-brand-profile}
 
@@ -82,7 +92,7 @@ You can delete a brand profile from the brand list or from the brand detail page
 
 1. In the main menu, click **[!UICONTROL Brands]**.
 
-1. On the brand card, click **[!UICONTROL Brand options]** and select **[!UICONTROL Delete]**.
+1. On the brand card, click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
 
 1. In the confirmation message, click **[!UICONTROL Delete]**.
 
@@ -100,73 +110,73 @@ You can delete a brand profile from the brand list or from the brand detail page
 
 The brand detail page is organized into the following tabs.
 
-**[!UICONTROL Overview]**
+### **[!UICONTROL Overview]**
 
 Displays the brand name. To add a description, click **[!UICONTROL When to use this brand]**, enter the description text, and click **[!UICONTROL Save]**. The description saves immediately and does not require clicking the page-level **[!UICONTROL Save]** button.
 
-**[!UICONTROL Brand voice guidelines]**
+### **[!UICONTROL Brand voice guidelines]**
 
 Define the brand's voice and messaging standards across four sections:
 
-* **[!UICONTROL Tone & Voice]:** Words or phrases that describe the overall tone &mdash; for example, "professional," "authoritative," or "playful."
+* **[!UICONTROL Tone & Voice]:** Words or phrases that describe the overall tone. Examples: "professional," "authoritative," or "playful."
 
-* **[!UICONTROL Brand Values]:** Core values to reflect in messaging &mdash; for example, "innovation," "sustainability," or "community."
+* **[!UICONTROL Brand Values]:** Core values to reflect in messaging. Examples: "innovation," "sustainability," or "community."
 
-* **[!UICONTROL Editorial Guidelines]:** Writing rules to follow &mdash; for example, "always use active voice" or "use sentence-case headings."
+* **[!UICONTROL Editorial Guidelines]:** Writing rules to follow. Examples: "always use active voice" or "use sentence-case headings."
 
-* **[!UICONTROL Editorial Restrictions]:** Writing rules to avoid &mdash; for example, "avoid jargon," "do not make pricing claims," or "never use competitor names."
+* **[!UICONTROL Editorial Restrictions]:** Writing rules to avoid. Examples: "avoid jargon," "do not make pricing claims," or "never use competitor names."
 
 The AI agent uses these guidelines when generating headlines and copy.
 
-**[!UICONTROL Image guidelines]**
+### **[!UICONTROL Image guidelines]**
 
-Define standards for background and product images, organized into categories. For each category, specify:
+Define standards for background and product images, organized into categories. The AI agent uses these guidelines when generating background image prompts.
 
-* **[!UICONTROL Category Name]:** (Required) The image category &mdash; for example, "Product Photography" or "Lifestyle."
+* **[!UICONTROL Category Name]:** (Required) The image category. Examples:  "Product Photography" or "Lifestyle."
 
-* **[!UICONTROL Content Type]:** (Required) The type of image &mdash; for example, "product," "lifestyle," or "abstract."
+* **[!UICONTROL Content Type]:** (Required) The type of image. Examples: "product," "lifestyle," or "abstract."
 
-* **[!UICONTROL Composition]:** Composition guidance &mdash; for example, "centered subject" or "rule of thirds."
+* **[!UICONTROL Composition]:** Composition guidance. Examples: "centered subject" or "rule of thirds."
 
-* **[!UICONTROL Environment]:** Setting or environment guidance &mdash; for example, "outdoor," "studio backdrop," or "urban setting."
+* **[!UICONTROL Environment]:** Setting or environment guidance. Examples: "outdoor," "studio backdrop," or "urban setting."
 
-* **[!UICONTROL Color]:** Color guidance for this image type &mdash; for example, "muted tones" or "avoid neon colors."
+* **[!UICONTROL Color]:** Color guidance for this image type. Examples: "muted tones" or "avoid neon colors."
 
-* **[!UICONTROL Lighting]:** Lighting guidance &mdash; for example, "soft natural light" or "avoid harsh shadows."
+* **[!UICONTROL Lighting]:** Lighting guidance. Examples: "soft natural light" or "avoid harsh shadows."
 
-* **[!UICONTROL Mood]:** Mood guidance &mdash; for example, "aspirational" or "warm and approachable."
+* **[!UICONTROL Mood]:** Mood guidance. Examples: "aspirational" or "warm and approachable."
 
-* **[!UICONTROL Restrictions]:** What to avoid &mdash; for example, "no stock-photo aesthetics" or "avoid busy backgrounds."
+* **[!UICONTROL Restrictions]:** What to avoid. Examples: "no stock-photo aesthetics" or "avoid busy backgrounds."
 
-The AI agent uses these guidelines when generating background image prompts.
+### **[!UICONTROL Channel guidelines]**
 
-**[!UICONTROL Channel guidelines]**
+Define channel-specific copy standards. The AI agent uses channel guidelines when generating copy variations.
 
-Define channel-specific copy standards. Add a guideline set for each advertising channel (for example, "Display," "Social Media," or "Connected TV"), and for each channel specify:
+Add a guideline set for each advertising channel (for example, "Display," "Social Media," or "Connected TV"), and for each channel specify:
 
 * **[!UICONTROL General]:** General copy rules for the channel.
 
-* **[!UICONTROL Headline]:** Guidance for writing headlines &mdash; for example, character limits or style rules.
+* **[!UICONTROL Headline]:** Guidance for writing headlines. Examples: character limits or style rules.
 
 * **[!UICONTROL Subheadline]:** Guidance for writing subheadlines.
 
 * **[!UICONTROL Body]:** Guidance for body copy.
 
-* **[!UICONTROL CTA]:** Guidance for call-to-action text &mdash; for example, preferred CTA phrases.
+* **[!UICONTROL CTA]:** Guidance for call-to-action text. Examples: preferred CTA phrases.
 
 * **[!UICONTROL Examples]:** Sample ad copy (headline, subheadline, body, and CTA) that illustrates the channel's style.
 
-The AI agent uses channel guidelines when generating copy variations.
+### **[!UICONTROL Logos]**
 
-**[!UICONTROL Logos]**
+Upload one or more brand logo files. Logos are used in ads that include a logo element and are available to the AI agent when swapping logo versions.
 
-Upload one or more brand logo files. For each logo, you can specify a category (such as "primary" or "dark background") and an optional description. Logos are used in ads that include a logo element and are available to the AI agent when swapping logo versions.
+For each logo, you can specify a category (such as "primary" or "dark background") and an optional description. 
 
-**[!UICONTROL Colors]**
+### **[!UICONTROL Colors]**
 
-Define the brand's color palettes. Click **[!UICONTROL Add Color Palette]** to create a named palette, then click **[!UICONTROL Add color]** within the palette to add individual colors. For each color, enter a name and a hex value (for example, #1473E6). Each palette requires at least two colors before you can save.
+Define the brand's color palettes. The AI agent uses the specified colors when generating color-based ad variations.
 
-The AI agent uses the specified colors when generating color-based ad variations.
+Click **[!UICONTROL Add palette]** to create a named palette, then click **[!UICONTROL Add color]** within the palette to add individual colors. For each color, enter a name and a hex value (for example, #1473E6). Each palette requires at least two colors before you can save.
 
 >[!MORELIKETHIS]
 >
