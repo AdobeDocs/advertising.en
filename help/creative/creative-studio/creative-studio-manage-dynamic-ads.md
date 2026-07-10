@@ -116,7 +116,7 @@ When the QA review is complete:
 
 1. Click **[!UICONTROL Save]** in the header.
 
-1. In the confirmation dialog, click **[!UICONTROL Save]**.
+1. In the confirmation message, click **[!UICONTROL Save]**.
 
    The dynamic creative is saved and you are returned to the [!UICONTROL Creative Studio] workspace.
 
@@ -183,7 +183,7 @@ Duplicate a dynamic creative to add a new creative with the same settings to the
 
 1. On the **[!UICONTROL Creatives]** tab, hold the cursor over the creative card and click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
 
-1. In the confirmation dialog, click **[!UICONTROL Delete]**.
+1. In the confirmation message, click **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >

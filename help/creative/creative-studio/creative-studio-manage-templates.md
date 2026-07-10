@@ -468,7 +468,7 @@ Labels help you organize and filter user templates. You can't add labels to syst
 
 1. Hold the cursor over the template card or table row and click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
 
-1. In the confirmation dialog, click **[!UICONTROL Delete]**.
+1. In the confirmation message, click **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >

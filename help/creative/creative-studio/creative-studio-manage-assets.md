@@ -104,7 +104,7 @@ Should be in "Common Tasks" chapter
 
 1. Hold the cursor over the asset card and click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
 
-1. In the confirmation dialog, click **[!UICONTROL Delete]**.
+1. In the confirmation message, click **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >

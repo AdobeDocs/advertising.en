@@ -190,7 +190,7 @@ Duplicate a standard ad to add a new creative with the same settings to the libr
 
 1. On the **[!UICONTROL Creatives]** tab, hold the cursor over the creative card and click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
 
-1. In the confirmation dialog, click **[!UICONTROL Delete]**.
+1. In the confirmation message, click **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
