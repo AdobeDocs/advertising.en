@@ -6,8 +6,8 @@ product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
-  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
-    internal-label: Demand Side Platform
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -51,22 +51,29 @@ Should be in "Common Tasks" chapter
 
 1. Click **[!UICONTROL Upload Assets]**.
 
-1. Select one or more files from your computer.
+1. Select one or more files from your computer or network.
 
    The following file types are supported:
+
+   <!-- Verified 2026-07-09 against creative-api TemplateMediaValidator.java (IMAGE_EXTENSIONS, VIDEO_EXTENSIONS, AUDIO_EXTENSIONS), which backs the /v1/creative/template-medias upload/initiate endpoint used by this tab. The Assets tab file input has no client-side accept restriction (TemplateBrowser.tsx) and relies entirely on this backend validator, so it is authoritative. -->
 
    | Type | Supported formats | Maximum file size |
    | --- | --- | --- |
    | Images | JPG/JPEG, PNG, GIF, WebP, SVG | 10 MB |
    | Video | MP4, MOV, AVI, WebM | 512 MB |
    | Audio | MP3, WAV, AAC, OGG | 50 MB |
-   | Fonts | TTF, OTF, WOFF, WOFF2 | 5 MB |
 
    Empty files and unsupported file types are rejected with an error notification.
 
-   The asset name is set to the uploaded filename without its extension. Spaces and non-ASCII characters in the filename are replaced with underscores (for example, uploading `My Logo.png` creates an asset named `My_Logo`). You can rename the asset afterward.
+   The asset name is saved as the uploaded filename without its extension. Spaces and non-ASCII characters in the filename are replaced with underscores (for example, uploading `My Logo.png` creates an asset named `My_Logo`). You can rename the asset afterward.
 
-   A success notification confirms the upload.
+<!--
+
+maybe later:
+
+   | Fonts | TTF, OTF, WOFF, WOFF2 | 5 MB |
+   
+-->
 
 ## Edit an asset name {#asset-rename}
 
