@@ -140,7 +140,7 @@ Displays the brand name. To add a description, click **[!UICONTROL When to use t
 
 ### **[!UICONTROL Image guidelines]**
 
-(Optional) Define standards for background and product images, organized into categories. The AI agent uses these guidelines when generating background image prompts.
+(Optional) Define standards for background and product images, organized into up to 10 categories. The AI agent uses these guidelines when generating background image prompts.
 
 Fields for your first category are already displayed. To add a category, click **[!UICONTROL Add Category Name]** and enter the new category settings.
 
@@ -166,25 +166,25 @@ To delete a category, click ![Delete](/help/creative/assets/deleted.png "Delete"
 
 ### **[!UICONTROL Channel guidelines]**
 
-Define<!-- Just one set of guidelines as of 7/9: channel-specific --> copy standards. The AI agent uses channel guidelines when generating copy variations.
+Define<!-- Just one set of guidelines as of 7/9: channel-specific --> up to 10 copy standards. The AI agent uses channel guidelines when generating copy variations.
 
 <!-- Just one set of guidelines as of 7/9: The best practice is to add a guideline set for each advertising channel (for example, "Display," "Social Media," or "Connected TV"), and specify the following for each channel: -->
 
-* **[!UICONTROL General]:** (Optional) General copy rules<!-- Just one set of guidelines as of 7/9:  for the channel -->. Include up to five items.
+* **[!UICONTROL General]:** (Optional) General copy rules<!-- Just one set of guidelines as of 7/9:  for the channel -->.
 
-* **[!UICONTROL Headline]:** (Optional) Guidance for writing headlines. Include up to five items. Examples: character limits or style rules.
+* **[!UICONTROL Headline]:** (Optional) Guidance for writing headlines. Examples: character limits or style rules.
 
-* **[!UICONTROL Subheadline]:** (Optional) Guidance for writing subheadlines. Include up to five items.
+* **[!UICONTROL Subheadline]:** (Optional) Guidance for writing subheadlines.
 
-* **[!UICONTROL Body]:** (Optional) Guidance for body copy. Include up to five items.
+* **[!UICONTROL Body]:** (Optional) Guidance for body copy.
 
-* **[!UICONTROL CTA]:** (Optional) Guidance for call-to-action text. Include up to five items. Examples: preferred CTA phrases.
+* **[!UICONTROL CTA]:** (Optional) Guidance for call-to-action text. Examples: preferred CTA phrases.
 
 * **[!UICONTROL Examples]:** (Optional) Sample ad copy (headline, subheadline, body, and CTA) that illustrates the <!-- Just one set of guidelines as of 7/9: channel's --> specified style. To see examples of the ad copy based on your guidelines, click **[!UICONTROL Create example]**.
 
 ### **[!UICONTROL Logos]**
 
-(Optional) Logos are used in ads that include a logo element and are available to the AI agent when swapping logo versions.
+(Optional) Logos are used in ads that include a logo element and are available to the AI agent when swapping logo versions. Supported image types are JPG, PNG, and SVG, and each file can be up to 5 MB. Each brand can include a maximum of 10 logos.
 
 To upload one or more brand logo files with the same category and description:
 
