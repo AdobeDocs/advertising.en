@@ -1,7 +1,6 @@
 ---
 title: Manage standard ads in Creative Studio
 description: Learn how to create, edit, duplicate, download, and delete standard display ads in the Creative Studio creatives library.
-feature: Creative Studio
 exl-id: 01d3cdec-80d0-494c-94dd-d9d0ae8ca53c
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
@@ -199,4 +198,4 @@ Duplicate a standard ad to add a new creative with the same settings to the libr
 >* [About Creative Studio in Advertising Creative](creative-studio-about.md)
 >* [Manage dynamic creatives in Creative Studio](creative-studio-manage-dynamic-ads.md)
 >* [Manage templates in Creative Studio](creative-studio-manage-templates.md)
->* [Manage brand profiles in Advertising Creative](/help/creative/brands/brands-manage.md)
+>* [Manage brand profiles in Advertising Creative](/help/creative/brands/brand-manage.md)

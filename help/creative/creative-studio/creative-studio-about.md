@@ -1,7 +1,6 @@
 ---
 title: About Creative Studio in Advertising Creative
 description: Learn how to use Creative Studio to build AI-assisted ad content in Adobe Advertising Creative.
-feature: Creative Studio
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -36,7 +35,7 @@ role_v2:
 
 * **Multi-size support:** Resize ads to IAB standard dimensions in a single step. The AI automatically adjusts content placement and sizing for each format, and canvas controls (zoom in/out, fit to screen, replay animations) help you review each size.
 
-* **Brand-aligned outputs:** When your [brand profile](/help/creative/brands/brands-about.md) is applied, the AI uses your brand's logos, color palettes, voice guidelines, image standards, and channel guidelines to keep generated content on-brand.
+* **Brand-aligned outputs:** When your [brand profile](/help/creative/brands/brand-manage.md) is applied, the AI uses your brand's logos, color palettes, voice guidelines, image standards, and channel guidelines to keep generated content on-brand.
 
 * **Asset library access:** Attach images and other assets directly to AI chat messages by selecting from your asset library, keeping visual context available during content generation.
 
@@ -48,7 +47,7 @@ role_v2:
 
 | Workflow | When to use |
 | --- | --- |
-| [Generate standard ads from a template](creative-studio-create-standard-ads.md) | Select a display or video template and use the [!UICONTROL Ad Variations Generator] to create AI-generated content variations. Best when a template already exists and you want AI-assisted content generation. |
+| [Generate standard ads from a template](creative-studio-manage-standard-ads.md) | Select a display or video template and use the [!UICONTROL Ad Variations Generator] to create AI-generated content variations. Best when a template already exists and you want AI-assisted content generation. |
 | [Manage dynamic creatives](creative-studio-manage-dynamic-ads.md) | Connect a product or content catalog to a template, map catalog fields to template elements, then use the AI agent to preview and QA all generated ad combinations. Best for large-scale, catalog-driven campaigns. |
 | Build a new template | Start from a blank canvas to create a display or video template. Best when no existing template meets your needs. |
 | Upload HTML5 templates | Import one or more HTML5 ad templates packaged as ZIP files. Best when you have production-ready HTML5 creatives built outside of [!DNL Advertising Creative]. |
@@ -67,4 +66,4 @@ role_v2:
 >* [Manage dynamic creatives in Creative Studio](creative-studio-manage-dynamic-ads.md)
 >* [Manage templates in Creative Studio](creative-studio-manage-templates.md)
 >* [Manage assets in Creative Studio](creative-studio-manage-assets.md)
->* [Manage brand profiles in Advertising Creative](/help/creative/brands/brands-manage.md)
+>* [Manage brand profiles in Advertising Creative](/help/creative/brands/brand-manage.md)

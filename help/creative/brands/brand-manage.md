@@ -143,7 +143,7 @@ Displays the brand name. To add a description, click **[!UICONTROL When to use t
 
 Fields for your first category are already displayed. To add a category, click **[!UICONTROL Add Category Name]** and enter the new category settings.
 
-To delete a category, click ![Delete](/help/creative/assets/deleted.png "Delete") next to the category name. In the confirmation message, click **[!UICONTROL Delete]**.
+To delete a category, click ![Delete](/help/creative/assets/delete.png "Delete") next to the category name. In the confirmation message, click **[!UICONTROL Delete]**.
 
 * **[!UICONTROL Category Name]:** The image category. Examples: "Product Photography" or "Lifestyle."
 

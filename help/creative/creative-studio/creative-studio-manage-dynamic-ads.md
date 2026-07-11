@@ -1,7 +1,6 @@
 ---
 title: Manage dynamic creatives in Creative Studio
 description: Learn how to build, edit, duplicate, and delete catalog-driven dynamic creatives in Adobe Advertising Creative Studio.
-feature: Creative Studio
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising

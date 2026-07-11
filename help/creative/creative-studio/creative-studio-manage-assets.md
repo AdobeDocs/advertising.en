@@ -1,7 +1,6 @@
 ---
 title: Manage assets in Creative Studio
 description: Learn how to upload, browse, and manage assets in the Creative Studio Assets tab in Adobe Advertising Creative.
-feature: Creative Studio
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -117,4 +116,4 @@ maybe later:
 >
 >* [About Creative Studio in Advertising Creative](creative-studio-about.md)
 >* [Manage templates in Creative Studio](creative-studio-manage-templates.md)
->* [Generate standard ads in Creative Studio](creative-studio-create-standard-ads.md)
+>* [Generate standard ads in Creative Studio](creative-studio-manage-standard-ads.md)

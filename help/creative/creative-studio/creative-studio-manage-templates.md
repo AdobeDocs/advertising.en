@@ -1,7 +1,6 @@
 ---
 title: Manage ad templates in Creative Studio
 description: Learn how to create, import, organize, and manage ad templates in the Creative Studio Templates tab in Adobe Advertising Creative.
-feature: Creative Studio
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -20,9 +19,11 @@ Create, import, and manage display and video ad templates for use in ad generati
 
 The **[!UICONTROL Templates]** tab provides quick actions to create or import new ad templates.
 
-The tab also lists your existing ad templates at the bottom of the page <!-- Only in the Templates tab -->as [individual cards (the default) or as tables/lists](/help/creative/introduction/customize-data-views.md). The ad template list includes tabs for [!UICONTROL All], [!UICONTROL System Templates] (which are uploaded to your account by your Adobe Account Team<!-- verify -->), and [!UICONTROL User Templates]. By default, ad templates for all of your advertisers are shown. To view only ad templates for a specific advertiser, select from the advertiser list at the top of the page. 
+The tab also lists your existing ad templates at the bottom of the page <!-- Only in the Templates tab -->as [individual cards (the default) or as tables/lists](/help/creative/introduction/customize-data-views.md). The ad template list includes tabs for [!UICONTROL All], [!UICONTROL System Templates] (which are uploaded to your account by your Adobe Account Team), and [!UICONTROL User Templates]. By default, ad templates for all of your advertisers are shown. To view only ad templates for a specific advertiser, select from the advertiser list at the top of the page. 
 
-<!-- Probably not necessary:
+<!-- 
+
+Probably not necessary:
 
 * **[!UICONTROL Card view]** &mdash; Displays templates as cards. Each card shows a preview thumbnail and the ad dimensions. Hovering a card reveals action controls.
 
@@ -179,7 +180,9 @@ Create a blank display or video template using the template editor.
 
    * To save the template as a draft, click **[!UICONTROL ...]** > **[!UICONTROL Save as Draft]**. Enter the **[!UICONTROL Template name]**, select the **[!UICONTROL Advertiser]**, optionally select existing tags or add new tags to the template, and then click **[!UICONTROL Save]**.
 
-<!-- I don't see this anywhere:
+<!--
+
+I don't see this anywhere:
 
 1. Click **[!UICONTROL Generate Ad Variations]** to proceed to content generation, or navigate away to save your changes.
 
