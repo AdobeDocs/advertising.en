@@ -21,7 +21,9 @@ role_v2:
 
 ## View data as cards or as tables
 
-View the data in your [!UICONTROL Creative Libraries] and [!UICONTROL Experiences] views as individual cards or as tables/lists. By default, data is shown in card view mode. Card view shows a thumbnail of a relevant creative.
+<!-- Different images in Creative Studio, although pretty close -->
+
+View the data in your [!UICONTROL Creative Studio], [!UICONTROL Creative Libraries], and [!UICONTROL Experiences] views as individual cards or as tables/lists. By default, data is shown in card view mode. Card view shows a thumbnail of a relevant creative.
 
 When you switch between card view and table view, your filters and selections are retained.
 

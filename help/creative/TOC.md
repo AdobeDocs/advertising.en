@@ -14,6 +14,12 @@ breadcrumb-title: Creative Guide
   + [Workflows for dynamic ads](/help/creative/introduction/workflow-dynamic-ads.md)
   + [Support for consumer privacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
   + [Policies and guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
++ Creative Studio {#creative-studio}
+  + [About Creative Studio](/help/creative/creative-studio/creative-studio-about.md)
+  + [Manage templates](/help/creative/creative-studio/creative-studio-manage-templates.md)
+  + [Manage assets](/help/creative/creative-studio/creative-studio-manage-assets.md)
+  + [Manage standard ads](/help/creative/creative-studio/creative-studio-manage-standard-ads.md)
+  + [Manage dynamic creatives](/help/creative/creative-studio/creative-studio-manage-dynamic-ads.md)
 + Creative libraries {#creative-libraries}
   + [About your creative libraries](/help/creative/creative-libraries/creative-libraries-about.md)
   + [Supported creative sizes](/help/creative/creative-libraries/creative-sizes.md)
@@ -73,6 +79,7 @@ breadcrumb-title: Creative Guide
   + [Rename an ad tag](/help/creative/experiences/experience-tag-rename.md)
   + [View the change log for an experience](/help/creative/experiences/experience-view-change-log.md)
   + [Delete an experience](/help/creative/experiences/experience-delete.md)
++ [Manage brand profiles](/help/creative/brands/brand-manage.md)
 + Feeds {#feeds}
   + [Manage asset files](/help/creative/feeds/asset-manage.md)
   + [Manage feed templates](/help/creative/feeds/feed-template-manage.md)

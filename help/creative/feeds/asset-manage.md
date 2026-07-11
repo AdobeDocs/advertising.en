@@ -25,13 +25,17 @@ role_v2:
 
 ## File requirements
 
+Maximum data rows: 2 million
+
+Maximum file size: 2 GB
+
 * Dynamic HTML5 ads:
 
   * A feed file in CSV, TSV, or Microsoft Excel spreadsheet (XLSX) format, with one header row and one data row for each ad variation. Include an image name in each row using the format `images/image_name` (such as `images/300x250_acme_logo.png`).
 
     The advertiser-specific field names must map to the [available fields for dynamic ad feed files](/help/creative/appendix-available-feed-fields.md).
 
-  * The associated image assets in GIF, JPEG, JPG, or PNG format.<!-- Is this true: The maximum file size is two (2) MB. --> See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
+  * The associated image assets in GIF, JPEG, JPG, or PNG format. The maximum file size is 10 MB. See the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
 
   You can upload a single XLSX file, a single image file, or a single ZIP file containing any combination of XLSX and image files.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 

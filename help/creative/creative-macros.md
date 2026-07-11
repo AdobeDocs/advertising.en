@@ -78,4 +78,4 @@ Some of the available macros, or their equivalents, are automatically included i
 >* [Add standard creatives to a creative library](/help/creative/creative-libraries/creative-add-standard.md#creative-add-third-party)
 >* [Standard creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party)
 >* [Targeted experience settings](/help/creative/experiences/experience-settings-targeting.md)
->*[Nontargeted experience settings](/help/creative/experiences/experience-settings-no-targeting.md)
+>* [Nontargeted experience settings](/help/creative/experiences/experience-settings-no-targeting.md)
