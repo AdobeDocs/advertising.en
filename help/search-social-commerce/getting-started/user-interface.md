@@ -106,7 +106,7 @@ The new user interface features a new main menu on the left, which organizes tas
 
   * **[!UICONTROL Extensions]** Opens read-only views of your existing ad extensions. To manage your extensions, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-  * **[!UICONTROL Shopping]** Exits the new site and opens the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view.<!-- Should this go to Campaigns > Products? -->
+  * **[!UICONTROL Shopping]** Opens read-only views of your existing shopping product groups. To manage your product groups, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Product Groups] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
 * **[!UICONTROL Set Up]** submenu:
 
@@ -117,6 +117,8 @@ The new user interface features a new main menu on the left, which organizes tas
   * **[!UICONTROL Import Campaigns]**: Opens a new view, from which you can import campaign data.
 
   * **[!UICONTROL Bulksheets]**: Opens a new [!UICONTROL Bulksheets] view.
+
+  * **[!UICONTROL Products]** Opens read-only views of your existing merchant center accounts and products. To add a merchant center account, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Products] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
 <!--
  What's happening to these?
