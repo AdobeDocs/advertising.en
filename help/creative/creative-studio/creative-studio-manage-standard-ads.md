@@ -1,6 +1,6 @@
 ---
 title: Manage standard ads in Creative Studio
-description: Learn how to create, edit, duplicate, download, and delete standard display and video ads in the Creative Studio creatives library.
+description: Learn how to create, edit, duplicate, download, and delete standard display ads in the Creative Studio creatives library.
 feature: Creative Studio
 exl-id: 01d3cdec-80d0-494c-94dd-d9d0ae8ca53c
 product_v2:
@@ -15,15 +15,19 @@ role_v2:
 ---
 # Manage standard ads in [!UICONTROL Creative Studio]
 
-The **[!UICONTROL Creatives]** tab in [!UICONTROL Creative Studio] is your library of standard display and video ads generated from templates. From here you can create ads using the [!UICONTROL Ad Variations Generator], edit saved ads, generate new variations from an existing ad, view the change log, duplicate, download, and delete.
+The **[!UICONTROL Creatives]** tab in [!UICONTROL Creative Studio] is your library of standard display ads generated from templates. From here you can create ads using the [!UICONTROL Ad Variations Generator], edit saved ads, generate new variations from an existing ad, view the change log, duplicate, download, and delete.
 
 ## Create standard ads {#create-standard-ads}
 
-Use the [!UICONTROL Ad Variations Generator] to generate display or video ad content from a template. The AI assistant generates and refines headlines, CTAs, images, colors, and more, and can create new size variants in a single session.
+Use the [!UICONTROL Ad Variations Generator] to generate display ad content from a template. The AI assistant generates and refines headlines, CTAs, images, colors, and more, and can create new size variants in a single session.
+
+>[!NOTE]
+>
+>Standard ad generation currently supports display ad templates only. Video ad templates aren't available as a starting point, either from the **[!UICONTROL Creatives]** tab or the **[!UICONTROL Templates]** tab.
 
 ### Prerequisites
 
-At least one ad template must exist in your template library.
+At least one display ad template must exist in your template library.
 
 ### Generate standard ads
 
@@ -35,9 +39,9 @@ At least one ad template must exist in your template library.
 
      1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Generate]** in the **[!UICONTROL Generate standard ads from templates]** quick action card.
 
-     1. In the template selection dialog, click a template to select it, then click **[!UICONTROL Next]**.
+     1. In the template selection dialog, click a template to select it, then click **[!UICONTROL Use this template]**.
 
-   * **From the [!UICONTROL Templates] tab:**
+   * (Display ads only) **From the [!UICONTROL Templates] tab:**
 
      1. In the main menu, click **[!UICONTROL Creative Studio]**.
 
@@ -71,11 +75,11 @@ At least one ad template must exist in your template library.
 
       >[!NOTE]
       >
-      >The AI assistant can generate and modify text (headlines, subheadlines, CTAs, body copy), swap background images, apply brand colors, switch logo versions, and create new size templates. It cannot change template structure: element positions, layout, spacing, padding, font family, font size, or borders. Make structural changes in the template editor before starting the session. See [Edit a template](creative-studio-manage-templates.md#edit-template).
+      >The AI assistant can generate and modify text (headlines, subheadlines, CTAs, body copy), swap background images, apply brand colors, switch logo versions, and create new size templates. It can't change template structure: element positions, layout, spacing, padding, font family, font size, or borders. Make structural changes in the template editor before starting the session. See [Edit a template](creative-studio-manage-templates.md#edit-template).
 
    1. (Optional) To include a visual reference in a request, click the **[!UICONTROL +]** button in the chat input area. In the **[!UICONTROL Select from Asset Library]** dialog:
    
-      * To use an asset in your asset library, click th asset, and then click **[!UICONTROL Add to chat]**. Submit your message to include the asset as context.
+      * To use an asset in your asset library, click the asset, and then click **[!UICONTROL Add to chat]**. Submit your message to include the asset as context.
 
       * To upload one or more assets, click **[!UICONTROL Upload Assets]** and select the files on your device or network.
 
@@ -105,17 +109,15 @@ At least one ad template must exist in your template library.
 
    The button is disabled until at least one concept exists.
 
-1. In the **[!UICONTROL Save Standard Ads]** dialog, specify the [save settings](#save-settings), then click **[!UICONTROL Save Standard Ads]**.
+1. In the **[!UICONTROL Save Standard Ads]** dialog, specify the following settings, then click **[!UICONTROL Save Standard Ads]**.
 
-   A confirmation notification appears when the creatives are created.
-
-### Save Standard Ads settings {#save-settings}
-
-**[!UICONTROL Advertiser]:** (Required) The advertiser to save the creatives under.
-
-**[!UICONTROL Creative Library]:** (Required) The creative library to save the creatives to. The library picker is enabled after you select an advertiser.
-
-**[!UICONTROL Attach to Bundles]:** (Optional) When enabled, the saved creatives are attached to a bundle.
+   **[!UICONTROL Advertiser]:** (Required) The advertiser to save the creatives under.
+   
+   **[!UICONTROL Creative Library]:** (Required) The creative library to save the creatives to. The library picker is enabled after you select an advertiser.
+   
+   **[!UICONTROL Attach to Bundles]:** (Optional) When enabled, the saved creatives are attached to one or more bundles. For each ad variation, select a bundle, or enter a new bundle name.
+   
+   **\[Settings for each ad\]:** For each ad variation, you can view and optionally change the **[!UICONTROL Name],** **[!UICONTROL Language],** and **[!UICONTROL click URL].**
 
 ## Edit a standard ad {#edit-standard-ad}
 
@@ -132,8 +134,8 @@ At least one ad template must exist in your template library.
    * **[!UICONTROL Creative Name]:** (Required) The display name for the creative.
    * **[!UICONTROL Language]:** (Required) The language of the ad content.
    * **[!UICONTROL Creative Size]:** (Read-only) The ad dimensions.
-   * **Click tags:** If the template defines click tags, each appears as a required field labeled with the tag name. Enter the click-through destination URL for each tag.
-   * **[!UICONTROL Label]:** Optional labels for organizing creatives. Select existing labels or type to create new ones.
+   * **Click tags:** If the template defines click tags, then each click tag appears as a required field labeled with the tag name. Enter the click-through destination URL for each tag.
+   * **[!UICONTROL Label]:** (Optional) Labels for organizing creatives. Select existing labels, or enter a new tag and click **[!UICONTROL Add tag].**
 
    **[!UICONTROL Attributes]** tab:
 
@@ -152,7 +154,7 @@ At least one ad template must exist in your template library.
 
    The [!UICONTROL Ad Variations Generator] opens with the selected ad pre-loaded.
 
-1. Use the AI chat interface to generate and refine additional variations. See [Create standard ads](#create-standard-ads) for the complete workflow.
+1. Use the AI chat interface to generate and refine additional variations. See "[Create standard ads](#create-standard-ads)" for the complete workflow.
 
 ## Duplicate a standard ad {#duplicate-standard-ad}
 
@@ -184,7 +186,7 @@ Duplicate a standard ad to add a new creative with the same settings to the libr
 
 >[!NOTE]
 >
->This action cannot be undone.
+>This action can't be undone.
 
 1. In the main menu, click **[!UICONTROL Creative Studio]**.
 

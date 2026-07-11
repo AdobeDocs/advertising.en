@@ -19,7 +19,6 @@ breadcrumb-title: Creative Guide
   + [Manage templates](/help/creative/creative-studio/creative-studio-manage-templates.md)
   + [Manage assets](/help/creative/creative-studio/creative-studio-manage-assets.md)
   + [Manage standard ads](/help/creative/creative-studio/creative-studio-manage-standard-ads.md)
-  + [Generate standard ads](/help/creative/creative-studio/creative-studio-create-standard-ads.md)
   + [Manage dynamic creatives](/help/creative/creative-studio/creative-studio-manage-dynamic-ads.md)
 + Creative libraries {#creative-libraries}
   + [About your creative libraries](/help/creative/creative-libraries/creative-libraries-about.md)

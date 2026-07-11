@@ -20,11 +20,11 @@ role_v2:
 
 [!UICONTROL Creative Studio] is organized into three tabs:
 
-**[!UICONTROL Creatives]** &mdash; The starting point for ad creation. Shows creatives organized into collapsible creative libraries. From here you can generate standard ads from templates, build dynamic creatives from catalog data, and manage existing creatives (edit, generate ad variations, preview, duplicate, download, delete, QA, and review change logs). See [Manage standard ads in Creative Studio](creative-studio-manage-standard-ads.md).
+**[!UICONTROL Creatives]** &mdash; The starting point for ad creation. Shows your existing creatives generated from Creative Studio, organized into collapsible creative libraries. From here you can generate standard display ads from templates, build dynamic display creatives from catalog data, and manage existing creatives (edit, generate ad variations, preview, duplicate, download, delete, QA, and review change logs). See "[Manage standard ads in Creative Studio](creative-studio-manage-standard-ads.md)" and "[Manage dynamic ads in Creative Studio](creative-studio-manage-dynamic-ads.md)."
 
-**[!UICONTROL Templates]** &mdash; Shows all display and video ad templates available to your account, with filtering by source (All, System Templates, User Templates), status, and ad format. You can preview, favorite, label, download, and delete templates, or start an ad generation session directly from a template card. See [Manage templates in Creative Studio](creative-studio-manage-templates.md).
+**[!UICONTROL Templates]** &mdash; Shows all display and video ad templates available to your account, with filtering by source (All, System Templates, User Templates), status, and ad format. You can preview, favorite, label, download, and delete templates, or start an ad generation session directly from an existing display ad template. See "[Manage templates in Creative Studio](creative-studio-manage-templates.md)."
 
-**[!UICONTROL Assets]** &mdash; Stores images, video, audio, and font files used in templates and available to attach to AI chat messages during ad generation sessions. You can search, filter, upload, download, and delete assets. See [Manage assets in Creative Studio](creative-studio-manage-assets.md).
+**[!UICONTROL Assets]** &mdash; Stores images, video, and audio files used in templates and available to attach to AI chat messages during ad generation sessions. You can search, filter, upload, download, and delete assets. See [Manage assets in Creative Studio](creative-studio-manage-assets.md).
 
 ## Key capabilities
 
@@ -59,7 +59,7 @@ role_v2:
 
 **Standard ads** &mdash; You supply or generate all ad content. The AI agent can generate, modify, or replace any content field (headlines, CTAs, images, colors, copy tone) within the constraints of the template layout. Completed standard ads are saved to a creative library by selecting an advertiser and library, with an option to attach them to bundles. Standard ads are best for custom-messaging campaigns.
 
-**Dynamic ads** &mdash; Content is driven by a product or content catalog. A four-step guided workflow walks you through selecting a template, mapping catalog fields to template elements, and configuring the ad set. After setup, the AI agent shifts to a QA and preview role: it can filter ads by catalog fields, flag quality issues (character limits, content overflow, broken images, compliance), and analyze combinations across the catalog &mdash; but it cannot modify catalog-sourced content directly. To change dynamic ad content, update the source catalog.
+**Dynamic ads** &mdash; Content is driven by a product or content catalog. A four-step guided workflow walks you through selecting a template, mapping catalog fields to template elements, and configuring the ad set. After setup, the AI agent shifts to a QA and preview role: it can filter ads by catalog fields, flag quality issues (character limits, content overflow, broken images, compliance), and analyze combinations across the catalog &mdash; but it can't modify catalog-sourced content directly. To change dynamic ad content, update the source catalog.
 
 >[!MORELIKETHIS]
 >
