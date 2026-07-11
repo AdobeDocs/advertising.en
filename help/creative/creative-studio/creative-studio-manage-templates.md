@@ -346,11 +346,10 @@ Hold the cursor over a layer to see the following actions:
 
 | Action | Description |
 | --- | --- |
+| ![Rename layer](/help/creative/assets/edit.png) **[!UICONTROL Rename layer]** | Lets you enter a new layer name in the panel. |
 | ![Lock layer](/help/creative/assets/cs-icon-lock.png) **[!UICONTROL Lock layer]** / ![Unlock layer](/help/creative/assets/cs-icon-unlock.png) **[!UICONTROL Unlock layer]** | Prevents or allows the layer from being moved, edited, or reordered. |
 | ![Hide layer](/help/creative/assets/cs-icon-hidden.png) **[!UICONTROL Hide layer]** / ![Show layer](/help/creative/assets/cs-icon-visible.png) **[!UICONTROL Show layer]** | Hides or shows the layer on the canvas. Hidden layers are preserved in the template but don't appear when the template renders. |
 | ![Drag to reorder](/help/creative/assets/cs-icon-drag.png) Drag to reorder | (Display ad templates only) Drag the reorder icon to change the layer's position in the stacking order. The layer must be unlocked to reorder it. |
-
-To rename a layer, click its name in the panel and type a new name.
 
 **Panel footer**
 
