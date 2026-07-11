@@ -199,4 +199,4 @@ Duplicate a standard ad to add a new creative with the same settings to the libr
 >* [About Creative Studio in Advertising Creative](creative-studio-about.md)
 >* [Manage dynamic creatives in Creative Studio](creative-studio-manage-dynamic-ads.md)
 >* [Manage templates in Creative Studio](creative-studio-manage-templates.md)
->* [About brand profiles in Advertising Creative](/help/creative/brands/brands-about.md)
+>* [Manage brand profiles in Advertising Creative](/help/creative/brands/brands-manage.md)

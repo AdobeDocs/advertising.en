@@ -67,4 +67,4 @@ role_v2:
 >* [Manage dynamic creatives in Creative Studio](creative-studio-manage-dynamic-ads.md)
 >* [Manage templates in Creative Studio](creative-studio-manage-templates.md)
 >* [Manage assets in Creative Studio](creative-studio-manage-assets.md)
->* [About brand profiles in Advertising Creative](/help/creative/brands/brands-about.md)
+>* [Manage brand profiles in Advertising Creative](/help/creative/brands/brands-manage.md)
