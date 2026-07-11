@@ -266,26 +266,42 @@ You can drag an item from any panel directly onto the canvas, or click it to pla
 
 ### Canvas toolbars
 
-Click an element on the canvas to select it. Two toolbars appears above or below the selected element with the following options. 
+Click an element on the canvas to select it. Depending on the template type, one or more toolbars appear with controls for that element.
 
-#### Inspector panel (video ad templates)
+#### Inspector panel
+
+The controls vary by element type.
 
 <!-- From inspectorbar.ts -->
 
-When an element is selected, a contextual inspector bar appears at the top of the editing area with controls that vary by element type.
+##### Display ad templates
 
 | Control | Element types | Description |
 | --- | --- | --- |
+| **[!UICONTROL Properties]** | All | Opens a panel to edit the layer name; mark the layer as dynamic (swappable during ad generation); and set a click-through URL (links only). Below that, choose a **[!UICONTROL Default]**, **[!UICONTROL Hover]**, **[!UICONTROL Click]**, or **[!UICONTROL Focus]** state to style the element for that interaction state, then adjust styling &mdash; typography (text and links only), decorations (fill, border, corner radius), dimensions, position &mdash; based on the element type. |
+| **[!UICONTROL Effects]** | All | Opens a panel where you choose a **[!UICONTROL Default]**, **[!UICONTROL Hover]**, **[!UICONTROL Click]**, or **[!UICONTROL Focus]** state to apply effects to for that interaction state, then adjust **[!UICONTROL Transform]**, **[!UICONTROL Transition]**, **[!UICONTROL Box Shadow]**, **[!UICONTROL Filter]**, **[!UICONTROL Blend Mode]**, and **[!UICONTROL Cursor]** sections. Text elements also include a **[!UICONTROL Text Shadow]** section. |
+| **[!UICONTROL Animations]** | All | Opens a panel to set the layer's enter and exit time on the timeline, and to configure **[!UICONTROL Entrance Animation]**, **[!UICONTROL Loop Animation]**, and **[!UICONTROL Exit Animation]** presets with duration and easing. Includes **[!UICONTROL Copy]**, **[!UICONTROL Paste]**, and **[!UICONTROL Reset]** actions. |
+| **[!UICONTROL Crop]** | Images | Opens a toolbar to crop the image. Select an **[!UICONTROL Aspect Ratio]** preset (or **[!UICONTROL Free]**), then click **[!UICONTROL Apply]** or **[!UICONTROL Cancel]**. |
+| **[!UICONTROL Position]** | All | Opens a menu with **[!UICONTROL Move]** options (**[!UICONTROL Forward]**, **[!UICONTROL Backward]**, **[!UICONTROL To front]**, **[!UICONTROL To back]**), **[!UICONTROL Align to Page]** options (**[!UICONTROL Top]**, **[!UICONTROL Left]**, **[!UICONTROL Middle]**, **[!UICONTROL Center]**, **[!UICONTROL Bottom]**, **[!UICONTROL Right]**, **[!UICONTROL Fit Vertically]**, **[!UICONTROL Fit Horizontally]**, **[!UICONTROL Fit to Page]**), and, for non-image elements, **[!UICONTROL Layer Level Alignment]** options (the same six alignment options, plus **[!UICONTROL Fit to Content]**). |
+
+##### Video ad templates
+
+| Control | Element types | Description |
+| --- | --- | --- |
+| **[!UICONTROL Shape]** | Shapes | Sets shape-specific options. |
+| **[!UICONTROL Group]** / **[!UICONTROL Ungroup]** | Multiple selected elements, or a group | Groups the selected elements together, or ungroups a selected group. |
+| **[!UICONTROL Combine]** | Compatible shapes | Combines selected shapes into a single shape. |
 | **[!UICONTROL Audio replace]** | Audio and video | Replaces the audio track with a file from your asset library. |
-| **[!UICONTROL Typeface]**, **[!UICONTROL Bold]**, **[!UICONTROL Italic]**, **[!UICONTROL Font size]**, **[!UICONTROL Align horizontal]** | Text | Adjusts the font family, style, weight, size, and horizontal alignment. |
-| **[!UICONTROL Fill]** | All | Sets the fill color or image for the element. |
+| **[!UICONTROL Typeface]**, **[!UICONTROL Bold]**, **[!UICONTROL Italic]**, **[!UICONTROL Font size]**, **[!UICONTROL Align horizontal]**, **[!UICONTROL Advanced]** | Text | Adjusts the font family, weight, size, horizontal alignment, and other advanced typography settings. |
+| **[!UICONTROL Image]** / **[!UICONTROL Video]** | Images and video | Sets the fill image or video source for the element. |
 | **[!UICONTROL Trim]** | Video and audio | Opens trimming mode to set the clip's start and end points. |
-| **[!UICONTROL Volume]** | Video and audio | Adjusts the audio level. |
-| **[!UICONTROL Playback speed]** | Video and audio | Adjusts the playback rate. |
-| **[!UICONTROL Crop]** | All | Crops the element to a custom area. |
-| **[!UICONTROL Stroke]** | All | Sets the border color and width. |
+| ![Volume](/help/creative/assets/volume.png "Volume") ([!UICONTROL Volume]) | Video and audio | Adjusts the audio level. |
+| ![Playback speed](/help/creative/assets/speed.png "Playback speed") ([!UICONTROL Playback speed]) | Video and audio | Adjusts the playback rate. |
+| ![Crop](/help/creative/assets/crop.png "Crop") ([!UICONTROL Crop]) | All | Crops the element to a custom area. |
+| ![Stroke](/help/creative/assets/stroke.png "Stroke") ([!UICONTROL Stroke]) | All | Sets the border color and width. |
+| **[!UICONTROL Text Background]** | Text | Adds a background color behind the text. |
 | **[!UICONTROL Animations]** | All | Adds or edits entry, exit, or loop animations. |
-| **[!UICONTROL Appearance]** | All | Applies color adjustments, filters, effects, and blur. |
+| **[!UICONTROL Style]** | All | Opens a menu with **[!UICONTROL Adjustments]**, **[!UICONTROL Filter]**, **[!UICONTROL Effect]**, and **[!UICONTROL Blur]** options. |
 | **[!UICONTROL Shadow]** | All | Adds or edits a drop shadow. |
 | **[!UICONTROL Opacity]** | All | Sets the element's transparency level. |
 | **[!UICONTROL Position]** | All | Adjusts the element's size, position, and rotation numerically. |
@@ -306,8 +322,6 @@ You can also drag a selected element to reposition it, and drag the handles arou
 
 ##### Video ad templates
 
-Click an element on the canvas to select it. A context menu appears with the following options:
-
 | Action | Description |
 | --- | --- |
 | **[!UICONTROL Edit text]** | (Text elements only) Switches to text editing mode so you can type and format text directly on the canvas. In text editing mode, a secondary menu provides **[!UICONTROL Text color]**, **[!UICONTROL Bold]**, **[!UICONTROL Italic]**, and **[!UICONTROL Text variables]** (template placeholders). |
@@ -323,9 +337,19 @@ Click an element on the canvas to select it. A context menu appears with the fol
 
 You can also drag a selected element to reposition it, and drag the handles around it to resize it.
 
-### Timeline (video ad templates)
+### Timeline
 
-The video editor displays a timeline panel at the bottom of the canvas showing all video and audio clips in the template. Use the timeline to review how clips are arranged in time and to trim clips by dragging their start and end handles.
+Both editors display a timeline panel at the bottom of the canvas.
+
+#### Display ad templates
+
+The timeline shows a track for each layer on the canvas, spanning the time range the layer is visible based on its enter and exit animation timing. Drag a track's start or end handle to adjust its enter or exit time, or drag a track to reorder layers. Click the ruler or drag the playhead to move to a point in time.
+
+The timeline toolbar includes a **[!UICONTROL Duration]** field (0-60 seconds), **[!UICONTROL Play]**/**[!UICONTROL Pause]**, a current time / total duration display, a loop toggle, **[!UICONTROL Timeline Scale]** zoom controls, a **[!UICONTROL Fit View]** button, and a collapse/expand toggle.
+
+#### Video ad templates
+
+The timeline shows all video and audio clips in the template. Use the timeline to review how clips are arranged in time and to trim clips by dragging their start and end handles.
 
 ### [!UICONTROL Layers] panel
 
