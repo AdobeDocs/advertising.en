@@ -73,7 +73,7 @@ Verify the following:
 
 * Any filters and segments that are applied in [!DNL Workspace] and the Adobe Advertising report aren't causing differences in data.
 
-* The [!UICONTROL Time Zone] for your Customer Journey Analytics data view matches the [[!UICONTROL Default Timezone] for your Advertising DSP account](help/dsp/admin/user-own-profile-edit.md).
+* The [!UICONTROL Time Zone] for your Customer Journey Analytics data view matches the [[!UICONTROL Default Timezone] for your Advertising DSP account](/help/dsp/admin/user-own-profile-edit.md).
 
 * The setting "[!UICONTROL Backfill all existing data]" is enabled for your three datasets (dimension/classification/lookup, summmary, and event metrics) in trics) in your Customer Journey Analytics connection..
 
