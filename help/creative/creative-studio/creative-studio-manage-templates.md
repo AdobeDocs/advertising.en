@@ -123,7 +123,7 @@ Upload one or more pre-built HTML5 templates that are packaged as ZIP files. Tem
 
 >[!NOTE]
 >
->If import fails, simplify the template or contact your Adobe account team.
+>If import fails, simplify the template or contact your Adobe Account Team.
 
 ## Create an ad template manually {#template-create}
 
@@ -135,7 +135,7 @@ Create a blank display or video template using the template editor.
 
 1. In the **[!UICONTROL Create New Ad Template]** box, click **[!UICONTROL Create]**, and then select **[!UICONTROL Display Ad Template]** or **[!UICONTROL Video Ad Template]**.
 
-1. Select the ad template size, and then click **[!UICONTROL Continue]**.
+1. (Display ads) Select the ad template size, and then click **[!UICONTROL Continue]**.
 
 1. Configure the template settings using the [controls in the template editor](#template-controls).
 
@@ -159,7 +159,7 @@ Create a blank display or video template using the template editor.
 
 >[!IMPORTANT]
 >
->The AI agent can't change template layout, element positions, spacing, or typography. Make any structural changes in the template editor before generating content.
+>The AI agent can't change the template layout, element positions, spacing, or typography. Make any structural changes in the template editor before you generate content.
 
 1. In the main menu, click **[!UICONTROL Creative Studio].**
 
@@ -187,7 +187,7 @@ Create a blank display or video template using the template editor.
 
 ## Template editor controls {#template-controls}
 
-Both template editors share the same top bar and Layers panel. The navigation bar or canvas toolbar, left panel, canvas controls, and inspector panel differ between display and video templates.
+Both template editors share the same top toolbar and [!UICONTROL Layers] panel. The navigation bar or canvas toolbar, left panel, canvas controls, and inspector panel differ between display and video templates.
 
 ### Top bar
 
@@ -205,7 +205,7 @@ The top bar is the same for both display and video templates.
 
 #### Display ad templates
 
-The toolbar sits above the canvas in the display editor.
+The canvas toolbar sits above the canvas in the display editor.
 
 | Control | Description |
 | --- | --- |
@@ -214,7 +214,7 @@ The toolbar sits above the canvas in the display editor.
 | **[!UICONTROL Links]** | Opens a panel to manage the click-through URLs attached to elements in the template. |
 | Zoom controls | Click **[!UICONTROL Zoom out]** or **[!UICONTROL Zoom in]** to adjust the canvas magnification (10%-150%, in 10% increments). Click the zoom level label &mdash; which shows **[!UICONTROL Auto]** when the canvas fits automatically, or a percentage when set manually &mdash; to open a menu with options: **[!UICONTROL Auto-Fit Page]**, **[!UICONTROL 100% Zoom]**, **[!UICONTROL 50% Zoom]**, **[!UICONTROL Zoom In]**, and **[!UICONTROL Zoom Out]**. |
 | Ad size | Shows the current ad dimensions (for example, 300 × 250). Click to open the size picker, which offers six commonly used IAB standard sizes as cards, plus a dropdown with all 19 standard IAB display ad sizes. The default size for new templates is 300 × 250 (Medium Rectangle). |
-| ![Open Layers](/help/creative/assets/cs-icon-layers.png) **[!UICONTROL Open Layers]** | Opens the Layers panel. Appears only when the Layers panel is closed. |
+| ![Open Layers panel](/help/creative/assets/layers-panel-open.png "Open Layers panel") | Opens the [!UICONTROL Layers] panel. Appears only when the [!UICONTROL Layers] panel is closed. |
 
 #### Video ad templates
 
@@ -222,10 +222,11 @@ The video editor navigation bar sits above the canvas and contains the following
 
 | Control | Description |
 | --- | --- |
-| **[!UICONTROL Undo]** / **[!UICONTROL Redo]** | Undoes or redoes the last action. |
+| **[!UICONTROL Undo]** /  ![Redo](/help/creative/assets/cs-icon-redo.png) **[!UICONTROL Redo]** | Undoes or redoes the last action. |
 | Zoom controls | Click **[!UICONTROL Zoom out]** or **[!UICONTROL Zoom in]** to adjust the canvas magnification. Click the zoom level to open a menu with options: **[!UICONTROL Auto-Fit Page]**, **[!UICONTROL 100% Zoom]**, **[!UICONTROL 50% Zoom]**, **[!UICONTROL Zoom In]**, and **[!UICONTROL Zoom Out]**. |
-| **[!UICONTROL Layers]** | Opens the Layers panel. Appears only when the Layers panel is closed. |
-| **[!UICONTROL Preview]** | Opens a preview of the video template. |
+| ![Open Layers panel](/help/creative/assets/layers-panel-open.png "Open Layers panel") | Opens the [!UICONTROL Layers] panel. Appears only when the [!UICONTROL Layers] panel is closed. |
+
+<!-- Not there as of 7/10:  | **[!UICONTROL Preview]** | Opens a preview of the video template. | -->
 
 ### Left panel
 
@@ -236,10 +237,10 @@ The left panel contains a column of icons. Click an icon to open its content pan
 | Icon | Description |
 | --- | --- |
 | **[!UICONTROL Search]** | Search across all asset types in your library. |
-| **[!UICONTROL Upload]** | Upload images or font files (TTF, OTF, WOFF, WOFF2) into the editor for use in the current template. You can upload up to 20 files at a time. |
+| **[!UICONTROL Upload]** | Upload images<!-- not there as of 7/10:  or font files (TTF, OTF, WOFF, WOFF2)--> into the editor for use in the current template. You can upload up to 20 files at a time. |
 | **[!UICONTROL Templates]** | Browse ad templates from your Creative Studio library to use as a base layer or reference element. |
 | **[!UICONTROL My Assets]** | Browse all assets you've uploaded in the Creative Studio Assets tab. |
-| **[!UICONTROL Images]** | Browse image assets only. |
+| **[!UICONTROL Images]** | Browse only the image assets you've uploaded in the Creative Studio Assets tab.. |
 | **[!UICONTROL Text]** | Add a text element to the canvas, including any custom fonts you've uploaded. |
 | **[!UICONTROL Elements]** | Add shapes and layout elements such as buttons and rectangles. |
 
@@ -255,9 +256,9 @@ The left panel contains a column of icons. Click an icon to open its content pan
 | **[!UICONTROL Upload]** | Upload image, video, audio, or font files (TTF, OTF, WOFF, WOFF2) into the editor for use in the current template. You can upload up to 20 files at a time. |
 | **[!UICONTROL Templates]** | Browse ad templates from your Creative Studio library. |
 | **[!UICONTROL My Assets]** | Browse all assets you've uploaded in the Creative Studio Assets tab. |
-| **[!UICONTROL Images]** | Browse image assets. |
-| **[!UICONTROL Video]** | Browse video assets. |
-| **[!UICONTROL Audio]** | Browse audio assets. |
+| **[!UICONTROL Images]** | Browse only the image assets you've uploaded in the Creative Studio Assets tab.. |
+| **[!UICONTROL Video]** | Browse only the video assets you've uploaded in the Creative Studio Assets tab.. |
+| **[!UICONTROL Audio]** | Browse only the audio assets you've uploaded in the Creative Studio Assets tab.. |
 | **[!UICONTROL Text]** | Add a text element to the canvas, including any custom fonts you've uploaded. |
 | **[!UICONTROL Elements]** | Add shapes and vector elements. |
 
@@ -291,6 +292,10 @@ Click an element on the canvas to select it. A context menu appears with the fol
 | **[!UICONTROL Send backward]** | Moves the element one step backward in the stacking order. |
 | **[!UICONTROL Duplicate]** | Creates a copy of the element. |
 | **[!UICONTROL Delete]** | Removes the element from the canvas. |
+| **... > [!UICONTROL Flip horizontal]** | Flips the element horizontally 180 degrees. |
+| **... > [!UICONTROL Flip vertical]** | Flips the element vertically 180 degrees. |
+| **... > [!UICONTROL Copy Element]** | Copies the element to the canvas clipboard. |
+| **... > [!UICONTROL Pastes Element]** | Pastes the copied element. |
 
 You can also drag a selected element to reposition it, and drag the handles around it to resize it.
 
@@ -318,15 +323,15 @@ When an element is selected, a contextual inspector bar appears at the top of th
 
 The video editor displays a timeline panel at the bottom of the canvas showing all video and audio clips in the template. Use the timeline to review how clips are arranged in time and to trim clips by dragging their start and end handles.
 
-### Layers panel
+### [!UICONTROL Layers] panel
 
-The Layers panel lists all elements in the template and lets you manage their order, visibility, and properties. For display templates, click **[!UICONTROL Open Layers]** in the canvas toolbar to open it. For video templates, the panel is open by default.
+The [!UICONTROL Layers] panel lists all elements in the template and lets you manage their order, visibility, and properties. For display templates, click **[!UICONTROL Open Layers]** in the canvas toolbar to open it. For video templates, the panel is open by default.
 
 Click any layer to select the corresponding element on the canvas.
 
 **Tabs (display ad templates only)**
 
-Display templates have two tabs at the top of the Layers panel:
+Display templates have two tabs at the top of the [!UICONTROL Layers] panel:
 
 * **[!UICONTROL Dynamic]** &mdash; Lists only the layers that can be swapped during ad generation, such as images and text that the AI agent can replace. This is the default view for generating ad variations.
 * **[!UICONTROL All]** &mdash; Shows the complete layer hierarchy for the template, including structural containers. Use this view to inspect or reorganize how elements are nested.
@@ -396,22 +401,6 @@ These are all saved with the template, but they aren't what you see, as-is, in t
 
 1. Use the AI chat interface to generate and refine ad content. See "[Manage standard ads in Creative Studio](creative-studio-manage-standard-ads.md)" for the complete workflow.
 
-## Add or remove an ad template as a favorite {#template-favorite}
-
-*Card view only*
-
-1. In the main menu, click **[!UICONTROL Creative Studio].**
-
-1. Click the **[!UICONTROL Templates]** tab.
-
-1. Hold the cursor over the template card.
-
-1. Do either of the following:
-
-   * To add a template as a favorite, click ![Favorite](/help/creative/assets/favorite-null.png).
-
-   * To remove a template as a favorite, click ![Favorite](/help/creative/assets/favorite.png).
-
 ## Add or remove labels for an ad template {#template-labels}
 
 *Display ad templates only.*
@@ -446,7 +435,7 @@ Labels help you organize and filter user templates. You can't add labels to syst
 
    * (Table view) Click **[!UICONTROL ...]** > **[!UICONTROL Preview]**.
    
-1. For video templates, click the Play button<!-- add image -->.
+1. For video templates, click ![Play](/help/creative/assets/play.png "Play").
 
 ## Download an ad template {#template-download}
 
@@ -458,9 +447,23 @@ Labels help you organize and filter user templates. You can't add labels to syst
 
    The template downloads as a ZIP file according to your browser's normal procedure.
 
-## Delete an ad template {#template-delete}
+## Add or remove an ad template as a favorite {#template-favorite}
 
-*Display ad templates only.*
+*Card view only*
+
+1. In the main menu, click **[!UICONTROL Creative Studio].**
+
+1. Click the **[!UICONTROL Templates]** tab.
+
+1. Hold the cursor over the template card.
+
+1. Do either of the following:
+
+   * To add a template as a favorite, click ![Favorite](/help/creative/assets/favorite-null.png).
+
+   * To remove a template as a favorite, click ![Favorite](/help/creative/assets/favorite.png).
+
+## Delete an ad template {#template-delete}
 
 1. In the main menu, click **[!UICONTROL Creative Studio].**
 
