@@ -1,7 +1,6 @@
 ---
 title: Manage brand profiles in Advertising Creative
 description: Learn how to create, edit, duplicate, and delete brand profiles in Adobe Advertising Creative.
-feature: Creative Brands
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
