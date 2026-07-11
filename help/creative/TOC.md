@@ -16,10 +16,10 @@ breadcrumb-title: Creative Guide
   + [Policies and guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
 + Creative Studio {#creative-studio}
   + [About Creative Studio](/help/creative/creative-studio/creative-studio-about.md)
-  + [Manage templates](/help/creative/creative-studio/creative-studio-manage-templates.md)
-  + [Manage assets](/help/creative/creative-studio/creative-studio-manage-assets.md)
   + [Manage standard ads](/help/creative/creative-studio/creative-studio-manage-standard-ads.md)
   + [Manage dynamic creatives](/help/creative/creative-studio/creative-studio-manage-dynamic-ads.md)
+  + [Manage templates](/help/creative/creative-studio/creative-studio-manage-templates.md)
+  + [Manage assets](/help/creative/creative-studio/creative-studio-manage-assets.md)
 + Creative libraries {#creative-libraries}
   + [About your creative libraries](/help/creative/creative-libraries/creative-libraries-about.md)
   + [Supported creative sizes](/help/creative/creative-libraries/creative-sizes.md)
