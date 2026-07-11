@@ -13,6 +13,8 @@ role_v2:
 ---
 # Manage assets in [!UICONTROL Creative Studio]
 
+*Beta feature*
+
 Upload images, video, audio, and font assets to reference in ad templates and attach to AI agent chat messages during ad generation sessions.
 
 ## The [!UICONTROL Creative Studio] > [!UICONTROL Assets] view

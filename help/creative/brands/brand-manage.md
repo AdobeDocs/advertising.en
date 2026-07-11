@@ -11,7 +11,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# Manage brand profiles in [!DNL Advertising Creative] 
+# Manage brand profiles in [!DNL Advertising Creative]
+
+*Beta feature*
 
 A brand profile stores your brand's visual and messaging identity &mdash; including your logo, color palette, voice guidelines, image standards, and channel-specific copy guidelines &mdash; so that [!DNL Creative]'s AI agent can generate ad content that stays within your brand guidelines.
 

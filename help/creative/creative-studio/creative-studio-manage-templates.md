@@ -13,6 +13,8 @@ role_v2:
 ---
 # Manage ad templates in [!UICONTROL Creative Studio]
 
+*Beta feature*
+
 Create, import, and manage display and video ad templates for use in ad generation sessions.
 
 ## The [!UICONTROL Creative Studio] > [!UICONTROL Templates] view

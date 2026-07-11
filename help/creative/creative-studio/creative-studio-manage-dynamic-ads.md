@@ -13,6 +13,8 @@ role_v2:
 ---
 # Manage dynamic creatives in [!UICONTROL Creative Studio]
 
+*Beta feature*
+
 The **[!UICONTROL Creatives]** tab in [!UICONTROL Creative Studio] lists your dynamic creatives by library. From here you can build new catalog-driven dynamic creatives, edit the details and attribute mapping of existing creatives, view change logs, duplicate creatives, and delete creatives.
 
 ## Build a dynamic creative {#build-dynamic-creative}
