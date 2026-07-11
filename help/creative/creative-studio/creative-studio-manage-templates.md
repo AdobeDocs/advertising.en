@@ -270,6 +270,8 @@ Click an element on the canvas to select it. Two toolbars appears above or below
 
 #### Inspector panel (video ad templates)
 
+<!-- From inspectorbar.ts -->
+
 When an element is selected, a contextual inspector bar appears at the top of the editing area with controls that vary by element type.
 
 | Control | Element types | Description |
