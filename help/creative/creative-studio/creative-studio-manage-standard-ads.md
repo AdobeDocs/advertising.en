@@ -14,6 +14,8 @@ role_v2:
 ---
 # Manage standard ads in [!UICONTROL Creative Studio]
 
+*Beta feature*
+
 The **[!UICONTROL Creatives]** tab in [!UICONTROL Creative Studio] is your library of standard display ads generated from templates. From here you can create ads using the [!UICONTROL Ad Variations Generator], edit saved ads, generate new variations from an existing ad, view the change log, duplicate, download, and delete.
 
 ## Create standard ads {#create-standard-ads}

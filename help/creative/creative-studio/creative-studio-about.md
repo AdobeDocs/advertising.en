@@ -13,7 +13,9 @@ role_v2:
 ---
 # About [!UICONTROL Creative Studio] in [!DNL Advertising Creative]
 
-[!UICONTROL Creative Studio] is an AI-assisted environment where you can build, resize, and refine display and video ads across multiple formats in a single session. You interact with the AI through a natural-language chat interface to generate and modify ad content &mdash; no manual design work is required for content fields.
+*Beta feature*
+
+[!UICONTROL Creative Studio] is an AI-assisted environment where you can build, resize, and refine display ads across multiple formats in a single session. You interact with the AI through a natural-language chat interface to generate and modify ad content &mdash; no manual design work is required for content fields.
 
 ## Workspace overview
 
