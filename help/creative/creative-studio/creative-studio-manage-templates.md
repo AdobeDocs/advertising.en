@@ -264,42 +264,11 @@ The left panel contains a column of icons. Click an icon to open its content pan
 
 You can drag an item from any panel directly onto the canvas, or click it to place it at a default position.
 
-### Canvas
+### Canvas toolbars
 
-#### Display ad templates
+Click an element on the canvas to select it. Two toolbars appears above or below the selected element with the following options. 
 
-Click an element on the canvas to select it. A toolbar appears above the selected element with the following options:
-
-| Action | Description |
-| --- | --- |
-| **[!UICONTROL Replace]** | (Image elements only) Opens the Images panel so you can replace the image with one from your asset library. |
-| ![Move forward](/help/creative/assets/cs-icon-move-forward.png) **[!UICONTROL Move forward]** | Moves the element one step forward in the stacking order (toward the front). |
-| ![Move backward](/help/creative/assets/cs-icon-move-backward.png) **[!UICONTROL Move backward]** | Moves the element one step backward in the stacking order (toward the back). |
-| ![Duplicate](/help/creative/assets/cs-icon-duplicate.png) **[!UICONTROL Duplicate]** | Creates a copy of the element. |
-| ![Delete](/help/creative/assets/cs-icon-delete.png) **[!UICONTROL Delete]** | Removes the element from the canvas. |
-
-You can also drag a selected element to reposition it, and drag the handles around it to resize it.
-
-#### Video ad templates
-
-Click an element on the canvas to select it. A context menu appears with the following options:
-
-| Action | Description |
-| --- | --- |
-| **[!UICONTROL Edit text]** | (Text elements only) Switches to text editing mode so you can type and format text directly on the canvas. In text editing mode, a secondary menu provides **[!UICONTROL Text color]**, **[!UICONTROL Bold]**, **[!UICONTROL Italic]**, and **[!UICONTROL Text variables]** (template placeholders). |
-| **[!UICONTROL Replace]** | (Image elements only) Opens the asset library so you can swap the image. |
-| **[!UICONTROL Bring forward]** | Moves the element one step forward in the stacking order. |
-| **[!UICONTROL Send backward]** | Moves the element one step backward in the stacking order. |
-| **[!UICONTROL Duplicate]** | Creates a copy of the element. |
-| **[!UICONTROL Delete]** | Removes the element from the canvas. |
-| **... > [!UICONTROL Flip horizontal]** | Flips the element horizontally 180 degrees. |
-| **... > [!UICONTROL Flip vertical]** | Flips the element vertically 180 degrees. |
-| **... > [!UICONTROL Copy Element]** | Copies the element to the canvas clipboard. |
-| **... > [!UICONTROL Pastes Element]** | Pastes the copied element. |
-
-You can also drag a selected element to reposition it, and drag the handles around it to resize it.
-
-### Inspector panel (video ad templates)
+#### Inspector panel (video ad templates)
 
 When an element is selected, a contextual inspector bar appears at the top of the editing area with controls that vary by element type.
 
@@ -318,6 +287,39 @@ When an element is selected, a contextual inspector bar appears at the top of th
 | **[!UICONTROL Shadow]** | All | Adds or edits a drop shadow. |
 | **[!UICONTROL Opacity]** | All | Sets the element's transparency level. |
 | **[!UICONTROL Position]** | All | Adjusts the element's size, position, and rotation numerically. |
+
+#### General controls
+
+##### Display ad templates
+
+| Action | Description |
+| --- | --- |
+| **[!UICONTROL Replace]** | (Image elements only) Opens the Images panel so you can replace the image with one from your asset library. |
+| ![Move forward](/help/creative/assets/cs-icon-move-forward.png) **[!UICONTROL Move forward]** | Moves the element one step forward in the stacking order (toward the front). |
+| ![Move backward](/help/creative/assets/cs-icon-move-backward.png) **[!UICONTROL Move backward]** | Moves the element one step backward in the stacking order (toward the back). |
+| ![Duplicate](/help/creative/assets/cs-icon-duplicate.png) **[!UICONTROL Duplicate]** | Creates a copy of the element. |
+| ![Delete](/help/creative/assets/cs-icon-delete.png) **[!UICONTROL Delete]** | Removes the element from the canvas. |
+
+You can also drag a selected element to reposition it, and drag the handles around it to resize it.
+
+##### Video ad templates
+
+Click an element on the canvas to select it. A context menu appears with the following options:
+
+| Action | Description |
+| --- | --- |
+| **[!UICONTROL Edit text]** | (Text elements only) Switches to text editing mode so you can type and format text directly on the canvas. In text editing mode, a secondary menu provides **[!UICONTROL Text color]**, **[!UICONTROL Bold]**, **[!UICONTROL Italic]**, and **[!UICONTROL Text variables]** (template placeholders). |
+| **[!UICONTROL Replace]** | (Image elements only) Opens the asset library so you can swap the image. |
+| **[!UICONTROL Bring forward]** | Moves the element one step forward in the stacking order. |
+| **[!UICONTROL Send backward]** | Moves the element one step backward in the stacking order. |
+| **[!UICONTROL Duplicate]** | Creates a copy of the element. |
+| **[!UICONTROL Delete]** | Removes the element from the canvas. |
+| **... > [!UICONTROL Flip horizontal]** | Flips the element horizontally 180 degrees. |
+| **... > [!UICONTROL Flip vertical]** | Flips the element vertically 180 degrees. |
+| **... > [!UICONTROL Copy Element]** | Copies the element to the canvas clipboard. |
+| **... > [!UICONTROL Pastes Element]** | Pastes the copied element. |
+
+You can also drag a selected element to reposition it, and drag the handles around it to resize it.
 
 ### Timeline (video ad templates)
 
