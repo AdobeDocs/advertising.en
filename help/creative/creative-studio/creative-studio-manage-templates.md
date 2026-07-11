@@ -187,11 +187,15 @@ Create a blank display or video template using the template editor.
 
 ## Template editor controls {#template-controls}
 
-Both template editors share the same top toolbar and [!UICONTROL Layers] panel. The navigation bar or canvas toolbar, left panel, canvas controls, and inspector panel differ between display and video templates.
+Both the display and video template editors share the same general actions toolbar above the editing canvas and the [!UICONTROL Layers] panel on the right. The left panel, ad template editing controls, and timeline differ between display and video templates.
 
-### Top bar
+<!--
 
-The top bar is the same for both display and video templates.
+Removing -- these are actions that are used within specific procedures:
+
+### Top toolbar
+
+The top toolbar above the canvas is the same for both display and video templates.
 
 | Control | Description |
 | --- | --- |
@@ -201,11 +205,13 @@ The top bar is the same for both display and video templates.
 | **[!UICONTROL ...]** > **[!UICONTROL Download]** | Downloads the current template as a ZIP file. |
 | **[!UICONTROL Cancel]** | Discards unsaved changes and returns to the Templates list. |
 
-### Canvas toolbar
+-->
+
+### General actions toolbar
+
+The general actions toolbar sits above the editing canvas in the ad template editor and is split into two parts (left and right).
 
 #### Display ad templates
-
-The canvas toolbar sits above the canvas in the display editor.
 
 | Control | Description |
 | --- | --- |
@@ -218,8 +224,6 @@ The canvas toolbar sits above the canvas in the display editor.
 
 #### Video ad templates
 
-The video editor navigation bar sits above the canvas and contains the following controls.
-
 | Control | Description |
 | --- | --- |
 | **[!UICONTROL Undo]** /  ![Redo](/help/creative/assets/cs-icon-redo.png) **[!UICONTROL Redo]** | Undoes or redoes the last action. |
@@ -230,9 +234,9 @@ The video editor navigation bar sits above the canvas and contains the following
 
 ### Left panel
 
-#### Display ad templates
-
 The left panel contains a column of icons. Click an icon to open its content panel; click the same icon again to close it.
+
+#### Display ad templates
 
 | Icon | Description |
 | --- | --- |
@@ -248,8 +252,6 @@ You can drag an item from any panel directly onto the canvas, or click it to pla
 
 #### Video ad templates
 
-The left panel contains a column of icons. Click an icon to open its content panel; click the same icon again to close it.
-
 | Icon | Description |
 | --- | --- |
 | **[!UICONTROL Search]** | Search across all asset types in your library. |
@@ -264,11 +266,11 @@ The left panel contains a column of icons. Click an icon to open its content pan
 
 You can drag an item from any panel directly onto the canvas, or click it to place it at a default position.
 
-### Canvas toolbars
+### Ad template editing controls
 
-Click an element on the canvas to select it. Depending on the template type, one or more toolbars appear with controls for that element.
+Click an element on the editing canvas to select it. Depending on the template type, one or more toolbars appear with controls for that element.
 
-#### Inspector panel
+#### Inspector toolbar and panel
 
 The controls vary by element type.
 
@@ -306,7 +308,7 @@ The controls vary by element type.
 | **[!UICONTROL Opacity]** | All | Sets the element's transparency level. |
 | **[!UICONTROL Position]** | All | Adjusts the element's size, position, and rotation numerically. |
 
-#### General controls
+#### General editing controls
 
 ##### Display ad templates
 
@@ -339,7 +341,7 @@ You can also drag a selected element to reposition it, and drag the handles arou
 
 ### Timeline
 
-Both editors display a timeline panel at the bottom of the canvas.
+Both display and video editors display a timeline panel at the bottom of the canvas.
 
 #### Display ad templates
 
@@ -349,11 +351,11 @@ The timeline toolbar includes a **[!UICONTROL Duration]** field (0-60 seconds), 
 
 #### Video ad templates
 
-The timeline shows all video and audio clips in the template. Use the timeline to review how clips are arranged in time and to trim clips by dragging their start and end handles.
+The timeline shows all video and audio clips in the template. Use the timeline to review how clips are arranged in time and to trim clips by dragging their start and end handles. You can't add a new clip directly on the timeline; add it from the left panel or canvas instead, and it then appears as a clip on the timeline.
 
 ### [!UICONTROL Layers] panel
 
-The [!UICONTROL Layers] panel lists all elements in the template and lets you manage their order, visibility, and properties. For display templates, click **[!UICONTROL Open Layers]** in the canvas toolbar to open it. For video templates, the panel is open by default.
+The [!UICONTROL Layers] panel on the right side of the canvas lists all elements in the template and lets you manage their order, visibility, and properties. For display templates, click **[!UICONTROL Open Layers]** in the canvas toolbar to open it. For video templates, the panel is open by default.
 
 Click any layer to select the corresponding element on the canvas.
 
@@ -383,7 +385,7 @@ Hold the cursor over a layer to see the following actions:
 | --- | --- |
 | ![Duplicate selected layer](/help/creative/assets/cs-icon-duplicate.png) **[!UICONTROL Duplicate selected layer]** | Creates a copy of the selected layer. |
 | ![Delete selected layer](/help/creative/assets/cs-icon-delete.png) **[!UICONTROL Delete selected layer]** | Deletes the selected layer. |
-| **[!UICONTROL Group selected layers]** (video templates only) | Groups two or more selected layers into a single group. Appears only when two or more layers are selected. Grouped layers can be ungrouped or have individual layers removed from the group using the controls on the group row. |
+| **[!UICONTROL Group selected layers]** (video templates only) | Groups two or more selected layers into a single group. Appears only when two or more layers are selected. You can ungroup grouped layers or remove individual layers from the group using the controls on the group row. |
 
 <!--
 
