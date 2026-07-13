@@ -185,3 +185,4 @@ Duplicate a dynamic creative to add a new creative with the same settings to the
 >* [About Creative Studio in Advertising Creative](creative-studio-about.md)
 >* [Manage standard ads in Creative Studio](creative-studio-manage-standard-ads.md)
 >* [Manage templates in Creative Studio](creative-studio-manage-templates.md)
+
