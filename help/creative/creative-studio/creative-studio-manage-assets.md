@@ -34,19 +34,15 @@ The **[!UICONTROL Assets]** tab lists your existing assets in a card view.
 * [Delete an asset](#assets-delete)
 
 <!--
-
 Should be in "Common Tasks" chapter
 
 ## Browse and search assets {#assets-search}
 
 * Use the **[!UICONTROL Search assets]** field to find assets by name. Enter at least three characters to trigger a search; shorter queries don't filter results.
 * Click **[!UICONTROL Filter]** to filter the asset library by type or other attributes.
-
 -->
 
 ## Supported asset types
-
-   <!-- Verified 2026-07-09 against creative-api TemplateMediaValidator.java (IMAGE_EXTENSIONS, VIDEO_EXTENSIONS, AUDIO_EXTENSIONS), which backs the /v1/creative/template-medias upload/initiate endpoint used by this tab. The Assets tab file input has no client-side accept restriction (TemplateBrowser.tsx) and relies entirely on this backend validator, so it is authoritative. -->
 
    | Type | Supported formats | Maximum file size |
    | --- | --- | --- |

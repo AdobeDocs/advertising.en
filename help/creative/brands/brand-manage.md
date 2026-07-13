@@ -123,11 +123,11 @@ You can delete a brand profile from the brand list or from the brand detail page
 
 The brand detail page is organized into the following tabs.
 
-### **[!UICONTROL Overview]**
+### [!UICONTROL Overview]
 
 Displays the brand name. To add a description, click **[!UICONTROL When to use this brand]**, enter the description text, and click **[!UICONTROL Save]**. The description saves immediately and doesn't require clicking the page-level **[!UICONTROL Save]** button.
 
-### **[!UICONTROL Brand voice guidelines]**
+### [!UICONTROL Brand voice guidelines]
 
 (Optional) Define the brand's voice and messaging standards. The AI agent uses these guidelines when generating headlines and copy.
 
@@ -139,7 +139,7 @@ Displays the brand name. To add a description, click **[!UICONTROL When to use t
 
 * **[!UICONTROL Editorial Restrictions]:** (Optional) Writing rules to avoid. Examples: "avoid jargon," "do not make pricing claims," or "never use competitor names."
 
-### **[!UICONTROL Image guidelines]**
+### [!UICONTROL Image guidelines]
 
 (Optional) Define standards for background and product images, organized into up to 10 categories. The AI agent uses these guidelines when generating background image prompts.
 
@@ -165,7 +165,7 @@ To delete a category, click ![Delete](/help/creative/assets/delete.png "Delete")
 
 * **[!UICONTROL Restrictions]:** (Optional) What to avoid. Include up to five items. Examples: "no stock-photo aesthetics" or "avoid busy backgrounds."
 
-### **[!UICONTROL Channel guidelines]**
+### [!UICONTROL Channel guidelines]
 
 Define<!-- Just one set of guidelines as of 7/9: channel-specific --> up to 10 copy standards. The AI agent uses channel guidelines when generating copy variations.
 
@@ -183,7 +183,7 @@ Define<!-- Just one set of guidelines as of 7/9: channel-specific --> up to 10 c
 
 * **[!UICONTROL Examples]:** (Optional) Sample ad copy (headline, subheadline, body, and CTA) that illustrates the <!-- Just one set of guidelines as of 7/9: channel's --> specified style. To see examples of the ad copy based on your guidelines, click **[!UICONTROL Create example]**.
 
-### **[!UICONTROL Logos]**
+### [!UICONTROL Logos]
 
 (Optional) Logos are used in ads that include a logo element and are available to the AI agent when swapping logo versions. Supported image types are JPG, PNG, and SVG, and each file can be up to 5 MB. Each brand can include a maximum of 10 logos.
 
@@ -209,7 +209,7 @@ To upload one or more brand logo files with the same category and description:
    
    * To remove a logo from the brand settings, click **[!UICONTROL ...]** > **[!UICONTROL Delete]**. In the confirmation message, click **[!UICONTROL Delete]**.
  
-### **[!UICONTROL Colors]**
+### [!UICONTROL Colors]
 
 (Optional) Define the brand's color palettes. The AI agent uses the specified colors when generating color-based ad variations.
 
