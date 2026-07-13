@@ -42,6 +42,15 @@ Should be in "Common Tasks" chapter
 * Click **[!UICONTROL Filter]** to filter the asset library by type or other attributes.
 -->
 
+## Supported asset types
+
+   | Type | Supported formats | Maximum file size |
+   | --- | --- | --- |
+   | Images | JPG/JPEG, PNG, GIF, WebP, SVG | 10 MB |
+   | Video | MP4, MOV, AVI, WebM | 512 MB |
+   | Audio | MP3, WAV, AAC, OGG | 50 MB |
+   | Fonts | TTF, OTF, WOFF, WOFF2 | 5 MB |
+
 ## Upload assets {#assets-upload}
 
 1. In the main menu, click **[!UICONTROL Creative Studio].**
@@ -52,29 +61,9 @@ Should be in "Common Tasks" chapter
 
 1. Select one or more files from your computer or network.
 
-   The following file types are supported:
-
-   | Type | Supported formats | Maximum file size |
-   | --- | --- | --- |
-   | Images | JPG/JPEG, PNG, GIF, WebP, SVG | 10 MB |
-   | Video | MP4, MOV, AVI, WebM | 512 MB |
-   | Audio | MP3, WAV, AAC, OGG | 50 MB |
-
    Empty files and unsupported file types are rejected with an error notification.
 
    The asset name is saved as the uploaded filename without its extension. Spaces and non-ASCII characters in the filename are replaced with underscores (for example, uploading `My Logo.png` creates an asset named `My_Logo`). You can rename the asset afterward.
-
-<!--
-(from Bob) Moved from above step. Content in your repo failed to publish, and I'm testing several possible issues. Comment syntax between steps is sometimes problematic.
-
-Verified 2026-07-09 against creative-api TemplateMediaValidator.java (IMAGE_EXTENSIONS, VIDEO_EXTENSIONS, AUDIO_EXTENSIONS), which backs the /v1/creative/template-medias upload/initiate endpoint used by this tab. The Assets tab file input has no client-side accept restriction (TemplateBrowser.tsx) and relies entirely on this backend validator, so it is authoritative.
-
-
-maybe later:
-
-   | Fonts | TTF, OTF, WOFF, WOFF2 | 5 MB |
-   
--->
 
 ## Edit an asset name {#asset-rename}
 

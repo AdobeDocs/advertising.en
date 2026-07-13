@@ -244,7 +244,7 @@ The left panel contains a column of icons. Click an icon to open its content pan
 | Icon | Description |
 | --- | --- |
 | **[!UICONTROL Search]** | Search across all asset types in your library. |
-| **[!UICONTROL Upload]** | Upload images<!-- not there as of 7/10:  or font files (TTF, OTF, WOFF, WOFF2)--> into the editor for use in the current template. You can upload up to 20 files at a time. |
+| **[!UICONTROL Upload]** | Upload images or font files into the editor for use in the current template. You can upload up to 20 files at a time. |
 | **[!UICONTROL Templates]** | Browse ad templates from your Creative Studio library to use as a base layer or reference element. |
 | **[!UICONTROL My Assets]** | Browse all assets you've uploaded in the Creative Studio Assets tab. |
 | **[!UICONTROL Images]** | Browse only the image assets you've uploaded in the Creative Studio Assets tab.. |
