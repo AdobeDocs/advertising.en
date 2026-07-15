@@ -37,7 +37,7 @@ Bulksheet files and error files are automatically deleted 30 days after they're 
 
    The same settings apply to all files you post.
 
-When the task begins, the status and scheduled post date for the row are updated in the [!UICONTROL Bulksheets] view. When email notifications for bulksheets are [enabled within [!UICONTROL Notification Center]](/help/search-social-commerce/new-ui/notifications/notification-manage.md), then an email notification with a link to the file is sent when the file is posted. Depending on the amount of data compiled, the email notification may take several minutes or more. If any of the data can't be posted, then an error file is listed in the [!UICONTROL Bulksheets] view, and an email notification is sent with a link to the error file.
+When the task begins, the status and scheduled post date for the row are updated in the [!UICONTROL Bulksheets] view. When email notifications for bulksheets are [enabled within [!UICONTROL Notification Center]](/help/search-social-commerce/new-ui/notifications-manage.md), then an email notification with a link to the file is sent when the file is posted. Depending on the amount of data compiled, the email notification may take several minutes or more. If any of the data can't be posted, then an error file is listed in the [!UICONTROL Bulksheets] view, and an email notification is sent with a link to the error file.
 
 >[!NOTE]
 >
