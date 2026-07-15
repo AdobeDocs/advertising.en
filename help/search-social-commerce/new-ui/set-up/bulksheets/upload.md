@@ -29,7 +29,7 @@ You can upload bulksheet files, corrected landing page validation error files, a
 
 1. Click **[!UICONTROL Upload]**.
 
-When the task begins, the file is listed in the [!UICONTROL Bulksheets] view. When email notifications for bulksheets are [enabled within [!UICONTROL Notification Center]](/help/search-social-commerce/new-ui/notifications/notification-manage.md), then an email notification is sent with a link to the file when the job is complete. Depending on the amount of data compiled, the email notification may take several minutes or more. If the file generation fails, then an error file is listed in the [!UICONTROL Bulksheets] view and an email notification is sent with a link to the error file.
+When the task begins, the file is listed in the [!UICONTROL Bulksheets] view. When email notifications for bulksheets are [enabled within [!UICONTROL Notification Center]](/help/search-social-commerce/new-ui/notifications-manage.md), then an email notification is sent with a link to the file when the job is complete. Depending on the amount of data compiled, the email notification may take several minutes or more. If the file generation fails, then an error file is listed in the [!UICONTROL Bulksheets] view and an email notification is sent with a link to the error file.
 
 >[!NOTE]
 >

@@ -56,7 +56,7 @@ You can later download the file, correct the errors and upload the corrected fil
 
    **[!UICONTROL Report redirects as errors]:** When a landing page redirects to another page (for example, if the landing page is missing and the site displays a substitute page), the [!UICONTROL EF Errors] column in the landing page error file indicates the URL to which the landing page is redirected.
 
-When the task begins, a new row is added to the [!UICONTROL Bulksheets] view. When email notifications for bulksheets are [enabled within [!UICONTROL Notification Center]](/help/search-social-commerce/new-ui/notifications/notification-manage.md), then an email notification with a link to the file is sent when the file is created. Depending on the amount of data compiled, the email notification may take several minutes or more. You can download the file to edit it and then reupload it for posting, or you can post the file as-is.
+When the task begins, a new row is added to the [!UICONTROL Bulksheets] view. When email notifications for bulksheets are [enabled within [!UICONTROL Notification Center]](/help/search-social-commerce/new-ui/notifications-manage.md), then an email notification with a link to the file is sent when the file is created. Depending on the amount of data compiled, the email notification may take several minutes or more. You can download the file to edit it and then reupload it for posting, or you can post the file as-is.
 
 >[!NOTE]
 >
