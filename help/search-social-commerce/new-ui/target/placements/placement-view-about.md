@@ -19,7 +19,7 @@ The [!UICONTROL Manage] > [!UICONTROL Placements] view includes two tabs:
 
 * [Assign constraints to placements, and unassign constraints from placements](/help/search-social-commerce/new-ui/target/placements/placement-constraint-assignments-manage.md)
 
-* [Assign label classifications](help/search-social-commerce/new-ui/reports/label-classifications-manage.md) to placements
+* [Assign label classifications](/help/search-social-commerce/new-ui/reports/label-classifications-manage.md) to placements
 
 >[!MORELIKETHIS]
 >

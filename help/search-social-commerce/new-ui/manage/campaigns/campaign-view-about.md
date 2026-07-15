@@ -43,7 +43,7 @@ Search, Social, & Commerce pulls performance data hourly from synced [!DNL Googl
 
 * [Assign constraints to campaigns, and unassign constraints from campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 
-* [Assign label classifications](help/search-social-commerce/new-ui/reports/label-classifications-manage.md) to campaigns
+* [Assign label classifications](/help/search-social-commerce/new-ui/reports/label-classifications-manage.md) to campaigns
 
 * [Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
 
