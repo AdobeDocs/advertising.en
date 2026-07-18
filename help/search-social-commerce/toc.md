@@ -210,6 +210,7 @@ role_v2:
     + Placements {#placements}
       + [About the [!UICONTROL Placements] view](/help/search-social-commerce/new-ui/target/placements/placement-view-about.md)
       + [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-constraint-assignments-manage.md)
+    + [Manage [!DNL Google Ads] dynamic search targets](/help/search-social-commerce/new-ui/target/dynamic-search-target-manage.md)
   + Setup {#setup}
     + Accounts {#accounts}
       + [About ad network accounts](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)
