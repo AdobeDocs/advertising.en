@@ -169,7 +169,7 @@ The account settings vary by ad network. You may not see all settings below.
 
 **[!UICONTROL Currency]:** (Read-only) The abbreviation for the currency used for the account. This value is filled automatically with the currency configured for the account on the ad network once you save the record.
 
-**[!UICONTROL Time Zone]:** The advertiser's time zone. This value is filled automatically with the time zone configured for the advertiser's Search, Social, & Commerce account once you save the record.
+**[!UICONTROL Time Zone]:** (Read-only) The advertiser's time zone. This value is filled automatically with the time zone configured for the advertiser's Search, Social, & Commerce account once you save the record.
 
 **[!UICONTROL Login]:** (Read-only) The user account used to log into the account.
 
