@@ -66,7 +66,7 @@ You can assign a single constraint to one or more campaigns.
 
 1. Click **[!UICONTROL Save]**.
 
-## Unassign constraints from selected campaigns from the new [!UICONTROL Campaigns] view
+## Remove constraints from selected campaigns from the new [!UICONTROL Campaigns] view
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
 

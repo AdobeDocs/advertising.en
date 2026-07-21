@@ -41,11 +41,7 @@ For more information about [!DNL Google Ads] dynamic search ads, see https://sup
 
 ## The [!UICONTROL Auto Targets] view
 
-The [!UICONTROL Auto Targets] view lists all dynamic search targets in the filtered view for the selected advertiser account.
-
-You can create, edit, and change the status of dynamic search targets in the [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Auto Targets] view.
-
-You also can [apply a label](/help/search-social-commerce/campaign-management/label-classifications/classification-values-assign-campaign-management.md) to any target.
+The [!UICONTROL Target] > [!UICONTROL Auto Targets] view lists all dynamic search targets in the filtered view for the selected advertiser account. You can also manage your dynamic search targets.
 
 ### Available actions
 
@@ -57,9 +53,9 @@ You also can [apply a label](/help/search-social-commerce/campaign-management/la
 * Change the status of dynamic search targets
 -->
 
-* [Assign constraints to dynamic search targets](#constraint-assign), and [unassign constraints from dynamic search targets](#constraint-unassign)
+* [Assign constraints](#constraint-assign) to dynamic search targets, and [remove constraints](#constraint-unassign) from dynamic search targets
 
-* [Assign label classifications](#classification-values-assign) to dynamic search targets, and [remove label classifications](#classification-values-remove) from dynamic searchh targets
+* [Assign label classifications](#classification-values-assign) to dynamic search targets, and [remove label classifications](#classification-values-remove) from dynamic search targets
 
 >[!NOTE]
 >
@@ -190,7 +186,7 @@ You can also delete any dynamic target.
 
 1. Click **[!UICONTROL Assign Now]**.
 
-## Unassign constraints from selected dynamic search targets from the new [!UICONTROL Auto Targets] view {#constraint-unassign} 
+## Remove constraints from selected dynamic search targets from the new [!UICONTROL Auto Targets] view {#constraint-unassign} 
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Auto Targets]**.
 
@@ -234,7 +230,7 @@ You can also delete any dynamic target.
 
 1. Click **+ [!UICONTROL Assign Now]**.
 
-## Remove label classification values from dynamic search targets{#classification-values-remove}
+## Remove label classification values from dynamic search targets {#classification-values-remove}
 
 Removing a classification value removes the association with the account component and all of its child components. Report data for the classification value is no longer available for those components. Removing a classification value doesn't delete the value nor the account components.
 
