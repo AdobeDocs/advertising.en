@@ -417,8 +417,6 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 1. In the [!UICONTROL Recently Generated] list in the [!UICONTROL Grid Reports] dialog, click ![Delete](/help/search-social-commerce/assets/delete-new.png "Delete") next to the file name.
 
 >[!MORELIKETHIS]
-
-<!-- >* [[!DNL Meta Ads] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings/campaign-settings-meta.md) -->
 >
 >* [Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
 >* [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
@@ -431,3 +429,6 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 >* [[!DNL LY Ads] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings/campaign-settings-yahoo-japan.md)
 >* [[!DNL Microsoft Advertising] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings/campaign-settings-microsoft.md)
 >* [[!DNL Yandex] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings/campaign-settings-yandex.md)
+
+<!-- >* [[!DNL Meta Ads] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings/campaign-settings-meta.md) -->
+
