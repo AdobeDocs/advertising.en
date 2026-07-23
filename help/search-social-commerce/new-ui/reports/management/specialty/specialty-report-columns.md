@@ -9,10 +9,10 @@ feature: Search Reports, Search Specialty Reports
 |----|----|
 | \[Advertiser-specific custom (derived) metrics\] | The value for a custom metric you've created that's calculated from existing metrics. |
 | \[Advertiser-specific conversion metrics\] | The number of conversions for a specified conversion metric or site engagement metric. |
-|[!UICONTROL Absolute Top Impression Rate Percent] | The percentage of your ad impressions that were shown in the first position at the top of search results. |
-|[!UICONTROL Absolute Top Impression Share Lost To Budget Percent] | The estimated percentage of time that your ads weren't shown in the first position at the top of search results because your daily or monthly budget was too low. |
-|[!UICONTROL Absolute Top Impression Share Lost To Rank Percent] | The percentage of time that your ads weren't shown in the first position at the top of search results because of a poor ad rank. |
-|[!UICONTROL Absolute Top Impression Share Percent] | The impressions you've received in the absolute top location (the first ad above the organic search results) divided by the estimated number of impressions that you were eligible to receive in the top location. |
+| [!UICONTROL Absolute Top Impression Rate Percent] | The percentage of your ad impressions that were shown in the first position at the top of search results. |
+| [!UICONTROL Absolute Top Impression Share Lost To Budget Percent] | The estimated percentage of time that your ads weren't shown in the first position at the top of search results because your daily or monthly budget was too low. |
+| [!UICONTROL Absolute Top Impression Share Lost To Rank Percent] | The percentage of time that your ads weren't shown in the first position at the top of search results because of a poor ad rank. |
+| [!UICONTROL Absolute Top Impression Share Percent] | The impressions you've received in the absolute top location (the first ad above the organic search results) divided by the estimated number of impressions that you were eligible to receive in the top location. |
 | [!UICONTROL Account Name] | The account name. |
 | [!UICONTROL Account Number] | ([!UICONTROL MSA Ad Extension] reports) The account identifier assigned by the ad network. |
 | [!UICONTROL Account Status] | ([!UICONTROL MSA Ad Extension] reports) The account status: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, or *[!UICONTROL Inactive]*. |
@@ -30,8 +30,8 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL All Conversion Rate] | ([!UICONTROL MSA Ad Extension] reports) The conversion rate as a percentage. |
 | [!UICONTROL All Conversions] | ([!UICONTROL Google AI Max Search Term Combination] and [!UICONTROL MSA Ad Extension] reports) The total number of conversions. For the [!UICONTROL Google AI Max Search Term Combination Report], this value includes conversion actions that aren't included in your main Conversions column. |
 | [!UICONTROL All Conversions Qualified] | ([!UICONTROL MSA Ad Extension] reports) The number of conversions. |
-|[!UICONTROL All Conversions Value] | ([!UICONTROL Google AI Max Search Term Combination Report])The value of all conversions. |
-|[!UICONTROL All Conversions Value Per Cost] | ([!UICONTROL Google AI Max Search Term Combination Report]) The value of all conversions divided by the total cost of ad interactions (such as clicks or video views). |
+| [!UICONTROL All Conversions Value] | ([!UICONTROL Google AI Max Search Term Combination Report]) The value of all conversions. |
+| [!UICONTROL All Conversions Value Per Cost] | ([!UICONTROL Google AI Max Search Term Combination Report]) The value of all conversions divided by the total cost of ad interactions (such as clicks or video views). |
 | [!UICONTROL All Cost Per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The cost per conversion. |
 | [!UICONTROL All Return on Ad Spend] | ([!UICONTROL MSA Ad Extension] reports) The total revenue divided by spend, expressed as a percentage. |
 | [!UICONTROL All Revenue Per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The revenue per conversion. |
@@ -69,11 +69,11 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Conversions] | ([!UICONTROL Google AI Max Search Term Combination], [!UICONTROL Google Asset Group Performance], and [!UICONTROL MSA Ad Extension] reports) The total conversions for the specified period. For the [!UICONTROL MSA Ad Extension] report, this is the number of clicks that resulted in a sale or another measure of success. For the [!UICONTROL Google AI Max Search Term Combination] report, this is the total number of conversions from conversion actions for which "Include in conversions" is enabled |
 | [!UICONTROL Conversions from Interactions Rate] | ([!UICONTROL Google Asset Group Performance Report]) The number of conversions from ad interactions divided by the number of ad interactions. This value considers only conversion actions for which the `include_in_conversions_metric` attribute is set to `true`. |
 | [!UICONTROL Conversions Qualified] | ([!UICONTROL MSA Ad Extension] reports) The number of conversions. |
-|[!UICONTROL Conversions Value] | ([!UICONTROL Google AI Max Search Term Combination Report]) The value of all conversions from conversion actions for which "Include in conversions" is enabled. |
-|[!UICONTROL Conversions Value Per Cost] | ([!UICONTROL Google AI Max Search Term Combination Report]) The value of all conversions divided by the total cost of ad interactions (such as clicks or video views). It includes only conversions from conversion actions for which "Include in conversions" is enabled. |
+| [!UICONTROL Conversions Value] | ([!UICONTROL Google AI Max Search Term Combination Report]) The value of all conversions from conversion actions for which "Include in conversions" is enabled. |
+| [!UICONTROL Conversions Value Per Cost] | ([!UICONTROL Google AI Max Search Term Combination Report]) The value of all conversions divided by the total cost of ad interactions (such as clicks or video views). It includes only conversions from conversion actions for which "Include in conversions" is enabled. |
 | [!UICONTROL Cost] | The total cost for ads during the specified date range. |
 | [!UICONTROL Cost Micros] | ([!UICONTROL Google Asset Group Performance Report]) The sum of your cost-per-click (CPC) and cost-per-thousand impressions (CPM) costs during the specified period. |
-|[!UICONTROL Cost Per All Conversions] | ([!UICONTROL Google AI Max Search Term Combination Report]) The cost of ad interactions divided by all conversions. |
+| [!UICONTROL Cost Per All Conversions] | ([!UICONTROL Google AI Max Search Term Combination Report]) The cost of ad interactions divided by all conversions. |
 | [!UICONTROL Cost Per Assist] | ([!UICONTROL MSA Ad Extension] reports) The total cost per assist. |
 |[!UICONTROL Cost Per Conversion] | ([!UICONTROL Google AI Max Search Term Combination Report] and [!UICONTROL MSA Ad Extension] reports)) The cost of ad interactions divided by conversions. For Google Ads, this includes only conversions from conversion actions for which "Include in conversions" is enabled. |
 | [!UICONTROL Country] | ([!UICONTROL AdWords Geo Report] and [!UICONTROL Bing Ads Geo Report]) A country from which clicks originated. It's determined from the user's IP address. |
@@ -84,7 +84,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL Creative Status] | ([!UICONTROL MSA Ad Extension] reports) The status of the ad. |
 | [!UICONTROL Creative Name] | (Transaction Report; [!DNL LY Ads] only) The ad image name. |
 | [!UICONTROL Creative Title] | The title or headline of the ad. |
-|[!UICONTROL Cross Device Conversions] | ([!UICONTROL Google AI Max Search Term Combination Report]) Conversions that result when a user clicks ad on one device and then converts on a different device or browser. Cross-device conversions are included in All Conversions. |
+| [!UICONTROL Cross Device Conversions] | ([!UICONTROL Google AI Max Search Term Combination Report]) Conversions that result when a user clicks ad on one device and then converts on a different device or browser. Cross-device conversions are included in All Conversions. |
 | [!UICONTROL CTR] | The click-through rate, which is the number of clicks divided by the number of impressions for the included ads. |
 | [!UICONTROL Current Quality Score] | ([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns only) The current quality score for the keyword or bid unit, as designated by the ad network. It ranges from 1 (low) to 10 (perfect). For a single keyword and match type combination, this value is the current score for that combination. When the same keyword and match type combination is used in multiple campaigns, this value is the maximum current score among all instances.<br><br>The ad networks use the quality score to determine bid prices and ad position. It's calculated according to many factors, including the relevancy of the keyword to its associated ad and to the user's search query and the quality of the landing page. For keywords in [!DNL Google Ads], the keyword's click-through rate is also considered, and for keywords in [!DNL Microsoft Advertising], the user experience provided by the landing page is also considered. |
 | [!UICONTROL Delivered Match Type] | ([!UICONTROL MSA Ad Extension] reports) The match type the ad network used to deliver the ad. |
