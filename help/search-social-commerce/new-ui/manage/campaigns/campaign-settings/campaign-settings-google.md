@@ -1,9 +1,7 @@
 ---
 title: "[!DNL Google Ads] campaign settings"
 description: Reference the settings for [!DNL Google Ads] campaigns.
-exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/pj3C6fQc6BHhS9ES92nNC7AzxprwHeCwvPYLYBJkAo4
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -73,7 +71,6 @@ topic_v2:
 * *[!UICONTROL Target and Bid]* To show ads only to users associated with target audiences who also satisfy any other targets for the ad group.
 
 **[!UICONTROL Contains EU Political Ads]:**(Applicable to campaigns that target audiences in the European Union (EU)) Whether or not the campaign contains political advertising per requirements for ads served in the European Union under EU Regulation 2024/90: *[!UICONTROL No]* or *[!UICONTROL Yes]*.
-
 
 ## [!UICONTROL Budget Options] tab
 

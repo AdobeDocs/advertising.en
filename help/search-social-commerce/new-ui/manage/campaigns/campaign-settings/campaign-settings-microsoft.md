@@ -1,9 +1,7 @@
 ---
 title: "[!DNL Microsoft Advertising] campaign settings"
 description: Reference the settings for [!DNL Microsoft Advertising] campaigns.
-exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/1odLCTaPgF8iGeVgys2j124fhX1K208YYq0ftDp9l7w
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -22,10 +20,21 @@ topic_v2:
 ---
 # [!DNL Microsoft Advertising] campaign settings
  
-## \[Campaign Creation screen\]
+## \[Top of page]
 
-**[!UICONTROL Campaign Type]:** (Available during campaign creation only) Where to place ads, and which ad types
-the campaign may contain:
+**[!UICONTROL Campaign Name]:** A campaign name that's unique within the account.
+
+**[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
+
+## [!UICONTROL Basic Settings] tab
+
+*New campaigns only*
+
+**[!UICONTROL Network]:** The ad network.
+
+**[!UICONTROL Account]:** The ad network account.
+
+**[!UICONTROL Campaign Type]:** Where to place ads, and which ad types the campaign may contain:
 
 * *[!UICONTROL Search]:* Shows text ads on the search network.
 
@@ -37,17 +46,13 @@ the campaign may contain:
 
 * *[!UICONTROL Microsoft Store Ads Campaign]:* Promotes your apps and games that are available in the [!DNL Microsoft Store]. You can create child ad groups, product groups, and optional product ads for the campaign; [!DNL Microsoft Advertising] automatically creates ads for the product groups.
 
-* *[!UICONTROL Audience CTV Video]:* Shows connected TV (CTV) video ads on the audience network.
-
 * *[!UICONTROL Audience Video]:* Shows standard video ads on the audience network.
+
+* *[!UICONTROL Audience CTV Video]:* Shows connected TV (CTV) video ads on the audience network.
 
 * *[!UICONTROL Performance Max]:* Shows multiple ad types across all networks using [!DNL Microsoft Advertising] smart bidding. Within the campaign settings, you must specify one or more asset groups, which include images, logos, headlines, descriptions, an optional call to action, and audience signals. The ad network automatically combines the assets to serve ads based on the channel.
 
-## [!UICONTROL Campaign Details]
-
-**[!UICONTROL Campaign Name]:** A campaign name that's unique within the account. The maximum length is 128 characters.
-
-**[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
+## [!UICONTROL Campaign Details] tab
 
 <!-- **[!UICONTROL Start Date]:** -->
 
@@ -59,7 +64,7 @@ the campaign may contain:
 
 **[!UICONTROL Contains EU Political Ads]:**(Applicable to campaigns that target audiences in the European Union (EU)) Whether or not the campaign contains political advertising per requirements for ads served in the European Union under EU Regulation 2024/90: *[!UICONTROL Yes]* or *[!UICONTROL No]*.
 
-## [!UICONTROL Budget Options]
+## [!UICONTROL Budget Options] tab
 
 <!-- **[!UICONTROL Budget]:** -->
 
@@ -81,19 +86,17 @@ the campaign may contain:
 
   When you add a campaign with eCPC to an optimized Search, Social, & Commerce portfolio, Search, Social, & Commerce optimizes the base bids and &mdash; when the "[!UICONTROL Auto adjust campaign budget limits]" option is enabled &mdash; the campaign budget. The ad network optimizes all bid adjustments and may change the Search, Social, & Commerce-generated bids at the time of the user query based on proprietary data and insights. **Caution:** Use eCPC campaigns in portfolios only when the total conversions tracked on the ad network align with the portfolio objective.
 
-* *[!UICONTROL Manual CPC]*: (Shopping campaigns for brands; [!DNL Microsoft Store Ads] campaigns; deprecated for other campaign types) Uses the cost-per-click (CPC) model. For some ad types, you can optionally allow the ad network to change bids for the campaign:
+* *[!UICONTROL Manual CPC]*: (Shopping campaigns for brands and [!DNL Microsoft Store Ads] campaigns) Uses the cost-per-click (CPC) model. For some ad types, you can optionally allow the ad network to change bids for the campaign:
 
   * **[!UICONTROL Enable Enhanced CPC]** (disabled by default): This option is the same as using the "[!UICONTROL Enhanced CPC]" option.
-
-* *[!UICONTROL Manual CPA]:* ([!DNL Microsoft Store Ads] campaigns) Uses the cost per acquisition (CPA) model.
 
 * *[!UICONTROL Manual CPM]* (Audience campaigns and audience video campaigns only) Uses the cost-per-thousand-impressions (CPM) model, for which you specify what you want to spend per 1,000 viewed impressions. Campaigns with this bid strategy aren't optimized when they're included in portfolios.
 
 * *[!UICONTROL Maximize Clicks]:* (Search and shopping campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to maximize clicks. Optionally, enter a **[!UICONTROL Max CPC]** (cost per click) to ensure that the ad network doesn't pay more than a specific amount for each click. **Caution:** When you add a campaign with this strategy to a portfolio, the click weight (not the portfolio objective) drives bids.
 
-* *[!UICONTROL Maximize Conversion Value]:* (Search and shopping/smart shopping networks, performance max campaigns) The ad network &mdash; not Search, Social, & Commerce  &mdash; optimizes bids to maximize conversion value. Optionally enter a **[!UICONTROL Target Return on Ad Spend]** (ROAS) as a percent. **Note:** Use this option for campaigns in portfolios with campaign-level optimization. In portfolios with campaign-level optimization, Search, Social, & Commerce optimizes the Target ROAS.
-
 * *[!UICONTROL Maximize Conversions]:* (Performance max campaigns and campaigns on the search network or audience network (but not audience videos or connected TV)) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to maximize conversions. Optionally enter a **[!UICONTROL Target CPC]** (cost per click). For audience campaigns, you can also enter an optional **[!UICONTROL Target CPA]** (cost per acquisition). **Note:** Use this option for campaigns in portfolios with campaign-level optimization. In portfolios with campaign-level optimization, Search, Social, & Commerce optimizes the Target CPA.
+
+* *[!UICONTROL Maximize Conversion Value]:* (Search and shopping/smart shopping networks, performance max campaigns) The ad network &mdash; not Search, Social, & Commerce  &mdash; optimizes bids to maximize conversion value. Optionally enter a **[!UICONTROL Target Return on Ad Spend]** (ROAS) as a percent. **Note:** Use this option for campaigns in portfolios with campaign-level optimization. In portfolios with campaign-level optimization, Search, Social, & Commerce optimizes the Target ROAS.
 
 * *[!UICONTROL Target CPA]:* (Campaigns on the search network) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on an optional **[!UICONTROL Target CPA]** (cost per acquisition), which is the 30-day average amount you want to pay for an acquisition (conversion). **Note:** Use this option for campaigns in portfolios with campaign-level optimization with any spend strategy except [!UICONTROL Weekly] or [!UICONTROL Google Target CPA]. In portfolios with campaign-level optimization, Search, Social, & Commerce optimizes the Target CPA.
 
@@ -105,7 +108,7 @@ the campaign may contain:
 
   Average position and CPC bid data aren't available for campaigns with this bid strategy.
 
-## [!UICONTROL Shopping Settings]
+## [!UICONTROL Shopping Settings] tab
 
 **[!UICONTROL Sales Country]:** (Shopping campaigns only; read-only for existing campaigns) The country in which
 the campaign's products are sold. Because products are associated with target countries, this setting determines which products are advertised in the campaign.
@@ -124,11 +127,17 @@ Once you link the campaign to a store and save the settings, you can't change th
 
 **[!UICONTROL Products]:** (Audience campaigns linked to a merchant center store only) The products to advertise. By default, *[!UICONTROL All products]* is selected. To advertise only products with specific attributes, select *[!UICONTROL Filter products]* and specify up to seven product dimension-and-attribute combinations on which to filter your products. All specified values must be applicable for ads to appear for the product. For example, to show ads for Acme pet supplies, you might create the filters `Custom Label 1=animals`, `Category=pet supplies`, and `Brand=Acme Pet Supplies`.
 
+**[!UICONTROL Local Inventory Ads]:** (Shopping network campaigns only) Allows the ad network to automatically add your local inventory information to your shopping ads. 
+
+**Tip:** If you use this setting, don't exclude local ads in the [!UICONTROL Inventory Filter] setting.
+
+**Note:** Local inventory ads require two additional feeds to your merchant center account &mdash; one with your local product data and another with your local product inventory. See the [!DNL Microsoft Advertising] documentation for more information about [local shopping ads](https://help.ads.microsoft.com/#apex/ads/en/60055).
+
 <!-- **[!UICONTROL Inventory Filter]:** -->
 
 {{$include /help/_includes/inventory-filter.md}}
 
-## [!UICONTROL Campaign Targeting]
+## [!UICONTROL Campaign Targeting] tab
 
 **[!UICONTROL Languages]:** (Performance max campaigns only) The language of the ad, which should match the language of the sites on which your ad can appear. [!DNL Microsoft Advertising] determines a user's language from various signals, including the user's query, the publisher's country, and the user's language setting.
 
@@ -140,7 +149,7 @@ Once you link the campaign to a store and save the settings, you can't change th
 
 {{$include /help/_includes/devices.md}}
 
-## [!UICONTROL URL Options]
+## [!UICONTROL URL Options] tab
 
 <!-- **[!UICONTROL Tracking Template]:** -->
 
@@ -154,7 +163,7 @@ Once you link the campaign to a store and save the settings, you can't change th
 
 {{$include /help/_includes/landing-page-suffix.md}}
 
-## [!UICONTROL DSA Options]
+## [!UICONTROL DSA Options] tab
 
 <!-- **[!UICONTROL Website Domain]:** -->
 
@@ -164,7 +173,9 @@ Once you link the campaign to a store and save the settings, you can't change th
 
 {{$include /help/_includes/dsa-language.md}}
 
-## [!UICONTROL Negative Keywords]
+## [!UICONTROL Additional Campaign Information] tab
+
+### [!UICONTROL Negative Keywords]
 
 <!-- **[!UICONTROL Negative Keywords]:** -->
 
@@ -174,13 +185,7 @@ Once you link the campaign to a store and save the settings, you can't change th
 
 {{$include /help/_includes/negative-keyword-note-microsoft.md}}
 
-## [!UICONTROL Negative Websites]
-
-**[!UICONTROL Negative Websites]:** (Campaigns on the display/native network only; optional) Sites on the display network on which you don't want your ads to be displayed. Enter a valid URL, such as www.example.com. To specify multiple strings, separate them with commas or enter them on separate lines.
-
-For information about availability, see Microsoft Advertising help to "[Prevent ads from appearing on specific websites](https://help.ads.microsoft.com/#apex/bae/en/14061/0)."
-
-## [!UICONTROL Campaign Tracking]
+### [!UICONTROL Campaign Tracking]
 
 <!-- **[!UICONTROL Override Account Tracking]:** -->
 
@@ -194,14 +199,6 @@ For information about availability, see Microsoft Advertising help to "[Prevent 
 
 {{$include /help/_includes/redirect-type.md}}
 
-<!-- **[!UICONTROL Auto Upload]:** -->
-
-{{$include /help/_includes/auto-upload.md}}
-
-<!-- **[!UICONTROL Encode Base URL]:** -->
-
-{{$include /help/_includes/encode-base-url.md}}
-
 **[!UICONTROL Tracking Level]:** (For [!UICONTROL EF Redirect] only) The level at which clicks and revenue should be tracked by adding a redirect (when relevant) and append parameters to the relevant URLs:
 
 * *[!UICONTROL Keyword]:* To track data at only the keyword level.
@@ -210,11 +207,41 @@ For information about availability, see Microsoft Advertising help to "[Prevent 
 
 * *[!UICONTROL Creative and Keyword]:* To track data at both the ad (creative) and keyword levels.
 
-<!-- **[!UICONTROL Append Parameters]:** -->
+**[!UICONTROL Enable conversion reporting in Adobe Analytics]:** Adds a URL parameter to ads in the account or campaign for conversion tracking.
+
+<!-- **[!UICONTROL Encode Base URL]:** -->
+
+{{$include /help/_includes/encode-base-url.md}}
 
 {{$include /help/_includes/append-parameters.md}}
 
-## [!UICONTROL Asset Groups] (per asset group)
+<!--
+
+Not there as of 7/22 -- what's going on here? If we're removing it, then I need to update many references throughout the whole doc:
+
+[               **[!UICONTROL Auto Upload]:**      ]
+
+{{$include /help/_includes/auto-upload.md}}
+
+-->
+
+### [!UICONTROL Negative Websites]
+
+**[!UICONTROL Negative Websites]:** (Campaigns on the display/native network only; optional) Sites on the display network on which you don't want your ads to be displayed. Enter a valid URL, such as www.example.com. To specify multiple strings, separate them with commas or enter them on separate lines.
+
+For information about availability, see Microsoft Advertising help to "[Prevent ads from appearing on specific websites](https://help.ads.microsoft.com/#apex/bae/en/14061/0)."
+
+### [!UICONTROL Conversion Goals]
+
+**[!UICONTROL Conversion Goal]:** Whether to *[!UICONTROL Use account conversion goals for this campaign]* (the default) or *[!UICONTROL Use campaign specific conversion goals]*. If you choose to specify conversion goals for the campaign, then select the goals from the list of all available goals. **Note:** Goals are synchronized daily, so goals created in the previous 24 hours may not be listed. To update the list, [manually synchronize the ad network data](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
+
+>[!TIP]
+>
+>If the campaign is part of a hybrid portfolio, the best practice is to use campaign-level goals that match the conversion goals in the portfolio's objective; including additional conversion goals may impact portfolio performance. 
+>
+> However, for campaigns in hybrid portfolios for which you [upload objectives to the ad network](/help/search-social-commerce/tools/objective-upload-to-networks.md), do the following within the ad network's editor instead of here: a) add the uploaded Search, Social, & Commerce portfolio objective metric (which begins with "O_ACS_OBJ") as a conversion goal for the campaign, and b) add any campaign goals that include conversions tracked by the [!DNL Microsoft Advertising] universal event tracking (UET) tag because ad network-tracked metrics aren't uploaded to the ad network with the objective.
+
+### [!UICONTROL Asset Groups] (per asset group)
 
 **[!UICONTROL Asset Group Name]:** The name of the asset folder (asset group).
 
@@ -310,16 +337,6 @@ For information about availability, see Microsoft Advertising help to "[Prevent 
 {{$include /help/_includes/display-path1-2.md}}
 
 **[!UICONTROL Add new asset group]:** Allows you to specify another asset group.
-
-## [!UICONTROL Conversion Goals]
-
-**[!UICONTROL Conversion Goal]:** Whether to *[!UICONTROL Use account conversion goals for this campaign]* (the default) or *[!UICONTROL Use campaign specific conversion goals]*. If you choose to specify conversion goals for the campaign, then select the goals from the list of all available goals. **Note:** Goals are synchronized daily, so goals created in the previous 24 hours may not be listed. To update the list, [manually synchronize the ad network data](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
-
->[!TIP]
->
->If the campaign is part of a hybrid portfolio, the best practice is to use campaign-level goals that match the conversion goals in the portfolio's objective; including additional conversion goals may impact portfolio performance. 
->
-> However, for campaigns in hybrid portfolios for which you [upload objectives to the ad network](/help/search-social-commerce/tools/objective-upload-to-networks.md), do the following within the ad network's editor instead of here: a) add the uploaded Search, Social, & Commerce portfolio objective metric (which begins with "O_ACS_OBJ") as a conversion goal for the campaign, and b) add any campaign goals that include conversions tracked by the [!DNL Microsoft Advertising] universal event tracking (UET) tag because ad network-tracked metrics aren't uploaded to the ad network with the objective.
 
 >[!MORELIKETHIS]
 >

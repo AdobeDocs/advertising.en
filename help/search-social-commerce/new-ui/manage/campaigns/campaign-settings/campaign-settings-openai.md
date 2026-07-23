@@ -1,6 +1,6 @@
 ---
-title: "[!DNL LY Ads] campaign settings"
-description: Reference the settings for [!DNL LY Ads] campaigns.
+title: "[!DNL OpenAI Ads] campaign settings"
+description: Reference the settings for [!DNL OpenAI Ads] campaigns.
 feature: Search Campaign Management
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
@@ -12,7 +12,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
 ---
-# [!DNL LY Ads] campaign settings
+# [!DNL OpenAI Ads] campaign settings
+
+<!-- EDIT ALL AS NEEDED -->
 
 ## \[Top of page]
 

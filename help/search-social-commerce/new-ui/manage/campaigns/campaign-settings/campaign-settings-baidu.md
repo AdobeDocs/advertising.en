@@ -1,9 +1,7 @@
 ---
 title: "[!DNL Baidu] campaign settings"
 description: Reference the settings for [!DNL Baidu] campaigns.
-exl-id: bc8ec4e2-4b40-4c9d-8223-29143fe63784
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/eYQ4cNEAmEEoC6OksxjtqdJRf90E0a2UGiTny5BVGQU
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -18,36 +16,59 @@ topic_v2:
 ---
 # [!DNL Baidu] campaign settings
 
-## \[Campaign Creation screen\]
+## \[Top of page]
 
-**[!UICONTROL Campaign Type]:** (Available during campaign creation only) Where to place ads. The only is *Search Network Only*.
-
-## [!UICONTROL Campaign Details]
-
-**[!UICONTROL Campaign Name]:** A campaign name that's unique within the account. The maximum length is 15 double-byte characters.
-
-**[!UICONTROL Ad Serving]:**
-How often the search engine delivers your active ads in relation to one another within an ad group:
-
-* *[!UICONTROL Rotate]* (the default for new campaigns):  Each of your ads has the same probability of entering the ad auction.
-
-* *[!UICONTROL Optimize]:*  The ad network favors ads that perform better. This may be inconsistent with your business and optimization objectives.
+**[!UICONTROL Campaign Name]:** A campaign name that's unique within the account.
 
 **[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
 
-## [!UICONTROL Budget Options]
+## [!UICONTROL Basic Settings] tab
+
+*New campaigns only*
+
+**[!UICONTROL Network]:** The ad network.
+
+**[!UICONTROL Account]:** The ad network account.
+
+**[!UICONTROL Campaign Type]:** Where to place ads, and which ad types the campaign may contain. The only option is *Search Network Only*.
+
+## [!UICONTROL Campaign Details] tab
+
+<!-- **[!UICONTROL Start Date]:** -->
+
+{{$include /help/_includes/start-date.md}}
+
+<!-- **[!UICONTROL End Date]:** -->
+
+{{$include /help/_includes/end-date.md}}
+
+**[!UICONTROL Contains EU Political Ads]:**(Applicable to campaigns that target audiences in the European Union (EU)) Whether or not the campaign contains political advertising per requirements for ads served in the European Union under EU Regulation 2024/90: *[!UICONTROL Yes]* or *[!UICONTROL No]*.
+
+## [!UICONTROL Budget Options] tab
 
 <!-- **[!UICONTROL Budget]:** -->
 
 {{$include /help/_includes/budget.md}}
 
-## [!UICONTROL Campaign Targeting]
+<!-- **[!UICONTROL Delivery Method]:** -->
+
+{{$include /help/_includes/delivery-method.md}}
+
+<!--VERIFY OPTIMIZATION BEHAVIOR -->**[!UICONTROL Bid strategy]:** The bid strategy for the campaign:
+
+* *[!UICONTROL Maximize Conversions]:* The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to maximize conversions. Optionally enter a **[!UICONTROL Target CPA]** (cost per acquisition). **Note:** Use this option for campaigns in portfolios with campaign-level optimization. In portfolios with campaign-level optimization, Search, Social, & Commerce optimizes the Target CPA.
+
+* *[!UICONTROL Maximize Conversion Value]:* The ad network &mdash; not Search, Social, & Commerce  &mdash; optimizes bids to maximize conversion value. Optionally enter a **[!UICONTROL Target Return on Ad Spend]** (ROAS) as a percent. **Note:** Use this option for campaigns in portfolios with campaign-level optimization. In portfolios with campaign-level optimization, Search, Social, & Commerce optimizes the Target ROAS.
+
+## [!UICONTROL Campaign Targeting] tab
+
+**[!UICONTROL Languages]:** The language of the ad, which should match the language of the sites on which your ad can appear. The ad network determines a user's language from various signals, including the user's query, the publisher's country, and the user's language setting.
 
 <!-- **[!UICONTROL Location Targets]:** -->
 
 {{$include /help/_includes/location-targets.md}}
 
-## [!UICONTROL Negative Keywords]
+## [!UICONTROL Negative Keywords] tab
 
 <!-- **[!UICONTROL Campaign Negative Keywords]:** -->
 
@@ -57,7 +78,7 @@ How often the search engine delivers your active ads in relation to one another 
 
 {{$include /help/_includes/negative-keyword-note-baidu.md}}
 
-## [!UICONTROL Campaign Tracking]
+## [!UICONTROL Campaign Tracking] tab
 
 <!-- **[!UICONTROL Override Account Tracking]:** -->
 
@@ -71,14 +92,6 @@ How often the search engine delivers your active ads in relation to one another 
 
 {{$include /help/_includes/redirect-type.md}}
 
-<!-- **[!UICONTROL Auto Upload]:** -->
-
-{{$include /help/_includes/auto-upload.md}}
-
-<!-- **[!UICONTROL Encode Base URL]:** -->
-
-{{$include /help/_includes/encode-base-url.md}}
-
 **[!UICONTROL Tracking Level]:** (For [!UICONTROL EF Redirect] only) The level at which clicks and revenue should be tracked by adding a redirect (when relevant) and append parameters to the relevant URLs:
 
 * *[!UICONTROL Keyword]:* To track data at only the keyword level.
@@ -87,9 +100,25 @@ How often the search engine delivers your active ads in relation to one another 
 
 * *[!UICONTROL Creative and Keyword]:* To track data at both the ad (creative) and keyword levels.
 
+**[!UICONTROL Enable conversion reporting in Adobe Analytics]:** Adds a URL parameter to ads in the account or campaign for conversion tracking.
+
+<!-- **[!UICONTROL Encode Base URL]:** -->
+
+{{$include /help/_includes/encode-base-url.md}}
+
 <!-- **[!UICONTROL Append Parameters]:** -->
 
 {{$include /help/_includes/append-parameters.md}}
+
+<!--
+
+Not there as of 7/22 -- what's going on here? If we're removing it, then I need to update many references throughout the whole doc:
+
+[               **[!UICONTROL Auto Upload]:**      ]
+
+{{$include /help/_includes/auto-upload.md}}
+
+-->
 
 >[!MORELIKETHIS]
 >
