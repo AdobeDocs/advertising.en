@@ -36,6 +36,13 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL AI Max Search Term Matching] | (Campaigns that target the search network and for which the [AI Max feature](https://support.google.com/google-ads/answer/15910366) and the campaign-level search term matching feature is enabled; read-only) Whether ad group-level search term matching is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
 | [!UICONTROL Advertiser] | The advertiser name. |
 | [!UICONTROL Advertiser ID] | The numeric ID for the advertiser's Search, Social, & Commerce account. |
+| [!UICONTROL All Conversions] | ([!UICONTROL Asset Report]) The total number of conversions, including those from conversion actions that aren't included in your main Conversions column. |
+| [!UICONTROL All Conversions Value] | ([!UICONTROL Asset Report]) The value of all conversions, including those from conversion actions that aren't included in your main Conversions column. |
+| [!UICONTROL Asset ID] | The unique ID that identifies an existing asset. |
+| [!UICONTROL Asset] | The asset name. |
+| [!UICONTROL Asset Type] | The type of asset: *[!UICONTROL Image]*, *[!UICONTROL Text]* (such as a headline or description), or *[!UICONTROL Video]*. |
+| [!UICONTROL Asset Performance Label] | ([!UICONTROL Asset Report]) The algorithmically-generated performance label (currently deprecated in [!DNL Google Ads]) for the asset: *[!UICONTROL Best]*, *[!UICONTROL Good]*, *[!UICONTROL Low]*, or *[!UICONTROL Learning]*. |
+| [!UICONTROL Average CPC] | The average cost per click. |
 | [!UICONTROL Avg Position] | The average position of the ads during the specified date range.<br><br>For [!DNL Google Ads] and [!DNL LY Ads] campaigns, this data is available only through September 2019. For [!DNL Microsoft Advertising], this data is available only through 22 January 2021. |
 | [!UICONTROL Base URL] | The base URL for the keyword, including any append parameters configured for the campaign or account. It doesn't include any Search, Social, & Commerce redirection and tracking code. |
 | [!UICONTROL Bid Strategy] | (Most ad networks) For campaigns or campaign components, this is the campaign's bid strategy. For ad network accounts that are linked to a manager account, this is the cross-account bid strategy. The available values vary by ad network. |
@@ -67,6 +74,8 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Content IS Lost (budget)] | The estimated percentage of impressions that your ads on the display/audience network didn't receive because your daily or monthly budget was too low. In [!DNL Microsoft Advertising], this is called "[!UICONTROL Audience lost IS (budget)]." |
 | [!UICONTROL Content IS Lost (rank)] | The estimated percentage of impressions that your ads on the display/audience network weren't shown because of a poor ad rank. In [!DNL Microsoft Advertising], this is called "[!UICONTROL Audience lost IS (rank)]." |
 | [!UICONTROL Conversion Type] | ([!UICONTROL Transaction Report]) The action(s) that preceded the conversion:<ul><li><i>[!UICONTROL Click:]</i> At least one paid click occurred before the conversion.</li><li><i>[!UICONTROL Impression:]</i> No paid clicks occurred before the conversion, so the conversion resulted from a view-through (impression without any paid clicks).</li></ul> |
+| [!UICONTROL Conversions] | ([!UICONTROL Asset Report]) The total conversions for the specified period from conversion actions for which "Include in conversions" is enabled. |
+| [!UICONTROL Conversions Value] | ([!UICONTROL Asset Report]) The value of all conversions from conversion actions for which "Include in conversions" is enabled. |
 | [!UICONTROL Cost] | The total cost for ads during the specified date range. |
 | [!UICONTROL Country] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) A country from which clicks originated. It's determined from the user's IP address. |
 | [!UICONTROL CPC] | The cost per click (CPC) for ads during the specified date range. |
@@ -103,6 +112,7 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Est. Clicks] | ([!UICONTROL Geo Distribution Report]; search and display campaigns only) The estimated number of clicks for the ad group/campaign/portfolio combination. This value may be different than the value provided by the ad networks. |
 | [!UICONTROL Estimated Cost] | The total estimated cost for the associated ads that Search, Social, & Commerce has tracked. This value may be different than the value provided by the ad networks. |
 | [!UICONTROL Estimated Impressions] | (Display campaigns only) The estimated number of ad impressions that Search, Social, & Commerce has tracked. This value may be different than the value for the [!UICONTROL Impressions] column (when available), which shows the value provided by the ad networks. |
+| [!UICONTROL Event Date] | ([!UICONTROL Asset Report]) The date on which the event occurred. |
 | [!UICONTROL Exclude (yes/no)] | Whether bidding is excluded (<i>[!UICONTROL Yes]</i>) or bidding are allowed (<i>[!UICONTROL No]</i>) for ads for matching products. |
 | [!UICONTROL First Page CPC] | (Google campaigns only) The cost per click (CPC) for ads that appear on the first page of search results during the specified date range. |
 | [!UICONTROL Frequency] | ([!DNL Meta] campaigns only) The average number of times someone saw your ad. |
@@ -131,6 +141,7 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Metro Code] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) A numeric metro code from which impressions or clicks originated (such as us-751 for Denver). It's determined from the search user's IP address. |
 | [!UICONTROL Min Spend (%)] | ([!UICONTROL Network Constraint Report]) The minimum percentage of the portfolio's spend that's configured for the ad network. For portfolios using the constraint type "[!UICONTROL Min-Max]," this is the [!UICONTROL Min %] value, if a [!UICONTROL Min %] is configured. For portfolios using the constraint type "[!UICONTROL Target Spend]," this is the [!UICONTROL Target Spend] value. |
 | [!UICONTROL Network Account ID] | The account ID assigned by the network. |
+| [!UICONTROL Network Ad ID] | The ad ID assigned by the network. |
 | [!UICONTROL Network Ad Group ID] | The ad group ID assigned by the network. |
 | [!UICONTROL Network Campaign ID] | The campaign ID assigned by the network. |
 | [!UICONTROL Network Campaign Objective] | ([!DNL Meta] campaigns only) The objective for the campaign. |
@@ -173,8 +184,10 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Search Term] | ([!UICONTROL Transaction Report]) The search term on which the user queried. |
 | [!UICONTROL SETrackingOnly] | Whether you're tracking the account but not placing bids: <i>[!UICONTROL TRUE]</i> or <i>[!UICONTROL FALSE]</i>. |
 | [!UICONTROL Site] | (Domain Referral Report and [!UICONTROL Keyword Report]; site-targeted placements) The site from which clicks originated. |
+| [!UICONTROL Source] | ([!UICONTROL Asset Report]) The asset source. |
 | [!UICONTROL Start Date] | The first day reported. |
-| [!UICONTROL State] | (Geo Distribution Report, [!UICONTROL Keyword Report]) A state from which the transaction originated. It's determined from the user's IP address. |
+| [!UICONTROL State] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) A state from which the transaction originated. It's determined from the user's IP address. |
+| [!UICONTROL Status] | ([!UICONTROL Asset Report]) The asset status. |
 | [!UICONTROL Surfer ID] | ([!UICONTROL Transaction Report]) The ID of the user who completed the transaction. |
 | [!UICONTROL Thru Plays] | ([!DNL Meta] campaigns only) The number of views that watched the ad in its entirety. |
 | [!UICONTROL Top of Page CPC] | (Google campaigns only) The cost per click (CPC) for ads that appear at the top of search result pages during the specified date range. |
