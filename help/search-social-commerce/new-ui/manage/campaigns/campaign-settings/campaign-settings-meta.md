@@ -40,4 +40,4 @@ You can't create [!DNL Meta Ads] campaigns in Search, Social, & Commerce. You ca
 
 >[!MORELIKETHIS]
 >
->* [Manage campaigns](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [Manage campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md)

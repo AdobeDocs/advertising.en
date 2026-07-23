@@ -79,9 +79,13 @@ How often the search engine delivers your active ads in relation to one another 
 
 {{$include /help/_includes/encode-base-url.md}}
 
-<!-- **[!UICONTROL Tracking Level]:** -->
+**[!UICONTROL Tracking Level]:** (For [!UICONTROL EF Redirect] only) The level at which clicks and revenue should be tracked by adding a redirect (when relevant) and append parameters to the relevant URLs:
 
-{{$include /help/_includes/tracking-level.md}}
+* *[!UICONTROL Keyword]:* To track data at only the keyword level.
+
+* *[!UICONTROL Creative]:* To track data at only the ad (creative) level.
+
+* *[!UICONTROL Creative and Keyword]:* To track data at both the ad (creative) and keyword levels.
 
 <!-- **[!UICONTROL Append Parameters]:** -->
 
@@ -89,4 +93,4 @@ How often the search engine delivers your active ads in relation to one another 
 
 >[!MORELIKETHIS]
 >
->* [Manage campaigns](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [Manage campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md)

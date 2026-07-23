@@ -72,9 +72,7 @@ topic_v2:
 
 {{$include /help/_includes/encode-base-url.md}}
 
-<!-- **[!UICONTROL Tracking Level]:** -->
-
-{{$include /help/_includes/tracking-level.md}}
+**[!UICONTROL Tracking Level]:** (For [!UICONTROL EF Redirect] only; read-only) The level at which clicks and revenue should be tracked. Only *[!UICONTROL Creative]* is available for [!DNL Yandex] &mdash; data is tracked at the ad (creative) level only.
 
 <!-- **[!UICONTROL Append Parameters]:** -->
 
@@ -82,4 +80,4 @@ topic_v2:
 
 >[!MORELIKETHIS]
 >
->* [Manage campaigns](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [Manage campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md)

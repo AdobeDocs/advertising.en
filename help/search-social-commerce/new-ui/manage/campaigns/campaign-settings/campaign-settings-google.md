@@ -18,11 +18,23 @@ topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
     internal-label: Machine learning
 ---
-# [!DNL Google Ads] campaign settings 
+# [!DNL Google Ads] campaign settings
 
-## \[Campaign Creation screen\]
+## \[Top of page]
 
-**[!UICONTROL Campaign Type]:** (Available during campaign creation only) Where to place ads, and which ad types the campaign may contain:
+**[!UICONTROL Campaign Name]:** A campaign name that's unique within the account.
+
+**[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
+
+## [!UICONTROL Basic Settings] tab
+
+*New campaigns only*
+
+**[!UICONTROL Network]:** The ad network.
+
+**[!UICONTROL Account]:** The ad network account.
+
+**[!UICONTROL Campaign Type]:** Where to place ads, and which ad types the campaign may contain:
 
 * *[!UICONTROL Search Network Only]:* Shows ads on the search network, which includes [!DNL Google] search results and, optionally, search partner sites. You must specify keywords for each ad group.
 
@@ -42,15 +54,7 @@ topic_v2:
   
   * Support for listing groups isn't available. To manage and view data for listing groups, log in to the [!DNL Google Ads] editor.
 
-  * Hybrid optimization is supported. Bid strategy targets and campaign budgets are set at the campaign level.
-
-## [!UICONTROL Campaign Details]
-
-<!-- left to right -->
-
-**[!UICONTROL Campaign Name]:** A campaign name that's unique within the account.
-
-**[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
+## [!UICONTROL Campaign Details] tab
 
 <!-- **[!UICONTROL Start Date]:** -->
 
@@ -64,17 +68,14 @@ topic_v2:
 
 **[!UICONTROL Audience Target Method]:**(Existing, read-only Gmail campaigns only) Whether to:
 
-* *[!UICONTROL Target and Bid]* To show ads only to users associated with target audiences who also satisfy any other targets for the ad group.
-
 * *[!UICONTROL Bid Only]:*  To show ads even to people who aren't associated with target audiences as long as they satisfy other ad group-level targets. You may increase the chances that ads are shown to specific audiences, however, by setting higher bids for those audiences.
 
-**[!UICONTROL Contains EU Political Ads]:**(Applicable to campaigns that target audiences in the European Union (EU)) Whether or not the campaign contains political advertising per requirements for ads served in the European Union under EU Regulation 2024/90: *[!UICONTROL Yes]* or *[!UICONTROL No]*.
+* *[!UICONTROL Target and Bid]* To show ads only to users associated with target audiences who also satisfy any other targets for the ad group.
 
-**[!UICONTROL AI Max Enabled]:** (Campaigns that target the search network only; read-only) Whether the [[!UICONTROL AI Max] feature](https://support.google.com/google-ads/answer/15910366) is enabled: *[!UICONTROL On]* or *[!UICONTROL Off]*.
+**[!UICONTROL Contains EU Political Ads]:**(Applicable to campaigns that target audiences in the European Union (EU)) Whether or not the campaign contains political advertising per requirements for ads served in the European Union under EU Regulation 2024/90: *[!UICONTROL No]* or *[!UICONTROL Yes]*.
 
-**[!UICONTROL AI Max Bundling]:** (Campaigns that target the search network only; campaigns with the AI Max feature enabled; read-only) Whether bundling is required: *[!UICONTROL Not Required]*, *[!UICONTROL Required]*, *[!UICONTROL Unknown]*, or *[!UICONTROL Unspecified]*.
 
-## [!UICONTROL Budget Options]
+## [!UICONTROL Budget Options] tab
 
 <!-- **[!UICONTROL Budget]:** -->
 
@@ -102,31 +103,31 @@ For search campaigns, the following additional settings are also required for re
 
 **[!UICONTROL Bid strategy]:** The bid strategy for the campaign:
 
-* *[!UICONTROL Enhanced CPC]:* Deprecated. [!DNL Google Ads] began automatically changing existing [enhanced CPC bid strategies](https://support.google.com/google-ads/answer/2464964) to manual CPC on 15 March 2025.
+* *[!UICONTROL Enhanced CPC]:* Deprecated. [!DNL Google Ads] began automatically changing existing [enhanced CPC bid strategies](https://support.google.com/google-ads/answer/2464964) to manual CPC in 2025.
 
 * *[!UICONTROL Manual CPC]* (the default): (Not available for performance max campaigns) Uses the cost-per-click (CPC) model. You can optionally allow the ad network to change bids for the campaign:
 
-  * **[!UICONTROL Enable Enhanced CPC]** (disabled by default): This is the same as using the "[!UICONTROL Enhanced CPC]" option, which is deprecated. [!DNL Google Ads] began automatically changing existing [enhanced CPC bid strategies](https://support.google.com/google-ads/answer/2464964) to manual CPC on 15 March 2025.
+  * **[!UICONTROL Enable Enhanced CPC]** (disabled by default): This is the same as using the "[!UICONTROL Enhanced CPC]" option, which is deprecated. [!DNL Google Ads] began automatically changing existing [enhanced CPC bid strategies](https://support.google.com/google-ads/answer/2464964) to manual CPC in 2025.
 
 * *[!UICONTROL Maximize Clicks]:* (Search, display, and shopping campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to maximize clicks. Optionally, enter a **[!UICONTROL Max CPC]** (cost per click) to ensure that the ad network doesn't pay more than a specific amount for each click. **Caution:** When you add a campaign with this strategy to a portfolio, bids are driven by click weight, not by the portfolio objective.
 
-* *[!UICONTROL Maximize Conversion Value]:* (Search, performance max, and smart shopping campaigns) The ad network &mdash; not Search, Social, & Commerce  &mdash;optimizes bids to maximize conversion value. Optionally enter a **[!UICONTROL Target Return on Ad Spend]** (ROAS) as a percentage. **Note:** Use this option for campaigns in hybrid portfolios but not standard portfolios. In hybrid portfolios, Search, Social, & Commerce optimizes the campaign-level or (when available) ad group-level Target ROAS.
+* *[!UICONTROL Maximize Conversion Value]:* (Search, performance max, and smart shopping campaigns) The ad network &mdash; not Search, Social, & Commerce  &mdash;optimizes bids to maximize conversion value. Optionally enter a **[!UICONTROL Target Return on Ad Spend]** (ROAS) as a percentage. **Note:** Use this option for campaigns in portfolios with campaign- or ad group-level optimization but not portfolios with keyword-level optimization. In portfolios with campaign- or ad group-level optimization, Search, Social, & Commerce optimizes the campaign-level or (when available) ad group-level Target ROAS.
 
-* *[!UICONTROL Maximize Conversions]:* (Search, display, and performance max campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to maximize conversions. Optionally enter a **[!UICONTROL Target CPA]** (cost per acquisition). **Note:** Use this option for campaigns in hybrid portfolios but not standard portfolios. In hybrid portfolios, Search, Social, & Commerce optimizes the campaign-level or (when available) ad group-level Target CPA.
+* *[!UICONTROL Maximize Conversions]:* (Search, display, and performance max campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to maximize conversions. Optionally enter a **[!UICONTROL Target CPA]** (cost per acquisition) and the applicable **[!UICONTROL Portfolio]** bid strategy. **Note:** Use this option for campaigns in portfolios with campaign- or ad group-level optimization but not portfolios with keyword-level optimization. In portfolios with campaign- or ad group-level optimization, Search, Social, & Commerce optimizes the campaign-level or (when available) ad group-level Target CPA.
 
-* *[!UICONTROL Target CPA]:* (Display campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on an optional **[!UICONTROL Target CPA]** (cost per acquisition), which is the 30-day average amount you want to pay for an acquisition (conversion). **Note:** Use this option for campaigns in hybrid portfolios (but not standard portfolios) with any spend strategy except [!UICONTROL Weekly] or [!UICONTROL Google Target CPA]. In hybrid portfolios, Search, Social, & Commerce optimizes the campaign-level or (when available) ad group-level Target CPA.
+* *[!UICONTROL Target CPA]:* (Display-only campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on an optional **[!UICONTROL Target CPA]** (cost per acquisition), which is the 30-day average amount you want to pay for an acquisition (conversion). **Note:**  campaigns in portfolios with campaign- or ad group-level optimization (but not portfolios with keyword-level optimization) with any spend strategy except [!UICONTROL Weekly] or [!UICONTROL Google Target CPA]. In portfolios with campaign- or ad group-level optimization, Search, Social, & Commerce optimizes the campaign-level or (when available) ad group-level Target CPA.
 
   Average position and CPC bid data aren't available for campaigns with this bid strategy.
 
 * *[!UICONTROL Target Impression Share]:* (Search campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids to achieve a target impression share and ad position. Optionally, enter a **[!UICONTROL Target Impression Share]** as a percentage, the **[!UICONTROL Target Ad Position]**, and a **[!UICONTROL Max CPC]** (cost per click). **Note:** This option isn't supported in portfolios.
 
-* *[!UICONTROL Target Return on Ad Spend]:*  (Display and shopping campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on a specified **[!UICONTROL Target ROAS]** (return on ad spend), specified as a percentage. **Note:** Use this option for campaigns in hybrid portfolios (but not standard portfolios) with any spend strategy except [!UICONTROL Weekly] or [!UICONTROL Google Target ROAS]. In hybrid portfolios, Search, Social, & Commerce optimizes the campaign-level or (when available) ad group-level Target ROAS.
+* *[!UICONTROL Target Return on Ad Spend]:*  (Shopping campaigns) The ad network &mdash; not Search, Social, & Commerce &mdash; optimizes bids based on a specified **[!UICONTROL Target ROAS]** (return on ad spend), specified as a percentage. **Note:** Use this option for campaigns in portfolios with campaign- or ad group-level optimization (but not portfolios with keyword-level optimization) with any spend strategy except [!UICONTROL Weekly] or [!UICONTROL Google Target ROAS]. In portfolios with campaign- or ad group-level optimization, Search, Social, & Commerce optimizes the campaign-level or (when available) ad group-level Target ROAS.
 
   Average position and CPC bid data aren't available for campaigns with this bid strategy.
 
 * *[!UICONTROL Viewable CPM]:* (Existing, read-only [!DNL Gmail] campaigns only) The ad network &mdash; not Search, Social, & Commerce &mdash; bids only on ads that are measured as viewable. **Note:** Optimization for this strategy isn't supported in any type of portfolio.
 
-## [!UICONTROL Shopping Settings]
+## [!UICONTROL Shopping Settings] tab
 
 **[!UICONTROL Sales Country]:** (Shopping campaigns only; read-only for existing campaigns) The country in which
 the campaign's products are sold. Because products are associated with target countries, this setting determines which products are advertised in the campaign.
@@ -149,7 +150,7 @@ the campaign's products are sold. Because products are associated with target co
 
 {{$include /help/_includes/inventory-filter.md}}
 
-## [!UICONTROL Campaign Targeting]
+## [!UICONTROL Campaign Targeting] tab
 
 **[!UICONTROL Languages]:** (Search and display networks only) One or more target languages for ads in the campaign.
 
@@ -193,14 +194,14 @@ the campaign's products are sold. Because products are associated with target co
 
 {{$include /help/_includes/devices.md}}
 
-## [!UICONTROL Advanced Device Options]
+## [!UICONTROL Advanced Device Options] tab
 
 **[!UICONTROL Mobile Carriers]:** (Display network only) Specific mobile carriers to target; the carriers are sorted
 by country. If you don't select any, all are targeted.
 
 **[!UICONTROL Mobile Carriers]:** (Display network only) Specific operating systems to target. If you don't select any, all are targeted.
 
-## [!UICONTROL URL Options]
+## [!UICONTROL URL Options] tab
 
 <!-- **[!UICONTROL Tracking Template]:** -->
 
@@ -214,7 +215,7 @@ by country. If you don't select any, all are targeted.
 
 {{$include /help/_includes/landing-page-suffix.md}}
 
-## [!UICONTROL DSA Options]
+## [!UICONTROL DSA Options] tab
 
 <!-- **[!UICONTROL Website Domain]:** -->
 
@@ -224,19 +225,21 @@ by country. If you don't select any, all are targeted.
 
 {{$include /help/_includes/dsa-language.md}}
 
-## [!UICONTROL Customer Acquisition Goals]
+## [!UICONTROL AI Max] tab
 
-**[!UICONTROL Customer Acquisition]:** (Performance max and search campaigns only) How to allocate bids for new customers and existing customers:
+**[!UICONTROL AI Max]:** (Campaigns that target the search network only) Whether to enable [[!UICONTROL AI Max]](https://support.google.com/google-ads/answer/15910366) &mdash; AI-driven search term matching, text customization, and final URL expansion &mdash; for the campaign. When you enable **[!UICONTROL AI Max]**, two additional settings become available:
 
-* *[!UICONTROL Bid equally for new and existing customers]*
+* **[!UICONTROL Text customization]:** Whether to let [!DNL Google Ads] automatically generate headlines and descriptions.
 
-* *[!UICONTROL Bid higher for new customers than for existing customers]*
+* **[!UICONTROL Final URL expansion]:** Whether to let [!DNL Google Ads] route traffic to the most relevant landing page. This setting is available only when **[!UICONTROL Text customization]** is enabled.
 
-  **Note:** To use this setting, you must first activate the new customer acquisition goal for the [!DNL Google Ads] account or, if applicable, for the manager account. The goal defines the eligible existing customer lists and the additional conversion value for new customers in the conversion settings. See Steps 1-2 in the [!DNL Google Ads] help "[Activate the new customer acquisition goal](https://support.google.com/google-ads/answer/14007601)."
+<!-- Clarify why this is "Unspecified" and read-only for me as of 7/22--> **[!UICONTROL Bundling required]:** (Campaigns that target the search network only; read-only) Whether bundling is required for the campaign: *[!UICONTROL Required]*, *[!UICONTROL Not required]*, or *[!UICONTROL Unspecified]*.
 
-* *[!UICONTROL Only bid for new customers]*
+<!-- I don't see this as of 7/22 -->**[!UICONTROL Geo Targeting Type]:** (Existing campaigns with the AI Max feature enabled only; read-only) Under the heading "[!UICONTROL Locations of Interest] &mdash; [!UICONTROL Geo Targeting]," shows whether the campaign uses interest-based geo targeting because one or more of its ad groups have Locations of Interest configured: *[!UICONTROL Search Interest]*, *[!UICONTROL Presence]*, or *[!UICONTROL Presence or Interest]*. Locations of Interest are set per ad group; users matching an ad group with Locations of Interest must also meet the campaign's geo-targeting.
 
-## [!UICONTROL Negative Keywords]
+## [!UICONTROL Additional Campaign Information] tab
+
+### [!UICONTROL Negative Keywords]
 
 <!-- **[!UICONTROL Negative Keywords]:** -->
 
@@ -246,13 +249,13 @@ by country. If you don't select any, all are targeted.
 
 {{$include /help/_includes/negative-keyword-note-google.md}}
 
-## [!UICONTROL Negative Websites]
+### [!UICONTROL Negative Websites]
 
 <!-- **[!UICONTROL Negative Websites]:** -->
 
 {{$include /help/_includes/negative-websites-google.md}}
 
-## [!UICONTROL Campaign Tracking]
+### [!UICONTROL Campaign Tracking]
 
 <!-- **[!UICONTROL Override Account Tracking]:** -->
 
@@ -266,17 +269,19 @@ by country. If you don't select any, all are targeted.
 
 {{$include /help/_includes/redirect-type.md}}
 
-<!-- **[!UICONTROL Auto Upload]:** -->
+**[!UICONTROL Tracking Level]:** (For [!UICONTROL EF Redirect] only) The level at which clicks and revenue should be tracked by adding a redirect (when relevant) and append parameters to the relevant URLs:
 
-{{$include /help/_includes/auto-upload.md}}
+* *[!UICONTROL Keyword]:* To track data at only the keyword level.
+
+* *[!UICONTROL Creative]:* To track data at only the ad (creative) level.
+
+* *[!UICONTROL Creative and Keyword]:* To track data at both the ad (creative) and keyword levels.
+
+**[!UICONTROL Enable conversion reporting in Adobe Analytics]:** Adds a URL parameter to ads in the account or campaign for conversion tracking.
 
 <!-- **[!UICONTROL Encode Base URL]:** -->
 
 {{$include /help/_includes/encode-base-url.md}}
-
-<!-- **[!UICONTROL Tracking Level]:** -->
-
-{{$include /help/_includes/tracking-level.md}}
 
 **[!UICONTROL Track Product Group]:** (For [!UICONTROL EF Redirect] only) Not implemented
 
@@ -284,7 +289,19 @@ by country. If you don't select any, all are targeted.
 
 {{$include /help/_includes/append-parameters.md}}
 
-## [!UICONTROL Asset Groups] (per asset group)
+<!--
+
+Not there as of 7/22 -- what's going on here? If we're removing it, then I need to update many references throughout the whole doc:
+
+[               **[!UICONTROL Auto Upload]:**      ]
+
+{{$include /help/_includes/auto-upload.md}}
+
+-->
+
+### [!UICONTROL Asset Groups] (per asset group)
+
+*Performance max campaigns only*
 
 **[!UICONTROL Asset Group Name]:** The name of the asset group. Links to [!DNL Google Merchant Center] product feeds aren't supported.
 
@@ -292,7 +309,7 @@ by country. If you don't select any, all are targeted.
 
 **[!UICONTROL Final URL]:** The final URL for all ads created from the asset group. <!-- For campaigns created within Search, Social, & Commerce, final URL expansion is automatically enabled for the campaign, and [!DNL Google Ads] replaces this value with a more relevant landing page based on the user's search query and intent, and also customizes the headline based on the landing page content. You can disable final URL expansion, or exclude specific URLs from expansion, from within the [!DNL Google Ads] editor. -->
 
-**[!UICONTROL Images]:** Up to 15 images for the ad, including the following sizes: 1) at least three square images, 2) at least three landscape images, and 3) at least one portrait image. See the [[!DNL Google Ads] image specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
+**[!UICONTROL Images]:** Up to 15 images for the ad, including at least one landscape image (1.91:1, at least 600 x 314 pixels) and at least one square image (1:1, at least 300 x 300 pixels). You can optionally include a portrait image (4:5, at least 480 x 600 pixels). See the [[!DNL Google Ads] image specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To upload images:
 
@@ -314,7 +331,7 @@ by country. If you don't select any, all are targeted.
 
 * To select images from your [!UICONTROL Asset Library], click **[!UICONTROL Asset Library]** and select the images.
 
-**[!UICONTROL Logos]:** At least one square (1:1) logo and one landscape (4:1) logo. You can include up to five of each size. See the [[!DNL Google Ads] logo specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
+**[!UICONTROL Logos]:** At least one square (1:1, at least 128 x 128 pixels) logo. You can optionally include a landscape (4:1, at least 512 x 218 pixels) logo. You can include up to five logos total. See the [[!DNL Google Ads] logo specifications](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). You can either upload images or select them from your [!UICONTROL Asset Library] &mdash; but not both in the same operation.
 
 * To upload images:
 
@@ -385,13 +402,14 @@ by country. If you don't select any, all are targeted.
 **[!UICONTROL Audience Signal]:** (Optional) [!DNL Google Ads] audiences to use as audience signals for the campaign. [!DNL Google Ads] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren't specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
 
 >[!NOTE]
+>
 >Audience signals are different from [campaign-level and ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
 
 **[!UICONTROL Primary Status]:** (Read-only field for existing asset groups in performance max campaigns) Why the asset group is or isn't serving at full capacity. It takes into account the asset group status as well as other signals, such as policy and quality approvals. Values may include *ELIGIBLE,* *LIMITED,* *NOT_ELIGIBLE,* *PAUSED,* *PENDING,* *REMOVED,* *UNKNOWN,* or *UNSPECIFIED.*<!-- GGL also has a Primary Status field for campaigns; if we ever sync that, then we'll need to distinguish between them. -->
 
 **[!UICONTROL Primary Status Reason]:** (Read-only field for existing asset groups in performance max campaigns) Additional details about the asset group's primary status. Values may include *ASSET_GROUP_DISAPPROVED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAIGN_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *UNKNOWN,* or *UNSPECIFIED.*
 
-## [!UICONTROL Conversion Goals]
+### [!UICONTROL Conversion Goals]
 
 **[!UICONTROL Conversion Goal]:** Whether to *[!UICONTROL Use account conversion goals for this campaign]* (the default) or *[!UICONTROL Use campaign specific conversion goals]*. If you choose to specify conversion goals for the campaign, then select standard goals and/or create a custom goal for the campaign.
 
@@ -405,6 +423,20 @@ To create a custom conversion goal, click **[!UICONTROL + Add custom goal]**, en
 >
 >However, for campaigns in hybrid portfolios for which you [upload objectives to the ad network](/help/search-social-commerce/tools/objective-upload-to-networks.md), do the following within the ad network's editor instead of here: a) add the uploaded Search, Social, & Commerce portfolio objective metric (which begins with "O_ACS_OBJ") as a conversion action for the campaign, and b) add any campaign goals that include [!DNL Google]-tracked conversions because ad network-tracked metrics aren't uploaded to the ad network with the objective.
 
+### [!UICONTROL Set Customer Acquisition Goal]
+
+Optimize your campaign for new customers, existing customers, or both. To use this setting, you must first activate the new customer acquisition goal for the [!DNL Google Ads] account or, if applicable, for the manager account. The goal defines the eligible existing customer lists and the additional conversion value for new customers in the conversion settings. See Steps 1-2 in the [!DNL Google Ads] help "[Activate the new customer acquisition goal](https://support.google.com/google-ads/answer/14007601)."
+
+**[!UICONTROL Customer Goal]:** The customer acquisition goal type:
+
+* *[!UICONTROL All Customers]* (the default): Optimize for both new and existing customers equally.
+
+* *[!UICONTROL New Customers]:* Prioritize acquiring new customers. Selecting this option displays the **[!UICONTROL New Customer Bid Adjustment]** setting.
+
+* *[!UICONTROL Existing Customers]:* Prioritize retaining existing customers.
+
+**[!UICONTROL New Customer Bid Adjustment]:** (**[!UICONTROL Customer Goal]** set to **[!UICONTROL New Customers]** only) A multiplier applied to bids when targeting new customers, from 0.1 to 10.0. The default is 1.0 (no adjustment). For example, 1.5x increases bids by 50% for new customers, 2.0x doubles bids for new customers, and 0.5x reduces bids by 50% for new customers.
+
 >[!MORELIKETHIS]
 >
->* [Manage campaigns](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [Manage campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md)

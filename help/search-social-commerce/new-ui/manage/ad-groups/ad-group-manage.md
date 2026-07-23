@@ -17,6 +17,8 @@ role_v2:
 ---
 # Manage ad groups
 
+<!-- Go through all -->
+
 *Beta feature*
 
 An ad group includes a set of ads and their related keywords. An ad group in a campaign that targets the display network can also include placements, which are locations on the display network in which your ads can appear. Ad group settings, which apply to all components of the ad group, vary by ad network.
@@ -43,7 +45,7 @@ The [!UICONTROL Manage] > [!UICONTROL Ad Groups] view lists all ad groups in the
 
 * [Assign bid constraints to ad groups, and unassign constraints from ad groups](#ad-group-constraints)
 
-* [Assign label classifications](/help/search-social-commerce/new-ui/reports/label-classifications-manage.md) to ad groups
+* [Assign label classifications to ad groups, and remove label classifications from ad groups](#ad-group-classifications)
 
 * [Manage data view reports from the [!UICONTROL Ad Groups] view](#ad-group-reports)
 
@@ -57,9 +59,7 @@ The [!UICONTROL Manage] > [!UICONTROL Ad Groups] view lists all ad groups in the
 
 1. Click **[!UICONTROL Create Ad Group]**.
 
-1. Select the ad network, the account, and the campaign, and then click **[!UICONTROL Continue]**.
-
-1. Specify the [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) ad group settings.
+1. Specify the [Baidu](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-yahoo-japan.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-yandex.md) ad group settings.
 
 1. Click **[!UICONTROL Review and Save]**.
 
@@ -95,7 +95,7 @@ You can edit settings for individual ad groups. You can also edit some fields fo
 
    * Select the check box next to the ad group. In the bulk actions toolbar, click **[!UICONTROL Edit]**.
 
-1. Edit the [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) ad group settings.
+1. Edit the [Baidu](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-yahoo-japan.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-yandex.md) ad group settings.
 
 1. Click **[!UICONTROL Review and Save]**.
 
@@ -135,9 +135,7 @@ You also can delete any active or paused ad group. Deleted ad groups are deleted
 
 ## Manage bid constraint assignments for ad groups {#ad-group-constraints}
 
-You can assign and remove bidding constraints for the following search entities: campaign, ad group, keyword, placement, unit-level product group, and dynamic search target. Each entity can have only one constraint.
-
-Constraints are inherited by child entities, so you don't need to assign constraints for child entities unless you want to override the inherited values.
+Each entity can have only one constraint. Constraints are inherited by child entities, so you don't need to assign constraints for child entities unless you want to override the inherited values.
 
 Unassigning a constraint removes the association with the account components and all of their child components, and report data for the constraint is no longer available for those components. Unassigning a constraint doesn't delete the constraint nor the account components themselves.
 
@@ -198,6 +196,60 @@ Unassigning a constraint removes the association with the account components and
 1. In the toolbar above the data table, click **[!UICONTROL More]**, and then click **[!UICONTROL Unassign]** > **[!UICONTROL Constraint]**.
 
 1. In the confirmation dialog, select **[!UICONTROL Yes, Unassign]**.
+
+## Assign label classifications to ad groups {#ad-group-classifications}
+
+>[!NOTE]
+>
+>Label values are inherited by child entities, so don't enter values for child entities unless you want to override the inherited values.
+
+### Assign classification values to ad groups
+
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Ad Groups]**.
+
+1. Select the check box next to each ad group to which you'll assign a label value.
+
+   For tips on selecting multiple rows, see "[Select multiple rows](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md)."
+
+1. In the bulk actions toolbar, click **+ [!UICONTROL Assign]** > **[!UICONTROL Label Classification]**.
+
+1. For each applicable classification value, do the following:
+
+   1. In the **[!UICONTROL Classifications]** column, specify the classification:
+     
+      * To use an existing classification, click the classification name to expand it.
+     
+      * To create a classification, click [!UICONTROL +] in the column heading. In the input field, enter the classification name, and then click ![Save](/help/search-social-commerce/assets/save-checkmark.png "Save") to immediately save the classification. To use the new classification, click the classification name to expand it.
+        
+        The name must consist of [ASCII characters 32-126](https://www.asciitable.com/), and the maximum length is 27 single-byte characters.
+   
+   1. In the **[!UICONTROL Value Name]** column, specify the value for the selected classification:
+   
+      * To use an existing value, select the value.
+      
+      * To create a value, click [!UICONTROL +] in the column heading. In the input field, enter the value, and then click ![Save](/help/search-social-commerce/assets/save-checkmark.png "Save") to immediately save the value and select it by default.
+
+        The maximum length is 100 characters, and it can include ASCII and non-ASCII characters.
+
+1. Click **+ [!UICONTROL Assign Now]**.
+
+### Remove label classification values from ad groups
+
+Removing a classification value removes the association with the account component and all of its child components. Report data for the classification value is no longer available for those components. Removing a classification value doesn't delete the value nor the account components.
+
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Ad Groups]**.
+
+1. Select the check box next to each ad group from which you'll remove a label value.
+
+   For tips on selecting multiple rows, see "[Select multiple rows](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md)."
+
+1. In the bulk actions toolbar, click **[!UICONTROL Unassign]** > **[!UICONTROL Label Classification]**.
+
+1. Select the check box next to each classification value to remove from the selected entities.
+
+   To select all assigned values, click **[!UICONTROL Select All]**. To deselect all assigned valued, click **[!UICONTROL Deselect All]**.
+
+1. Click **[!UICONTROL Unassign Selected]**.
 
 ## View a performance graph in the [!UICONTROL Ad Groups] view {#ad-group-performance-graph}
 
@@ -269,8 +321,8 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 >* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-constraint-assignments-manage.md)
 >* [(Legacy UI) Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
 >* [(Legacy UI) Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
->* [[!DNL Baidu] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md)
->* [[!DNL Google Ads] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md)
->* [[!DNL LY Ads] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md)
->* [[!DNL Microsoft Advertising] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md)
->* [[!DNL Yandex] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md)
+>* [[!DNL Baidu] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-baidu.md)
+>* [[!DNL Google Ads] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-google.md)
+>* [[!DNL LY Ads] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-yahoo-japan.md)
+>* [[!DNL Microsoft Advertising] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-microsoft.md)
+>* [[!DNL Yandex] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings/ad-group-settings-yandex.md)
