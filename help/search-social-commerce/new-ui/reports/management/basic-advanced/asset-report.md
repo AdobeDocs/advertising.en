@@ -7,7 +7,7 @@ feature: Search Reports, Search Basic Reports
 
 *Applicable to [!DNL AI Max]-enabled campaigns in [!DNL Google Ads] accounts only*
 
-The [!UICONTROL Asset Report] includes cost, click, and (optionally) [!DNL Google]-tracked conversion data at the asset level for each applicable AI-generated asset in [!DNL AI Max]-enabled campaigns. Use report to prioritize which assets to keep, pause, or replace.<!-- Not included as of 7/22/26: You can optionally include advertiser-specific label classifications. -->
+The [!UICONTROL Asset Report] includes cost, click, and (optionally) [!DNL Google]-tracked conversion data at the asset level for each applicable AI-generated asset in [!DNL AI Max]-enabled campaigns. Use this report to prioritize which assets to keep, pause, or replace.<!-- Not included as of 7/22/26: You can optionally include advertiser-specific label classifications. -->
 
 By default, the data includes one row for each applicable asset (such as a logo, image, video, or headline) with at least one tracked metric for each time unit in the specified date range. The rows are in ascending order by campaign name by default.
 
