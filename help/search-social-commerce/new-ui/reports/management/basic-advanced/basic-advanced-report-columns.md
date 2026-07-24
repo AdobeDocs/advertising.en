@@ -112,7 +112,7 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Est. Clicks] | ([!UICONTROL Geo Distribution Report]; search and display campaigns only) The estimated number of clicks for the ad group/campaign/portfolio combination. This value may be different than the value provided by the ad networks. |
 | [!UICONTROL Estimated Cost] | The total estimated cost for the associated ads that Search, Social, & Commerce has tracked. This value may be different than the value provided by the ad networks. |
 | [!UICONTROL Estimated Impressions] | (Display campaigns only) The estimated number of ad impressions that Search, Social, & Commerce has tracked. This value may be different than the value for the [!UICONTROL Impressions] column (when available), which shows the value provided by the ad networks. |
-| [!UICONTROL Event Date] | ([!UICONTROL Asset Report]) The date on which the event occurred. |
+| [!UICONTROL Event Date] | The date on which an event was recorded. Values are included only for reports with a data aggregation of "[!UICONTROL Daily]." |
 | [!UICONTROL Exclude (yes/no)] | Whether bidding is excluded (<i>[!UICONTROL Yes]</i>) or bidding are allowed (<i>[!UICONTROL No]</i>) for ads for matching products. |
 | [!UICONTROL First Page CPC] | (Google campaigns only) The cost per click (CPC) for ads that appear on the first page of search results during the specified date range. |
 | [!UICONTROL Frequency] | ([!DNL Meta] campaigns only) The average number of times someone saw your ad. |
@@ -154,7 +154,7 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Path Position] | ([!UICONTROL Transaction Report]) The position of the event within the conversion path. |
 | [!UICONTROL Path Total] | ([!UICONTROL Transaction Report]) The total number of events for the path position. |
 | [!UICONTROL Portfolio] | The portfolio. |
-| [!UICONTROL Portfolio Count] | ([!UICONTROL Portfolio Report]) The number of portfolios associated with an objective. <!-- This count is different than what I see within the Objectives view. --> |
+| [!UICONTROL Portfolio Count] | ([!UICONTROL Portfolio Report]) The number of portfolios associated with an objective. |
 | [!UICONTROL Portfolio Group Name] | The name of the portfolio group to which the portfolio belongs. |
 | [!UICONTROL Portfolio ID] | The numeric portfolio ID. |
 | [!UICONTROL Portfolio Spend Strategy] | ([!UICONTROL Portfolio Report]) The spend strategy for the portfolio: <i>[!UICONTROL Daily]</i>, <i>[!UICONTROL Weekly]</i>, <i>[!UICONTROL Monthly]</i>, <i>[!UICONTROL ROI]</i>, <i>[!UICONTROL Day of week]</i>, <i>[!UICONTROL Day of month]</i>, <i>[!UICONTROL CPT]</i>, <i>[!UICONTROL Marginal CPT]</i>, <i>[!UICONTROL Google Target CPA]</i>, or <i>[!UICONTROL Google Target ROAS]</i>. |
