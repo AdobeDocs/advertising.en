@@ -62,7 +62,9 @@ If you assign this campaign to a portfolio for which campaign budget limits are 
 
 {{$include /help/_includes/tracking-template-yahoo-japan.md}}
 
-## [!UICONTROL Negative Keywords]
+## [!UICONTROL Additional Campaign Information] tab
+
+### [!UICONTROL Negative Keywords]
 
 <!-- **[!UICONTROL Campaign Negative Keywords]:** -->
 
@@ -72,7 +74,7 @@ If you assign this campaign to a portfolio for which campaign budget limits are 
 
 {{$include /help/_includes/negative-keyword-note-yahoo-japan.md}}
 
-## [!UICONTROL Campaign Tracking] tab
+### [!UICONTROL Campaign Tracking]
 
 <!-- **[!UICONTROL Override Account Tracking]:** -->
 

@@ -68,7 +68,9 @@ topic_v2:
 
 {{$include /help/_includes/location-targets.md}}
 
-## [!UICONTROL Negative Keywords] tab
+## [!UICONTROL Additional Campaign Information] tab
+
+### [!UICONTROL Negative Keywords]
 
 <!-- **[!UICONTROL Campaign Negative Keywords]:** -->
 
@@ -78,7 +80,7 @@ topic_v2:
 
 {{$include /help/_includes/negative-keyword-note-baidu.md}}
 
-## [!UICONTROL Campaign Tracking] tab
+### [!UICONTROL Campaign Tracking] tab
 
 <!-- **[!UICONTROL Override Account Tracking]:** -->
 

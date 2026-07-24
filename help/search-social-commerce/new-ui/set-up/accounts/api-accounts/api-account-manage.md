@@ -34,13 +34,7 @@ To enable syncing of an account, you must create a corresponding account record 
 
 1. (All ad networks except for [!DNL Yandex]) Log in to the ad network using the advertiser's credentials. Select the option "Account tracking for this account." Then, in the upper right, click **[!UICONTROL Next]**. 
 
-1. Specify the [account settings](#account-settings-api):
-
-   1. On the **[!UICONTROL Select Accounts]** tab, specify the general account settings. For [!DNL Yandex] accounts, specify the account credentials.
-
-   1. Click the **[!UICONTROL Setup Tracking]** tab, and enter the tracking settings.
-
-   1. (Advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and select all [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
+1. Specify the [account settings](#account-settings-api) on each available tab. 
 
 1. Click **[!UICONTROL Save]**.
 
@@ -62,15 +56,7 @@ To re-authenticate the account settings to refresh the connection or update perm
 
    * Hold the cursor over the account name, click **...**, and then click **[!UICONTROL Edit]**.
 
-1. Edit the [account settings](#account-settings-api):
-
-   1. (Optional) On the **[!UICONTROL Account Details]** tab, edit the account details.
-
-   1. (Optional) Click the **[!UICONTROL Setup Tracking]** tab, and edit the tracking settings.
-
-   1. (Optional; advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md)) Click the **[!UICONTROL Set up Adobe Analytics]** tab, and edit the [!DNL Analytics] reporting suites to use for tracking and reporting campaign activity.
-
-   <!-- What are the repercussions of changing the suites? Timing of updated data? -->
+1. Edit the [account settings](#account-settings-api) on the available tabs.
 
 1. Click **[!UICONTROL Save]**.
 
@@ -142,6 +128,8 @@ The account settings vary by ad network. You may not see all settings below.
 >[!NOTE]
 >
 >If you have a Search, Social, & Commerce-Adobe Analytics integration and change the name of the search account, then ask your Adobe Account Team to update the mapping.
+
+<!-- Shouldn't there also be a login/email address fieldd for OpenAI per the spec? And I suppose people should get access keys from whom? Their organization's OpenAI team? -->**[!UICONTROL Access Key]:** ([!DNL OpenAI] accounts) The access key for the developer account to be used.
 
 **[!DNL [Ad Network] Accounts]:** (Visible while you're creating an account) The ad network account to sync. 
 
@@ -242,11 +230,11 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 >* The tracking template at the most granular level overrides the values at all higher levels. For example, if both the account settings and the keyword settings include a value, then the keyword value is applied.
 >* If you update a tracking template at the ad, sitelink, or keyword level, then the relevant ads are resubmitted for review. You can update your tracking templates at the account, campaign, or ad group levels without resubmitting your ads for approval.
 
-## [!UICONTROL Setup Analytics] tab
+## [!UICONTROL Set up Adobe Analytics] tab
 
 These settings are available for advertisers with an [[!DNL Adobe Analytics for Advertising] integration](/help/integrations/analytics/overview.md).
 
-**[!UICONTROL Adobe Analytics Report Suite]:** (Optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks.
+**[!UICONTROL Adobe Analytics Report Suite]:** (Optional) One or more Analytics report suites to which Search, Social, & Commerce sends data it collects from the ad network, including entity classifications and click data for the account. This feature is available only to supported ad networks.<!-- What are the repercussions of changing the suites? Timing of updated data? -->
 
 For the data to appear in the report suites, either (a) the server-side AMO ID feature must be configured for the account or (b) the advertiser-level setting to "[!UICONTROL Enable Advertising reporting in Analytics]" must be enabled. In addition, the advertiser's [!DNL Analytics] account must be configured to receive data from Search, Social, & Commerce. For more information, contact your Adobe Account Team.
 

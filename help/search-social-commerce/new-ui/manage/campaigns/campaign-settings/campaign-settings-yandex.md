@@ -1,9 +1,7 @@
 ---
 title: "[!DNL Yandex] campaign settings"
 description: Reference the settings for [!DNL Yandex] campaigns.
-exl-id: 3be88471-06b8-4f05-8a4e-24f71f7a36f7
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/5AvW-Q9TrsDZSfxVD7gp6C9BlDpTyvWVRkUqET-MAvc
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -16,27 +14,35 @@ topic_v2:
 ---
 # [!DNL Yandex] campaign settings
 
-## \[Campaign Creation screen\]
+## \[Top of page]
 
-**[!UICONTROL Campaign Type]:** (Available during campaign creation only) Where to place ads:
+**[!UICONTROL Campaign Name]:** A campaign name that's unique within the account.
+
+**[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
+
+## [!UICONTROL Basic Settings] tab
+
+*New campaigns only*
+
+**[!UICONTROL Network]:** The ad network.
+
+**[!UICONTROL Account]:** The ad network account.
+
+**[!UICONTROL Campaign Type]:** Where to place ads:
 
 * *[!UICONTROL Search Network Only]:* Displays text ads on the search network. You must specify keywords for each ad group.
 
-* *[!UICONTROL Search and Display Network]:* Displays text ads on the search network and the [!DNL Yandex Advertising Network]. For search ads, you must specify search keywords for each ad group; for display ads, you must specify keywords for the websites on which you want to advertise for each ad group.
+* *[!UICONTROL Search and Display Network]:* Displays text ads on the search network and the [!DNL Yandex Advertising Network]. For search ads, you must specify search keywords for each ad group. For display ads, you must specify keywords for the websites on which you want to advertise for each ad group.
 
 * *[!UICONTROL Display Network Only]:* Displays text ads on the [!DNL Yandex Advertising Network]. For each ad group, you must specify keywords for the websites on which you want to advertise.
 
-## [!UICONTROL Campaign Details]
-
-**[!UICONTROL Campaign Name]:** A campaign name that's unique within the account.
+## [!UICONTROL Campaign Details] tab
 
 <!-- **[!UICONTROL Start date]:** -->
 
 {{$include /help/_includes/start-date.md}}
 
-**[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
-
-## [!UICONTROL Budget Options]
+## [!UICONTROL Budget Options] tab
 
 **[!UICONTROL Budget]:** The budget, which is the amount you want to spend daily (on average) or during the lifetime of the campaign, depending on the account's budget type. The minimum budget is py6 300, EUR 10, or USD 10.
 
@@ -50,7 +56,11 @@ topic_v2:
 
 {{$include /help/_includes/delivery-method.md}}
 
-## [!UICONTROL Campaign Tracking]
+## [!UICONTROL Additional Campaign Information] tab
+
+### [!UICONTROL Campaign Tracking]
+
+<!-- **[!UICONTROL Override Account Tracking]:** -->
 
 <!-- **[!UICONTROL Override Account Tracking]:** -->
 
@@ -64,19 +74,25 @@ topic_v2:
 
 {{$include /help/_includes/redirect-type.md}}
 
-<!-- **[!UICONTROL Auto Upload]:** -->
-
-{{$include /help/_includes/auto-upload.md}}
+**[!UICONTROL Tracking Level]:** (For [!UICONTROL EF Redirect] only; read-only) The level at which clicks and revenue should be tracked. Only *[!UICONTROL Creative]* is available for [!DNL Yandex] &mdash; data is tracked at the ad (creative) level only.
 
 <!-- **[!UICONTROL Encode Base URL]:** -->
 
 {{$include /help/_includes/encode-base-url.md}}
 
-**[!UICONTROL Tracking Level]:** (For [!UICONTROL EF Redirect] only; read-only) The level at which clicks and revenue should be tracked. Only *[!UICONTROL Creative]* is available for [!DNL Yandex] &mdash; data is tracked at the ad (creative) level only.
-
 <!-- **[!UICONTROL Append Parameters]:** -->
 
 {{$include /help/_includes/append-parameters.md}}
+
+<!--
+
+Not there as of 7/22 -- what's going on here? If we're removing it, then I need to update many references throughout the whole doc:
+
+[               **[!UICONTROL Auto Upload]:**      ]
+
+{{$include /help/_includes/auto-upload.md}}
+
+-->
 
 >[!MORELIKETHIS]
 >
