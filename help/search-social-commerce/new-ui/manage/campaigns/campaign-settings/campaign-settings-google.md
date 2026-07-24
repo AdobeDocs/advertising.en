@@ -224,14 +224,16 @@ by country. If you don't select any, all are targeted.
 
 ## [!UICONTROL AI Max] tab
 
-**[!UICONTROL AI Max]:** (Campaigns that target the search network only) Whether to enable [[!UICONTROL AI Max]](https://support.google.com/google-ads/answer/15910366) &mdash; AI-driven search term matching, text customization, and final URL expansion &mdash; for the campaign. When you enable **[!UICONTROL AI Max]**, two additional settings become available:
+*Campaigns that target the search network only*
+
+**[!UICONTROL AI Max]:** Whether to enable [[!UICONTROL AI Max]](https://support.google.com/google-ads/answer/15910366) &mdash; AI-driven search term matching, text customization, and final URL expansion &mdash; for the campaign. When you enable **[!UICONTROL AI Max]**, two additional settings become available:
 
 * **[!UICONTROL Text customization]:** Whether to let [!DNL Google Ads] use generative AI to customize ad copy, headlines, and descriptions based on the existing ads and landing page copy.
 
 * **[!UICONTROL Final URL expansion]:** Whether to let [!DNL Google Ads] route traffic to the most relevant landing page on your website based on their search intent. This setting is available only when **[!UICONTROL Text customization]** is enabled.
 
 [<!-- Clarify why this is "Unspecified" and read-only for me as of 7/23. Also, shouldn't we reword this? -->
-**[!UICONTROL Bundling required]:** (Campaigns that target the search network only; read-only) Whether [!DNL AI Max] must be enabled to respect or modify text customization and brand list controls for the campaign: *[!UICONTROL Required]*, *[!UICONTROL Not required]*, or *[!UICONTROL Unspecified]*.
+**[!UICONTROL Bundling required]:** (Existing campaigns with the AI Max feature enabled only; read-only) Whether [!DNL AI Max] must be enabled to respect or modify text customization and brand list controls for the campaign: *[!UICONTROL Required]*, *[!UICONTROL Not required]*, or *[!UICONTROL Unspecified]*.
 
 <!-- Is this based on the advanced location options set elsewhere in Google Ads editor? --> 
 **[!UICONTROL Geo Targeting Type]:** (Existing campaigns with the AI Max feature enabled only; read-only) When any of the campaign's ad groups include [!UICONTROL Locations of Interest] targets, the types of user interest that are being targeted are indicated: *[!UICONTROL Search Interest]* (users interested in a specified location), *[!UICONTROL Presence]* (users in or regularly in a specified location), or *[!UICONTROL Presence or Interest]* (users in, regularly in, or interested in a specified location).
