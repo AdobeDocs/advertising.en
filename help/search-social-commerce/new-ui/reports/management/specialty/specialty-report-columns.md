@@ -37,7 +37,7 @@ feature: Search Reports, Search Specialty Reports
 | [!UICONTROL All Revenue Per Conversion] | ([!UICONTROL MSA Ad Extension] reports) The revenue per conversion. |
 | [!UICONTROL Asset] | ([!UICONTROL RSA Asset Report]) The asset. |
 | [!UICONTROL Asset ID] | ([!UICONTROL RSA Asset Report]) The unique ID that identifies an existing asset. |
-| [!UICONTROL Asset Performance Label] | ([!UICONTROL RSA Asset Report]) The [[!DNL Google Ads] performance rating](https://support.google.com/google-ads/answer/9564897) for the asset. |
+| [!UICONTROL Asset Performance Label] | ([!UICONTROL RSA Asset Report]) Deprecated. |
 | [!UICONTROL Asset Status] | ([!UICONTROL RSA Asset Report]) The asset status: *[!UICONTROL Enabled]* or *[!UICONTROL Enabled]* (removed). |
 | [!UICONTROL Asset Type] | ([!UICONTROL RSA Asset Report]) The asset type: *[!UICONTROL Creative Title]* or *[!UICONTROL Description]*. |
 | [!UICONTROL Assists] | ([!UICONTROL MSA Ad Extension] reports) The number of times an entity contributed to a conversion associated with a different entity. |
