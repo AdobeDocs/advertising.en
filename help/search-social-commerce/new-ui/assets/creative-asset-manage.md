@@ -24,7 +24,7 @@ In [!UICONTROL Assets] > [!UICONTROL Creatives], you can view all reusable image
 
 You can manually create new assets for an ad network account and upload them to the ad network. <!-- Verify if you can use the AI-generated ones -->You can use any of the uploaded assets for your performance max campaigns.
 
-You can also remove AI-generated text assets or exclude expanded URL asset from their associated ad groups.
+You can also remove AI-generated text assets or exclude expanded URL assets from their associated ad groups.
 
 ## View your creative assets
 
@@ -88,7 +88,7 @@ You can also remove AI-generated text assets or exclude expanded URL asset from 
 
 *[!DNL Google Ads] assets generated automatically for ad groups in [!DNL AI Max]-enabled campaigns*
 
-Remove AI-generated text assets or exclude expanded URL asset from their associated ad groups. The assets won't be served again, but performance data is still available in reports.
+Removed text assets and excluded expanded URL assets won't be served again, but performance data is still available in reports.
 
 1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Creatives]**.
 
