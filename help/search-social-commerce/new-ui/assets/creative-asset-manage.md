@@ -20,17 +20,23 @@ role_v2:
 
 *For [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
-In [!UICONTROL Assets] > [!UICONTROL Creatives], you can view all reusable image, video, and (for [!DNL Google Ads] only) text assets in your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries. The list includes AI-generated assets for [!DNL Google Ads] ad groups in [!DNL AI Max]-enabled campaigns. You can also create new assets for an ad network account and upload them to the ad network.
+In [!UICONTROL Assets] > [!UICONTROL Creatives], you can view all reusable image, video, and (for [!DNL Google Ads] only) text assets in your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries. The list includes AI-generated assets for [!DNL Google Ads] ad groups in [!DNL AI Max]-enabled campaigns.
 
-<!-- Verify if you can use the AI-generated ones -->You can use any of the assets for your performance max campaigns.
+You can manually create new assets for an ad network account and upload them to the ad network. <!-- Verify if you can use the AI-generated ones -->You can use any of the uploaded assets for your performance max campaigns.
 
-<!-- How can you tell which are AI-generated? "Source" column? -->
+You can also remove AI-generated text assets or exclude expanded URL asset from their associated ad groups.
 
-# View your creative assets
+## View your creative assets
 
 1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Creatives]**.
 
 1. In the toolbar, select the ad network and the account.
+
+   <!-- VERIFY -->The [!UICONTROL Text] tab opens by default.
+
+1. <!-- VERIFY -->(Optional) Click the **[!UICONTROL Image]** and **[!UICONTROL Video]** tabs to view assets with those formats.
+
+1. (Optional) Filter any tab by any available criteria.
 
 ## Create and upload assets
 
@@ -73,6 +79,38 @@ In [!UICONTROL Assets] > [!UICONTROL Creatives], you can view all reusable image
      You can later use the text assets for any ad elements of your choice (such as headline or short description), as long as they meet the character limits for that ad element.
 
 1. Click **[!UICONTROL Upload]**.
+
+## Remove or exclude AI-generated creative assets<!-- AI-generated ones also, or any? -->
+
+<!-- Possible in bulksheets, too?  What about manual creation? -->
+
+<!-- VERIFY ALL ONCE IN UI -->
+
+*[!DNL Google Ads] assets generated automatically for ad groups in [!DNL AI Max]-enabled campaigns*
+
+Remove AI-generated text assets or exclude expanded URL asset from their associated ad groups. The assets won't be served again, but performance data is still available in reports.
+
+1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Creatives]**.
+
+1. In the toolbar, select the ad network and the account.
+
+   <!-- VERIFY -->The [!UICONTROL Text] tab opens by default.
+
+1. <!-- VERIFY -->(If necessary) Click the **[!UICONTROL Image]** or **[!UICONTROL Video]** tab to view assets with those formats.
+
+1. <!-- Needed? -->Filter the assets as needed.
+
+   AI-generated assets from [!DNL Google Ads] ad groups in [!DNL AI Max]-enabled campaigns have the [!UICONTROL Source] type "[!UICONTROL Automatically Created]."
+
+1. Select the check box next to each asset to remove or exclude from its ad group.
+
+1. In the bulk actions toolbar:
+
+   * For text assets, click **[!UICONTROL Remove]**.
+
+   * For expanded URL assets, click **[!UICONTROL Exclude URL]**.
+
+1. <!-- VERIFY -->In the confirmation message, click **[!UICONTROL Remove]** or **[!UICONTROL Exclude URL]**.
 
 >[!MORELIKETHIS]
 >
