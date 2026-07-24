@@ -48,10 +48,6 @@ Possibly not all of the other procedures available to ads on the other SEs.
 
 {{$include /help/_includes/negative-keyword.md}}
 
-<!-- Note for **[!UICONTROL Negative Keywords]:** -->
-
-{{$include /help/_includes/negative-keyword-note-OpenAI.md}}
-
 >[!MORELIKETHIS]
 >
 >* [Manage ads](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)

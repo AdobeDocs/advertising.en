@@ -90,7 +90,7 @@ If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CP
 
 **[!UICONTROL AI Search Term Matching]:** (Campaigns with [!DNL AI Max] enabled only) Whether to use AI-driven, keywordless search term matching to enhance reach and optimisation.<!--SUPPOSEDLY, BUT THIS IS OFF FOR ME:  It's enabled by default for campaigns with [!DNL AI Max], but you can disable it at the ad group level. -->
 
-**[!UICONTROL Locations of Interest]:** (Campaigns with [!DNL AI Max] enabled only) Specific locations of geographical intent to target (but not exclude). By default, users in, regularly in, or interested in all geographical locations are targeted. To narrow down the targets, select each location to target.
+**[!UICONTROL Locations of Interest]:** (Campaigns with [!DNL AI Max] enabled only) Specific locations of geographical intent to target (but not exclude); users must also meet the campaign's geographical targeting. By default, users in, regularly in, or interested in all geographical locations are targeted. To narrow down the targets, select each location to target.
 
 ## [!UICONTROL URL Options] tab
 
