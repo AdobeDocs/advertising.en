@@ -226,13 +226,13 @@ by country. If you don't select any, all are targeted.
 
 **[!UICONTROL AI Max]:** (Campaigns that target the search network only) Whether to enable [[!UICONTROL AI Max]](https://support.google.com/google-ads/answer/15910366) &mdash; AI-driven search term matching, text customization, and final URL expansion &mdash; for the campaign. When you enable **[!UICONTROL AI Max]**, two additional settings become available:
 
-* **[!UICONTROL Text customization]:** Whether to let [!DNL Google Ads] automatically generate headlines and descriptions.
+* **[!UICONTROL Text customization]:** Whether to let [!DNL Google Ads] use generative AI to customize ad copy, headlines, and descriptions based on the existing ads and landing page copy.
 
-* **[!UICONTROL Final URL expansion]:** Whether to let [!DNL Google Ads] route traffic to the most relevant landing page. This setting is available only when **[!UICONTROL Text customization]** is enabled.
+* **[!UICONTROL Final URL expansion]:** Whether to let [!DNL Google Ads] route traffic to the most relevant landing page on your website based on their search intent. This setting is available only when **[!UICONTROL Text customization]** is enabled.
 
-<!-- Clarify why this is "Unspecified" and read-only for me as of 7/22--> **[!UICONTROL Bundling required]:** (Campaigns that target the search network only; read-only) Whether bundling is required for the campaign: *[!UICONTROL Required]*, *[!UICONTROL Not required]*, or *[!UICONTROL Unspecified]*.
-
-<!-- I don't see this as of 7/22 -->**[!UICONTROL Geo Targeting Type]:** (Existing campaigns with the AI Max feature enabled only; read-only) Under the heading "[!UICONTROL Locations of Interest] &mdash; [!UICONTROL Geo Targeting]," shows whether the campaign uses interest-based geo targeting because one or more of its ad groups have Locations of Interest configured: *[!UICONTROL Search Interest]*, *[!UICONTROL Presence]*, or *[!UICONTROL Presence or Interest]*. Locations of Interest are set per ad group; users matching an ad group with Locations of Interest must also meet the campaign's geo-targeting.
+[<!-- Clarify why this is "Unspecified" and read-only for me as of 7/23. Also, shouldn't we reword this? --> **[!UICONTROL Bundling required]:** (Campaigns that target the search network only; read-only) Whether [!DNL AI Max] must be enabled to respect or modify text customization and brand list controls for the campaign: *[!UICONTROL Required]*, *[!UICONTROL Not required]*, or *[!UICONTROL Unspecified]*.
+]
+**[!UICONTROL Locations of Interest] &mdash; [!UICONTROL Geo Targeting] > [!UICONTROL Geo Targeting Type]:** (Existing campaigns with the AI Max feature enabled only; read-only) Shows whether the campaign uses interest-based geo targeting because one or more of its ad groups have [!UICONTROL Locations of Interest] configured. Values can include: *[!UICONTROL Search Interest]* (users interested in a specified location), *[!UICONTROL Presence]* (users in or regularly in a specified location), or *[!UICONTROL Presence or Interest]* (users in, regularly in, or interested in a specified location). Locations of interest are set per ad group; users matching an ad group with locations of interest must also meet the campaign's geo-targeting.
 
 ## [!UICONTROL Additional Campaign Information] tab
 

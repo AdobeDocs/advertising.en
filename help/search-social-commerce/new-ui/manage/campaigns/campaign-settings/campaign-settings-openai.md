@@ -20,6 +20,8 @@ topic_v2:
 
 ## [!UICONTROL Basic Settings] tab
 
+*New campaigns only*
+
 **[!UICONTROL Network]:** The ad network.
 
 **[!UICONTROL Account]:** The ad network account.

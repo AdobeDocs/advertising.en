@@ -18,11 +18,23 @@ topic_v2:
 ---
 # [!DNL Google Ads] ad group settings
 
-## [!UICONTROL Adgroup Details]
+## \[Top of page]
 
-**[!UICONTROL Ad Group Name]:** An ad group name that's unique within the campaign. The maximum length is 255 double-byte characters.
+**[!UICONTROL Ad Group Name]:** An ad group name that's unique within the campaign.
 
-**[!UICONTROL Status]:** The display status of the ad group: *Active* or *Paused*. The default for new ad groups is *Active*.
+**[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
+
+## [!UICONTROL Basic Settings] tab
+
+*New campaigns only*
+
+**[!UICONTROL Network]:** The ad network.
+
+**[!UICONTROL Account]:** The ad network account.
+
+**[!UICONTROL Campaign]:** The campaign.
+
+## [!UICONTROL Ad Group Details] tab
 
 **[!UICONTROL Ad Group Type]:** (Expanded dynamic search ad campaigns only) The type of ad group:
 
@@ -50,7 +62,7 @@ If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CP
 
 **[!UICONTROL AI Max Search Term Matching]:** (Campaigns that target the search network and for which the [AI Max feature](https://support.google.com/google-ads/answer/15910366) and the campaign-level search term matching feature is enabled; read-only) Whether ad group-level search term matching is enabled: *[!UICONTROL Disabled]* or *[!UICONTROL Enabled]*.
 
-## [!UICONTROL Budget Options]
+## [!UICONTROL Budget Options] tab
 
 <!-- **[!UICONTROL Bid]:** -->
 
@@ -60,7 +72,7 @@ If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CP
 
 **[!UICONTROL Target ROAS]:** (Campaigns with [!UICONTROL Target ROAS] bidding; optional) The target return on ad spend (ROAS) for the ad group, as a percentage. This value overrides the campaign-level target.
 
-## [!UICONTROL Ad Group Targeting]
+## [!UICONTROL Ad Group Targeting] tab
 
 **[!UICONTROL Audience Target Method]:** (Campaigns on only the search network, and existing, read-only [!DNL Gmail] campaigns on the display network) Whether to:
 
@@ -72,13 +84,23 @@ If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CP
 
 {{$include /help/_includes/devices.md}}
 
-## [!UICONTROL URL Options]
+## [!UICONTROL AI Max] tab
+
+## [!UICONTROL AI Max] tab
+
+**[!UICONTROL AI Search Term Matching]:** (Campaigns with [!DNL AI Max] enabled only) Whether to use AI-driven, keywordless search term matching to enhance reach and optimisation.<!--SUPPOSEDLY, BUT THIS IS OFF FOR ME:  It's enabled by default for campaigns with [!DNL AI Max], but you can disable it at the ad group level. -->
+
+**[!UICONTROL Locations of Interest]:** (Campaigns with [!DNL AI Max] enabled only) Specific locations of geographical intent to target (but not exclude). By default, users in, regularly in, or interested in all geographical locations are targeted. To narrow down the targets, select each location to target.
+
+## [!UICONTROL URL Options] tab
 
 <!-- **[!UICONTROL Tracking Template]:** -->
 
 {{$include /help/_includes/tracking-template-google.md}}
 
-## [!UICONTROL Negative Keywords]
+## [!UICONTROL Additional Ad Group Information] tab
+
+### [!UICONTROL Negative Keywords]
 
 <!-- **[!UICONTROL Negative Keywords]:** -->
 
@@ -88,7 +110,7 @@ If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CP
 
 {{$include /help/_includes/negative-keyword-note-google.md}}
 
-## [!UICONTROL Negative Websites]
+### [!UICONTROL Negative Websites]
 
 <!-- **[!UICONTROL Negative Websites]:** -->
 

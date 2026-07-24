@@ -16,13 +16,23 @@ topic_v2:
 ---
 # [!DNL LY Ads] ad group settings
 
-## [!UICONTROL Adgroup Details]
+## \[Top of page]
 
 **[!UICONTROL Ad Group Name]:** An ad group name that's unique within the campaign.
 
-**[!UICONTROL Status]:** The display status of the ad group: *Active* or *Paused*. The default for new ad groups is *Active*.
+**[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
 
-## [!UICONTROL Budget Options]
+## [!UICONTROL Basic Settings] tab
+
+*New campaigns only*
+
+**[!UICONTROL Network]:** The ad network.
+
+**[!UICONTROL Account]:** The ad network account.
+
+**[!UICONTROL Campaign]:** The campaign.
+
+## [!UICONTROL Budget Options] tab
 
 <!-- **[!UICONTROL Bid]:** -->
 
@@ -33,16 +43,6 @@ topic_v2:
 <!-- **[!UICONTROL Tracking Template]:** -->
 
 {{$include /help/_includes/tracking-template-yahoo-japan.md}}
-
-## [!UICONTROL Negative Keywords]
-
-<!-- **[!UICONTROL Negative Keywords]:** -->
-
-{{$include /help/_includes/negative-keyword.md}}
-
-<!-- Note for **[!UICONTROL Negative Keywords]:** -->
-
-{{$include /help/_includes/negative-keyword-note-yahoo-japan.md}}
 
 >[!MORELIKETHIS]
 >

@@ -19,27 +19,25 @@ topic_v2:
 
 <!-- Can create, edit, and delete. Possibly not all of the other procedures available to ad groups on the other SEs. -->
 
-## [!UICONTROL Adgroup Details]
+## [!UICONTROL Basic Settings] tab
 
-**[!UICONTROL Ad Group Name]:** An ad group name that's unique within the campaign. The maximum length is 15 double-byte characters.
+*New campaigns only*
 
-**[!UICONTROL Status]:** The display status of the ad group: *Active* or *Paused*. The default for new ad groups is *Active*.
+**[!UICONTROL Network]:** The ad network.
 
-## [!UICONTROL Budget Options]
+**[!UICONTROL Account]:** The ad network account.
 
-<!-- **[!UICONTROL Bid]:** -->
+**[!UICONTROL Campaign]:** The campaign.
 
-{{$include /help/_includes/bid-ad-group.md}}
+## <!-- sic -->[!UICONTROL Ad Group Details] tab
 
-## [!UICONTROL Negative Keywords]
+**[!UICONTROL Ad group name]:** An ad group name that's unique within the campaign.
 
-<!-- **[!UICONTROL Negative Keywords]:** -->
+**[!UICONTROL Status]:** The display status of the a group: *Active* or *Paused*. The default for new ad groups is *Active*.
 
-{{$include /help/_includes/negative-keyword.md}}
+**[!UICONTROL Maximum CPC bid]:** The maximum amount you'll pay for each click.
 
-<!-- Note for **[!UICONTROL Negative Keywords]:** -->
-
-{{$include /help/_includes/negative-keyword-note-OpenAI.md}}
+**[!UICONTROL Context hints]:** (Optional) Description of the conversations, topics, or keywords for which your products or services may be relevant. Your hints may be used to guide matching but aren't exact-match targeting rules.
 
 >[!MORELIKETHIS]
 >
