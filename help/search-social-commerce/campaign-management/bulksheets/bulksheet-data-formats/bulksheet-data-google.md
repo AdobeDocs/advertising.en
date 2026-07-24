@@ -37,6 +37,19 @@ For the data fields relevant for account entities, see "[Fields required to crea
 >* For fields that aren't specified below, the default value for the ad network is used.
 >* For a list of available bulksheet rows in the [!UICONTROL Download Bulksheet] dialog, see "[Bulksheet rows by ad network](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md#bulksheet-rows-by-ad-network)."
 
+
+<!-- Add in when released:
+
+| [!UICONTROL AI Max Enabled] | Whether the [[!UICONTROL AI Max] feature](https://support.google.com/google-ads/answer/15910366) is enabled for the campaign: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
+
+| [!UICONTROL AI Max Asset Automation] | Whether the "Text Automation" setting for [!UICONTROL AI Max]-enabled campaigns is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
+
+
+| [!UICONTROL AI Max Search Term Matching] | Whether the "[!UICONTROL AI Max Search Term Matching]" setting for ad groups in [!UICONTROL AI Max]-enabled campaigns is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
+
+
+-->
+
 | Field | Description |
 | ---- | ---- |
 | [!UICONTROL Platform] | (Included in generated bulksheets for information purposes) The ad platform. Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity.|

@@ -86,6 +86,8 @@ If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CP
 
 ## [!UICONTROL AI Max] tab
 
+*Campaigns that target the search network only*
+
 ## [!UICONTROL AI Max] tab
 
 **[!UICONTROL AI Search Term Matching]:** (Campaigns with [!DNL AI Max] enabled only) Whether to use AI-driven, keywordless search term matching to enhance reach and optimisation.<!--SUPPOSEDLY, BUT THIS IS OFF FOR ME:  It's enabled by default for campaigns with [!DNL AI Max], but you can disable it at the ad group level. -->
