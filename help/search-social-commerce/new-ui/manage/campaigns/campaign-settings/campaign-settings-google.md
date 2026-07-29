@@ -232,7 +232,7 @@ by country. If you don't select any, all are targeted.
 
 * **[!UICONTROL Final URL expansion]:** Whether to let [!DNL Google Ads] route traffic to the most relevant landing page on your website based on their search intent. This setting is available only when **[!UICONTROL Text customization]** is enabled.
 
-[<!-- Clarify why this is "Unspecified" and read-only for me as of 7/23. Also, shouldn't we reword this? -->
+<!-- Clarify why this is "Unspecified" and read-only for me as of 7/23. Also, shouldn't we reword this? -->
 
 **[!UICONTROL Bundling required]:** (Existing campaigns with the [!UICONTROL AI Max] feature enabled only; read-only) Whether [!UICONTROL AI Max] must be enabled to respect or modify text customization and brand list controls for the campaign: *[!UICONTROL Required]*, *[!UICONTROL Not required]*, or *[!UICONTROL Unspecified]*.
 
