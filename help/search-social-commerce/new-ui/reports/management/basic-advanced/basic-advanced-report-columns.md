@@ -36,8 +36,8 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL AI Max Search Term Matching] | (Campaigns that target the search network and for which the [AI Max feature](https://support.google.com/google-ads/answer/15910366) and the campaign-level search term matching feature is enabled; read-only) Whether ad group-level search term matching is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
 | [!UICONTROL Advertiser] | The advertiser name. |
 | [!UICONTROL Advertiser ID] | The numeric ID for the advertiser's Search, Social, & Commerce account. |
-| [!UICONTROL All Conversions] | ([!UICONTROL Asset Report]) The total number of conversions, including those from conversion actions that aren't included in your main Conversions column. |
-| [!UICONTROL All Conversions Value] | ([!UICONTROL Asset Report]) The value of all conversions, including those from conversion actions that aren't included in your main Conversions column. |
+| [!UICONTROL All Conversions] | ([!UICONTROL Asset Report]) The total number of [!DNL Google]-tracked conversions, including those from conversion actions that aren't included in your main Conversions column. |
+| [!UICONTROL All Conversions Value] | ([!UICONTROL Asset Report]) The value of all [!DNL Google]-tracked conversions, including those from conversion actions that aren't included in your main Conversions column. |
 | [!UICONTROL Asset ID] | The unique ID that identifies an existing asset. |
 | [!UICONTROL Asset] | The asset name. |
 | [!UICONTROL Asset Type] | The type of asset: *[!UICONTROL Image]*, *[!UICONTROL Text]* (such as a headline or description), or *[!UICONTROL Video]*. |
@@ -74,8 +74,8 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Content IS Lost (budget)] | The estimated percentage of impressions that your ads on the display/audience network didn't receive because your daily or monthly budget was too low. In [!DNL Microsoft Advertising], this is called "[!UICONTROL Audience lost IS (budget)]." |
 | [!UICONTROL Content IS Lost (rank)] | The estimated percentage of impressions that your ads on the display/audience network weren't shown because of a poor ad rank. In [!DNL Microsoft Advertising], this is called "[!UICONTROL Audience lost IS (rank)]." |
 | [!UICONTROL Conversion Type] | ([!UICONTROL Transaction Report]) The action(s) that preceded the conversion:<ul><li><i>[!UICONTROL Click:]</i> At least one paid click occurred before the conversion.</li><li><i>[!UICONTROL Impression:]</i> No paid clicks occurred before the conversion, so the conversion resulted from a view-through (impression without any paid clicks).</li></ul> |
-| [!UICONTROL Conversions] | ([!UICONTROL Asset Report]) The total conversions for the specified period from conversion actions for which "Include in conversions" is enabled. |
-| [!UICONTROL Conversions Value] | ([!UICONTROL Asset Report]) The value of all conversions from conversion actions for which "Include in conversions" is enabled. |
+| [!UICONTROL Conversions] | ([!UICONTROL Asset Report]) The total [!DNL Google]-tracked conversions for the specified period from conversion actions for which "Include in conversions" is enabled. |
+| [!UICONTROL Conversions Value] | ([!UICONTROL Asset Report]) The value of all [!DNL Google]-tracked conversions from conversion actions for which "Include in conversions" is enabled. |
 | [!UICONTROL Cost] | The total cost for ads during the specified date range. |
 | [!UICONTROL Country] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) A country from which clicks originated. It's determined from the user's IP address. |
 | [!UICONTROL CPC] | The cost per click (CPC) for ads during the specified date range. |
