@@ -28,4 +28,4 @@ topic_v2:
 
 >[!MORELIKETHIS]
 >
->* [Manage ad groups](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
+>* [Manage ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-manage.md)
