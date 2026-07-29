@@ -145,7 +145,7 @@ The account settings vary by ad network. You may not see all settings below.
 >
 >If you have a Search, Social, & Commerce-Adobe Analytics integration and change the name of the search account, then ask your Adobe Account Team to update the mapping.
 
-**[!UICONTROL Access Key]:** ([!DNL OpenAI Ads] accounts only) The access key for the developer account to be used.
+**[!UICONTROL Access Key]:** ([!DNL OpenAI Ads] accounts only) The access key for the developer account to be used.<!-- Shouldn't there also be a login/email address fieldd for OpenAI per the spec? And I suppose people should get access keys from whom? Their organization's OpenAI team? -->
 
 **[!DNL [Ad Network] Accounts]:** (Visible while you're creating an account) The ad network account to sync. 
 
