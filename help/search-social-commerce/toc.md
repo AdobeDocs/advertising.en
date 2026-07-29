@@ -114,19 +114,21 @@ role_v2:
       + [View a portfolio's change history](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-change-history.md)
       + [Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
     + Campaigns {#campaigns}
-      + [About the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-about.md)
-      + [Assign campaigns to a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio){target="_blank"}
-      + [Remove campaigns from a portfolio](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio){target="_blank"}
-      + [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
-      + [Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
-      + [Change the status of a campaign](/help/search-social-commerce/new-ui/manage/campaigns/campaign-change-status.md)
-      + [Rename a campaign](/help/search-social-commerce/new-ui/manage/campaigns/campaign-rename.md)
-    + Ad Groups {#ad-groups}
-      + [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
-      + [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)    
-      + [Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
-      + [Change the status of an ad group](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-change-status.md)
-      + [Rename an ad group](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-rename.md)
+      + [Manage campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md)
+      + Campaign settings by ad network {#campaign-settings-by-network}
+          + [[!DNL Baidu] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-baidu.md)
+          + [[!DNL Google Ads] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-google.md)
+          + [[!DNL LY Ads] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-yahoo-japan.md)
+          + [[!DNL Microsoft Advertising] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-microsoft.md)
+          + [[!DNL Yandex] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-yandex.md)
+    + Ad groups {#ad-groups}
+      + [Manage ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-manage.md)
+      + Ad group settings by ad network {#ad-group-settings-by-network}
+        + [[!DNL Baidu] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md)
+        + [[!DNL Google Ads] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md)
+        + [[!DNL LY Ads] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yahoo-japan.md)
+        + [[!DNL Microsoft Advertising] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md)
+        + [[!DNL Yandex] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md)
     + Ads {#ads}
       + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
       + [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)
@@ -213,6 +215,7 @@ role_v2:
       + [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-constraint-assignments-manage.md)
     + [Manage [!DNL Google Ads] dynamic search targets](/help/search-social-commerce/new-ui/target/dynamic-search-target-manage.md)
   + Assets {#assets}
+    + [View and create creative assets](/help/search-social-commerce/new-ui/assets/creative-asset-manage.md)
     + [Manage shopping product groups](/help/search-social-commerce/new-ui/assets/product-groups-manage.md)
   + Setup {#setup}
     + Accounts {#accounts}

@@ -28,6 +28,8 @@ You can't create [!DNL Meta Ads] campaigns in Search, Social, & Commerce. You ca
 
 <!-- **[!UICONTROL End Date]:** -->
 
+{{$include /help/_includes/end-date.md}}
+
 **[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*.
 
 ## [!UICONTROL Campaign Tracking]
