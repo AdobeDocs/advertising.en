@@ -1,0 +1,123 @@
+---
+title: "[!DNL Google Ads] ad group settings"
+description: Reference the settings for [!DNL Google Ads] ad groups.
+exl-id: def75630-19b9-4676-ad34-5d9041cc3680
+feature: Search Campaign Management
+TQID: https://experienceleague.adobe.com/pDFheVIM62XNCh2-7jbCscIqOrcTep7qnNg5S1tHYF8
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+---
+# [!DNL Google Ads] ad group settings
+
+## \[Top of page]
+
+**[!UICONTROL Ad Group Name]:** An ad group name that's unique within the campaign.
+
+**[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
+
+## [!UICONTROL Basic Settings] tab
+
+*New campaigns only*
+
+**[!UICONTROL Network]:** The ad network.
+
+**[!UICONTROL Account]:** The ad network account.
+
+**[!UICONTROL Campaign]:** The campaign.
+
+## [!UICONTROL Ad Group Details] tab
+
+**[!UICONTROL Ad Group Type]:** (Expanded dynamic search ad campaigns only) The type of ad group:
+
+* *[!UICONTROL Search Standard]* (the default): For standard ads.
+
+* *[!UICONTROL Search Dynamic]:* For dynamic search ads.
+
+**[!UICONTROL Ad Rotation Mode]:** How often [!DNL Google Ads] delivers your active ads in relation to one another within the ad group:
+
+* *[!UICONTROL Optimize]:* [!DNL Google Ads] favors ads that it expects to perform better than other ads in the ad group. These ads enter the ad auction more often, and over time a single ad is favored. This may be inconsistent with your business and optimization objectives.
+
+* *[!UICONTROL Rotate forever]:*   Each of your ads enters the ad auction a more even number of times, which allows Search, Social, & Commerce to score your ads not only on click-through rate but also on conversions.
+
+* *[!UICONTROL Use campaign setting]*(the default for new ad groups): Uses the existing campaign-level ad rotation setting. **Note:** The campaign-level setting isn't visible in Search, Social, & Commerce.
+
+If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CPA], [!UICONTROL Target ROAS], then [!DNL Google Ads] automatically sets the option to "[!UICONTROL Optimize]."
+
+**[!UICONTROL Custom Bid Level]:** (Campaigns that target the display network only) How to bid: by *[!UICONTROL Ad Group]* (the default), *[!UICONTROL Age]*, *[!UICONTROL Gender]*, *[!UICONTROL Interest and List]* (Interests & Remarketing in Google Ads), *[!UICONTROL Keyword]*, *[!UICONTROL Placement]* (website), *[!UICONTROL Unknown]*, or *[!UICONTROL Vertical]*.
+
+>[!NOTE]
+>
+>* When you bid by keyword, create tracking templates at the keyword level. Similarly, when you bid by placement, create tracking templates at the placement level. For all other dimensions, create tracking templates at the ad level.
+>* When you bid by Age, Gender, Interest and List, or Vertical for campaigns in portfolios, the optimization capability doesn't optimize bids for the dimension. Also, all attribution is applied to the ad group.
+>* Ads on the search network always use keyword bids.
+
+**[!UICONTROL AI Max Search Term Matching]:** (Campaigns that target the search network and for which the [AI Max feature](https://support.google.com/google-ads/answer/15910366) and the campaign-level search term matching feature is enabled; read-only) Whether ad group-level search term matching is enabled: *[!UICONTROL Disabled]* or *[!UICONTROL Enabled]*.
+
+## [!UICONTROL Budget Options] tab
+
+<!-- **[!UICONTROL Bid]:** -->
+
+{{$include /help/_includes/bid-ad-group.md}}
+
+**[!UICONTROL Target CPA]:** (Campaigns with [!UICONTROL Target CPA] bidding; optional) The target cost per acquisition (CPA) for the ad group. This value overrides the campaign-level target.
+
+**[!UICONTROL Target ROAS]:** (Campaigns with [!UICONTROL Target ROAS] bidding; optional) The target return on ad spend (ROAS) for the ad group, as a percentage. This value overrides the campaign-level target.
+
+## [!UICONTROL Ad Group Targeting] tab
+
+**[!UICONTROL Audience Target Method]:** (Campaigns on only the search network, and existing, read-only [!DNL Gmail] campaigns on the display network) Whether to:
+
+* *[!UICONTROL Target and Bid]:* To show ads only to users associated with target audiences who also satisfy any other targets for the ad group.
+
+* *[!UICONTROL Bid Only]:* To show ads even to people who aren't associated with target audiences as long as they satisfy other ad group-level targets. You can increase the chances that ads are shown to specific audiences, however, by setting higher bids for those audiences.
+
+<!-- **[!UICONTROL Devices]:** -->
+
+{{$include /help/_includes/devices.md}}
+
+## [!UICONTROL AI Max] tab
+
+*Campaigns that target the search network only*
+
+## [!UICONTROL AI Max] tab
+
+**[!UICONTROL AI Search Term Matching]:** (Campaigns with [!DNL AI Max] enabled only) Whether to use AI-driven, keywordless search term matching to enhance reach and optimisation.<!--SUPPOSEDLY, BUT THIS IS OFF FOR ME:  It's enabled by default for campaigns with [!DNL AI Max], but you can disable it at the ad group level. -->
+
+**[!UICONTROL Locations of Interest]:** (Campaigns with [!DNL AI Max] enabled only) Specific locations of geographical intent to target (but not exclude); users must also meet the campaign's geographical targeting. By default, users in, regularly in, or interested in all geographical locations are targeted. To narrow down the targets, select each location to target.
+
+## [!UICONTROL URL Options] tab
+
+<!-- **[!UICONTROL Tracking Template]:** -->
+
+{{$include /help/_includes/tracking-template-google.md}}
+
+## [!UICONTROL Additional Ad Group Information] tab
+
+### [!UICONTROL Negative Keywords]
+
+<!-- **[!UICONTROL Negative Keywords]:** -->
+
+{{$include /help/_includes/negative-keyword.md}}
+
+<!-- Note for **[!UICONTROL Negative Keywords]:** -->
+
+{{$include /help/_includes/negative-keyword-note-google.md}}
+
+### [!UICONTROL Negative Websites]
+
+<!-- **[!UICONTROL Negative Websites]:** -->
+
+{{$include /help/_includes/negative-websites-google.md}}
+
+>[!MORELIKETHIS]
+>
+>* [Manage ad groups](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
