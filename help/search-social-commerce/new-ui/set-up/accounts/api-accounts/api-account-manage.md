@@ -14,6 +14,8 @@ exl-id: a50b2943-7568-401c-be5b-ff6f62629488
 
 Following are instructions for managing ad network accounts that Search, Social, & Commerce syncs using the ad network's API.
 
+<!-- Add somewhere:  Can now open a list of all campaigns for an ad network account by clicking account name -->
+
 <!-- Move out info about Naver into a separate page -->
 
 For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
