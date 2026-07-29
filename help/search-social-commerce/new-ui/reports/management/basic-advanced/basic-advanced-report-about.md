@@ -35,6 +35,8 @@ Basic reports show the actual cost and click data for portfolios (when applicabl
 
 * [The [!UICONTROL Product Group Report]](product-group-report.md)
 
+* [The [!UICONTROL Asset Report]](asset-report.md)
+
 ### Classification reports
 
 * [The [!UICONTROL Label Classification Report]](label-classification-report.md)
