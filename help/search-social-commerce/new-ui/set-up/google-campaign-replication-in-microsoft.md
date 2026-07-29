@@ -21,7 +21,7 @@ You can replicate the following types of campaigns and their campaign structure:
 
 You can choose to update the campaigns once; daily, weekly, or monthly; or according to [!DNL Microsoft Advertising]'s recommended schedule. You can optionally configure notifications every time an import job runs or when errors or changes occur. Once you import your campaigns into [!DNL Microsoft Advertising], you can check the status of your import job, review any error logs, manually run an import job, and edit, pause, enable, or delete your import schedule.
 
-Not all campaign information is replicated, and you may need to add some information to your [!DNL Microsoft Advertising] campaigns. For more information about what data is imported, see [!DNL Microsoft Advertising] help on "[What gets imported from [!DNL Google Ads]](https://help.ads.microsoft.com/#apex/ads/en/50851){target="_blank"}." Because Search, Social, & Commerce tracking isn't imported, you should also add tracking within the [account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [campaign](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad group](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), or [ad](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) settings.
+Not all campaign information is replicated, and you may need to add some information to your [!DNL Microsoft Advertising] campaigns. For more information about what data is imported, see [!DNL Microsoft Advertising] help on "[What gets imported from [!DNL Google Ads]](https://help.ads.microsoft.com/#apex/ads/en/50851){target="_blank"}." Because Search, Social, & Commerce tracking isn't imported, you should also add tracking within the [account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [campaign](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad group](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md), or [ad](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) settings.
 
 ## Replicate [!DNL Google Ads] campaigns
 
@@ -41,7 +41,7 @@ See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsof
 
 1. Review your selections in the summary and click **[!UICONTROL Start Import]**.
 
-1. (Optional) Add Search, Social, & Commerce tracking within the [account](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md), [campaign](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad group](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), or [ad](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) settings.
+1. (Optional) Add Search, Social, & Commerce tracking within the [account](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md), [campaign](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad group](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md), or [ad](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) settings.
 
 ## Edit schedule settings for a campaign import job
 
