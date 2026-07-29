@@ -41,7 +41,7 @@ feature: Search Reports, Search Basic Reports, Search Advanced Reports
 | [!UICONTROL Asset ID] | The unique ID that identifies an existing asset. |
 | [!UICONTROL Asset] | The asset name. |
 | [!UICONTROL Asset Type] | The type of asset: *[!UICONTROL Image]*, *[!UICONTROL Text]* (such as a headline or description), or *[!UICONTROL Video]*. |
-| [!UICONTROL Asset Performance Label] | ([!UICONTROL Asset Report]) The algorithmically-generated performance label (currently deprecated in [!DNL Google Ads]) for the asset: *[!UICONTROL Best]*, *[!UICONTROL Good]*, *[!UICONTROL Low]*, or *[!UICONTROL Learning]*. |
+| [!UICONTROL Asset Performance Label] | ([!UICONTROL Asset Report]) The algorithmically-generated performance label for the asset: *[!UICONTROL Best]*, *[!UICONTROL Good]*, *[!UICONTROL Low]*, or *[!UICONTROL Learning]*. |
 | [!UICONTROL Average CPC] | The average cost per click. |
 | [!UICONTROL Avg Position] | The average position of the ads during the specified date range.<br><br>For [!DNL Google Ads] and [!DNL LY Ads] campaigns, this data is available only through September 2019. For [!DNL Microsoft Advertising], this data is available only through 22 January 2021. |
 | [!UICONTROL Base URL] | The base URL for the keyword, including any append parameters configured for the campaign or account. It doesn't include any Search, Social, & Commerce redirection and tracking code. |
