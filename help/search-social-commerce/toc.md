@@ -143,6 +143,7 @@ role_v2:
           + Basic report formats {#basic-report-formats}
             + [The [!UICONTROL Ad Group Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/ad-group-report.md)
             + [The [!UICONTROL Ad Variation Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/ad-variation-report.md)
+            + [The [!UICONTROL Asset Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/asset-report.md)
             + [The [!UICONTROL Campaign Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/campaign-report.md)
             + [The [!UICONTROL Campaign Hourly Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/campaign-hourly-report.md)
             + [The [!UICONTROL Constraint Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/constraint-report.md)
