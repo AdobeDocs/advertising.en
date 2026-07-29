@@ -123,13 +123,13 @@ role_v2:
           + [[!DNL Microsoft Advertising] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-microsoft.md)
           + [[!DNL Yandex] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-yandex.md)
     + Ad groups {#ad-groups}
-      + [Manage ad groups](/help/search-social-commerce/new-ui/manage/campaigns/ad-group-manage.md)
+      + [Manage ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-manage.md)
       + Ad group settings by ad network {#ad-group-settings-by-network}
-        + [[!DNL Baidu] ad group settings](/help/search-social-commerce/new-ui/manage/campaigns/ad-group-settings-baidu.md)
-        + [[!DNL Google Ads] ad group settings](/help/search-social-commerce/new-ui/manage/campaigns/ad-group-settings-google.md)
-        + [[!DNL LY Ads] ad group settings](/help/search-social-commerce/new-ui/manage/campaigns/ad-group-settings-yahoo-japan.md)
-        + [[!DNL Microsoft Advertising] ad group settings](/help/search-social-commerce/new-ui/manage/campaigns/ad-group-settings-microsoft.md)
-        + [[!DNL Yandex] ad group settings](/help/search-social-commerce/new-ui/manage/campaigns/ad-group-settings-yandex.md)
+        + [[!DNL Baidu] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md)
+        + [[!DNL Google Ads] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md)
+        + [[!DNL LY Ads] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yahoo-japan.md)
+        + [[!DNL Microsoft Advertising] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md)
+        + [[!DNL Yandex] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md)
     + Ads {#ads}
       + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
       + [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)
