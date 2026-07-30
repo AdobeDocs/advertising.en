@@ -29,7 +29,7 @@ role_v2:
 
 **[!UICONTROL Account]:** The ad network account.
 
-<!-- VERIFY -- "Product feed" should also be an option, but maybe it's not visible to me b/c we don't have one set up? -->**[!UICONTROL Campaign Type]:** Where to place ads: the only option is *[!UICONTROL Standard]* to display ads in [!DNL ChatGPT].
+**[!UICONTROL Campaign Type]:** Where to place ads: the only option is *[!UICONTROL Standard]* to display ads in [!DNL ChatGPT].
 
 ## [!UICONTROL Campaign Details] tab
 
@@ -37,7 +37,7 @@ role_v2:
 
 **[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
 
-<!-- I don't see Conversions, which is required for the "Conversion events" field that appears below. Verify the options here. Reach=CPM, Clicks=CPC -->**[!UICONTROL Objective]:** The campaign objective: *Reach* or *Clicks*.
+**[!UICONTROL Objective]:** The campaign objective: *Reach* or *Clicks*.
 
 **[!UICONTROL Location Targets]:** Supported user geographical locations to include as targets. By default, all supported locations are targeted. You can narrow the targets to include (but not exclude) users in any combination of locations.
 
@@ -53,7 +53,7 @@ role_v2:
 
 **[!UICONTROL Budget]:** The budget for the specified campaign type.
 
-<!-- No Conversions objectives (conversion-optimized cost-per-click campaigns) are available above; aren't they required for this field? And are the available conversion events configured at the account level? -->**[!UICONTROL Conversion events]:** (Campaigns with the objective "[!UICONTROL Conversions]" ) The conversion events 
+**[!UICONTROL Conversion events]:** (COptional) The conversion events 
 
 <!-- **[!UICONTROL Start Date]:** -->
 

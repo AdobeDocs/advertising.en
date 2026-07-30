@@ -14,9 +14,6 @@ subfeature_v2:
 ---
 # [!DNL OpenAI] ad group settings
 
-
-<!-- EDIT ALL to include these:  Fields: ad group name, maximum CPM bid (USD), context hints (optional). -->
-
 <!-- 
 
 Can create, rename, edit, and delete/archive. Nothing else; add disclaimer tags in edit ad-group-manage.md. 

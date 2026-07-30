@@ -17,6 +17,8 @@ role_v2:
 ---
 # [!DNL OpenAI] ad settings
 
+[!DNL OpenAI] ads are shown in [!DNL ChatGPT].
+
 <!-- Create, edit, delete. Possibly not all of the other procedures available to ads on the other SEs. -->
 
 ## [!UICONTROL Basic Settings] tab
