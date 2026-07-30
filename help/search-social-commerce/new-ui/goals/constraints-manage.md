@@ -130,7 +130,7 @@ You can edit the settings for one constraint at a time.
 
 You can pause any active constraint to disable it. You can later enable it by changing the status back to *active*.
 
-You also can delete a constraint, which removes all associations with account components and makes the constraint unavailable for future use. Report data for the constraint is longer available. **Note:**  To simply disassociate a constraint from an account component, see "[Unassign constraints from search bid units](#constraints-unassign)."
+You also can delete a constraint, which removes all associations with account components and makes the constraint unavailable for future use. Report data for the constraint is longer available. **Note:**  To simply disassociate a constraint from an account component, see "[Remove constraints from search bid units](#constraints-unassign)."
 
 1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Constraints]**.
 

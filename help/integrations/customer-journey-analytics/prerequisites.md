@@ -29,6 +29,9 @@ topic_v2:
 
 *Advertisers with Advertising DSP and [!DNL Advertising Search, Social, & Commerce]*
 
+
+* (Advertisers with Customer Journey Analytics but not [!DNL Analytics for Advertising]) [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) Version 2.36 or higher.
+
 * Adobe Customer Journey Analytics with access to data management tools
 
   You'll need support from your internal web analyst to set up a connection to your dataset and configure reporting.

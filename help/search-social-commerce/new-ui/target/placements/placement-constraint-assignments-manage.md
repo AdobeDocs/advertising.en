@@ -54,7 +54,7 @@ You can assign a single constraint to one or more placements.
 
 1. Click **[!UICONTROL Save]**.
 
-## Unassign constraints from selected placements from the new [!UICONTROL Placements] view
+## Remove constraints from selected placements from the new [!UICONTROL Placements] view
 
 1. In the main menu, click **[!UICONTROL Target] > [!UICONTROL Placements]**.
 

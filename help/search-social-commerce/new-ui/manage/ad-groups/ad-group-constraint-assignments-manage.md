@@ -59,7 +59,7 @@ Unassigning a constraint removes the association with the account components and
 
 1. Click **[!UICONTROL Save]**.
 
-## Unassign constraints from selected ad groups from the new [!UICONTROL Ad Groups] view
+## Remove constraints from selected ad groups from the new [!UICONTROL Ad Groups] view
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Ad Groups]**.
 

@@ -105,7 +105,7 @@ Label values are inherited by child entities, so don't enter values for child en
 >
 >Your keywords and ad copy for some ad networks and campaign types are [non-mutable](/help/search-social-commerce/campaign-management/faqs-campaigns.md), which means that editing them deletes the existing entity and creates a new one. When an existing entity is deleted in this way, the label classification isn't assigned to the new entity. 
 
-1. [Download a bulksheet](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md) that includes the entities to which you want to assign label classification values:
+1. [Download a bulksheet](/help/search-social-commerce/new-ui/set-up/bulksheets/download.md) that includes the entities to which you want to assign label classification values:
    
    * On the [!UICONTROL Rows and Columns] tab, expand the [!UICONTROL Campaign] list in the [!UICONTROL Bulksheet Columns] pane.
    
@@ -121,7 +121,7 @@ Label values are inherited by child entities, so don't enter values for child en
    
    Besides adding values, you can also delete existing values by removing them from the relevant rows. To remove values from both a parent entity and its child entities, either a) include only the parent entity row and remove the existing classification value or b) include both the parent entity and its child entities, and remove the existing classification value from all of the parent and child rows.
 
-1. [Upload the file](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-upload.md) to create the associations.<!-- Update once the new bulksheet UI is GA -->
+1. [Upload the file](/help/search-social-commerce/new-ui/set-up/bulksheets/upload.md) to create the associations.
 
 The uploaded label values are visible in the relevant entity views.
 
