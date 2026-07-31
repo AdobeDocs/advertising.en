@@ -30,7 +30,7 @@ Content credentials are automatically attached at the following points in a [!UI
 
 * **Generation:** When you use the [[!UICONTROL Ad Variations Generator]](/help/creative/creative-studio/creative-studio-manage-standard-ads.md#generate-ad-variations) to generate new background images<!--, headlines, subheadlines, CTAs, or body copy --> for standard ads. <!-- ??? --><!-- Does a credential attach per asset or per variation? -->
 
-* **Editing:** When you use the AI chat interface to modify existing content for either standard ads or dynamically-generated ads. Editing an asset that already carries a credential causes the existing [!DNL Creative Studio] credential to be resigned to include the new action. Example:
+* **Editing:** When you use the AI chat interface to modify existing content for standard ads<!-- I don't think this is possible: or dynamically-generated ads-->. Editing an asset that already carries a credential causes the existing [!DNL Creative Studio] credential to be resigned to include the new action. Example:
 
   * Cropping an image without a Creative Studio content credential adds a credential.
 
