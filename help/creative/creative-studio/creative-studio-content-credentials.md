@@ -60,7 +60,7 @@ Content credentials are automatically attached at the following points in a [!UI
 ## Content types and scope
 
 | Content type | Supported elements | AI service that generates the content | Model that generates the credential |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Images | Background image files | Adobe Firefly | Google Gemini Flash |
 | Text | Headlines, subheadlines, CTAs, and body copy. | Anthropic Claude | Anthropic Claude |
 
