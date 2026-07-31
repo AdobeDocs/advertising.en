@@ -59,6 +59,8 @@ Content credentials are automatically attached at the following points in a [!UI
 
 ## Content types and scope
 
+** I THINK THIS IS ONLY FOR IMAGES, NOT TEXT?**
+
 | Content type | Supported elements | AI service that generates the content | Model that generates the credential |
 | --- | --- | --- | --- |
 | Images | Background image files | Adobe Firefly | Google Gemini Flash |
