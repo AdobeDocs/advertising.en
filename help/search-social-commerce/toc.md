@@ -130,9 +130,17 @@ role_v2:
         + [[!DNL Microsoft Advertising] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md)
         + [[!DNL Yandex] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md)
     + Ads {#ads}
-      + [About the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
-      + [Manage data view reports from the [!UICONTROL Ads] view](/help/search-social-commerce/new-ui/manage/ads/ad-view-report.md)
-      + [Change the status of an ad](/help/search-social-commerce/new-ui/manage/ads/ad-change-status.md)
+      + [Manage ads](/help/search-social-commerce/new-ui/manage/ads/ad-manage.md)
+      + Ad settings by ad network {#ad-settings-by-network}
+        + [[!DNL Baidu] text ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-baidu-text.md)
+        + [[!DNL Google Ads] expanded dynamic search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-google-dsa.md)
+        + [[!DNL Google Ads] responsive search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-google-rsa.md)
+        + [[!DNL Microsoft Advertising] expanded dynamic search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-dsa.md)
+        + [[!DNL Microsoft Advertising] multimedia ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-multimedia.md)
+        + [[!DNL Microsoft Advertising] product ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-product.md)
+        + [[!DNL Microsoft Advertising] responsive (audience) ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-responsive.md)
+        + [[!DNL Microsoft Advertising] responsive search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-rsa.md)
+        + [[!DNL Yandex] text ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-yandex-text.md)
   + Reports {#reports}
     + Scheduled reports {#scheduled}
       + [About scheduled reports](/help/search-social-commerce/new-ui/reports/report-about.md)
