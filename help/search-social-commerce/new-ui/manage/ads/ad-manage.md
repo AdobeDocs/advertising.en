@@ -151,7 +151,7 @@ Quickly rename an ad without opening the full ad settings.
 
 1. In the bulk actions toolbar, click **[!UICONTROL Edit]**.
 
-1. In the **[!UICONTROL Ad Details]** step, edit the [Baidu text ad](ad-settings-baidu-text.md), [Google Ads expanded dynamic search ad](ad-settings-google-dsa.md) (now called just "dynamic search ad" in Google Ads), [Google Ads responsive search ad](ad-settings-google-rsa.md), [Microsoft Advertising expanded dynamic search ad](ad-settings-microsoft-dsa.md), [Microsoft Advertising multimedia ad](ad-settings-microsoft-multimedia.md), [Microsoft Advertising product ad](ad-settings-microsoft-product.md), [Microsoft Advertising responsive (audience) ad](ad-settings-microsoft-responsive.md), [Microsoft Advertising responsive search ad](ad-settings-microsoft-rsa.md), or [Yandex text ad](ad-settings-yandex-text.md) settings.
+1. Edit the remaining settings for a [Baidu text ad](ad-settings-baidu-text.md), [Google Ads expanded dynamic search ad](ad-settings-google-dsa.md) (now called just "dynamic search ad" in Google Ads), [Google Ads responsive search ad](ad-settings-google-rsa.md), [Microsoft Advertising expanded dynamic search ad](ad-settings-microsoft-dsa.md), [Microsoft Advertising multimedia ad](ad-settings-microsoft-multimedia.md), [Microsoft Advertising product ad](ad-settings-microsoft-product.md), [Microsoft Advertising responsive (audience) ad](ad-settings-microsoft-responsive.md), [Microsoft Advertising responsive search ad](ad-settings-microsoft-rsa.md), or [Yandex text ad](ad-settings-yandex-text.md) settings.
 
 1. Click **[!UICONTROL Review and Save]**.
 
