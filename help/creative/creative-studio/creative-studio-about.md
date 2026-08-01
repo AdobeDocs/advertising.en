@@ -47,6 +47,8 @@ role_v2:
 
 ## Ad creation workflows
 
+<!-- Add links to the other workflows!!!!! -->
+
 | Workflow | When to use |
 | --- | --- |
 | [Generate standard ads from a template](creative-studio-manage-standard-ads.md) | Select a display or video template and use the [!UICONTROL Ad Variations Generator] to create AI-generated content variations. Best when a template already exists and you want AI-assisted content generation. |
