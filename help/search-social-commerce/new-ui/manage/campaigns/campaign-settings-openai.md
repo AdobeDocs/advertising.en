@@ -53,7 +53,7 @@ role_v2:
 
 **[!UICONTROL Budget]:** The budget for the specified campaign type.
 
-**[!UICONTROL Conversion events]:** (COptional) The conversion events 
+**[!UICONTROL Conversion events]:** (Optional) Any existing conversion events to associate with the campaign. **Note:** Support for conversion analytics isn't available in Search, Social, & Commerce. Monitor analytics for your [!DNL OpenAI]-tracked conversions within [!DNL ChatGPT Ads Manager].
 
 <!-- **[!UICONTROL Start Date]:** -->
 

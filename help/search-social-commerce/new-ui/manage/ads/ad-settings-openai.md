@@ -15,9 +15,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# [!DNL OpenAI] ad settings
+# [!DNL OpenAI] [!DNL ChatGPT] ad settings
 
-[!DNL OpenAI] ads are shown in [!DNL ChatGPT].
+Ads in [!DNL OpenAI] campaigns are shown in [!DNL ChatGPT].
 
 <!-- Create, edit, delete. Possibly not all of the other procedures available to ads on the other SEs. -->
 
