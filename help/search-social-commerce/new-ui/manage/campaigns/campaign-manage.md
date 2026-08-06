@@ -204,6 +204,8 @@ For more information about optimization, see the Optimization Guide, which is av
 
 ## Manage bid constraint assignments for campaigns {#campaign-constraints}
 
+*Not available for [!DNL ChatGPT Ads]*
+
 Each entity can have only one constraint. Constraints are inherited by child entities, so you don't need to assign constraints for child entities unless you want to override the inherited values.
 
 Unassigning a constraint removes the association with the account components and all of their child components, and report data for the constraint is no longer available for those components. Unassigning a constraint doesn't delete the constraint nor the account components themselves.
@@ -273,6 +275,8 @@ You can assign a single constraint to one or more campaigns.
 1. In the confirmation dialog, select **[!UICONTROL Yes, Unassign]**.
 
 ## Manage target constraint assignments for campaigns {#campaign-target-constraints}
+
+*Not available for [!DNL ChatGPT Ads]*
 
 ### Assign a target constraint to selected campaigns from the new [!UICONTROL Campaigns] view
 
