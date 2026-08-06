@@ -118,7 +118,7 @@ Quickly change the status of a campaign without opening the full campaign settin
 
 You can pause any active campaign on a supported ad network to disable bidding on it. You can later resume bidding by changing the status back to active.
 
-You also can delete (called "archive" within [[!DNL ChatGPT Ads Manager]) any active or paused campaign. Deleted or archived campaigns are deleted or archived from the ad network. They're still visible when you include them in the data filter, but you can't change them.
+You also can delete (called "archive" within [!DNL ChatGPT Ads Manager]) any active or paused campaign. Deleted or archived campaigns are deleted or archived from the ad network. They're still visible when you include them in the data filter, but you can't change them.
 
 ### Activate or pause a campaign
 
