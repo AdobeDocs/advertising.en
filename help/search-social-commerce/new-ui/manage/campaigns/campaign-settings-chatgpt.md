@@ -1,6 +1,6 @@
 ---
-title: '[!DNL OpenAI Ads] campaign settings'
-description: Reference the settings for [!DNL OpenAI Ads] campaigns.
+title: '[!DNL ChatGPT Ads] campaign settings'
+description: Reference the settings for [!DNL ChatGPT Ads] campaigns.
 feature: Search Campaign Management
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
@@ -15,11 +15,11 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# [!DNL OpenAI Ads] campaign settings
+# [!DNL ChatGPT Ads] campaign settings
 
 <!-- VERIFY A FEW THINGS AND EDIT AS NEEDED -->
 
-<!-- NEED TO EDIT campaign-manage.md after I publish the SSC-campaign-management-crud branch and merge main into the ssc-openai branch.  Can create, rename, edit, and delete. And archive, which can't be reversed -- I think that's different than delete, though (Verify the diff). Possibly not all of the other procedures available to campaigns on the other SEs -- I don't think you should be able to assign/unassign OpenAI campaigns to portfolios or constraints. -->
+<!-- NEED TO EDIT campaign-manage.md after I publish the SSC-campaign-management-crud branch and merge main into the ssc-openai branch.  Can create, rename, edit, and delete. And archive, which can't be reversed -- I think that's different than delete, though (Verify the diff). Possibly not all of the other procedures available to campaigns on the other SEs -- Optimization isn't available, so probably you can't assign OpenAI campaigns to portfolios even if you try, but what about constraints. -->
 
 ## [!UICONTROL Basic Settings] tab
 

@@ -1,6 +1,6 @@
 ---
-title: '[!DNL OpenAI] ad settings'
-description: Reference the settings for [!DNL OpenAI] ads.
+title: '[!DNL ChatGPT] ad settings'
+description: Reference the settings for [!DNL ChatGPT] ads.
 feature: Search Campaign Management
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
@@ -15,9 +15,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# [!DNL OpenAI] [!DNL ChatGPT] ad settings
+# [!DNL ChatGPT Ads] ad settings
 
-Ads in [!DNL OpenAI] campaigns are shown in [!DNL ChatGPT].
+Ads in [!DNL ChatGPT] campaigns are shown alongside AI chats in [!DNL ChatGPT].
 
 <!-- Create, edit, delete. Possibly not all of the other procedures available to ads on the other SEs. -->
 

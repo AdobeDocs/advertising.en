@@ -66,7 +66,7 @@ Search, Social, & Commerce pulls performance data hourly from synced [!DNL Googl
 
 1. Click **[!UICONTROL Create Campaign]**.
 
-1. Specify the [Baidu](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-baidu.md), [Google Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-ly.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-yandex.md) campaign settings.
+1. Specify the [Baidu](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-baidu.md), [ChatGPT Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-chatgpt.md), [Google Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-ly.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-yandex.md) campaign settings.
 
 1. Click **[!UICONTROL Review and Save]**.
 
@@ -102,7 +102,7 @@ You can edit settings for individual campaigns. You can also edit some fields fo
    
    * Select the check box next to the campaign. In the bulk actions toolbar, click **[!UICONTROL Edit]**.
  
-1. Edit the [Baidu](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-baidu.md), [Google Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-ly.md), <!-- [Meta Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-meta.md), --> [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-yandex.md) campaign settings.
+1. Edit the [Baidu](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-baidu.md), [ChatGPT Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-chatgpt.md), [Google Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-ly.md), <!-- [Meta Ads](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-meta.md), --> [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-yandex.md) campaign settings.
 
 1. Click **[!UICONTROL Review and Save]**.
 
@@ -118,7 +118,7 @@ Quickly change the status of a campaign without opening the full campaign settin
 
 You can pause any active campaign on a supported ad network to disable bidding on it. You can later resume bidding by changing the status back to active.
 
-You also can delete any active or paused campaign. Deleted campaigns are deleted from the ad network. They're still visible when you include them in the data filter, but you can't change them.
+You also can delete (called "archive" within [[!DNL ChatGPT Ads Manager]) any active or paused campaign. Deleted or archived campaigns are deleted or archived from the ad network. They're still visible when you include them in the data filter, but you can't change them.
 
 ### Activate or pause a campaign
 
@@ -132,7 +132,7 @@ You also can delete any active or paused campaign. Deleted campaigns are deleted
 
    * To pause an active campaign, select **[!UICONTROL Paused]**.
 
-### Delete a campaign
+### Delete or archive a campaign
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
 
