@@ -17,7 +17,9 @@ role_v2:
 ---
 # [!DNL ChatGPT Ads] ad settings
 
-Ads in [!DNL ChatGPT] campaigns are shown alongside AI chats in [!DNL ChatGPT].
+*Ads in [!DNL ChatGPT] are a pilot feature by [!DNL OpenAI]*
+
+Ads in [!DNL ChatGPT] campaigns are shown alongside AI chats in [!DNL ChatGPT]. 
 
 ## [!UICONTROL Basic Settings] tab
 

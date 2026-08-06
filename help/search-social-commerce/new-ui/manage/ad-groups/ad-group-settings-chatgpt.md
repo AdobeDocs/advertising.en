@@ -14,6 +14,8 @@ subfeature_v2:
 ---
 # [!DNL ChatGPT] ad group settings
 
+*Ads in [!DNL ChatGPT] are a pilot feature by [!DNL OpenAI]*
+
 ## [!UICONTROL Basic Settings] tab
 
 *New campaigns only*
