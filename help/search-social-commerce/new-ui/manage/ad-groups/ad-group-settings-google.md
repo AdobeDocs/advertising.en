@@ -26,7 +26,7 @@ topic_v2:
 
 ## [!UICONTROL Basic Settings] tab
 
-*New campaigns only*
+*New ad groups only*
 
 **[!UICONTROL Network]:** The ad network.
 

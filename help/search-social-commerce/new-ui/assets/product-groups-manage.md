@@ -111,7 +111,7 @@ Before you can create product groups with specific attributes, you must first cr
 
 1. Click **[!UICONTROL Review and Save]**.
 
-1. If necessary, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") and change the [Google Ads product group settings](#google-ads-product-group-settings) or [Microsoft Advertising product group settings](#microsoft-advertising-product-group-settings).
+1. If necessary, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** and change the [Google Ads product group settings](#google-ads-product-group-settings) or [Microsoft Advertising product group settings](#microsoft-advertising-product-group-settings).
 
 1. Click **[!UICONTROL Create]**.
 
