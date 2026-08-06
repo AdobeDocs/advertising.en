@@ -120,6 +120,7 @@ role_v2:
           + [[!DNL Google Ads] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-google.md)
           + [[!DNL LY Ads] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-yahoo-japan.md)
           + [[!DNL Microsoft Advertising] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-microsoft.md)
+          + [[!DNL OpenAI] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-openai.md)
           + [[!DNL Yandex] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-yandex.md)
     + Ad groups {#ad-groups}
       + [Manage ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-manage.md)
@@ -128,6 +129,7 @@ role_v2:
         + [[!DNL Google Ads] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md)
         + [[!DNL LY Ads] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yahoo-japan.md)
         + [[!DNL Microsoft Advertising] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md)
+        + [[!DNL OpenAI] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-openai.md)
         + [[!DNL Yandex] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md)
     + Ads {#ads}
       + [Manage ads](/help/search-social-commerce/new-ui/manage/ads/ad-manage.md)
@@ -140,6 +142,7 @@ role_v2:
         + [[!DNL Microsoft Advertising] product ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-product.md)
         + [[!DNL Microsoft Advertising] responsive (audience) ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-responsive.md)
         + [[!DNL Microsoft Advertising] responsive search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-rsa.md)
+        + [[!DNL OpenAI] [!DNL ChatGPT] ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-openai-chatgpt.md)
         + [[!DNL Yandex] text ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-yandex-text.md)
   + Reports {#reports}
     + Scheduled reports {#scheduled}
