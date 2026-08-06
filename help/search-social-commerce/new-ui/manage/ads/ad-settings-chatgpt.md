@@ -19,8 +19,6 @@ role_v2:
 
 Ads in [!DNL ChatGPT] campaigns are shown alongside AI chats in [!DNL ChatGPT].
 
-<!-- Create, edit, delete. Possibly not all of the other procedures available to ads on the other SEs. -->
-
 ## [!UICONTROL Basic Settings] tab
 
 *New campaigns only*

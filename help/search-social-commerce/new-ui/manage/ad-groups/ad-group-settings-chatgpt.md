@@ -14,14 +14,6 @@ subfeature_v2:
 ---
 # [!DNL ChatGPT] ad group settings
 
-<!-- 
-
-Can create, rename, edit, and delete/archive. Nothing else; add disclaimer tags in edit ad-group-manage.md. 
-
-Bulk delete = archive; not sure what the diff is. Also, the campaigns test plan doesn't say this, so see if that's so too.
-
--->
-
 ## [!UICONTROL Basic Settings] tab
 
 *New campaigns only*

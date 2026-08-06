@@ -17,10 +17,6 @@ role_v2:
 ---
 # [!DNL ChatGPT Ads] campaign settings
 
-<!-- VERIFY A FEW THINGS AND EDIT AS NEEDED -->
-
-<!-- NEED TO EDIT campaign-manage.md after I publish the SSC-campaign-management-crud branch and merge main into the ssc-openai branch.  Can create, rename, edit, and delete. And archive, which can't be reversed -- I think that's different than delete, though (Verify the diff). Possibly not all of the other procedures available to campaigns on the other SEs -- Optimization isn't available, so probably you can't assign OpenAI campaigns to portfolios even if you try, but what about constraints. -->
-
 ## [!UICONTROL Basic Settings] tab
 
 *New campaigns only*
