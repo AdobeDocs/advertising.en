@@ -19,7 +19,7 @@ role_v2:
 
 | Content type | Supported? | AI service that generates the content | Model that generates the credential |
 | --- | --- | --- | --- |
-| Images | Yes. C2PA metadata is attached when images are generated with generative AI, and preserved through cropping and resizing operations performed by AI Assistant. | Adobe Firefly | Google Gemini Flash |
+| Images | Yes. C2PA metadata is attached when images are generated or edited with generative AI, and preserved through cropping and resizing operations performed by AI Assistant. | Adobe Firefly | Google Gemini Flash |
 | Text | &mdash; Text-only outputs of AI Assistant, such as copy generation, don't require C2PA metadata. | &mdash; | &mdash; |
 
 
