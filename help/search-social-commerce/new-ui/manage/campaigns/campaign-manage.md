@@ -70,7 +70,7 @@ Search, Social, & Commerce pulls performance data hourly from synced [!DNL Googl
 
 1. Click **[!UICONTROL Review and Save]**.
 
-1. If necessary, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") and change the campaign settings.
+1. If necessary, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** and change the campaign settings.
 
 1. Click **[!UICONTROL Create]**.
 
@@ -106,7 +106,7 @@ You can edit settings for individual campaigns. You can also edit some fields fo
 
 1. Click **[!UICONTROL Review and Save]**.
 
-1. If necessary, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") and change the campaign settings.
+1. If necessary, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** and change the campaign settings.
 
 1. Click **[!UICONTROL Update]**.
 
