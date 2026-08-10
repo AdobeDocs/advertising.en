@@ -36,15 +36,15 @@ The following table summarizes when C2PA metadata is attached, based on the imag
 
 The full provenance chain is preserved when a user downloads an image file or it is sent to be served in an ad.
 
-## When does the C2PA metadata include, and how can I view it?
+## When does the C2PA metadata include?
 
 For each GenAI generation or alteration, the following are included in the C2PA metadata. If an asset is altered multiple times, then each operation appears in the C2PA metadata.
 
 * Timestamp (date + time)
-* Model name + version (Adobe Firefly / gemini-flash for images<!-- ; Anthropic claude-sonnet-4-5 for text -->)
+* Model name + version (Adobe Firefly / gemini-flash for images
 * Unique identifier (UUID per operation)
 
-Learn more about [C2PA metadata created using Adobe Firefly](https://helpx.adobe.com/firefly/using/content-credentials.html){target="_blank"}.
+## How can I view C2PA metadata for an image?
 
 To see the complete asset history for an image,
 
