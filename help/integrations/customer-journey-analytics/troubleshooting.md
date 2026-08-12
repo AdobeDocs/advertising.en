@@ -183,33 +183,8 @@ Symptoms:
 | ----- | --- |
 | The `Adobe Advertising` service isn't enabled for the datastream | <ol><li>In [!DNL Tags], open the [datastream configuration settings](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/datastreams) for your tag property.</li><li>Enable the following services, and save the settings:<ul><li>Adobe Advertising (for conversion/audience sync)</li><li>Adobe Experience Platform (for profile ingestion)</li></ul></ol> |
 | The `Adobe Advertising` component isn't enabled for the [!UICONTROL WebSDK] extension | The `Adobe Advertising` component within the WebSDK extension is disabled by default and must be explicitly enabled before any tracking for Adobe Advertising click-throughs or view-throughs is functional, regardless of how the XDM schema or rules are configured.<ol><li>>In [!DNL Tags], open the [build options for the property in the Adobe Experience Platform Web SDK configuration settings](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/custom-build-components).</li><li>Enable the **Advertising** component, and save the settings.<li><li>Rebuild and republish the library.</li></ol> |
-
-### Only click-through conversions are tracked by default
-
-Once the [!UICONTROL Advertising] component is enabled, click-through conversion tracking is active by default. It captures conversions from users who clicked an ad and landed on the site with `s_kwcid` and `ef_id` query parameters in the URL. View-through tracking isn't enabled by default and requires additional configuration.
-
-| Tracking type | Default state | Source |
-| ----- | --- | --- |
-| Click-through | Enabled once the component is on | `s_kwcid` and `ef_id` URL query parameters |
-| View-through | Disabled. Requires DSP configuration. | Adobe Advertising DSP impression data |
-
-### View-through tracking isn't working
-
-View-through conversions track users who were served an ad impression but didn't click. To enable view-through tracking:
-
-1. Go to [!UICONTROL Data Collection] > [!UICONTROL Datastreams] in Adobe Experience Platform and open the datastream used by your [!DNL Tags] property.
-1. Select **Add Service**, select **Adobe Advertising** and **Adobe Experience Platform**, then select **Save**.
-1. In [!DNL Tags], go to [!UICONTROL Extensions] > [!UICONTROL Installed] > **Adobe Experience Platform Web SDK** > [!UICONTROL Configure].
-1. Under the [!UICONTROL Advertiser] section, select an advertiser from the dropdown and enable it. To configure multiple advertisers, select **Add Advertiser**.
-1. In the AEP Debugger, confirm that the interact call includes `stitchId` under the `xdm.query` field. You can also confirm from the browser [!UICONTROL Network] tab that an event with type `advertising.enrichment` is fired and includes `stitchId` under `xdm.query`.
-
->[!NOTE]
->View-through conversions fire every 30 minutes, regardless of the number of visits. If you don't see a view-through interact call, clear your browser cache and try again.
-
-### View-through interact calls fire, but no events reach Adobe Experience Platform
-
-| Cause | Fix |
-| ----- | --- |
+| Only click-through conversions are recorded; view-through conversions never appear | This is expected default behavior. Once the `Adobe Advertising` component is enabled, click-through tracking is active automatically using the `s_kwcid` and `ef_id` URL query parameters. View-through tracking is disabled by default and requires additional configuration &mdash; see the next row. |
+| View-through tracking isn't enabled or configured | <ol><li>Go to [!UICONTROL Data Collection] > [!UICONTROL Datastreams] in Adobe Experience Platform and open the datastream used by your [!DNL Tags] property.</li><li>Select **Add Service**, select **Adobe Advertising** and **Adobe Experience Platform**, then select **Save**.</li><li>In [!DNL Tags], go to [!UICONTROL Extensions] > [!UICONTROL Installed] > **Adobe Experience Platform Web SDK** > [!UICONTROL Configure].</li><li>Under the [!UICONTROL Advertiser] section, select an advertiser from the dropdown and enable it. To configure multiple advertisers, select **Add Advertiser**.</li><li>In the AEP Debugger, confirm that the interact call includes `stitchId` under the `xdm.query` field. You can also confirm from the browser [!UICONTROL Network] tab that an event with type `advertising.enrichment` is fired and includes `stitchId` under `xdm.query`.</li></ol>View-through conversions fire only every 30 minutes, regardless of the number of visits &mdash; if you don't see an interact call, clear your browser cache and try again. |
 | The advertiser was typed in manually instead of selected from the dropdown | Reselect the advertiser from the [!UICONTROL Advertiser] dropdown instead of entering it manually. |
 | No advertiser ID is sent with the view-through interact call | Confirm that an advertiser is configured and enabled under the [!UICONTROL Advertiser] section of the WebSDK extension configuration, then rebuild and republish the library. |
 
@@ -226,7 +201,7 @@ Before opening a support ticket for [!UICONTROL Advertising] extension setup iss
 
 ### Adobe Experience Platform Debugger
 
-Install the [!DNL Adobe Experience Platform Debugger] extension for Chrome. It provides:
+Install the [!DNL Adobe Experience Platform Debugger] extension for [!DNL Chrome] for:
 
 * A real-time view of all WebSDK `alloy()` calls
 * Datastream ID and environment validation
