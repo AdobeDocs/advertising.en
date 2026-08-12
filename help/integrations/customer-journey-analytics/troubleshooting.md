@@ -63,7 +63,7 @@ Symptoms:
 Symptoms:
 
 * The visitor ID changes between pages
-* Advertising audience segments aren't matching
+* Advertising audience segments don't match
 
 | Cause | Fix |
 | ----- | --- |
@@ -103,7 +103,7 @@ Symptoms:
 
 Symptoms:
 
-* The `alloy()` send event call succeeds (200 response), but Advertising conversion data is missing from reports
+* The `alloy()` send event call succeeds (with a 200 response), but Adobe Advertising conversion data is missing from reports
 * The XDM payload in the debugger shows no `_experience.adcloud` object
 
 #### Step 1: Confirm that the [!UICONTROL Advertising] field group is added to the schema:
@@ -116,7 +116,7 @@ Symptoms:
 >[!NOTE]
 >Republishing your [!DNL Tags] library isn't required for schema changes alone, but you must re-map the XDM data element in [!DNL Tags] if new fields were added.
 
-#### Step 2: Verify that the required Advertising fields are present in the schema under `_experience.adcloud.conversionDetails`:
+#### Step 2: Verify that the required Adobe Advertising fields are present in the schema under `_experience.adcloud.conversionDetails`:
 
 | Field path | Type | Description |
 | ----- | --- | --- |
@@ -213,7 +213,7 @@ View-through conversions track users who were served an ad impression but didn't
 | The advertiser was typed in manually instead of selected from the dropdown | Reselect the advertiser from the [!UICONTROL Advertiser] dropdown instead of entering it manually. |
 | No advertiser ID is sent with the view-through interact call | Confirm that an advertiser is configured and enabled under the [!UICONTROL Advertiser] section of the WebSDK extension configuration, then rebuild and republish the library. |
 
-Before opening a support ticket for Advertising extension setup issues, verify the following:
+Before opening a support ticket for [!UICONTROL Advertising] extension setup issues, verify the following:
 
 * The **Adobe Advertising** and **Adobe Experience Platform** services are added to the datastream.
 * The **Adobe Advertising** component is enabled in the WebSDK extension configuration.
@@ -285,8 +285,8 @@ Verify the following before opening a support ticket:
 * The library is published, and the embed code is correct for the environment.
 * The datastream ID is set correctly for development, staging, and production.
 * All required datastream services are enabled.
-* The Advertising component is enabled in the WebSDK extension configuration, and a DSP advertiser ID is configured.
-* The XDM schema includes the Advertising field group.
+* The [!UICONTROL Advertising] component is enabled in the WebSDK extension configuration, and a DSP advertiser ID is configured.
+* The XDM schema includes the [!UICONTROL Advertising] field group.
 * The [!UICONTROL Send Event] rule includes an identity map and fires on the correct event.
 * No CSP or browser privacy settings are blocking edge requests.
 * The AEP Debugger confirms that events are reaching the edge.
@@ -302,7 +302,7 @@ Verify the following before opening a support ticket:
 Escalate to Adobe Support or your engineering team if:
 
 * Edge requests return persistent `500` errors after datastream validation.
-* Advertising conversions are confirmed in the debugger but don't appear in reports after 24-48 hours.
+* [!UICONTROL Advertising] conversions are confirmed in the debugger but don't appear in reports after 24-48 hours.
 * A WebSDK version update introduces a regression that wasn't present in the previous version. Include the specific version numbers in the support ticket.
 
 ## Reporting issues
