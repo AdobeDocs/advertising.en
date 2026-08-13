@@ -274,7 +274,7 @@ Verify the following before opening a support ticket:
 
 ## When to escalate
 
-Escalate to Adobe Support or your engineering team if:
+Escalate to your Adobe Account Team or your engineering team if:
 
 * Edge requests return persistent `500` errors after datastream validation.
 * [!UICONTROL Advertising] conversions are confirmed in the debugger but don't appear in reports after 24-48 hours.
