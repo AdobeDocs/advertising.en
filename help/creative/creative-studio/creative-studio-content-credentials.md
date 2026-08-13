@@ -19,8 +19,7 @@ role_v2:
 
 | Content type | Supported? | AI service that generates the content | Model that generates the credential |
 | --- | --- | --- | --- |
-| Images | Yes. C2PA metadata is attached when images are generated or edited with generative AI, and preserved through cropping and resizing operations performed by AI Assistant. | Adobe Firefly | Google Gemini Flash |
-| Text | &mdash; Text-only outputs of AI Assistant, such as copy generation, don't require C2PA metadata. | &mdash; | &mdash; |
+| Images | Yes. C2PA metadata is attached when images are generated or edited with generative AI, and preserved through cropping and resizing operations performed by AI Assistant. | [!DNL Adobe C2PA], via Adobe Firefly | [!DNL Google Media Processing Services] |
 
 ## Actions that attach C2PA metadata
 
@@ -39,8 +38,8 @@ The full provenance chain is preserved when a user downloads an image file or it
 
 For each GenAI generation or alteration, the following are included in the C2PA metadata. If an asset is altered multiple times, then each operation appears in the C2PA metadata.
 
-* Name and version information of the AI system used (Adobe Firefly) 
-* AI model used (Adobe Firefly) <!-- gemini-flash for images -->
+* Name and version information of the AI system used ([!DNL Adobe C2PA], via Adobe Firefly)
+* AI model used ([!DNL Google Media Processing Services]) <!-- gemini-flash for images -->
 * Usage: Whether it was generated or edited using GenAI 
 * Time and date of content creation and/or modification with generative AI tools 
 * Unique identifier (which can be used to distinguish each use of Generative AI) 
