@@ -55,6 +55,8 @@ To see the complete asset history for an image,
 
 * View the image code using your browser's code inspection tool (often called [!DNL Inspect]).
 
+![Example of C2PA metadata for an image](/help/creative/assets/cs-content-credentials-example.png "C2PA metadata for an image")
+
 ## Additional resources
 
 * [[!DNL Adobe] generative AI user guidelines](https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html)
