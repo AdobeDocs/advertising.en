@@ -48,4 +48,5 @@ index: true
   + [Set up data collection, data transfer, and reporting](/help/integrations/customer-journey-analytics/set-up.md)
   + [Adobe Advertising metrics and dimensions in Customer Journey Analytics](/help/integrations/customer-journey-analytics/advertising-data-in-cja.md)
   + [Troubleshooting](/help/integrations/customer-journey-analytics/troubleshooting.md)
+  + {hide-from-toc}[Troubleshooting](/help/integrations/customer-journey-analytics/troubleshooting-new.md)
 + [Video tutorials about Adobe Advertising integrations](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html)
