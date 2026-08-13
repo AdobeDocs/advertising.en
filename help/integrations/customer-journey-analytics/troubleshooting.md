@@ -25,16 +25,36 @@ topic_v2:
 ---
 # Troubleshooting Adobe Advertising data in Customer Journey Analytics
 
-The following are potential issues, their causes, and solutions.
+The following are potential issues and links to the sections that explain their posisble causes and solutions.
 
-## Installation and setup issues
+| Symptom | More information |
+| ------- | ---------------- |
+| No alloy() calls are visible in the browser network tab | See the section "[Installation and setup issues](#issues-installation-setup)" > "[WebSDK extension doesn't initialize](#websdk-extension-doesn't-initialize)" |
+| Console error: alloy isn't defined | See "[Installation and setup issues](#issues-installation-setup)" > "[WebSDK extension doesn't initialize](#websdk-extension-doesn't-initialize)" |
+| No interact or collect requests to edge.adobedc.net | See ""[Installation and setup issues](#issues-installation-setup)" > "[WebSDK extension doesn't initialize](#websdk-extension-doesn't-initialize)" |
+| Requests reach the edge but return 400 or 500 errors | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Datastream not configured or misconfigured](#datastream-not-configured-or-misconfigured)" |
+| No data appears in Adobe Analytics or Adobe Advertising reports | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Datastream not configured or misconfigured](#datastream-not-configured-or-misconfigured)" |
+| Error in network response: "datastream not found" | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Datastream not configured or misconfigured](#datastream-not-configured-or-misconfigured)" |
+| The visitor ID changes between pages | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Identity and ECID issues](#identity-and-ecid-issues)" |
+| Advertising audience segments don't match | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Identity and ECID issues](#identity-and-ecid-issues)" |
+| The debugger shows that rule conditions aren't met | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Rules or events aren't firing](#rules-or-events-aren't-firing)" |
+| The [!UICONTROL Send Event] action never executes | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Rules or events aren't firing](#rules-or-events-aren't-firing)" |
+| Changes made in [!DNL Tags] aren't reflected on the live site | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Library build and publishing issues](#library-build-and-publishing-issues)" |
+| An extension update was applied, but the old behavior persists | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Library build and publishing issues](#library-build-and-publishing-issues)" |
+| The `alloy()` send event call succeeds (with a 200 response), but Adobe Advertising conversion data is missing from reports | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Schema validation for Advertising fields](#schema-validation-for-advertising-fields)" |
+| The XDM payload in the debugger shows no `_experience.adcloud` object | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Schema validation for Advertising fields](#schema-validation-for-advertising-fields)" |
+| No view-through or click-through conversions are recorded for the webpage | See the section "[Advertising extension setup issues](#advertising-extension-setup-issues)" |
+| `_experience.adcloud` is missing from the Experience Data Model (XDM) payload for click-throughs | See the section "[Advertising extension setup issues](#advertising-extension-setup-issues)" |
+| Conversions are confirmed in a debugger tool but don't appear in Adobe Advertising reports | See the section "[Advertising extension setup issues](#advertising-extension-setup-issues)" |
 
-### WebSDK extension doesn't initialize
+## Installation and setup issues {#issues-installation-setup}
+
+### WebSDK extension doesn't initialize {#websdk-extension-doesn't-initialize}
 
 Symptoms:
 
 * No alloy() calls are visible in the browser network tab
-* Console error: alloy is not defined
+* Console error: alloy isn't defined
 * No interact or collect requests to edge.adobedc.net
 
 | Cause | Fix |
@@ -44,7 +64,7 @@ Symptoms:
 | Async vs. synchronous load conflict | Make sure that only one [!DNL Tags] embed code is present per webpage. Duplicate embed codes cause race conditions. |
 | Content security policy (CSP) blocking | Add `edge.adobedc.net` `and assets.adobedtm.com` to your CSP `connect-src` and `script-src` directives. |
 
-### Datastream not configured or misconfigured
+### Datastream not configured or misconfigured {#datastream-not-configured-or-misconfigured}
 
 Symptoms:
 
@@ -58,7 +78,7 @@ Symptoms:
 | Datastream services aren't enabled for the tag property. | [Open the datastream settings](https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/configure) and make sure that the following services are enabled:<ul><li>Adobe Advertising (for conversion/audience sync)</li><li>Adobe Experience Platform (for profile ingestion)</li></ul> |
 | Sandbox mismatch |  Make sure the datastream belongs to the same Adobe Experience Platform sandbox as your schema and dataset. A common mistake is creating a datastream in the production sandbox but pointing schemas to the development sandbox. |
 
-### Identity and ECID issues
+### Identity and ECID issues {#identity-and-ecid-issues}
 
 Symptoms:
 
@@ -70,7 +90,7 @@ Symptoms:
 | Third-party cookies are blocked | Migrate to first-party CNAME data collection by configuring a first-party domain in the datastream's edge configuration. |
 | `idMigrationEnabled` is set to `false` while a legacy `s_ecid` cookie is present | Set `idMigrationEnabled: true` in the WebSDK base configuration to migrate the existing ECID from the `s_ecid` or `AMCV_` cookies. |
 
-### Rules or events aren't firing
+### Rules or events aren't firing {#rules-or-events-aren't-firing}
 
 Symptoms:
 
@@ -85,7 +105,7 @@ Verify the following:
 * The rule order is correct. If multiple rules share the same event, check the rule ordering.
 * No JavaScript errors earlier on the page are halting execution. Check the browser console for uncaught exceptions.
 
-### Library build and publishing issues
+### Library build and publishing issues {#library-build-and-publishing-issues}
 
 Symptoms:
 
@@ -99,7 +119,7 @@ Symptoms:
 | The embed code is for the wrong environment | Confirm that the embed code on the page is the production embed code if you're testing production behavior. |
 | The library build failed silently | Go to [!UICONTROL Publishing Flow] and check whether the library shows a [!UICONTROL Build Failed] state. Open the library and review the build log &mdash; common causes are invalid rule configurations or extension version conflicts. |
 
-### Schema validation for Advertising fields
+### Schema validation for Advertising fields {#schema-validation-for-advertising-fields}
 
 Symptoms:
 
@@ -163,7 +183,7 @@ If `trackingCode` or `trackingIdentity` are empty or missing:
 * The query parameter wasn't present on the page when the rule fired. Check the URL and the rule's event timing.
 * The field group is missing from the schema. Revisit the schema steps above.
 
-## [!UICONTROL Advertising] extension setup issues
+## [!UICONTROL Advertising] extension setup issues {#advertising-extension-setup-issues}
 
 Symptoms:
 
