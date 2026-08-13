@@ -2,6 +2,7 @@
 title: Troubleshooting Adobe Advertising data in Customer Journey Analytics
 description: Learn how to troubleshoot and resolve issues with Adobe Advertising data in Customer Journey Analytics.
 feature: Integration with Adobe Customer Journey Analytics
+hide: true
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -25,7 +26,9 @@ topic_v2:
 ---
 # Troubleshooting Adobe Advertising data in Customer Journey Analytics
 
-The following are potential issues and links to the sections that explain their possible causes and solutions.
+The following are potential issues, their possible causes, and solutions.
+
+## List of all potential symptoms
 
 | Symptom | More information |
 | ------- | ---------------- |
@@ -41,8 +44,8 @@ The following are potential issues and links to the sections that explain their 
 | The [!UICONTROL Send Event] action never executes | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Rules or events aren't firing](#rules-or-events-aren't-firing)" |
 | Changes made in [!DNL Tags] aren't reflected on the live site | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Library build and publishing issues](#library-build-and-publishing-issues)" |
 | An extension update was applied, but the old behavior persists | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Library build and publishing issues](#library-build-and-publishing-issues)" |
-| The `alloy()` send event call succeeds (with a 200 response), but Adobe Advertising conversion data is missing from reports | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Schema validation for Advertising fields](#schema-validation-for-advertising-fields)" |
-| The XDM payload in the debugger shows no `_experience.adcloud` object | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Schema validation for Advertising fields](#schema-validation-for-advertising-fields)" |
+| The `alloy()` send event call succeeds (with a 200 response), but Adobe Advertising conversion data is missing from reports | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Schema validation issues for Advertising fields](#schema-validation-for-advertising-fields)" |
+| The XDM payload in the debugger shows no `_experience.adcloud` object | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Schema validation issues for Advertising fields](#schema-validation-for-advertising-fields)" |
 | No view-through or click-through conversions are recorded for the webpage | See the section "[Advertising extension setup issues](#advertising-extension-setup-issues)" |
 | `_experience.adcloud` is missing from the Experience Data Model (XDM) payload for click-throughs | See the section "[Advertising extension setup issues](#advertising-extension-setup-issues)" |
 | Conversions are confirmed in a debugger tool but don't appear in Adobe Advertising reports | See the section "[Advertising extension setup issues](#advertising-extension-setup-issues)" |
@@ -119,7 +122,7 @@ Symptoms:
 | The embed code is for the wrong environment | Confirm that the embed code on the page is the production embed code if you're testing production behavior. |
 | The library build failed silently | Go to [!UICONTROL Publishing Flow] and check whether the library shows a [!UICONTROL Build Failed] state. Open the library and review the build log &mdash; common causes are invalid rule configurations or extension version conflicts. |
 
-### Schema validation for Advertising fields {#schema-validation-for-advertising-fields}
+### Schema validation issues for Advertising fields {#schema-validation-for-advertising-fields}
 
 Symptoms:
 
