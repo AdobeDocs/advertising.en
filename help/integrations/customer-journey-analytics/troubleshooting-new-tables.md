@@ -220,6 +220,45 @@ Before opening a support ticket for [!UICONTROL Advertising] extension setup iss
 * For view-through tracking, an advertiser is configured in Adobe Advertising DSP with the correct advertiser ID.
 * The WebSDK extension is version 2.36.0 or later.
 
+## Reporting issues
+
+### Summary reporting
+
+| Symptom | Verification and resolution |
+| ----- | --- |
+| No summary reporting data is available in Customer Journey Analytics for Advertising DSP or Advertising Search, Social, & Commerce. | <ol><li>Confirm that Customer Journey Analytics Workspace is referencing the correct data view.</li><li>Confirm that the feed from Adobe Advertising to Customer Journey Analytics is enabled. Check with your Adobe Account Team.</li><li>Confirm that your Adobe Advertising dimension/classification/lookup dataset and your summary dataset are included in your Customer Journey Analytics connection.</li><li>Confirm that your Adobe Advertising dimensions and summary metrics are included in your Customer Journey Analytics data view.</li></ol>If you verify all of the above settings but you still don't see summary data, then open a [support ticket](https://experienceleague.adobe.com/home?support-tab=home#support) for your organization. |
+| Summary reporting data is available in Customer Journey Analytics for Advertiser 1 but not Advertiser 2. | <ol><li>Confirm that the feed from Adobe Advertising to Customer Journey Analytics is enabled for Advertiser 2. Check with your Adobe Account Team.</li><li>Confirm that the setting "[!UICONTROL Backfill all existing data]" is enabled for your three datasets (dimension/classification/lookup, summary, and event metrics) in your Customer Journey Analytics connection.</li></ol>If you verify all of the above conditions but you still don't see summary data, then open a [support ticket](https://experienceleague.adobe.com/home?support-tab=home#support) for your organization. |
+| (Search, Social, & Commerce users) Summary reporting data is available in Customer Journey Analytics for one [!DNL Google Ads], [!DNL Meta Ads], or [!DNL Microsoft Advertising] account but not for another account. | Verify that the feed from Adobe Advertising to Customer Journey Analytics is enabled for the specific ad network account. Check with your Adobe Account Team.<br><br>If the feed is enabled for an account but you still don't see summary data, then open a [support ticket](https://experienceleague.adobe.com/home?support-tab=home#support) for your organization. Include the [!UICONTROL Account ID] for the ad network account. |
+| Summary reporting data in Customer Journey Analytics Workspace is different than the data in Advertising DSP or Advertising Search, Social, & Commerce, or summary data is missing for some campaigns and campaign entities. | <ol><li>Confirm that you're using the same date ranges in both [!DNL Workspace] and the Adobe Advertising report.</li><li>Confirm that any filters and segments that are applied in [!DNL Workspace] and the Adobe Advertising report aren't causing differences in data.</li><li>Confirm that the [!UICONTROL Time Zone] for your Customer Journey Analytics data view matches the [!UICONTROL Default Timezone] for your [Advertising DSP account](/help/dsp/admin/user-own-profile-edit.md).</li><li>Confirm that the setting "[!UICONTROL Backfill all existing data]" is enabled for your three datasets (dimension/classification/lookup, summary, and event metrics) in your Customer Journey Analytics connection.</li></ol>If you're sure of a data discrepancy, then open a [support ticket](https://experienceleague.adobe.com/home?support-tab=home#support) for your organization. Include the [!UICONTROL Account ID] for the ad network account. To show evidence of the discrepancy, include screenshots and spreadsheets. Your Adobe Account Team can retroactively fix the data feed to resolve the discrepancy if needed. |
+
+### Event-level reporting
+
+| Symptom | Verification and resolution |
+| ----- | --- |
+| Conversion data (such as `Page Views`) isn't available for a reporting dimension (such as `Campaign`) in Customer Journey Analytics Workspace. | Verify the following, starting with the items with the fewest verification barriers:<ul><li>Confirm that you're using the correct data view.</li><li>Confirm that the applicable conversion metrics are web/online events, which Adobe Advertising can attribute to dimensions.</li><li>Confirm that Adobe Advertising is tracking click-throughs and view-throughs on the applicable site.</li><li>In the Customer Journey Analytics connection for the classifications dataset, confirm that the values for the [!DNL Key] and [!DNL Matching Key] settings are correct: [!DNL Key]: `Tracking Code` (_customername.adLens2.trackingCode), [!DNL Matching Key]: `Tracking Code` (event._experience.adcloud.conversionDetails.trackingCode).</li><li>Confirm that the [!DNL Adobe Advertising] service is added to the Adobe Experience Platform datastream, that the mapped schema for the datastream is `XDM ExperienceEvent Schema`, and that the field group `Adobe Advertising Cloud ExperienceEvent Full Extension` is added to the `XDM ExperienceEvent` schema.</li><li>Confirm that the Adobe Advertising settings are configured correctly in the WebSDK extension and published.</li></ul>If you verify all of the above settings but you still don't see conversion data, then open a [support ticket](https://experienceleague.adobe.com/home?support-tab=home#support) for your organization. Include the [!UICONTROL Account ID] for the ad network account. |
+
+<!--
+
++++ Question
+
+Answer
+
++++
+
++++ Question
+
+Answer
+
++++
+
++++ Question
+
+Answer
+
++++
+
+-->
+
 ## Validation and debugging tools
 
 ### Adobe Experience Platform Debugger
@@ -302,45 +341,6 @@ Escalate to your Adobe Account Team or your engineering team if:
 * Edge requests return persistent `500` errors after datastream validation.
 * [!UICONTROL Advertising] conversions are confirmed in the debugger but don't appear in reports after 24-48 hours.
 * A WebSDK version update introduces a regression that wasn't present in the previous version. Include the specific version numbers in the support ticket.
-
-## Reporting issues
-
-### Summary reporting
-
-| Symptom | Verification and resolution |
-| ----- | --- |
-| No summary reporting data is available in Customer Journey Analytics for Advertising DSP or Advertising Search, Social, & Commerce. | <ol><li>Confirm that Customer Journey Analytics Workspace is referencing the correct data view.</li><li>Confirm that the feed from Adobe Advertising to Customer Journey Analytics is enabled. Check with your Adobe Account Team.</li><li>Confirm that your Adobe Advertising dimension/classification/lookup dataset and your summary dataset are included in your Customer Journey Analytics connection.</li><li>Confirm that your Adobe Advertising dimensions and summary metrics are included in your Customer Journey Analytics data view.</li></ol>If you verify all of the above settings but you still don't see summary data, then open a [support ticket](https://experienceleague.adobe.com/home?support-tab=home#support) for your organization. |
-| Summary reporting data is available in Customer Journey Analytics for Advertiser 1 but not Advertiser 2. | <ol><li>Confirm that the feed from Adobe Advertising to Customer Journey Analytics is enabled for Advertiser 2. Check with your Adobe Account Team.</li><li>Confirm that the setting "[!UICONTROL Backfill all existing data]" is enabled for your three datasets (dimension/classification/lookup, summary, and event metrics) in your Customer Journey Analytics connection.</li></ol>If you verify all of the above conditions but you still don't see summary data, then open a [support ticket](https://experienceleague.adobe.com/home?support-tab=home#support) for your organization. |
-| (Search, Social, & Commerce users) Summary reporting data is available in Customer Journey Analytics for one [!DNL Google Ads], [!DNL Meta Ads], or [!DNL Microsoft Advertising] account but not for another account. | Verify that the feed from Adobe Advertising to Customer Journey Analytics is enabled for the specific ad network account. Check with your Adobe Account Team.<br><br>If the feed is enabled for an account but you still don't see summary data, then open a [support ticket](https://experienceleague.adobe.com/home?support-tab=home#support) for your organization. Include the [!UICONTROL Account ID] for the ad network account. |
-| Summary reporting data in Customer Journey Analytics Workspace is different than the data in Advertising DSP or Advertising Search, Social, & Commerce, or summary data is missing for some campaigns and campaign entities. | <ol><li>Confirm that you're using the same date ranges in both [!DNL Workspace] and the Adobe Advertising report.</li><li>Confirm that any filters and segments that are applied in [!DNL Workspace] and the Adobe Advertising report aren't causing differences in data.</li><li>Confirm that the [!UICONTROL Time Zone] for your Customer Journey Analytics data view matches the [!UICONTROL Default Timezone] for your [Advertising DSP account](/help/dsp/admin/user-own-profile-edit.md).</li><li>Confirm that the setting "[!UICONTROL Backfill all existing data]" is enabled for your three datasets (dimension/classification/lookup, summary, and event metrics) in your Customer Journey Analytics connection.</li></ol>If you're sure of a data discrepancy, then open a [support ticket](https://experienceleague.adobe.com/home?support-tab=home#support) for your organization. Include the [!UICONTROL Account ID] for the ad network account. To show evidence of the discrepancy, include screenshots and spreadsheets. Your Adobe Account Team can retroactively fix the data feed to resolve the discrepancy if needed. |
-
-### Event-level reporting
-
-| Symptom | Verification and resolution |
-| ----- | --- |
-| Conversion data (such as `Page Views`) isn't available for a reporting dimension (such as `Campaign`) in Customer Journey Analytics Workspace. | Verify the following, starting with the items with the fewest verification barriers:<ol><li>Confirm that you're using the correct data view.</li><li>Confirm that the applicable conversion metrics are web/online events, which Adobe Advertising can attribute to dimensions.</li><li>Confirm that Adobe Advertising is tracking click-throughs and view-throughs on the applicable site.</li><li>In the Customer Journey Analytics connection for the classifications dataset, confirm that the values for the [!DNL Key] and [!DNL Matching Key] settings are correct: [!DNL Key]: `Tracking Code` (_customername.adLens2.trackingCode), [!DNL Matching Key]: `Tracking Code` (event._experience.adcloud.conversionDetails.trackingCode).</li><li>Confirm that the [!DNL Adobe Advertising] service is added to the Adobe Experience Platform datastream, that the mapped schema for the datastream is `XDM ExperienceEvent Schema`, and that the field group `Adobe Advertising Cloud ExperienceEvent Full Extension` is added to the `XDM ExperienceEvent` schema.</li><li>Confirm that the Adobe Advertising settings are configured correctly in the WebSDK extension and published.</li></ol>If you verify all of the above settings but you still don't see conversion data, then open a [support ticket](https://experienceleague.adobe.com/home?support-tab=home#support) for your organization. Include the [!UICONTROL Account ID] for the ad network account. |
-
-<!--
-
-+++ Question
-
-Answer
-
-+++
-
-+++ Question
-
-Answer
-
-+++
-
-+++ Question
-
-Answer
-
-+++
-
--->
 
 >[!MORELIKETHIS]
 >
