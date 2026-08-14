@@ -125,9 +125,9 @@ Make sure the datastream belongs to the same Adobe Experience Platform sandbox a
 
 +++
 
-## [!UICONTROL Advertising] extension setup issues {#advertising-extension-setup-issues}
+### [!UICONTROL Advertising] extension setup issues {#advertising-extension-setup-issues}
 
-### Issues:
+#### Issues:
 
 * No view-through or click-through conversions are recorded for the webpage.
 
@@ -141,7 +141,7 @@ Make sure the datastream belongs to the same Adobe Experience Platform sandbox a
 
 * Conversions are confirmed in a debugger tool but don't appear in Adobe Advertising reports
 
-### Possible causes and verification/resolution
+#### Possible causes and verification/resolution
 
 +++ The `Adobe Advertising` service isn't enabled for the datastream
 
