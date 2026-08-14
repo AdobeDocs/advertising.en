@@ -220,89 +220,6 @@ Before opening a support ticket for [!UICONTROL Advertising] extension setup iss
 * For view-through tracking, an advertiser is configured in Adobe Advertising DSP with the correct advertiser ID.
 * The WebSDK extension is version 2.36.0 or later.
 
-## Validation and debugging tools
-
-### Adobe Experience Platform Debugger
-
-Install the [!DNL Adobe Experience Platform Debugger] extension for [!DNL Chrome]. It provides:
-
-* A real-time view of all WebSDK `alloy()` calls
-* Datastream ID and environment validation
-* XDM payload inspection
-* Edge Network request and response details
-
-Key checks in the debugger:
-
-| Tab | What to check |
-| ----- | --- |
-| [!UICONTROL Summary] | Confirms that the WebSDK is detected and shows the installed version. |
-| [!UICONTROL AEP Web SDK] | Shows each event fired, the full XDM payload, and the edge response. |
-| [!UICONTROL Adobe Advertising] | Confirms AMO ID capture and the XDM interact call with the `advertising.enrichment` event type. |
-
-### Browser Network tab
-
-Filter by `edge.adobedc.net` to inspect raw edge requests:
-
-* Request URL: `https://[org-id].data.adobedc.net/ee/v2/interact`
-* Method: `POST`
-* Status: `200` (healthy), `400` (bad payload), or `500` (server or datastream error)
-
-Check the request payload for:
-
-* The correct `dataStreamId`
-* The presence of an `xdm` object with the expected fields
-* An `identityMap` with the ECID populated
-
-### Console validation
-
-Check the installed WebSDK version:
-
-```js
-window.alloy.version
-```
-
-Manually trigger a test event:
-
-```js
-alloy("sendEvent", {
-  xdm: {
-    eventType: "web.webpagedetails.pageViews",
-    web: {
-      webPageDetails: { name: "Test Page", URL: window.location.href }
-    }
-  }
-}).then(result => console.log("Edge response:", result))
-  .catch(err => console.error("Send event error:", err));
-```
-
-## Quick reference checklist
-
-Verify the following before opening a support ticket:
-
-* The WebSDK extension is on the latest version.
-* The library is published, and the embed code is correct for the environment.
-* The datastream ID is set correctly for development, staging, and production.
-* All required datastream services are enabled.
-* The [!UICONTROL Advertising] component is enabled in the WebSDK extension configuration, and a DSP advertiser ID is configured.
-* The XDM schema includes the [!UICONTROL Advertising] field group.
-* The [!UICONTROL Send Event] rule includes an identity map and fires on the correct event.
-* No CSP or browser privacy settings are blocking edge requests.
-* The AEP Debugger confirms that events are reaching the edge.
-* No JavaScript errors in the browser console are halting execution.
-* The **Adobe Advertising Cloud ExperienceEvent Full Extension** field group is added to the schema.
-* `_experience.adcloud.conversionDetails.trackingCode` is present in the schema.
-* `_experience.adcloud.conversionDetails.trackingIdentity` is present in the schema.
-* The landing page URL contains both `s_kwcid` and `ef_id` on click-through.
-* The AEP Debugger confirms that `conversionDetails` is populated in the outbound payload.
-
-## When to escalate
-
-Escalate to your Adobe Account Team or your engineering team if:
-
-* Edge requests return persistent `500` errors after datastream validation.
-* [!UICONTROL Advertising] conversions are confirmed in the debugger but don't appear in reports after 24-48 hours.
-* A WebSDK version update introduces a regression that wasn't present in the previous version. Include the specific version numbers in the support ticket.
-
 ## Reporting issues
 
 ### Summary reporting
@@ -402,6 +319,89 @@ Answer
 +++
 
 -->
+
+## Validation and debugging tools
+
+### Adobe Experience Platform Debugger
+
+Install the [!DNL Adobe Experience Platform Debugger] extension for [!DNL Chrome]. It provides:
+
+* A real-time view of all WebSDK `alloy()` calls
+* Datastream ID and environment validation
+* XDM payload inspection
+* Edge Network request and response details
+
+Key checks in the debugger:
+
+| Tab | What to check |
+| ----- | --- |
+| [!UICONTROL Summary] | Confirms that the WebSDK is detected and shows the installed version. |
+| [!UICONTROL AEP Web SDK] | Shows each event fired, the full XDM payload, and the edge response. |
+| [!UICONTROL Adobe Advertising] | Confirms AMO ID capture and the XDM interact call with the `advertising.enrichment` event type. |
+
+### Browser Network tab
+
+Filter by `edge.adobedc.net` to inspect raw edge requests:
+
+* Request URL: `https://[org-id].data.adobedc.net/ee/v2/interact`
+* Method: `POST`
+* Status: `200` (healthy), `400` (bad payload), or `500` (server or datastream error)
+
+Check the request payload for:
+
+* The correct `dataStreamId`
+* The presence of an `xdm` object with the expected fields
+* An `identityMap` with the ECID populated
+
+### Console validation
+
+Check the installed WebSDK version:
+
+```js
+window.alloy.version
+```
+
+Manually trigger a test event:
+
+```js
+alloy("sendEvent", {
+  xdm: {
+    eventType: "web.webpagedetails.pageViews",
+    web: {
+      webPageDetails: { name: "Test Page", URL: window.location.href }
+    }
+  }
+}).then(result => console.log("Edge response:", result))
+  .catch(err => console.error("Send event error:", err));
+```
+
+## Quick reference checklist
+
+Verify the following before opening a support ticket:
+
+* The WebSDK extension is on the latest version.
+* The library is published, and the embed code is correct for the environment.
+* The datastream ID is set correctly for development, staging, and production.
+* All required datastream services are enabled.
+* The [!UICONTROL Advertising] component is enabled in the WebSDK extension configuration, and a DSP advertiser ID is configured.
+* The XDM schema includes the [!UICONTROL Advertising] field group.
+* The [!UICONTROL Send Event] rule includes an identity map and fires on the correct event.
+* No CSP or browser privacy settings are blocking edge requests.
+* The AEP Debugger confirms that events are reaching the edge.
+* No JavaScript errors in the browser console are halting execution.
+* The **Adobe Advertising Cloud ExperienceEvent Full Extension** field group is added to the schema.
+* `_experience.adcloud.conversionDetails.trackingCode` is present in the schema.
+* `_experience.adcloud.conversionDetails.trackingIdentity` is present in the schema.
+* The landing page URL contains both `s_kwcid` and `ef_id` on click-through.
+* The AEP Debugger confirms that `conversionDetails` is populated in the outbound payload.
+
+## When to escalate
+
+Escalate to your Adobe Account Team or your engineering team if:
+
+* Edge requests return persistent `500` errors after datastream validation.
+* [!UICONTROL Advertising] conversions are confirmed in the debugger but don't appear in reports after 24-48 hours.
+* A WebSDK version update introduces a regression that wasn't present in the previous version. Include the specific version numbers in the support ticket.
 
 >[!MORELIKETHIS]
 >
