@@ -35,7 +35,7 @@ The following are potential issues, their possible causes, and solutions.
 | No alloy() calls are visible in the browser network tab | See the section "[Installation and setup issues](#issues-installation-setup)" > "[WebSDK extension doesn't initialize](#websdk-extension-doesn't-initialize)" |
 | Console error: alloy isn't defined | See "[Installation and setup issues](#issues-installation-setup)" > "[WebSDK extension doesn't initialize](#websdk-extension-doesn't-initialize)" |
 | No interact or collect requests to edge.adobedc.net | See "[Installation and setup issues](#issues-installation-setup)" > "[WebSDK extension doesn't initialize](#websdk-extension-doesn't-initialize)" |
-| Requests reach the edge but return 400 or 500 errors | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Datastream not configured or misconfigured](#datastream-not-configured-or-misconfigured)" |
+| Requests reach the Experience Platform Edge Network but return 400 or 500 errors | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Datastream not configured or misconfigured](#datastream-not-configured-or-misconfigured)" |
 | No data appears in Adobe Analytics or Adobe Advertising reports | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Datastream not configured or misconfigured](#datastream-not-configured-or-misconfigured)" |
 | Error in network response: "datastream not found" | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Datastream not configured or misconfigured](#datastream-not-configured-or-misconfigured)" |
 | No view-through or click-through conversions are recorded for the webpage | See the section "[Advertising extension setup issues](#advertising-extension-setup-issues)" |
@@ -95,7 +95,7 @@ Add `edge.adobedc.net` and `assets.adobedtm.com` to your CSP `connect-src` and `
 
 #### Issues:
 
-* Requests reach the edge but return 400 or 500 errors
+* Requests reach the Experience Platform Edge Network but return 400 or 500 errors
 * No data appears in Adobe Analytics or Adobe Advertising reports<!-- It's not useful to organize this info by cause, not symptom -->
 * Error in network response: "datastream not found"
 
@@ -216,7 +216,7 @@ Before opening a support ticket for [!UICONTROL Advertising] extension setup iss
 
 +++ Third-party cookies are blocked
 
-Migrate to first-party CNAME data collection by configuring a first-party domain in the datastream's edge configuration.
+Migrate to first-party CNAME data collection by configuring a first-party domain in the datastream's Edge Network configuration.
 
 +++
 
@@ -462,7 +462,7 @@ Answer
 
 ### Adobe Experience Platform Debugger
 
-Install the [!DNL Adobe Experience Platform Debugger] extension for [!DNL Chrome]. It provides:
+Install the [!DNL Adobe Experience Platform Debugger] extension for [!DNL Chrome] for:
 
 * A real-time view of all WebSDK `alloy()` calls
 * Datastream ID and environment validation
@@ -473,13 +473,13 @@ Key checks in the debugger:
 
 | Tab | What to check |
 | ----- | --- |
-| [!UICONTROL Summary] | Confirms that the WebSDK is detected and shows the installed version. |
-| [!UICONTROL Adobe Experience Platform WebSDK] | Shows each event fired, the full XDM payload, and the edge response. |
+| [!UICONTROL Summary] | Confirms that WebSDK is detected and shows the installed version. |
+| [!UICONTROL Adobe Experience Platform WebSDK] | Shows each event fired, the full XDM payload, and the Edge Network response. |
 | [!UICONTROL Adobe Advertising] | Confirms AMO ID capture and the XDM interact call with the `advertising.enrichment` event type. |
 
 ### Browser Network tab
 
-Filter by `edge.adobedc.net` to inspect raw edge requests:
+Filter by `edge.adobedc.net` to inspect raw Edge Network requests:
 
 * Request URL: `https://[org-id].data.adobedc.net/ee/v2/interact`
 * Method: `POST`
@@ -524,20 +524,20 @@ Verify the following before opening a support ticket:
 * The [!UICONTROL Advertising] component is enabled in the WebSDK extension configuration, and a DSP advertiser ID is configured.
 * The XDM schema includes the [!UICONTROL Advertising] field group.
 * The [!UICONTROL Send Event] rule includes an identity map and fires on the correct event.
-* No CSP or browser privacy settings are blocking edge requests.
-* The [!DNL Adobe Experience Platform] Debugger confirms that events are reaching the edge.
+* No CSP or browser privacy settings are blocking Edge Network requests.
+* The [!DNL Adobe Experience Platform] Debugger confirms that events are reaching the Edge Network.
 * No JavaScript errors in the browser console are halting execution.
-* The **Adobe Advertising Cloud ExperienceEvent Full Extension** field group is added to the schema.
+* The `Adobe Advertising Cloud ExperienceEvent Full Extension` field group is added to the schema.
 * `_experience.adcloud.conversionDetails.trackingCode` is present in the schema.
 * `_experience.adcloud.conversionDetails.trackingIdentity` is present in the schema.
-* The landing page URL contains both `s_kwcid` and `ef_id` on click-through.
+* The landing page URL contains both `s_kwcid` and `ef_id` parameters on click-through.
 * The [!DNL Adobe Experience Platform] Debugger confirms that `conversionDetails` is populated in the outbound payload.
 
 ## When to escalate
 
 Escalate to your Adobe Account Team or your engineering team if:
 
-* Edge requests return persistent `500` errors after datastream validation.
+* Edge Network requests return persistent `500` errors after datastream validation.
 * [!UICONTROL Advertising] conversions are confirmed in the debugger but don't appear in reports after 24-48 hours.
 * A WebSDK version update introduces a regression that wasn't present in the previous version. Include the specific version numbers in the support ticket.
 
