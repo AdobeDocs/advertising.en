@@ -214,6 +214,8 @@ Make sure that the [!UICONTROL Advertising] field group is added to the schema.
 >[!NOTE]
 >Republishing your [!DNL Tags] library isn't required for schema changes alone, but you must re-map the XDM data element in [!DNL Tags] if new fields were added.
 
++++
+
 +++ The required Adobe Advertising fields are missing from the schema.
 
  Make sure that the required Adobe Advertising fields are present in the schema under `_experience.adcloud.conversionDetails`.
@@ -240,7 +242,7 @@ Make sure that the landing page URL includes the necessary query parameters. On 
 
 +++ Some parameters in the XDM payload are missing or empty.
 
-To validate the outbound XDM payload, open the AEP Debugger or the browser [!UICONTROL Network] tab, filter for `edge.adobedc.net`, and inspect the interact request body. A valid click-through payload looks similar to the following:
+To validate the outbound XDM payload, open the [!DNL Adobe Experience Platform] Debugger or the browser [!UICONTROL Network] tab, filter for `edge.adobedc.net`, and inspect the interact request body. A valid click-through payload looks similar to the following:
 
 ```json
 {
@@ -267,7 +269,7 @@ If `trackingCode` or `trackingIdentity` are empty or missing:
 
 ## [!UICONTROL Advertising] extension setup issues {#advertising-extension-setup-issues}
 
-#### Issues:
+### Issues:
 
 * No view-through or click-through conversions are recorded for the webpage.
 
@@ -281,7 +283,7 @@ If `trackingCode` or `trackingIdentity` are empty or missing:
 
 * Conversions are confirmed in a debugger tool but don't appear in Adobe Advertising reports
 
-#### Possible causes and verification/resolution
+### Possible causes and verification/resolution
 
 +++ The `Adobe Advertising` service isn't enabled for the datastream
 
@@ -317,7 +319,7 @@ This is expected default behavior. Once the `Adobe Advertising` component is ena
    1. In [!DNL Tags], go to [!UICONTROL Extensions] > [!UICONTROL Installed] > **Adobe Experience Platform Web SDK** > [!UICONTROL Configure].
    1. Under the [!UICONTROL Advertiser] section, select an advertiser from the dropdown and enable it. To configure multiple advertisers, select **Add Advertiser**.
 1. Verify that view-through conversion pixels are firing:
-   1. In the AEP Debugger, confirm that the interact call includes `stitchId` under the `xdm.query` field.
+   1. In the [!DNL Adobe Experience Platform] Debugger, confirm that the interact call includes `stitchId` under the `xdm.query` field.
    1. Confirm on the browser [!UICONTROL Network] tab that an event with type `advertising.enrichment` is fired and includes `stitchId` under `xdm.query`.
 
 View-through conversions fire only every 30 minutes, regardless of the number of visits. If you don't see an interact call, clear your browser cache and try again.
@@ -465,7 +467,7 @@ Key checks in the debugger:
 | Tab | What to check |
 | ----- | --- |
 | [!UICONTROL Summary] | Confirms that the WebSDK is detected and shows the installed version. |
-| [!UICONTROL AEP Web SDK] | Shows each event fired, the full XDM payload, and the edge response. |
+| [!UICONTROL Adobe Experience Platform WebSDK] | Shows each event fired, the full XDM payload, and the edge response. |
 | [!UICONTROL Adobe Advertising] | Confirms AMO ID capture and the XDM interact call with the `advertising.enrichment` event type. |
 
 ### Browser Network tab
@@ -516,13 +518,13 @@ Verify the following before opening a support ticket:
 * The XDM schema includes the [!UICONTROL Advertising] field group.
 * The [!UICONTROL Send Event] rule includes an identity map and fires on the correct event.
 * No CSP or browser privacy settings are blocking edge requests.
-* The AEP Debugger confirms that events are reaching the edge.
+* The [!DNL Adobe Experience Platform] Debugger confirms that events are reaching the edge.
 * No JavaScript errors in the browser console are halting execution.
 * The **Adobe Advertising Cloud ExperienceEvent Full Extension** field group is added to the schema.
 * `_experience.adcloud.conversionDetails.trackingCode` is present in the schema.
 * `_experience.adcloud.conversionDetails.trackingIdentity` is present in the schema.
 * The landing page URL contains both `s_kwcid` and `ef_id` on click-through.
-* The AEP Debugger confirms that `conversionDetails` is populated in the outbound payload.
+* The [!DNL Adobe Experience Platform] Debugger confirms that `conversionDetails` is populated in the outbound payload.
 
 ## When to escalate
 
