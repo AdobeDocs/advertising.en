@@ -30,7 +30,7 @@ The following are potential issues, their possible causes, and solutions.
 
 ## List of all potential symptoms
 
-| Symptom | More information |
+| Issue | More information |
 | ------- | ---------------- |
 | No alloy() calls are visible in the browser network tab | See the section "[Installation and setup issues](#issues-installation-setup)" > "[WebSDK extension doesn't initialize](#websdk-extension-doesn't-initialize)" |
 | Console error: alloy isn't defined | See "[Installation and setup issues](#issues-installation-setup)" > "[WebSDK extension doesn't initialize](#websdk-extension-doesn't-initialize)" |
@@ -38,17 +38,22 @@ The following are potential issues, their possible causes, and solutions.
 | Requests reach the edge but return 400 or 500 errors | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Datastream not configured or misconfigured](#datastream-not-configured-or-misconfigured)" |
 | No data appears in Adobe Analytics or Adobe Advertising reports | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Datastream not configured or misconfigured](#datastream-not-configured-or-misconfigured)" |
 | Error in network response: "datastream not found" | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Datastream not configured or misconfigured](#datastream-not-configured-or-misconfigured)" |
-| The visitor ID changes between pages | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Identity and ECID issues](#identity-and-ecid-issues)" |
-| Advertising audience segments don't match | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Identity and ECID issues](#identity-and-ecid-issues)" |
-| The debugger shows that rule conditions aren't met | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Rules or events aren't firing](#rules-or-events-aren't-firing)" |
-| The [!UICONTROL Send Event] action never executes | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Rules or events aren't firing](#rules-or-events-aren't-firing)" |
-| Changes made in [!DNL Tags] aren't reflected on the live site | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Library build and publishing issues](#library-build-and-publishing-issues)" |
-| An extension update was applied, but the old behavior persists | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Library build and publishing issues](#library-build-and-publishing-issues)" |
-| The `alloy()` send event call succeeds (with a 200 response), but Adobe Advertising conversion data is missing from reports | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Schema validation issues for Advertising fields](#schema-validation-for-advertising-fields)" |
-| The XDM payload in the debugger shows no `_experience.adcloud` object | See the section "[Installation and setup issues](#issues-installation-setup)" > "[Schema validation issues for Advertising fields](#schema-validation-for-advertising-fields)" |
 | No view-through or click-through conversions are recorded for the webpage | See the section "[Advertising extension setup issues](#advertising-extension-setup-issues)" |
 | `_experience.adcloud` is missing from the Experience Data Model (XDM) payload for click-throughs | See the section "[Advertising extension setup issues](#advertising-extension-setup-issues)" |
 | Conversions are confirmed in a debugger tool but don't appear in Adobe Advertising reports | See the section "[Advertising extension setup issues](#advertising-extension-setup-issues)" |
+| The visitor ID changes between pages | See the section "[Identity and ECID issues](#identity-and-ecid-issues)" |
+| Advertising audience segments don't match | See the section "[Identity and ECID issues](#identity-and-ecid-issues)" |
+| The debugger shows that rule conditions aren't met | See the section "[Rules or events aren't firing](#rules-or-events-aren't-firing)" |
+| The [!UICONTROL Send Event] action never executes | See the section "[Rules or events aren't firing](#rules-or-events-aren't-firing)" |
+| Changes made in [!DNL Tags] aren't reflected on the live site | See the section "[Library build and publishing issues](#library-build-and-publishing-issues)" |
+| An extension update was applied, but the old behavior persists | See the section "[Library build and publishing issues](#library-build-and-publishing-issues)" |
+| The `alloy()` send event call succeeds (with a 200 response), but Adobe Advertising conversion data is missing from reports | See the section "[Schema validation issues for Advertising fields](#schema-validation-for-advertising-fields)" |
+| The XDM payload in the debugger shows no `_experience.adcloud` object | See the section "[Schema validation issues for Advertising fields](#schema-validation-for-advertising-fields)" |
+| No summary reporting data is available in Customer Journey Analytics for Advertising DSP or Advertising Search, Social, & Commerce. | See the section "[Reporting issues](#reporting-issues)" > "[Summary reporting](#summary-reporting)" |
+| Summary reporting data is available in Customer Journey Analytics for Advertiser 1 but not Advertiser 2. | See the section "[Reporting issues](#reporting-issues)" > "[Summary reporting](#summary-reporting)" |
+| (Search, Social, & Commerce users) Summary reporting data is available in Customer Journey Analytics for one [!DNL Google Ads], [!DNL Meta Ads], or [!DNL Microsoft Advertising] account but not for another account. | See the section "[Reporting issues](#reporting-issues)" > "[Summary reporting](#summary-reporting)" |
+| Summary reporting data in Customer Journey Analytics Workspace is different than the data in Advertising DSP or Advertising Search, Social, & Commerce, or summary data is missing for some campaigns and campaign entities. | See the section "[Reporting issues](#reporting-issues)" > "[Summary reporting](#summary-reporting)" |
+| Conversion data (such as `Page Views`) isn't available for a reporting dimension (such as `Campaign`) in CJA Customer Journey Analytics Workspace. | See the section "[Reporting issues](#reporting-issues)" > "[Event-level reporting](#event-level-reporting)" |
 
 ## Installation and setup issues {#issues-installation-setup}
 
@@ -120,14 +125,94 @@ Make sure the datastream belongs to the same Adobe Experience Platform sandbox a
 
 +++
 
-### Identity and ECID issues {#identity-and-ecid-issues}
+## [!UICONTROL Advertising] extension setup issues {#advertising-extension-setup-issues}
 
-#### Issues:
+### Issues:
+
+* No view-through or click-through conversions are recorded for the webpage.
+
+  To verify if conversions are recorded:
+
+  1. Open the webpage with `ef_id=test&s_kwcid=test` appended to the URL.
+  1. Open your browser's code inspection tool (often called [!DNL Inspect]), open the [!DNL Network] tab, and look for an interact call for event_type="advertising.enrichment_ct" from Adobe Experience Platform.
+  1. In the Data Collection interface, [open the schema definition](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-schemas) for the website data you want to collect and confirm that `xdm->_experience->adcloud->conversionDetails->trackingCode` and `trackingIdentities` contain `ef_id` and `s_kwcid`.
+
+* `_experience.adcloud` is missing from the Experience Data Model (XDM) payload for click-throughs.
+
+* Conversions are confirmed in a debugger tool but don't appear in Adobe Advertising reports
+
+### Possible causes and verification/resolution
+
++++ The `Adobe Advertising` service isn't enabled for the datastream
+
+1. In [!DNL Tags], open the [datastream configuration settings](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/datastreams) for your tag property.
+1. Enable the following services, and save the settings:
+   * Adobe Advertising (for conversion/audience sync)
+   * Adobe Experience Platform (for profile ingestion)
+
++++
+
++++ The `Adobe Advertising` component isn't enabled for the [!UICONTROL WebSDK] extension
+
+The `Adobe Advertising` component within the WebSDK extension is disabled by default and must be explicitly enabled before any tracking for Adobe Advertising click-throughs or view-throughs is functional, regardless of how the XDM schema or rules are configured.
+
+1. In [!DNL Tags], open the [build options for the property in the Adobe Experience Platform Web SDK configuration settings](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/custom-build-components).
+1. Enable the **Advertising** component, and save the settings.
+1. Rebuild and republish the library.
+
++++
+
++++ Only click-through conversions are recorded; view-through conversions never appear
+
+This is expected default behavior. Once the `Adobe Advertising` component is enabled, click-through tracking is active automatically using the `s_kwcid` and `ef_id` URL query parameters. View-through tracking is disabled by default and requires additional configuration &mdash; see the next item.
+
++++
+
++++ View-through tracking isn't enabled or configured
+
+1. Enable the Adobe Advertising service for the datastream:
+   1. Go to [!UICONTROL Data Collection] > [!UICONTROL Datastreams] in Adobe Experience Platform and open the datastream used by your [!DNL Tags] property.
+   1. Select **Add Service**, select **Adobe Advertising** and **Adobe Experience Platform**, then select **Save**.
+1. Configure advertisers in Adobe Advertising DSP:
+   1. In [!DNL Tags], go to [!UICONTROL Extensions] > [!UICONTROL Installed] > **Adobe Experience Platform Web SDK** > [!UICONTROL Configure].
+   1. Under the [!UICONTROL Advertiser] section, select an advertiser from the dropdown and enable it. To configure multiple advertisers, select **Add Advertiser**.
+1. Verify that view-through conversion pixels are firing:
+   1. In the [!DNL Adobe Experience Platform] Debugger, confirm that the interact call includes `stitchId` under the `xdm.query` field.
+   1. Confirm on the browser [!UICONTROL Network] tab that an event with type `advertising.enrichment` is fired and includes `stitchId` under `xdm.query`.
+
+View-through conversions fire only every 30 minutes, regardless of the number of visits. If you don't see an interact call, clear your browser cache and try again.
+
++++
+
++++ (If no view-through events in Experience Platform after the Viewthrough interact call fires) The advertiser was typed in manually instead of selected from the dropdown
+
+Reselect the advertiser from the [!UICONTROL Advertiser] dropdown instead of entering it manually.
+
++++
+
++++ (If no view-through events in Experience Platform after the Viewthrough interact call fires) No advertiser ID is sent with the view-through interact call
+
+Confirm that an advertiser is configured and enabled under the [!UICONTROL Advertiser] section of the WebSDK extension configuration, then rebuild and republish the library.
+
++++
+
+Before opening a support ticket for [!UICONTROL Advertising] extension setup issues, verify the following:
+
+* The **Adobe Advertising** and **Adobe Experience Platform** services are added to the datastream.
+* The **Adobe Advertising** component is enabled in the WebSDK extension configuration.
+* The library was rebuilt and republished after enabling the component.
+* For click-through tracking, the landing page URL contains `s_kwcid` and `ef_id` on ad click.
+* For view-through tracking, an advertiser is configured in Adobe Advertising DSP with the correct advertiser ID.
+* The WebSDK extension is version 2.36.0 or later.
+
+## Identity and ECID issues {#identity-and-ecid-issues}
+
+### Issues:
 
 * The visitor ID changes between pages
 * Advertising audience segments don't match
 
-#### Possible causes and verification/resolution
+### Possible causes and verification/resolution
 
 +++ Third-party cookies are blocked
 
@@ -269,89 +354,9 @@ If `trackingCode` or `trackingIdentity` are empty or missing:
 
 +++
 
-## [!UICONTROL Advertising] extension setup issues {#advertising-extension-setup-issues}
+## Reporting issues {#reporting-issues}
 
-### Issues:
-
-* No view-through or click-through conversions are recorded for the webpage.
-
-  To verify if conversions are recorded:
-
-  1. Open the webpage with `ef_id=test&s_kwcid=test` appended to the URL.
-  1. Open your browser's code inspection tool (often called [!DNL Inspect]), open the [!DNL Network] tab, and look for an interact call for event_type="advertising.enrichment_ct" from Adobe Experience Platform.
-  1. In the Data Collection interface, [open the schema definition](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-schemas) for the website data you want to collect and confirm that `xdm->_experience->adcloud->conversionDetails->trackingCode` and `trackingIdentities` contain `ef_id` and `s_kwcid`.
-
-* `_experience.adcloud` is missing from the Experience Data Model (XDM) payload for click-throughs.
-
-* Conversions are confirmed in a debugger tool but don't appear in Adobe Advertising reports
-
-### Possible causes and verification/resolution
-
-+++ The `Adobe Advertising` service isn't enabled for the datastream
-
-1. In [!DNL Tags], open the [datastream configuration settings](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/datastreams) for your tag property.
-1. Enable the following services, and save the settings:
-   * Adobe Advertising (for conversion/audience sync)
-   * Adobe Experience Platform (for profile ingestion)
-
-+++
-
-+++ The `Adobe Advertising` component isn't enabled for the [!UICONTROL WebSDK] extension
-
-The `Adobe Advertising` component within the WebSDK extension is disabled by default and must be explicitly enabled before any tracking for Adobe Advertising click-throughs or view-throughs is functional, regardless of how the XDM schema or rules are configured.
-
-1. In [!DNL Tags], open the [build options for the property in the Adobe Experience Platform Web SDK configuration settings](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/configure/custom-build-components).
-1. Enable the **Advertising** component, and save the settings.
-1. Rebuild and republish the library.
-
-+++
-
-+++ Only click-through conversions are recorded; view-through conversions never appear
-
-This is expected default behavior. Once the `Adobe Advertising` component is enabled, click-through tracking is active automatically using the `s_kwcid` and `ef_id` URL query parameters. View-through tracking is disabled by default and requires additional configuration &mdash; see the next item.
-
-+++
-
-+++ View-through tracking isn't enabled or configured
-
-1. Enable the Adobe Advertising service for the datastream:
-   1. Go to [!UICONTROL Data Collection] > [!UICONTROL Datastreams] in Adobe Experience Platform and open the datastream used by your [!DNL Tags] property.
-   1. Select **Add Service**, select **Adobe Advertising** and **Adobe Experience Platform**, then select **Save**.
-1. Configure advertisers in Adobe Advertising DSP:
-   1. In [!DNL Tags], go to [!UICONTROL Extensions] > [!UICONTROL Installed] > **Adobe Experience Platform Web SDK** > [!UICONTROL Configure].
-   1. Under the [!UICONTROL Advertiser] section, select an advertiser from the dropdown and enable it. To configure multiple advertisers, select **Add Advertiser**.
-1. Verify that view-through conversion pixels are firing:
-   1. In the [!DNL Adobe Experience Platform] Debugger, confirm that the interact call includes `stitchId` under the `xdm.query` field.
-   1. Confirm on the browser [!UICONTROL Network] tab that an event with type `advertising.enrichment` is fired and includes `stitchId` under `xdm.query`.
-
-View-through conversions fire only every 30 minutes, regardless of the number of visits. If you don't see an interact call, clear your browser cache and try again.
-
-+++
-
-+++ (If no view-through events in Experience Platform after the Viewthrough interact call fires) The advertiser was typed in manually instead of selected from the dropdown
-
-Reselect the advertiser from the [!UICONTROL Advertiser] dropdown instead of entering it manually.
-
-+++
-
-+++ (If no view-through events in Experience Platform after the Viewthrough interact call fires) No advertiser ID is sent with the view-through interact call
-
-Confirm that an advertiser is configured and enabled under the [!UICONTROL Advertiser] section of the WebSDK extension configuration, then rebuild and republish the library.
-
-+++
-
-Before opening a support ticket for [!UICONTROL Advertising] extension setup issues, verify the following:
-
-* The **Adobe Advertising** and **Adobe Experience Platform** services are added to the datastream.
-* The **Adobe Advertising** component is enabled in the WebSDK extension configuration.
-* The library was rebuilt and republished after enabling the component.
-* For click-through tracking, the landing page URL contains `s_kwcid` and `ef_id` on ad click.
-* For view-through tracking, an advertiser is configured in Adobe Advertising DSP with the correct advertiser ID.
-* The WebSDK extension is version 2.36.0 or later.
-
-## Reporting issues
-
-### Summary reporting
+### Summary reporting {#summary-reporting}
 
 #### Issues and verification/resolution
 
@@ -407,7 +412,7 @@ If you're sure of a data discrepancy, then open a support ticket for your organi
 
 +++
 
-### Event-level reporting
+### Event-level reporting {#event-level-reporting}
 
 #### Issues and verification/resolution
 
