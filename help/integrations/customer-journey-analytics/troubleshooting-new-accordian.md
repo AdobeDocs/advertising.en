@@ -267,6 +267,8 @@ If `trackingCode` or `trackingIdentity` are empty or missing:
 * The query parameter wasn't present on the page when the rule fired. Check the URL and the rule's event timing.
 * The field group is missing from the schema. Revisit the schema steps above.
 
++++
+
 ## [!UICONTROL Advertising] extension setup issues {#advertising-extension-setup-issues}
 
 ### Issues:
