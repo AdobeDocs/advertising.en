@@ -24,6 +24,18 @@ topic_v2:
 ---
 # FAQs about custom reports
 
+## Conversion reports
+
+### How do the [!UICONTROL Conversion] report and the [!UICONTROL DSP Self-Attributed Conversions] report differ?
+
+Both reports use the same dimensions, metrics, and attribution models, including click-through and view-through breakdowns.
+
+In most reports, including the [!UICONTROL Conversion] report, a conversion is credited to the last click before the conversion. When a customer sees a DSP ad and later clicks a search ad before converting, that DSP exposure often doesn't appear in your conversion numbers.
+
+The [!UICONTROL DSP Self-Attributed Conversions] report, however, connects conversions back to the DSP impressions and clicks that preceded them so that you can understand DSP's broader contribution to the journey. Think of this report as a complementary view of DSP's contribution, not a correction to the [!UICONTROL Conversion] report. It's most useful for advertisers who use both Advertising DSP and Advertising Search, Social, & Commerce.
+
+Because the two reports use different methods to connect conversions to ads, their metric totals won't match. This is expected, not a discrepancy.
+
 ## Household reports
 
 ### The [!UICONTROL Household Reach & Frequency] report

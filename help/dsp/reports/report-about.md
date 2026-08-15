@@ -67,6 +67,12 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 
     * **[!UICONTROL Device]:** Use this pre-populated template to see key metrics by device-related dimensions.
 
+    * **[DSP Self-Attributed Conversions]:** Use this report to see Advertising DSP's contribution to conversions &mdash; including customer journeys where DSP played a role but a later touch, such as an Adobe Advertising search click, received last-click credit in other reports.
+    
+      Standard reporting credits the last click before a conversion. When a customer sees a DSP ad and later clicks a search ad before converting, that DSP exposure often doesn't appear in your conversion numbers. This report connects conversions back to the DSP impressions and clicks that preceded them so that you can see DSP's role even when it wasn't the last touch. It's most useful for advertisers who use both Advertising DSP and Advertising Search, Social, & Commerce.
+
+      **Important:** This report doesn't change attribution Adobe Analytics reports or the existing attribution methodology. It provides a complementary DSP-specific view of conversion contribution.
+
     * **[!UICONTROL Frequency (by Impression)]:** Use this report to understand the distribution of impressions shown to unique viewers (for example, how many unique viewers saw one impression, two impressions, three impressions, and so on. Data is available by placement or campaign.
 
        >[!NOTE]
