@@ -67,11 +67,9 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 
     * **[!UICONTROL Device]:** Use this pre-populated template to see key metrics by device-related dimensions.
 
-    * **[DSP Self-Attributed Conversions]:** Use this report to see Advertising DSP's contribution to conversions &mdash; including customer journeys where DSP played a role but a later touch, such as an Adobe Advertising search click, received last-click credit in other reports.
-    
-      Standard reporting credits the last click before a conversion. When a customer sees a DSP ad and later clicks a search ad before converting, that DSP exposure often doesn't appear in your conversion numbers. This report connects conversions back to the DSP impressions and clicks that preceded them so that you can see DSP's role even when it wasn't the last touch. It's most useful for advertisers who use both Advertising DSP and Advertising Search, Social, & Commerce.
+    * **[!UICONTROL DSP Self-Attributed Conversions]:** Use this report to see Advertising DSP's contribution to conversions &mdash; including customer journeys where DSP played a role but a later touch, such as an Adobe Advertising search click, received last-click credit in other reports. See "[FAQs about custom reports](/help/dsp/reports/faq-reports.md)" for more information.
 
-      **Important:** This report doesn't change attribution Adobe Analytics reports or the existing attribution methodology. It provides a complementary DSP-specific view of conversion contribution.
+      **Important:** This report doesn't change the existing attribution methodology or attribution in Adobe Analytics reports. It provides a complementary DSP-specific view of conversion contribution.
 
     * **[!UICONTROL Frequency (by Impression)]:** Use this report to understand the distribution of impressions shown to unique viewers (for example, how many unique viewers saw one impression, two impressions, three impressions, and so on. Data is available by placement or campaign.
 
@@ -90,9 +88,9 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 
     * **[!UICONTROL Geo]**: Use this pre-populated template to see key metrics by geographic dimensions.
     
-    * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs about household reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
+    * **[!UICONTROL Household Conversions]:** Use this report to see view-through conversions at the household level based on IP address, rather than at a device/cookie level. Use the insights to measure and optimize campaign performance. See "[FAQs about custom reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
 
-    * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs about household reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
+    * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs about custom reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
 
     * **[!UICONTROL Margin]:** Use this report to see key metrics like margin, profit, and other spend metrics by campaign or placement. Data isn't available for placements that target universal IDs.
 
@@ -160,7 +158,7 @@ You can create new custom reports, edit existing reports or duplicate them to cr
 >* [Create a custom report](/help/dsp/reports/report-create.md)
 >* [Download a custom report](/help/dsp/reports/report-download.md)
 >* [Custom report settings](/help/dsp/reports/report-settings.md)
->* [FAQs about household reports](/help/dsp/reports/faq-reports.md)
+>* [FAQs about custom reports](/help/dsp/reports/faq-reports.md)
 >* [Types of performance reports in campaign management views](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Available report columns](/help/dsp/reports/report-columns.md)
 >* [About report destinations](/help/dsp/reports/report-destinations/report-destination-about.md)
