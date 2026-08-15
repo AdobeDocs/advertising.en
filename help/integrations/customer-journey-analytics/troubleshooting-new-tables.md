@@ -185,18 +185,18 @@ Verify the following:
 | Cause | Fix |
 | ----- | --- |
 | The [!UICONTROL Advertising] field group is missing from the schema | <ol><li>Go to Adobe Experience Platform > [!UICONTROL Data Management] > [!UICONTROL Schemas].</li><li>Open the schema used by your datastream.</li><li>In the [!UICONTROL Field Groups] panel, confirm that **Adobe Advertising Cloud ExperienceEvent Full Extension** is listed.</li><li>If it's missing, then select **Add**, search for **Adobe Advertising Cloud**, select **Adobe Advertising Cloud ExperienceEvent Full Extension**, and then save the settings.</li></ol>Republishing your [!DNL Tags] library isn't required for schema changes alone, but you must re-map the XDM data element in [!DNL Tags] if new fields were added. |
-| The required Adobe Advertising fields are missing from the schema | Make sure that the required Adobe Advertising fields are present in the schema under `_experience.adcloud.conversionDetails` (see the field reference table below).<br><br>If either field is missing, confirm that the **Adobe Advertising Cloud ExperienceEvent Full Extension** field group was saved to the schema, then refresh the schema editor. |
-| The landing page URL doesn't include the required query parameters | Make sure that the landing page URL includes the necessary query parameters. On an ad click-through, the landing page URL must contain both query parameters, for example `https://www.example.com/landing-page?s_kwcid=AL!12345!3!abc123&ef_id=abc123xyz:G:s` (see the reference table below for likely causes). |
+| The required Adobe Advertising fields are missing from the schema | Make sure that the required Adobe Advertising fields are present in the schema under `_experience.adcloud.conversionDetails`. See "[Reference: required schema fields](#required-schema-fields)".<br><br>If either field is missing, confirm that the **Adobe Advertising Cloud ExperienceEvent Full Extension** field group was saved to the schema, then refresh the schema editor. |
+| The landing page URL doesn't include the required query parameters | Make sure that the landing page URL includes the necessary query parameters. On an ad click-through, the landing page URL must contain both query parameters, for example `https://www.example.com/landing-page?s_kwcid=AL!12345!3!abc123&ef_id=abc123xyz:G:s`. See "[Reference: missing query parameters](#missing-query-parameters)" for likely causes. |
 | Some parameters in the XDM payload are missing or empty | To validate the outbound XDM payload, open the Adobe Experience Platform Debugger or the [!DNL Network] tab of your browser's code inspection tool, filter for `edge.adobedc.net`, and inspect the interact request body (see the example payload below).<br><br>If `trackingCode` or `trackingIdentity` are empty or missing: the query parameter wasn't present on the page when the rule fired (check the URL and the rule's event timing), or the field group is missing from the schema (revisit the first row above). |
 
-**Reference: required schema fields**
+##### Reference: required schema fields {#required-schema-fields}
 
 | Field path | Type | Description |
 | ----- | --- | --- |
 | `_experience.adcloud.conversionDetails.trackingCode` | String | Maps the conversion to the originating ad click. Populated from the `s_kwcid` query parameter on the landing page URL. |
 | `_experience.adcloud.conversionDetails.trackingIdentity` | String | Stores the unique identity and other details for the tracked view-through or click-through conversion event. Populated from the `ef_id` query parameter on the landing page URL. |
 
-**Reference: missing query parameters**
+##### Reference: missing query parameters {#missing-query-parameters}
 
 | Missing parameter | Likely cause |
 | ----- | --- |
