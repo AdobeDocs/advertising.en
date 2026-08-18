@@ -16,7 +16,7 @@ breadcrumb-title: Creative Guide
   + [Policies and guidelines](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
 + Creative Studio {#creative-studio}
   + [About Creative Studio](/help/creative/creative-studio/creative-studio-about.md)
-  + [C2PA metadata in [!UICONTROL Creative Studio](/help/creative/creative-studio/creative-studio-content-credentials.md)
+  + [C2PA metadata in [!UICONTROL Creative Studio]](/help/creative/creative-studio/creative-studio-content-credentials.md)
   + [Manage standard ads](/help/creative/creative-studio/creative-studio-manage-standard-ads.md)
   + [Manage dynamic creatives](/help/creative/creative-studio/creative-studio-manage-dynamic-ads.md)
   + [Manage templates](/help/creative/creative-studio/creative-studio-manage-templates.md)
