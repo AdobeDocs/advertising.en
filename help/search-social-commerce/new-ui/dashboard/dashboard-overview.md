@@ -53,7 +53,7 @@ Your [!UICONTROL Dashboard] includes the following visual reports:
 
   1. Click **[!UICONTROL Select]**.
 
-* (Optional) Change the data granularity for all reports (*[!UICONTROL Daily]* \[the default\], *[!UICONTROL Weekly]* \[when applicable for the date range\], or *[!UICONTROL Monthly]* \[when applicable for the date range\]) from the **[!UICONTROL Granularity]** menu.
+* (Optional) Change the data aggregation for all reports (*[!UICONTROL Daily]* \[the default\], *[!UICONTROL Weekly]* \[when applicable for the date range\], or *[!UICONTROL Monthly]* \[when applicable for the date range\]) from the **[!UICONTROL Data Aggregation]** menu.
 
 * (Optional) Change the date range for all reports from the **[!UICONTROL Date range]** menu. You can include data for the last 90 days. The default is *[!UICONTROL Last 7 Days]*.
 
