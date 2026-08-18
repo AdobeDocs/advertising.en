@@ -47,6 +47,8 @@ You can view the impression, click, frequency, and other metrics for users with 
       The source settings will include an auto-generated source key.
    
    1. Share the source key with your [!DNL AdFixus] team so that they can stream the required segments to DSP.
+   
+      They can continue to use the same source key for all [!DNL AdFixus] data to share with the account or advertiser.
 
 1. Verify in the [!UICONTROL First Party Segments] section of your audience library (which is available when you create or edit an audience from [!UICONTROL Audiences] > [!UICONTROL All Audiences] or within placement settings) that the segment is populating. Compare the number of [!DNL AdFixus] IDs with the number of user IDs within [!DNL AdFixus].
 
