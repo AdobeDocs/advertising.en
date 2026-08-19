@@ -201,4 +201,3 @@ Duplicate a standard ad to add a new creative with the same settings to the libr
 >* [Manage dynamic creatives in Creative Studio](creative-studio-manage-dynamic-ads.md)
 >* [Manage templates in Creative Studio](creative-studio-manage-templates.md)
 >* [Manage brand profiles in Advertising Creative](/help/creative/brands/brand-manage.md)
->* [C2PA metadata in [!UICONTROL Creative Studio]](/help/creative/creative-studio/creative-studio-content-credentials.md)
