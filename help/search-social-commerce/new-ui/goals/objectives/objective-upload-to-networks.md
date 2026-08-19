@@ -12,7 +12,7 @@ hide: true
 
 *Advertisers enabled for hybrid optimization only*
 
-Search, Social, & Commerce can upload the objectives for an advertiser account's portfolios to [!DNL Google Ads] and [!DNL Microsoft Advertising] so you can use them for hybrid optimization. Your uploaded objectives are available as conversion actions for account-level and campaign-level custom conversion goals.
+Search, Social, & Commerce can upload the objectives for an advertiser account's portfolios to [!DNL Google Ads] and [!DNL Microsoft Advertising] so you can use them for hybrid optimization. Your uploaded objectives are available as conversion actions for account-level and campaign-level custom conversion goals. You can opt not to send objective value data for a specific portfolio to ad networks from the [!UICONTROL Manage Objectives] tab in the portfolio settings.
 
 Enabling this option automatically triggers an upload for objectives in portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable objective. The conversion represents all weighted conversion metrics in the objective at the EF ID (click ID) level. For [!DNL Google Ads] clicks, the EF ID is the [!DNL Google Ads] `gclid`; for [!DNL Microsoft Advertising] clicks, the EF ID is the [!DNL Microsoft Advertising] `msclkid`. Because of this click ID, conversion data can be mapped to the specific keyword and click time.
 
@@ -26,7 +26,7 @@ Uploads to [!DNL Google Ads] and [!DNL Microsoft Advertising] occur throughout t
 
 >[!IMPORTANT]
 >
->Conversions tracked by [!DNL Google Ads] and by the [!DNL Microsoft Advertising] universal event tracking (UET) tag aren't re-uploaded to the ad networks. If you include them within an objective, you must add them to the campaign goals within the ad network's editor.
+>Conversions tracked by [!DNL Google Ads] and the [!DNL Microsoft Advertising] universal event tracking (UET) tag aren't re-uploaded to the ad networks. If you include them within an objective, you must add them to the campaign goals within the ad network's editor.
 
 1. In the main menu, click **[!UICONTROL Goals]** > **[!UICONTROL Objectives]**.
 
@@ -34,7 +34,7 @@ Uploads to [!DNL Google Ads] and [!DNL Microsoft Advertising] occur throughout t
 
 1. In the [!UICONTROL Objective Upload Setup] dialog, set the **[!UICONTROL Enable Objective Upload]** toggle to **[!UICONTROL On]**.
 
-1. (Advertisers with [!DNL Google Ads] accounts who do business in the European Economic Area (EEA) or United Kingdom (UK); optional) If you've collected consent from EEA and UK users to upload their data for advertising purposes, select the checkbox to confirm EEA/UK user consents have been collected. This sends consent status as **[!UICONTROL GRANTED]** to [!DNL Google Ads] and [!DNL Microsoft Advertising]. If left unchecked, consent status is sent as **[!UICONTROL UNSPECIFIED]**.
+1. (Advertisers with [!DNL Google Ads] accounts who do business in the European Economic Area (EEA) or United Kingdom (UK); optional) If you've collected consent from EEA and UK users to upload their data for advertising purposes, then select the checkbox. This sends the consent status as **[!UICONTROL GRANTED]** to [!DNL Google Ads] and [!DNL Microsoft Advertising]. If you don't select the checkbox, then the consent status is sent as **[!UICONTROL UNSPECIFIED]**.
 
 1. (If your conversions are tracked at a manager account level) [Add credentials for your manager account](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/manager-account-manage.md) before saving.
 
@@ -48,7 +48,7 @@ Uploads to [!DNL Google Ads] and [!DNL Microsoft Advertising] occur throughout t
 
 ## How the weighted objective is calculated
 
-The weighted objective that's passed to the ad network is the sum of all metric values collected, with the exception of conversions tracked by [!DNL Google Ads] or by the [!DNL Microsoft Advertising] universal event tracking (UET) tag. The value is calculated using the attribution method set up for the advertiser's Search, Social, & Commerce account.
+The weighted objective that's passed to the ad network is the sum of all collected metric values, excluding conversions tracked by [!DNL Google Ads] or the [!DNL Microsoft Advertising] universal event tracking (UET) tag. The value is calculated using the attribution method set up for the advertiser's Search, Social, & Commerce account.
 
 For example, say the objective's goal metric is Cart Additions with a weight of 25, and your assist metrics include GGL_Lead and Revenue with weights of 1 and Downloads with a weight of 0.5.
 
@@ -61,7 +61,7 @@ Suppose a keyword resulted in the following actions for the portfolio:
 * 50 Downloads
 * 5 GGL_Lead
 
-GGL_Lead isn't included in the calculation/upload because it's a Google Ads-tracked metric. Therefore the weighted objective value is calculated as ((10 x 25) + (500 x 1) + (50 x 0.5)) = 775.
+GGL_Lead isn't included in the calculation/upload because it's a [!DNL Google Ads]-tracked metric. Therefore the weighted objective value is calculated as ((10 x 25) + (500 x 1) + (50 x 0.5)) = 775.
 
 >[!TIP]
 >
