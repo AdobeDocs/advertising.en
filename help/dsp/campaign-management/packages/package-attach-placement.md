@@ -37,7 +37,7 @@ role_v2:
 
 1. Click the name of the campaign to open the [!UICONTROL Packages] view.
 
-1. Next to the package name, click  **[!UICONTROL ...]** > **[!UICONTROL Attach a Placement].**
+1. Next to the package name, click **[!UICONTROL ...]** > **[!UICONTROL Attach a Placement].**
 
 1. Do either of the following:
 
