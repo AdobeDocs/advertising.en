@@ -39,9 +39,9 @@ For descriptions of all default and custom columns, see "[Report columns for spe
 * [!UICONTROL Impressions]
 * [!UICONTROL Clicks]
 * [!UICONTROL Cost]
-* [!UICONTROL Conversion Action] (included automatically in the !UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
-* [!UICONTROL Conversions] (included automatically in the !UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
-* [!UICONTROL Conversions Value] (included automatically in the !UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
+* [!UICONTROL Conversion Action] (included automatically in the [!UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
+* [!UICONTROL Conversions] (included automatically in the [!UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
+* [!UICONTROL Conversions Value] (included automatically in the [!UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
 
 >[!MORELIKETHIS]
 >
