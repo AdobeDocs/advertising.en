@@ -9,17 +9,15 @@ feature: Search Reports, Search Specialty Reports
 
 The [!UICONTROL Google AI Max Search Term Combination Report] shows how specific search queries are mapped to AI-generated headlines and dynamic landing pages and to conversion actions for ads in [!DNL Google Ads AI Max]-enabled campaigns within specified accounts. The report includes two sheets:
 
-<!-- verify sheet names, and how they appear in CSV and TSV files (which you could open in a text editor) -->
+* [!UICONTROL AI Max Search Term] sheet: The performance of specific ad combinations and landing pages based on searches within the search network. The sheet includes impression, clicks, and cost data, as well as any optional [!DNL Google Ads]-tracked conversion metrics specified in the report settings. By default, data includes one row for each search term, headline, and landing page combination that received at least one impression in the specified data range. The rows are in ascending order by campaign by default, and then by another column of your choice.
 
-* <!-- VERIFY -->[!UICONTROL XXXX] sheet: The performance of specific ad combinations and landing pages based on searches within the search network. The sheet includes impression, clicks, and cost data. By default, data includes one row for each search term, headline, and landing page combination that received at least one impression in the specified data range. The rows are in ascending order by date and then by campaign by default.
+  Use this sheet to analyze intent and the performance of the resulting ad elements per query so that you can build robust negative keyword lists.
 
-* <!-- VERIFY all, and explain all conversions-->[!UICONTROL Search Term x Conversion Action] sheet: [!DNL Google Ads]-tracked conversion data by conversion action for each search term and match type. The sheet includes the number of conversions and the conversion value, all conversions and the all conversions value, and cross-device conversions.
+* <!-- [!UICONTROL Search Term x Conversion Action] sheet? -->[!UICONTROL AI Max Search Term #1] sheet: [!DNL Google Ads]-tracked conversion data by conversion action for each search term and match type. Each row includes the conversion action, the number of conversions, and the conversion value, as well as any other optional [!DNL Google Ads]-tracked conversion metrics specified in the report settings. By default, data includes one row for each search term and conversion action combination in the specified data range. The rows are in the same order as the rows on the first sheet.
 
-<!-- VERIFY ALL -->By default, data includes one row for each search term and conversion action combination in the specified data range. The rows are in ascending order by date and then by campaign by default.
+  <!-- Should it be this?  The sheet includes the number of conversions and the conversion value, all conversions and the all conversions value, and cross-device conversions. -->
 
-<!-- Make sure I've documented all new report columns -->
-
-Use this report to analyze intent and the performance of the resulting ad elements per query so that you can build robust negative keyword lists. Use it also to understand how each search term drove conversions, broken out by conversion action.
+  Use this sheet to understand how each search term drove conversions, broken out by conversion action.
 
 <!-- We're pulling data directly from GGL and not storing it, so no limitations on our end WRT date range. -->
 
@@ -41,6 +39,9 @@ For descriptions of all default and custom columns, see "[Report columns for spe
 * [!UICONTROL Impressions]
 * [!UICONTROL Clicks]
 * [!UICONTROL Cost]
+* [!UICONTROL Conversion Action] (included automatically in the !UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
+* [!UICONTROL Conversions] (included automatically in the !UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
+* [!UICONTROL Conversions Value] (included automatically in the !UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
 
 >[!MORELIKETHIS]
 >
