@@ -57,6 +57,8 @@ To see the complete asset history for an image,
 
 ## Additional resources
 
+* [Generative AI content transparency for [!DNL Adobe CX Enterprise]](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency)
+
 * [[!DNL Adobe] generative AI user guidelines](https://www.adobe.com/legal/licenses-terms/adobe-gen-ai-user-guidelines.html)
 
 >[!MORELIKETHIS]
