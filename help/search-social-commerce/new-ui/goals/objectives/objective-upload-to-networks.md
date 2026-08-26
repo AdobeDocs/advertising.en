@@ -12,7 +12,7 @@ hide: true
 
 *Advertisers enabled for hybrid optimization only*
 
-Search, Social, & Commerce can upload the objectives for an advertiser account's portfolios to [!DNL Google Ads] and [!DNL Microsoft Advertising] so you can use them for hybrid optimization. Your uploaded objectives are available as conversion actions for account-level and campaign-level custom conversion goals. You can opt not to send objective value data for a specific portfolio to ad networks from the [!UICONTROL Manage Objectives] tab in the portfolio settings.
+Search, Social, & Commerce can upload the objectives for an advertiser account's portfolios to [!DNL Google Ads] and [!DNL Microsoft Advertising] so you can use them for hybrid optimization. Your uploaded objectives are available as conversion actions for account-level and campaign-level custom conversion goals.<!-- You can opt not to send objective value data for a specific portfolio to ad networks from the [!UICONTROL Manage Objectives] tab in the portfolio settings. -->
 
 Enabling this option automatically triggers an upload for objectives in portfolios that contain campaigns with smart bidding strategies. Search, Social, & Commerce creates a conversion on the ad network for each applicable objective. The conversion represents all weighted conversion metrics in the objective at the EF ID (click ID) level. For [!DNL Google Ads] clicks, the EF ID is the [!DNL Google Ads] `gclid`; for [!DNL Microsoft Advertising] clicks, the EF ID is the [!DNL Microsoft Advertising] `msclkid`. Because of this click ID, conversion data can be mapped to the specific keyword and click time.
 
