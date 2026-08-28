@@ -49,4 +49,6 @@ index: true
   + [Adobe Advertising metrics and dimensions in Customer Journey Analytics](/help/integrations/customer-journey-analytics/advertising-data-in-cja.md)
   + [Troubleshooting](/help/integrations/customer-journey-analytics/troubleshooting.md)
   + {hide-from-toc}[Troubleshooting](/help/integrations/customer-journey-analytics/troubleshooting-new.md)
+  + {hide-from-toc}[Troubleshooting](/help/integrations/customer-journey-analytics/troubleshooting-new-accordian.md)
+  + {hide-from-toc}[Troubleshooting](/help/integrations/customer-journey-analytics/troubleshooting-new-tables.md)
 + [Video tutorials about Adobe Advertising integrations](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html)
