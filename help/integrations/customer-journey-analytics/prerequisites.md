@@ -31,7 +31,7 @@ topic_v2:
 
 * (Advertisers with Customer Journey Analytics but not [!DNL Analytics for Advertising]):
 
-  * [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) Version 2.34.1 or higher.
+  * [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) Version 2.36 or higher.
 
   * [Adobe Experience Platform Tags](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home), including the [[!DNL Web SDK] extension](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/install-web-sdk#add-the-web-sdk-extension) Version 2.37 or higher.
 
