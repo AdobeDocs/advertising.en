@@ -27,6 +27,8 @@ A portfolio bulksheet is a file that contains portfolio settings in a specific f
 
 * A [!UICONTROL Portfolio Settings Edit] tab, with one row per included portfolio. You can optionally edit the fields as needed, save the file locally, and subsequently [upload the edited file](#portfolio-bulksheet-upload) to Search, Social, & Commerce. The editable fields are highlighted in color.
 
+This feature is available for portfolios with the following spend strategies: Daily, Weekly, Monthly, and Day of Week.
+
 ## Download a bulksheet file with portfolio settings
 
 1. (Optional) Select the check box next to each portfolio to include in the bulksheet.
@@ -45,7 +47,7 @@ A portfolio bulksheet is a file that contains portfolio settings in a specific f
 
 ## Upload a bulksheet file with updated portfolio settings {#portfolio-bulksheet-upload}
 
-The file must be XLSX format.
+The file must be XLSX format, the file size must be between 1 KB and 1 MB, and the maximum length of the file name is 100 characters.
 
 1. In the toolbar above the data table, click ![Bulk Operations](/help/search-social-commerce/assets/chevron-down.png "Bulk Operations") > **[!UICONTROL Import Portfolio Details]**.
 
