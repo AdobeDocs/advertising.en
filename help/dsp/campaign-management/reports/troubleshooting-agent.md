@@ -18,13 +18,19 @@ topic_v2:
 ---
 # Diagnose performance and delivery issues using the AI-assisted [!UICONTROL Troubleshooting Agent]
 
-The AI-assisted [!UICONTROL Troubleshooting Agent] can:
+The AI-assisted [!UICONTROL Troubleshooting Agent] identifies factors that limit performance and provides recommendations to resolve issues. The [!UICONTROL Troubleshooting Agent] can:
 
-* Help with diagnosing performance and delivery issues for a selected live package or placement. You can ask about include spending issues (failure to spend, low spend, overspend), pacing concerns (underpacing, overpacing), auction and delivery issues (low bids, low win rate, no impressions), and performance problems (such as changes in CPA, ROAS, CTR, or CVR).
+* Help with diagnosing performance and delivery issues for a selected live package or placement:
+
+  * (Placements only) Spending issues, including overspend, underspend, and failure to spend. The agent evaluates related pacing, bidding, targeting, and budget-cap factors as part of the diagnosis.
+
+  * (Packages only) Performance issues, incuding a rising CPA or a falling ROAS. The agent doesn't diagnose engagement metrics such as CTR, CPC, clicks, or impressions.
+
+  Each conversation covers a single diagnosis for a single package or placement. Once the agent delivers a result, start a new conversation to ask about a different issue, or about a different package or placement.
+
+  The agent can't change settings, nor create or edit campaigns or campaign components. It also can't diagnose issues for a paused, completed, archived, or scheduled package or placement.
 
 * Search for conceptual and how-to content across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md), in the same manner as the [Agentic Chat interface](/help/dsp/agent-chat.md). You can ask about campaign management, optimization, audience management, deals, reports, and other product features.
-
-The agent can't change settings, nor create or edit campaigns or campaign components. It also can't diagnose issues for a paused, completed, archived, or scheduled package or placement.
 
 >[!IMPORTANT]
 >
@@ -32,13 +38,27 @@ The agent can't change settings, nor create or edit campaigns or campaign compon
 
 ## Example queries
 
-### Troubleshooting performance and delivery
+>[!NOTE]
+>
+>You don't need to specify a date range. If you don't include one, then the agent selects a reasonable default based on the type of issue.
+
+### Placements: spending issues
 
 * My placement stopped spending yesterday even though the deal is active. Why?
 
 * Why has this placement been underspending for the past 5 days?
 
 * We're halfway through the flight and significantly behind on pacing. Why?
+
+### Packages: performance issues
+
+* Why has CPA increased for this package over the last week?
+
+* Why is ROAS declining for this package?
+
+>[!TIP]
+>
+>If you have a target CPA in mind, then include it in your query (for example, "diagnose CPA against a target of $50"). If you don't specify one, then the agent uses a default target.
 
 ### Product features:
 
@@ -78,10 +98,18 @@ You can ask multiple questions in one message, but only one message at a time. W
 
    <!-- For more information, see "[Writing prompts](#writing-prompts)." -->
 
-   The response includes inline citations and a **[!UICONTROL Documentation Sources]** list at the bottom. Follow-up questions and suggestions may also appear.
+   For performance and delivery queries, the response includes factors that are limiting performance and provides recommendations to resolve the issues.
 
-1. (Optional; general product questions only) To open a page used as a data source, do either of the following:
+   For documentation queries, the response includes inline citations and a **[!UICONTROL Documentation Sources]** list at the bottom. Follow-up questions and suggestions may also appear.
+
+1. (Documentation queries only; optional) To open a page used as a data source, do either of the following:
 
    * Click the numbered citation.
 
    * Click **[!UICONTROL Documentation Sources]** to show a list of all pages cited in the response, and then click the page link.
+
+1. (Optional) Rate the response using the thumbs-up or thumbs-down icon.
+
+>[!TIP]
+>
+>To ask about a different issue, or about a different package or placement, start a new conversation.
