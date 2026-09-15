@@ -88,6 +88,8 @@ For explanations of the portfolio setting columns on the [!UICONTROL Portfolio S
 | Max. Target CPA |  |  |
 | Min. Target ROAS |  |  |
 | Max. Target ROAS |  |  |
+| Enable Intraday for Smart Portfolios |  |  |
+| Upload Excluded |  |  |
 
 -->
 
