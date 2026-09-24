@@ -59,7 +59,7 @@ The [!UICONTROL Manage] > [!UICONTROL Ad Groups] view lists all ad groups in the
 
 1. Click **[!UICONTROL Create Ad Group]**.
 
-1. Specify the [Baidu](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md), [ChatGPT Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-chatgpt.md),[Google Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-ly.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md) ad group settings.
+1. Specify the [Baidu](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-ly.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md) ad group settings.
 
 1. Click **[!UICONTROL Review and Save]**.
 
@@ -95,7 +95,7 @@ You can edit settings for individual ad groups. You can also edit some fields fo
 
    * Select the check box next to the ad group. In the bulk actions toolbar, click **[!UICONTROL Edit]**.
 
-1. Edit the [Baidu](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md), [ChatGPT Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-chatgpt.md),[Google Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-ly.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md) ad group settings.
+1. Edit the [Baidu](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-ly.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md) ad group settings.
 
 1. Click **[!UICONTROL Review and Save]**.
 
@@ -109,7 +109,7 @@ Quickly change the status of an ad group without opening the full ad group setti
 
 You can pause any active ad group on a supported ad network to disable bidding on it. You can later resume bidding by changing the status back to active.
 
-You also can delete (called "archive" within [!DNL ChatGPT Ads Manager]) any active or paused ad group. Deleted or archived ad groups are deleted or archived from the ad network. They're still visible when you include them in the data filter, but you can't change them.
+You also can delete any active or paused ad group. Deleted ad groups are deleted from the ad network. They're still visible when you include them in the data filter, but you can't change them.
 
 ### Activate or pause an ad group
 
@@ -123,7 +123,7 @@ You also can delete (called "archive" within [!DNL ChatGPT Ads Manager]) any act
 
    * To pause an active ad group, select **[!UICONTROL Paused]**.
 
-### Delete or archive an ad group
+### Delete an ad group
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Ad Groups]**.
 
@@ -134,8 +134,6 @@ You also can delete (called "archive" within [!DNL ChatGPT Ads Manager]) any act
    * Hold the cursor over the ad group row and click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") next to the [!UICONTROL Status] column. Select **[!UICONTROL Deleted]**.
 
 ## Manage bid constraint assignments for ad groups {#ad-group-constraints}
-
-*Not available for [!DNL ChatGPT Ads]*
 
 Each entity can have only one constraint. Constraints are inherited by child entities, so you don't need to assign constraints for child entities unless you want to override the inherited values.
 

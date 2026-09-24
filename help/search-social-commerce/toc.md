@@ -117,7 +117,6 @@ role_v2:
       + [Manage campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md)
       + Campaign settings by ad network {#campaign-settings-by-network}
           + [[!DNL Baidu] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-baidu.md)
-          + [[!DNL ChatGPT Ads] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-chatgpt.md)
           + [[!DNL Google Ads] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-google.md)
           + [[!DNL LY Ads] campaign settings](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md)
           + [[!DNL Microsoft Advertising] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-microsoft.md)
@@ -126,7 +125,6 @@ role_v2:
       + [Manage ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-manage.md)
       + Ad group settings by ad network {#ad-group-settings-by-network}
         + [[!DNL Baidu] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md)
-        + [[!DNL ChatGPT Ads] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-chatgpt.md)
         + [[!DNL Google Ads] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md)
         + [[!DNL LY Ads] ad group settings](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md)
         + [[!DNL Microsoft Advertising] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md)
@@ -135,7 +133,6 @@ role_v2:
       + [Manage ads](/help/search-social-commerce/new-ui/manage/ads/ad-manage.md)
       + Ad settings by ad network {#ad-settings-by-network}
         + [[!DNL Baidu] text ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-baidu-text.md)
-        + [[!DNL ChatGPT Ads] ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-chatgpt.md)
         + [[!DNL Google Ads] expanded dynamic search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-google-dsa.md)
         + [[!DNL Google Ads] responsive search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-google-rsa.md)
         + [[!DNL Microsoft Advertising] expanded dynamic search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-dsa.md)
