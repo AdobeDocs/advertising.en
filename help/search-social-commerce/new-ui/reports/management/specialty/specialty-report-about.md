@@ -29,6 +29,12 @@ Most specialty reports consist only of data collected by the ad networks. The [!
 
 * [The [!UICONTROL Campaign Daily Impression Share Report]](campaign-daily-impression-share-report.md)
 
+* [The [!UICONTROL Google AI Max Search Term Combination Report]](google-ai-max-search-term-combination-report.md)
+
+* [The [!UICONTROL Google Asset Group Performance Report]](google-asset-group-performance-report.md)
+
+* [The [!UICONTROL Google Performance Max Placement Report]](google-performance-max-placement-report.md)
+
 * [The [!UICONTROL Keyword Daily Impression Share Report]](keyword-daily-impression-share-report.md)
 
 * [The [!UICONTROL RSA Asset Report]](rsa-asset-report.md)
