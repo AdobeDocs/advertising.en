@@ -64,4 +64,4 @@ For each placement, you can open a detailed view ([the [!UICONTROL Inspector]](/
 >* [Manage bid multipliers for placements](placement-manage-bid-multipliers.md)
 >* [View the change log for a placement](placement-change-log.md)
 >* [Placement settings](placement-settings.md)
->* [Troubleshooting performance](/help/dsp/optimization/troubleshooting-performance.md)
+>* [Reasons for performance issues](/help/dsp/optimization/troubleshooting-performance.md)

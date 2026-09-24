@@ -1,6 +1,6 @@
 ---
-title: Diagnose performance and delivery issues using the AI-assisted [!UICONTROL Troubleshooting Agent]
-description: Learn how to use the AI-assisted Troubleshooting Agent to diagnose spending, pacing, and delivery issues for DSP packages and placements.
+title: Troubleshoot performance and delivery issues using the AI assistant
+description: Learn how to use the AI assistant's troubleshooting agent to diagnose spending, pacing, and delivery issues for DSP packages and placements.
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -16,9 +16,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Diagnose performance and delivery issues using the AI-assisted [!UICONTROL Troubleshooting Agent]
+# Troubleshoot performance and delivery issues using the DSP AI assistant
 
-The AI-assisted [!UICONTROL Troubleshooting Agent] identifies factors that limit performance and provides recommendations to resolve issues. The [!UICONTROL Troubleshooting Agent] can:
+The AI assistant's troubleshooting agent can identify factors that limit performance and provides recommendations to resolve issues. The troubleshooting agent can:
 
 * Help with diagnosing performance and delivery issues for a selected live package or placement:
 
