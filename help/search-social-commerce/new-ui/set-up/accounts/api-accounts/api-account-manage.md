@@ -14,6 +14,8 @@ exl-id: a50b2943-7568-401c-be5b-ff6f62629488
 
 Following are instructions for managing ad network accounts that Search, Social, & Commerce syncs using the ad network's API.
 
+<!-- Add somewhere:  Can now open a list of all campaigns for an ad network account by clicking account name -->
+
 <!-- Move out info about Naver into a separate page -->
 
 For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
@@ -129,6 +131,8 @@ The account settings vary by ad network. You may not see all settings below.
 >
 >If you have a Search, Social, & Commerce-Adobe Analytics integration and change the name of the search account, then ask your Adobe Account Team to update the mapping.
 
+**[!UICONTROL Access Key]:** ([!DNL ChatGPT Ads] accounts only) The access key for the developer account to be used.<!-- From whom should people get access keys? Their organization's ChatGPT Ads team? -->
+
 **[!DNL [Ad Network] Accounts]:** (Visible while you're creating an account) The ad network account to sync. 
 
 **[Login Details]:** (Yandex accounts only) The account credentials to use:
@@ -153,7 +157,7 @@ The account settings vary by ad network. You may not see all settings below.
 
 **[!UICONTROL Currency]:** (Read-only) The abbreviation for the currency used for the account. This value is filled automatically with the currency configured for the account on the ad network once you save the record.
 
-**[!UICONTROL Time Zone]:** The advertiser's time zone. This value is filled automatically with the time zone configured for the advertiser's Search, Social, & Commerce account once you save the record.
+**[!UICONTROL Time Zone]:** (Read-only) The advertiser's time zone. This value is filled automatically with the time zone configured for the advertiser's Search, Social, & Commerce account once you save the record.
 
 **[!UICONTROL Login]:** (Read-only) The user account used to log into the account.
 

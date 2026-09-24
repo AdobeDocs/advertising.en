@@ -55,6 +55,8 @@ You can create and manage supported ad types for ad groups within a synchronized
 
   * If the campaign isn't linked to a merchant center account, then create image-based audience ads using the responsive ad format, which includes multiple text and image assets. The ad network assembles the ads using the most effective combinations of ad elements and displays them on sites like [!DNL MSN], [!DNL Outlook.com], and [!DNL Microsoft Edge].
 
+* **Conversational ads** for an ad group in a [!DNL ChatGPT Ads] campaign. Conversational ads appear next to AI chat conversions. 
+
 * **Call-only ads** for [!DNL Google Ads] campaigns on the search network. Call-only ads are text ads that include a telephone number. You optionally can use a [!DNL Google Ads]-assigned forwarding number for advanced call reporting.
 
   >[!NOTE]
@@ -92,8 +94,6 @@ However, it isn't available for [!DNL Google Ads] dynamic search ad (DSA), perfo
 
 ## Create an ad {#ad-create}
 
-<!-- Verify that this note is still applicable -->
-
 >[!NOTE]
 >
 >* You don't need to create product ads for shopping campaigns; the ad network creates them automatically. For [!DNL Microsoft Advertising] shopping campaigns, however, you can optionally define promotion lines to include in ads.
@@ -111,7 +111,7 @@ However, it isn't available for [!DNL Google Ads] dynamic search ad (DSA), perfo
 
    For more information about the available ad types, see "[Available ad types](#ad-types)."
 
-1. Specify the remaining settings for a [Baidu text ad](ad-settings-baidu-text.md), [Google Ads expanded dynamic search ad](ad-settings-google-dsa.md) (called just "dynamic search ad" in Google Ads), [Google Ads responsive search ad](ad-settings-google-rsa.md), [Microsoft Advertising expanded dynamic search ad](ad-settings-microsoft-dsa.md), [Microsoft Advertising multimedia ad](ad-settings-microsoft-multimedia.md), [Microsoft Advertising product ad](ad-settings-microsoft-product.md), [Microsoft Advertising responsive (audience) ad](ad-settings-microsoft-responsive.md), [Microsoft Advertising responsive search ad](ad-settings-microsoft-rsa.md), or [Yandex text ad](ad-settings-yandex-text.md) settings.
+1. Specify the remaining settings for a [Baidu text ad](ad-settings-baidu-text.md), [[!DNL ChatGPT Ads] ad](/help/search-social-commerce/new-ui/manage/ads/ad-settings-chatgpt.md), [Google Ads expanded dynamic search ad](ad-settings-google-dsa.md) (called just "dynamic search ad" in Google Ads), [Google Ads responsive search ad](ad-settings-google-rsa.md), [Microsoft Advertising expanded dynamic search ad](ad-settings-microsoft-dsa.md), [Microsoft Advertising multimedia ad](ad-settings-microsoft-multimedia.md), [Microsoft Advertising product ad](ad-settings-microsoft-product.md), [Microsoft Advertising responsive (audience) ad](ad-settings-microsoft-responsive.md), [Microsoft Advertising responsive search ad](ad-settings-microsoft-rsa.md), or [Yandex text ad](ad-settings-yandex-text.md) settings.
 
    >[!NOTE]
    >
@@ -151,7 +151,7 @@ Quickly rename an ad without opening the full ad settings.
 
 1. In the bulk actions toolbar, click **[!UICONTROL Edit]**.
 
-1. Edit the remaining settings for a [Baidu text ad](ad-settings-baidu-text.md), [Google Ads expanded dynamic search ad](ad-settings-google-dsa.md) (now called just "dynamic search ad" in Google Ads), [Google Ads responsive search ad](ad-settings-google-rsa.md), [Microsoft Advertising expanded dynamic search ad](ad-settings-microsoft-dsa.md), [Microsoft Advertising multimedia ad](ad-settings-microsoft-multimedia.md), [Microsoft Advertising product ad](ad-settings-microsoft-product.md), [Microsoft Advertising responsive (audience) ad](ad-settings-microsoft-responsive.md), [Microsoft Advertising responsive search ad](ad-settings-microsoft-rsa.md), or [Yandex text ad](ad-settings-yandex-text.md) settings.
+1. Edit the remaining settings for a [Baidu text ad](ad-settings-baidu-text.md), [[!DNL ChatGPT Ads] ad](/help/search-social-commerce/new-ui/manage/ads/ad-settings-chatgpt.md), [Google Ads expanded dynamic search ad](ad-settings-google-dsa.md) (now called just "dynamic search ad" in Google Ads), [Google Ads responsive search ad](ad-settings-google-rsa.md), [Microsoft Advertising expanded dynamic search ad](ad-settings-microsoft-dsa.md), [Microsoft Advertising multimedia ad](ad-settings-microsoft-multimedia.md), [Microsoft Advertising product ad](ad-settings-microsoft-product.md), [Microsoft Advertising responsive (audience) ad](ad-settings-microsoft-responsive.md), [Microsoft Advertising responsive search ad](ad-settings-microsoft-rsa.md), or [Yandex text ad](ad-settings-yandex-text.md) settings.
 
 1. Click **[!UICONTROL Review and Save]**.
 
@@ -165,7 +165,7 @@ Quickly change the status of an ad without opening the full ad settings.
 
 You can pause any active ad on a supported ad network to disable bidding on it. You can later resume bidding by changing the status back to active.
 
-You also can delete any active or paused ad. Deleted ads are deleted from the ad network. They're still visible when you include them in the data filter, but you can't change them.
+You also can delete (called "archive" within [!DNL ChatGPT Ads Manager]) any active or paused ad. Deleted or archived ads are deleted or archived from the ad network. They're still visible when you include them in the data filter, but you can't change them.
 
 ### Activate or pause an ad
 
@@ -179,7 +179,7 @@ You also can delete any active or paused ad. Deleted ads are deleted from the ad
 
    * To pause an active ad, click **[!UICONTROL Pause]**.
 
-### Delete an ad
+### Delete or archive an ad
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Ads]**.
 
