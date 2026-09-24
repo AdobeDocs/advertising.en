@@ -105,7 +105,7 @@ index: true
   + [Placement-level pre-bid filters and how to use them](/help/dsp/optimization/optimization-pre-bid-filters.md)
   + [Best gractices for custom goals](/help/dsp/optimization/custom-goal.md)
   + [Best practices for setting up performance campaigns](/help/dsp/optimization/campaign-best-practices-performance.md)
-  + [Troubleshooting performance](/help/dsp/optimization/troubleshooting-performance.md)
+  + [Reasons for performance issues](/help/dsp/optimization/troubleshooting-performance.md)
 + Audiences {#audiences}
   + [About audience management](/help/dsp/audiences/audience-about.md)
   + [Support for activating universal IDs](/help/dsp/audiences/universal-ids.md)
