@@ -189,7 +189,7 @@ When you create a campaign, you can optionally create its first ad group and ad.
 
 ### [!DNL ChatGPT] ad settings {#ad-settings}
 
-**[!UICONTROL Parent campaign]** and **[!UICONTROL Parent ad group]:** (Ads in Ad groups for existing ad groups only) The campaign and ad group to which the ad belongs.
+**[!UICONTROL Parent campaign]** and **[!UICONTROL Parent ad group]:** (Ads in existing ad groups only) The campaign and ad group to which the ad belongs.
 
 **[!UICONTROL Ad name]:** A unique name for the ad. The name must include at least three characters.
 

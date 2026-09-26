@@ -15,7 +15,9 @@ role_v2:
 
 *Beta feature*
 
-[!DNL ChatGPT] conversational ads appear inside [!DNL ChatGPT] conversations, through Adobe's integration with [!DNL OpenAI Ads]. Manage your conversational ad accounts &mdash; including its campaigns, ad groups, and ads &mdash; separately from your regular DSP campaigns.
+Through Adobe DSP's integration with [!DNL OpenAI Ads], you can run [!DNL ChatGPT] conversational ads, which appear inside [!DNL ChatGPT] conversations. For this feature, DSP creates an ad account and buys media on your organization's behalf. You won't be able to access the ad account from ads.openai.com. Use this feature to test AI media without establishing a direct relationship with [!DNL ChatGPT Ads], which may require minimum spend commitments.
+
+You'll manage your conversational ad accounts &mdash; including its campaigns, ad groups, and ads &mdash; separately from your regular DSP campaigns.
 
 The following determines eligibility for this feature:
 
