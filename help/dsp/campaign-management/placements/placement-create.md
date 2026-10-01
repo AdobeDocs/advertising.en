@@ -162,5 +162,5 @@ topic_v2:
 >* [View the placement forecast report](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [FAQs about universal video](/help/dsp/campaign-management/faq-universal-video.md)
 >* [Keyboard shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [Troubleshooting performance](/help/dsp/optimization/troubleshooting-performance.md)
+>* [Reasons for performance issues](/help/dsp/optimization/troubleshooting-performance.md)
 >* [Video: How to create a standard display placement](https://video.tv.adobe.com/v/340454)

@@ -18,4 +18,4 @@ Quickly rename an ad group without opening the full ad group settings.
 
 >[!MORELIKETHIS]
 >
->* [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad group-view-about.md)
+>* [About the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)

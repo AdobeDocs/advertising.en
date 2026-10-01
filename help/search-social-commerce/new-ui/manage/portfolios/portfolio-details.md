@@ -93,13 +93,21 @@ The portfolio detail view includes the following information about a portfolio:
 
 ## List the campaigns in the portfolio
 
+Details about each campaign include the bid strategy; the actual and predicted cost, clicks, and objective value; and the cost, click, and objective value accuracy.
+
 * Click the **[!UICONTROL Campaigns]** tab.
 
 ## List the ad groups in the portfolio
 
+Details about each ad group include the cost, clicks, and objective value.
+
+* To view all ad groups in the portfolio, click the **[!UICONTROL Ad Groups]** tab.
+
 * To view all ad groups in a campaign within the portfolio, click the **[!UICONTROL Campaigns]** tab, and then click the campaign name.
 
 ## List the keywords in the portfolio
+
+Details for each keyword include the bid unit ID; match type; the actual and predicted cost, clicks, and objective value; and the cost, click, and objective value difference.
 
 * To view all keywords in the portfolio, click the **[!UICONTROL Keywords]** tab.
 

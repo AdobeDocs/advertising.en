@@ -100,4 +100,4 @@ See [Placement-level pre-bid filters and how to use them](optimization-pre-bid-f
 >* [Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)
 >* [Optimization goals and how to use them](optimization-goals.md)
 >* [Placement-level pre-bid filters and how to use them](optimization-pre-bid-filters.md)
->* [Troubleshooting performance](/help/dsp/optimization/troubleshooting-performance.md)
+>* [Reasons for performance issues](/help/dsp/optimization/troubleshooting-performance.md)

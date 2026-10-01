@@ -139,7 +139,7 @@ The following are common reasons for a lack of click data.
 
 +++
   
-+++Performance data is different from data in the ad network editor.
++++Performance data is different from data in the ad network's editor.
 When the ad network sends updates to previous data (often because they've attributed click fraud to some clicks), Search, Social, & Commerce doesn't update the data unless there is more than a 5% discrepancy and the Adobe Account Team files a request.
 
 Also, when you compare impression share data aggregated across a date range, the data that Search, Social, & Commerce reports may differ from the data that the ad network reports. This difference is because of how the data is reported by the ad network's API, which Search, Social, & Commerce uses to pull in data. For example, for [!DNL Google Ads] data:
