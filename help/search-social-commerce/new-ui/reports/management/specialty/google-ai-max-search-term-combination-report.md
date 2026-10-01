@@ -7,15 +7,25 @@ feature: Search Reports, Search Specialty Reports
 
 *Applicable to [!DNL Google Ads] accounts with campaigns enabled for AI max only*
 
-The [!UICONTROL Google AI Max Search Term Combination Report] shows the performance of specific ad combinations and landing pages that [!DNL Google Ads AI Max] uses based on searches within the search network. The report includes impression, clicks, and cost data for ads in [!DNL Google Ads] campaigns that use [!DNL AI Max] within specified accounts. By default, data includes one row for each search term, headline, and landing page combination that received at least one impression in the specified data range. The rows are in ascending order by date and then by campaign by default.
+The [!UICONTROL Google AI Max Search Term Combination Report] shows how specific search queries are mapped to AI-generated headlines and dynamic landing pages and to conversion actions for ads in [!DNL Google Ads AI Max]-enabled campaigns within specified accounts. The report includes two sheets:
 
-Use this report to see how specific search queries are mapped to AI-generated headlines and dynamic landing pages. You can use the data to analyze intent and the performance of the resulting ad elements per query so that you can build robust negative keyword lists.
+* [!UICONTROL AI Max Search Term] sheet: The performance of specific ad combinations and landing pages based on searches within the search network. The sheet includes impression, clicks, and cost data, as well as any optional [!DNL Google Ads]-tracked conversion metrics specified in the report settings. By default, data includes one row for each search term, headline, and landing page combination that received at least one impression in the specified data range. The rows are in ascending order by campaign by default, and then by another column of your choice.
+
+  Use this sheet to analyze intent and the performance of the resulting ad elements per query so that you can build robust negative keyword lists.
+
+* <!-- [!UICONTROL Search Term x Conversion Action] sheet? -->[!UICONTROL AI Max Search Term #1] sheet: [!DNL Google Ads]-tracked conversion data by conversion action for each search term and match type. Each row includes the conversion action, the number of conversions, and the conversion value, as well as any other optional [!DNL Google Ads]-tracked conversion metrics specified in the report settings. By default, data includes one row for each search term and conversion action combination in the specified data range. The rows are in the same order as the rows on the first sheet.
+
+  <!-- Should it be this?  The sheet includes the number of conversions and the conversion value, all conversions and the all conversions value, and cross-device conversions. -->
+
+  Use this sheet to understand how each search term drove conversions, broken out by conversion action.
 
 <!-- We're pulling data directly from GGL and not storing it, so no limitations on our end WRT date range. -->
 
 ## Default columns
 
 For descriptions of all default and custom columns, see "[Report columns for specialty reports](specialty-report-columns.md)."
+
+<!-- VERIFY -- probably more will be included by default -->
 
 * [!UICONTROL Event Date]
 * [!UICONTROL Account Name]
@@ -29,6 +39,9 @@ For descriptions of all default and custom columns, see "[Report columns for spe
 * [!UICONTROL Impressions]
 * [!UICONTROL Clicks]
 * [!UICONTROL Cost]
+* [!UICONTROL Conversion Action] (included automatically in the [!UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
+* [!UICONTROL Conversions] (included automatically in the [!UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
+* [!UICONTROL Conversions Value] (included automatically in the [!UICONTROL AI Max Search Term #1] sheet, even if you don't explicity include it)
 
 >[!MORELIKETHIS]
 >
