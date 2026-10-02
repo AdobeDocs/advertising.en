@@ -246,7 +246,7 @@ role_v2:
       + [About the [!UICONTROL Placements] view](/help/search-social-commerce/new-ui/targeting/placements/placement-view-about.md)
       + [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/targeting/placements/placement-constraint-assignments-manage.md)
   + Library {#library}
-    + [View and create creative assets](/help/search-social-commerce/new-ui/assets/creative-asset-manage.md)
+    + [View and create creative assets](/help/search-social-commerce/new-ui/library/creative-asset-manage.md)
   + [Manage custom alerts](/help/search-social-commerce/new-ui/alerts-manage.md)
   + [Manage notifications](/help/search-social-commerce/new-ui/notifications-manage.md)
   + [User administration](/help/search-social-commerce/new-ui/user-administration.md)

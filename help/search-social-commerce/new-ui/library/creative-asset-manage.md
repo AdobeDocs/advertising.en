@@ -20,7 +20,7 @@ role_v2:
 
 *For [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
-In [!UICONTROL Assets] > [!UICONTROL Creatives], you can view all reusable image, video, and (for [!DNL Google Ads] only) text assets in your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries. The list includes AI-generated assets for [!DNL Google Ads] ad groups in [!DNL AI Max]-enabled campaigns.
+In [!UICONTROL Library] > [!UICONTROL Creatives], you can view all reusable image, video, and (for [!DNL Google Ads] only) text assets in your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries. The list includes AI-generated assets for [!DNL Google Ads] ad groups in [!DNL AI Max]-enabled campaigns.
 
 You can manually create new assets for an ad network account and upload them to the ad network. <!-- Verify if you can use the AI-generated ones -->You can use any of the uploaded assets for your performance max campaigns.
 
@@ -28,7 +28,7 @@ You can also remove AI-generated text assets from their associated ad groups.
 
 ## View your creative assets
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Creatives]**.
+1. In the main menu, click **[!UICONTROL Library] > [!UICONTROL Creatives]**.
 
 1. In the toolbar, select the ad network and the account.
 
@@ -40,7 +40,7 @@ You can also remove AI-generated text assets from their associated ad groups.
 
 ## Create and upload assets
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Creatives]**.
+1. In the main menu, click **[!UICONTROL Library] > [!UICONTROL Creatives]**.
 
 1. In the toolbar, select the ad network and the account.
 
@@ -88,7 +88,7 @@ You can also remove AI-generated text assets from their associated ad groups.
 
 Removed text assets won't be served again, but performance data is still available in reports.
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Creatives]**.
+1. In the main menu, click **[!UICONTROL Library] > [!UICONTROL Creatives]**.
 
 1. In the toolbar, select the ad network and the account.
 
