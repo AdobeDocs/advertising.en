@@ -3,10 +3,16 @@ title: Manage creative bundles
 description: Learn how to manage and use groups of creatives.
 feature: Creative Bundles
 exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
-TQID: https://experienceleague.adobe.com/hat5puvy5qIpBrShro3QpZoqt2kkd4nnmi4zT7G9Vfg
+TQID: 'https://experienceleague.adobe.com/hat5puvy5qIpBrShro3QpZoqt2kkd4nnmi4zT7G9Vfg'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
+subfeature_v2:
+  - id: ea400851-fc23-4174-bc9c-b50ea0ed4d00
+    internal-label: Creative Bundles
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

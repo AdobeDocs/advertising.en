@@ -3,13 +3,15 @@ title: Account funding
 description: Learn about account funding for DSP.
 feature: DSP Introduction
 exl-id: 95e1fd75-ed38-41e3-a464-afe5e23c1c22
-TQID: https://experienceleague.adobe.com/TYwqNENRaL6sceEASH8FlVhIs1wd9fRQjm1rJCTE1qc
+TQID: 'https://experienceleague.adobe.com/TYwqNENRaL6sceEASH8FlVhIs1wd9fRQjm1rJCTE1qc'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: d05f5093-0b42-5b61-81cc-b438107ef814
+    internal-label: DSP Introduction
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

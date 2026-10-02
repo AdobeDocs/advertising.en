@@ -2,6 +2,12 @@
 title: (New UI) Manage spreadsheet report feeds
 description: Learn how to create, configure, refresh, view, and delete spreadsheet report feeds that deliver daily performance data in a custom-formatted spreadsheet.
 feature: Search Reports
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
 ---
 # (New UI) Manage spreadsheet report feeds
 

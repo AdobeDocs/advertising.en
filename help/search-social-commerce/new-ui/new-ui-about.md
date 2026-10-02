@@ -3,10 +3,13 @@ title: About the new user interface
 description: Learn about the new user interface.
 feature: Search Introduction
 exl-id: 27fcc1c2-fe69-4bdc-9786-c48b28da1560
-TQID: https://experienceleague.adobe.com/3xw-2l7hzRLYG-Se1SJV3eEFsipAy6jwbJnybubAzD0
+TQID: 'https://experienceleague.adobe.com/3xw-2l7hzRLYG-Se1SJV3eEFsipAy6jwbJnybubAzD0'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: f86a94c9-f065-509d-be1f-6a576acb810d
+    internal-label: Search Introduction
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

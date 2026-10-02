@@ -3,10 +3,13 @@ title: Select multiple rows
 description: Learn how to select multiple rows so you can perform the same action on all of them.
 exl-id: 35490f9f-adde-4538-9013-4cb37b7abfbd
 feature: Search Common Tasks
-TQID: https://experienceleague.adobe.com/LIZlRNBrArLD1ukpkqNtYoMEOcnKoyxM17lqW5-jPhw
+TQID: 'https://experienceleague.adobe.com/LIZlRNBrArLD1ukpkqNtYoMEOcnKoyxM17lqW5-jPhw'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: bcc57258-3285-5d02-a731-d86f57a58c47
+    internal-label: Search Common Tasks
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

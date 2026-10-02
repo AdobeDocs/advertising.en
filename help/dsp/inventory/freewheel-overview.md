@@ -3,18 +3,22 @@ title: Overview of setting up PG deals in [!DNL FreeWheel]
 description: Learn about the prerequisites and extra steps necessary to run ads for programmatic guaranteed deals with publishers on [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: b9c60248-8104-42ef-8afb-2f9db67b33b0
-TQID: https://experienceleague.adobe.com/8ovkE7w5qXW7Csibxy-PyHvUud0wwrhdSTulQP7bIeM
+TQID: 'https://experienceleague.adobe.com/8ovkE7w5qXW7Csibxy-PyHvUud0wwrhdSTulQP7bIeM'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: 20c71a28-1f3b-56af-ad52-f3281489a219
+    internal-label: DSP Private Inventory
+  - id: 85825b7c-c02c-536d-b821-66dc33454fb8
+    internal-label: DSP Deal IDs
 subfeature_v2:
   - id: ac506c20-96f2-48f6-9096-77706e336bda
-    internal-label: DSP Private Inventory
+    internal-label: Private Inventory
   - id: fae3ff5f-9a75-4de1-a100-c90dd8268528
-    internal-label: DSP Deal IDs
+    internal-label: Deal IDs
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

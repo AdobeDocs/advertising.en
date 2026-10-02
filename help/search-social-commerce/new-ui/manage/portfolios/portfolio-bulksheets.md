@@ -4,10 +4,15 @@ description: Learn how to edit the settings for multiple portfolios using a bulk
 feature: Search Portfolios, Search Optimization
 hide: true
 exl-id: 20f7419d-9f5e-4477-ae8d-8b85a79b1e81
-TQID: https://experienceleague.adobe.com/tKCeMIgFKnW8hOU-6uavT9x7K9lL2Uqo2bWZ-H-Q5TE
+TQID: 'https://experienceleague.adobe.com/tKCeMIgFKnW8hOU-6uavT9x7K9lL2Uqo2bWZ-H-Q5TE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 893a7eac-45bd-56c2-a120-18db6d297dcc
+    internal-label: Search Portfolios
+  - id: ae57d55f-b168-5358-b114-c3974b1b3d77
+    internal-label: Search Optimization
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

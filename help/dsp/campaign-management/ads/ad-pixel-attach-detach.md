@@ -3,6 +3,12 @@ title: Attach and remove pixels from ads
 description: Learn how to attach and remove third-party tracking pixels from ads.
 feature: DSP Ads
 exl-id: 7b386a58-5300-49cf-9de8-4ce982a5181d
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: c012de69-a374-5a5d-aeff-0c0f44255fd2
+    internal-label: DSP Ads
 ---
 # Attach and remove pixels from ads
 

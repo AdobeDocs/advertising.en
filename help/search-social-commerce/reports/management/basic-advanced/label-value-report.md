@@ -1,12 +1,17 @@
 ---
-title: "[!UICONTROL Label Value Report]"
+title: '[!UICONTROL Label Value Report]'
 description: Learn about the [!UICONTROL Label Value Report].
 exl-id: 6d279267-f7ee-475b-b4c3-72af6256330d
 feature: Search Reports, Search Basic Reports
-TQID: https://experienceleague.adobe.com/8VN9NxaR69t2AzGfj408oJGNAbWEogYFBD4FRXSWdI0
+TQID: 'https://experienceleague.adobe.com/8VN9NxaR69t2AzGfj408oJGNAbWEogYFBD4FRXSWdI0'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: 1d59f142-734e-5689-9ee3-a3bf4d5c5a51
+    internal-label: Search Basic Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

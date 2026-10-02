@@ -10,6 +10,8 @@ product_v2:
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: d05f5093-0b42-5b61-81cc-b438107ef814
+    internal-label: DSP Introduction
 subfeature_v2:
   - id: ff0c2909-a652-40cc-bb8b-b5d6b19a9a0e
     internal-label: AI features

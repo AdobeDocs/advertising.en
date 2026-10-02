@@ -3,10 +3,13 @@ title: Manage ad network accounts
 description: Learn how to set up and manage account details for an ad network account.
 exl-id: 4038d03b-63e2-4953-89df-37f7b5f68652
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/k5NsG-RF8c7ELoid8lN3EMbBH8MoA0fUSRcYZnslzfo
+TQID: 'https://experienceleague.adobe.com/k5NsG-RF8c7ELoid8lN3EMbBH8MoA0fUSRcYZnslzfo'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

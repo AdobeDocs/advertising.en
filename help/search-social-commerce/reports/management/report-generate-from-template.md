@@ -3,10 +3,13 @@ title: Generate a report from a template
 description: Learn how to create a report using a report template.
 exl-id: cb918323-cb7e-407c-bfa3-ec3d8753ecbb
 feature: Search Reports
-TQID: https://experienceleague.adobe.com/F91fEGnD63e3UpQHE52ruYZYJSE-HXUAIdgrlQTrNIo
+TQID: 'https://experienceleague.adobe.com/F91fEGnD63e3UpQHE52ruYZYJSE-HXUAIdgrlQTrNIo'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

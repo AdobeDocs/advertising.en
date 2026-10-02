@@ -3,10 +3,13 @@ title: View the publisher recommendations log for an account
 description: Learn how to view a log of each recommendation that was applied for a [!DNL Google Ads] or [!DNL Microsoft Advertising] account.
 exl-id: a963c1cd-e785-470d-8f16-8d770baf2aa7
 feature: Search Recommendations
-TQID: https://experienceleague.adobe.com/0xxt5Qj5yNxayS5WKHdWQsXei3u2A4n0FpqZlNBDCOI
+TQID: 'https://experienceleague.adobe.com/0xxt5Qj5yNxayS5WKHdWQsXei3u2A4n0FpqZlNBDCOI'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: ae143aa5-b8d8-5a93-93ab-45e919f0c418
+    internal-label: Search Recommendations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -3,10 +3,13 @@ title: Edit your notification settings
 description: Learn how to edit the settings for your notifications.
 exl-id: b60d3abe-10ec-4fc0-8c91-6b329a3e9ecc
 feature: Search Notifications
-TQID: https://experienceleague.adobe.com/DYykxfXqovRIkUXI1OwGJDNvbyIxziy92UUs6QVhLfY
+TQID: 'https://experienceleague.adobe.com/DYykxfXqovRIkUXI1OwGJDNvbyIxziy92UUs6QVhLfY'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 4a019b9f-6dd0-5c07-a60f-b60f67fd80d0
+    internal-label: Search Notifications
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -3,10 +3,13 @@ title: Implement [!DNL Microsoft Advertising] shopping campaigns
 description: Learn about the workflow for setting up [!DNL Microsoft Advertising] shopping campaigns.
 exl-id: fd10237b-864d-4808-8644-3fcb18edebde
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/2SXWaNmPPcXmljB2DUKq9DNWgPv9Qb-0t3SJcdO6aR8
+TQID: 'https://experienceleague.adobe.com/2SXWaNmPPcXmljB2DUKq9DNWgPv9Qb-0t3SJcdO6aR8'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -3,6 +3,19 @@ title: Manage custom objectives
 description: Learn how to define the success events that help you meet package-level optimization goals.
 role: User, Admin
 feature: DSP Optimization, DSP Packages
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ed26409b-14af-5033-ae27-1b71cecfe497
+    internal-label: DSP Optimization
+  - id: b60977f8-185a-5f3f-bdb1-909a47bdb8cc
+    internal-label: DSP Packages
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 ---
 # Manage custom objectives
 

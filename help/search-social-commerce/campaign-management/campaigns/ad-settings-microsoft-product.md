@@ -1,12 +1,15 @@
 ---
-title: "[!DNL Microsoft Advertising] product ad settings"
+title: '[!DNL Microsoft Advertising] product ad settings'
 description: Reference the settings for [!DNL Microsoft Advertising] product ads.
 exl-id: 93601b75-1de8-4f97-8f5e-5ab442510827
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/nttz5RMclI5IsJ8UUkjXi8cpqVYXeY1OolvF7wSpePo
+TQID: 'https://experienceleague.adobe.com/nttz5RMclI5IsJ8UUkjXi8cpqVYXeY1OolvF7wSpePo'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

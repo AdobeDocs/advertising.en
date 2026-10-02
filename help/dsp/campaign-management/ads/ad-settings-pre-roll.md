@@ -3,16 +3,18 @@ title: Pre-roll ad settings
 description: See descriptions of the available ad settings for pre-roll ads.
 feature: DSP Ads
 exl-id: d0ba4346-13ae-405c-92b6-a0c32dd09d0a
-TQID: https://experienceleague.adobe.com/vmZ3LDA5Hz0SgYf-tmWgVTdQyM4sikrJGSsSwOQaV-E
+TQID: 'https://experienceleague.adobe.com/vmZ3LDA5Hz0SgYf-tmWgVTdQyM4sikrJGSsSwOQaV-E'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: c012de69-a374-5a5d-aeff-0c0f44255fd2
+    internal-label: DSP Ads
 subfeature_v2:
   - id: d9510790-d834-436d-8423-8d69cd50464a
-    internal-label: DSP Ads
+    internal-label: Ads
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

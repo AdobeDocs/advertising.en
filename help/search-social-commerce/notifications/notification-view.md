@@ -3,10 +3,13 @@ title: View your notifications
 description: Learn about the different ways to view your notifications.
 exl-id: d449937a-02cf-4f4c-8171-da89c914c119
 feature: Search Notifications
-TQID: https://experienceleague.adobe.com/bUv28qmWvYXXv6RZO3mRqQf-rccr1xoXR-Nf7zFGIBY
+TQID: 'https://experienceleague.adobe.com/bUv28qmWvYXXv6RZO3mRqQf-rccr1xoXR-Nf7zFGIBY'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 4a019b9f-6dd0-5c07-a60f-b60f67fd80d0
+    internal-label: Search Notifications
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -3,18 +3,22 @@ title: FAQs about campaign management
 description: Learn more about campaign management, including the latency period for changes and what happens when you make budget changes during a flight.
 feature: DSP Packages, DSP Placements
 exl-id: 8a443543-ebb1-4273-a007-afef07d32d8c
-TQID: https://experienceleague.adobe.com/PgO4aktP20KQzNe6SG6Vw7ahvYqHTSISQ10FCum-vQg
+TQID: 'https://experienceleague.adobe.com/PgO4aktP20KQzNe6SG6Vw7ahvYqHTSISQ10FCum-vQg'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: b60977f8-185a-5f3f-bdb1-909a47bdb8cc
+    internal-label: DSP Packages
+  - id: 38361a05-b9a0-52fb-8641-080aa2bf4ec0
+    internal-label: DSP Placements
 subfeature_v2:
   - id: a4886037-b6d8-40e1-aeab-edeb7649d7d3
-    internal-label: DSP placements
+    internal-label: Placements
   - id: fddd8d8f-3ba1-4a22-b714-69d0e4655be8
-    internal-label: DSP Packages
+    internal-label: Packages
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

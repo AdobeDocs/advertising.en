@@ -3,13 +3,15 @@ title: Brand safety and media quality
 description: Learn more about brand safety and media quality features.
 feature: DSP Introduction
 exl-id: 8cdfd517-4cdb-4dbc-aae5-a8bda1e4e95e
-TQID: https://experienceleague.adobe.com/-buJmAx0gdtqiPETqfBFcr90LAHly8BNyjM6lVO-JKc
+TQID: 'https://experienceleague.adobe.com/-buJmAx0gdtqiPETqfBFcr90LAHly8BNyjM6lVO-JKc'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: d05f5093-0b42-5b61-81cc-b438107ef814
+    internal-label: DSP Introduction
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

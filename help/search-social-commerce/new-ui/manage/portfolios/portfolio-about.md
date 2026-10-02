@@ -4,10 +4,15 @@ description: Learn about portfolios.
 feature: Search Portfolios, Search Optimization
 hide: true
 exl-id: 8d023c22-a1dd-4608-8c72-0a61f055e7e5
-TQID: https://experienceleague.adobe.com/w-NpuD1q3atytkO8AL-ekUWzwhX3NHH-byW9ZIY7WdU
+TQID: 'https://experienceleague.adobe.com/w-NpuD1q3atytkO8AL-ekUWzwhX3NHH-byW9ZIY7WdU'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 893a7eac-45bd-56c2-a120-18db6d297dcc
+    internal-label: Search Portfolios
+  - id: ae57d55f-b168-5358-b114-c3974b1b3d77
+    internal-label: Search Optimization
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

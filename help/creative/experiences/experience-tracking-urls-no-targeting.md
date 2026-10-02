@@ -3,10 +3,16 @@ title: Customize the tracking URLs for an experience without targeting
 description: Learn how to customize the tracking URLs for each creative in an experience without decision tree targeting.
 feature: Creative Experiences
 exl-id: 03a10285-c0df-4bc3-92c7-c1c2ea3f8129
-TQID: https://experienceleague.adobe.com/0NvlDveOyfCjAIIXJ-lgdOQbI56tLvvutOaXrUu9fCk
+TQID: 'https://experienceleague.adobe.com/0NvlDveOyfCjAIIXJ-lgdOQbI56tLvvutOaXrUu9fCk'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
+subfeature_v2:
+  - id: f1a0ef49-c5d6-4fdf-b0dc-ae6685afe30b
+    internal-label: Creative experiences
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

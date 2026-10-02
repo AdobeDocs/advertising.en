@@ -3,10 +3,13 @@ title: Click-tracking formats for [!DNL Microsoft Advertising]
 description: Learn about the click-tracking formats for [!DNL Microsoft Advertising] accounts.
 exl-id: 4970ac33-4978-4768-8701-6fdd3252bbd1
 feature: Search Tracking
-TQID: https://experienceleague.adobe.com/lqhCk4KG68-Rcyku4buSB1xeVhjNEP6QYOl85yJgmtE
+TQID: 'https://experienceleague.adobe.com/lqhCk4KG68-Rcyku4buSB1xeVhjNEP6QYOl85yJgmtE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 2206c6aa-b5c2-51b3-88e0-706d57048fe4
+    internal-label: Search Tracking
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

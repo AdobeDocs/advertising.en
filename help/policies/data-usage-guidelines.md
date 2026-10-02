@@ -3,13 +3,18 @@ title: Adobe Advertising DSP data usage guidelines
 description: See the guidelines for data usage.
 feature: Policies
 exl-id: b71caa80-d1f6-4f42-90c3-a3e19acb2c6c
-TQID: https://experienceleague.adobe.com/7-172ec1cvycYibz4Vi7KkSEENZySOIwBvQ4xkLqpwk
+TQID: 'https://experienceleague.adobe.com/7-172ec1cvycYibz4Vi7KkSEENZySOIwBvQ4xkLqpwk'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: b2025470-04ef-4dd9-bdd4-44407644aeb6
+    internal-label: Compliance
+subfeature_v2:
+  - id: bc1ebc31-ef28-453d-ab0e-79fb34941421
+    internal-label: Policies
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

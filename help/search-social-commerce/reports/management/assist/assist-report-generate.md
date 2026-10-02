@@ -3,10 +3,15 @@ title: Generate an assist report
 description: Learn how to generate assist reports.
 exl-id: ac3e3619-c300-4d2f-84bc-c4977c1712f3
 feature: Search Reports, Search Assist Reports
-TQID: https://experienceleague.adobe.com/qdz7yZo9qOCdVOGkLURa7rp4ROEFtdNfOKAiTl1xf9E
+TQID: 'https://experienceleague.adobe.com/qdz7yZo9qOCdVOGkLURa7rp4ROEFtdNfOKAiTl1xf9E'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: ab19d4f9-a5e8-54d2-a6d6-a154af73fd6d
+    internal-label: Search Assist Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

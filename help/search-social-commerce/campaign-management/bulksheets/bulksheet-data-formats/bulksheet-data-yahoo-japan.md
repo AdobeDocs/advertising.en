@@ -3,10 +3,13 @@ title: Bulksheet data for [!DNL LY Ads] accounts
 description: Reference the header fields and data fields in downloaded bulksheets for [!DNL LY Ads] accounts.
 exl-id: 78eb41ce-3854-454c-adf2-ba0339e2aef7
 feature: Search Bulksheets
-TQID: https://experienceleague.adobe.com/HghB6y4AbEXvI6IrJhdxm-rpg69-ozYTIHRcPDoQ5jA
+TQID: 'https://experienceleague.adobe.com/HghB6y4AbEXvI6IrJhdxm-rpg69-ozYTIHRcPDoQ5jA'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 882cfb76-bb33-50bf-a743-3ada27f6338a
+    internal-label: Search Bulksheets
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

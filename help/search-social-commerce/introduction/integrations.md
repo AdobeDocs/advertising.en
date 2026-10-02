@@ -3,13 +3,15 @@ title: Integration with Adobe CX Enterprise solutions and services
 description: Learn about Search, Social, & Commerce integrations with Adobe CX Enterprise solutions and services.
 exl-id: 26456f60-937a-4f39-b5cf-a71c1c1b4833
 feature: Search Introduction
-TQID: https://experienceleague.adobe.com/vIjCxWutfGn8H9-TqxLvztNazb9RWq7ECeoOQXLfyEw
+TQID: 'https://experienceleague.adobe.com/vIjCxWutfGn8H9-TqxLvztNazb9RWq7ECeoOQXLfyEw'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: f2860a4b-f905-4545-bead-1bbc92564592
     internal-label: Advertising integrations
+  - id: f86a94c9-f065-509d-be1f-6a576acb810d
+    internal-label: Search Introduction
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

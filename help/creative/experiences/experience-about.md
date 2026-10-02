@@ -3,16 +3,20 @@ title: About experiences in Advertising Creative
 description: Learn how to configure personalized ad experiences and optimize ad elements based on performance.
 feature: Creative Experiences
 exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
-TQID: https://experienceleague.adobe.com/eX9wJedhnS994mEpRna6vL2En7vVXEYWp1xs-hz6iBo
+TQID: 'https://experienceleague.adobe.com/eX9wJedhnS994mEpRna6vL2En7vVXEYWp1xs-hz6iBo'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
 subfeature_v2:
   - id: fef5c122-6482-4d17-a8ce-4e70b906f1f4
-    internal-label: DSP Audiences
+    internal-label: Audiences
+  - id: f1a0ef49-c5d6-4fdf-b0dc-ae6685afe30b
+    internal-label: Creative experiences
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

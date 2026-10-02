@@ -1,12 +1,15 @@
 ---
-title: "[!DNL Baidu] campaign settings"
+title: '[!DNL Baidu] campaign settings'
 description: Reference the settings for [!DNL Baidu] campaigns.
 exl-id: bc8ec4e2-4b40-4c9d-8223-29143fe63784
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/eYQ4cNEAmEEoC6OksxjtqdJRf90E0a2UGiTny5BVGQU
+TQID: 'https://experienceleague.adobe.com/eYQ4cNEAmEEoC6OksxjtqdJRf90E0a2UGiTny5BVGQU'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

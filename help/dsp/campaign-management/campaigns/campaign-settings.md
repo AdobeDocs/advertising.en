@@ -3,16 +3,18 @@ title: Campaign settings
 description: See descriptions of the available campaign settings.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
-TQID: https://experienceleague.adobe.com/tLMBR-i1XpRHeFkfrhh2CtCQI4K0rPgCHqkZv8dk4cA
+TQID: 'https://experienceleague.adobe.com/tLMBR-i1XpRHeFkfrhh2CtCQI4K0rPgCHqkZv8dk4cA'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: fee1be79-8e27-52a1-8e31-1d7086bf1a0e
+    internal-label: DSP Campaigns
 subfeature_v2:
   - id: b01c7841-b9d0-4fd5-8458-a6a6f601ad3d
-    internal-label: DSP Campaigns
+    internal-label: Campaigns
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

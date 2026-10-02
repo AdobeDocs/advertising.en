@@ -3,10 +3,20 @@ title: Delete creatives
 description: Learn how to delete creatives in a creative library.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 5dc197dc-c4bb-489a-8395-b7c8efa47ea1
-TQID: https://experienceleague.adobe.com/NcC9nj1ON2en8H0HqDH0MGR241XoZDEyzIcE6r7Ch5c
+TQID: 'https://experienceleague.adobe.com/NcC9nj1ON2en8H0HqDH0MGR241XoZDEyzIcE6r7Ch5c'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
+subfeature_v2:
+  - id: bb1b8bb7-b991-4ae3-96c9-1fe852ffecbf
+    internal-label: Creative libraries
+  - id: d06c1576-7039-4934-b256-7366e138fbb6
+    internal-label: Creative Standard Creatives
+  - id: d70c54b0-f069-4a3c-8056-7069a25e110c
+    internal-label: Creative Dynamic Creatives
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

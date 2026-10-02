@@ -1,6 +1,9 @@
 ---
 title: Upload offline account data for reporting and simulations
 description: Learn how to upload offline account data manually or to an [!DNL Amazon] [!DNL S3] bucket for reporting and simulation support. Log files track the progress of upload jobs.
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
 ---
 # Upload offline account data for reporting and simulations
 

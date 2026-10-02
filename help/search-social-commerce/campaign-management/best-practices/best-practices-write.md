@@ -3,10 +3,13 @@ title: Write effective text ad copy
 description: Learn about best practices for writing effective ad copy.
 exl-id: 2c51cd0b-90c5-4093-9a0f-ace5ef1019e7
 feature: Search Best Practices
-TQID: https://experienceleague.adobe.com/GFofyYALATcgqvrjz-2SuI90ct0M-PzOoLtjmvL2Djo
+TQID: 'https://experienceleague.adobe.com/GFofyYALATcgqvrjz-2SuI90ct0M-PzOoLtjmvL2Djo'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 4448d932-c6c2-59c8-8d0c-d940413abe6b
+    internal-label: Search Best Practices
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

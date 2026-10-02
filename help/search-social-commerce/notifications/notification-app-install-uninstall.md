@@ -3,10 +3,13 @@ title: Install and uninstall the [!UICONTROL Notification Center] web applicatio
 description: Learn how to install and uninstall the [!UICONTROL Notification Center] web application.
 exl-id: e0a72907-3b5e-4678-b08b-95ed099f2dab
 feature: Search Notifications
-TQID: https://experienceleague.adobe.com/a3oS8GVggOIOGoEIY37wTb1ZwwJRqW3S7wGSRLqbWoM
+TQID: 'https://experienceleague.adobe.com/a3oS8GVggOIOGoEIY37wTb1ZwwJRqW3S7wGSRLqbWoM'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 4a019b9f-6dd0-5c07-a60f-b60f67fd80d0
+    internal-label: Search Notifications
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
