@@ -24,7 +24,7 @@ Unassigning a constraint removes the association with the account components and
 
 You can assign a single constraint to one or more campaigns.
 
-1. In the main menu, click **[!UICONTROL Target] > [!UICONTROL Keywords]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Keywords]**.
 
 1. On the **[!UICONTROL Keywords]** tab, select the check box next to each keyword to which you'll assign a single constraint.
 
@@ -56,7 +56,7 @@ You can assign a single constraint to one or more campaigns.
 
 ## Remove constraints from selected campaigns from the new [!UICONTROL Keywords] view
 
-1. In the main menu, click **[!UICONTROL Target] > [!UICONTROL Keywords]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Keywords]**.
 
 1. On the **[!UICONTROL Keywords]** tab, select the check box next to each keyword from which you'll unassign constraints.
 

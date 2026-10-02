@@ -21,7 +21,7 @@ You can maintain up to 100 templates at a time.
 
 <!-- Add xrefs to report procedures and settings once available -->
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**.
 
 1. Do either of the following:
 
@@ -91,7 +91,7 @@ Not available to anyone as of 5/21. EDIT ALL IF WE ADD THIS FCT:
 
 You can run reports for one or more templates at any time.
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**.
 
 1. Click the **[!UICONTROL Templates]** tab.
 
@@ -115,7 +115,7 @@ You can run reports for one or more templates at any time.
 
 You can delete any report template available to you. When you delete a template that includes a schedule, that report isn't generated in the future.
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**.
 
 1. Click the **[!UICONTROL Templates]** tab.
 

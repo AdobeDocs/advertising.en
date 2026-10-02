@@ -18,6 +18,8 @@ For details about the functionality available for each ad network, see "[Support
 
 ## Create account details {#create-account}
 
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
+
 1. Click **[!UICONTROL Create Account]**.
 
 1. Click the name of the ad network, and then click **[!UICONTROL Next]**.
@@ -34,7 +36,7 @@ For details about the functionality available for each ad network, see "[Support
 
 ## Edit account details {#edit-account}
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Select the account in either of the following ways:
 
@@ -56,7 +58,7 @@ For details about the functionality available for each ad network, see "[Support
 
 ## Enable or disable ad network accounts {#enable-disable-account}
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Do either of the following:
 

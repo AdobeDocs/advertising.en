@@ -21,7 +21,7 @@ Deleting label classification values makes them unavailable for future use, and 
 
 ## (New UI) Delete label classification values
 
-1. Click **[!UICONTROL Reports] > [!UICONTROL Label Classifications]**.
+1. Click **[!UICONTROL Setup] > [!UICONTROL Label Classifications]**.
 
 1. Click the **[!UICONTROL Label Values]** tab.
 

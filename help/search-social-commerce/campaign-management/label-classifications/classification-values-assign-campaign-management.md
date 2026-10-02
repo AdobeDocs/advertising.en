@@ -27,7 +27,7 @@ Label values are inherited by child entities, so don't enter values for child en
 
 You can assign classification values to any applicable account components that are available in the new UI.
 
-1. Open the entity view from the **[!UICONTROL Manage]** or **[!UICONTROL Target]** menu.
+1. Open the entity view from the **[!UICONTROL Manage]** or **[!UICONTROL Targeting]** menu.
 
 1. Select the check box next to each relevant row.
 

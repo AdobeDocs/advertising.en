@@ -21,7 +21,7 @@ role_v2:
 
 A campaign is the primary component of an ad network account. For most campaign types, it consists of a set of ad groups or ad sets. Campaign settings include campaign budget parameters, ad targets, and optional tracking parameters for all ads in the campaign. Campaign-level tracking parameters override the account-level parameters but may themselves be overridden at a lower level.
 
-Once you [make an ad network account accessible via an API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md) and Search, Social, & Commerce has synchronized the account data with the ad network, you can create new campaigns with [supported campaign types](/help/search-social-commerce/introduction/supported-inventory.md). You also can edit and change the status of campaigns.
+Once you [make an ad network account accessible via an API connection](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/api-account-manage.md) and Search, Social, & Commerce has synchronized the account data with the ad network, you can create new campaigns with [supported campaign types](/help/search-social-commerce/introduction/supported-inventory.md). You also can edit and change the status of campaigns.
 
 For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
 
@@ -420,7 +420,7 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 >
 >* [Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
 >* [Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
->* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-constraint-assignments-manage.md)
+>* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/manage/keywords/keyword-constraint-assignments-manage.md)
 >* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-constraint-assignments-manage.md)
 >* [(Legacy UI) Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
 >* [(Legacy UI) Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)

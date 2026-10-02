@@ -21,7 +21,7 @@ Deleting a classification removes all associations between its child values and 
 
 ## (New UI) Delete label classifications
 
-1. Click **[!UICONTROL Reports] > [!UICONTROL Label Classifications]**.
+1. Click **[!UICONTROL Setup] > [!UICONTROL Label Classifications]**.
 
 1. (Optional) Filter the list to include specific label classifications.
 

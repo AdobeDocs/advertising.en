@@ -41,21 +41,21 @@ You can view your notifications, mark notifications as read or unread, and delet
 
   * **[!UICONTROL Bulksheets]**: Notifications that a [bulksheet operation](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) was completed or failed.<!-- Update link once file for new UI available-->
 
-  * **[!UICONTROL Manager Account Missing]**: Notifications that Search, Social, & Commerce is missing the credentials for an [ad network manager account](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/manager-account-manage.md), which are required for the correct setup of critical functions.<!-- Moving to Campaign Management > Setup Errors at some point -->
+  * **[!UICONTROL Manager Account Missing]**: Notifications that Search, Social, & Commerce is missing the credentials for an [ad network manager account](/help/search-social-commerce/new-ui/set-up/manager-account-manage.md), which are required for the correct setup of critical functions.<!-- Moving to Campaign Management > Setup Errors at some point -->
 
-  * **[!UICONTROL UI Actions]**: Notifications that your jobs that are performed in the background were completed or failed. The job types include [bulksheet jobs](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md)<!-- Update link once file for new UI available-->, bulk edit jobs within the data table or using the toolbar, entity assignment jobs, or other actions within the user interface (such as synchronizing with ad networks, pasting rows, or renaming entities). Entity assignments include assigning or unassigning a [label classification value](/help/search-social-commerce/new-ui/reports/label-classifications-manage.md) to any entity, assigning a campaign to a portfolio, and [assigning or unassigning a bid constraint to an entity](/help/search-social-commerce/new-ui/goals/constraints-manage.md).
+  * **[!UICONTROL UI Actions]**: Notifications that your jobs that are performed in the background were completed or failed. The job types include [bulksheet jobs](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md)<!-- Update link once file for new UI available-->, bulk edit jobs within the data table or using the toolbar, entity assignment jobs, or other actions within the user interface (such as synchronizing with ad networks, pasting rows, or renaming entities). Entity assignments include assigning or unassigning a [label classification value](/help/search-social-commerce/new-ui/set-up/label-classifications-manage.md) to any entity, assigning a campaign to a portfolio, and [assigning or unassigning a bid constraint to an entity](/help/search-social-commerce/new-ui/goals/constraints-manage.md).
 
   * [!UICONTROL Data Upload]
 
-    * **[!UICONTROL Direct File Upload]**: Notifications that an account data file was uploaded, or an account data upload failed, via [manual account data upload](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/upload-account-data.md). <!-- Verify description-->
+    * **[!UICONTROL Direct File Upload]**: Notifications that an account data file was uploaded, or an account data upload failed, via [manual account data upload](/help/search-social-commerce/new-ui/manage/accounts/data-upload-accounts/upload-account-data.md). <!-- Verify description-->
 
-    * **[!UICONTROL File Upload to Cloud Storage]**: Notifications that an account data file was uploaded, or an account data upload failed, via [account data upload to an [!DNL Amazon] [!DNL S3] bucket](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/upload-account-data.md). <!-- Verify description-->
+    * **[!UICONTROL File Upload to Cloud Storage]**: Notifications that an account data file was uploaded, or an account data upload failed, via [account data upload to an [!DNL Amazon] [!DNL S3] bucket](/help/search-social-commerce/new-ui/manage/accounts/data-upload-accounts/upload-account-data.md). <!-- Verify description-->
 
   * [!UICONTROL Network Errors]
 
-    * **[!UICONTROL Account Auth Error]**: Notifications that Search, Social, & Commerce was unable to access an [ad network account](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md) because of invalid credentials or an invalid or expired authorization token.
+    * **[!UICONTROL Account Auth Error]**: Notifications that Search, Social, & Commerce was unable to access an [ad network account](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/api-account-manage.md) because of invalid credentials or an invalid or expired authorization token.
 
-    * **[!UICONTROL Account Missing]**: Notifications that Search, Social, & Commerce is missing the credentials for an [ad network account](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md).
+    * **[!UICONTROL Account Missing]**: Notifications that Search, Social, & Commerce is missing the credentials for an [ad network account](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/api-account-manage.md).
 
     * **[!UICONTROL Manager Account Auth Error]**: Notifications that Search, Social, & Commerce was unable to sync with an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md) because of invalid credentials or an invalid or expired authorization token.<!-- Update link once file for new UI available-->
 

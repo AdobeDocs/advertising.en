@@ -20,7 +20,7 @@ role_v2:
 
 *[!DNL Google Ads] and [!DNL Microsoft Advertising] shopping campaigns only*
 
-You can create and nmanage product groups in the [!UICONTROL Product Groups] view at [!UICONTROL Assets] > [!UICONTROL Shopping].
+You can create and nmanage product groups in the [!UICONTROL Manage] > [!UICONTROL Product Groups] view.
 
 You can view data about product groups in [the [!UICONTROL Product Group Report]](/help/search-social-commerce/new-ui/reports/management/basic-advanced/product-group-report.md).
 
@@ -67,7 +67,7 @@ See also the [!DNL Google Ads] help "[Manage a shopping campaign with product gr
 
 ## The [!UICONTROL Product Groups] view
 
-The [!UICONTROL Product Groups] view at [!UICONTROL Assets] > [!UICONTROL Shopping] view lists all product groups in the filtered view for the selected advertiser account. You can also create and manage product groups.
+The [!UICONTROL Manage] > [!UICONTROL Product Groups] view lists all product groups in the filtered view for the selected advertiser account. You can also create and manage product groups.
 
 ### Available actions <!-- Go through all -->
 
@@ -101,7 +101,7 @@ Before you can create product groups with specific attributes, you must first cr
 >
 >To create many account components at once, use [campaign bulksheets](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Shopping]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Product Groups]**.
 
 1. In the toolbar above the data table, click **[!UICONTROL Create Product Group]**.
 
@@ -123,7 +123,7 @@ Once you've create at least an all-inclusive "[!UICONTROL All Products]" group f
 >
 >You can't create a child product group for an "[!UICONTROL Everything Else]" product group.
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Shopping]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Product Groups]**.
 
 1. (Optional) To view a product group and its child product group nodes in Tree View, hold the cursor over the product group name, click **[!UICONTROL ...] > [!UICONTROL Tree View]**.
 
@@ -137,7 +137,7 @@ Once you've create at least an all-inclusive "[!UICONTROL All Products]" group f
 
 You can edit the bid and tracking template for unit product group nodes (product groups without child product group nodes) that are included for an ad group. You can't edit any information for excluded unit product groups or for included or excluded sub-division nodes, which are product groups with child product group nodes.
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Shopping]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Product Groups]**.
 
 1. (Optional) To view a product group and its child product group nodes in Tree View, hold the cursor over the product group name, click **[!UICONTROL ...] > [!UICONTROL Tree View]**.
 
@@ -149,7 +149,7 @@ You can edit the bid and tracking template for unit product group nodes (product
 
 ## Edit only the [!UICONTROL Tracking Template] for a product group node {#node-edit-tracking-template}
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Shopping]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Product Groups]**.
 
 1. Hold the cursor over the product group name, and click **[!UICONTROL ...] > [!UICONTROL Tree View]** to view the product group and its child product group nodes in Tree View.
 
@@ -159,7 +159,7 @@ You can edit the bid and tracking template for unit product group nodes (product
 
 ## Edit only the [!UICONTROL Max CPC] for a product group node {#node-edit-maxcpc}
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Shopping]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Product Groups]**.
 
 1. Hold the cursor over the product group name, and click **[!UICONTROL ...] > [!UICONTROL Tree View]** to view the product group and its child product group nodes in Tree View.
 
@@ -171,7 +171,7 @@ You can edit the bid and tracking template for unit product group nodes (product
 
 You can delete any product group &mdash; except an "Everything Else" group when other product groups exist at the same level &mdash; that is used to determine which products in your merchant center account are included in the shopping ads for the ad group. Deleting a product group deletes all child product groups.
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Shopping]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Product Groups]**.
 
 1. Hold the cursor over the product group name, and click **[!UICONTROL ...] > [!UICONTROL Tree View]** to view the product group and its child product group nodes in Tree View.
 
@@ -181,7 +181,7 @@ You can delete any product group &mdash; except an "Everything Else" group when 
 
 ## Assign a constraint to selected product groups {#constraint-assign}
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Shopping]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Product Groups]**.
 
 1. Select the check box next to each product group to which you'll assign a single constraint.
 
@@ -193,7 +193,7 @@ You can delete any product group &mdash; except an "Everything Else" group when 
 
 ## Remove constraints from selected product groups {#constraint-unassign} 
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Shopping]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Product Groups]**.
 
 1. Select the check box next to each product group from which you'll unassign constraints.
 
@@ -207,7 +207,7 @@ You can delete any product group &mdash; except an "Everything Else" group when 
 >
 >Label values are inherited by child entities, so don't enter values for child entities unless you want to override the inherited values.
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Shopping]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Product Groups]**.
 
 1. Select the check box next to each product group to which you'll assign a label value.
 
@@ -239,7 +239,7 @@ You can delete any product group &mdash; except an "Everything Else" group when 
 
 Removing a classification value removes the association with the account component and all of its child components. Report data for the classification value is no longer available for those components. Removing a classification value doesn't delete the value nor the account components.
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Shopping]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Product Groups]**.
 
 1. Select the check box next to each product group from which you'll remove a label value.
 

@@ -24,7 +24,7 @@ Unassigning a constraint removes the association with the account components and
 
 You can assign a single constraint to one or more placements.
 
-1. In the main menu, click **[!UICONTROL Target] > [!UICONTROL Placements]**.
+1. In the main menu, click **[!UICONTROL Targeting] > [!UICONTROL Placements]**.
 
 1. On the **[!UICONTROL Placements]** tab, select the check box next to each placement to which you'll assign a single constraint.
 
@@ -56,7 +56,7 @@ You can assign a single constraint to one or more placements.
 
 ## Remove constraints from selected placements from the new [!UICONTROL Placements] view
 
-1. In the main menu, click **[!UICONTROL Target] > [!UICONTROL Placements]**.
+1. In the main menu, click **[!UICONTROL Targeting] > [!UICONTROL Placements]**.
 
 1. On the **[!UICONTROL Placements]** tab, select the check box next to each placement from which you'll unassign constraints.
 
@@ -85,4 +85,4 @@ You can assign a single constraint to one or more placements.
 >* [(New UI) Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
 >* [(New UI) Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 >* [(New UI) Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
->* [(New UI) Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-constraint-assignments-manage.md)
+>* [(New UI) Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/manage/keywords/keyword-constraint-assignments-manage.md)

@@ -26,7 +26,7 @@ To enable syncing of an account, you must create a corresponding account record 
 >
 >To create an actual account on the ad network, go to the ad network's website.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Click **[!UICONTROL Create Account]**.
 
@@ -48,7 +48,7 @@ To re-authenticate the account settings to refresh the connection or update perm
 >
 >To edit an actual account on the ad network, go to the ad network's website.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Select the account in either of the following ways:
 
@@ -70,7 +70,7 @@ To refresh the ad network connection or update permissions for the account, re-a
 
 1. (If you're logged in to another account for the same ad network in the same browser application) Log out of any account other than the advertiser's.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 <!-- For Bing and Yandex, the right-click menu includes "Re authenticate." Clarify why just those types -->
 
@@ -88,7 +88,7 @@ To refresh the ad network connection or update permissions for the account, re-a
 
 When you enable an ad network account, Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios. When you disable an ad network account, Search, Social, & Commerce stops all activity on the account. Data collected while the account was active is still stored, but the campaign management views and reports don't include data for the time period in which the account is disabled. You can later re-enable the account to resume activity with the account.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Do either of the following:
 
@@ -149,7 +149,7 @@ The account settings vary by ad network. You may not see all settings below.
 
 >[!NOTE]
 >
->Ad network manager accounts aren't supported here. To identify a manager account for [!DNL Microsoft Advertising], use the Master Account ID or MCC Account field, respectively. To [set up credentials for a [!DNL Google Ads] manager account](/help/search-social-commerce/admin/manager-accounts.md), go to [!UICONTROL Admin] \> [!UICONTROL Manager Accounts].
+>Ad network manager accounts aren't supported here. To identify a manager account for [!DNL Microsoft Advertising], use the Master Account ID or MCC Account field, respectively. To [set up credentials for a [!DNL Google Ads] manager account](/help/search-social-commerce/new-ui/set-up/manager-account-manage.md), go to [!UICONTROL Setup] \> [!UICONTROL Manager Accounts].
 
 **[!UICONTROL Currency]:** (Read-only) The abbreviation for the currency used for the account. This value is filled automatically with the currency configured for the account on the ad network once you save the record.
 

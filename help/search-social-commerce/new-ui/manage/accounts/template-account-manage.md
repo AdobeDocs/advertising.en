@@ -20,7 +20,7 @@ To enable tracking of an account, you must create a corresponding account record
 >
 >To create an actual account on the ad network, go to the ad network's website.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Click **[!UICONTROL Create Account]**.
 
@@ -42,7 +42,7 @@ To change the account name, change the account status, or change the [!DNL Analy
 >
 >To edit an actual account on the ad network, go to the ad network's website.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Select the account in either of the following ways:
 
@@ -67,7 +67,7 @@ To change the account name, change the account status, or change the [!DNL Analy
 
 When you enable an ad network account, Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios. When you disable an ad network account, Search, Social, & Commerce stops all activity on the account. Data collected while the account was active is still stored, but the campaign management views and reports don't include data for the time period in which the account is disabled. You can later re-enable the account to resume activity with the account.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Do either of the following:
 
@@ -120,4 +120,4 @@ For the data to appear in the report suites, either (a) the server-side AMO ID f
 >[!MORELIKETHIS]
 >
 >* [Implement [!DNL Naver] tracking-only accounts](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md)
->* [About ad network accounts](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)
+>* [About ad network accounts](/help/search-social-commerce/new-ui/manage/accounts/ad-network-account-about.md)

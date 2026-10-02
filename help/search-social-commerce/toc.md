@@ -71,32 +71,6 @@ role_v2:
   + Dashboard {#dashboard}
     + [View your performance dashboard](/help/search-social-commerce/new-ui/dashboard/dashboard-overview.md)
     + [Publisher recommendations and insights support](/help/search-social-commerce/new-ui/dashboard/recommendations-view-apply.md)
-  + Goals {#goals}
-    + Objectives {#objectives}
-      + [About objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-about.md)
-      + [Create an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-create.md)
-      + [Edit an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-edit.md)
-      + [Delete an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-delete.md)
-      + [Apply weight recommendations to an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-apply-weight-recommendations.md)
-      + [Download performance metrics for objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-download-performance-data.md)
-      + [Objective settings](/help/search-social-commerce/new-ui/goals/objectives/objective-settings.md)
-      + [Enable uploading of objectives to ad networks](/help/search-social-commerce/new-ui/goals/objectives/objective-upload-to-networks.md)
-    + Conversions {#conversions}
-      + [Available features for managing conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversions-about.md)
-      + [Generate and implement an Adobe Advertising conversion-tracking tag](/help/search-social-commerce/new-ui/goals/conversions/conversion-tag-generate.md)
-      + [Manage an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
-      + Enhanced conversions {#enhanced-conversions}
-        + [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/new-ui/goals/conversions/conversion-action-google-create.md)
-        + [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/new-ui/goals/conversions/conversions-upload-offline-enhanced-conversions.md)
-    + [Manage [!DNL Google Ads] conversion value rules](/help/search-social-commerce/new-ui/goals/conversion-value-rules-manage.md)
-    + [Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
-  + Plan {#plan}
-      + Simulations {#simulations}
-        + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
-        + [Run or rerun a custom simulation](/help/search-social-commerce/new-ui/plan/simulations/simulation-create.md)
-        + [View simulation details](/help/search-social-commerce/new-ui/plan/simulations/simulation-view.md)
-        + [Download simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-download.md)
-      + [Using the [!UICONTROL Spend Planner]](/help/search-social-commerce/new-ui/plan/spend-planner.md)
   + Manage {#manage}
     + Portfolios {#portfolios}
       + [About portfolios](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md)
@@ -113,8 +87,17 @@ role_v2:
       + [View portfolio performance details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-details.md)
       + [View a portfolio's change history](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-change-history.md)
       + [Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
+    + Accounts {#accounts}
+      + [About ad network accounts](/help/search-social-commerce/new-ui/manage/accounts/ad-network-account-about.md)
+      + API connection accounts {#api}
+        + [Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/api-account-manage.md)
+        + [Manually synchronize ad network data via API connection](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/sync-api-accounts.md)
+      + Data upload accounts {#data-upload}
+        + [Manage ad network accounts for data uploads](/help/search-social-commerce/new-ui/manage/accounts/data-upload-accounts/data-upload-account-manage.md)
+      + [Manage [!DNL Naver] accounts for tracking only](/help/search-social-commerce/new-ui/manage/accounts/template-account-manage.md)
     + Campaigns {#campaigns}
       + [Manage campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md)
+      + [Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft Advertising]](/help/search-social-commerce/new-ui/manage/campaigns/google-campaign-replication-in-microsoft.md)
       + Campaign settings by ad network {#campaign-settings-by-network}
           + [[!DNL Baidu] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-baidu.md)
           + [[!DNL Google Ads] campaign settings](/help/search-social-commerce/new-ui/manage/campaigns/campaign-settings-google.md)
@@ -141,13 +124,17 @@ role_v2:
         + [[!DNL Microsoft Advertising] responsive (audience) ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-responsive.md)
         + [[!DNL Microsoft Advertising] responsive search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-rsa.md)
         + [[!DNL Yandex] text ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-yandex-text.md)
+    + Keywords {#keywords}
+      + [About the [!UICONTROL Keywords] view](/help/search-social-commerce/new-ui/manage/keywords/keyword-view-about.md)
+      + [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/manage/keywords/keyword-constraint-assignments-manage.md)
+    + [Manage shopping product groups](/help/search-social-commerce/new-ui/manage/product-groups-manage.md)
   + Reports {#reports}
     + Scheduled reports {#scheduled}
       + [About scheduled reports](/help/search-social-commerce/new-ui/reports/report-about.md)
       + [The initial setup tasks for reports](/help/search-social-commerce/new-ui/reports/initial-setup.md)
       + [The data used for reports](/help/search-social-commerce/new-ui/reports/data-used-for-reports.md)
       + [Manage scheduled reports](/help/search-social-commerce/new-ui/reports/management/report-manage.md)
-      + Scheduled report types {#report-types}
+      + Report types {#report-types}
         + Basic and advanced reports {#basic-advanced-reports}
           + [About basic and advanced reports](/help/search-social-commerce/new-ui/reports/management/basic-advanced/basic-advanced-report-about.md)
           + Basic report formats {#basic-report-formats}
@@ -213,29 +200,14 @@ role_v2:
       + [FAQs About Custom Reports](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/insights-reports/reports/faqs-report){target="_blank"}
     + [Manage spreadsheet report feeds](/help/search-social-commerce/new-ui/reports/spreadsheet-feeds-manage.md)
     + [View change history logs](/help/search-social-commerce/new-ui/reports/history-logs.md)
-    + [Manage label classifications](/help/search-social-commerce/new-ui/reports/label-classifications-manage.md)
-  + Target {#target}
-    + Keywords {#keywords}
-      + [About the [!UICONTROL Keywords] view](/help/search-social-commerce/new-ui/target/keywords/keyword-view-about.md)
-      + [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-constraint-assignments-manage.md)
-    + Placements {#placements}
-      + [About the [!UICONTROL Placements] view](/help/search-social-commerce/new-ui/target/placements/placement-view-about.md)
-      + [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-constraint-assignments-manage.md)
-    + [Manage [!DNL Google Ads] dynamic search targets](/help/search-social-commerce/new-ui/target/dynamic-search-target-manage.md)
-  + Assets {#assets}
-    + [View and create creative assets](/help/search-social-commerce/new-ui/assets/creative-asset-manage.md)
-    + [Manage shopping product groups](/help/search-social-commerce/new-ui/assets/product-groups-manage.md)
+  + Plan {#plan}
+      + Simulations {#simulations}
+        + [About simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md)
+        + [Run or rerun a custom simulation](/help/search-social-commerce/new-ui/plan/simulations/simulation-create.md)
+        + [View simulation details](/help/search-social-commerce/new-ui/plan/simulations/simulation-view.md)
+        + [Download simulations](/help/search-social-commerce/new-ui/plan/simulations/simulation-download.md)
+      + [Using the [!UICONTROL Spend Planner]](/help/search-social-commerce/new-ui/plan/spend-planner.md)
   + Setup {#setup}
-    + Accounts {#accounts}
-      + [About ad network accounts](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)
-      + API connection accounts {#api}
-        + [Manage ad network accounts via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md)
-        + [Manage credentials for [!DNL Google Ads] manager accounts](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/manager-account-manage.md)
-        + [Manually synchronize ad network data via API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/sync-api-accounts.md)
-      + Data upload accounts {#data-upload}
-        + [Manage ad network accounts for data uploads](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)
-      + [Manage [!DNL Naver] accounts for tracking only](/help/search-social-commerce/new-ui/set-up/accounts/template-account-manage.md)
-    + [Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft Advertising]](/help/search-social-commerce/new-ui/set-up/google-campaign-replication-in-microsoft.md)
     + Bulksheets {#bulksheets}
       + [About managing campaign data using bulksheets](/help/search-social-commerce/new-ui/set-up/bulksheets/about.md)
       + [Set up an FTP account for uploading bulksheets](/help/search-social-commerce/new-ui/set-up/bulksheets/ftp-account.md)
@@ -247,6 +219,34 @@ role_v2:
       + [Bulksheet errors](/help/search-social-commerce/new-ui/set-up/bulksheets/errors.md)
       + [Delete uploaded bulksheets and error files](/help/search-social-commerce/new-ui/set-up/bulksheets/delete.md)
       + [Stop a bulksheet job in progress](/help/search-social-commerce/new-ui/set-up/bulksheets/stop-job.md)
+    + [Manage label classifications](/help/search-social-commerce/new-ui/set-up/label-classifications-manage.md)
+    + [Manage credentials for [!DNL Google Ads] manager accounts](/help/search-social-commerce/new-ui/set-up/manager-account-manage.md)
+  + Goals {#goals}
+    + Objectives {#objectives}
+      + [About objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-about.md)
+      + [Create an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-create.md)
+      + [Edit an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-edit.md)
+      + [Delete an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-delete.md)
+      + [Apply weight recommendations to an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-apply-weight-recommendations.md)
+      + [Download performance metrics for objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-download-performance-data.md)
+      + [Objective settings](/help/search-social-commerce/new-ui/goals/objectives/objective-settings.md)
+      + [Enable uploading of objectives to ad networks](/help/search-social-commerce/new-ui/goals/objectives/objective-upload-to-networks.md)
+    + Conversions {#conversions}
+      + [Available features for managing conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversions-about.md)
+      + [Generate and implement an Adobe Advertising conversion-tracking tag](/help/search-social-commerce/new-ui/goals/conversions/conversion-tag-generate.md)
+      + [Manage an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
+      + Enhanced conversions {#enhanced-conversions}
+        + [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/new-ui/goals/conversions/conversion-action-google-create.md)
+        + [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/new-ui/goals/conversions/conversions-upload-offline-enhanced-conversions.md)
+    + [Manage [!DNL Google Ads] conversion value rules](/help/search-social-commerce/new-ui/goals/conversion-value-rules-manage.md)
+    + [Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
+  + Targeting {#targeting}
+    + [Manage [!DNL Google Ads] dynamic search targets](/help/search-social-commerce/new-ui/target/dynamic-search-target-manage.md)
+    + Placements {#placements}
+      + [About the [!UICONTROL Placements] view](/help/search-social-commerce/new-ui/target/placements/placement-view-about.md)
+      + [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-constraint-assignments-manage.md)
+  + Library {#library}
+    + [View and create creative assets](/help/search-social-commerce/new-ui/assets/creative-asset-manage.md)
   + [Manage custom alerts](/help/search-social-commerce/new-ui/alerts-manage.md)
   + [Manage notifications](/help/search-social-commerce/new-ui/notifications-manage.md)
   + [User administration](/help/search-social-commerce/new-ui/user-administration.md)

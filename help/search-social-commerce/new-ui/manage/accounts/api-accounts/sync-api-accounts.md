@@ -20,23 +20,30 @@ For campaigns with the "[!UICONTROL Auto Update]" option, the sync operation als
 
 >[!NOTE]
 >
->Anytime you [create a bulksheet](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md), you can optionally sync with the ad network before the bulksheet is created.
+>Anytime you [create a bulksheet](/help/search-social-commerce/new-ui/set-up/bulksheets/download.md), you can optionally sync with the ad network before the bulksheet is created.
 
-## Sync campaigns in an ad network account
+## Sync all campaigns in ad network accounts
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
-1. Select the check box next to the account name.
+1. Select the check box next to the name of each account to sync.
 
    <!-- As of 2/23, you can sync only one acct at a time:  Select the check box next to each account or campaign that you want to sync. You can sync up to 50 campaigns at a time. If you sync more than five accounts at a time, the job is broken into batches of up to five accounts each. -->
 
+1. In the bulk actions toolbar, click **[!UICONTROL Sync]**.
+
+The job may take an hour or more to complete.
+
+## Sync campaigns from the [!UICONTROL Campaigns] view.
+
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Campaigns]**.
+
+1. Select the check box next to the name of each campaign to sync.
+
 1. In the bulk actions toolbar, click **[!UICONTROL ... More Actions]** > **[!UICONTROL Sync]**.
 
-   * Hold the cursor over the account name, click **...**, and then click **[!UICONTROL Edit]**.
-
-You can follow the status of the sync job in the [!UICONTROL Workspace] view. The job may take
-an hour or more to appear.
+The job may take an hour or more to complete.
 
 >[!MORELIKETHIS]
 >
->* [Download/Create a bulksheet file](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md)
+>* [Download/Create a bulksheet file](/help/search-social-commerce/new-ui/set-up/bulksheets/download.md)
