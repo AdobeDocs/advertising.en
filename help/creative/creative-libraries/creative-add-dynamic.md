@@ -3,10 +3,16 @@ title: Add dynamic creatives to a creative library
 description: Learn how to add dynamic creatives to a creative library.
 feature: Creative Dynamic Creatives
 exl-id: 26162314-bdaa-4d1c-b0c2-696ec6dbb138
-TQID: https://experienceleague.adobe.com/OGBJ2IszfF6kv86wYyEvbU5UxJmwxEo6MNjCM9n6Cws
+TQID: 'https://experienceleague.adobe.com/OGBJ2IszfF6kv86wYyEvbU5UxJmwxEo6MNjCM9n6Cws'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
+subfeature_v2:
+  - id: d70c54b0-f069-4a3c-8056-7069a25e110c
+    internal-label: Creative Dynamic Creatives
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

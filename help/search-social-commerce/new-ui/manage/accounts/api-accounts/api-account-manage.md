@@ -3,6 +3,12 @@ title: (New UI) Manage ad network accounts
 description: Learn how to set up and manage account details in the new UI for an ad network synced via the ad network API.
 feature: Search Campaign Management
 exl-id: a50b2943-7568-401c-be5b-ff6f62629488
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 ---
 # (New UI) Manage ad network accounts via API connection
 

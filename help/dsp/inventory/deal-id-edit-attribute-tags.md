@@ -2,6 +2,16 @@
 title: Edit the attribute tags for a deal ID
 description: Learn how to create and edit the attribute tags for a deal ID.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 20c71a28-1f3b-56af-ad52-f3281489a219
+    internal-label: DSP Private Inventory
+  - id: 85825b7c-c02c-536d-b821-66dc33454fb8
+    internal-label: DSP Deal IDs
+  - id: ea1cb503-33dd-595d-833b-f365576083b6
+    internal-label: DSP Programmatic Guaranteed Deals
 ---
 # Edit the attribute tags for a deal ID
 

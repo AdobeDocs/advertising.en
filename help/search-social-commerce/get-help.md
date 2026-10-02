@@ -3,10 +3,13 @@ title: Get help
 description: Learn how to view online help and community resources and how to get technical support.
 feature: Search Introduction
 exl-id: d5b5b691-bb73-4acf-afcd-d66e444c1f6c
-TQID: https://experienceleague.adobe.com/i-LfGOrhDTQ80m8uL2u-O9jFBHgxiasLkUz44j8jW9A
+TQID: 'https://experienceleague.adobe.com/i-LfGOrhDTQ80m8uL2u-O9jFBHgxiasLkUz44j8jW9A'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: f86a94c9-f065-509d-be1f-6a576acb810d
+    internal-label: Search Introduction
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

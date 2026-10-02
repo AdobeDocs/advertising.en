@@ -1,12 +1,15 @@
 ---
-title: "[!DNL Baidu] ad group settings"
+title: '[!DNL Baidu] ad group settings'
 description: Reference the settings for [!DNL Baidu] ad groups.
 exl-id: 1d480339-a8c8-4874-ad8e-d8973660682c
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/D67N1vO-1daimMilI78e-TGo-NAjEMOT5TSTehrcB9Q
+TQID: 'https://experienceleague.adobe.com/D67N1vO-1daimMilI78e-TGo-NAjEMOT5TSTehrcB9Q'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

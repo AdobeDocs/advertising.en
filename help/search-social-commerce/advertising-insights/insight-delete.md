@@ -3,10 +3,13 @@ title: Delete an [!DNL Advertising Insight]
 description: Learn how to delete an [!DNL Advertising Insight].
 exl-id: d8eb5991-aee4-4b28-9633-51eff2def599
 feature: Search Reports
-TQID: https://experienceleague.adobe.com/EYD6QIOse6vtegVleRRQ3ojBZyhmKV01nE4dmdzO73o
+TQID: 'https://experienceleague.adobe.com/EYD6QIOse6vtegVleRRQ3ojBZyhmKV01nE4dmdzO73o'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

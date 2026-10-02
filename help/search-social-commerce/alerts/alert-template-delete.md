@@ -3,10 +3,13 @@ title: Delete a custom alert template
 description: Learn how to delete your alert templates.
 exl-id: be77f74f-f293-46f1-a5dc-317e828682b4
 feature: Search Alerts
-TQID: https://experienceleague.adobe.com/fxDsZURdacxsQE6Ek3VN-Vk9jTJVmoLHraGhfigqFls
+TQID: 'https://experienceleague.adobe.com/fxDsZURdacxsQE6Ek3VN-Vk9jTJVmoLHraGhfigqFls'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d26a7c77-52b3-5c68-80ee-315aaaaee689
+    internal-label: Search Alerts
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -2,6 +2,12 @@
 title: (New UI) Replicate Google Ads campaigns in Microsoft Advertising
 description: Learn how to export your synced campaigns in a Google Ads account directly into a synced Microsoft Advertising account.
 feature: Search Campaign Management
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 ---
 # (New UI) Replicate [!DNL Google Ads] campaigns in [!DNL Microsoft Advertising]
 

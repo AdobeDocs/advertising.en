@@ -3,16 +3,18 @@ title: Create a custom report
 description: Learn how to create a custom report.
 feature: DSP Custom Reports
 exl-id: f895529b-dc69-4c74-bca6-3f7617f41ceb
-TQID: https://experienceleague.adobe.com/kyvBniA5AgbgEHvH8SfGXGlti5STmox-TJ613sXEC6c
+TQID: 'https://experienceleague.adobe.com/kyvBniA5AgbgEHvH8SfGXGlti5STmox-TJ613sXEC6c'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: a8f4be51-fec2-5e52-b41e-a611c28e444c
+    internal-label: DSP Custom Reports
 subfeature_v2:
   - id: cc3b7f3c-58f0-4ba4-b808-391002930fd4
-    internal-label: DSP Custom Reports
+    internal-label: Custom reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

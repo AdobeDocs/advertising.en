@@ -2,6 +2,12 @@
 title: (New UI) Manage notifications
 description: Learn how to view, configure, and manage Search, Social, & Commerce notifications, including push notifications and the Notification Center web application.
 feature: Search Notifications
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 4a019b9f-6dd0-5c07-a60f-b60f67fd80d0
+    internal-label: Search Notifications
 ---
 # (New UI) Manage notifications
 

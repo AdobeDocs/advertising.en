@@ -3,16 +3,18 @@ title: Available third-party data providers in Advertising DSP
 description: See a list of all available third-party data providers.
 feature: DSP Audiences
 exl-id: 081d1513-b105-4d32-a98c-145c7122cb89
-TQID: https://experienceleague.adobe.com/wrlOPkHLdyp8-KCtArEkejShm60mIAex9kLGy8a3ShE
+TQID: 'https://experienceleague.adobe.com/wrlOPkHLdyp8-KCtArEkejShm60mIAex9kLGy8a3ShE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: b4dc2b3d-fdb5-55cd-9190-f1076d8563e4
+    internal-label: DSP Audiences
 subfeature_v2:
   - id: fef5c122-6482-4d17-a8ce-4e70b906f1f4
-    internal-label: DSP Audiences
+    internal-label: Audiences
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

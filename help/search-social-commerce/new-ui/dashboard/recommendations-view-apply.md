@@ -2,6 +2,12 @@
 title: Publisher recommendations and insights support
 description: Learn about the support for viewing and managing publisher recommendations and insights.
 feature: Search Recommendations
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ae143aa5-b8d8-5a93-93ab-45e919f0c418
+    internal-label: Search Recommendations
 ---
 # Publisher recommendations and insights support
 

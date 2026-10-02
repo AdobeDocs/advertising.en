@@ -3,10 +3,13 @@ title: Optimize the website landing pages
 description: Learn about best practices for optimizing your website landing pages.
 exl-id: cd94277c-a340-4161-8630-86a249eb3465
 feature: Search Best Practices
-TQID: https://experienceleague.adobe.com/W-jWR37BWiSfwdR-CozewBAEbaIOGIRd-S4CLsPATVI
+TQID: 'https://experienceleague.adobe.com/W-jWR37BWiSfwdR-CozewBAEbaIOGIRd-S4CLsPATVI'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 4448d932-c6c2-59c8-8d0c-d940413abe6b
+    internal-label: Search Best Practices
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

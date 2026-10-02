@@ -4,10 +4,15 @@ description: Learn how to group portfolios.
 feature: Search Portfolios, Search Optimization
 hide: true
 exl-id: c1c011bd-f0e4-48aa-8376-1eed57e4e018
-TQID: https://experienceleague.adobe.com/fXxP-MUu2cHIBa4O83bOnJnjAFXVszMicmSQNkN71jw
+TQID: 'https://experienceleague.adobe.com/fXxP-MUu2cHIBa4O83bOnJnjAFXVszMicmSQNkN71jw'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 893a7eac-45bd-56c2-a120-18db6d297dcc
+    internal-label: Search Portfolios
+  - id: ae57d55f-b168-5358-b114-c3974b1b3d77
+    internal-label: Search Optimization
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
