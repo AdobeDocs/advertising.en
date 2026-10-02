@@ -23,7 +23,7 @@ Removing a classification value removes the association with the account compone
 
 You can remove classification values from any applicable account components that are available in the new UI.
 
-1. Open the entity view from the **[!UICONTROL Manage]** or **[!UICONTROL Target]** menu.
+1. Open the entity view from the **[!UICONTROL Manage]** or **[!UICONTROL Targeting]** menu.
 
 1. Select the check box next to each relevant row.
 

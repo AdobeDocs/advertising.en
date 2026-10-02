@@ -23,7 +23,7 @@ role_v2:
 
 An ad group includes a set of ads and their related keywords. An ad group in a campaign that targets the display network can also include placements, which are locations on the display network in which your ads can appear. Ad group settings, which apply to all components of the ad group, vary by ad network.
 
-Once you [make an ad network account accessible via an API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md) and Search, Social, & Commerce has synchronized the account data with the ad network, you can create ad groups for a [supported campaign type](/help/search-social-commerce/introduction/supported-inventory.md). You also can edit and change the status of ad groups.
+Once you [make an ad network account accessible via an API connection](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/api-account-manage.md) and Search, Social, & Commerce has synchronized the account data with the ad network, you can create ad groups for a [supported campaign type](/help/search-social-commerce/introduction/supported-inventory.md). You also can edit and change the status of ad groups.
 
 For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
 
@@ -317,8 +317,8 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 >
 >* [Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
 >* [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
->* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-constraint-assignments-manage.md)
->* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-constraint-assignments-manage.md)
+>* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/manage/keywords/keyword-constraint-assignments-manage.md)
+>* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/targeting/placements/placement-constraint-assignments-manage.md)
 >* [(Legacy UI) Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
 >* [(Legacy UI) Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
 >* [[!DNL Baidu] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md)

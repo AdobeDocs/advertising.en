@@ -43,7 +43,7 @@ The [!UICONTROL Reports] > [!UICONTROL Labels Classifications] view includes [!U
 
 <!-- Update links to bulksheet columns once I have new files/paths -->
 
-1. Click **[!UICONTROL Reports] > [!UICONTROL Label Classifications]**.
+1. Click **[!UICONTROL Setup] > [!UICONTROL Label Classifications]**.
 
 1. In the upper right, click **[!UICONTROL Create Classification]**.
 
@@ -63,7 +63,7 @@ Label values are inherited by child entities, so don't enter values for child en
 >
 >Your keywords and ad copy for some ad networks and campaign types are [non-mutable](/help/search-social-commerce/campaign-management/faqs-campaigns.md), which means that editing them deletes the existing entity and creates a new one. When an existing entity is deleted in this way, the label classification isn't assigned to the new entity.
 
-1. Open the entity view from the **[!UICONTROL Manage]** or **[!UICONTROL Target]** menu.
+1. Open the entity view from the **[!UICONTROL Manage]** or **[!UICONTROL Targeting]** menu.
 
 1. Select the check box next to each relevant row.
 
@@ -149,7 +149,7 @@ Removing a classification value removes the association with the account compone
 >
 >To delete a value from a label classification, see "[Delete label classification values](#classification-values-delete)."
 
-1. Open the entity view from the **[!UICONTROL Manage]** or **[!UICONTROL Target]** menu.
+1. Open the entity view from the **[!UICONTROL Manage]** or **[!UICONTROL Targeting]** menu.
 
 1. Select the check box next to each relevant row.
 
@@ -171,7 +171,7 @@ Deleting label classification values makes them unavailable for future use, and 
 >
 >To simply disassociate a classification value from an account component, see "[Remove label classification values from account components](#classification-values-remove)."
 
-1. Click **[!UICONTROL Reports] > [!UICONTROL Label Classifications]**.
+1. Click **[!UICONTROL Setup] > [!UICONTROL Label Classifications]**.
 
 1. Click the **[!UICONTROL Label Values]** tab.
 
@@ -195,7 +195,7 @@ Deleting a classification removes all associations between its child values and 
 >
 >To simply disassociate a classification value from an account component, see "[Remove label classification values from account components](#classification-values-remove)."
 
-1. Click **[!UICONTROL Reports] > [!UICONTROL Label Classifications]**.
+1. Click **[!UICONTROL Setup] > [!UICONTROL Label Classifications]**.
 
 1. (Optional) Filter the list to include specific label classifications.
 

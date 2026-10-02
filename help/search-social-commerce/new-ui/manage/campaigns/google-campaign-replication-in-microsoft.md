@@ -31,9 +31,11 @@ Not all campaign information is replicated, and you may need to add some informa
 
 See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500){target="_blank"}.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Import Campaigns]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
 
-1. Click **[!UICONTROL Import Campaigns]**.
+1. Above the campaign list, click **[!UICONTROL Import Campaigns]**.
+
+1. Click **[!UICONTROL + Import Campaigns]**.
 
 1. Specify the [import settings](#campaign-import-settings).
 
@@ -41,13 +43,15 @@ See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsof
 
 1. Review your selections in the summary and click **[!UICONTROL Start Import]**.
 
-1. (Optional) Add Search, Social, & Commerce tracking within the [account](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md), [campaign](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad group](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md), or [ad](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) settings.
+1. (Optional) Add Search, Social, & Commerce tracking within the [account](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/api-account-manage.md), [campaign](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad group](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md), or [ad](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) settings.
 
 ## Edit schedule settings for a campaign import job
 
 See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500){target="_blank"}.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Import Campaigns]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
+
+1. Above the campaign list, click **[!UICONTROL Import Campaigns]**.
 
 1. On the **[!UICONTROL List of Import Jobs]** tab, click the name of the import job, and then click **[!UICONTROL Edit]**.
 
@@ -59,13 +63,17 @@ See [what's imported from [!DNL Google Ads] campaigns](https://help.ads.microsof
 
 You can list all import jobs, including the source [!DNL Google Ads] account, the target [!DNL Microsoft Advertising] account, the import time or schedule, and the user who created the job. When you run an import job multiple times, including during regularly scheduled imports, each occurrence is listed as a separate job.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Import Campaigns]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
+
+1. Above the campaign list, click **[!UICONTROL Import Campaigns]**.
 
    The view opens to the **[!UICONTROL List of Import Jobs]** tab by default.
 
 ## Run a campaign import job
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Import Campaigns]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
+
+1. Above the campaign list, click **[!UICONTROL Import Campaigns]**.
 
 1. On the **[!UICONTROL List of Import Jobs]** tab, select the check box next to the import job, and then click **[!UICONTROL Run Now]**.
 
@@ -73,7 +81,9 @@ You can list all import jobs, including the source [!DNL Google Ads] account, th
 
 You can list all completed or failed import jobs, including the start time, the source [!DNL Google Ads] account, the target [!DNL Microsoft Advertising] account, the user who created the job, the number of successful and failed operations, and any email addresses that received notifications for each job. You can view further details about the changes to the target [!DNL Microsoft Advertising] account that occurred for each job, including the number of items added, synced, deleted, and that produced errors for each entity level (such as campaign or keyword) in the account.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Import Campaigns]**.
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
+
+1. Above the campaign list, click **[!UICONTROL Import Campaigns]**.
 
 1. Click the **[!UICONTROL Import Logs]** tab.
 
@@ -125,4 +135,4 @@ You can list all completed or failed import jobs, including the start time, the 
 
 >[!MORELIKETHIS]
 >
->* [Manage ad network accounts](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md)
+>* [Manage ad network accounts](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/api-account-manage.md)

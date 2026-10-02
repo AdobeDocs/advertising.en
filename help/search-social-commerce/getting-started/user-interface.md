@@ -40,6 +40,50 @@ The new user interface features a new main menu on the left, which organizes tas
 
   * **[!UICONTROL Recommendations]**: Opens a read-only view of your publisher recommendations from [!DNL Google Ads] and [!DNL Microsoft Advertising] and publisher insights from [!DNL Microsoft Advertising.] To view and respond to your recommendations and insights, use the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
+* **[!UICONTROL Manage]** submenu:
+
+  * **[!UICONTROL Portfolios]:** Opens a new [!UICONTROL Portfolios] view that lists all portfolios for the advertiser. You can manage your portfolios from this view. You can open a list of assigned constraints and view performance and composition details for any portfolio.
+
+    The portfolio settings include tabs to assign the objective and campaigns, manage spend, manage constraints, and control optimization. Only users with the "expert optimization" profile or higher can edit the settings on the [!UICONTROL Control Optimization] tab.
+
+  * **[!UICONTROL Accounts]**: Opens a new [!UICONTROL Accounts] view. You can manage ad network accounts that are synced via an API connection or set up via data upload. You can also manage existing [!UICONTROL Naver] accounts.
+
+  * **[!UICONTROL Campaigns]:** Opens a new [!UICONTROL Campaigns] view, which shows all campaigns for the advertiser. You can manage campaigns, assign campaigns to portfolios, and manage constraint assignments for selected campaigns. You can also download a report of the data table contents. In addition, you can replicate [!DNL Google Ads] campaigns in [!DNL Microsoft Advertising], <!-- Was removed: To see the ad groups for a campaign, click the campaign name. -->
+  
+  * **[!UICONTROL Ad Groups]:** Opens a new [!UICONTROL Ad Groups] view, which shows all ad groups for the advertiser. You can manage ad groups and constraint assignments for selected ad groups. You can also download a report of the data table contents.
+  
+  * **[!UICONTROL Ads]** Opens a new [!UICONTROL Ads] view, which shows all ads for the advertiser. You can manage ads and constraint assignments for selected ads.
+  
+  * **[!UICONTROL Keywords]** Opens a new [!UICONTROL Keywords] view, which shows existing keywords and negative keywords for the advertiser. You can manage constraint assignments for selected keywords.
+
+    To create, edit, and delete keyword and negative keywords, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+
+  * **[!UICONTROL Product Groups]** Opens a new [!UICONTROL Keywords] view, which shows your existing shopping product groups. You can manage your product groups, including constraint and label assignments.
+
+* **[!UICONTROL Reports]** submenu:
+
+  * **[!UICONTROL Insights]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Insights] view.
+
+  * **[!UICONTROL Reports]**: Opens a new [!UICONTROL Reports] view, which allows you to generate and manage scheduled reports.
+
+  * **[!UICONTROL Spreadsheet Feeds]**: Opens a new [!UICONTROL Spreadsheets Feeds] view, from which you can set up report feeds to be updated daily.
+
+  * **[!UICONTROL History Logs]**: Opens a new [!UICONTROL History Logs] view with details about recent changes to the advertiser account.
+
+* **[!UICONTROL Plan]** submenu:
+  
+  * **[!UICONTROL Simulations]** Opens a new [[!UICONTROL Simulations] view](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md), from which you can view all of your user-created custom simulations and automatically generated weekly simulations; generate new custom simulations; and rerun existing simulations. The [!UICONTROL Spend Planner] button opens the legacy [!UICONTROL Spend Recommendation] tool at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation].
+
+  * **[!UICONTROL Spend Planner]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] view.
+
+* **[!UICONTROL Set Up]** submenu:
+
+  * **[!UICONTROL Bulksheets]**: Opens a new [!UICONTROL Bulksheets] view.
+
+  * **[!UICONTROL Label Classification]** Opens a new [!UICONTROL Label Classifications] view. You can manage classifications and assign/unassign classification values to any applicable account components that are available in the new UI.
+
+  * **[!UICONTROL Manager Accounts]**: Opens a new view of your existing manager accounts an your ad networks. To manage your manager accounts, use the legacy [!UICONTROL Admin] > [!UICONTROL Manager Accounts] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+
 * **[!UICONTROL Goals]** submenu:
 
   * **[!UICONTROL Objectives]** Opens a new [!UICONTROL Objectives] view, from which you can view all of your existing objectives and create, edit, and delete objectives.
@@ -50,73 +94,21 @@ The new user interface features a new main menu on the left, which organizes tas
 
   * **[!UICONTROL Constraints]** Opens a read-only view of your existing constraints. To manage your constraints, use the legacy [!UICONTROL Optimization] > [!UICONTROL Constraints] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-* **[!UICONTROL Plan]** submenu:
-  
-  * **[!UICONTROL Simulations]** Opens a new [[!UICONTROL Simulations] view](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md), from which you can view all of your user-created custom simulations and automatically generated weekly simulations; generate new custom simulations; and rerun existing simulations. The [!UICONTROL Spend Planner] button opens the legacy [!UICONTROL Spend Recommendation] tool at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation].
-
-  * **[!UICONTROL Spend Planner]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] view.
-
-* **[!UICONTROL Manage]** submenu:
-
-  * **[!UICONTROL Portfolios]:** Opens a new [!UICONTROL Portfolios] view that lists all portfolios for the advertiser. You can manage your portfolios from this view. You can open a list of assigned constraints and view performance and composition details for any portfolio.
-
-    The portfolio settings include tabs to assign the objective and campaigns, manage spend, manage constraints, and control optimization. Only users with the "expert optimization" profile or higher can edit the settings on the [!UICONTROL Control Optimization] tab.
-
-  * **[!UICONTROL Campaigns]:** Opens a new [!UICONTROL Campaigns] view, which shows all campaigns for the advertiser. You can assign campaigns to portfolios and manage constraint assignments for selected campaigns. You can also download a report of the data table contents. <!-- Was removed: To see the ad groups for a campaign, click the campaign name. -->
-  
-    To create, edit, and delete campaigns, return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
-
-  * **[!UICONTROL Ad Groups]:** Opens a new [!UICONTROL Ad Groups] view, which shows all ad groups for the advertiser. You can manage constraint assignments for selected ad groups. You can also download a report of the data table contents.
-  
-    To create, edit, and delete campaigns, return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
-
-  * **[!UICONTROL Ads]** Opens a new [!UICONTROL Ads] view, which shows all ads for the advertiser. You can manage constraint assignments for selected ads.
-  
-    To create, edit, and delete ads, return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
-
-* **[!UICONTROL Reports]** submenu:
-
-  * **[!UICONTROL Insights]**: Exits the new site and opens the legacy [!UICONTROL Insights & Reports] > [!UICONTROL Insights] view.
-
-  * **[!UICONTROL Scheduled Reports]**: Opens a new [!UICONTROL Scheduled Reports] view, which allows you to generate and manage scheduled reports.
-
-  * **[!UICONTROL Spreadsheet Feeds]**: Opens a new [!UICONTROL Spreadsheets Feeds] view, from which you can set up report feeds to be updated daily.
-
-  * **[!UICONTROL History Logs]**: Opens a new [!UICONTROL History Logs] view with details about recent changes to the advertiser account.
-
-  * **[!UICONTROL Label Classification]** Opens a new [!UICONTROL Label Classifications] view. You can manage classifications and assign/unassign classification values to any applicable account components that are available in the new UI.
-
-* **[!UICONTROL Target]** submenu:
+* **[!UICONTROL Targeting]** submenu:
 
   * **[!UICONTROL Audiences]**: Opens a new view that shows all existing audiences for the advertiser, all audience targets, and all audience exclusions. To manage your audiences, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
   * **[!UICONTROL Auto Targets]** Opens a new view, which shows all existing auto targets for the advertiser. To manage your auto targets, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Auto Targets] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-  * **[!UICONTROL Keywords]** Opens a new [!UICONTROL Keywords] view, which shows existing keywords and negative keywords for the advertiser. You can manage constraint assignments for selected keywords.
-  
-    To create, edit, and delete keywords and negative keywords, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
-
   * **[!UICONTROL Placements]** Opens a new [!UICONTROL Placements] view, which shows existing placements and negative placements for the advertiser. You can manage constraint assignments for selected placements.
   
     To create, edit, and delete placements and negative placements, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-* **[!UICONTROL Assets]** submenu:
+* **[!UICONTROL Library]** submenu:
 
-  * **[!UICONTROL Creatives]** Opens a new view, which lists your existing creative assets. You can preview each creative. To manage your asset library, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Asset Library] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+  * **[!UICONTROL Assets]** Opens a new view, which lists your existing creative assets. You can preview each creative. To manage your asset library, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Asset Library] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
   * **[!UICONTROL Extensions]** Opens read-only views of your existing ad extensions. To manage your extensions, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
-
-  * **[!UICONTROL Shopping]** Opens read-only views of your existing shopping product groups. To manage your product groups, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Product Groups] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
-
-* **[!UICONTROL Set Up]** submenu:
-
-  * **[!UICONTROL Manager Accounts]**: Opens a new view of your existing manager accounts an your ad networks. To manage your manager accounts, use the legacy [!UICONTROL Admin] > [!UICONTROL Manager Accounts] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
-
-  * **[!UICONTROL Accounts]**: Opens a new [!UICONTROL Accounts] view. You can manage ad network accounts that are synced via an API connection or set up via data upload. You can also manage existing [!UICONTROL Naver] accounts.
-
-  * **[!UICONTROL Import Campaigns]**: Opens a new view, from which you can import campaign data.
-
-  * **[!UICONTROL Bulksheets]**: Opens a new [!UICONTROL Bulksheets] view.
 
   * **[!UICONTROL Products]** Opens read-only views of your existing merchant center accounts and products. To add a merchant center account, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Products] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 

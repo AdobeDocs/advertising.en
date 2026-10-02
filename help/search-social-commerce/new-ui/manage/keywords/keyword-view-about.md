@@ -17,10 +17,10 @@ The [!UICONTROL Manage] > [!UICONTROL Keywords] view includes two tabs:
 
 ## Available actions
 
-* [Assign constraints to keywords, and unassign constraints from keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-constraint-assignments-manage.md)
+* [Assign constraints to keywords, and unassign constraints from keywords](/help/search-social-commerce/new-ui/manage/keywords/keyword-constraint-assignments-manage.md)
 
-* [Assign label classifications](/help/search-social-commerce/new-ui/reports/label-classifications-manage.md) to keywords
+* [Assign label classifications](/help/search-social-commerce/new-ui/set-up/label-classifications-manage.md) to keywords
 
 >[!MORELIKETHIS]
 >
->* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-constraint-assignments-manage.md)
+>* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/manage/keywords/keyword-constraint-assignments-manage.md)

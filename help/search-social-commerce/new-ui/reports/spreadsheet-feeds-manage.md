@@ -35,14 +35,14 @@ The [!UICONTROL Reports] > [!UICONTROL Spreadsheets Feeds] view lists all spread
 
 To create spreadsheet feeds, you must first create specially formatted [!DNL Microsoft Excel] spreadsheet templates using regular report templates. You optionally can customize the [!DNL Excel] spreadsheet to include additional columns and graphs.
 
-1. In **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**, generate the desired report type using a [!UICONTROL Date Aggregation] unit of "[!UICONTROL Daily]" and with all other data parameters you want, saving the report as a template.
+1. In **[!UICONTROL Reports] > [!UICONTROL Reports]**, generate the desired report type using a [!UICONTROL Date Aggregation] unit of "[!UICONTROL Daily]" and with all other data parameters you want, saving the report as a template.
 
    >[!NOTE]
    >
    > * You can create spreadsheet feeds for [!UICONTROL Portfolio], [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Ad Variation], [!UICONTROL Keyword], and [!UICONTROL Forecast Accuracy] reports. If you use the [!UICONTROL Ad Group Report], limit the number of ad groups included for quicker results.
    > * The [!UICONTROL Date Range] unit defined in the template isn't used. You'll define the dates for which to refresh data when you configure the spreadsheet feed later.
 
-1. After the report is generated, go to **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]** and export a TSV or XLS version of the report output to a file.
+1. After the report is generated, go to **[!UICONTROL Reports] > [!UICONTROL Reports]** and export a TSV or XLS version of the report output to a file.
 
 1. In [!DNL Excel], create a custom template for the report:
 

@@ -17,7 +17,7 @@ Each advertiser can have up to 30 label classifications.
 
 ## (New UI) Create a label classification
 
-1. Click **[!UICONTROL Reports] > [!UICONTROL Label Classifications]**.
+1. Click **[!UICONTROL Setup] > [!UICONTROL Label Classifications]**.
 
 1. In the upper right, click **[!UICONTROL Create Classification]**.
 

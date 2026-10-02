@@ -36,7 +36,7 @@ Uploads to [!DNL Google Ads] and [!DNL Microsoft Advertising] occur throughout t
 
 1. (Advertisers with [!DNL Google Ads] accounts who do business in the European Economic Area (EEA) or United Kingdom (UK); optional) If you've collected consent from EEA and UK users to upload their data for advertising purposes, then select the checkbox. This sends the consent status as **[!UICONTROL GRANTED]** to [!DNL Google Ads] and [!DNL Microsoft Advertising]. If you don't select the checkbox, then the consent status is sent as **[!UICONTROL UNSPECIFIED]**.
 
-1. (If your conversions are tracked at a manager account level) [Add credentials for your manager account](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/manager-account-manage.md) before saving.
+1. (If your conversions are tracked at a manager account level) [Add credentials for your manager account](/help/search-social-commerce/new-ui/set-up/manager-account-manage.md) before saving.
 
 1. Click **[!UICONTROL Save]**.
 
@@ -73,7 +73,7 @@ If the objective &mdash; named `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_a
 
 * ([!DNL Google Ads]) Check if the conversions should be uploaded to the account or manager level. If they should be uploaded at the manager level:
 
-  * Check if the credentials for the [!DNL Google Ads] manager account are provided. If necessary, [add the credentials for the manager account](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/manager-account-manage.md).
+  * Check if the credentials for the [!DNL Google Ads] manager account are provided. If necessary, [add the credentials for the manager account](/help/search-social-commerce/new-ui/set-up/manager-account-manage.md).
 
   * Check if the ad network account already includes the same metric name. If it does, rename the metric so that the correct manager-level property can be created.
 
@@ -83,7 +83,7 @@ If the objective &mdash; named `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_a
 >
 >* [About objectives](objective-about.md)
 >* [Manage an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
->* [Manage credentials for [!DNL Google Ads] manager accounts](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/manager-account-manage.md)
+>* [Manage credentials for [!DNL Google Ads] manager accounts](/help/search-social-commerce/new-ui/set-up/manager-account-manage.md)
 
 <!--
 I don't see this yet in new UI:

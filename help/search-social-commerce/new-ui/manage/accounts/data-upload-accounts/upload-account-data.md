@@ -24,7 +24,7 @@ See "XXX" for information about supported ad networks and account structures.
 [supported ad networks and campaign types](/help/search-social-commerce/introduction/supported-inventory.md)
 -->
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Do either of the following:
 
@@ -65,7 +65,7 @@ See "XXX" for information about supported ad networks and account structures.
 >* Contact your Adobe Account Team to enable account data uploads for your Search, Social, & Commerce advertiser account. The team will facilitate the creation of an organization-specific folder in an [!DNL S3] bucket, and they'll let you know when it's completed.<!-- Add more context about the bucket we'll use here or in the intro. Do we have one bucket (potentially with multiple folders) per client, or do we share them (if so, do we need to state how in docs? -->
 >* Retrieve the [!DNL S3] cloud storage path, access key ID, and secret access key for your account. The same access key ID and secret access key are used for all of the organization's data-upload <!-- naming convention?--> accounts.
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Do either of the following:
 
@@ -133,7 +133,7 @@ See "XXX" for information about supported ad networks and account structures.
 
 ## View a log of uploaded account data files
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Hold the cursor over the account name, click **...**, and then click **[!UICONTROL Upload Logs]**.
 
