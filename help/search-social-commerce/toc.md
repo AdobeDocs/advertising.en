@@ -244,7 +244,7 @@ role_v2:
     + [Manage [!DNL Google Ads] dynamic search targets](/help/search-social-commerce/new-ui/target/dynamic-search-target-manage.md)
     + Placements {#placements}
       + [About the [!UICONTROL Placements] view](/help/search-social-commerce/new-ui/target/placements/placement-view-about.md)
-      + [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-constraint-assignments-manage.md)
+      + [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/targeting/placements/placement-constraint-assignments-manage.md)
   + Library {#library}
     + [View and create creative assets](/help/search-social-commerce/new-ui/assets/creative-asset-manage.md)
   + [Manage custom alerts](/help/search-social-commerce/new-ui/alerts-manage.md)
