@@ -13,11 +13,6 @@ feature_v2:
 # (New UI) Manage ad network accounts via API connection
 
 <!-- Besides just logging into an account, do you have to make any other choices once you're logged in (such as to give speciic permissions to SSC?  And what about oAuth tokens -- do we still use them? -->
-
-*Beta feature*
-
-<!-- Move out info about Naver into a separate page -->
-
 Following are instructions for managing ad network accounts that Search, Social, & Commerce syncs using the ad network's API.
 
 <!-- Move out info about Naver into a separate page -->
@@ -32,13 +27,13 @@ To enable syncing of an account, you must create a corresponding account record 
 >
 >To create an actual account on the ad network, go to the ad network's website.
 
-1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
 
 1. Click **[!UICONTROL Create Account]**.
 
 1. Click the name of the ad network, and then click **[!UICONTROL Next]**.
 
-1. (All ad networks except for [!DNL Yandex]) Log in to the ad network using the advertiser's credentials. Select the option "Account tracking for this account." Then, in the upper right, click **[!UICONTROL Next]**. 
+1. (All ad networks except for [!DNL ChatGPT Ads] and [!DNL Yandex]) Log in to the ad network using the advertiser's credentials. Select the option "Account tracking for this account." Then, in the upper right, click **[!UICONTROL Next]**.
 
 1. Specify the [account settings](#account-settings-api) on each available tab. 
 
@@ -54,7 +49,7 @@ To re-authenticate the account settings to refresh the connection or update perm
 >
 >To edit an actual account on the ad network, go to the ad network's website.
 
-1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
 
 1. Select the account in either of the following ways:
 
@@ -72,11 +67,13 @@ To re-authenticate the account settings to refresh the connection or update perm
 
 ## Re-authenticate an ad network account {#reauthenticate}
 
+*Not applicable to [!DNL ChatGPT Ads] accounts*
+
 To refresh the ad network connection or update permissions for the account, re-authenticate the account.
 
 1. (If you're logged in to another account for the same ad network in the same browser application) Log out of any account other than the advertiser's.
 
-1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
 
 <!-- For Bing and Yandex, the right-click menu includes "Re authenticate." Clarify why just those types -->
 
@@ -94,7 +91,7 @@ To refresh the ad network connection or update permissions for the account, re-a
 
 When you enable an ad network account, Search, Social, & Commerce synchronizes campaign data with the account (when supported) and pushes automated bids and/or campaign budgets for campaigns in portfolios. When you disable an ad network account, Search, Social, & Commerce stops all activity on the account. Data collected while the account was active is still stored, but the campaign management views and reports don't include data for the time period in which the account is disabled. You can later re-enable the account to resume activity with the account.
 
-1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
 
 1. Do either of the following:
 
@@ -129,7 +126,7 @@ The account settings vary by ad network. You may not see all settings below.
 
 ### [!UICONTROL Select Accounts]/[!UICONTROL Account Details] tab
 
-**[!UICONTROL Account Name]:** The name to be displayed for the account within Search, Social, & Commerce. 
+**[!UICONTROL Account Name]:** The name to be displayed for the account within Search, Social, & Commerce.
 
 >[!NOTE]
 >
@@ -137,7 +134,7 @@ The account settings vary by ad network. You may not see all settings below.
 
 **[!DNL [Ad Network] Accounts]:** (Visible while you're creating an account) The ad network account to sync. 
 
-**[Login Details]:** (Yandex accounts only) The account credentials to use:
+**[Login Details]:** ([!DNL Yandex] accounts only) The account credentials to use:
 
 * **[!UICONTROL Login]:** The login name or ID to enable API access to the account.
 
@@ -150,12 +147,6 @@ The account settings vary by ad network. You may not see all settings below.
 * **[!UICONTROL Purse Campaign ID]:** ([!DNL Yandex] accounts with the Shared Account setting disabled only; optional) The numeric ID for the campaign used to pay for all ad campaigns in the account.
 
 * **[!UICONTROL Finance Token]:** ([!DNL Yandex] accounts with the Shared Account setting disabled only; optional) The developer token to use for finance-related API calls, such as for reallocating money from the wallet between the advertiser's campaigns as necessary for portfolio optimization.
-
-**[!UICONTROL Network Account ID]:** (All ad networks except for [!DNL Yandex] The account ID assigned by the ad network. 
-
->[!NOTE]
->
->Ad network manager accounts aren't supported here. To identify a manager account for [!DNL Microsoft Advertising], use the Master Account ID or MCC Account field, respectively. To [set up credentials for a [!DNL Google Ads] manager account](/help/search-social-commerce/new-ui/set-up/manager-account-manage.md), go to [!UICONTROL Setup] \> [!UICONTROL Manager Accounts].
 
 **[!UICONTROL Currency]:** (Read-only) The abbreviation for the currency used for the account. This value is filled automatically with the currency configured for the account on the ad network once you save the record.
 
@@ -247,5 +238,5 @@ For the data to appear in the report suites, either (a) the server-side AMO ID f
 >[!MORELIKETHIS]
 >
 >* [About ad network accounts](../ad-network-account-about.md)
->* [Manage merchant center accounts](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md)
+>* [Manage merchant center accounts](/help/search-social-commerce/new-ui/set-up/manager-account-manage.md)
 >* [Update the s_kwcid tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)
