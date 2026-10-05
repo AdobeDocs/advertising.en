@@ -48,7 +48,7 @@ Users who want to convert first-party segments from their customer data platform
 
 The standard JavaScript library consists of two lines that allow [!DNL Analytics] and Adobe Advertising to communicate with each other. If the [!DNL Analytics for Advertising] integration was completed during the Adobe Advertising implementation, then you should have already received this code with instructions on how to deploy it.
 
-#### Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code
+#### Implementations that use the Adobe Visitor ID Service `visitorAPI.js` code
 
 ```
 <script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
@@ -75,7 +75,7 @@ The JavaScript library consists of two lines that allow [!DNL Analytics] and Ado
 
 ### The code
 
-#### Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code
+#### Implementations that use the Adobe Visitor ID Service `visitorAPI.js` code
 
 ```
 <script src="https://www.everestjs.net/static/le/last-event-tag-latest.min.js">
@@ -123,7 +123,7 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
     1. On the Application tab, find the `adcloud` cookie, and verify that the cookie contains `_les_v` (last visit) with a value of `y` and a UTC epoch timestamp that expires in 30 minutes.
         1. Delete the `adcloud` cookie and refresh the page.
 
-1. (Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code) Filter on `/b/ss` to see the Analytics hit.
+1. (Implementations that use the Adobe Visitor ID Service `visitorAPI.js` code) Filter on `/b/ss` to see the Analytics hit.
 
     ![Filtering on `/b/ss`](/help/integrations/assets/a4adc-code-validation-filter-bss.png)
 
@@ -150,7 +150,7 @@ You can perform validation using any packet sniffer type of tool (such as [!DNL 
 1. In the [!UICONTROL Solutions Filter] toolbar, click [!UICONTROL Adobe Advertising] and [!UICONTROL Analytics].
 1. In the [!UICONTROL Request URL - Hostname] parameter row, locate `lasteventf-tm.everesttech.net`.
 1. In the [!UICONTROL Request - Parameters] row, audit the signals generated, similar to Step 3 in "[How to Confirm the Code with [!DNL Chrome Developer Tools]](#validate-js-chrome)."
-    * (Implementations that use the Experience Cloud Identity Service `visitorAPI.js` code) Make sure the `Sdid` parameter matches the `Supplemental Data ID` in the Adobe Analytics filter.
+    * (Implementations that use the Adobe Visitor ID Service `visitorAPI.js` code) Make sure the `Sdid` parameter matches the `Supplemental Data ID` in the Adobe Analytics filter.
     * (Implementations that use the Experience Platform [!DNL Web SDK] `alloy.js`code) Make sure the value of the `advertisingStitchID` parameter matches the `Sdid` sent to the Experience Platform Edge Network.
     * If the code isn't generating, then check to make sure the Adobe Advertising cookie has been removed in the [!UICONTROL Application] tab. Once it's removed, refresh the page and repeat the process.
 
