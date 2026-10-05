@@ -3,10 +3,13 @@ title: Apply or dismiss a publisher recommendation
 description: Learn how to view, apply, or dismiss a publisher recommendation.
 exl-id: 794df5d5-fc7c-45f7-8a26-460b0a8f56b7
 feature: Search Recommendations
-TQID: https://experienceleague.adobe.com/2g788jomfgn7tLHsuRlOO5MRwWfI-hZLCIVsTyJ11vU
+TQID: 'https://experienceleague.adobe.com/2g788jomfgn7tLHsuRlOO5MRwWfI-hZLCIVsTyJ11vU'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: ae143aa5-b8d8-5a93-93ab-45e919f0c418
+    internal-label: Search Recommendations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

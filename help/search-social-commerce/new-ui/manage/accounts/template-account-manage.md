@@ -3,6 +3,12 @@ title: (New UI) Manage [!DNL Naver] accounts for tracking only
 description: Learn how to set up and manage account details in the new UI for a [!DNL Naver] account.
 feature: Search Campaign Management
 exl-id: bc4be409-9935-448b-bfba-f93eb30bd5ca
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 ---
 # (New UI) Manage [!DNL Naver] accounts for tracking only
 

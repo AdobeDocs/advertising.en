@@ -1,15 +1,19 @@
 ---
-title: "[!UICONTROL Channel Assist Report]"
+title: '[!UICONTROL Channel Assist Report]'
 description: Learn about the [!UICONTROL Channel Assist Report].
 exl-id: 67bce347-2776-4585-adb4-e1a4d76fbadc
 feature: Search Reports, Search Assist Reports
-TQID: https://experienceleague.adobe.com/G2KcySAZVdf-J14CxQS2Hk5av6KHlpyFehwfMcZYj78
+TQID: 'https://experienceleague.adobe.com/G2KcySAZVdf-J14CxQS2Hk5av6KHlpyFehwfMcZYj78'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: ab19d4f9-a5e8-54d2-a6d6-a154af73fd6d
+    internal-label: Search Assist Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

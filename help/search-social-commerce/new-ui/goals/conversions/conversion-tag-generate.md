@@ -2,6 +2,14 @@
 title: (New UI) Generate and implement an Adobe Advertising conversion-tracking tag
 description: Learn how to create an Adobe Advertising conversion tag to track your conversion events.
 feature: Search Tools, Search Tracking
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 9f383e89-9ec3-5629-8dc3-d5aa5ab0be32
+    internal-label: Search Tools
+  - id: 2206c6aa-b5c2-51b3-88e0-706d57048fe4
+    internal-label: Search Tracking
 ---
 # (New UI) Generate and implement an Adobe Advertising conversion-tracking tag
  

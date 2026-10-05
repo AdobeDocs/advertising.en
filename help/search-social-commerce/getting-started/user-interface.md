@@ -3,10 +3,13 @@ title: How the user interface is organized
 description: Learn where to access different functionality.
 exl-id: 4c46fd47-74ca-4ff9-9812-9de73b96061c
 feature: Search Getting Started
-TQID: https://experienceleague.adobe.com/KqfmmT9cFZpNIoIiaA0OjGlMDf4hvQzNhPpH8lYtViw
+TQID: 'https://experienceleague.adobe.com/KqfmmT9cFZpNIoIiaA0OjGlMDf4hvQzNhPpH8lYtViw'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 54967645-9f46-5896-8af7-b943b426aadf
+    internal-label: Search Getting Started
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

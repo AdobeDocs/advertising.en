@@ -1,12 +1,15 @@
 ---
-title: "[!DNL Google Ads] responsive search ad settings"
+title: '[!DNL Google Ads] responsive search ad settings'
 description: Reference the settings for [!DNL Google Ads] responsive search ads.
 exl-id: ba2a08eb-91fc-4a8c-81c5-a9e28f6abdbf
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/GHQrS-Y5tGPGaz5TD06k9-cc-NIJEAYXfZcBASr3dlA
+TQID: 'https://experienceleague.adobe.com/GHQrS-Y5tGPGaz5TD06k9-cc-NIJEAYXfZcBASr3dlA'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

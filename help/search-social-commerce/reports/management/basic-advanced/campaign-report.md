@@ -1,12 +1,17 @@
 ---
-title: "[!UICONTROL Campaign Report]"
+title: '[!UICONTROL Campaign Report]'
 description: Learn about the [!UICONTROL Campaign Report].
 exl-id: c0cbdacc-2fa3-4eca-9355-6b3547d83802
 feature: Search Reports, Search Basic Reports
-TQID: https://experienceleague.adobe.com/Sdnt9gsF4hBMolIqxlYJiNERnoIWjaYLAiJNuEAPA4o
+TQID: 'https://experienceleague.adobe.com/Sdnt9gsF4hBMolIqxlYJiNERnoIWjaYLAiJNuEAPA4o'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: 1d59f142-734e-5689-9ee3-a3bf4d5c5a51
+    internal-label: Search Basic Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

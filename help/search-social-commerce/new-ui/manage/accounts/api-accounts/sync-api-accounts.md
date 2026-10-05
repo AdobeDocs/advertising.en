@@ -3,6 +3,12 @@ title: (New UI) Manually synchronize ad network data
 description: Learn how to manually trigger synchronization of your campaign structure and campaign entities for supported ad networks from the new UI.
 feature: Search Campaign Management
 exl-id: 5e857713-53f0-4d90-8b7a-18a3675d320e
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 ---
 # (New UI) Manually synchronize ad network data via API connection 
 

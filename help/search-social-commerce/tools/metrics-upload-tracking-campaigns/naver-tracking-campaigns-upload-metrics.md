@@ -3,10 +3,13 @@ title: Upload traffic and conversion metrics for [!DNL Naver] tracking-only acco
 description: Learn how to upload traffic and conversion metrics for tracking and reporting only for [!DNL Naver] accounts.
 exl-id: 2e4c26fa-16a8-4f36-bc17-b3a38a18120b
 feature: Search Tools
-TQID: https://experienceleague.adobe.com/vmx5EJXshqcimgaiZLntRL2ydVi7S-toZHdmIaVlFwE
+TQID: 'https://experienceleague.adobe.com/vmx5EJXshqcimgaiZLntRL2ydVi7S-toZHdmIaVlFwE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9f383e89-9ec3-5629-8dc3-d5aa5ab0be32
+    internal-label: Search Tools
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

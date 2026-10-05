@@ -10,6 +10,10 @@ product_v2:
 feature_v2:
   - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
     internal-label: Search, Social, & Commerce
+  - id: ae57d55f-b168-5358-b114-c3974b1b3d77
+    internal-label: Search Optimization
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 subfeature_v2:
   - id: f3d33161-c519-436e-bbbd-730ba428736b
     internal-label: Campaign management

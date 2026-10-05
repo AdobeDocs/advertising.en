@@ -3,10 +3,16 @@ title: Copy child nodes to another target node at the same level
 description: Learn how to copy all child nodes of a parent target node to another target node at the same level
 feature: Creative Experiences
 exl-id: b3705689-57b6-41ce-9e00-2358bd195c93
-TQID: https://experienceleague.adobe.com/KLKVrggOQ8V99Cd-2PcFEdwImKvLYkskSD-DPDvpwu0
+TQID: 'https://experienceleague.adobe.com/KLKVrggOQ8V99Cd-2PcFEdwImKvLYkskSD-DPDvpwu0'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
+subfeature_v2:
+  - id: f1a0ef49-c5d6-4fdf-b0dc-ae6685afe30b
+    internal-label: Creative experiences
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -2,6 +2,9 @@
 title: (New UI) Available features for managing conversion metrics
 description: Learn about the different features available for managing conversion metrics.
 feature: Conversions
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
 feature_v2:
   - id: e6916c1b-e939-4e0b-99f5-768e83e1e99f
     internal-label: Conversion tracking

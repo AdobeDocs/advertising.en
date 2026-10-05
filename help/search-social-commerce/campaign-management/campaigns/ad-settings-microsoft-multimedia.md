@@ -1,12 +1,15 @@
 ---
-title: "[!DNL Microsoft Advertising] multimedia ad settings"
+title: '[!DNL Microsoft Advertising] multimedia ad settings'
 description: Reference the settings for [!DNL Microsoft Advertising] multimedia ads.
 exl-id: 920ecb8d-e179-4946-be60-64f00bbabb70
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/BmzclS43QHM1mtVus2pIdJqEh0B-tUQVKyUFdzH4iEw
+TQID: 'https://experienceleague.adobe.com/BmzclS43QHM1mtVus2pIdJqEh0B-tUQVKyUFdzH4iEw'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

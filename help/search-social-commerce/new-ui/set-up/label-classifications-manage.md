@@ -2,6 +2,12 @@
 title: Manage label classifications
 description: Learn about using label classifications to group your account components.
 feature: Search Label Classifications
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: e29095c7-c364-5fb4-ac07-691793cb92e4
+    internal-label: Search Label Classifications
 ---
 # Manage label classifications
 

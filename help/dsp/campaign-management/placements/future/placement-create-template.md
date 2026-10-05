@@ -1,6 +1,9 @@
 ---
 title: Create a placement template
 description: Create a placement template
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
 ---
 
 # Create a placement template

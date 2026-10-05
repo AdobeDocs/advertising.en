@@ -2,6 +2,12 @@
 title: View event pixels for a [!UICONTROL Simple Ad Serving] deal
 description: Learn how to get a copy of event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal.
 feature: DSP Simple Ad Serving
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 98ea1d8f-85a7-5f89-b8d8-c40726baa182
+    internal-label: DSP Simple Ad Serving
 ---
 # View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal
 

@@ -3,10 +3,13 @@ title: Conversion tracking options for Search, Social, & Commerce
 description: Learn about conversion tracking options for Search, Social, & Commerce.
 exl-id: 263da6a4-8d72-4882-8784-290a3be6f8fa
 feature: Search Tracking
-TQID: https://experienceleague.adobe.com/Zv-ncIkpwqM24hoF9I2T8Er9Qf8R0j2fJSSk4jI7HSo
+TQID: 'https://experienceleague.adobe.com/Zv-ncIkpwqM24hoF9I2T8Er9Qf8R0j2fJSSk4jI7HSo'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 2206c6aa-b5c2-51b3-88e0-706d57048fe4
+    internal-label: Search Tracking
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

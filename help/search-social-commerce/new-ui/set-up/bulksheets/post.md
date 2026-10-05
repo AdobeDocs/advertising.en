@@ -8,6 +8,8 @@ product_v2:
 feature_v2:
   - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
     internal-label: Search, Social, & Commerce
+  - id: 882cfb76-bb33-50bf-a743-3ada27f6338a
+    internal-label: Search Bulksheets
 subfeature_v2:
   - id: e58024d1-d6da-420c-80af-6be211808316
     internal-label: Bulksheets

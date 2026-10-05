@@ -3,10 +3,20 @@ title: Attach a creative to creative bundles
 description: Learn how to attach a creative to a creative bundle.
 feature: Creative Standard Creatives, Creative Dynamic Creatives, Creative Bundles
 exl-id: 833c4102-8577-4ba1-be07-7e032cec94ca
-TQID: https://experienceleague.adobe.com/lhyGXEnwniBWWqbzr7SNX0T2kg4MhlRrybi3-UL4-sc
+TQID: 'https://experienceleague.adobe.com/lhyGXEnwniBWWqbzr7SNX0T2kg4MhlRrybi3-UL4-sc'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
+subfeature_v2:
+  - id: d06c1576-7039-4934-b256-7366e138fbb6
+    internal-label: Creative Standard Creatives
+  - id: d70c54b0-f069-4a3c-8056-7069a25e110c
+    internal-label: Creative Dynamic Creatives
+  - id: ea400851-fc23-4174-bc9c-b50ea0ed4d00
+    internal-label: Creative Bundles
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -1,7 +1,15 @@
 ---
-title: "[!UICONTROL Keyword Daily Impression Share Report]"
+title: '[!UICONTROL Keyword Daily Impression Share Report]'
 description: Learn about the [!UICONTROL Keyword Daily Impression Share Report].
 feature: Search Reports, Search Specialty Reports
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: 7de556b7-2c2a-599d-853b-8c282aafa6e3
+    internal-label: Search Specialty Reports
 ---
 # [!UICONTROL Keyword Daily Impression Share Report]
 

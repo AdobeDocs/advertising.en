@@ -3,6 +3,12 @@ title: Specify a date using the calendar
 description: Learn how to select dates using the calendar.
 exl-id: afb2b5be-ca6a-4c2b-9a5a-c40ee7caa7ea
 feature: Search Common Tasks
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: bcc57258-3285-5d02-a731-d86f57a58c47
+    internal-label: Search Common Tasks
 ---
 # Specify a date using the calendar
 

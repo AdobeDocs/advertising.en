@@ -3,16 +3,20 @@ title: Expected data variances between [!DNL Analytics] and Adobe Advertising
 description: Expected data variances between [!DNL Analytics] and Adobe Advertising
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
-TQID: https://experienceleague.adobe.com/rTwYQgWuhRefe4R9FahGydneNVpv9mP7pqhOeDQwP34
+TQID: 'https://experienceleague.adobe.com/rTwYQgWuhRefe4R9FahGydneNVpv9mP7pqhOeDQwP34'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: f2860a4b-f905-4545-bead-1bbc92564592
+    internal-label: Advertising integrations
 subfeature_v2:
   - id: d9510790-d834-436d-8423-8d69cd50464a
-    internal-label: DSP Ads
+    internal-label: Ads
+  - id: cfd751d4-ee56-4323-8fd1-dc174b031709
+    internal-label: Analytics integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

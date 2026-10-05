@@ -3,10 +3,15 @@ title: Delete a custom metric
 description: Learn how to delete custom metrics, which are calculated from standard metrics.
 exl-id: 8956afa3-d165-4a5b-b68b-99d519cf6ab6
 feature: Search Common Tasks, Search Custom Metrics
-TQID: https://experienceleague.adobe.com/u6LSq4sjhGLW1gmQqJlTtH0DFyTIsq-1t3Ga7NEXPko
+TQID: 'https://experienceleague.adobe.com/u6LSq4sjhGLW1gmQqJlTtH0DFyTIsq-1t3Ga7NEXPko'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: bcc57258-3285-5d02-a731-d86f57a58c47
+    internal-label: Search Common Tasks
+  - id: a1695a4d-41fb-5bb6-a22a-9e7a1b3222d7
+    internal-label: Search Custom Metrics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

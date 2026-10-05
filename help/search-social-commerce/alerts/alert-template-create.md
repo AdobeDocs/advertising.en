@@ -3,10 +3,13 @@ title: Create a custom alert template
 description: Learn how to create a template for generating custom alerts.
 exl-id: 95fdc91d-837c-46af-9dd7-212cb4b5a8ac
 feature: Search Alerts
-TQID: https://experienceleague.adobe.com/6fPMkTJdD-TiBU45ja0E-z1XJO5Ve7-8zs4pCc7sbYQ
+TQID: 'https://experienceleague.adobe.com/6fPMkTJdD-TiBU45ja0E-z1XJO5Ve7-8zs4pCc7sbYQ'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d26a7c77-52b3-5c68-80ee-315aaaaee689
+    internal-label: Search Alerts
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -3,10 +3,16 @@ title: Track the status of catalog processing jobs
 description: Learn how to upload and manage asset file for an advertiser.
 feature: Creative Dynamic Creatives
 exl-id: 90593f80-cade-4fef-9dd6-d655291077d1
-TQID: https://experienceleague.adobe.com/y7-rsER2V28nzSp-sOAEoO4o93zh-hYducIeghrADyE
+TQID: 'https://experienceleague.adobe.com/y7-rsER2V28nzSp-sOAEoO4o93zh-hYducIeghrADyE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
+subfeature_v2:
+  - id: d70c54b0-f069-4a3c-8056-7069a25e110c
+    internal-label: Creative Dynamic Creatives
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

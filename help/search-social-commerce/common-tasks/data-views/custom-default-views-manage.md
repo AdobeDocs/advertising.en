@@ -3,10 +3,15 @@ title: Manage default and custom views
 description: Learn how to customize your default views and custom views.
 exl-id: 1f240760-6186-471f-bf1a-3e0ee13ce550
 feature: Search Common Tasks, Search Custom Data Views
-TQID: https://experienceleague.adobe.com/aHuRfuYTOiAOMEeer1ud9yRDiC52UF9Hb-mAi1Y-l1U
+TQID: 'https://experienceleague.adobe.com/aHuRfuYTOiAOMEeer1ud9yRDiC52UF9Hb-mAi1Y-l1U'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: bcc57258-3285-5d02-a731-d86f57a58c47
+    internal-label: Search Common Tasks
+  - id: d6e2ef48-fac7-5a4a-96ff-9ac0264dc826
+    internal-label: Search Custom Data Views
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

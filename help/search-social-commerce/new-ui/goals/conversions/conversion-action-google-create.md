@@ -2,6 +2,9 @@
 title: (New UI) Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads
 description: Learn how to create a [!DNL Google Ads] conversion action for an enhanced conversion for leads.
 feature: Conversions
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
 feature_v2:
   - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
     internal-label: Search, Social, & Commerce

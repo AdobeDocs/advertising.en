@@ -4,6 +4,12 @@ description: Learn how to create reusable audiences in Adobe Advertising DSP usi
 feature: DSP Audiences
 hide: true
 exl-id: 82c9f122-2bdd-409f-a4d6-1da21ecbe913
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: b4dc2b3d-fdb5-55cd-9190-f1076d8563e4
+    internal-label: DSP Audiences
 ---
 # Create a reusable audience using generative AI
 

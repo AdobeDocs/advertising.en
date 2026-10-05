@@ -1,12 +1,15 @@
 ---
-title: "[!DNL Google Ads] product group settings"
+title: '[!DNL Google Ads] product group settings'
 description: Reference the settings for [!DNL Google Ads] shopping product groups.
 exl-id: 2cfef9de-b265-4fa5-b1bd-84e6cba79914
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/TkiKzm1sNZZdcu1ghpySElcQb7OIjnNZVqsVqzrK2uE
+TQID: 'https://experienceleague.adobe.com/TkiKzm1sNZZdcu1ghpySElcQb7OIjnNZVqsVqzrK2uE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

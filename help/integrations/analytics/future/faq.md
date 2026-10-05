@@ -1,6 +1,9 @@
 ---
 title: FAQs
 description: xxx
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
 ---
 # FAQs xxx
 

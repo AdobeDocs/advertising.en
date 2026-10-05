@@ -3,10 +3,16 @@ title: Edit an experience without decision tree targeting
 description: Learn how to edit the settings for an ad experience without targeting.
 feature: Creative Experiences
 exl-id: 29f54944-72a0-405a-bc11-87ea03edc09a
-TQID: https://experienceleague.adobe.com/kpLZ-guh9RDPIHVbSKo-L2Vn5ECpwGn40V5amNlBZQg
+TQID: 'https://experienceleague.adobe.com/kpLZ-guh9RDPIHVbSKo-L2Vn5ECpwGn40V5amNlBZQg'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
+subfeature_v2:
+  - id: f1a0ef49-c5d6-4fdf-b0dc-ae6685afe30b
+    internal-label: Creative experiences
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

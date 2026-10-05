@@ -3,10 +3,13 @@ title: Generate an [!DNL Advertising Insight]
 description: Learn how to create an [!DNL Advertising Insight].
 exl-id: e6b692be-189e-4c6c-a536-e6c78801853d
 feature: Search Advertising Insights
-TQID: https://experienceleague.adobe.com/meXmiqRiNyUxVnnMdl8S-GfHk0xWWu-62tU0W5Ogtd8
+TQID: 'https://experienceleague.adobe.com/meXmiqRiNyUxVnnMdl8S-GfHk0xWWu-62tU0W5Ogtd8'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: bc8b5578-58f6-5342-a640-fce94e5ff4a7
+    internal-label: Search Advertising Insights
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

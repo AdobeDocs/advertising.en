@@ -3,10 +3,13 @@ title: Remove label classification values from account components
 description: Learn how to remove associations between label classification values and account components.
 exl-id: 8697367b-0bf9-48c9-8dd3-e733360e1df2
 feature: Search Label Classifications
-TQID: https://experienceleague.adobe.com/xT4LpYXeTtuptPWK-HNQPylOzCFi1TT2FfbfEiuSJeo
+TQID: 'https://experienceleague.adobe.com/xT4LpYXeTtuptPWK-HNQPylOzCFi1TT2FfbfEiuSJeo'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: e29095c7-c364-5fb4-ac07-691793cb92e4
+    internal-label: Search Label Classifications
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

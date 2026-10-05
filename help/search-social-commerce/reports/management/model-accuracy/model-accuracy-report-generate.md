@@ -3,10 +3,15 @@ title: Generate a model accuracy report
 description: Learn how to generate model accuracy reports.
 exl-id: 84a32782-e141-45bc-87df-c7b82d0e8ad0
 feature: Search Reports, Search Model Accuracy Reports
-TQID: https://experienceleague.adobe.com/2fKr-9PISqZ-y2flXfBXLWKcpmWjYr-DRbBTk8MnGu8
+TQID: 'https://experienceleague.adobe.com/2fKr-9PISqZ-y2flXfBXLWKcpmWjYr-DRbBTk8MnGu8'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: 50281ed9-148e-57a9-a8f2-ee73330272e6
+    internal-label: Search Model Accuracy Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

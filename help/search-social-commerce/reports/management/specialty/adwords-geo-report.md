@@ -1,12 +1,17 @@
 ---
-title: "[!UICONTROL AdWords Geo Report]"
+title: '[!UICONTROL AdWords Geo Report]'
 description: Learn about the [!UICONTROL AdWords Geo Report].
 exl-id: e64f371f-b1dc-48e0-a883-dde6d4796b58
 feature: Search Reports, Search Specialty Reports
-TQID: https://experienceleague.adobe.com/85NJVnzICtSYZ3rY6ccba3KouVDyuRL6H9kYOQwPGco
+TQID: 'https://experienceleague.adobe.com/85NJVnzICtSYZ3rY6ccba3KouVDyuRL6H9kYOQwPGco'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: 7de556b7-2c2a-599d-853b-8c282aafa6e3
+    internal-label: Search Specialty Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
