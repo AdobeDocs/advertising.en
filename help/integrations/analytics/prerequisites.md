@@ -39,7 +39,7 @@ Review the following information before you integrate Adobe Advertising with Ado
 
 * Either of the following:
   * Adobe Experience Platform Web SDK: `alloy.js`
-  * Experience Cloud Identity Service: `visitorAPI.js` version 2.0 or higher
+  * Adobe Visitor ID Service: `visitorAPI.js` version 2.0 or higher
 * Any version of Adobe Analytics (including [!DNL Prime], [!DNL Premium], or [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` version 2.1 or higher
 * (Advertising DSP customers) An [Advertising DSP JavaScript snippet](javascript.md) deployed in your webpages to track view-through visits.
@@ -50,7 +50,7 @@ Review the following information before you integrate Adobe Advertising with Ado
 
 ## Requirements for sharing Analytics segments with Adobe Advertising
 
-* Experience Cloud Identity Service: `visitorAPI.js` version 2.1 or higher
+* Adobe Visitor ID Service: `visitorAPI.js` version 2.1 or higher
 * Adobe Analytics: `appMeasurement.js` version 1.8 or higher
 
 ## Requirements for reporting [!DNL Analytics] data in Adobe Advertising
