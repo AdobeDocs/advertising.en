@@ -1,6 +1,6 @@
 ---
-title: '[!DNL ChatGPT] ad settings'
-description: Reference the settings for [!DNL ChatGPT] ads.
+title: '[!DNL ChatGPT] chart card ad settings'
+description: Reference the settings for [!DNL ChatGPT] chat card ads.
 feature: Search Campaign Management
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
@@ -15,7 +15,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# [!DNL ChatGPT Ads] ad settings
+# [!DNL ChatGPT Ads] chat card ad settings
 
 *Ads in [!DNL ChatGPT] are a pilot feature by [!DNL OpenAI]*
 

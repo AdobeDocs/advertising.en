@@ -118,7 +118,7 @@ role_v2:
       + [Manage ads](/help/search-social-commerce/new-ui/manage/ads/ad-manage.md)
       + Ad settings by ad network {#ad-settings-by-network}
         + [[!DNL Baidu] text ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-baidu-text.md)
-        + [[!DNL ChatGPT Ads] ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-chatgpt.md)
+        + [[!DNL ChatGPT Ads] chat card ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-chatgpt.md)
         + [[!DNL Google Ads] expanded dynamic search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-google-dsa.md)
         + [[!DNL Google Ads] responsive search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-google-rsa.md)
         + [[!DNL Microsoft Advertising] expanded dynamic search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-dsa.md)
