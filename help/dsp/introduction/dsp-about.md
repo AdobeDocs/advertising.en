@@ -3,13 +3,15 @@ title: About Adobe Advertising DSP
 description: About Adobe Advertising DSP
 feature: DSP Introduction
 exl-id: 2a5df455-673b-483f-91a6-4fc5678b7f8a
-TQID: https://experienceleague.adobe.com/YJQHNT-Xkpob54deI0IIGVN2cI6sPYDlAiqievQK3oI
+TQID: 'https://experienceleague.adobe.com/YJQHNT-Xkpob54deI0IIGVN2cI6sPYDlAiqievQK3oI'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: d05f5093-0b42-5b61-81cc-b438107ef814
+    internal-label: DSP Introduction
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

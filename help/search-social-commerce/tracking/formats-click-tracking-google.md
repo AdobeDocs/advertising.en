@@ -3,10 +3,13 @@ title: Click-tracking formats for [!DNL Google Ads]
 description: Learn about the click-tracking formats for [!DNL Google Ads] accounts.
 exl-id: d09c3b4e-1274-45fb-abb6-dddfe60f1477
 feature: Search Tracking
-TQID: https://experienceleague.adobe.com/zlglYQa3JRxc5hz07rdjPQUMk7ogdrFKf2mxVkByCjU
+TQID: 'https://experienceleague.adobe.com/zlglYQa3JRxc5hz07rdjPQUMk7ogdrFKf2mxVkByCjU'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 2206c6aa-b5c2-51b3-88e0-706d57048fe4
+    internal-label: Search Tracking
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

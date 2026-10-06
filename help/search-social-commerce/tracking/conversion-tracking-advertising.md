@@ -3,10 +3,13 @@ title: About Adobe Advertising conversion-tracking tags
 description: Learn about using the Adobe Advertising conversion-tracking tags.
 exl-id: 8194d5eb-9a5d-4c4e-bb02-e578ffb84d18
 feature: Search Tracking
-TQID: https://experienceleague.adobe.com/SKNAm2olxXOI-qdf67XVYpo9GtQCpQO9acywqE7YTv0
+TQID: 'https://experienceleague.adobe.com/SKNAm2olxXOI-qdf67XVYpo9GtQCpQO9acywqE7YTv0'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 2206c6aa-b5c2-51b3-88e0-706d57048fe4
+    internal-label: Search Tracking
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

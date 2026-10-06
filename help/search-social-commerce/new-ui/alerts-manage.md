@@ -2,6 +2,12 @@
 title: (New UI) Manage custom alerts
 description: Learn how to create, configure, pause, activate, delete, view, and export custom alerts and alert templates.
 feature: Search Alerts
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: d26a7c77-52b3-5c68-80ee-315aaaaee689
+    internal-label: Search Alerts
 ---
 # (New UI) Manage custom alerts
 

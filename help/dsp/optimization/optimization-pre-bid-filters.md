@@ -3,16 +3,18 @@ title: Placement-level pre-bid filters and how to use them
 description: Reference the available placement-level pre-bid filters and see how to use them.
 feature: DSP Optimization
 exl-id: 34a15666-7ca2-416d-9064-8638ca81e5b3
-TQID: https://experienceleague.adobe.com/3-OOibzlRa5ethq6xkaHBngX2kwENFWhCSA-qzJQ-h4
+TQID: 'https://experienceleague.adobe.com/3-OOibzlRa5ethq6xkaHBngX2kwENFWhCSA-qzJQ-h4'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: ed26409b-14af-5033-ae27-1b71cecfe497
+    internal-label: DSP Optimization
 subfeature_v2:
   - id: af280ddc-b4d0-4416-86be-8f3ea3c6ebe7
-    internal-label: DSP Optimization
+    internal-label: Optimization
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -8,6 +8,8 @@ product_v2:
 feature_v2:
   - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
     internal-label: Search, Social, & Commerce
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 subfeature_v2:
   - id: f3d33161-c519-436e-bbbd-730ba428736b
     internal-label: Campaign management
@@ -23,7 +25,7 @@ role_v2:
 
 An ad group includes a set of ads and their related keywords. An ad group in a campaign that targets the display network can also include placements, which are locations on the display network in which your ads can appear. Ad group settings, which apply to all components of the ad group, vary by ad network.
 
-Once you [make an ad network account accessible via an API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md) and Search, Social, & Commerce has synchronized the account data with the ad network, you can create ad groups for a [supported campaign type](/help/search-social-commerce/introduction/supported-inventory.md). You also can edit and change the status of ad groups.
+Once you [make an ad network account accessible via an API connection](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/api-account-manage.md) and Search, Social, & Commerce has synchronized the account data with the ad network, you can create ad groups for a [supported campaign type](/help/search-social-commerce/introduction/supported-inventory.md). You also can edit and change the status of ad groups.
 
 For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
 
@@ -59,7 +61,7 @@ The [!UICONTROL Manage] > [!UICONTROL Ad Groups] view lists all ad groups in the
 
 1. Click **[!UICONTROL Create Ad Group]**.
 
-1. Specify the [Baidu](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-ly.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md) ad group settings.
+1. Specify the [Baidu](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md), [ChatGPT Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-chatgpt.md),[Google Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-ly.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md) ad group settings.
 
 1. Click **[!UICONTROL Review and Save]**.
 
@@ -95,7 +97,7 @@ You can edit settings for individual ad groups. You can also edit some fields fo
 
    * Select the check box next to the ad group. In the bulk actions toolbar, click **[!UICONTROL Edit]**.
 
-1. Edit the [Baidu](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md), [Google Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-ly.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md) ad group settings.
+1. Edit the [Baidu](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md), [ChatGPT Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-chatgpt.md),[Google Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-google.md), [LY Ads](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-ly.md), [Microsoft Advertising](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-microsoft.md), or [Yandex](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-yandex.md) ad group settings.
 
 1. Click **[!UICONTROL Review and Save]**.
 
@@ -109,7 +111,9 @@ Quickly change the status of an ad group without opening the full ad group setti
 
 You can pause any active ad group on a supported ad network to disable bidding on it. You can later resume bidding by changing the status back to active.
 
-You also can delete any active or paused ad group. Deleted ad groups are deleted from the ad network. They're still visible when you include them in the data filter, but you can't change them.
+You can pause any active ad group on a supported ad network to disable bidding on it. You can later resume bidding by changing the status back to active.
+
+You also can delete (called "archive" within [!DNL ChatGPT Ads Manager]) any active or paused ad group. Deleted or archived ad groups are deleted or archived from the ad network. They're still visible when you include them in the data filter, but you can't change them.
 
 ### Activate or pause an ad group
 
@@ -123,7 +127,7 @@ You also can delete any active or paused ad group. Deleted ad groups are deleted
 
    * To pause an active ad group, select **[!UICONTROL Paused]**.
 
-### Delete an ad group
+### Delete or archive an ad group
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Ad Groups]**.
 
@@ -134,6 +138,8 @@ You also can delete any active or paused ad group. Deleted ad groups are deleted
    * Hold the cursor over the ad group row and click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") next to the [!UICONTROL Status] column. Select **[!UICONTROL Deleted]**.
 
 ## Manage bid constraint assignments for ad groups {#ad-group-constraints}
+
+*Not available for [!DNL ChatGPT Ads]*
 
 Each entity can have only one constraint. Constraints are inherited by child entities, so you don't need to assign constraints for child entities unless you want to override the inherited values.
 
@@ -317,8 +323,8 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 >
 >* [Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
 >* [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
->* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/target/keywords/keyword-constraint-assignments-manage.md)
->* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-constraint-assignments-manage.md)
+>* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/manage/keywords/keyword-constraint-assignments-manage.md)
+>* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/targeting/placements/placement-constraint-assignments-manage.md)
 >* [(Legacy UI) Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
 >* [(Legacy UI) Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
 >* [[!DNL Baidu] ad group settings](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-baidu.md)

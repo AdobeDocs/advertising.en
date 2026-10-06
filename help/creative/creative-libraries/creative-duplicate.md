@@ -3,10 +3,18 @@ title: Duplicate creatives
 description: Learn how to duplicate creatives in a creative library.
 feature: Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: ec6ce2f5-fe2e-4c95-b0d9-dc09f3ce55c4
-TQID: https://experienceleague.adobe.com/6bYzgOvJsLMr56-nTkPIe3AWsTST--he0xQ9-btQ2nA
+TQID: 'https://experienceleague.adobe.com/6bYzgOvJsLMr56-nTkPIe3AWsTST--he0xQ9-btQ2nA'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
+subfeature_v2:
+  - id: d06c1576-7039-4934-b256-7366e138fbb6
+    internal-label: Creative Standard Creatives
+  - id: d70c54b0-f069-4a3c-8056-7069a25e110c
+    internal-label: Creative Dynamic Creatives
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

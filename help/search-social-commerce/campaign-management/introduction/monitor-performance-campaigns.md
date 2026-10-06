@@ -3,10 +3,13 @@ title: Monitor and manage the performance of your campaigns
 description: Learn how to monitor the performance of each campaign and portfolio and make changes to meet your goals.
 exl-id: dad9d218-37ee-4949-ae61-ac91f7723906
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/h2A5-yD17ScGBWJxVC39wfbTBIGhheITAsJ-zEJE6lU
+TQID: 'https://experienceleague.adobe.com/h2A5-yD17ScGBWJxVC39wfbTBIGhheITAsJ-zEJE6lU'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -3,10 +3,13 @@ title: Options for managing ad network campaigns
 description: Learn about the different ways to manage data for your ad network campaigns.
 exl-id: be5c9a48-a87d-4cee-9884-2ba36ac5f2ca
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/02zDjNUn-wHgBcjq-2L3yZRRtqTHT8Nh2AsgfD3kWaE
+TQID: 'https://experienceleague.adobe.com/02zDjNUn-wHgBcjq-2L3yZRRtqTHT8Nh2AsgfD3kWaE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

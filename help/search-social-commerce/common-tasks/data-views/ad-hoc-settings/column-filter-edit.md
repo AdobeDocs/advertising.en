@@ -3,10 +3,15 @@ title: Edit column filters
 description: Learn how to edit column filters.
 exl-id: 68f816ea-cde2-4df0-b46c-f47fa20a2727
 feature: Search Common Tasks, Search Custom Data Views
-TQID: https://experienceleague.adobe.com/BeMoK7e--CoIqQDg364E9nnb28nGDYwP6YaKu3swzHY
+TQID: 'https://experienceleague.adobe.com/BeMoK7e--CoIqQDg364E9nnb28nGDYwP6YaKu3swzHY'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: bcc57258-3285-5d02-a731-d86f57a58c47
+    internal-label: Search Common Tasks
+  - id: d6e2ef48-fac7-5a4a-96ff-9ac0264dc826
+    internal-label: Search Custom Data Views
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

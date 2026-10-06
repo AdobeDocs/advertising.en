@@ -3,10 +3,13 @@ title: Delete a performance data report or bulksheet file from the [!UICONTROL D
 description: Learn how to delete a report or bulksheet file you've downloaded a campaign management view.
 exl-id: cd1244da-ddb8-4ee1-8ebb-2df4e9924952
 feature: Search Common Tasks
-TQID: https://experienceleague.adobe.com/BHELz3pVJw9al4r-lWc4Mlm5BwlBG6J8hAXZhSoOvtk
+TQID: 'https://experienceleague.adobe.com/BHELz3pVJw9al4r-lWc4Mlm5BwlBG6J8hAXZhSoOvtk'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: bcc57258-3285-5d02-a731-d86f57a58c47
+    internal-label: Search Common Tasks
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -3,10 +3,13 @@ title: Update the AMO ID (s_kwcid) tracking code for a [!DNL Google Ads] account
 description: Learn how to switch to the latest AMO ID tracking code for a [!DNL Google Ads] account.
 exl-id: 4dfd9ea6-f639-4b9a-aaa5-13f574e3961b
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/7BOrtiEjkYEi1ZbY-PyU-dgstfa30ebtt-WBYHPX0-I
+TQID: 'https://experienceleague.adobe.com/7BOrtiEjkYEi1ZbY-PyU-dgstfa30ebtt-WBYHPX0-I'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

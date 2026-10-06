@@ -3,10 +3,13 @@ title: Activate a custom alert template
 description: Learn how to activate a paused alert template.
 exl-id: d821d431-24fc-45ee-bb3f-7c9691ab15be
 feature: Search Alerts
-TQID: https://experienceleague.adobe.com/i7U9FYylwzMpsUTot2mI4nn--f3MLjvpav1568UT2HE
+TQID: 'https://experienceleague.adobe.com/i7U9FYylwzMpsUTot2mI4nn--f3MLjvpav1568UT2HE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d26a7c77-52b3-5c68-80ee-315aaaaee689
+    internal-label: Search Alerts
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -3,10 +3,13 @@ title: View custom alert
 description: Learn how to list your alert instances.
 exl-id: 0a5260f6-8651-451e-841c-600be371cc3f
 feature: Search Alerts
-TQID: https://experienceleague.adobe.com/yj5l6KUdSE49qs2wJ7ZXhptphUwNX-J5Pz5By-XLFko
+TQID: 'https://experienceleague.adobe.com/yj5l6KUdSE49qs2wJ7ZXhptphUwNX-J5Pz5By-XLFko'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d26a7c77-52b3-5c68-80ee-315aaaaee689
+    internal-label: Search Alerts
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

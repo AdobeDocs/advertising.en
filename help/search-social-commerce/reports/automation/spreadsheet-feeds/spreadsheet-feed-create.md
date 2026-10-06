@@ -3,10 +3,13 @@ title: Create a spreadsheet report feed
 description: Learn how to set up spreadsheet feeds.
 exl-id: a6a9ce46-51b4-4b06-b004-89fce06d1da6
 feature: Search Reports
-TQID: https://experienceleague.adobe.com/LM5QfP4QSOBQ4YFLgdARTKb4xNkyXSJxzG79dGdo-HA
+TQID: 'https://experienceleague.adobe.com/LM5QfP4QSOBQ4YFLgdARTKb4xNkyXSJxzG79dGdo-HA'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

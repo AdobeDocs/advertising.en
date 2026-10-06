@@ -3,10 +3,13 @@ title: Manage ads
 description: Learn how to create and manage ads.
 exl-id: 5ec410cd-9dff-41e6-9ecc-d6ceee84755e
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/qH3BE5BwU8614rZdk-tKqvtw9cqY1uK0Z3zOUh0QRv8
+TQID: 'https://experienceleague.adobe.com/qH3BE5BwU8614rZdk-tKqvtw9cqY1uK0Z3zOUh0QRv8'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

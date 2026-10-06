@@ -2,6 +2,12 @@
 title: (New UI) Manage credentials for Google Ads manager accounts
 description: Learn how to set up and manage credentials for Google Ads manager accounts in the new UI.
 feature: Search Admin
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 1003789d-7feb-5a2f-a02d-3182fd0ceb8a
+    internal-label: Search Admin
 ---
 # (New UI) Manage credentials for [!DNL Google Ads] manager accounts
 

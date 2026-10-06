@@ -1,11 +1,19 @@
 ---
-title: Manage constraint assignments for keywords
-description: Learn how to assign constraints to keywords.
+title: Manage constraint assignments for placements
+description: Learn how to assign constraints to placements.
 feature: Search Optimization, Search Campaign Management
 hide: true
-exl-id: 4f08719e-0770-4a65-91b2-80cf03b65557
+exl-id: 325fb6b2-7f6f-41bc-bae7-9ee8590c6263
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: ae57d55f-b168-5358-b114-c3974b1b3d77
+    internal-label: Search Optimization
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 ---
-# (New UI) Manage constraint assignments for keywords
+# (New UI) Manage constraint assignments for placements
 
 *Beta feature*
 
@@ -20,13 +28,13 @@ Unassigning a constraint removes the association with the account components and
 >* If you later edit a keyword or the ad copy for a non-mutable ad &mdash; thereby creating a new keyword or ad &mdash; then the constraint isn't assigned to the new entity.
 >* Active constraints restrict bidding only for assigned bid units in optimized legacy keyword-level portfolios. They're ignored for bid units that are in active portfolios, are in hybrid portfolios, or aren't in portfolios. 
 
-## Assign a constraint to selected ads from the new [!UICONTROL Keywords] view
+## Assign a constraint to selected placements from the new [!UICONTROL Placements] view
 
-You can assign a single constraint to one or more campaigns.
+You can assign a single constraint to one or more placements.
 
-1. In the main menu, click **[!UICONTROL Target] > [!UICONTROL Keywords]**.
+1. In the main menu, click **[!UICONTROL Targeting] > [!UICONTROL Placements]**.
 
-1. On the **[!UICONTROL Keywords]** tab, select the check box next to each keyword to which you'll assign a single constraint.
+1. On the **[!UICONTROL Placements]** tab, select the check box next to each placement to which you'll assign a single constraint.
 
 1. In the bulk actions toolbar, click **+ [!UICONTROL Assign]** > **[!UICONTROL Constraint]**.
 
@@ -54,11 +62,11 @@ You can assign a single constraint to one or more campaigns.
 
 1. Click **[!UICONTROL Save]**.
 
-## Remove constraints from selected campaigns from the new [!UICONTROL Keywords] view
+## Remove constraints from selected placements from the new [!UICONTROL Placements] view
 
-1. In the main menu, click **[!UICONTROL Target] > [!UICONTROL Keywords]**.
+1. In the main menu, click **[!UICONTROL Targeting] > [!UICONTROL Placements]**.
 
-1. On the **[!UICONTROL Keywords]** tab, select the check box next to each keyword from which you'll unassign constraints.
+1. On the **[!UICONTROL Placements]** tab, select the check box next to each placement from which you'll unassign constraints.
 
 1. In the bulk actions toolbar, click **- [!UICONTROL Unassign]** > **[!UICONTROL Constraint]**.
 
@@ -85,4 +93,4 @@ You can assign a single constraint to one or more campaigns.
 >* [(New UI) Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
 >* [(New UI) Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 >* [(New UI) Manage constraint assignments for ad groups](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
->* [(New UI) Manage constraint assignments for placements](/help/search-social-commerce/new-ui/target/placements/placement-constraint-assignments-manage.md)
+>* [(New UI) Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/manage/keywords/keyword-constraint-assignments-manage.md)

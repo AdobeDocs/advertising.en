@@ -4,10 +4,15 @@ description: Learn how to generate, download, and delete reports that contain th
 feature: Search Optimization, Search Campaign Management
 hide: true
 exl-id: 330bfda2-f46f-428e-b17c-efbe749b19ab
-TQID: https://experienceleague.adobe.com/yPzCnzZJwgX56fLLvbot0-iXAq5NWKMqdtTEjI9Q9y0
+TQID: 'https://experienceleague.adobe.com/yPzCnzZJwgX56fLLvbot0-iXAq5NWKMqdtTEjI9Q9y0'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: ae57d55f-b168-5358-b114-c3974b1b3d77
+    internal-label: Search Optimization
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

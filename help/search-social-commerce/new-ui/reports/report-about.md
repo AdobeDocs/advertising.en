@@ -2,9 +2,14 @@
 title: (New UI) About scheduled reports
 description: Learn about scheduled performance reports, including the different report types available and how to automate reports.
 feature: Search Reports
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
 feature_v2:
   - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
     internal-label: Search, Social, & Commerce
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
 subfeature_v2:
   - id: e246c273-d720-4ece-b29b-7aaba7d50169
     internal-label: Reports
@@ -29,7 +34,7 @@ All completed reports are available in the [!UICONTROL Latest Reports] section o
 
 ## Available report categories
 
-The following report categories are available from the [!UICONTROL Scheduled Reports] view. You may not have access to all of them; the available reports and the data they generate are determined by your role and how your customer account is configured.
+The following report categories are available from the [!UICONTROL Reports] > [!UICONTROL Reports] view. You may not have access to all of them; the available reports and the data they generate are determined by your role and how your customer account is configured.
 
 | Report Category | Description |
 | ----| ---- |
@@ -49,9 +54,9 @@ Schedule customized reports to be automatically generated in either or both of t
 
 * Keep refreshing your customized spreadsheet templates with daily performance data using [spreadsheet feeds](/help/search-social-commerce/new-ui/reports/spreadsheet-feeds-manage.md).
 
-## The [!UICONTROL Scheduled Reports] view
+## The [!UICONTROL Reports] view
 
-The [!UICONTROL Reports] > [!UICONTROL Scheduled Reports] view allows you to create and manage reports, templates, and spreadsheet feeds. The view includes two tabs:
+The [!UICONTROL Reports] > [!UICONTROL Reports] view allows you to create and manage reports, templates, and spreadsheet feeds. The view includes two tabs:
 
 * The **[!UICONTROL Latest Reports]** tab lists all reports available to you that were requested in the last seven days, except those that were manually deleted, with the most recent report at the top by default. Information shown for each report includes the schedule by which it is run (when applicable), the start and end dates for which data was or will be generated, and the report status (*[!UICONTROL Finished]*, *[!UICONTROL In Progress]*, or *[!UICONTROL Error]*).
   

@@ -3,10 +3,13 @@ title: About publisher recommendations and insights support
 description: Learn about the support for viewing and managing publisher recommendations and insights.
 exl-id: 8bad85e0-8c01-4177-a881-96dd9c4a5949
 feature: Search Recommendations
-TQID: https://experienceleague.adobe.com/Ual5eWu0z8jyBAPFOkJw1nUuYnOadW-FqezsD4rXySE
+TQID: 'https://experienceleague.adobe.com/Ual5eWu0z8jyBAPFOkJw1nUuYnOadW-FqezsD4rXySE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: ae143aa5-b8d8-5a93-93ab-45e919f0c418
+    internal-label: Search Recommendations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

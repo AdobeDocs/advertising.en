@@ -1,12 +1,15 @@
 ---
-title: "[!DNL LY Ads] keyword settings"
+title: '[!DNL LY Ads] keyword settings'
 description: Reference the settings for [!DNL LY Ads] keywords.
 exl-id: c2a34b3e-fb88-44e8-8bf8-7854639bd8cd
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/QE-TpsuMQW3Tmqv5clGPcMvyeJIYDPMQJMiK79eOKms
+TQID: 'https://experienceleague.adobe.com/QE-TpsuMQW3Tmqv5clGPcMvyeJIYDPMQJMiK79eOKms'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

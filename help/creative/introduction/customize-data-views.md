@@ -3,10 +3,16 @@ title: Customize your data views
 description: Learn how to customize the data within each of the available views.
 feature: Creative Introduction
 exl-id: 5255e0e4-a7f8-41d2-9b38-0e276dc1f3f0
-TQID: https://experienceleague.adobe.com/hOby2-Do4TakO04FrP6zzfdIyCf6OCcjXjBzyTBuHc8
+TQID: 'https://experienceleague.adobe.com/hOby2-Do4TakO04FrP6zzfdIyCf6OCcjXjBzyTBuHc8'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
+subfeature_v2:
+  - id: ba946348-465d-45f3-8d28-c42d0a2599c5
+    internal-label: Creative introduction
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -2,6 +2,12 @@
 title: (New UI) Manage report templates
 description: Learn how to create, view, edit, and delete reusable report templates for scheduled and on-demand reports.
 feature: Search Reports
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
 ---
 # (New UI) Manage report templates
 
@@ -21,7 +27,7 @@ You can maintain up to 100 templates at a time.
 
 <!-- Add xrefs to report procedures and settings once available -->
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**.
 
 1. Do either of the following:
 
@@ -91,7 +97,7 @@ Not available to anyone as of 5/21. EDIT ALL IF WE ADD THIS FCT:
 
 You can run reports for one or more templates at any time.
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**.
 
 1. Click the **[!UICONTROL Templates]** tab.
 
@@ -115,7 +121,7 @@ You can run reports for one or more templates at any time.
 
 You can delete any report template available to you. When you delete a template that includes a schedule, that report isn't generated in the future.
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**.
 
 1. Click the **[!UICONTROL Templates]** tab.
 

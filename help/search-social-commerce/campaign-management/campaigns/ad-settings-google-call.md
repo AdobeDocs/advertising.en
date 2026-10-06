@@ -1,12 +1,15 @@
 ---
-title: "[!DNL Google Ads] call-only ad settings"
+title: '[!DNL Google Ads] call-only ad settings'
 description: Reference the settings for [!DNL Google Ads] call-only ads.
 exl-id: 10672771-53fd-4ce9-9d67-6b1f8f5a41b8
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/KtnceFJbgZ-jPcNzl1c6XychNzr4tOIs5B9mMbXegxo
+TQID: 'https://experienceleague.adobe.com/KtnceFJbgZ-jPcNzl1c6XychNzr4tOIs5B9mMbXegxo'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

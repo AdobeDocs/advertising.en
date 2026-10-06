@@ -3,20 +3,26 @@ title: Overview of inventory features in Advertising DSP
 description: Learn about available inventory features.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: e55b9276-0d13-436e-9c09-968de963d551
-TQID: https://experienceleague.adobe.com/7XrswlcmoT2mpja9FsEBXwBbNUw0zNmI52-7sYgOtIs
+TQID: 'https://experienceleague.adobe.com/7XrswlcmoT2mpja9FsEBXwBbNUw0zNmI52-7sYgOtIs'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: b6b79f0f-69f1-5d2e-b06d-cdebfaaa942c
+    internal-label: DSP On Demand Inventory
+  - id: 20c71a28-1f3b-56af-ad52-f3281489a219
+    internal-label: DSP Private Inventory
+  - id: 85825b7c-c02c-536d-b821-66dc33454fb8
+    internal-label: DSP Deal IDs
 subfeature_v2:
   - id: ac506c20-96f2-48f6-9096-77706e336bda
-    internal-label: DSP Private Inventory
+    internal-label: Private Inventory
   - id: fae3ff5f-9a75-4de1-a100-c90dd8268528
-    internal-label: DSP Deal IDs
+    internal-label: Deal IDs
   - id: fbfa676f-2cdb-49be-b949-f2fab1be6daf
-    internal-label: DSP On Demand Inventory (Advertising)
+    internal-label: On Demand Inventory
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

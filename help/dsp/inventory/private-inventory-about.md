@@ -3,18 +3,20 @@ title: About private inventory
 description: About private inventory
 feature: DSP Private Inventory
 exl-id: 34fc1926-a839-4f2d-8628-557542fb7835
-TQID: https://experienceleague.adobe.com/yuAdhUCHaiZ1BlJ1bu8I1prqp1TjLzAfowIbfT6CEzM
+TQID: 'https://experienceleague.adobe.com/yuAdhUCHaiZ1BlJ1bu8I1prqp1TjLzAfowIbfT6CEzM'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: 20c71a28-1f3b-56af-ad52-f3281489a219
+    internal-label: DSP Private Inventory
 subfeature_v2:
   - id: a4886037-b6d8-40e1-aeab-edeb7649d7d3
-    internal-label: DSP placements
+    internal-label: Placements
   - id: ac506c20-96f2-48f6-9096-77706e336bda
-    internal-label: DSP Private Inventory
+    internal-label: Private Inventory
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

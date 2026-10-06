@@ -3,10 +3,13 @@ title: Delete a report template
 description: Learn how to delete your report templates.
 exl-id: 2e7038e1-bbe0-473e-97fa-ecfa475ce411
 feature: Search Reports
-TQID: https://experienceleague.adobe.com/3G-HfjSQdg5BY9PKz260H7AjPXwpstv2AZEuZ7apQ2w
+TQID: 'https://experienceleague.adobe.com/3G-HfjSQdg5BY9PKz260H7AjPXwpstv2AZEuZ7apQ2w'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

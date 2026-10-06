@@ -1,13 +1,16 @@
 ---
-title: "[!DNL Google Analytics] data source settings"
+title: '[!DNL Google Analytics] data source settings'
 description: Reference the required settings for [!DNL Google Analytics] data sources.
 role: User, Admin
 exl-id: 78422c2c-ed58-410e-8996-882759ed5556
 feature: Search Data Sources
-TQID: https://experienceleague.adobe.com/EvCJTrEFxRU87kUlKCZ-rN3jtNVjSkVGmrHCNsPMElw
+TQID: 'https://experienceleague.adobe.com/EvCJTrEFxRU87kUlKCZ-rN3jtNVjSkVGmrHCNsPMElw'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9bd4e165-792f-5324-bcaa-eee38dc8b8e9
+    internal-label: Search Data Sources
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

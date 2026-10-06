@@ -8,6 +8,8 @@ product_v2:
 feature_v2:
   - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
     internal-label: Search, Social, & Commerce
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 subfeature_v2:
   - id: f3d33161-c519-436e-bbbd-730ba428736b
     internal-label: Campaign management
@@ -23,7 +25,7 @@ role_v2:
 
 An ad belongs to an ad group and contains the content that's displayed to users &mdash; such as the headline, description, image, or other creative elements &mdash; depending on the ad network and ad type.
 
-Once you [make an ad network account accessible via an API connection](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md) and Search, Social, & Commerce has synchronized the account data with the ad network, you can create ads for a [supported campaign type](/help/search-social-commerce/introduction/supported-inventory.md). You also can edit and change the status of ads.
+Once you [make an ad network account accessible via an API connection](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/api-account-manage.md) and Search, Social, & Commerce has synchronized the account data with the ad network, you can create ads for a [supported campaign type](/help/search-social-commerce/introduction/supported-inventory.md). You also can edit and change the status of ads.
 
 For details about the functionality available for each ad network, see "[Supported Inventory](/help/search-social-commerce/introduction/supported-inventory.md)."
 
@@ -60,6 +62,8 @@ You can create and manage supported ad types for ad groups within a synchronized
   >[!NOTE]
   >
   >You can't currently create or edit call-only ads. You can view, change the status of, or delete an existing call-only ad.
+
+* **Conversational ads** for an ad group in a [!DNL ChatGPT Ads] campaign. Conversational ads appear next to AI chat conversions. 
 
 * **Expanded dynamic search ads** (now called just "dynamic search ads" on the ad networks) for [!DNL Google Ads] and [!DNL Microsoft Advertising] dynamic search ad groups in search campaigns. Dynamic search ads use content from your website, instead of keywords, to decide when to show your ads. The ad network dynamically generates the headline, chooses the landing page URL and display URL, and automatically generates the final URL.
 
@@ -111,7 +115,7 @@ However, it isn't available for [!DNL Google Ads] dynamic search ad (DSA), perfo
 
    For more information about the available ad types, see "[Available ad types](#ad-types)."
 
-1. Specify the remaining settings for a [Baidu text ad](ad-settings-baidu-text.md), [Google Ads expanded dynamic search ad](ad-settings-google-dsa.md) (called just "dynamic search ad" in Google Ads), [Google Ads responsive search ad](ad-settings-google-rsa.md), [Microsoft Advertising expanded dynamic search ad](ad-settings-microsoft-dsa.md), [Microsoft Advertising multimedia ad](ad-settings-microsoft-multimedia.md), [Microsoft Advertising product ad](ad-settings-microsoft-product.md), [Microsoft Advertising responsive (audience) ad](ad-settings-microsoft-responsive.md), [Microsoft Advertising responsive search ad](ad-settings-microsoft-rsa.md), or [Yandex text ad](ad-settings-yandex-text.md) settings.
+1. Specify the remaining settings for a [Baidu text ad](ad-settings-baidu-text.md), [[!DNL ChatGPT Ads] ad](/help/search-social-commerce/new-ui/manage/ads/ad-settings-chatgpt.md), [Google Ads expanded dynamic search ad](ad-settings-google-dsa.md) (called just "dynamic search ad" in Google Ads), [Google Ads responsive search ad](ad-settings-google-rsa.md), [Microsoft Advertising expanded dynamic search ad](ad-settings-microsoft-dsa.md), [Microsoft Advertising multimedia ad](ad-settings-microsoft-multimedia.md), [Microsoft Advertising product ad](ad-settings-microsoft-product.md), [Microsoft Advertising responsive (audience) ad](ad-settings-microsoft-responsive.md), [Microsoft Advertising responsive search ad](ad-settings-microsoft-rsa.md), or [Yandex text ad](ad-settings-yandex-text.md) settings.
 
    >[!NOTE]
    >
@@ -151,7 +155,7 @@ Quickly rename an ad without opening the full ad settings.
 
 1. In the bulk actions toolbar, click **[!UICONTROL Edit]**.
 
-1. Edit the remaining settings for a [Baidu text ad](ad-settings-baidu-text.md), [Google Ads expanded dynamic search ad](ad-settings-google-dsa.md) (now called just "dynamic search ad" in Google Ads), [Google Ads responsive search ad](ad-settings-google-rsa.md), [Microsoft Advertising expanded dynamic search ad](ad-settings-microsoft-dsa.md), [Microsoft Advertising multimedia ad](ad-settings-microsoft-multimedia.md), [Microsoft Advertising product ad](ad-settings-microsoft-product.md), [Microsoft Advertising responsive (audience) ad](ad-settings-microsoft-responsive.md), [Microsoft Advertising responsive search ad](ad-settings-microsoft-rsa.md), or [Yandex text ad](ad-settings-yandex-text.md) settings.
+1. Edit the remaining settings for a [Baidu text ad](ad-settings-baidu-text.md), [[!DNL ChatGPT Ads] ad](/help/search-social-commerce/new-ui/manage/ads/ad-settings-chatgpt.md), [Google Ads expanded dynamic search ad](ad-settings-google-dsa.md) (now called just "dynamic search ad" in Google Ads), [Google Ads responsive search ad](ad-settings-google-rsa.md), [Microsoft Advertising expanded dynamic search ad](ad-settings-microsoft-dsa.md), [Microsoft Advertising multimedia ad](ad-settings-microsoft-multimedia.md), [Microsoft Advertising product ad](ad-settings-microsoft-product.md), [Microsoft Advertising responsive (audience) ad](ad-settings-microsoft-responsive.md), [Microsoft Advertising responsive search ad](ad-settings-microsoft-rsa.md), or [Yandex text ad](ad-settings-yandex-text.md) settings.
 
 1. Click **[!UICONTROL Review and Save]**.
 
@@ -165,7 +169,7 @@ Quickly change the status of an ad without opening the full ad settings.
 
 You can pause any active ad on a supported ad network to disable bidding on it. You can later resume bidding by changing the status back to active.
 
-You also can delete any active or paused ad. Deleted ads are deleted from the ad network. They're still visible when you include them in the data filter, but you can't change them.
+You also can delete (called "archive" within [!DNL ChatGPT Ads Manager]) any active or paused ad. Deleted or archived ads are deleted or archived from the ad network. They're still visible when you include them in the data filter, but you can't change them.
 
 ### Activate or pause an ad
 
@@ -179,7 +183,7 @@ You also can delete any active or paused ad. Deleted ads are deleted from the ad
 
    * To pause an active ad, click **[!UICONTROL Pause]**.
 
-### Delete an ad
+### Delete or archive an ad
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Ads]**.
 

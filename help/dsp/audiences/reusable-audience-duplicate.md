@@ -3,16 +3,18 @@ title: Duplicate a reusable audience
 description: Learn how to duplicate a reusable audience.
 feature: DSP Audiences
 exl-id: 8ff72e13-d0ae-4f61-904b-5d544878f58b
-TQID: https://experienceleague.adobe.com/IzeYupP9h1rIYw8EPNiepuaFEG8L06fJPeKMhgQEAtQ
+TQID: 'https://experienceleague.adobe.com/IzeYupP9h1rIYw8EPNiepuaFEG8L06fJPeKMhgQEAtQ'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: b4dc2b3d-fdb5-55cd-9190-f1076d8563e4
+    internal-label: DSP Audiences
 subfeature_v2:
   - id: fef5c122-6482-4d17-a8ce-4e70b906f1f4
-    internal-label: DSP Audiences
+    internal-label: Audiences
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -8,6 +8,8 @@ product_v2:
 feature_v2:
   - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
     internal-label: Search, Social, & Commerce
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 subfeature_v2:
   - id: f3d33161-c519-436e-bbbd-730ba428736b
     internal-label: Campaign management
@@ -20,7 +22,7 @@ role_v2:
 
 *For [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
-In [!UICONTROL Assets] > [!UICONTROL Creatives], you can view all reusable image, video, and (for [!DNL Google Ads] only) text assets in your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries. The list includes AI-generated assets for [!DNL Google Ads] ad groups in [!DNL AI Max]-enabled campaigns.
+In [!UICONTROL Library] > [!UICONTROL Creatives], you can view all reusable image, video, and (for [!DNL Google Ads] only) text assets in your [!DNL Google Ads] and [!DNL Microsoft Advertising] account-level asset libraries. The list includes AI-generated assets for [!DNL Google Ads] ad groups in [!DNL AI Max]-enabled campaigns.
 
 You can manually create new assets for an ad network account and upload them to the ad network. <!-- Verify if you can use the AI-generated ones -->You can use any of the uploaded assets for your performance max campaigns.
 
@@ -28,7 +30,7 @@ You can also remove AI-generated text assets from their associated ad groups.
 
 ## View your creative assets
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Creatives]**.
+1. In the main menu, click **[!UICONTROL Library] > [!UICONTROL Creatives]**.
 
 1. In the toolbar, select the ad network and the account.
 
@@ -40,7 +42,7 @@ You can also remove AI-generated text assets from their associated ad groups.
 
 ## Create and upload assets
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Creatives]**.
+1. In the main menu, click **[!UICONTROL Library] > [!UICONTROL Creatives]**.
 
 1. In the toolbar, select the ad network and the account.
 
@@ -88,7 +90,7 @@ You can also remove AI-generated text assets from their associated ad groups.
 
 Removed text assets won't be served again, but performance data is still available in reports.
 
-1. In the main menu, click **[!UICONTROL Assets] > [!UICONTROL Creatives]**.
+1. In the main menu, click **[!UICONTROL Library] > [!UICONTROL Creatives]**.
 
 1. In the toolbar, select the ad network and the account.
 

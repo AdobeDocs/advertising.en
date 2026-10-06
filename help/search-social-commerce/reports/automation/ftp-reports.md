@@ -3,10 +3,13 @@ title: FTP access to reports
 description: Learn how to receive reports at a read-only FTP location.
 exl-id: eca9f033-5b1b-4afa-926b-b4c31e2dede3
 feature: Search Reports
-TQID: https://experienceleague.adobe.com/Dd72ha3yuVBLu-vCuBUFlc6lYeinKcIAu5agIco4zVY
+TQID: 'https://experienceleague.adobe.com/Dd72ha3yuVBLu-vCuBUFlc6lYeinKcIAu5agIco4zVY'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

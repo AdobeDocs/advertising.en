@@ -4,18 +4,22 @@ description: Learn about syncing [!DNL Google Analytics] conversion metrics for 
 role: User, Admin
 exl-id: 32d0ba22-5c27-4f50-9886-1c09d2da952c
 feature: Search Admin, Search Data Sources
-TQID: https://experienceleague.adobe.com/dN7AVijGEiKM1o2iu3Fcb2D61pFkTguFOOu0qIe-mZk
+TQID: 'https://experienceleague.adobe.com/dN7AVijGEiKM1o2iu3Fcb2D61pFkTguFOOu0qIe-mZk'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: e55292b5-d4a1-4c98-9c20-2a2c5bea07fb
-    internal-label: Search admin
+    internal-label: ''
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: 1003789d-7feb-5a2f-a02d-3182fd0ceb8a
+    internal-label: Search Admin
+  - id: 9bd4e165-792f-5324-bcaa-eee38dc8b8e9
+    internal-label: Search Data Sources
 subfeature_v2:
   - id: e778848d-90fa-4520-b80f-e8dd7dfdcffc
-    internal-label: Search data sources
+    internal-label: Data sources
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

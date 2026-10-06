@@ -3,16 +3,18 @@ title: Advertising DSP macros
 description: Reference the available macros for general tracking and to track clicks on third-party display ads.
 feature: DSP Ads
 exl-id: 7058c988-c544-4a61-84dd-eec4ce88ceba
-TQID: https://experienceleague.adobe.com/4jT3XQq555z7FwlwIj0wkCps3D3Dg-dWD0He3FnlLiQ
+TQID: 'https://experienceleague.adobe.com/4jT3XQq555z7FwlwIj0wkCps3D3Dg-dWD0He3FnlLiQ'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: c012de69-a374-5a5d-aeff-0c0f44255fd2
+    internal-label: DSP Ads
 subfeature_v2:
   - id: d9510790-d834-436d-8423-8d69cd50464a
-    internal-label: DSP Ads
+    internal-label: Ads
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

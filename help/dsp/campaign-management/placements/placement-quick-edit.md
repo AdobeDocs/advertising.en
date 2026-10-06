@@ -3,6 +3,12 @@ title: Quickly edit key placement settings
 description: Learn how to quickly change key placement settings.
 feature: DSP Placements
 exl-id: b5f83573-112a-4fa1-9f7f-f0fea8e3d079
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 38361a05-b9a0-52fb-8641-080aa2bf4ec0
+    internal-label: DSP Placements
 ---
 # Quickly edit key placement settings
 

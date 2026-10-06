@@ -3,10 +3,13 @@ title: Edit a custom alert template
 description: Learn how to edit a template for generating custom alerts.
 exl-id: 37dfaaa2-ecd2-42cf-a3a6-9d82a8610355
 feature: Search Alerts
-TQID: https://experienceleague.adobe.com/zE2vVaddZClw-kythHguZCUiX39rx7ubl79Msnqnrbo
+TQID: 'https://experienceleague.adobe.com/zE2vVaddZClw-kythHguZCUiX39rx7ubl79Msnqnrbo'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d26a7c77-52b3-5c68-80ee-315aaaaee689
+    internal-label: Search Alerts
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

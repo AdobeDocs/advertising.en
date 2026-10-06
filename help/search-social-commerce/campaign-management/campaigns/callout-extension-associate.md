@@ -3,10 +3,13 @@ title: Associate [!DNL Google Ads] shared callout extensions with campaigns or a
 description: Learn how to assign [!DNL Google Ads] shared callout extensions to campaigns or ad groups.
 exl-id: 9b3b8454-da14-4506-a92c-6796dd5fe903
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/Mz52mqUJIG6-uN5gk6ySuih3mUi7XjTJVihrB2mxh2c
+TQID: 'https://experienceleague.adobe.com/Mz52mqUJIG6-uN5gk6ySuih3mUi7XjTJVihrB2mxh2c'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

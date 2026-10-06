@@ -1,12 +1,17 @@
 ---
-title: "[!UICONTROL Forecast Accuracy (Actuals) Report]"
+title: '[!UICONTROL Forecast Accuracy (Actuals) Report]'
 description: Learn about the [!UICONTROL Forecast Accuracy (Actuals) Report], including the data columns.
 exl-id: 659e11c7-5fed-4d91-a73f-7c435d36634f
 feature: Search Reports, Search Model Accuracy Reports
-TQID: https://experienceleague.adobe.com/wQyO42Dt5McqK23z-adEP-BAxxTrBk9RJi0I-4noP0I
+TQID: 'https://experienceleague.adobe.com/wQyO42Dt5McqK23z-adEP-BAxxTrBk9RJi0I-4noP0I'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: 50281ed9-148e-57a9-a8f2-ee73330272e6
+    internal-label: Search Model Accuracy Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

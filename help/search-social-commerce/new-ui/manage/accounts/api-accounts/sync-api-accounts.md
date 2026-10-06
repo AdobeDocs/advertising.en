@@ -3,6 +3,12 @@ title: (New UI) Manually synchronize ad network data
 description: Learn how to manually trigger synchronization of your campaign structure and campaign entities for supported ad networks from the new UI.
 feature: Search Campaign Management
 exl-id: 5e857713-53f0-4d90-8b7a-18a3675d320e
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 ---
 # (New UI) Manually synchronize ad network data via API connection 
 
@@ -20,23 +26,30 @@ For campaigns with the "[!UICONTROL Auto Update]" option, the sync operation als
 
 >[!NOTE]
 >
->Anytime you [create a bulksheet](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md), you can optionally sync with the ad network before the bulksheet is created.
+>Anytime you [create a bulksheet](/help/search-social-commerce/new-ui/set-up/bulksheets/download.md), you can optionally sync with the ad network before the bulksheet is created.
 
-## Sync campaigns in an ad network account
+## Sync all campaigns in ad network accounts
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
-1. Select the check box next to the account name.
+1. Select the check box next to the name of each account to sync.
 
    <!-- As of 2/23, you can sync only one acct at a time:  Select the check box next to each account or campaign that you want to sync. You can sync up to 50 campaigns at a time. If you sync more than five accounts at a time, the job is broken into batches of up to five accounts each. -->
 
+1. In the bulk actions toolbar, click **[!UICONTROL Sync]**.
+
+The job may take an hour or more to complete.
+
+## Sync campaigns from the [!UICONTROL Campaigns] view.
+
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Campaigns]**.
+
+1. Select the check box next to the name of each campaign to sync.
+
 1. In the bulk actions toolbar, click **[!UICONTROL ... More Actions]** > **[!UICONTROL Sync]**.
 
-   * Hold the cursor over the account name, click **...**, and then click **[!UICONTROL Edit]**.
-
-You can follow the status of the sync job in the [!UICONTROL Workspace] view. The job may take
-an hour or more to appear.
+The job may take an hour or more to complete.
 
 >[!MORELIKETHIS]
 >
->* [Download/Create a bulksheet file](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md)
+>* [Download/Create a bulksheet file](/help/search-social-commerce/new-ui/set-up/bulksheets/download.md)

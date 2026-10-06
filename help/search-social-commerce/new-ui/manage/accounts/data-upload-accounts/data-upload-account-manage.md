@@ -3,6 +3,12 @@ title: Configure ad network accounts for data upload
 description: Learn how to set up and manage account details for an ad network account.
 feature: Search Campaign Management
 exl-id: 7e8fb475-21f9-446b-a112-e0f27a4c4172
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 ---
 # Manage ad network accounts for data uploads
 
@@ -17,6 +23,8 @@ For details about the functionality available for each ad network, see "[Support
 >For instructions about managing account details for an ad network account that Search, Social, & Commerce syncs using the ad network's API, see "[Manage ad network accounts via API connection](../api-accounts/api-account-manage.md)" instead.
 
 ## Create account details {#create-account}
+
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Click **[!UICONTROL Create Account]**.
 
@@ -34,7 +42,7 @@ For details about the functionality available for each ad network, see "[Support
 
 ## Edit account details {#edit-account}
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Select the account in either of the following ways:
 
@@ -56,7 +64,7 @@ For details about the functionality available for each ad network, see "[Support
 
 ## Enable or disable ad network accounts {#enable-disable-account}
 
-1. In the main menu, click **[!UICONTROL Setup]** \> **[!UICONTROL Accounts]**.
+1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Accounts]**.
 
 1. Do either of the following:
 

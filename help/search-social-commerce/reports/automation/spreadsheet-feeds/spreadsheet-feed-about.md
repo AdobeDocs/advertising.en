@@ -3,10 +3,13 @@ title: About spreadsheet report feeds
 description: Learn about using getting daily performance data in a custom-formatted spreadsheet format.
 exl-id: 559dde7a-17c3-4d94-b3b0-c8248c745258
 feature: Search Reports
-TQID: https://experienceleague.adobe.com/fQkx0PK8gR-YjbiZp8KPVXMV6R2Hy4s7Upz7bFErtfE
+TQID: 'https://experienceleague.adobe.com/fQkx0PK8gR-YjbiZp8KPVXMV6R2Hy4s7Upz7bFErtfE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

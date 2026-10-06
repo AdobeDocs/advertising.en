@@ -3,10 +3,13 @@ title: About [!DNL Google Ads] dynamic search targets
 description: Learn about [!DNL Google Ads] dynamic search targets.
 exl-id: e6a8a426-5848-4161-99f3-1140aa3e4b9f
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/zOz7erv8gCjyfXxxlEfXBa4BkZbDzG0lSfUF52TJ8KM
+TQID: 'https://experienceleague.adobe.com/zOz7erv8gCjyfXxxlEfXBa4BkZbDzG0lSfUF52TJ8KM'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

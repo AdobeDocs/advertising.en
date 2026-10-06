@@ -2,6 +2,22 @@
 title: Manage scheduled reports
 description: Learn how to manage scheduled reports.
 feature: Search Reports, Search Basic Reports, Search Advanced Reports, Search Assist Reports, Search Model Accuracy Reports, Search Specialty Reports
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: 1d59f142-734e-5689-9ee3-a3bf4d5c5a51
+    internal-label: Search Basic Reports
+  - id: c51771d4-46e9-5151-913c-59d4e047a4f1
+    internal-label: Search Advanced Reports
+  - id: ab19d4f9-a5e8-54d2-a6d6-a154af73fd6d
+    internal-label: Search Assist Reports
+  - id: 50281ed9-148e-57a9-a8f2-ee73330272e6
+    internal-label: Search Model Accuracy Reports
+  - id: 7de556b7-2c2a-599d-853b-8c282aafa6e3
+    internal-label: Search Specialty Reports
 ---
 # Manage scheduled reports
 
@@ -33,9 +49,9 @@ Schedule customized reports to be automatically generated in either or both of t
 
 * Keep refreshing your customized spreadsheet templates with daily performance data using [spreadsheet feeds](/help/search-social-commerce/new-ui/reports/spreadsheet-feeds-manage.md).
 
-## The [!UICONTROL Scheduled Reports] views
+## The [!UICONTROL Reports] views
 
-The [!UICONTROL Reports] > [!UICONTROL Scheduled Reports] views allows you to create and manage reports and report templates:
+The [!UICONTROL Reports] > [!UICONTROL Reports] views allows you to create and manage reports and report templates:
 
 * The **[!UICONTROL Latest Reports]** tab lists all reports available to you<!-- Doesn't seem to be true: that were requested in the last seven days -->, except those that were manually deleted, with the most recent report at the top by default. Information shown for each report includes the schedule by which it is run (when applicable), the start and end dates for which data was or will be generated, who created the report, and the report status (*[!UICONTROL Finished]*, *[!UICONTROL In Progress]*, or *[!UICONTROL Error]*).
   
@@ -60,7 +76,7 @@ The [!UICONTROL Reports] > [!UICONTROL Scheduled Reports] views allows you to cr
 
 ### Generate a new report
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**.
 
 1. Click **[!UICONTROL Create Report]**, click the report category in the left panel, and then select the report type.<!-- Add link to list of report categories and report types --> Click **[!UICONTROL Proceed]**.
 
@@ -90,7 +106,7 @@ If you entered any email addresses for notification, each recipient receives a n
 
 ### Generate a report from an existing report
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**, which opens to the **[!UICONTROL Latest Reports]** tab.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**, which opens to the **[!UICONTROL Latest Reports]** tab.
 
 1. Do either of the following:
 
@@ -104,7 +120,7 @@ If you entered any email addresses for notification, each recipient receives a n
 
 ### Generate a report from an existing template
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**.
 
 1. Click the **[!UICONTROL Templates]** tab.
 
@@ -130,7 +146,7 @@ You can preview a report in the web browser, or open or save the report data as 
 >
 >Adobe Account Team members and some administrator users can view reports created by advertiser and agency users.
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**, which opens to the **[!UICONTROL Latest Reports]** tab.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**, which opens to the **[!UICONTROL Latest Reports]** tab.
 
 1. Do either of the following:
 
@@ -152,7 +168,7 @@ You can preview a report in the web browser, or open or save the report data as 
 
 ## Delete reports
 
-1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Scheduled Reports]**, which opens to the **[!UICONTROL Latest Reports]** tab.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**, which opens to the **[!UICONTROL Latest Reports]** tab.
 
 1. Do either of the following:
 

@@ -1,12 +1,15 @@
 ---
-title: "[!DNL LY Ads] ad group settings"
+title: '[!DNL LY Ads] ad group settings'
 description: Reference the settings for [!DNL LY Ads] ad groups.
 exl-id: 1afacb94-bf07-45df-ab79-13cb7f876288
 feature: Search Campaign Management
-TQID: https://experienceleague.adobe.com/mNVxXqhOqzXVW7A-dolZ-sRkC-Le6kU55nxRd84-m7I
+TQID: 'https://experienceleague.adobe.com/mNVxXqhOqzXVW7A-dolZ-sRkC-Le6kU55nxRd84-m7I'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -3,13 +3,15 @@ title: Required bulksheet data for [!DNL Baidu] accounts
 description: Reference the required header fields and data fields in bulksheets for [!DNL Baidu] accounts.
 exl-id: 9680cb37-50d4-4b4b-b359-ac54267cd5e6
 feature: Search Bulksheets
-TQID: https://experienceleague.adobe.com/-MST6KDJBF73Dcbi4zwIbqK9W8EiV7UvUMpGq2aYeGE
+TQID: 'https://experienceleague.adobe.com/-MST6KDJBF73Dcbi4zwIbqK9W8EiV7UvUMpGq2aYeGE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
     internal-label: Search, Social, & Commerce
+  - id: 882cfb76-bb33-50bf-a743-3ada27f6338a
+    internal-label: Search Bulksheets
 subfeature_v2:
   - id: e58024d1-d6da-420c-80af-6be211808316
     internal-label: Bulksheets

@@ -3,13 +3,18 @@ title: Overview of the integration between Adobe Advertising and Adobe Customer 
 description: Learn about options to integrate Adobe Advertising with Adobe Customer Journey Analytics.
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: 57636259-f91a-404f-b972-994af67098b1
-TQID: https://experienceleague.adobe.com/nxn5AcKCc-xm-k5LXOcKIquNKyoXbt3soR5nhQR0w-E
+TQID: 'https://experienceleague.adobe.com/nxn5AcKCc-xm-k5LXOcKIquNKyoXbt3soR5nhQR0w-E'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: f2860a4b-f905-4545-bead-1bbc92564592
+    internal-label: Advertising integrations
+subfeature_v2:
+  - id: ea6cf12e-f4da-4e2b-a9c1-e64da280b6f3
+    internal-label: Adobe Customer Journey Analytics Integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -35,7 +40,7 @@ Adobe Advertising is integrated with Adobe Customer Journey Analytics for bi-dir
 
 * Advertisers with both [!DNL Analytics for Advertising] and Customer Journey Analytics have the same functionality that they have through [!DNL Analytics for Advertising], with the addition of visualizations in Customer Journey Analytics.
 
-  You'll still track click-through events using the Adobe Experience Platform Web SDK (`alloy.js`) or the Adobe Experience Cloud Identity Service (`visitorAPI.js`). Advertisers with Advertising DSP will still use a JavaScript snippet to track view-through events. Data available in Customer Journey Analytics includes:
+  You'll still track click-through events using the Adobe Experience Platform Web SDK (`alloy.js`) or the Adobe Visitor ID Service (`visitorAPI.js`). Advertisers with Advertising DSP will still use a JavaScript snippet to track view-through events. Data available in Customer Journey Analytics includes:
 
   * Campaign performance data from Adobe Advertising in Customer Journey Analytics
 

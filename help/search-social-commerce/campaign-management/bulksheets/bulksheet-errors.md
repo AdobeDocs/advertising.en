@@ -3,10 +3,13 @@ title: Bulksheet errors
 description: Reference potential reasons for each bulksheet error.
 exl-id: dc3559b0-05c0-4896-b9e9-67084f56ab80
 feature: Search Bulksheets
-TQID: https://experienceleague.adobe.com/7jGIKXI-Un6mnstJlPDqk0q4yB6k3tEsqHngD1cCyEw
+TQID: 'https://experienceleague.adobe.com/7jGIKXI-Un6mnstJlPDqk0q4yB6k3tEsqHngD1cCyEw'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 882cfb76-bb33-50bf-a743-3ada27f6338a
+    internal-label: Search Bulksheets
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -17,9 +20,9 @@ Search, Social, & Commerce generates two types of error files during bulksheet o
 
 * **SE Errors:** When a file is posted but the ad network doesn't accept all of the data, an error file called `<uploaded file name>_se_errors.<extension used for the bulksheet>` is created. When some but not all rows were accepted, the error file shows the rows that weren't posted and an explanation of each error so you can correct it. The errors are included in the "[!UICONTROL SE Error Message]" column.
 
- >[!NOTE]
- >
- >If you post any [!DNL Google Ads] ads that violate the ad network's advertising policies but may be eligible for exemptions, then those ads are automatically reposted with exemption requests. If the exemption request fails, then information about the violation is included in the error file.
+>[!NOTE]
+>
+>If you post any [!DNL Google Ads] ads that violate the ad network's advertising policies but may be eligible for exemptions, then those ads are automatically reposted with exemption requests. If the exemption request fails, then information about the violation is included in the error file.
 
 * **EF Errors:** When the bulksheet operation can't upload or process a file or individual rows in the file, it creates an error file called `<uploaded file name>_ef_errors.<extension used for the bulksheet>`. If the problem is with individual rows, then those rows are included,
 with an explanation of each error so you can correct it. The errors are included in the "[!UICONTROL EF Error Message]" column.

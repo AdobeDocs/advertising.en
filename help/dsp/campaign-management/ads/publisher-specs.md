@@ -2,6 +2,12 @@
 title: Publisher-specific ad specifications
 description: Reference the ad specifications for supported publishers.
 feature: DSP Ads
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: c012de69-a374-5a5d-aeff-0c0f44255fd2
+    internal-label: DSP Ads
 ---
 # Publisher-specific ad specifications
 

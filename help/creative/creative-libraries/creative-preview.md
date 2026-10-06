@@ -3,10 +3,16 @@ title: Preview a creative
 description: Learn how to open a preview of a creative.
 feature: Creative Standard Creatives
 exl-id: 0d92ab29-0aa0-4d5f-abf5-a520f49ea60e
-TQID: https://experienceleague.adobe.com/T6NV9uopJw7nQ2Janpw6BMGK0N2Ya0tzGckB75qbg0M
+TQID: 'https://experienceleague.adobe.com/T6NV9uopJw7nQ2Janpw6BMGK0N2Ya0tzGckB75qbg0M'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: d0d9f2ed-c163-44e1-97a1-4ace121416b8
+    internal-label: Creative
+subfeature_v2:
+  - id: d06c1576-7039-4934-b256-7366e138fbb6
+    internal-label: Creative Standard Creatives
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

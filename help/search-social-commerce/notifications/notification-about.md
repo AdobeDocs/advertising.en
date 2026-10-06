@@ -3,10 +3,13 @@ title: About notifications
 description: Learn about notifications, including the different types and categories.
 exl-id: 79495e1c-72ce-476f-83df-c4d95391f51c
 feature: Search Notifications
-TQID: https://experienceleague.adobe.com/5WmRMJeZPQ8QDsgwRV0s1-50lkIr0LZqzPo2Ttv7kns
+TQID: 'https://experienceleague.adobe.com/5WmRMJeZPQ8QDsgwRV0s1-50lkIr0LZqzPo2Ttv7kns'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 4a019b9f-6dd0-5c07-a60f-b60f67fd80d0
+    internal-label: Search Notifications
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

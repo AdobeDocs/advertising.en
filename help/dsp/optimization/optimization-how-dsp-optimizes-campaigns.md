@@ -3,16 +3,18 @@ title: How DSP optimizes your campaigns
 description: Learn how DSP optimizes the packages in your campaigns.
 feature: DSP Optimization
 exl-id: 92d411cf-4307-4449-97b4-da3817f2a0b4
-TQID: https://experienceleague.adobe.com/rSt1uwd3p4hawA3HHdgw2AL3fXeY36nbewI90YbFhaY
+TQID: 'https://experienceleague.adobe.com/rSt1uwd3p4hawA3HHdgw2AL3fXeY36nbewI90YbFhaY'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
   - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
     internal-label: Demand Side Platform
+  - id: ed26409b-14af-5033-ae27-1b71cecfe497
+    internal-label: DSP Optimization
 subfeature_v2:
   - id: af280ddc-b4d0-4416-86be-8f3ea3c6ebe7
-    internal-label: DSP Optimization
+    internal-label: Optimization
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

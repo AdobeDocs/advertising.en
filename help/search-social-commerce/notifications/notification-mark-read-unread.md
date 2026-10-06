@@ -3,10 +3,13 @@ title: Mark a notification as read or unread
 description: Learn how to indicate if you've read or not read a notification.
 exl-id: b6f35d37-819c-489d-aca6-a0753e82e7fd
 feature: Search Notifications
-TQID: https://experienceleague.adobe.com/uiaHyB67HiMWL3bqHQxKrYHmUrL3KFn6bP49GNenCiA
+TQID: 'https://experienceleague.adobe.com/uiaHyB67HiMWL3bqHQxKrYHmUrL3KFn6bP49GNenCiA'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 4a019b9f-6dd0-5c07-a60f-b60f67fd80d0
+    internal-label: Search Notifications
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

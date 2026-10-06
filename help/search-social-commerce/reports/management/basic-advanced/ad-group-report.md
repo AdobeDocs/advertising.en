@@ -1,12 +1,17 @@
 ---
-title: "[!UICONTROL Ad Group Report]"
+title: '[!UICONTROL Ad Group Report]'
 description: Learn about the [!UICONTROL Ad Group Report].
 exl-id: 1d82fbd3-748b-4c05-87b0-9dc016d5d1b1
 feature: Search Reports, Search Basic Reports
-TQID: https://experienceleague.adobe.com/iKco39V95gTwr56cSXS725FbTdFMxxfMuEV-NGebxQ4
+TQID: 'https://experienceleague.adobe.com/iKco39V95gTwr56cSXS725FbTdFMxxfMuEV-NGebxQ4'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: 1d59f142-734e-5689-9ee3-a3bf4d5c5a51
+    internal-label: Search Basic Reports
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
