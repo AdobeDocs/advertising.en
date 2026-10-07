@@ -1,6 +1,6 @@
 ---
-title: Manage [!DNL ChatGPT] conversational ad accounts
-description: Learn how to create and manage accounts for [!DNL ChatGPT] chat card ads, a beta feature that places ads inside AI assistant conversations.
+title: Manage [!DNL ChatGPT Ads] conversational ad accounts
+description: Learn how to create and manage accounts for [!DNL ChatGPT Ads] chat card ads, a beta feature that places ads inside AI assistant conversations.
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -11,11 +11,11 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# Manage [!DNL ChatGPT] conversational ad accounts
+# Manage [!DNL ChatGPT Ads] conversational ad accounts
 
 *Beta feature*
 
-Through Adobe DSP's integration with [!DNL OpenAI Ads], you can run [!DNL ChatGPT] chat card ads, which appear inside [!DNL ChatGPT] conversations. For this feature, DSP creates an ad account and buys media on your organization's behalf. You won't be able to access the ad account from ads.openai.com. Use this feature to test AI media without establishing a direct relationship with [!DNL ChatGPT Ads].
+Through Adobe DSP's integration with [!DNL OpenAI Ads], you can run [!DNL ChatGPT Ads] chat card ads, which appear inside [!DNL ChatGPT] conversations. For this feature, DSP creates an ad account and buys media on your organization's behalf. You won't be able to access the ad account from ads.openai.com. Use this feature to test AI media without establishing a direct relationship with [!DNL ChatGPT Ads].
 
 You'll manage your conversational ad accounts &mdash; including its campaigns, ad groups, and ads &mdash; separately from your regular DSP campaigns.
 
@@ -73,9 +73,9 @@ The [!UICONTROL Account limits] page lists each limit for the account:
 >
 >You can't edit or remove completed limits, and limit periods for the same account can't overlap.
 
-## Create a [!DNL ChatGPT] conversational ad account {#account-create}
+## Create a [!DNL ChatGPT Ads] conversational ad account {#account-create}
 
-Each advertiser can have up to two [!DNL ChatGPT]  accounts.
+Each advertiser can have up to two [!DNL ChatGPT Ads]  accounts.
 
 1. In the main menu, click **[!UICONTROL Conversational Ads Beta]**.
 
@@ -93,7 +93,7 @@ Each advertiser can have up to two [!DNL ChatGPT]  accounts.
 
 New accounts are created in a paused state while [!DNL OpenAI] reviews them. DSP activates the account once it's approved.
 
-## Edit a [!DNL ChatGPT] conversational ad account {#account-edit}
+## Edit a [!DNL ChatGPT Ads] conversational ad account {#account-edit}
 
 You can edit an account's legal business name and website after you create it.
 
@@ -113,7 +113,7 @@ You can edit an account's legal business name and website after you create it.
 
 * Above the main menu, click **[!UICONTROL Back to DSP]**.
 
-### [!DNL ChatGPT] conversational ad account settings {#account-settings}
+### [!DNL ChatGPT Ads] conversational ad account settings {#account-settings}
 
 **[!UICONTROL Legal Business Name]:** The business name for the account, which is displayed in DSP.<!-- Just for display in DSP? -->
 
