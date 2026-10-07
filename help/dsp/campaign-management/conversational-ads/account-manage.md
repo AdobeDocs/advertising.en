@@ -1,6 +1,6 @@
 ---
 title: Manage [!DNL ChatGPT] conversational ad accounts
-description: Learn how to create and manage accounts for [!DNL ChatGPT] conversational ads, a beta feature that places ads inside AI assistant conversations.
+description: Learn how to create and manage accounts for [!DNL ChatGPT] chat card ads, a beta feature that places ads inside AI assistant conversations.
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -15,7 +15,7 @@ role_v2:
 
 *Beta feature*
 
-Through Adobe DSP's integration with [!DNL OpenAI Ads], you can run [!DNL ChatGPT] conversational ads, which appear inside [!DNL ChatGPT] conversations. For this feature, DSP creates an ad account and buys media on your organization's behalf. You won't be able to access the ad account from ads.openai.com. Use this feature to test AI media without establishing a direct relationship with [!DNL ChatGPT Ads], which may require minimum spend commitments.
+Through Adobe DSP's integration with [!DNL OpenAI Ads], you can run [!DNL ChatGPT] chat card ads, which appear inside [!DNL ChatGPT] conversations. For this feature, DSP creates an ad account and buys media on your organization's behalf. You won't be able to access the ad account from ads.openai.com. Use this feature to test AI media without establishing a direct relationship with [!DNL ChatGPT Ads], which may require minimum spend commitments.
 
 You'll manage your conversational ad accounts &mdash; including its campaigns, ad groups, and ads &mdash; separately from your regular DSP campaigns.
 

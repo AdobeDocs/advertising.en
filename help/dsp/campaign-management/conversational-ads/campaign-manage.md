@@ -1,6 +1,6 @@
 ---
 title: Manage [!DNL ChatGPT] conversational ad campaigns
-description: Learn how to create and manage [!DNL ChatGPT] campaigns, ad groups, and conversational ads, a beta feature that places ads inside AI assistant conversations.
+description: Learn how to create and manage [!DNL ChatGPT] campaigns, ad groups, and chat card ads, a beta feature that places ads inside AI assistant conversations.
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -15,7 +15,7 @@ role_v2:
 
 *Beta feature*
 
-Manage [!DNL ChatGPT] campaigns, ad groups, and ads within a [conversational ads account](account-manage.md).
+Manage [!DNL ChatGPT] campaigns, ad groups, and chat card ads within a [conversational ads account](account-manage.md).
 
 ## About the [!UICONTROL Conversational Ads Beta] > [!UICONTROL Campaigns] view {#campaign-views-about}
 
@@ -157,7 +157,7 @@ When you create a campaign, you can optionally create its first ad group and ad.
 
 ## Ads
 
-### Create a [!DNL ChatGPT] ad for an existing ad group {#ad-create}
+### Create a [!DNL ChatGPT] chat card ad for an existing ad group {#ad-create}
 
 1. In the main menu, click **[!UICONTROL Conversational Ads Beta]**.
 
@@ -171,7 +171,7 @@ When you create a campaign, you can optionally create its first ad group and ad.
 
 1. Click **[!UICONTROL Create ad]**.
 
-## Edit a [!DNL ChatGPT] ad {#ad-edit}
+## Edit a [!DNL ChatGPT] chat card ad {#ad-edit}
 
 1. In the main menu, click **[!UICONTROL Conversational Ads Beta]**.
 
@@ -187,7 +187,7 @@ When you create a campaign, you can optionally create its first ad group and ad.
 
 1. Click **[!UICONTROL Save]**.
 
-### [!DNL ChatGPT] ad settings {#ad-settings}
+### [!DNL ChatGPT] chat card ad settings {#ad-settings}
 
 **[!UICONTROL Parent campaign]** and **[!UICONTROL Parent ad group]:** (Ads in existing ad groups only) The campaign and ad group to which the ad belongs.
 
