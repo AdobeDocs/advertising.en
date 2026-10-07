@@ -29,6 +29,11 @@ The following determines eligibility for this feature:
 
 If the selected advertiser isn't eligible, then the [!UICONTROL Accounts] and [!UICONTROL Campaigns] tabs indicate the reason. You can still switch to a different advertiser using the advertiser selector.
 
+>[!NOTE]
+>
+>* Organizations who are configured to view tax values in reporting views won't see them for [!DNL ChatGPT Ads]. Calculate your tax values manually.
+>* You're billed for [!DNL ChatGPT Ads] usage at the end of the month with your other invoices. For billing questions, contact your Adobe Account Team.
+
 ## About the [!UICONTROL Conversational Ads Beta] > [!UICONTROL Accounts] view {#accounts-view-about}
 
 The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Accounts] tab lists the [!DNL OpenAI] accounts for the selected advertiser. Information for each account includes:
@@ -128,10 +133,6 @@ You can edit an account's legal business name and website after you create it.
 To upload an icon, click **[!UICONTROL Upload favicon]**, and then locate and select a file on your device or network.
 
 **[!UICONTROL I agree to the Terms and Conditions]:** A check box to indicate that you agree to all legal terms. Select the check box to create an account or update the account settings.
-
->[!NOTE]
->
->You're billed for usage at the end of the month with your other invoices. For billing questions, contact your Adobe Account Team.
 
 >[!MORELIKETHIS]
 >
