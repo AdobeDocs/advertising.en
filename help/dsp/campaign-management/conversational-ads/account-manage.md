@@ -29,6 +29,8 @@ The following determines eligibility for this feature:
 
 If the selected advertiser isn't eligible, then the [!UICONTROL Accounts] and [!UICONTROL Campaigns] tabs indicate the reason. You can still switch to a different advertiser using the advertiser selector.
 
+To use the feature, contact your Adobe Account Team to begin the onboarding process.
+
 >[!NOTE]
 >
 >* Organizations who are configured to view tax values in reporting views won't see them for [!DNL ChatGPT Ads]. Calculate your tax values manually.
