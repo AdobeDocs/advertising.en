@@ -19,7 +19,7 @@ Manage [!DNL ChatGPT Ads] campaigns, ad groups, and chat card ads within a [conv
 
 ## About the [!UICONTROL Conversational Ads Beta] > [!UICONTROL Campaigns] view {#campaign-views-about}
 
-The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Campaigns] view includes three tabs: [!UICONTROL Campaigns], [!UICONTROL Ad Groups], and [!UICONTROL Ads]. Each tab lists the campaigns, ad groups, or ads for the selected account, along with performance data for the selected date range.
+The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Campaigns] view includes three tabs: [!UICONTROL Campaigns], [!UICONTROL Ad Groups], and [!UICONTROL Ads]. Each tab lists the campaigns, ad groups, or ads for the selected account, along with performance data for the selected date range. Performance data at the campaign, ad group, and ad level includes [!UICONTROL Impressions], [!UICONTROL Clicks], [!UICONTROL Spend], [!UICONTROL CTR], [!UICONTROL Avg CPC], and [!UICONTROL Avg CPM].
 
 ### Available actions
 
@@ -33,7 +33,7 @@ The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Campaigns] view includes 
 
 * [Archive a campaign, ad group, or ad](#archive)
 
-* [Navigate between campaigns, ad groups, and ads](#drill-down)
+* [Drill down from campaigns to ad groups and ads](#drill-down)
 
 ## Campaigns
 
@@ -231,7 +231,7 @@ Archiving permanently removes the campaign, ad group, or ad from the [!UICONTROL
 
 1. On the **[!UICONTROL Campaigns]**, **[!UICONTROL Ad Groups]**, or **[!UICONTROL Ads]** tab, hold the cursor over the row and click **[!UICONTROL ...] > [!UICONTROL Archive]**.
 
-## Navigate between [!DNL ChatGPT Ads] campaigns, ad groups, and ads {#drill-down}
+## Drill down from [!DNL ChatGPT Ads] campaigns to ad groups and ads {#drill-down}
 
 * Click a campaign row to view only its ad groups on the **[!UICONTROL Ad Groups]** tab, or click an ad group row to view only its ads on the **[!UICONTROL Ads]** tab.
 
