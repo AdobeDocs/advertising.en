@@ -6,7 +6,7 @@ product: advertising cloud
 solution: Advertising
 index: true
 exl-id: 0d25f665-b5f9-4d27-851a-2a456fe2cbf8
-TQID: https://experienceleague.adobe.com/TP3z5s-DX9deihG6HKt2QMszVu699Je22revuYWN9-g
+TQID: 'https://experienceleague.adobe.com/TP3z5s-DX9deihG6HKt2QMszVu699Je22revuYWN9-g'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -15,7 +15,7 @@ feature_v2:
     internal-label: Demand Side Platform
 subfeature_v2:
   - id: a4886037-b6d8-40e1-aeab-edeb7649d7d3
-    internal-label: DSP placements
+    internal-label: Placements
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
