@@ -17,16 +17,19 @@ role_v2:
 
 Manage [!DNL ChatGPT Ads] campaigns, ad groups, and chat card ads within a [conversational ads account](account-manage.md).
 
->[!NOTE]
->
->* Organizations who are configured to view tax values in reporting views won't see them for [!DNL ChatGPT Ads]. Calculate your tax values manually.
->* You're billed for [!DNL ChatGPT Ads] usage at the end of the month with your other invoices. For billing questions, contact your Adobe Account Team.
+You're billed for [!DNL ChatGPT Ads] usage at the end of the month with your other invoices. For billing questions, contact your Adobe Account Team.
 
-## About the [!UICONTROL Conversational Ads Beta] > [!UICONTROL Campaigns] view {#campaign-views-about}
+## The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Campaigns] view {#campaign-views-about}
 
 The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Campaigns] view includes three tabs: [!UICONTROL Campaigns], [!UICONTROL Ad Groups], and [!UICONTROL Ads]. Each tab lists the campaigns, ad groups, or ads for the selected account, along with performance data for the selected date range. Performance data at the campaign, ad group, and ad level includes [!UICONTROL Impressions], [!UICONTROL Clicks], [!UICONTROL Spend], [!UICONTROL CTR], [!UICONTROL Avg CPC], and [!UICONTROL Avg CPM].
 
+>[!NOTE]
+>
+>* Organizations who are configured to view tax values in reporting views won't see them for [!DNL ChatGPT Ads]. Calculate your tax values manually.
+
 ### Available actions
+
+<!-- * [Refresh information about your campaigns](#refresh) -- Add topic below. -->
 
 * [Create](#campaign-create) or [edit](#campaign-edit) a campaign
 
