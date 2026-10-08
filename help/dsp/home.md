@@ -40,7 +40,7 @@ topic_v2:
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
 ---
-# What's new
+# What's new in DSP
 
 The following features are new or recently changed.
 
