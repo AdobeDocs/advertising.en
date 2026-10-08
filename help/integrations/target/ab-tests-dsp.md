@@ -2,7 +2,7 @@
 title: Configure A/B tests for Adobe Advertising DSP ads in Adobe Target
 description: Learn how to set up an A/B test in [!DNL Target] for your DSP ads.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
-TQID: https://experienceleague.adobe.com/xETpACcZbZqfFjS58mS-k-kXhm0BT79W0aHz2bdKDGs
+TQID: 'https://experienceleague.adobe.com/xETpACcZbZqfFjS58mS-k-kXhm0BT79W0aHz2bdKDGs'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -11,9 +11,9 @@ feature_v2:
     internal-label: Demand Side Platform
 subfeature_v2:
   - id: b01c7841-b9d0-4fd5-8458-a6a6f601ad3d
-    internal-label: DSP Campaigns
+    internal-label: Campaigns
   - id: d9510790-d834-436d-8423-8d69cd50464a
-    internal-label: DSP Ads
+    internal-label: Ads
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
