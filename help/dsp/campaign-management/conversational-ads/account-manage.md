@@ -19,6 +19,8 @@ Through Adobe DSP's integration with [!DNL OpenAI Ads], you can run [!DNL ChatGP
 
 You'll manage your conversational ad accounts &mdash; including its campaigns, ad groups, and ads &mdash; separately from your regular DSP campaigns, which are structured differently. You'll also [view performance data for [!DNL ChatGPT Ads] campaigns, ad groups, and ads](campaign-manage.md#campaign-views-about) separately from your DSP campaigns.
 
+## Eligibility
+
 The following determines eligibility for this feature:
 
 * **Link to an advertiser in Search, Social, & Commerce:** Your DSP advertiser must be linked to an Adobe Search, Social, & Commerce advertiser. To link an advertiser, contact your Adobe Account Team.
@@ -31,12 +33,11 @@ If the selected advertiser isn't eligible, then the [!UICONTROL Accounts] and [!
 
 To use the feature, contact your Adobe Account Team to begin the onboarding process.
 
->[!NOTE]
->
->* Organizations who are configured to view tax values in reporting views won't see them for [!DNL ChatGPT Ads]. Calculate your tax values manually.
->* You're billed for [!DNL ChatGPT Ads] usage at the end of the month with your other invoices. For billing questions, contact your Adobe Account Team.
+## Billing
 
-## About the [!UICONTROL Conversational Ads Beta] > [!UICONTROL Accounts] view {#accounts-view-about}
+You're billed for [!DNL ChatGPT Ads] usage at the end of the month with your other invoices, using the currency for your DSP account (regardless of the [currency used for the [!DNL ChatGPT Ads] account](#account-settings)). For billing questions, contact your Adobe Account Team.
+
+## The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Accounts] view {#accounts-view}
 
 The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Accounts] tab lists the [!DNL OpenAI] accounts for the selected advertiser. Information for each account includes:
 
@@ -52,11 +53,17 @@ The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Accounts] tab lists the [
 
 * [View account limits](#account-limits)
 
+<!-- * [Refresh information about your accounts](#refresh) -- Add topic below. -->
+
 * [Create an account](#account-create)
 
 * [Edit an account](#account-edit)
 
-## View account limits {#account-limits}
+* [Return to the DSP main menu](#return-to-menu)
+
+## Manage accounts
+
+### View account limits {#account-limits}
 
 An account limit caps an account's total spend over a specific date range. You can view an account's limits, but only your Adobe Account Team can create, edit, or remove the limits.
 
@@ -80,9 +87,9 @@ The [!UICONTROL Account limits] page lists each limit for the account:
 >
 >You can't edit or remove completed limits, and limit periods for the same account can't overlap.
 
-## Create a [!DNL ChatGPT Ads] conversational ad account {#account-create}
+### Create a [!DNL ChatGPT Ads] conversational ad account {#account-create}
 
-Each advertiser can have up to two [!DNL ChatGPT Ads]  accounts.
+To create more than two [!DNL ChatGPT Ads] accounts for an advertiser, contact your Adobe Account Team.
 
 1. In the main menu, click **[!UICONTROL Conversational Ads Beta]**.
 
@@ -100,7 +107,7 @@ Each advertiser can have up to two [!DNL ChatGPT Ads]  accounts.
 
 New accounts are created in a paused state while [!DNL OpenAI] reviews them. DSP activates the account once it's approved.
 
-## Edit a [!DNL ChatGPT Ads] conversational ad account {#account-edit}
+### Edit a [!DNL ChatGPT Ads] conversational ad account {#account-edit}
 
 You can edit an account's legal business name and website after you create it.
 
@@ -116,21 +123,23 @@ You can edit an account's legal business name and website after you create it.
 >
 >Saving changes restarts [!DNL OpenAI]'s review for the account. The account won't serve ads again until the account is re-approved.
 
-## Return to the DSP main menu
+### Return to the DSP main menu {#return-to-menu}
 
 * Above the main menu, click **[!UICONTROL Back to DSP]**.
 
 ### [!DNL ChatGPT Ads] conversational ad account settings {#account-settings}
 
-**[!UICONTROL Legal Business Name]:** The business name for the account, which is displayed in DSP.<!-- Just for display in DSP? -->
+**[!UICONTROL Legal Business Name]:** The organization's registered business name.
 
 **[!UICONTROL Advertiser Website]:** The URL of the advertiser's website, beginning with `http://` or `https://`.
 
-**[!UICONTROL Currency]:** (Read-only) The currency used for the account. The currency for your DSP user account is used.
+**[!UICONTROL Country]:** The country in which the organization is legally registered (not the country in which you'll run ads). It must be the same as the country used for the organization's DSP contract. You can't change this value after you save the account.
 
-**[!UICONTROL Timezone]:** (Read-only) The timezone used for the account. The timezone for your DSP user account is used.
+**[!UICONTROL Currency]:** (Read-only) The currency that your Adobe Account Team sets up for the [!DNL ChatGPT Ads] account. This may be different than the currency used for your DSP account. **Note:** Regardless of this value, all usage bills will be in the currency used for the DSP account.
 
-**[!UICONTROL Favicon]:** An image file to use as the website favicon for the account<!-- How is this used within this context? -->. The browser displays the favicon in various places, such as the address bar, tab, or bookmarks. The file must be in JPG, PNG, or WEBP format and a minimum of 256x256 pixels.
+**[!UICONTROL Timezone]:** (Read-only) The timezone that your Adobe Account Team sets up for the [!DNL ChatGPT Ads] account. This may be different than the timezone used for your DSP account. **Note:** Regardless of this value, all usage bills will represent the timezone used for the DSP account.
+
+**[!UICONTROL Favicon]:** An image file to use as the website favicon for the account.<!-- How is this used within this context? --> The browser displays the favicon in various places, such as the address bar, tab, or bookmarks. The file must be in JPG, PNG, or WEBP format and a minimum of 256x256 pixels.
 
 To upload an icon, click **[!UICONTROL Upload favicon]**, and then locate and select a file on your device or network.
 
