@@ -129,7 +129,67 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 >
 >You can also [add flexible HTML5 creatives](#flexible-creative-add), which are HTML5 creatives with all their attributes as standard HTML tags that you can edit directly within [!DNL Creative].
 
+### From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Upload]** > **[!UICONTROL Display]**.
+
+1. Specify the creatives:
+
+   * For local image or HTML5 assets, do either of the following:
+
+     * Drag and drop files on your device or network into the box.
+   
+     * Click **[!UICONTROL Select a file]** to locate files on your device or network.
+
+   * For approved images in an [Experience Manager library connected to your DSP account](/help/creative/creative-libraries/aem-assets-configure.md), do the following:
+
+     1. Click **[!UICONTROL AEM Asset Library]**.
+
+     1. (If you're not already signed in to your Experience Manager account) Sign in to your Experience Manager account.
+
+     1. Locate and select the files in your [!UICONTROL Assets] or [!UICONTROL Collections] views, and then click **[!UICONTROL Select]** in the upper right.
+
+        <!-- If the existing asset has multiple quality options, [!DNL Creative] downloads the primary asset, or the asset with the highest resolution within some upper limit [verify what it is and how this works]. [If an asset is part of an image set, ... primary asset in the image set. -->
+
+   * For GenStudio experiences, do the following:
+
+     1. Click **[!UICONTROL GenStudio Library]**.
+
+     1. (If you're not already signed in to your GenStudio account) Sign in to your GenStudio account.
+
+        Your display ad experiences are displayed by default. Optionally filter your experiences by campaign or other attributes as needed.
+
+     1. Locate and select the display ad experiences, and then click **[!UICONTROL Select]** in the upper right.
+
+      Each creative variant in a selected experience is imported as a separate HTML5 creative.
+
+1. Add or remove creatives:
+
+   * To add an image, click ![Add](/help/creative/assets/create.png "Add") in the upper left and locate the file on your device or network.
+
+   * To remove an image, deselect the check box next to it.
+
+1. Specify the [HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5) or [image creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image).
+
+   By default, all creatives or GenStudio experiences you just uploaded are selected, and any settings you specify apply to all selected items. Any settings with only one value apply to all selected items. To enter settings for specific creatives or GenStudio experiences, deselect each inapplicable creative or experience.
+
+1. Click **[!UICONTROL Save Creative]**.
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. Click the library name.
 
@@ -181,23 +241,79 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
 [!DNL Creative] supports JavaScript tracking tags for creatives hosted on most third-party ad servers.
 
+### From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
-1. Click the library name.
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+     
+1. Open the library in either of the following ways:
 
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+        
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Add new]** > **[!UICONTROL Upload]** > **[!UICONTROL 3rd Party]**.
+
+1. Specify the JavaScript tag and other settings for the creative in the [third-party creative settings](#creative-settings-third-party).
+
+   You can copy and paste any of the [available macros](/help/creative/creative-macros.md) into the JavaScript tag.
+
+1. Click **[!UICONTROL Create]**.
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+     
+1. Click the library name.
+     
 1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL 3rd Party]**.
 
 1. Specify the JavaScript tag and other settings for the creative in the [third-party creative settings](#creative-settings-third-party).
 
    You can copy and paste any of the [available macros](/help/creative/creative-macros.md) into the JavaScript tag.
 
-1. Click **[!UICONTROL Create]**
+1. Click **[!UICONTROL Create]**.
 
-## Add a video creative to a creative library
+## Upload a video creative to a creative library
 
 See the [video creative specifications](/help/creative/creative-libraries/creative-libraries-about.md#creative-video-specs) and the [supported creative sizes](/help/creative/creative-libraries/creative-sizes.md).
 
+### From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Upload]** > **[!UICONTROL Video]**.
+
+1. Specify the video files in either of the following ways:
+
+   * Drag and drop files on your device or network into the box.
+   
+   * Click **[!UICONTROL Select a file]** to locate files on your device or network.
+
+1. Specify the [video creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-video).
+
+   By default, the creative you just uploaded is selected, and any settings you specify apply to the selected creative.<!-- By default, all creatives you just uploaded are selected, and any settings you specify apply to all selected creatives. Any settings with only one value apply to all selected creatives. To enter settings for specific creatives, deselect each inapplicable creative. -->
+
+1. Click **[!UICONTROL Save Creative]**.
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. Click the library name.
 

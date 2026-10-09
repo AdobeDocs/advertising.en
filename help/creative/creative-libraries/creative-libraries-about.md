@@ -151,63 +151,55 @@ When you're in card mode, you can scroll through the images in a library with mu
 
 #### Available actions
 
-* [Create a new library](/help/creative/creative-libraries/creative-library-manage.md#create-a-creative-library)
+* [Create a new library](/help/creative/creative-libraries/creative-library-manage.md#library-create)
 
 * For each creative library:
 
-  * [Edit a library name](/help/creative/creative-libraries/creative-library-manage.md#edit-the-name-of-a-creative-library)
+  * [Rename a library](/help/creative/creative-libraries/creative-library-manage.md#library-rename)
 
-  * [Open a library to view the creatives and bundles assigned to the library](/help/creative/creative-libraries/creative-library-manage.md#open-a-creative-library)
+  * [Open a library to view the creatives and bundles assigned to the library](/help/creative/creative-libraries/creative-library-manage.md#library-open)
 
-  * [Delete libraries](/help/creative/creative-libraries/creative-library-manage.md#delete-creative-libraries)
+  * [Delete libraries](/help/creative/creative-libraries/creative-library-manage.md#library-delete)
 
-### The [!UICONTROL Creative Libraries] > [!UICONTROL Creatives] views
+### The [!UICONTROL Creative Libraries] > [!UICONTROL Creatives] view
 
-#### [!UICONTROL Standard Ads]
+The [!UICONTROL Creatives] view shows:
 
-The [!UICONTROL Standard Ads] tab shows all standard creatives that you've created. Data for each creative includes the creative size, the creative type, and the creation date. The table mode also includes columns for the default language and the default landing page.
+* All standard creatives that you've created.
 
-##### Available actions
+  Data for each standard creative includes the creative size, the creative type, and the creation date. The table mode also includes columns for the default language and the default landing page.
 
-* [Add standard creatives to a library](creative-add-standard.md)
+* All dynamic creatives that were created dynamically for your creative catalogs, except for any dynamic creatives that you [manually deleted](creative-delete.md) from the [!UICONTROL Dynamic Ads] tab. If you [manually duplicated](creative-duplicate.md) any dynamic creatives<!-- I don't think existing ads are deletd via feeds, so this probably isn't true: since a catalog was last processed -->, then the list of creatives for that catalog also includes the duplicate creatives.
 
-* [Edit a standard creative](creative-edit-standard.md)
+  Data for each dynamic creative includes the creative type, the creative size, the number of catalogs to which the creative belongs, and the creation date. The table mode also includes columns for the ad template through which the creative was generated and the offer count.
 
-* [Preview a standard creative](creative-preview.md)
+  >[!NOTE]
+  >
+  >Each time a catalog is processed, data is refreshed for the existing dynamic creatives for that catalog.<!-- Verify this!!! And is there anything more to say w/regard to  -->
+
+>[!NOTE]
+>
+>In the legacy UI, [!UICONTROL Creative Libraries] > [!UICONTROL Creatives] is organized into separate [!UICONTROL Standard Ads] and [!UICONTROL Dynamic Ads] tabs.
+
+#### Available actions
+
+* Add [standard creatives](creative-add-standard.md) and [dynamic creatives](creative-add-dynamic.md) to a library
+
+* Edit a [standard creative](creative-edit-standard.md) and a [dynamic creative](creative-edit-dynamic.md)
+
+* Preview a [standard creative](creative-preview.md) and [dynamic creatives](creative-preview.md)
 
 * [Add standard creatives to standard display bundles, and remove standard creatives from a standard display bundle](creative-attach-detach-bundles.md)
 
 * [Add video creatives to standard video bundles, and remove video creatives from a standard video bundle](creative-attach-detach-bundles.md)
 
-* [Duplicate standard creatives](creative-duplicate.md)
+* [Add dynamic creatives to dynamic display bundles, and remove dynamic creatives from a dynamic display bundle](creative-attach-detach-bundles.md)
+
+* Duplicate [standard creatives](creative-duplicate.md) and [dynamic creatives](creative-duplicate.md)
 
 * [Download standard creatives](creative-download.md)
 
-* [Delete standard creatives](creative-delete.md)
-
-#### [!UICONTROL Dynamic Ads]
-
-The [!UICONTROL Dynamic Ads] tab shows all dynamic creatives that were created dynamically for your creative catalogs, except for any dynamic creatives that you [manually deleted](creative-delete.md) from the [!UICONTROL Dynamic Ads] tab. If you [manually duplicated](creative-duplicate.md) any dynamic creatives<!-- I don't think existing ads are deletd via feeds, so this probably isn't true: since a catalog was last processed -->, then the list of creatives for that catalog also includes the duplicate creatives.
-
-Data for each creative includes the creative type, the creative size, the number of catalogs to which the creative belongs, and the creation date. The table mode also includes columns for the ad template through which the creative was generated and the offer count.
-
->[!NOTE]
->
->Each time a catalog is processed, data is refreshed for the existing dynamic creatives for that catalog.<!-- Verify this!!! And is there anything more to say w/regard to  -->
-
-##### Available actions
-
-* [Add dynamic creatives to a library](creative-add-dynamic.md)
-
-* [Edit a dynamic creative](creative-edit-dynamic.md)
-
-* [Preview dynamic creatives](creative-preview.md)
-
-* [Add dynamic creatives to dynamic display bundles, and remove dynamic creatives from a dynamic display bundle](creative-attach-detach-bundles.md)
-
-* [Duplicate dynamic creatives](creative-duplicate.md)
-
-* [Delete dynamic creatives](creative-delete.md)
+* Delete [standard creatives](creative-delete.md) and [dynamic creatives](creative-delete.md)
 
 <!-- Later:  Dynamic creatives are generated automatically when you save a catalog, but can regenerate the catalog using the contents of an updated asset file [using the Run Now option]. -->
 
@@ -221,7 +213,7 @@ The [!UICONTROL Bundles] view shows all of your standard and dynamic bundle cont
 
 * List and preview the creatives in a bundle
 
-* Edit a bundle name
+* Rename a bundle
 
 * Add standard display creatives to standard display bundles, and remove standard display creatives from a standard display bundle
 

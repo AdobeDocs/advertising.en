@@ -19,7 +19,29 @@ role_v2:
 ---
 # Edit a dynamic creative in a creative library
 
+## From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL ...]** next to the creative name, and then click **[!UICONTROL Edit]**.
+
+1. Edit the [dynamic ad settings](creative-settings-dynamic.md).
+
+1. Click **[!UICONTROL Update Creative]**.
+
+## From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. Click the library name.
 
