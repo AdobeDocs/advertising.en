@@ -15,6 +15,8 @@ subfeature_v2:
 ---
 # View the change log for a creative
 
+*Available only in the legacy UI*
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.

@@ -40,21 +40,69 @@ Creatives that are attached to bundles are still available as individual creativ
 
 You can attach a creative to multiple bundles.
 
+## From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. Do either of the following:
+
+   * From the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Add new]** > **[!UICONTROL Bundle]** in the upper right.
+   
+   * Click the **[!UICONTROL Bundles]** tab. In the upper right, click **[!UICONTROL Create bundle]**.
+
+1. Enter a unique **[!UICONTROL Bundle Name]**, and select **[!UICONTROL Bundle type]:** *Standard Display* (for standard display creatives), *Dynamic Display* (for dynamic display creatives), *Standard Video* (for standard video creatives), or *Dynamic Video* (for dynamic video creatives).
+
+1. Click **[!UICONTROL Create]**.
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
 
 1. Click the library name.
 
 1. Click the **[!UICONTROL Bundles]** tab.
 
-1. In the upper right, click **[!UICONTROL Create]** > **[!UICONTROL Bundles]** > **[!UICONTROL Bundle]**.
+1. In the upper right, click **[!UICONTROL Create]** > **[!UICONTROL Bundle]**.
 
-1. Enter a unique **[!UICONTROL Bundle Name]** and the **[!UICONTROL Bundle Type]:** *Standard Display* (for standard display creatives), *Dynamic Display* (for dynamic display creatives), *Standard Video* (for standard video creatives), or *Dynamic Video* (for dynamic video creatives).
+1. Enter a unique **[!UICONTROL Bundle Name]**, and select the **[!UICONTROL Bundle Type]:** *Standard Display* (for standard display creatives), *Dynamic Display* (for dynamic display creatives), *Standard Video* (for standard video creatives), or *Dynamic Video* (for dynamic video creatives).
 
 1. Click **[!UICONTROL Create]**.
 
 ## List the creatives in a bundle
 
+### From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Click the name of the bundle to view all creatives in the bundle.
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
 
@@ -65,6 +113,32 @@ You can attach a creative to multiple bundles.
 1. Click the bundle card or row to view all creatives in the bundle.
 
 ## Duplicate bundles
+
+The new bundles are named `<original name> (copy) # 1` (or the next number in the sequence). For example, if you make two duplicates of "Test bundle," then the duplicates are named "Test bundle (copy) # 1" and "Test bundle (copy) # 2."
+
+### From the new UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Select the bundles to duplicate:
+
+   * To duplicate a single bundle, click **[!UICONTROL ...]** next to the bundle name, and then click **[!UICONTROL Duplicate]**.
+
+   * To duplicate one or more bundles, select the check box for each bundle you want to delete. In the bulk actions toolbar, click ![Duplicate](/help/creative/assets/duplicate.png "Duplicate") (**[!UICONTROL Duplicate]**).
+   
+     To select all rows, select the global check box in the upper left.
+
+### From the legacy UI
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
@@ -86,13 +160,39 @@ You can attach a creative to multiple bundles.
    
      To select all rows, select the global check box in the upper left.
 
-   The new bundles are named `<original name> (copy) # 1` (or the next number in the sequence). For example, if you make two duplicates of "Test bundle," then the duplicates are named "Test bundle (copy) # 1" and "Test bundle (copy) # 2."
-
-## Edit a bundle name
+## Rename a bundle
 
 Changes to a bundle name are propagated across all associated experiences.
 
+### From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Next to the bundle name, click **[!UICONTROL ...]**, and then click **[!UICONTROL Edit]**.<!-- Not "Rename" like for library objects -->
+
+1. Edit the **[!UICONTROL Bundle Name]**.
+
+   The [!UICONTROL Bundle Name] must be unique.
+
+1. Click **[!UICONTROL Save]**.
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
 
 1. Click the library name.
 
@@ -108,7 +208,7 @@ Changes to a bundle name are propagated across all associated experiences.
 
    The [!UICONTROL Bundle Name] must be unique.
 
-1. Click **[!UICONTROL Update]**.<!-- inconsistent with "Edit" for creative libraries and creatives -->
+1. Click **[!UICONTROL Update]**.
 
 ## Attach creatives to a bundle
 
@@ -120,7 +220,29 @@ You can attach existing standard display creatives to a standard display bundle,
 
 ### Attach creatives to a bundle from the Bundles list
 
+### From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Next to the bundle name, click **[!UICONTROL ...]**, and then click **[!UICONTROL Attach creatives]**.
+
+1. In the right panel, select the check box next to each creative to attach to the bundle, and then click **[!UICONTROL Attach]**.
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
 
@@ -138,11 +260,33 @@ You can attach existing standard display creatives to a standard display bundle,
 
 1. (Optional) Switch between the default table view and a card view of the available bundles by clicking ![Card view](/help/creative/assets/card-view-button.png "Card view") to open the card view or ![Table/list view](/help/creative/assets/table-view-button.png "Table view") to return to the table view.
 
-1. In the right frame, select the check box next to each creative to attach to the bundle, and then click **[!UICONTROL Attach Creative to Bundle]**.
+1. In the right panel, select the check box next to each creative to attach to the bundle, and then click **[!UICONTROL Attach Creative to Bundle]**.
 
-### Attach creatives to a bundle from the bundle's creative list 
+### Attach creatives to a bundle from the bundle's creative list
+
+### From the new UI
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Click the name of the bundle to view all creatives in the bundle.
+
+1. In the right panel, select the check box next to each creative to attach to the bundle, and then click **[!UICONTROL Attach]**.
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
 
@@ -164,7 +308,35 @@ Detaching a creative from a bundle removes the association between the two, so t
 
 Detaching a creative from the bundle doesn't delete the creative from the Creatives tab in your creative library.
 
+### From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Click the name of the bundle to view all creatives in the bundle.
+
+1. Select the bundles to detach:
+
+   * To detach a single bundle, click **[!UICONTROL ...]** next to the bundle name, and then click **[!UICONTROL Detach]**.
+
+   * To detach one or more bundles, select the check box for each bundle that you want to detach. In the bulk actions toolbar, click ![Detach](/help/creative/assets/detach.png "Detach") (**[!UICONTROL Detach]**).
+   
+     To select all rows, select the global check box in the upper left.
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
 
@@ -190,7 +362,45 @@ Detaching a creative from the bundle doesn't delete the creative from the Creati
 
 You can preview a creative as viewers will see it, including hyperlinks.
 
+### From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Click the name of the bundle to view all creatives in the bundle.
+
+1. Next to the bundle name, click **[!UICONTROL ...]**, and then click **[!UICONTROL Preview]**.
+
+   For HTML5 and flexible HTML5 creatives, you can move between the Layers, Details, and Attributes tabs for more details.
+
+1. (Optional) To open the landing page for the creative, click the creative.
+
+<!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
+
+1. (Optional; when available) To download the creative, click ![Download](/help/creative/assets/download.png "Download").
+
+   The file is downloaded according to your browser's normal procedure.
+
+1. (Optional; when available) To share a demo URL so that other people without a login to [!DNL Creative] can preview the creatives:
+
+   1. Click ![Share](/help/creative/assets/share.png "Share") in the upper right of the preview.
+   
+   1. In the [!UICONTROL Share demo URL] dialog, click **[!UICONTROL Copy]** to copy the URL to your clipboard so that you can share it with someone else.
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
 
@@ -222,13 +432,47 @@ You can preview a creative as viewers will see it, including hyperlinks.
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Next to the bundle name, click **[!UICONTROL ...]**, and then click **[!UICONTROL Preview]**.
+   
+1. (Optional) To open the landing page for the creative, click the creative.
+
+<!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
+
+1. (Optional; when available) To download the creative, click ![Download](/help/creative/assets/download.png "Download").
+
+   The file is downloaded according to your browser's normal procedure.
+
+1. (Optional; when available) To share a demo URL so that other people without a login to [!DNL Creative] can preview the creatives:
+
+   1. Click ![Share](/help/creative/assets/share.png "Share") in the upper right of the preview.
+   
+   1. In the [!UICONTROL Share demo URL] dialog, click **[!UICONTROL Copy]** to copy the URL to your clipboard so that you can share it with someone else.
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
 1. Click the library name.
 
 1. Click the **[!UICONTROL Bundles]** tab.
 
 1. Select the bundle:
 
-   * In card view, click **[!UICONTROL ...]** next to the bundle name, and then click **[!UICONTROL Preview]**.
+   * In card view, click **[!UICONTROL ...]**, and then click **[!UICONTROL Preview]**.
    
    * In table view, hold the cursor over the row and click **[!UICONTROL Preview]**.
 
@@ -244,7 +488,7 @@ You can preview a creative as viewers will see it, including hyperlinks.
 
 1. (Optional) To share a demo URL so that other people without a login to [!DNL Creative] can preview the creatives:
 
-   1. Click ![Share](/help/creative/assets/share.png "Share") in the upper right of the preview.
+   1. Click ![Share](/help/creative/assets/share-legacy.png "Share") in the upper right of the preview.
    
    1. In the [!UICONTROL Share Demo URL] dialog, click **[!UICONTROL Copy]** to copy the URL to your clipboard so that you can share it with someone else.
 
@@ -283,7 +527,13 @@ The custom URL and tags are applied to a creative when the bundle is assigned to
 
 ## View the change log for a bundle
 
+*Not available in the new UI*
+
+### From the legacy UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
 
@@ -307,7 +557,35 @@ The custom URL and tags are applied to a creative when the bundle is assigned to
 
 You can delete bundles that aren't assigned to a [live](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) experience. If a bundle is assigned to a live experience, then [remove the bundle from the decision tree](/help/creative/experiences/experience-target-node-delete.md) for the experience before you continue.
 
+### From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. Click the **[!UICONTROL Bundles]** tab.
+
+1. Select the bundles to delete:
+
+   * To delete a single bundle, click **[!UICONTROL ...]** next to the bundle name, and then click **[!UICONTROL Delete]**.
+
+   * To delete one or more bundles, select the check box for each bundle you want to delete. In the bulk actions toolbar, click ![Delete](/help/creative/assets/delete.png "Delete") (**[!UICONTROL Delete]**).
+   
+     To select all rows, select the global check box in the upper left.
+
+1. In the confirmation message, click **[!UICONTROL Delete].**
+
+### From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
 
