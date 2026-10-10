@@ -285,6 +285,8 @@ See the [video creative specifications](/help/creative/creative-libraries/creati
 
 ### From the new UI
 
+You can upload one video at a time.
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
@@ -297,15 +299,13 @@ See the [video creative specifications](/help/creative/creative-libraries/creati
 
 1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Create]** > **[!UICONTROL Upload]** > **[!UICONTROL Video]**.
 
-1. Specify the video files in either of the following ways:
+1. Specify the video file in either of the following ways:
 
-   * Drag and drop files on your device or network into the box.
+   * Drag and drop a file on your device or network into the box.
    
-   * Click **[!UICONTROL Select a file]** to locate files on your device or network.
+   * Click **[!UICONTROL Select a file]** to locate a file on your device or network.
 
 1. Specify the [video creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-video).
-
-   By default, the creative you just uploaded is selected, and any settings you specify apply to the selected creative.<!-- By default, all creatives you just uploaded are selected, and any settings you specify apply to all selected creatives. Any settings with only one value apply to all selected creatives. To enter settings for specific creatives, deselect each inapplicable creative. -->
 
 1. Click **[!UICONTROL Save Creative]**.
 

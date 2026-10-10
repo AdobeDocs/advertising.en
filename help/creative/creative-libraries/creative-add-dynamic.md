@@ -66,11 +66,7 @@ Add dynamic creatives to your [creative libraries](creative-library-manage.md) t
 
 1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Add new]** > **[!UICONTROL Creative Studio]** > **[!UICONTROL Dynamic Ad]**.
 
-1. Specify the [dynamic ad settings](creative-settings-dynamic.md).
-
-1. Choose whether to *[!UICONTROL Save Dynamic Creative & Skip QA]* or to *[!UICONTROL Continue to QA]*.
-
-1. (If you continue to QA) After you are finished making any changes, click **[!UICONTROL Save Dynamic Creative]** in the header. In the confirmation message, click **[!UICONTROL Create]**.
+1. Specify the dynamic ad settings within [!DNL Creative Studio], beginning with [Step 2 in "Manage dynamic creatives in [!UICONTROL Creative Studio]](/help/creative/creative-studio/creative-studio-manage-dynamic-ads.md#select-template)."
 
 ## From the legacy UI
 

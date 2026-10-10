@@ -169,7 +169,7 @@ The [!UICONTROL Creatives] view shows:
 
   Data for each standard creative includes the creative size, the creative type, and the creation date. The table mode also includes columns for the default language and the default landing page.
 
-* All dynamic creatives that were created dynamically for your creative catalogs, except for any dynamic creatives that you [manually deleted](creative-delete.md) from the [!UICONTROL Dynamic Ads] tab. If you [manually duplicated](creative-duplicate.md) any dynamic creatives<!-- I don't think existing ads are deletd via feeds, so this probably isn't true: since a catalog was last processed -->, then the list of creatives for that catalog also includes the duplicate creatives.
+* All dynamic creatives that were created dynamically for your creative catalogs, except for any dynamic creatives that you [manually deleted](creative-delete.md). If you [manually duplicated](creative-duplicate.md) any dynamic creatives<!-- I don't think existing ads are deletd via feeds, so this probably isn't true: since a catalog was last processed -->, then the list of creatives for that catalog also includes the duplicate creatives.
 
   Data for each dynamic creative includes the creative type, the creative size, the number of catalogs to which the creative belongs, and the creation date. The table mode also includes columns for the ad template through which the creative was generated and the offer count.
 

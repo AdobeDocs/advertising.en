@@ -21,19 +21,45 @@ role_v2:
 
 ## From the new UI
 
-1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+1. Open the creative settings:
 
-1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
-
-1. Open the library in either of the following ways:
-
-   * Click the library name.
+   * From a creative library:
    
-   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+     1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+     
+     1. Open the library in either of the following ways:
+     
+        * Click the library name.
+        
+        * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
 
-1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL ...]** next to the creative name, and then click **[!UICONTROL Edit]**.
+     1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL ...]** next to the creative name, and then click **[!UICONTROL Edit]**.
 
-1. Edit the [dynamic ad settings](creative-settings-dynamic.md).
+   * From [!UICONTROL Creative Studio]:
+   
+     1. In the main menu, click **[!UICONTROL Creative] > [!UICONTROL Creative Studio]**.
+     
+     1. On the **[!UICONTROL Creatives]** tab, hold the cursor over the creative card and click **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
+     
+        A full-screen editor opens with an ad preview on the left and a settings panel on the right.
+
+1. Edit the creative settings using the **[!UICONTROL Details]** and **[!UICONTROL Attribute Mapping]** tabs:
+
+   **[!UICONTROL Details]** tab:
+
+   * **[!UICONTROL Advertiser]**, **[!UICONTROL Ad Library]**, and **[!UICONTROL Ad template]** are read-only.
+   * **[!UICONTROL Dynamic creative name]:** The display name for the creative.
+   * **[!UICONTROL Number of cards]:** The number of catalog offers included in each ad combination (1-50).
+   * (Optional) Under **[!UICONTROL Catalogs]**, update the catalog selection:
+     * Use **[!UICONTROL Catalog template]** to filter available catalogs. To optionally download the template file, click **[!UICONTROL Download feed template]**.
+     * Search and select catalogs from the list, or upload a new catalog file by dragging it to the upload area or clicking **[!UICONTROL Browse Files]** (supported formats: JPG, PNG, JPEG, XLS, XLSX, CSV, TSV, ZIP, MP4; maximum 25 MB; one file at a time). Uploaded catalogs are labeled **(uploaded)** in the chip list.
+     
+     All catalogs must belong to the same catalog template family.
+
+   **[!UICONTROL Attribute Mapping]** tab:
+
+   * Under **[!UICONTROL Targeting]**, select at least one data source: **[!UICONTROL Profile data]**, **[!UICONTROL Geographic data]**, **[!UICONTROL Data pass]**, or **[!UICONTROL Audience Segment]**.
+   * Under **[!UICONTROL Attribute Mapping]**, update the mapping from each template layer name to the corresponding catalog column label.
 
 1. Click **[!UICONTROL Update Creative]**.
 
