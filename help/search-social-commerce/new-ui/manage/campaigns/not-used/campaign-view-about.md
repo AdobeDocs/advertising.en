@@ -40,17 +40,24 @@ Search, Social, & Commerce pulls performance data hourly from synced [!DNL Googl
 * [View a performance graph across all campaigns in the view](campaign-view-performance-graph.md)
 -->
 
+
+<!--
+
+Links to unused (separate) pages:
+
 * Rename a campaign from within the row.
 
 * Delete or change the status of a campaign from within the row.
 
 * [Assign campaigns to existing or new portfolios](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio), and [unassign campaigns from portfolios](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
 
-* [Assign constraints to campaigns, and unassign constraints from campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
+* [Assign constraints to campaigns, and unassign constraints from campaigns](help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-constraints)
 
 * [Assign label classifications](/help/search-social-commerce/new-ui/set-up/label-classifications-manage.md) to campaigns
 
-* [Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
+* [Manage data view reports from the [!UICONTROL Campaigns] view](help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-reports)
+
+-->
 
 >[!MORELIKETHIS]
 >
