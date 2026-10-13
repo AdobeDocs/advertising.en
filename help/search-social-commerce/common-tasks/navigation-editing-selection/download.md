@@ -30,7 +30,7 @@ You can download data from the [!UICONTROL Search, Social, & Commerce] > [!UICON
 
 >[!NOTE]
 >
->See also help on downloading data in the new user interface from the "[[!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)", "[[!UICONTROL Campaigns] view](help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-reports)," and "[[!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)."
+>See also help on downloading data in the new user interface from the "[[!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)", "[[!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-reports)," and "[[!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)."
 
 1. (Optional) Select individual rows to include in the file.
 
@@ -52,5 +52,5 @@ You can download data from the [!UICONTROL Search, Social, & Commerce] > [!UICON
 >
 >* [(Legacy UI) Delete a performance data report or bulksheet file from the [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
 >* [(New UI) Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
->* [(New UI) Manage data view reports from the [!UICONTROL Campaigns] view](help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-reports)
+>* [(New UI) Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-reports)
 >* [(New UI) Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)

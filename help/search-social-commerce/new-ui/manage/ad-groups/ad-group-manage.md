@@ -322,7 +322,7 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 >[!MORELIKETHIS]
 >
 >* [Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
->* [Manage constraint assignments for campaigns](help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-constraints)
+>* [Manage constraint assignments for campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-constraints)
 >* [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/manage/keywords/keyword-constraint-assignments-manage.md)
 >* [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/targeting/placements/placement-constraint-assignments-manage.md)
 >* [(Legacy UI) Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)

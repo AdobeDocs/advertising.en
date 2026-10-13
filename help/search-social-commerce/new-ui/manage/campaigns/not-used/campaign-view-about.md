@@ -51,11 +51,11 @@ Links to unused (separate) pages:
 
 * [Assign campaigns to existing or new portfolios](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio), and [unassign campaigns from portfolios](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
 
-* [Assign constraints to campaigns, and unassign constraints from campaigns](help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-constraints)
+* [Assign constraints to campaigns, and unassign constraints from campaigns](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-constraints)
 
 * [Assign label classifications](/help/search-social-commerce/new-ui/set-up/label-classifications-manage.md) to campaigns
 
-* [Manage data view reports from the [!UICONTROL Campaigns] view](help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-reports)
+* [Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-reports)
 
 -->
 
