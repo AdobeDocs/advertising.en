@@ -57,6 +57,8 @@ Search, Social, & Commerce pulls performance data hourly from synced [!DNL Googl
 
 * [Manage data view reports from the [!UICONTROL Campaigns] view](#campaign-reports)
 
+* [Sync campaign data with the ad network](#campaign-sync)
+
 ## Create a campaign {#campaign-create}
 
 >[!NOTE]
@@ -421,6 +423,18 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 1. In the toolbar above the data table, click ![Download Report](/help/search-social-commerce/assets/download.png "Download Report") **[!UICONTROL Reports]**.
 
 1. In the [!UICONTROL Recently Generated] list in the [!UICONTROL Grid Reports] dialog, click ![Delete](/help/search-social-commerce/assets/delete-new.png "Delete") next to the file name.
+
+## Sync campaign data with the ad network {#campaign-sync}
+
+You can also [sync data for all campaigns within an account](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/sync-api-accounts.md).
+
+1. In the main menu, click **[!UICONTROL Manage]** > **[!UICONTROL Campaigns]**.
+
+1. Select the check box next to the name of each campaign to sync.
+
+1. In the bulk actions toolbar, click **[!UICONTROL ... More Actions]** > **[!UICONTROL Sync]**.
+
+The job may take an hour or more to complete.
 
 >[!MORELIKETHIS]
 >
