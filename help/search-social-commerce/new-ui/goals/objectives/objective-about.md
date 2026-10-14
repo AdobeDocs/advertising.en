@@ -78,7 +78,21 @@ You can include any of the following in your objectives:
  
 ## Option to upload objectives to the ad networks
 
-You can optionally [upload the objectives for the account's portfolios to [!DNL Google Ads] and/or [!DNL Microsoft Advertising] as conversions](/help/search-social-commerce/tools/objective-upload-to-networks.md) so that you can use them for campaign- or ad group-level optimization. When you enable the option, Search, Social, & Commerce passes the weighted revenue data at the EF ID (click ID) level to the ad network daily. It omits any ad network-tracked metrics.
+You can optionally [upload the objectives for the account's portfolios to [!DNL Google Ads] and/or [!DNL Microsoft Advertising] as conversions](objective-upload-to-networks.md) so that you can use them for campaign- or ad group-level optimization. When you enable the option, Search, Social, & Commerce passes the weighted revenue data at the EF ID (click ID) level to the ad network daily. It omits any ad network-tracked metrics.
+
+## Available actions
+
+* [Create an objective](objective-create.md)
+
+* [Edit an objective](objective-edit.md)
+
+* [Apply weight recommendations to an objective](objective-apply-weight-recommendations.md)
+
+* [Export an objective configuration to a [!DNL Microsoft Excel] worksheet](objective-export.md)
+
+* [Download performance data for objectives](objective-download-performance-data.md)
+
+* [Delete an objective](objective-delete.md)
 
 >[!MORELIKETHIS]
 >
@@ -87,4 +101,5 @@ You can optionally [upload the objectives for the account's portfolios to [!DNL 
 >* [Delete an objective](objective-delete.md)
 >* [Apply weight recommendations to an objective](objective-apply-weight-recommendations.md)
 >* [Objective settings](objective-settings.md)
+>* [Export an objective configuration](objective-export.md)
 >* [Download performance data for objectives](objective-download-performance-data.md)

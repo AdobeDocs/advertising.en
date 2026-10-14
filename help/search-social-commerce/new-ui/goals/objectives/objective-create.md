@@ -58,4 +58,5 @@ Objectives prefixed with "`ADSP_`" (not case-sensitive) for use with Advertising
 >* [Edit an objective](objective-edit.md)
 >* [Apply weight recommendations to an objective](objective-apply-weight-recommendations.md)
 >* [Objective settings](objective-settings.md)
+>* [Export an objective configuration](objective-export.md)
 >* [Download performance data for objectives](objective-download-performance-data.md)

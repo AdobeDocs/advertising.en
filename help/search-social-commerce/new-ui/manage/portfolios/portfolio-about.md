@@ -73,7 +73,7 @@ The [!UICONTROL Portfolios] view lists all existing portfolios in the filtered v
 
 Above the data table, you can open a performance graph with up to three metrics totalled across all portfolios in the view for the specified date range. You can also open portfolio details, including portfolio performance and accuracy, as well as performance data for each campaign, ad group, and keyword in the portfolio.
 
-You can edit some settings, including the portfolio status, directly within the portfolio row.
+You can edit some settings, including the portfolio status, directly within the portfolio row. When a portfolio or its associated campaigns and child campaign entities are configured with any constraints that affect spending (including network, campaign budget, target, CPC limits, or bid unit constraints), click [!UICONTROL Yes] in the [!UICONTROL Constraints] column to see a list of all constraints, including the constraint level and type. 
 <!-- No options yet to edit anything within the grid, view bid changes, add a portfolio to a portfolio group,  or import/export DOW targets. -->
 
 ### Available actions
