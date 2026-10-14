@@ -1,5 +1,5 @@
 ---
-title: (New UI) View View portfolio performance details
+title: (New UI) View portfolio performance details
 description: Learn how to view portfolio performance details, including actual and predicted metrics at the portfolio level and for each assigned campaign.
 feature: Search Portfolios, Search Optimization
 hide: true
@@ -34,7 +34,7 @@ The portfolio detail view includes the following information about a portfolio:
 
 * Model accuracy data for active portfolios, which shows how much the models deviated from predictions. The report shows the overall daily or rolling seven-day cost accuracy, click accuracy, and objective value accuracy.
 
-  You can view data by click date (the default) or by transaction date.   You also can view the data as either a trend chart (the default) or as a table.
+  You can view data by click date (the default) or by transaction date. You also can view the data as either a trend chart (the default) or as a table.
 
 * The target spend versus the actual spend for active portfolios. You can optionally also include the total campaign budgets for the portfolio.
 
@@ -44,11 +44,23 @@ The portfolio detail view includes the following information about a portfolio:
 
   You can optionally open the portfolio settings to edit them.
 
+* Lists of the campaigns, ad groups, and keywords in the portfolio. For individual keywords, you can view bid unit details, including forecasts, historical information, and hierarchical information.
+
+  The [!UICONTROL Bid Unit Details] view includes the following forecasts, historical information, and hierarchical information for the selected bid unit:
+     
+  * [!UICONTROL Forecast] tab: The currently projected clicks, cost, cost per click, position, and revenue for the bid unit at different bid prices. Data is shown for all devices and for each device type ([!UICONTROL Mobile], [!UICONTROL Computer], and [!UICONTROL Tablet]).<!-- Probably no longer applicable: For portfolios using v6 of the optimization capability, both the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs show the combined totals for computers and tablets. For portfolios using v7, however, all data for the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs is separate. -->
+
+    **Note:** No forecast data is available for a device type when insufficient device-specific data is available to build models and set adjustments for that device type. **Note:** To see the cost accuracy or revenue accuracy for each bid unit within a portfolio that received a click during a specific date range, see the view the portfolio's cost accuracy details or revenue accuracy details, respectively.
+
+  * [!UICONTROL History] tab: All bids in the last 36 days, including the following data for each of the bids: the date and time, impressions, clicks, total cost, average CPC, average position, and weighted revenue shown by click date. Data is shown for all devices and for each device type (Mobile, Computer, and Tablet).<!-- Probably no longer applicable: For portfolios using v6 of the optimization capability, both the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs show the combined totals for computers and tablets. For portfolios using v7, however, all data for the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs is separate. **Note:** Whenever the optimization method changes from v6 to v7 and vice-versa, the history data is reset the same day. -->
+
+  * [!UICONTROL Detail] tab:  The match type (when applicable) and the parent ad group, campaign, ad network account, and portfolio to which the bid unit belongs.
+
 ## Open performance details for a portfolio
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
 
-1. Click the portfolio name.
+1. Hold the cursor over the portfolio name and click ![Portfolio Overview](/help/search-social-commerce/assets/portfolio-overview.png "Portfolio Overview).
 
 1. (Optional) From the **[!UICONTROL Data Aggregation]** menu, change the time unit of data included in each row: *[!UICONTROL Daily],* *[!UICONTROL Weekly],* or *[!UICONTROL Monthly].*
 
@@ -110,13 +122,17 @@ Details about each ad group include the cost, clicks, and objective value.
 
 * To view all ad groups in a campaign within the portfolio, click the **[!UICONTROL Campaigns]** tab, and then click the campaign name.
 
-## List the keywords in the portfolio
+## List and view details about keywords in the portfolio
 
-Details for each keyword include the bid unit ID; match type; the actual and predicted cost, clicks, and objective value; and the cost, click, and objective value difference.
+Details for each keyword include the bid unit ID; match type; the actual and predicted cost, clicks, and objective value; and the cost, click, and objective value difference. You can view bid unit details about an individual keyword.
 
-* To view all keywords in the portfolio, click the **[!UICONTROL Keywords]** tab.
+1. List the keywords:
 
-* To view all keywords in an ad group within the portfolio, click the **[!UICONTROL Ad Groups]** tab, and then click the ad group name.
+   * To view all keywords in the portfolio, click the **[!UICONTROL Keywords]** tab.
+   
+   * To view all keywords in an ad group within the portfolio, click the **[!UICONTROL Ad Groups]** tab, and then click the ad group name.
+
+1. (Optional) To view details about a specific bid unit, click the value in the **[!UICONTROL Bid Unit ID]** column. Click any tab in the [!UICONTROL Bid Unit Details] for more information.
 
 ## View and edit the portfolio settings
 

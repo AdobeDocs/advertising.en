@@ -28,7 +28,7 @@ topic_v2:
 
 1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
 
-1. Select the check box next to the objective. In the toolbar above the data table, click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") **[!UICONTROL Edit]**.
+1. Hold the cursor over the objective name, and click **[!UICONTROL ...] > [!UICONTROL Edit]**.
 
 1. Change any of the objective settings.
 
@@ -47,4 +47,5 @@ topic_v2:
 >* [Delete an objective](objective-delete.md)
 >* [Apply weight recommendations to an objective](objective-apply-weight-recommendations.md)
 >* [Objective settings](objective-settings.md)
+>* [Export an objective configuration](objective-export.md)
 >* [Download performance data for objectives](objective-download-performance-data.md)

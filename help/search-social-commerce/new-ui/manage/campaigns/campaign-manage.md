@@ -43,17 +43,19 @@ Search, Social, & Commerce pulls performance data hourly from synced [!DNL Googl
 
 * [Edit campaign settings](#campaign-edit)
 
-* [Change the status of, or delete, a campaign from within the row](#campaign-status)
+* [Change the status of a campaign from within the row](#campaign-status)
 
 * [Assign campaigns to a portfolio, and remove campaigns from a portfolio](#campaign-portfolio)
-
-* [View a performance graph in the [!UICONTROL Campaigns] view](#campaign-performance-graph)
 
 * [Assign bid constraints to campaigns, and unassign constraints from campaigns](#campaign-constraints)
 
 * [Assign target constraints to campaigns, and unassign target constraints from campaigns](#campaign-target-constraints)
 
 * [Assign label classifications to campaigns, and remove label classifications from campaigns](#campaign-classifications)
+
+* [View a performance graph in the [!UICONTROL Campaigns] view](#campaign-performance-graph)
+
+* [View the campaign budget history](#campaign-budget-history)
 
 * [Manage data view reports from the [!UICONTROL Campaigns] view](#campaign-reports)
 
@@ -373,6 +375,14 @@ Open and configure a performance graph with up to three metrics totalled across 
 ### Hide a visible performance graph
 
 * Above the data table, click ![Charts](/help/search-social-commerce/assets/charts.png "Charts").
+
+## View the campaign budget history {#campaign-budget-history}
+
+The budget history lists each change to the campaign budget, including the source of the change.
+
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
+
+1. Hold the cursor over the campaign name and click **[!UICONTROL ...] > [!UICONTROL Budget Change History]**.
 
 ## Manage data view reports from the [!UICONTROL Campaigns] view {#campaign-reports}
 
