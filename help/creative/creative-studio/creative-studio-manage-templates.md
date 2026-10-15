@@ -35,6 +35,8 @@ Probably not necessary:
 
 Creation:
 
+* [Generate an ad template using AI](#template-generate)
+
 * [Create an ad template manually](#template-create)
 
 * [Import HTML5 ad templates](#templates-import)
@@ -91,6 +93,102 @@ Use the filter pills in the toolbar to show a subset of templates:
 Applied filters appear as chips below the toolbar. To refine or remove an active filter, click its chip to open a popover where you can toggle options, then click **[!UICONTROL Apply]** or **[!UICONTROL Delete]** to remove the filter. To remove all active filters at once, click **[!UICONTROL Clear All]**.
 
 -->
+
+## Generate an ad template using AI {#template-generate}
+
+*Beta feature*
+
+Use AI in [!UICONTROL Creative Studio] to generate an editable display ad template from a text prompt or an existing static display ad image. A three-step wizard helps you generate and review the template, request changes using natural language, and open the template editor to make manual changes and save the template.
+
+### Prerequisites
+
+To generate a template from an existing image, you need a static image ad in a Creative Library. This option selects ads from your libraries; it doesn't upload a new image directly in the generation dialog. You don't need an existing ad image to generate a template from a prompt.
+
+### Step 1: Generate and review the template
+
+1. In the main menu, click **[!UICONTROL Creative Studio]**.
+
+1. Click the **[!UICONTROL Templates]** tab.
+
+1. (Optional) Select an advertiser from the advertiser list at the top of the page to view that advertiser's libraries.
+
+1. In the **[!UICONTROL Use AI to Generate a New Display Ad Template]** box, click **[!UICONTROL Generate]**.
+
+1. In the **[!UICONTROL Generate New Ad Template]** dialog, select **[!UICONTROL Generate from Existing Standard Ad Image]** if it isn't already selected.
+
+1. Select the library containing the image ad from the **[!UICONTROL Ad Library]** list.
+
+1. Hold the cursor over the image ad card and click **[!UICONTROL Use this Standard Ad]**.
+
+   Generation begins automatically, using the selected ad's width and height.
+
+<!-- Additional option coming at the next release:
+
+1. In the **[!UICONTROL Generate New Ad Template]** dialog, choose how to generate the template:
+
+   * **[!UICONTROL Generate from Prompt]:** Describe the ad template you want to create using a text prompt.
+
+   * **[!UICONTROL Generate from Existing Standard Ad Image]:** Convert an existing static image ad into an editable template.
+
+1. Follow the steps for your selected option:
+
+   * From a prompt:
+
+      1. Enter a description of the template you want to create. Include details such as the layout, headline, call to action, and visual style.
+
+      1. Follow the on-screen instructions to generate the template.
+
+   * From an existing standard ad image:
+
+      1. Select the library containing the image ad from the **[!UICONTROL Ad Library]** list.
+
+      1. Hold the cursor over the image ad card and click **[!UICONTROL Use this Standard Ad]**.
+
+         Generation begins automatically, using the selected ad's width and height.
+
+-->
+
+1. [Review and refine the generated template](#template-review).
+
+### Step 2: Review and refine the template {#template-review}
+
+1. Wait for generation to finish, and then review the template preview and the **[!UICONTROL Layers]** panel, when available.
+
+   Check the text, images, and layout before using the template. The layers shown here are for review; make manual changes in the template editor.
+
+1. (Optional) Request changes to the generated template:
+
+   1. In the **[!UICONTROL Ask the AI for any changes]** field, describe the changes you want. For example, enter `Change the headline to "Limited Time Offer" and the button text to "Shop Now"`.
+
+   1. Click **[!UICONTROL Regenerate]**.
+
+   1. Review the updated preview. Repeat as needed.
+
+1. When you're ready to continue, click **[!UICONTROL Use this Ad Template]**.
+
+   The generated template opens in the display template editor.
+
+### Step 3: Edit and save the template {#template-save}
+
+1. In the template editor, review the generated elements and make any remaining changes using the [template editor controls](#template-controls).
+
+1. Click **[!UICONTROL Save]**.
+
+1. In the **[!UICONTROL Update Template]** dialog, enter or update the **[!UICONTROL Template name]**, select the **[!UICONTROL Advertiser]**, and optionally add tags.
+
+1. Click **[!UICONTROL Update]** to save the template and return to the **[!UICONTROL Templates]** view.
+
+   To save a separate copy instead, click **[!UICONTROL Save As New]**.
+
+You can then use the template to [generate ad variations](#ad-variations-generate).
+
+### If you can't generate a template {#troubleshooting}
+
+| Issue | What to do |
+| --- | --- |
+| No libraries or image ads are listed when generating from an image | Check the selected advertiser and **[!UICONTROL Ad Library]**. If the library has no standard ad images, select another library containing an existing static image ad. |
+| Prompt-based generation fails | Review the displayed message and revise your prompt before trying again. |
+| Image-based generation fails or the image can't be converted | Review the displayed message, click **[!UICONTROL Back to library]**, and select an image ad to try again. |
 
 ## Create an ad template manually {#template-create}
 
@@ -185,6 +283,92 @@ I don't see this anywhere:
 1. Click **[!UICONTROL Generate Ad Variations]** to proceed to content generation, or navigate away to save your changes.
 
 -->
+
+## Generate ad variations from a display ad template {#ad-variations-generate}
+
+*Display ad templates only.*
+
+1. In the main menu, click **[!UICONTROL Creative Studio].**
+
+1. Click the **[!UICONTROL Templates]** tab.
+
+1. Hold the cursor over the template card or table row and click **[!UICONTROL ...]** > **[!UICONTROL Generate Ad Variations]**.
+
+   The [!UICONTROL Ad Variations Generator] opens with the template pre-loaded.
+
+1. Use the AI chat interface to generate and refine ad content. See "[Manage standard ads in Creative Studio](creative-studio-manage-standard-ads.md)" for the complete workflow.
+
+## Add or remove labels for an ad template {#template-labels}
+
+*Display ad templates only.*
+
+Labels help you organize and filter user templates. You can't add labels to system templates.
+
+1. In the main menu, click **[!UICONTROL Creative Studio].**
+
+1. Click the **[!UICONTROL Templates]** tab.
+
+1. Hold the cursor over the template card or table row and click **[!UICONTROL ...]** > **[!UICONTROL Edit Labels]**.
+
+1. In the **[!UICONTROL Edit Labels]** dialog:
+
+   * To add a label, either select an existing label or enter a name in the input field and click **[!UICONTROL Add Tag]**.
+
+   * To remove a label, click **[!UICONTROL X]** next to the label tag.
+
+1. Click **[!UICONTROL Save]**.
+
+## Preview an ad template {#template-preview}
+
+1. In the main menu, click **[!UICONTROL Creative Studio].**
+
+1. Click the **[!UICONTROL Templates]** tab.
+
+1. Hold the cursor over the template card.
+
+1. Do either of the following:
+
+   * (Card view) Click the **[!UICONTROL Preview template]** icon, or click **[!UICONTROL ...]** > **[!UICONTROL Preview]**.
+
+   * (Table view) Click **[!UICONTROL ...]** > **[!UICONTROL Preview]**.
+   
+1. For video templates, click ![Play](/help/creative/assets/play.png "Play").
+
+## Download an ad template {#template-download}
+
+1. In the main menu, click **[!UICONTROL Creative Studio].**
+
+1. Click the **[!UICONTROL Templates]** tab.
+
+1. Hold the cursor over the template card or table row and click **[!UICONTROL ...]** > **[!UICONTROL Download]**.
+
+   The template downloads as a ZIP file according to your browser's normal procedure.
+
+## Add or remove an ad template as a favorite {#template-favorite}
+
+*Card view only*
+
+1. In the main menu, click **[!UICONTROL Creative Studio].**
+
+1. Click the **[!UICONTROL Templates]** tab.
+
+1. Hold the cursor over the template card.
+
+1. Do either of the following:
+
+   * To add a template as a favorite, click ![Favorite](/help/creative/assets/favorite-null.png).
+
+   * To remove a template as a favorite, click ![Favorite](/help/creative/assets/favorite.png).
+
+## Delete an ad template {#template-delete}
+
+1. In the main menu, click **[!UICONTROL Creative Studio].**
+
+1. Click the **[!UICONTROL Templates]** tab.
+
+1. Hold the cursor over the template card or table row and click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
+
+1. In the confirmation message, click **[!UICONTROL Delete]**.
 
 ## Template editor controls {#template-controls}
 
@@ -417,96 +601,9 @@ These are all saved with the template, but they aren't what you see, as-is, in t
 
 -->
 
-## Generate ad variations from a display ad template {#ad-variations-generate}
-
-*Display ad templates only.*
-
-1. In the main menu, click **[!UICONTROL Creative Studio].**
-
-1. Click the **[!UICONTROL Templates]** tab.
-
-1. Hold the cursor over the template card or table row and click **[!UICONTROL ...]** > **[!UICONTROL Generate Ad Variations]**.
-
-   The [!UICONTROL Ad Variations Generator] opens with the template pre-loaded.
-
-1. Use the AI chat interface to generate and refine ad content. See "[Manage standard ads in Creative Studio](creative-studio-manage-standard-ads.md)" for the complete workflow.
-
-## Add or remove labels for an ad template {#template-labels}
-
-*Display ad templates only.*
-
-Labels help you organize and filter user templates. You can't add labels to system templates.
-
-1. In the main menu, click **[!UICONTROL Creative Studio].**
-
-1. Click the **[!UICONTROL Templates]** tab.
-
-1. Hold the cursor over the template card or table row and click **[!UICONTROL ...]** > **[!UICONTROL Edit Labels]**.
-
-1. In the **[!UICONTROL Edit Labels]** dialog:
-
-   * To add a label, either select an existing label or enter a name in the input field and click **[!UICONTROL Add Tag]**.
-
-   * To remove a label, click **[!UICONTROL X]** next to the label tag.
-
-1. Click **[!UICONTROL Save]**.
-
-## Preview an ad template {#template-preview}
-
-1. In the main menu, click **[!UICONTROL Creative Studio].**
-
-1. Click the **[!UICONTROL Templates]** tab.
-
-1. Hold the cursor over the template card.
-
-1. Do either of the following:
-
-   * (Card view) Click the **[!UICONTROL Preview template]** icon, or click **[!UICONTROL ...]** > **[!UICONTROL Preview]**.
-
-   * (Table view) Click **[!UICONTROL ...]** > **[!UICONTROL Preview]**.
-   
-1. For video templates, click ![Play](/help/creative/assets/play.png "Play").
-
-## Download an ad template {#template-download}
-
-1. In the main menu, click **[!UICONTROL Creative Studio].**
-
-1. Click the **[!UICONTROL Templates]** tab.
-
-1. Hold the cursor over the template card or table row and click **[!UICONTROL ...]** > **[!UICONTROL Download]**.
-
-   The template downloads as a ZIP file according to your browser's normal procedure.
-
-## Add or remove an ad template as a favorite {#template-favorite}
-
-*Card view only*
-
-1. In the main menu, click **[!UICONTROL Creative Studio].**
-
-1. Click the **[!UICONTROL Templates]** tab.
-
-1. Hold the cursor over the template card.
-
-1. Do either of the following:
-
-   * To add a template as a favorite, click ![Favorite](/help/creative/assets/favorite-null.png).
-
-   * To remove a template as a favorite, click ![Favorite](/help/creative/assets/favorite.png).
-
-## Delete an ad template {#template-delete}
-
-1. In the main menu, click **[!UICONTROL Creative Studio].**
-
-1. Click the **[!UICONTROL Templates]** tab.
-
-1. Hold the cursor over the template card or table row and click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
-
-1. In the confirmation message, click **[!UICONTROL Delete]**.
-
 >[!MORELIKETHIS]
 >
 >* [About Creative Studio in Advertising Creative](creative-studio-about.md)
 >* [Manage assets in Creative Studio](creative-studio-manage-assets.md)
 >* [Manage standard ads in Creative Studio](creative-studio-manage-standard-ads.md)
 >* [Manage dynamic creatives in Creative Studio](creative-studio-manage-dynamic-ads.md)
-
