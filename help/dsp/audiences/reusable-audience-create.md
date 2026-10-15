@@ -33,7 +33,7 @@ You can save and manage reusable audiences, which are groups of audience segment
 
 1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**.
 
-1. Above the data table, click **[!UICONTROL Create]**.
+1. Above the data table, click **[!UICONTROL Create] > [!UICONTROL Create manually]**.
 
 1. In the [!UICONTROL New Audience] settings:
 
@@ -105,19 +105,77 @@ You can save and manage reusable audiences, which are groups of audience segment
 
 ## Create a reusable audience using generative AI
 
-*Beta feature*
-
 *Support for English only*
-
->[!NOTE]
->
->This feature is in beta mode and is subject to change. Make sure that the generated audience expression represents the audience you want before creating the audience and using it for your placements.
 
 <!-- Later:  Audiences built using generative AI have the indicator [icon] in **[!UICONTROL Audiences] > [!UICONTROL All Audiences]**. -->
 
-1. In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**.
+1. Open the AI Assistant:
 
-1. Above the data table, click **[!UICONTROL Create]**.
+   * In the main menu, click **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**. Above the data table, click **[!UICONTROL Create] > [!UICONTROL Create with AI]**.
+
+   * In the upper right of any page, click ![Agentic Chat](/help/dsp/assets/agent-chat.png "Agentic chat").
+
+1. Begin to build the audience:
+
+   1. Create an initial prompt to define your audience:
+
+      See "[Basics of writing prompts](#writing-prompts)" and "[Best practices for creating an audience brief](#audience-brief-best-practices)."
+
+      * To see examples of target audience briefs and optionally copy one to use:
+   
+        1. Click **[!UICONTROL Build]** to expand the section.
+     
+        1. (Optional) To copy the text of an example audience brief into the prompt box:
+     
+           1. Click the example.
+        
+           1. (Optional) Edit the text to suit your needs. 
+
+      * To enter your own prompt, enter a target audience brief or some of the audience characteristics you want to include and exclude.
+
+      * <!-- CLARIFY -->To upload XXXXX files with XXX, click ![Add attachment](/help/dsp/assets/prompt-attachment.png "Add attachment") and select a file from your device or network, and then click ![Submit prompt](/help/dsp/assets/prompt-submit.png "Submit prompt").
+
+        <!-- VERIFY, and identify valid headers/data values -->Valid filetypes include PDF files up to 10 MB and CSV files up to 2 MB. 
+
+        Supported file types include: CSV files up to 1 MB, image<!-- Specifically which formats? --> files up to 15 MB, MD files up to 1 MB, PDF files up to 15 MB, and TXT files up to 1 MB.
+
+        >[!NOTE]
+        >
+        >You can submit files separately or as part of another prompt.
+
+      * <!-- CLARIFY -->To specify a XXx, click ![Mention an entity](/help/dsp/assets/prompt-entity.png "Mention an entity") and XXXXXx.
+
+   1. To submit the prompt, click ![Submit prompt](/help/dsp/assets/prompt-submit.png "Submit prompt").
+
+   You can ask multiple questions in one prompt, but only one prompt at a time. Wait for a response before you can send another prompt.
+
+   
+   
+   When applicable, the agent suggests additional segment filters to help you create a more effective audience brief. You can accept or reject the suggestions.
+   
+   As the audience agent finds relevent segments, it creates a Boolean audience expression based on your criteria. It also asks for your approval before looking for matching segments to assemble the audience. You can optionally ignore the request and continue to specify additional audience criteria instead.
+
+
+
+1. (Optional) Submit additional prompts as needed to describe the audience characteristics you want to include and exclude. To submit each prompt, click ![Submit prompt](/help/dsp/assets/prompt-submit.png "Submit prompt").
+
+
+
+1. When the audience agent presents an audience expression that adequately describes your audience, tell the audience agent to proceed with assembling the audience.
+
+   You can enter "proceed," "okay," "ok," "yes", or another similar word. The agent lists all suggested segments for each trait (such as "Parents"). Expand any trait to see details about the individual segments suggested for that trait.
+
+1. (If necessary) Specify additional criteria. When the audience agent presents an audience expression that meets all of your criteria, tell the audience agent to proceed with assembling the audience.
+
+   To assemble the audience, enter "proceed," "okay," "ok," "yes", or another similar word. The agent lists all suggested segments for each trait (such as "Parents"). Expand any trait to see details about the individual segments suggested for that trait.
+
+1. When you're satified with the assembled audience, click **[!UICONTROL Create]** to create the specified audience.
+
+Enter your query and click ![Submit prompt](/help/dsp/assets/prompt-submit.png "Submit prompt").
+
+
+
+<!-- NOT IN NEW UI:
 
 1. In the [!UICONTROL New Audience] settings:
 
@@ -128,6 +186,8 @@ You can save and manage reusable audiences, which are groups of audience segment
       When you share an audience, the audience becomes available as a target or exclusion to all advertisers within the account. However, the individual segments in the audience are available only to users to which the segments are shared. For example, if you share an audience containing Adobe Analytics segments with an advertiser who isn't mapped to the same [!DNL Analytics] account, then the segment isn't previewed in that audience for that advertiser. Only the segments available to that advertiser are previewed in the audience.
 
    1. Click **[!UICONTROL Save]**.
+
+-->
 
 1. Build the audience:
 
