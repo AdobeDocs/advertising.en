@@ -37,9 +37,9 @@ Probably not necessary:
 
 Creation:
 
-* [Import HTML5 ad templates](#templates-import)
-
 * [Create an ad template manually](#template-create)
+
+* [Import HTML5 ad templates](#templates-import)
 
 Actions on your existing templates:
 
@@ -94,6 +94,34 @@ Applied filters appear as chips below the toolbar. To refine or remove an active
 
 -->
 
+## Create an ad template manually {#template-create}
+
+Create a blank display or video template using the template editor.
+
+1. In the main menu, click **[!UICONTROL Creative Studio].**
+
+1. Click the **[!UICONTROL Templates]** tab.
+
+1. In the **[!UICONTROL Create New Ad Template]** box, click **[!UICONTROL Create]**, and then select **[!UICONTROL Display Ad Template]** or **[!UICONTROL Video Ad Template]**.
+
+1. (Display ads) Select the ad template size, and then click **[!UICONTROL Continue]**.
+
+1. Configure the template settings using the [controls in the template editor](#template-controls).
+
+1. (Optional) To download a copy of the template as defined, click **[!UICONTROL ...]** > **[!UICONTROL Download]**.
+
+   The file is downloaded according to your browser's normal procedure.
+
+1. Save the template:
+
+   1. Do either of the following:
+   
+      * Click **[!UICONTROL Save]**.
+
+      * To save the template as a draft, click **[!UICONTROL ...]** > **[!UICONTROL Save as Draft]**.
+
+   1. Enter the **[!UICONTROL Template name]**, select the **[!UICONTROL Advertiser]**, optionally select existing tags or add new tags to the template, and then click **[!UICONTROL Save]**.
+
 ## Import HTML5 ad templates {#templates-import}
 
 Upload one or more pre-built HTML5 templates that are packaged as ZIP files. Templates are validated on import; import fails if the HTML exceeds 200,000 characters, the CSS exceeds 60,000 characters, the template contains more than 5,000 DOM elements, or the template includes unsupported script tags.
@@ -125,34 +153,6 @@ Upload one or more pre-built HTML5 templates that are packaged as ZIP files. Tem
 >[!NOTE]
 >
 >If import fails, simplify the template or contact your Adobe Account Team.
-
-## Create an ad template manually {#template-create}
-
-Create a blank display or video template using the template editor.
-
-1. In the main menu, click **[!UICONTROL Creative Studio].**
-
-1. Click the **[!UICONTROL Templates]** tab.
-
-1. In the **[!UICONTROL Create New Ad Template]** box, click **[!UICONTROL Create]**, and then select **[!UICONTROL Display Ad Template]** or **[!UICONTROL Video Ad Template]**.
-
-1. (Display ads) Select the ad template size, and then click **[!UICONTROL Continue]**.
-
-1. Configure the template settings using the [controls in the template editor](#template-controls).
-
-1. (Optional) To download a copy of the template as defined, click **[!UICONTROL ...]** > **[!UICONTROL Download]**.
-
-   The file is downloaded according to your browser's normal procedure.
-
-1. Save the template:
-
-   1. Do either of the following:
-   
-      * Click **[!UICONTROL Save]**.
-
-      * To save the template as a draft, click **[!UICONTROL ...]** > **[!UICONTROL Save as Draft]**.
-
-   1. Enter the **[!UICONTROL Template name]**, select the **[!UICONTROL Advertiser]**, optionally select existing tags or add new tags to the template, and then click **[!UICONTROL Save]**.
 
 ## Edit an ad template {#template-edit}
 
