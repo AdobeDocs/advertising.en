@@ -98,11 +98,11 @@ Applied filters appear as chips below the toolbar. To refine or remove an active
 
 *Beta feature*
 
-Use AI in [!UICONTROL Creative Studio] to generate an editable display ad template from a text prompt or an existing static display ad image. A three-step wizard helps you generate and review the template, request changes using natural language, and open the template editor to make manual changes and save the template.
+Use AI in [!UICONTROL Creative Studio] to convert an existing static display ad image into an editable display ad template. Image-based generation is in open beta and doesn't require a special user permission. A three-step wizard helps you generate and review the template, request changes using natural language, and open the template editor to make manual changes and save the template.
 
 ### Prerequisites
 
-To generate a template from an existing image, you need a static image ad in a Creative Library. This option selects ads from your libraries; it doesn't upload a new image directly in the generation dialog. You don't need an existing ad image to generate a template from a prompt.
+You need a static image ad in a Creative Library. This workflow selects ads from your libraries; it doesn't upload a new image directly in the generation dialog.
 
 ### Step 1: Generate and review the template
 
@@ -122,7 +122,7 @@ To generate a template from an existing image, you need a static image ad in a C
 
    Generation begins automatically, using the selected ad's width and height.
 
-<!-- Additional option coming at the next release:
+<!-- Prompt-based generation is in closed beta and requires a special user permission. Publish these steps only when it becomes generally available:
 
 1. In the **[!UICONTROL Generate New Ad Template]** dialog, choose how to generate the template:
 
@@ -187,7 +187,6 @@ You can then use the template to [generate ad variations](#ad-variations-generat
 | Issue | What to do |
 | --- | --- |
 | No libraries or image ads are listed when generating from an image | Check the selected advertiser and **[!UICONTROL Ad Library]**. If the library has no standard ad images, select another library containing an existing static image ad. |
-| Prompt-based generation fails | Review the displayed message and revise your prompt before trying again. |
 | Image-based generation fails or the image can't be converted | Review the displayed message, click **[!UICONTROL Back to library]**, and select an image ad to try again. |
 
 ## Create an ad template manually {#template-create}
