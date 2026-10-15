@@ -133,17 +133,43 @@ You can save and manage reusable audiences, which are groups of audience segment
 
       * To enter your own prompt, enter a target audience brief or some of the audience characteristics you want to include and exclude.
 
-      * <!-- CLARIFY -->To upload XXXXX files with XXX, click ![Add attachment](/help/dsp/assets/prompt-attachment.png "Add attachment") and select a file from your device or network, and then click ![Submit prompt](/help/dsp/assets/prompt-submit.png "Submit prompt").
 
-        <!-- VERIFY, and identify valid headers/data values -->Valid filetypes include PDF files up to 10 MB and CSV files up to 2 MB. 
+<!-- FILES ARE FOR Trafficking agent only
 
-        Supported file types include: CSV files up to 1 MB, image<!-- Specifically which formats? --> files up to 15 MB, MD files up to 1 MB, PDF files up to 15 MB, and TXT files up to 1 MB.
+      * To upload XXXXX files with XXX, click ![Add attachment](/help/dsp/assets/prompt-attachment.png "Add attachment") and select a file from your device or network, and then click ![Submit prompt](/help/dsp/assets/prompt-submit.png "Submit prompt").
+
+        Valid filetypes include PDF files up to 10 MB and CSV files up to 2 MB. 
+
+        Supported file types include: CSV files up to 1 MB, image [Specifically which formats?] files up to 15 MB, MD files up to 1 MB, PDF files up to 15 MB, and TXT files up to 1 MB.
 
         >[!NOTE]
         >
         >You can submit files separately or as part of another prompt.
 
-      * <!-- CLARIFY -->To specify a XXx, click ![Mention an entity](/help/dsp/assets/prompt-entity.png "Mention an entity") and XXXXXx.
+-->
+
+<!-- Some agents, but not audience builder. For example, you can select package or placement for troubleshooting agent, without needing to go to the Campaigns > Package | Placement view:
+
+      * To specify the related entity [reword], click ![Mention an entity](/help/dsp/assets/prompt-entity.png "Mention an entity") and XXXXXx.
+
+Campaign
+Package
+Placement
+Ad
+Advertiser
+Experience
+Audience
+City
+Country
+State
+DMA
+Retargeting Pixel
+Device OS
+Device Browser
+Device Type
+Zip Code
+
+-->
 
    1. To submit the prompt, click ![Submit prompt](/help/dsp/assets/prompt-submit.png "Submit prompt").
 
