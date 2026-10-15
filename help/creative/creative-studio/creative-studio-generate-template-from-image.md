@@ -29,7 +29,7 @@ You need an existing static image ad in a Creative Library. This workflow select
 
 1. (Optional) Select an advertiser from the advertiser list at the top of the page to view that advertiser's libraries.
 
-1. In the **[!UICONTROL Use AI to Generate a New Display Ad Template]** card, click **[!UICONTROL Generate]**.
+1. In the **[!UICONTROL Use AI to Generate a New Display Ad Template]** box, click **[!UICONTROL Generate]**.
 
 1. In the **[!UICONTROL Generate New Ad Template]** dialog, select **[!UICONTROL Generate from Existing Standard Ad Image]** if it isn't already selected.
 
