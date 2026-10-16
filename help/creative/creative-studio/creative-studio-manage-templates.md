@@ -520,11 +520,11 @@ The controls vary by element type.
 | **[!UICONTROL Shadow]** | All | Adds or edits a drop shadow. |
 | **[!UICONTROL Opacity]** | All | Sets the element's transparency level. |
 | **[!UICONTROL Position]** | All | Adjusts the element's size, position, and rotation numerically. |
-| ![Editing panel](/help/creative/assets/template-video-editing-panel.png "Editing panel") | All | Opens or closes an [editing panel](#detailed-element-properties-for-video-templates) for the selected element with more editing capabilities. |
+| ![Editing panel](/help/creative/assets/cs-template-video-editing-panel.png "Editing panel") | All | Opens or closes an [editing panel](#detailed-element-properties-for-video-templates) for the selected element with more editing capabilities. |
 
 #### Detailed element properties for video templates
 
-In the video template editor, click ![Editing panel](/help/creative/assets/template-video-editing-panel.png "Editing panel") in the toolbar to open an editing panel for the selected element with more editing capabilities. The editing panel appears to the left of the canvas and is separate from the [!UICONTROL Layers] panel, which lists the layers in the template.
+In the video template editor, click ![Editing panel](/help/creative/assets/cs-template-video-editing-panel.png "Editing panel") in the toolbar to open an editing panel for the selected element with more editing capabilities. The editing panel appears to the left of the canvas and is separate from the [!UICONTROL Layers] panel, which lists the layers in the template.
 
 ##### Individual elements
 
