@@ -21,7 +21,7 @@ The **[!UICONTROL Templates]** tab provides quick actions to create or import ne
 
 The tab also lists your existing ad templates at the bottom of the page <!-- Only in the Templates tab -->as [individual cards (the default) or as tables/lists](/help/creative/introduction/customize-data-views.md). The ad template list includes tabs for [!UICONTROL All], [!UICONTROL System Templates] (which are uploaded to your account by your Adobe Account Team), and [!UICONTROL User Templates]. By default, ad templates for all of your advertisers are shown. To view only ad templates for a specific advertiser, select from the advertiser list at the top of the page. 
 
-<!-- 
+<!--
 Probably not necessary:
 
 * **[!UICONTROL Card view]** &mdash; Displays templates as cards. Each card shows a preview thumbnail and the ad dimensions. Hovering a card reveals action controls.
@@ -371,9 +371,9 @@ Labels help you organize and filter user templates. You can't add labels to syst
 
 1. Do either of the following:
 
-   * To add a template as a favorite, click ![Favorite](/help/creative/assets/favorite-null.png).
+   * To add a template as a favorite, click ![Favorite](/help/creative/assets/favorite-null.png "Favorite").
 
-   * To remove a template as a favorite, click ![Favorite](/help/creative/assets/favorite.png).
+   * To remove a template as a favorite, click ![Favorite](/help/creative/assets/favorite.png "Favorite").
 
 ## Delete an ad template {#template-delete}
 
@@ -387,7 +387,7 @@ Labels help you organize and filter user templates. You can't add labels to syst
 
 ## Template editor controls {#template-controls}
 
-Both the display and video template editors share the same general actions toolbar above the editing canvas and the [!UICONTROL Layers] panel on the right. The left panel, ad template editing controls, and timeline differ between display and video templates.
+Both the display and video template editors provide a toolbar above the canvas to undo changes and adjust the view, panels on the left to add assets and elements, and a [!UICONTROL Layers] panel on the right to manage layers. The tools for editing selected elements and controlling timing and playback differ between display and video templates.
 
 <!--
 
@@ -407,7 +407,7 @@ The top toolbar above the canvas is the same for both display and video template
 
 -->
 
-### General actions toolbar
+### Undo changes and adjust the canvas view
 
 The general actions toolbar sits above the editing canvas in the ad template editor and is split into two parts (left and right).
 
@@ -416,7 +416,7 @@ The general actions toolbar sits above the editing canvas in the ad template edi
 | Control | Description |
 | --- | --- |
 | **[!UICONTROL Undo]** | Undoes the last action. |
-| ![Redo](/help/creative/assets/cs-icon-redo.png) **[!UICONTROL Redo]** | Redoes the last undone action. |
+| ![Redo](/help/creative/assets/cs-icon-redo.png "Redo") **[!UICONTROL Redo]** | Redoes the last undone action. |
 | **[!UICONTROL Links]** | Opens a panel to manage the click-through URLs attached to elements in the template. |
 | Zoom controls | Click **[!UICONTROL Zoom out]** or **[!UICONTROL Zoom in]** to adjust the canvas magnification (10%-150%, in 10% increments). Click the zoom level label &mdash; which shows **[!UICONTROL Auto]** when the canvas fits automatically, or a percentage when set manually &mdash; to open a menu with options: **[!UICONTROL Auto-Fit Page]**, **[!UICONTROL 100% Zoom]**, **[!UICONTROL 50% Zoom]**, **[!UICONTROL Zoom In]**, and **[!UICONTROL Zoom Out]**. |
 | Ad size | Shows the current ad dimensions (for example, 300 × 250). Click to open the size picker, which offers six commonly used IAB standard sizes as cards, plus a dropdown with all 19 standard IAB display ad sizes. The default size for new templates is 300 × 250 (Medium Rectangle). |
@@ -426,15 +426,22 @@ The general actions toolbar sits above the editing canvas in the ad template edi
 
 | Control | Description |
 | --- | --- |
-| **[!UICONTROL Undo]** /  ![Redo](/help/creative/assets/cs-icon-redo.png) **[!UICONTROL Redo]** | Undoes or redoes the last action. |
+| **[!UICONTROL Undo]** / ![Redo](/help/creative/assets/cs-icon-redo.png "Redo") **[!UICONTROL Redo]** | Undoes or redoes the last action. |
 | Zoom controls | Click **[!UICONTROL Zoom out]** or **[!UICONTROL Zoom in]** to adjust the canvas magnification. Click the zoom level to open a menu with options: **[!UICONTROL Auto-Fit Page]**, **[!UICONTROL 100% Zoom]**, **[!UICONTROL 50% Zoom]**, **[!UICONTROL Zoom In]**, and **[!UICONTROL Zoom Out]**. |
 | ![Open Layers panel](/help/creative/assets/layers-panel-open.png "Open Layers panel") | Opens the [!UICONTROL Layers] panel. Appears only when the [!UICONTROL Layers] panel is closed. |
 
-<!-- Not there as of 7/10:  | **[!UICONTROL Preview]** | Opens a preview of the video template. | -->
+<!--
 
-### Left panel
+Not there as of 10/15:
 
-The left panel contains a column of icons. Click an icon to open its content panel; click the same icon again to close it.
+| Page resize | Opens the page-size controls to change the video template dimensions. |
+| **[!UICONTROL Preview]** | Opens a preview of the video template. |
+
+   -->
+
+### Add assets and elements
+
+The left panel allows you to add ad assets and elements to the template. Click an icon to open its content panel; click the same icon again to close it.
 
 #### Display ad templates
 
@@ -444,7 +451,7 @@ The left panel contains a column of icons. Click an icon to open its content pan
 | **[!UICONTROL Upload]** | Upload images or font files into the editor for use in the current template. You can upload up to 20 files at a time. |
 | **[!UICONTROL Templates]** | Browse ad templates from your Creative Studio library to use as a base layer or reference element. |
 | **[!UICONTROL My Assets]** | Browse all assets you've uploaded in the Creative Studio Assets tab. |
-| **[!UICONTROL Images]** | Browse only the image assets you've uploaded in the Creative Studio Assets tab.. |
+| **[!UICONTROL Images]** | Browse only the image assets you've uploaded in the Creative Studio Assets tab. |
 | **[!UICONTROL Text]** | Add a text element to the canvas, including any custom fonts you've uploaded. |
 | **[!UICONTROL Elements]** | Add shapes and layout elements such as buttons and rectangles. |
 
@@ -458,25 +465,23 @@ You can drag an item from any panel directly onto the canvas, or click it to pla
 | **[!UICONTROL Upload]** | Upload image, video, audio, or font files (TTF, OTF, WOFF, WOFF2) into the editor for use in the current template. You can upload up to 20 files at a time. |
 | **[!UICONTROL Templates]** | Browse ad templates from your Creative Studio library. |
 | **[!UICONTROL My Assets]** | Browse all assets you've uploaded in the Creative Studio Assets tab. |
-| **[!UICONTROL Images]** | Browse only the image assets you've uploaded in the Creative Studio Assets tab.. |
+| **[!UICONTROL Images]** | Browse only the image assets you've uploaded in the Creative Studio Assets tab. |
 | **[!UICONTROL Video]** | Browse only the video assets you've uploaded in the Creative Studio Assets tab.. |
-| **[!UICONTROL Audio]** | Browse only the audio assets you've uploaded in the Creative Studio Assets tab.. |
+| **[!UICONTROL Audio]** | Browse only the audio assets you've uploaded in the Creative Studio Assets tab. |
 | **[!UICONTROL Text]** | Add a text element to the canvas, including any custom fonts you've uploaded. |
 | **[!UICONTROL Elements]** | Add shapes and vector elements. |
 
 You can drag an item from any panel directly onto the canvas, or click it to place it at a default position.
 
-### Ad template editing controls
+### Edit selected elements
 
 Click an element on the editing canvas to select it. Depending on the template type, one or more toolbars appear with controls for that element.
-
-#### Inspector toolbar and panel
 
 The controls vary by element type.
 
 <!-- From inspectorbar.ts -->
 
-##### Display ad templates
+#### Display template editing toolbar
 
 | Control | Element types | Description |
 | --- | --- | --- |
@@ -486,11 +491,12 @@ The controls vary by element type.
 | **[!UICONTROL Crop]** | Images | Opens a toolbar to crop the image. Select an **[!UICONTROL Aspect Ratio]** preset (or **[!UICONTROL Free]**), then click **[!UICONTROL Apply]** or **[!UICONTROL Cancel]**. |
 | **[!UICONTROL Position]** | All | Opens a menu with **[!UICONTROL Move]** options (**[!UICONTROL Forward]**, **[!UICONTROL Backward]**, **[!UICONTROL To front]**, **[!UICONTROL To back]**), **[!UICONTROL Align to Page]** options (**[!UICONTROL Top]**, **[!UICONTROL Left]**, **[!UICONTROL Middle]**, **[!UICONTROL Center]**, **[!UICONTROL Bottom]**, **[!UICONTROL Right]**, **[!UICONTROL Fit Vertically]**, **[!UICONTROL Fit Horizontally]**, **[!UICONTROL Fit to Page]**), and, for non-image elements, **[!UICONTROL Layer Level Alignment]** options (the same six alignment options, plus **[!UICONTROL Fit to Content]**). |
 
-##### Video ad templates
+#### Video template editing toolbar
 
 | Control | Element types | Description |
 | --- | --- | --- |
 | **[!UICONTROL Shape]** | Shapes | Sets shape-specific options. |
+| Cutout controls | Images | Adjust the cutout type, offset, and smoothing. |
 | **[!UICONTROL Group]** / **[!UICONTROL Ungroup]** | Multiple selected elements, or a group | Groups the selected elements together, or ungroups a selected group. |
 | **[!UICONTROL Combine]** | Compatible shapes | Combines selected shapes into a single shape. |
 | **[!UICONTROL Audio replace]** | Audio and video | Replaces the audio track with a file from your asset library. |
@@ -500,6 +506,7 @@ The controls vary by element type.
 | ![Volume](/help/creative/assets/volume.png "Volume") ([!UICONTROL Volume]) | Video and audio | Adjusts the audio level. |
 | ![Playback speed](/help/creative/assets/speed.png "Playback speed") ([!UICONTROL Playback speed]) | Video and audio | Adjusts the playback rate. |
 | ![Crop](/help/creative/assets/crop.png "Crop") ([!UICONTROL Crop]) | All | Crops the element to a custom area. |
+| Rotation and flip controls | All | Rotate or flip the selected element. |
 | ![Stroke](/help/creative/assets/stroke.png "Stroke") ([!UICONTROL Stroke]) | All | Sets the border color and width. |
 | **[!UICONTROL Text Background]** | Text | Adds a background color behind the text. |
 | **[!UICONTROL Animations]** | All | Adds or edits entry, exit, or loop animations. |
@@ -507,20 +514,67 @@ The controls vary by element type.
 | **[!UICONTROL Shadow]** | All | Adds or edits a drop shadow. |
 | **[!UICONTROL Opacity]** | All | Sets the element's transparency level. |
 | **[!UICONTROL Position]** | All | Adjusts the element's size, position, and rotation numerically. |
+| ![Editing panel](/help/creative/assets/template-video-editing-panel.png "Editing panel") | All | Opens or closes an [editing panel](#detailed-element-properties-for-video-templates) for the selected element with more editing capabilities. |
 
-#### General editing controls
+#### Detailed element properties for video templates
+
+In the video template editor, click ![Editing panel](/help/creative/assets/template-video-editing-panel.png "Editing panel") in the toolbar to open an editing panel for the selected element with more editing capabilities. The editing panel appears to the left of the canvas and is separate from the [!UICONTROL Layers] panel, which lists the layers in the template.
+
+##### Individual elements
+
+When you select a single image, video, shape, or text element, the editing panel shows the applicable sections below.
+
+| Panel section | Tool | Controls |
+| --- | --- | --- |
+| [!UICONTROL Layer] | Alignment and layer positioning | Aligns the selected layer to the left, horizontal center, right, top, vertical center, or bottom. The arrangement menu changes its front-to-back stacking order. These controls position the layer itself; they don't justify text within the layer. |
+| | [!UICONTROL Rotate & Flip] | Enter a rotation angle in degrees. Use ![Flip horizontal](/help/creative/assets/video-layer-flip-horizontal.png "Flip horizontal") to mirror the layer horizontally or ![Flip vertical](/help/creative/assets/video-layer-flip-vertical.png "Flip vertical") to mirror it vertically. |
+| | ![Opacity](/help/creative/assets/video-layer-opacity.png "Opacity") [!UICONTROL Opacity] | Makes the selected layer more or less transparent. |
+| | ![Blend mode](/help/creative/assets/video-layer-blend-mode.png "Blend mode") [!UICONTROL Blend Mode] | Changes how the selected layer's colors combine with the layers behind it. |
+| | [!UICONTROL Transform]: [!UICONTROL Position & Size] | Opens additional controls for the layer's position and dimensions. Availability depends on the selected layer's transform permissions. |
+| [!UICONTROL Shape] | ![Shape options](/help/creative/assets/video-layer-shape-options.png "Shape options") [!UICONTROL Shape] and shape-specific properties | Changes the shape and its available properties, such as points, sides, inner diameter, line width, or corner radius. The controls depend on the selected shape. |
+| | [!UICONTROL Vector]: [!UICONTROL Edit Path] | Enters vector-editing mode to edit the shape's path, when available. |
+| [!UICONTROL Character] | ![Typeface](/help/creative/assets/video-layer-typeface.png "Typeface") Typeface, ![Text style](/help/creative/assets/video-layer-text-style.png "Text style") text style, ![Bold](/help/creative/assets/video-layer-text-bold.png "Bold") bold, ![Italic](/help/creative/assets/video-layer-text-italic.png "Italic") italic, and ![Font size](/help/creative/assets/video-layer-font-size.png "Font size") font size | (Text layers) Changes the font family, font style, and size of the selected text. |
+| | ![Align left](/help/creative/assets/video-layer-text-align-left.png "Align left") / ![Align center](/help/creative/assets/video-layer-text-align-center.png "Align center") / ![Align right](/help/creative/assets/video-layer-text-align-right.png "Align right") Text alignment | (Text layers) Aligns text within its frame to the left, center, or right, or detects the alignment automatically. |
+| | ![Advanced text settings](/help/creative/assets/video-layer-advanced-text-settings.png "Advanced text settings") Advanced text settings | (Text layers) Opens additional typography settings. |
+| [!UICONTROL Fill] | ![Fill](/help/creative/assets/video-layer-fill.png "Fill") Fill controls | Changes the selected layer's color, image, or video fill. The controls reflect the current fill type and open its settings. For text, changes the text color. |
+| [!UICONTROL Stroke] | ![Stroke](/help/creative/assets/video-layer-stroke.png "Stroke") Stroke controls | Enables or disables the outline and changes its color, width, style, and placement. Additional controls appear when the stroke is enabled. |
+| [!UICONTROL Text Background] | ![Text background](/help/creative/assets/video-layer-text-background.png "Text background") Background controls | (Text layers) Adds or changes the background behind the text. |
+| [!UICONTROL Animations] | ![Animation](/help/creative/assets/video-layer-animation.png "Animation") [!UICONTROL Presets] | Opens animation presets for the selected layer, including entrance, exit, and loop animations. |
+| [!UICONTROL Appearance] | ![Adjustments](/help/creative/assets/video-layer-adjustments.png "Adjustments") [!UICONTROL Adjustments] | Changes visual properties of the selected layer. |
+| | ![Filter](/help/creative/assets/video-layer-filter.png "Filter") [!UICONTROL Filter] | Applies a visual filter to the selected layer. |
+| | ![Effects](/help/creative/assets/video-layer-effects.png "Effects") [!UICONTROL Effect] | Applies an effect to the selected layer. |
+| | ![Blur](/help/creative/assets/video-layer-blur.png "Blur") [!UICONTROL Blur] | Applies a blur to the selected layer. |
+| | ![Shadow](/help/creative/assets/video-layer-shadow.png "Shadow") [!UICONTROL Shadow] | Adds or changes the selected layer's shadow. |
+
+##### Multiple selections and specialized elements
+
+When you select multiple elements, a group, a cutout element, or an audio clip, the editing panel shows the selection-specific sections below. Multiple elements, groups, and cutouts also retain the [!UICONTROL Layer] section.
+
+| Panel section | Tool | Controls |
+| --- | --- | --- |
+| [!UICONTROL Layer] | Alignment and layer positioning | Aligns multiple selected elements or a group. The arrangement menu changes their front-to-back stacking order. |
+| | [!UICONTROL Rotate & Flip] | Rotates or flips the selected elements or group. |
+| | ![Opacity](/help/creative/assets/video-layer-opacity.png "Opacity") [!UICONTROL Opacity] | Makes the selected elements or group more or less transparent. |
+| | ![Blend mode](/help/creative/assets/video-layer-blend-mode.png "Blend mode") [!UICONTROL Blend Mode] | Changes how the selected elements' or group's colors combine with the layers behind them. |
+| | [!UICONTROL Transform]: [!UICONTROL Position & Size] | Opens controls for the selected elements' or group's position and dimensions. Available controls depend on the selected elements. |
+| [!UICONTROL Selection] | ![Group](/help/creative/assets/video-layer-group.png "Group") Group / ![Ungroup](/help/creative/assets/video-layer-ungroup.png "Ungroup") Ungroup | Appears below [!UICONTROL Layer] for multiple selected layers or a selected group. Groups selected layers so they can be managed together, or separates a group into individual layers. |
+| [!UICONTROL Settings] | ![Cutout clip](/help/creative/assets/video-layer-cutout-clip.png "Cutout clip") / ![Cutout overlay](/help/creative/assets/video-layer-cutout-overlay.png "Cutout overlay") Cutout controls | (Cutout layers) Appears below [!UICONTROL Layer]. Selects the cutout type and adjusts its offset and edge smoothing. |
+| [!UICONTROL Audio Properties] | ![Trim](/help/creative/assets/video-layer-trim.png "Trim") Trim, ![Volume](/help/creative/assets/video-layer-volume.png "Volume") volume, and ![Playback speed](/help/creative/assets/video-layer-playback-speed.png "Playback speed") playback speed | (Audio layers) Sets the clip's start and end points, audio level, and playback speed. |
+
+#### Edit elements directly on the canvas
 
 ##### Display ad templates
 
 | Action | Description |
 | --- | --- |
 | **[!UICONTROL Replace]** | (Image elements only) Opens the Images panel so you can replace the image with one from your asset library. |
-| ![Move forward](/help/creative/assets/cs-icon-move-forward.png) **[!UICONTROL Move forward]** | Moves the element one step forward in the stacking order (toward the front). |
-| ![Move backward](/help/creative/assets/cs-icon-move-backward.png) **[!UICONTROL Move backward]** | Moves the element one step backward in the stacking order (toward the back). |
-| ![Duplicate](/help/creative/assets/cs-icon-duplicate.png) **[!UICONTROL Duplicate]** | Creates a copy of the element. |
-| ![Delete](/help/creative/assets/cs-icon-delete.png) **[!UICONTROL Delete]** | Removes the element from the canvas. |
+| ![Move forward](/help/creative/assets/cs-icon-move-forward.png "Move forward") **[!UICONTROL Move forward]** | Moves the element one step forward in the stacking order (toward the front). |
+| ![Move backward](/help/creative/assets/cs-icon-move-backward.png "Move backward") **[!UICONTROL Move backward]** | Moves the element one step backward in the stacking order (toward the back). |
+| ![Duplicate](/help/creative/assets/cs-icon-duplicate.png "Duplicate") **[!UICONTROL Duplicate]** | Creates a copy of the element. |
+| ![Delete](/help/creative/assets/cs-icon-delete.png "Delete") **[!UICONTROL Delete]** | Removes the element from the canvas. |
+| Rotation handle | Click and drag the handle above a selected element to rotate it. Hold **[!UICONTROL Shift]** while dragging to snap the rotation to 15-degree increments. |
 
-You can also drag a selected element to reposition it, and drag the handles around it to resize it.
+You can also click and drag a selected element to reposition it, and click and drag the handles around it to resize it.
 
 ##### Video ad templates
 
@@ -537,9 +591,9 @@ You can also drag a selected element to reposition it, and drag the handles arou
 | **... > [!UICONTROL Copy Element]** | Copies the element to the canvas clipboard. |
 | **... > [!UICONTROL Pastes Element]** | Pastes the copied element. |
 
-You can also drag a selected element to reposition it, and drag the handles around it to resize it.
+You can also click and drag a selected element to reposition it, and click and drag the handles around it to resize it.
 
-### Timeline
+### Control timing and playback
 
 Both display and video editors display a timeline panel at the bottom of the canvas.
 
@@ -553,7 +607,7 @@ The timeline toolbar includes a **[!UICONTROL Duration]** field (0-60 seconds), 
 
 The timeline shows all video and audio clips in the template. Use the timeline to review how clips are arranged in time and to trim clips by dragging their start and end handles. You can't add a new clip directly on the timeline; add it from the left panel or canvas instead, and it then appears as a clip on the timeline.
 
-### [!UICONTROL Layers] panel
+### Manage layers
 
 The [!UICONTROL Layers] panel on the right side of the canvas lists all elements in the template and lets you manage their order, visibility, and properties. For display templates, click **[!UICONTROL Open Layers]** in the canvas toolbar to open it. For video templates, the panel is open by default.
 
@@ -574,17 +628,17 @@ Hold the cursor over a layer to see the following actions:
 
 | Action | Description |
 | --- | --- |
-| ![Rename layer](/help/creative/assets/edit.png) **[!UICONTROL Rename layer]** | Lets you enter a new layer name in the panel. |
-| ![Lock layer](/help/creative/assets/cs-icon-lock.png) **[!UICONTROL Lock layer]** / ![Unlock layer](/help/creative/assets/cs-icon-unlock.png) **[!UICONTROL Unlock layer]** | Prevents or allows the layer from being moved, edited, or reordered. |
-| ![Hide layer](/help/creative/assets/cs-icon-hidden.png) **[!UICONTROL Hide layer]** / ![Show layer](/help/creative/assets/cs-icon-visible.png) **[!UICONTROL Show layer]** | Hides or shows the layer on the canvas. Hidden layers are preserved in the template but don't appear when the template renders. |
-| ![Drag to reorder](/help/creative/assets/cs-icon-drag.png) Drag to reorder | (Display ad templates only) Drag the reorder icon to change the layer's position in the stacking order. The layer must be unlocked to reorder it. |
+| ![Rename layer](/help/creative/assets/edit.png "Rename layer") **[!UICONTROL Rename layer]** | Lets you enter a new layer name in the panel. |
+| ![Lock layer](/help/creative/assets/cs-icon-lock.png "Lock layer") **[!UICONTROL Lock layer]** / ![Unlock layer](/help/creative/assets/cs-icon-unlock.png "Unlock layer") **[!UICONTROL Unlock layer]** | Prevents or allows the layer from being moved, edited, or reordered. |
+| ![Hide layer](/help/creative/assets/cs-icon-hidden.png "Hide layer") **[!UICONTROL Hide layer]** / ![Show layer](/help/creative/assets/cs-icon-visible.png "Show layer") **[!UICONTROL Show layer]** | Hides or shows the layer on the canvas. Hidden layers are preserved in the template but don't appear when the template renders. |
+| ![Drag to reorder](/help/creative/assets/cs-icon-drag.png "Drag to reorder") Drag to reorder | (Display ad templates only) Drag the reorder icon to change the layer's position in the stacking order. The layer must be unlocked to reorder it. |
 
 **Panel footer**
 
 | Action | Description |
 | --- | --- |
-| ![Duplicate selected layer](/help/creative/assets/cs-icon-duplicate.png) **[!UICONTROL Duplicate selected layer]** | Creates a copy of the selected layer. |
-| ![Delete selected layer](/help/creative/assets/cs-icon-delete.png) **[!UICONTROL Delete selected layer]** | Deletes the selected layer. |
+| ![Duplicate selected layer](/help/creative/assets/cs-icon-duplicate.png "Duplicate selected layer") **[!UICONTROL Duplicate selected layer]** | Creates a copy of the selected layer. |
+| ![Delete selected layer](/help/creative/assets/cs-icon-delete.png "Delete selected layer") **[!UICONTROL Delete selected layer]** | Deletes the selected layer. |
 | **[!UICONTROL Group selected layers]** (video templates only) | Groups two or more selected layers into a single group. Appears only when two or more layers are selected. You can ungroup grouped layers or remove individual layers from the group using the controls on the group row. |
 
 <!--
