@@ -198,7 +198,7 @@ Switch to this when prompt-based generation becomes available:
 
 You can then use the template to [generate ad variations](#ad-variations-generate).
 
-### If you can't generate a template {#troubleshooting}
+### Troubleshooting {#troubleshooting}
 
 | Issue | What to do |
 | --- | --- |
