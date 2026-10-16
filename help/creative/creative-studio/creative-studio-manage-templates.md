@@ -1,6 +1,6 @@
 ---
 title: Manage ad templates in Creative Studio
-description: Learn how to create, import, organize, and manage ad templates in the Creative Studio Templates tab in Adobe Advertising Creative.
+description: Learn how to create, import, organize, and manage ad templates in Adobe Advertising Creative.
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -19,7 +19,7 @@ Create, import, and manage display and video ad templates for use in ad generati
 
 The **[!UICONTROL Templates]** tab provides quick actions to create or import new ad templates.
 
-The tab also lists your existing ad templates at the bottom of the page <!-- Only in the Templates tab -->as [individual cards (the default) or as tables/lists](/help/creative/introduction/customize-data-views.md). The ad template list includes tabs for [!UICONTROL All], [!UICONTROL System Templates] (which are uploaded to your account by your Adobe Account Team), and [!UICONTROL User Templates]. By default, ad templates for all of your advertisers are shown. To view only ad templates for a specific advertiser, select from the advertiser list at the top of the page. 
+The [!UICONTROL Templates] tab also lists your existing ad templates at the bottom of the page <!-- Only in the Templates tab -->as [individual cards (the default) or as tables/lists](/help/creative/introduction/customize-data-views.md). The ad template list includes tabs for [!UICONTROL All], [!UICONTROL System Templates] (which your Adobe Account Team uploads to your account), and [!UICONTROL User Templates]. By default, ad templates for all of your advertisers are shown. To view only ad templates for a specific advertiser, select from the advertiser list at the top of the page.
 
 <!--
 Probably not necessary:
@@ -177,6 +177,12 @@ To generate a template from an existing image, you need a static image ad in a C
    The generated template opens in the display template editor.
 
 ### Step 3: Edit and save the template {#template-save}
+
+>[!TIP]
+>
+> The AI assistant uses an open-source font library to find a close match for the font in your ad. To use your own font, upload it to the [!UICONTROL Assets] tab or from the template editor, and then replace the generated font in the editor.
+>
+> For best results, replace the AI-generated logo with your original, pixel-perfect logo in the template editor.
 
 1. In the template editor, review the generated elements and make any remaining changes using the [template editor controls](#template-controls).
 
@@ -450,8 +456,8 @@ The left panel allows you to add ad assets and elements to the template. Click a
 | **[!UICONTROL Search]** | Search across all asset types in your library. |
 | **[!UICONTROL Upload]** | Upload images or font files into the editor for use in the current template. You can upload up to 20 files at a time. |
 | **[!UICONTROL Templates]** | Browse ad templates from your Creative Studio library to use as a base layer or reference element. |
-| **[!UICONTROL My Assets]** | Browse all assets you've uploaded in the Creative Studio Assets tab. |
-| **[!UICONTROL Images]** | Browse only the image assets you've uploaded in the Creative Studio Assets tab. |
+| **[!UICONTROL My Assets]** | Browse all assets you've uploaded in the Creative Studio [!UICONTROL Assets] tab. |
+| **[!UICONTROL Images]** | Browse only the image assets you've uploaded in the Creative Studio [!UICONTROL Assets] tab. |
 | **[!UICONTROL Text]** | Add a text element to the canvas, including any custom fonts you've uploaded. |
 | **[!UICONTROL Elements]** | Add shapes and layout elements such as buttons and rectangles. |
 
@@ -464,10 +470,10 @@ You can drag an item from any panel directly onto the canvas, or click it to pla
 | **[!UICONTROL Search]** | Search across all asset types in your library. |
 | **[!UICONTROL Upload]** | Upload image, video, audio, or font files (TTF, OTF, WOFF, WOFF2) into the editor for use in the current template. You can upload up to 20 files at a time. |
 | **[!UICONTROL Templates]** | Browse ad templates from your Creative Studio library. |
-| **[!UICONTROL My Assets]** | Browse all assets you've uploaded in the Creative Studio Assets tab. |
-| **[!UICONTROL Images]** | Browse only the image assets you've uploaded in the Creative Studio Assets tab. |
-| **[!UICONTROL Video]** | Browse only the video assets you've uploaded in the Creative Studio Assets tab.. |
-| **[!UICONTROL Audio]** | Browse only the audio assets you've uploaded in the Creative Studio Assets tab. |
+| **[!UICONTROL My Assets]** | Browse all assets you've uploaded in the Creative Studio [!UICONTROL Assets] tab. |
+| **[!UICONTROL Images]** | Browse only the image assets you've uploaded in the Creative Studio [!UICONTROL Assets] tab. |
+| **[!UICONTROL Video]** | Browse only the video assets you've uploaded in the Creative Studio [!UICONTROL Assets] tab. |
+| **[!UICONTROL Audio]** | Browse only the audio assets you've uploaded in the Creative Studio [!UICONTROL Assets] tab. |
 | **[!UICONTROL Text]** | Add a text element to the canvas, including any custom fonts you've uploaded. |
 | **[!UICONTROL Elements]** | Add shapes and vector elements. |
 
@@ -624,7 +630,7 @@ Video templates show all layers in a single list with no tabs.
 
 **Per-layer actions**
 
-Hold the cursor over a layer to see the following actions:
+Hold the cursor over a layer to see the following actions.
 
 | Action | Description |
 | --- | --- |
