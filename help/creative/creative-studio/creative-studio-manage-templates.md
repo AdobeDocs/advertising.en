@@ -130,7 +130,9 @@ To generate a template from an existing image, you need a static image ad in a C
 
    Generation begins automatically, using the selected ad's width and height.
 
-<!-- Switch to this when prompt-based generation becomes available:
+<!--
+
+Switch to this when prompt-based generation becomes available:
 
 1. In the **[!UICONTROL Generate New Ad Template]** dialog, choose how to generate the template:
 
