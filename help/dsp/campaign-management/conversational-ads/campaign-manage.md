@@ -43,6 +43,8 @@ The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Campaigns] view includes 
 
 * [Drill down from campaigns to ad groups and ads](#drill-down)
 
+* [Refresh the campaign, ad group, or ad list](#refresh)
+
 ## Campaigns
 
 ### Create a [!DNL ChatGPT Ads] conversational ad campaign {#campaign-create}
@@ -244,6 +246,14 @@ Archiving permanently removes the campaign, ad group, or ad from the [!UICONTROL
 * Click a campaign row to view only its ad groups on the **[!UICONTROL Ad Groups]** tab, or click an ad group row to view only its ads on the **[!UICONTROL Ads]** tab.
 
 To remove the filter and see all rows in the view, click **X** in the filter above the data table.
+
+## Refresh the campaign, ad group, or ad list {#refresh}
+
+Redisplay the list of campaigns, ad groups, or ads when other users may have made changes or additions.
+
+1. In the main menu, click **[!UICONTROL Conversational Ads Beta]**.
+
+1. In the **[!UICONTROL Campaigns]**, **[!UICONTROL Ad Groups]**, or **[!UICONTROL Ads]** view, click **[!UICONTROL Refresh]** above the data table.
 
 >[!MORELIKETHIS]
 >

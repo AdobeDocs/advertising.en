@@ -15,15 +15,13 @@ role_v2:
 
 *Beta feature*
 
-Through Adobe DSP's integration with [!DNL OpenAI Ads], you can run [!DNL ChatGPT Ads] chat card ads, which appear inside [!DNL ChatGPT] conversations. For this feature, DSP creates an ad account and buys media on your organization's behalf. You won't be able to access the ad account from ads.openai.com. Use this feature to test AI media without establishing a direct relationship with [!DNL ChatGPT Ads].
+Through Adobe DSP's integration with [!DNL OpenAI Ads], you can run [!DNL ChatGPT Ads] chat card ads, which appear inside [!DNL ChatGPT] conversations. For this feature, DSP creates a conversational ad account and buys media on your organization's behalf. You won't be able to access the ad account from ads.openai.com. Use this feature to test AI media without establishing a direct relationship with [!DNL ChatGPT Ads].
 
-You'll manage your conversational ad accounts &mdash; including its campaigns, ad groups, and ads &mdash; separately from your regular DSP campaigns, which are structured differently. You'll also [view performance data for [!DNL ChatGPT Ads] campaigns, ad groups, and ads](campaign-manage.md#campaign-views-about) separately from your DSP campaigns.
+You'll manage your [!DNL ChatGPT Ads] conversational ad accounts &mdash; including its campaigns, ad groups, and ads &mdash; separately from your regular DSP campaigns, which are structured differently. You'll also [view performance data for [!DNL ChatGPT Ads] campaigns, ad groups, and ads](campaign-manage.md#campaign-views-about) separately from your DSP campaigns.
 
 ## Eligibility
 
 The following determines eligibility for this feature:
-
-* **Link to an advertiser in Search, Social, & Commerce:** Your DSP advertiser must be linked to an Adobe Search, Social, & Commerce advertiser. To link an advertiser, contact your Adobe Account Team.
 
 * **Existing [!DNL Search, Social, & Commerce] customers:** If your advertiser already uses [!DNL Search, Social, & Commerce], then [create and manage its [!DNL ChatGPT Ads] campaigns in Search, Social, & Commerce](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md) instead of in DSP.
 
@@ -35,7 +33,7 @@ To use the feature, contact your Adobe Account Team to begin the onboarding proc
 
 ## Billing
 
-You're billed for [!DNL ChatGPT Ads] usage at the end of the month with your other invoices, using the currency for your DSP account (regardless of the [currency used for the [!DNL ChatGPT Ads] account](#account-settings)). For billing questions, contact your Adobe Account Team.
+You're billed for [!DNL ChatGPT Ads] usage at the end of the month with your other invoices, using the billing currency and billing timezone for your DSP account (regardless of the [currency and timezone used for the [!DNL ChatGPT Ads] account](#account-settings)). For billing questions, contact your Adobe Account Team.
 
 ## The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Accounts] view {#accounts-view}
 
@@ -59,6 +57,8 @@ The [!UICONTROL Conversational Ads Beta] > [!UICONTROL Accounts] tab lists the [
 
 * [Edit an account](#account-edit)
 
+* [Refresh the account list](#account-refresh)
+
 * [Return to the DSP main menu](#return-to-menu)
 
 ## Manage accounts
@@ -69,7 +69,7 @@ An account limit caps an account's total spend over a specific date range. You c
 
 1. In the main menu, click **[!UICONTROL Conversational Ads Beta]**.
 
-1. On the **[!UICONTROL Accounts]** tab, hold the cursor over the account row and click **[!UICONTROL ...] > [!UICONTROL View account limit]**.
+1. In the **[!UICONTROL Accounts]** view, hold the cursor over the account row and click **[!UICONTROL ...] > [!UICONTROL View account limit]**.
 
 The [!UICONTROL Account limits] page lists each limit for the account:
 
@@ -97,7 +97,7 @@ To create more than two [!DNL ChatGPT Ads] accounts for an advertiser, contact y
 
    * (Your first account only) On the welcome screen, click **[!UICONTROL Create an Account]**.
 
-   * On the **[!UICONTROL Accounts]** tab, select an advertiser, and then click **[!UICONTROL Create Account]**.
+   * In the **[!UICONTROL Accounts]** view, select an advertiser, and then click **[!UICONTROL Create Account]**.
 
 1. Specify the [account settings](#account-settings).
 
@@ -113,7 +113,7 @@ You can edit an account's legal business name and website after you create it.
 
 1. In the main menu, click **[!UICONTROL Conversational Ads Beta]**.
 
-1. On the **[!UICONTROL Accounts]** tab, hold the cursor over the account row and click **[!UICONTROL ...] > [!UICONTROL Edit account]**.
+1. In the **[!UICONTROL Accounts]** view, hold the cursor over the account row and click **[!UICONTROL ...] > [!UICONTROL Edit account]**.
 
 1. Edit the **[!UICONTROL Legal Business Name]** and/or **[!UICONTROL Advertiser Website]**. For more information about the fields, see "[Account settings](#account-settings)."
 
@@ -122,6 +122,14 @@ You can edit an account's legal business name and website after you create it.
 >[!IMPORTANT]
 >
 >Saving changes restarts [!DNL OpenAI]'s review for the account. The account won't serve ads again until the account is re-approved.
+
+### Refresh the account list {#account-refresh}
+
+Redisplay the list of accounts when other users may have made changes or additions.
+
+1. In the main menu, click **[!UICONTROL Conversational Ads Beta]**.
+
+1. In the **[!UICONTROL Accounts]** view, click **[!UICONTROL Refresh]** above the account list.
 
 ### Return to the DSP main menu {#return-to-menu}
 
@@ -135,9 +143,9 @@ You can edit an account's legal business name and website after you create it.
 
 **[!UICONTROL Country]:** The country in which the organization is legally registered (not the country in which you'll run ads). It must be the same as the country used for the organization's DSP contract. You can't change this value after you save the account.
 
-**[!UICONTROL Currency]:** (Read-only) The currency that your Adobe Account Team sets up for the [!DNL ChatGPT Ads] account. This may be different than the currency used for your DSP account. **Note:** Regardless of this value, all usage bills will be in the currency used for the DSP account.
+**[!UICONTROL Currency]:** (Read-only) The currency that your Adobe Account Team sets up for the [!DNL ChatGPT Ads] account. This may be different than the currency for your DSP account, which is visible elsewhere within DSP. **Note:** Regardless of this value, all usage bills will be in the *billing currency* used for the DSP account.
 
-**[!UICONTROL Timezone]:** (Read-only) The timezone that your Adobe Account Team sets up for the [!DNL ChatGPT Ads] account. This may be different than the timezone used for your DSP account. **Note:** Regardless of this value, all usage bills will represent the timezone used for the DSP account.
+**[!UICONTROL Timezone]:** (Read-only) The timezone that your Adobe Account Team sets up for the [!DNL ChatGPT Ads] account. This may be different than the timezone used for your DSP account, which is visible elsewhere within DSP. **Note:** Regardless of this value, all usage bills will represent the *billing timezone* used for the DSP account.
 
 **[!UICONTROL Favicon]:** An image file to use as the website favicon for the account.<!-- How is this used within this context? --> The browser displays the favicon in various places, such as the address bar, tab, or bookmarks. The file must be in JPG, PNG, or WEBP format and a minimum of 256x256 pixels.
 
