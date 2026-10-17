@@ -33,3 +33,4 @@ For more information about the objective settings, see the help within the user 
 >* [Edit an objective](objective-edit.md)
 >* [Delete an objective](objective-delete.md)
 >* [Apply weight recommendations to an objective](objective-apply-weight-recommendations.md)
+>* [Export an objective configuration](objective-export.md)

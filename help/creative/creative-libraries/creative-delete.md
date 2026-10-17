@@ -33,7 +33,31 @@ You can delete:
 >
 >If you delete a dynamic creative and generate new ads for the catalog using the same data that was used to create the original creative, then the creative is added back to the catalog.
 
+## From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Do either of the following:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. On the **[!UICONTROL Creatives]** tab, select the creatives to delete:
+
+   * To delete a single creative, click **[!UICONTROL ...]** next to the creative name, and then click **[!UICONTROL Delete]**.
+
+   * To delete one or more creatives, select the check box for each creative you want to delete. In the bulk actions toolbar, click ![Delete](/help/creative/assets/delete.png "Delete") (**[!UICONTROL Delete]**).
+   
+     To select all rows, select the global check box in the upper left.
+
+1. In the confirmation message, click **[!UICONTROL Delete].**
+
+## From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. Click the library name.
 

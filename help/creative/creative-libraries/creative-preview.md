@@ -21,7 +21,41 @@ role_v2:
 
 You can preview a creative as viewers will see it, including hyperlinks.
 
+## From the new UI
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL ...]** next to the creative name, and then click **[!UICONTROL Preview]**.
+
+   For HTML5 and flexible HTML5 creatives, you can move between the Layers, Details, and Attributes tabs for more details.
+
+1. (Optional) To open the landing page for the creative, click the creative.
+
+<!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
+
+1. (Optional; when available) To download the creative, click ![Download](/help/creative/assets/download.png "Download").
+
+   The file is downloaded according to your browser's normal procedure.
+
+1. (Optional; when available) To share a demo URL so that other people without a login to [!DNL Creative] can preview the creatives:
+
+   1. Click ![Share](/help/creative/assets/share.png "Share") in the upper right of the preview.
+   
+   1. In the [!UICONTROL Share demo URL] dialog, click **[!UICONTROL Copy]** to copy the URL to your clipboard so that you can share it with someone else.
+
+## From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. Click the library name.
 

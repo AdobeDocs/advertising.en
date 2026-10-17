@@ -23,6 +23,8 @@ role_v2:
 
 <!-- add a description -->
 
+The following settings are applicable to dynamic ads created using the legacy UI. If you're creating dynamic ads using the new UI or [!DNL Creative Studio], see the settings in "[Manage dynamic creatives in [!UICONTROL Creative Studio]](/help/creative/creative-studio/creative-studio-manage-dynamic-ads.md#select-template)."
+
 ## Dynamic ad settings<!-- for dynamic HTML5 ads {#dynamic-ad-settings-dynamic-html5}-->
 
 <!-- add a description -->

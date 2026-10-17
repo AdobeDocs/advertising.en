@@ -11,7 +11,7 @@ feature_v2:
 ---
 # (New UI) Manage custom alerts
 
-Create alert templates to identify when any portfolio, campaign, or ad group meets specific conditions &mdash; such as a performance metric &mdash; during a specified period and then generate an alert. Alerts are available for a single advertiser. Alerts include all columns in the relevant default view. For example, campaign-level alerts include all columns in the default [!UICONTROL Campaigns] view.
+Create alert templates to identify when any portfolio, account, campaign, ad group, ad, keyword, or product group meets specific conditions &mdash; such as a performance metric &mdash; during a specified period and then generate an alert. Alerts are available for a single advertiser. Alerts include all columns in the relevant default view. For example, campaign-level alerts include all columns in the default [!UICONTROL Campaigns] view.
 
 You can create alert templates from either the [!UICONTROL Alert Templates] tab in the [!UICONTROL Custom Alerts] panel or from the top of any page.
 
@@ -71,7 +71,7 @@ New alert templates have the status "[!UICONTROL Active]."
 
    * In the upper right of any page, click ![Custom Alert](/help/search-social-commerce/assets/custom-alert.png "Custom Alert") > **[!UICONTROL Create Custom Alert]**.
    
-   In the upper right of any page, click ![Custom Alert](/help/search-social-commerce/assets/custom-alert.png "Custom Alert") > **[!UICONTROL View Custom Alerts]**, which opens to the [!UICONTROL Alert Templates] tab. Click **[!UICONTROL Create Alert]**.
+   * In the upper right of any page, click ![Custom Alert](/help/search-social-commerce/assets/custom-alert.png "Custom Alert") > **[!UICONTROL View Custom Alerts]**, which opens to the [!UICONTROL Alert Templates] tab. Click **[!UICONTROL Create Alert]**.
 
 1. Specify the [alert settings](#alert-template-settings) on the **[!UICONTROL Entity]**, **[!UICONTROL Date Range]**, **[!UICONTROL Filters]**, and **[!UICONTROL Scheduling and Delivery]** tabs.
 

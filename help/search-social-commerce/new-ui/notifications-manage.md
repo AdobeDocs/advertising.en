@@ -115,14 +115,13 @@ In Campaign Management:
   * **[!UICONTROL Accuracy]**: Notifications when a portfolio's model accuracy deviates [by how much?] from expectations.
 -->
 
-
 ## Available actions
 
 * [View your notifications](#notification-view)
 
 * [Edit your notification settings](#notification-edit)
 
-* [Mark a notification as read or unread](#notification-mark-read-unread)
+* [Mark notifications as read or unread](#notification-mark-read-unread)
 
 * [Delete a notification](#notification-delete)
 
@@ -132,7 +131,7 @@ In Campaign Management:
 
 ## View your notifications {#notification-view}
 
-When you are [subscribed to notifications](#notification-edit) about account authentication errors, custom alerts that are triggered, and [!UICONTROL Advertising Insights] that are generated, you can view your notifications in either the [!UICONTROL Notifications] panel or [!UICONTROL Notification Center].
+When you're [subscribed to notifications](#notification-edit) about account authentication errors, custom alerts that are triggered, and [!UICONTROL Advertising Insights] that are generated, you can view your notifications in either the [!UICONTROL Notifications] panel or [!UICONTROL Notification Center].
 
 ### View notifications within the [!UICONTROL Notifications] panel
 
@@ -204,7 +203,7 @@ You can optionally subscribe to, or unsubscribe from, email and web notification
 
 1. Click **[!UICONTROL Save]**.
 
-## Mark a notification as read or unread {#notification-mark-read-unread}
+## Mark notifications as read or unread {#notification-mark-read-unread}
 
 Marking a notification as *read* or *unread* changes the number of unread notifications indicated in the [!UICONTROL Notifications] link at the top of each page (such as ![Notifications icon with unread notifications counter](/help/search-social-commerce/assets/notifications-unread.png "Notifications icon with unread notifications counter")).
 
@@ -214,7 +213,11 @@ Notifications marked as *read* are in a lighter-colored text but remain availabl
 
 1. [Open the Notifications panel or Notification Center](#notification-view).
 
-1. Hold the cursor over the alert name and click ![Mark as Read or Unread](/help/search-social-commerce/assets/notifications-read-unread.png "Mark as Read or Unread").
+1. Do either of the following:
+
+   * For a single notification, hold the cursor over the alert name and click ![Mark as Read or Unread](/help/search-social-commerce/assets/notifications-read-unread.png "Mark as Read or Unread").
+
+   * To mark all notifications as read, click **[!UICONTROL Mark all as read]**.
 
 ## Delete a notification {#notification-delete}
 

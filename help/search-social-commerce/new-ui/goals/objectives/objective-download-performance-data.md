@@ -66,3 +66,4 @@ In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
 >* [About objectives](objective-about.md)
 >* [Create an objective](objective-create.md)
 >* [Delete an objective](objective-delete.md)
+>* [Export an objective configuration](objective-export.md)

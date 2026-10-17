@@ -1,9 +1,9 @@
 ---
-title: "[!DNL Adobe] [!DNL Audience Analytics] for Adobe Advertising customers"
+title: '[!DNL Adobe] [!DNL Audience Analytics] for Adobe Advertising customers'
 description: Learn how to use [!DNL Adobe] [!DNL Audience Analytics] for advertising use cases
 feature: Integration with Adobe Audience Manager
 exl-id: 457d4335-2762-4aab-94b8-12f8a79d109b
-TQID: https://experienceleague.adobe.com/XFaacUNElL25w5SMS5fzWkfRwnXr2WxhsBLe3sTccg4
+TQID: 'https://experienceleague.adobe.com/XFaacUNElL25w5SMS5fzWkfRwnXr2WxhsBLe3sTccg4'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -16,7 +16,7 @@ subfeature_v2:
   - id: d1e2786d-1070-4f97-93d7-f5b95de25b2b
     internal-label: Audience Manager integration
   - id: d9510790-d834-436d-8423-8d69cd50464a
-    internal-label: DSP Ads
+    internal-label: Ads
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
