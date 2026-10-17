@@ -38,7 +38,7 @@ Uploads to [!DNL Google Ads] and [!DNL Microsoft Advertising] occur throughout t
 
 1. In the main menu, click **[!UICONTROL Goals]** > **[!UICONTROL Objectives]**.
 
-1. In the toolbar, click **[!UICONTROL Upload Objective]**.
+1. In the toolbar, click **[!UICONTROL Objective Upload]**.
 
 1. In the [!UICONTROL Objective Upload Setup] dialog, set the **[!UICONTROL Enable Objective Upload]** toggle to **[!UICONTROL On]**.
 
@@ -90,6 +90,7 @@ If the objective &mdash; named `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_a
 >[!MORELIKETHIS]
 >
 >* [About objectives](objective-about.md)
+>* [Export an objective configuration](objective-export.md)
 >* [Manage an advertiser's conversion metrics](/help/search-social-commerce/new-ui/goals/conversions/conversion-metrics-manage.md)
 >* [Manage credentials for [!DNL Google Ads] manager accounts](/help/search-social-commerce/new-ui/set-up/manager-account-manage.md)
 

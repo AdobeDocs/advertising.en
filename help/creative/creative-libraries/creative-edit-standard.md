@@ -19,13 +19,39 @@ role_v2:
 ---
 # Edit standard creatives in a creative library
 
-You can edit some settings for each type of standard creative. You can edit multiple creatives of the same creative type (simple HTML5 with only one landing page, static HTML5 with multiple landing pages, flexible HTML5, image, or third-party) only.
+You can edit some settings for each type of standard creative.
 
 For flexible HTML5 and static HTML5 creatives, you can upload a new template file with a different layout but the same set of attribute names. For simple HTML5 creatives, you can edit any attributes or add images by uploading a new template with the new attributes or images. In all cases, the template must be a local file in ZIP format with a maximum of 2 MB.
 
 When you edit a creative that's included in a bundle, your changes are automatically applied across all experiences that include the bundle, except that any custom landing pages and tracking URLs specified at the experience level remain applicable for the bundle that's attached to that experience.
 
+## From the new UI
+
+ You can edit a single creative.
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
+
+1. Open the library in either of the following ways:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL ...]** next to the creative name, and then click **[!UICONTROL Edit]**.
+
+1. Edit the [image creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image), [HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5), [flexible HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5), or [third-party creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party).
+   
+1. Click **[!UICONTROL Update Creative]**.
+
+## From the legacy UI
+
+ You can edit multiple creatives of the same creative type (simple HTML5 with only one landing page, static HTML5 with multiple landing pages, flexible HTML5, image, or third-party) only.
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
 

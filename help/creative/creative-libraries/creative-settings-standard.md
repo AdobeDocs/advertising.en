@@ -21,7 +21,7 @@ role_v2:
 ---
 # Standard creative settings
 
-The settings vary by creative type.
+The settings vary by creative type. 
 
 When you edit multiple creatives at the same time:
 
@@ -32,6 +32,30 @@ When you edit multiple creatives at the same time:
 ## Flexible HTML5 creative settings {#creative-settings-flexible-html5}
 
 ### Details tab
+
+#### New UI
+
+**Creative Name:** The name of the creative. The template name or uploaded file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and Use a name that you can easily find when you include the creative in an experience.
+
+**Language:** The default language for each ad with which you associate the creatives. When you upload or edit multiple creatives, the same value is applied to each selected creative.
+
+**Format:** (Read-only; existing creatives only) The creative format (*[!UICONTROL Flexible]*).
+
+**Creative Size:** (Read-only for existing creatives) The dimensions of the creative. If any images included in the creative are larger than the specified size, then they're resized accordingly.
+
+**[!UICONTROL Click Tags]:** The variables that allow click-tracking redirects from the included banner ads. The variable names and corresponding landing page URLs are populated from the uploaded creative unit, but you can change the default URLs. For multiple creatives, you can edit the individual click tags.
+
+**Label:** (Optional) Any labels to apply to all selected creatives. You can filter creatives by label in various views within [!DNL Creative].
+
+* To select an existing label, click ![Down](/help/creative/assets/chevron-down.png "Down"), and then click the label to apply.
+
+* To search for existing labels, begin entering a text string in the **[!UICONTROL Label]** field.
+
+* To create a new label to apply to the creatives, enter a unique label name in the **[!UICONTROL Label]** field, and then click **Add Tag**
+
+* To remove an applied label, click **X** next to the label name.
+
+#### Legacy UI
 
 **Creative Name:** The name of the creative. The template name or uploaded file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and Use a name that you can easily find when you include the creative in an experience.
 
@@ -82,25 +106,61 @@ To replace the existing ad template:
 
 1. Click **Update Template**.
 
-1. Click **Proceed**.
+1. (Legacy UI only) Click **Proceed**.
 
-1. Specify a ZIP file in either of the following ways:
+1. Specify a ZIP file:
 
-   * Drag and drop a file on your device or network into the box.
+   * (New UI) Do either of the following:
+
+     * Drag and drop a file on your device or network into the box.
       
-   * Click **[!UICONTROL select a file]** to locate the file on your device or network.
+     * Click **[!UICONTROL Browse files]** to locate the file on your device or network.
+
+   * (Legacy UI) Select a file on your device or network into the box.
 
    See the [flexible ad specifications](#flexible-ad-spec).
 
 1. Edit the new [flexible HTML ad settings](#flexible-ad-settings) as needed.
 
-1. Click **[!UICONTROL Edit]**
+1. Click (new UI) **[!UICONTROL Update Creative]** or (legacy UI) **[!UICONTROL Save]**
 
 ## HTML5 creative settings {#creative-settings-html5}
 
 ### Details tab
 
 For new creatives, the following settings aren't on a named tab.
+
+#### New UI
+
+**Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and Use a name that you can easily find when you include the creative in an experience.
+
+**Format:** (Read-only; existing creatives only) The creative format (*[!UICONTROL HTML5]*).
+
+**Language:** The default language for each ad with which you associate the creatives. When you upload or edit multiple creatives, the same value is applied to each selected creative.
+
+**Creative Size:** (Read-only for existing creatives) The dimensions of the creative. If any images included in the creative are larger than the specified size, then they're resized accordingly.
+
+**[!UICONTROL Click Tags]:** (Static HTML5 creatives only) The variables that allow click-tracking redirects from the included banner ads. The variable names and corresponding landing page URLs are populated from the uploaded creative unit, but you can change the default URLs. For multiple creatives, you can edit the individual click tags.
+
+>[!NOTE]
+>
+>When you include the creative in an experience, you can replace the default value for any of the click tags with a custom landing page URL to generate a derivation of the base creative.
+
+**Landing Page URL:** (Simple HTML5 creatives with one landing page only) The URL of the default landing page for each ad with which you associate the creatives. It must be a valid URL beginning with http:// or https://. It may include third-party tracking parameters or [[!DNL Creative] macros](/help/creative/creative-macros.md) for your own use.
+
+When you include a creative in a bundle and assign the bundle to an experience, you can optionally change the landing page URL, as well as add impression- and click-tracking URLs and JavaScript, for each creative in the bundle. <!-- NOT SURE APPLICABLE ANYMORE: to generate a variation of the base creative. -->
+
+**Label:** (Optional) Any labels to apply to all selected creatives. You can filter creatives by label in various views within [!DNL Creative].
+
+* To select an existing label, click ![Down](/help/creative/assets/chevron-down.png "Down"), and then click the label to apply.
+
+* To search for existing labels, begin entering a text string in the **[!UICONTROL Label]** field.
+
+* To create a new label to apply to the creatives, enter a unique label name in the **[!UICONTROL Label]** field, and then click **Add Tag**
+
+* To remove an applied label, click **X** next to the label name.
+
+#### Legacy UI
 
 **Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple creatives, you can edit the individual creative names. **Tip:** Include the ad size in the creative name, and Use a name that you can easily find when you include the creative in an experience.
 
@@ -158,6 +218,32 @@ To replace the existing ad template:
 
 ## Image creative settings {#creative-settings-image}
 
+### New UI
+
+**Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple images, you can edit the individual creative names. **Tip:** Use a name that you can easily find when you include the creative in an experience.
+
+**Format:** (Read-only; existing creatives only) The creative format (*[!UICONTROL Image]*).
+
+**Creative Size:** (Read-only) The dimensions of the uploaded images.
+
+**Language:** The default language for each ad with which you associate the creatives. The same value applies to all selected images. When you include the creatives in an experience, you can optionally customize language preferences for the experience.
+
+**Landing Page URL:** The URL of the default landing page for each ad with which you associate the creatives. The landing page URL must be a valid URL beginning with http:// or https://. It may include third-party tracking parameters or [[!DNL Creative] macros](/help/creative/creative-macros.md) for your own use. The same value applies to all selected images.
+
+When you include a creative in a bundle and then assign the bundle to an experience, you can optionally change the landing page URL, as well as add impression- and click-tracking URLs and JavaScript, for each creative in the bundle. <!-- NOT SURE APPLICABLE ANYMORE: to generate a variation of the base creative. -->
+
+**Label:** (Optional) Any labels to apply to all selected creatives. You can filter creatives by label in various views within [!DNL Creative].
+
+* To select an existing label, click ![Down](/help/creative/assets/chevron-down.png "Down"), and then click the label to apply.
+
+* To search for existing labels, begin entering a text string in the **[!UICONTROL Label]** field.
+
+* To create a new label to apply to the creatives, enter a unique label name in the **[!UICONTROL Label]** field, and then click **Add Tag**
+
+* To remove an applied label, click **X** next to the label name.
+
+### Legacy UI
+
 **Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple images, you can edit the individual creative names. **Tip:** Use a name that you can easily find when you include the creative in an experience.
 
 **Language:** The default language for each ad with which you associate the creatives. The same value applies to all selected images. When you include the creatives in an experience, you can optionally customize language preferences for the experience.
@@ -208,11 +294,39 @@ When you include this creative in an experience that you implement as an ad from
 
 ## Video creative settings {#creative-settings-video}
 
-**Creative asset name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple images, you can edit the individual creative names. **Tip:** Use a name that you can easily find when you include the creative in an experience.
+### New UI
+
+**Creative Name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. **Tip:** Use a name that you can easily find when you include the creative in an experience.
+
+**Format:** (Read-only; existing creatives only) The creative format (*[!UICONTROL Standard Video]*).
+
+**Size:** (Read-only) The dimensions of the video, which is filled in automatically.
 
 **Duration:** (Read-only) The duration of the video, which is filled in automatically.
 
-**Language:** The default language for each ad with which you associate the creatives. The same value applies to all selected images. When you include the creatives in an experience, you can optionally customize language preferences for the experience.
+**Language:** The default language for each ad with which you associate the creative. When you include the creative in an experience, you can optionally customize language preferences for the experience.
+
+**Landing Page URL:** The URL of the default landing page for each ad with which you associate the creative. The landing page URL must be a valid URL beginning with http:// or https://. It may include third-party tracking parameters or [[!DNL Creative] macros](/help/creative/creative-macros.md) for your own use.
+
+When you include a creative in a bundle and then assign the bundle to an experience, you can optionally change the landing page URL, as well as add impression- and click-tracking URLs and JavaScript, for each creative in the bundle.
+
+**Label:** (Optional) Any labels to apply to the creative. You can filter creatives by label in various views within [!DNL Creative].
+
+* To select an existing label, click ![Down](/help/creative/assets/chevron-down.png "Down"), and then click the label to apply.
+
+* To search for existing labels, begin entering a text string in the **[!UICONTROL Label]** field.
+
+* To create a new label to apply to the creatives, enter a unique label name in the **[!UICONTROL Label]** field, and then click **Add Tag**
+
+* To remove an applied label, click **X** next to the label name.
+
+### Legacy UI
+
+**Creative asset name:** The name of the creative. For a new creative, the file name is used by default, but you can change the name. For multiple files, you can edit the individual creative names. **Tip:** Use a name that you can easily find when you include the creative in an experience.
+
+**Duration:** (Read-only) The duration of the video, which is filled in automatically.
+
+**Language:** The default language for each ad with which you associate the creatives. The same value applies to all selected creatives. When you include the creatives in an experience, you can optionally customize language preferences for the experience.
 
 **Landing Page URL:** The URL of the default landing page for each ad with which you associate the creatives. The landing page URL must be a valid URL beginning with http:// or https://. It may include third-party tracking parameters or [[!DNL Creative] macros](/help/creative/creative-macros.md) for your own use. The same value applies to all selected images.
 

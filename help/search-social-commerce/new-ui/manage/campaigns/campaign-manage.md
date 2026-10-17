@@ -43,11 +43,9 @@ Search, Social, & Commerce pulls performance data hourly from synced [!DNL Googl
 
 * [Edit campaign settings](#campaign-edit)
 
-* [Change the status of, or delete, a campaign from within the row](#campaign-status)
+* [Change the status of a campaign from within the row](#campaign-status)
 
 * [Assign campaigns to a portfolio, and remove campaigns from a portfolio](#campaign-portfolio)
-
-* [View a performance graph in the [!UICONTROL Campaigns] view](#campaign-performance-graph)
 
 * [Assign bid constraints to campaigns, and unassign constraints from campaigns](#campaign-constraints)
 
@@ -55,7 +53,13 @@ Search, Social, & Commerce pulls performance data hourly from synced [!DNL Googl
 
 * [Assign label classifications to campaigns, and remove label classifications from campaigns](#campaign-classifications)
 
+* [View a performance graph in the [!UICONTROL Campaigns] view](#campaign-performance-graph)
+
+* [View the campaign budget history](#campaign-budget-history)
+
 * [Manage data view reports from the [!UICONTROL Campaigns] view](#campaign-reports)
+
+* [Sync campaign data with the ad network](#campaign-sync)
 
 ## Create a campaign {#campaign-create}
 
@@ -372,6 +376,14 @@ Open and configure a performance graph with up to three metrics totalled across 
 
 * Above the data table, click ![Charts](/help/search-social-commerce/assets/charts.png "Charts").
 
+## View the campaign budget history {#campaign-budget-history}
+
+The budget history lists each change to the campaign budget, including the source of the change.
+
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Campaigns]**.
+
+1. Hold the cursor over the campaign name and click **[!UICONTROL ...] > [!UICONTROL Budget Change History]**.
+
 ## Manage data view reports from the [!UICONTROL Campaigns] view {#campaign-reports}
 
 <!-- Wording??????  Filtered data reports? -->
@@ -421,6 +433,18 @@ See also ">* [(Legacy UI) Download data from a campaign management view](/help/s
 1. In the toolbar above the data table, click ![Download Report](/help/search-social-commerce/assets/download.png "Download Report") **[!UICONTROL Reports]**.
 
 1. In the [!UICONTROL Recently Generated] list in the [!UICONTROL Grid Reports] dialog, click ![Delete](/help/search-social-commerce/assets/delete-new.png "Delete") next to the file name.
+
+## Sync campaign data with the ad network {#campaign-sync}
+
+You can also [sync data for all campaigns within an account](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/sync-api-accounts.md).
+
+1. In the main menu, click **[!UICONTROL Manage]** > **[!UICONTROL Campaigns]**.
+
+1. Select the check box next to the name of each campaign to sync.
+
+1. In the bulk actions toolbar, click **[!UICONTROL ... More Actions]** > **[!UICONTROL Sync]**.
+
+The job may take an hour or more to complete.
 
 >[!MORELIKETHIS]
 >

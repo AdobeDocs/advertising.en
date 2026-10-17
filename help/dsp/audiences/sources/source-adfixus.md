@@ -30,7 +30,7 @@ Use the Advertising DSP integration with [!DNL AdFixus] to import your [!DNL AdF
 
 Once you import your [!DNL AdFixus] segments to DSP, you can target placements to [!DNL AdFixus] IDs and to specific first-party segments from [!DNL AdFixus]. You can also add [!DNL AdFixus] segments to reusable audiences. The details for any segment include the count of applicable [!DNL AdFixus] IDs.
 
-You can view the impression, click, frequency, and other metrics for users with [!DNL AdFixus] IDs in custom reports. Advertisers with [!DNL Analytics for Advertising] can also view view-through data for [!DNL AdFixus] IDs from Adobe Analytics, as well as data from Adobe Analytics within DSP.
+You can view the impression, click, frequency, and other metrics for users with [!DNL AdFixus] IDs in custom reports. Advertisers with [!DNL Analytics for Advertising] can also see view-through data for [!DNL AdFixus] IDs from Adobe Analytics, as well as data from Adobe Analytics within DSP.
 
 1. Use [!DNL AdFixus] to convert your organization's first-party data to segments with [!DNL AdFixus] IDs.
 

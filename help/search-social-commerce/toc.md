@@ -231,6 +231,7 @@ role_v2:
       + [Edit an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-edit.md)
       + [Delete an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-delete.md)
       + [Apply weight recommendations to an objective](/help/search-social-commerce/new-ui/goals/objectives/objective-apply-weight-recommendations.md)
+      + [Export objective configurations](/help/search-social-commerce/new-ui/goals/objectives/objective-export.md)
       + [Download performance metrics for objectives](/help/search-social-commerce/new-ui/goals/objectives/objective-download-performance-data.md)
       + [Objective settings](/help/search-social-commerce/new-ui/goals/objectives/objective-settings.md)
       + [Enable uploading of objectives to ad networks](/help/search-social-commerce/new-ui/goals/objectives/objective-upload-to-networks.md)

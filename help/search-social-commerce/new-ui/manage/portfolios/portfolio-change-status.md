@@ -22,7 +22,11 @@ To stop gathering cost/click/impression data and revenue data for the relevant c
 
 All changes to the portfolio status are logged in the portfolio's change history.
 
-## Optimize, activate, or deactivate a portfolio
+>[!NOTE]
+>
+>You can change the status of multiple portfolios using [portfolio bulksheets](portfolio-bulksheets.md).
+
+## Optimize, activate, or deactivate a portfolio from the [!UICONTROL Portfolios] view
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
 
@@ -45,7 +49,7 @@ All changes to the portfolio status are logged in the portfolio's change history
      >* Once Search, Social, & Commerce begins optimizing a portfolio, let it manage all future campaign budget and (when applicable) bid change (when applicable). Search, Social, & Commerce will overwrite any changes you make from within the ad network.
      >* You can temporarily set manual bids for any optimized CPC campaign in the portfolio by creating and posting campaign bulksheets. Any bid changes resulting from the posted data are applicable for one day. After that, Search, Social, & Commerce resumes setting bids according to its own optimization strategy.
 
-## Delete an inactive portfolio
+## Delete an inactive portfolio from the [!UICONTROL Portfolios] view
 
 You can delete only inactive portfolios. If the portfolio is optimized or active, then you must first change its status to inactive before you have the option to delete it.
 

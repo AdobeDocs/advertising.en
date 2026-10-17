@@ -126,6 +126,56 @@ The insights include:
 
   * **[!UICONTROL Impression Wins]:** The number of opportunities for which the placement won an impression. If wins are much lower than bids, then your bid price may be below the prevailing market rate for the targeted inventory.
 
+### [!UICONTROL Delivery Composition] tab
+
+*Available to advertisers with [!DNL Analytics for Advertising] only*
+
+The [!UICONTROL Delivery Composition] tab tells you how the DSP user model bids based on the likelihood of users converting.  The insights use your Adobe Analytics organic converter data matched to users in the programmatic bid stream (the population of users observed in programmatic advertising opportunities).  Use these insights to review a placement that is delivering.
+
+By default, data is shown for a specific advertiser and a specific placement. The report date range, the last date on which the data was updated, and the next date on which the report will be updated are included. You can optionally configure filters to show data for a different advertiser or select a different placement.
+
+The insights include:
+
+* **[!UICONTROL Placement Summary]:** (Placements in packages) Indicates the associated package and package goal.
+
+* **[!UICONTROL Propensity Breakdown]:** Separates converter-matched users into [!UICONTROL High Propensity], [!UICONTROL Medium Propensity], and [!UICONTROL Low Propensity] tiers based on their predicted likelihood to convert. For each group, data includes [!UICONTROL Avg Bid], [!UICONTROL Conversion Rate], [!UICONTROL Share of Conversions], and [!UICONTROL Conversion Rate Lift] (the group's conversion rate relative to the reference baseline). The data indicates how the model bids more for users it predicts are more likely to convert.  **Note:** The data is based on observed performance, not proof that the model caused an incremental gain in conversions.
+
+* **[!UICONTROL Bid Multiplier Graph]:** Indicates the bid multiplier for each of 20 audience buckets, scaling spend in proportion to a user's predicted likelihood to convert. Bucket 20 contains the highest-propensity users and receives the highest multiplier. High, Medium, and Low are simplified groupings of those buckets, not fixed audience percentages. 
+
+  When the multiplier is 1.0x , no adjustment is made to the underlying bid. Multipliers above 1.0x result in a higher bid, and multipliers below 1.0x result in a lower bid. 
+
+### [!UICONTROL Organic Seed Profile] tab
+
+*Available to advertisers with [!DNL Analytics for Advertising] only*
+
+The [!UICONTROL Organic Seed Profile] tab uses audience intelligence to show you the interests, times, locations, and devices that are associated with your converters. The insights use your Adobe Analytics organic converter data matched to users in the programmatic bid stream. Because these insights use existing converter data rather than campaign delivery, they can support planning before DSP spend, when suitable seed data is available. Use these insights to plan the launch of a package or placement or to inform your next campaign.
+
+By default, data is shown for a specific advertiser and a specific package or placement. The report date range, the last date on which the data was updated, and the next date on which the report will be updated are included. You can optionally configure filters to show data for a different advertiser or select a different package or placement.
+
+The insights include:
+
+* **[!UICONTROL Affinity Insights]:** Shows the interests and behavioral traits derived from converters' media consumption, ranked by their conversion rate lift relative to the overall population. **Note:** Traits describe media-consumption behavior, not verified demographic attributes. Because users can have multiple traits, all trait percentages may not total 100%.
+
+* **[!UICONTROL Temporal Insights]:** Shows converter activity aggregated by *Day of Week* or *Hour of Day* so you can identify when this advertiser's audience is most active.
+
+* **[!UICONTROL Geographic Insights]:** Shows converter activity aggregated by *Country* or *Region*, weighted by conversion rate lift relative to the overall population.  **Note:** Consider only locations relevant to your business and campaign.
+
+* **[!UICONTROL Device Insights]:** Shows converter activity aggregated by device-type mix, weighted by conversion rate lift relative to the overall population. **Note:** Interpret device patterns in the context of the campaign. For example, CTV and non-CTV campaigns can have different device patterns.
+
+Each [!UICONTROL Organic Seed Profile] insight includes the following columns:
+
+**[!UICONTROL Bid-stream Users]:** Users in the bid stream who belong to the group. 
+
+**[!UICONTROL Converters]:** Converters who belong to the group. 
+
+**[!UICONTROL Precision]:** The percentage of users in the group who converted. **Note:** Small non-zero rates can round to 0.0% at the displayed precision. A value of 0 doesn't necessarily mean there were no converters; check the [!UICONTROL Converters] count.
+
+**[!UICONTROL Recall]:** The percentage of all converters who belong to the group. **Note:** A group can have high conversion lift but account for only a small share of your converters.
+
+**[!UICONTROL Bid-stream % ]:** The percentage of bid-stream users who belong to the group. 
+
+**[!UICONTROL Conv. Rate Lift]:** The group's conversion rate relative to the reference baseline. 1.00x means the same rate as the baseline; 1.50x means 50% higher; 0.50x means 50% lower. **Note:** Lift isn't a guarantee of future performance. 
+
 ## View performance insights
 
 1. Open a set of insights:

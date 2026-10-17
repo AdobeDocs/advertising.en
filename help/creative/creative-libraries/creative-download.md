@@ -21,9 +21,31 @@ role_v2:
 
 *Standard creatives only*
 
-Download all selected creatives to a file in ZIP format according to your browser's normal procedure. 
+Download all selected creatives to a file in ZIP format according to your browser's normal procedure.
+
+## From the new UI
 
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Do either of the following:
+
+   * Click the library name.
+   
+   * Next to the library name, click **[!UICONTROL ...]** > **[!UICONTROL Open]**.
+
+1. On the **[!UICONTROL Creatives]** tab, select the creatives:
+
+   * To download a single creative, click **[!UICONTROL ...]** next to the creative name, and then click **[!UICONTROL Download]**.
+
+   * To download one or more creatives, select the check box for each creative you want to download. In the bulk actions toolbar, click ![Download](/help/creative/assets/download.png "Download") (**[!UICONTROL Download]**).
+   
+     To select all rows, select the global check box in the upper left.
+
+## From the legacy UI
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+
+1. Click **[!UICONTROL Switch to classic UI]**.
 
 1. Click the library name.
 

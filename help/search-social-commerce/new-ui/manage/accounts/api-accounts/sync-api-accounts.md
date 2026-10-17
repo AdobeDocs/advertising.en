@@ -40,7 +40,7 @@ For campaigns with the "[!UICONTROL Auto Update]" option, the sync operation als
 
 The job may take an hour or more to complete.
 
-## Sync campaigns from the [!UICONTROL Campaigns] view.
+## Sync campaigns from the [!UICONTROL Campaigns] view
 
 1. In the main menu, click **[!UICONTROL Manage]** \> **[!UICONTROL Campaigns]**.
 

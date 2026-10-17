@@ -5,7 +5,7 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-TQID: https://experienceleague.adobe.com/HgUQENjtjLRyizGpXGBRYZOanvoouKfGdcjDyf5Dlaw
+TQID: 'https://experienceleague.adobe.com/HgUQENjtjLRyizGpXGBRYZOanvoouKfGdcjDyf5Dlaw'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -14,11 +14,11 @@ feature_v2:
     internal-label: Demand Side Platform
 subfeature_v2:
   - id: a4886037-b6d8-40e1-aeab-edeb7649d7d3
-    internal-label: DSP placements
+    internal-label: Placements
   - id: e8b92199-d82f-4b20-9fc3-ffe694f93ce5
-    internal-label: DSP Planner
+    internal-label: Planner
   - id: fddd8d8f-3ba1-4a22-b714-69d0e4655be8
-    internal-label: DSP Packages
+    internal-label: Packages
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -46,6 +46,8 @@ The following features are new or recently changed.
 
 | Date | Feature | Description | For More Information |
 | ---- | ------- | ----------- | -------------------- |
+| 15 October 2026 | [!DNL Creative] | (Beta feature) You can now generate use AI in [!UICONTROL Creative Studio] to convert an existing static display ad image into an editable display ad template. | See "[Manage ad templates in [!UICONTROL Creative Studio]](/help/creative/creative-studio/creative-studio-manage-templates.md){target="_blank"}." |
+| 8 October | [!UICONTROL Insights] | (Advertisers with [!DNL Analytics for Advertising] only) Two new insights based on audience intelligence from your Adobe Analytics conversion data are available:<ul><li>[!UICONTROL Delivery Composition] tells you how the DSP user model bids across users with different likelihoods of converting. Use this insight to review a placement that is delivering.</li><li>[!UICONTROL Organic Seed Profile] shows you the interests, times, locations, and devices that are associated with your converters. Use this insight to plan the launch of a package or placement or to inform your next campaign.</li></ul> | See "[About insights](/help/dsp/campaign-management/insights/insights-about.md)." |
 | 14 August 2026 | [!UICONTROL Reports] | The new [!UICONTROL DSP Self-Attributed Conversions] report shows Advertising DSP's contribution to conversions &mdash; including customer journeys where DSP played a role but a later touch, such as an Adobe Advertising search click, received last-click credit in other reports. It's most useful for advertisers who use both Advertising DSP and Advertising Search, Social, & Commerce. | See "[About custom reports](/help/dsp/reports/report-about.md)" and "[FAQs about custom reports](/help/dsp/reports/faq-reports.md)." |
 | 1 July 2026 | [!DNL Creative] | The following beta features are available in Advertising Creative:<ul><li>**[!UICONTROL Creative Studio]** uses generative AI to help can build, resize, and refine display ads across multiple formats in a single session. Use a natural-language chat interface to generate and modify ad content &mdash; no manual design work is required for content fields.</li><li>Create and manage **[!UICONTROL brand profiles]** that reflect your brand's visual and messaging identity &mdash; including your logo, color palette, voice guidelines, image standards, and channel-specific copy guidelines. When you create ads in [!UICONTROL Creative Studio], the AI agent uses brand profile information to ground content generation in your specific brand.</li></ul> | See "[About Creative Studio](/help/creative/creative-studio/creative-studio-about.md)" and "[Manage brand profiles](/help/creative/brands/brand-manage.md)." |
 | 23 June 2026 | [!UICONTROL Placements], postal codes | You can now create lists of postal codes for individual countries to reuse as placement targets or exclusions. | See "[Manage postal code lists](/help/dsp/resources/lists-postal-codes-manage.md)" and "[Placement settings](/help/dsp/campaign-management/placements/placement-settings.md)." |
