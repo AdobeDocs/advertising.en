@@ -59,7 +59,7 @@ You can ask multiple questions in one message, but only one message at a time. W
 
 1. In the upper right of any page, click ![Agentic Chat](/help/dsp/assets/agent-chat.png "Agentic chat").
 
-1. Enter your query and click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
+1. Enter your query, and then click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt") or press the **Enter** key on your keyboard.
 
    For more information, see "[Writing prompts](#writing-prompts)."
 
