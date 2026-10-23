@@ -48,21 +48,35 @@ The following workflows can help you accomplish your work more effectively:
 
 1. [Open AI Assistant](#ai-assistant-open).
 
-1. (Insights and troubleshooting queries only; optional) To focus your query on a specific dimension value, such as a specific campaign, click ![Mention an entity](/help/dsp/assets/prompt-entity.png "Mention an entity"), select the dimension, and then select the dimension value.
+1. Build the query:
 
-   <!-- No ability to narrow down list of child entities for a selected parent as of 10/26/26. -->For example, for the dimension [!UICONTROL Campaign], you can select from a list of all your campaigns to report on.
-
-   Available dimensions include:
+   * To see examples of queries by topic and optionally copy one to use:
    
-   * Campaign entities: [!UICONTROL Campaign], [!UICONTROL Package], [!UICONTROL Placement], [!UICONTROL Ad]
-   * The advertiser: [!UICONTROL Advertiser],
-   * Advertising Creative entities: [!UICONTROL Experience]
-   * Ad targets: [!UICONTROL Audience], [!UICONTROL City], [!UICONTROL Country], [!UICONTROL State], [!UICONTROL DMA], [!UICONTROL Retargeting Pixel], [!UICONTROL Device OS], [!UICONTROL Device Browser], [!UICONTROL Device Type], [!UICONTROL Zip Code]
+     1. Click **[!UICONTROL Learn]**, **[!UICONTROL Troubleshoot]**, or **[!UICONTROL Insights]** to expand the section.
+     
+     1. (Optional) To copy the text of an example query into the prompt box:
+     
+        1. Click the example.
+        
+        1. (Optional) Edit the text to suit your needs. 
 
-1. Enter your query, and then click ![Submit prompt](/help/dsp/assets/submit.png "Submit prompt") or press the **Enter** key on your keyboard.
+   * To enter your own query:
+   
+     1. (Insights and troubleshooting queries only; optional) To focus your query on a specific dimension value, such as a specific campaign, click ![Mention an entity](/help/dsp/assets/prompt-entity.png "Mention an entity"), select the dimension, and then select the dimension value.
+     
+     <!-- No ability to narrow down list of child entities for a selected parent as of 10/26/26. -->For example, for the dimension [!UICONTROL Campaign], you can select from a list of all your campaigns to report on.
+     
+     Available dimensions include:
+     
+     * Campaign entities: [!UICONTROL Campaign], [!UICONTROL Package], [!UICONTROL Placement], [!UICONTROL Ad]
+     * The advertiser: [!UICONTROL Advertiser]
+     * Advertising Creative entities: [!UICONTROL Experience]
+     * Ad targets: [!UICONTROL Audience], [!UICONTROL City], [!UICONTROL Country], [!UICONTROL State], [!UICONTROL DMA], [!UICONTROL Retargeting Pixel], [!UICONTROL Device OS], [!UICONTROL Device Browser], [!UICONTROL Device Type], [!UICONTROL Zip Code]
 
-   You can create a completely new task, or ask for help continuing a previous task.
-
+     1. Enter your query, and then click ![Submit prompt](/help/dsp/assets/submit.png "Submit prompt") or press the **Enter** key on your keyboard.
+     
+        You can create a completely new task, or ask for help continuing a previous task.
+        
    You can ask multiple questions in one message, but only one message at a time. Wait for a response before sending another.
 
    >[!NOTE]
