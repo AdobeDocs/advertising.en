@@ -1,5 +1,5 @@
 ---
-title: Using AI Assistant in Advertising DSP
+title: AI Assistant in Advertising DSP
 description: Learn how to use the DSP AI assistant for troubleshooting packages and placements, reporting, and searching for product usage help.
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
@@ -16,7 +16,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# About AI Assistant in Advertising DSP
+# AI Assistant in Advertising DSP
 
 AI Assistant in DSP is a conversational interface that lets you perform any agentic workflow available in DSP from a single chatbox. Your conversation history is maintained for all workflows, with each conversation automatically named. Your queries aren't shared with other users.
 
