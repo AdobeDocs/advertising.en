@@ -18,7 +18,9 @@ topic_v2:
 ---
 # About AI Assistant in Advertising DSP
 
-AI Assistant in DSP is a conversational interface that lets you perform any agentic workflow available in DSP from a single chatbox.
+AI Assistant in DSP is a conversational interface that lets you perform any agentic workflow available in DSP from a single chatbox. Your conversation history is maintained for all workflows, with each conversation automatically named. Your queries aren't shared with other users.
+
+<!-- Update this:  ![Example of a query and response](/help/dsp/assets/agent-chat-response.png "Example of a query and response") -->
 
 ## Supported workflows
 
@@ -30,7 +32,7 @@ The following workflows can help you accomplish your work more effectively:
 | --- | --- | --- | --- |
 | Troubleshooting | Diagnose performance and delivery issues for a selected live package or placement.<ul><li>**Placements only:** Diagnose overspend, underspend, and failure to spend. The agent evaluates related pacing, bidding, targeting, and budget-cap factors.</li><li>**Packages only:** Diagnose performance issues, including a rising CPA or a falling ROAS. The agent doesn't diagnose engagement metrics such as CTR, CPC, clicks, or impressions.</li></ul>Each conversation covers one diagnosis for one package or placement. After receiving a result, start a new conversation to diagnose another issue, package, or placement.<br><br>The agent can't change settings or create or edit campaigns or campaign components. It also can't diagnose paused, completed, archived, or scheduled packages or placements. | Placement spending issues:<ul><li>My placement stopped spending yesterday even though the deal is active. Why?</li><li>Why has this placement been underspending for the past 5 days?</li><li>We're halfway through the flight and significantly behind on pacing. Why?</li></ul>Package performance issues:<ul><li>Why has CPA increased for this package over the last week?</li><li>Why is ROAS declining for this package?</li></ul> | The response includes factors that are limiting performance and provides recommendations to resolve the issues. |
 | Insights | Get campaign metrics and full reports without manually creating a report. You can download the results as a CSV file. | | The first few rows of the report are displayed, with links to preview the full report and to download the report as a [!DNL Microsoft Excel] comma-separated values file (.csv). |
-| Product documentation search | Find conceptual and how-to content in the [Advertising DSP Guide](/help/dsp/home.md) and, for advertisers with Advertising Creative, the [Advertising Creative Guide](/help/creative/home.md). Ask about campaign management, optimization, audience management, deals, reports, and other product features. | <ul><li>How do I attach an ad to a placement?</li><li>What targeting options are available in Adobe DSP?</li><li>What are the consequences of using the different pacing options in placement settings?</li><li>When should I use each type of optimization goal?</li><li>Why might programmatic guaranteed (PG) placements fail to serve impressions?</li><li>Which reports include household-level data?</li><li>What's the difference between a targeted experience and a non-targeted experience in [!DNL Creative]?</li><li>How do I create an ad tag for a [!DNL Creative] experience?</li></ul> | The response includes inline citations and an expandable **[!UICONTROL Documentation Sources]** list at the bottom; click any citation or source listing to open the relevant page. The response may also include follow-up questions and suggestions. |
+| Product documentation search | Search for conceptual and how-to content in the [Advertising DSP Guide](/help/dsp/home.md) and, for advertisers with Advertising Creative, the [Advertising Creative Guide](/help/creative/home.md). Answers are based only on what's documented for these products in [Experience League](https://experienceleague.adobe.com/en/docs/advertising).<br><br>Ask about campaign management, optimization, audience management, deals, reports, and other product features. | <ul><li>How do I attach an ad to a placement?</li><li>What targeting options are available in Adobe DSP?</li><li>What are the consequences of using the different pacing options in placement settings?</li><li>When should I use each type of optimization goal?</li><li>Why might programmatic guaranteed (PG) placements fail to serve impressions?</li><li>Which reports include household-level data?</li><li>What's the difference between a targeted experience and a non-targeted experience in [!DNL Creative]?</li><li>How do I create an ad tag for a [!DNL Creative] experience?</li></ul> | The response includes inline citations and an expandable **[!UICONTROL Documentation Sources]** list at the bottom. Click any citation or source listing to open the relevant page.<br><br>The response may also include follow-up questions and suggestions to help you refine your query and find more information. |
 
 ## Submit a query
 
@@ -53,8 +55,16 @@ You can ask multiple questions in one message, but only one message at a time. W
 
    >[!NOTE]
    >
-   >* If you don't specify a date range for troubleshooting or insight queries, then the agent selects a reasonable default based on the type of issue. For example, if you ask about campaign metrics without specifying a date range, then the results are for the duration of the campaign.
+   >* (Troublshooting and insight queries) If you don't specify a date range, then the agent selects a reasonable default based on the type of issue. For example, if you ask about campaign metrics without specifying a date range, then the results are for the duration of the campaign.
    >* (Troubleshooting queries) If you have a target CPA in mind, then include it in your query (for example, "diagnose CPA against a target of $50"). If you don't specify one, then the agent uses a default target.
+
+1. If AI Assistant asks for additional information, provide it.
+
+1. (Product documentation queries only; optional) To open a page used as a data source for the response, do either of the following:
+
+   * Click the numbered citation.
+
+   * Click **[!UICONTROL Documentation Sources]** to show a list of all pages cited in the response, and then click the page link.
 
 >[!IMPORTANT]
 >
