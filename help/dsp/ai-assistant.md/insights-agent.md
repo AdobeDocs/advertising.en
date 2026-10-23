@@ -33,9 +33,13 @@ You can ask simple questions about a specific metric, such as spend or CPA for a
 
 ## Example queries
 
-* Compare the net spend for all campaigns and packages in the last 15 days.
+* How are my active campaigns performing this week?
 
-* What's the spend for my top campaign?
+* Which placements are behind pace by more than 20%?
+
+* Show me the CPA by package for [recent campaign].
+
+* Compare the net spend for all campaigns and packages in the last 15 days.
 
 ## Submit a query
 

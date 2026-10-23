@@ -18,9 +18,7 @@ topic_v2:
 ---
 # Troubleshoot performance and delivery issues using the DSP AI assistant
 
-The AI assistant's troubleshooting agent can identify factors that limit performance and provides recommendations to resolve issues. The troubleshooting agent can:
-
-* Help with diagnosing performance and delivery issues for a selected live package or placement:
+The AI assistant's troubleshooting agent can identify factors that limit performance and provides recommendations to resolve issues. The troubleshooting agent can help with diagnosing performance and delivery issues for a selected live package or placement:
 
   * (Placements only) Spending issues, including overspend, underspend, and failure to spend. The agent evaluates related pacing, bidding, targeting, and budget-cap factors as part of the diagnosis.
 
@@ -29,8 +27,6 @@ The AI assistant's troubleshooting agent can identify factors that limit perform
   Each conversation covers a single diagnosis for a single package or placement. Once the agent delivers a result, start a new conversation to ask about a different issue, or about a different package or placement.
 
   The agent can't change settings, nor create or edit campaigns or campaign components. It also can't diagnose issues for a paused, completed, archived, or scheduled package or placement.
-
-* Search for conceptual and how-to content across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md), in the same manner as the [Agentic Chat interface](/help/dsp/agent-chat.md). You can ask about campaign management, optimization, audience management, deals, reports, and other product features.
 
 >[!IMPORTANT]
 >
@@ -42,7 +38,7 @@ The AI assistant's troubleshooting agent can identify factors that limit perform
 >
 >You don't need to specify a date range. If you don't include one, then the agent selects a reasonable default based on the type of issue.
 
-### Placements: spending issues
+### Troubleshooting placement spending issues
 
 * My placement stopped spending yesterday even though the deal is active. Why?
 
@@ -50,7 +46,7 @@ The AI assistant's troubleshooting agent can identify factors that limit perform
 
 * We're halfway through the flight and significantly behind on pacing. Why?
 
-### Packages: performance issues
+### Troubleshooting package performance issues
 
 * Why has CPA increased for this package over the last week?
 
@@ -59,26 +55,6 @@ The AI assistant's troubleshooting agent can identify factors that limit perform
 >[!TIP]
 >
 >If you have a target CPA in mind, then include it in your query (for example, "diagnose CPA against a target of $50"). If you don't specify one, then the agent uses a default target.
-
-### Product features:
-
-* How do I create a placement?
-
-* What targeting options are available in Adobe DSP?
-
-* How do I attach an ad to a placement?
-
-* What are the consequences of using the different pacing options in placement settings?
-
-* When should I use each type of optimization goal?
-
-* Why don't programmatic guaranteed (PG) placements serve impressions?
-
-* Which reports include household-level data?
-
-* What's the difference between a targeted experience and a non-targeted experience in [!DNL Creative]?
-
-* How do I create an ad tag for a [!DNL Creative] experience?
 
 ## Submit a query for a live package or placement
 
@@ -94,19 +70,22 @@ You can ask multiple questions in one message, but only one message at a time. W
 
    * (For placements) In the submenu, click **[!UICONTROL Placements]**. Next to the placement name, click  **[!UICONTROL ...]** > **[!UICONTROL Troubleshooting Agent]**.
 
+1. (Optional) To focus your query on a specific dimension value, such as a specific campaign, click ![Mention an entity](/help/dsp/assets/prompt-entity.png "Mention an entity"), select the dimension, and then select the dimension value.
+
+   For example, for the dimension [!UICONTROL Campaign], you can select from a list of your campaigns. Similarly, you can select [!UICONTROL Audience] and select a saved audience to report on or troubleshoot.
+
+   Available dimensions include:
+   
+   * Campaign entities: [!UICONTROL Campaign], [!UICONTROL Package], [!UICONTROL Placement], [!UICONTROL Ad]
+   * The advertiser: [!UICONTROL Advertiser],
+   * Advertising Creative entities: [!UICONTROL Experience]
+   * Ad targets: [!UICONTROL Audience], [!UICONTROL City], [!UICONTROL Country], [!UICONTROL State], [!UICONTROL DMA], [!UICONTROL Retargeting Pixel], [!UICONTROL Device OS], [!UICONTROL Device Browser], [!UICONTROL Device Type], [!UICONTROL Zip Code]
+
 1. Enter your query, and then click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt") or press the **Enter** key on your keyboard.
 
    <!-- For more information, see "[Writing prompts](#writing-prompts)." -->
 
    For performance and delivery queries, the response includes factors that are limiting performance and provides recommendations to resolve the issues.
-
-   For documentation queries, the response includes inline citations and a **[!UICONTROL Documentation Sources]** list at the bottom. Follow-up questions and suggestions may also appear.
-
-1. (Documentation queries only; optional) To open a page used as a data source, do either of the following:
-
-   * Click the numbered citation.
-
-   * Click **[!UICONTROL Documentation Sources]** to show a list of all pages cited in the response, and then click the page link.
 
 1. (Optional) Rate the response using the thumbs-up or thumbs-down icon.
 
