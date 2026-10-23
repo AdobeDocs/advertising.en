@@ -75,7 +75,7 @@ The following workflows can help you accomplish your work more effectively:
 
      1. Enter your query, and then click ![Submit prompt](/help/dsp/assets/submit.png "Submit prompt") or press the **Enter** key on your keyboard.
      
-        You can create a completely new task, or ask for help continuing a previous task.
+        You can create a new task, or ask for help continuing a previous task.
         
    You can ask multiple questions in one message, but only one message at a time. Wait for a response before sending another.
 
@@ -140,7 +140,7 @@ To repeat the same topic verbatim, copy the key details into a new conversation.
 
 1. Edit the conversation name, and then click **[!UICONTROL Save]**.
 
-## Best practices of writing prompts {#writing-prompts}
+## Best practices for writing prompts {#writing-prompts}
 
 * **Be clear and specific**. Use full questions ("How do I subscribe to On-demand inventory?"), task phrases ("subscribe to On-demand inventory"), or topic phrases ("On-demand inventory").
 
