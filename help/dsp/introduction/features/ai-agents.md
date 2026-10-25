@@ -30,6 +30,6 @@ DSP provides AI-assisted agents that use natural language prompts to help you wi
   
   * [Troubleshoot performance and delivery issues for your packages and placements](/help/dsp/ai-assistant/troubleshooting-agent.md).
   
-  * [Search for product documentation](/help/dsp/ai-assistant/documentation-query.md) across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md).
+  * [Search for product documentation](/help/dsp/ai-assistant/documentation-search.md) across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md).
 
 * [Use the generative AI-assisted audience agent in [!UICONTROL Audiences] > [!UICONTROL All Audiences] to generate new reusable audiences](/help/dsp/audiences/reusable-audience-create.md), which you can use as targets or exclusions for your placements.
