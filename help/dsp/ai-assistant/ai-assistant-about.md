@@ -1,5 +1,5 @@
 ---
-title: AI Assistant in Advertising DSP
+title: About the AI Assistant in Advertising DSP
 description: Learn how to use the DSP AI assistant for troubleshooting packages and placements, reporting, and searching for product usage help.
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
@@ -16,9 +16,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# AI Assistant in Advertising DSP
+# About the AI Assistant in Advertising DSP
 
-AI Assistant in DSP is a conversational interface that lets you perform any agentic workflow available in DSP from a single chatbox. Your conversation history is maintained for all workflows, with each conversation automatically named. Your queries aren't shared with other users.
+AI Assistant in DSP is a conversational interface that lets you perform any agentic workflow available in DSP from a single chatbox. You can create a new task, or ask for help continuing a previous task.
+
+Your conversation history is maintained for all workflows, with each conversation automatically named. Your queries aren't shared with other users.
 
 <!-- Update this:  ![Example of a query and response](/help/dsp/assets/agent-chat-response.png "Example of a query and response") -->
 
@@ -30,9 +32,9 @@ The following workflows can help you accomplish your work more effectively:
 
 | Feature | Description | Example queries | Responses |
 | --- | --- | --- | --- |
-| Troubleshooting | Diagnose performance and delivery issues for a selected live package or placement.<ul><li>Placements only: Diagnose overspend, underspend, and failure to spend. The agent evaluates related pacing, bidding, targeting, and budget-cap factors.</li><li>Packages only: Diagnose performance issues, including a rising CPA or a falling ROAS. The agent doesn't diagnose engagement metrics such as CTR, CPC, clicks, or impressions.</li></ul>Each conversation covers one diagnosis for one package or placement. After receiving a result, start a new conversation to diagnose another issue, package, or placement.<br><br>The agent can't change settings or create or edit campaigns or campaign components. It also can't diagnose paused, completed, archived, or scheduled packages or placements. | Placement spending issues:<ul><li>My placement stopped spending yesterday even though the deal is active. Why?</li><li>Why has this placement been underspending for the past 5 days?</li><li>We're halfway through the flight and significantly behind on pacing. Why?</li></ul>Package performance issues:<ul><li>Why has CPA increased for this package over the last week?</li><li>Why is ROAS declining for this package?</li></ul> | The response includes factors that are limiting performance and provides recommendations to resolve the issues. |
-| Insights | Get campaign metrics and full reports without manually creating a report. You can ask simple questions about a specific metric, such as spend or CPA for a campaign, or ask for a more complex report for a specific dimension (such as a single campaign, placement, or audience) or across dimensions (for breakdowns by campaign and advertiser). You can download the results as a CSV file. | <ul><li>How much did [Campaign Name] spend last week?<li>How many conversions did [Campaign Name] get this month?</li><li>Which placements are behind pace by more than 20%?</li></li>Show me the CPA by package for [Campaign Name]</li></ul> | The first few rows of the report are displayed, with links to preview the full report and to download the report as a [!DNL Microsoft Excel] comma-separated values file (.csv). |
-| Product documentation search | Search for conceptual and how-to content in the [Advertising DSP Guide](/help/dsp/home.md) and, for advertisers with Advertising Creative, the [Advertising Creative Guide](/help/creative/home.md). Answers are based only on what's documented for these products in [Experience League](https://experienceleague.adobe.com/en/docs/advertising).<br><br>Ask about campaign management, optimization, audience management, deals, reports, and other product features. | <ul><li>How do I attach an ad to a placement?</li><li>What targeting options are available in Adobe DSP?</li><li>What are the consequences of using the different pacing options in placement settings?</li><li>Which reports include household-level data?</li><li>How do I create an ad tag for a [!DNL Creative] experience?</li></ul> | The response includes inline citations and an expandable [!UICONTROL Documentation Sources] list at the bottom. Click any citation or source listing to open the relevant page.<br><br>The response may also include follow-up questions and suggestions to help you refine your query and find more information. |
+| [Troubleshooting](troubleshooting-agent.md) | Diagnose performance and delivery issues for a selected live package or placement.<ul><li>Placements only: Diagnose overspend, underspend, and failure to spend. The agent evaluates related pacing, bidding, targeting, and budget-cap factors.</li><li>Packages only: Diagnose performance issues, including a rising CPA or a falling ROAS. The agent doesn't diagnose engagement metrics such as CTR, CPC, clicks, or impressions.</li></ul>Each conversation covers one diagnosis for one package or placement. After receiving a result, start a new conversation to diagnose another issue, package, or placement.<br><br>The agent can't change settings or create or edit campaigns or campaign components. It also can't diagnose paused, completed, archived, or scheduled packages or placements. | Placement spending issues:<ul><li>My placement stopped spending yesterday even though the deal is active. Why?</li><li>Why has this placement been underspending for the past 5 days?</li><li>We're halfway through the flight and significantly behind on pacing. Why?</li></ul>Package performance issues:<ul><li>Why has CPA increased for this package over the last week?</li><li>Why is ROAS declining for this package?</li></ul> | The response includes factors that are limiting performance and provides recommendations to resolve the issues. |
+| [Insights](insights-agent.md) | Get campaign metrics and full reports without manually creating a report. You can ask simple questions about a specific metric, such as spend or CPA for a campaign, or ask for a more complex report for a specific dimension (such as a single campaign, placement, or audience) or across dimensions (for breakdowns by campaign and advertiser). You can download the results as a CSV file. | <ul><li>How much did [Campaign Name] spend last week?<li>How many conversions did [Campaign Name] get this month?</li><li>Which placements are behind pace by more than 20%?</li></li>Show me the CPA by package for [Campaign Name]</li></ul> | The first few rows of the report are displayed, with links to preview the full report and to download the report as a [!DNL Microsoft Excel] comma-separated values file (.csv). |
+| [Product documentation search](documentation-search.md) | Search for conceptual and how-to content in the [Advertising DSP Guide](/help/dsp/home.md) and, for advertisers with Advertising Creative, the [Advertising Creative Guide](/help/creative/home.md). Answers are based only on what's documented for these products in [Experience League](https://experienceleague.adobe.com/en/docs/advertising).<br><br>Ask about campaign management, optimization, audience management, deals, reports, and other product features. | <ul><li>How do I attach an ad to a placement?</li><li>What targeting options are available in Adobe DSP?</li><li>What are the consequences of using the different pacing options in placement settings?</li><li>Which reports include household-level data?</li><li>How do I create an ad tag for a [!DNL Creative] experience?</li></ul> | The response includes inline citations and an expandable [!UICONTROL Documentation Sources] list at the bottom. Click any citation or source listing to open the relevant page.<br><br>The response may also include follow-up questions and suggestions to help you refine your query and find more information. |
 
 ## Open AI Assistant {#ai-assistant-open}
 
@@ -44,6 +46,10 @@ The following workflows can help you accomplish your work more effectively:
 
 1. To return the chatbox to panel mode, click **[!UICONTROL < Back>]**.
 
+<!-- 
+
+No ability to narrow down list of child entities for a selected parent as of 10/26/26.
+
 ## Submit a query {#query-submit}
 
 1. [Open AI Assistant](#ai-assistant-open).
@@ -54,7 +60,7 @@ The following workflows can help you accomplish your work more effectively:
    
      1. Click **[!UICONTROL Learn]**, **[!UICONTROL Troubleshoot]**, or **[!UICONTROL Insights]** to expand the section.
      
-     1. (Optional) To copy the text of an example query into the prompt box:
+     1. (Optional) To copy the text of an example query into the input field:
      
         1. Click the example.
         
@@ -64,7 +70,7 @@ The following workflows can help you accomplish your work more effectively:
    
      1. (Insights and troubleshooting queries only; optional) To focus your query on a specific dimension value, such as a specific campaign, click ![Mention an entity](/help/dsp/assets/prompt-entity.png "Mention an entity"), select the dimension, and then select the dimension value.
      
-        <!-- No ability to narrow down list of child entities for a selected parent as of 10/26/26. -->For example, for the dimension [!UICONTROL Campaign], you can select from a list of all your campaigns to report on.
+        For example, for the dimension [!UICONTROL Campaign], you can select from a list of all your campaigns to report on.
         
         Available dimensions include:
         
@@ -73,9 +79,7 @@ The following workflows can help you accomplish your work more effectively:
         * Advertising Creative entities: [!UICONTROL Experience]
         * Ad targets: [!UICONTROL Audience], [!UICONTROL City], [!UICONTROL Country], [!UICONTROL State], [!UICONTROL DMA], [!UICONTROL Retargeting Pixel], [!UICONTROL Device OS], [!UICONTROL Device Browser], [!UICONTROL Device Type], [!UICONTROL Zip Code]
 
-     1. Enter your query, and then click ![Submit prompt](/help/dsp/assets/submit.png "Submit prompt") or press the **Enter** key on your keyboard.
-     
-        You can create a new task, or ask for help continuing a previous task.
+     1. Enter your query, and then click ![Submit query](/help/dsp/assets/submit.png "Submit query") or press the **Enter** key on your keyboard.
         
    You can ask multiple questions in one message, but only one message at a time. Wait for a response before sending another.
 
@@ -118,6 +122,10 @@ Each conversation, or query thread, is saved separately so you can distinguish b
 
 1. [Submit a query](#query-submit).
 
+ -->
+
+<!--
+
 ## Work with previous conversations
 
 ### List previous conversations
@@ -140,7 +148,9 @@ To repeat the same topic verbatim, copy the key details into a new conversation.
 
 1. Edit the conversation name, and then click **[!UICONTROL Save]**.
 
-## Best practices for writing prompts {#writing-prompts}
+-->
+
+## Best practices for writing queries and prompts {#writing-queries}
 
 * **Be clear and specific**. Use full questions ("How do I subscribe to On-demand inventory?"), task phrases ("subscribe to On-demand inventory"), or topic phrases ("On-demand inventory").
 
@@ -155,3 +165,11 @@ To repeat the same topic verbatim, copy the key details into a new conversation.
 * **Add detail** to narrow or broaden results. Refine with follow-up questions as needed.
 
 * **Don't worry about punctuation and capitalization** except when they affect meaning.
+
+>[!MORELIKETHIS]
+>
+>* [Create reports using AI assistant](insights-agent.md)
+>* [Troubleshoot performance and delivery issues using AI assistant](troubleshooting-agent.md)
+>* [Create a reusable audience](/help/dsp/audiences/reusable-audience-create.md)
+>* [Search for product documentation using AI Assistant](documentation-search.md)
+>* [Work with previous AI Assistant conversations](previous-conversations.md)
