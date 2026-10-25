@@ -117,6 +117,12 @@ Not there as of 10/22/26. Anyway, this feature isn't actionable in terms of impr
 
 -->
 
+## Expand and minimize the chatbox
+
+1. At the top of the [chatbox](#ai-assistant-open), click ![Enter fullscreen](/help/dsp/assets/fullscreen.png "Enter fullscreen") to enter fullscreen mode.
+
+1. To return the chatbox to panel mode, click **[!UICONTROL < Back>]**.
+
 >[!MORELIKETHIS]
 >
 >* [About the AI Assistant in Advertising DSP](ai-assistant-about.md)

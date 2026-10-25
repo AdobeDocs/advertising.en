@@ -130,6 +130,12 @@ Each conversation, or query thread, is saved separately so you can distinguish b
 
 1. [Submit a query](#query-submit).
 
+## Expand and minimize the chatbox
+
+1. At the top of the [chatbox](#ai-assistant-open), click ![Enter fullscreen](/help/dsp/assets/fullscreen.png "Enter fullscreen") to enter fullscreen mode.
+
+1. To return the chatbox to panel mode, click **[!UICONTROL < Back>]**.
+
 >[!MORELIKETHIS]
 >
 >* [About the AI Assistant in Advertising DSP](ai-assistant-about.md)
