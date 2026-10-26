@@ -18,6 +18,8 @@ topic_v2:
 ---
 # Troubleshoot performance and delivery issues using AI assistant
 
+*Beta feature*
+
 AI Assistant's troubleshooting agent can identify factors that limit the performance of live packages and placements and provides recommendations to resolve issues. The troubleshooting agent can help diagnose the following types of performance and delivery issues:
 
   * (Placements only) Spending issues, including overspend, underspend, and failure to spend. The agent evaluates related pacing, bidding, targeting, and budget-cap factors as part of the diagnosis.
