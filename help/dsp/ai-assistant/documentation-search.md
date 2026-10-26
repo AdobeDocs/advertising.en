@@ -21,7 +21,7 @@ subfeature_v2:
 
 Use AI Assistant for DSP to search for conceptual and how-to content across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md) using a chat interface. Answers are based only on what's documented for these products in [Experience League](https://experienceleague.adobe.com/en/docs/advertising).
 
-Responses include citations as well as additional queries and follow-up questions to help you refine your query and find more information.
+You can ask about campaign management, optimization, audience management, deals, reports, and other product features. Responses include citations as well as additional queries and follow-up questions to help you refine your query and find more information.
 
 ![Example of a query and response](/help/dsp/assets/agent-chat-response.png "Example of a query and response")
 
@@ -30,8 +30,6 @@ Responses include citations as well as additional queries and follow-up question
 >AI-generated responses may be inaccurate or misleading. Always verify responses and sources before using them for decisions that affect cost or effort.
 
 ## Example queries
-
-You can ask about campaign management, optimization, audience management, deals, reports, and other product features. The following are examples:
 
 * How do I attach an ad to a placement?
 
