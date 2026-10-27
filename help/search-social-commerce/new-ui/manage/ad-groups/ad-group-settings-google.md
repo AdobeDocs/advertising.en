@@ -97,6 +97,16 @@ If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CP
 
 **[!UICONTROL Locations of Interest]:** (Campaigns with [!DNL AI Max] enabled only) Specific locations of geographical intent to target (but not exclude); users must also meet the campaign's geographical targeting. By default, users in, regularly in, or interested in all geographical locations are targeted. To narrow down the targets, select each location to target.
 
+**[!UICONTROL URL inclusions]:** (Campaigns for which [!DNL AI Max] and [!UICONTROL Text customization] are enabled) URLs to include as landing pages generated from final URL expansion. To add an URL, enter an URL or URL fragment into the input field, and then click **+**.
+
+>[!NOTE]
+>
+>* When the campaign-level [!UICONTROL Final URL expansion] setting is *enabled*, [!DNL Google Ads] uses the specified URLS and additional Google-selected URLs as dynamic landing pages for the ad group.
+>* When the campaign-level [!UICONTROL Final URL expansion] setting is *disabled*, [!DNL Google Ads] uses only the specified URLs as dynamic landing pages for the ad group.
+>* (Responsive search ads with pinned assets) When this setting specifies URL inclusions or the campaign-level [!UICONTROL Final URL expansion] setting is enabled, the pinned assets aren't respected because final URL may route to a landing page on which the pinned copy no longer matches intent.
+
+**[!UICONTROL Brand inclusions]:** (Campaigns for which [!DNL AI Max] is enabled) Brands for the account for which brand-related queries may match. Select the checkbox next to each brand list to include. This setting overrides the campaign-level setting.
+
 ## [!UICONTROL URL Options] tab
 
 <!-- **[!UICONTROL Tracking Template]:** -->
