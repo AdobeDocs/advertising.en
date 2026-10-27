@@ -247,7 +247,7 @@ by country. If you don't select any, all are targeted.
 
 **[!UICONTROL URL exclusions]:** (Campaigns for which [!DNL AI Max], [!UICONTROL Text customization], and [!UICONTROL Final URL expansion] are enabled) URLs to exclude as landing pages generated from final URL expansion. You can optionally add URL *inclusions* (not exclusions) at the ad group-level. To add an URL, enter an URL or URL fragment into the input field, and then click **+**.
 
-**[!UICONTROL Brand inclusions]:** (Campaigns for which [!DNL AI Max] is enabled) Brands for the account for which brand-related queries may match. Select the checkbox next to each brand list to include. You can override this setting at the ad group level.
+**[!UICONTROL Brand inclusions]:** (Campaigns for which [!DNL AI Max] is enabled) Brand lists for the account for which brand-related queries may match. Select the checkbox next to each brand list to include. You can override this setting at the ad group level.
 
 **[!UICONTROL Brand exclusions]:** (Campaigns for which [!DNL AI Max] is enabled) Brand lists for the account for which brand-related queries may not match. Select the checkbox next to each brand list to exclude.
 
