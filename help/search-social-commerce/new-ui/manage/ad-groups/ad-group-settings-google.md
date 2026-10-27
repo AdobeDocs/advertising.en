@@ -103,7 +103,7 @@ If the campaign uses a Smart Bidding bid strategy (such as [!UICONTROL Target CP
 >
 >* When the campaign-level [!UICONTROL Final URL expansion] setting is *enabled*, [!DNL Google Ads] uses the specified URLS and additional Google-selected URLs as dynamic landing pages for the ad group.
 >* When the campaign-level [!UICONTROL Final URL expansion] setting is *disabled*, [!DNL Google Ads] uses only the specified URLs as dynamic landing pages for the ad group.
->* (Responsive search ads with pinned assets) When this setting specifies URL inclusions or the campaign-level [!UICONTROL Final URL expansion] setting is enabled, the pinned assets aren't respected because final URL may route to a landing page on which the pinned copy no longer matches intent.
+>* (Responsive search ads with pinned assets) When this setting specifies URL inclusions, [!DNL Google Ads] doesn't use pinned assets when the final URL routes to a landing page on which the pinned copy doesn't match the user's intent. To always use pinned assets, don't specify URL inclusions and disable the campaign-level [!UICONTROL Final URL expansion] setting.
 
 **[!UICONTROL Brand inclusions]:** (Campaigns for which [!DNL AI Max] is enabled) Brands for the account for which brand-related queries may match. Select the checkbox next to each brand list to include. This setting overrides the campaign-level setting.
 
