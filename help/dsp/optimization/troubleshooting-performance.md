@@ -28,7 +28,7 @@ topic_v2:
 
 <!-- Rename file and set up a redirect -->
 
-<!-- Reword/change path as needed:  See also "[Diagnose performance and delivery issues using the AI assistant](/help\dsp\campaign-management\reports\troubleshooting-agent.md)." -->
+See also "[Troubleshoot performance and delivery issues using AI assistant](/help/dsp/ai-assistant/troubleshooting-agent.md)."
 
 | Issue | Possible Cause | Actions to Take|
 | --- | --- | --- |
