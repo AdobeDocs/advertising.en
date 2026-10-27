@@ -237,8 +237,7 @@ by country. If you don't select any, all are targeted.
 
   >[!NOTE]
   >
-  >(Responsive search ads with pinned assets) When this setting is enabled or ad group-level [!UICONTROL URL inclusions] are specified, the pinned assets aren't respected because the final URL may route to a landing page on which the pinned copy no longer matches intent.
-
+  >(Responsive search ads with pinned assets) When this setting is enabled, [!DNL Google Ads] doesn't use pinned assets when the final URL routes to a landing page on which the pinned copy doesn't match the user's intent. To always use pinned assets, disable [!UICONTROL Final URL expansion] and don't specify ad group-level [!UICONTROL URL inclusions].
 
 **[!UICONTROL Bundling required]:** (Existing campaigns with the [!UICONTROL AI Max] feature enabled only; read-only) Whether [!UICONTROL AI Max] must be enabled to respect or modify text customization and brand list controls for the campaign: *[!UICONTROL Required]*, *[!UICONTROL Not required]*, or *[!UICONTROL Unspecified]*.
 
