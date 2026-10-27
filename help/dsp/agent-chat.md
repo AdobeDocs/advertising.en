@@ -59,7 +59,7 @@ You can ask multiple questions in one message, but only one message at a time. W
 
 1. In the upper right of any page, click ![Agentic Chat](/help/dsp/assets/agent-chat.png "Agentic chat").
 
-1. Enter your query and click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
+1. Enter your query, and then click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt") or press the **Enter** key on your keyboard.
 
    For more information, see "[Writing prompts](#writing-prompts)."
 
@@ -71,15 +71,19 @@ You can ask multiple questions in one message, but only one message at a time. W
 
    * Click **[!UICONTROL Documentation Sources]** to show a list of all pages cited in the response, and then click the page link.
 
-## Provide feedback about a response
+<!-- 
 
-<!-- Not actionable in terms of improving page content -->
+Not there as of 10/22/26. Anyway, this feature isn't actionable in terms of improving page content.
+
+## Provide feedback about a response
 
 * Next to the [!UICONTROL Documentation Sources] list:
 
   * For helpful responses, click ![Thumbs up](/help/dsp/assets/thumbs-up.png "Thumbs up").
 
   * For unhelpful responses, click ![Thumbs down](/help/dsp/assets/thumbs-down.png "Thumbs down").
+
+ -->
 
 ## Basics of writing prompts {#writing-prompts}
 
