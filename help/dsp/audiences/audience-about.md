@@ -54,7 +54,7 @@ In DSP, you can create and manage audience segments and audience sets, which you
 
   * Include third-party segments that contain universal IDs in your placement targets without any extra steps.
 
-* Create an audience library of [reusable audiences](/help/dsp/audiences/reusable-audience-create.md). Saved audiences are composed of any of your available audience segments and any of your other saved audiences. Any changes you make to a saved audience are automatically applied to all placements that target or exclude the audience and to all other audiences that include the saved audience.
+* Create an audience library of [reusable audiences](/help/dsp/audiences/reusable-audience-create.md), using an AI-assisted workflow or manually. Saved audiences are composed of any of your available audience segments and any of your other saved audiences. Any changes you make to a saved audience are automatically applied to all placements that target or exclude the audience and to all other audiences that include the saved audience.
 
    Saved audiences allow media planners to group audiences as needed, by including and excluding multiple segments using complex Boolean logic. The  (targetable) size of each individual segment and the overall active audience size are indicated as you build an audience. Campaign executioners can then simply select one or more saved audiences as placement targets rather than manually configure audience targets for each placement.
 
