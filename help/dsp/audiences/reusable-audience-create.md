@@ -31,7 +31,9 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
 >
 >(Advertisers for whom DSP converts hashed email IDs to LiveRamp RampID segments) First-party RampID segments that aren't attached to an active, scheduled, or paused placement are paused. The segment is noted in the segment list as "Auto paused."
 
-## Create a reusable audience using generative AI with AI Assistant
+## Generate a reusable audience using generative AI
+
+### Create a reusable audience using AI Assistant
 
 *Beta feature*
 
@@ -65,7 +67,7 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
         
            1. (Optional) Edit the text to suit your needs. 
       
-      See "[Basics of writing prompts](#writing-prompts)" and "[Best practices for creating an audience brief](#audience-brief-best-practices)."
+      See "[Write prompts and respond to the audience agent](#writing-prompts)" and "[Best practices for creating an audience brief](#audience-brief-best-practices)."
 
    1. To submit the prompt, click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
 
@@ -99,7 +101,7 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
    >
    >To edit the audience later, [edit the audience expression manually](/help/dsp/audiences/reusable-audience-edit.md).
 
-## Create a reusable audience using generative AI from the [!UICONTROL Audiences] > [!UICONTROL All audiences] view
+### Create a reusable audience using the audience agent from the [!UICONTROL Audiences] > [!UICONTROL All audiences] view
 
 *Beta feature*
 
@@ -129,7 +131,7 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
 
    1. Enter one or more prompts to describe the audience characteristics you want to include and exclude. To submit each prompt, click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
 
-      For more information, see "[Writing prompts](#writing-prompts)" and "[Best practices for creating an audience brief](#audience-brief-best-practices)."
+      For more information, see "[Write prompts and respond to the audience agent](#writing-prompts)" and "[Best practices for creating an audience brief](#audience-brief-best-practices)."
 
       When applicable, the agent suggests additional segment filters to help you create a more effective audience brief. You can accept or reject the suggestions.
 
@@ -148,6 +150,128 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
    >[!NOTE]
    >
    >To edit the audience later, [edit the audience expression manually](/help/dsp/audiences/reusable-audience-edit.md).
+
+### Best practices for creating an audience brief {#audience-brief-best-practices}
+
+An audience brief is a strategic writeup that defines the target audience for a campaign. A well-crafted brief helps the DSP audience agent identify the most relevant segments to assemble your targetable audience.
+
+#### Components of an effective audience brief
+
+Include as many audience attribute types as possible from the following list in your brief. Be specific about attributes you want to exclude.
+
+<!--
+ What about these:
+
+* Device specifications
+* Presence in audiences from specific third-party data providers
+* Presence of a universal ID
+* Target cost per thousand (CPM) impressions or a total target cost
+
+-->
+
+* **Demographics**
+
+  Includes attributes like age range, gender identity, marital status, household composition (family size, presence of children, multi-generational households).
+
+* **Socioeconomic Indicators**
+
+  Establishes financial capacity through household income (HHI) bands, education level, occupation/job titles, employment status, and home ownership status.
+
+* **Geographic Parameters**
+
+  Defines location scope including country/countries, region (EMEA, APAC, NA), population density (urban/suburban/rural).
+
+* **Interests & Affinities**
+
+  Identifies passions and preferences such as hobbies (sports, arts, outdoor activities), media consumption patterns, brand affinities, and lifestyle activities (travel, dining, entertainment).
+
+* **Psychographics**
+
+  Captures mindset and values including aspirations (status-seeking, self-improvement), core values (sustainability, innovation, tradition), personality traits (risk-takers, early adopters), and purchase motivations.
+
+* **Behavioral Signals**
+
+  Observable actions including purchase behavior (shopping frequency, channel preferences, brand loyalty), online behavior (website visits, content engagement, social media activity), and offline behavior (store visits, event attendance, memberships).
+
+* **In-Market Intent**
+
+  Identifies purchase readiness through product/service categories being researched, purchase timeline (immediate, near-term, long-term), and relevant life events triggering purchase decisions.
+
+* **Life Stage**
+
+  Current phase understanding including career stage (student, entry-level, mid-career, executive, retired), family stage (newlyweds, new parents, empty nesters), and major life transitions.
+
+#### Example of a well-structured audience brief for a prospecting campaign
+
+The following is an example of a strong audience brief for a campaign to drive awareness and trial for a premium meal kit subscription service:
+
+`The target audience consists of adults aged 28-45 (60% female, 40% male) with household incomes of $85K or more, college-educated professionals living in the USA. Psychographically, they are health-conscious individuals who value convenience and quality, aspire to be home cooks, and are food enthusiasts seeking better work-life balance. They actively engage with cooking and culinary content, follow health and wellness trends, shop at farmers markets, and prefer organic foods. Behaviorally, they are online grocery shoppers who use subscription services, dine out at restaurants 2+ times per week, and engage with food content on social media. They are currently in-market for meal planning solutions and food subscription services, with many focused on weight management and healthy eating programmes. The audience includes young families with children and dual-income households, as well as career-focused professionals. The brief excludes current subscribers and those following vegan/vegetarian diets as the initial launch focuses on protein-centric meal plans.`
+
+### Write prompts and respond to the audience agent {#writing-prompts}
+
+<!-- Change heading level for this whole section to fit under AI procedure -->
+
+#### Guidelines for writing audience prompts
+
+* Use clear, descriptive language to describe the target audience.
+
+  * You can enter complete sentences or a string of characteristics. Punctuation isn't required except when necessary for clarity.
+
+  * In general, prompts are case-insensitive.
+  
+  * The audience agent recognizes most common synonyms.
+
+* Be specific and provide details about all audience characteristics that you want to include and any characteristics that you specifically want to exclude. Providing more details increases the likelihood of obtaining results that meet your needs.
+
+* Identify locations, device types, and data providers to include or to exclude.
+
+* Iteratively provide details to refine your criteria and the generated audience expression before you save the audience.
+
+* Learn about prompting through experimentation.
+
+  If your prompt isn't clear, the audience agent requests another prompt, so you can try again.
+  
+  The audience agent won't automatically save a generated audience expression as an audience. You can only save an audience by clicking the [!UICONTROL Create] button, which is outside of the prompt area, so you can undo any changes that you don't want to keep.
+
+See "[Best practices for creating an audience brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
+
+<!--
+Consider starting by asking for what you should include.
+
+you can give thumbs up or down to [what exactly?].
+
+Verify what info is carried over from session to session and what starts from scratch.
+
+-->
+
+#### Prompt limitations
+
+* References to existing audiences.
+
+* Text in languages besides English.
+
+#### How to respond to the audience agent
+
+When the audience agent needs a response from you, you can reply using keywords in the request or using common synonyms.
+
+##### Confirm whether to proceed
+
+`If you are okay with the proposed expression, I can start searching segments for each of the traits (based on the search filters above), and assemble the matching segments into the audience. Would you like me to proceed?`
+
+Your affirmative replies:  "proceed," "okay," "ok," "yes," or another similar word
+
+You can also ignore the request and continue to specify additional audience criteria instead.
+
+##### Choose from suggested options
+
+`Would you like to:`
+`1) Proceed with this expression,`
+`2) Get maximum reach alternatives, or`
+`3) Modify the expression manually?`
+
+Your reply:  `1`, `proceed`, `2`, `maximum reach`, and so on.
+
+You can also ignore the request and continue to specify additional audience criteria instead.
 
 ## Manually create a reusable audience
 
@@ -222,128 +346,6 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
          >If the audience already includes any segment logic, pasting in new segment logic overwrites the existing logic.
 
 1. Click **[!UICONTROL Create]**.
-
-### Basics of writing prompts {#writing-prompts}
-
-<!-- Change heading level for this whole section to fit under AI procedure -->
-
-#### Guidelines for writing audience prompts
-
-* Use clear, descriptive language to describe the target audience.
-
-  * You can enter complete sentences or a string of characteristics. Punctuation isn't required except when necessary for clarity.
-
-  * In general, prompts are case-insensitive.
-  
-  * The audience agent recognizes most common synonyms.
-
-* Be specific and provide details about all audience characteristics that you want to include and any characteristics that you specifically want to exclude. Providing more details increases the likelihood of obtaining results that meet your needs.
-
-* Identify locations, device types, and data providers to include or to exclude.
-
-* Iteratively provide details to refine your criteria and the generated audience expression before you save the audience.
-
-* Learn about prompting through experimentation.
-
-  If your prompt isn't clear, the audience agent requests another prompt, so you can try again.
-  
-  The audience agent won't automatically save a generated audience expression as an audience. You can only save an audience by clicking the [!UICONTROL Create] button, which is outside of the prompt area, so you can undo any changes that you don't want to keep.
-
-See "[Best practices for creating an audience brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
-
-<!--
-Consider starting by asking for what you should include.
-
-you can give thumbs up or down to [what exactly?].
-
-Verify what info is carried over from session to session and what starts from scratch.
-
--->
-
-#### What can't you include in a prompt?
-
-* References to existing audience expressions.
-
-* Text in languages besides English.
-
-#### Examples of audience agent responses and how to reply
-
-When the audience agent needs a response from you, you can reply using keywords in the request or using common synonyms.
-
-#### Audience agent asking you a question
-
-`If you are okay with the proposed expression, I can start searching segments for each of the traits (based on the search filters above), and assemble the matching segments into the audience. Would you like me to proceed?`
-
-Your affirmative replies:  "proceed," "okay," "ok," "yes," or another similar word
-
-You can also ignore the request and continue to specify additional audience criteria instead.
-
-##### Audience agent asking you to choose from multiple options
-
-`Would you like to:`
-`1) Proceed with this expression,`
-`2) Get maximum reach alternatives, or`
-`3) Modify the expression manually?`
-
-Your reply:  `1`, `proceed`, `2`, `maximum reach`, and so on.
-
-You can also ignore the request and continue to specify additional audience criteria instead.
-
-### Best practices for creating an audience brief {#audience-brief-best-practices}
-
-An audience brief is a strategic writeup that defines the target audience for a campaign. A well-crafted brief helps the DSP audience agent identify the most relevant segments to assemble your targetable audience.
-
-#### Essential components of an effective audience brief
-
-Include as many audience attribute types as possible from the following list in your brief. Be specific about attributes you want to exclude.
-
-<!--
- What about these:
-
-* Device specifications
-* Presence in audiences from specific third-party data providers
-* Presence of a universal ID
-* Target cost per thousand (CPM) impressions or a total target cost
-
--->
-
-* **Demographics**
-
-  Includes attributes like age range, gender identity, marital status, household composition (family size, presence of children, multi-generational households).
-
-* **Socioeconomic Indicators**
-
-  Establishes financial capacity through household income (HHI) bands, education level, occupation/job titles, employment status, and home ownership status.
-
-* **Geographic Parameters**
-
-  Defines location scope including country/countries, region (EMEA, APAC, NA), population density (urban/suburban/rural).
-
-* **Interests & Affinities**
-
-  Identifies passions and preferences such as hobbies (sports, arts, outdoor activities), media consumption patterns, brand affinities, and lifestyle activities (travel, dining, entertainment).
-
-* **Psychographics**
-
-  Captures mindset and values including aspirations (status-seeking, self-improvement), core values (sustainability, innovation, tradition), personality traits (risk-takers, early adopters), and purchase motivations.
-
-* **Behavioral Signals**
-
-  Observable actions including purchase behavior (shopping frequency, channel preferences, brand loyalty), online behavior (website visits, content engagement, social media activity), and offline behavior (store visits, event attendance, memberships).
-
-* **In-Market Intent**
-
-  Identifies purchase readiness through product/service categories being researched, purchase timeline (immediate, near-term, long-term), and relevant life events triggering purchase decisions.
-
-* **Life Stage**
-
-  Current phase understanding including career stage (student, entry-level, mid-career, executive, retired), family stage (newlyweds, new parents, empty nesters), and major life transitions.
-
-#### Example of a well-structured audience brief for a prospecting campaign
-
-The following is an example of a strong audience brief for a campaign to drive awareness and trial for a premium meal kit subscription service:
-
-`The target audience consists of adults aged 28-45 (60% female, 40% male) with household incomes of $85K or more, college-educated professionals living in the USA. Psychographically, they are health-conscious individuals who value convenience and quality, aspire to be home cooks, and are food enthusiasts seeking better work-life balance. They actively engage with cooking and culinary content, follow health and wellness trends, shop at farmers markets, and prefer organic foods. Behaviorally, they are online grocery shoppers who use subscription services, dine out at restaurants 2+ times per week, and engage with food content on social media. They are currently in-market for meal planning solutions and food subscription services, with many focused on weight management and healthy eating programmes. The audience includes young families with children and dual-income households, as well as career-focused professionals. The brief excludes current subscribers and those following vegan/vegetarian diets as the initial launch focuses on protein-centric meal plans.`
 
 >[!MORELIKETHIS]
 >
