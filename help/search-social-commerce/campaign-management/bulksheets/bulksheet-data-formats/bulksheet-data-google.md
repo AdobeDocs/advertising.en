@@ -40,20 +40,6 @@ For the data fields relevant for account entities, see "[Fields required to crea
 >* For fields that aren't specified below, the default value for the ad network is used.
 >* For a list of available bulksheet rows in the [!UICONTROL Download Bulksheet] dialog, see "[Bulksheet rows by ad network](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md#bulksheet-rows-by-ad-network)."
 
-
-<!--
-
-Add in when released:
-
-| [!UICONTROL AI Max Enabled] | Whether the [[!UICONTROL AI Max] feature](https://support.google.com/google-ads/answer/15910366) is enabled for the campaign: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
-
-| [!UICONTROL AI Max Asset Automation] | Whether the "Text Automation" setting for [!UICONTROL AI Max]-enabled campaigns is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
-
-
-| [!UICONTROL AI Max Search Term Matching] | Whether the "[!UICONTROL AI Max Search Term Matching]" setting for ad groups in [!UICONTROL AI Max]-enabled campaigns is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
-
--->
-
 | Field | Description |
 | ---- | ---- |
 | [!UICONTROL Platform] | (Included in generated bulksheets for information purposes) The ad platform. Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity.|
@@ -68,6 +54,8 @@ Add in when released:
 | [!UICONTROL GDN Custom Bid Level] | (Campaigns that target the display network only) How to bid: by <i>[!UICONTROL Ad Group]</i> (the default), <i>[!UICONTROL Keyword]</i>, <i>[!UICONTROL Placement]</i> (website), or <i>[!UICONTROL None]</i> (to reset the existing value). Other dimensions (<i>Age</i>, <i>Gender</i>, <i>Interest and List</i>, <i>Topic</i>, and <i>Vertical</i>) are available from the [!DNL Google Ads] interface. If you've used the [!DNL Google Ads] interface to configure bidding by another dimension, that value is shown, but you can't select or enter those dimensions here.</p><p><b>Note:</b></p><ul><li><p>When you bid by keyword, create tracking templates at the keyword level. Similarly, when you bid by placement, create tracking templates at the placement level. For all other dimensions, create tracking templates at the ad level.</p></li><li><p>When you bid by an unsupported dimension (Age, Gender, Interest and List, or Topic), Search, Social, & Commerce doesn't optimize bids for the dimension, and all attribution is applied to the ad group.</p></li><li><p>Ads on the search network always use keyword bids.</p></li></ul> |
 | [!UICONTROL Campaign Priority] | <p>(Shopping campaigns only) The priority with which the campaign is used when multiple campaigns advertise the same product:  <i>[!UICONTROL Low]</i> (the default for new campaigns), <i>[!UICONTROL Medium]</i>, or <i>[!UICONTROL High]</i>.</p><p>When the same product is included in more than one campaign, the ad network uses the campaign priority first to determine which campaign (and associated bid) is eligible for the ad auction. When all campaigns have the same priority, the campaign with the highest bid is eligible. |
 | [!UICONTROL Has EU Political Ads] | (Applicable to campaigns that target audiences in the European Union (EU)) Whether or not the campaign contains political advertising per requirements for ads served in the European Union under EU Regulation 2024/90: <i>[!UICONTROL Yes]</i> or <i>[!UICONTROL No]</i>. |
+| [!UICONTROL AI Max Enabled] | Whether the [[!UICONTROL AI Max] feature](https://support.google.com/google-ads/answer/15910366) is enabled for the campaign: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
+| [!UICONTROL AI Max Asset Automation] | Whether the "Text Automation" setting for [!UICONTROL AI Max]-enabled campaigns is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
 | [!UICONTROL Merchant ID] | (Shopping campaigns and audience campaigns linked to a merchant feed only) The customer ID of the merchant account whose products are used for the campaign. |
 | [!UICONTROL Sales Country] | (Shopping campaigns only; read-only for existing campaigns) The country in which the campaign's products are sold. Because products are associated with target countries, this setting determines which products are advertised in the campaign. |
 | [!UICONTROL Product Scope Filter] | (Campaigns using the [!DNL Google Ads] shopping network only) The products in your [!DNL Google Merchant Center] account for which shopping ads can be created for the campaign. You can enter up to seven product dimension and attribute combinations on which to filter your products, using the format dimension=attribute. Separate multiple filters with a &quot;&gt;&gt;&quot; delimiter. For a list of available product dimensions, see &quot;[Shopping campaign product filters](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md).&quot;</p><p>Example: &quot;CategoryL1=animals&gt;&gt;CategoryL2=pet supplies&gt;&gt;Brand=Acme Pet Supplies&quot;</p><p>To delete the existing values, use the value <code>[delete]</code> (including the brackets).</p> |
@@ -82,12 +70,20 @@ Add in when released:
 | [!UICONTROL Mobile Carriers (Google Adwords)] | <p>(Legacy campaign types only; applicable when the [!UICONTROL Device Targets] include &quot;[!UICONTROL All]&quot; or &quot;[!UICONTROL Smartphones]&quot;) Mobile carriers to which the smartphones may be connected: <i>[!UICONTROL All]</i>, or one or more carriers indicated by &lt;c<i>carrier code</i>&gt;,&lt;<i>country code</i>&gt; (such as T-Mobile,US) using the list of <a href="https://developers.google.com/adwords/api/docs/appendix/codes-formats?csw=1#mobile-carriers" target="_blank">available carriers and codes for [!DNL Google Ads]</a>. Separate multiple carriers with semi-colons (such as T-Mobile,US;T-Mobile,GB). For new campaigns, the default is <i>[!UICONTROL All]</i>.</p> |
 | [!UICONTROL Ad Group Name] | <p>The unique name that identifies an ad group. The maximum length is 255 characters; trailing blank characters aren't saved (for example, &quot;Ad Group 1 &quot; is saved as &quot;Ad Group 1&quot;). This field isn't applicable for campaign-level sitelinks or campaign-level device targets.</p> |
 | [!UICONTROL Ad Group Type] | <p>The ad group type: <i>[!UICONTROL Demand Gen]</i> (for demand gen campaigns only), <i>[!UICONTROL Display]</i> (for display campaigns), <i>[!UICONTROL Search Dynamic]</i> (for expanded dynamic search ads), <i>[!UICONTROL Search Standard]</i> (for search ads), <i>[!UICONTROL Shopping Product]</i> (for shopping product ads), <i>[!UICONTROL Shopping Showcase]</i> (creation and editing not supported), or <i>[!UICONTROL Unknown]</i>.</p> |
+| [!UICONTROL AI Max Search Term Matching] | Whether the "[!UICONTROL AI Max Search Term Matching]" setting for ad groups in [!UICONTROL AI Max]-enabled campaigns is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
 | [!UICONTROL Max CPC] | <p>(CPC campaigns only) The maximum cost per click (CPC), which is the highest amount to pay for an ad click on the ad network, with or without monetary symbols and punctuation. You can set values for ad groups and keywords, product groups, and dynamic search targets. The default for a new keyword is inherited from the ad group level. For product groups, you can set values for the lowest product group tier; the default for a new tier is inherited from the parent tier.</p><p>For existing product groups and dynamic search targets in optimized portfolios, updates are effective for only one day and are overwritten during the next optimization cycle.</p> |
 | [!UICONTROL Max Content CPC] | <p>(CPC campaigns only) The maximum content cost per click (CPC), which is the highest amount to pay for an ad click from a display network site, with or without monetary symbols and punctuation. You can set and edit values at the ad group level in campaigns that aren't placement-targeted.</p> |
 | [!UICONTROL Audience Target Method] | <p>(Campaigns on only the search network, and existing, read-only [!DNL Gmail] campaigns on the display network) Whether to:</p><ul><li><p><i>[!UICONTROL Target and Bid]</i>: To show ads only to users associated with target audiences who also satisfy any other targets for the ad group.</p></li><li><p><i>[!UICONTROL Bid Only]</i>: To show ads even to people who aren't associated with target audiences as long as they satisfy other ad group-level targets.</p><p>You may increase the chances that ads are shown to specific audiences, however, by setting higher bids for those audiences.</p></li></ul> |
 | [!UICONTROL Keyword] | The keyword string. The maximum length is 80 characters and no more than 10 words, and it can include only letters, digits, and the following special characters: space `# $ & _ - " [ ] ' + . / :`</p><p><b>Note:</b></p><ul><li><p>To exclude a keyword at the ad group or campaign level, set the [!UICONTROL Match Type] to <i>[!UICONTROL Negative]</i>. If the row includes the ad group name, the keyword is excluded for the ad group. If the row doesn't include the ad group name, the keyword is excluded for the entire campaign.</p></li><li><p>Changing a [!DNL Google Ads] keyword or match type deletes the existing keyword and creates a new one.</p></li></ul> |
 | [!UICONTROL Placement] | (Campaigns using content match only) A placement in the display network on which your ads may be displayed. Specify one of the following:</p><ul><li><p>Web site: Enter a valid URL. It can be a top-level domain, first-level subdomain, or domain with a single directory name. The URL can't include a question mark (?). Examples:<code><br />www.example.com<br />example.com<br />autos.example.com<br />example.com/widgets</code></p></li><li><p>An ad position on a specific page: Use the format `<URL> >> <location,sublocation>` (such as `finance.google.com >> Company pages,Top right`).</p></li><li><p>A topic category: Use the syntax `<category::<category> > <subcategory>` and so on (such as `category::Industries > Energy & Utilities > Oil & Gas`).</p></li></ul><p><b>Note:</b> To exclude a placement at the ad group or campaign level, set the [!UICONTROL Match Type] to <i>[!UICONTROL Negative]</i>. If the row includes the ad group name, the placement is excluded for the ad group. If the row doesn't include the ad group name, the placement is excluded for the entire campaign.</p> |
 | [!UICONTROL Auto Target Expression] | <p>(Required when the campaign setting to &quot;[!UICONTROL Use my website contents to target my ads]&quot; isn't enabled; optional otherwise) Dynamic search targets for the ad group.</p><p>For all targets, use an asterisk (*).</p><p>To target up to three dynamic search criteria, use the format `<category>=<target>`, where `<category>` can include any of the categories below. Join multiple targets for an individual category with &quot;\[blank space\] and \[blank space\]&quot; and join multiple categories with &quot;[blank space] and [blank space]&quot;.</p><ul><li><p><i>[!UICONTROL Category]</i>: To show expanded dynamic search ads for indexed pages with a specific [!DNL Google Ads] content category.</p></li><li><p><i>[!UICONTROL URL]</i>: To show expanded dynamic search ads for indexed pages with a specific URL, where the value may be included anywhere within the URL.</p></li><li><p><i>[!UICONTROL Page Title]</i>: To show expanded dynamic search ads for indexed pages with specific text in the page title.</p></li><li><p><i>[!UICONTROL Page Content]</i>: To show expanded dynamic search ads for indexed pages with specific content.</p></li></ul><p>Example: url=shoes.example.com and page title=footwear</p> |
+| [!UICONTROL Campaign Excluded URL] | URLs to exclude as landing pages generated from final URL expansion for the campaign. You can optionally add URL inclusions (not exclusions) at the ad group-level. Example: "URL contains `https://www.example.com`." |
+| [!UICONTROL Ad Group Included URL] | URLs to include as landing pages generated from final URL expansion for the ad group.  Example: "URL contains `https://www.example.com`." |
+| [!UICONTROL Campaign Brand List] | Brand lists for the account for which brand-related queries may match or must be excluded for the campaign. Use the [!UICONTROL Campaign Brand List Type] field to specify the behavior. |
+| [!UICONTROL Campaign Brand List ID] | The ID for the campaign-level included or excluded brand lists. |
+| [!UICONTROL Campaign Brand List Type] | Whether specified brand lists for the account for which brand-related queries may match or must be excluded from brand-releated queries: *inclusion* or *exclusion*. |
+| [!UICONTROL Ad Group Brand List] | Brands for the account for which brand-related queries may match for the ad group. |
+| [!UICONTROL Ad Group Brand List ID] | The ID for the ad group-level included brand lists. |
 | [!UICONTROL Parent Product Groupings] | The hierarchy of any parent product groups.<br><br>Example: `All Products>>ProductTypeL1=a>>ProductTypeL2=b` |
 | [!UICONTROL Product Grouping] | <p>The product group (such as &quot;brand=acme&quot; or &quot;All Products&quot;).</p><p><b>Note:</b></p><ul><li><p>When a specified product group doesn't exist in the [!UICONTROL Parent Product Groupings] hierarchy, Search, Social, & Commerce creates any parts of the hierarchy that are needed.</p></li><li><p>Search, Social, & Commerce automatically creates an &quot;[!UICONTROL All Products]&quot; group when you create an ad group in a [!DNL Google Ads] Shopping campaign with a default bid set to the ad group default bid. Search, Social, & Commerce automatically creates an &quot;[!UICONTROL Everything Else]&quot; group with the ad group default bid at each level of the product group hierarchy. You can still explicitly create these default groups, and either exclude them or change their bids.</p></li><li><p>Each ad group can include up to eight tiers of product groups, including &quot;[!UICONTROL All Products]&quot; and seven other tiers.</p></li></ul> |
 | [!UICONTROL Partition Type] | The partition type for the product group: <i>subdivision</i> (when it has child product groups) or <i>unit</i> (when it has no child product groups). |
@@ -129,6 +125,10 @@ Add in when released:
 | [!UICONTROL Product Group Status] | The display status of the product group: <i>[!UICONTROL Active]</i> <span>or</span> <i>[!UICONTROL Deleted]</i> (existing product groups only). The default for new product groups is <i>[!UICONTROL Active]</i>. To delete an active product group, enter the value <i>[!UICONTROL Deleted]</i>. |
 | [!UICONTROL Sitelink Status] | The display status of the sitelink: <i>Active or Deleted</i> (existing sitelinks only). The default for new sitelinks is <i>[!UICONTROL Active]</i>. To delete an active sitelink, enter the value <i>[!UICONTROL Deleted]</i>. |
 | [!UICONTROL Location Status] | The status of the location target: <i>[!UICONTROL Active]</i> or <i>[!UICONTROL Deleted]</i> (existing locations only). The default for new locations is [!UICONTROL Active]. To delete an active location, enter the value <i>[!UICONTROL Deleted]</i>. |
+| [!UICONTROL Campaign Excluded URL Status] | The status of excluded URLs for the campaign: *Active* or `null`. |
+| [!UICONTROL Ad Group Included URL Status] | The status of included URLs for the campaign: *Active* or `null`. |
+| [!UICONTROL Campaign Brand List Status] | The status of included or excluded brand lists for the campaign: *Active* or `null`. |
+| [!UICONTROL Ad Group Brand List Status] | The status of included brand lists for the ad group: *Active* or `null`. |
 | [!UICONTROL RLSA Target Status] | The status of the campaign- or ad group-level RLSA target or exclusion: <i>[!UICONTROL Active]</i> or [!UICONTROL Deleted]</i> (existing targets only). The default for new targets or exclusions is <i>[!UICONTROL Active]</i>. To delete an active target or exclusion, enter the value <i>[!UICONTROL Deleted]</i>. |
 | [!UICONTROL Device Target Status] | <p>The status of the campaign- or ad group-level device target: <i>[!UICONTROL Active]</i> or <i>[!UICONTROL Deleted]</i>. For new campaigns and ad groups, the default is <i>[!UICONTROL Active]</i>.</p> |
 | \[Advertiser-specific Label Classification\] | (Named for an advertiser-specific label classification, such as &quot;Color&quot; for a label classification called Color) A value for the specified classification that is associated with the entity. You can include only one value per classification per entity (such as &quot;red&quot; for the &quot;Color&quot; label classification for Campaign A). The maximum length is 100 characters, and the value can include ASCII and non-ASCII characters.<br><br>Label classifications and their label values are applied to all child components; new components that are added later are automatically associated with the label. Label classifications for product groups are applied to the unit (most granular) level.<br><br>Neither the classification name nor the classification value is case-sensitive. |
@@ -142,7 +142,11 @@ Add in when released:
 | [!UICONTROL Product Group ID] | The unique ID that identifies an existing product group. In CSV and TSV files, it must be preceded by a single quote (').[^1] Required only when you change or delete the product group, unless the row includes a) sufficient property columns to identify the product group or b) an &quot;[!UICONTROL AMO ID]&quot;.&quot; |
 | [!UICONTROL Sitelink ID] | The unique ID that identifies an existing sitelink. In CSV and TSV files, it must be preceded by a single quote (').[^1] Required only when you change or delete the sitelink, unless the row includes a) sufficient property columns to identify the sitelink or b) an &quot;[!UICONTROL AMO ID]&quot;.&quot; However, if you include neither [!UICONTROL Sitelink ID] nor [!UICONTROL AMO ID], and the property columns match multiple sitelinks, then the status for only one of the sitelinks changes.</p><p><b>Note:</b> If you edit sitelink property columns except Status for an existing sitelink, and you include neither the [!UICONTROL Sitelink ID] nor [!UICONTROL AMO ID], then a new sitelink is created, and the existing sitelink isn't changed. |
 | [!UICONTROL RLSA Target ID] | The unique ID that identifies an existing campaign- or ad group-level RLSA target or exclusion. In CSV and TSV files, it must be preceded by a single quote (').[^1] Required only when you change or delete the target or exclusion, unless the row includes an &quot;[!UICONTROL AMO ID]&quot; for the target. |
-| [!UICONTROL Device Target ID] | <p>The unique ID that identifies an existing campaign-level or ad group-level device target or exclusion. In CSV and TSV files, it must be preceded by a single quote (').[^1] Required only when you change or delete the target, unless the row includes an &quot;[!UICONTROL AMO ID]&quot; for the target.</p> |
+| [!UICONTROL Device Target ID] | The unique ID that identifies an existing campaign-level or ad group-level device target or exclusion. In CSV and TSV files, it must be preceded by a single quote (').[^1] Required only when you change or delete the target, unless the row includes an &quot;[!UICONTROL AMO ID]&quot; for the target. |
+| [!UICONTROL Campaign Excluded URL ID] | The unique IDs that identify excluded URLs for the campaign. Required only when you change or delete the URL exclusion list. |
+| [!UICONTROL Ad Group Included URL ID] | The unique IDs that identify included URLs for the ad group. Required only when you change or delete the URL inclusion list. |
+| [!UICONTROL Campaign Brand Criterion ID] | (Read-only) The unique IDs that identify the criteria for each of the campaign's brand lists. [!DNL Google Ads] creates this ID after you add a brand list inclusion or exclusion. Don't enter or edit a value. |
+| [!UICONTROL Ad Group Brand Criterion ID] | (Read-only) The unique IDs that identify the criteria for each of the ad group's brand lists. [!DNL Google Ads] creates this ID after you add a brand list inclusion or exclusion. Don't enter or edit a value. |
 | [!UICONTROL AMO ID] | (In generated bulksheets) An Adobe-generated unique identifier for a synced entity. For responsive search ads, the AMO ID is required to edit or delete ads unless you include the Ad ID. To edit data for all other entity types with an AMO ID, the AMO ID is required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
 | [!UICONTROL EF Error Message] | (Included in generated bulksheets for information purposes) Placeholder for displaying error messages from the ad network regarding data in the row; error messages are included in [!UICONTROL EF Errors] files. This value isn't posted to the ad network. |
 | [!UICONTROL SE Error Message] | (Included in generated bulksheets for information purposes) Placeholder for displaying error messages from the ad network regarding data in the row; error messages are included in [!UICONTROL SE Errors] files. This value isn't posted to the ad network. |
@@ -168,24 +172,34 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
 | [!UICONTROL Campaign Budget] | Required to create a campaign. |
+| [!UICONTROL Campaign Status] | Required only to delete a campaign. |
 | [!UICONTROL Delivery Method] | Required to create a campaign. |
-| [!UICONTROL Channel Type] | Required to create a campaign. |
+| [!UICONTROL Device Targets] | Optional |
+| [!UICONTROL Device OS Targets (Google Adwords)] | Optional |
+| [!UICONTROL Languages] | Optional |
+| [!UICONTROL Mobile Carriers (Google Adwords)] | Optional |
 | [!UICONTROL Networks] | Required to create a campaign. |
-| [!UICONTROL DSA Domain Name] | Required to create a campaign with dynamic search ads on the search network. |
-| [!UICONTROL DSA Domain Language] | Required to create a campaign with dynamic search ads on the search network. |
+| [!UICONTROL Tracking Template] | Optional |
+| [!UICONTROL Channel Type] | Required to create a campaign. |
 | [!UICONTROL Campaign Priority] | Required to create a shopping campaign. |
 | [!UICONTROL Has EU Political Ads] | Required to create a campaign. |
 | [!UICONTROL Merchant ID] | Required to create a shopping campaign. |
 | [!UICONTROL Sales Country] | Required to create a shopping campaign. |
-| [!UICONTROL Product Scope Filter] | (Shopping campaigns) Optional |
-| [!UICONTROL Languages] | Optional |
-| [!UICONTROL Device Targets] | Optional |
-| [!UICONTROL Device Targets (Google Adwords)] | Optional |
-| [!UICONTROL Mobile Carriers (Google Adwords)] | Optional |
 | [!UICONTROL Audience Target Method] | n/a |
+| [!UICONTROL Product Scope Filter] | (Shopping campaigns) Optional |
+| [!UICONTROL DSA Domain Name] | Required to create a campaign with dynamic search ads on the search network. |
+| [!UICONTROL DSA Domain Language] | Required to create a campaign with dynamic search ads on the search network. |
 | [!UICONTROL Landing Page Suffix] | Optional |
-| [!UICONTROL Tracking Template] | Optional |
-| [!UICONTROL Campaign Status] | Required only to delete a campaign. |
+| [!UICONTROL AI Max Enabled] | Optional |
+| [!UICONTROL AI Max Asset Automation] | Optional |
+| [!UICONTROL Campaign Brand Criterion ID] | Optional |
+| [!UICONTROL Campaign Brand List] | Optional |
+| [!UICONTROL Campaign Brand List ID] | Optional |
+| [!UICONTROL Campaign Brand List Status] | Optional |
+| [!UICONTROL Campaign Brand List Type] | Optional |
+| [!UICONTROL Included URL] | Optional |
+| [!UICONTROL Included URL ID] | Optional |
+| [!UICONTROL Included URL Status] | Optional |
 | \[Advertiser-specific Label Classification\] | Optional |
 | [!UICONTROL Constraints] | Optional |
 | [!UICONTROL Campaign ID] | Required only when you change the campaign name, unless the row includes an &quot;[!UICONTROL AMO ID]&quot; for the campaign. |
@@ -199,15 +213,23 @@ For a description of each data field, see "[All available data fields](#bulkshee
 | ---- | ---- |
 | [!UICONTROL Acct Name] | Required unless each row includes an &quot;[!UICONTROL AMO ID]&quot; for the entity. |
 | [!UICONTROL Campaign Name] | Required |
-| [!UICONTROL Networks] | n/a |
-| [!UICONTROL GDN Custom Bid Level] | Optional |
 | [!UICONTROL Ad Group Name] | Required  |
 | [!UICONTROL Ad Group Type] | Required to create an ad group. |
+| [!UICONTROL GDN Custom Bid Level] | Optional |
+| [!UICONTROL Networks] | n/a |
+| [!UICONTROL Ad Group Status] | Required only to delete an ad group. |
 | [!UICONTROL Max CPC] | Optional |
 | [!UICONTROL Max Content CPC] | Optional |
-| [!UICONTROL Audience Target Method] | Required |
 | [!UICONTROL Tracking Template] | Optional |
-| [!UICONTROL Ad Group Status] | Required only to delete an ad group. |
+| [!UICONTROL Audience Target Method] | Required |
+| [!UICONTROL AI Max Search Term Matching] | Optional |
+| [!UICONTROL Ad Group Brand Criterion ID] | Optional |
+| [!UICONTROL Ad Group Brand List] | Optional |
+| [!UICONTROL Ad Group Brand List ID] | Optional |
+| [!UICONTROL Ad Group Brand List Status] | Optional |
+| [!UICONTROL Ad Group Included URL] | Optional |
+| [!UICONTROL Ad Group Included URL ID] | Optional |
+| [!UICONTROL Ad Group Included URL Status] | Optional |
 | \[Advertiser-specific Label Classification\] | Optional |
 | [!UICONTROL Constraints] | Optional |
 | [!UICONTROL Ad Group ID] | Required only when you change the ad group name, unless the row includes an &quot;[!UICONTROL AMO ID]&quot; for the ad group. |

@@ -22,6 +22,16 @@ subfeature_v2:
 
 DSP provides AI-assisted agents that use natural language prompts to help you with multiple tasks:
 
-* [Search for conceptual and how-to content](/help/dsp/agent-chat.md) across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md) using an AI-assisted chat interface.
+* [Search for conceptual and how-to content](/help/dsp/agent-chat.md)
 
-* [Use the generative AI-assisted audience agent to generate new reusable audiences](/help/dsp/audiences/reusable-audience-create.md), which you can use as targets or exclusions for your placements.
+* Unified AI Assistant:
+
+  * [Generate reusable audiences](/help/dsp/ai-assistant/audience-builder-agent.md).
+  
+  * [Create reports for your campaigns, campaign components, Advertising Creative experiences, advertisers, and ad targets](/help/dsp/ai-assistant/insights-agent.md).
+  
+  * [Troubleshoot performance and delivery issues for your packages and placements](/help/dsp/ai-assistant/troubleshooting-agent.md).
+  
+  * [Search for product documentation](/help/dsp/ai-assistant/documentation-search.md) across the [Advertising DSP Guide](/help/dsp/home.md) and (advertisers with Advertising Creative) the [Advertising Creative Guide](/help/creative/home.md).
+
+* [Use the generative AI-assisted audience agent in [!UICONTROL Audiences] > [!UICONTROL All Audiences] to generate new reusable audiences](/help/dsp/audiences/reusable-audience-create.md), which you can use as targets or exclusions for your placements.
