@@ -22,7 +22,7 @@ topic_v2:
 
 *Support for English only*
 
-Use the AI Assistant's audience builder agent to generate [reusable audiences](help/dsp/audiences/audience-about.md). Reusable audiences can include any first-party and third-party segments that are available to you, and even other saved audiences.
+Use the AI Assistant's audience builder agent to generate [reusable audiences](/help/dsp/audiences/audience-about.md). Reusable audiences can include any first-party and third-party segments that are available to you, and even other saved audiences.
 
 >[!IMPORTANT]
 >
