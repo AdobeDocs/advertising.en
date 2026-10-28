@@ -49,7 +49,7 @@ Campaigns are eligible for optimization based on the campaign or ad group bid st
 <!-- Add "Frequency of Bidding (or other actions, like adjusting campaign budget or bid adjustment values?) -->
 
 | Bid Strategy | Smart Bidding? | Keyword-/Product Group-Level Bid? | Support Level | Objective Type | Bid Unit | What Does Adobe Set? | What Does the Ad Network Set? |
-|---|---|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Manual CPC ([!DNL Google Ads]-only option) | &mdash; | Yes | Create, Edit, Optimize | Single or multi-property objective with any weight value | Keyword + Match Type + Campaign | Keyword bid, campaign budget, bid adjustment values | n/a |
 | ECPC (Enhanced CPC) | Yes | Yes | Create, Edit, Optimize | Single or multi-property objective with any weight value | Keyword + Match Type + Campaign | Keyword bid, campaign budget | Adjusts bids in real time |
 | Maximize Clicks[^1] | &mdash; | &mdash; | Create, Edit, Optimize | None; optimizes towards clicks only | Campaign | Campaign budget | Adjusts bid in real time to maximize clicks within the budget |
@@ -71,12 +71,7 @@ A portfolio can have the following statuses:
 
 The [!UICONTROL Portfolios] view lists all existing portfolios in the filtered view, with customizable performance data. You can [customize the columns within the view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) and filter data to include specific portfolios [from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) or from the [column heading](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
 
-Above the data table, you can open a performance graph with up to three metrics totalled across all portfolios in the view for the specified date range. You can also open portfolio details, including portfolio performance and accuracy, as well as performance data for each campaign, ad group, and keyword in the portfolio.
-
-You can edit some settings, including the portfolio status, directly within the portfolio row. When a portfolio or its associated campaigns and child campaign entities are configured with any constraints that affect spending (including network, campaign budget, target, CPC limits, or bid unit constraints), click [!UICONTROL Yes] in the [!UICONTROL Constraints] column to see a list of all constraints, including the constraint level and type. 
-<!-- No options yet to edit anything within the grid, view bid changes, add a portfolio to a portfolio group,  or import/export DOW targets. -->
-
-### Available actions
+### Available actions {#available actions}
 
 <!-- Update with any new options -->
 
@@ -86,22 +81,37 @@ You can edit some settings, including the portfolio status, directly within the 
 
 * [View the constraints for a portfolio](portfolio-view-constraint.md)
 
-* [View the change history for a portfolio](portfolio-view-change-history.md)
 -->
 
 * [Create a portfolio](portfolio-create.md)
 
 * [Duplicate a portfolio](portfolio-duplicate.md)
 
-* [Edit portfolio settings](portfolio-edit.md)
+* Edit settings:
 
-* [Bulk edit portfolio settings using bulksheet files](portfolio-bulksheets.md)
+  * [Rename a portfolio](portfolio-rename.md)
+
+  * [Edit the full portfolio settings](portfolio-edit.md)
+
+  * Edit some settings, including the portfolio status, directly within the portfolio row.
+
+  * [Bulk edit portfolio settings using bulksheet files](portfolio-bulksheets.md)
+
+* Drill down into the ad networks, accounts, campaigns, ad groups, and ads included in the portfolio, and optionally drill down into the keywords for an included campaign. To begin, click the portfolio name. The information is first listed by ad network in the filtered [!UICONTROL Networks] view. Click an ad network to see the included accounts in the filtered [!UICONTROL Accounts] view, click an account to see the campaigns in the filtered [!UICONTROL Campaigns] view, and so on.
+
+  To open a list of the keywords in the [!UICONTROL Keywords] view from the filtered [!UICONTROL Campaigns] view, click the value in the [!UICONTROL Keywords] column.
+
+* Open a list of all constraints for the portfolio, including the constraint level and type. To view the constraint list, click [!UICONTROL Yes] in the [!UICONTROL Constraints] column. This option is available when a portfolio or its associated campaigns and child campaign entities are configured with any constraints that affect spending (including network, campaign budget, target, CPC limits, or bid unit constraints).
 
 * [View a performance graph across all portfolios in the view](portfolio-view-performance-graph.md)
 
 * [View portfolio performance details](portfolio-details.md)
 
-* [Download data in the [!UICONTROL Portfolios] view](portfolio-view-report.md) 
+* [View a portfolio's change history](portfolio-view-change-history.md)
+
+* [Download data in the [!UICONTROL Portfolios] view](portfolio-view-report.md)
+
+* [Add a portfolio to a portfolio group and manage portfolio groups](portfolio-group-manage.md)
 
 >[!MORELIKETHIS]
 >
