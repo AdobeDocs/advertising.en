@@ -22,7 +22,6 @@ Quickly rename a campaign without opening the full campaign settings.
 
 1. Edit the name, and then click **[!UICONTROL Apply]**.
 
-
 <!--
 
 Links to unused (separate) pages:

@@ -235,13 +235,21 @@ by country. If you don't select any, all are targeted.
 
 * **[!UICONTROL Final URL expansion]:** Whether to let [!DNL Google Ads] route traffic to the most relevant landing page on your website based on their search intent. This setting is available only when **[!UICONTROL Text customization]** is enabled.
 
-<!-- Clarify why this is "Unspecified" and read-only for me as of 7/23. Also, shouldn't we reword this? -->
+  >[!NOTE]
+  >
+  >(Responsive search ads with pinned assets) When this setting is enabled, [!DNL Google Ads] doesn't use pinned assets when the final URL routes to a landing page on which the pinned copy doesn't match the user's intent. To always use pinned assets, disable [!UICONTROL Final URL expansion] and don't specify ad group-level [!UICONTROL URL inclusions].
 
 **[!UICONTROL Bundling required]:** (Existing campaigns with the [!UICONTROL AI Max] feature enabled only; read-only) Whether [!UICONTROL AI Max] must be enabled to respect or modify text customization and brand list controls for the campaign: *[!UICONTROL Required]*, *[!UICONTROL Not required]*, or *[!UICONTROL Unspecified]*.
 
 <!-- Is this based on the advanced location options set elsewhere in Google Ads editor? --> 
 
 **[!UICONTROL Geo Targeting Type]:** (Existing campaigns with the [!UICONTROL AI Max] feature enabled only; read-only) When any of the campaign's ad groups include [!UICONTROL Locations of Interest] targets, the types of user interest that are being targeted are indicated: *[!UICONTROL Search Interest]* (users interested in a specified location), *[!UICONTROL Presence]* (users in or regularly in a specified location), or *[!UICONTROL Presence or Interest]* (users in, regularly in, or interested in a specified location).
+
+**[!UICONTROL URL exclusions]:** (Campaigns for which [!DNL AI Max], [!UICONTROL Text customization], and [!UICONTROL Final URL expansion] are enabled) URLs to exclude as landing pages generated from final URL expansion. You can optionally add URL *inclusions* (not exclusions) at the ad group-level. To add an URL, enter an URL or URL fragment into the input field, and then click **+**.
+
+**[!UICONTROL Brand inclusions]:** (Campaigns for which [!DNL AI Max] is enabled) Brand lists that include brands for which brand-related queries may match. From the list of all brand lists configured for the account in the [!DNL Google Ads] editor, select the checkbox next to each brand list to include. You can override this setting at the ad group level.
+
+**[!UICONTROL Brand exclusions]:** (Campaigns for which [!DNL AI Max] is enabled) Brand lists that include brands for which brand-related queries may not match. From the list of all brand lists configured for the account in the [!DNL Google Ads] editor, select the checkbox next to each brand list to exclude.
 
 ## [!UICONTROL Additional Campaign Information] tab
 
