@@ -73,13 +73,19 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
 
       You can ask multiple questions in one prompt, but only one prompt at a time. Wait for a response before you can send another prompt.
 
-      A panel opens to the side, with the audience definition in the [!UICONTROL Step 1: Audience Definition] tab. The definition includes all defined audience filters, optimization criteria, and any of your first-party segments to exclude.
+      A panel opens to the side, with the audience definition in the [!UICONTROL Step 1: Audience Definition] tab. The definition includes all defined audience filters, optimization criteria (including device ID types and universal ID types to include), and any of your first-party segments to exclude.
    
       When applicable, AI Assistant suggests additional audience filters to help you create a more effective audience brief. You can accept or reject the suggestions.
    
-   1. (Optional) To exclude any of your first-party segments, prompt AI Assistant to do it or click ![Edit](/help/dsp/assets/edit-ai.png "Edit") in the **[!UICONTROL First-party segments to exclude]** section, select any segments you want to exclude for the audience, and then click **[!UICONTROL Apply]**.
+   1. (Optional) Refine the audience definition:
+   
+      * To change the optimization criteria between the default *[!UICONTROL Highest volume]* to *[!UICONTROL Lowest cost]*, prompt AI Assistant to do it or click ![Edit](/help/dsp/assets/edit-ai.png "Edit") next to **[!UICONTROL Criteria]**, select the criteria, and then click **[!UICONTROL Apply]**.
 
-   1. (Optional) Submit additional prompts as needed to describe the audience characteristics you want to include and exclude. To submit each prompt, click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
+      * To change between including all ID types (including all device type ID types and universal IDs) and only specific ID types, prompt AI Assistant to do it or click ![Edit](/help/dsp/assets/edit-ai.png "Edit") next to **[!UICONTROL ID type]**, select the ID types to include, and then click **[!UICONTROL Apply]**.
+
+      * To exclude any of your first-party segments, prompt AI Assistant to do it or click ![Edit](/help/dsp/assets/edit-ai.png "Edit") in the **[!UICONTROL First-party segments to exclude]** section, select any segments you want to exclude for the audience, and then click **[!UICONTROL Apply]**.
+
+      * Submit additional prompts as needed to describe the audience characteristics you want to include and exclude. To submit each prompt, click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
 
 1. When the audience definition meets your criteria, specify the segments to include:
 
@@ -231,7 +237,7 @@ The following is an example of a strong audience brief for a campaign to drive a
 
   If your prompt isn't clear, the audience agent requests another prompt, so you can try again.
   
-  The audience agent won't automatically save a generated audience expression as an audience. You can only save an audience by clicking the [!UICONTROL Create] button, which is outside of the prompt area, so you can undo any changes that you don't want to keep.
+* The audience agent won't automatically save a generated audience expression as an audience. You can only save an audience by clicking the [!UICONTROL Create] button, which is outside of the prompt area, so you can undo any changes that you don't want to keep.
 
 See "[Best practices for creating an audience brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
 
