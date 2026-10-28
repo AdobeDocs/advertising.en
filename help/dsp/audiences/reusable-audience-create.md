@@ -161,6 +161,72 @@ Give the audience agent an audience brief or natural-language prompts describing
    >
    >To edit the audience later, [edit the audience expression manually](/help/dsp/audiences/reusable-audience-edit.md).
 
+### Write prompts and respond to the audience agent {#writing-prompts}
+
+<!-- Change heading level for this whole section to fit under AI procedure -->
+
+#### Guidelines for writing audience prompts
+
+* Use clear, descriptive language to describe the target audience.
+
+  * You can enter complete sentences or a string of characteristics. Punctuation isn't required except when necessary for clarity.
+
+  * In general, prompts are case-insensitive.
+  
+  * The audience agent recognizes most common synonyms.
+
+* Be specific:
+
+  * Provide details about all audience characteristics that you want to include and any characteristics that you specifically want to exclude. Providing more details increases the likelihood of obtaining results that meet your needs.
+
+  * Identify locations, device types, and data providers to include or to exclude.
+
+  You always have a chance to edit the audience filters, optimization criteria, first-party segments to exclude, and the final segment list before you save the audience. Proving full details to start shortens the process.
+
+* Iteratively provide details to refine your criteria and the generated audience expression before you save the audience.
+  
+* The audience agent won't automatically save a generated audience expression as an audience. You can only save an audience by clicking the [!UICONTROL Save Audience] or [!UICONTROL Create] button, which are outside of the prompt area, so you can undo any changes that you don't want to keep.
+
+See "[Best practices for creating an audience brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
+
+<!--
+Consider starting by asking for what you should include.
+
+you can give thumbs up or down to [what exactly?].
+
+Verify what info is carried over from session to session and what starts from scratch.
+
+-->
+
+#### Prompt limitations
+
+* References to existing audiences.
+
+* Text in languages besides English.
+
+#### How to respond to the audience agent
+
+When the audience agent needs a response from you, you can reply using keywords in the request or using common synonyms.
+
+##### Confirm whether to proceed
+
+`If you are okay with the proposed expression, I can start searching segments for each of the traits (based on the search filters above), and assemble the matching segments into the audience. Would you like me to proceed?`
+
+Your affirmative replies:  "proceed," "okay," "ok," "yes," or another similar word
+
+You can also ignore the request and continue to specify additional audience criteria instead.
+
+##### Choose from suggested options
+
+`Would you like to:`
+`1) Proceed with this expression,`
+`2) Get maximum reach alternatives, or`
+`3) Modify the expression manually?`
+
+Your reply:  `1`, `proceed`, `2`, `maximum reach`, and so on.
+
+You can also ignore the request and continue to specify additional audience criteria instead.
+
 ### Best practices for creating an audience brief {#audience-brief-best-practices}
 
 An audience brief is a strategic writeup that defines the target audience for a campaign. A well-crafted brief helps the DSP audience agent identify the most relevant segments to assemble your targetable audience.
@@ -216,72 +282,6 @@ Include as many audience attribute types as possible from the following list in 
 The following is an example of a strong audience brief for a campaign to drive awareness and trial for a premium meal kit subscription service:
 
 `The target audience consists of adults aged 28-45 (60% female, 40% male) with household incomes of $85K or more, college-educated professionals living in the USA. Psychographically, they are health-conscious individuals who value convenience and quality, aspire to be home cooks, and are food enthusiasts seeking better work-life balance. They actively engage with cooking and culinary content, follow health and wellness trends, shop at farmers markets, and prefer organic foods. Behaviorally, they are online grocery shoppers who use subscription services, dine out at restaurants 2+ times per week, and engage with food content on social media. They are currently in-market for meal planning solutions and food subscription services, with many focused on weight management and healthy eating programmes. The audience includes young families with children and dual-income households, as well as career-focused professionals. The brief excludes current subscribers and those following vegan/vegetarian diets as the initial launch focuses on protein-centric meal plans.`
-
-### Write prompts and respond to the audience agent {#writing-prompts}
-
-<!-- Change heading level for this whole section to fit under AI procedure -->
-
-#### Guidelines for writing audience prompts
-
-* Use clear, descriptive language to describe the target audience.
-
-  * You can enter complete sentences or a string of characteristics. Punctuation isn't required except when necessary for clarity.
-
-  * In general, prompts are case-insensitive.
-  
-  * The audience agent recognizes most common synonyms.
-
-* Be specific and provide details about all audience characteristics that you want to include and any characteristics that you specifically want to exclude. Providing more details increases the likelihood of obtaining results that meet your needs.
-
-* Identify locations, device types, and data providers to include or to exclude.
-
-* Iteratively provide details to refine your criteria and the generated audience expression before you save the audience.
-
-* Learn about prompting through experimentation.
-
-  If your prompt isn't clear, the audience agent requests another prompt, so you can try again.
-  
-* The audience agent won't automatically save a generated audience expression as an audience. You can only save an audience by clicking the [!UICONTROL Create] button, which is outside of the prompt area, so you can undo any changes that you don't want to keep.
-
-See "[Best practices for creating an audience brief](#audience-brief-best-practices)" for further ways to optimize prompts for audiences.
-
-<!--
-Consider starting by asking for what you should include.
-
-you can give thumbs up or down to [what exactly?].
-
-Verify what info is carried over from session to session and what starts from scratch.
-
--->
-
-#### Prompt limitations
-
-* References to existing audiences.
-
-* Text in languages besides English.
-
-#### How to respond to the audience agent
-
-When the audience agent needs a response from you, you can reply using keywords in the request or using common synonyms.
-
-##### Confirm whether to proceed
-
-`If you are okay with the proposed expression, I can start searching segments for each of the traits (based on the search filters above), and assemble the matching segments into the audience. Would you like me to proceed?`
-
-Your affirmative replies:  "proceed," "okay," "ok," "yes," or another similar word
-
-You can also ignore the request and continue to specify additional audience criteria instead.
-
-##### Choose from suggested options
-
-`Would you like to:`
-`1) Proceed with this expression,`
-`2) Get maximum reach alternatives, or`
-`3) Modify the expression manually?`
-
-Your reply:  `1`, `proceed`, `2`, `maximum reach`, and so on.
-
-You can also ignore the request and continue to specify additional audience criteria instead.
 
 ## Manually create a reusable audience
 
