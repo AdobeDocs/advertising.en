@@ -1,6 +1,6 @@
 ---
 title: Create a reusable audience
-description: Learn how to create reusable audiences that consist of audience segments and other saved audiences. Optionally use an AI-assisted audience agent by describing your target audience in natural-language prompts; the agent suggests third-party segments and builds audience expressions for use as targets or exclusions.
+description: Learn how to create reusable audiences to use as placement targets or exclusions. Create reusable audiences in Adobe Advertising DSP manually or with generative AI in AI Assistant or the All Audiences view.
 feature: DSP Audiences
 exl-id: 5f4a0abb-c285-4452-a6c3-a91d5281df9b
 TQID: 'https://experienceleague.adobe.com/KhAxVTvMx4yBz3tfDtng3nOur2IodZAFFHMUQM1lKhQ'
@@ -71,11 +71,11 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
 
       You can ask multiple questions in one prompt, but only one prompt at a time. Wait for a response before you can send another prompt.
 
-      A panel opens to the side, with the audience definition in the [!!UICONTROL Step 1: Audience Definition] tab. The definition includes all defined audience filters, optimization criteria, and any of your first-party segments to exclude.
+      A panel opens to the side, with the audience definition in the [!UICONTROL Step 1: Audience Definition] tab. The definition includes all defined audience filters, optimization criteria, and any of your first-party segments to exclude.
    
       When applicable, AI Assistant suggests additional audience filters to help you create a more effective audience brief. You can accept or reject the suggestions.
    
-   1. (Optional) To exclude any of your first-party segments, prompt AI Assistant to do it or click ![Edit](/help/desp/assets/edit-ai.png "Edit") in the **[!UICONTROL First-party segments to exclude]** section, select any segments you want to exclude for the audience, and then click **[!UICONTROL Apply]**.
+   1. (Optional) To exclude any of your first-party segments, prompt AI Assistant to do it or click ![Edit](/help/dsp/assets/edit-ai.png "Edit") in the **[!UICONTROL First-party segments to exclude]** section, select any segments you want to exclude for the audience, and then click **[!UICONTROL Apply]**.
 
    1. (Optional) Submit additional prompts as needed to describe the audience characteristics you want to include and exclude. To submit each prompt, click ![Submit prompt](/help/dsp/assets/submit-prompt.png "Submit prompt").
 
@@ -83,17 +83,17 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
 
    1. Prompt AI Assistant to search for matching segments. You can say "ok," "go," "continue," "search," or any relevant term or phrase.
 
-      The [!!UICONTROL Step 2: Audience Segments] tab shows the proposed audience name, the audience size and distribution, the Boolean audience expression, and a list of the included audience segments grouped by characteristic.
+      The [!UICONTROL Step 2: Audience Segments] tab shows the proposed audience name, the audience size and distribution, the Boolean audience expression, and a list of the included audience segments grouped by characteristic.
 
-   1. (Optional) In the [!!UICONTROL Audience segments] section at the bottom, do any of the following:
+   1. (Optional) In the [!UICONTROL Audience segments] section at the bottom, do any of the following:
 
       * To expand each group of audience segments, click **[!UICONTROL >]** next to the count.
       
       * To copy the segment IDs of the included audience segments to your clipboard, click **[!UICONTROL Copy rule]**.
 
-      * To remove segments from the audience, prompt AI Assistant to do it or click ![Edit](/help/desp/assets/edit-ai.png "Edit"), deselect any segments you want to remove from the audience, and then click **[!UICONTROL Apply]**.
+      * To remove segments from the audience, prompt AI Assistant to do it or click ![Edit](/help/dsp/assets/edit-ai.png "Edit"), deselect any segments you want to remove from the audience, and then click **[!UICONTROL Apply]**.
 
-1. When you're satified with the assembled audience, click **[!UICONTROL Save Audience]** to create the specified audience.
+1. When you're satisfied with the assembled audience, click **[!UICONTROL Save Audience]** to create the specified audience.
 
    >[!NOTE]
    >
@@ -133,17 +133,17 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
 
       When applicable, the agent suggests additional segment filters to help you create a more effective audience brief. You can accept or reject the suggestions.
 
-      As the audience agent finds relevent segments, it creates a Boolean audience expression based on your criteria. It also asks for your approval before looking for matching segments to assemble the audience. You can optionally ignore the request and continue to specify additional audience criteria instead.
+      As the audience agent finds relevant segments, it creates a Boolean audience expression based on your criteria. It also asks for your approval before looking for matching segments to assemble the audience. You can optionally ignore the request and continue to specify additional audience criteria instead.
 
    1. When the audience agent presents an audience expression that adequately describes your audience, tell the audience agent to proceed with assembling the audience.
 
-      You can enter "proceed," "okay," "ok," "yes", or another similar word. The agent lists all suggested segments for each trait (such as "Parents"). Expand any trait to see details about the individual segments suggested for that trait.
+      You can enter "proceed," "okay," "ok," "yes," or another similar word. The agent lists all suggested segments for each trait (such as "Parents"). To see details about the individual segments suggested for a trait, expand the trait.
 
    1. (If necessary) Specify additional criteria. When the audience agent presents an audience expression that meets all of your criteria, tell the audience agent to proceed with assembling the audience.
 
-      To assemble the audience, enter "proceed," "okay," "ok," "yes", or another similar word. The agent lists all suggested segments for each trait (such as "Parents"). Expand any trait to see details about the individual segments suggested for that trait.
+      To assemble the audience, enter "proceed," "okay," "ok," "yes," or another similar word. The agent lists all suggested segments for each trait (such as "Parents"). To see details about the individual segments suggested for a trait, expand any trait.
 
-1. When you're satified with the assembled audience, click **[!UICONTROL Create]** to create the specified audience.
+1. When you're satisfied with the assembled audience, click **[!UICONTROL Create]** to create the specified audience.
 
    >[!NOTE]
    >
@@ -175,7 +175,7 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
    >
    >As you build the audience, detailed [audience size data](audience-about.md) is updated in the right panel
 
-   * To manually create the segment logic, using segments available on the [[!UICONTROL Third Party Segments], [!UICONTROL First Party Segments], [!UICONTROL Adobe Segments], [!UICONTROL Custom Segments], and [!UICONTROL Saved Audiences] tabs](audience-settings.md), do the following.
+   * To create the segment logic manually, using segments available on the [[!UICONTROL Third Party Segments], [!UICONTROL First Party Segments], [!UICONTROL Adobe Segments], [!UICONTROL Custom Segments], and [!UICONTROL Saved Audiences] tabs](audience-settings.md), do the following.
 
      * (Optional) Search for a segment name, description, or path.
 
@@ -227,17 +227,17 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
 
 <!-- Change heading level for this whole section to fit under AI procedure -->
 
-#### What should a prompt include?
+#### Guidelines for writing audience prompts
 
 * Use clear, descriptive language to describe the target audience.
 
-  * You can enter either complete sentences or just a string of characteristics. Punctuation isn't required except when necessary for clarity.
+  * You can enter complete sentences or a string of characteristics. Punctuation isn't required except when necessary for clarity.
 
   * In general, prompts are case-insensitive.
   
   * The audience agent recognizes most common synonyms.
 
-* Be specific and provide details about all audience characteristics that you want to include and any characteristics that you specifically want to exclude. The more details that you provide, the greater the chance that you'll get the results that meet your needs.
+* Be specific and provide details about all audience characteristics that you want to include and any characteristics that you specifically want to exclude. Providing more details increases the likelihood of obtaining results that meet your needs.
 
 * Identify locations, device types, and data providers to include or to exclude.
 
@@ -245,7 +245,7 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
 
 * Learn about prompting through experimentation.
 
-  If your prompt isn't clear, the audience agent will just request another prompt, so you can try again.
+  If your prompt isn't clear, the audience agent requests another prompt, so you can try again.
   
   The audience agent won't automatically save a generated audience expression as an audience. You can only save an audience by clicking the [!UICONTROL Create] button, which is outside of the prompt area, so you can undo any changes that you don't want to keep.
 
@@ -274,7 +274,7 @@ When the audience agent needs a response from you, you can reply using keywords 
 
 `If you are okay with the proposed expression, I can start searching segments for each of the traits (based on the search filters above), and assemble the matching segments into the audience. Would you like me to proceed?`
 
-Your affirmative replies:  "proceed," "okay," "ok," "yes", or another similar word
+Your affirmative replies:  "proceed," "okay," "ok," "yes," or another similar word
 
 You can also ignore the request and continue to specify additional audience criteria instead.
 
@@ -309,7 +309,7 @@ Include as many audience attribute types as possible from the following list in 
 
 * **Demographics**
 
-  Includes attributes like age range, gender, marital status, household composition (family size, presence of children, multi-generational households).
+  Includes attributes like age range, gender identity, marital status, household composition (family size, presence of children, multi-generational households).
 
 * **Socioeconomic Indicators**
 
