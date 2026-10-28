@@ -1,6 +1,6 @@
 ---
 title: Create reports using AI assistant
-description: Learn how to use Adobe Advertising DSP AI Assistant's insights agent to query campaign metrics, generate reports, and download CSV files.
+description: Create reusable audiences with the Adobe Advertising DSP AI Assistant audience builder agent using natural-language prompts for placement targeting and exclusions.
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
