@@ -16,21 +16,22 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Troubleshoot performance and delivery issues using AI assistant
+# Troubleshoot performance and delivery issues using AI Assistant
+
 
 *Beta feature*
 
 *Support for English only*
 
-AI Assistant's troubleshooting agent can identify factors that limit the performance of live packages and placements and provides recommendations to resolve issues. The troubleshooting agent can help diagnose the following types of performance and delivery issues:
+AI Assistant's troubleshooting agent identifies factors that limit the performance of live packages and placements and provides step-by-step instructions and recommendations based on historical data to resolve issues. The troubleshooting agent can help diagnose the following types of performance and delivery issues:
 
   * (Placements only) Spending issues, including overspend, underspend, and failure to spend. The agent evaluates related pacing, bidding, targeting, and budget-cap factors as part of the diagnosis.
 
-  * (Packages only) Performance issues, incuding a rising CPA or a falling ROAS. The agent doesn't diagnose engagement metrics such as CTR, CPC, clicks, or impressions.
+  * (Packages only) Performance issues, including a rising CPA or a falling ROAS. The agent doesn't diagnose engagement metrics such as CTR, CPC, clicks, or impressions.
 
   Each conversation covers a single diagnosis for a single package or placement. Once the agent delivers a result, start a new conversation to ask about a different issue, or about a different package or placement.
 
-  The agent can't change settings, nor create or edit campaigns or campaign components. It also can't diagnose issues for a paused, completed, archived, or scheduled package or placement.
+  The agent can't change settings; create or edit campaigns or campaign components; or diagnose issues for a paused, completed, archived, or scheduled package or placement.
 
 >[!IMPORTANT]
 >
@@ -85,7 +86,7 @@ You can ask multiple questions in one message, but only one message at a time. W
 >
 >To ask about a different issue, or about a different package or placement, [start a new conversation](#conversation-new).
 
-## Submit a query from the [!UICONTROL Placements] or [!UICONTROL Placements] view
+## Submit a query from the [!UICONTROL Packages] or [!UICONTROL Placements] view
 
 You can ask multiple questions in one message, but only one message at a time. Wait for a response before sending another.
 
@@ -128,7 +129,7 @@ You can ask multiple questions in one message, but only one message at a time. W
 
 ## Start a new conversation {#conversation-new}
 
-Each conversation, or query thread, is saved separately so you can distinguish between your previous conversations.
+Each conversation (or query thread) is saved separately so you can distinguish between your previous conversations.
 
 1. At the top of the [chatbox](#ai-assistant-open), click ![Start a new conversation](/help/dsp/assets/new-selection.png "Start a new conversation").
 
