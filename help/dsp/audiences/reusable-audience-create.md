@@ -39,6 +39,8 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
 
 *Support for English only*
 
+Give AI Assistant an audience brief or describe the audience characteristics you want to include or exclude in natural-language prompts. In the audience definition, you can refine the optimization criteria, ID types to include, and first-party segments to exclude. Once AI Assistant assembles a list of the matching audience segments, you can refine the segment list before you save the audience.
+
 <!-- Later:  Audiences built using generative AI have the indicator [icon] in **[!UICONTROL Audiences] > [!UICONTROL All Audiences]**. -->
 
 >[!NOTE]
@@ -73,13 +75,13 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
 
       You can ask multiple questions in one prompt, but only one prompt at a time. Wait for a response before you can send another prompt.
 
-      A panel opens to the side, with the audience definition in the [!UICONTROL Step 1: Audience Definition] tab. The definition includes all defined audience filters, optimization criteria (including device ID types and universal ID types to include), and any of your first-party segments to exclude.
+      A panel opens to the side, with the audience definition in the [!UICONTROL Step 1: Audience Definition] tab. The definition includes all defined audience filters, optimization criteria (including device ID types and universal ID types to include), and any of your first-party segments to exclude. If you didn't specify limitations, then segments are based on optimizing for the highest volume, including all device type ID types and universal IDs, and including all of your first-party audiences.
    
       When applicable, AI Assistant suggests additional audience filters to help you create a more effective audience brief. You can accept or reject the suggestions.
    
    1. (Optional) Refine the audience definition:
    
-      * To change the optimization criteria between the default *[!UICONTROL Highest volume]* to *[!UICONTROL Lowest cost]*, prompt AI Assistant to do it or click ![Edit](/help/dsp/assets/edit-ai.png "Edit") next to **[!UICONTROL Criteria]**, select the criteria, and then click **[!UICONTROL Apply]**.
+      * To change the optimization criteria between the *[!UICONTROL Highest volume]* to *[!UICONTROL Lowest cost]*, prompt AI Assistant to do it or click ![Edit](/help/dsp/assets/edit-ai.png "Edit") next to **[!UICONTROL Criteria]**, select the criteria, and then click **[!UICONTROL Apply]**.
 
       * To change between including all ID types (including all device type ID types and universal IDs) and only specific ID types, prompt AI Assistant to do it or click ![Edit](/help/dsp/assets/edit-ai.png "Edit") next to **[!UICONTROL ID type]**, select the ID types to include, and then click **[!UICONTROL Apply]**.
 
@@ -112,6 +114,8 @@ Create audiences using the AI-assisted audience agent in either the unified [AI 
 *Beta feature*
 
 *Support for English only*
+
+Give the audience agent an audience brief or natural-language prompts describing the audience characteristics you want to include and exclude.
 
 >[!NOTE]
 >
