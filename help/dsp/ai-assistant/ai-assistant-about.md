@@ -32,7 +32,7 @@ The following workflows can help you accomplish your work more effectively:
 
 | Feature | Description | Responses |
 | --- | --- | --- |
-| [Troubleshooting](troubleshooting-agent.md) | (Beta feature) Diagnose performance and delivery issues for live packages and placements. | The response includes factors that are limiting performance and provides recommendations to resolve the issues. |
+| [Troubleshooting](troubleshooting-agent.md) | (Beta feature) Diagnose performance and delivery issues for live packages and placements. | The response includes factors that are limiting performance and provides step-by-step instructions and recommendations to resolve the issues. |
 | [Insights](insights-agent.md) | (Beta feature) Get campaign metrics and full reports without manually creating a report. You can download the results as a CSV file. | The first few rows of the report are displayed, with links to preview the full report and to download the report as a [!DNL Microsoft Excel] comma-separated values file (.csv). |
 | [Product documentation search](documentation-search.md) | Search for conceptual and how-to content in the [Advertising DSP Guide](/help/dsp/home.md) and, for advertisers with Advertising Creative, the [Advertising Creative Guide](/help/creative/home.md). | The response includes inline citations and an expandable [!UICONTROL Documentation Sources] list at the bottom. Click any citation or source listing to open the relevant page.<br><br>The response may also include follow-up questions and suggestions to help you refine your query and find more information. |
 
