@@ -23,7 +23,7 @@ role_v2:
 
 <!-- "Saved audience" is used in UI (where?), but "saved" is a state, not a type. "Reusable audience" sounds better in a description. "Audience template" isn't right, either, since it implies you can edit it on the fly to create a new, different audience. Some other term? -->
 
-You can save and manage reusable audiences, which are groups of audience segments (including any first-party and third-party segments that are available to you) and even other saved audiences. You can use the audiences as targets or exclusions for multiple placements.
+You can save and manage reusable audiences, which are groups of audience segments that you can use as targets or exclusions for multiple placements. Reusable audiences can include any first-party and third-party segments that are available to you, and even other saved audiences.
 
 Create audiences using the AI-assisted audience agent in either the unified [AI Assistant](/help/dsp/ai-assistant/ai-assistant-about.md) or in the [!UICONTROL Audiences] > [!UICONTROL All Audiences] view, or create audiences manually.
 
