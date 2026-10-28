@@ -23,8 +23,9 @@ index: true
   + [Advanced measurement solutions](/help/dsp/introduction/advanced-measurement-services.md)
 + AI Assistant in Advertising DSP {#ai-assistant}
   + [About the AI Assistant in Advertising DSP](/help/dsp/ai-assistant/ai-assistant-about.md)
-  + [Create reports using AI assistant](/help/dsp/ai-assistant/insights-agent.md)
-  + [Troubleshoot performance and delivery issues using AI assistant](/help/dsp/ai-assistant/troubleshooting-agent.md)
+  + [Generate reusable audiences using AI Assistant](/help/dsp/ai-assistant/audience-builder-agent.md)
+  + [Create reports using AI Assistant](/help/dsp/ai-assistant/insights-agent.md)
+  + [Troubleshoot performance and delivery issues using AI Assistant](/help/dsp/ai-assistant/troubleshooting-agent.md)
   + [Search for product documentation using AI Assistant](/help/dsp/ai-assistant/documentation-search.md)
   + [Work with previous AI Assistant conversations](/help/dsp/ai-assistant/previous-conversations.md)
 + Campaign management {#campaign-management}

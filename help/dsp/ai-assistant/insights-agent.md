@@ -16,7 +16,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Create reports using AI assistant
+# Create reports using AI Assistant
 
 *Beta feature*
 

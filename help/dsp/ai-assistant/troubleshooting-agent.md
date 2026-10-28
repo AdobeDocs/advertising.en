@@ -18,7 +18,6 @@ topic_v2:
 ---
 # Troubleshoot performance and delivery issues using AI Assistant
 
-
 *Beta feature*
 
 *Support for English only*
