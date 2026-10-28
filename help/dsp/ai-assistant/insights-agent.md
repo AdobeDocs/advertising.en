@@ -16,9 +16,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# Create reports using AI assistant
+# Create reports using AI Assistant
 
 *Beta feature*
+
+*Support for English only*
 
 Use the AI Assistant's insights agent to get metrics and full reports for your campaigns, campaign components, Advertising Creative experiences, advertisers, and ad targets &mdash; without manually creating a report. You can ask simple questions about a specific metric, such as spend or CPA for a campaign, or ask for a more complex report for a specific dimension (such as a single campaign or audience) or across dimensions (for breakdowns for each campaign and advertiser). You can download the results as a CSV file.
 

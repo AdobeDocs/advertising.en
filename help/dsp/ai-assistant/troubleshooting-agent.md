@@ -18,8 +18,9 @@ topic_v2:
 ---
 # Troubleshoot performance and delivery issues using AI Assistant
 
-
 *Beta feature*
+
+*Support for English only*
 
 AI Assistant's troubleshooting agent identifies factors that limit the performance of live packages and placements and provides step-by-step instructions and recommendations based on historical data to resolve issues. The troubleshooting agent can help diagnose the following types of performance and delivery issues:
 

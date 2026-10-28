@@ -26,6 +26,8 @@ DSP provides AI-assisted agents that use natural language prompts to help you wi
 
 * Unified AI Assistant:
 
+  * [Generate reusable audiences](/help/dsp/ai-assistant/audience-builder-agent.md).
+  
   * [Create reports for your campaigns, campaign components, Advertising Creative experiences, advertisers, and ad targets](/help/dsp/ai-assistant/insights-agent.md).
   
   * [Troubleshoot performance and delivery issues for your packages and placements](/help/dsp/ai-assistant/troubleshooting-agent.md).
