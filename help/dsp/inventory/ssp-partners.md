@@ -36,7 +36,7 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL AdsWizz]|[!DNL Sirius XM (Pandora)]|Adobe Advertising|PG support|Global|USD, EUR, GBP|Audio desktop and mobile|
 |[!DNL Cadent]|[!DNL Cadent] (formerly [!DNL EMX Digital])|Adobe Advertising|&mdash;|US/CA|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL DailyMotion]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|US + EMEA|USD, EUR|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
-|[!DNL Equativ]|[!DNL Equativ] (formerly [!DNL Smart AdServer])|[!DNL TubeMogul] or Adobe Advertising|&mdash;|EMEA|USD, EUR|Display desktop and mobile<br><br>Video desktop and mobile|
+|[!DNL Equativ/Sharethrough]|[!DNL Equativ]|[!DNL TubeMogul] or Adobe Advertising|&mdash;|Global|USD|Display desktop and mobile<br><br>Native display<br><br>Video desktop, mobile, and CTV|
 |[!DNL FreeWheel]|[!DNL Comcast]|[!DNL TubeMogul] or Adobe Advertising|PG support|Global|USD, EUR, AUD, GBP|Video desktop, mobile, and CTV |
 |[!DNL Google Authorized Buyers] (formerly [!DNL Google AdX])|[!DNL Google]|Adobe NA - 44912714<br>Adobe APAC and EU - 89185975|PG support|Global|USD, BRL|Audio desktop and mobile<br><br>Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL GumGum]||Adobe Advertising |&mdash;|Global |USD|Display desktop and mobile<br><br>Video desktop and mobile|
@@ -47,7 +47,6 @@ A supply-side platform (SSP) is an advertising technology platform used to help 
 |[!DNL Nexxen]|[!DNL Nexxen] (formerly [!DNL Unruly])|Adobe Advertising|&mdash;|US + EMEA|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL OpenX]|[!DNL OpenX]|[!DNL TubeMogul] or Adobe Advertising|PG support|Global|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL PubMatic]|[!DNL Pubmatic]|[!DNL TubeMogul] or Adobe Advertising|&mdash;|Global|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
-|[!DNL ShareThrough]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Global|USD|Display desktop and mobile<br><br>Native display<br><br>Video desktop, mobile, and CTV|
 |[!DNL SmartClip]||Adobe Advertising|&mdash;|EMEA|All Currencies|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
 |[!DNL Taboola]||Adobe Advertising|&mdash;|US/CA|USD|Video desktop and mobile|
 |[!DNL Teads]||[!DNL TubeMogul] or Adobe Advertising|&mdash;|Outstream Video = Global<br>Display = NA + EMEA|USD|Display desktop and mobile<br><br>Video desktop, mobile, and CTV|
