@@ -82,7 +82,7 @@ Viewing the page requires the [!UICONTROL View Placements] permission. Creating 
 
 1. Click **[!UICONTROL Review and Save]**.
 
-1. If necessary, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** and change the entity and/or the placement settings.
+1. Review the settings. To change any settings, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** in the applicable section and change the settings.
 
 1. Click **[!UICONTROL Create]**.
 
@@ -110,7 +110,7 @@ You can create negative placements for a [!DNL Google Ads] campaign or ad group 
 
 1. Click **[!UICONTROL Review and Save]**.
 
-1. If necessary, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** and change the entity and/or the negative website URLs.
+1. Review the settings. To change any settings, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** in the applicable section and change the settings.
 
 1. Click **[!UICONTROL Create]**.
 
