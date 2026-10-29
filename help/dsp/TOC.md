@@ -107,7 +107,7 @@ index: true
   + [FAQs about universal video](/help/dsp/campaign-management/faq-universal-video.md)
 + Conversational Ads (Beta) {#conversational-ads}
   + [Manage [!DNL ChatGPT] conversational ad accounts](/help/dsp/campaign-management/conversational-ads/account-manage.md)
-  + [Manage [!DNL ChatGPT] conversational ad campaigns](/help/dsp/campaign-management/conversational-ads/campaign-manage.md)
+  + [Manage [!DNL ChatGPT] conversational ad campaigns, ad groups, and ads](/help/dsp/campaign-management/conversational-ads/campaign-manage.md)
 + Optimization {#optimization}
   + [How Advertising DSP optimizes your campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization goals and how to use them](/help/dsp/optimization/optimization-goals.md)
