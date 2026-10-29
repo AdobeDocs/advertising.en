@@ -105,6 +105,9 @@ index: true
   + [Keyboard shortcuts](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
   + [FAQs about campaign management](/help/dsp/campaign-management/faq-campaign-management.md)
   + [FAQs about universal video](/help/dsp/campaign-management/faq-universal-video.md)
++ Conversational Ads (Beta) {#conversational-ads}
+  + [Manage [!DNL ChatGPT] conversational ad accounts](/help/dsp/campaign-management/conversational-ads/account-manage.md)
+  + [Manage [!DNL ChatGPT] conversational ad campaigns](/help/dsp/campaign-management/conversational-ads/campaign-manage.md)
 + Optimization {#optimization}
   + [How Advertising DSP optimizes your campaigns](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
   + [Optimization goals and how to use them](/help/dsp/optimization/optimization-goals.md)
