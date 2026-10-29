@@ -333,7 +333,7 @@ For information about availability, see Microsoft Advertising help to "[Prevent 
 **[!UICONTROL Audience Signal]:** (Optional) [!DNL Microsoft Advertising] audiences to use as audience signals for the campaign. [!DNL Microsoft Advertising] machine learning models use the audiences to find similar web surfers to target and may also show ads to audiences that aren't specified as signals to help you meet your performance goals. Choose audiences that are most likely to convert.
 
 >[!NOTE]
->Audience signals are different from [ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
+>Audience signals are different from [ad group-level audience targets](/help/search-social-commerce/new-ui/targeting/audiences/audience-targets-manage.md).
 
 <!-- **[!UICONTROL Display Path 1]**, **[!UICONTROL Display Path 2]:** -->
 

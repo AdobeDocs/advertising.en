@@ -250,6 +250,10 @@ role_v2:
     + [Manage [!DNL Google Ads] conversion value rules](/help/search-social-commerce/new-ui/goals/conversion-value-rules-manage.md)
     + [Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
   + Targeting {#targeting}
+    + Audiences {#audiences-new-ui}
+      + [Manage audiences](/help/search-social-commerce/new-ui/targeting/audiences/audience-manage.md)
+      + [Manage audience targets for campaigns and ad groups](/help/search-social-commerce/new-ui/targeting/audiences/audience-targets-manage.md)
+      + [Manage audience exclusions for campaigns and ad groups](/help/search-social-commerce/new-ui/targeting/audiences/audience-exclusions.md)
     + [Manage [!DNL Google Ads] dynamic search targets](/help/search-social-commerce/new-ui/targeting/dynamic-search-target-manage.md)
     + [Manage placements](/help/search-social-commerce/new-ui/targeting/placement-manage.md)
   + Library {#library}
