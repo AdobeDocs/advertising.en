@@ -49,7 +49,7 @@ Campaigns are eligible for optimization based on the campaign or ad group bid st
 <!-- Add "Frequency of Bidding (or other actions, like adjusting campaign budget or bid adjustment values?) -->
 
 | Bid Strategy | Smart Bidding? | Keyword-/Product Group-Level Bid? | Support Level | Objective Type | Bid Unit | What Does Adobe Set? | What Does the Ad Network Set? |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+|---|---|---|---|---|---|---|---|
 | Manual CPC ([!DNL Google Ads]-only option) | &mdash; | Yes | Create, Edit, Optimize | Single or multi-property objective with any weight value | Keyword + Match Type + Campaign | Keyword bid, campaign budget, bid adjustment values | n/a |
 | ECPC (Enhanced CPC) | Yes | Yes | Create, Edit, Optimize | Single or multi-property objective with any weight value | Keyword + Match Type + Campaign | Keyword bid, campaign budget | Adjusts bids in real time |
 | Maximize Clicks[^1] | &mdash; | &mdash; | Create, Edit, Optimize | None; optimizes towards clicks only | Campaign | Campaign budget | Adjusts bid in real time to maximize clicks within the budget |
@@ -71,7 +71,7 @@ A portfolio can have the following statuses:
 
 The [!UICONTROL Portfolios] view lists all existing portfolios in the filtered view, with customizable performance data. You can [customize the columns within the view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) and filter data to include specific portfolios [from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) or from the [column heading](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
 
-### Available actions {#available actions}
+### Available actions {#available-actions}
 
 <!-- Update with any new options -->
 
