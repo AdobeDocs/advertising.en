@@ -22,7 +22,7 @@ You can filter the data by category<!-- Not available as of 5-14: and by the use
 
 You can also download the data to a spreadsheet file.
 
-## (New UI) View a portfolio's change history {#portfolio-change-history}
+## View a portfolio's change history {#portfolio-change-history}
 
 Information for each change includes the date, the user name of the person who made the change, the change type, and the changed value.
 
