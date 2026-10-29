@@ -373,9 +373,9 @@ role_v2:
           + [Create a [!DNL Google Ads] customer match audience from an Adobe Campaign email list](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-campaign-email-list.md)
           + [Manage customer match audiences using customer data lists](/help/search-social-commerce/campaign-management/campaigns/audience-from-customer-data-list.md)
           + [Manage dynamic remarketing audiences](/help/search-social-commerce/campaign-management/campaigns/audience-dynamic-remarketing-manage.md)
-          + Audience targets and exclusions {#audience-targets}
-            + [Manage audience targets for campaigns and ad groups](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md)
-            + [Manage audience exclusions for campaigns and ad groups](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md)
+        + Audience targets and exclusions {#audience-targets}
+          + [Manage audience targets for campaigns and ad groups](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md)
+          + [Manage audience exclusions for campaigns and ad groups](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md)
       + Ad extensions {#ad-extensions}
         + [!DNL Google Ads] callout extensions {#callouts}
           + [About [!DNL Google Ads] callout extensions](/help/search-social-commerce/campaign-management/campaigns/callout-extension-about.md)
