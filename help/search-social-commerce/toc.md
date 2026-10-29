@@ -128,8 +128,13 @@ role_v2:
         + [[!DNL Microsoft Advertising] responsive search ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-microsoft-rsa.md)
         + [[!DNL Yandex] text ad settings](/help/search-social-commerce/new-ui/manage/ads/ad-settings-yandex-text.md)
     + Keywords {#keywords}
-      + [About the [!UICONTROL Keywords] view](/help/search-social-commerce/new-ui/manage/keywords/keyword-view-about.md)
-      + [Manage constraint assignments for keywords](/help/search-social-commerce/new-ui/manage/keywords/keyword-constraint-assignments-manage.md)
+      + [Manage keywords](/help/search-social-commerce/new-ui/manage/keywords/keyword-manage.md)
+      + Keyword settings by ad network {#keyword-settings-by-network}
+        + [[!DNL Baidu] keyword settings](/help/search-social-commerce/new-ui/manage/keywords/keyword-settings-baidu.md)
+        + [[!DNL Google Ads] keyword settings](/help/search-social-commerce/new-ui/manage/keywords/keyword-settings-google.md)
+        + [[!DNL LY Ads] keyword settings](/help/search-social-commerce/new-ui/manage/keywords/keyword-settings-yahoo-japan.md)
+        + [[!DNL Microsoft Advertising] keyword settings](/help/search-social-commerce/new-ui/manage/keywords/keyword-settings-microsoft.md)
+        + [[!DNL Yandex] keyword settings](/help/search-social-commerce/new-ui/manage/keywords/keyword-settings-yandex.md)
     + [Manage shopping product groups](/help/search-social-commerce/new-ui/manage/product-groups-manage.md)
   + Reports {#reports}
     + Scheduled reports {#scheduled}
@@ -246,9 +251,7 @@ role_v2:
     + [Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
   + Targeting {#targeting}
     + [Manage [!DNL Google Ads] dynamic search targets](/help/search-social-commerce/new-ui/targeting/dynamic-search-target-manage.md)
-    + Placements {#placements}
-      + [About the [!UICONTROL Placements] view](/help/search-social-commerce/new-ui/targeting/placements/placement-view-about.md)
-      + [Manage constraint assignments for placements](/help/search-social-commerce/new-ui/targeting/placements/placement-constraint-assignments-manage.md)
+    + [Manage placements](/help/search-social-commerce/new-ui/targeting/placement-manage.md)
   + Library {#library}
     + [View and create creative assets](/help/search-social-commerce/new-ui/library/creative-asset-manage.md)
   + [Manage custom alerts](/help/search-social-commerce/new-ui/alerts-manage.md)
