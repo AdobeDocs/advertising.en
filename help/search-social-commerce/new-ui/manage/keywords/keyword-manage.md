@@ -77,7 +77,7 @@ The [!UICONTROL Manage] > [!UICONTROL Keywords] view includes two tabs for the s
 
 1. Click **[!UICONTROL Review and Save]**.
 
-1. If necessary, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** and change the entity and/or keyword settings.
+1. Review the settings. To change any settings, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** in the applicable section and change the settings.
 
 1. Click **[!UICONTROL Create]**.
 
@@ -101,7 +101,7 @@ Changing the keyword text or match type can delete the existing keyword and crea
 
 1. Click **[!UICONTROL Review and Save]**.
 
-1. If necessary, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** and change the keyword settings.
+1. Review the settings. To change any settings, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** in the applicable section and change the settings.
 
 1. Click **[!UICONTROL Update]**.
 
@@ -143,7 +143,7 @@ You can create negative keywords for a search ad group or campaign that targets 
 
 1. Click **[!UICONTROL Review and Save]**.
 
-1. If necessary, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** and change the entity and/or the negative keywords.
+1. Review the settings. To change any settings, click ![Edit](/help/search-social-commerce/assets/edit-new.png "Edit") **[!UICONTROL Edit]** in the applicable section and change the settings.
 
 1. Click **[!UICONTROL Create]**.
 
