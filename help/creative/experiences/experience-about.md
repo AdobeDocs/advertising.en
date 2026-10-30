@@ -48,6 +48,8 @@ Each ad experience can include one ad type (standard display, standard video, dy
 
   Once you create a target audience branch in the decision tree, you can pair the target audience with potential creatives by assigning creative bundles to the branch. For each experience, you can customize optimization and scheduling for the creative bundles and change the default landing pages and tracking URLs<!-- later: and any flexible attributes --> for individual creatives in each bundle.
 
+  The default AI-driven decision tree editor (Beta) allows you to describe the tree or changes you want to the AI agent, review the result, and edit the interactive canvas directly. You can also use the existing manual editor. Both editors configure the same type of targeted experience. See [The decision tree layout](experience-decision-tree.md) and [Edit an experience with decision tree targeting](experience-edit-targeting.md).
+
 * **Experiences without decision tree targeting:** [!DNL Creative] optimizes the ad elements for the ad experience without narrowing the audience. For each experience, you specify start and end dates and some default settings, but much of the workflow isn't directly within the experience. Instead of adding creatives directly to the experience, use [!UICONTROL Tag Manager] to create an ad tag for each ad size for the experience and then add creatives to it, configure creative optimization and scheduling, and customize the landing pages and tracking URLs<!-- later: and any flexible attributes -->.
 
 >[!NOTE]

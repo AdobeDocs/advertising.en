@@ -23,6 +23,10 @@ role_v2:
 ---
 # Targeted ad experience settings
 
+These general settings are shared by the AI-driven decision tree editor (Beta) and the manual editor.
+
+For an existing experience, click **[!UICONTROL Experience Form]** from the decision tree. Save any tree changes you want to keep first. Leaving the AI-driven editor requires confirmation and discards unsaved tree changes. See [Switch editors or edit the experience settings](experience-edit-targeting.md#switch-editors).
+
 ## [!UICONTROL Experience basics] section
 
 **[!UICONTROL Ad Type]:** (Read-only for existing experiences) The type of ads included in the experience: *[!UICONTROL Standard Display]*, *[!UICONTROL Dynamic Display]*, *[!UICONTROL Dynamic Display]*, *[!UICONTROL Standard Video]*, or *[!UICONTROL Display Video]*. Once you save the experience, you can't change the ad type.

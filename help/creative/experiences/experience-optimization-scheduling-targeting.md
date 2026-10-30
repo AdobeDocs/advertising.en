@@ -26,15 +26,53 @@ topic_v2:
 
 *Target nodes with existing creatives only*
 
-By default, the creative rotation for an experience is determined algorithmically to optimize the overall click-through rate, and the creative optimization settings apply to all assigned bundles. You can alternately algorithmically optimize for a specified Advertising DSP custom goal; rotate bundles according to a specified bundle sequence, with a specified number of impressions across each bundle sequence; or according to relative weights. You can also schedule specific creative bundles to run during specified, sequential time periods and apply custom creative rotation settings for each schedule.
+By default, an experience optimizes creative rotation for overall click-through rate across all assigned bundles. You can customize the rotation settings or schedule specific bundles to run during sequential time periods, with separate rotation settings for each schedule.
 
 >[!NOTE]
 >
 >These features aren't available for nodes that use the default creatives instead of assigned creatives.
 
+You can configure these settings directly in the canvas of the AI-driven editor (Beta) or in the manual editor. In either editor, saving the bundle dialog updates the working tree; you must also [save the experience](#save) from the tree header.
+
+## Rotation settings {#rotation-settings}
+
+* **[!UICONTROL Weighted]:** Shows ad variants in the associated creative bundles according to relative weights.
+
+* **[!UICONTROL Algorithmic]:** Shows the most effective ad variants more often, based on a specified optimization goal, such as click-through rate or an Advertising DSP custom goal.
+
+* **[!UICONTROL Sequence] (AI-driven editor) or [!UICONTROL Sequencing] (manual editor):** Shows the associated creative bundles in a specified order, with a specified number of impressions for each bundle in the sequence. By default, bundles are sequenced in the order in which they were added to the experience. The ad sizes that are served are determined by the available inventory. The final bundle can serve indefinitely (the default), or the sequence can loop back to the first bundle.
+
+  For example, a sequence could serve ad variants from Bundle 1 for three impressions, Bundle 2 for one impression, and Bundle 3 for two impressions, and then repeat. Without looping, Bundle 3 continues to serve indefinitely.
+
 ## Configure creative optimization without scheduling
 
 When creative scheduling is disabled, the creative optimization settings apply to all assigned creatives.
+
+### Using the AI-driven editor (Beta) {#without-scheduling-ai}
+
+1. While you're [creating](experience-create-targeting.md#ai-editor) or [editing](experience-edit-targeting.md#ai-editor) the experience, click **[!UICONTROL ...]** > **[!UICONTROL Edit Bundles]** on the creative leaf node.
+
+   For a final node without bundles, click **[!UICONTROL Assign Bundles]** and [assign the bundles](experience-assign-creative-bundles.md#ai-editor) first.
+
+1. Open the **[!UICONTROL Creative optimisation]** tab.
+
+1. Disable **[!UICONTROL Schedule]**.
+
+1. Select the creative rotation type and configure its settings:
+
+   * **[!UICONTROL Weighted]:** Enter the relative weight for each bundle row. The weights must total 100. To distribute weights equally, click **[!UICONTROL Apply equal weight]**.
+
+   * **[!UICONTROL Algorithmic]:** Select an **[!UICONTROL Optimization goals]** option. If you choose a custom objective, select the existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md) in **[!UICONTROL Custom objective]**.
+
+   * **[!UICONTROL Sequence]:** Drag the bundles into the desired order, and enter the number of impressions for each sequence. Enable **[!UICONTROL Keep in loop]** to repeat the sequence, or leave it disabled to set the last bundle's impressions to **[!UICONTROL Infinite]**.
+
+1. Click **[!UICONTROL Save]** in the dialog.
+
+1. [Save the experience](#save).
+
+### Using the manual editor {#without-scheduling-manual}
+
+[Open the manual editor](experience-edit-targeting.md#experience-open) before following these steps.
 
 1. While you're [creating](experience-create-targeting.md) or [editing](experience-edit-targeting.md) the experience, open the creative optimization settings:
 
@@ -43,25 +81,21 @@ When creative scheduling is disabled, the creative optimization settings apply t
       * For existing bundles, click **[!UICONTROL ...]** > **[!UICONTROL Edit Bundles]**.
       
       * For new bundles, click **[!UICONTROL ...]** > **[!UICONTROL Assign Bundles]** and [assign the bundles](experience-assign-creative-bundles.md).
-
-  1. Click the **[!UICONTROL Creative Optimization]** tab.
+   
+   1. Click the **[!UICONTROL Creative Optimization]** tab.
 
 1. Disable **[!UICONTROL Schedule]**.  
 
 1. Select the creative rotation type for ad variants in the associated bundles:
 
-   * *[!UICONTROL Weighted]:* Shows ad variants in the associated creative bundles according to relative weights. Enter the weight for each bundle as a percentage. To apply equal weights to all associated bundles, click (![Apply equal weight](/help/creative/assets/apply-equal-weight.png "Apply equal weight")). The weights for all selected bundles must add up to 100.<!-- For example, if Bundle 1 is 60 and Bundle 2 is 40, then Bundle 1 is shown 60% of the time, and Bundle 2 is shown 40% of the time. -->
+   * *[!UICONTROL Weighted]:* Enter the weight for each bundle as a percentage. To apply equal weights to all associated bundles, click (![Apply equal weight](/help/creative/assets/apply-equal-weight.png "Apply equal weight")). The weights for all selected bundles must add up to 100.
    
-   * *[!UICONTROL Algorithmic]:* Shows the most effective ad variants more often, based on a specified goal.
-   
-     * For the **[!UICONTROL Optimization Goal]**, select *[!UICONTROL Click Through Rate]*, (standard video ad experiences) *[!UICONTROL Completion Rate]*, or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
+   * *[!UICONTROL Algorithmic]:* For the **[!UICONTROL Optimization Goal]**, select *[!UICONTROL Click Through Rate]*, (standard video ad experiences) *[!UICONTROL Completion Rate]*, or *[!UICONTROL Custom Objective]*. If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
 
-   * *[!UICONTROL Sequencing]:* Shows the associated creative bundles in a specified order (with Bundle 1 served first, Bundle 2 served second, and so on), with a specified total number of impressions across each bundle sequence. The ad sizes that are served are determined by the available inventory. You can configure the final bundle in the sequence to a\) be displayed indefinitely (the default) or b\) loop back to the first bundle. For example, you could display any of the ad variants in Bundle 1 for three (3) impressions, then display any ad variant in Bundle 2 for one (1) impression, then display any of the ad variants in Bundle 3 for two (2) impressions, and then begin the loop again. Alternately, once the ad variants in Bundle 3 are displayed, you could continue to display the ad variants in Bundle 3 indefinitely, rather than creating a loop. When you enable sequencing:
+   * *[!UICONTROL Sequencing]:*
 
      1. Drag and drop the assigned bundles into the desired order.
 
-       By default, the assigned bundles are sequenced in the order in which they were added to the experience.
-     
      1. Enter the number of impressions for each sequence.
      
      1. For the last sequence, change whether to a\) display the final bundle in the sequence indefinitely (*[!UICONTROL Infinite]* (the default) or b\) loop back to the first bundle after the final bundle is displayed (*[!UICONTROL Keep in Loop]*).
@@ -74,6 +108,42 @@ You can optionally schedule specific creative bundles to run during specified, s
 
 When you use scheduling, you must schedule bundles through the duration of the experience.
 
+### Using the AI-driven editor (Beta) {#with-scheduling-ai}
+
+1. While you're [creating](experience-create-targeting.md#ai-editor) or [editing](experience-edit-targeting.md#ai-editor) the experience, click **[!UICONTROL ...]** > **[!UICONTROL Edit Bundles]** on the creative leaf node.
+
+   For a final node without bundles, click **[!UICONTROL Assign Bundles]** and [assign the bundles](experience-assign-creative-bundles.md#ai-editor) first.
+
+1. Open the **[!UICONTROL Creative optimisation]** tab, and enable **[!UICONTROL Schedule]**.
+
+1. Select the **[!UICONTROL Timezone]** for the schedule.
+
+1. For the first schedule:
+
+   1. Select the check box next to each bundle to include in the left column.
+
+   1. Specify the start and end dates and times.
+
+   1. Select the creative rotation type and configure its settings:
+
+      * **[!UICONTROL Weighted]:** Enter the relative weight for each bundle row in the schedule. The weights must total 100. To distribute weights equally, click **[!UICONTROL Apply equal weight]**.
+
+      * **[!UICONTROL Algorithmic]:** Select an **[!UICONTROL Optimization goals]** option. If you choose a custom objective, select the existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md) in **[!UICONTROL Custom objective]**.
+
+      * **[!UICONTROL Sequence]:** Drag the bundles into the desired order, and enter the number of impressions for each sequence. Enable **[!UICONTROL Keep in loop]** to repeat the sequence, or leave it disabled to set the last bundle's impressions to **[!UICONTROL Infinite]**.
+
+1. For each additional schedule, click **[!UICONTROL + Add Schedule]**, select its schedule card, and configure its bundles, dates and times, and rotation settings.
+
+   The bundle check boxes apply to the selected schedule, not all schedules. Make sure the schedules cover the entire experience duration with assigned bundles.
+
+1. Click **[!UICONTROL Save]** in the dialog.
+
+1. [Save the experience](#save).
+
+### Using the manual editor {#with-scheduling-manual}
+
+[Open the manual editor](experience-edit-targeting.md#experience-open) before following these steps.
+
 1. While you're [creating](experience-create-targeting.md) or [editing](experience-edit-targeting.md) the experience, open the creative optimization settings:
 
    1. Hold the cursor over the creative leaf node below the target node and do the following:
@@ -82,7 +152,7 @@ When you use scheduling, you must schedule bundles through the duration of the e
       
       * For new bundles, click **[!UICONTROL ...]** > **[!UICONTROL Assign Bundles]** and [assign the bundles](experience-assign-creative-bundles.md).
 
-  1. Click the **[!UICONTROL Creative Optimization]** tab.
+   1. Click the **[!UICONTROL Creative Optimization]** tab.
 
 1. Enable **[!UICONTROL Schedule]**.
 
@@ -94,17 +164,13 @@ When you use scheduling, you must schedule bundles through the duration of the e
 
    1. Select the creative rotation type:
 
-      * *[!UICONTROL Weighted]:* Rotates the creatives in each bundle manually according to relative weights. Enter the weight for each bundle as a percentage. To apply equal weights to all bundles in the schedule, click (![Apply equal weight](/help/creative/assets/apply-equal-weight.png "Apply equal weight")). The weights for all selected bundles must add up to 100.
+      * *[!UICONTROL Weighted]:* Enter the weight for each bundle as a percentage. To apply equal weights to all bundles in the schedule, click (![Apply equal weight](/help/creative/assets/apply-equal-weight.png "Apply equal weight")). The weights for all selected bundles must add up to 100.
 
-      * *[!UICONTROL Algorithmic]:* Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
+      * *[!UICONTROL Algorithmic]:* For the **[!UICONTROL Optimization Goal]**, select *[!UICONTROL Click Through Rate]*, (standard video ad experiences) *[!UICONTROL Completion Rate]*, or *[!UICONTROL Custom Objective]*. If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
 
-        * For the **[!UICONTROL Optimization Goal]**, select *[!UICONTROL Click Through Rate]*, (standard video ad experiences) *[!UICONTROL Completion Rate]*, or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
-
-      * *[!UICONTROL Sequencing]:* Rotates the associated creative bundles in a specified order (with Bundle 1 served first, Bundle 2 served second, and so on), with a specified total number of impressions across each bundle sequence. The ad sizes that are served are determined by the available inventory. You can configure the final bundle in the sequence to a\) be displayed indefinitely (the default) or b\) loop back to the first bundle. For example, you could display any of the creatives in Bundle 1 for three (3) impressions, then display any creative in Bundle 2 for one (1) impression, then display any of the creatives in Bundle 3 for two (2) impressions, and then begin the loop again. Alternately, once the creatives in Bundle 3 are displayed, you could continue to display the creatives in Bundle 3 indefinitely, rather than creating a loop. When you enable sequencing:
+      * *[!UICONTROL Sequencing]:*
       
         1. Drag and drop the assigned bundles into the desired order.
-        
-           By default, the assigned bundles are sequenced in the order in which they were added to the experience.
         
         1. Enter the number of impressions for each sequence.
         
@@ -120,23 +186,25 @@ When you use scheduling, you must schedule bundles through the duration of the e
 
    1. Select the creative rotation type:
 
-      * *[!UICONTROL Weighted]:* Rotates the creatives in each bundle manually according to relative weights. Enter the weight for each bundle as a percentage. The weights for all selected bundles must add up to 100.
+      * *[!UICONTROL Weighted]:* Enter the weight for each bundle as a percentage. The weights for all selected bundles must add up to 100.
 
-      * *[!UICONTROL Algorithmic]:* Rotates the creatives in each bundle algorithmically according to a specified optimization goal.
+      * *[!UICONTROL Algorithmic]:* For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*. If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
 
-        * For the **[!UICONTROL Optimization Goal]**, select either *[!UICONTROL Click Through Rate]* or *[!UICONTROL Custom Objective]*.  If you select *[!UICONTROL Custom Objective]*, then select an existing [Advertising DSP custom goal](/help/dsp/optimization/custom-goal.md).
-
-      * *[!UICONTROL Sequencing]:* Rotates the associated creative bundles in a specified order, with a specified total number of impressions across each bundle sequence. When you enable sequencing:
+      * *[!UICONTROL Sequencing]:*
       
         1. Drag and drop the assigned bundles into the desired order.
-        
-           By default, the assigned bundles are sequenced in the order in which they were added to the experience.
         
         1. Enter the number of impressions for each sequence.
         
         1. For the last sequence, change whether to a\) display the final bundle in the sequence indefinitely (*[!UICONTROL Infinite]* (the default) or b\) loop back to the first bundle after the final bundle is displayed (*[!UICONTROL Keep in Loop]*).
 
 1. Click **[!UICONTROL Save]**.
+
+## Save the experience {#save}
+
+The following steps apply to both editors.
+
+{{$include /help/_includes/experience-save.md}}
 
 >[!MORELIKETHIS]
 >
