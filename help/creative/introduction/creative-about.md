@@ -52,7 +52,7 @@ Your Creative Libraries allow you to manage the creatives you'll use in your ad 
 
 ## Both rules-based and non-targeted experiences
 
-* **Targeted, rules-based experiences:** Build out stories using a rules-based decision tree model &mdash; unfolding a choreographed string of ads that are customized in real time based on what you know about your audience. For example, the stories can change based on customer behavior, geography, demographics, retargeting, position in the customer journey, and more.
+* **Targeted, rules-based experiences:** Build out stories using a rules-based decision tree model &mdash; unfolding a choreographed string of ads that are customized in real time based on what you know about your audience. For example, the stories can change based on customer behavior, geography, demographics, retargeting, position in the customer journey, and more. Build and edit the decision tree using the [AI-driven editor (Beta)](/help/creative/experiences/experience-decision-tree.md#ai-editor), with conversational assistance and direct canvas controls, or use the manual editor.
 
 * **Non-targeted experiences:** Schedule and optimize ad elements without narrowing the audience.
 
