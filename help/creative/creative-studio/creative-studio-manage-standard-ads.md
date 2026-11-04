@@ -145,11 +145,17 @@ At least one display ad template must exist in your template library.
 
 1. Click **[!UICONTROL Update Creative]**.
 
-## Generate ad variations for a standard ad {#generate-ad-variations}
+## Generate ad variations for a flexible HTML5 creative {#generate-ad-variations}
+
+The **[!UICONTROL Generate Variations]** action is available only for flexible HTML5 creatives. It is disabled when the creative doesn't have the internal parent ad-template reference required by the generator, or while another variation-generation request is being started. The parent ad-template reference isn't a setting that you can edit.
+
+>[!NOTE]
+>
+>You can also generate variations of eligible flexible HTML5 creatives from [!UICONTROL Creative Libraries]. Both entry points open the same [!UICONTROL Ad Variations Generator]. See "[Generate variations of flexible HTML5 creatives](/help/creative/creative-libraries/creative-generate-variations.md)" for the other entry point and availability requirements.
 
 1. In the main menu, click **[!UICONTROL Creative Studio]**.
 
-1. On the **[!UICONTROL Creatives]** tab, hold the cursor over the creative card and click **[!UICONTROL ...]** > **[!UICONTROL Generate Ad Variations]**.
+1. On the **[!UICONTROL Creatives]** tab, hold the cursor over the creative card and click **[!UICONTROL ...]** > **[!UICONTROL Generate Variations]**.
 
    The [!UICONTROL Ad Variations Generator] opens with the selected ad pre-loaded.
 
