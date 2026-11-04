@@ -81,7 +81,11 @@ Map each catalog field to the corresponding element in your template. For exampl
 
    If you continue to QA, the **[!UICONTROL Dynamic Creative QA]** screen opens with a preview canvas and the **[!UICONTROL AI Assistant]** chat panel.
 
+<<<<<<< Updated upstream
 1. If you continue to QA, follow the procedures in "[Quality-check a dynamic creative](#qa-dynamic-creative)" to [analyze and filter ads](#analyze-ads), [review previews and alerts](#review-previews), and optionally [correct catalog values](#correct-catalog-values). When you're finished, [save the dynamic creative](#save-or-exit).
+=======
+1. If you continue to QA, follow the procedures to [analyze and filter ads](#analyze-ads), [review previews and alerts](#review-previews), and optionally [correct catalog values](#correct-catalog-values). When you're finished, [save the dynamic creative](#save-or-exit).
+>>>>>>> Stashed changes
 
 ## Edit a dynamic creative {#edit-dynamic-creative}
 
@@ -113,10 +117,27 @@ Map each catalog field to the corresponding element in your template. For exampl
 
 ## Quality-check a dynamic creative {#qa-dynamic-creative}
 
+<<<<<<< Updated upstream
 Use the QA Agent to analyze catalog rows against a dynamic creative's template, preview the resulting ads, and identify potential content issues. You can filter and group ads using the **[!UICONTROL AI Assistant]**, review catalog alerts, and manually correct catalog values before publishing the changes.
+=======
+Use the QA assistant to analyze catalog rows against a dynamic creative's template, preview the resulting ads, and identify potential content issues. You can filter and group ads using the **[!UICONTROL AI Assistant]**, review catalog alerts, and manually correct catalog values before publishing the changes.
+
+>[!NOTE]
+>
+>You can quality-check dynamic creatives from either [!UICONTROL Creative Studio] or [!UICONTROL Creative Libraries]. See "[Quality-check a dynamic creative from Creative Libraries](/help/creative/creative-libraries/creative-edit-dynamic.md#qa-dynamic-creative)" for the other entry point.
+
+The QA assistant is available for dynamic display creatives, not standard creatives or dynamic video creatives.
+
+### Open the QA assistant {#open-qa-agent}
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Studio]**.
+
+1. On the **[!UICONTROL Creatives]** tab, locate the dynamic creative in its creative library below the [!UICONTROL Generate or Build Creatives] section.
+>>>>>>> Stashed changes
 
 The agent opens the **[!UICONTROL Dynamic Creative QA]** screen from either [!UICONTROL Creative Libraries] or [!UICONTROL Creative Studio]. Although the menu labels differ, both entry points provide the same QA functionality. The analysis depends on the selected creative, catalog, and request.
 
+<<<<<<< Updated upstream
 >[!NOTE]
 >
 >The QA Agent is available for dynamic display creatives, not standard creatives or dynamic video creatives. In [!UICONTROL Creative Libraries], the action is available only for dynamic creatives based on dynamic templates.
@@ -141,6 +162,8 @@ The agent opens the **[!UICONTROL Dynamic Creative QA]** screen from either [!UI
 
      1. Hold the cursor over the creative card and click **[!UICONTROL ...]** > **[!UICONTROL QA Assistant]**.
 
+=======
+>>>>>>> Stashed changes
    The **[!UICONTROL Dynamic Creative QA]** screen opens with a preview canvas and the **[!UICONTROL AI Assistant]** chat panel.
 
 1. If the creative uses multiple catalogs, select the catalog to review from **[!UICONTROL Catalog]** in the header.
@@ -213,7 +236,11 @@ You can manually edit catalog values from an ad preview without leaving the QA s
      * For a new creative, in the **[!UICONTROL Create Dynamic Creative]** confirmation dialog, click **[!UICONTROL Create]**.
      * For an existing creative, in the **[!UICONTROL Update Dynamic Creative]** confirmation dialog, click **[!UICONTROL Update]**.
 
+<<<<<<< Updated upstream
      You return to the creative library or [!UICONTROL Creative Studio], depending on where you opened the QA screen.
+=======
+     You return to [!UICONTROL Creative Studio].
+>>>>>>> Stashed changes
 
 * To leave without publishing pending catalog edits, click **[!UICONTROL Cancel]** in the page header.
 
