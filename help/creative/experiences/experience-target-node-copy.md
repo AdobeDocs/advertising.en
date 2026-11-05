@@ -25,22 +25,37 @@ You can copy all child nodes of a parent target node (including all child target
 
 This feature doesn't affect the target specified for the parent node &mdash; it affects only the child nodes.
 
-<!-- 1. [ways to get to the decision tree] -->
+## Using the AI-driven editor (Beta) {#ai-editor}
+
+While you're [creating](experience-create-targeting.md#ai-editor) or [editing](experience-edit-targeting.md#ai-editor) the experience, use the canvas controls:
+
+1. On the parent node whose children you want to copy, click **[!UICONTROL ...]** > **[!UICONTROL Copy Children]**.
+
+1. On the destination node at the same level, click **[!UICONTROL ...]**, and then choose one of the following:
+
+   * To add the copied child targets and creatives without removing the existing children, click **[!UICONTROL Add]**.
+
+   * To replace the existing child targets and creatives with the copied children, click **[!UICONTROL Replace]**.
+
+   An action is disabled when the tree structure doesn't support it. Review any warning before proceeding.
+
+1. Review the destination branch, and then [save the experience](#save).
+
+## Using the manual editor {#manual-editor}
+
+[Open the manual editor](experience-edit-targeting.md#experience-open) before following these steps.
 
 1. Click the parent node whose children you want to copy, click ![Add](/help/creative/assets/add.png "Add"), and then either a\) select **[!UICONTROL Copy Children ctrl+c]** or b\) enter **[!UICONTROL Ctrl+C]** ([!DNL Microsoft Windows]) or **[!UICONTROL Command-C]** ([!DNL Apple Macintosh]) on your keyboard.
 
 1. Do either of the following:
 
-   * To replace all child nodes and creatives for a node, click the node to which you want to paste the copied information, click **...**, and then either a\) select **[!UICONTROL Replace ctrl+shift+v]** or b\) enter **[!UICONTROL Ctrl+Shift+V]** ([!DNL Microsoft Windows]) or **[!UICONTROL Command-Shift-V]** ([!DNL Apple Macintosh]) on your keyboard.
+   * To replace all child nodes and creatives for a node, click the node to which you want to paste the copied information, click **[!UICONTROL ...]**, and then either a\) select **[!UICONTROL Replace ctrl+shift+v]** or b\) enter **[!UICONTROL Ctrl+Shift+V]** ([!DNL Microsoft Windows]) or **[!UICONTROL Command-Shift-V]** ([!DNL Apple Macintosh]) on your keyboard.
 
-   * (Nodes with multiple child targets, no "All" nodes, and no creatives only) To add all child nodes and creatives to a node, without deleting the existing ones, click the node to which you want to paste the copied information, click **...**, and either a\) select **[!UICONTROL Add ctrl+v]** ** or b\) enter **[!UICONTROL Ctrl+V]** ([!DNL Microsoft Windows]) or **[!UICONTROL Command-V]** ([!DNL Apple Macintosh]) on your keyboard.
+   * (Nodes with multiple child targets, no "All" nodes, and no creatives only) To add all child nodes and creatives to a node, without deleting the existing ones, click the node to which you want to paste the copied information, click **[!UICONTROL ...]**, and either a\) select **[!UICONTROL Add ctrl+v]** or b\) enter **[!UICONTROL Ctrl+V]** ([!DNL Microsoft Windows]) or **[!UICONTROL Command-V]** ([!DNL Apple Macintosh]) on your keyboard.
 
-<!--
-1. (Optional) To save the experience, click **[!UICONTROL Save]**, and then do the following.
-...
+## Save the experience {#save}
 
-These formatted steps are inserted automatically from text in the following file in the _includes folder, which reused in multiple places.
--->
+The following steps apply to both editors.
 
 {{$include /help/_includes/experience-save.md}}
 

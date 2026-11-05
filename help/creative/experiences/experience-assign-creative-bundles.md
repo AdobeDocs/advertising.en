@@ -32,7 +32,31 @@ For standard ad experiences, you can assign only standard creative bundles. For 
 >
 >If you don't assign at least one creative bundle to each final node, you can opt to use the default creatives for each unassigned node when you [save the experience](experience-create-targeting.md). To publish an experience, you must either assign bundles or use the default creatives for each final node.
 
-<!-- 1. [ways to get to the decision tree] -->
+## Using the AI-driven editor (Beta) {#ai-editor}
+
+While you're [creating](experience-create-targeting.md#ai-editor) or [editing](experience-edit-targeting.md#ai-editor) the experience, use the canvas controls:
+
+1. Do one of the following:
+
+   * For a final node without bundles, click **[!UICONTROL Assign Bundles]**.
+
+   * For a node with existing bundles, click **[!UICONTROL ...]** > **[!UICONTROL Edit Bundles]** on its creative leaf node.
+
+1. On the **[!UICONTROL Assign Bundles]** tab, select the check box next to each bundle to assign, and deselect the check box next to each bundle to unassign.
+
+   Only bundles of the relevant type for the experience (standard or dynamic) are listed.
+
+1. (Optional) Open the **[!UICONTROL Creative optimisation]** tab to [customize rotation and scheduling](experience-optimization-scheduling-targeting.md).
+
+1. Click **[!UICONTROL Save]** in the dialog to update the working tree.
+
+1. (Optional) [Customize the tracking URLs](experience-tracking-urls-targeting.md#ai-editor).
+
+1. [Save the experience](#save) from the tree header to persist your changes.
+
+## Using the manual editor {#manual-editor}
+
+[Open the manual editor](experience-edit-targeting.md#experience-open) before following these steps.
 
 1. Do one of the following:
 
@@ -50,12 +74,9 @@ For standard ad experiences, you can assign only standard creative bundles. For 
 
 1. (Optional) [Customize the tracking URLs for creatives in the assigned bundles](experience-tracking-urls-targeting.md).
 
-<!--
-1. (Optional) To save the experience, click **[!UICONTROL Save]**, and then do the following.
-...
+## Save the experience {#save}
 
-These formatted steps are inserted automatically from text in the following file in the _includes folder, which reused in multiple places.
--->
+The following steps apply to both editors. Saving the bundle dialog alone doesn't save or publish the experience.
 
 {{$include /help/_includes/experience-save.md}}
 

@@ -1,6 +1,6 @@
 ---
 title: Edit an experience with decision tree targeting
-description: Learn how to edit the settings for a targeted ad experience using a decision tree.
+description: Learn how to edit a targeted ad experience using the AI-driven or manual decision tree editor.
 feature: Creative Experiences
 exl-id: 8c5e8f9b-c405-41b2-98a9-da7c5debd3e1
 TQID: 'https://experienceleague.adobe.com/0mcPjfiET-DKrm2qaa1Odygv1GIgv4cR7lBRNmrYGBk'
@@ -22,79 +22,103 @@ topic_v2:
 ---
 # Edit an experience with decision tree targeting
 
+The AI-driven editor (Beta) opens by default for experiences with targeting. You can work with the AI agent, edit the canvas directly, or open the existing manual editor.
+
+## Open the experience {#experience-open}
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Experiences]**.
 
 1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific experiences.
 
 1. Do one of the following:
 
-   * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Edit]**.
-   
-   * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Edit]**.
+   * To open the AI-driven editor:
 
-   The decision tree opens by default.
-   
-1. (Optional) Switch between the decision tree and the general settings as needed:
+      * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Edit]**.
 
-   * To open the general settings from the decision tree, click **[!UICONTROL Experience Form]** in the upper right.
+      * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Edit]**.
 
-   * To open the decision tree from the general settings, click **[!UICONTROL Decision Tree]** in the upper right.
+   * To open the manual editor:
 
-1. (Optional) To edit the decision tree, do any of the following:
+      * In card view, click **[!UICONTROL ...]** next to the experience name, and then click **[!UICONTROL Create Decision Tree Manually (Legacy)]**.
 
-   * ([Processing](experience-about.md#experience-statuses) experiences) Do one of the following:
-   
-      * To discard the existing, unposted changes to the live experience, click **[!UICONTROL Discard and start again]**.
-      
-      * To keep the existing, unposted changes, click **[!UICONTROL Continue editing draft]**.
-      
-      * To edit the experience details, click **[!UICONTROL Edit Experience Details]**.
+      * In table view, hold the cursor over the row, click **[!UICONTROL More]**, and then click **[!UICONTROL Create Decision Tree Manually (Legacy)]**.
 
-   * (Optional) Change the view settings for the decision tree.
-   
-     Your settings are saved until you log out.
-   
-   * Zoom in or out by moving the slider.
-   
-   * Switch between viewing a vertical list and a horizontal list by clicking ![View as Vertical Tree](/help/creative/assets/tree-vertical.png "View as Vertical Tree") or ![View as Horizontal Tree](/help/creative/assets/tree-horizontal.png "View as Horizontal Tree"), respectively.
+      * Within the AI-driven editor, 
 
-   * (Optional) Change up the ad targets and corresponding creatives in any of the following ways:
-   
-     * Targets:
-     
-       *[Add a target node to the final level](experience-target-node-add-final.md) in an experience.
-       
-       * [Insert a target node between nodes](experience-target-node-add-inner.md).
-       
-       * [Add a sibling target node between nodes](experience-target-node-add-sibling.md).
-       
-       * [Copy child nodes and creatives to another node at the same level](experience-target-node-copy.md).
+## Edit using the AI-driven editor (Beta) {#ai-editor}
 
-     * Creative bundles:
-     
-       * [Assign and unassign creatives to a final node](experience-assign-creative-bundles.md).
-       
-         If you don't assign at least one bundle to each final node, you can opt to use the default creatives for each unassigned node when you save the experience. To publish an experience, you must either assign bundles or use the default creatives for each final node.
-       
-       * [Customize the tracking URLs for creatives in the assigned bundles](experience-tracking-urls-targeting.md).
-       
-       * [Customize creative optimization and scheduling](experience-optimization-scheduling-targeting.md) for the assigned bundles.
+1. [Open the experience](#experience-open).
 
-1. (Optional) Edit the [general experience settings](experience-settings-targeting.md).
+1. Describe the targeting changes you want in the conversation. Identify the affected branch by its targets or, when shown on the canvas, its node ID.
 
-1. Click **[!UICONTROL Save]**, and then do the following.
+1. Review the updated tree, and describe any further changes. Wait for the assistant to finish processing before interacting with the canvas.
 
-   * (If each node at the bottom-most level includes at least one creative bundle) Click **[!UICONTROL OK]**.
-   
-   * (If each node at the bottom-most level doesn't include at least one creative bundle) Do one of the following:
-   
-     * To save the experience without all the required creative bundles, click **[!UICONTROL Save as Draft]**.
-     
-       You can't create an ad tag for a [draft](experience-about.md#experience-statuses) experience.
+1. (Optional) Make changes directly in the canvas:
 
-     * To assign the default creative to each target that hasn't already been assigned a creative bundle, click **[!UICONTROL Assign Default Creatives]**. After you review the updated tree with the default creatives assigned, click **[!UICONTROL Save]** and **[!UICONTROL OK]**.
-     
-     * To continue editing the decision tree, click **[!UICONTROL Continue Edit]**.
+   * [Add a final-level target](experience-target-node-add-final.md#ai-editor), [insert a target level](experience-target-node-add-inner.md#ai-editor), or [add a sibling target](experience-target-node-add-sibling.md#ai-editor).
+
+   * Edit a target's criteria by clicking **[!UICONTROL ...]** > **[!UICONTROL Edit]** next to the target, changing the values, and then clicking **[!UICONTROL Edit Node]**.
+
+   * [Copy child nodes and creatives](experience-target-node-copy.md#ai-editor) or [delete a node](experience-target-node-delete.md#ai-editor).
+
+   * [Assign or unassign creative bundles](experience-assign-creative-bundles.md#ai-editor).
+
+   * [Customize creative optimization and scheduling](experience-optimization-scheduling-targeting.md) or [tracking URLs](experience-tracking-urls-targeting.md#ai-editor).
+
+1. [Save the experience](#save).
+
+## Edit using the manual editor {#manual-editor}
+
+1. [Open the experience](#experience-open).
+
+1. (Experiences with status `[processing](experience-about.md#experience-statuses)`) If prompted about an existing, unposted draft, do one of the following:
+
+   * Click **[!UICONTROL Continue editing draft]** to review and keep editing the draft.
+
+   * Click **[!UICONTROL Discard and start again]** to discard the draft and start from the live version.
+
+   * Click **[!UICONTROL Cancel this edit]** to stop editing.
+
+1. (Optional) Adjust the zoom slider, or click ![View as Vertical Tree](/help/creative/assets/tree-vertical.png "View as Vertical Tree") or ![View as Horizontal Tree](/help/creative/assets/tree-horizontal.png "View as Horizontal Tree") to change the orientation.
+
+   Your view settings are saved until you log out.
+
+1. Change the targets and creatives as needed:
+
+   * [Add a final-level target](experience-target-node-add-final.md#manual-editor), [insert a target between nodes](experience-target-node-add-inner.md#manual-editor), or [add a sibling target](experience-target-node-add-sibling.md#manual-editor).
+
+   * [Copy child nodes and creatives](experience-target-node-copy.md#manual-editor) or [delete a node](experience-target-node-delete.md#manual-editor).
+
+   * [Assign or unassign creative bundles](experience-assign-creative-bundles.md#manual-editor).
+
+   * [Customize creative optimization and scheduling](experience-optimization-scheduling-targeting.md) or [tracking URLs](experience-tracking-urls-targeting.md#manual-editor).
+
+1. [Save the experience](#save).
+
+## Switch editors or edit the experience settings {#switch-editors}
+
+>[!IMPORTANT]
+>
+>Before leaving the AI-driven editor, save any tree changes you want to keep. Switching to the manual editor or experience form doesn't transfer unsaved changes.
+
+* **AI-driven editor to manual editor:** Click **[!UICONTROL Manual Decision Tree]**. In the confirmation dialog, click **[!UICONTROL Yes]** to discard unsaved changes and open the manual editor, or **[!UICONTROL No]** to stay.
+
+* **AI-driven editor to general settings:** Click **[!UICONTROL Experience Form]**, and then click **[!UICONTROL Yes]** to discard unsaved tree changes and open the form. Edit the [general experience settings](experience-settings-targeting.md), and then click **[!UICONTROL Save]**.
+
+* **Manual editor to general settings:** Save any tree changes you want to keep, and then click **[!UICONTROL Experience Form]**. Edit the [general experience settings](experience-settings-targeting.md), and then click **[!UICONTROL Save]**.
+
+* **General settings to AI-driven editor:** Click **[!UICONTROL Decision Tree]**. Saving changes to a targeted experience's general settings also opens the AI-driven editor.
+
+* **Manual editor to AI-driven editor:** Save your tree changes, return to the [!UICONTROL Experiences] view, and select **[!UICONTROL Edit]** for the experience.
+
+To leave the AI-driven editor without opening another editor, click **[!UICONTROL Cancel]**. Click **[!UICONTROL Yes]** to discard unsaved tree changes, or **[!UICONTROL No]** to continue editing.
+
+## Save the experience {#save}
+
+The following steps apply to both editors.
+
+{{$include /help/_includes/experience-save.md}}
 
 >[!MORELIKETHIS]
 >

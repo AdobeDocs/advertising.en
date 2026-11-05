@@ -1,6 +1,6 @@
 ---
 title: Manage dynamic creatives in Creative Studio
-description: Learn how to build, edit, duplicate, and delete catalog-driven dynamic creatives in Adobe Advertising Creative Studio.
+description: Learn how to build, quality-check, edit, duplicate, and delete catalog-driven dynamic creatives in Adobe Advertising Creative Studio.
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -13,13 +13,13 @@ role_v2:
 ---
 # Manage dynamic creatives in [!UICONTROL Creative Studio]
 
-The **[!UICONTROL Creatives]** tab in [!UICONTROL Creative Studio] lists your dynamic creatives by library. From here you can build new catalog-driven dynamic creatives, edit the details and attribute mapping of existing creatives, view change logs, duplicate creatives, and delete creatives.
+The **[!UICONTROL Creatives]** tab in [!UICONTROL Creative Studio] lists your dynamic creatives by library. From here you can build new catalog-driven dynamic creatives, quality-check creatives with AI, edit the details and attribute mapping of existing creatives, view change logs, duplicate creatives, and delete creatives.
 
 ## Build a dynamic creative {#build-dynamic-creative}
 
 Use this workflow to create catalog-driven dynamic creatives. A four-step guided wizard walks you through selecting a template, connecting a catalog, and mapping catalog fields to template elements. After setup, the [!UICONTROL AI Assistant] helps you to preview and quality-check each ad combination generated from the catalog data.
 
-Dynamic creatives differ from standard ads in a key way: the AI agent can't modify catalog-sourced content. It can filter, analyze, and flag issues &mdash; but to change ad content you must update the source catalog.
+Dynamic creatives differ from standard ads in a key way: the AI agent can't modify catalog-sourced content. It can filter, analyze, and flag issues &mdash; but to change ad content you must update catalog values manually, either from the QA screen or in the source catalog.
 
 ### Prerequisites
 
@@ -79,44 +79,9 @@ Map each catalog field to the corresponding element in your template. For exampl
 
 1. Choose whether to *[!UICONTROL Save Dynamic Creative & Skip QA]* or to *[!UICONTROL Continue to QA]*.
 
-   If you continue to QA, the canvas shows all ad combinations generated from the catalog, displayed as rows with a preview of each catalog entry rendered in the template.
+   If you continue to QA, the **[!UICONTROL Dynamic Creative QA]** screen opens with a preview canvas and the **[!UICONTROL AI Assistant]** chat panel.
 
-1. If you continue to QA:
-
-   1. Do any of the following:
-
-      * Use the **[!UICONTROL Zoom in]** and **[!UICONTROL Zoom out]** controls to adjust the canvas view.
-   
-      * Use the pagination controls (**X-Y of Z**) to page through catalog rows.
-
-      * To edit an ad combination:
-   
-        1. Hold the cursor over the catalog row and click **[!UICONTROL Edit]**.
-     
-        1. In the **[!UICONTROL Edit Row]** dialog, update the field values.
-     
-        1. Click **[!UICONTROL Save]**.
-     
-          The canvas refreshes to reflect the updated values.
-
-      * Use the **[!UICONTROL AI Assistant]** chat panel to analyze and filter catalog combinations. Type your request in the **[!UICONTROL Ask anything]** field, or click one of the suggested prompts:
-
-        * **[!UICONTROL Run a comprehensive QA pass on this dynamic creative]**
-        * **[!UICONTROL Show me side-by-side comparisons of A/B testing creatives]**
-        * **[!UICONTROL Show me all ads for millennial women in urban markets]**
-     
-        The AI agent can:
-     
-        * Filter the canvas to show ads that match a specific audience segment, geography, language, category, or other catalog field.
-        * Check for quality issues such as character-limit overruns, content overflow or bleed, broken image links, and disclaimer visibility.
-        * Compare ad combinations for A/B testing analysis.
-        * Organize ads into groups for side-by-side review.
-     
-        The AI agent can't modify catalog-sourced content. To change ad content, update the source catalog.
-
-   1. Save **[!UICONTROL Save Dynamic Creative]** in the header.
-   
-   1. In the confirmation message, click **[!UICONTROL Create]**.
+1. If you continue to QA, follow the procedures in "[Quality-check a dynamic creative](#qa-dynamic-creative)" to [analyze and filter ads](#analyze-ads), [review previews and alerts](#review-previews), and optionally [correct catalog values](#correct-catalog-values). When you're finished, [save the dynamic creative](#save-or-exit).
 
 ## Edit a dynamic creative {#edit-dynamic-creative}
 
@@ -146,13 +111,99 @@ Map each catalog field to the corresponding element in your template. For exampl
 
 1. Click **[!UICONTROL Update Creative]**.
 
-## Re-open the QA assistant for a dynamic creative {#qa-dynamic-creative}
+## Quality-check a dynamic creative {#qa-dynamic-creative}
 
-1. In the main menu, click **[!UICONTROL Creative Studio]**.
+Use the QA assistant to analyze catalog rows against a dynamic creative's template, preview the resulting ads, and identify potential content issues. You can filter and group ads using the **[!UICONTROL AI Assistant]**, review catalog alerts, and manually correct catalog values before publishing the changes.
 
-1. On the **[!UICONTROL Creatives]** tab, hold the cursor over the creative card and click **[!UICONTROL ...]** > **[!UICONTROL QA Assistant]**.
+>[!NOTE]
+>
+>You can quality-check dynamic creatives from either [!UICONTROL Creative Studio] or [!UICONTROL Creative Libraries]. Although the menu labels differ, both entry points open the same **[!UICONTROL Dynamic Creative QA]** screen with the same functionality. The analysis depends on the selected creative, catalog, and request. See "[Quality-check a dynamic creative from Creative Libraries](/help/creative/creative-libraries/creative-edit-dynamic.md#qa-dynamic-creative)" for the other entry point.
 
-   The QA screen opens. See "[Step 5: Preview and QA with AI](#qa)" for the available canvas controls and AI assistant capabilities.
+The QA assistant is available for dynamic display creatives, not standard creatives or dynamic video creatives.
+
+### Open the QA assistant {#open-qa-agent}
+
+1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Studio]**.
+
+1. On the **[!UICONTROL Creatives]** tab, locate the dynamic creative in its creative library below the [!UICONTROL Generate or Build Creatives] section.
+
+1. Hold the cursor over the creative card and click **[!UICONTROL ...]** > **[!UICONTROL QA Assistant]**.
+
+   The **[!UICONTROL Dynamic Creative QA]** screen opens with a preview canvas and the **[!UICONTROL AI Assistant]** chat panel.
+
+1. If the creative uses multiple catalogs, select the catalog to review from **[!UICONTROL Catalog]** in the header.
+
+   The assistant analyzes the selected catalog. The catalog selector is disabled when the creative uses only one catalog.
+
+### Analyze and filter ads with AI {#analyze-ads}
+
+1. In the **[!UICONTROL AI Assistant]** panel, type a request in **[!UICONTROL Ask anything]** and press **[!UICONTROL Enter]**, or click one of the suggested prompts:
+
+   * **[!UICONTROL Run a comprehensive QA pass on this dynamic creative]**
+   * **[!UICONTROL Group ads by product]**
+   * **[!UICONTROL Filter ads by geography]**
+   * **[!UICONTROL Show all ads with headlines over 80 characters]**
+
+   The assistant responds in the chat panel and displays matching catalog rows as ad previews on the canvas. Until you submit a request, the canvas prompts you to ask the assistant to analyze the catalog.
+
+1. Continue refining the review with follow-up requests. The assistant can help you:
+
+   * Filter ads by audience segment, language, geography, or zip code.
+   * Check character lengths using a threshold that you specify.
+   * Check for feed errors, missing content, and suspicious content.
+   * Review translation status.
+   * Compare A/B test variants.
+   * Group ads for review, such as by product or issue.
+
+   Verify the assistant's responses and inspect the previews before saving changes.
+
+### Review previews and alerts {#review-previews}
+
+* Use the canvas toolbar to:
+
+  * Adjust the zoom.
+  * Switch between **[!UICONTROL Thumbnail view]** and **[!UICONTROL Actual size]**.
+  * Click **[!UICONTROL Replay animations]** to replay the previews.
+  * Select the number of rows per page, select a page number, or use **[!UICONTROL Previous page]** and **[!UICONTROL Next page]**.
+
+* When the assistant groups results, click the link to view all creatives in a group. Use **[!UICONTROL Back to groups]** to return to the grouped results, or **[!UICONTROL Catalog Rows]** to leave the grouped view.
+
+* When a preview shows **[!UICONTROL Issues detected]**, hold the cursor over the indicator to view the issue details.
+
+* When catalog alerts are available, click **[!UICONTROL View Alerts]**. The **[!UICONTROL Alerts]** dialog lists the catalog, row number, column, and error message for each issue. Click **[!UICONTROL Close]** to return to the canvas.
+
+### Correct catalog values {#correct-catalog-values}
+
+You can manually edit catalog values from an ad preview without leaving the QA screen.
+
+1. On the preview that you want to correct, click **[!UICONTROL Edit]**.
+
+1. In the edit dialog, select the columns to change under **[!UICONTROL Catalog columns to edit]**. To find a column, use **[!UICONTROL Search columns]**.
+
+1. Under **[!UICONTROL Columns content]**, update the selected field values.
+
+1. Click **[!UICONTROL Update]**.
+
+   The preview refreshes to reflect the updated values. The catalog changes aren't published until you save the dynamic creative.
+
+>[!IMPORTANT]
+>
+>These edits update catalog data, not just the ad preview. Review the values before publishing them.
+
+### Save changes or exit {#save-or-exit}
+
+* To save the dynamic creative and publish any catalog edits:
+
+  1. Click **[!UICONTROL Save Dynamic Creative]** in the header.
+
+  1. Confirm the save:
+
+     * For a new creative, in the **[!UICONTROL Create Dynamic Creative]** confirmation dialog, click **[!UICONTROL Create]**.
+     * For an existing creative, in the **[!UICONTROL Update Dynamic Creative]** confirmation dialog, click **[!UICONTROL Update]**.
+
+     You return to [!UICONTROL Creative Studio].
+
+* To leave without publishing pending catalog edits, click **[!UICONTROL Cancel]** in the page header.
 
 ## View the change log for a dynamic creative {#view-change-log}
 
@@ -183,4 +234,3 @@ Duplicate a dynamic creative to add a new creative with the same settings to the
 >* [About Creative Studio in Advertising Creative](creative-studio-about.md)
 >* [Manage standard ads in Creative Studio](creative-studio-manage-standard-ads.md)
 >* [Manage templates in Creative Studio](creative-studio-manage-templates.md)
-

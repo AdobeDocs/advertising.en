@@ -30,11 +30,12 @@ breadcrumb-title: Creative Guide
     + Standard creatives {#standard-creatives}
       + [Add standard creatives to a creative library](/help/creative/creative-libraries/creative-add-standard.md)
       + [Edit standard creatives](/help/creative/creative-libraries/creative-edit-standard.md)
+      + [Generate variations of flexible HTML5 creatives](/help/creative/creative-libraries/creative-generate-variations.md)
       + [Standard creative settings](/help/creative/creative-libraries/creative-settings-standard.md)
       + [HTML5 creative specification](/help/creative/creative-libraries/html5-creative-specification.md)
     + Dynamic creatives {#dynamic-creatives}
       + [Add dynamic creatives to a creative library](/help/creative/creative-libraries/creative-add-dynamic.md)
-      + [Edit dynamic creatives](/help/creative/creative-libraries/creative-edit-dynamic.md)
+      + [Edit and quality-check dynamic creatives](/help/creative/creative-libraries/creative-edit-dynamic.md)
       + [Dynamic creative settings](/help/creative/creative-libraries/creative-settings-dynamic.md)
     + [Preview a creative](/help/creative/creative-libraries/creative-preview.md)
     + [Attach creatives to bundles](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
