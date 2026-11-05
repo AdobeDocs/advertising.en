@@ -99,9 +99,9 @@ The new user interface features a new main menu on the left, which organizes tas
 
 * **[!UICONTROL Targeting]** submenu:
 
-  * **[!UICONTROL Audiences]**: Opens a new view that shows all existing audiences for the advertiser, all audience targets, and all audience exclusions. To manage your audiences, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
-
-  * **[!UICONTROL Auto Targets]** Opens a new view to list and manage auto targets for the advertiser.
+  * **[!UICONTROL Audiences]**: Opens a new view to manage audiences for the advertiser, all audience targets, and all audience exclusions.
+  
+  * **[!UICONTROL Auto Targets]** Opens a new view, which shows all existing auto targets for the advertiser. To manage your auto targets, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Auto Targets] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
   * **[!UICONTROL Placements]** Opens a new view to list and manage your placements and negative placements for the advertiser.
 

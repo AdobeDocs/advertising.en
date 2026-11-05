@@ -417,7 +417,7 @@ Not there as of 7/22 -- what's going on here? If we're removing it, then I need 
 
 >[!NOTE]
 >
->Audience signals are different from [campaign-level and ad group-level audience targets](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
+>Audience signals are different from [campaign-level and ad group-level audience targets](/help/search-social-commerce/new-ui/targeting/audiences/audience-targets-manage.md).
 
 **[!UICONTROL Primary Status]:** (Read-only field for existing asset groups in performance max campaigns) Why the asset group is or isn't serving at full capacity. It takes into account the asset group status as well as other signals, such as policy and quality approvals. Values may include *ELIGIBLE,* *LIMITED,* *NOT_ELIGIBLE,* *PAUSED,* *PENDING,* *REMOVED,* *UNKNOWN,* or *UNSPECIFIED.*<!-- GGL also has a Primary Status field for campaigns; if we ever sync that, then we'll need to distinguish between them. -->
 
