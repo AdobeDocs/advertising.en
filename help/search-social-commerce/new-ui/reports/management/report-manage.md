@@ -43,7 +43,7 @@ The following report categories are available from the [!UICONTROL Reports] view
 
 Schedule customized reports to be automatically generated in either or both of the following ways:
 
-* Automatically generate reports each day, or on a specific day of the week or month, using [report templates](/help/search-social-commerce/reports/automation/templates/template-about.md).
+* Automatically generate reports each day, or on a specific day of the week or month, using [report templates](/help/search-social-commerce/new-ui/reports/report-templates-manage.md).
   
   You can optionally set up [FTP delivery of basic and advanced reports](/help/search-social-commerce/new-ui/reports/ftp-reports.md) that use a template.
 
