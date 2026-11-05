@@ -250,10 +250,18 @@ role_v2:
     + [Manage [!DNL Google Ads] conversion value rules](/help/search-social-commerce/new-ui/goals/conversion-value-rules-manage.md)
     + [Manage constraints for search bid units](/help/search-social-commerce/new-ui/goals/constraints-manage.md)
   + Targeting {#targeting}
+    + Audiences {#audiences-new-ui}
+      + [Manage audiences](/help/search-social-commerce/new-ui/targeting/audiences/audience-manage.md)
+      + [Manage audience targets for campaigns and ad groups](/help/search-social-commerce/new-ui/targeting/audiences/audience-targets-manage.md)
+      + [Manage audience exclusions for campaigns and ad groups](/help/search-social-commerce/new-ui/targeting/audiences/audience-exclusions.md)
     + [Manage [!DNL Google Ads] dynamic search targets](/help/search-social-commerce/new-ui/targeting/dynamic-search-target-manage.md)
     + [Manage placements](/help/search-social-commerce/new-ui/targeting/placement-manage.md)
   + Library {#library}
     + [View and create creative assets](/help/search-social-commerce/new-ui/library/creative-asset-manage.md)
+    + Extensions {#extensions-new-ui}
+      + [Manage shared sitelink extensions](/help/search-social-commerce/new-ui/library/extensions/sitelink-extension-manage.md)
+      + [Manage [!DNL Google Ads] shared callout extensions](/help/search-social-commerce/new-ui/library/extensions/callout-extension-manage.md)
+      + [Manage ad extension associations](/help/search-social-commerce/new-ui/library/extensions/ad-extension-association-manage.md)
   + [Manage custom alerts](/help/search-social-commerce/new-ui/alerts-manage.md)
   + [Manage notifications](/help/search-social-commerce/new-ui/notifications-manage.md)
   + [User administration](/help/search-social-commerce/new-ui/user-administration.md)

@@ -15,11 +15,11 @@ feature_v2:
 
 <!-- Update link to notifications once available -->
 
-Spreadsheet feeds provide daily performance data for all basic reports and model accuracy reports in a custom spreadsheet format in [!DNL Microsoft Excel] XLSX. You can set up spreadsheet feeds using specially formatted [!DNL Excel] spreadsheet templates that you create from regular report templates. Each day, the spreadsheet is automatically refreshed at a specified time with new, raw data that is aggregated daily. The raw data populates any columns and graphs that you've included in the spreadsheet template. Once a spreadsheet feed file is available, or if the file generation fails, each email recipient in the report template receives notification, based on the user's configured [notification settings for reports](/help/search-social-commerce/notifications/notification-about.md).
+Spreadsheet feeds provide daily performance data for all basic reports and model accuracy reports in a custom spreadsheet format in [!DNL Microsoft Excel] XLSX. You can set up spreadsheet feeds using specially formatted [!DNL Excel] spreadsheet templates that you create from regular report templates. Each day, the spreadsheet is automatically refreshed at a specified time with new, raw data that is aggregated daily. The raw data populates any columns and graphs that you've included in the spreadsheet template. Once a spreadsheet feed file is available, or if the file generation fails, each email recipient specified in the spreadsheet feed settings receives notification, based on the user's configured [notification settings for reports](/help/search-social-commerce/notifications/notification-about.md).
 
 You can configure the feed to refresh up to the last 90 days of data, and all previous existing data remains, continuing to accumulate.
 
-The [!UICONTROL Reports] > [!UICONTROL Spreadsheets Feeds] view lists all spreadsheet feeds that you have created. From this view, you can create spreadsheet feeds, manually refresh a feed, or delete a feed.
+The [!UICONTROL Reports] > [!UICONTROL Spreadsheet Feeds] view lists all spreadsheet feeds that you have created. From this view, you can create, edit, manually refresh, or delete spreadsheet feeds, view the associated report template's settings, and copy selected row data.
 
 ## Available actions
 
@@ -29,17 +29,19 @@ The [!UICONTROL Reports] > [!UICONTROL Spreadsheets Feeds] view lists all spread
 
 * [Edit spreadsheet report feed settings](#spreadsheet-feed-edit)
 
+* [View the associated report template's settings](#spreadsheet-feed-view-template)
+
 * [View or save a spreadsheet report feed file](#spreadsheet-feed-view-or-save)
 
 * [Manually refresh spreadsheet report feeds](#spreadsheet-feed-refresh)
 
 * [Delete spreadsheet report feeds](#spreadsheet-feed-delete)
 
+* [Copy all data in selected rows to your clipboard](#copy-to-clipboard)
+
 ## Create an [!DNL Excel] template for a spreadsheet report feed {#spreadsheet-feed-create-excel-template}
 
-<!-- Add x-refs when available -->
-
-To create spreadsheet feeds, you must first create specially formatted [!DNL Microsoft Excel] spreadsheet templates using regular report templates. You optionally can customize the [!DNL Excel] spreadsheet to include additional columns and graphs.
+To create spreadsheet feeds, you must first create specially formatted [!DNL Microsoft Excel] spreadsheet templates using regular [report templates](report-templates-manage.md). You optionally can customize the [!DNL Excel] spreadsheet to include additional columns and graphs.
 
 1. In **[!UICONTROL Reports] > [!UICONTROL Reports]**, generate the desired report type using a [!UICONTROL Date Aggregation] unit of "[!UICONTROL Daily]" and with all other data parameters you want, saving the report as a template.
 
@@ -94,7 +96,7 @@ To create spreadsheet feeds, you must first create specially formatted [!DNL Mic
       >
       >If the report template associated with the feed is later deleted, then the feed is also deleted.
 
-      The spreadsheet feeds are automatically refreshed each day at the configured [!UICONTROL Schedule Time]. If the report template includes addresses for any email recipients, then those addresses receive notifications when the spreadsheet is refreshed.
+      The spreadsheet feeds are automatically refreshed each day at the configured [!UICONTROL Schedule Time]. The addresses specified in the feed's [!UICONTROL Email Recipients] setting receive notifications when the spreadsheet is refreshed.
 
 ## Edit spreadsheet report feed settings {#spreadsheet-feed-edit}
 
@@ -106,7 +108,7 @@ To create spreadsheet feeds, you must first create specially formatted [!DNL Mic
 
    * (Optional) To use a different or updated report template for the feed, [create a new [!DNL Excel] template for the report template](#spreadsheet-feed-create-excel-template).
      
-     You'll upload both the report template and the new [!DNL Excel] file in the next steps.
+     You'll select the report template and upload the new [!DNL Excel] file in the next steps.
    
    * (Optional) To simply add custom columns to the [!DNL Excel] template, insert the columns to the right of the columns from the report template, and then save the file as an [!DNL Excel] spreadsheet in .XLSX format. You'll need to upload the new [!DNL Excel] file in the next step.
 
@@ -118,7 +120,7 @@ To create spreadsheet feeds, you must first create specially formatted [!DNL Mic
    
    1. In the bulk actions toolbar, click **[!UICONTROL Edit]**.
    
-   1. In the [!UICONTROL Create Spreadsheet Feed]<!-- sic --> dialog, change the [spreadsheet feed settings](#spreadsheet-feed-settings).
+   1. In the **[!UICONTROL Edit Spreadsheet Feed]** dialog, change the [spreadsheet feed settings](#spreadsheet-feed-settings).
    
    1. Click **[!UICONTROL Submit]**.
    
@@ -128,20 +130,34 @@ To create spreadsheet feeds, you must first create specially formatted [!DNL Mic
      >
      > If the report template associated with the feed is later deleted, then the feed is also deleted.
 
-      Spreadsheet feeds are automatically refreshed at 08:00 each day in the advertiser's time zone. If the report template includes addresses for any email recipients, then those addresses receive notifications when the spreadsheet is refreshed.
+      Spreadsheet feeds are automatically refreshed each day at the configured [!UICONTROL Schedule Time] in the advertiser's time zone. The addresses specified in the feed's [!UICONTROL Email Recipients] setting receive notifications when the spreadsheet is refreshed.
 
 ## Spreadsheet report feed settings {#spreadsheet-feed-settings}
 
 | Field | Description |
 |---|---|
-| [!UICONTROL Feed Name] | A name for the spreadsheet feed. |
+| [!UICONTROL Feed Name] | A name for the spreadsheet feed, with a maximum of 120 characters. |
 | [!UICONTROL Report Template] | The report template that specifies the required report data; select the one you used to create the [!DNL Excel] template. All basic report templates are listed.<br><br><b>Note:</b> If you change the report template used for the report, or you update the columns in the template, then you must create and upload a new [!DNL Excel] template. |
-| [!UICONTROL Excel Template] | The specially formatted [!DNL Excel] template that you created in .XLSX format, which is applied to data specified in the report template. Specify the file to upload either by entering the full path and file name or by clicking <b>[!UICONTROL Browse]</b> to locate the file on your device or network. |
-| [!UICONTROL Back Fill From] | The beginning date for which existing data on the [!UICONTROL RAW] tab is refreshed, represented by a number of days in the past. Enter a value of up to 90 days; the default is seven (7) days.<br><br>For example, if the value is 7, and today is March 7, then the existing data on the [!UICONTROL RAW] tab beginning with March 1 is refreshed (up until the end date specified by the [!UICONTROL Back Fill Until] parameter). Existing rows of data for dates before March 1 aren't deleted, but they aren't refreshed. |
-| [!UICONTROL Back Fill Until] |The end date for which existing data on the [!UICONTROL RAW] tab is refreshed, represented by a number of days in the past. The default value is one (1) day.<br><br>For example, if this value is 1, and today is March 7, then the existing data on the [!UICONTROL RAW] tab is refreshed up to March 6 (and beginning with the start date specified by the [!UICONTROL Back Fill From] parameter). If this value is 1, the [!UICONTROL Back Fill Until] parameter is 7, and today is March 7, then the existing data on the [!UICONTROL RAW] tab is refreshed from March 1 through March 6. In both examples, existing rows of data for dates after March 6 aren't deleted, but they aren't refreshed. |
-| [!UICONTROL Email Recipients] | Email addresses at which to send notifications each time the report is refreshed, or each time the report is run when the template includes a schedule. By default, the address for your user account is entered. To specify multiple addresses, separate them with commas, spaces, or new lines. |
-| [!UICONTROL Schedule Time] | The time at which spreadsheet feeds are refreshed: either at 08:00 or at any hour between 10:00 and 23:00 in the advertiser's time zone. The default for new spreadsheet feeds is 10:00.<br><br><b>Note:</b> For performance reasons, you can't refresh spreadsheet feeds at 09:00, when other reports are generated. |
-| [!UICONTROL Email Notification] | (When Email Recipients are specified) What to include in email notifications to any specified addresses:<ul><li><i>[!UICONTROL Attach feed]</i> &mdash; To send a copy of the completed report in XLSX format. If the file is greater than 10 MB, then the notification doesn't include an attachment.</li><li><i>[!UICONTROL Notification Only]</i> (the default) &mdash; To send only a notification of the report completion or failure, with a link to the report.</li></ul> |
+| [!UICONTROL Excel Template] | The specially formatted [!DNL Excel] template that you created in .XLSX format, which is applied to data specified in the report template. Click <b>[!UICONTROL Choose file]</b> to locate the file to upload. |
+| [!UICONTROL Back Fill From] | The beginning date for which existing data on the [!UICONTROL RAW] tab is refreshed, represented by a number of days in the past. Enter a value from 1-90 that is greater than [!UICONTROL Back Fill Until]; the default is seven (7) days.<br><br>For example, if the value is 7, and today is March 7, then the existing data on the [!UICONTROL RAW] tab beginning with March 1 is refreshed (up until the end date specified by the [!UICONTROL Back Fill Until] parameter). Existing rows of data for dates before March 1 aren't deleted, but they aren't refreshed. |
+| [!UICONTROL Back Fill Until] | The end date for which existing data on the [!UICONTROL RAW] tab is refreshed, represented by a number of days in the past. Enter a value from 1-90 that is less than [!UICONTROL Back Fill From]. The default value is one (1) day.<br><br>For example, if this value is 1, and today is March 7, then the existing data on the [!UICONTROL RAW] tab is refreshed up to March 6 (and beginning with the start date specified by the [!UICONTROL Back Fill From] parameter). If this value is 1, the [!UICONTROL Back Fill From] parameter is 7, and today is March 7, then the existing data on the [!UICONTROL RAW] tab is refreshed from March 1 through March 6. In both examples, existing rows of data for dates after March 6 aren't deleted, but they aren't refreshed. |
+| [!UICONTROL Email Recipients] | Email addresses at which to send notifications each time the spreadsheet feed is refreshed. By default, the address for your user account is entered. To specify multiple addresses, separate them with commas, spaces, or new lines. |
+| [!UICONTROL Schedule Time] | The time at which the spreadsheet feed is refreshed each day in the advertiser's time zone. Select a time from the available options. The default for new spreadsheet feeds is 10:00. |
+| [!UICONTROL Email Notification] | What to include in email notifications to the specified addresses:<ul><li><i>[!UICONTROL Attach Feed (Max 10MB)]</i> &mdash; To send a copy of the completed report in XLSX format. If the file is greater than 10 MB, then the notification doesn't include an attachment.</li><li><i>[!UICONTROL Notification Only]</i> (the default) &mdash; To send only a notification of the report completion or failure, with a link to the report.</li></ul> |
+
+## View the associated report template's settings {#spreadsheet-feed-view-template}
+
+The **[!UICONTROL Template Settings]** gear icon opens a duplicate of the report template associated with the feed. Opening the duplicate doesn't save a new template or change the feed's associated template.
+
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Spreadsheet Feeds]**.
+
+1. Click the **[!UICONTROL Template Settings]** gear icon next to the associated report template's name.
+
+1. Review the report settings.
+
+1. Click **[!UICONTROL Cancel]** when you're finished. If prompted to discard the setup, click **[!UICONTROL Discard]**.
+
+To change the original report template, follow the [report template editing procedure](report-templates-manage.md#template-edit). To use a different template for the feed, [edit the spreadsheet feed settings](#spreadsheet-feed-edit) and select the template.
 
 ## View or save a spreadsheet report feed file {#spreadsheet-feed-view-or-save}
 
@@ -155,7 +171,7 @@ You can view any generated spreadsheet feed or save it to a file. Spreadsheet fe
 
 >[!NOTE]
 >
->Spreadsheet feeds are automatically refreshed at 08:00 each day in the local time zone.
+>Spreadsheet feeds are automatically refreshed each day at the configured [!UICONTROL Schedule Time] in the advertiser's time zone.
 
 1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Spreadsheet Feeds]**.
 
@@ -178,5 +194,17 @@ You can view any generated spreadsheet feed or save it to a file. Spreadsheet fe
 1. Select the check box next to each feed that you want to delete.
 
 1. In the bulk actions toolbar, click **[!UICONTROL Delete]**.
+
+1. In the confirmation message, click **[!UICONTROL Confirm]**.
+
+## Copy all data in selected rows to your clipboard {#copy-to-clipboard}
+
+Copy the visible information in selected rows, according to the applied filters and columns visible in the view. The information is saved as tab-separated values (TSV).
+
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Spreadsheet Feeds]**.
+
+1. Select the check box next to each row whose data you want to copy.
+
+1. In the bulk actions toolbar, click **[!UICONTROL Copy]**.
 
 1. In the confirmation message, click **[!UICONTROL Confirm]**.
