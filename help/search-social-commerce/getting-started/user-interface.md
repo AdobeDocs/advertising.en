@@ -83,35 +83,33 @@ The new user interface features a new main menu on the left, which organizes tas
 
   * **[!UICONTROL Bulksheets]**: Opens a new [!UICONTROL Bulksheets] view.
 
-  * **[!UICONTROL Label Classification]** Opens a new [!UICONTROL Label Classifications] view. You can manage classifications and assign/unassign classification values to any applicable account components that are available in the new UI.
+  * **[!UICONTROL Label Classification]** Opens a new view to manage classifications and assign/unassign classification values to any applicable account components that are available in the new UI.
 
-  * **[!UICONTROL Manager Accounts]**: Opens a new view of your existing manager accounts an your ad networks. To manage your manager accounts, use the legacy [!UICONTROL Admin] > [!UICONTROL Manager Accounts] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+  * **[!UICONTROL Manager Accounts]**: Opens a new view to list and manage manager accounts on your ad networks.
 
 * **[!UICONTROL Goals]** submenu:
 
-  * **[!UICONTROL Objectives]** Opens a new [!UICONTROL Objectives] view, from which you can view all of your existing objectives and create, edit, and delete objectives.
+  * **[!UICONTROL Objectives]** Opens a new view, from which you can view all of your existing objectives and create, edit, and delete objectives.
   
   * **[!UICONTROL Conversions]** Opens a new view, from which you can view an advertiser's conversion metrics and customize the metrics available for management views and reports.
 
-  * **[!UICONTROL Conversion Value Rules]** Opens a new view to view and manage campaign-level and account-level conversion value rules for [!DNL Google Ads] accounts.
+  * **[!UICONTROL Conversion Value Rules]** Opens a new view to list and manage campaign-level and account-level conversion value rules for [!DNL Google Ads] accounts.
 
-  * **[!UICONTROL Constraints]** Opens a read-only view of your existing constraints. To manage your constraints, use the legacy [!UICONTROL Optimization] > [!UICONTROL Constraints] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+  * **[!UICONTROL Constraints]** Opens a new view to list and manage bidding constraints.
 
 * **[!UICONTROL Targeting]** submenu:
 
   * **[!UICONTROL Audiences]**: Opens a new view that shows all existing audiences for the advertiser, all audience targets, and all audience exclusions. To manage your audiences, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Audiences] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
-  * **[!UICONTROL Auto Targets]** Opens a new view, which shows all existing auto targets for the advertiser. To manage your auto targets, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Auto Targets] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+  * **[!UICONTROL Auto Targets]** Opens a new view to list and manage auto targets for the advertiser.
 
-  * **[!UICONTROL Placements]** Opens a new [!UICONTROL Placements] view, which shows existing placements and negative placements for the advertiser. You can manage constraint assignments for selected placements.
-  
-    To create, edit, and delete placements and negative placements, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+  * **[!UICONTROL Placements]** Opens a new view to list and manage your placements and negative placements for the advertiser.
 
 * **[!UICONTROL Library]** submenu:
 
-  * **[!UICONTROL Assets]** Opens a new view, which lists your existing creative assets. You can preview each creative. To manage your asset library, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Asset Library] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+  * **[!UICONTROL Assets]** Opens a new view to list and manage your creative assets.
 
-  * **[!UICONTROL Extensions]** Opens read-only views of your existing ad extensions. To manage your extensions, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Campaigns] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
+  * **[!UICONTROL Extensions]** Opens a new view with tabs to list and manage your callout extensions, sitelink extensions, and associations between your ad extensions and account entities.
 
   * **[!UICONTROL Products]** Opens read-only views of your existing merchant center accounts and products. To add a merchant center account, use the legacy [!UICONTROL Campaigns] > [!UICONTROL Products] view. Return to the legacy user interface by clicking the [[!UICONTROL Switch to Old UI] button](/help/search-social-commerce/getting-started/ui-switch.md).
 
