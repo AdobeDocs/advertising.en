@@ -1,6 +1,6 @@
 ---
 title: Manage Google Ads shared callout extensions
-description: Learn how to create and manage shared callouts and associate them with Google Ads campaigns and ad groups.
+description: Learn how to create, edit, and delete Google Ads shared callout extensions.
 feature: Search Campaign Management
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
@@ -21,11 +21,11 @@ role_v2:
 
 *[!DNL Google Ads] accounts only*
 
-A callout extension is informational text, such as a product, service, or promotion that your site offers, that can be displayed with a text ad. The ad network may show 2-4 callouts with an ad.
+A callout extension is informational text about a product, service, or promotion that your site offers, displayed with a text ad. The ad network may show 2-4 callouts with an ad.
 
 You create shared callout text and settings at the account level for a [synchronized Google Ads account](/help/search-social-commerce/new-ui/manage/accounts/api-accounts/api-account-manage.md). Callouts in the library aren't used with ads until you associate them with a supported campaign or ad group on the search network.
 
-Assign at least two callouts per campaign or ad group for your ads to be eligible to appear with callouts. Callouts at the ad group level override callouts at the campaign level.
+To make your ads eligible to appear with callouts, assign at least two callouts per campaign or ad group. Callouts at the ad group level override callouts at the campaign level.
 
 ## About the [!UICONTROL Callouts] and [!UICONTROL Associations] views {#callout-view-about}
 
@@ -43,9 +43,9 @@ See the [Google Ads documentation on account limits](https://support.google.com/
 
 * [Delete shared callouts](#callout-delete)
 
-* [Associate shared callouts with campaigns and ad groups](#callout-associate)
+* [Associate shared callouts with campaigns and ad groups](ad-extension-association-manage.md#callout-associate)
 
-* [Delete extension associations](ad-extension-association-delete.md)
+* [Delete extension associations](ad-extension-association-manage.md#association-delete)
 
 * [Copy all data in selected rows to your clipboard](#copy-to-clipboard)
 
@@ -65,7 +65,7 @@ See the [Google Ads documentation on account limits](https://support.google.com/
 
 1. Click **[!UICONTROL Create]**.
 
-After you create the callout, [associate it with a campaign or ad group](#callout-associate).
+After you create the callout, [associate it with a campaign or ad group](ad-extension-association-manage.md#callout-associate).
 
 ## Edit shared callout settings {#callout-edit}
 
@@ -87,39 +87,13 @@ You can edit one shared callout at a time. You can't change its start date after
 
 1. Select the check box next to each shared callout to delete.
 
-   For tips on selecting multiple rows, see "[Select multiple rows](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md)."
+   For information on selecting multiple rows, see "[Select multiple rows](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md)."
 
 1. In the bulk actions toolbar, click **[!UICONTROL Delete]**.
 
 1. In the confirmation message, click **[!UICONTROL Confirm]**.
 
-To remove an association without deleting the shared callout from the library, [delete the association](ad-extension-association-delete.md) instead.
-
-## Associate shared callouts with campaigns and ad groups {#callout-associate}
-
-You can associate shared callouts with [supported Google Ads campaigns and ad groups](/help/search-social-commerce/introduction/supported-inventory.md) on the search network. Assign at least two callouts to each campaign or ad group.
-
-1. In the main menu, click **[!UICONTROL Library] > [!UICONTROL Extensions]**, and then click the **[!UICONTROL Associations]** tab.
-
-1. Click **[!UICONTROL Create Association] > [!UICONTROL Callout Association]**.
-
-1. In **[!UICONTROL Basic Settings]**, select [!DNL Google Ads] and the account.
-
-1. Select the shared callouts to associate from the account's library.
-
-1. Select the campaigns or ad groups to which the callouts are assigned:
-
-   * Select each applicable campaign or ad group.
-
-   * To view a campaign's ad groups, expand the campaign.
-
-   * Use the list's search controls to find specific campaigns or ad groups.
-
-1. Click **[!UICONTROL Review and Save]**.
-
-1. Review the selections. To make changes, click **[!UICONTROL Edit]** in the applicable section.
-
-1. Click **[!UICONTROL Create]**.
+To remove an association without deleting the shared callout from the library, [delete the association](ad-extension-association-manage.md#association-delete) instead.
 
 ## Copy all data in selected rows to your clipboard {#copy-to-clipboard}
 
@@ -143,11 +117,11 @@ For additional policies and reasons for callout disapproval, see the [Google Ads
 
 ## Performance data for callouts {#callout-performance}
 
-Search, Social, & Commerce maps clicks on an ad extension and the resulting conversions to the keyword associated with the ad in which the extension appears. Extension-level cost and click data isn't available in Search, Social, & Commerce.
+Search, Social, & Commerce maps clicks on an ad extension and the resulting conversions to the keyword associated with the ad in which the extension appears. Extension-level cost and click data aren't available in Search, Social, & Commerce.
 
 You can view extension-level cost and click data in the [!DNL Google Ads] interface.
 
 >[!MORELIKETHIS]
 >
 >* [Manage shared sitelink extensions](sitelink-extension-manage.md)
->* [Delete ad extension associations](ad-extension-association-delete.md)
+>* [Manage ad extension associations](ad-extension-association-manage.md)

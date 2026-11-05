@@ -1,6 +1,6 @@
 ---
 title: Manage shared sitelink extensions
-description: Learn how to create and manage shared sitelinks and associate them with accounts, campaigns, and ad groups.
+description: Learn how to create, edit, and delete shared sitelink extensions.
 feature: Search Campaign Management
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
@@ -43,9 +43,9 @@ See the ad network help for the maximum number of extensions per [Google Ads acc
 
 * [Delete shared sitelinks](#sitelink-delete)
 
-* [Associate shared sitelinks with accounts, campaigns, and ad groups](#sitelink-associate)
+* [Associate shared sitelinks with accounts, campaigns, and ad groups](ad-extension-association-manage.md#sitelink-associate)
 
-* [Delete extension associations](ad-extension-association-delete.md)
+* [Delete extension associations](ad-extension-association-manage.md#association-delete)
 
 * [Copy all data in selected rows to your clipboard](#copy-to-clipboard)
 
@@ -65,7 +65,7 @@ See the ad network help for the maximum number of extensions per [Google Ads acc
 
 1. Click **[!UICONTROL Create]**.
 
-After you create the sitelink, [associate it with an account, campaign, or ad group](#sitelink-associate).
+After you create the sitelink, [associate it with an account, campaign, or ad group](ad-extension-association-manage.md#sitelink-associate).
 
 ## Edit shared sitelink settings {#sitelink-edit}
 
@@ -95,39 +95,7 @@ You can also edit a sitelink's **[!UICONTROL Base URL]** or **[!UICONTROL Tracki
 
 1. In the confirmation message, click **[!UICONTROL Confirm]**.
 
-To remove an association without deleting the shared sitelink from the library, [delete the association](ad-extension-association-delete.md) instead.
-
-## Associate shared sitelinks with accounts, campaigns, and ad groups {#sitelink-associate}
-
-You can assign shared sitelinks for use on the search network:
-
-* For [!DNL Google Ads], assign sitelinks to accounts, campaigns, or ad groups.
-
-* For [!DNL Microsoft Advertising], assign sitelinks to campaigns. To assign them to accounts or ad groups, use the [!DNL Microsoft Advertising] ad manager.
-
-You can assign up to 20 sitelinks per account, campaign, or ad group. Keep at least six active sitelinks available for desktop and mobile coverage.
-
-1. In the main menu, click **[!UICONTROL Library] > [!UICONTROL Extensions]**, and then click the **[!UICONTROL Associations]** tab.
-
-1. Click **[!UICONTROL Create Association] > [!UICONTROL Sitelink Association]**.
-
-1. In **[!UICONTROL Basic Settings]**, select the ad network and account.
-
-1. Select the shared sitelinks to associate from the account's library.
-
-1. Select the account entities to which the sitelinks are assigned:
-
-   * Select each applicable account, campaign, or ad group.
-
-   * To view an account's campaigns or a campaign's ad groups, expand the account or campaign.
-
-   * Use the list's search controls to find specific entities.
-
-1. Click **[!UICONTROL Review and Save]**.
-
-1. Review the selections. To make changes, click **[!UICONTROL Edit]** in the applicable section.
-
-1. Click **[!UICONTROL Create]**.
+To remove an association without deleting the shared sitelink from the library, [delete the association](ad-extension-association-manage.md#association-delete) instead.
 
 ## Copy all data in selected rows to your clipboard {#copy-to-clipboard}
 
@@ -181,7 +149,7 @@ In this view, values entered for [!UICONTROL Base URL] and [!UICONTROL Tracking 
 >* ([!DNL Google Ads]) Each sitelink in a campaign or ad group must have a unique landing page with approximately 80% unique content. Don't use links to multiple anchors on the same page as separate sitelink landing pages.
 >* ([!DNL Google Ads]) Updating a tracking template at the sitelink or keyword level resubmits the relevant ads for review. Updating it at the account, campaign, or ad group level doesn't resubmit the ads.
 >* ([!DNL Microsoft Advertising]) You can update tracking templates at any level without resubmitting ads for approval.
->* ([!DNL Google Ads]) Avoid macros, which aren't substituted for clicks from sources that enable parallel tracking. If macros are required, your Adobe Account Team should work with Customer Support or the implementation team to add them.
+>* ([!DNL Google Ads]) Avoid macros, which aren't substituted for clicks from sources that enable parallel tracking. If macros are required, your Adobe Account Team works with Customer Support or the implementation team to add them.
 
 ## Performance data for sitelinks {#sitelink-performance}
 
@@ -194,4 +162,4 @@ You can view extension-level cost and click data in the ad network's interface.
 >[!MORELIKETHIS]
 >
 >* [Manage Google Ads shared callout extensions](callout-extension-manage.md)
->* [Delete ad extension associations](ad-extension-association-delete.md)
+>* [Manage ad extension associations](ad-extension-association-manage.md)

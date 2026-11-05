@@ -1,6 +1,6 @@
 ---
-title: Delete ad extension associations
-description: Learn how to remove ad extension associations without deleting shared sitelinks or callouts from the library.
+title: Manage ad extension associations
+description: Learn how to delete ad extension associations and copy association data to your clipboard.
 feature: Search Campaign Management
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
@@ -17,7 +17,7 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# Delete ad extension associations
+# Manage ad extension associations
 
 *[!DNL Google Ads] and [!DNL Microsoft Advertising] accounts only*
 
@@ -37,7 +37,7 @@ Viewing associations requires the [!UICONTROL View Extensions] permission. Delet
 
    For tips on selecting multiple rows, see "[Select multiple rows](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md)."
 
-1. In the bulk actions toolbar, click **[!UICONTROL Delete]**.
+1. In the bulk actions toolbar, click ![Delete](/help/search-social-commerce/assets/delete-new.png "Delete").
 
 1. In the confirmation message, click **[!UICONTROL Confirm]**.
 

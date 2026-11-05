@@ -257,7 +257,7 @@ role_v2:
     + Extensions {#extensions-new-ui}
       + [Manage shared sitelink extensions](/help/search-social-commerce/new-ui/library/extensions/sitelink-extension-manage.md)
       + [Manage [!DNL Google Ads] shared callout extensions](/help/search-social-commerce/new-ui/library/extensions/callout-extension-manage.md)
-      + [Delete ad extension associations](/help/search-social-commerce/new-ui/library/extensions/ad-extension-association-delete.md)
+      + [Manage ad extension associations](/help/search-social-commerce/new-ui/library/extensions/ad-extension-association-manage.md)
   + [Manage custom alerts](/help/search-social-commerce/new-ui/alerts-manage.md)
   + [Manage notifications](/help/search-social-commerce/new-ui/notifications-manage.md)
   + [User administration](/help/search-social-commerce/new-ui/user-administration.md)
