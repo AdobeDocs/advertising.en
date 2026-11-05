@@ -41,7 +41,7 @@ Viewing the data requires the [!UICONTROL View Scheduled Reports] permission. Cr
 
    * To create a new template, click **[!UICONTROL Create Template]**. In the **[!UICONTROL Create a New Template]** panel, select the report category and report type, and then click **[!UICONTROL Proceed]**.
 
-   * To create a template based on an existing template, hold the cursor over the template row and click either ![Template Settings](help/search-social-commerce/assets/settings-new.png Template Settings) **[!UICONTROL Template Settings]** or **[!UICONTROL ...] > [!UICONTROL Duplicate]**.
+   * To create a template based on an existing template, hold the cursor over the template row and click either ![Template Settings](/help/search-social-commerce/assets/settings-new.png "Template Settings") **[!UICONTROL Template Settings]** or **[!UICONTROL ...] > [!UICONTROL Duplicate]**.
 
 1. Enter a unique **[!UICONTROL Report Name]** for the template, and make sure **[!UICONTROL Save as Template]** is enabled.
 
@@ -65,7 +65,7 @@ To inspect settings without changing the original template, open a duplicate. Th
 
 1. Click the **[!UICONTROL Templates]** tab.
 
-1. Hold the cursor over the template row and click ![Template Settings](help/search-social-commerce/assets/settings-new.png Template Settings) **[!UICONTROL Template Settings]**.
+1. Hold the cursor over the template row and click ![Template Settings](/help/search-social-commerce/assets/settings-new.png "Template Settings") **[!UICONTROL Template Settings]**.
 
 1. Review the report settings.
 
