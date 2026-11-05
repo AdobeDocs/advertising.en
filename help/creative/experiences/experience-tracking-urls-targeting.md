@@ -24,29 +24,63 @@ topic_v2:
 
 *Target nodes with existing creatives only*
 
-For experiences with decision tree targeting, you can create up to five custom impression-tracking URLs, five custom click-tracking URLs, and one custom landing page URL for each individual creative used for the experience. You can customize the tracking URLs from within the decision tree.
+For experiences with decision tree targeting, you can create up to five custom impression-tracking URLs and five custom click-tracking URLs for each individual creative used for the experience. When the landing page override is available, you can also specify one custom landing page URL. You can customize the tracking URLs from within either decision tree editor.
 
 The custom URLs are used only for ads created from the experience and aren't saved in the base creative settings in [!UICONTROL Creative Libraries].
 
-1. Hold the cursor over the creative bundle leaf/folder below the target node and click **[!UICONTROL ...]** > **[!UICONTROL Edit Tracking URLs]**.
+The landing page override is available for standard experiences and for nodes using default creatives. For assigned dynamic bundles, landing pages are determined by the feed, and the landing page tab isn't shown.
 
-   The [!UICONTROL Click Tracking URLs], [!UICONTROL Impression Tracking URLs], and [!UICONTROL Landing URLs] tabs list the names of all creatives in the applicable sizes in the assigned bundles. The sizes of the default creatives for the experience determine the available sizes.<!-- There's no distinct "Creative Sizes" setting. -->
+## Using the AI-driven editor (Beta) {#ai-editor}
 
-1. On the **[!UICONTROL Click Tracking URLs]**, **[!UICONTROL Impression Tracking URLs]**, and **[!UICONTROL Landing URLs]** tabs, do the following for each creative as needed:
+While you're [creating](experience-create-targeting.md#ai-editor) or [editing](experience-edit-targeting.md#ai-editor) the experience, use the canvas controls:
 
-   1. Expand the row for the creative.
+1. On the creative leaf node below the target node, click **[!UICONTROL ...]** > **[!UICONTROL Edit Tracking URLs]**.
 
-   1. Do any of the following:
-   
-      * To add or edit a custom URL, enter the URL in the input field.
-      
-      * To add another custom URL, click **[!UICONTROL +]** and enter the URL in the input field.
+1. Select the **[!UICONTROL Click Tracking URLs]**, **[!UICONTROL Impression Tracking URLs]**, or (when available) **[!UICONTROL Landing URL]** tab.
 
-      * To remove a custom URL, hold the cursor over the creative row and click ![Delete](/help/creative/assets/delete.png "Delete").
+   Creatives are grouped by bundle. The default creative sizes for the experience determine the available creative sizes.
 
-      You can include up to five custom impression-tracking URLs, five custom click-tracking URLs, and one custom landing page URL.
+1. Expand the creative you want to edit, and do any of the following:
 
-1. Click **[!UICONTROL Save]**.
+   * To add or edit a custom URL, enter the URL in the input field.
+
+   * To add another custom tracking URL, click **[!UICONTROL Add URL]**, and enter the URL in the input field.
+
+   * To remove a custom URL, click **[!UICONTROL Delete URL]**.
+
+   Click outside an edited field, and correct any validation errors before saving.
+
+1. Click **[!UICONTROL Save]** in the dialog to update the working tree.
+
+1. [Save the experience](#save) from the tree header.
+
+## Using the manual editor {#manual-editor}
+
+[Open the manual editor](experience-edit-targeting.md#experience-open) before following these steps.
+
+1. On the creative leaf node below the target node, click **[!UICONTROL ...]** > **[!UICONTROL Edit Tracking URLs]**.
+
+1. Select the **[!UICONTROL Click Tracking URLs]**, **[!UICONTROL Impression Tracking URLs]**, or (when available) **[!UICONTROL Landing URLs]** tab.
+
+   The tabs list the creatives in the assigned bundles. The default creative sizes for the experience determine the available creative sizes.<!-- There's no distinct "Creative Sizes" setting. -->
+
+1. Expand the creative you want to edit, and do any of the following:
+
+   * To add or edit a custom URL, enter the URL in the input field.
+
+   * To add another custom tracking URL, click **[!UICONTROL +]**, and enter the URL in the input field.
+
+   * To remove a custom URL, hold the cursor over the creative row, and click ![Delete](/help/creative/assets/delete.png "Delete").
+
+1. Click **[!UICONTROL Save]** in the dialog to update the working tree.
+
+1. [Save the experience](#save) from the tree header.
+
+## Save the experience {#save}
+
+The following steps apply to both editors. Saving the tracking URL dialog alone doesn't save or publish the experience.
+
+{{$include /help/_includes/experience-save.md}}
 
 >[!MORELIKETHIS]
 >

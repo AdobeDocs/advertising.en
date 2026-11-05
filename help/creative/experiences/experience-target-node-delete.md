@@ -23,25 +23,31 @@ role_v2:
 
 You can delete a target node, including all child targets and the creative bundles assigned to them. You can also delete a creative leaf node.
 
-<!-- 1. [ways to get to the decision tree] -->
+## Using the AI-driven editor (Beta) {#ai-editor}
+
+While you're [creating](experience-create-targeting.md#ai-editor) or [editing](experience-edit-targeting.md#ai-editor) the experience, use the canvas controls:
+
+1. Check the node and its child targets and creatives before deleting it.
+
+1. Hold the cursor over the target node or creative leaf node, and click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
+
+   The node is removed from the working tree without a separate **[!UICONTROL Delete Node]** confirmation.
+
+1. Review the remaining branches, and then [save the experience](#save).
+
+## Using the manual editor {#manual-editor}
+
+[Open the manual editor](experience-edit-targeting.md#experience-open) before following these steps.
 
 1. Hold the cursor over the target node or creative leaf node and click **[!UICONTROL ...]** > **[!UICONTROL Delete]**.
 
 1. In the confirmation message, click **[!UICONTROL Delete Node]**.
 
-1. (Optional) To save the experience:
-   
-   1. Click **[!UICONTROL Save]**, and then **[!UICONTROL OK]**.
-     
-   1. (If each node at the bottom-most level doesn't include at least one creative): Do one of the following:
-     
-      * To save the experience without all required creative bundles, click **[!UICONTROL Save as Draft]**.
-      
-        You can't create an ad tag for a draft experience.
+## Save the experience {#save}
 
-      * To assign the default creative to each target that hasn't already been assigned a creative bundle, click **[!UICONTROL Assign Default Creatives]**. After you review the updated tree with the default creatives assigned, click **[!UICONTROL Save]** and **[!UICONTROL OK]**.
-      
-      * To continue editing the decision tree, click **[!UICONTROL Continue Edit]**.
+The following steps apply to both editors.
+
+{{$include /help/_includes/experience-save.md}}
 
 >[!MORELIKETHIS]
 >

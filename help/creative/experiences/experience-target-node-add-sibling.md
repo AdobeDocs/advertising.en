@@ -25,49 +25,113 @@ role_v2:
 
 You can add a sibling node to any node that has a target or is at the same level as a node with a target.
 
-<!--
- 1. Open the decision tree:
+## Using the AI-driven editor (Beta) {#ai-editor}
 
-In a new experience
+While you're [creating](experience-create-targeting.md#ai-editor) or [editing](experience-edit-targeting.md#ai-editor) the experience, you can describe the new sibling target to the AI agent. Identify its parent branch and target values, and review the result. To add the sibling directly in the canvas:
 
-In an existing experience,
- -->
+1. Hold the cursor over the parent of the nodes at the level where you want another sibling, and click **[!UICONTROL +]**.
+
+   The target category is determined by the existing level, and the value selector opens for that category.
+
+1. Specify the target values for the category:
+
+   * For audience targets:
+
+      * To add the first segment, locate and select the audience segment.
+
+      * To add segments to an existing segment group:
+
+         1. Select the segment group.
+
+         1. (Optional) Change the group logic to **[!UICONTROL Include Any]**, **[!UICONTROL Include All]**, or **[!UICONTROL Exclude All]**, as needed.
+
+            **[!UICONTROL Include Any]** matches users in at least one selected segment; **[!UICONTROL Include All]** requires membership in all selected segments.
+
+            **[!UICONTROL Exclude All]** isn't available for the first segment group. For an audience that includes only exclusions, build the audience using **[!UICONTROL Include Any]**, and then exclude that audience when you add it to a placement within your DSP.
+
+         1. Locate and select the additional segments.
+
+      * To add a new segment group:
+
+         1. Add a group.
+
+         1. (Optional) Change the logic between the previous group and the new group to **[!UICONTROL And]** or **[!UICONTROL Or]**, as needed.
+
+            **[!UICONTROL And]** requires users to meet both groups' conditions; **[!UICONTROL Or]** requires them to meet at least one group's conditions.
+
+         1. Locate and select the segments for the new group.
+
+         1. (Optional) Change the group logic to **[!UICONTROL Include Any]**, **[!UICONTROL Include All]**, or **[!UICONTROL Exclude All]**, as needed.
+
+   * For geographical targets:
+
+      * Select the locations within the geographical category at the existing level, such as countries, regions, or cities.
+
+      * For postal code targets, select the country, and enter the postal codes to include. To enter multiple postal codes in bulk, separate them with commas or put each code on a separate line.
+
+   * For data pass targets, enter the key and value to match.
+
+     The default data pass key is configured in the **[!UICONTROL Data Pass]** field in the **[!UICONTROL Advanced]** section of the [general experience settings](experience-settings-targeting.md). Customize the key for the target if needed.
+
+   * For retargeting pixel targets, select the retargeting pixel, and specify the values for any pixel attributes required to show the creatives.
+
+     The available attributes are configured in the [retargeting pixel settings](/help/creative/pixels/retargeting-pixel-manage.md).
+
+   * For device targets, select the values within the device category at the existing level: device types, operating systems, or browsers.
+
+1. (If available; optional) Select **[!UICONTROL Split Nodes]** to create a separate target node for each selected value, with its own creative bundle assignments. Otherwise, the selected values are grouped in one target node.
+
+1. Click **[!UICONTROL Add Node]**.
+
+1. (Optional) To rename the new node, click **[!UICONTROL ...]** > **[!UICONTROL Edit Name]**, enter the **[!UICONTROL Node Name]**, and then click **[!UICONTROL Save]**.
+
+1. [Assign creative bundles](experience-assign-creative-bundles.md#ai-editor) if the new node is a final node, and then [save the experience](#save).
+
+## Using the manual editor {#manual-editor}
+
+[Open the manual editor](experience-edit-targeting.md#experience-open) before following these steps.
 
 1. Above the node to which you want to add the sibling node, click ![Add](/help/creative/assets/add.png "Add"), and then select **[!UICONTROL Insert Sibling Target]**.
 
-1. Specify the targets:
+1. Specify the target values for the category:
 
-   * For audience targets, do the following:
-   
-     1. Click **[!UICONTROL Click to Browse]** to open your [!UICONTROL Audience Targeting] options, and then do the following:
-     
-        * To add the first segment, locate the segment in the left panel, and select the check box next to the segment name.
-        
-        * To add a segment to an existing segment group:
-        
-          1. Click the segment group in the right panel.
-          
-          1. (Optional) Change the group logic to *[!UICONTROL Include Any]*, *[!UICONTROL Include All]*, or *[!UICONTROL Exclude All]*, as needed.
-          
-             *[!UICONTROL Exclude All]* isn't available to the first segment group. For an audience that includes only exclusions, build this audience as *[!UICONTROL Include Any]* and then exclude that audience when you add it to a placement within your DSP.
-             
-          1. Locate the new segment in the left panel, and select the check box next to the segment name.
-          
-             The segment group is automatically updated with the new segment.
-        
-        * To add a new segment group:
-        
-         1. Click **[!UICONTROL + New Group]** in the right panel.
-         
-         1. (Optional) Change the logic between the previous group and the new group to *[!UICONTROL And]* or *[!UICONTROL Or]*, as needed.
-         
-         1. Locate the segments for the new group in the left panel, and select the check boxes next to the segment names.
-         
-         1. (Optional) Change the group logic to *[!UICONTROL Include Any]*, *[!UICONTROL Include All]*, or *[!UICONTROL Exclude All]*, as needed.
+   * For audience targets:
 
-     1. Click **[!UICONTROL Create]**.
-     
-     1. Click **[!UICONTROL Apply]**.
+      1. Click **[!UICONTROL Click to Browse]** to open the **[!UICONTROL Audience Targeting]** options.
+
+      1. Configure the audience segments and groups:
+
+         * To add the first segment, locate the segment in the left panel, and select the check box next to the segment name.
+
+         * To add segments to an existing segment group:
+
+            1. Click the segment group in the right panel.
+
+            1. (Optional) Change the group logic to **[!UICONTROL Include Any]**, **[!UICONTROL Include All]**, or **[!UICONTROL Exclude All]**, as needed.
+
+               **[!UICONTROL Include Any]** matches users in at least one selected segment; **[!UICONTROL Include All]** requires membership in all selected segments.
+
+               **[!UICONTROL Exclude All]** isn't available for the first segment group. For an audience that includes only exclusions, build the audience using **[!UICONTROL Include Any]**, and then exclude that audience when you add it to a placement within your DSP.
+
+            1. Locate the new segment in the left panel, and select the check box next to the segment name. Repeat for each additional segment.
+
+               The segment group is automatically updated with the new segments.
+
+         * To add a new segment group:
+
+            1. Click **[!UICONTROL + New Group]** in the right panel.
+
+            1. (Optional) Change the logic between the previous group and the new group to **[!UICONTROL And]** or **[!UICONTROL Or]**, as needed.
+
+               **[!UICONTROL And]** requires users to meet both groups' conditions; **[!UICONTROL Or]** requires them to meet at least one group's conditions.
+
+            1. Locate the segments for the new group in the left panel, and select the check boxes next to the segment names.
+
+            1. (Optional) Change the group logic to **[!UICONTROL Include Any]**, **[!UICONTROL Include All]**, or **[!UICONTROL Exclude All]**, as needed.
+
+      1. Click **[!UICONTROL Create]**.
+
+      1. Click **[!UICONTROL Apply]**.
 
    * For geographical targets, do the following:
    
@@ -83,11 +147,11 @@ In an existing experience,
 
    * For data pass targets, optionally customize the data pass key, enter a single data pass value, and then click **[!UICONTROL Apply]**.
    
-     A default value for the key in the key-value pair is already set in the **[!UICONTROL Data Pass]** field in the [!UICONTROL Advanced] section of the [experience settings](experience-settings-targeting.md). You can optionally can customize the key.
+     The default data pass key is configured in the **[!UICONTROL Data Pass]** field in the **[!UICONTROL Advanced]** section of the [general experience settings](experience-settings-targeting.md). Customize the key for the target if needed.
 
    * For retargeting pixel targets, select the retargeting pixel to use and the required values for any of the pixel's attributes that must be present to show the creatives. Then click **[!UICONTROL Apply]**.
    
-     The attributes for the retargeting pixel are configured in the [retargeting pixel settings](/help/creative/pixels/retargeting-pixel-manage.md).
+     The available attributes are configured in the [retargeting pixel settings](/help/creative/pixels/retargeting-pixel-manage.md).
 
    * For device targets, do the following:
    
@@ -109,23 +173,13 @@ In an existing experience,
    
    1. Enter the **[!UICONTROL Node Name]**, and then click **[!UICONTROL Save]**.
 
-1. Do any of the following:
+1. (Optional) [Assign creative bundles](experience-assign-creative-bundles.md#manual-editor) to the new target node.
 
-   * (Optional) [Assign creatives](experience-assign-creative-bundles.md) to the new target node.
+## Save the experience {#save}
 
-   * (Optional) To save the experience:
-   
-     1. Click **[!UICONTROL Save]**, and then **[!UICONTROL OK]**.
-     
-     1. (If each node at the bottom-most level doesn't include at least one creative): Do one of the following:
-     
-        * To save the experience without all the required creative bundles, click **[!UICONTROL Save as Draft]**.
-     
-          You can't create an ad tag for a draft experience.
+The following steps apply to both editors.
 
-        * To assign the default creative to each target that hasn't already been assigned a creative bundle, click **[!UICONTROL Assign Default Creatives]**. After you review the updated tree with the default creatives assigned, click **[!UICONTROL Save]** and **[!UICONTROL OK]**.
-        
-        * To continue editing the decision tree, click **[!UICONTROL Continue Edit]**.
+{{$include /help/_includes/experience-save.md}}
 
 >[!MORELIKETHIS]
 >
