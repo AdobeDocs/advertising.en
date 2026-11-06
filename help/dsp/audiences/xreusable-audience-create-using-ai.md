@@ -114,7 +114,7 @@ Consider starting by asking for what you should include.
 
 you can give thumbs up or down to [what exactly?].
 
-Verify what info is carried over from session to session and what starts from scratch.
+Verify what info is carried over from session to session and what is reset for each new session.
 
 -->
 

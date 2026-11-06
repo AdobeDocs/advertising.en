@@ -28,41 +28,31 @@ topic_v2:
 
 *Beta feature*
 
-You can generate a custom simulation for an [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portfolio. You also can either change the parameters of an existing simulation and regenerate the simulation or rerun an existing simulation with the existing parameters.
+You can generate a custom simulation for an [optimized or active](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md#portfolio-status) portfolio. You can also select a simulation in the list to run a new simulation for the same portfolio, or rerun simulations with their existing settings.
+
+Creating a custom simulation requires the [!UICONTROL Create Simulation] permission. Selecting a portfolio requires the [!UICONTROL View Portfolios] permission.
 
 <!-- You can't run sims for portfolios with legacy keyword-level optimization when they include smart bidding campaigns. Clarify all exceptions so users don't find out via error messages. -->
 
 [!UICONTROL Admin] and [!UICONTROL Account Manager] users can see simulations created by other users. All other users can see only the custom simulations they create.
 
-## Create a new simulation 
+## Create a new simulation {#simulation-create}
 
-1. Do either of the following:
+You can start from the [!UICONTROL Simulations] view or [run a custom simulation from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create-simulation.md#run-simulation).
 
-  * From the [!UICONTROL Simulations] view:
+1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
 
-    1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
+1. Clear any selected simulation rows, and then click **[!UICONTROL Run Simulation]**.
 
-    1. Above the data table, click **[!UICONTROL Run Simulation]**.
+1. Select the portfolio:
 
-    1. Select the portfolio:
-    
-       1. Click **[!UICONTROL Select Portfolio]**.
-       
-       1. Select the portfolio.
-       
-          To search for portfolios that include a specific text string, begin entering the text string within the search field. Values aren't case-sensitive.
-       
-       1. Click **[!UICONTROL Proceed]**.
+   1. Click **[!UICONTROL Select Portfolio]**.
 
-  * From the [!UICONTROL Portfolios] view:
+   1. Select the portfolio.
 
-    1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
+      To search for portfolios that include a specific text string, begin entering the text string within the search field. Values aren't case-sensitive.
 
-    1. Do either of the following:
-    
-       * Hold the cursor over the portfolio row. Next to the portfolio name, click **[!UICONTROL ...]** > **[!UICONTROL Run Simulation]**.
-       
-       * Select the check box next to the portfolio. In the bulk actions toolbar, click **[!UICONTROL Run Simulation]**.
+   1. Click **[!UICONTROL Proceed]**.
 
 1. Specify the [custom simulation settings](#custom-simulation-settings):
 
@@ -84,41 +74,35 @@ You can generate a custom simulation for an [optimized or active](/help/search-s
 
 1. Click **[!UICONTROL Submit & Run]**.
 
-When the simulation report is available, you and any other email recipients specified receive a notification with a link to download the data in a ZIP file that contains one workbook (XLSX file).
+The request is submitted, and the [!UICONTROL Simulations] view opens. When the simulation report is available, you and any other email recipients specified receive a notification with a download link. You can also [download the simulation from the [!UICONTROL Simulations] view](simulation-download.md).
 
 <!-- Still true:  When the results for any report type include more than 60,000 rows, the workbook includes multiple worksheets. -->
 
-## Rerun a simulation with the existing settings
+## Rerun a simulation with the existing settings {#rerun-a-simulation-with-the-existing-settings}
 
-You can rerun simulations that aren't currently queued.
+You can rerun up to 10 simulations at a time with their existing settings. Simulations with a status of [!UICONTROL Queued] or [!UICONTROL In Progress] can't be rerun. If your selection includes these simulations, they are skipped, and the remaining simulations are submitted.
 
 1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
 
 1. Select the check boxes next to the simulations you want to rerun.
 
-1. In the toolbar above the data table, click ![Rerun](/help/search-social-commerce/assets/rerun.png "Rerun").
+1. In the toolbar above the data table or in the bulk actions toolbar, click **[!UICONTROL Re-Run Simulation]**.
 
-## Edit the settings for an existing simulation and rerun it
+The request is submitted, and the view refreshes.
+
+## Run a new simulation for a portfolio in the list {#edit-the-settings-for-an-existing-simulation-and-rerun-it}
+
+Selecting a simulation before you click [!UICONTROL Run Simulation] selects its portfolio for a new simulation. The form uses the portfolio's current settings, not the selected simulation's settings. This action doesn't edit the existing simulation.
 
 1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
 
-1. Select the check box next to the simulation to regenerate.
+1. Select the check box next to a simulation for the portfolio you want to use.
+
+   If you select multiple simulations, they must all use the same portfolio. The portfolio must be active or optimized.
 
 1. Above the data table, click **[!UICONTROL Run Simulation]**.
 
-1. Specify the [custom simulation settings](#custom-simulation-settings):
-
-   1. (Optional) To change the portfolio used for the simulation, click **[!UICONTROL Change Portfolio]** next to the portfolio name, select the portfolio, and then click **[!UICONTROL Proceed]**.
-   
-   1. On the [!UICONTROL Basic Settings] tab:
-   
-      1. Enter a unique **[!UICONTROL Simulation Name]**.
-      
-      1. (Optional) Change the basic parameters for the simulation.
-   
-   1. (Optional) On the [!UICONTROL Advanced Settings] tab, change the advanced parameters for the simulation.
-
-   The existing parameters for the selected portfolio are specified by default. Changing the values will show you the results that different parameters would produce without changing the portfolio's existing parameters.
+1. Specify the [custom simulation settings](#custom-simulation-settings), including a unique **[!UICONTROL Simulation Name]**. Change the parameters on the **[!UICONTROL Basic Settings]** and **[!UICONTROL Advanced Settings]** tabs as needed.
 
 1. Click **[!UICONTROL Next]**.
 
@@ -126,9 +110,7 @@ You can rerun simulations that aren't currently queued.
 
 1. Click **[!UICONTROL Submit & Run]**.
 
-When the simulation report is available, you and any other email recipients specified receive a notification with a link to download the data in a ZIP file that contains one workbook (XLSX file).
-
-<!-- Still true:  When the results for any report type include more than 60,000 rows, the workbook includes multiple worksheets. -->
+The request is submitted, and the [!UICONTROL Simulations] view opens. You can [download the simulation](simulation-download.md) after it completes successfully.
 
 ## Custom simulation settings {#custom-simulation-settings}
 

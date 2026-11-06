@@ -19,9 +19,9 @@ topic_v2:
 ---
 # Create a report template
 
-You can save multiple report templates for any type of performance report. You can create a template from scratch or base it on an existing template. You can maintain up to 100 templates at a time.
+You can save multiple report templates for any type of performance report. You can create a template with new settings or base it on an existing template. You can maintain up to 100 templates at a time.
 
-* To create a template from scratch, do either of the following:
+* To create a template with new settings, do either of the following:
    
    * From the [!UICONTROL Reports] tab, create a report, selecting the check box next to **[!UICONTROL Save as template]**, which is next to the report name.
    

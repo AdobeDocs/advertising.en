@@ -82,7 +82,7 @@ You can optionally [upload the objectives for the account's portfolios to [!DNL 
 
 ## Available actions
 
-* [Create an objective](objective-create.md)
+* [Create an objective](objective-create.md) or [duplicate an existing objective](objective-create.md#objective-duplicate)
 
 * [Edit an objective](objective-edit.md)
 

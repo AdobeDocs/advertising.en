@@ -8,7 +8,7 @@ product_v2:
 
 # Create a placement template
 
-You can create a placement template from scratch or from an existing template.
+You can create a placement template with new settings or use an existing template as the basis.
 
 ## Create a placement template xxx
 
