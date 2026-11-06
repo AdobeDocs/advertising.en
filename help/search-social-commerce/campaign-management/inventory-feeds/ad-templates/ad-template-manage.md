@@ -22,7 +22,7 @@ Before or after you upload data, you can create search-engine specific ad templa
 
 You can associate each template with one feed file, [!DNL Google Merchant Center] account, or [!DNL Microsoft Merchant Center] account, and you can associate multiple templates with the same feed file or account. An ad template can include variables, which are substituted with actual data columns from an uploaded file or an account. In most cases, the variables also can include [a modifier group](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) you set up in Search, Social, & Commerce to create multiple ads, keywords, campaigns, or ad groups for each applicable row in the data file. The template options allow you to either create new account structure (campaigns, ad groups, keywords) for the ads or map the ads to the existing account structure.
 
-In addition to creating new templates from scratch, you can optionally create new templates by cloning existing ones and edit existing templates.
+In addition to creating templates with new settings, you can optionally create new templates by cloning existing ones and edit existing templates.
 
 Once you create a template and associate it with a data feed file or a merchant center account, you can propagate the data in the file through the template to create campaign data and account structure, optionally creating a bulksheet file for review or for immediate posting to the ad network.
 
@@ -36,7 +36,7 @@ Create separate templates for text and expanded/extended text ads, responsive se
 
 1. Do one of the following:
 
-   * To create a template from scratch, click **[!UICONTROL Create/Clone]** in the toolbar above the data table, and then select the applicable ad network.
+   * To create a template with new settings, click **[!UICONTROL Create/Clone]** in the toolbar above the data table, and then select the applicable ad network.
 
    * To clone an existing template:
 

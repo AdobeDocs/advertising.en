@@ -82,7 +82,7 @@ role_v2:
       + [Rename a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-rename.md)
       + [Change the status of a portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-change-status.md)
       + [Portfolio settings](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-settings.md)
-      + [Run a custom simulation from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create-simulation.md)
+      + [Run and download simulations from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create-simulation.md)
       + [View a performance graph in the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-performance-graph.md)
       + [View portfolio performance details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-details.md)
       + [View a portfolio's change history](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-change-history.md)

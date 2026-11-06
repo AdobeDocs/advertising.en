@@ -1,6 +1,6 @@
 ---
 title: Download simulations
-description: Learn how to download simulations in a spreadsheet file.
+description: Learn how to download simulations as individual or combined spreadsheet files.
 feature: Search Optimization, Search Portfolios, Search Simulations
 hide: true
 exl-id: 46c8c9de-b558-486e-9453-feb5d359aaec
@@ -36,20 +36,31 @@ topic_v2:
 
 *Beta feature*
 
-You can download the data for multiple simulations at a time to a file in ZIP format. The file includes one [!DNL Microsoft Excel] workbook (XLSX file) for each selected simulation.
+You can download up to 10 weekly or custom simulations at a time from the [!UICONTROL Simulations] view. A single simulation is downloaded as a [!DNL Microsoft Excel] workbook (XLSX file). For multiple simulations, you can download one combined workbook or a ZIP file containing a separate workbook for each simulation.
+
+Downloading simulations requires access to the [!UICONTROL Simulations] view with the [!UICONTROL View Simulation] permission.
 
 >[!NOTE]
 >
 >* You can also [view the simulation results on-screen](simulation-view.md).
->* You can [customize the [!UICONTROL Simulations] view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) to include columns for many additional metrics and most of the simulation settings. See the "Available actions" section in "[About simulations](simulation-about.md#simulations-actions) for more information about the columns you can include.
+>* You can [customize the [!UICONTROL Simulations] view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) to include columns for many additional metrics and most of the simulation settings. See the "Available actions" section in "[About simulations](simulation-about.md#simulations-actions)" for more information about the columns you can include.
+>* You can also [download weekly simulations for up to 100 portfolios from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create-simulation.md#download-simulations).
 
 1. In the main menu, click **[!UICONTROL Plan] > [!UICONTROL Simulations]**.
 
-1. Select the check boxes next to the simulations you want to download.
+1. Select the check boxes next to up to 10 simulations you want to download.
 
-1. In the toolbar above the data table, click ![Download](/help/search-social-commerce/assets/download.png "Download") **[!UICONTROL Simulation Report]**.
+   Select only simulations with a status of [!UICONTROL Successful]. If any selected simulations have a status of [!UICONTROL Failed], [!UICONTROL Queued], or [!UICONTROL In Progress], no download starts. Clear those selections before downloading.
 
-   The file is downloaded according to your browser's normal procedure. Decompress the ZIP file to view the simulations.
+1. In the toolbar above the data table, click **[!UICONTROL Download Simulation]**.
+
+1. (When multiple simulations are selected) Select a download option:
+
+   * **[!UICONTROL Download as Single File]**: Download one workbook containing all selected simulations.
+
+   * **[!UICONTROL Download as Multiple Files]**: Download a ZIP file containing a separate workbook for each selected simulation.
+
+The file is downloaded according to your browser's normal procedure. If you download a ZIP file, decompress it to view the workbooks.
 
 >[!MORELIKETHIS]
 >

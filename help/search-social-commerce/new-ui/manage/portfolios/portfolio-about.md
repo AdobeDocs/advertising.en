@@ -107,6 +107,8 @@ The [!UICONTROL Portfolios] view lists all existing portfolios in the filtered v
 
 * [View portfolio performance details](portfolio-details.md)
 
+* [Run a custom simulation or download weekly simulations](portfolio-create-simulation.md)
+
 * [View a portfolio's change history](portfolio-view-change-history.md)
 
 * [Download data in the [!UICONTROL Portfolios] view](portfolio-view-report.md)
