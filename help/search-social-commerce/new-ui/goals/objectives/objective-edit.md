@@ -26,6 +26,8 @@ topic_v2:
 
 *Beta feature*
 
+To create a new objective with the same settings without editing the original, [duplicate the objective](objective-create.md#objective-duplicate).
+
 1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
 
 1. Hold the cursor over the objective name, and click **[!UICONTROL ...] > [!UICONTROL Edit]**.
@@ -38,7 +40,7 @@ topic_v2:
 
    * To save the objective, click **[!UICONTROL Save]**.
    
-   * To create a new objective with the specified settings, click **[!UICONTROL Save As]**, enter the name of the new objective, and then click **[!UICONTROL Save]**.
+   * To create a new objective with the specified settings without changing the original, click **[!UICONTROL Save as]**, enter the name of the new objective, and then click **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >

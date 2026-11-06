@@ -1,6 +1,6 @@
 ---
 title: (New UI) Create an objective
-description: Learn how to create an objective.
+description: Learn how to create an objective or duplicate an existing objective.
 feature: Search Objectives, Search Optimization
 hide: true
 exl-id: 21516197-d005-4703-8735-c789107dc3c4
@@ -38,6 +38,8 @@ topic_v2:
 >
 >You can associate an objective with a portfolio when you [create the portfolio](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md) or by later [modifying the portfolio settings](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md). You can use the same objective for multiple portfolios.
 
+## Create an objective
+
 1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
 
 1. In the upper right, click **[!UICONTROL Create Objective]** or ![Add](/help/search-social-commerce/assets/add-new.png "Add").
@@ -51,6 +53,32 @@ topic_v2:
 1. At the bottom of the settings, click **[!UICONTROL Save]**.
 
 Objectives prefixed with "`ADSP_`" (not case-sensitive) for use with Advertising DSP packages are available as custom goals within DSP within two days.
+
+## Duplicate an objective {#objective-duplicate}
+
+Duplicate an objective to create a new objective with the same settings. You can optionally change the default name for the new objective and edit the objective settings as needed. The original objective isn't changed.
+
+Duplicating an objective requires the [!UICONTROL Edit Objectives] permission. The default [!UICONTROL Maximize Clicks] objective can't be duplicated.
+
+1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
+
+1. Do either of the following:
+
+   * Hold the cursor over the objective row and click **[!UICONTROL ...] > [!UICONTROL Duplicate]**.
+
+   * Select the check box next to the objective. In the bulk actions toolbar, click ![Duplicate](/help/search-social-commerce/assets/duplicate.png "Duplicate") **[!UICONTROL Duplicate]**.
+
+     [!UICONTROL Duplicate] isn't available when multiple objectives are selected.
+
+1. Edit the objective settings.
+
+   By default, the new objective name is `<original objective name>_Copy`, such as "Revenue_Copy". If the original name already ends in `_Copy`, the new name includes a counter, such as "Revenue_Copy(1)". If the suggested name already exists, enter a unique **[!UICONTROL Name]**.
+
+   For instructions, see the help within the user interface or in the Optimization Guide, which is available from within Search, Social, & Commerce.
+
+1. Click **[!UICONTROL Save]**.
+
+   If a warning dialog is displayed, review the warning and click **[!UICONTROL Save]** to continue.
 
 >[!MORELIKETHIS]
 >
