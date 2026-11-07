@@ -12,7 +12,7 @@ feature_v2:
 ---
 # (New UI) Manage ad network accounts via API connection
 
-Following are instructions for managing ad network accounts that Search, Social, & Commerce syncs using the ad network's API, including authenticating accounts, refreshing connections, and checking authentication and access status.
+These instructions explain how to manage ad network accounts that Search, Social, & Commerce syncs via API, including authentication, connection refreshing, and status checks.
 
 To create, edit, or re-authenticate accounts, you must have permission to edit accounts.
 
@@ -40,7 +40,7 @@ The following columns show account status, authentication, and access details:
 
   * **[!UICONTROL Expiring in N days]**, **[!UICONTROL Expiring today]**, or **[!UICONTROL Expired]:** A token-expiration warning replaces **[!UICONTROL Yes]** when expiration information is available and the token expires in 14 days or fewer or has already expired. Click the warning icon to view the account's access details and [re-authenticate](#reauthenticate).
 
-* **[!UICONTROL Manager Account for Cross-Account Conversions]:** ([!DNL Google Ads] accounts only) The ID of the associated manager account used for cross-account conversion uploads. When an error is available for the manager account, a warning icon appears next to the ID. Hold the cursor over the icon to view the error. The manager account's credentials are separate from the ad network account's credentials. To add or refresh manager account credentials, use **[!UICONTROL Setup]** > **[!UICONTROL Manager Accounts]**. See "[Manage manager accounts](/help/search-social-commerce/new-ui/set-up/manager-account-manage.md)."
+* **[!UICONTROL Manager Account for Cross-Account Conversions]:** ([!DNL Google Ads] accounts only) The ID of the associated manager account used for cross-account conversion uploads. When an error is available for the manager account, a warning icon appears next to the ID. To view the error, hold the cursor over the icon. The manager account's credentials are separate from the ad network account's credentials. To add or refresh manager account credentials, use **[!UICONTROL Setup]** > **[!UICONTROL Manager Accounts]**. See "[Manage manager accounts](/help/search-social-commerce/new-ui/set-up/manager-account-manage.md)."
 
 * **[!UICONTROL Access Level]:** The reported account access level, such as **[!UICONTROL Full]**, **[!UICONTROL Limited]**, or **[!UICONTROL None]**, or **[!UICONTROL Not Applicable]** when no access-level value is available.
 
@@ -140,7 +140,7 @@ To refresh the ad network connection or update permissions for the account, re-a
 
    The new access token is saved automatically when re-authentication succeeds. If you also change other account settings, click **[!UICONTROL Save]** to save those changes.
 
-   For [!DNL Meta Ads], an information message identifies any permissions that are still missing after successful re-authentication. Review the [access details](#authentication-status) to identify the affected functionality.
+   For [!DNL Meta Ads], an information message identifies any permissions that are still missing after successful re-authentication. To identify the affected functionality, review the [access details](#authentication-status).
 
 ## Enable or disable ad network accounts {#enable-disable-account}
 
@@ -264,7 +264,7 @@ The account settings vary by ad network. You may not see all settings below.
 
 * **[!UICONTROL Purse Campaign ID]:** ([!DNL Yandex] accounts with the Shared Account setting disabled only; optional) The numeric ID for the campaign used to pay for all ad campaigns in the account.
 
-* **[!UICONTROL Finance Token]:** ([!DNL Yandex] accounts with the Shared Account setting disabled only; optional) The developer token to use for finance-related API calls, such as for reallocating money from the wallet between the advertiser's campaigns as necessary for portfolio optimization.
+* **[!UICONTROL Finance Token]:** ([!DNL Yandex] accounts with the Shared Account setting disabled only; optional) The developer token for finance-related API calls, such as reallocating money between advertiser campaigns for portfolio optimization.
 
 **[!UICONTROL Currency]:** (Read-only) The abbreviation for the currency used for the account. This value is filled automatically with the currency configured for the account on the ad network once you save the record.
 
@@ -280,7 +280,7 @@ The account settings vary by ad network. You may not see all settings below.
 
 <!-- This should be the name of the whole left side of options -- they're all enabled/disabled depending on whether you enable our tracking -->
 
-**[!UICONTROL Search, Social, & Commerce Tracking]:** Whether or not to enable tracking use the Adobe Advertising conversion tracking service. This method generates unique click-tracking IDs and redirects users to the Adobe Advertising server for tracking purposes before sending them to the client's landing page. This method has default tracking options that you optionally can customize, and you also can specify parameters to append to each URL.
+**[!UICONTROL Search, Social, & Commerce Tracking]:** Whether or not to enable tracking using the Adobe Advertising conversion tracking service. This method generates unique click-tracking IDs and redirects users to the Adobe Advertising server for tracking purposes before sending them to the client's landing page. This method has default tracking options that you optionally can customize, and you also can specify parameters to append to each URL.
 
 To enable this feature, turn on **[Enable Tracking]**.
 
@@ -291,7 +291,7 @@ To enable this feature, turn on **[Enable Tracking]**.
 
 **[!UICONTROL Tracking Type]:** (When Search, Social, & Commerce tracking is enabled) The method of redirecting end users to the final URL or destination URL. The selected option is applicable to all bid units in the account or campaign. The default account-level setting is inherited from the advertiser's tracking settings, and the default campaign-level setting is inherited from the account settings.
 
-* *[!UICONTROL Standard]:* To just redirect the end user to the specified URL.
+* *[!UICONTROL Standard]:* To redirect the end user to the specified URL.
 
 * *[!UICONTROL Token]:* To redirect the end user to the URL and also record the Search, Social, & Commerce ID for the click (`ef_id`) as a query string parameter, which is used as a token. Choose this option if you will report offline transactions, want Search, Social, & Commerce to exchange data with Adobe Analytics, or want to track all conversions that occur within [!DNL Apple Safari] browsers.
 
@@ -302,11 +302,11 @@ To enable this feature, turn on **[Enable Tracking]**.
 
 **[!UICONTROL Auto Update]:** (When Search, Social, & Commerce tracking is enabled) Standardizes your tracking URLs for compatibility across browsers and servers. Search, Social, & Commerce automatically uploads the following to the ad network during the next synchronization: (a) Search, Social, & Commerce tracking parameters for tracking templates and the same parameters appended to the final URLs or (b) new destination URLs embedded with Search, Social, & Commerce tracking code. For advertisers with an [Adobe Advertising-Adobe Analytics integration](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html) and a server-side AMO ID (s_kwcid) configuration, the upload also includes [AMO ID parameters](/help/integrations/analytics/ids.md#amo-id) for your [!DNL Google Ads] and [!DNL Microsoft Advertising] accounts. The default account-level setting is inherited from the advertiser's tracking settings. You can override the account-level setting at the campaign level. 
   
-Tracking URLs are updated daily only for entities that are out of sync (that is, new entities that were added and existing entities whose properties have changed). Therefore, if you change this setting from disabled to enabled for an existing advertiser/account/campaign, then tracking URLs aren't updated for existing entities that are already in sync. To add tracking to the URLs of existing, in-sync entities, contact your Adobe Account Team and request a one-time, manual sync process. The automatic upload process will handle future changes.
+Tracking URLs are updated daily only for entities that are out of sync (that is, new entities that were added and existing entities whose properties have changed). Therefore, if you change this setting from disabled to enabled for an existing advertiser/account/campaign, then tracking URLs aren't updated for existing entities that are already in sync. To add tracking to the URLs of existing, in-sync entities, contact your Adobe Account Team and request a one-time, manual sync process. The automatic upload process handles future changes.
 
 **[!UICONTROL URL Encoding]:** (When Search, Social, & Commerce tracking is enabled; accounts with destination URLs only) Encodes the base URL within the end user's browser address bar (such as `%3D` instead of `=`):
 
-**[!UICONTROL Tracking Level]:** (When Search, Social, & Commerce tracking is enabled; available at the account and campaign levels; not applicable to ad networks that are enabled for parallel tracking) The level at which clicks and revenue should be tracked by adding a redirect (when relevant) and append parameters to the relevant URLs:
+**[!UICONTROL Tracking Level]:** (When Search, Social, & Commerce tracking is enabled; available at the account and campaign levels; not applicable to ad networks enabled for parallel tracking) The level at which to track clicks and revenue by adding a redirect and appending parameters to the relevant URLs:
   
 * *[!UICONTROL Keyword]:* To track data at only the keyword level. Not available for [!DNL Yandex].  
 
@@ -341,7 +341,7 @@ Accounts that use Adobe Advertising click tracking must include the ad network's
 
 >[!NOTE]
 >
->* For [!DNL Google Ads], avoid using macros, which aren't substituted for clicks from sources that enable parallel tracking. If the advertiser must use macros, the Adobe Account Team should work with Customer Support or the implementation team to add them.
+>* For [!DNL Google Ads], avoid using macros, which aren't substituted for clicks from sources that enable parallel tracking. If the advertiser must use macros, the Adobe Account Team works with Customer Support or the implementation team to add them.
 >* The tracking template at the most granular level overrides the values at all higher levels. For example, if both the account settings and the keyword settings include a value, then the keyword value is applied.
 >* If you update a tracking template at the ad, sitelink, or keyword level, then the relevant ads are resubmitted for review. You can update your tracking templates at the account, campaign, or ad group levels without resubmitting your ads for approval.
 
