@@ -36,7 +36,7 @@ Running a custom simulation requires the [!UICONTROL Create Simulation] permissi
 
    * Select the check box next to the portfolio. In the bulk actions toolbar, click **[!UICONTROL More] > [!UICONTROL Run Simulation]**.
 
-1. Specify the [custom simulation settings](/help/search-social-commerce/new-ui/plan/simulations/simulation-create.md#custom-simulation-settings):
+1. Specify the [custom simulation settings](#custom-simulation-settings):
 
    1. On the **[!UICONTROL Basic Settings]** tab, enter a unique **[!UICONTROL Simulation Name]** and change the basic parameters as needed.
 
@@ -46,7 +46,7 @@ Running a custom simulation requires the [!UICONTROL Create Simulation] permissi
 
 1. Click **[!UICONTROL Next]**.
 
-1. Review the settings and make changes as needed.
+1. Review the settings and make changes as needed. 
 
 1. Click **[!UICONTROL Submit & Run]**.
 
@@ -71,6 +71,10 @@ You can download weekly simulations for one run date at a time as a [!DNL Micros
    The file is downloaded according to your browser's normal procedure. The completion message indicates how many portfolios were included.
 
 To download custom simulations or select individual weekly simulations, use the [[!UICONTROL Simulations] view](/help/search-social-commerce/new-ui/plan/simulations/simulation-download.md).
+
+## Custom simulation settings {#custom-simulation-settings}
+
+For more information about the custom simulation settings, see the Optimization Guide, which is available from within Search, Social, & Commerce.
 
 >[!MORELIKETHIS]
 >
