@@ -20,7 +20,7 @@ role_v2:
 
 ## (New UI) Create a custom metric from a management view
 
-*Available in the [!UICONTROL Simulations], [!UICONTROL Portfolios], [!UICONTROL Campaigns], and [!UICONTROL Ad Groups] views*
+*Available in most entity views in the [!UICONTROL Manage] menu,<!-- [!UICONTROL Plan] > [!UICONTROL Simulations],--> [!UICONTROL Setup] > [!UICONTROL Label Classifications], [!UICONTROL Goals] > [!UICONTROL Objectives] and [!UICONTROL Constraints], and [!UICONTROL Targeting] > [!UICONTROL Placements]*
 
 1. Above the data table, do either of the following:
 
