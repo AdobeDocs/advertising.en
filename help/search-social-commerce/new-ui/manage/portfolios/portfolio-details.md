@@ -1,6 +1,6 @@
 ---
 title: (New UI) View portfolio performance details
-description: Learn how to view portfolio performance details, including actual and predicted metrics at the portfolio level and for each assigned campaign.
+description: Learn how to view portfolio performance, keyword bid unit details, forecasts, and bid history, and export bid unit history in Adobe Advertising Search, Social, & Commerce.
 feature: Search Portfolios, Search Optimization
 hide: true
 exl-id: b5178856-1b0e-45cf-a351-6f31c0b0ec76
@@ -54,7 +54,7 @@ The portfolio detail view includes the following information about a portfolio:
 
   * [!UICONTROL History] tab: All bids in the last 36 days, including the following data for each of the bids: the date and time, impressions, clicks, total cost, average CPC, average position, and weighted revenue shown by click date. Data is shown for all devices and for each device type (Mobile, Computer, and Tablet).<!-- Probably no longer applicable: For portfolios using v6 of the optimization capability, both the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs show the combined totals for computers and tablets. For portfolios using v7, however, all data for the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs is separate. **Note:** Whenever the optimization method changes from v6 to v7 and vice-versa, the history data is reset the same day. -->
 
-  * [!UICONTROL Detail] tab:  The match type (when applicable) and the parent ad group, campaign, ad network account, and portfolio to which the bid unit belongs.
+  * [!UICONTROL Details] tab: The keyword, match type (when applicable), and the parent ad group, campaign, ad network account, and portfolio to which the bid unit belongs.
 
 ## Open performance details for a portfolio
 
@@ -122,7 +122,7 @@ Details about each ad group include the cost, clicks, and objective value.
 
 * To view all ad groups in a campaign within the portfolio, click the **[!UICONTROL Campaigns]** tab, and then click the campaign name.
 
-## List and view details about keywords in the portfolio
+## List and view details about keywords in the portfolio {#bid-unit-details}
 
 Details for each keyword include the bid unit ID; match type; the actual and predicted cost, clicks, and objective value; and the cost, click, and objective value difference. You can view bid unit details about an individual keyword.
 
@@ -133,6 +133,20 @@ Details for each keyword include the bid unit ID; match type; the actual and pre
    * To view all keywords in an ad group within the portfolio, click the **[!UICONTROL Ad Groups]** tab, and then click the ad group name.
 
 1. (Optional) To view details about a specific bid unit, click the value in the **[!UICONTROL Bid Unit ID]** column. Click any tab in the [!UICONTROL Bid Unit Details] for more information.
+
+### View and download an individual bid unit's history {#bid-unit-history}
+
+1. [Open the bid unit details](#bid-unit-details).
+
+1. Click the **[!UICONTROL History]** tab.
+
+1. (Optional) From the device menu above the table, select a device type for which to view history. By default, data for all devices is shown.
+
+1. (Optional) When history data is available, click **[!UICONTROL Export as csv]** to download the displayed history.
+
+  The file is downloaded according to your browser's normal procedure.
+
+To view bid history for the entire portfolio and change its date range, see "[View a portfolio's bid change history](portfolio-view-change-history.md#portfolio-bid-change-history)."
 
 ## View and edit the portfolio settings
 

@@ -48,7 +48,7 @@ Information for each change includes the [!UICONTROL Change Date], [!UICONTROL C
 
 1. (Optional) Click the date column heading to sort the list by date in ascending or descending order.
 
-To view the history for an individual bid unit, [open the bid unit details from the portfolio's performance details](portfolio-details.md).
+To view the history for an individual bid unit, [open the bid unit details from the portfolio's performance details](portfolio-details.md#bid-unit-history). You can also [open bid unit history from the [!UICONTROL Keywords] view](/help/search-social-commerce/new-ui/manage/keywords/keyword-manage.md#bid-unit-history) when the [!UICONTROL Bid Unit ID] column is available.
 
 ## Manage reports for portfolio change histories
 

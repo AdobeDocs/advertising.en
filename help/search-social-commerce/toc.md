@@ -85,7 +85,7 @@ role_v2:
       + [Run and download simulations from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create-simulation.md)
       + [View a performance graph in the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-performance-graph.md)
       + [View portfolio performance details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-details.md)
-      + [View a portfolio's change history](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-change-history.md)
+      + [View portfolio change history and bid change history](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-change-history.md)
       + [Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
     + Accounts {#accounts}
       + [About ad network accounts](/help/search-social-commerce/new-ui/manage/accounts/ad-network-account-about.md)
