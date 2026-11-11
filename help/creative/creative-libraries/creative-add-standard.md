@@ -308,7 +308,7 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
    The dialog closes, and a notification confirms that the import has started. The creatives appear in the library after processing completes.
 
-To track the import, click ![Job Manager](/help/creative/assets/job-manager.png "Job Manager) (**[!UICONTROL Job Manager]**) in the upper right of any page. If any rows fail during processing, click **[!UICONTROL Download failed rows]** for the import job, correct the downloaded sheet, and upload it again.
+To track the import, click ![Job Manager](/help/creative/assets/job-manager.png "Job Manager") (**[!UICONTROL Job Manager]**) in the upper right of any page. If any rows fail during processing, click **[!UICONTROL Download failed rows]** for the import job, correct the downloaded sheet, and upload it again.
 
 ### From the legacy UI
 
