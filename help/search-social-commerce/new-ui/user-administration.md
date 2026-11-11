@@ -1,6 +1,6 @@
 ---
-title: (New UI) User administration
-description: Learn how to manage user access.
+title: (New UI) User administration for Search, Social, & Commerce
+description: Learn how to manage Adobe Advertising Search, Social, & Commerce user access, administrator roles, product profiles, and feature permissions with Adobe Admin Console.
 feature: Search Introduction
 exl-id: bfc43692-cfb6-468f-90df-a808a21a0c23
 TQID: 'https://experienceleague.adobe.com/b28N5zmqqdZ6Yvg2swGLWv260fWsMUgjK2eW1DDn-uo'
@@ -19,7 +19,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 ---
-# (New UI) User administration for Search, Social & Commerce
+# (New UI) User administration for Search, Social, & Commerce
 
 Some users can manage access to the new Search, Social, & Commerce user interface using the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html), which is the central location for managing all Adobe entitlements and user management. Users are categorized as either end users or administrators. Your Adobe Account Team notifies you if you're an administrator. If you're an administrator, see the following sections to identify your permissions and workflows for managing users.
 
@@ -41,7 +41,7 @@ Admin Console provides multiple types of administrators. The following administr
 
 Product profiles, which are similar to roles, entitle users with specific services for a specific product.
 
-The new user interface for Search, Social & Commerce has the following default product profiles, which provide different subsets of features and services. You can't edit the product permissions for the default product profiles or delete the default product profiles. However, product admins, product profile admins, and system administrators can create and manage additional product profiles with different subsets of available permissions, as needed.
+The new user interface for Search, Social, & Commerce has the following default product profiles, which provide different subsets of features and services. You can't edit the product permissions for the default product profiles or delete the default product profiles. However, product admins, product profile admins, and system administrators can create and manage additional product profiles with different subsets of available permissions, as needed.
 
 * **[!UICONTROL Basic Optimization]:** For users who need standard portfolio management and planning capabilities with basic settings access.
 
@@ -56,6 +56,8 @@ The new user interface for Search, Social & Commerce has the following default p
 <!-- These don't correspond exactly to the GUI menu -->
 
 A checkmark (✓) indicates that the permission is included in the product profile.
+
+View and edit permissions are separate. Permission to view a feature doesn't by itself allow a user to create, edit, or delete its data. Custom product profiles can provide different combinations of permissions from those shown for the default product profiles.
 
 **Portfolio Management**
 
@@ -133,9 +135,32 @@ Noone has permissions as of 6/1; spelling [sic]:
 | View MCC Accounts | ✓ | ✓ | ✓ | ✓ |
 | Edit MCC Accounts | | ✓ | | ✓ |
 
+<!--
+
+Include? And why aren't all edit permissions available for some standard profiles?
+
+### Permissions for custom product profiles
+
+When you create a custom product profile, include the view permissions for the features that users need to open and the separate permissions for the actions they need to perform. The following permissions cover additional capabilities that aren't listed in the default-profile tables above.
+
+| Capability | Permissions |
+|---|---|
+| View and create client instances | [!UICONTROL View Instances] and [!UICONTROL Create Instances] |
+| View and edit keywords and negative keywords | [!UICONTROL View Keywords] and [!UICONTROL Edit Keywords] |
+| View and edit product groups | [!UICONTROL View Product Groups] and [!UICONTROL Edit Product Groups] |
+| View and edit auto targets | [!UICONTROL View Auto Targets] and [!UICONTROL Edit Auto Targets] |
+| View and edit placements and negative placements | [!UICONTROL View Placements] and [!UICONTROL Edit Placements] |
+| View and edit extensions | [!UICONTROL View Extensions] and [!UICONTROL Edit Extensions] |
+| View and edit constraints | [!UICONTROL View Constraints] and [!UICONTROL Edit Constraints] |
+| View spreadsheet feeds | [!UICONTROL View Spreadsheets] |
+
+For example, permission to view client instances doesn't by itself allow a user to create an instance. Similarly, permission to view keywords doesn't by itself allow a user to edit keywords or negative keywords.
+
+-->
+
 ## Tasks for administrators
 
-### Sign in to Adobe Admin Console and open it to Search, Social, & Commerce
+### Sign in to Adobe Admin Console and open it to Search, Social, & Commerce {#open-admin-console}
 
 >[!PREREQUISITES]
 >
@@ -147,7 +172,7 @@ Noone has permissions as of 6/1; spelling [sic]:
 
    1. Enter your [!DNL Adobe] ID, and click **[!UICONTROL Continue]**.
 
-   1. Select either **[!UICONTROL Personal Account]" or **[!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
+    1. Select either **[!UICONTROL Personal Account]** or **[!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
 
    1. Select the applicable CX Enterprise organization.
 
