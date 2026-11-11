@@ -1,6 +1,6 @@
 ---
 title: Manage keywords
-description: Learn how to create and manage biddable and negative keywords and assign constraints to keywords.
+description: Learn how to manage biddable and negative keywords, assign constraints, and view and download keyword bid unit history in Adobe Advertising Search, Social, & Commerce.
 feature: Search Optimization, Search Campaign Management
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
@@ -49,11 +49,31 @@ The [!UICONTROL Manage] > [!UICONTROL Keywords] view includes two tabs for the s
 
 * [Change the status of, or delete, keywords and negative keywords](#keyword-status)
 
+* [View and download bid unit history](#bid-unit-history)
+
 * [Copy all data in selected rows to your clipboard](#copy-to-clipboard)
 
 * [Assign constraints to keywords, and unassign constraints from keywords](#keyword-constraints)
 
 * [Assign label classifications](/help/search-social-commerce/new-ui/set-up/label-classifications-manage.md) to keywords
+
+## View and download bid unit history {#bid-unit-history}
+
+When the [!UICONTROL Bid Unit ID] column is available in the keyword data table, you can open the bid unit's history directly from the ID.
+
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Keywords]**.
+
+1. On the **[!UICONTROL Keywords]** tab, click the value in the **[!UICONTROL Bid Unit ID]** column for the keyword.
+
+1. In the [!UICONTROL Bid Unit Details] dialog, click the **[!UICONTROL History]** tab.
+
+1. (Optional) From the device menu above the table, select a device type for which to view history. By default, data for all devices is shown.
+
+1. (Optional) When history data is available, click **[!UICONTROL Export as csv]** to download the displayed history.
+
+  The file is downloaded according to your browser's normal procedure.
+
+You can also open the [bid unit details from a portfolio's performance details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-details.md#bid-unit-details). For information about the other tabs in the dialog, see "[View portfolio performance details](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-details.md)."
 
 ## Create keywords {#keyword-create}
 

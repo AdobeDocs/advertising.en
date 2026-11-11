@@ -123,10 +123,10 @@ The available report columns vary by report type. The following is a superset of
 |[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Billing Segment Description]|The description associated with a billable segment.|
 |[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Billing Segment Key]|The unique key associated with a billable segment.|
 |[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Billing Segment Name]|The name of a billable segment.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Membership Description]|The description associated with a segment, provided by the data provider.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Membership Key]|The unique key associated with a segment.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Membership Name]|The name of a segment.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Membership Provider Name]|The name of the data provider associated with a segment.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Description]|The description associated with a segment, provided by the data provider.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Key]|The unique key associated with a segment.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Name]|The name of a segment.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Provider Name]|The name of the data provider associated with a segment.|
 |[!UICONTROL Dimension]|[!UICONTROL Site]|[!UICONTROL Site ID]|The unique identifier for the site or app in DSP.|
 |[!UICONTROL Dimension]|[!UICONTROL Site]|[!UICONTROL Site Name]|The name of the site.|
 |[!UICONTROL Dimension]|[!UICONTROL Site]|[!UICONTROL Traffic Type]|Whether the ad was shown on *[!UICONTROL sites]* or *[!UICONTROL Apps]*.|
