@@ -116,11 +116,10 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
     
       Data is shown for each path length of up to 10; data for path lengths greater than 10 are grouped together.
 
-    * **[!UICONTROL Segment]:** Use this pre-populated template to see key metrics by segment.
+    * **[!UICONTROL Segment]:** Use this pre-populated template to evaluate performance by targeted audience segment. The report includes the segment name, description, and key, and the segment provider name. You can include conversion metrics and custom goal data, but not frequency or any household-level metrics.
 
        >[!NOTE]
-       >
-       >* This report is intended to show how different targeted segments perform. It uses segment membership data. When an impression is served to a person or device belonging to two or more targeted segments, this report includes one row for each segment. For this reason, totals in this report may not match actual delivery.
+       >* An impression that matches multiple segments is attributed to all of the matching segments, with one row for each segment. Similarly, all standard, spend, and performance metrics for the impression are attributed to all of the matching segments. For this reason, metrics for the combined segment rows may add up to more than your campaign totals.
        >* Conversion metrics and custom goal data for segments are available after 2 August 2019. All other data for segments is available beginning after 1 June 1 2018.
 
     * **[!UICONTROL Site]:** By default, includes standard metrics, total media net spend, and total billable net spend by site.
