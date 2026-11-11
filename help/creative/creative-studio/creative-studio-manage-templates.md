@@ -35,7 +35,9 @@ Probably not necessary:
 
 Creation:
 
-* [Generate an ad template using AI](#template-generate)
+* [Generate an ad template from a text prompt using AI](#template-generate-from-text)
+
+* [Generate an ad template from an image using AI](#template-generate-from-image)
 
 * [Create an ad template manually](#template-create)
 
@@ -96,23 +98,77 @@ Applied filters appear as chips below the toolbar. To refine or remove an active
 
 ## Generate an ad template using AI {#template-generate}
 
+Use AI in [!UICONTROL Creative Studio] to generate an editable display ad template from a text prompt or an existing static display ad image.
+
+### Generate an ad template from a text prompt {#template-generate-from-text}
+
+Describe the template you want to create, optionally select a brand profile and an image, and review multiple generated templates. You don't need an existing image ad.
+
+1. In the main menu, click **[!UICONTROL Creative Studio]**.
+
+1. Click the **[!UICONTROL Templates]** tab.
+
+1. (Optional) Select an advertiser from the advertiser list at the top of the page to view that advertiser's brand profiles.
+
+1. In the **[!UICONTROL Use AI to Generate a New Display Ad Template]** box, click **[!UICONTROL Generate]**.
+
+1. In the **[!UICONTROL Generate New Ad Template]** dialog, click the **[!UICONTROL Generate from Prompt]** tab if it isn't already selected.
+
+1. Select the **[!UICONTROL Template size]**.
+
+   The default is 300x250 pixels. You can't change the size after generation begins in the current session.
+
+1. (Optional) Select a brand profile from the **[!UICONTROL Brand]** list to provide brand context for generation.
+
+1. (Optional) To include an image in the generated template:
+
+   1. Click **[!UICONTROL Add image]**.
+
+   1. In the **[!UICONTROL Select from Asset Library]** view, select an existing image or click **[!UICONTROL Browse files]** to upload one.
+
+      Supported upload formats are PNG, JPEG, GIF, and TIFF. You can attach one image at a time.
+
+   1. Click **[!UICONTROL Add to chat]**.
+
+1. In the **[!UICONTROL Generation prompt]** field, describe the template you want to create. Include details such as the layout, headline, call to action, and visual style.
+
+   For example, enter `Create a summer sale ad with a blue background, the headline "Summer Savings," and a "Shop Now" button`.
+
+1. Click **[!UICONTROL Generate]** and wait for the template previews.
+
+   Each request generates up to four templates. Review the text, images, and layout before choosing a template.
+
+1. (Optional) To see more options, click **[!UICONTROL Generate more results]**. You can also revise the prompt and click **[!UICONTROL Generate]**.
+
+   Results accumulate in the dialog, up to 20 generated templates per session.
+
+1. Hold the cursor over the template you want to use and click **[!UICONTROL Open in Editor]**.
+
+   The display template editor opens in a new browser tab, leaving the generated results available in the original tab.
+
+1. Review the generated elements and make any remaining changes using the [template editor controls](#template-controls).
+
+1. Click **[!UICONTROL Save]**.
+
+1. In the **[!UICONTROL Save As New Template]** dialog, enter the **[!UICONTROL Template name]**, select the **[!UICONTROL Advertiser]**, optionally add tags, and then click **[!UICONTROL Save]**.
+
+   The template is saved as a new copy, and the editor tab returns to the **[!UICONTROL Templates]** view. You can then use the saved template to [generate ad variations](#ad-variations-generate).
+
+>[!NOTE]
+>
+> Once generation begins, you can't switch between text and image generation in the same dialog. To start over with a different size or generation method, click **[!UICONTROL Cancel]** and reopen the dialog. Save any templates you want to keep in the editor first.
+
+### Generate an ad template from an image {#template-generate-from-image}
+
 *Beta feature*
 
-Use AI in [!UICONTROL Creative Studio] to convert an existing static display ad image into an editable display ad template. A three-step wizard helps you generate and review the template, request changes using natural language, and open the template editor to make manual changes and save the template.
+Convert an existing static display ad image into an editable display ad template, request changes using natural language, and open the template editor to make manual changes and save the template.
 
-### Prerequisites
+#### Prerequisites
 
-You need a static image ad in a Creative Library. This workflow selects ads from your libraries; it doesn't upload a new image directly in the generation dialog.
+This feature requires a static image ad in a Creative Library. This workflow selects ads from your libraries; it doesn't upload a new image directly in the generation dialog.
 
-<!--
-
-Publish this when prompt-based generation becomes available:
-
-To generate a template from an existing image, you need a static image ad in a Creative Library. This option selects ads from your libraries; it doesn't upload a new image directly in the generation dialog. You don't need an existing ad image to generate a template from a prompt.
-
--->
-
-### Step 1: Generate and review the template
+#### Step 1: Generate and review the template
 
 1. In the main menu, click **[!UICONTROL Creative Studio]**.
 
@@ -122,7 +178,7 @@ To generate a template from an existing image, you need a static image ad in a C
 
 1. In the **[!UICONTROL Use AI to Generate a New Display Ad Template]** box, click **[!UICONTROL Generate]**.
 
-1. In the **[!UICONTROL Generate New Ad Template]** dialog, select **[!UICONTROL Generate from Existing Standard Ad Image]** if it isn't already selected.
+1. In the **[!UICONTROL Generate New Ad Template]** dialog, click the **[!UICONTROL Generate from Existing Standard Ad Image]** tab.
 
 1. Select the library containing the image ad from the **[!UICONTROL Ad Library]** list.
 
@@ -130,37 +186,9 @@ To generate a template from an existing image, you need a static image ad in a C
 
    Generation begins automatically, using the selected ad's width and height.
 
-<!--
-
-Switch to this when prompt-based generation becomes available:
-
-1. In the **[!UICONTROL Generate New Ad Template]** dialog, choose how to generate the template:
-
-   * **[!UICONTROL Generate from Prompt]:** Describe the ad template you want to create using a text prompt.
-
-   * **[!UICONTROL Generate from Existing Standard Ad Image]:** Convert an existing static image ad into an editable template.
-
-1. Follow the steps for your selected option:
-
-   * From a prompt:
-
-      1. Enter a description of the template you want to create. Include details such as the layout, headline, call to action, and visual style.
-
-      1. Follow the on-screen instructions to generate the template.
-
-   * From an existing standard ad image:
-
-      1. Select the library containing the image ad from the **[!UICONTROL Ad Library]** list.
-
-      1. Hold the cursor over the image ad card and click **[!UICONTROL Use this Standard Ad]**.
-
-         Generation begins automatically, using the selected ad's width and height.
-
--->
-
 1. [Review and refine the generated template](#template-review).
 
-### Step 2: Review and refine the template {#template-review}
+#### Step 2: Review and refine the template {#template-review}
 
 1. Wait for generation to finish, and then review the template preview and the **[!UICONTROL Layers]** panel, when available.
 
@@ -178,7 +206,7 @@ Switch to this when prompt-based generation becomes available:
 
    The generated template opens in the display template editor.
 
-### Step 3: Edit and save the template {#template-save}
+#### Step 3: Edit and save the template {#template-save}
 
 >[!TIP]
 >
@@ -202,16 +230,11 @@ You can then use the template to [generate ad variations](#ad-variations-generat
 
 | Issue | What to do |
 | --- | --- |
+| Text-based generation fails or the request is declined | Review the displayed message, revise the prompt as needed, and click **[!UICONTROL Generate]** to try again. |
+| The session has reached 20 generated templates | Save any templates you want to keep in the editor, click **[!UICONTROL Cancel]**, and reopen the generation dialog to start a new session. |
+| The editor doesn't open from a text-generated result | Allow pop-ups for the site, and then click **[!UICONTROL Open in Editor]** again. |
 | No libraries or image ads are listed when generating from an image | Check the selected advertiser and **[!UICONTROL Ad Library]**. If the library has no standard ad images, select another library containing an existing static image ad. |
 | Image-based generation fails or the image can't be converted | Review the displayed message, click **[!UICONTROL Back to library]**, and select an image ad to try again. |
-
-<!--
-
-Add when prompt-based generation is available:
-
-| Prompt-based generation fails | Review the displayed message and revise your prompt before trying again. |
-
--->
 
 ## Create an ad template manually {#template-create}
 

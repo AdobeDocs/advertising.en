@@ -77,5 +77,6 @@ You can then use the template to [generate ad variations](creative-studio-manage
 
 >[!MORELIKETHIS]
 >
+>* [Generate an ad template from text using AI](creative-studio-manage-templates.md#template-generate-from-text)
 >* [Manage ad templates in Creative Studio](creative-studio-manage-templates.md)
 >* [Manage standard ads in Creative Studio](creative-studio-manage-standard-ads.md)
