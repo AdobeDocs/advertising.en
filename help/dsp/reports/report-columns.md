@@ -120,12 +120,13 @@ The available report columns vary by report type. The following is a superset of
 |[!UICONTROL Dimension]|[!UICONTROL Placement]|[!UICONTROL Placement End Date]|The placement end date.|
 |[!UICONTROL Dimension]|[!UICONTROL Placement]|[!UICONTROL Placement Start Date]|The placement start date.|
 |[!UICONTROL Dimension]|[!UICONTROL Placement]|[!UICONTROL Placement Tags]|The placement tag used as a custom identifier for the placement.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Billing Segment Description]|The description associated with a billable segment.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Billing Segment Key]|The unique key associated with a billable segment.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Billing Segment Name]|The name of a billable segment.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Attributed Segment Description]|The description associated with a segment to which impressions are attributed, provided by the data provider.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Attributed Segment Key]|The unique key associated with a segment to which impressions are attributed. **Note:** Each impression is attributed to a single segment, so spend adds up to your actual total.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Attributed Segment Name]|The name of a segment to which impressions are attributed. **Note:** Each impression is attributed to a single segment, so spend adds up to your actual total.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Attributed Segment Provider Name]|The name of the data provider associated with a segment to which impressions are attributed.|
 |[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Description]|The description associated with a segment, provided by the data provider.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Key]|The unique key associated with a segment.|
-|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Name]|The name of a segment.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Key]|The unique key associated with a segment. **Note:** If an impression matches multiple segments, then the impression and all its standard, spend, and performance metrics are attributed to each matching segment. Metrics for the combined segment rows may be higher than your campaign totals.|
+|[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Name]|The name of a segment. **Note:** If an impression matches multiple segments, then the impression and all its standard, spend, and performance metrics are attributed to each matching segment. Metrics for the combined segment rows may be higher than your campaign totals. |
 |[!UICONTROL Dimension]|[!UICONTROL Segment]|[!UICONTROL Segment Provider Name]|The name of the data provider associated with a segment.|
 |[!UICONTROL Dimension]|[!UICONTROL Site]|[!UICONTROL Site ID]|The unique identifier for the site or app in DSP.|
 |[!UICONTROL Dimension]|[!UICONTROL Site]|[!UICONTROL Site Name]|The name of the site.|
