@@ -237,16 +237,33 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
 1. Click **[!UICONTROL Create]**.
 
-## Add a third-party creative to a creative library {#creative-add-third-party}
+## Add third-party creatives to a creative library {#creative-add-third-party}
 
-[!DNL Creative] supports JavaScript tracking tags for creatives hosted on most third-party ad servers.
+[!DNL Creative] supports ad tags for display creatives hosted on third-party ad servers. In the new UI, you can import one or more creatives from a trafficking sheet. The legacy UI supports entering a tag for a single creative.
 
 ### From the new UI
 
+#### Prepare your trafficking sheet {#third-party-sheet-requirements}
+
+* Use an Excel (`.xlsx` or `.xls`), CSV, or TSV file no larger than 10 MB, with no more than 500 creatives.
+
+* For Excel files, put the creatives on the first worksheet. Only the first worksheet is imported. Password-protected files aren't supported.
+
+* Use a [!DNL Flashtalking] or [!DNL Google Campaign Manager 360] export, or prepare a generic sheet. The sheet must match the ad server layout you select when you upload it.
+
+* Include a creative name, size, and ad tag for each creative. Names can contain up to 255 characters. Specify dimensions in a single size column (such as `300x250`) or in separate width and height columns in vendor exports. Use [supported creative sizes](creative-sizes.md).
+
+* For a generic sheet, use the column headers `Creative Name`, `Size`, and `Ad Tag`. You can download a CSV template from the upload dialog. Replace its example row with your own creative data.
+
+>[!IMPORTANT]
+>
+>* Bulk upload supports display tags only. Video and VAST tags aren't supported.
+>* Bulk upload stores ad tags as supplied; it doesn't insert tracking macros or rewrite tracking URLs during import. Include any required [tracking macros](/help/creative/creative-macros.md) in your tags before you upload the sheet.
+
+#### Upload and review the creatives {#third-party-bulk-upload}
+
 1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
 
-1. (Optional) [Customize the view](/help/creative/introduction/customize-data-views.md) to include specific libraries.
-     
 1. Open the library in either of the following ways:
 
    * Click the library name.
@@ -255,11 +272,43 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
         
 1. On the **[!UICONTROL Creatives]** tab, click **[!UICONTROL Add new]** > **[!UICONTROL Upload]** > **[!UICONTROL 3rd Party]**.
 
-1. Specify the JavaScript tag and other settings for the creative in the [third-party creative settings](#creative-settings-third-party).
+   The **[!UICONTROL Bulk upload third-party tags]** dialog opens.
 
-   You can copy and paste any of the [available macros](/help/creative/creative-macros.md) into the JavaScript tag.
+1. Select the **[!UICONTROL Ad server]** that matches your sheet:
 
-1. Click **[!UICONTROL Create]**.
+   * **[!UICONTROL Flashtalking]**
+
+   * **[!UICONTROL Google CM360]**
+
+   * **[!UICONTROL Generic]**
+
+   You must select an ad server before you can upload a file. The selected ad server applies to every creative in the sheet; it isn't detected from individual tags.
+
+1. (Optional) To prepare a generic sheet, click **[!UICONTROL Download CSV template]**, replace the example data with your own creatives, and save the file.
+
+1. Specify the sheet in either of the following ways:
+
+   * Drag and drop the file into the upload box.
+
+   * Click **[!UICONTROL select a file]** to locate the file on your device or network.
+
+   The sheet is uploaded and analyzed. If its layout doesn't match the selected ad server, then correct the sheet or select the matching ad server, and upload the file again.
+
+1. In **[!UICONTROL Review third-party creatives]**, review the **[!UICONTROL Creative name]**, **[!UICONTROL Size]**, **[!UICONTROL Type]**, **[!UICONTROL Language]**, and **[!UICONTROL Status]** for each row.
+
+   * If the sheet includes multiple tag formats, select the tab for the tag column you want to import. The selected format applies to all rows, and rows with no tag in that column aren't shown. Changing tabs resets the selection to all importable rows for that format.
+
+   * All importable rows are selected by default. Deselect the check box next to any creative you don't want to import.
+
+   * (Optional) Change the **[!UICONTROL Language]** for individual creatives. The default is English.
+
+   * Rows with an **[!UICONTROL Error]** status can't be selected or imported. You can import the valid rows, or click **[!UICONTROL Cancel]**, correct the source sheet, and upload it again. Correct missing names, dimensions, or tags, and remove video tags or any characters flagged as unsupported.
+
+1. Click **[!UICONTROL Import <N> creatives]**, where `<N>` is the number of selected creatives. For a single creative, click **[!UICONTROL Import 1 creative]**.
+
+   The dialog closes, and a notification confirms that the import has started. The creatives appear in the library after processing completes.
+
+To track the import, click ![Job Manager](/help/creative/assets/job-manager.png "Job Manager) (**[!UICONTROL Job Manager]**) in the upper right of any page. If any rows fail during processing, click **[!UICONTROL Download failed rows]** for the import job, correct the downloaded sheet, and upload it again.
 
 ### From the legacy UI
 

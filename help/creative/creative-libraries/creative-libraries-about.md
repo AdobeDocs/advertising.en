@@ -87,7 +87,7 @@ Each standard display ad experience requires a default image creative for each c
 
 #### Third-party creatives
 
-Enter JavaScript tracking tags for creatives hosted on third-party ad servers. The script varies by ad server; the following is an example:
+[Add third-party display creatives](creative-add-standard.md#creative-add-third-party) hosted on external ad servers by uploading a trafficking sheet in the new UI or entering a JavaScript tag in the legacy UI. Bulk upload accepts Excel, CSV, and TSV files. The script varies by ad server; the following is an example:
 
 ```
 <SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"></SCRIPT> <NOSCRIPT> <A HREF="https://ad.doubleclick.net/ddm/jump/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp]?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"BORDER=0 WIDTH=300 HEIGHT=250 ALT="Advertisement"></A></NOSCRIPT>
