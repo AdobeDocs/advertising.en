@@ -57,7 +57,7 @@ When you download settings for all packages in a campaign, the bulksheet include
   
    * In the notification message, click **[!UICONTROL Download].**
    
-   * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
+   * In the right of the top menu bar, click ![Job Manager](/help/creative/assets/job-manager.png "Job Manager") (**[!UICONTROL Job Manager]**). Click **[!UICONTROL Download]** next to the job.
    
      The file is saved to the browser's Downloads folder.<!-- See "[Placement columns in downloaded/uploaded spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
@@ -83,7 +83,7 @@ When you download settings for specific packages, the bulksheet file includes se
 
    * In the notification message, click **[!UICONTROL Download].**
    
-   * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
+   * In the right of the top menu bar, click ![Job Manager](/help/creative/assets/job-manager.png "Job Manager") (**[!UICONTROL Job Manager]**). Click **[!UICONTROL Download]** next to the job.
    
      The file is saved to the browser's Downloads folder. See "[Placement columns in downloaded/uploaded bulksheets](#qa-sheet-columns)" for a list of the included columns.
 
@@ -111,7 +111,7 @@ You can upload settings for your packages, including the placements and ads asso
 
     1. Click **[!UICONTROL Upload]**.
 
-1. (Optional) To verify that the updates were processed, click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
+1. (Optional) To verify that the updates were processed, click ![Job Manager](/help/creative/assets/job-manager.png "Job Manager") (**[!UICONTROL Job Manager]**) in the right of the top menu bar.
 
   When any setting update fails, you can download a bulksheet error file with color coding to show which settings (rows) were saved and which failed, with a reason for each failure. You can then address the issues within the same file and upload it again to process the corrected information.
 

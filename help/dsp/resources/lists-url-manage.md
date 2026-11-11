@@ -69,7 +69,7 @@ You can create and manage lists of website and app URLs for placement targeting.
        
      1. To see the task status, including the number of URLs added and the number of failed values:
      
-        1. Click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
+        1. Click ![Job Manager](/help/creative/assets/job-manager.png "Job Manager") (**[!UICONTROL Job Manager]**) in the right of the top menu bar.
         
         1. (If any rows weren't added) To download an error file with the failed values, click **[!UICONTROL Download]** next to the job.
         
@@ -137,7 +137,7 @@ You can create and manage lists of website and app URLs for placement targeting.
        
      1. To see the task status, including the number of URLs added and the number of failed values:
      
-        1. Click ![Jobs](/help/dsp/assets/downloads.png) in the right of the top menu bar.
+        1. Click ![Job Manager](/help/creative/assets/job-manager.png "Job Manager") (**[!UICONTROL Job Manager]**) in the right of the top menu bar.
         
         1. (If any rows weren't added) To download an error file with the failed values, click **[!UICONTROL Download]** next to the job.
         
