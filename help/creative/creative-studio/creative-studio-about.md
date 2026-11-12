@@ -27,21 +27,31 @@ role_v2:
 
 ## Key capabilities
 
-* **AI content generation:** Use the **[!UICONTROL Ad Variations Generator]** to generate ad concepts and variations through a natural-language chat interface. The AI assistant can generate headlines, subheadlines, CTAs, body copy, and background image variations, and can create new size templates in the same session. Up to 10 concepts can be active per session.
+* **Create and manage ad templates:**
 
-* **Display and video ad support:** Create and manage both display ad templates and video ad templates. When creating a template, choose **[!UICONTROL Display Ad Template]** or **[!UICONTROL Video Ad Template]** to match your campaign format.
+  * **Generate from text using AI:** [Generate display ad templates from a text prompt](creative-studio-manage-templates.md#template-generate-from-text), optionally including a brand profile and an image. Review multiple results, then open a template in the editor to customize and save a new copy.
 
-* **HTML5 template upload:** Import existing HTML5 ad templates by uploading them as ZIP files. The **[!UICONTROL Import Templates]** dialog lets you assign an advertiser and template name before importing.
+  * **Generate from an image using AI:** [Convert an existing static display ad image into an editable template](creative-studio-manage-templates.md#template-generate-from-image). Select an image ad from a Creative Library, review the generated template, and request changes using natural language. Open the template editor to make manual changes and save the template.
 
-* **Multi-size support:** Resize ads to IAB standard dimensions in a single step. The AI automatically adjusts content placement and sizing for each format, and canvas controls (zoom in/out, fit to screen, replay animations) help you review each size.
+  * **Create display and video ad templates:** Create and manage both display ad templates and video ad templates. When creating a template, choose **[!UICONTROL Display Ad Template]** or **[!UICONTROL Video Ad Template]** to match your campaign format.
 
-* **Brand-aligned outputs:** When your [brand profile](/help/creative/brands/brand-manage.md) is applied, the AI uses your brand's logos, color palettes, voice guidelines, image standards, and channel guidelines to keep generated content on-brand.
+  * **Import HTML5 templates:** Import existing HTML5 ad templates by uploading them as ZIP files. The **[!UICONTROL Import Templates]** dialog lets you assign an advertiser and template name before importing.
 
-* **Asset library access:** Attach images and other assets directly to AI chat messages by selecting from your asset library, keeping visual context available during content generation.
+  * **Organize templates:** Mark templates as favorites, apply labels, and filter by status, format, or source to keep your template library organized.
 
-* **Feed integration:** For dynamic ad campaigns, connect a product or content catalog to generate ads at scale, then use the AI agent to filter, preview, and quality-check catalog-generated ad combinations.
+* **Create ads:**
 
-* **Template organization:** Mark templates as favorites, apply labels, and filter by status, format, or source to keep your template library organized.
+  * **Generate standard ad content using AI:** Use the **[!UICONTROL Ad Variations Generator]** to generate ad concepts and variations through a natural-language chat interface. The AI assistant can generate headlines, subheadlines, CTAs, body copy, and background image variations, and can create new size templates in the same session. Up to 10 concepts can be active per session.
+
+  * **Build dynamic creatives using feeds:** For dynamic ad campaigns, connect a product or content catalog to generate ads at scale, then use the AI agent to filter, preview, and quality-check catalog-generated ad combinations.
+
+* **Customize ad content and formats:**
+
+  * **Apply brand guidelines:** When your [brand profile](/help/creative/brands/brand-manage.md) is applied, the AI uses your brand's logos, color palettes, voice guidelines, image standards, and channel guidelines to keep generated content on-brand.
+
+  * **Attach library assets:** Attach images and other assets directly to AI chat messages by selecting from your asset library, keeping visual context available during content generation.
+
+  * **Resize ads:** Resize ads to IAB standard dimensions in a single step. The AI automatically adjusts content placement and sizing for each format, and canvas controls (zoom in/out, fit to screen, replay animations) help you review each size.
 
 ## Ad creation workflows
 
@@ -51,6 +61,8 @@ role_v2:
 | --- | --- |
 | [Generate standard ads from a template](creative-studio-manage-standard-ads.md) | Select a display or video template and use the [!UICONTROL Ad Variations Generator] to create AI-generated content variations. Best when a template already exists and you want AI-assisted content generation. |
 | [Manage dynamic creatives](creative-studio-manage-dynamic-ads.md) | Connect a product or content catalog to a template, map catalog fields to template elements, then use the AI agent to preview and QA all generated ad combinations. Best for large-scale, catalog-driven campaigns. |
+| [Generate a template from text](creative-studio-manage-templates.md#template-generate-from-text) | Describe a display ad template, optionally select a brand profile and an image, and choose from AI-generated results. Best when you want a new template without an existing ad design. |
+| [Generate a template from an image](creative-studio-manage-templates.md#template-generate-from-image) | (Beta feature) Convert an existing static display ad image from a Creative Library into an editable template, request changes using natural language, and edit and save the template. Best when you want to use an existing image ad as the starting design. |
 | Build a new template | Start from a blank canvas to create a display or video template. Best when no existing template meets your needs. |
 | Upload HTML5 templates | Import one or more HTML5 ad templates packaged as ZIP files. Best when you have production-ready HTML5 creatives built outside of [!DNL Advertising Creative]. |
 

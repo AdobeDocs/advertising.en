@@ -52,7 +52,7 @@ To edit the ad details, see "[Review and edit campaign component settings using 
   
    * In the notification message, click **[!UICONTROL Download].**
    
-   * In the right of the top menu bar, click ![Jobs](/help/dsp/assets/downloads.png). Click **[!UICONTROL Download]** next to the job.
+   * In the right of the top menu bar, click ![Job Manager](/help/creative/assets/job-manager.png "Job Manager") (**[!UICONTROL Job Manager]**). Click **[!UICONTROL Download]** next to the job.
    
      The file is saved to the browser's Downloads folder.<!-- See "[Placement columns in downloaded/uploaded spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 

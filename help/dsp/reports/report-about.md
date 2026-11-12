@@ -30,9 +30,9 @@ topic_v2:
 ---
 # About custom reports
 
-Custom reports allow you to customize the content and delivery of your report data using the campaign dimensions (such as the advertiser, placement, sites, or geos) and the metrics that matter most to you. You can either:
+Custom reports allow you to customize your report data using the campaign dimensions (such as the advertiser, placement, sites, or geos) and metrics that matter most to you. You can either:
 
-* Completely configure campaign performance reports at a granular level.
+* Configure campaign performance reports at a granular level.
 
 * Choose from pre-configured report templates, and optionally customize them further.
 
@@ -55,13 +55,13 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 
     * **[!UICONTROL All-in Cost]**: (Advertisers with both Advertising Creative and Advertising DSP only) Use this report to see how much Advertising DSP spend was attributed to ad serving for Adobe Creative. You can view creative, attribute, target, and other data at the campaign, package, placement, and ad levels.
 
-    * **[!UICONTROL Billing]:** Use this report to understand key billing metrics like spend metrics for media billing by campaign. Data isn't available for placements that target universal IDs.
+    * **[!UICONTROL Billing]:** Use this report to understand key billing metrics, like spend metrics for media billing, by campaign. You can view details by date and by the attributes of each included package, package flight, placement, segment, feed, or device. Data isn't available for placements that target universal IDs.
 
        >[!NOTE]
        >
-       >This report includes data about the billing segment. If a user or device is served an impression that belongs to multiple segments, only one billable segment is credited with the impression.
-  
-    * **[!UICONTROL Content]:** Use this report to understand impression delivery and other metrics by specified content dimensions (such as genre, production quality, and content rating) so that you can optimize targeting and ensure brand safety. In addition to content dimensions, the report includes most standard dimensions, metrics, and filters. Data by content dimension is available for [!DNL FreeWheel], [!DNL Index], [!DNL Magnite], [!DNL Microsoft], [!DNL Nexxen], [!DNL Pubmatic], [!DNL Sharethrough], and [!DNL Triplelift]. Content signals are passed by publishers during the bidstream and are subject to availability.
+       >This report is based on the segments to which impressions are attributed. When a user or device is served an impression that belongs to multiple segments, only one segment is credited with the impression, and spend adds up to your actual (billed) total.
+
+    * **[!UICONTROL Content]:** Use this report to understand impression delivery and other metrics by specified content dimensions (such as genre, production quality, and content rating) so that you can optimize targeting and ensure brand safety. In addition to content dimensions, the report includes most standard dimensions, metrics, and filters. Data by content dimension is available for [!DNL FreeWheel], [!DNL Index], [!DNL Magnite], [!DNL Microsoft], [!DNL Nexxen], [!DNL Pubmatic], [!DNL Sharethrough], and [!DNL Triplelift]. Publishers pass content signals during the bidstream, subject to availability.
 
     * **[!UICONTROL Conversion]:** Use this report to understand how your campaigns are performing based on conversion metrics captured using Adobe Advertising conversion tracking. This report includes multi-touch attribution.
 
@@ -69,7 +69,7 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 
     * **[!UICONTROL Device]:** Use this pre-populated template to see key metrics by device-related dimensions.
 
-    * **[!UICONTROL DSP Self-Attributed Conversions]:** Use this report to see Advertising DSP's contribution to conversions &mdash; including customer journeys where DSP played a role but a later touch, such as an Adobe Advertising search click, received last-click credit in other reports. See "[FAQs about custom reports](/help/dsp/reports/faq-reports.md)" for more information.
+    * **[!UICONTROL DSP Self-Attributed Conversions]:** Use this report to see Advertising DSP's contribution to conversions &mdash; including customer journeys where DSP played a role but a later touch (such as an Adobe Advertising search click) received last-click credit in other reports. See "[FAQs about custom reports](/help/dsp/reports/faq-reports.md)" for more information.
 
       **Important:** This report doesn't change the existing attribution methodology or attribution in Adobe Analytics reports. It provides a complementary DSP-specific view of conversion contribution.
 
@@ -81,7 +81,7 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
        >* Frequency is estimated based on a sampling of data.
        >* For some inventory, publishers don't pass along a device identifier, which prevents frequency tracking. This report includes only impressions for which a device identifier was available.
 
-    * **[!UICONTROL Frequency (by App/Site)]:** Use this report to understand how many unique users your ads reached by app or by site. You can also see how many unique users your ads reaced reached via only a particular app or site ("distinct unique users").
+    * **[!UICONTROL Frequency (by App/Site)]:** Use this report to understand your ads' reach per app or site. You can also see how many unique users your ads reached via only a particular app or site ("distinct unique users").
 
        >[!NOTE]
        >
@@ -94,7 +94,7 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
 
     * **[!UICONTROL Household Reach & Frequency]:** Use this report to see impressions, reach, and frequency for a single dimension across ad formats at a household level based on IP address, rather than at a device/cookie level. Use the insights to optimize your media mix, improve performance, and identify opportunities for incremental reach. See "[FAQs about custom reports](/help/dsp/reports/faq-reports.md)" for more information. Data isn't available for placements that target universal IDs.
 
-    * **[!UICONTROL Margin]:** Use this report to see key metrics like margin, profit, and other spend metrics by campaign or placement. Data isn't available for placements that target universal IDs.
+    * **[!UICONTROL Margin]:** Use this report to see margin, profit, and other key spend metrics by campaign or placement. Data isn't available for placements that target universal IDs.
 
     * **[!UICONTROL Path to Conversion]:** Use this report to identify how to optimize budgets and personalize ads based on top-performing ad interaction sequences. The report shows the sequence of interaction points in the same household that lead to each of the selected conversion metrics in the specified data range. The report uses a specified lookback period between the first interaction and a conversion and can include one dimension:
     
@@ -110,7 +110,7 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
       
       Up to the 10 most recent interaction points are included. The path rows are ordered by the number of conversions.
 
-      For a comparison of this report to reports created by [!DNL Advanced Measurement Services] and Adobe Analytic, see "[FAQs about custom reports](/help/dsp/reports/faq-reports.md)."
+      For a comparison of this report to reports created by [!DNL Advanced Measurement Services] and Adobe Analytics, see "[FAQs about custom reports](/help/dsp/reports/faq-reports.md)."
   
     * **[!UICONTROL Path Length]:** Use this report to track the number of user interaction points required for conversions over time so you can choose the optimal ad frequency. The report shows the number of conversions by path length (interaction points), such as how many conversions occurred after users had only one ad interaction, two ad interactions, and so on. The report can include data for multiple conversion metrics and uses a specified lookback period between the first interaction and a conversion. Columns in the report include "[!UICONTROL Path Length]," "[!UICONTROL Number of] \<Conversion Metric Name 1\>," "% \<Conversion Metric Name 1\>," \<Conversion Metric Name 2\>," "% \<Conversion Metric Name 2\>," and so on.
     
@@ -119,7 +119,7 @@ You can generate reports once, or schedule them daily, weekly, or monthly at 03:
     * **[!UICONTROL Segment]:** Use this pre-populated template to evaluate performance by targeted audience segment. The report includes the segment name, description, and key, and the segment provider name. You can include conversion metrics and custom goal data, but not frequency or any household-level metrics.
 
        >[!NOTE]
-       >* An impression that matches multiple segments is attributed to all of the matching segments, with one row for each segment. Similarly, all standard, spend, and performance metrics for the impression are attributed to all of the matching segments. For this reason, metrics for the combined segment rows may add up to more than your campaign totals.
+       >* If an impression matches multiple segments, then the impression and all its standard, spend, and performance metrics are attributed to each matching segment. Metrics for the combined segment rows may be higher than your campaign totals. 
        >* Conversion metrics and custom goal data for segments are available after 2 August 2019. All other data for segments is available beginning after 1 June 1 2018.
 
     * **[!UICONTROL Site]:** By default, includes standard metrics, total media net spend, and total billable net spend by site.
@@ -148,7 +148,7 @@ You can create new custom reports, edit existing reports or duplicate them to cr
 
 * **[!UICONTROL Ready to download]:** (Recurring reports only) One or more instances of the report is available to download, and more report instances are scheduled.
 
-* **[!UICONTROL Failed]:** The report job failed. To see why individual report instances failed for a report tow, click ![the Down arrow](/help/dsp/assets/chevron-down.png "the Down arrow") next to [!UICONTROL Download]. Failed report jobs are indicated with an error icon (![error indicator](/help/dsp/assets/indicator-critical.png "error indicator")). Hold the cursor over the error icon for a description of the error.
+* **[!UICONTROL Failed]:** The report job failed. To see why individual report instances failed for a report row, click ![the Down arrow](/help/dsp/assets/chevron-down.png "the Down arrow") next to [!UICONTROL Download]. Failed report jobs are indicated with an error icon (![error indicator](/help/dsp/assets/indicator-critical.png "error indicator")). Hold the cursor over the error icon for a description of the error.
 
 * **[!UICONTROL Completed]:** For non-recurring reports, the report is completed. For recurring reports, all report instances are completed. You can download all reports completed in the last four months.
 
