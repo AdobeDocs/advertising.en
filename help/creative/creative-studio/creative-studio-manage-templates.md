@@ -160,8 +160,6 @@ Describe the template you want to create, optionally select a brand profile and 
 
 ### Generate an ad template from an image {#template-generate-from-image}
 
-*Beta feature*
-
 Convert an existing static display ad image into an editable display ad template, request changes using natural language, and open the template editor to make manual changes and save the template.
 
 #### Prerequisites

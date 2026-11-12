@@ -31,7 +31,7 @@ role_v2:
 
   * **Generate from text using AI:** [Generate display ad templates from a text prompt](creative-studio-manage-templates.md#template-generate-from-text), optionally including a brand profile and an image. Review multiple results, then open a template in the editor to customize and save a new copy.
 
-  * **Generate from an image using AI (beta):** [Convert an existing static display ad image into an editable template](creative-studio-manage-templates.md#template-generate-from-image). Select an image ad from a Creative Library, review the generated template, and request changes using natural language. Open the template editor to make manual changes and save the template.
+  * **Generate from an image using AI:** [Convert an existing static display ad image into an editable template](creative-studio-manage-templates.md#template-generate-from-image). Select an image ad from a Creative Library, review the generated template, and request changes using natural language. Open the template editor to make manual changes and save the template.
 
   * **Create display and video ad templates:** Create and manage both display ad templates and video ad templates. When creating a template, choose **[!UICONTROL Display Ad Template]** or **[!UICONTROL Video Ad Template]** to match your campaign format.
 
