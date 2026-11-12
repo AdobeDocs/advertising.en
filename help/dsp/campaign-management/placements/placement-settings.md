@@ -97,7 +97,7 @@ The dates for the package (when applicable) or campaign are auto-populated by de
 
 * *[!UICONTROL Fixed/floor price for both Private and On-demand deals]*: DSP bids at least the fixed/floor price for the targeted private and [!DNL On-Demand] deals, even if the algorithmically-computed bid is less. This may impact performance.
 
-**[!UICONTROL Placement Pre-bid Filters]:** Up to five KPI thresholds (such as a minimum viewability metric or click-through rate) that must be met for bidding to occur. You can use pre-bid filters as optimization tactics, but understand that each rule may limit the opportunities on which this placement can bid. To add or edit filters:
+**[!UICONTROL Placement Pre-bid Filters]:** Up to five KPI thresholds (such as a minimum viewability metric or click-through rate) that must be met for bidding to occur. You can use pre-bid filters as optimization tactics, but understand that each rule limits the opportunities on which this placement can bid. To add or edit filters:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Do either of the following:
@@ -151,7 +151,7 @@ The dates for the package (when applicable) or campaign are auto-populated by de
    >
    >This option can negatively affect performance. Use it only when you are fully prioritizing delivery and spend over performance optimization.
 
-**[!UICONTROL Placement Pre-bid Filters]:** (Optional) Up to five filters that must be met for bidding to occur. You can use pre-bid filters as optimization tactics, but keep in mind that each rule may limit the opportunities on which this placement can bid. To add or edit filters:
+**[!UICONTROL Placement Pre-bid Filters]:** (Optional) Up to five filters that must be met for bidding to occur. You can use pre-bid filters as optimization tactics, but keep in mind that each rule limits the opportunities on which this placement can bid. To add or edit filters:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Do either of the following:
@@ -204,7 +204,7 @@ To specify locations:
 
 ## [!UICONTROL Inventory Targeting]
 
-**[!UICONTROL Inventory Sources]:** Inventory sources to include or exclude as targets. For most placement types, all inventory types, and all sources for each type, are included by default. For [!DNL Roku] placements, you must specify the inventory type and sources. You can choose from the following types of inventory:
+**[!UICONTROL Inventory Sources]:** Inventory sources to include or exclude as targets. For most placement types, DSP includes all inventory types, and all sources for each type, by default. For [!DNL Roku] placements, you must specify the inventory type and sources. You can choose from the following types of inventory:
 
 * [!UICONTROL Public]: (All placement types except for Roku) All open exchange inventory to which DSP has access. You can include and exclude public inventory.
 
