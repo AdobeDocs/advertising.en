@@ -36,6 +36,24 @@ role_v2:
 
 1. Click **[!UICONTROL Create]**.
 
+## (New UI) Create a custom metric from report or report template settings {#create-from-report-settings}
+
+1. Within the report or report template settings, go to the **[!UICONTROL Columns]** step.
+
+1. In the **[!UICONTROL Custom Metrics]** section, specify the metric settings:
+
+   * **[!UICONTROL Custom Metric Name]:** Enter a name for the metric.
+
+   * **[!UICONTROL Format]:** Select **[!UICONTROL Currency]**, **[!UICONTROL Number to 2 Decimal Places]**, **[!UICONTROL Number to 3 Decimal Places]**, **[!UICONTROL Number w/out Decimal Places]**, or **[!UICONTROL Percentage]**.
+
+   * **[Formula input field]:** Build the formula by selecting metrics from **[!UICONTROL Insert Metric]** and clicking operator buttons (`+`, `-`, `*`, `/`, `(`, and `)`). You can also enter the formula manually. Place the cursor where you want to insert each metric or operator.
+
+1. Click **[!UICONTROL Add Metric]**.
+
+   After the metric is created successfully, the available-columns list is filtered by the metric name. Creating the metric doesn't automatically include it in the report.
+
+1. To include the metric in the report, select it in the available-columns list and click ![Right arrow](/help/search-social-commerce/assets/arrow-right-customize.png "Right arrow") to move it to the selected-columns list.
+
 ## (Legacy UI) Create a custom metric from a campaign management view
 
 1. Above the data table, do either of the following:
