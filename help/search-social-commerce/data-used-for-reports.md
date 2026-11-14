@@ -75,5 +75,5 @@ Depending on the attribution rule you specify for the report, data for each repo
 
 >[!MORELIKETHIS]
 >
->* [About reports](report-about.md)
->* [Initial setup tasks for reports](initial-setup.md)
+>* [About reports](/help/search-social-commerce/reports/report-about.md)
+>* [Initial setup tasks for reports](/help/search-social-commerce/reports/initial-setup.md)
