@@ -44,9 +44,9 @@ The portfolio detail view includes the following information about a portfolio:
 
   You can optionally open the portfolio settings to edit them.
 
-* Lists of the campaigns, ad groups, and keywords in the portfolio. For individual keywords, you can view bid unit details, including forecasts, historical information, and hierarchical information.
+* Lists of the campaigns, ad groups, and keywords in the portfolio.
 
-  The [!UICONTROL Bid Unit Details] view includes the following forecasts, historical information, and hierarchical information for the selected bid unit:
+  For individual keywords, you can view bid unit details, including forecasts, historical information, and hierarchical information. The [!UICONTROL Bid Unit Details] view includes the following forecasts, historical information, and hierarchical information for the selected bid unit:
      
   * [!UICONTROL Forecast] tab: The currently projected clicks, cost, cost per click, position, and revenue for the bid unit at different bid prices. Data is shown for all devices and for each device type ([!UICONTROL Mobile], [!UICONTROL Computer], and [!UICONTROL Tablet]).<!-- Probably no longer applicable: For portfolios using v6 of the optimization capability, both the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs show the combined totals for computers and tablets. For portfolios using v7, however, all data for the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs is separate. -->
 
