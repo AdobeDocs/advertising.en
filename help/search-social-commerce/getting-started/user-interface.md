@@ -37,6 +37,10 @@ The new user interface features a new main menu on the left, which organizes tas
 
 ### Main menu options
 
+* (When applicable) A selectable list of advertisers you're managing.
+
+* Search input field.
+
 * **[!UICONTROL Dashboard]** submenu:
 
   * **[!UICONTROL Overview]** Opens a configurable [!UICONTROL Dashboard] view with performance visualizations for all of your portfolios.
@@ -127,6 +131,10 @@ Collapse the main menu when you want more room to view data.
 
 * Above the main menu on the left, click ![Collapse/expand](/help/search-social-commerce/assets/collapse-expand.png "Collapse/expand").
 
+### View data for another advertiser
+
+* Above the main menu on the left, select the advertiser.
+
 ### Search for main menu options
 
 Use the search field above the main menu to look for specific menu options, such as "Portfolios" or "Reports."
@@ -148,8 +156,6 @@ Use the search field above the main menu to look for specific menu options, such
 ### Second row: Additional Search, Social, & Commerce menu
 
 **Note:** Some screens have additional options.
-
-* (When applicable) A selectable list of advertisers you're managing.
 
 * The configurable date range for the current view
 
