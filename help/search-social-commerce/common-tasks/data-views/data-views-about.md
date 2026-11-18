@@ -41,6 +41,7 @@ In most campaign data views, you can customize the data that appears within the 
 * Control whether to display 25 rows, 50 rows, 100 rows, (legacy user interface only) 200 rows, or (legacy user interface only) [!UICONTROL Continuous Scroll] at the bottom of any page.
 
 <!--
+
 ## (New UI) Data table tools {#grid-controls-new-ui}
 
 In applicable management views, the toolbar includes the following controls:
@@ -68,3 +69,5 @@ The [!UICONTROL Refresh] icon is beside the page title in applicable views. The 
 * Where available, click **[!UICONTROL Charts]** in the toolbar or **[!UICONTROL Actions]** menu.
 
   The toolbar button is selected when charts are shown. In [!UICONTROL Actions], a switch indicates whether charts are shown. Click the control again to hide the charts.
+
+-->
