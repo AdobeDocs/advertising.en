@@ -18,13 +18,11 @@ role_v2:
 ---
 # About customizing data in campaign management views
 
-<!-- Add info about new UI -->
-
 In most campaign data views, you can customize the data that appears within the data table. You can customize the data in the following ways:
 
 * [Edit the settings for your entire default view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md##view-edit) for a specific entity view (such as [!UICONTROL Campaigns]) to include a specific column order, filters, date range, attribution rule, and more &mdash; and either apply the settings temporarily or save them. You can also [create additional custom views](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#create-custom-view), [clone existing views](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#view-clone) and [apply any of your views](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#apply-a-default-or-custom-view).
 
-* [Change the columns and their sort order](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md) from the [!UICONTROL Columns] icon on the right side of the toolbar, or quickly [change just the columns](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-column-heading.md) from any column heading in the view.
+* [Change the columns and their sort order](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md) using the [!UICONTROL Custom Columns] control in the toolbar. In the new UI, if the toolbar is too narrow to show the control, click **[!UICONTROL Actions] > [!UICONTROL Custom Columns]**. You can also quickly [change just the columns](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-column-heading.md) from any column heading in the view.
 
 * (Legacy user interface only) [From the left navigation panel](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/filter-using-left-panel.md), you can:
 
@@ -41,3 +39,32 @@ In most campaign data views, you can customize the data that appears within the 
 * [Re-sort the data](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-sort.md) according to the values in a specific column.
 
 * Control whether to display 25 rows, 50 rows, 100 rows, (legacy user interface only) 200 rows, or (legacy user interface only) [!UICONTROL Continuous Scroll] at the bottom of any page.
+
+<!--
+## (New UI) Grid controls {#grid-controls-new-ui}
+
+In applicable management views, the toolbar includes the following controls:
+
+* On the left, the [!UICONTROL Filter] control appears before grid search. Where supported, the [!UICONTROL Conversion based on] selector follows search and lets you select [!UICONTROL Click Date] or [!UICONTROL Transaction Date].
+
+* On the right, operational actions, such as [!UICONTROL Reports], appear alongside view and display controls. The available controls depend on the view and your permissions.
+
+* When the available width is reduced, controls move into the [!UICONTROL Actions] menu. This can happen when you narrow the window or open the AI Assistant panel. If a control isn't visible in the toolbar, look for it in [!UICONTROL Actions]. In wider layouts, controls remain inline.
+
+* Within [!UICONTROL Actions], a horizontal divider separates operational actions from view and display controls, such as the current view, [!UICONTROL Custom Columns], [!UICONTROL Compressed Mode], and [!UICONTROL Charts], where available.
+
+* The primary create button remains outside [!UICONTROL Actions].
+
+The [!UICONTROL Refresh] icon is beside the page title in applicable views. The date range control is in the page header. For instructions on comparing two date ranges and changing the comparison format, see "[Filter data by date range](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/date-filter.md#compare-periods-new-ui)."
+
+### Change the grid density
+
+* Where available, click **[!UICONTROL Compressed Mode]** in the toolbar or **[!UICONTROL Actions]** menu to turn compact grid spacing on or off.
+
+  The toolbar button is selected when compressed mode is on. In [!UICONTROL Actions], a switch indicates the current state.
+
+### Show or hide charts
+
+* Where available, click **[!UICONTROL Charts]** in the toolbar or **[!UICONTROL Actions]** menu.
+
+  The toolbar button is selected when charts are shown. In [!UICONTROL Actions], a switch indicates whether charts are shown. Click the control again to hide the charts.

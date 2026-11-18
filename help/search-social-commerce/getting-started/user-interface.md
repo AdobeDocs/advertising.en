@@ -37,9 +37,9 @@ The new user interface features a new main menu on the left, which organizes tas
 
 ### Main menu options
 
-* (When applicable) A selectable list of advertisers you're managing.
+* (When applicable) A selectable list of advertisers you're managing, above the search field in the expanded left navigation panel.
 
-* Search input field.
+* A search field for main menu options.
 
 * **[!UICONTROL Dashboard]** submenu:
 
@@ -133,7 +133,9 @@ Collapse the main menu when you want more room to view data.
 
 ### View data for another advertiser
 
-* Above the main menu on the left, select the advertiser.
+* Expand the left navigation panel if it's collapsed. Above the search field, open the advertiser list and select the advertiser.
+
+  For details and restrictions, see "[View data for another advertiser](/help/search-social-commerce/common-tasks/change-advertiser.md)."
 
 ### Search for main menu options
 
@@ -157,7 +159,7 @@ Use the search field above the main menu to look for specific menu options, such
 
 **Note:** Some screens have additional options.
 
-* The configurable date range for the current view
+* The configurable date range for the current view. Where date comparison is supported, the date range control also lets you compare two periods and choose whether to show the change as a percentage or a numeric variance. See "[Filter data by date range](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/date-filter.md#date-filter-new-ui)."
 
 * ![Switch to Old UI](/help/search-social-commerce/assets/switch-to-old-ui.png "Switch to Old UI") Opens the legacy user interface in a new tab or window.
 
@@ -166,6 +168,17 @@ Use the search field above the main menu to look for specific menu options, such
 * ![Global sync status](/help/search-social-commerce/assets/global-sync-status.png "Global sync status") Opens a list of <!--what kind --> bulk operation jobs.
 
 * ![Notifications](/help/search-social-commerce/assets/notifications.png "Notifications") Opens a panel listing your Search, Social, & Commerce notifications. You can filter the list, edit your notification settings, or open [!UICONTROL Notification Center].m
+
+<!--
+## Grid toolbars
+
+In applicable new-UI management views, the [!UICONTROL Refresh] control is beside the page title. In the toolbar above the data table, [!UICONTROL Filter] appears before grid search, followed by the [!UICONTROL Conversion based on] selector where supported.
+
+Operational actions and view/display controls are right-aligned. When there isn't enough room to show them inline, controls move into the [!UICONTROL Actions] menu. This includes when the AI Assistant panel reduces the available width. The primary create button remains outside the menu.
+
+For details about the [!UICONTROL Actions] menu, [!UICONTROL Compressed Mode], and [!UICONTROL Charts], see "[(New UI) Grid controls](/help/search-social-commerce/common-tasks/data-views/data-views-about.md#grid-controls-new-ui)."
+
+-->
 
 ## Legacy user interface
 

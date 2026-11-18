@@ -24,7 +24,7 @@ You can apply as many filters as you want to a view.<!-- True only for entity na
 
 ## (New UI) Apply data filters from the toolbar in management views
 
-1. In the toolbar, click ![Filter](/help/search-social-commerce/assets/filter-new.png "Filter").
+1. In the toolbar, click the icon-only ![Filter](/help/search-social-commerce/assets/filter-new.png "Filter") control before grid search.
 
 1. In the filter settings, do any of the following:
 

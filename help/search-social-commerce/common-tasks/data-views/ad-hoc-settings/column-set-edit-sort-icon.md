@@ -1,5 +1,5 @@
 ---
-title: Edit and sort the column set from the [!UICONTROL Custom Columns] icon
+title: Edit and sort the column set from the [!UICONTROL Custom Columns] control
 description: Learn how to change the visible columns using the column customizer.
 exl-id: bc03b53f-179a-426f-bc31-20be25915506
 feature: Search Common Tasks, Search Custom Data Views
@@ -16,13 +16,11 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 ---
-# Edit and sort the column set from the [!UICONTROL Custom Columns] icon
-
-<!-- The same in new UI and legacy CM views except for icon -->
+# Edit and sort the column set from the [!UICONTROL Custom Columns] control
 
 <!-- Doesn't include instructions for legacy Portfolios views; not available for Reports -->
 
-You can change the visible columns in any of your views from the right toolbar. The changes are applied only until you leave the applicable views or you view data for a different advertiser.
+You can change the visible columns in your views using the [!UICONTROL Custom Columns] control. The changes are applied only until you leave the applicable views or you view data for a different advertiser.
 
 >[!NOTE]
 >
@@ -30,7 +28,11 @@ You can change the visible columns in any of your views from the right toolbar. 
 >
 >You can save changes to the columns that are included for a specific advertiser by editing the default view or [creating a custom view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#create-custom-view).
 
-1. On the right of the toolbar, click ![Custom Columns](/help/search-social-commerce/assets/custom-columns.png "Custom Columns") or ![Custom Columns](/help/search-social-commerce/assets/custom-columns-new.png "Custom Columns").
+1. Open the column settings:
+
+   * (New UI) Click ![Custom Columns](/help/search-social-commerce/assets/custom-columns-new.png "Custom Columns") in the right toolbar. If the toolbar is too narrow to show the control, click **[!UICONTROL Actions] > [!UICONTROL Custom Columns]**.
+
+   * (Legacy UI) On the right of the toolbar, click ![Custom Columns](/help/search-social-commerce/assets/custom-columns.png "Custom Columns").
 
 1. (Optional) [Create a custom metric](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-create.md) to include as a column.
 

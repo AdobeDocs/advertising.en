@@ -12,6 +12,24 @@ feature_v2:
 ---
 # Specify a date using the calendar
 
+## (New UI) Select a date range
+
+1. In the upper right of the data table, click the date range control with the calendar icon.
+
+1. From the **[!UICONTROL Period]** menu, specify the date range:
+
+   * To use a preset range, select an option from the menu above the first calendar, such as **[!UICONTROL Yesterday]** or **[!UICONTROL Last 7 Days]**.
+
+   * To use a custom range, select **[!UICONTROL Custom Date Range]** and select the start and end dates in the calendar. Use the calendar arrows to navigate between months.
+
+1. Click **[!UICONTROL Apply]**.
+
+To compare data for two periods, see "[Filter data by date range](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/date-filter.md#date-filter-new-ui)."
+
+## Select an individual date
+
+Use the following procedure for individual-date calendar fields, including those in the legacy user interface.
+
 1. Click ![Calendar button](/help/search-social-commerce/assets/calendar-date-range.png "Calendar button") to open the calendar.
 
    >[!NOTE]

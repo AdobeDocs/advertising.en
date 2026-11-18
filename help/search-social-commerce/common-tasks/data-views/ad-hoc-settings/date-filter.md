@@ -21,7 +21,65 @@ topic_v2:
 ---
 # Filter data by date range
 
-<!-- The same in new UI and legacy CM views -->
+Use the date range filter to specify the period for which to show performance data. In views that support date comparison, you can also compare performance for two periods.
+
+## (New UI) Change the date range {#date-filter-new-ui}
+
+1. In the page header, click the date range control with the calendar icon.
+
+1. Specify the date range:
+
+   * To use a preset range, select an option from the menu above the first calendar, such as **[!UICONTROL Yesterday]** or **[!UICONTROL Last 7 Days]**.
+
+   * To use a custom range, select **[!UICONTROL Custom Date Range]** and select the start and end dates in the calendar. Use the calendar arrows to navigate between months.
+
+1. Click **[!UICONTROL Apply]**.
+
+## (New UI) Compare data for two periods {#compare-periods-new-ui}
+
+*Views that support date comparison only*
+
+1. In the page header, click the date range control with the calendar icon.
+
+1. Turn on **[!UICONTROL Compare Periods]**.
+
+   Two calendar panels are shown side by side. The first period has a teal marker, and the comparison period has a purple marker.
+
+1. In the first panel, specify the date range:
+
+   * To use a preset range, select an option from the menu above the first calendar, such as **[!UICONTROL Yesterday]** or **[!UICONTROL Last 7 Days]**.
+
+   * To use a custom range, select **[!UICONTROL Custom Date Range]** and select the start and end dates in the calendar. Use the calendar arrows to navigate between months.
+
+1. In the second panel, select a comparison preset or click a starting date in the calendar.
+
+   The comparison period has the same number of days as the first period. Review the complete date ranges above both calendars.
+
+1. From **[!UICONTROL Comparison Format]**, select how to display the difference:
+
+   * **[!UICONTROL As percentage]:** Show the difference as a percentage.
+
+   * **[!UICONTROL As variance]:** Show the difference as a numeric value.
+
+1. Click **[!UICONTROL Apply]**.
+
+   The date range control shows both complete date ranges with their period labels and color markers. Each comparable metric is grouped into two period columns and a **[!UICONTROL Change]** column. Fields that aren't comparable remain single columns. The period markers in the column headings identify the corresponding date ranges.
+
+To stop comparing periods, open the date range control, turn off **[!UICONTROL Compare Periods]**, and click **[!UICONTROL Apply]**. Turning off comparison clears filters based on comparison data.
+
+### Change the comparison format from a column menu
+
+1. With date comparison enabled, open the column heading menu for a **[!UICONTROL Change]** column or either period column for a comparable metric.
+
+1. Select **[!UICONTROL As percentage]** or **[!UICONTROL As variance]**.
+
+   The selection applies to all comparison metrics in the grid, not just the selected column. The date range control is synchronized with the selection, and the format is shared across applicable pages for the current advertiser, including views with saved date ranges.
+
+   A confirmation message appears after the grid refreshes successfully. If the grid can't refresh with the selected format, an error message appears instead; try selecting the format again.
+
+Sorting and filtering options remain available in column menus where supported.
+
+## (Legacy UI) Date range settings
 
 The same global date range filter is applied to most of your data views, across all of your advertisers, except for default and custom views for which you've saved specific date ranges. The system default date range for campaign management views is "Yesterday."
 
@@ -35,7 +93,7 @@ When you save a specific date range for a default view or custom view, that rang
 >* To view earlier data, go to the [[!UICONTROL Reports] view](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md) and run a basic report.
 >* You can also save a date range for a [default view or custom view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md).
 
-## Change the global date filter in campaign views
+## (Legacy UI) Change the global date filter in campaign views
 
 1. Above any data table in Search \> Campaigns \> Campaigns, click the current date range.
 
