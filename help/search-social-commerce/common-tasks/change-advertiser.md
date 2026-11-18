@@ -20,9 +20,9 @@ role_v2:
 
 ## (New UI) View data for another advertiser
 
-* In the toolbar above the data table, select the advertiser.
+* Above the main menu on the left, select the advertiser.
 
-  ![Advertiser selector in toolbar](/help/search-social-commerce/assets/advertiser-selector.png "Advertiser selector in toolbar")
+  ![Advertiser selector above the main menu](/help/search-social-commerce/assets/advertiser-selector.png "Advertiser selector above the main menu")
 
 ## (Legacy UI) View data for another advertiser
 
