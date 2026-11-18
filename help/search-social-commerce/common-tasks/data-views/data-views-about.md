@@ -41,7 +41,7 @@ In most campaign data views, you can customize the data that appears within the 
 * Control whether to display 25 rows, 50 rows, 100 rows, (legacy user interface only) 200 rows, or (legacy user interface only) [!UICONTROL Continuous Scroll] at the bottom of any page.
 
 <!--
-## (New UI) Grid controls {#grid-controls-new-ui}
+## (New UI) Data table tools {#grid-controls-new-ui}
 
 In applicable management views, the toolbar includes the following controls:
 

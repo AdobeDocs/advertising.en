@@ -169,17 +169,6 @@ Use the search field above the main menu to look for specific menu options, such
 
 * ![Notifications](/help/search-social-commerce/assets/notifications.png "Notifications") Opens a panel listing your Search, Social, & Commerce notifications. You can filter the list, edit your notification settings, or open [!UICONTROL Notification Center].m
 
-<!--
-## Grid toolbars
-
-In applicable new-UI management views, the [!UICONTROL Refresh] control is beside the page title. In the toolbar above the data table, [!UICONTROL Filter] appears before grid search, followed by the [!UICONTROL Conversion based on] selector where supported.
-
-Operational actions and view/display controls are right-aligned. When there isn't enough room to show them inline, controls move into the [!UICONTROL Actions] menu. This includes when the AI Assistant panel reduces the available width. The primary create button remains outside the menu.
-
-For details about the [!UICONTROL Actions] menu, [!UICONTROL Compressed Mode], and [!UICONTROL Charts], see "[(New UI) Grid controls](/help/search-social-commerce/common-tasks/data-views/data-views-about.md#grid-controls-new-ui)."
-
--->
-
 ## Legacy user interface
 
 ![User interface](/help/search-social-commerce/assets/ui.png "User interface")
