@@ -53,20 +53,20 @@ Depending on the attribution rule you specify for the report, data for each repo
 
 | Report Group | Report | Dates for Which Data Is Available |
 | --- | --- | --- |
-| [!UICONTROL Basic Reports] | [!UICONTROL Campaign Hourly Report] | Beginning on 15 May 2021.<br><br><b>Exception:</b> Prominence metrics data is available beginning on 8 September 2022. |
-| | All other [!UICONTROL Basic Reports] | The previous 36 months.<br><br><b>Exception:</b> Prominence metrics data is available beginning on 8 September 2022. |
+| [!UICONTROL Basic Reports] | [!UICONTROL Campaign Hourly Report] | The previous 36 months. |
+| | All other [!UICONTROL Basic Reports] | The previous 36 months. |
 | [!UICONTROL Advanced Reports] | [!UICONTROL Transaction Report] | The previous 45 days. |
 | | [!UICONTROL Domain Referral Report], [!UICONTROL Geo Distribution Report] | The previous two (2) months plus the current month. |
 | [!UICONTROL Assist Reports] | All | The previous 18 months. |
 | [!UICONTROL Specialty Reports] | [!UICONTROL AdWords Audience Target Report] | The previous year.|
-| | [!UICONTROL Google Asset Group Performance Report] | No limitations |
+| | [!UICONTROL Google Asset Group Performance Report] | The previous 36 months. |
 | | [!UICONTROL MSA Ad Extension by Ad Report], [!UICONTROL MSA Ad Extension by Keyword Report], [!UICONTROL MSA Ad Extension Detail Report], [!UICONTROL MSA Network Impression Share Report], [!UICONTROL MSA Network Performance Report] | The last 180 days. |
-| | [!UICONTROL RSA Assets Report] | Beginning on 10 August 2022. |
+| | [!UICONTROL RSA Assets Report] | The previous 36 months. |
 | | All other [!UICONTROL Specialty Reports] | The previous two (2) months. |
 | [!UICONTROL Model Accuracy Reports] | [!UICONTROL Forecast Accuracy Report] | The previous 18 months. |
 | [!UICONTROL Change History Report] | &mdash; | The previous 31 days. |
 
 >[!MORELIKETHIS]
 >
->* [About reports](report-about.md)
->* [Initial setup tasks for reports](initial-setup.md)
+>* [About reports](/help/search-social-commerce/reports/report-about.md)
+>* [Initial setup tasks for reports](/help/search-social-commerce/reports/initial-setup.md)

@@ -97,7 +97,7 @@ The dates for the package (when applicable) or campaign are auto-populated by de
 
 * *[!UICONTROL Fixed/floor price for both Private and On-demand deals]*: DSP bids at least the fixed/floor price for the targeted private and [!DNL On-Demand] deals, even if the algorithmically-computed bid is less. This may impact performance.
 
-**[!UICONTROL Placement Pre-bid Filters]:** Up to five KPI thresholds (such as a minimum viewability metric or click-through rate) that must be met for bidding to occur. You can use pre-bid filters as optimization tactics, but understand that each rule may limit the opportunities on which this placement can bid. To add or edit filters:
+**[!UICONTROL Placement Pre-bid Filters]:** Up to five KPI thresholds (such as a minimum viewability metric or click-through rate) that must be met for bidding to occur. You can use pre-bid filters as optimization tactics, but understand that each rule limits the opportunities on which this placement can bid. To add or edit filters:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Do either of the following:
@@ -151,7 +151,7 @@ The dates for the package (when applicable) or campaign are auto-populated by de
    >
    >This option can negatively affect performance. Use it only when you are fully prioritizing delivery and spend over performance optimization.
 
-**[!UICONTROL Placement Pre-bid Filters]:** (Optional) Up to five filters that must be met for bidding to occur. You can use pre-bid filters as optimization tactics, but keep in mind that each rule may limit the opportunities on which this placement can bid. To add or edit filters:
+**[!UICONTROL Placement Pre-bid Filters]:** (Optional) Up to five filters that must be met for bidding to occur. You can use pre-bid filters as optimization tactics, but keep in mind that each rule limits the opportunities on which this placement can bid. To add or edit filters:
 
 1. Click ![Edit](/help/dsp/assets/edit.png).
 1. Do either of the following:
@@ -204,7 +204,7 @@ To specify locations:
 
 ## [!UICONTROL Inventory Targeting]
 
-**[!UICONTROL Inventory Sources]:** Inventory sources to include or exclude as targets. For most placement types, all inventory types, and all sources for each type, are included by default. For [!DNL Roku] placements, you must specify the inventory type and sources. You can choose from the following types of inventory:
+**[!UICONTROL Inventory Sources]:** Inventory sources to include or exclude as targets. For most placement types, DSP includes all inventory types, and all sources for each type, by default. For [!DNL Roku] placements, you must specify the inventory type and sources. You can choose from the following types of inventory:
 
 * [!UICONTROL Public]: (All placement types except for Roku) All open exchange inventory to which DSP has access. You can include and exclude public inventory.
 
@@ -243,15 +243,49 @@ To specify inventory targeting:
 >
 >If you subscribed to [!UICONTROL On Demand] inventory but can't locate the publishers or deals to target, then check the status of the deals. For more information about statuses, see [About [!DNL On Demand] premium inventory](/help/dsp/inventory/on-demand-inventory-about.md).
 
-**[!UICONTROL Video targeting]:**  Target (but not exclude) inventory by inventory attributes. When you target multiple values for the same video attribute, any of the selected attributes can be targeted (for example either \[Player size = large OR Player size = HD\]). When you target multiple attributes, each of the specified attributes must be present (for example, \[Duration = 30-60 min] AND \[Player size = large OR Player size = HD\]).
+**[!UICONTROL Video targeting]:** Target (but not exclude) inventory by video attributes. When you target multiple values for the same video attribute, inventory can match any selected value (for example, a player size of either [!UICONTROL Large] or [!UICONTROL HD]). When you target multiple attributes, inventory must match each specified attribute (for example, non-skippable inventory with a player size of either [!UICONTROL Large] or [!UICONTROL HD]).
 
-* **[!UICONTROL Player size]:** Target (but not exclude) inventory by player size. The setting applies to preroll placements, mobile standard preroll placements, and universal video placements for desktop and mobile environments. By default, all sizes are targeted. To narrow down the targets, select specific target sizes and/or *Unknown*.
+* **[!UICONTROL Player size]:** Target (but not exclude) inventory by the player width supplied in the bid request. The setting applies to preroll placements, mobile standard preroll placements, and universal video placements for desktop and mobile environments. By default, all sizes are targeted. To narrow down the targets, select specific target sizes and/or [!UICONTROL Unknown].
 
-* **[!UICONTROL Playback mode]:** Target (but not exclude) inventory by how playback is initiated. The setting applies to preroll placements, mobile standard preroll placements, and universal video placements for desktop and mobile environments. By default, all modes are targeted. To narrow down the targets, select specific target modes and/or *Unknown*.
+  * **[!UICONTROL Small]:** 1-299 pixels wide.
+  * **[!UICONTROL Large]:** 300-719 pixels wide.
+  * **[!UICONTROL HD]:** 720-10000 pixels wide.
+  * **[!UICONTROL Unknown]:** The player width is missing or isn't a positive value.
 
-* **[!UICONTROL Skippability]:** Target (but not exclude) inventory according to whether or not it's skippable. The setting applies to all VAST/VPAID placements, including preroll, mobile standard preroll, connected TV, and universal video placements. By default, all options are targeted. To narrow down the targets, select specific targets and/or *Unknown*.
+* **[!UICONTROL Playback mode]:** Target (but not exclude) inventory by how playback is initiated or continued. The setting applies to preroll placements, mobile standard preroll placements, and universal video placements for desktop and mobile environments. By default, all modes are targeted. To narrow down the targets, select specific target modes and/or [!UICONTROL Unknown].
 
-**[!UICONTROL Position targeting]:** Target (but not exclude) inventory by ad position. The setting applies to all VAST/VPAID placements, including preroll, mobile standard preroll, connected TV, and universal video placements. By default, all positions are targeted. To narrow down the targets, select specific target positions and/or *Unknown*.
+  Supported modes include automatic playback with sound on or off by default, playback initiated by a click or mouseover, playback initiated when the player enters view with sound on or off by default, and continuous playback. If a bid request includes multiple playback methods, DSP uses the first method listed.
+
+* **[!UICONTROL Skippability]:** Target (but not exclude) inventory according to whether or not it's skippable. The setting applies to all VAST/VPAID placements, including preroll, mobile standard preroll, connected TV, and universal video placements. By default, all options are targeted. To narrow down the targets, select skippable or non-skippable inventory and/or [!UICONTROL Unknown]. DSP classifies skippability as [!UICONTROL Unknown] when the bid request doesn't supply a valid skippability value.
+
+<!-- DRAFT: Before publishing this update, confirm the production database changes, available position options and labels, and GA rollout. The source catalog and bidder support the positions below, but the wiki's database/API handoff and release status remain unresolved. -->
+
+**[!UICONTROL Position targeting]:** Target (but not exclude) inventory by video ad position attributes. The setting applies to all VAST/VPAID placements, including preroll, mobile standard preroll, connected TV, and universal video placements. By default, all positions are targeted. To narrow down the targets, select specific positions in **[!UICONTROL Video Ad Position]**.
+
+DSP uses OpenRTB 2.6 video placement signals provided by supply-side platforms (SSPs), including [!DNL Magnite], to classify ad positions. The available options depend on the placement type.
+
+| Ad position | Description |
+| --- | --- |
+| Instream Pre-roll, Mid-roll, and Post-roll | Ads before, during, or after video content that the viewer requested. Under OpenRTB 2.6, instream inventory requires sound on at player start or an explicit indication that the viewer intends to watch the video. |
+| [!UICONTROL Accompanying Content] | Ads in a video player accompanying text or other content. The player starts playback when it enters view and may become sticky or floating as the viewer scrolls. |
+| [!UICONTROL Interstitial] | Video ads without accompanying video content that occupy most of the view and can't be scrolled out of view during playback. |
+| [!UICONTROL No Content/Standalone] | Video ads without streaming video content, such as ads in feeds or sticky or floating players. |
+| [!UICONTROL Pause] | Ads shown while the viewer pauses streaming video content. |
+| [!UICONTROL Screensaver] | Ads shown when an operating system or application starts a screensaver. |
+| [!UICONTROL Overlay] | Ads displayed over video content outside a traditional ad break. |
+| [!UICONTROL Squeezeback] | Ads displayed alongside video content that is resized to make room for the ad, rather than covered by it. |
+| [!UICONTROL In-scene] | Ads integrated into the video scene itself, rather than displayed in a separate ad break or over the content. |
+| [!UICONTROL Unknown] | Inventory for which DSP can't determine a supported video ad position from the supplied signals. |
+
+When you select multiple positions, inventory can match any selected position. Selecting specific positions can reduce eligible inventory. Include **[!UICONTROL Unknown]** if you also want to target inventory whose position DSP can't determine. To avoid restricting inventory by ad position, leave the setting at its default.
+
+DSP determines instream pre-roll, mid-roll, and post-roll from the start-delay signal supplied with the bid request. If that signal is missing or invalid, DSP classifies the instream position as **[!UICONTROL Unknown]**.
+
+When a valid OpenRTB 2.6 position is supplied, DSP uses it in preference to the legacy OpenRTB 2.5 position. If the OpenRTB 2.6 position is missing or invalid, DSP can still recognize legacy instream inventory when a valid start-delay signal is supplied. Other legacy positions are classified as **[!UICONTROL Unknown]** rather than translated into the new categories.
+
+>[!NOTE]
+>
+>OpenRTB 2.6 position categories aren't a one-to-one replacement for the legacy categories. For example, inventory previously described as instream may now be classified as accompanying content. Review your position targets with your Adobe Account Team if eligible inventory changes as SSPs adopt the newer signals.
 
 ## [!UICONTROL Site or App and Keyword Targeting]
 

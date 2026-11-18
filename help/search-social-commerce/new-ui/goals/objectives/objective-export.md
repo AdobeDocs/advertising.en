@@ -30,9 +30,17 @@ When you export multiple objectives, the export consists of a ZIP file with a se
 
 1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
 
-1. Select the check box next to each objective to export.
+1. Do either of the following:
 
-1. In the bulk actions toolbar, click **[!UICONTROL Export Objectives]**.
+   * To export a single objective:
+
+     1. Hold the cursor over the objective row and click **[!UICONTROL ...] > [!UICONTROL Export Objective]**.
+
+   * To export one or more objectives:
+
+     1. Select the check box next to each objective that you want to export.
+
+     1. In the bulk actions toolbar, click **[!UICONTROL Export Objectives]**.
 
 >[!MORELIKETHIS]
 >

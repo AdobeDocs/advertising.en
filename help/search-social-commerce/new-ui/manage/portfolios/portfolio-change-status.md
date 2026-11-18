@@ -1,6 +1,6 @@
 ---
 title: (New UI) Change the status of a portfolio
-description: Learn how to change the status of a portfolio or delete an inactive portfolio without opening the portfolio settings.
+description: Learn how to change the status of a portfolio or delete one or more inactive portfolios without opening the portfolio settings.
 feature: Search Portfolios, Search Optimization
 hide: true
 product_v2:
@@ -16,7 +16,7 @@ feature_v2:
 
 *Beta feature*
 
-You can quickly change a [portfolio's status](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md#portfolio-statuses) without opening the full portfolio settings.
+You can quickly change a [portfolio's status](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md#portfolio-status) without opening the full portfolio settings.
 
 To stop gathering cost/click/impression data and revenue data for the relevant campaigns, delete the portfolio. Deleting a portfolio makes it unavailable within Search, Social, & Commerce.
 
@@ -36,9 +36,15 @@ All changes to the portfolio status are logged in the portfolio's change history
 
    * To activate an inactive or optimized portfolio, select **[!UICONTROL Active]**.
 
-   * To deactivate an active portfolio, select **[!UICONTROL Inactive]**.
+   * To deactivate an active or optimized portfolio, select **[!UICONTROL Inactive]**.
 
-   * To optimize (launch) an active portfolio, select **[!UICONTROL Optimized]**.
+   * To optimize (launch) an active portfolio:
+
+     1. Select **[!UICONTROL Optimized]**.
+
+     1. In the confirmation message, click **[!UICONTROL Update]**.
+
+     1. If additional confirmation messages appear, follow the prompts to apply the change.
    
      >[!NOTE]
      >
@@ -49,7 +55,7 @@ All changes to the portfolio status are logged in the portfolio's change history
      >* Once Search, Social, & Commerce begins optimizing a portfolio, let it manage all future campaign budget and (when applicable) bid change (when applicable). Search, Social, & Commerce will overwrite any changes you make from within the ad network.
      >* You can temporarily set manual bids for any optimized CPC campaign in the portfolio by creating and posting campaign bulksheets. Any bid changes resulting from the posted data are applicable for one day. After that, Search, Social, & Commerce resumes setting bids according to its own optimization strategy.
 
-## Delete an inactive portfolio from the [!UICONTROL Portfolios] view
+## Delete one or more inactive portfolios from the [!UICONTROL Portfolios] view
 
 You can delete only inactive portfolios. If the portfolio is optimized or active, then you must first change its status to inactive before you have the option to delete it.
 
@@ -57,11 +63,19 @@ You can delete only inactive portfolios. If the portfolio is optimized or active
 
 1. Do either of the following:
 
-   * Hold the cursor over the portfolio row and click **[!UICONTROL ...] > [!UICONTROL Delete]**.
-   
-   * Select the check box next to the portfolio. In the bulk actions toolbar, click ![Delete](/help/search-social-commerce/assets/delete-new.png "Delete").
+   * To delete a single inactive portfolio:
 
-1. In the confirmation message, click **[!UICONTROL Confirm]**.
+     1. Hold the cursor over the portfolio row and click **[!UICONTROL ...] > [!UICONTROL Delete]**.
+
+     1. In the confirmation message, click **[!UICONTROL Confirm]**.
+   
+   * To delete one or more inactive portfolios:
+
+     1. Select the check box next to each inactive portfolio that you want to delete.
+
+     1. In the bulk actions toolbar, click ![Delete](/help/search-social-commerce/assets/delete-new.png "Delete").
+
+     1. In the confirmation message, click **[!UICONTROL Confirm]**.
 
 >[!MORELIKETHIS]
 >
