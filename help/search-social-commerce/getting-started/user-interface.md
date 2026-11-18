@@ -37,6 +37,10 @@ The new user interface features a new main menu on the left, which organizes tas
 
 ### Main menu options
 
+* (When applicable) A selectable list of advertisers you're managing, above the search field in the expanded left navigation panel.
+
+* A search field for main menu options.
+
 * **[!UICONTROL Dashboard]** submenu:
 
   * **[!UICONTROL Overview]** Opens a configurable [!UICONTROL Dashboard] view with performance visualizations for all of your portfolios.
@@ -127,6 +131,12 @@ Collapse the main menu when you want more room to view data.
 
 * Above the main menu on the left, click ![Collapse/expand](/help/search-social-commerce/assets/collapse-expand.png "Collapse/expand").
 
+### View data for another advertiser
+
+* Expand the left navigation panel if it's collapsed. Above the search field, open the advertiser list and select the advertiser.
+
+  For details and restrictions, see "[View data for another advertiser](/help/search-social-commerce/common-tasks/change-advertiser.md)."
+
 ### Search for main menu options
 
 Use the search field above the main menu to look for specific menu options, such as "Portfolios" or "Reports."
@@ -149,9 +159,7 @@ Use the search field above the main menu to look for specific menu options, such
 
 **Note:** Some screens have additional options.
 
-* (When applicable) A selectable list of advertisers you're managing.
-
-* The configurable date range for the current view
+* The configurable date range for the current view. Where date comparison is supported, the date range control also lets you compare two periods and choose whether to show the change as a percentage or a numeric variance. See "[Filter data by date range](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/date-filter.md#date-filter-new-ui)."
 
 * ![Switch to Old UI](/help/search-social-commerce/assets/switch-to-old-ui.png "Switch to Old UI") Opens the legacy user interface in a new tab or window.
 

@@ -20,9 +20,17 @@ role_v2:
 
 ## (New UI) View data for another advertiser
 
-* In the toolbar above the data table, select the advertiser.
+1. If the left navigation panel is collapsed, click ![Collapse/expand](/help/search-social-commerce/assets/collapse-expand.png "Collapse/expand") to expand it.
 
-  ![Advertiser selector in toolbar](/help/search-social-commerce/assets/advertiser-selector.png "Advertiser selector in toolbar")
+1. Above the search field in the left navigation panel, open the advertiser list and select the advertiser.
+
+   You can search the list to locate an advertiser. The list shows the currently selected advertiser.
+
+   ![Advertiser selector above the main menu](/help/search-social-commerce/assets/advertiser-selector.png "Advertiser selector above the main menu")
+
+>[!NOTE]
+>
+>Advertiser switching is disabled in some detail views, including portfolio details and simulation details. Return to the corresponding list view to select another advertiser.
 
 ## (Legacy UI) View data for another advertiser
 

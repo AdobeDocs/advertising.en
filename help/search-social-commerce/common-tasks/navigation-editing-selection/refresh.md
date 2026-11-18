@@ -16,6 +16,6 @@ role_v2:
 ---
 # Refresh data in management views
 
-* (New UI) In the toolbar above the data table, click ![Refresh](/help/search-social-commerce/assets/refresh-new.png).
+* (New UI) In applicable management views, click the ![Refresh](/help/search-social-commerce/assets/refresh-new.png "Refresh") control beside the page title.
 
 * (Legacy UI) At the bottom of the data table, click ![Refresh](/help/search-social-commerce/assets/refresh.png).

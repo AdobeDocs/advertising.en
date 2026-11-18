@@ -42,7 +42,7 @@ role_v2:
     + [Manage default and custom views](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md)
     + Ad hoc view settings {#ad-hoc-settings}
       + [Edit the column set from the column heading menu](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-column-heading.md)
-      + [Edit and sort the column set from the [!UICONTROL Custom Columns] icon](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md)
+      + [Edit and sort the column set from the [!UICONTROL Custom Columns] control](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md)
       + [Lock and unlock a column configuration in campaign views](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-lock-unlock.md)
       + [Re-sort a column](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-sort.md)
       + [Filter data by date range](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/date-filter.md)
