@@ -40,34 +40,23 @@ In most campaign data views, you can customize the data that appears within the 
 
 * Control whether to display 25 rows, 50 rows, 100 rows, (legacy user interface only) 200 rows, or (legacy user interface only) [!UICONTROL Continuous Scroll] at the bottom of any page.
 
-<!--
 
-## (New UI) Data table tools {#grid-controls-new-ui}
+## (New UI) Data table controls {#data-table-tools-new-ui}
 
-In applicable management views, the toolbar includes the following controls:
+Use the toolbar above the data table to manage data and change how it's displayed. The available tools depend on the view and your permissions.
 
-* On the left, the [!UICONTROL Filter] control appears before grid search. Where supported, the [!UICONTROL Conversion based on] selector follows search and lets you select [!UICONTROL Click Date] or [!UICONTROL Transaction Date].
+If the toolbar is too narrow to show a tool, look for it in the **[!UICONTROL Actions]** menu.
 
-* On the right, operational actions, such as [!UICONTROL Reports], appear alongside view and display controls. The available controls depend on the view and your permissions.
+Where available, you can:
 
-* When the available width is reduced, controls move into the [!UICONTROL Actions] menu. This can happen when you narrow the window or open the AI Assistant panel. If a control isn't visible in the toolbar, look for it in [!UICONTROL Actions]. In wider layouts, controls remain inline.
+* Select *[!UICONTROL Click Date]* or *[!UICONTROL Transaction Date]* from [!UICONTROL Conversion based on] to control how conversion data is reported.
 
-* Within [!UICONTROL Actions], a horizontal divider separates operational actions from view and display controls, such as the current view, [!UICONTROL Custom Columns], [!UICONTROL Compressed Mode], and [!UICONTROL Charts], where available.
+* Compare performance for two time periods and choose how to display the difference. See "[Filter data by date range](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/date-filter.md#compare-periods-new-ui)."
 
-* The primary create button remains outside [!UICONTROL Actions].
-
-The [!UICONTROL Refresh] icon is beside the page title in applicable views. The date range control is in the page header. For instructions on comparing two date ranges and changing the comparison format, see "[Filter data by date range](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/date-filter.md#compare-periods-new-ui)."
-
-### Change the grid density
-
-* Where available, click **[!UICONTROL Compressed Mode]** in the toolbar or **[!UICONTROL Actions]** menu to turn compact grid spacing on or off.
+* Turn compact table spacing on or off using **[!UICONTROL Compressed Mode]** in the toolbar or the **[!UICONTROL Actions]** menu.
 
   The toolbar button is selected when compressed mode is on. In [!UICONTROL Actions], a switch indicates the current state.
 
-### Show or hide charts
-
-* Where available, click **[!UICONTROL Charts]** in the toolbar or **[!UICONTROL Actions]** menu.
+* Show or hide charts using **[!UICONTROL Charts]** in the toolbar or **[!UICONTROL Actions]** menu.
 
   The toolbar button is selected when charts are shown. In [!UICONTROL Actions], a switch indicates whether charts are shown. Click the control again to hide the charts.
-
--->

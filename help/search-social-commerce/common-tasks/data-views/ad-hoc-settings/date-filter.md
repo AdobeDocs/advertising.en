@@ -73,9 +73,9 @@ To stop comparing periods, open the date range control, turn off **[!UICONTROL C
 
 1. Select **[!UICONTROL As percentage]** or **[!UICONTROL As variance]**.
 
-   The selection applies to all comparison metrics in the grid, not just the selected column. The date range control is synchronized with the selection, and the format is shared across applicable pages for the current advertiser, including views with saved date ranges.
+   The selection applies to all comparison metrics in the data table, not just the selected column. The date range control is synchronized with the selection, and the format is shared across applicable pages for the current advertiser, including views with saved date ranges.
 
-   A confirmation message appears after the grid refreshes successfully. If the grid can't refresh with the selected format, an error message appears instead; try selecting the format again.
+   A confirmation message appears after the data table refreshes successfully. If the data table can't refresh with the selected format, an error message appears instead; try selecting the format again.
 
 Sorting and filtering options remain available in column menus where supported.
 
