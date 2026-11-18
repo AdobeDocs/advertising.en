@@ -34,7 +34,7 @@ The portfolio detail view includes the following information about a portfolio:
 
 * Model accuracy data for active portfolios, which shows how much the models deviated from predictions. The report shows the overall daily or rolling seven-day cost accuracy, click accuracy, and objective value accuracy.
 
-  You can view data by click date (the default) or by transaction date. You also can view the data as either a trend chart (the default) or as a table.
+  You can view the data as either a trend chart (the default) or as a table.
 
 * The target spend versus the actual spend for active portfolios. You can optionally also include the total campaign budgets for the portfolio.
 
@@ -44,7 +44,7 @@ The portfolio detail view includes the following information about a portfolio:
 
   You can optionally open the portfolio settings to edit them.
 
-* Lists of the campaigns, ad groups, and keywords in the portfolio.
+* Lists of the ad networks, accounts, campaigns, ad groups, and keywords in the portfolio, with performance data.
 
   For individual keywords, you can view bid unit details, including forecasts, historical information, and hierarchical information. The [!UICONTROL Bid Unit Details] view includes the following forecasts, historical information, and hierarchical information for the selected bid unit:
      
@@ -60,11 +60,19 @@ The portfolio detail view includes the following information about a portfolio:
 
 1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
 
-1. Hold the cursor over the portfolio name and click ![Portfolio Overview](/help/search-social-commerce/assets/portfolio-overview.png "Portfolio Overview).
+1. Hold the cursor over the portfolio name and click ![Portfolio Overview](/help/search-social-commerce/assets/portfolio-overview.png "Portfolio Overview").
+
+1. (Optional) To change the date range for the portfolio details, click the date range in the upper right, specify the date range, and then click **[!UICONTROL Apply]**.
 
 1. (Optional) From the **[!UICONTROL Data Aggregation]** menu, change the time unit of data included in each row: *[!UICONTROL Daily],* *[!UICONTROL Weekly],* or *[!UICONTROL Monthly].*
 
-1. (Optional) To change the date range for the portfolio details, click the date range in the upper right, specify the date range, and then click **[!UICONTROL Apply]**.
+   The available options depend on the selected date range. If the current aggregation isn't available for a new date range, another available aggregation is selected automatically.
+
+1. (Optional) From the **[!UICONTROL Conversion Based On]** menu in the page header, select **[!UICONTROL Click Date]** or **[!UICONTROL Transaction Date]**.
+
+   This setting applies to conversion data in the portfolio reports and component lists.
+
+To view details for another portfolio, use the portfolio selector next to the portfolio name.
 
 ## Customize the [!UICONTROL Portfolio Overview] tab
 
@@ -82,15 +90,19 @@ The portfolio detail view includes the following information about a portfolio:
 
     * (In chart view) To see data for any point on the chart, hold the cursor over that point.
 
+    * (In chart view) To zoom, select an area on the graph.
+
+    * (When portfolio setting-change markers are displayed) To view the portfolio's change history for a marked date, click the marker on the chart. For more information about the history, see "[View a portfolio's change history](portfolio-view-change-history.md#portfolio-change-history)."
+
 * (Optional) To customize the [!UICONTROL Model accuracy] trend chart, do any of the following:
 
   * Switch between the chart view (![Chart View](/help/search-social-commerce/assets/chart-view.png "Chart View")) and table view (![Table View](/help/search-social-commerce/assets/table-view.png "Table View")).
 
-  * Switch between viewing data by *[!UICONTROL Click Date]* and *[!UICONTROL Transaction Date]*.
-
   * Switch between viewing data about the *[!UICONTROL Daily Accuracy]* and the *[!UICONTROL 7 Day Rolling Accuracy]*.
   
     [!UICONTROL 7 Day Rolling Accuracy] is the average accuracy of the forecast for the previous seven days, expressed as a percentage. For example, the value for 8 May 2025 is the average accuracy for the period of 1 May - 7 May 2025.
+
+    [!UICONTROL 7 Day Rolling Accuracy] is available only when [!UICONTROL Data Aggregation] is set to [!UICONTROL Daily].
 
   * (In chart view) To see data for any point on the chart, hold the cursor over that point.
 
@@ -104,19 +116,50 @@ The portfolio detail view includes the following information about a portfolio:
 
   * Change the reported metric to *[!UICONTROL Cost]*, *[!UICONTROL Clicks]*, or *[!UICONTROL Objective Value]*.
 
+  * When data is available for more than one network, select the network from the menu next to the metric menu.
+
   * To see data for any point on the chart, hold the cursor over that point.
 
-1. Click **[!UICONTROL Download report]**.
+  * To zoom, select an area on the graph.
+
+## Customize the lists of portfolio components
+
+The [!UICONTROL Networks], [!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], and [!UICONTROL Keywords] tabs include the following controls:
+
+* To search by name, enter text in the search field above the table and submit the search.
+
+* To [filter the data](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md), click ![Filter](/help/search-social-commerce/assets/filter-new.png "Filter"). You can edit or remove applied filters using the filter controls above the table.
+
+* To view the components of a network, account, campaign, or ad group in the next tab, click its name. The selected parent is shown in the breadcrumb above the table, and applicable filters carry forward as you drill down. Parent selections may continue to restrict the list when you switch tabs.
+
+  To remove a drill-down selection (such as a network or account name), click **[!UICONTROL X]** next to the component name in the breadcrumb above the table. Higher-level parent selections can remain in effect. To return to all components in the portfolio, remove the remaining parent selections and any other filters.
+
+* To refresh the data, click ![Refresh](/help/search-social-commerce/assets/refresh-new.png "Refresh").
+
+* ([!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], and [!UICONTROL Keywords] tabs only) To change the displayed columns or sort order, click ![Custom Columns](/help/search-social-commerce/assets/custom-columns-new.png "Custom Columns") and [edit the column set and sorting options](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md).
+
+
+## List the ad networks in the portfolio
+
+* Click the **[!UICONTROL Networks]** tab.
+
+## List the accounts in the portfolio
+
+* To view all accounts in the portfolio, click the **[!UICONTROL Accounts]** tab.
+
+* To view accounts for a specific network in the portfolio, click the **[!UICONTROL Networks]** tab, and then click the network name.
 
 ## List the campaigns in the portfolio
 
 Details about each campaign include the bid strategy; the actual and predicted cost, clicks, and objective value; and the cost, click, and objective value accuracy.
 
-* Click the **[!UICONTROL Campaigns]** tab.
+* To view all campaigns in the portfolio, click the **[!UICONTROL Campaigns]** tab.
+
+* To view campaigns for a specific account in the portfolio, click the **[!UICONTROL Accounts]** tab, and then click the account name.
 
 ## List the ad groups in the portfolio
 
-Details about each ad group include the cost, clicks, and objective value.
+Details about each ad group include the network, default bid, cost, clicks, CPC, impressions, objective value, and the conversion metrics used in the portfolio's objective.
 
 * To view all ad groups in the portfolio, click the **[!UICONTROL Ad Groups]** tab.
 
@@ -156,23 +199,27 @@ To view bid history for the entire portfolio and change its date range, see "[Vi
 
 For more information about the portfolio settings, see the Optimization Guide, which is available from within Search, Social, & Commerce.
 
-## Download porfolio performance reports and lists of the portfolio components
+## Download portfolio performance reports and lists of the portfolio components
 
-* To download all reports:
+* To download performance reports and component lists:
 
   1. In the toolbar, click **[!UICONTROL Download report]**.
 
   1. Select the check box next to each performance report and portfolio component type to include.
 
-     For some performance reports, you can choose whether to download the data as a chart or a table.
+     The available portfolio components are *[!UICONTROL Campaigns table]*, *[!UICONTROL Ad groups table]*, and *[!UICONTROL Keywords table]*. The [!UICONTROL Networks] and [!UICONTROL Accounts] tables aren't included in this download.
+
+     For performance reports with both options, select **[!UICONTROL As chart]**, **[!UICONTROL As table]**, or both. The [!UICONTROL Network accuracy chart] report is available only as a chart.
 
   1. Click **[!UICONTROL Download report]**.
 
-* To download a [!DNL model accuracy] report with specific types of data:
+* To download a [!UICONTROL Model accuracy] report with specific types of data:
 
-  1. In the toolbar for the report, click **[!UICONTROL Download report]**.
+  1. In the toolbar for [!UICONTROL Model accuracy], click **[!UICONTROL Download report]**.
 
-  1. Select the check box next to each type of data to include and how to break down the data (by bid unit and/or by click volume).
+  1. Select **[!UICONTROL Cost Accuracy]**, **[!UICONTROL Objective Value Accuracy]**, or both.
+
+  1. For each selected type of data, select **[!UICONTROL By Bid Unit]**, **[!UICONTROL By Click Volume]**, or both.
 
   1. Click **[!UICONTROL Download report]**.
 
