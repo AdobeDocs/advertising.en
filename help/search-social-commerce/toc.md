@@ -137,6 +137,7 @@ role_v2:
         + [[!DNL Yandex] keyword settings](/help/search-social-commerce/new-ui/manage/keywords/keyword-settings-yandex.md)
     + [Manage shopping product groups](/help/search-social-commerce/new-ui/manage/product-groups-manage.md)
   + Reports {#reports}
+    + [Advertising insights](/help/search-social-commerce/new-ui/reports/insights.md)
     + Scheduled reports {#scheduled}
       + [About scheduled reports](/help/search-social-commerce/new-ui/reports/report-about.md)
       + [The initial setup tasks for reports](/help/search-social-commerce/new-ui/reports/initial-setup.md)
