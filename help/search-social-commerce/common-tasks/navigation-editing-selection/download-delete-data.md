@@ -21,7 +21,7 @@ role_v2:
 >[!NOTE]
 >
 >* Deleting a bulksheet file removes it from [!UICONTROL Downloads] list and also from the [!UICONTROL Bulksheets] view.
->* See also help on downloading data in the new user interface from the "[[!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)", "[[!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-reports)," and "[[!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)."
+>* See also help on downloading data in the new user interface from the "[[!UICONTROL Portfolios] view](/help/search-social-commerce/manage/portfolios/portfolio-view-report.md)", "[[!UICONTROL Campaigns] view](/help/search-social-commerce/manage/campaigns/campaign-manage.md#campaign-reports)," and "[[!UICONTROL Ad Groups] view](/help/search-social-commerce/manage/ad-groups/ad-group-manage.md#ad-group-reports)."
 
 1. In the main menu, click [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns], and open any entity view.
 
@@ -34,6 +34,6 @@ role_v2:
 >[!MORELIKETHIS]
 >
 >* [(Legacy UI) Download data from a campaign management view](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
->* [(New UI) Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
->* [(New UI) Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md#campaign-reports)
->* [(New UI) Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
+>* [(New UI) Manage data view reports from the [!UICONTROL Portfolios] view](/help/search-social-commerce/manage/portfolios/portfolio-view-report.md)
+>* [(New UI) Manage data view reports from the [!UICONTROL Campaigns] view](/help/search-social-commerce/manage/campaigns/campaign-manage.md#campaign-reports)
+>* [(New UI) Manage data view reports from the [!UICONTROL Ad Groups] view](/help/search-social-commerce/manage/ad-groups/ad-group-manage.md#ad-group-reports)

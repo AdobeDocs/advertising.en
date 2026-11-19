@@ -75,5 +75,5 @@ This option is available for a short time so that you can prepare for the change
 >
 >* [Switch between the new and legacy user interfaces](ui-switch.md)
 >* [Sign out](sign-out.md)
->* [Change your password](/help/search-social-commerce/tools/password-change.md)
+>* [Change your password](/help/search-social-commerce/legacy-ui/tools/password-change.md)
 >* [How the user interface is organized](user-interface.md)

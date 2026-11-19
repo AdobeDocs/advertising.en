@@ -77,7 +77,7 @@ The following is the general workflow for implementing and using Search, Social,
     
     1. (Advertisers with [!DNL Google Analytics]) Sync conversion metrics for a [!DNL Google Analytics] account, property, and view combination for optimization and reporting.
     
-       See the help subchapter "Admin" > "[Configuring Data Sources](/help/search-social-commerce/admin/data-sources/data-source-about.md)."
+       See the help subchapter "Admin" > "[Configuring Data Sources](/help/search-social-commerce/legacy-ui/admin/data-sources/data-source-about.md)."
 
 1. Set up and launch portfolios:
 

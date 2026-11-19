@@ -1,0 +1,41 @@
+---
+title: Mark a notification as read or unread
+description: Learn how to indicate if you've read or not read a notification.
+exl-id: b6f35d37-819c-489d-aca6-a0753e82e7fd
+feature: Search Notifications
+TQID: 'https://experienceleague.adobe.com/uiaHyB67HiMWL3bqHQxKrYHmUrL3KFn6bP49GNenCiA'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 4a019b9f-6dd0-5c07-a60f-b60f67fd80d0
+    internal-label: Search Notifications
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+---
+# Mark a notification as read or unread
+
+*Beta Feature*
+
+Marking a notification as *read* or *unread* changes the number of unread notifications indicated in the [!UICONTROL Notifications] link at the top of each page (such as ![Notifications icon with unread notifications counter](/help/search-social-commerce/assets/notifications-unread.png "Notifications icon with unread notifications counter")).
+
+Notifications marked as *read* are in a lighter-colored text but remain available until you delete them.
+
+![Read and Unread notifications](/help/search-social-commerce/assets/notifications-read-vs-unread.png "Read and Unread notifications")
+
+1. [Open the Notifications panel or Notification Center](notification-view.md).
+
+1. Hold the cursor over the alert name and click ![Mark as Read or Unread](/help/search-social-commerce/assets/notifications-read-unread.png "Mark as Read or Unread").
+
+>[!MORELIKETHIS]
+>
+>* [About notifications](/help/search-social-commerce/legacy-ui/notifications/notification-about.md)
+>* [View your notifications](notification-view.md)
+>* [Delete a notification](notification-delete.md)
+>* [Edit your notification settings](notification-edit.md)
+>* [Enable and disable push notifications from [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
+>* [Install and uninstall the [!UICONTROL Notification Center] web application](notification-app-install-uninstall.md)

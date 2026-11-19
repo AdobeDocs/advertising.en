@@ -45,4 +45,4 @@ role_v2:
 
    >[!MORELIKETHIS]
    >
-   >* [Create and edit campaign data in bulk using Copy and Paste](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md)
+   >* [Create and edit campaign data in bulk using Copy and Paste](/help/search-social-commerce/legacy-ui/campaign-management/campaigns/copy-paste.md)

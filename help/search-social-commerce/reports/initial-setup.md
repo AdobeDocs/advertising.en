@@ -1,27 +1,24 @@
 ---
-title: The initial setup tasks for reports
+title: (New UI) The initial setup tasks for reports
 description: Learn how to make metrics available in reports and how to automate reports.
-exl-id: c2e76c63-ddb8-4762-8628-30cf3f54b8fd
 feature: Search Reports
-TQID: 'https://experienceleague.adobe.com/N50b-O0oFBV6ZMXcFx8gRvLs3M1hN696d43VGlgkg44'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
   - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
     internal-label: Search Reports
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
+subfeature_v2:
+  - id: e246c273-d720-4ece-b29b-7aaba7d50169
+    internal-label: Reports
 ---
-# The initial setup tasks for reports
+# (New UI) The initial setup tasks for reports
 
 New users should perform the following initial setup tasks:
 
-* Make the conversion metrics that Adobe Advertising is tracking for an advertiser [available for reports and other views](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md), and optionally [rename any of the conversion metrics](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md that are displayed in column headings for readability.
+* Make the conversion metrics that Adobe Advertising is tracking for an advertiser available for reports and other views, and optionally rename any of the conversion metrics that are displayed in column headings for readability. See "[Manage an advertiser's conversion metrics](/help/search-social-commerce/goals/conversions/conversion-metrics-manage.md)."
   
   Transactions properties aren't available for reports unless you specifically make them available.
   
@@ -29,11 +26,11 @@ New users should perform the following initial setup tasks:
 
 * (Optional) Automate report generation:
    
-   * If you want to regularly generate report data for a specific time increment, such as a [!UICONTROL Campaign Report] for the last week or last 30 days, then you can set up [report templates](/help/search-social-commerce/reports/automation/templates/template-about.md) and schedule them to be run daily or on a specific day of the week or month. Each time the report is scheduled to run, a new report is generated. You have the option to notify the email addresses of specific Search, Social, & Commerce users when the report is completed, based on the [notification settings configured in [!UICONTROL Notification Center]](/help/search-social-commerce/notifications/notification-about.md).
+   * If you want to regularly generate report data for a specific time increment, such as a [!UICONTROL Campaign Report] for the last week or last 30 days, then you can set up [report templates](report-templates-manage.md) and schedule them to be run daily or on a specific day of the week or month. Each time the report is scheduled to run, a new report is generated. You have the option to notify the email addresses of specific Search, Social, & Commerce users when the report is completed, based on the [notification settings configured in [!UICONTROL Notification Center]][Manage custom alerts](/help/search-social-commerce/common-tasks/notifications-manage.md).
    
-   * If you want to view up-to-date, daily report data in a custom-formatted spreadsheet, with or without pivot tables and any additional columns you need to perform further calculations, then you can set up a daily [spreadsheet feed](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-about.md). Spreadsheet feeds are refreshed daily with the latest performance data and continue to retain data for the previous dates. To configure spreadsheet feeds, you must first create a customized spreadsheet template in [!DNL Microsoft Excel]. You have the option to notify the email addresses of specific Search, Social, & Commerce users when a feed file is available, based on the [notification settings configured in [!UICONTROL Notification Center]](/help/search-social-commerce/notifications/notification-about.md).
+   * If you want to view up-to-date, daily report data in a custom-formatted spreadsheet, with or without pivot tables and any additional columns you need to perform further calculations, then you can set up a daily [spreadsheet feed](/help/search-social-commerce/legacy-ui/reports/automation/spreadsheet-feeds/spreadsheet-feed-about.md). Spreadsheet feeds are refreshed daily with the latest performance data and continue to retain data for the previous dates. To configure spreadsheet feeds, you must first create a customized spreadsheet template in [!DNL Microsoft Excel]. You have the option to notify the email addresses of specific Search, Social, & Commerce users when a feed file is available, based on the [notification settings configured in [!UICONTROL Notification Center]](/help/search-social-commerce/common-tasks/notifications-manage.md).
    
-   * If you want to receive basic and advanced reports at an FTP location, then you can set up [FTP access to basic and advanced reports](/help/search-social-commerce/reports/automation/ftp-reports.md) by requesting an FTP account and setting up report templates using a specific naming convention.
+   * If you want to receive basic and advanced reports at an FTP location, then you can set up [FTP access to basic and advanced reports](/help/search-social-commerce/reports/ftp-reports.md) by requesting an FTP account and setting up report templates using a specific naming convention.
 
 >[!MORELIKETHIS]
 >

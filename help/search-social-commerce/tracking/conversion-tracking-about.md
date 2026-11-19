@@ -29,7 +29,7 @@ Search, Social, & Commerce can use conversion data that's tracked in the followi
 
 * **Adobe Analytics conversions:** The advertiser uses Adobe Analytics tracking for all conversions. This option requires an Adobe Advertising-Adobe Analytics integration. See "[Adobe Analytics conversion tracking](conversion-tracking-analytics.md)" for more information.
 
-* **[!DNL Google Analytics] conversions:** The advertiser uses the [!DNL Google Analytics] tag to track all conversions. See "[[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)" for more information about the conversions that are automatically synced.
+* **[!DNL Google Analytics] conversions:** The advertiser uses the [!DNL Google Analytics] tag to track all conversions. See "[[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/legacy-ui/campaign-management/introduction/google-conversion-data.md)" for more information about the conversions that are automatically synced.
 
 * **Advertiser-tracked conversions:** (Search, Social, & Commerce clients only) The advertiser provides Search, Social, & Commerce a feed file with any combination of online and offline conversion data. See "[Conversion tracking using an EF ID feed](feed-efid.md)" and "[Conversion tracking using a transaction ID feed](feed-transaction-id.md)."
 

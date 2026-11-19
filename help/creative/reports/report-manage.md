@@ -198,7 +198,7 @@ To apply one or more filters, do the following:
 
   * *[!UICONTROL Social Only]:* Obsolete
 
- See also "[How Attribution Rules Are Calculated for Adobe Advertising](/help/search-social-commerce/reports/attribution-rules.md)."
+ See also "[How Attribution Rules Are Calculated for Adobe Advertising](/help/search-social-commerce/legacy-ui/reports/attribution-rules.md)."
 
 **[!UICONTROL Paths as Columns]:**  Which types of conversions to report when prior events occurred on the same device. You can include up to three types. For each selected type, a separate column is included for each conversion metric and is appended with the specified suffix ([!UICONTROL (tl)], [!UICONTROL (ct)], or [!UICONTROL (vt)]):
 

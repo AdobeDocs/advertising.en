@@ -208,7 +208,7 @@ If the [!UICONTROL EF ID Instances]-to-Clicks ratio is below 85%, then check the
 
 * Are you missing click tracking for the account or at any sublevel, or do you have duplicate click tracking (for example, at both the account and campaign levels)?
 
-  In Search, Social, & Commerce, [download a bulksheet](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md) for the account to check the tracking URLs.
+  In Search, Social, & Commerce, [download a bulksheet](/help/search-social-commerce/legacy-ui/campaign-management/bulksheets/bulksheet-download.md) for the account to check the tracking URLs.
 
   Also, in [!DNL Analytics], you can see if the AMO ID and EF IF are appended consistently using an "[!DNL AMO ID] to [!DNL EF ID]" calculated metric, which is calculated as follows:
   

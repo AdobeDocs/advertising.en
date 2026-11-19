@@ -1,0 +1,54 @@
+---
+title: '[!UICONTROL Forecast Accuracy (Actuals) Report]'
+description: Learn about the [!UICONTROL Forecast Accuracy (Actuals) Report], including the data columns.
+exl-id: 659e11c7-5fed-4d91-a73f-7c435d36634f
+feature: Search Reports, Search Model Accuracy Reports
+TQID: 'https://experienceleague.adobe.com/wQyO42Dt5McqK23z-adEP-BAxxTrBk9RJi0I-4noP0I'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: 50281ed9-148e-57a9-a8f2-ee73330272e6
+    internal-label: Search Model Accuracy Reports
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+---
+# The [!UICONTROL Forecast Accuracy (Actuals) Report]
+
+This report shows the actual impression, click, cost, and revenue data from the ad network by day for each portfolio.
+
+## Available columns
+
+The following are the columns that are automatically included in each report. You can't add additional columns.
+
+| Column | Default? | Description |
+|----|----|----|
+| [!UICONTROL Portfolio Group Name] | Default | The name of the portfolio group to which the portfolio belongs. |
+| [!UICONTROL Portfolio ID] | Default | The numeric portfolio ID. |
+| [!UICONTROL EF Portfolio Group ID] | Default | The numeric ID for the portfolio group to which the portfolio belongs. |
+| [!UICONTROL Portfolio] | Default | The portfolio. |
+| [!UICONTROL Portfolio Status] | Default | The portfolio status:<ul><li><i>[!UICONTROL Optimize]:</i> The optimization capability is gathering click and revenue data for the relevant campaigns, modeling the data used for optimization, and optimizing bids, campaign budgets, and campaign bid strategy targets (depending on the optimization type and the bid strategies).</li><li><i>[!UICONTROL Active]:</i> The optimization capability is gathering click and revenue data for the relevant campaigns and is modeling the data, but it isn't optimizing bids or campaign budgets.</li><li><i>[!UICONTROL Inactive]:</i> The optimization capability is gathering click data for the relevant campaigns for reporting purposes, but it's not modeling the data nor optimizing bids or campaign budgets. |
+| [!UICONTROL Day of Week] | Default | The day of the week reported: <i>[!UICONTROL Sunday]</i>, <i>[!UICONTROL Monday]</i>, <i>[!UICONTROL Tuesday]</i>, <i>[!UICONTROL Wednesday]</i>, <i>[!UICONTROL Thursday]</i>, <i>[!UICONTROL Friday]</i>, or <i>[!UICONTROL Saturday]</i>.  |
+| [!UICONTROL Event Date] | Default | The date reported. |
+| [!UICONTROL Device] | Default |(Google Ads, [!DNL LY Ads], Microsoft Advertising, Yahoo! Display Network, and Yahoo Native campaigns) The device type on which ads were displayed: <i>[!UICONTROL Computers]</i>, <i>[!UICONTROL Mobile]</i>, <i>[!UICONTROL Tablets]</i>, <i>[!UICONTROL Other]</i>, or <i>[!UICONTROL N/A]</i> (no value). Rows for other ad networks have values of <i>[!UICONTROL N/A]</i>.<br><br>In search campaigns, if the tracking templates or destination URLs for the keywords, ads, and/or ad extensions included parameters to track data by device (<code>&ev_dvc={device}&ev_dvm={devicemodel}</code>) at the time the ad was clicked, then conversion data is also included in the row for each device type. Otherwise, if conversion data can't be attributed to a device type, it's aggregated in a separate row with a "[!UICONTROL Device]" value of <i>[!UICONTROL N/A]</i>. |
+| [!UICONTROL Revenue] | Default | The total revenue. |
+| [!UICONTROL Impressions] | Default | The total impressions. |
+| [!UICONTROL Clicks] | Default | The total clicks. |
+| [!UICONTROL Cost] | Default | The total cost. |
+
+>[!MORELIKETHIS]
+>
+>* [About model accuracy reports](/help/search-social-commerce/legacy-ui/reports/management/model-accuracy/model-accuracy-report-about.md)
+>* [The [!UICONTROL Forecast Accuracy Report]](forecast-accuracy-report.md)
+>* [Generate a model accuracy report](model-accuracy-report-generate.md)
+>* [Model accuracy report settings](/help/search-social-commerce/legacy-ui/reports/management/model-accuracy/model-accuracy-report-settings.md)

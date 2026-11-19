@@ -1,0 +1,52 @@
+---
+title: Sync [!DNL Adobe] audiences
+description: Learn how to sync metadata, hierarchy data, and unique audience data for your [!DNL Adobe] audiences.
+exl-id: 8b8c3aa0-2aa9-4ad7-a4c0-1b7ba881acd3
+feature: Search Admin
+TQID: 'https://experienceleague.adobe.com/PKWhdnMHVAI3aI--1vdCeqnX6b8j34uvHycZLw1Yvjw'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 1003789d-7feb-5a2f-a02d-3182fd0ceb8a
+    internal-label: Search Admin
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+subfeature_v2:
+  - id: e55292b5-d4a1-4c98-9c20-2a2c5bea07fb
+    internal-label: Admin
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
+---
+# Sync [!DNL Adobe] audiences
+
+*[!DNL Direct Access] client managers and administrators only*
+
+*Advertisers with an Adobe Advertising-Adobe Audience Manager or Adobe Advertising-Adobe Analytics integration only*
+
+You can allow Search, Social, & Commerce to pull in metadata, hierarchy data, and unique audience data for all of an advertiser's or agency's [!DNL Adobe] audiences into the [!UICONTROL Campaigns] > [!UICONTROL Audiences] views. This information includes data for:
+
+* Adobe Audience Manager segments
+
+* Adobe Analytics segments that are published to Adobe CX Enterprise
+
+* Segments that are created using the Adobe CX Enterprise [!DNL Audience Library]
+
+To be eligible, the advertiser or agency must implement the [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) and provide its organization ID (formerly called [!DNL IMS Org ID]).
+
+The initial sync takes about 24 hours. After that, data is synced in real time, with a one- to two- second delay.
+
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Audience Manager Setup]**.
+
+1. Enter the unique organization ID for the advertiser's Adobe CX Enterprise account, and then click **[!UICONTROL Submit]**.
+
+   If you don't know the advertiser's organization ID, look it up in the **[!UICONTROL IMS Org ID]** field in the advertiser's settings at [!UICONTROL Admin] > [!UICONTROL Manage Client].
+
+>[!MORELIKETHIS]
+>
+>* [About audiences](/help/search-social-commerce/legacy-ui/campaign-management/campaigns/audience-about.md)
+>* [Integration with Adobe CX Enterprise solutions and services](/help/search-social-commerce/introduction/integrations.md)

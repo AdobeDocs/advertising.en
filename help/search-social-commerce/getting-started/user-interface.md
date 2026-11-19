@@ -29,7 +29,7 @@ topic_v2:
 
 Each page includes the main menu and other task- and information-based menus.
 
-Your [product profile](/help/search-social-commerce/new-ui/user-administration.md#default-product-profiles) determines the available options, including the functionality available within each view.
+Your [product profile](/help/search-social-commerce/user-administration.md#default-product-profiles) determines the available options, including the functionality available within each view.
 
 ## The main menu
 
@@ -79,7 +79,7 @@ The new user interface features a new main menu on the left, which organizes tas
 
 * **[!UICONTROL Plan]** submenu:
   
-  * **[!UICONTROL Simulations]** Opens a new [[!UICONTROL Simulations] view](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md), from which you can view all of your user-created custom simulations and automatically generated weekly simulations; generate new custom simulations; and rerun existing simulations. The [!UICONTROL Spend Planner] button opens the legacy [!UICONTROL Spend Recommendation] tool at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation].
+  * **[!UICONTROL Simulations]** Opens a new [[!UICONTROL Simulations] view](/help/search-social-commerce/plan/simulations/simulation-about.md), from which you can view all of your user-created custom simulations and automatically generated weekly simulations; generate new custom simulations; and rerun existing simulations. The [!UICONTROL Spend Planner] button opens the legacy [!UICONTROL Spend Recommendation] tool at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation].
 
   * **[!UICONTROL Spend Planner]** Exits the new site and opens the legacy [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] view.
 

@@ -1,9 +1,7 @@
 ---
 title: About specialty reports
 description: Learn about specialty reports.
-exl-id: fd2bcd97-70dd-4160-8209-6cdf9c9a6d62
 feature: Search Reports, Search Specialty Reports
-TQID: 'https://experienceleague.adobe.com/Ryz4VVERj-pBZMgBMrEOUr66VlZpzqwMFUW1jRB9oBo'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -12,12 +10,6 @@ feature_v2:
     internal-label: Search Reports
   - id: 7de556b7-2c2a-599d-853b-8c282aafa6e3
     internal-label: Search Specialty Reports
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
 ---
 # About specialty reports
 
@@ -29,25 +21,31 @@ Most specialty reports consist only of data collected by the ad networks. The [!
 
 ## Types of Specialty Reports
 
-* [The [!UICONTROL AdWords and Bing Audience Target Report]](/help/search-social-commerce/reports/management/specialty/adwords-bing-audience-target-report.md)
+* [The [!UICONTROL AdWords and Bing Audience Target Report]](adwords-bing-audience-target-report.md)
 
-* [The [!UICONTROL AdWords Conversion Report]](/help/search-social-commerce/reports/management/specialty/adwords-conversion-report.md)
+* [The [!UICONTROL AdWords Conversion Report]](adwords-conversion-report.md)
 
-* [The [!UICONTROL AdWords Geo Report]](/help/search-social-commerce/reports/management/specialty/adwords-geo-report.md)
+* [The [!UICONTROL AdWords Geo Report]](adwords-geo-report.md)
 
-* [The [!UICONTROL AdWords Search Query Report]](/help/search-social-commerce/reports/management/specialty/adwords-search-query-report.md)
+* [The [!UICONTROL AdWords Search Query Report]](adwords-search-query-report.md)
 
-* [The [!UICONTROL AdWords Shopping Performance Report]](/help/search-social-commerce/reports/management/specialty/adwords-shopping-performance-report.md)
+* [The [!UICONTROL AdWords Shopping Performance Report]](adwords-shopping-performance-report.md)
 
-* [The [!UICONTROL Bing Ads Geo Report]](/help/search-social-commerce/reports/management/specialty/bing-ads-geo-report.md)
+* [The [!UICONTROL Bing Ads Geo Report]](bing-ads-geo-report.md)
 
-* [The [!UICONTROL Bing Ads Search Query Report]](/help/search-social-commerce/reports/management/specialty/bing-ads-search-query-report.md)
+* [The [!UICONTROL Bing Ads Search Query Report]](bing-ads-search-query-report.md)
 
-* [The [!UICONTROL Campaign Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/campaign-daily-impression-share-report.md)
+* [The [!UICONTROL Campaign Daily Impression Share Report]](campaign-daily-impression-share-report.md)
 
-* [The [!UICONTROL Keyword Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/keyword-daily-impression-share-report.md)
+* [The [!UICONTROL Google AI Max Search Term Combination Report]](google-ai-max-search-term-combination-report.md)
 
-* [The [!UICONTROL RSA Asset Report]](/help/search-social-commerce/reports/management/specialty/rsa-asset-report.md)
+* [The [!UICONTROL Google Asset Group Performance Report]](google-asset-group-performance-report.md)
+
+* [The [!UICONTROL Google Performance Max Placement Report]](google-performance-max-placement-report.md)
+
+* [The [!UICONTROL Keyword Daily Impression Share Report]](keyword-daily-impression-share-report.md)
+
+* [The [!UICONTROL RSA Asset Report]](rsa-asset-report.md)
 
 * [The [!UICONTROL MSA Ad Extension by Ad Report]](msa-ad-extension-detail-report.md)
 
@@ -61,6 +59,6 @@ Most specialty reports consist only of data collected by the ad networks. The [!
 
 >[!MORELIKETHIS]
 >
->* [Generate a specialty report](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
->* [Specialty report settings](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
->* [Report columns for specialty reports](/help/search-social-commerce/reports/management/specialty/specialty-report-columns.md)
+>* [Manage scheduled reports](/help/search-social-commerce/reports/management/report-manage.md)
+>* [Specialty report settings](specialty-report-settings.md)
+>* [Report columns for specialty reports](specialty-report-columns.md)

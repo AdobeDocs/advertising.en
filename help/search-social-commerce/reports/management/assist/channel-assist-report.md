@@ -1,25 +1,15 @@
 ---
 title: '[!UICONTROL Channel Assist Report]'
 description: Learn about the [!UICONTROL Channel Assist Report].
-exl-id: 67bce347-2776-4585-adb4-e1a4d76fbadc
 feature: Search Reports, Search Assist Reports
-TQID: 'https://experienceleague.adobe.com/G2KcySAZVdf-J14CxQS2Hk5av6KHlpyFehwfMcZYj78'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
-  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
-    internal-label: Demand Side Platform
   - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
     internal-label: Search Reports
   - id: ab19d4f9-a5e8-54d2-a6d6-a154af73fd6d
     internal-label: Search Assist Reports
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
 ---
 # The [!UICONTROL Channel Assist Report]
 
@@ -43,7 +33,7 @@ The following are the columns that are available for each report. The default co
 | [!UICONTROL Path Size] | Default | The number of event types in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL First Event Type] | Default | The event type of the first (earliest) event in the conversion path. |
 | [!UICONTROL Last Event Type] | Default | The event type of the last event that resulted in conversions (even if the last event is outside the specified path size). |
-| \[Advertiser-specific custom (derived) metrics\] | Custom | The value for a custom metric you've created that’s calculated from existing metrics. |
+| \[Advertiser-specific custom (derived) metrics\] | Custom | The value for a custom metric you've created that's calculated from existing metrics. |
 | \[Advertiser-specific conversion metrics\] | Custom | The number of conversions for a specified conversion metric or site engagement metric. |
 | [!UICONTROL % of Total] \[conversion metric\] | Automatic | (Not available in report settings but automatically included in report output for each conversion metric included) The percentage of your overall conversions across portfolios that were attributed to the event pattern. |
 | [!UICONTROL 6th Event] to [!UICONTROL 30th Event] | Custom | The sixth through 30th event types in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j). |
@@ -57,4 +47,4 @@ The following are the columns that are available for each report. The default co
 >* [The [!UICONTROL Campaign Assist Report]](campaign-assist-report.md)
 >* [The [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
 >* [Assist report settings](assist-report-settings.md)
->* [Generate an assist report](assist-report-generate.md)
+>* [Manage scheduled reports](/help/search-social-commerce/reports/management/report-manage.md)

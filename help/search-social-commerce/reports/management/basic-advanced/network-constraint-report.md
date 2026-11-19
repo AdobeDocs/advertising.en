@@ -1,9 +1,7 @@
 ---
 title: '[!UICONTROL Network Constraint Report]'
 description: Learn about the [!UICONTROL Network Constraint Report].
-exl-id: ab908d86-2d37-476c-b2ac-f74c2f3a9a6d
 feature: Search Reports, Search Basic Reports
-TQID: 'https://experienceleague.adobe.com/AluSzqEjEoZxnl4Qx7MG2wk7A3NsnsDAKpJ2kU6z0Bk'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -12,12 +10,6 @@ feature_v2:
     internal-label: Search Reports
   - id: 1d59f142-734e-5689-9ee3-a3bf4d5c5a51
     internal-label: Search Basic Reports
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
 ---
 # [!UICONTROL Network Constraint Report]
 
@@ -47,5 +39,5 @@ For descriptions of all default and custom columns, see "[Report columns for bas
 >[!MORELIKETHIS]
 >
 >* [About basic and advanced reports](basic-advanced-report-about.md)
->* [Generate a basic or advanced report](basic-advanced-report-generate.md)
+>* [Manage scheduled reports](/help/search-social-commerce/reports/management/report-manage.md)
 >* [Basic and advanced report settings](basic-advanced-report-settings.md)

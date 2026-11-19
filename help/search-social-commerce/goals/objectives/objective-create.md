@@ -1,0 +1,90 @@
+---
+title: (New UI) Create an objective
+description: Learn how to create an objective or duplicate an existing objective.
+feature: Search Objectives, Search Optimization
+hide: true
+exl-id: 21516197-d005-4703-8735-c789107dc3c4
+autotag-review: '2026-04-13T23:57:03.010Z'
+TQID: 'https://experienceleague.adobe.com/z6aWMsPgU5YScIkdoKILRbZhOo2PTvJBIXxcyOXybgw'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 2d3f1df6-4c6c-545b-abf7-bec5f20fd636
+    internal-label: Search Objectives
+  - id: ae57d55f-b168-5358-b114-c3974b1b3d77
+    internal-label: Search Optimization
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+subfeature_v2:
+  - id: e55292b5-d4a1-4c98-9c20-2a2c5bea07fb
+    internal-label: Admin
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c2296997-5d79-4905-b32e-99b5aa892429
+    internal-label: Search optimization
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+---
+# (New UI) Create an objective
+
+<!-- Needs V2 subfeature tags for Search Objectives, Search Optimization. Right now, using cross-product topics for optimization, which I'm not sure is enough. -->
+
+*Beta feature*
+
+>[!NOTE]
+>
+>You can associate an objective with a portfolio when you [create the portfolio](/help/search-social-commerce/manage/portfolios/portfolio-create.md) or by later [modifying the portfolio settings](/help/search-social-commerce/manage/portfolios/portfolio-edit.md). You can use the same objective for multiple portfolios.
+
+## Create an objective
+
+1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
+
+1. In the upper right, click **[!UICONTROL Create Objective]** or ![Add](/help/search-social-commerce/assets/add-new.png "Add").
+
+   The button shown depends on your browser width. 
+
+1. Enter the objective settings.
+
+  For instructions, see the help within the user interface or in the Optimization Guide, which is available from within Search, Social, & Commerce.
+
+1. At the bottom of the settings, click **[!UICONTROL Save]**.
+
+Objectives prefixed with "`ADSP_`" (not case-sensitive) for use with Advertising DSP packages are available as custom goals within DSP within two days.
+
+## Duplicate an objective {#objective-duplicate}
+
+Duplicate an objective to create a new objective with the same settings. You can optionally change the default name for the new objective and edit the objective settings as needed. The original objective isn't changed.
+
+Duplicating an objective requires the [!UICONTROL Edit Objectives] permission. The default [!UICONTROL Maximize Clicks] objective can't be duplicated.
+
+1. In the main menu, click **[!UICONTROL Goals] > [!UICONTROL Objectives]**.
+
+1. Do either of the following:
+
+   * Hold the cursor over the objective row and click **[!UICONTROL ...] > [!UICONTROL Duplicate]**.
+
+   * Select the check box next to the objective. In the bulk actions toolbar, click ![Duplicate](/help/search-social-commerce/assets/duplicate.png "Duplicate") **[!UICONTROL Duplicate]**.
+
+     [!UICONTROL Duplicate] isn't available when multiple objectives are selected.
+
+1. Edit the objective settings.
+
+   By default, the new objective name is `<original objective name>_Copy`, such as "Revenue_Copy". If the original name already ends in `_Copy`, the new name includes a counter, such as "Revenue_Copy(1)". If the suggested name already exists, enter a unique **[!UICONTROL Name]**.
+
+   For instructions, see the help within the user interface or in the Optimization Guide, which is available from within Search, Social, & Commerce.
+
+1. Click **[!UICONTROL Save]**.
+
+   If a warning dialog is displayed, review the warning and click **[!UICONTROL Save]** to continue.
+
+>[!MORELIKETHIS]
+>
+>* [About objectives](objective-about.md)
+>* [Edit an objective](objective-edit.md)
+>* [Apply weight recommendations to an objective](objective-apply-weight-recommendations.md)
+>* [Objective settings](objective-settings.md)
+>* [Export an objective configuration](objective-export.md)
+>* [Download performance data for objectives](objective-download-performance-data.md)

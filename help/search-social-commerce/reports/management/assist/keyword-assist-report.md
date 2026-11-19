@@ -1,9 +1,7 @@
 ---
 title: '[!UICONTROL Keyword Assist Report]'
 description: Learn about the [!UICONTROL Keyword Assist Report].
-exl-id: 24e5854c-5696-43cd-ac21-64209f9f57d4
 feature: Search Reports, Search Assist Reports
-TQID: 'https://experienceleague.adobe.com/LO6nDisgA7981cjrGw31tJcy4VR6lesl-wvwU7uGlK4'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -12,12 +10,6 @@ feature_v2:
     internal-label: Search Reports
   - id: ab19d4f9-a5e8-54d2-a6d6-a154af73fd6d
     internal-label: Search Assist Reports
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
 ---
 # The [!UICONTROL Keyword Assist Report]
 
@@ -46,7 +38,7 @@ The following are the columns that are available for each report. The default co
 | [!UICONTROL Path Size] | Default | The number of keywords and/or placements in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL First Keyword] | Default | The first keyword or placement in the conversion path. |
 | [!UICONTROL Last Keyword] | Default | The last keyword or placement that resulted in conversions (even if the last keyword is outside the specified path size.) |
-| \[Advertiser-specific custom (derived) metrics\] | Custom | The value for a custom metric you've created that’s calculated from existing metrics. |
+| \[Advertiser-specific custom (derived) metrics\] | Custom | The value for a custom metric you've created that's calculated from existing metrics. |
 | \[Advertiser-specific conversion metrics\] | Custom | The number of conversions for a specified conversion metric or site engagement metric. |
 | [!UICONTROL % of Total] \[conversion metric\] | Automatic | (Not available in report settings but automatically included in report output for each conversion metric included) The percentage of your overall conversions across portfolios that were attributed to the keyword and/or placement pattern. |
 | [!UICONTROL 6th Keyword] to [!UICONTROL 10th Keyword] | Custom | The sixth through tenth paid search keyword or placement clicks in the conversion path that occurred within the advertiser's [click lookback window](/help/search-social-commerce/glossary.md#c-d) and [impression lookback window](/help/search-social-commerce/glossary.md#i-j).<br><br><b>Note:</b> If the report includes placements from content-enabled search campaigns (which don't include keywords), then these columns show the applicable ad group names, such "(adgroup content) Your Ad Group Name," instead. |
@@ -60,4 +52,4 @@ The following are the columns that are available for each report. The default co
 >* [The [!UICONTROL Campaign Assist Report]](campaign-assist-report.md)
 >* [The [!UICONTROL Channel Assist Report]](channel-assist-report.md)
 >* [Assist report settings](assist-report-settings.md)
->* [Generate an assist report](assist-report-generate.md)
+>* [Manage scheduled reports](/help/search-social-commerce/reports/management/report-manage.md)

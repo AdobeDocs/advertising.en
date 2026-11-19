@@ -1,9 +1,7 @@
 ---
 title: About basic reports and advanced reports
 description: Learn about customizable basic and advanced reports.
-exl-id: ecdafac5-3944-4c39-bd7c-8e3c9e6a3425
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
-TQID: 'https://experienceleague.adobe.com/zKPVAfyStkc6bjL552SSoCc4dEmhyzHThTXqylslMFg'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -14,14 +12,6 @@ feature_v2:
     internal-label: Search Basic Reports
   - id: c51771d4-46e9-5151-913c-59d4e047a4f1
     internal-label: Search Advanced Reports
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-    internal-label: Optimization
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
 ---
 # About basic reports and advanced reports
 
@@ -37,35 +27,37 @@ Basic reports show the actual cost and click data for portfolios (when applicabl
 
 #### Portfolio and ad network entity reports
 
-* [The [!UICONTROL Portfolio Report]](/help/search-social-commerce/reports/management/basic-advanced/portfolio-report.md)
+* [The [!UICONTROL Portfolio Report]](portfolio-report.md)
 
-* [The [!UICONTROL Search Engine Report]](/help/search-social-commerce/reports/management/basic-advanced/search-engine-report.md)
+* [The [!UICONTROL Search Engine Report]](search-engine-report.md)
 
-* [The [!UICONTROL Search Engine Account Report]](/help/search-social-commerce/reports/management/basic-advanced/search-engine-account-report.md)
+* [The [!UICONTROL Search Engine Account Report]](search-engine-account-report.md)
 
-* [The [!UICONTROL Campaign Report]](/help/search-social-commerce/reports/management/basic-advanced/campaign-report.md)
+* [The [!UICONTROL Campaign Report]](campaign-report.md)
 
-* [The [!UICONTROL Campaign Hourly Report]](/help/search-social-commerce/reports/management/basic-advanced/campaign-hourly-report.md)
+* [The [!UICONTROL Campaign Hourly Report]](campaign-hourly-report.md)
 
-* [The [!UICONTROL Ad Group Report]](/help/search-social-commerce/reports/management/basic-advanced/ad-group-report.md)
+* [The [!UICONTROL Ad Group Report]](ad-group-report.md)
 
-* [The [!UICONTROL Ad Variation Report]](/help/search-social-commerce/reports/management/basic-advanced/ad-variation-report.md)
+* [The [!UICONTROL Ad Variation Report]](ad-variation-report.md)
 
-* [The [!UICONTROL Keyword Report]](/help/search-social-commerce/reports/management/basic-advanced/keyword-report.md)
+* [The [!UICONTROL Keyword Report]](keyword-report.md)
 
-* [The [!UICONTROL Product Group Report]](/help/search-social-commerce/reports/management/basic-advanced/product-group-report.md)
+* [The [!UICONTROL Product Group Report]](product-group-report.md)
+
+* [The [!UICONTROL Asset Report]](asset-report.md)
 
 ### Classification reports
 
-* [The [!UICONTROL Label Classification Report]](/help/search-social-commerce/reports/management/basic-advanced/label-classification-report.md)
+* [The [!UICONTROL Label Classification Report]](label-classification-report.md)
 
-* [The [!UICONTROL Label Value Report]](/help/search-social-commerce/reports/management/basic-advanced/label-value-report.md)
+* [The [!UICONTROL Label Value Report]](label-value-report.md)
 
 ### Constraint reports
 
-* [The [!UICONTROL Constraint Report]](/help/search-social-commerce/reports/management/basic-advanced/constraint-report.md)
+* [The [!UICONTROL Constraint Report]](constraint-report.md)
 
-* [The [!UICONTROL Network Constraint Report]](/help/search-social-commerce/reports/management/basic-advanced/network-constraint-report.md)
+* [The [!UICONTROL Network Constraint Report]](network-constraint-report.md)
 
 ## Advanced reports
 
@@ -78,14 +70,14 @@ don't include data for campaigns that were in the portfolios during the date ran
 
 ### Types of Advanced Reports
 
-* [The [!UICONTROL Domain Referral Report]](/help/search-social-commerce/reports/management/basic-advanced/domain-referral-report.md)
+* [The [!UICONTROL Domain Referral Report]](domain-referral-report.md)
 
-* [The [!UICONTROL Geo Distribution Report]](/help/search-social-commerce/reports/management/basic-advanced/geo-distribution-report.md)
+* [The [!UICONTROL Geo Distribution Report]](geo-distribution-report.md)
 
-* [The [!UICONTROL Transaction Report]](/help/search-social-commerce/reports/management/basic-advanced/transaction-report.md)
+* [The [!UICONTROL Transaction Report]](transaction-report.md)
 
 >[!MORELIKETHIS]
 >
->* [Generate a basic or advanced report](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md)
->* [Basic and advanced report settings](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
->* [Report columns for basic and advanced reports](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-columns.md)
+>* [Manage scheduled reports](/help/search-social-commerce/reports/management/report-manage.md)
+>* [Basic and advanced report settings](basic-advanced-report-settings.md)
+>* [Report columns for basic and advanced reports](basic-advanced-report-columns.md)

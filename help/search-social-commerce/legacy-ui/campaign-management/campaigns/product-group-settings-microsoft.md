@@ -1,0 +1,60 @@
+---
+title: '[!DNL Microsoft Advertising] product group settings'
+description: Reference the settings for [!DNL Microsoft Advertising] shopping product groups.
+exl-id: ea3a4137-1396-430f-9d6c-8e1e1f1f52c2
+feature: Search Campaign Management
+TQID: 'https://experienceleague.adobe.com/xbYc0Xe-FsgGq-jqZdzZ4Rj877BL6NCxb4utaEMmCdY'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+---
+# [!DNL Microsoft Advertising] product group settings
+
+## "All Product" product groups
+
+**[!UICONTROL Condition]:** (Read-only) All Products
+
+**[!UICONTROL Bid]:** (Included product groups only) The maximum cost per click (CPC), which is the highest amount to pay for an ad click. This value is used only for units without child product groups, and it's used instead of the ad group-level value.
+
+<!-- **[!UICONTROL Tracking Template]:** -->
+
+{{$include /help/_includes/tracking-template-microsoft.md}}
+
+This template overrides templates at higher levels and is used only for units without child product groups.
+
+## All other product groups
+
+**[!UICONTROL Condition/Value]:** (Read-only for existing product groups) The product dimensions to target. For new product groups, enter the dimension by which to target products and the qualifying attribute for the selected information category (such as "Acme" when you are targeting by brand, or "New" when you are targeting by condition).
+
+Once you create a product group for specific product dimensions (that is, not "All Products"), Search, Social, & Commerce automatically creates a product group for "Everything Else."
+
+For a list of available product dimensions, see "[Shopping campaign product filters](/help/search-social-commerce/legacy-ui/campaign-management/campaigns/shopping-campaign-product-filters.md)." Your list of dimensions may be limited based on the campaign's [!UICONTROL Inventory Filter] setting.
+
+**[!UICONTROL Excluded]:** (Optional for new product groups; read-only for existing product groups) Excludes bids on ads for matching products.
+
+**[!UICONTROL Bid]:** (Included product groups only) The maximum cost per click (CPC), which is the highest amount to pay for an ad click. This value is used only for units without child product groups, and it's used instead of the ad group-level value.
+
+<!-- **[!UICONTROL Tracking Template]:** -->
+
+<!--
+ ExL can't handle the same include twice in the same file, so using a snippet for the second occurrence.
+
+{{$include /help/_includes/tracking-template-microsoft.md}}
+-->
+
+{{tracking-template-microsoft}}
+
+This template overrides templates at higher levels and is used only for units without child product groups.
+
+>[!MORELIKETHIS]
+>
+>* [About shopping product groups](product-group-about.md)
+>* [Manage shopping product groups](product-group-manage.md)
+>* [Shopping campaign product filters](/help/search-social-commerce/legacy-ui/campaign-management/campaigns/shopping-campaign-product-filters.md)
+>* [Implement [!DNL Microsoft Advertising] shopping campaigns](/help/search-social-commerce/legacy-ui/campaign-management/special-workflows/microsoft-shopping-campaigns.md)

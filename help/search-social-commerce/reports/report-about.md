@@ -1,35 +1,40 @@
 ---
-title: About reports
-description: Learn about performance reports, including the different report types available and how to automate reports.
-exl-id: 173d1bad-e3aa-4417-a9b1-4b5d06c304d2
+title: (New UI) About scheduled reports
+description: Learn about scheduled performance reports, including the different report types available and how to automate reports.
 feature: Search Reports
-TQID: 'https://experienceleague.adobe.com/2Cw55tN9cx9vfc6sEHdOQfW5VcLIUZdbNtMkKdINkZM'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
 feature_v2:
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
   - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
     internal-label: Search Reports
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-    internal-label: Troubleshooting
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
+subfeature_v2:
+  - id: e246c273-d720-4ece-b29b-7aaba7d50169
+    internal-label: Reports
+  - id: c916feea-e212-4773-b673-4daed287b8a3
+    internal-label: Assist reports
+  - id: adcb1be7-7ed0-464d-a8d4-c905c9d47742
+    internal-label: Basic reports
+  - id: ff99aaef-142d-4c93-a88c-011e979e3843
+    internal-label: Advanced reports
+  - id: fa0141e5-dc99-4fbd-9c0e-40aff66de606
+    internal-label: Model accuracy reports
+  - id: b36a77b1-3c8f-4e1c-8b0b-6e0ba3fb2664
+    internal-label: Specialty reports
 ---
-# About reports
+# (New UI) About scheduled reports
 
-Performance reports allow you to track and manage the performance of your portfolios, ad networks, and ad network account entities at as granular a level as you want. Most reports provide complete visibility into how the ads in each marketing channel contribute to the overall conversion rate.
+Scheduled performance reports allow you to track and manage the performance of your portfolios, ad networks, and ad network account entities at as granular a level as you want. Most reports provide complete visibility into how the ads in each marketing channel contribute to the overall conversion rate.
 
-The data for a report is compiled dynamically each time you run the report. You can optionally generate a new report from an existing report. The available report parameters vary by report type. For most reports, you have the option to preview the first 50 lines instead of generating the entire report. When you generate a report, you can send a notification with download links to one or more email addresses when a report is completed, and the recipients can [manage the notifications in [!UICONTROL Notification Center]](/help/search-social-commerce/notifications/notification-about.md).
+The data for a report is compiled dynamically each time you run the report. You can optionally generate a new report from an existing report. The available report parameters vary by report type. For most reports, you have the option to preview the first 50 lines instead of generating the entire report. When you generate a report, you can send a notification with download links to one or more email addresses when a report is completed, and the recipients can [manage the notifications in [!UICONTROL Notification Center]](/help/search-social-commerce/common-tasks/notifications-manage.md).
 
 All completed reports are available in the [!UICONTROL Latest Reports] section of the [!UICONTROL Reports] view, and you can either view them in table format in the browser window or open or download them as files.
 
 ## Available report categories
 
-The following report categories are available from the [!UICONTROL Reports] view. You may not have access to all of them; the available reports and the data they generate are determined by your role and how your customer account is configured.
+The following report categories are available from the [!UICONTROL Reports] > [!UICONTROL Reports] view. You may not have access to all of them; the available reports and the data they generate are determined by your role and how your customer account is configured.
 
 | Report Category | Description |
 | ----| ---- |
@@ -43,15 +48,15 @@ The following report categories are available from the [!UICONTROL Reports] view
 
 Schedule customized reports to be automatically generated in either or both of the following ways:
 
-* Automatically generate reports each day, or on a specific day of the week or month, using [report templates](/help/search-social-commerce/reports/automation/templates/template-about.md).
+* Automatically generate reports each day, or on a specific day of the week or month, using [report templates](/help/search-social-commerce/reports/report-templates-manage.md).
   
-  You can optionally set up [FTP delivery of basic and advanced reports](/help/search-social-commerce/reports/automation/ftp-reports.md) that use a template.
+  You can optionally set up [FTP delivery of basic and advanced reports](/help/search-social-commerce/reports/ftp-reports.md) that use a template.
 
-* Keep refreshing your customized spreadsheet templates with daily performance data using [spreadsheet feeds](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-about.md).
+* Keep refreshing your customized spreadsheet templates with daily performance data using [spreadsheet feeds](/help/search-social-commerce/reports/spreadsheet-feeds-manage.md).
 
-## The Reports views
+## The [!UICONTROL Reports] view
 
-The [!UICONTROL Reports] views at [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports] allows you to create and manage reports, templates, and spreadsheet feeds. The view includes two tabs:
+The [!UICONTROL Reports] > [!UICONTROL Reports] view allows you to create and manage reports, templates, and spreadsheet feeds. The view includes two tabs:
 
 * The **[!UICONTROL Latest Reports]** tab lists all reports available to you that were requested in the last seven days, except those that were manually deleted, with the most recent report at the top by default. Information shown for each report includes the schedule by which it is run (when applicable), the start and end dates for which data was or will be generated, and the report status (*[!UICONTROL Finished]*, *[!UICONTROL In Progress]*, or *[!UICONTROL Error]*).
   
@@ -74,9 +79,6 @@ The [!UICONTROL Reports] views at [!UICONTROL Search, Social, & Commerce] > [!UI
 
 >[!MORELIKETHIS]
 >
->* [Data used for reports](data-used-for-reports.md)
->* [Initial setup tasks for reports](initial-setup.md)
->* [Generate a basic or advanced report](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md)
->* [Generate a model accuracy report](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-generate.md)
->* [Generate a specialty report](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
->* [Generate an assist report](/help/search-social-commerce/reports/management/assist/assist-report-generate.md)
+>* [The initial setup tasks for reports](initial-setup.md)
+>* [The data used for reports](data-used-for-reports.md)
+>* [Manage scheduled reports](/help/search-social-commerce/reports/management/report-manage.md)

@@ -21,7 +21,7 @@ topic_v2:
  
 Adobe Advertising tracks conversions resulting from clicks on ads using Adobe Advertising conversion tracking tags that are inserted in the webpages that open when a conversion event occurs, such as a "success" page. The tags include embedded information to send the transaction data, along with the user's Adobe Advertising cookie, to a tracking server, from which the transaction is credited to the appropriate ad click or impression (per the advertiser's conversion attribution settings).
 
-You can [generate conversion-tracking tags](/help/search-social-commerce/tools/conversion-tag-generate.md) within Search, Social, & Commerce or using tags in Adobe Experience Platform (formerly known as Adobe Experience Platform Launch).
+You can [generate conversion-tracking tags](/help/search-social-commerce/legacy-ui/tools/conversion-tag-generate.md) within Search, Social, & Commerce or using tags in Adobe Experience Platform (formerly known as Adobe Experience Platform Launch).
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ The conversion tracking pixel allows Adobe Advertising to do the following:
 >[!MORELIKETHIS]
 >
 >* [Conversion tracking options](conversion-tracking-about.md)
->* [Generate and implement an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
+>* [Generate and implement an Adobe Advertising conversion tag](/help/search-social-commerce/legacy-ui/tools/conversion-tag-generate.md)
 >* [Format of JavaScript conversion tracking tags version 3](format-conversion-tag-jsv3.md)
 >* [Format of JavaScript conversion tracking tags version 2](format-conversion-tag-jsv2.md)
 >* [Format of image conversion tracking tags](format-conversion-tag-image.md)

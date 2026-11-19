@@ -44,7 +44,7 @@ The following apply to Adobe Advertising conversion tracking tags and page view 
 >[!MORELIKETHIS]
 >
 >* [About Adobe Advertising conversion-tracking tags](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
->* [Generate an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
+>* [Generate an Adobe Advertising conversion tag](/help/search-social-commerce/legacy-ui/tools/conversion-tag-generate.md)
 >* [Format of JavaScript conversion tracking tags version 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
 >* [Format of JavaScript conversion tracking tags version 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
 >* [Format of image conversion tracking tags](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
