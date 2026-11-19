@@ -55,6 +55,7 @@ topic_v2:
 | [!UICONTROL Ad Size] | The dimensions of the ad. |
 | [!UICONTROL AD Strength] | ([!DNL Google Ads] responsive search ads) The effectiveness of the ad: <i>[!UICONTROL average]</i>, <i>[!UICONTROL excellent]</i>, <i>[!UICONTROL good]</i>, <i>[!UICONTROL no_ads]</i>, <i>[!UICONTROL pending]</i>, <i>[!UICONTROL poor]</i>, <i>[!UICONTROL unknown]</i>, or <i>[!UICONTROL unspecified]</i>. |
 | [!UICONTROL Adgroup MBA] | ([!DNL Google Ads], [!DNL LY Ads], and [!DNL Microsoft Advertising] campaigns) The current ad group-level mobile bid adjustment, which determines how bids are adjusted when the ad is displayed on a mobile device. |
+| [!UICONTROL Adobe Tech Fees] | ([!UICONTROL Search Engine Account Report], [!UICONTROL Campaign Report], [!UICONTROL Ad Group Report], and [!UICONTROL Ad Variation Report]; [!DNL ChatGPT Ads] only) The [!DNL Adobe] technology fees for media spend, calculated using the applicable fee rates. |
 | [!UICONTROL AI Max Bundling Required] | (Campaigns that target the search network only; campaigns with the AI Max feature enabled; read-only) Whether bundling is required: *[!UICONTROL REQUIRED]*, *[!UICONTROL NOT_REQUIRED]*, *[!UICONTROL UNSPECIFIED]*, or null. |
 | [!UICONTROL AI Max Enabled] | Whether the [[!UICONTROL AI Max] feature](https://support.google.com/google-ads/answer/15910366) is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
 | [!UICONTROL AI Max Search Term Matching] | (Campaigns that target the search network and for which the [AI Max feature](https://support.google.com/google-ads/answer/15910366) and the campaign-level search term matching feature is enabled; read-only) Whether ad group-level search term matching is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
@@ -63,6 +64,7 @@ topic_v2:
 | [!UICONTROL Avg Position] | The average position of the ads during the specified date range.<br><br>For [!DNL Google Ads] and [!DNL LY Ads] campaigns, this data is available only through September 2019. For [!DNL Microsoft Advertising], this data is available only through 22 January 2021. |
 | [!UICONTROL Base URL] | The base URL for the keyword, including any append parameters configured for the campaign or account. It doesn't include any Search, Social, & Commerce redirection and tracking code. |
 | [!UICONTROL Bid Strategy] | (Most ad networks) For campaigns or campaign components, this is the campaign's bid strategy. For ad network accounts that are linked to a manager account, this is the cross-account bid strategy. The available values vary by ad network. |
+| [!UICONTROL Billable Spend] | ([!UICONTROL Search Engine Account Report], [!UICONTROL Campaign Report], [!UICONTROL Ad Group Report], and [!UICONTROL Ad Variation Report]; [!DNL ChatGPT Ads] only) The media cost plus [!DNL Adobe] technology fees, excluding tax. |
 | [!UICONTROL Business Name] | ([!DNL Microsoft Advertising] responsive ads) The business name. |
 | [!UICONTROL Call to Action] | ([!DNL Microsoft Advertising] responsive and multimedia ads) The call to action included in the ad. |
 | [!UICONTROL Campaign] | The campaign. |
@@ -127,6 +129,7 @@ topic_v2:
 | [!UICONTROL Est. Clicks] | ([!UICONTROL Geo Distribution Report]; search and display campaigns only) The estimated number of clicks for the ad group/campaign/portfolio combination. This value may be different than the value provided by the ad networks. |
 | [!UICONTROL Estimated Cost] | The total estimated cost for the associated ads that Search, Social, & Commerce has tracked. This value may be different than the value provided by the ad networks. |
 | [!UICONTROL Estimated Impressions] | (Display campaigns only) The estimated number of ad impressions that Search, Social, & Commerce has tracked. This value may be different than the value for the [!UICONTROL Impressions] column (when available), which shows the value provided by the ad networks. |
+| [!UICONTROL Estimated Tax] | ([!UICONTROL Search Engine Account Report], [!UICONTROL Campaign Report], [!UICONTROL Ad Group Report], and [!UICONTROL Ad Variation Report]; [!DNL ChatGPT Ads] only) The estimated taxes on media spend and [!DNL Adobe] technology fees, calculated using the applicable tax rates. |
 | [!UICONTROL Exclude (yes/no)] | Whether bidding is excluded (<i>[!UICONTROL Yes]</i>) or bidding are allowed (<i>[!UICONTROL No]</i>) for ads for matching products. |
 | [!UICONTROL First Page CPC] | (Google campaigns only) The cost per click (CPC) for ads that appear on the first page of search results during the specified date range. |
 | [!UICONTROL Frequency] | ([!DNL Meta] campaigns only) The average number of times someone saw your ad. |
