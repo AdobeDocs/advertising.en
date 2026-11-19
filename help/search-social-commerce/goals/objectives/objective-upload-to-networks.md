@@ -2,7 +2,6 @@
 title: (New UI) Enable uploading of objectives to ad networks
 description: Learn how to upload objectives for your hybrid portfolios to Google Ads and Microsoft Advertising.
 feature: Search Objectives, Search Optimization
-hide: true
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising

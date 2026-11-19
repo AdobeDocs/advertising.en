@@ -2,7 +2,6 @@
 title: (New UI) Download performance data for objectives
 description: Learn how to download objectives in a spreadsheet file.
 feature: Search Optimization, Search Portfolios
-hide: true
 exl-id: fbd0e58b-9f9b-4c8e-8a85-197bca220c10
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf

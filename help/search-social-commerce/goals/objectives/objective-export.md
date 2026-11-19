@@ -2,7 +2,6 @@
 title: (New UI) Export objective configurations
 description: Learn how to export objective configurations to [!DNL Microsoft Excel] worksheet files.
 feature: Search Objectives, Search Optimization
-hide: true
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising

@@ -303,7 +303,7 @@ role_v2:
       + [File requirements for conversion feed files](/help/search-social-commerce/tracking/feed-file-requirements.md)
   + [FAQs about tracking](/help/search-social-commerce/tracking/faqs-tracking.md)
 + [User administration](/help/search-social-commerce/user-administration.md)
-+ Legacy user interface
++ Legacy user interface {#legacy-ui}
   + Campaign management {#campaign-management}
     + Introduction {#campaign-management-intro}
       + [About campaign management in Search, Social, & Commerce](/help/search-social-commerce/legacy-ui/campaign-management/introduction/campaign-management-about.md)

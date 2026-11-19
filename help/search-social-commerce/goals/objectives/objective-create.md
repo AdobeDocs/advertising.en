@@ -2,7 +2,6 @@
 title: (New UI) Create an objective
 description: Learn how to create an objective or duplicate an existing objective.
 feature: Search Objectives, Search Optimization
-hide: true
 exl-id: 21516197-d005-4703-8735-c789107dc3c4
 autotag-review: '2026-04-13T23:57:03.010Z'
 TQID: 'https://experienceleague.adobe.com/z6aWMsPgU5YScIkdoKILRbZhOo2PTvJBIXxcyOXybgw'

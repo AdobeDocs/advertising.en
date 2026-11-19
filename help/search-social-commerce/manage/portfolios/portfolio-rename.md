@@ -2,7 +2,6 @@
 title: (New UI) Rename a portfolio
 description: Learn how to rename a portfolio.
 feature: Search Portfolios, Search Optimization
-hide: true
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising

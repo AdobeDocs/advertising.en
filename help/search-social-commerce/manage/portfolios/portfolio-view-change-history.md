@@ -2,7 +2,6 @@
 title: (New UI) View a portfolio's change history and bid change history
 description: Learn how to view portfolio changes and bid change history, change date ranges, filter portfolio changes, and generate, download, and delete history reports in Adobe Advertising Search, Social, & Commerce.
 feature: Search Portfolios, Search Optimization
-hide: true
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising

@@ -2,7 +2,6 @@
 title: View simulation details
 description: Learn how to view simulation details on-screen.
 feature: Search Optimization, Search Portfolios, Search Simulations
-hide: true
 exl-id: 1b289d20-561d-4cf9-844e-9cedff7f6296
 autotag-review: '2026-04-14T00:03:09.422Z'
 TQID: 'https://experienceleague.adobe.com/kJNXIMqCSSnXVGDPgGgmB5N10n1an59qONEVev7wqLY'

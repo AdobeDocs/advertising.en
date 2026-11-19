@@ -2,7 +2,6 @@
 title: (New UI) View portfolio performance details
 description: Learn how to view portfolio performance, keyword bid unit details, forecasts, and bid history, and export bid unit history in Adobe Advertising Search, Social, & Commerce.
 feature: Search Portfolios, Search Optimization
-hide: true
 exl-id: b5178856-1b0e-45cf-a351-6f31c0b0ec76
 TQID: 'https://experienceleague.adobe.com/5hNxKu6YjJTWI4KGEc6aaYnpgXK6k3OsN0-YfetzENw'
 product_v2:

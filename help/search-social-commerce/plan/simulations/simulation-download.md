@@ -2,7 +2,6 @@
 title: Download simulations
 description: Learn how to download simulations as individual or combined spreadsheet files.
 feature: Search Optimization, Search Portfolios, Search Simulations
-hide: true
 exl-id: 46c8c9de-b558-486e-9453-feb5d359aaec
 autotag-review: '2026-04-14T00:04:41.270Z'
 TQID: 'https://experienceleague.adobe.com/5FVQv17adrIz6OJU1K3ftG8NRO-0evlIzc1tGIFoHfY'

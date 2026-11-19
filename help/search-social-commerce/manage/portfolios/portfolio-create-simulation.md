@@ -2,7 +2,6 @@
 title: Run and download simulations from the [!UICONTROL Portfolios] view
 description: Learn how to run a custom simulation and download weekly simulations from the Portfolios view.
 feature: Search Optimization, Search Portfolios, Search Simulations
-hide: true
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising

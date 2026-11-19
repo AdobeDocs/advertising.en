@@ -2,7 +2,6 @@
 title: (New UI) Change the status of a portfolio
 description: Learn how to change the status of a portfolio or delete one or more inactive portfolios without opening the portfolio settings.
 feature: Search Portfolios, Search Optimization
-hide: true
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
