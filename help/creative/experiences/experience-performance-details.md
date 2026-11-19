@@ -88,7 +88,7 @@ The Report view includes the following data:
 
    * (Optional) To change the rule used to attribute conversion data in a series of events that lead to a conversion, click ![Settings](/help/creative/assets/settings.png) and change the **[!UICONTROL Attribution Rule]**.
 
-     For more information about attribution rules, see "[How attribution rules are calculated](/help/search-social-commerce/legacy-ui/reports/attribution-rules.md)."
+     For more information about attribution rules, see "[How attribution rules are calculated](/help/search-social-commerce/reports/attribution-rules.md)."
 
    * (Optional) To change the conversions reported, click ![Settings](/help/creative/assets/settings.png) and select the conversion names in the **[!UICONTROL Conversions]** menu. Currently, the only metric available is "Select All" to include all conversion metrics.
 

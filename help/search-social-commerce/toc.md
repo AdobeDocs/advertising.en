@@ -206,7 +206,7 @@ role_v2:
         + [Model accuracy report settings](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
     + [Manage report templates](/help/search-social-commerce/reports/report-templates-manage.md)
     + [FTP access to reports](/help/search-social-commerce/reports/ftp-reports.md)
-    + [How attribution rules are calculated](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/legacy-ui/reports/attribution-rules){target="_blank"}
+    + [How attribution rules are calculated](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/reports/attribution-rules){target="_blank"}
     + [FAQs About Custom Reports](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/legacy-ui/reports/faqs-report){target="_blank"}
   + [Manage spreadsheet report feeds](/help/search-social-commerce/reports/spreadsheet-feeds-manage.md)
   + [View change history logs](/help/search-social-commerce/reports/history-logs.md)
@@ -556,7 +556,7 @@ role_v2:
           + [Delete spreadsheet report feeds](/help/search-social-commerce/legacy-ui/reports/automation/spreadsheet-feeds/spreadsheet-feed-delete.md)
           + [Spreadsheet report feed settings](/help/search-social-commerce/legacy-ui/reports/automation/spreadsheet-feeds/spreadsheet-feed-settings.md)
         + [FTP access to reports](/help/search-social-commerce/legacy-ui/reports/automation/ftp-reports.md)
-      + [How attribution rules are calculated](/help/search-social-commerce/legacy-ui/reports/attribution-rules.md)
+      + [How attribution rules are calculated](/help/search-social-commerce/reports/attribution-rules.md)
       + [FAQs About Custom Reports](/help/search-social-commerce/legacy-ui/reports/faqs-report.md)
     + Notifications {#notifications}
       + [About notifications](/help/search-social-commerce/legacy-ui/notifications/notification-about.md)
