@@ -302,7 +302,6 @@ role_v2:
         + [Data requirements for data feeds using a transaction ID](/help/search-social-commerce/tracking/feed-transaction-id-data-requirements.md)
       + [File requirements for conversion feed files](/help/search-social-commerce/tracking/feed-file-requirements.md)
   + [FAQs about tracking](/help/search-social-commerce/tracking/faqs-tracking.md)
-+ [User administration](/help/search-social-commerce/user-administration.md)
 + Legacy user interface {#legacy-ui}
   + Campaign management {#campaign-management}
     + Introduction {#campaign-management-intro}
@@ -622,6 +621,7 @@ role_v2:
         + Managing conversion actions and goals {#conversion-actions}
           + [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/conversion-action-google.md)
           + [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/upload-data-offline-conversions.md)
++ [User administration](/help/search-social-commerce/user-administration.md)
 + [Get help](get-help.md)
 + [Glossary](glossary.md)
 
