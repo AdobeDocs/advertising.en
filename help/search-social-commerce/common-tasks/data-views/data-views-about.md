@@ -40,7 +40,6 @@ In most campaign data views, you can customize the data that appears within the 
 
 * Control whether to display 25 rows, 50 rows, 100 rows, (legacy user interface only) 200 rows, or (legacy user interface only) [!UICONTROL Continuous Scroll] at the bottom of any page.
 
-
 ## (New UI) Data table controls {#data-table-tools-new-ui}
 
 Use the toolbar above the data table to manage data and change how it's displayed. The available tools depend on the view and your permissions.
@@ -60,3 +59,15 @@ Where available, you can:
 * Show or hide charts using **[!UICONTROL Charts]** in the toolbar or **[!UICONTROL Actions]** menu.
 
   The toolbar button is selected when charts are shown. In [!UICONTROL Actions], a switch indicates whether charts are shown. Click the control again to hide the charts.
+
+## (New UI) Column widths and table values {#column-widths-values-new-ui}
+
+In campaign data tables:
+
+* Resize a column by dragging the boundary between column headings. You can also resize eligible [locked columns](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-lock-unlock.md) without unlocking them first. Minimum widths help keep values readable. Some icon and action columns have fixed widths and can't be resized.
+
+* Hold the cursor over a truncated entity name to see the full name.
+
+* To open details for an entity whose name is a link, press **Tab** until the name is highlighted, and then press **Enter**.
+
+* An en dash (&ndash;) indicates a missing, NULL, or not-applicable value. Zero and false values remain visible.
