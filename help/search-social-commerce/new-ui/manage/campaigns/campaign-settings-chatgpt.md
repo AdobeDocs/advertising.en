@@ -35,7 +35,9 @@ role_v2:
 
 **[!UICONTROL Status]:** The display status of the campaign: *Active* or *Paused*. The default for new ad campaigns is *Active*.
 
-**[!UICONTROL Objective]:** The campaign objective: *Reach* or *Clicks*.
+**[!UICONTROL Objective]:** The campaign objective: *[!UICONTROL Reach]*, *[!UICONTROL Clicks]*, or *[!UICONTROL Conversions]*. The objective determines the available [ad group bidding options](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-settings-chatgpt.md): target CPC bidding is supported for clicks, and target CPA bidding is supported for conversions. Target CPC and target CPA bidding aren't available for reach campaigns.
+
+**[!UICONTROL Billing event]:** (New campaigns with the objective [!UICONTROL Conversions]) Whether you're charged based on clicks or impressions. The default is clicks. The objective determines what the campaign optimizes for; the billing event determines how you're charged. You can't change the billing event after you save the campaign.
 
 **[!UICONTROL Location Targets]:** Supported user geographical locations to include as targets. By default, all supported locations are targeted. You can narrow the targets to include (but not exclude) users in any combination of locations.
 
