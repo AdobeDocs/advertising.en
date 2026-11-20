@@ -29,6 +29,7 @@ role_v2:
   + [Policies and guidelines (link)](https://experienceleague.adobe.com/en/docs/advertising/policies/ad-requirements-policy){target="_blank"}
 + Getting started {#getting-started}
   + [Implementation overview](/help/search-social-commerce/getting-started/implemention-overview.md)
+  + [Set up ad network accounts and campaigns](/help/search-social-commerce/getting-started/campaign-implementation-overview.md)
   + [System requirements](/help/search-social-commerce/getting-started/system-requirements.md)
   + [Sign in](/help/search-social-commerce/getting-started/sign-in.md)
   + [How the user interface is organized](/help/search-social-commerce/getting-started/user-interface.md)
@@ -72,6 +73,7 @@ role_v2:
   + [View your performance dashboard](/help/search-social-commerce/dashboard/dashboard-overview.md)
   + [Publisher recommendations and insights support](/help/search-social-commerce/dashboard/recommendations-view-apply.md)
 + Manage {#manage}
+  + [About managing campaigns and portfolios](/help/search-social-commerce/manage/manage-about.md)
   + Portfolios {#portfolios}
     + [About portfolios](/help/search-social-commerce/manage/portfolios/portfolio-about.md)
     + [Manage portfolio groups](/help/search-social-commerce/manage/portfolios/portfolio-group-manage.md)
@@ -106,6 +108,10 @@ role_v2:
         + [[!DNL Meta Ads] campaign settings](/help/search-social-commerce/manage/campaigns/campaign-settings-meta.md)
         + [[!DNL Microsoft Advertising] campaign settings](/help/search-social-commerce/manage/campaigns/campaign-settings-microsoft.md)
         + [[!DNL Yandex] campaign settings](/help/search-social-commerce/manage/campaigns/campaign-settings-yandex.md)
+    + Best practices for search campaigns {#best-practices-search}
+      + [Analyze reports to refine your keywords and campaign settings](/help/search-social-commerce/manage/campaigns/best-practices/best-practices-analyze.md)
+      + [Write effective text ad copy](/help/search-social-commerce/manage/campaigns/best-practices/best-practices-write.md)
+      + [Optimize the website landing pages](/help/search-social-commerce/manage/campaigns/best-practices/best-practices-optimize.md)
   + Ad groups {#ad-groups}
     + [Manage ad groups](/help/search-social-commerce/manage/ad-groups/ad-group-manage.md)
     + Ad group settings by ad network {#ad-group-settings-by-network}
@@ -455,10 +461,6 @@ role_v2:
       + [Delete label classification values](/help/search-social-commerce/legacy-ui/campaign-management/label-classifications/classification-values-delete.md)
       + [Delete label classifications](/help/search-social-commerce/legacy-ui/campaign-management/label-classifications/classification-delete.md)
     + [View and create ad assets](/help/search-social-commerce/legacy-ui/campaign-management/asset-view-create.md)
-    + Best practices for search campaigns {#best-practices-search}
-      + [Analyze reports to refine your keywords and campaign settings](/help/search-social-commerce/legacy-ui/campaign-management/best-practices/best-practices-analyze.md)
-      + [Write effective text ad copy](/help/search-social-commerce/legacy-ui/campaign-management/best-practices/best-practices-write.md)
-      + [Optimize the website landing pages](/help/search-social-commerce/legacy-ui/campaign-management/best-practices/best-practices-optimize.md)
     + [Maximum number of objects per ad network account](/help/search-social-commerce/legacy-ui/campaign-management/max-objects-per-ad-network.md)
     + [FAQs about campaign management](/help/search-social-commerce/legacy-ui/campaign-management/faqs-campaigns.md)
   + Insights and reports {#insights-reports}

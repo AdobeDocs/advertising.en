@@ -65,7 +65,7 @@ The following are some guidelines for designing landing pages that provide a pos
 
 ## Test the impact of landing pages
 
-To see the impact of changing the landing page (when everything else is constant), run [the [!DNL Ad Variation Report]](/help/search-social-commerce/legacy-ui/reports/management/basic-advanced/ad-variation-report.md), which includes the display URL and the base/final URL or destination URL for each ad.
+To see the impact of changing the landing page (when everything else is constant), run [the [!UICONTROL Ad Variation Report]](/help/search-social-commerce/reports/management/basic-advanced/ad-variation-report.md), which includes the display URL and the base/final URL or destination URL for each ad.
 
 >[!MORELIKETHIS]
 >

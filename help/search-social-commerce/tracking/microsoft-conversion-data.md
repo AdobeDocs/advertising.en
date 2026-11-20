@@ -97,6 +97,6 @@ In Search, Social, & Commerce, use the view or report option to view conversions
 
 >[!MORELIKETHIS]
 >
->* [Overview of implementing ad network accounts and campaigns](/help/search-social-commerce/legacy-ui/campaign-management/introduction/campaign-implemention-overview.md)
->* [Monitor and manage the performance of your ad network campaigns](/help/search-social-commerce/legacy-ui/campaign-management/introduction/monitor-performance-campaigns.md)
+>* [Set up ad network accounts and campaigns](/help/search-social-commerce/getting-started/campaign-implementation-overview.md)
+>* [About managing campaigns and portfolios](/help/search-social-commerce/manage/manage-about.md)
 >* [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/goals/conversions/conversion-metrics-manage.md#view-the-conversion-metrics-tracked-for-an-advertiser)
