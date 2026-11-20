@@ -69,7 +69,7 @@ You can include any of the following in your objectives:
 
 * [!DNL Google] metrics:<!-- Search only, or might DSP-only clients also have these? -->
 
-  * [[!DNL Google Ads]-tracked conversions](/help/search-social-commerce/legacy-ui/campaign-management/introduction/google-conversion-data.md) from synced [!DNL Google Ads] accounts.
+  * [[!DNL Google Ads]-tracked conversions](/help/search-social-commerce/tracking/google-conversion-data.md) from synced [!DNL Google Ads] accounts.
 
   * (Advertisers with [[!DNL Google Analytics] integrations](/help/search-social-commerce/legacy-ui/admin/data-sources/data-source-about.md)) Page views, Sessions, Bounce Rate (calculated as bounces/sessions), and Session Duration.
 

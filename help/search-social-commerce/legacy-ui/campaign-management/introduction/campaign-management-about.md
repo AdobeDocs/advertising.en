@@ -69,4 +69,4 @@ The campaign management views allow you to monitor and manage your search accoun
 >
 >* [Overview of implementing ad network accounts and campaigns](campaign-implemention-overview.md)
 >* [Monitor and manage the performance of your ad network campaigns](monitor-performance-campaigns.md)
->* [Google Ads conversion data in Search, Social, & Commerce](google-conversion-data.md)
+>* [Google Ads conversion data in Search, Social, & Commerce](/help/search-social-commerce/tracking/google-conversion-data.md)

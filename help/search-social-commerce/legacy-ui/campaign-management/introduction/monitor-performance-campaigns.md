@@ -55,4 +55,4 @@ Based on performance, you may need to perform additional business operations, in
 >
 >* [About campaign management in Search, Social, & Commerce](campaign-management-about.md)
 >* [Overview of implementing ad network accounts and campaigns](campaign-implemention-overview.md)
->* [Google Ads conversion data in Search, Social, & Commerce](google-conversion-data.md)
+>* [Google Ads conversion data in Search, Social, & Commerce](/help/search-social-commerce/tracking/google-conversion-data.md)

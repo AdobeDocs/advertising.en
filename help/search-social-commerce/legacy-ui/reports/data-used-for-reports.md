@@ -41,7 +41,7 @@ Most reports can be customized to display only the information you want to see. 
 
 * **Conversion metrics:** The total number of conversions for each of the advertiser's conversion metrics, or transaction data tracked toward a conversion metric. This can include conversion and site engagement metrics, but not calculated metrics and advanced calculated metrics, that are synced from Adobe Analytics.
 
-  This also may include [[!DNL Google Ads]-tracked conversions](/help/search-social-commerce/legacy-ui/campaign-management/introduction/google-conversion-data.md) and [[!DNL Google Analytics]-tracked conversions](/help/search-social-commerce/legacy-ui/admin/data-sources/data-source-about.md) that are synced for the advertiser account.
+  This also may include [[!DNL Google Ads]-tracked conversions](/help/search-social-commerce/tracking/google-conversion-data.md) and [[!DNL Google Analytics]-tracked conversions](/help/search-social-commerce/legacy-ui/admin/data-sources/data-source-about.md) that are synced for the advertiser account.
 
 * **Custom metrics:** Your own metrics, which you derive by creating formulas based on existing metrics (such as the cost per order).
 

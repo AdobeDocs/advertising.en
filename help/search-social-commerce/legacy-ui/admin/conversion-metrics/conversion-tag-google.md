@@ -46,7 +46,7 @@ To generate conversion tags for existing conversions, use the ad network's edito
 
 1. Click **[!UICONTROL Done].**
 
-Once you add the tags to your website and they begin firing, [!DNL Google Ads] records conversions on the website. Search, Social, & Commerce syncs the conversions daily. For more information about the data that's synced, see "[[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/legacy-ui/campaign-management/introduction/google-conversion-data.md).
+Once you add the tags to your website and they begin firing, [!DNL Google Ads] records conversions on the website. Search, Social, & Commerce syncs the conversions daily. For more information about the data that's synced, see "[[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/tracking/google-conversion-data.md).
 
 ## Conversion tag settings {#conversion-tag-settings-google}
 
@@ -79,4 +79,4 @@ Once you add the tags to your website and they begin firing, [!DNL Google Ads] r
 >[!MORELIKETHIS]
 >
 >* [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/upload-data-offline-conversions.md)
->* [[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/legacy-ui/campaign-management/introduction/google-conversion-data.md)
+>* [[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/tracking/google-conversion-data.md)

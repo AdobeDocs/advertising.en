@@ -122,7 +122,7 @@ topic_v2:
 | [!UICONTROL Final Mobile URLs] | ([!UICONTROL Google Asset Group Performance Report]) A list of final URLs for mobile devices after all cross-domain redirects. The URLs may be expanded if URL expansion is enabled for the campaign. |
 | [!UICONTROL Goal] | ([!UICONTROL MSA Ad ExtensionReport] reports, [!UICONTROL MSA Network Performance Report]) The name of the conversion goal. |
 | [!UICONTROL Goal Type] | ([!UICONTROL MSA Ad Extension] reports, [!UICONTROL MSA Network Performance Report]) The type of conversion goal. |
-| [!UICONTROL Google Conversions] | ([!UICONTROL AdWords Conversion Report]) The number of online conversions tracked by [the [!DNL Google Ads Conversion Optimizer]](/help/search-social-commerce/legacy-ui/campaign-management/introduction/google-conversion-data.md). |
+| [!UICONTROL Google Conversions] | ([!UICONTROL AdWords Conversion Report]) The number of online conversions tracked by [the [!DNL Google Ads Conversion Optimizer]](/help/search-social-commerce/tracking/google-conversion-data.md). |
 | [!UICONTROL Google Converted Clicks] | ([!UICONTROL AdWords Conversion Report]; deprecated in 2016) The number of clicks that resulted in one or more conversions. |
 | [!UICONTROL Headline 1] | ([!UICONTROL Google AI Max Search Term Combination Report]) The first headline for the ad. |
 | [!UICONTROL Headline 2] | ([!UICONTROL Google AI Max Search Term Combination Report]) The second headline for the ad. |

@@ -284,6 +284,8 @@ role_v2:
     + [The AMO ID (s_kwcid) tracking parameter](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md)
   + Conversion tracking {#conversion-tracking}
     + [Conversion tracking options](/help/search-social-commerce/tracking/conversion-tracking-about.md)
+    + [[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/tracking/google-conversion-data.md)
+    + [[!DNL Microsoft Advertising] conversion data in Search, Social, & Commerce](/help/search-social-commerce/tracking/microsoft-conversion-data.md)
     + Adobe Advertising conversion tracking {#advertising-conversion-tracking}
       + [About Adobe Advertising conversion-tracking tags](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
       + [Generate and implement an Adobe Advertising conversion tag](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/legacy-ui/tools/conversion-tag-generate){target="_blank"}
@@ -308,8 +310,6 @@ role_v2:
       + [About campaign management in Search, Social, & Commerce](/help/search-social-commerce/legacy-ui/campaign-management/introduction/campaign-management-about.md)
       + [Overview of implementing ad network accounts and campaigns](/help/search-social-commerce/legacy-ui/campaign-management/introduction/campaign-implemention-overview.md)
       + [Monitor and manage the performance of your ad network campaigns](/help/search-social-commerce/legacy-ui/campaign-management/introduction/monitor-performance-campaigns.md)
-      + [[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/legacy-ui/campaign-management/introduction/google-conversion-data.md)
-      + [[!DNL Microsoft Advertising] conversion data in Search, Social, & Commerce](/help/search-social-commerce/legacy-ui/campaign-management/introduction/microsoft-conversion-data.md)
     + Setting up accounts {#campaign-management-accounts}
       + Ad network accounts {#ad-network-accounts}
         + [About ad network accounts](/help/search-social-commerce/legacy-ui/campaign-management/accounts/ad-network-account-about.md)

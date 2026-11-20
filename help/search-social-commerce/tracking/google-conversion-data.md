@@ -58,7 +58,7 @@ Up to three metrics for each [[!DNL Google Ads]-tracked conversion](https://supp
 
 >[!NOTE]
 >
->* If you have multiple accounts with the same conversion names, then you may see duplicate conversion names in Adobe Advertising. If this occurs, [change the display name](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/conversion-metric-edit-display-name.md) for one of the duplicate metrics in [!UICONTROL Admin] > [!UICONTROL Conversions]. Reporting isn't accurate when two different metrics have the same name.
+>* If you have multiple accounts with the same conversion names, then you may see duplicate conversion names in Adobe Advertising. If this occurs, [change the display name](/help/search-social-commerce/goals/conversions/conversion-metrics-manage.md#change-the-display-name-for-a-conversion-metric) for one of the duplicate metrics in [!UICONTROL Goals] > [!UICONTROL Conversions]. Reporting isn't accurate when two different metrics have the same name.
 >* Data at the bid unit level matches data in [!DNL Google Ads] at the same level. However, [!DNL Google Ads]' own conversion data for higher levels may include additional conversions that aren't attributed to the child bid units. Data in Search, Social, & Commerce is always rolled up from the bid unit level, so, for example, a campaign-level report might not have the same totals as a campaign-level report in Google Ads.
 >* Data variance is typically less after the morning sync than it is later in the day, when additional conversions haven't yet been synced. We recommend validating data in the morning.
 >* Conversion data isn't available for [!DNL Google Display Network], [!DNL Gmail], [!DNL Mobile App], and [!DNL YouTube] ads. Filter out those types of ads when you compare data in [!DNL Google Ads] with data in Search, Social, & Commerce.
@@ -98,28 +98,31 @@ Generate the report for the selected conversion actions by day, and include data
 
 In Search, Social, & Commerce, use the view or report option to view conversions based on the click date (not the transaction date).
 
-1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**.
 
-1. In the toolbar above the data table, click **[!UICONTROL Create Report]**, hold the cursor over **[!UICONTROL Basic Reports]**, and then click **[!UICONTROL Search Engine Account Report]**.
+1. Click **[!UICONTROL Create Report]**, click **[!UICONTROL Basic Reports]** in the left panel, and then select **[!UICONTROL Search Engine Account Report]**. Click **[!UICONTROL Proceed]**.
 
-1. In the [!UICONTROL Report Settings] window, specify the following report settings:
+1. In the [!UICONTROL Create Report] window, open the **[!UICONTROL Basic Settings]** tab and specify the following [report settings](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md):
    
-   1. In the **[!UICONTROL Conversions Based]** on section, select **[!UICONTROL Click date]**.
+   1. Set **[!UICONTROL Data Aggregation]** to **[!UICONTROL Daily]**.
+   
+   1. Set **[!UICONTROL Conversions Based on]** to **[!UICONTROL Click date]**.
    
    1. Specify the same date range that you used for the [!DNL Google Ads] report.
    
-   1. In the **[!UICONTROL Search/Content]** section, select **[!UICONTROL Search Only]**.
+   1. Set **[!UICONTROL Search/Content]** to **[!UICONTROL Search Only]**.
    
-   1. In the **[!UICONTROL Search Engine Hierarchy]** section, expand the [!UICONTROL Google Adwords] section and select the account.
+   1. If **[!UICONTROL Filter By]** is shown, select **[!UICONTROL Search engine]**.
    
-   1. Open the [!UICONTROL Columns] tab, and add the [!DNL Google Ads] metrics (beginning with "GGL") that you want to compare.
+   1. In **[!UICONTROL Search Engine Hierarchy]**, expand [!DNL Google Ads] and select the check box next to the account that you want to compare. Click **[!UICONTROL Add selected items]** to move the account to **[!UICONTROL Selected Filters]**.
+
+1. Open the **[!UICONTROL Columns]** tab, and add the [!DNL Google Ads] metrics (beginning with "GGL") that you want to compare.
 
 1. Click **[!UICONTROL Create]**.
 
 >[!MORELIKETHIS]
 >
->* [Overview of implementing ad network accounts and campaigns](campaign-implemention-overview.md)
->* [Monitor and manage the performance of your ad network campaigns](monitor-performance-campaigns.md)
->* [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/conversion-metric-view-tracked.md)
->* [Create a conversion tag for [!DNL Google Ads]](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/conversion-tag-google.md)
->* [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/upload-data-offline-conversions.md)
+>* [Overview of implementing ad network accounts and campaigns](/help/search-social-commerce/legacy-ui/campaign-management/introduction/campaign-implemention-overview.md)
+>* [Monitor and manage the performance of your ad network campaigns](/help/search-social-commerce/legacy-ui/campaign-management/introduction/monitor-performance-campaigns.md)
+>* [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/goals/conversions/conversion-metrics-manage.md#view-the-conversion-metrics-tracked-for-an-advertiser)
+>* [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/goals/conversions/conversions-upload-offline-enhanced-conversions.md)
