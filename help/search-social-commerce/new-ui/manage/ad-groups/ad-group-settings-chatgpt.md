@@ -42,7 +42,7 @@ subfeature_v2:
 
 * *[!UICONTROL Manual: Max bid]:* (Existing manually bid ad groups only) Retains the existing maximum bid as a read-only amount. You can keep this strategy or switch to [!UICONTROL Autobid] or the target strategy for the campaign objective. This option isn't available for new ad groups or when editing ad groups that already use autobid or target bidding.
 
-Existing manually bid ad groups aren't automatically changed to another strategy. Editing only a target amount or an unrelated setting doesn't change an existing target bidding strategy.
+Existing manually-bid ad groups aren't automatically changed to another strategy. Editing only a target amount or an unrelated setting doesn't change an existing target bidding strategy.
 
 **[!UICONTROL Target CPC]:** (Ad groups with the bid strategy [!UICONTROL Target CPC]; required) The average cost per click you want to achieve, in the account's currency. Enter a positive amount. This is an average cost goal, not a maximum bid.
 
@@ -52,7 +52,7 @@ Existing manually bid ad groups aren't automatically changed to another strategy
 
 **[!UICONTROL Conversion-optimized bid cap]:** (Campaigns with the objective [!UICONTROL Conversions]; existing manually bid ad groups only; read-only) The existing maximum amount you're willing to bid for a conversion. [!DNL OpenAI] uses the predicted conversion rate to convert this value into a per-impression auction bid.
 
-**[!UICONTROL Maximum CPM bid]:** (Campaigns with the objective [!UICONTROL Reach]; required) The maximum amount you'll pay for one thousand impressions, in the account's currency. Enter a value from 0.01-5000. Reach campaigns don't have the [!UICONTROL Bid strategy] options.
+**[!UICONTROL Maximum CPM bid]:** (Campaigns with the objective [!UICONTROL Reach]) The maximum amount you'll pay for one thousand impressions, in the account's currency. Enter a value from 0.01-5000. Reach campaigns don't have the [!UICONTROL Bid strategy] options.
 
 **[!UICONTROL Context hints (optional)]:** Description of the conversations, topics, or keywords for which your products or services may be relevant. Separate hints with commas or line breaks. Your hints may be used to guide matching but aren't exact-match targeting rules. See [[!DNL ChatGPT Ads] help on how to write effective context hints](https://help.openai.com/en/articles/20001211-create-ad-groups-for-chatgpt#writing-effective-context-hints).
 
