@@ -1,7 +1,9 @@
 ---
 title: Report columns for basic and advanced reports
 description: Learn about the available data columns for basic and advanced reports.
+exl-id: 649cdfa0-e6f2-4881-9f9d-8217e2547d99
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
+TQID: 'https://experienceleague.adobe.com/6of-gBWNiXgwOxOoDFJ-idyaSFeP7wEi7GBfAoRxgyU'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -12,6 +14,18 @@ feature_v2:
     internal-label: Search Basic Reports
   - id: c51771d4-46e9-5151-913c-59d4e047a4f1
     internal-label: Search Advanced Reports
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Report columns for basic and advanced reports
 
@@ -40,21 +54,17 @@ feature_v2:
 | [!UICONTROL Ad Recall Rate] | ([!DNL Meta] campaigns only) The estimated number of people who remember your ad within two days divided by the number of people you've reached, as a percentage. |
 | [!UICONTROL Ad Size] | The dimensions of the ad. |
 | [!UICONTROL AD Strength] | ([!DNL Google Ads] responsive search ads) The effectiveness of the ad: <i>[!UICONTROL average]</i>, <i>[!UICONTROL excellent]</i>, <i>[!UICONTROL good]</i>, <i>[!UICONTROL no_ads]</i>, <i>[!UICONTROL pending]</i>, <i>[!UICONTROL poor]</i>, <i>[!UICONTROL unknown]</i>, or <i>[!UICONTROL unspecified]</i>. |
-| [!UICONTROL Adgroup MBA] | ([!DNL Google Ads], [!DNL LY Ads], [!DNL Microsoft Advertising] campaigns) The current ad group-level mobile bid adjustment, which determines how bids are adjusted when the ad is displayed on a mobile device. |
-| [!UICONTROL AI Max Bundling Required] | (Campaigns that target the search network only; campaigns with the AI Max feature enabled; read-only) Whether [!UICONTROL AI Max] must be enabled to respect or modify text customization and brand list controls for the campaign: *[!UICONTROL REQUIRED]*, *[!UICONTROL NOT_REQUIRED]*, *[!UICONTROL UNSPECIFIED]*, or null. |
+| [!UICONTROL Adgroup MBA] | ([!DNL Google Ads], [!DNL LY Ads], and [!DNL Microsoft Advertising] campaigns) The current ad group-level mobile bid adjustment, which determines how bids are adjusted when the ad is displayed on a mobile device. |
+| [!UICONTROL Adobe Tech Fees] | ([!UICONTROL Search Engine Account Report], [!UICONTROL Campaign Report], [!UICONTROL Ad Group Report], and [!UICONTROL Ad Variation Report]; [!DNL ChatGPT Ads] only) The [!DNL Adobe] technology fees for media spend, calculated using the applicable fee rates. |
+| [!UICONTROL AI Max Bundling Required] | (Campaigns that target the search network only; campaigns with the AI Max feature enabled; read-only) Whether bundling is required: *[!UICONTROL REQUIRED]*, *[!UICONTROL NOT_REQUIRED]*, *[!UICONTROL UNSPECIFIED]*, or null. |
 | [!UICONTROL AI Max Enabled] | Whether the [[!UICONTROL AI Max] feature](https://support.google.com/google-ads/answer/15910366) is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
 | [!UICONTROL AI Max Search Term Matching] | (Campaigns that target the search network and for which the [AI Max feature](https://support.google.com/google-ads/answer/15910366) and the campaign-level search term matching feature is enabled; read-only) Whether ad group-level search term matching is enabled: *[!UICONTROL true]*, *[!UICONTROL false]*, or null. |
 | [!UICONTROL Advertiser] | The advertiser name. |
 | [!UICONTROL Advertiser ID] | The numeric ID for the advertiser's Search, Social, & Commerce account. |
-| [!UICONTROL All Conversions] | ([!UICONTROL Asset Report]) The total number of [!DNL Google]-tracked conversions, including those from conversion actions that aren't included in your main Conversions column. |
-| [!UICONTROL All Conversions Value] | ([!UICONTROL Asset Report]) The value of all [!DNL Google]-tracked conversions, including those from conversion actions that aren't included in your main Conversions column. |
-| [!UICONTROL Asset ID] | The unique ID that identifies an existing asset. |
-| [!UICONTROL Asset] | The asset name. |
-| [!UICONTROL Asset Type] | The type of asset: *[!UICONTROL Image]*, *[!UICONTROL Text]* (such as a headline or description), or *[!UICONTROL Video]*. |
-| [!UICONTROL Asset Performance Label] | ([!UICONTROL Asset Report]) The algorithmically-generated performance label for the asset: *[!UICONTROL Best]*, *[!UICONTROL Good]*, *[!UICONTROL Low]*, or *[!UICONTROL Learning]*. |
-| [!UICONTROL Average CPC] | The average cost per click. |
+| [!UICONTROL Avg Position] | The average position of the ads during the specified date range.<br><br>For [!DNL Google Ads] and [!DNL LY Ads] campaigns, this data is available only through September 2019. For [!DNL Microsoft Advertising], this data is available only through 22 January 2021. |
 | [!UICONTROL Base URL] | The base URL for the keyword, including any append parameters configured for the campaign or account. It doesn't include any Search, Social, & Commerce redirection and tracking code. |
 | [!UICONTROL Bid Strategy] | (Most ad networks) For campaigns or campaign components, this is the campaign's bid strategy. For ad network accounts that are linked to a manager account, this is the cross-account bid strategy. The available values vary by ad network. |
+| [!UICONTROL Billable Spend] | ([!UICONTROL Search Engine Account Report], [!UICONTROL Campaign Report], [!UICONTROL Ad Group Report], and [!UICONTROL Ad Variation Report]; [!DNL ChatGPT Ads] only) The media cost plus [!DNL Adobe] technology fees, excluding tax. |
 | [!UICONTROL Business Name] | ([!DNL Microsoft Advertising] responsive ads) The business name. |
 | [!UICONTROL Call to Action] | ([!DNL Microsoft Advertising] responsive and multimedia ads) The call to action included in the ad. |
 | [!UICONTROL Campaign] | The campaign. |
@@ -76,15 +86,13 @@ feature_v2:
 | [!UICONTROL Constraint End Date] | ([!UICONTROL Constraint Report]) The last day the constraint is active. |
 | [!UICONTROL Constraint Name] | ([!UICONTROL Constraint Report]) The constraint name. |
 | [!UICONTROL Constraint Start Date] | ([!UICONTROL Constraint Report]) The first day the constraint is active. |
-| [!UICONTROL Constraint Status] | ([!UICONTROL Constraint Report]) The status of the constraint: <i>[!UICONTROL Active]</i> or <i>[!UICONTROL Paused]</i>. |
-| [!UICONTROL Constraint Type] | ([!UICONTROL Constraint Report]) The type of constraint: <i>[!UICONTROL Bid/Pos Constraint]</i>, <i>[!UICONTROL Bid Shift]</i>, <i>[!UICONTROL Campaign Budget]</i>, <i>[!UICONTROL Context Sensitive Bid]</i>, <i>[!UICONTROL Incremental Bidding]</i>, <i>[!UICONTROL Max CPA]</i>, <i>[!UICONTROL Min Margin]</i>, <i>[!UICONTROL Variable Bid Position]</i>, <i>[!UICONTROL Search Engine Min Bid]</i>, or <i>[!UICONTROL Variable Position]</i>. |
+| [!UICONTROL Constraint Status] | ([!UICONTROL Constraint Report]) The status of the constraint:  <i>[!UICONTROL Active]</i> or <i>[!UICONTROL Paused]</i>. |
+| [!UICONTROL Constraint Type] | ([!UICONTROL Constraint Report]) The type of constraint:  <i>[!UICONTROL Bid/Pos Constraint]</i>, <i>[!UICONTROL Bid Shift]</i>, <i>[!UICONTROL Campaign Budget]</i>, <i>[!UICONTROL Context Sensitive Bid]</i>, <i>[!UICONTROL Incremental Bidding]</i>, <i>[!UICONTROL Max CPA]</i>, <i>[!UICONTROL Min Margin]</i>, <i>[!UICONTROL Variable Bid Position]</i>, <i>[!UICONTROL Search Engine Min Bid]</i>, or <i>[!UICONTROL Variable Position]</i>. |
 | [!UICONTROL Constraints] | The names of any applicable constraints on the entity, separated by commas. |
 | [!UICONTROL Content IS] | The number of impressions you received for ads on the display/audience network divided by the estimated number impressions that you were eligible to receive. In [!DNL Microsoft Advertising], this is called "[!UICONTROL Audience IS]." |
 | [!UICONTROL Content IS Lost (budget)] | The estimated percentage of impressions that your ads on the display/audience network didn't receive because your daily or monthly budget was too low. In [!DNL Microsoft Advertising], this is called "[!UICONTROL Audience lost IS (budget)]." |
 | [!UICONTROL Content IS Lost (rank)] | The estimated percentage of impressions that your ads on the display/audience network weren't shown because of a poor ad rank. In [!DNL Microsoft Advertising], this is called "[!UICONTROL Audience lost IS (rank)]." |
 | [!UICONTROL Conversion Type] | ([!UICONTROL Transaction Report]) The action(s) that preceded the conversion:<ul><li><i>[!UICONTROL Click:]</i> At least one paid click occurred before the conversion.</li><li><i>[!UICONTROL Impression:]</i> No paid clicks occurred before the conversion, so the conversion resulted from a view-through (impression without any paid clicks).</li></ul> |
-| [!UICONTROL Conversions] | ([!UICONTROL Asset Report]) The total [!DNL Google]-tracked conversions for the specified period from conversion actions for which "Include in conversions" is enabled. |
-| [!UICONTROL Conversions Value] | ([!UICONTROL Asset Report]) The value of all [!DNL Google]-tracked conversions from conversion actions for which "Include in conversions" is enabled. |
 | [!UICONTROL Cost] | The total cost for ads during the specified date range. |
 | [!UICONTROL Country] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) A country from which clicks originated. It's determined from the user's IP address. |
 | [!UICONTROL CPC] | The cost per click (CPC) for ads during the specified date range. |
@@ -98,11 +106,11 @@ feature_v2:
 | [!UICONTROL Currency] | The applicable currency type (such as "USD" or "GBP").<br><br><b>Note:</b> If the report includes data for accounts with different currencies, then any "[!UICONTROL Total]" monetary values are simply the sum of all numbers in the column, regardless of currency. |
 | [!UICONTROL Current Bid] | The current bid for the target. |
 | [!UICONTROL Current First Page Bid] | ([!DNL Google Ads] campaigns only) The estimated cost-per-click (CPC) bid currently needed for the ad to be placed on the first page of search results when a [!DNL Google] search query matches the keyword.<br><br>For a single keyword and match type combination, this value is the first page bid currently required for that combination. When the same keyword and match type combination is used in multiple campaigns, this value is the minimum first page bid currently required among all instances. |
-| [!UICONTROL Current Quality Score] | ([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns only) The current quality score for the keyword or bid unit, as designated by the ad network. It ranges from 1 (low) to 10 (perfect). For a single keyword and match type combination, this value is the current score for that combination. When the same keyword and match type combination is used in multiple campaigns, this value is the maximum current score among all instances.<br><br>The ad networks use the quality score to determine bid prices and (when applicable) ad position. It's calculated according to many factors, including the relevancy of the keyword to its associated ad and to the user's search query and the quality of the landing page. For keywords in [!DNL Google Ads], the keyword's click-through rate is also considered, and for keywords in [!DNL Microsoft Advertising], the user experience provided by the landing page is also considered. |
+| [!UICONTROL Current Quality Score] | ([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns only) The current quality score for the keyword or bid unit, as designated by the ad network. It ranges from 1 (low) to 10 (perfect). For a single keyword and match type combination, this value is the current score for that combination. When the same keyword and match type combination is used in multiple campaigns, this value is the maximum current score among all instances.<br><br>The ad networks use the quality score to determine bid prices and ad position. It's calculated according to many factors, including the relevancy of the keyword to its associated ad and to the user's search query and the quality of the landing page. For keywords in [!DNL Google Ads], the keyword's click-through rate is also considered, and for keywords in [!DNL Microsoft Advertising], the user experience provided by the landing page is also considered. |
 | [!UICONTROL Custom Bid Level] | (Google campaigns that target the display network only) At what level bids are placed: by <i>[!UICONTROL Ad Group]</i>, <i>[!UICONTROL Age]</i>, <i>[!UICONTROL Gender]</i>, <i>[!UICONTROL Interest and List]</i>, <i>[!UICONTROL Keyword]</i>, <i>[!UICONTROL Placement]</i>, <i>[!UICONTROL Vertical]</i>, <i>[!UICONTROL None]</i>, or <i>[!UICONTROL Unknown]</i>. |
 | [!UICONTROL Description1] - [!UICONTROL Description4] | The body of the ad. Different creative types have different numbers of required and optional description lines. To see [!UICONTROL Description3] and [!UICONTROL Description4] columns in [!DNL Microsoft Advertising] responsive ads or multimedia ads, include the "[!UICONTROL Descriptions]" column in the report settings. |
 | [!UICONTROL Descriptions] | ([!DNL Microsoft Advertising] responsive and multimedia ads) Adds a column for each of the ad's description rows ("[!UICONTROL Description1]" through "[!UICONTROL Description4]"). When you include this column, you don't need to include the other [!UICONTROL Description] columns. |
-| [!UICONTROL Device] | ([!DNL Google Ads], [!DNL LY Ads], [!DNL Microsoft Advertising], [!DNL Yaho DSP], and [!DNL Yahoo Native] campaigns) The device type on which ads were displayed: <i>[!UICONTROL Computers]</i>, <i>[!UICONTROL Mobile]</i>, <i>[!UICONTROL Tablets]</i>, <i>[!UICONTROL Other]</i>, or <i>[!UICONTROL N/A]</i> (no value). Rows for other ad networks have values of N/A.<br><br>In search campaigns, if the tracking templates or destination URLs for the keywords, ads, and/or ad extensions included parameters to track data by device (`&ev_dvc={device}&ev_dvm={devicemodel}`) at the time the ad was clicked, then conversion data is also included in the row for each device type. Otherwise, if conversion data can't be attributed to a device type, it's aggregated in a separate row with a "[!UICONTROL Device]" value of [!UICONTROL N/A]. |
+| [!UICONTROL Device] | ([!DNL Google Ads], [!DNL LY Ads], and [!DNL Microsoft Advertising], [!DNL Yahoo DSP], and [!DNL Yahoo Native] campaigns) The device type on which ads were displayed: <i>[!UICONTROL Computers]</i>, <i>[!UICONTROL Mobile]</i>, <i>[!UICONTROL Tablets]</i>, <i>[!UICONTROL Other]</i>, or <i>[!UICONTROL N/A]</i> (no value). Rows for other ad networks have values of N/A.<br><br>In search campaigns, if the tracking templates or destination URLs for the keywords, ads, and/or ad extensions included parameters to track data by device (`&ev_dvc={device}&ev_dvm={devicemodel}`) at the time the ad was clicked, then conversion data is also included in the row for each device type. Otherwise, if conversion data can't be attributed to a device type, it's aggregated in a separate row with a "[!UICONTROL Device]" value of [!UICONTROL N/A]. |
 | [!UICONTROL Display Path 1] | ([!DNL Google Ads] extended text ads only) The first display path after the base URL for the ad. |
 | [!UICONTROL Display Path 2] | ([!DNL Google Ads] extended text ads only) The second display path after the base URL for the ad. |
 | [!UICONTROL Display Type] | Obsolete |
@@ -114,18 +122,18 @@ feature_v2:
 | [!UICONTROL EF ID] | ([!UICONTROL Transaction Report]) (Advertisers with the Adobe Advertising conversion tracking service and the "[!UICONTROL EF Redirect]" tracking method with a token) The token for the click or conversion.<ul><li>For [!DNL Google Ads] search ads, the EF ID is `{gclid}:G:s`, which includes the Google Click ID (GCLID) and the network type ("s" for search).</li><li> For [!DNL Microsoft Advertising] search ads, the EF ID is `{msclkid}:G:s`, which includes the Microsoft Click ID (MSCLKID) and the network type ("s" for search).</li><li>For search ads on other ad networks, the EF ID includes the surfer ID, click time, and network type.</li><li>For display ads, the EF ID includes the surfer ID, click or impression time, and network type.</li></ul> |
 | [!UICONTROL EF Pixel Location ID] | ([!UICONTROL Geo Distribution Report]; for Search, Social, & Commerce use only) An internal ID for geographical location, which is used to normalize data. |
 | [!UICONTROL EF Portfolio Group ID] | The numeric ID for the portfolio group to which the portfolio belongs. |
-| [!UICONTROL EF Search Engine ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo DSP], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL LY Ads] (formerly [!DNL Yahoo! Japan Ads]), <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (deprecated), or <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (deprecated). |
+| [!UICONTROL EF Search Engine ID] | The numeric ID that Search, Social, & Commerce assigns to the ad network:  <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo DSP], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL LY Ads] (formerly [!DNL Yahoo! Japan Ads]), <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (deprecated), or <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (deprecated). |
 | [!UICONTROL End Date] | The last day reported. |
 | [!UICONTROL Engagement Rate] | (Video ads) The number of engagements divided by the number of times your ad was shown. |
 | [!UICONTROL Engagements] | (Video ads) The number of times users watched your ad for at least 10 seconds, or the complete ad if it's shorter than 10 seconds. |
 | [!UICONTROL Est. Clicks] | ([!UICONTROL Geo Distribution Report]; search and display campaigns only) The estimated number of clicks for the ad group/campaign/portfolio combination. This value may be different than the value provided by the ad networks. |
 | [!UICONTROL Estimated Cost] | The total estimated cost for the associated ads that Search, Social, & Commerce has tracked. This value may be different than the value provided by the ad networks. |
 | [!UICONTROL Estimated Impressions] | (Display campaigns only) The estimated number of ad impressions that Search, Social, & Commerce has tracked. This value may be different than the value for the [!UICONTROL Impressions] column (when available), which shows the value provided by the ad networks. |
-| [!UICONTROL Event Date] | The date on which an event was recorded. Values are included only for reports with a data aggregation of "[!UICONTROL Daily]." |
+| [!UICONTROL Estimated Tax] | ([!UICONTROL Search Engine Account Report], [!UICONTROL Campaign Report], [!UICONTROL Ad Group Report], and [!UICONTROL Ad Variation Report]; [!DNL ChatGPT Ads] only) The estimated taxes on media spend and [!DNL Adobe] technology fees, calculated using the applicable tax rates. |
 | [!UICONTROL Exclude (yes/no)] | Whether bidding is excluded (<i>[!UICONTROL Yes]</i>) or bidding are allowed (<i>[!UICONTROL No]</i>) for ads for matching products. |
 | [!UICONTROL First Page CPC] | (Google campaigns only) The cost per click (CPC) for ads that appear on the first page of search results during the specified date range. |
 | [!UICONTROL Frequency] | ([!DNL Meta] campaigns only) The average number of times someone saw your ad. |
-| `GGL*`, `GGL_CT*`, and `GGL_XD_CT*` [[!DNL Google Ads]-tracked conversions] | ([!DNL Google Ads] campaigns on the search and shopping networks) [!DNL Google Ads]-tracked conversions, with up to three separate metrics for each conversion:<ul><li>`GGL*` &mdash; (When you track it) The conversion value for the keyword, beginning with the "GGL" prefix (such as GGL Purchase).</li><li>`GGL_CT*` &mdash; The number (count) of conversions, beginning with the "GGL_CT" prefix (such as GGL_CT_Purchase).</li><li>`GGL_XD_CT*` &mdash; (When available for the conversion type, when you track them) The number (count) of cross-device conversions, as measured by [!DNL Google Ads] beginning with the "GGL_XD_CT_" prefix (such as GGL_XD_CT_Purchase).</li></ul><br>Each conversion is recorded by bid unit and click date; it's not available at the event level. For more information about [!DNL Google Ads]-tracked conversions, see "[[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/legacy-ui/campaign-management/introduction/google-conversion-data.md)." |
+| `GGL*`, `GGL_CT*`, and `GGL_XD_CT*` [[!DNL Google Ads]-tracked conversions] | ([!DNL Google Ads] campaigns on the search and shopping networks) [!DNL Google Ads]-tracked conversions, with up to three separate metrics for each conversion:<ul><li>`GGL*` &mdash; (When you track it) The conversion value for the keyword, beginning with the "GGL" prefix (such as GGL Purchase).</li><li>`GGL_CT*` &mdash; The number (count) of conversions, beginning with the "GGL_CT" prefix (such as GGL_CT_Purchase).</li><li>`GGL_XD_CT*` &mdash; (When available for the conversion type, when you track them) The number (count) of cross-device conversions, as measured by [!DNL Google Ads] beginning with the "GGL_XD_CT_" prefix (such as GGL_XD_CT_Purchase).</li></ul><br>Each conversion is recorded by bid unit and click date; it's not available at the event level. For more information about [!DNL Google Ads]-tracked conversions, see "[[!DNL Google Ads] conversion data in Search, Social, & Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)." |
 | [!UICONTROL Impr. (Abs. Top) %] | ([!DNL Google Ads] only) The percentage of your ad impressions that are shown as the first ad above the organic search results. |
 | [!UICONTROL Impr. (Top) %] | ([!DNL Google Ads] only) The percentage of your ad impressions that are shown above the organic search results. |
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
@@ -143,14 +151,13 @@ feature_v2:
 | [!UICONTROL Location] | (Display campaigns) The target audience locations. |
 | [!UICONTROL Long Creative Title1] - [!UICONTROL Long Creative Title5] | (In completed report rows for [!DNL Microsoft Advertising] responsive and multimedia ads) The long headlines of the ad. To see these columns, include the "[!UICONTROL Long Creative Titles]" column in the report settings. |
 | [!UICONTROL Long Creative Titles] | (For [!DNL Microsoft Advertising] responsive and multimedia ads) Adds a column for each of the ad's long titles ("[!UICONTROL Long Creative Title1]" through "[!UICONTROL Long Creative Title5]"). |
-| [!UICONTROL Market Type] | The market type: <i>[!UICONTROL search]</i> or <i>[!UICONTROL social]</i> |
+| [!UICONTROL Market Type] | The market type:  <i>[!UICONTROL search]</i> or <i>[!UICONTROL social]</i> |
 | [!UICONTROL Max Spend % Target] | (Campaigns in portfolios with [!UICONTROL ROI], [!UICONTROL CPT], or [!UICONTROL Marginal Cost per Transaction] spend strategies) The maximum daily budget target for the portfolio. |
 | [!UICONTROL Max Spend (%)] | ([!UICONTROL Network Constraint Report]) The maximum percentage of the portfolio's spend that's configured for the ad network. For portfolios using the constraint type "[!UICONTROL Min-Max]," this is the [!UICONTROL Max %] value. For portfolios using the constraint type "[!UICONTROL Target Spend]," this is the [!UICONTROL Target Spend] value. |
 | [!UICONTROL Method ID] | ([!UICONTROL Portfolio Report])  |
 | [!UICONTROL Metro Code] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) A numeric metro code from which impressions or clicks originated (such as us-751 for Denver). It's determined from the search user's IP address. |
 | [!UICONTROL Min Spend (%)] | ([!UICONTROL Network Constraint Report]) The minimum percentage of the portfolio's spend that's configured for the ad network. For portfolios using the constraint type "[!UICONTROL Min-Max]," this is the [!UICONTROL Min %] value, if a [!UICONTROL Min %] is configured. For portfolios using the constraint type "[!UICONTROL Target Spend]," this is the [!UICONTROL Target Spend] value. |
 | [!UICONTROL Network Account ID] | The account ID assigned by the network. |
-| [!UICONTROL Network Ad ID] | The ad ID assigned by the network. |
 | [!UICONTROL Network Ad Group ID] | The ad group ID assigned by the network. |
 | [!UICONTROL Network Campaign ID] | The campaign ID assigned by the network. |
 | [!UICONTROL Network Campaign Objective] | ([!DNL Meta] campaigns only) The objective for the campaign. |
@@ -163,7 +170,7 @@ feature_v2:
 | [!UICONTROL Path Position] | ([!UICONTROL Transaction Report]) The position of the event within the conversion path. |
 | [!UICONTROL Path Total] | ([!UICONTROL Transaction Report]) The total number of events for the path position. |
 | [!UICONTROL Portfolio] | The portfolio. |
-| [!UICONTROL Portfolio Count] | ([!UICONTROL Portfolio Report]) The number of portfolios associated with an objective. |
+| [!UICONTROL Portfolio Count] | ([!UICONTROL Portfolio Report]) The number of portfolios associated with an objective. <!-- This count is different than what I see within the Objectives view. --> |
 | [!UICONTROL Portfolio Group Name] | The name of the portfolio group to which the portfolio belongs. |
 | [!UICONTROL Portfolio ID] | The numeric portfolio ID. |
 | [!UICONTROL Portfolio Spend Strategy] | ([!UICONTROL Portfolio Report]) The spend strategy for the portfolio: <i>[!UICONTROL Daily]</i>, <i>[!UICONTROL Weekly]</i>, <i>[!UICONTROL Monthly]</i>, <i>[!UICONTROL ROI]</i>, <i>[!UICONTROL Day of week]</i>, <i>[!UICONTROL Day of month]</i>, <i>[!UICONTROL CPT]</i>, <i>[!UICONTROL Marginal CPT]</i>, <i>[!UICONTROL Google Target CPA]</i>, or <i>[!UICONTROL Google Target ROAS]</i>. |
@@ -193,10 +200,8 @@ feature_v2:
 | [!UICONTROL Search Term] | ([!UICONTROL Transaction Report]) The search term on which the user queried. |
 | [!UICONTROL SETrackingOnly] | Whether you're tracking the account but not placing bids: <i>[!UICONTROL TRUE]</i> or <i>[!UICONTROL FALSE]</i>. |
 | [!UICONTROL Site] | (Domain Referral Report and [!UICONTROL Keyword Report]; site-targeted placements) The site from which clicks originated. |
-| [!UICONTROL Source] | ([!UICONTROL Asset Report]) The asset source. |
 | [!UICONTROL Start Date] | The first day reported. |
-| [!UICONTROL State] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) A state from which the transaction originated. It's determined from the user's IP address. |
-| [!UICONTROL Status] | ([!UICONTROL Asset Report]) The asset status. |
+| [!UICONTROL State] | (Geo Distribution Report, [!UICONTROL Keyword Report]) A state from which the transaction originated. It's determined from the user's IP address. |
 | [!UICONTROL Surfer ID] | ([!UICONTROL Transaction Report]) The ID of the user who completed the transaction. |
 | [!UICONTROL Thru Plays] | ([!DNL Meta] campaigns only) The number of views that watched the ad in its entirety. |
 | [!UICONTROL Top of Page CPC] | (Google campaigns only) The cost per click (CPC) for ads that appear at the top of search result pages during the specified date range. |
@@ -218,6 +223,6 @@ feature_v2:
 
 >[!MORELIKETHIS]
 >
->* [About basic and advanced reports](basic-advanced-report-about.md)
->* [Manage scheduled reports](/help/search-social-commerce/reports/management/report-manage.md)
->* [Basic and advanced report settings](basic-advanced-report-settings.md)
+>* [About basic and advanced reports](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md)
+>* [Generate a basic or advanced report](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md)
+>* [Basic and advanced report settings](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
