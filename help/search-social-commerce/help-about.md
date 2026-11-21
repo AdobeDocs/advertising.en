@@ -39,7 +39,7 @@ Information about specific groups of tasks and other information are available i
 
 * "Tracking" explains how to set up click and conversion tracking for your ads and keywords.
 
-* "Legacy user interface" explains tasks you can perform in the [legacy user interface](help/search-social-commerce/getting-started/ui-switch.md).
+* "Legacy user interface" explains tasks you can perform in the [legacy user interface](/help/search-social-commerce/getting-started/ui-switch.md).
 
    Most of these tasks are also available in the new user interface.
 
