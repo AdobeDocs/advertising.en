@@ -23,7 +23,7 @@ You'll manage your [!DNL ChatGPT Ads] conversational ad accounts &mdash; includi
 
 The following determines eligibility for this feature:
 
-* **Existing [!DNL Search, Social, & Commerce] customers:** If your advertiser already uses [!DNL Search, Social, & Commerce], then [create and manage its [!DNL ChatGPT Ads] campaigns in Search, Social, & Commerce](/help/search-social-commerce/new-ui/manage/campaigns/campaign-manage.md) instead of in DSP.
+* **Existing [!DNL Search, Social, & Commerce] customers:** If your advertiser already uses [!DNL Search, Social, & Commerce], then [create and manage its [!DNL ChatGPT Ads] campaigns in Search, Social, & Commerce](/help/search-social-commerce/manage/campaigns/campaign-manage.md) instead of in DSP.
 
 * **Restricted industries:** Advertisers in restricted categories (for example, finance or healthcare) can't create conversational ad accounts or campaigns.
 

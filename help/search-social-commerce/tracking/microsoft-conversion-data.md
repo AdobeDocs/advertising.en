@@ -1,0 +1,102 @@
+---
+title: '[!DNL Microsoft Advertising] conversion data'
+description: Learn about the types of [!DNL Microsoft Advertising]-tracked conversion data available in Search, Social, & Commerce.
+feature: Search Campaign Management, Conversions
+exl-id: 0ebc70a0-1fb7-48db-b45d-7409e8bb6f64
+TQID: 'https://experienceleague.adobe.com/ZK-uDqw0sThnMzX6bdR-d33gh-AlLTaytJr1fS7pdgs'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
+  - id: e6916c1b-e939-4e0b-99f5-768e83e1e99f
+    internal-label: Conversion tracking
+subfeature_v2:
+  - id: d068b149-b9d1-421c-9033-a51495366ddc
+    internal-label: Conversions
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+---
+# [!DNL Microsoft Advertising] conversion data in Search, Social, & Commerce
+
+Search, Social, & Commerce automatically syncs all conversions tracked by your [[!DNL Microsoft Advertising] universal event tracking (UET) tags](https://help.ads.microsoft.com/#apex/ads/en/53056) for website conversions, including view-through conversions, for reporting and optimization.
+
+All metrics are automatically available in your campaign management views and basic reports, and are also available to use in portfolio objectives for optimization of [!DNL Microsoft Advertising] campaigns.
+
+## Available conversion data
+
+Search, Social, & Commerce syncs data for conversions for which the "[!DNL Include in 'Conversions']" option is enabled, pulling the data for the last 35 days and then pulling changes to the data daily by 09:00-10:00 in the advertiser's time zone. Historical data may change from day to day as new conversions are tracked for each click.
+
+Two metrics for each [[!DNL Microsoft Advertising]-tracked conversion](https://help.ads.microsoft.com/apex/index/3/en-us/n5012) (which you set up in [!DNL Microsoft Advertising]) are automatically available in Search, Social, & Commerce, using the conversion names configured in [!DNL Microsoft Advertising]. The metrics for each conversion include:
+
+* `<conversion-name>` &mdash; The conversion value for the keyword (such as Purchase). 
+
+  >[!TIP]
+  >
+  >Use this type of conversion metric in the objective for portfolios that include [!DNL Microsoft Advertising] campaigns with the Max Conversion Value and Target ROAS bid strategies.
+
+* `CT_<conversion-name>` &mdash; The number (count) of conversions, beginning with the "CT_" prefix (such as CT_Purchase).
+
+  >[!TIP]
+  >
+  >Use this type of conversion metric in the objective for portfolios that include [!DNL Microsoft Advertising] campaigns with the Max Conversions and Target CPA bid strategies.
+
+Data is available based on the click time and based on the conversion/transaction time from the date at which the feature is enabled for the account.
+
+[!DNL Microsoft Advertising] records each conversion by [bid unit](/help/search-social-commerce/glossary.md#a-b), device, and click date (not conversion date). Attribution is based on the default attribution setting for each metric in [!DNL Microsoft Advertising]; Adobe Advertising attribution isn't factored in because click event-level data isn't available.
+
+>[!NOTE]
+>
+>* If you have multiple accounts with the same conversion names, you may see duplicate conversion names in Adobe Advertising. If this occurs, [change the display name](/help/search-social-commerce/goals/conversions/conversion-metrics-manage.md#change-the-display-name-for-a-conversion-metric) for one of the duplicate metrics in [!UICONTROL Goals] > [!UICONTROL Conversions]. Reporting isn't accurate when two different metrics have the same name.
+>* Data at the bid unit level matches data in the ad network at the same level. However, the ad network's own conversion data for higher levels may include additional conversions that aren't attributed to the child bid units. Data in Search, Social, & Commerce is always rolled up from the bid unit level, so, for example, a campaign-level report might not have the same totals as a campaign-level report in the ad network.
+>* Data variance is typically less after the morning sync than it is later in the day, when additional conversions haven't yet been synced. We recommend validating data in the morning.
+>* Data isn't available at the audience or geographical location level and therefore isn't used to auto-optimize RLSA and location bid adjustments.
+
+## How to compare conversion data in [!DNL Microsoft Advertising] with data in Search, Social, & Commerce
+
+Use the following report settings to validate comparable data.
+
+### Report settings to use in [!DNL Microsoft Advertising]
+
+Generate the report for the selected conversion actions by day, and include data for all ad statuses. 
+
+### Report settings to use in Search, Social, & Commerce
+
+In Search, Social, & Commerce, use the view or report option to view conversions based on the click date (not the transaction date).
+
+1. In the main menu, click **[!UICONTROL Reports] > [!UICONTROL Reports]**.
+
+1. Click **[!UICONTROL Create Report]**, click **[!UICONTROL Basic Reports]** in the left panel, and then select **[!UICONTROL Search Engine Account Report]**. Click **[!UICONTROL Proceed]**.
+
+1. In the [!UICONTROL Create Report] window, open the **[!UICONTROL Basic Settings]** tab and specify the following [report settings](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md):
+   
+   1. Set **[!UICONTROL Data Aggregation]** to **[!UICONTROL Daily]**.
+   
+   1. Set **[!UICONTROL Conversions Based on]** to **[!UICONTROL Click date]**.
+   
+   1. Specify the same date range that you used for the [!DNL Microsoft Advertising] report.
+   
+   1. Set **[!UICONTROL Search/Content]** to **[!UICONTROL Search Only]**.
+   
+   1. If **[!UICONTROL Filter By]** is shown, select **[!UICONTROL Search engine]**.
+   
+   1. In **[!UICONTROL Search Engine Hierarchy]**, expand [!DNL Microsoft Advertising] and select the check box next to the account that you want to compare. Click **[!UICONTROL Add selected items]** to move the account to **[!UICONTROL Selected Filters]**.
+
+1. Open the **[!UICONTROL Columns]** tab, and add the [!DNL Microsoft Advertising] metrics that you want to compare.
+
+1. Click **[!UICONTROL Create]**.
+
+>[!MORELIKETHIS]
+>
+>* [Set up ad network accounts and campaigns](/help/search-social-commerce/getting-started/campaign-implementation-overview.md)
+>* [About managing campaigns and portfolios](/help/search-social-commerce/manage/manage-about.md)
+>* [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/goals/conversions/conversion-metrics-manage.md#view-the-conversion-metrics-tracked-for-an-advertiser)

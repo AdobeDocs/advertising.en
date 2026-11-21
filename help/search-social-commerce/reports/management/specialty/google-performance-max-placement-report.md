@@ -2,8 +2,6 @@
 title: '[!UICONTROL Google Performance Max Placement Report]'
 description: Learn about the [!UICONTROL Google Performance Max Placement Report].
 feature: Search Reports, Search Specialty Reports
-exl-id: 6f36fe86-f797-4d0b-a966-e84e2077fad8
-TQID: 'https://experienceleague.adobe.com/57mENV64WH8KPyjiyjmpzlPxpIV8GJa62eWf5eVXPiQ'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -12,14 +10,6 @@ feature_v2:
     internal-label: Search Reports
   - id: 7de556b7-2c2a-599d-853b-8c282aafa6e3
     internal-label: Search Specialty Reports
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-    internal-label: Reporting
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
 ---
 # [!UICONTROL Google Performance Max Placement Report]
 
@@ -53,6 +43,6 @@ For descriptions of all default and custom columns, see "[Report columns for spe
 >[!MORELIKETHIS]
 >
 >* [About specialty reports](specialty-report-about.md)
->* [Generate a specialty report](specialty-report-generate.md)
+>* [Manage scheduled reports](/help/search-social-commerce/reports/management/report-manage.md)
 >* [Specialty report settings](specialty-report-settings.md)
 >* [Report columns for specialty reports](specialty-report-columns.md)

@@ -54,7 +54,7 @@ role_v2:
 
 1. In the filter settings, do any of the following:
 
-   * To add a filter, click ![Add Filter](/help/search-social-commerce/assets/add.png "Add Filter") **[!UICONTROL ADD FILTER]** , and then do the following:
+   * To add a filter, click ![Add Filter](/help/search-social-commerce/assets/add.png "Add Filter") **[!UICONTROL ADD FILTER]**, and then do the following:
 
      1. (Optional) To filter the column names by text string, enter the search string in the **[!UICONTROL ADD FILTER]** input field.
 
@@ -104,4 +104,4 @@ role_v2:
 >
 >* [Apply a data filter from a column heading menu](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
 >* [Apply data filters from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md)
->* [Remove a column filter](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/
+>* [Remove a column filter](column-filter-remove.md)

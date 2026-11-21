@@ -43,4 +43,4 @@ You can apply as many filters as you want to a column, one at a time.<!-- True o
 >
 >* [Apply data filters from the toolbar](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md)
 >* [Edit column filters](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md)
->* [Remove a column filter](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/
+>* [Remove a column filter](column-filter-remove.md)

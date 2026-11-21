@@ -1,9 +1,7 @@
 ---
 title: '[!UICONTROL Forecast Accuracy Report]'
 description: Learn about the Forecast Accuracy Report, including the data columns.
-exl-id: f0c42323-eb0d-461a-ab09-440fd1bfc960
 feature: Search Reports, Search Model Accuracy Reports
-TQID: 'https://experienceleague.adobe.com/FHLlU9t-6rhRH9XpgF6pxPviMDucJllzsLX-x7FEuTY'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -12,14 +10,6 @@ feature_v2:
     internal-label: Search Reports
   - id: 50281ed9-148e-57a9-a8f2-ee73330272e6
     internal-label: Search Model Accuracy Reports
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-    internal-label: Optimization
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
 ---
 # The [!UICONTROL Forecast Accuracy Report]
 
@@ -35,7 +25,7 @@ You can view data for the previous 18 months.
 >
 >* For cost forecasts, a deviation of 10% in the last seven days is considered acceptable, so actual spend that is between 90% and 110% of the forecasted spend is fine. For revenue forecasts, a 15% deviation in the last seven days is considered acceptable, so actual revenue that is between 85% and 115% of the forecasted spend is fine. Forecasts with higher deviations should be investigated.
 >
->* When keywords in the portfolio are associated with bid shift constraints, the portfolio over- or under-spends by the total amount caused by the bid shift. As a result, the predicted cost columns deviate from the target spend by the increased or decreased spend.
+>* When keywords in the portfolio are associated with [bid shift constraints](/help/search-social-commerce/goals/constraints-manage.md), the portfolio over- or under-spends by the total amount caused by the bid shift. As a result, the predicted cost columns deviate from the target spend by the increased or decreased spend.
 
 ## Available columns
 
@@ -62,7 +52,7 @@ The following are the columns that are available for each report. The default co
 
 >[!MORELIKETHIS]
 >
->* [About model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md)
+>* [About model accuracy reports](model-accuracy-report-about.md)
 >* [The [!UICONTROL Forecast Accuracy (Actuals) Report]](forecast-accuracy-actuals-report.md)
->* [Generate a model accuracy report](model-accuracy-report-generate.md)
->* [Model accuracy report settings](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
+>* [Manage scheduled reports](/help/search-social-commerce/reports/management/report-manage.md)
+>* [Model accuracy report settings](model-accuracy-report-settings.md)

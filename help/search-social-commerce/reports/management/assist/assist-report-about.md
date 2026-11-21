@@ -1,9 +1,7 @@
 ---
 title: About assist reports
 description: Learn about reports that provide insights into conversion paths.
-exl-id: 0962c8b1-0116-480a-8253-4e8488fec77c
 feature: Search Reports, Search Assist Reports
-TQID: 'https://experienceleague.adobe.com/dLbcQJUfyS6mDTWvujCrizdO57nXSEaMAek7hup3rlE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -12,12 +10,6 @@ feature_v2:
     internal-label: Search Reports
   - id: ab19d4f9-a5e8-54d2-a6d6-a154af73fd6d
     internal-label: Search Assist Reports
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
 ---
 # About assist reports
 
@@ -28,15 +20,15 @@ Assist reports provide insights into the conversion paths for all of an advertis
 >[!NOTE]
 >
 >* A conversion path may cross multiple portfolios.
->* Adobe Advertising always stores the following events for each web surfer before a conversion:  a) the first paid click; b) up to 10 clicks for each channel (search, social, or display), including the first click; and c) up to 10 display impressions.
+>* Adobe Advertising always stores the following events for each web surfer before a conversion: a) the first paid click; b) up to 10 clicks for each channel (search, social, or display), including the first click; and c) up to 10 display impressions.
 
 ## Types of assist reports
 
-* [The [!UICONTROL Campaign Assist Report]](/help/search-social-commerce/reports/management/assist/campaign-assist-report.md)
+* [The [!UICONTROL Campaign Assist Report]](campaign-assist-report.md)
 
-* [The [!UICONTROL Channel Assist Report]](/help/search-social-commerce/reports/management/assist/channel-assist-report.md)
+* [The [!UICONTROL Channel Assist Report]](channel-assist-report.md)
 
-* [The [!UICONTROL Keyword Assist Report]](/help/search-social-commerce/reports/management/assist/keyword-assist-report.md)
+* [The [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
 
 >[!MORELIKETHIS]
 >
@@ -44,5 +36,5 @@ Assist reports provide insights into the conversion paths for all of an advertis
 >* [The [!UICONTROL Channel Assist Report]](channel-assist-report.md)
 >* [The [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
 >* [Assist report settings](assist-report-settings.md)
->* [Generate an assist report](assist-report-generate.md)
->* [About reports](/help/search-social-commerce/reports/report-about.md)
+>* [Manage scheduled reports](/help/search-social-commerce/reports/management/report-manage.md)
+

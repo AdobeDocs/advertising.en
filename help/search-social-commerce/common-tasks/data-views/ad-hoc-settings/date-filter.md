@@ -90,7 +90,7 @@ When you save a specific date range for a default view or custom view, that rang
 >[!NOTE]
 >
 >* You can view data for the previous 13 months, but any existing custom views can include data for only up to the previous 180 days.
->* To view earlier data, go to the [[!UICONTROL Reports] view](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md) and run a basic report.
+>* To view earlier data, go to the [[!UICONTROL Reports] view](/help/search-social-commerce/legacy-ui/reports/management/basic-advanced/basic-advanced-report-about.md) and run a basic report.
 >* You can also save a date range for a [default view or custom view](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md).
 
 ## (Legacy UI) Change the global date filter in campaign views

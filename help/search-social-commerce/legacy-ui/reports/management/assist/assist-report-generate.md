@@ -1,0 +1,59 @@
+---
+title: Generate an assist report
+description: Learn how to generate assist reports.
+exl-id: ac3e3619-c300-4d2f-84bc-c4977c1712f3
+feature: Search Reports, Search Assist Reports
+TQID: 'https://experienceleague.adobe.com/qdz7yZo9qOCdVOGkLURa7rp4ROEFtdNfOKAiTl1xf9E'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: ab19d4f9-a5e8-54d2-a6d6-a154af73fd6d
+    internal-label: Search Assist Reports
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+---
+# Generate an assist report
+
+*Advertisers with Search, Social, & Commerce click tracking and with conversion tracking from Adobe Advertising, Adobe Analytics (with an [!DNL Analytics] integration), or provided in feeds using a token (`ef_id`) only*
+
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**.
+
+1. In the toolbar above the data table, click **[!UICONTROL Create Report]**, hold the cursor over **[!UICONTROL Assist Reports]**, and then click the report type.
+
+1. (Optional) In the [!UICONTROL Report Settings] window, change the default [report settings](assist-report-settings.md):
+
+   1. (Optional) Enter a custom name for the report and for the template (if you save the report as a template).
+
+   1. (Optional) To save the report settings as a template, select the check box next to **[!UICONTROL Save as template]**.
+
+   1. (Optional) On the **[!UICONTROL Basic Settings]** tab, select an existing report template to use or change the default basic settings for the report.
+
+   1. (Optional) Click the **[!UICONTROL Columns]** tab, and change the default columns in the report.
+   
+      >[!NOTE]
+      >
+      >No search traffic metrics (such as clicks or impressions) are available, and derived metrics that include search traffic metrics aren't available.
+
+   1. (Optional) Click the **[!UICONTROL Scheduling and Delivery]** tab, and change the default scheduling and delivery options.
+
+1. Click **[!UICONTROL Create]**.
+
+If you didn't specify a report schedule, then the report is run immediately; otherwise, it's run according to the specified schedule. The report name is added to the [[!UICONTROL Latest Reports] view](/help/search-social-commerce/legacy-ui/reports/report-about.md). If you saved the report as a template, then it's also added to the [[!UICONTROL Templates] view](/help/search-social-commerce/legacy-ui/reports/report-about.md). When the report is completed, the file is available to open or save; templates are available immediately.
+
+If you entered any email addresses for notification, each recipient receives a notification when the report job is completed or fails, based on the user's [configured notification settings](/help/search-social-commerce/legacy-ui/notifications/notification-edit.md) for reports.
+
+>[!MORELIKETHIS]
+>
+>* [Assist report settings](assist-report-settings.md)
+>* [The [!UICONTROL Campaign Assist Report]](campaign-assist-report.md)
+>* [The [!UICONTROL Channel Assist Report]](channel-assist-report.md)
+>* [The [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
+>* [About reports](/help/search-social-commerce/legacy-ui/reports/report-about.md)
+>* [Delete reports](/help/search-social-commerce/legacy-ui/reports/management/report-delete.md)

@@ -1,9 +1,7 @@
 ---
 title: '[!UICONTROL Campaign Assist Report]'
 description: Learn about the [!UICONTROL Campaign Assist Report].
-exl-id: c89b4c9f-16d5-4e1a-a73f-6cc99dd3f526
 feature: Search Reports, Search Assist Reports
-TQID: 'https://experienceleague.adobe.com/9CQ9aS6g0C1lCEYQbGEjctsZXEtIqjLOl5ohP45YFSU'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -12,12 +10,6 @@ feature_v2:
     internal-label: Search Reports
   - id: ab19d4f9-a5e8-54d2-a6d6-a154af73fd6d
     internal-label: Search Assist Reports
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-    internal-label: User
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-    internal-label: Insights
 ---
 # The [!UICONTROL Campaign Assist Report]
 
@@ -55,7 +47,7 @@ The following are the columns that are available for each report. The default co
 | [!UICONTROL Avg. Conv. Latency (Last Campaign To Conversion)] \[conversion metric\] | Automatic | (Not available in report settings but automatically included in report output) The average latency in days from the last event (in the last campaign) to a conversion. |
 | [!UICONTROL EF Campaign ID] | Custom | The numeric ID that Search, Social, & Commerce assigns to the campaign. |
 | [!UICONTROL EF Portfolio Group ID] | Custom | The numeric ID for the portfolio group to which the portfolio belongs. |
-| [!UICONTROL EF Search Engine ID] | Custom | The numeric ID that Search, Social, & Commerce assigns to the ad network: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo DSP], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL LY Ads] (formerly [!DNL Yahoo! Japan Ads]), <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (deprecated), or <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (deprecated). |
+| [!UICONTROL EF Search Engine ID] | Custom | The numeric ID that Search, Social, & Commerce assigns to the ad network: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo DSP] (formerly [!DNL Yahoo! Display Network]), <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL LY Ads] (formerly [!DNL Yahoo! Japan Ads]), <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (deprecated), or <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (deprecated). |
 | [!UICONTROL Portfolio ID] | Custom | The numeric portfolio ID. |
 | [!UICONTROL User SE Account ID] | Custom | The numeric ID that Search, Social, & Commerce assigns to the ad network. |
 
@@ -65,4 +57,4 @@ The following are the columns that are available for each report. The default co
 >* [The [!UICONTROL Channel Assist Report]](channel-assist-report.md)
 >* [The [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
 >* [Assist report settings](assist-report-settings.md)
->* [Generate an assist report](assist-report-generate.md)
+>* [Manage scheduled reports](/help/search-social-commerce/reports/management/report-manage.md)

@@ -1,0 +1,54 @@
+---
+title: '[!UICONTROL RSA Asset Report]'
+description: Learn about the [!UICONTROL RSA Asset Report].
+exl-id: 6582c837-9521-479f-bae0-782e4c404ba2
+feature: Search Reports, Search Specialty Reports
+TQID: 'https://experienceleague.adobe.com/LFVOA4WE-h-vSl6z-YQjFrGIgwHxTq82ie1kENXbb4Y'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+  - id: 7de556b7-2c2a-599d-853b-8c282aafa6e3
+    internal-label: Search Specialty Reports
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+---
+# [!UICONTROL RSA Asset Report]
+
+*[!DNL Google Ads] accounts with responsive search ads only*
+
+The [!UICONTROL RSA Asset Report] includes daily impression metrics for each asset ([!UICONTROL Creative Title] or [!UICONTROL Description]) for the responsive search ads (RSAs) in one or more portfolios or one or more accounts, campaigns, and ad groups. By default, data includes one row for each asset that received at least one impression in the specified data range, even if the asset was disabled (removed) during the reporting period. The rows are in ascending order by ad group by default. The report can optionally include label classifications.
+
+>[!NOTE]
+>
+>When you select the option to "[!UICONTROL Include rows with no performance data]," the results still don't include data for assets that have never received data.
+
+You can view data beginning on 8 August 2022.<!-- Later: You can view data for the previous 36 months. -->
+
+## Default columns
+
+For descriptions of all default and custom columns, see "[Report columns for specialty reports](specialty-report-columns.md)."
+
+* [!UICONTROL Start Date]
+* [!UICONTROL End Date]
+* [!UICONTROL Campaign Name]
+* [!UICONTROL Ad Group]
+* [!UICONTROL Asset]
+* [!UICONTROL Asset Type]
+* [!UICONTROL Impressions]
+* [!UICONTROL Asset Status]
+* [!UICONTROL Position Pinned]
+
+>[!MORELIKETHIS]
+>
+>* [About specialty reports](specialty-report-about.md)
+>* [Generate a specialty report](specialty-report-generate.md)
+>* [Specialty report settings](specialty-report-settings.md)

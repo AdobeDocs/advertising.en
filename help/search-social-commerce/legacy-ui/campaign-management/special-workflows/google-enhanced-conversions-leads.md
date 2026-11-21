@@ -1,0 +1,74 @@
+---
+title: Implement [!DNL Google Ads] enhanced conversions for leads
+description: Learn about the workflow for setting up [!DNL Google Ads] enhanced conversions for leads.
+feature: Search Campaign Management, Conversions
+exl-id: b708c9f2-2962-45d9-8780-4e96ef2ae8f7
+TQID: 'https://experienceleague.adobe.com/yFJJ662wcsm2KLzCIpxXo6F8nPsklVItHMTBk1h6wHg'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 76ac9ff6-5d89-5acb-bc0b-875761bb3320
+    internal-label: Search Campaign Management
+  - id: e6916c1b-e939-4e0b-99f5-768e83e1e99f
+    internal-label: Conversion tracking
+subfeature_v2:
+  - id: d068b149-b9d1-421c-9033-a51495366ddc
+    internal-label: Conversions
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
+---
+# Implement [!DNL Google Ads] enhanced conversions for leads
+
+*[!DNL Google Ads] accounts only*
+
+[[!DNL Google Ads] enhanced conversions for leads](https://support.google.com/google-ads/answer/9888656) allow you to map users to offline conversions using your first-party conversion data. Use enhanced conversions for leads in environments in which click IDs are unavailable, such as to track telephone or email sales that result from website leads.
+
+Within Search, Social, & Commerce, you can:
+
+* View your existing enhanced conversions for leads.<!-- Where is this? -->
+
+  Search, Social, & Commerce syncs your existing enhanced conversions for leads daily at 05:00 in the advertiser's time zone.
+
+* Create enhanced conversions for leads.
+
+* Upload first-party, offline conversion data to map to your enhanced conversions for leads.
+
+* Include your enhanced conversions for leads as metrics within reports and as weighted metrics within objectives for optimization.
+
+To use this feature, complete the following steps. The steps to create conversion tracking tags and to create conversion actions can optionally be reversed.
+
+1. Within [!DNL Google Ads], opt in to enhanced conversions for leads:
+
+   1. Open the account's conversion settings.
+
+   1. Select the option for enhanced conversions for leads and accept the terms of service.
+   
+   1. Select whether to use a [!DNL Google] tag or [!DNL Google Tag Manager] to create the conversion tag.
+
+1. Configure and implement a tag to track the conversion action.
+
+   For instructions, see the [!DNL Google Ads] help to create tags for enhanced conversions for leads [using a [!DNL Google] tag](https://support.google.com/google-ads/answer/11021502) or [using [!DNL Google Tag Manager]](https://support.google.com/google-ads/answer/11347292).
+
+1. Create a conversion action for the enhanced conversion for leads within either [Search, Social, & Commerce](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/conversion-action-google.md) or [Google Ads](https://support.google.com/google-ads/answer/12216226).
+
+   If you create the conversion action within Search, Social, & Commerce, specify the **Type of Conversion** as *Import Conversion* or *Import.*
+
+1. As often as needed, upload first-party data, including hashed email addresses or telephone numbers, to attribute to the conversion for a specified account. You can complete this step from within either [Search, Social, & Commerce](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/upload-data-offline-conversions.md) or using [!DNL Google Data Manager].   
+   
+   * Within Search, Social, & Commerce, you can download a template in [!DNL Microsoft Excel] format, enter your conversion data and save the file locally, and then upload the edited file. The template includes columns to indicate if user consent was given for uploading data to [!DNL Google] for advertising purposes and for ad personalization purposes.
+   
+     All uploaded data is synced in real-time to [!DNL Google Ads].
+
+   * For more information about uploading data using [!DNL Google Data Manager], see "[About Data manager](https://support.google.com/google-ads/answer/14639041)."
+
+>[!MORELIKETHIS]
+>
+>* [Create a conversion action for a [!DNL Google Ads] enhanced conversion for leads](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/conversion-action-google.md)
+>* [Upload offline conversion data for enhanced conversions](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/upload-data-offline-conversions.md)

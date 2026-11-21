@@ -85,4 +85,4 @@ For more information about creating objectives, see the Optimization Guide chapt
 >[!MORELIKETHIS]
 >
 >* [[!DNL Analytics] Data in Adobe Advertising](/help/integrations/analytics/analytics-data-in-advertising.md)
->* [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
+>* [View the conversion metrics tracked for an advertiser](/help/search-social-commerce/goals/conversions/conversion-metrics-manage.md#view-the-conversion-metrics-tracked-for-an-advertiser)

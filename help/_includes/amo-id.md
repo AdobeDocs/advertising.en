@@ -17,7 +17,7 @@ See the [formats for AMO ID dimension items](https://experienceleague.adobe.com/
 <!--
 Legacy content:
 
-Notes for GGL Ads: Verify Creative description. Also, are there more networks now (audience and shopping?) Re "To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).: Update terminology there too.
+Notes for GGL Ads: Verify Creative description. Also, are there more networks now (audience and shopping?) Re "To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/legacy-ui/campaign-management/accounts/update-amo-id-google.md).: Update terminology there too.
 
 Note: ADD IN Meta:
 
@@ -96,7 +96,7 @@ where:
 >
 >* For dynamic search ads, {keyword} is populated with the auto target.
 >* When you generate tracking for [!DNL Google] shopping ads, a product ID parameter, `{adwords_producttargetid}`, is inserted before the keyword parameter. The product ID parameter doesn't appear in the [!DNL Google Ads] account-level and campaign-level tracking parameters.
->* To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)."
+>* To use the latest AMO ID tracking code, see "[Update the AMO ID tracking code for a [!DNL Google Ads] account](/help/search-social-commerce/legacy-ui/campaign-management/accounts/update-amo-id-google.md)."
 
 ##### [!DNL Microsoft Advertising]
 

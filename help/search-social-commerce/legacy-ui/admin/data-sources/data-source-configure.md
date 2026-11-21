@@ -1,0 +1,100 @@
+---
+title: Configure a [!DNL Google Analytics] view as a data source
+description: Learn how to configure a data source from a [!DNL Google Analytics] view.
+role: User, Admin
+exl-id: 9e299e42-4971-49ea-a515-54a97eb13e0d
+feature: Search Admin, Search Data Sources
+TQID: 'https://experienceleague.adobe.com/Tvl3PF1mPSWuoWdVVreAoo6aXe3Kg9-9DXsOz3porOI'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 1003789d-7feb-5a2f-a02d-3182fd0ceb8a
+    internal-label: Search Admin
+  - id: 9bd4e165-792f-5324-bcaa-eee38dc8b8e9
+    internal-label: Search Data Sources
+  - id: aed5e38a-3e62-42fa-8d16-cd080729b2a0
+    internal-label: Search, Social, & Commerce
+subfeature_v2:
+  - id: e778848d-90fa-4520-b80f-e8dd7dfdcffc
+    internal-label: Data sources
+  - id: e55292b5-d4a1-4c98-9c20-2a2c5bea07fb
+    internal-label: Admin
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+---
+# Configure a [!DNL Google Analytics] view as a data source
+
+*Agency Administrators, Agency Account Managers, Adobe Account Managers, and Administrators Only*
+
+You can create one data source per [!DNL Google Analytics] account, property, and view combination.
+
+To integrate metrics for multiple properties or for multiple views for a single property, set up a separate data source for each.
+
+1. [Perform all prerequisites to integrating the [!DNL Google Analytics] account](data-source-prerequisites.md).
+
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Admin] > [!UICONTROL Data Source Setup]**.
+
+1. In the toolbar above the data table, click ![Create](/help/search-social-commerce/assets/add.png "Create").
+
+1. In the [!UICONTROL Deployment Prerequisites] dialog, select the check box to confirm that the required custom dimension "ef_id" is implemented in the [!DNL Google Analytics] account, and then click **[!UICONTROL Continue]**.
+
+   Some prerequisites may have been performed by other roles in your organization. If you have questions about the prerequisites, talk to your Adobe Account Team.
+
+1. Enter the [data source settings](data-source-settings.md):
+
+   1. In the **[!UICONTROL Connect to [!DNL Google Analytics]]** section, do the following.
+      
+      1. Enter the numeric ID for the [!DNL Google Analytics] account.
+      
+      1. Enter the email address to use to access data for this data source. The email address must be registered to a [!DNL Google] account and have "Read & Analyze" permissions for the [!DNL Google Analytics] account. See the [instructions for assigning user permissions in [!DNL Google Analytics]](https://support.google.com/analytics/answer/9305587).
+
+         >[!TIP]
+         >
+         >To make sure that only specific [!DNL Google Analytics] properties and views are available within Adobe Advertising, sign in using an email address that has access to only those properties and views.
+
+         >[!NOTE]
+         >
+         >If you later change the password for this email account, then all open connections to the email account are closed. To resume syncing data, return to this page and [reauthenticate](data-source-reauthenticate.md).
+
+      1. Select the check box to authorize Adobe Advertising to access metrics for the account.
+       
+      1. Click **[!UICONTROL Authenticate]**.
+
+   1. In the [!UICONTROL Account Details] section, specify the property and view for the metrics to import. In addition, specify the custom dimension that's populated with the value of the "ef_id" query string parameter.
+   
+   1. In the [!UICONTROL Import Metrics] section, specify the metrics to include in the feed(s).
+
+      You can't remove [!UICONTROL Pageviews], [!UICONTROL Sessions], [!UICONTROL Bounces], or [!UICONTROL Session Duration], which are included automatically. You can add up to 16 additional valid metrics or metrics without data.
+
+      >[!WARNING]
+      >
+      >[!DNL Google Analytics] permits up to 10 metrics in a single data feed. Search, Social, & Commerce can support up to two feeds with a total of 20 metrics, but using a second feed doubles your API calls to [!DNL Google Analytics]. If you have many metrics, select only the metrics that you want to use in objectives for optimization. See more about [quotas and call limits for API requests to [!DNL Google Analytics]](https://developers.google.com/analytics/devguides/reporting/core/v4/limits-quotas).
+    
+    1. In the [!UICONTROL Metric Tag] section, enter the name of the tag to append to each metric for the data source.
+
+1. In the upper right, click **[!UICONTROL Post]**.
+
+   The data source is named "AccountName > PropertyName > ViewName" and is automatically activated. To pause the data source, see "[Pause a Feed from a Data Source](data-source-pause.md)."
+
+   The metrics are available the next day after completion of the daily data sync, which begins at 05:00 in the advertiser's time zone. Once the metrics are available, they're visible in [[!UICONTROL Admin] > [!UICONTROL Conversions]](/help/search-social-commerce/legacy-ui/admin/conversion-metrics/conversion-metric-about.md). Each new conversion metric is named "`ga:backEndMetricName_propertyID_viewID`," where "backEndMetricName" is the metric name used by the API. The display name for each new conversion metric is "`friendlyMetricName_ga:MetricTag`,"  where "friendlyMetricName" is the metric name that appears in [!DNL Google Analytics] and "MetricTag" is the [!UICONTROL Metric Tag] defined in the data source settings.
+
+   You can add the metrics directly to campaign management and portfolio management views, reports, and optimization objectives.
+
+>[!MORELIKETHIS]
+>
+>* [About syncing [!DNL Google Analytics] conversion metrics](data-source-about.md)
+>* [Prerequisites for configuring a [!DNL Google Analytics] data source](data-source-prerequisites.md)
+>* [Edit a [!DNL Google Analytics] data source](data-source-edit.md)
+>* [Pause syncing of a data source](data-source-pause.md)
+>* [Reauthenticate a [!DNL Google Analytics] data source](data-source-reauthenticate.md)
+>* [[!DNL Google Analytics] data source settings](data-source-settings.md)
+>* [Appendix - Available [!DNL Google Analytics] metrics](data-source-ga-metrics.md)

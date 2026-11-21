@@ -43,7 +43,7 @@ where:
 >[!MORELIKETHIS]
 >
 >* [About Adobe Advertising conversion-tracking tags](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
->* [Generate an Adobe Advertising conversion tag](/help/search-social-commerce/tools/conversion-tag-generate.md)
+>* [Generate an Adobe Advertising conversion tag](/help/search-social-commerce/legacy-ui/tools/conversion-tag-generate.md)
 >* [FAQs about conversion and page view tracking tags](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
 >* [Format of JavaScript conversion tracking tags version 2](format-conversion-tag-jsv2.md)
 >* [Format of JavaScript conversion tracking tags version 3](format-conversion-tag-jsv3.md)

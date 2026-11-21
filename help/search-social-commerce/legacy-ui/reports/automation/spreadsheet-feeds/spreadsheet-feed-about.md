@@ -1,0 +1,39 @@
+---
+title: About spreadsheet report feeds
+description: Learn about using getting daily performance data in a custom-formatted spreadsheet format.
+exl-id: 559dde7a-17c3-4d94-b3b0-c8248c745258
+feature: Search Reports
+TQID: 'https://experienceleague.adobe.com/fQkx0PK8gR-YjbiZp8KPVXMV6R2Hy4s7Upz7bFErtfE'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+---
+# About spreadsheet report feeds
+
+*For basic reports and model accuracy reports only*
+
+Spreadsheet feeds provide daily performance data for all basic reports and model accuracy reports in a custom spreadsheet format in [!DNL Microsoft Excel] XLSX. You can set up spreadsheet feeds using specially formatted [!DNL Excel] spreadsheet templates that you create from regular report templates. Each day, the spreadsheet is automatically refreshed at a specified time with new, raw data that is aggregated daily. The raw data populates any columns and graphs that you've included in the spreadsheet template. Once a spreadsheet feed file is available, or if the file generation fails, each email recipient in the report template receives notification, based on the user's configured [notification settings for reports](/help/search-social-commerce/legacy-ui/notifications/notification-about.md).
+
+You can configure the feed to refresh up to the last 90 days of data, and all previous existing data remains, continuing to accumulate.
+
+The [!UICONTROL Spreadsheets Feeds] view lists all spreadsheet feeds that you have created. From this view, you can create spreadsheet feeds, manually refresh a feed, or delete a feed.
+
+>[!MORELIKETHIS]
+>
+>* [Create a spreadsheet report feed](spreadsheet-feed-create.md)
+>* [Create an [!DNL Excel] template for a spreadsheet report feed](spreadsheet-feed-create-excel-template.md)
+>* [Edit spreadsheet report feed settings](spreadsheet-feed-edit.md)
+>* [Spreadsheet report feed settings](spreadsheet-feed-settings.md)
+>* [View or save a spreadsheet report feed file](spreadsheet-feed-view-or-save.md)
+>* [Manually refresh spreadsheet report feeds](spreadsheet-feed-refresh.md)
+>* [Delete spreadsheet report feeds](spreadsheet-feed-delete.md)
+>* [About notifications](/help/search-social-commerce/legacy-ui/notifications/notification-about.md)

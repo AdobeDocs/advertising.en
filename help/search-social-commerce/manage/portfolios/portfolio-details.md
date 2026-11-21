@@ -1,0 +1,229 @@
+---
+title: (New UI) View portfolio performance details
+description: Learn how to view portfolio performance, keyword bid unit details, forecasts, and bid history, and export bid unit history in Adobe Advertising Search, Social, & Commerce.
+feature: Search Portfolios, Search Optimization
+exl-id: b5178856-1b0e-45cf-a351-6f31c0b0ec76
+TQID: 'https://experienceleague.adobe.com/5hNxKu6YjJTWI4KGEc6aaYnpgXK6k3OsN0-YfetzENw'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 893a7eac-45bd-56c2-a120-18db6d297dcc
+    internal-label: Search Portfolios
+  - id: ae57d55f-b168-5358-b114-c3974b1b3d77
+    internal-label: Search Optimization
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: c2296997-5d79-4905-b32e-99b5aa892429
+    internal-label: Search optimization
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+---
+# (New UI) View portfolio performance details
+
+*Beta feature*
+
+<!-- Verify all, including why (if) the first report is for active and optimized portfolios(?), and why the other reports are for active portfolios, not optimized ones -->
+
+The portfolio detail view includes the following information about a portfolio:
+
+* The actual and predicted values for up to three performance metrics. The reports include the total metric values for the portfolio and the metric breakdown by date.<!-- Not for active portfolios only?  -->
+
+* Model accuracy data for active portfolios, which shows how much the models deviated from predictions. The report shows the overall daily or rolling seven-day cost accuracy, click accuracy, and objective value accuracy.
+
+  You can view the data as either a trend chart (the default) or as a table.
+
+* The target spend versus the actual spend for active portfolios. You can optionally also include the total campaign budgets for the portfolio.
+
+* The accuracy of cost, click, or [objective value](/help/search-social-commerce/glossary.md#o-p) predictions for active portfolios by ad network.<!-- Verify -->
+
+* The portfolio settings.
+
+  You can optionally open the portfolio settings to edit them.
+
+* Lists of the ad networks, accounts, campaigns, ad groups, and keywords in the portfolio, with performance data.
+
+  For individual keywords, you can view bid unit details, including forecasts, historical information, and hierarchical information. The [!UICONTROL Bid Unit Details] view includes the following forecasts, historical information, and hierarchical information for the selected bid unit:
+     
+  * [!UICONTROL Forecast] tab: The currently projected clicks, cost, cost per click, position, and revenue for the bid unit at different bid prices. Data is shown for all devices and for each device type ([!UICONTROL Mobile], [!UICONTROL Computer], and [!UICONTROL Tablet]).<!-- Probably no longer applicable: For portfolios using v6 of the optimization capability, both the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs show the combined totals for computers and tablets. For portfolios using v7, however, all data for the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs is separate. -->
+
+    **Note:** No forecast data is available for a device type when insufficient device-specific data is available to build models and set adjustments for that device type. **Note:** To see the cost accuracy or revenue accuracy for each bid unit within a portfolio that received a click during a specific date range, see the view the portfolio's cost accuracy details or revenue accuracy details, respectively.
+
+  * [!UICONTROL History] tab: All bids in the last 36 days, including the following data for each of the bids: the date and time, impressions, clicks, total cost, average CPC, average position, and weighted revenue shown by click date. Data is shown for all devices and for each device type (Mobile, Computer, and Tablet).<!-- Probably no longer applicable: For portfolios using v6 of the optimization capability, both the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs show the combined totals for computers and tablets. For portfolios using v7, however, all data for the [!UICONTROL Computers] and [!UICONTROL Tablets] tabs is separate. **Note:** Whenever the optimization method changes from v6 to v7 and vice-versa, the history data is reset the same day. -->
+
+  * [!UICONTROL Details] tab: The keyword, match type (when applicable), and the parent ad group, campaign, ad network account, and portfolio to which the bid unit belongs.
+
+## Open performance details for a portfolio
+
+1. In the main menu, click **[!UICONTROL Manage] > [!UICONTROL Portfolios]**.
+
+1. Hold the cursor over the portfolio name and click ![Portfolio Overview](/help/search-social-commerce/assets/portfolio-overview.png "Portfolio Overview").
+
+1. (Optional) To change the date range for the portfolio details, click the date range in the upper right, specify the date range, and then click **[!UICONTROL Apply]**.
+
+1. (Optional) From the **[!UICONTROL Data Aggregation]** menu, change the time unit of data included in each row: *[!UICONTROL Daily],* *[!UICONTROL Weekly],* or *[!UICONTROL Monthly].*
+
+   The available options depend on the selected date range. If the current aggregation isn't available for a new date range, another available aggregation is selected automatically.
+
+1. (Optional) From the **[!UICONTROL Conversion Based On]** menu in the page header, select **[!UICONTROL Click Date]** or **[!UICONTROL Transaction Date]**.
+
+   This setting applies to conversion data in the portfolio reports and component lists.
+
+To view details for another portfolio, use the portfolio selector next to the portfolio name.
+
+## Customize the [!UICONTROL Portfolio Overview] tab
+
+* (Optional) To customize the [!UICONTROL Portfolio Performance] reports, do any of the following:
+
+  * To change the performance metrics used for both the total metrics and the detailed metrics, click **[!UICONTROL Metrics]** and select up to three metrics.
+  
+    The default metrics are *[!UICONTROL Cost]*, *[!UICONTROL Clicks]*, and the *[!UICONTROL Objective Value]*.<!-- What else is available: the advertiser's revenue metrics? Anything else from the ad networks? -->
+
+  * For the detailed metrics:
+  
+    * Move the switch next to **[!UICONTROL Display predictions]** to show or hide the predicted metric values.
+    
+    * Switch between the chart view (![Chart View](/help/search-social-commerce/assets/chart-view.png "Chart View")) and table view (![Table View](/help/search-social-commerce/assets/table-view.png "Table View")).
+
+    * (In chart view) To see data for any point on the chart, hold the cursor over that point.
+
+    * (In chart view) To zoom, select an area on the graph.
+
+    * (When portfolio setting-change markers are displayed) To view the portfolio's change history for a marked date, click the marker on the chart. For more information about the history, see "[View a portfolio's change history](portfolio-view-change-history.md#portfolio-change-history)."
+
+* (Optional) To customize the [!UICONTROL Model accuracy] trend chart, do any of the following:
+
+  * Switch between the chart view (![Chart View](/help/search-social-commerce/assets/chart-view.png "Chart View")) and table view (![Table View](/help/search-social-commerce/assets/table-view.png "Table View")).
+
+  * Switch between viewing data about the *[!UICONTROL Daily Accuracy]* and the *[!UICONTROL 7 Day Rolling Accuracy]*.
+  
+    [!UICONTROL 7 Day Rolling Accuracy] is the average accuracy of the forecast for the previous seven days, expressed as a percentage. For example, the value for 8 May 2025 is the average accuracy for the period of 1 May - 7 May 2025.
+
+    [!UICONTROL 7 Day Rolling Accuracy] is available only when [!UICONTROL Data Aggregation] is set to [!UICONTROL Daily].
+
+  * (In chart view) To see data for any point on the chart, hold the cursor over that point.
+
+* (Optional) To customize the [!UICONTROL Target vs actual spend] trend chart, do any of the following:
+
+    * Move the switch next to **[!UICONTROL Display budget]** to show or hide the total campaign budget for each date.
+    
+    * To see data for any point on the chart, hold the cursor over that point.
+
+* (Optional) To customize the [!UICONTROL Network Accuracy] trend chart, do any of the following:
+
+  * Change the reported metric to *[!UICONTROL Cost]*, *[!UICONTROL Clicks]*, or *[!UICONTROL Objective Value]*.
+
+  * When data is available for more than one network, select the network from the menu next to the metric menu.
+
+  * To see data for any point on the chart, hold the cursor over that point.
+
+  * To zoom, select an area on the graph.
+
+## Customize the lists of portfolio components
+
+The [!UICONTROL Networks], [!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], and [!UICONTROL Keywords] tabs include the following controls:
+
+* To search by name, enter text in the search field above the table and submit the search.
+
+* To [filter the data](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md), click ![Filter](/help/search-social-commerce/assets/filter-new.png "Filter"). You can edit or remove applied filters using the filter controls above the table.
+
+* To view the components of a network, account, campaign, or ad group in the next tab, click its name. The selected parent is shown in the breadcrumb above the table, and applicable filters carry forward as you drill down. Parent selections may continue to restrict the list when you switch tabs.
+
+  To remove a drill-down selection (such as a network or account name), click **[!UICONTROL X]** next to the component name in the breadcrumb above the table. Higher-level parent selections can remain in effect. To return to all components in the portfolio, remove the remaining parent selections and any other filters.
+
+* To refresh the data, click ![Refresh](/help/search-social-commerce/assets/refresh-new.png "Refresh").
+
+* ([!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], and [!UICONTROL Keywords] tabs only) To change the displayed columns or sort order, click ![Custom Columns](/help/search-social-commerce/assets/custom-columns-new.png "Custom Columns") and [edit the column set and sorting options](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md).
+
+
+## List the ad networks in the portfolio
+
+* Click the **[!UICONTROL Networks]** tab.
+
+## List the accounts in the portfolio
+
+* To view all accounts in the portfolio, click the **[!UICONTROL Accounts]** tab.
+
+* To view accounts for a specific network in the portfolio, click the **[!UICONTROL Networks]** tab, and then click the network name.
+
+## List the campaigns in the portfolio
+
+Details about each campaign include the bid strategy; the actual and predicted cost, clicks, and objective value; and the cost, click, and objective value accuracy.
+
+* To view all campaigns in the portfolio, click the **[!UICONTROL Campaigns]** tab.
+
+* To view campaigns for a specific account in the portfolio, click the **[!UICONTROL Accounts]** tab, and then click the account name.
+
+## List the ad groups in the portfolio
+
+Details about each ad group include the network, default bid, cost, clicks, CPC, impressions, objective value, and the conversion metrics used in the portfolio's objective.
+
+* To view all ad groups in the portfolio, click the **[!UICONTROL Ad Groups]** tab.
+
+* To view all ad groups in a campaign within the portfolio, click the **[!UICONTROL Campaigns]** tab, and then click the campaign name.
+
+## List and view details about keywords in the portfolio {#bid-unit-details}
+
+Details for each keyword include the bid unit ID; match type; the actual and predicted cost, clicks, and objective value; and the cost, click, and objective value difference. You can view bid unit details about an individual keyword.
+
+1. List the keywords:
+
+   * To view all keywords in the portfolio, click the **[!UICONTROL Keywords]** tab.
+   
+   * To view all keywords in an ad group within the portfolio, click the **[!UICONTROL Ad Groups]** tab, and then click the ad group name.
+
+1. (Optional) To view details about a specific bid unit, click the value in the **[!UICONTROL Bid Unit ID]** column. Click any tab in the [!UICONTROL Bid Unit Details] for more information.
+
+### View and download an individual bid unit's history {#bid-unit-history}
+
+1. [Open the bid unit details](#bid-unit-details).
+
+1. Click the **[!UICONTROL History]** tab.
+
+1. (Optional) From the device menu above the table, select a device type for which to view history. By default, data for all devices is shown.
+
+1. (Optional) When history data is available, click **[!UICONTROL Export as csv]** to download the displayed history.
+
+  The file is downloaded according to your browser's normal procedure.
+
+To view bid history for the entire portfolio and change its date range, see "[View a portfolio's bid change history](portfolio-view-change-history.md#portfolio-bid-change-history)."
+
+## View and edit the portfolio settings
+
+* To view or hide the portfolio settings, click **[!UICONTROL Portfolio Settings]**.
+
+   * To edit visible portfolio settings, click ![Edit](/help/search-social-commerce/assets/edit.png "Edit") next to the setting section and [edit the portfolio settings](portfolio-edit.md).
+
+For more information about the portfolio settings, see the Optimization Guide, which is available from within Search, Social, & Commerce.
+
+## Download portfolio performance reports and lists of the portfolio components
+
+* To download performance reports and component lists:
+
+  1. In the toolbar, click **[!UICONTROL Download report]**.
+
+  1. Select the check box next to each performance report and portfolio component type to include.
+
+     The available portfolio components are *[!UICONTROL Campaigns table]*, *[!UICONTROL Ad groups table]*, and *[!UICONTROL Keywords table]*. The [!UICONTROL Networks] and [!UICONTROL Accounts] tables aren't included in this download.
+
+     For performance reports with both options, select **[!UICONTROL As chart]**, **[!UICONTROL As table]**, or both. The [!UICONTROL Network accuracy chart] report is available only as a chart.
+
+  1. Click **[!UICONTROL Download report]**.
+
+* To download a [!UICONTROL Model accuracy] report with specific types of data:
+
+  1. In the toolbar for [!UICONTROL Model accuracy], click **[!UICONTROL Download report]**.
+
+  1. Select **[!UICONTROL Cost Accuracy]**, **[!UICONTROL Objective Value Accuracy]**, or both.
+
+  1. For each selected type of data, select **[!UICONTROL By Bid Unit]**, **[!UICONTROL By Click Volume]**, or both.
+
+  1. Click **[!UICONTROL Download report]**.
+
+>[!MORELIKETHIS]
+>
+>* [(New UI) About portfolios](portfolio-about.md)
+>* [(New UI) Edit a portfolio](portfolio-edit.md)
+>* [(New UI) Download data in the [!UICONTROL Portfolios] view](portfolio-view-report.md)

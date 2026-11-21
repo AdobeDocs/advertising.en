@@ -1,0 +1,37 @@
+---
+title: Stop a posting job for inventory feed data
+description: Learn how to stop a posting job for inventory feed data.
+exl-id: 06a10ec1-bfff-4384-b1c8-ba6b504c6888
+feature: Search Inventory Feeds
+TQID: 'https://experienceleague.adobe.com/cjOAlWqQemvbK-H0RYvwnNF980UVmZjy-hp-SbrlWxo'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: f286be7c-8102-5b20-b4ca-1aadd651703f
+    internal-label: Search Inventory Feeds
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+---
+# Stop a posting job for inventory feed data
+
+*[!DNL Google Ads], [!DNL LY Ads] (delete actions only), [!DNL Microsoft Advertising], and [!DNL Yandex] accounts only*
+
+You can stop posting campaign data generated from a feed in the following ways.
+
+* While data is still being propagated, stop the propagation job so no data is available to post:
+
+  1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]**, which opens to the [!UICONTROL Templates] tab.
+
+  1. In the "[!UICONTROL Last Prop. Status]" column next to the template name, click **[!UICONTROL Cancel]**.
+
+* If the data is already propagated, then [cancel the posting job from the [!UICONTROL Bulksheets] view](/help/search-social-commerce/legacy-ui/campaign-management/bulksheets/bulksheet-stop-job.md).
+
+>[!MORELIKETHIS]
+>
+>* [About inventory feeds](inventory-feeds-about.md)
+>* [View data generated from feeds](propagated-data-view.md)
+>* [Edit data generated from feeds](propagated-data-edit.md)
+>* [Post campaign data generated from feeds to ad networks](propagated-data-post.md)
+>* [Statuses of data generated from feeds](propagated-data-status.md)

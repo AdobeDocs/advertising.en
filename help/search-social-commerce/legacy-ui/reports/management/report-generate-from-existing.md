@@ -1,0 +1,37 @@
+---
+title: Generate a report from an existing report
+description: Learn how to create a report using an previously-generated report.
+exl-id: f094c767-629a-4e3c-91f6-12761927fe89
+feature: Search Reports
+TQID: 'https://experienceleague.adobe.com/yg8YEBPrmnzrX5PAdbaUOiKpTar0pUvaEhzmWSU4jzA'
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: Advertising
+feature_v2:
+  - id: 9166e3e1-13c1-5edf-bc2a-c6e22231df68
+    internal-label: Search Reports
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+---
+# Generate a report from an existing report
+
+1. In the main menu, click **[!UICONTROL Search, Social, & Commerce] > [!UICONTROL Insights & Reports] > [!UICONTROL Reports]**, which opens to the **[!UICONTROL Latest Reports]** tab.
+
+1. Click ![Create Similar button](/help/search-social-commerce/assets/create-similar.png "Create Similar button") next to the existing report.
+
+1. Edit the report settings if necessary.
+
+1. Click **[!UICONTROL Create]**.
+
+>[!MORELIKETHIS]
+>
+>* [About reports](/help/search-social-commerce/legacy-ui/reports/report-about.md)
+>* [Generate a report from a template](/help/search-social-commerce/legacy-ui/reports/management/report-generate-from-template.md)
+>* [Basic and advanced report settings](/help/search-social-commerce/legacy-ui/reports/management/basic-advanced/basic-advanced-report-settings.md)
+>* [Model accuracy report settings](/help/search-social-commerce/legacy-ui/reports/management/model-accuracy/model-accuracy-report-settings.md)
+>* [Specialty report settings](/help/search-social-commerce/legacy-ui/reports/management/specialty/specialty-report-settings.md)
+>* [Delete reports](/help/search-social-commerce/legacy-ui/reports/management/report-delete.md)

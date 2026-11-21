@@ -61,7 +61,7 @@ topic_v2:
 
 **conversion tracking:** Conversion tracking uses cookies to track a) clicks on an advertiser's ads on the ad networks and b) the resulting transactions on the advertiser's website.
 
-**cost accuracy:** (Advertisers with portfolios) The actual spend for a portfolio divided by the forecasted spend. [Model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the cost models that are used for optimization, and the [[!UICONTROL Model Accuracy]insight](/help/search-social-commerce/advertising-insights/insight-about.md) includes more details, in addition to recommendations to improve model accuracy.
+**cost accuracy:** (Advertisers with portfolios) The actual spend for a portfolio divided by the forecasted spend. [Model accuracy reports](/help/search-social-commerce/legacy-ui/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the cost models that are used for optimization, and the [[!UICONTROL Model Accuracy]insight](/help/search-social-commerce/legacy-ui/advertising-insights/insight-about.md) includes more details, in addition to recommendations to improve model accuracy.
 
 **cost model:** (Advertisers with portfolios) Search, Social, & Commerce technology that predicts cost volume, the bid required to win each position or placement, and the CPC (search) or CPM (display) for each bid unit using historical data and mathematical forecasting techniques.
 
@@ -174,7 +174,7 @@ This has the same value as the legacy column "Weighted Revenue."
 
 **return on investment:** (ROI) Revenue minus costs.
 
-**revenue accuracy:** (Advertisers with portfolios) The actual revenue for a portfolio divided by the forecasted revenue. [Model accuracy reports](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the revenue models that are used for optimization, and the [[!UICONTROL Model Accuracy]insight](/help/search-social-commerce/advertising-insights/insight-about.md) includes more details, in addition to recommendations to improve model accuracy.
+**revenue accuracy:** (Advertisers with portfolios) The actual revenue for a portfolio divided by the forecasted revenue. [Model accuracy reports](/help/search-social-commerce/legacy-ui/reports/management/model-accuracy/model-accuracy-report-about.md) indicate the accuracy of the revenue models that are used for optimization, and the [[!UICONTROL Model Accuracy]insight](/help/search-social-commerce/legacy-ui/advertising-insights/insight-about.md) includes more details, in addition to recommendations to improve model accuracy.
 
 **revenue model:** (Advertisers with portfolios) Search, Social, & Commerce technology that predicts the conversion rate and estimated return for each bid unit, based on the click data (search and social) or impression data (display) and the advertiser's conversion data.
 

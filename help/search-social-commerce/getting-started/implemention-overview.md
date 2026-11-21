@@ -49,25 +49,27 @@ The following is the general workflow for implementing and using Search, Social,
   
    1. (If necessary) Create user accounts for the advertiser to view and manage its campaign data and to generate reports.
 
-   For details about setting up accounts, see the help chapter on "Admin."
+   Work with your administrator to configure access using Adobe Admin Console and the appropriate product profiles. See "[User administration for Search, Social, & Commerce](/help/search-social-commerce/user-administration.md)."
 
 1. Synchronize with, or create, campaigns for each of your ad network accounts:
 
-   * Synchronize with the account by a) creating a corresponding account record in Search, Social, & Commerce that contains the account access credentials and tracking options and b) setting the account status to enabled.
+   * For API-connected accounts, [create the account details](/help/search-social-commerce/manage/accounts/api-accounts/api-account-manage.md#create-account) in [!UICONTROL Manage] > [!UICONTROL Accounts], complete the network-specific authentication, configure tracking options, and enable the account.
+
+   * For accounts without API support, follow the [data upload](/help/search-social-commerce/manage/accounts/data-upload-accounts/data-upload-account-manage.md) or [tracking-only account](/help/search-social-commerce/manage/accounts/template-account-manage.md) workflow, as applicable. These accounts don't synchronize with the ad network or support portfolio optimization.
   
    * If the accounts don't already contain campaign data, then add campaigns, ad groups, keywords, ads, and placements from within Search, Social, & Commerce or from within the ad network.
    
-     For details about setting up search campaigns, see the help chapter on "Campaign Management."
+     For the detailed setup checklist, see "[Set up ad network accounts and campaigns](campaign-implementation-overview.md)." For supported campaign types, use [!UICONTROL Manage] > [!UICONTROL Campaigns] to [create and manage campaigns](/help/search-social-commerce/manage/campaigns/campaign-manage.md).
 
 1. Set up tracking for all ads for which you want Adobe Advertising to track conversions:
 
-   1. (If necessary) Set up click tracking for ads, and optionally for keywords, [!DNL Google Ads] placements, and [!DNL Google Ads] extensions by generating and uploading click-tracking URLs.
+   1. (If necessary) [Set up click tracking](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md) for ads, and optionally for keywords, [!DNL Google Ads] placements, and [!DNL Google Ads] extensions by generating and uploading click-tracking URLs.
    
       Click tracking URLs for advertisers with the Adobe Advertising pixel-based conversion tracking service include a redirect to [!DNL Adobe] servers.
   
-   1. Set up conversion tracking. Depending on the implementation, this may involve adding conversion tracking tags to the appropriate webpages and/or setting up a daily feed drop for conversion data that you've collected using your own method.
+   1. [Set up conversion tracking](/help/search-social-commerce/tracking/conversion-tracking-about.md). Depending on the implementation, this may involve adding conversion tracking tags to the appropriate webpages and/or setting up a daily feed drop for conversion data that you've collected using your own method. You can [generate Adobe Advertising conversion-tracking tags](/help/search-social-commerce/goals/conversions/conversion-tag-generate.md) from [!UICONTROL Goals] > [!UICONTROL Conversions].
    
-      For details about setting up tracking, see the help chapter on "Tracking."
+      For more information, see "[About tracking for Search, Social, & Commerce](/help/search-social-commerce/tracking/tracking-about.md)."
 
 1. Set up integrations with additional products:
 
@@ -77,27 +79,29 @@ The following is the general workflow for implementing and using Search, Social,
     
     1. (Advertisers with [!DNL Google Analytics]) Sync conversion metrics for a [!DNL Google Analytics] account, property, and view combination for optimization and reporting.
     
-       See the help subchapter "Admin" > "[Configuring Data Sources](/help/search-social-commerce/admin/data-sources/data-source-about.md)."
+       This configuration uses the legacy user interface. See "[About syncing [!DNL Google Analytics] conversion metrics](/help/search-social-commerce/legacy-ui/admin/data-sources/data-source-about.md)" and, when needed, [switch to the legacy interface](ui-switch.md).
 
-1. Set up and launch portfolios:
+1. (Optional) Set up and launch portfolios:
 
-   1. Set up portfolios configured to meet your objective and business goals, with the appropriate campaigns. The implementation team then gathers and validates click and revenue data for at least 14 days and validates the portfolio settings.
+   1. In [!UICONTROL Goals] > [!UICONTROL Conversions], [review the conversion metrics and make the required metrics visible](/help/search-social-commerce/goals/conversions/conversion-metrics-manage.md#conversion-metrics-change-available). In [!UICONTROL Goals] > [!UICONTROL Objectives], [create or select an objective](/help/search-social-commerce/goals/objectives/objective-about.md) for optimization.
+
+   1. In [!UICONTROL Manage] > [!UICONTROL Portfolios], [create portfolios](/help/search-social-commerce/manage/portfolios/portfolio-create.md) configured to meet your objective and business goals, with the appropriate [eligible campaigns](/help/search-social-commerce/manage/campaigns/campaign-manage.md#campaign-portfolio). [Activate the portfolios](/help/search-social-commerce/manage/portfolios/portfolio-change-status.md) to gather and model data. The implementation team then gathers and validates click and revenue data for at least 14 days and validates the portfolio settings.
    
       >[!NOTE]
       >
       >Search, Social, & Commerce still tracks and reports data for campaigns that aren't assigned to portfolios, but it doesn't provide optimization for them.
 
-   1. After enough data is available to create a baseline, then the team can launch the portfolio &mdash; allowing Search, Social, & Commerce to optimize bids and/or budgets for the portfolio, based on the optimization type.
+   1. After enough data is available to create a baseline, the team can [change the portfolio status to optimized](/help/search-social-commerce/manage/portfolios/portfolio-change-status.md) &mdash; allowing Search, Social, & Commerce to optimize bids, budgets, and/or bid strategy targets for the portfolio, based on the portfolio type and campaign bid strategies.
    
-   For details about setting up and launching portfolios, see the help on "Optimization," which is available from the [!UICONTROL Help] menu (![Help menu](/help/search-social-commerce/assets/help-main-menu.png "Help menu")) in the upper right of any page within Search, Social, & Commerce.
+   See "[About portfolios](/help/search-social-commerce/manage/portfolios/portfolio-about.md)" for optimization support and portfolio statuses.
 
 1. Monitor your portfolios' performance:
 
-   1. Generate advertising insights, which are visual, actionable data about your optimized and active portfolios.
+   1. Use [!UICONTROL Dashboard] > [!UICONTROL Overview] to [review portfolio trends](/help/search-social-commerce/dashboard/dashboard-overview.md), and [view portfolio performance details](/help/search-social-commerce/manage/portfolios/portfolio-details.md) to investigate results and model accuracy.
   
-   1. Set up, and potentially automate, customized reports for performance monitoring.
+   1. [Set up custom alerts](/help/search-social-commerce/common-tasks/alerts-manage.md) and [generate customized reports](/help/search-social-commerce/reports/management/report-manage.md) for performance monitoring. When needed, automate reporting using [report templates](/help/search-social-commerce/reports/report-templates-manage.md) and [spreadsheet feeds](/help/search-social-commerce/reports/spreadsheet-feeds-manage.md).
    
-   For details about running advertising insights and setting up reports, see the help chapter on "Insights & Reports."
+   For more information, see "[Monitor campaign and portfolio performance](/help/search-social-commerce/manage/manage-about.md#monitor-performance)."
 
 1.  (Optional) Configure your [performance data views](/help/search-social-commerce/common-tasks/data-views/data-views-about.md) to show the data that you want to see.
 
@@ -121,4 +125,4 @@ After the initial launch, the following ongoing tasks are required. Depending on
   
   * Add new portfolios.
   
-For instructions on monitoring portfolios and adjusting the portfolio strategies, see the help subchapter "Optimization" > "Managing Portfolios" > "Monitoring and Managing Performance," which is available from the [!UICONTROL Help] menu (![Help menu](/help/search-social-commerce/assets/help-main-menu.png "Help menu")) in the upper right of any page within Search, Social, & Commerce.
+For instructions on monitoring campaigns and portfolios and adjusting their settings, see "[About managing campaigns and portfolios](/help/search-social-commerce/manage/manage-about.md)" and "[Edit portfolio details](/help/search-social-commerce/manage/portfolios/portfolio-edit.md)."
