@@ -175,11 +175,11 @@ Use the search field above the main menu to look for specific menu options, such
 
 The top of each page includes the main menu and other task- and information-based menus.
 
-## The main menu
+### The main menu
 
 * **[!UICONTROL Search, Social, & Commerce]** \> &mdash; To manage your ad network accounts within Search, Social, & Commerce, including accounts for which Search, Social, & Commerce is tracking but not bidding.
 
-## [!UICONTROL Search] menus
+### [!UICONTROL Search] menus
 
 The [!UICONTROL Search] option includes the following submenus. Your role determines your available options:
 
@@ -195,7 +195,7 @@ The [!UICONTROL Search] option includes the following submenus. Your role determ
 
 * **[!UICONTROL Admin]** &mdash; The [!UICONTROL Admin] menu includes options to change the display names of an advertiser's conversion metrics in data tables and reports, configure settings to sync with an Adobe Audience Manager account, and sync conversion metrics for a specific [!DNL Google Analytics] account, property, and view combination. Depending on your role, it may allow you to manage advertiser accounts, agency accounts, user roles, and user accounts.
 
-## Other task- and information-based menus on the right
+### Other task- and information-based menus on the right
 
 * (When applicable) A selectable list of advertisers you're managing.
 
