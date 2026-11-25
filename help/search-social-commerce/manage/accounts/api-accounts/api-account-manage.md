@@ -64,6 +64,22 @@ The available actions depend on your permissions and the account type.
 
 * [Manage data view reports from the [!UICONTROL Accounts] view](#account-reports)
 
+## [!DNL Meta Ads] token extension and expiration notifications {#meta-token-expiration}
+
+For [!DNL Meta Ads] accounts, Search, Social, & Commerce automatically attempts to extend the authentication token 14 days before it expires. If the extension succeeds, no alert is sent and no user action is needed.
+
+If the extension fails, the [!UICONTROL Accounts] view displays a token-expiration warning, and [!UICONTROL Notification Center] sends email notifications to all users with access to the account at 7, 5, 2, and 1 days before expiration.
+
+Each email includes:
+
+* The account name and the number of days until the token expires.
+
+* The authenticated user's name and email address, so recipients know who needs to act.
+
+* A direct link to [re-authenticate the account](#reauthenticate).
+
+* The functionality that will stop working if the token expires.
+
 ## Create ad network account details {#create-account}
 
 To enable syncing of an account, you must create a corresponding account record containing the account access credentials and tracking options and with the status *enabled*.

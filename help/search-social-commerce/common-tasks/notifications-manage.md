@@ -29,6 +29,10 @@ You can configure your notification settings to subscribe to, or unsubscribe fro
 
 You can view your notifications, mark notifications as read or unread, and delete notifications.
 
+>[!NOTE]
+>
+>Email notifications are also sent when a [!DNL Meta Ads] account's authentication token is approaching expiration and automatic token extension fails. These notifications don't use the notification settings described below. For details, see "[Meta token extension and expiration notifications](/help/search-social-commerce/manage/accounts/api-accounts/api-account-manage.md#meta-token-expiration)."
+
 ## Notification types
 
 * **[!UICONTROL Notices]**: Release, downtime, and other change management notices.
