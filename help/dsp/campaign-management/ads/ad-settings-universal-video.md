@@ -38,7 +38,7 @@ topic_v2:
 
 >[!TIP]
 >
-> To check the validity of a VAST tag, paste it into a browser and hit the **[!UICONTROL Enter]** key. If the tag is valid, you'll see an XML file that includes `<VAST>` near the top.
+> Open the QA tag URL in a browser and inspect the response. A VAST document can contain no ad. If it contains a `<Wrapper>`, follow its `<VASTAdTagURI>` until you reach an `<InLine>` ad or the chain ends. Check the final response for a media file suitable for your placement, then test playback in the intended player.
 
 ## [!UICONTROL Ad Options]
 
